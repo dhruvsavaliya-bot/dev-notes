@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 """
-dev-notes trigger (LIVE version)
-Every run fetches something NEW from the internet:
-  - trending-projects : GitHub repos trending this week (GitHub API)
-  - articles          : fresh articles from dev.to
-  - ai                : latest AI/LLM posts from dev.to
-  - coding-tips       : new tips/beginners posts from dev.to
-  - languages         : latest posts about a rotating language tag
+dev-notes trigger (LIVE + quality-filtered + detailed entries)
 
-It never repeats: everything already added is tracked in .content/used.json
-Then it commits and pushes automatically. Uses only Python stdlib.
+Every run fetches something NEW from the internet, with strict quality filters:
+  - trending-projects : GitHub repos created this month with 200+ stars
+  - articles          : dev.to weekly top posts, 50+ reactions, 3+ min read
+  - ai / coding-tips / languages : same filters, topic-specific tags
+
+Each entry is a detailed multi-line block: title, author, stats, tags,
+description, and link. Tracks used.json so nothing ever repeats.
+Commits and pushes automatically. Python stdlib only.
 """
 
 import json
@@ -23,6 +23,13 @@ from pathlib import Path
 REPO = Path(__file__).parent
 USED = REPO / ".content" / "used.json"
 
+# ---------------- quality thresholds (tune these anytime) ----------------
+MIN_REACTIONS = 50        # dev.to: minimum hearts on a post
+MIN_READ_MINUTES = 3      # dev.to: skip short listicles
+MIN_STARS = 200           # GitHub: minimum stars for a trending repo
+TREND_WINDOW_DAYS = 30    # GitHub: how recent a repo must be
+# --------------------------------------------------------------------------
+
 FILES = {
     "coding-tips": REPO / "coding-tips" / "tips.md",
     "languages": REPO / "languages" / "notes.md",
@@ -32,11 +39,11 @@ FILES = {
 }
 
 HEADERS = {
-    "coding-tips": "# Coding Tips\n\nFresh tips and how-tos, added over time.\n",
-    "languages": "# Language Notes\n\nNew posts about programming languages.\n",
-    "ai": "# AI / LLM Notes\n\nLatest AI and LLM articles worth reading.\n",
-    "trending-projects": "# Trending Projects\n\nOpen-source repos trending on GitHub.\n",
-    "articles": "# Reading List\n\nFresh dev articles and blog posts.\n",
+    "coding-tips": "# Coding Tips & Tutorials\n\nHigh-quality tutorials, added over time.\n",
+    "languages": "# Language Notes\n\nTop posts about programming languages.\n",
+    "ai": "# AI / LLM Notes\n\nThe best recent AI and LLM articles.\n",
+    "trending-projects": "# Trending Projects\n\nOpen-source repos blowing up on GitHub.\n",
+    "articles": "# Reading List\n\nThe week's best dev articles.\n",
 }
 
 COMMIT_PREFIX = {
@@ -58,37 +65,54 @@ def get_json(url):
         return json.loads(r.read().decode("utf-8"))
 
 
-# ---------------- fetchers: each returns list of (uid, markdown_line) ----------------
+# ------------- fetchers: each returns list of (uid, detailed_md_block) -------------
 
 def fetch_trending_repos():
-    since = (date.today() - timedelta(days=7)).isoformat()
+    since = (date.today() - timedelta(days=TREND_WINDOW_DAYS)).isoformat()
     url = (
         "https://api.github.com/search/repositories"
-        f"?q=created:>{since}+stars:>50&sort=stars&order=desc&per_page=25"
+        f"?q=created:>{since}+stars:>{MIN_STARS}&sort=stars&order=desc&per_page=30"
     )
-    items = get_json(url).get("items", [])
     out = []
-    for r in items:
-        desc = (r.get("description") or "No description").strip()[:180]
-        line = (
-            f"**[{r['full_name']}]({r['html_url']})** \u2b50 {r['stargazers_count']}"
-            f" \u00b7 {r.get('language') or 'N/A'}  \n  {desc}"
+    for r in get_json(url).get("items", []):
+        desc = (r.get("description") or "No description provided.").strip()
+        topics = ", ".join(r.get("topics", [])[:6]) or "none listed"
+        created = (r.get("created_at") or "")[:10]
+        block = (
+            f"### [{r['full_name']}]({r['html_url']})\n"
+            f"  - Stars: {r['stargazers_count']:,} | Forks: {r['forks_count']:,}"
+            f" | Language: {r.get('language') or 'N/A'} | Created: {created}\n"
+            f"  - Topics: {topics}\n"
+            f"  - What it is: {desc}\n"
+            f"  - Why it matters: gained {r['stargazers_count']:,} stars in under"
+            f" {TREND_WINDOW_DAYS} days, one of the fastest-growing new repos on GitHub right now."
         )
-        out.append((r["html_url"], line))
+        out.append((r["html_url"], block))
     return out
 
 
 def fetch_devto(tag):
-    url = f"https://dev.to/api/articles?tag={tag}&top=7&per_page=25"
-    items = get_json(url)
+    url = f"https://dev.to/api/articles?tag={tag}&top=7&per_page=30"
     out = []
-    for a in items:
-        desc = (a.get("description") or "").strip()[:180]
-        line = (
-            f"**[{a['title']}]({a['url']})** by {a['user']['name']}"
-            f" \u00b7 \u2764\ufe0f {a.get('positive_reactions_count', 0)}  \n  {desc}"
+    for a in get_json(url):
+        reactions = a.get("positive_reactions_count", 0)
+        mins = a.get("reading_time_minutes", 0)
+        if reactions < MIN_REACTIONS or mins < MIN_READ_MINUTES:
+            continue  # quality gate
+        desc = (a.get("description") or "").strip()
+        tags = ", ".join(a.get("tag_list", [])[:6])
+        pub = (a.get("readable_publish_date") or "").strip()
+        comments = a.get("comments_count", 0)
+        block = (
+            f"### [{a['title']}]({a['url']})\n"
+            f"  - Author: {a['user']['name']} | Published: {pub}"
+            f" | Read time: {mins} min\n"
+            f"  - Community: {reactions} reactions, {comments} comments"
+            f" (top-rated this week in #{tag})\n"
+            f"  - Tags: {tags}\n"
+            f"  - Summary: {desc}"
         )
-        out.append((a["url"], line))
+        out.append((a["url"], block))
     return out
 
 
@@ -124,7 +148,7 @@ def main():
     picked = None
     for category in categories:
         try:
-            candidates = [(uid, line) for uid, line in FETCHERS[category]() if uid not in used_ids]
+            candidates = [(u, b) for u, b in FETCHERS[category]() if u not in used_ids]
         except Exception as e:
             print(f"  ({category} source unavailable: {e})")
             continue
@@ -133,24 +157,23 @@ def main():
             break
 
     if not picked:
-        print("No new content found from any source right now. Try again later.")
+        print("No new content passed the quality filters right now. Try again later.")
         sys.exit(0)
 
-    category, uid, line = picked
+    category, uid, block = picked
 
     target = FILES[category]
     if not target.exists():
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_text(HEADERS[category], encoding="utf-8")
     with target.open("a", encoding="utf-8") as f:
-        f.write(f"\n- **{date.today().isoformat()}** \u2014 {line}\n")
+        f.write(f"\n---\n\n**Added {date.today().isoformat()}**\n\n{block}\n")
 
     used_ids.add(uid)
     used["ids"] = sorted(used_ids)
     USED.write_text(json.dumps(used, indent=2), encoding="utf-8")
 
-    # short ASCII-only commit message
-    title = line.split("](")[0].replace("**[", "").replace("**", "")
+    title = block.split("](")[0].replace("### [", "")
     title = title.encode("ascii", "ignore").decode().strip()[:60]
     run("git", "add", "-A")
     run("git", "commit", "-m", f"{COMMIT_PREFIX[category]}: add {title}")
