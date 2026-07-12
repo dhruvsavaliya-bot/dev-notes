@@ -14,3 +14,14 @@ Fresh dev articles and blog posts.
   - Community: 58 reactions, 20 comments (top-rated this week in #programming)
   - Tags: ai, discuss, career, programming
   - Summary: "Show a smile, hide the blade." — The 36 Stratagems, Conceal a Dagger in a Smile      Previously on...
+
+## Web Development
+
+**Added 2026-07-12**
+
+### [I Got Tired of Maintaining Frontend Code. So I Built a Declarative UI Runtime.](https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl)
+- **Author:** Thuangf45 | **Published:** Jul 10 | **Read time:** 16 min
+- **Community:** 57 reactions, 32 comments — a top post of the week in #webdev
+- **Tags:** javascript, webdev, showdev, architecture
+- **Summary:** Here is a question that sounds simple until you've actually shipped a UI: how many files does it take...
+- **Link:** https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl

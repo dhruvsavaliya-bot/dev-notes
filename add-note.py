@@ -1,15 +1,17 @@
 #!/usr/bin/env python3
 """
-dev-notes trigger (LIVE + quality-filtered + detailed entries)
+dev-notes trigger (LIVE + subcategories + detailed entries)
 
-Every run fetches something NEW from the internet, with strict quality filters:
-  - trending-projects : GitHub repos created this month with 200+ stars
-  - articles          : dev.to weekly top posts, 50+ reactions, 3+ min read
-  - ai / coding-tips / languages : same filters, topic-specific tags
+Every run:
+  1. Picks a random category, then a random SUBCATEGORY inside it
+     (e.g. ai -> "Gen AI" / "LLMs" / "Machine Learning")
+  2. Fetches fresh, strictly dev-related content for that subcategory
+     (GitHub API + dev.to topic tags, quality-filtered)
+  3. Files the entry under the matching "## Subcategory" headline
+     inside that category's markdown file (creates headline if new)
+  4. Commits and pushes. Never repeats an item (tracked in used.json).
 
-Each entry is a detailed multi-line block: title, author, stats, tags,
-description, and link. Tracks used.json so nothing ever repeats.
-Commits and pushes automatically. Python stdlib only.
+Python stdlib only. Quality thresholds at the top.
 """
 
 import json
@@ -23,12 +25,12 @@ from pathlib import Path
 REPO = Path(__file__).parent
 USED = REPO / ".content" / "used.json"
 
-# ---------------- quality thresholds (tune these anytime) ----------------
-MIN_REACTIONS = 50        # dev.to: minimum hearts on a post
+# ---------------- quality thresholds (tune anytime) ----------------
+MIN_REACTIONS = 50        # dev.to: minimum hearts
 MIN_READ_MINUTES = 3      # dev.to: skip short listicles
-MIN_STARS = 200           # GitHub: minimum stars for a trending repo
-TREND_WINDOW_DAYS = 30    # GitHub: how recent a repo must be
-# --------------------------------------------------------------------------
+MIN_STARS = 200           # GitHub: minimum stars
+TREND_WINDOW_DAYS = 30    # GitHub: repo must be created within this window
+# ---------------------------------------------------------------------
 
 FILES = {
     "coding-tips": REPO / "coding-tips" / "tips.md",
@@ -38,12 +40,12 @@ FILES = {
     "articles": REPO / "articles" / "reading-list.md",
 }
 
-HEADERS = {
-    "coding-tips": "# Coding Tips & Tutorials\n\nHigh-quality tutorials, added over time.\n",
-    "languages": "# Language Notes\n\nTop posts about programming languages.\n",
-    "ai": "# AI / LLM Notes\n\nThe best recent AI and LLM articles.\n",
-    "trending-projects": "# Trending Projects\n\nOpen-source repos blowing up on GitHub.\n",
-    "articles": "# Reading List\n\nThe week's best dev articles.\n",
+TITLES = {
+    "coding-tips": "# Coding Tips & Tutorials\n\nHigh-quality dev tutorials and guides, organized by level and topic.\n",
+    "languages": "# Language Notes\n\nTop community posts, organized by programming language.\n",
+    "ai": "# AI / LLM Notes\n\nThe best recent AI engineering content, organized by area.\n",
+    "trending-projects": "# Trending Projects\n\nFast-growing open-source repos, organized by domain.\n",
+    "articles": "# Reading List\n\nThe week's best dev articles, organized by field.\n",
 }
 
 COMMIT_PREFIX = {
@@ -54,7 +56,38 @@ COMMIT_PREFIX = {
     "articles": "article",
 }
 
-LANG_TAGS = ["python", "javascript", "typescript", "go", "rust", "java", "sql"]
+# subcategory headline -> dev.to tag (all strictly programming topics)
+SUBCATS = {
+    "ai": {
+        "Gen AI": "generativeai",
+        "LLMs": "llm",
+        "Machine Learning": "machinelearning",
+        "AI Engineering": "ai",
+    },
+    "coding-tips": {
+        "Beginner": "beginners",
+        "Tutorials": "tutorial",
+        "Clean Code & Best Practices": "cleancode",
+        "Productivity": "productivity",
+        "Career & Growth": "career",
+    },
+    "languages": {
+        "Python": "python",
+        "JavaScript": "javascript",
+        "TypeScript": "typescript",
+        "Go": "go",
+        "Rust": "rust",
+        "Java": "java",
+        "SQL & Databases": "sql",
+    },
+    "articles": {
+        "Web Development": "webdev",
+        "Backend": "backend",
+        "DevOps & Cloud": "devops",
+        "Security": "security",
+        "System Design & Architecture": "architecture",
+    },
+}
 
 UA = {"User-Agent": "dev-notes-script"}
 
@@ -65,7 +98,25 @@ def get_json(url):
         return json.loads(r.read().decode("utf-8"))
 
 
-# ------------- fetchers: each returns list of (uid, detailed_md_block) -------------
+# ------------- fetchers: return list of (uid, subcategory, md_block) -------------
+
+def repo_subcat(r):
+    """Classify a GitHub repo into a domain headline."""
+    text = " ".join([
+        (r.get("description") or "").lower(),
+        " ".join(r.get("topics", [])).lower(),
+        (r.get("language") or "").lower(),
+    ])
+    if any(k in text for k in ("llm", " ai ", "ai-", "agent", "gpt", "machine-learning", "ml ", "neural", "rag")):
+        return "AI & Machine Learning"
+    if any(k in text for k in ("react", "frontend", "css", "ui ", "vue", "nextjs", "web app", "browser")):
+        return "Web & Frontend"
+    if any(k in text for k in ("cli", "terminal", "devtool", "editor", "vscode", "productivity", "build")):
+        return "Developer Tools"
+    if any(k in text for k in ("database", "backend", "api", "server", "kubernetes", "docker", "cloud")):
+        return "Backend & Infrastructure"
+    return "Other Cool Projects"
+
 
 def fetch_trending_repos():
     since = (date.today() - timedelta(days=TREND_WINDOW_DAYS)).isoformat()
@@ -78,20 +129,26 @@ def fetch_trending_repos():
         desc = (r.get("description") or "No description provided.").strip()
         topics = ", ".join(r.get("topics", [])[:6]) or "none listed"
         created = (r.get("created_at") or "")[:10]
+        stars_per_day = r["stargazers_count"] // max(
+            1, (date.today() - date.fromisoformat(created)).days
+        )
         block = (
             f"### [{r['full_name']}]({r['html_url']})\n"
-            f"  - Stars: {r['stargazers_count']:,} | Forks: {r['forks_count']:,}"
-            f" | Language: {r.get('language') or 'N/A'} | Created: {created}\n"
-            f"  - Topics: {topics}\n"
-            f"  - What it is: {desc}\n"
-            f"  - Why it matters: gained {r['stargazers_count']:,} stars in under"
-            f" {TREND_WINDOW_DAYS} days, one of the fastest-growing new repos on GitHub right now."
+            f"- **Stats:** {r['stargazers_count']:,} stars | {r['forks_count']:,} forks"
+            f" | {r.get('open_issues_count', 0):,} open issues\n"
+            f"- **Language:** {r.get('language') or 'N/A'} | **Created:** {created}"
+            f" | **License:** {(r.get('license') or {}).get('spdx_id', 'None')}\n"
+            f"- **Topics:** {topics}\n"
+            f"- **What it is:** {desc}\n"
+            f"- **Growth:** averaging ~{stars_per_day:,} stars/day since launch —"
+            f" one of the fastest-growing new repos on GitHub right now.\n"
+            f"- **Link:** {r['html_url']}"
         )
-        out.append((r["html_url"], block))
+        out.append((r["html_url"], repo_subcat(r), block))
     return out
 
 
-def fetch_devto(tag):
+def fetch_devto(tag, subcat_name):
     url = f"https://dev.to/api/articles?tag={tag}&top=7&per_page=30"
     out = []
     for a in get_json(url):
@@ -102,29 +159,61 @@ def fetch_devto(tag):
         desc = (a.get("description") or "").strip()
         tags = ", ".join(a.get("tag_list", [])[:6])
         pub = (a.get("readable_publish_date") or "").strip()
-        comments = a.get("comments_count", 0)
         block = (
             f"### [{a['title']}]({a['url']})\n"
-            f"  - Author: {a['user']['name']} | Published: {pub}"
-            f" | Read time: {mins} min\n"
-            f"  - Community: {reactions} reactions, {comments} comments"
-            f" (top-rated this week in #{tag})\n"
-            f"  - Tags: {tags}\n"
-            f"  - Summary: {desc}"
+            f"- **Author:** {a['user']['name']} | **Published:** {pub}"
+            f" | **Read time:** {mins} min\n"
+            f"- **Community:** {reactions} reactions, {a.get('comments_count', 0)} comments"
+            f" — a top post of the week in #{tag}\n"
+            f"- **Tags:** {tags}\n"
+            f"- **Summary:** {desc}\n"
+            f"- **Link:** {a['url']}"
         )
-        out.append((a["url"], block))
+        out.append((a["url"], subcat_name, block))
     return out
+
+
+def make_devto_fetcher(category):
+    def fetch():
+        name, tag = random.choice(list(SUBCATS[category].items()))
+        return fetch_devto(tag, name)
+    return fetch
 
 
 FETCHERS = {
     "trending-projects": fetch_trending_repos,
-    "articles": lambda: fetch_devto("programming"),
-    "ai": lambda: fetch_devto("ai"),
-    "coding-tips": lambda: fetch_devto("tutorial"),
-    "languages": lambda: fetch_devto(random.choice(LANG_TAGS)),
+    "articles": make_devto_fetcher("articles"),
+    "ai": make_devto_fetcher("ai"),
+    "coding-tips": make_devto_fetcher("coding-tips"),
+    "languages": make_devto_fetcher("languages"),
 }
 
 # --------------------------------------------------------------------------------------
+
+
+def insert_under_headline(path, title_block, subcat, entry):
+    """Place entry under '## subcat' inside the file, creating file/headline as needed."""
+    if path.exists():
+        text = path.read_text(encoding="utf-8")
+    else:
+        path.parent.mkdir(parents=True, exist_ok=True)
+        text = title_block
+
+    stamped = f"\n**Added {date.today().isoformat()}**\n\n{entry}\n"
+    headline = f"## {subcat}"
+
+    if headline in text:
+        # insert at the end of this section (before next '## ' or EOF)
+        start = text.index(headline)
+        nxt = text.find("\n## ", start + len(headline))
+        if nxt == -1:
+            text = text.rstrip() + "\n" + stamped
+        else:
+            text = text[:nxt].rstrip() + "\n" + stamped + "\n" + text[nxt:]
+    else:
+        text = text.rstrip() + f"\n\n{headline}\n" + stamped
+
+    path.write_text(text, encoding="utf-8")
 
 
 def run(*cmd):
@@ -148,7 +237,9 @@ def main():
     picked = None
     for category in categories:
         try:
-            candidates = [(u, b) for u, b in FETCHERS[category]() if u not in used_ids]
+            candidates = [
+                (u, s, b) for u, s, b in FETCHERS[category]() if u not in used_ids
+            ]
         except Exception as e:
             print(f"  ({category} source unavailable: {e})")
             continue
@@ -160,26 +251,21 @@ def main():
         print("No new content passed the quality filters right now. Try again later.")
         sys.exit(0)
 
-    category, uid, block = picked
+    category, uid, subcat, block = picked
 
-    target = FILES[category]
-    if not target.exists():
-        target.parent.mkdir(parents=True, exist_ok=True)
-        target.write_text(HEADERS[category], encoding="utf-8")
-    with target.open("a", encoding="utf-8") as f:
-        f.write(f"\n---\n\n**Added {date.today().isoformat()}**\n\n{block}\n")
+    insert_under_headline(FILES[category], TITLES[category], subcat, block)
 
     used_ids.add(uid)
     used["ids"] = sorted(used_ids)
     USED.write_text(json.dumps(used, indent=2), encoding="utf-8")
 
     title = block.split("](")[0].replace("### [", "")
-    title = title.encode("ascii", "ignore").decode().strip()[:60]
+    title = title.encode("ascii", "ignore").decode().strip()[:55]
     run("git", "add", "-A")
-    run("git", "commit", "-m", f"{COMMIT_PREFIX[category]}: add {title}")
+    run("git", "commit", "-m", f"{COMMIT_PREFIX[category]}: [{subcat}] {title}")
     run("git", "push", "origin", "main")
 
-    print(f"OK  Added to {category}: {title}")
+    print(f"OK  {category} -> {subcat}: {title}")
 
 
 if __name__ == "__main__":
