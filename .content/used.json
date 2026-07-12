@@ -1,0 +1,5 @@
+{
+  "languages": [
+    "Bash: always quote your variables \u00e2\u20ac\u201d `\"$file\"` \u00e2\u20ac\u201d or spaces in filenames will ruin your day."
+  ]
+}
