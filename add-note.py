@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-dev-notes trigger
+dev-notes trigger (Windows-safe, UTF-8)
 Run this script -> it picks one unused item from the content pool,
 appends it to the right markdown file, commits, and pushes.
 Each run = one meaningful commit = one contribution square.
@@ -43,16 +43,23 @@ COMMIT_MSG = {
 
 
 def run(*cmd):
-    r = subprocess.run(cmd, cwd=REPO, capture_output=True, text=True)
+    r = subprocess.run(
+        cmd,
+        cwd=REPO,
+        capture_output=True,
+        text=True,
+        encoding="utf-8",
+        errors="replace",
+    )
     if r.returncode != 0:
-        print(r.stderr.strip() or r.stdout.strip())
+        print((r.stderr or "").strip() or (r.stdout or "").strip())
         sys.exit(1)
-    return r.stdout.strip()
+    return (r.stdout or "").strip()
 
 
 def main():
-    pool = json.loads(POOL.read_text())
-    used = json.loads(USED.read_text()) if USED.exists() else {}
+    pool = json.loads(POOL.read_text(encoding="utf-8"))
+    used = json.loads(USED.read_text(encoding="utf-8")) if USED.exists() else {}
 
     # categories that still have unused content
     available = {
@@ -72,21 +79,22 @@ def main():
     target = FILES[category]
     if not target.exists():
         target.parent.mkdir(parents=True, exist_ok=True)
-        target.write_text(HEADERS[category])
-    with target.open("a") as f:
-        f.write(f"\n- **{date.today().isoformat()}** — {item}\n")
+        target.write_text(HEADERS[category], encoding="utf-8")
+    with target.open("a", encoding="utf-8") as f:
+        f.write(f"\n- **{date.today().isoformat()}** - {item}\n")
 
     # mark as used
     used.setdefault(category, []).append(item)
-    USED.write_text(json.dumps(used, indent=2))
+    USED.write_text(json.dumps(used, indent=2, ensure_ascii=False), encoding="utf-8")
 
-    # commit + push
-    summary = item.split("—")[0].split(".")[0][:50].strip().rstrip("*")
+    # commit + push (ASCII-only commit message to keep Windows happy)
+    summary = item.split("\u2014")[0].split(" - ")[0].split(".")[0][:50]
+    summary = summary.encode("ascii", "ignore").decode().strip().rstrip("*")
     run("git", "add", "-A")
     run("git", "commit", "-m", f"{COMMIT_MSG[category]}: add {summary}")
     run("git", "push", "origin", "main")
 
-    print(f"✅ Added to {category}: {item[:70]}...")
+    print(f"OK  Added to {category}: {item[:70]}...")
 
 
 if __name__ == "__main__":
