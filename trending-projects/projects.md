@@ -33,3 +33,15 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.
 - **Growth:** averaging ~165 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/isjiamu/gzh-design-skill
+
+## Other Cool Projects
+
+**Added 2026-07-13**
+
+### [tamnd/kage](https://github.com/tamnd/kage)
+- **Stats:** 2,741 stars | 104 forks | 11 open issues
+- **Language:** Go | **Created:** 2026-06-14 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Shadow any website for offline viewing, with the JavaScript stripped out
+- **Growth:** averaging ~94 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/tamnd/kage
