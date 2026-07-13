@@ -23,3 +23,13 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** Turn ChatGPT into Codex! OR Turn Claude Web into Claude Code!
 - **Growth:** averaging ~113 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Waishnav/devspace
+
+**Added 2026-07-13**
+
+### [isjiamu/gzh-design-skill](https://github.com/isjiamu/gzh-design-skill)
+- **Stats:** 1,989 stars | 224 forks | 6 open issues
+- **Language:** HTML | **Created:** 2026-07-01 | **License:** NOASSERTION
+- **Topics:** agent-skill, ai-agent, claude-code, codex, cursor, gongzhonghao
+- **What it is:** 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.
+- **Growth:** averaging ~165 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/isjiamu/gzh-design-skill

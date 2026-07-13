@@ -66,10 +66,8 @@ SUBCATS = {
     },
     "coding-tips": {
         "Beginner": "beginners",
-        "Tutorials": "tutorial",
         "Clean Code & Best Practices": "cleancode",
         "Productivity": "productivity",
-        "Career & Growth": "career",
     },
     "languages": {
         "Python": "python",
@@ -173,6 +171,35 @@ def fetch_devto(tag, subcat_name):
     return out
 
 
+MIN_HN_POINTS = 100  # Hacker News: minimum upvotes
+
+
+def fetch_hackernews():
+    """Front-page HN stories - the most heavily curated dev content anywhere."""
+    url = "https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=30"
+    out = []
+    for h in get_json(url).get("hits", []):
+        points = h.get("points") or 0
+        if points < MIN_HN_POINTS:
+            continue  # quality gate
+        story_url = h.get("url") or f"https://news.ycombinator.com/item?id={h['objectID']}"
+        domain = story_url.split("/")[2] if "://" in story_url else "news.ycombinator.com"
+        hn_link = f"https://news.ycombinator.com/item?id={h['objectID']}"
+        created = (h.get("created_at") or "")[:10]
+        block = (
+            f"### [{h['title']}]({story_url})\n"
+            f"- **Source:** {domain} | **Posted:** {created} | **By:** {h.get('author', 'unknown')}\n"
+            f"- **Community:** {points} points, {h.get('num_comments', 0)} comments"
+            f" on Hacker News front page\n"
+            f"- **Why it's here:** HN front page is the most competitive dev content"
+            f" filter on the internet - only ~30 stories/day make it out of thousands.\n"
+            f"- **Discussion:** {hn_link}\n"
+            f"- **Link:** {story_url}"
+        )
+        out.append((hn_link, "Hacker News Picks", block))
+    return out
+
+
 def make_devto_fetcher(category):
     def fetch():
         name, tag = random.choice(list(SUBCATS[category].items()))
@@ -180,11 +207,22 @@ def make_devto_fetcher(category):
     return fetch
 
 
+def mixed_fetcher(category, hn_chance):
+    """Sometimes pull from Hacker News instead of dev.to for extra quality."""
+    devto = make_devto_fetcher(category)
+
+    def fetch():
+        if random.random() < hn_chance:
+            return fetch_hackernews()
+        return devto()
+    return fetch
+
+
 FETCHERS = {
     "trending-projects": fetch_trending_repos,
-    "articles": make_devto_fetcher("articles"),
+    "articles": mixed_fetcher("articles", hn_chance=0.5),
     "ai": make_devto_fetcher("ai"),
-    "coding-tips": make_devto_fetcher("coding-tips"),
+    "coding-tips": mixed_fetcher("coding-tips", hn_chance=0.35),
     "languages": make_devto_fetcher("languages"),
 }
 
