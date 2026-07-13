@@ -55,3 +55,13 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）
 - **Growth:** averaging ~140 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/bozhouDev/codex-orange-book
+
+**Added 2026-07-13**
+
+### [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
+- **Stats:** 14,144 stars | 1,191 forks | 54 open issues
+- **Language:** Python | **Created:** 2026-06-18 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+- **Growth:** averaging ~565 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/baidu/Unlimited-OCR
