@@ -45,3 +45,13 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** Shadow any website for offline viewing, with the JavaScript stripped out
 - **Growth:** averaging ~94 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/tamnd/kage
+
+**Added 2026-07-13**
+
+### [bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)
+- **Stats:** 2,806 stars | 277 forks | 6 open issues
+- **Language:** HTML | **Created:** 2026-06-23 | **License:** None
+- **Topics:** none listed
+- **What it is:** Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）
+- **Growth:** averaging ~140 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/bozhouDev/codex-orange-book
