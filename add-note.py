@@ -254,18 +254,81 @@ def insert_under_headline(path, title_block, subcat, entry):
     path.write_text(text, encoding="utf-8")
 
 
+def notify(msg):
+    """Non-blocking Windows popup (auto-closes in 10s). Silent no-op elsewhere."""
+    try:
+        subprocess.run(
+            ["powershell", "-NoProfile", "-Command",
+             f"(New-Object -ComObject Wscript.Shell).Popup('{msg}',10,'dev-notes',48)"],
+            capture_output=True, timeout=15,
+        )
+    except Exception:
+        pass
+
+
+def fail(context, detail):
+    print(f"FAILED at {context}: {detail}")
+    notify(f"dev-notes failed at {context}. Check .content/auto-log.txt")
+    sys.exit(1)
+
+
 def run(*cmd):
     r = subprocess.run(
         cmd, cwd=REPO, capture_output=True, text=True,
         encoding="utf-8", errors="replace",
     )
     if r.returncode != 0:
-        print((r.stderr or "").strip() or (r.stdout or "").strip())
-        sys.exit(1)
+        fail(" ".join(cmd[:2]), (r.stderr or r.stdout or "").strip()[:300])
     return (r.stdout or "").strip()
 
 
+README_ORDER = ["trending-projects", "ai", "articles", "coding-tips", "languages"]
+README_LABELS = {
+    "trending-projects": "Trending Projects",
+    "ai": "AI / LLM Notes",
+    "articles": "Reading List",
+    "coding-tips": "Coding Tips",
+    "languages": "Language Notes",
+}
+
+
+def update_readme(recent):
+    counts = {}
+    for cat, path in FILES.items():
+        counts[cat] = path.read_text(encoding="utf-8").count("### [") if path.exists() else 0
+    total = sum(counts.values())
+
+    rows = "\n".join(
+        f"| [{README_LABELS[c]}]({FILES[c].relative_to(REPO).as_posix()}) | {counts[c]} |"
+        for c in README_ORDER
+    )
+    latest = "\n".join(
+        f"- **{e['date']}** \u00b7 *{e['subcat']}* \u2014 [{e['title']}]({e['url']})"
+        for e in reversed(recent[-3:])
+    ) or "- (first entries coming soon)"
+
+    readme = (
+        "# \U0001F4DA dev-notes\n\n"
+        "Auto-curated developer knowledge base \u2014 fresh content added **twice daily**\n"
+        "from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.\n\n"
+        f"**{total} entries and counting** \u00b7 Last updated: {date.today().isoformat()}\n\n"
+        "## Categories\n\n"
+        "| Section | Entries |\n|---|---|\n"
+        f"{rows}\n\n"
+        "## Latest additions\n\n"
+        f"{latest}\n\n"
+        "## How it works\n\n"
+        "A Python script runs on a schedule, pulls the highest-signal new dev content\n"
+        "(quality-filtered by stars, points, and reactions), files each item under a\n"
+        "topic headline, and commits it here. No duplicates \u2014 every entry is tracked.\n"
+    )
+    (REPO / "README.md").write_text(readme, encoding="utf-8")
+
+
 def main():
+    # sync first so edits made elsewhere (e.g. GitHub web) never break the push
+    run("git", "pull", "--rebase", "origin", "main")
+
     used = json.loads(USED.read_text(encoding="utf-8")) if USED.exists() else {}
     used_ids = set(used.get("ids", []))
 
@@ -293,12 +356,25 @@ def main():
 
     insert_under_headline(FILES[category], TITLES[category], subcat, block)
 
+    title = block.split("](")[0].replace("### [", "")
+    title = title.encode("ascii", "ignore").decode().strip()[:55]
+
+    # track recent entries + refresh README dashboard
+    recent = used.get("recent", [])
+    recent.append({
+        "date": date.today().isoformat(),
+        "subcat": subcat,
+        "title": title,
+        "url": uid,
+    })
+    used["recent"] = recent[-10:]
+
     used_ids.add(uid)
     used["ids"] = sorted(used_ids)
     USED.write_text(json.dumps(used, indent=2), encoding="utf-8")
 
-    title = block.split("](")[0].replace("### [", "")
-    title = title.encode("ascii", "ignore").decode().strip()[:55]
+    update_readme(used["recent"])
+
     run("git", "add", "-A")
     run("git", "commit", "-m", f"{COMMIT_PREFIX[category]}: [{subcat}] {title}")
     run("git", "push", "origin", "main")
