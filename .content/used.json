@@ -6,6 +6,7 @@
     "Prompting: show the model 2-3 examples of the exact output format you want. Few-shot beats long instructions."
   ],
   "ids": [
+    "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1",
     "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
     "https://dev.to/xulingfeng/stratagems-10-lena-watched-a-team-adopt-her-ai-template-leo-didnt-know-the-knife-was-in-the-4khj",
     "https://dev.to/xulingfeng/stratagems-9-lena-and-p-watched-two-ai-suppliers-fight-the-logs-said-neither-was-clean-2pj3",
@@ -13,5 +14,13 @@
     "https://github.com/cloudflare/security-audit-skill",
     "https://github.com/isjiamu/gzh-design-skill",
     "https://github.com/tamnd/kage"
+  ],
+  "recent": [
+    {
+      "date": "2026-07-13",
+      "subcat": "Productivity",
+      "title": "you stopped reading the docs. now you don't understand ",
+      "url": "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1"
+    }
   ]
 }
