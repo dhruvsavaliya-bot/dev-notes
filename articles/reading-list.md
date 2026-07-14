@@ -25,3 +25,14 @@ Fresh dev articles and blog posts.
 - **Tags:** javascript, webdev, showdev, architecture
 - **Summary:** Here is a question that sounds simple until you've actually shipped a UI: how many files does it take...
 - **Link:** https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl
+
+## Hacker News Picks
+
+**Added 2026-07-14**
+
+### [Building and shipping Mac and iOS apps without opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/)
+- **Source:** scottwillsey.com | **Posted:** 2026-07-13 | **By:** speckx
+- **Community:** 381 points, 169 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=48896665
+- **Link:** https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/
