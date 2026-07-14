@@ -65,3 +65,13 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - **Growth:** averaging ~565 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/baidu/Unlimited-OCR
+
+**Added 2026-07-14**
+
+### [x4gKing/X4G](https://github.com/x4gKing/X4G)
+- **Stats:** 5,064 stars | 9,436 forks | 15 open issues
+- **Language:** Python | **Created:** 2026-07-04 | **License:** None
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~506 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/x4gKing/X4G

@@ -15,7 +15,8 @@
     "https://github.com/bozhouDev/codex-orange-book",
     "https://github.com/cloudflare/security-audit-skill",
     "https://github.com/isjiamu/gzh-design-skill",
-    "https://github.com/tamnd/kage"
+    "https://github.com/tamnd/kage",
+    "https://github.com/x4gKing/X4G"
   ],
   "recent": [
     {
@@ -35,6 +36,12 @@
       "subcat": "Other Cool Projects",
       "title": "baidu/Unlimited-OCR",
       "url": "https://github.com/baidu/Unlimited-OCR"
+    },
+    {
+      "date": "2026-07-14",
+      "subcat": "Other Cool Projects",
+      "title": "x4gKing/X4G",
+      "url": "https://github.com/x4gKing/X4G"
     }
   ]
 }
