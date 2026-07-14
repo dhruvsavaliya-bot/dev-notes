@@ -309,7 +309,7 @@ def update_readme(recent):
 
     readme = (
         "# \U0001F4DA dev-notes\n\n"
-        "Auto-curated developer knowledge base \u2014 fresh content added **twice daily**\n"
+        "Auto-curated developer knowledge base \u2014 fresh content added **four times daily**\n"
         "from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.\n\n"
         f"**{total} entries and counting** \u00b7 Last updated: {date.today().isoformat()}\n\n"
         "## Categories\n\n"
