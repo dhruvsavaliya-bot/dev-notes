@@ -325,9 +325,23 @@ def update_readme(recent):
     (REPO / "README.md").write_text(readme, encoding="utf-8")
 
 
+def sync():
+    """Pull latest, tolerating a dirty working tree.
+
+    An unattended run must never wedge itself on leftover uncommitted
+    changes (a manual edit, a half-finished run). If the tree is dirty we
+    stash those changes aside — recoverable with `git stash list` — and
+    proceed, rather than letting `git pull --rebase` abort the whole run.
+    """
+    if run("git", "status", "--porcelain"):
+        print("  (working tree dirty at start; stashing aside before pull)")
+        run("git", "stash", "push", "-u", "-m", "dev-notes auto-stash before sync")
+    run("git", "pull", "--rebase", "origin", "main")
+
+
 def main():
     # sync first so edits made elsewhere (e.g. GitHub web) never break the push
-    run("git", "pull", "--rebase", "origin", "main")
+    sync()
 
     used = json.loads(USED.read_text(encoding="utf-8")) if USED.exists() else {}
     used_ids = set(used.get("ids", []))
