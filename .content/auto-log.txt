@@ -1,2 +1,0 @@
-OK  trending-projects -> AI & Machine Learning: Waishnav/devspace
-OK  trending-projects -> Other Cool Projects: tamnd/kage

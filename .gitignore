@@ -1,0 +1,3 @@
+# Runtime log written during scheduled runs — must NOT be tracked,
+# otherwise it dirties the working tree and blocks `git pull --rebase`.
+.content/auto-log.txt
