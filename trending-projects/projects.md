@@ -85,3 +85,13 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 - **Growth:** averaging ~367 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/deepseek-ai/DeepSpec
+
+**Added 2026-07-14**
+
+### [google-research/tabfm](https://github.com/google-research/tabfm)
+- **Stats:** 1,745 stars | 164 forks | 23 open issues
+- **Language:** Python | **Created:** 2026-06-16 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~62 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/google-research/tabfm

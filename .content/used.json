@@ -15,6 +15,7 @@
     "https://github.com/bozhouDev/codex-orange-book",
     "https://github.com/cloudflare/security-audit-skill",
     "https://github.com/deepseek-ai/DeepSpec",
+    "https://github.com/google-research/tabfm",
     "https://github.com/isjiamu/gzh-design-skill",
     "https://github.com/tamnd/kage",
     "https://github.com/x4gKing/X4G",
@@ -63,6 +64,12 @@
       "subcat": "Hacker News Picks",
       "title": "Linux on the Sega 32X. Who needs hardware synchronizati",
       "url": "https://news.ycombinator.com/item?id=48896600"
+    },
+    {
+      "date": "2026-07-14",
+      "subcat": "Other Cool Projects",
+      "title": "google-research/tabfm",
+      "url": "https://github.com/google-research/tabfm"
     }
   ]
 }
