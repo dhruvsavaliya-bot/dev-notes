@@ -75,3 +75,13 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** No description provided.
 - **Growth:** averaging ~506 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/x4gKing/X4G
+
+**Added 2026-07-14**
+
+### [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)
+- **Stats:** 6,622 stars | 593 forks | 46 open issues
+- **Language:** Python | **Created:** 2026-06-26 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
+- **Growth:** averaging ~367 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/deepseek-ai/DeepSpec
