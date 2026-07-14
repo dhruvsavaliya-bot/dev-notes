@@ -18,6 +18,7 @@
     "https://github.com/isjiamu/gzh-design-skill",
     "https://github.com/tamnd/kage",
     "https://github.com/x4gKing/X4G",
+    "https://news.ycombinator.com/item?id=48896600",
     "https://news.ycombinator.com/item?id=48896665"
   ],
   "recent": [
@@ -56,6 +57,12 @@
       "subcat": "Other Cool Projects",
       "title": "deepseek-ai/DeepSpec",
       "url": "https://github.com/deepseek-ai/DeepSpec"
+    },
+    {
+      "date": "2026-07-14",
+      "subcat": "Hacker News Picks",
+      "title": "Linux on the Sega 32X. Who needs hardware synchronizati",
+      "url": "https://news.ycombinator.com/item?id=48896600"
     }
   ]
 }
