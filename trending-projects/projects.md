@@ -34,6 +34,17 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~165 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/isjiamu/gzh-design-skill
 
+**Added 2026-07-14**
+
+### [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector)
+- **Stats:** 2,144 stars | 144 forks | 2 open issues
+- **Language:** TypeScript | **Created:** 2026-06-29 | **License:** Apache-2.0
+- **Topics:** agent-tools, ai-agents, api-gateway, automation, cli, cloudflare-workers
+- **What it is:** Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+- **Growth:** averaging ~142 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/oomol-lab/open-connector
+
+
 ## Other Cool Projects
 
 **Added 2026-07-13**
