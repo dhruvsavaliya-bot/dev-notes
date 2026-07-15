@@ -107,6 +107,17 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~62 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/google-research/tabfm
 
+**Added 2026-07-15**
+
+### [bikini/exploitarium](https://github.com/bikini/exploitarium)
+- **Stats:** 3,918 stars | 1,132 forks | 6 open issues
+- **Language:** Python | **Created:** 2026-06-23 | **License:** None
+- **Topics:** none listed
+- **What it is:** A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.
+- **Growth:** averaging ~178 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/bikini/exploitarium
+
+
 ## Web & Frontend
 
 **Added 2026-07-15**

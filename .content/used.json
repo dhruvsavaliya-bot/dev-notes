@@ -14,6 +14,7 @@
     "https://github.com/Shpigford/knockoff",
     "https://github.com/Waishnav/devspace",
     "https://github.com/baidu/Unlimited-OCR",
+    "https://github.com/bikini/exploitarium",
     "https://github.com/bozhouDev/codex-orange-book",
     "https://github.com/cloudflare/security-audit-skill",
     "https://github.com/deepseek-ai/DeepSpec",
@@ -26,12 +27,6 @@
     "https://news.ycombinator.com/item?id=48896665"
   ],
   "recent": [
-    {
-      "date": "2026-07-13",
-      "subcat": "Other Cool Projects",
-      "title": "bozhouDev/codex-orange-book",
-      "url": "https://github.com/bozhouDev/codex-orange-book"
-    },
     {
       "date": "2026-07-13",
       "subcat": "Other Cool Projects",
@@ -85,6 +80,12 @@
       "subcat": "Web & Frontend",
       "title": "Shpigford/knockoff",
       "url": "https://github.com/Shpigford/knockoff"
+    },
+    {
+      "date": "2026-07-15",
+      "subcat": "Other Cool Projects",
+      "title": "bikini/exploitarium",
+      "url": "https://github.com/bikini/exploitarium"
     }
   ]
 }
