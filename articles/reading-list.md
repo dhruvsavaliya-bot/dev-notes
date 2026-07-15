@@ -36,3 +36,14 @@ Fresh dev articles and blog posts.
 - **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
 - **Discussion:** https://news.ycombinator.com/item?id=48896665
 - **Link:** https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/
+
+## DevOps & Cloud
+
+**Added 2026-07-15**
+
+### [I Deleted 200 Lines of Code I Didn't Write and Learned More Than When I Wrote It...](https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd)
+- **Author:** Gamya  | **Published:** Jul 9 | **Read time:** 5 min
+- **Community:** 60 reactions, 36 comments — a top post of the week in #devops
+- **Tags:** devops, programming, ai, career
+- **Summary:** Quick note before we dive in — I know I've been off track from the iOS/Swift series lately. I just...
+- **Link:** https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd

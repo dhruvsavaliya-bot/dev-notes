@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**18 entries and counting** · Last updated: 2026-07-15
+**19 entries and counting** · Last updated: 2026-07-15
 
 ## Categories
 
@@ -11,15 +11,15 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 12 |
 | [AI / LLM Notes](ai/notes.md) | 1 |
-| [Reading List](articles/reading-list.md) | 3 |
+| [Reading List](articles/reading-list.md) | 4 |
 | [Coding Tips](coding-tips/tips.md) | 2 |
 | [Language Notes](languages/notes.md) | 0 |
 
 ## Latest additions
 
+- **2026-07-15** · *DevOps & Cloud* — [I Deleted 200 Lines of Code I Didn't Write and Learned ](https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd)
 - **2026-07-15** · *Other Cool Projects* — [bikini/exploitarium](https://github.com/bikini/exploitarium)
 - **2026-07-15** · *Web & Frontend* — [Shpigford/knockoff](https://github.com/Shpigford/knockoff)
-- **2026-07-15** · *AI Engineering* — [The Myth of the Post-Documentation Era](https://dev.to/ben/the-myth-of-the-post-documentation-era-39al)
 
 ## How it works
 
