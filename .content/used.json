@@ -6,6 +6,7 @@
     "Prompting: show the model 2-3 examples of the exact output format you want. Few-shot beats long instructions."
   ],
   "ids": [
+    "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
     "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1",
     "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
     "https://dev.to/xulingfeng/stratagems-10-lena-watched-a-team-adopt-her-ai-template-leo-didnt-know-the-knife-was-in-the-4khj",
@@ -77,6 +78,12 @@
       "subcat": "AI & Machine Learning",
       "title": "oomol-lab/open-connector",
       "url": "https://github.com/oomol-lab/open-connector"
+    },
+    {
+      "date": "2026-07-15",
+      "subcat": "AI Engineering",
+      "title": "The Myth of the Post-Documentation Era",
+      "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al"
     }
   ]
 }
