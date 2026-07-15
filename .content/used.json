@@ -11,6 +11,7 @@
     "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
     "https://dev.to/xulingfeng/stratagems-10-lena-watched-a-team-adopt-her-ai-template-leo-didnt-know-the-knife-was-in-the-4khj",
     "https://dev.to/xulingfeng/stratagems-9-lena-and-p-watched-two-ai-suppliers-fight-the-logs-said-neither-was-clean-2pj3",
+    "https://github.com/Shpigford/knockoff",
     "https://github.com/Waishnav/devspace",
     "https://github.com/baidu/Unlimited-OCR",
     "https://github.com/bozhouDev/codex-orange-book",
@@ -25,12 +26,6 @@
     "https://news.ycombinator.com/item?id=48896665"
   ],
   "recent": [
-    {
-      "date": "2026-07-13",
-      "subcat": "Productivity",
-      "title": "you stopped reading the docs. now you don't understand ",
-      "url": "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1"
-    },
     {
       "date": "2026-07-13",
       "subcat": "Other Cool Projects",
@@ -84,6 +79,12 @@
       "subcat": "AI Engineering",
       "title": "The Myth of the Post-Documentation Era",
       "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al"
+    },
+    {
+      "date": "2026-07-15",
+      "subcat": "Web & Frontend",
+      "title": "Shpigford/knockoff",
+      "url": "https://github.com/Shpigford/knockoff"
     }
   ]
 }

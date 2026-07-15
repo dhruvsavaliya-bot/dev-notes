@@ -106,3 +106,15 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** No description provided.
 - **Growth:** averaging ~62 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/google-research/tabfm
+
+## Web & Frontend
+
+**Added 2026-07-15**
+
+### [Shpigford/knockoff](https://github.com/Shpigford/knockoff)
+- **Stats:** 1,905 stars | 64 forks | 12 open issues
+- **Language:** JavaScript | **Created:** 2026-07-06 | **License:** NOASSERTION
+- **Topics:** amazon, browser-extension, chrome-extension, firefox-addon, ios-extension, safari-extension
+- **What it is:** Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.
+- **Growth:** averaging ~211 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/Shpigford/knockoff
