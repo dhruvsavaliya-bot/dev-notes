@@ -44,6 +44,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~142 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/oomol-lab/open-connector
 
+**Added 2026-07-16**
+
+### [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)
+- **Stats:** 11,737 stars | 809 forks | 118 open issues
+- **Language:** TypeScript | **Created:** 2026-06-22 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
+- **Growth:** averaging ~489 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/langchain-ai/openwiki
+
 
 ## Other Cool Projects
 
