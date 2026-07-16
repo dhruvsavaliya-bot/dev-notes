@@ -23,3 +23,12 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
 - **Discussion:** https://news.ycombinator.com/item?id=48896600
 - **Link:** https://cakehonolulu.github.io/linux-on-32x/
+
+**Added 2026-07-16**
+
+### [Grok Build is open source](https://github.com/xai-org/grok-build)
+- **Source:** github.com | **Posted:** 2026-07-15 | **By:** skp1995
+- **Community:** 329 points, 368 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=48926590
+- **Link:** https://github.com/xai-org/grok-build

@@ -25,15 +25,10 @@
     "https://github.com/tamnd/kage",
     "https://github.com/x4gKing/X4G",
     "https://news.ycombinator.com/item?id=48896600",
-    "https://news.ycombinator.com/item?id=48896665"
+    "https://news.ycombinator.com/item?id=48896665",
+    "https://news.ycombinator.com/item?id=48926590"
   ],
   "recent": [
-    {
-      "date": "2026-07-14",
-      "subcat": "Other Cool Projects",
-      "title": "x4gKing/X4G",
-      "url": "https://github.com/x4gKing/X4G"
-    },
     {
       "date": "2026-07-14",
       "subcat": "Hacker News Picks",
@@ -87,6 +82,12 @@
       "subcat": "DevOps & Cloud",
       "title": "I Deleted 200 Lines of Code I Didn't Write and Learned ",
       "url": "https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd"
+    },
+    {
+      "date": "2026-07-16",
+      "subcat": "Hacker News Picks",
+      "title": "Grok Build is open source",
+      "url": "https://news.ycombinator.com/item?id=48926590"
     }
   ]
 }
