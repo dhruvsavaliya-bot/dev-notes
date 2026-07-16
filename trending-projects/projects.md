@@ -117,6 +117,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~178 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/bikini/exploitarium
 
+**Added 2026-07-16**
+
+### [Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)
+- **Stats:** 2,078 stars | 203 forks | 3 open issues
+- **Language:** N/A | **Created:** 2026-06-28 | **License:** None
+- **Topics:** none listed
+- **What it is:** Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering
+- **Growth:** averaging ~115 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/Krishnagangwal/CS-Fundamentals
+
 
 ## Web & Frontend
 

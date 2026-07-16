@@ -12,6 +12,7 @@
     "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
     "https://dev.to/xulingfeng/stratagems-10-lena-watched-a-team-adopt-her-ai-template-leo-didnt-know-the-knife-was-in-the-4khj",
     "https://dev.to/xulingfeng/stratagems-9-lena-and-p-watched-two-ai-suppliers-fight-the-logs-said-neither-was-clean-2pj3",
+    "https://github.com/Krishnagangwal/CS-Fundamentals",
     "https://github.com/Shpigford/knockoff",
     "https://github.com/Waishnav/devspace",
     "https://github.com/baidu/Unlimited-OCR",
@@ -29,12 +30,6 @@
     "https://news.ycombinator.com/item?id=48926590"
   ],
   "recent": [
-    {
-      "date": "2026-07-14",
-      "subcat": "Hacker News Picks",
-      "title": "Building and shipping Mac and iOS apps without opening ",
-      "url": "https://news.ycombinator.com/item?id=48896665"
-    },
     {
       "date": "2026-07-14",
       "subcat": "Other Cool Projects",
@@ -88,6 +83,12 @@
       "subcat": "Hacker News Picks",
       "title": "Grok Build is open source",
       "url": "https://news.ycombinator.com/item?id=48926590"
+    },
+    {
+      "date": "2026-07-16",
+      "subcat": "Other Cool Projects",
+      "title": "Krishnagangwal/CS-Fundamentals",
+      "url": "https://github.com/Krishnagangwal/CS-Fundamentals"
     }
   ]
 }
