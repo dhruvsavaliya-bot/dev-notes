@@ -32,3 +32,14 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
 - **Discussion:** https://news.ycombinator.com/item?id=48926590
 - **Link:** https://github.com/xai-org/grok-build
+
+## Beginner
+
+**Added 2026-07-16**
+
+### [Como escolher eventos de tecnologia para participar](https://dev.to/he4rt/como-escolher-eventos-de-tecnologia-para-participar-55kf)
+- **Author:** vitoriazzp | **Published:** Jul 13 | **Read time:** 3 min
+- **Community:** 136 reactions, 2 comments — a top post of the week in #beginners
+- **Tags:** beginners, braziliandevs, networking, career
+- **Summary:** Quando comecei a ir a eventos de tecnologia, estava na faculdade e ia a todos os gratuitos ou que...
+- **Link:** https://dev.to/he4rt/como-escolher-eventos-de-tecnologia-para-participar-55kf

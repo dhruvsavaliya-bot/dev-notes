@@ -9,6 +9,7 @@
     "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
     "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1",
     "https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd",
+    "https://dev.to/he4rt/como-escolher-eventos-de-tecnologia-para-participar-55kf",
     "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
     "https://dev.to/xulingfeng/stratagems-10-lena-watched-a-team-adopt-her-ai-template-leo-didnt-know-the-knife-was-in-the-4khj",
     "https://dev.to/xulingfeng/stratagems-9-lena-and-p-watched-two-ai-suppliers-fight-the-logs-said-neither-was-clean-2pj3",
@@ -31,12 +32,6 @@
     "https://news.ycombinator.com/item?id=48926590"
   ],
   "recent": [
-    {
-      "date": "2026-07-14",
-      "subcat": "Hacker News Picks",
-      "title": "Linux on the Sega 32X. Who needs hardware synchronizati",
-      "url": "https://news.ycombinator.com/item?id=48896600"
-    },
     {
       "date": "2026-07-14",
       "subcat": "Other Cool Projects",
@@ -90,6 +85,12 @@
       "subcat": "AI & Machine Learning",
       "title": "langchain-ai/openwiki",
       "url": "https://github.com/langchain-ai/openwiki"
+    },
+    {
+      "date": "2026-07-16",
+      "subcat": "Beginner",
+      "title": "Como escolher eventos de tecnologia para participar",
+      "url": "https://dev.to/he4rt/como-escolher-eventos-de-tecnologia-para-participar-55kf"
     }
   ]
 }
