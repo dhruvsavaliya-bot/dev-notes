@@ -147,6 +147,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~942 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/JustVugg/colibri
 
+**Added 2026-07-17**
+
+### [oso95/scroll-world](https://github.com/oso95/scroll-world)
+- **Stats:** 3,008 stars | 375 forks | 3 open issues
+- **Language:** JavaScript | **Created:** 2026-07-06 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** A skill that turn any brand into a scrollable 3D world
+- **Growth:** averaging ~273 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/oso95/scroll-world
+
 
 ## Web & Frontend
 
