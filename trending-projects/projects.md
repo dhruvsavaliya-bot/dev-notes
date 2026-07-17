@@ -137,6 +137,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~115 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Krishnagangwal/CS-Fundamentals
 
+**Added 2026-07-17**
+
+### [JustVugg/colibri](https://github.com/JustVugg/colibri)
+- **Stats:** 15,085 stars | 1,324 forks | 44 open issues
+- **Language:** C | **Created:** 2026-07-01 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+- **Growth:** averaging ~942 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/JustVugg/colibri
+
 
 ## Web & Frontend
 
