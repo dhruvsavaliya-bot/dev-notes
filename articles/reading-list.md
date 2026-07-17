@@ -37,6 +37,16 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=48896665
 - **Link:** https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/
 
+**Added 2026-07-17**
+
+### [Decoy Font](https://www.mixfont.com/experiments/decoy-font)
+- **Source:** www.mixfont.com | **Posted:** 2026-07-16 | **By:** ray__
+- **Community:** 574 points, 136 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=48936584
+- **Link:** https://www.mixfont.com/experiments/decoy-font
+
+
 ## DevOps & Cloud
 
 **Added 2026-07-15**

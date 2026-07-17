@@ -32,15 +32,10 @@
     "https://github.com/x4gKing/X4G",
     "https://news.ycombinator.com/item?id=48896600",
     "https://news.ycombinator.com/item?id=48896665",
-    "https://news.ycombinator.com/item?id=48926590"
+    "https://news.ycombinator.com/item?id=48926590",
+    "https://news.ycombinator.com/item?id=48936584"
   ],
   "recent": [
-    {
-      "date": "2026-07-15",
-      "subcat": "Web & Frontend",
-      "title": "Shpigford/knockoff",
-      "url": "https://github.com/Shpigford/knockoff"
-    },
     {
       "date": "2026-07-15",
       "subcat": "Other Cool Projects",
@@ -94,6 +89,12 @@
       "subcat": "Other Cool Projects",
       "title": "Fei-Away/Codex-Dream-Skin",
       "url": "https://github.com/Fei-Away/Codex-Dream-Skin"
+    },
+    {
+      "date": "2026-07-17",
+      "subcat": "Hacker News Picks",
+      "title": "Decoy Font",
+      "url": "https://news.ycombinator.com/item?id=48936584"
     }
   ]
 }
