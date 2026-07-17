@@ -157,6 +157,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~273 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/oso95/scroll-world
 
+**Added 2026-07-17**
+
+### [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)
+- **Stats:** 7,963 stars | 855 forks | 70 open issues
+- **Language:** JavaScript | **Created:** 2026-07-15 | **License:** None
+- **Topics:** none listed
+- **What it is:** Codex Dream Skin
+- **Growth:** averaging ~3,981 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/Fei-Away/Codex-Dream-Skin
+
 
 ## Web & Frontend
 

@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**25 entries and counting** · Last updated: 2026-07-17
+**26 entries and counting** · Last updated: 2026-07-17
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 16 |
+| [Trending Projects](trending-projects/projects.md) | 17 |
 | [AI / LLM Notes](ai/notes.md) | 1 |
 | [Reading List](articles/reading-list.md) | 4 |
 | [Coding Tips](coding-tips/tips.md) | 4 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-07-17** · *Other Cool Projects* — [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)
 - **2026-07-17** · *Other Cool Projects* — [oso95/scroll-world](https://github.com/oso95/scroll-world)
 - **2026-07-17** · *Other Cool Projects* — [JustVugg/colibri](https://github.com/JustVugg/colibri)
-- **2026-07-16** · *Beginner* — [Como escolher eventos de tecnologia para participar](https://dev.to/he4rt/como-escolher-eventos-de-tecnologia-para-participar-55kf)
 
 ## How it works
 
