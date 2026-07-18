@@ -33,6 +33,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=48926590
 - **Link:** https://github.com/xai-org/grok-build
 
+**Added 2026-07-18**
+
+### [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
+- **Source:** goliath32.com | **Posted:** 2026-07-17 | **By:** st_goliath
+- **Community:** 185 points, 56 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=48951461
+- **Link:** https://goliath32.com/blog/z80.html
+
+
 ## Beginner
 
 **Added 2026-07-16**
