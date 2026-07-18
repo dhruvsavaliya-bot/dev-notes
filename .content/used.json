@@ -22,6 +22,7 @@
     "https://github.com/bikini/exploitarium",
     "https://github.com/bozhouDev/codex-orange-book",
     "https://github.com/cloudflare/security-audit-skill",
+    "https://github.com/davidondrej/skills",
     "https://github.com/deepseek-ai/DeepSpec",
     "https://github.com/google-research/tabfm",
     "https://github.com/isjiamu/gzh-design-skill",
@@ -37,12 +38,6 @@
     "https://news.ycombinator.com/item?id=48951461"
   ],
   "recent": [
-    {
-      "date": "2026-07-15",
-      "subcat": "DevOps & Cloud",
-      "title": "I Deleted 200 Lines of Code I Didn't Write and Learned ",
-      "url": "https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd"
-    },
     {
       "date": "2026-07-16",
       "subcat": "Hacker News Picks",
@@ -96,6 +91,12 @@
       "subcat": "Hacker News Picks",
       "title": "The Zilog Z80 has turned 50",
       "url": "https://news.ycombinator.com/item?id=48951461"
+    },
+    {
+      "date": "2026-07-18",
+      "subcat": "AI & Machine Learning",
+      "title": "davidondrej/skills",
+      "url": "https://github.com/davidondrej/skills"
     }
   ]
 }

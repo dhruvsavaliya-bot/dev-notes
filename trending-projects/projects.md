@@ -54,6 +54,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~489 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/langchain-ai/openwiki
 
+**Added 2026-07-18**
+
+### [davidondrej/skills](https://github.com/davidondrej/skills)
+- **Stats:** 2,583 stars | 317 forks | 2 open issues
+- **Language:** Shell | **Created:** 2026-06-24 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** access to david ondrej's personal agent skills
+- **Growth:** averaging ~107 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/davidondrej/skills
+
 
 ## Other Cool Projects
 
