@@ -46,6 +46,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=48936584
 - **Link:** https://www.mixfont.com/experiments/decoy-font
 
+**Added 2026-07-19**
+
+### [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/)
+- **Source:** old.reddit.com | **Posted:** 2026-07-18 | **By:** mbustamanter
+- **Community:** 564 points, 363 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=48957779
+- **Link:** https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/
+
 
 ## DevOps & Cloud
 

@@ -36,15 +36,10 @@
     "https://news.ycombinator.com/item?id=48896665",
     "https://news.ycombinator.com/item?id=48926590",
     "https://news.ycombinator.com/item?id=48936584",
-    "https://news.ycombinator.com/item?id=48951461"
+    "https://news.ycombinator.com/item?id=48951461",
+    "https://news.ycombinator.com/item?id=48957779"
   ],
   "recent": [
-    {
-      "date": "2026-07-16",
-      "subcat": "Other Cool Projects",
-      "title": "Krishnagangwal/CS-Fundamentals",
-      "url": "https://github.com/Krishnagangwal/CS-Fundamentals"
-    },
     {
       "date": "2026-07-16",
       "subcat": "AI & Machine Learning",
@@ -98,6 +93,12 @@
       "subcat": "Other Cool Projects",
       "title": "withmarbleapp/os-taxonomy",
       "url": "https://github.com/withmarbleapp/os-taxonomy"
+    },
+    {
+      "date": "2026-07-19",
+      "subcat": "Hacker News Picks",
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex ",
+      "url": "https://news.ycombinator.com/item?id=48957779"
     }
   ]
 }
