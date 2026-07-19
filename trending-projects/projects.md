@@ -64,6 +64,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~107 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/davidondrej/skills
 
+**Added 2026-07-19**
+
+### [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)
+- **Stats:** 4,966 stars | 1,036 forks | 10 open issues
+- **Language:** TypeScript | **Created:** 2026-07-02 | **License:** AGPL-3.0
+- **Topics:** agents, ai, multi-agent, offensive-security, redteam
+- **What it is:** autonomous red teaming platform; multi-agent offensive-security meta-harness
+- **Growth:** averaging ~292 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/elder-plinius/T3MP3ST
+
 
 ## Other Cool Projects
 

@@ -24,6 +24,7 @@
     "https://github.com/cloudflare/security-audit-skill",
     "https://github.com/davidondrej/skills",
     "https://github.com/deepseek-ai/DeepSpec",
+    "https://github.com/elder-plinius/T3MP3ST",
     "https://github.com/google-research/tabfm",
     "https://github.com/isjiamu/gzh-design-skill",
     "https://github.com/langchain-ai/openwiki",
@@ -40,12 +41,6 @@
     "https://news.ycombinator.com/item?id=48957779"
   ],
   "recent": [
-    {
-      "date": "2026-07-16",
-      "subcat": "AI & Machine Learning",
-      "title": "langchain-ai/openwiki",
-      "url": "https://github.com/langchain-ai/openwiki"
-    },
     {
       "date": "2026-07-16",
       "subcat": "Beginner",
@@ -99,6 +94,12 @@
       "subcat": "Hacker News Picks",
       "title": "GPT-5.6 used a prompt to close a 30-year gap in convex ",
       "url": "https://news.ycombinator.com/item?id=48957779"
+    },
+    {
+      "date": "2026-07-19",
+      "subcat": "AI & Machine Learning",
+      "title": "elder-plinius/T3MP3ST",
+      "url": "https://github.com/elder-plinius/T3MP3ST"
     }
   ]
 }
