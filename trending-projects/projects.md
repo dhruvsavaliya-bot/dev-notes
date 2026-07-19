@@ -177,6 +177,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~3,981 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Fei-Away/Codex-Dream-Skin
 
+**Added 2026-07-19**
+
+### [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
+- **Stats:** 3,278 stars | 568 forks | 13 open issues
+- **Language:** JavaScript | **Created:** 2026-07-08 | **License:** ODbL-1.0
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~298 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/withmarbleapp/os-taxonomy
+
 
 ## Web & Frontend
 

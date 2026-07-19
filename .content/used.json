@@ -30,6 +30,7 @@
     "https://github.com/oomol-lab/open-connector",
     "https://github.com/oso95/scroll-world",
     "https://github.com/tamnd/kage",
+    "https://github.com/withmarbleapp/os-taxonomy",
     "https://github.com/x4gKing/X4G",
     "https://news.ycombinator.com/item?id=48896600",
     "https://news.ycombinator.com/item?id=48896665",
@@ -38,12 +39,6 @@
     "https://news.ycombinator.com/item?id=48951461"
   ],
   "recent": [
-    {
-      "date": "2026-07-16",
-      "subcat": "Hacker News Picks",
-      "title": "Grok Build is open source",
-      "url": "https://news.ycombinator.com/item?id=48926590"
-    },
     {
       "date": "2026-07-16",
       "subcat": "Other Cool Projects",
@@ -97,6 +92,12 @@
       "subcat": "AI & Machine Learning",
       "title": "davidondrej/skills",
       "url": "https://github.com/davidondrej/skills"
+    },
+    {
+      "date": "2026-07-19",
+      "subcat": "Other Cool Projects",
+      "title": "withmarbleapp/os-taxonomy",
+      "url": "https://github.com/withmarbleapp/os-taxonomy"
     }
   ]
 }
