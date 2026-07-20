@@ -55,6 +55,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=48957779
 - **Link:** https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/
 
+**Added 2026-07-20**
+
+### [Claude Fable produced a counterexample to the Jacobian Conjecture](https://xcancel.com/__alpoge__/status/2079028340955197566)
+- **Source:** xcancel.com | **Posted:** 2026-07-20 | **By:** loubbrad
+- **Community:** 414 points, 247 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=48973869
+- **Link:** https://xcancel.com/__alpoge__/status/2079028340955197566
+
 
 ## DevOps & Cloud
 

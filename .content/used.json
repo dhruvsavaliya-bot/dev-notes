@@ -40,15 +40,10 @@
     "https://news.ycombinator.com/item?id=48936584",
     "https://news.ycombinator.com/item?id=48951461",
     "https://news.ycombinator.com/item?id=48957779",
-    "https://news.ycombinator.com/item?id=48966713"
+    "https://news.ycombinator.com/item?id=48966713",
+    "https://news.ycombinator.com/item?id=48973869"
   ],
   "recent": [
-    {
-      "date": "2026-07-17",
-      "subcat": "Other Cool Projects",
-      "title": "oso95/scroll-world",
-      "url": "https://github.com/oso95/scroll-world"
-    },
     {
       "date": "2026-07-17",
       "subcat": "Other Cool Projects",
@@ -102,6 +97,12 @@
       "subcat": "Other Cool Projects",
       "title": "mekos2772/ios-location-spoofer",
       "url": "https://github.com/mekos2772/ios-location-spoofer"
+    },
+    {
+      "date": "2026-07-20",
+      "subcat": "Hacker News Picks",
+      "title": "Claude Fable produced a counterexample to the Jacobian ",
+      "url": "https://news.ycombinator.com/item?id=48973869"
     }
   ]
 }
