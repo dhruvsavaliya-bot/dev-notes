@@ -38,15 +38,10 @@
     "https://news.ycombinator.com/item?id=48926590",
     "https://news.ycombinator.com/item?id=48936584",
     "https://news.ycombinator.com/item?id=48951461",
-    "https://news.ycombinator.com/item?id=48957779"
+    "https://news.ycombinator.com/item?id=48957779",
+    "https://news.ycombinator.com/item?id=48966713"
   ],
   "recent": [
-    {
-      "date": "2026-07-16",
-      "subcat": "Beginner",
-      "title": "Como escolher eventos de tecnologia para participar",
-      "url": "https://dev.to/he4rt/como-escolher-eventos-de-tecnologia-para-participar-55kf"
-    },
     {
       "date": "2026-07-17",
       "subcat": "Other Cool Projects",
@@ -100,6 +95,12 @@
       "subcat": "AI & Machine Learning",
       "title": "elder-plinius/T3MP3ST",
       "url": "https://github.com/elder-plinius/T3MP3ST"
+    },
+    {
+      "date": "2026-07-20",
+      "subcat": "Hacker News Picks",
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware i",
+      "url": "https://news.ycombinator.com/item?id=48966713"
     }
   ]
 }

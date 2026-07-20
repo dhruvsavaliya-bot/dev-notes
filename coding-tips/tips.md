@@ -42,6 +42,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=48951461
 - **Link:** https://goliath32.com/blog/z80.html
 
+**Added 2026-07-20**
+
+### [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard)
+- **Source:** chipweinberger.com | **Posted:** 2026-07-19 | **By:** chipweinberger
+- **Community:** 438 points, 202 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=48966713
+- **Link:** https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard
+
 
 ## Beginner
 

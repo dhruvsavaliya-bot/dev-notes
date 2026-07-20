@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**32 entries and counting** · Last updated: 2026-07-19
+**33 entries and counting** · Last updated: 2026-07-20
 
 ## Categories
 
@@ -12,14 +12,14 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 | [Trending Projects](trending-projects/projects.md) | 20 |
 | [AI / LLM Notes](ai/notes.md) | 1 |
 | [Reading List](articles/reading-list.md) | 6 |
-| [Coding Tips](coding-tips/tips.md) | 5 |
+| [Coding Tips](coding-tips/tips.md) | 6 |
 | [Language Notes](languages/notes.md) | 0 |
 
 ## Latest additions
 
+- **2026-07-20** · *Hacker News Picks* — [What I learned selling 2,500 MIDI recorders: Hardware i](https://news.ycombinator.com/item?id=48966713)
 - **2026-07-19** · *AI & Machine Learning* — [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)
 - **2026-07-19** · *Hacker News Picks* — [GPT-5.6 used a prompt to close a 30-year gap in convex ](https://news.ycombinator.com/item?id=48957779)
-- **2026-07-19** · *Other Cool Projects* — [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
 
 ## How it works
 
