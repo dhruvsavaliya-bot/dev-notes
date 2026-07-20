@@ -64,6 +64,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=48973869
 - **Link:** https://xcancel.com/__alpoge__/status/2079028340955197566
 
+**Added 2026-07-20**
+
+### [Orion Browser by Kagi](https://orionbrowser.com/)
+- **Source:** orionbrowser.com | **Posted:** 2026-07-19 | **By:** sebjones
+- **Community:** 237 points, 173 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=48970894
+- **Link:** https://orionbrowser.com/
+
 
 ## DevOps & Cloud
 

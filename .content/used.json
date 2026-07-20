@@ -42,15 +42,10 @@
     "https://news.ycombinator.com/item?id=48951461",
     "https://news.ycombinator.com/item?id=48957779",
     "https://news.ycombinator.com/item?id=48966713",
+    "https://news.ycombinator.com/item?id=48970894",
     "https://news.ycombinator.com/item?id=48973869"
   ],
   "recent": [
-    {
-      "date": "2026-07-17",
-      "subcat": "Hacker News Picks",
-      "title": "Decoy Font",
-      "url": "https://news.ycombinator.com/item?id=48936584"
-    },
     {
       "date": "2026-07-18",
       "subcat": "Hacker News Picks",
@@ -104,6 +99,12 @@
       "subcat": "AI & Machine Learning",
       "title": "synthetic-sciences/openscience",
       "url": "https://github.com/synthetic-sciences/openscience"
+    },
+    {
+      "date": "2026-07-20",
+      "subcat": "Hacker News Picks",
+      "title": "Orion Browser by Kagi",
+      "url": "https://news.ycombinator.com/item?id=48970894"
     }
   ]
 }
