@@ -197,6 +197,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~298 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/withmarbleapp/os-taxonomy
 
+**Added 2026-07-20**
+
+### [mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)
+- **Stats:** 2,519 stars | 387 forks | 17 open issues
+- **Language:** JavaScript | **Created:** 2026-06-30 | **License:** AGPL-3.0
+- **Topics:** none listed
+- **What it is:** Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.
+- **Growth:** averaging ~125 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/mekos2772/ios-location-spoofer
+
 
 ## Web & Frontend
 
