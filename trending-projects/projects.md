@@ -74,6 +74,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~292 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/elder-plinius/T3MP3ST
 
+**Added 2026-07-20**
+
+### [synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience)
+- **Stats:** 2,621 stars | 367 forks | 23 open issues
+- **Language:** TypeScript | **Created:** 2026-07-03 | **License:** Apache-2.0
+- **Topics:** agent, ai, ai-agent, bun, cli, co-scientist
+- **What it is:** The open-source AI workbench for scientific research
+- **Growth:** averaging ~154 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/synthetic-sciences/openscience
+
 
 ## Other Cool Projects
 

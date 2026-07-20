@@ -31,6 +31,7 @@
     "https://github.com/mekos2772/ios-location-spoofer",
     "https://github.com/oomol-lab/open-connector",
     "https://github.com/oso95/scroll-world",
+    "https://github.com/synthetic-sciences/openscience",
     "https://github.com/tamnd/kage",
     "https://github.com/withmarbleapp/os-taxonomy",
     "https://github.com/x4gKing/X4G",
@@ -44,12 +45,6 @@
     "https://news.ycombinator.com/item?id=48973869"
   ],
   "recent": [
-    {
-      "date": "2026-07-17",
-      "subcat": "Other Cool Projects",
-      "title": "Fei-Away/Codex-Dream-Skin",
-      "url": "https://github.com/Fei-Away/Codex-Dream-Skin"
-    },
     {
       "date": "2026-07-17",
       "subcat": "Hacker News Picks",
@@ -103,6 +98,12 @@
       "subcat": "Hacker News Picks",
       "title": "Claude Fable produced a counterexample to the Jacobian ",
       "url": "https://news.ycombinator.com/item?id=48973869"
+    },
+    {
+      "date": "2026-07-20",
+      "subcat": "AI & Machine Learning",
+      "title": "synthetic-sciences/openscience",
+      "url": "https://github.com/synthetic-sciences/openscience"
     }
   ]
 }

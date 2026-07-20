@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**35 entries and counting** · Last updated: 2026-07-20
+**36 entries and counting** · Last updated: 2026-07-20
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 21 |
+| [Trending Projects](trending-projects/projects.md) | 22 |
 | [AI / LLM Notes](ai/notes.md) | 1 |
 | [Reading List](articles/reading-list.md) | 7 |
 | [Coding Tips](coding-tips/tips.md) | 6 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-07-20** · *AI & Machine Learning* — [synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience)
 - **2026-07-20** · *Hacker News Picks* — [Claude Fable produced a counterexample to the Jacobian ](https://news.ycombinator.com/item?id=48973869)
 - **2026-07-20** · *Other Cool Projects* — [mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)
-- **2026-07-20** · *Hacker News Picks* — [What I learned selling 2,500 MIDI recorders: Hardware i](https://news.ycombinator.com/item?id=48966713)
 
 ## How it works
 
