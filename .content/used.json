@@ -15,6 +15,7 @@
     "https://dev.to/xulingfeng/stratagems-16-mark-left-a-hole-in-his-ai-audit-lena-counted-every-layer-2l7p",
     "https://dev.to/xulingfeng/stratagems-9-lena-and-p-watched-two-ai-suppliers-fight-the-logs-said-neither-was-clean-2pj3",
     "https://github.com/Fei-Away/Codex-Dream-Skin",
+    "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
     "https://github.com/JustVugg/colibri",
     "https://github.com/Krishnagangwal/CS-Fundamentals",
     "https://github.com/Shpigford/knockoff",
@@ -50,12 +51,6 @@
     "https://news.ycombinator.com/item?id=48982535"
   ],
   "recent": [
-    {
-      "date": "2026-07-19",
-      "subcat": "AI & Machine Learning",
-      "title": "elder-plinius/T3MP3ST",
-      "url": "https://github.com/elder-plinius/T3MP3ST"
-    },
     {
       "date": "2026-07-20",
       "subcat": "Hacker News Picks",
@@ -109,6 +104,12 @@
       "subcat": "Hacker News Picks",
       "title": "Who's afraid of Chinese models?",
       "url": "https://news.ycombinator.com/item?id=48977128"
+    },
+    {
+      "date": "2026-07-21",
+      "subcat": "AI & Machine Learning",
+      "title": "HUANGCHIHHUNGLeo/claude-real-video",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video"
     }
   ]
 }

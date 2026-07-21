@@ -84,6 +84,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~154 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/synthetic-sciences/openscience
 
+**Added 2026-07-21**
+
+### [HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)
+- **Stats:** 1,786 stars | 147 forks | 0 open issues
+- **Language:** Python | **Created:** 2026-06-30 | **License:** MIT
+- **Topics:** claude, claude-code, cli, ffmpeg, keyframe-extraction, llm
+- **What it is:** Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.
+- **Growth:** averaging ~85 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/HUANGCHIHHUNGLeo/claude-real-video
+
 
 ## Other Cool Projects
 
