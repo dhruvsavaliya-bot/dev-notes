@@ -18,6 +18,7 @@
     "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
     "https://github.com/JustVugg/colibri",
     "https://github.com/Krishnagangwal/CS-Fundamentals",
+    "https://github.com/MaximeRivest/riddle",
     "https://github.com/Shpigford/knockoff",
     "https://github.com/Waishnav/devspace",
     "https://github.com/baairon/torlink",
@@ -54,12 +55,6 @@
     "https://news.ycombinator.com/item?id=48982535"
   ],
   "recent": [
-    {
-      "date": "2026-07-20",
-      "subcat": "AI & Machine Learning",
-      "title": "synthetic-sciences/openscience",
-      "url": "https://github.com/synthetic-sciences/openscience"
-    },
     {
       "date": "2026-07-20",
       "subcat": "Hacker News Picks",
@@ -113,6 +108,12 @@
       "subcat": "Other Cool Projects",
       "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
       "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5"
+    },
+    {
+      "date": "2026-07-21",
+      "subcat": "Other Cool Projects",
+      "title": "MaximeRivest/riddle",
+      "url": "https://github.com/MaximeRivest/riddle"
     }
   ]
 }

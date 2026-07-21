@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**45 entries and counting** · Last updated: 2026-07-21
+**46 entries and counting** · Last updated: 2026-07-21
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 25 |
+| [Trending Projects](trending-projects/projects.md) | 26 |
 | [AI / LLM Notes](ai/notes.md) | 2 |
 | [Reading List](articles/reading-list.md) | 12 |
 | [Coding Tips](coding-tips/tips.md) | 6 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-07-21** · *Other Cool Projects* — [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle)
 - **2026-07-21** · *Other Cool Projects* — [yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)
 - **2026-07-21** · *Hacker News Picks* — [Chinas open-weights AI strategy is winning](https://news.ycombinator.com/item?id=48979269)
-- **2026-07-21** · *Hacker News Picks* — [Jelly UI: Soft-body physics for native HTML form contro](https://news.ycombinator.com/item?id=48981620)
 
 ## How it works
 

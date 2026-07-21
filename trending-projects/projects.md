@@ -237,6 +237,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~85 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5
 
+**Added 2026-07-21**
+
+### [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle)
+- **Stats:** 1,694 stars | 155 forks | 18 open issues
+- **Language:** Rust | **Created:** 2026-07-05 | **License:** MIT
+- **Topics:** appload, eink, quill, remagic-app, remarkable-customization, remarkable-paper-pro
+- **What it is:** The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand
+- **Growth:** averaging ~105 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/MaximeRivest/riddle
+
 
 ## Web & Frontend
 
