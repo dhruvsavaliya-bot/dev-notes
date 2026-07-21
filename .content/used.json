@@ -46,15 +46,10 @@
     "https://news.ycombinator.com/item?id=48966713",
     "https://news.ycombinator.com/item?id=48970894",
     "https://news.ycombinator.com/item?id=48973869",
+    "https://news.ycombinator.com/item?id=48977128",
     "https://news.ycombinator.com/item?id=48982535"
   ],
   "recent": [
-    {
-      "date": "2026-07-19",
-      "subcat": "Hacker News Picks",
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex ",
-      "url": "https://news.ycombinator.com/item?id=48957779"
-    },
     {
       "date": "2026-07-19",
       "subcat": "AI & Machine Learning",
@@ -108,6 +103,12 @@
       "subcat": "Developer Tools",
       "title": "baairon/torlink",
       "url": "https://github.com/baairon/torlink"
+    },
+    {
+      "date": "2026-07-21",
+      "subcat": "Hacker News Picks",
+      "title": "Who's afraid of Chinese models?",
+      "url": "https://news.ycombinator.com/item?id=48977128"
     }
   ]
 }
