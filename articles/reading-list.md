@@ -100,6 +100,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=48981620
 - **Link:** https://jelly-ui.com/
 
+**Added 2026-07-21**
+
+### [China’s open-weights AI strategy is winning](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
+- **Source:** werd.io | **Posted:** 2026-07-20 | **By:** benwerd
+- **Community:** 1115 points, 843 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=48979269
+- **Link:** https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/
+
 
 ## DevOps & Cloud
 
