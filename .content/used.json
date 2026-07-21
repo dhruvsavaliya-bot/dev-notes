@@ -44,15 +44,10 @@
     "https://news.ycombinator.com/item?id=48957779",
     "https://news.ycombinator.com/item?id=48966713",
     "https://news.ycombinator.com/item?id=48970894",
-    "https://news.ycombinator.com/item?id=48973869"
+    "https://news.ycombinator.com/item?id=48973869",
+    "https://news.ycombinator.com/item?id=48982535"
   ],
   "recent": [
-    {
-      "date": "2026-07-18",
-      "subcat": "AI & Machine Learning",
-      "title": "davidondrej/skills",
-      "url": "https://github.com/davidondrej/skills"
-    },
     {
       "date": "2026-07-19",
       "subcat": "Other Cool Projects",
@@ -106,6 +101,12 @@
       "subcat": "AI Engineering",
       "title": "Stratagems #16: Mark Left a Hole in His AI Audit. Lena ",
       "url": "https://dev.to/xulingfeng/stratagems-16-mark-left-a-hole-in-his-ai-audit-lena-counted-every-layer-2l7p"
+    },
+    {
+      "date": "2026-07-21",
+      "subcat": "Hacker News Picks",
+      "title": "Agent swarms and the new model economics",
+      "url": "https://news.ycombinator.com/item?id=48982535"
     }
   ]
 }

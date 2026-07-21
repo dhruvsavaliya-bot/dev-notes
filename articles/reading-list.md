@@ -73,6 +73,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=48970894
 - **Link:** https://orionbrowser.com/
 
+**Added 2026-07-21**
+
+### [Agent swarms and the new model economics](https://cursor.com/blog/agent-swarm-model-economics)
+- **Source:** cursor.com | **Posted:** 2026-07-20 | **By:** jlaneve
+- **Community:** 159 points, 69 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=48982535
+- **Link:** https://cursor.com/blog/agent-swarm-model-economics
+
 
 ## DevOps & Cloud
 
