@@ -227,6 +227,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~125 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/mekos2772/ios-location-spoofer
 
+**Added 2026-07-21**
+
+### [yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)
+- **Stats:** 1,976 stars | 492 forks | 2 open issues
+- **Language:** Python | **Created:** 2026-06-28 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~85 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5
+
 
 ## Web & Frontend
 
