@@ -91,6 +91,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=48977128
 - **Link:** https://stratechery.com/2026/whos-afraid-of-chinese-models/
 
+**Added 2026-07-21**
+
+### [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/)
+- **Source:** jelly-ui.com | **Posted:** 2026-07-20 | **By:** baldvinmar
+- **Community:** 491 points, 154 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=48981620
+- **Link:** https://jelly-ui.com/
+
 
 ## DevOps & Cloud
 

@@ -48,15 +48,10 @@
     "https://news.ycombinator.com/item?id=48970894",
     "https://news.ycombinator.com/item?id=48973869",
     "https://news.ycombinator.com/item?id=48977128",
+    "https://news.ycombinator.com/item?id=48981620",
     "https://news.ycombinator.com/item?id=48982535"
   ],
   "recent": [
-    {
-      "date": "2026-07-20",
-      "subcat": "Hacker News Picks",
-      "title": "What I learned selling 2,500 MIDI recorders: Hardware i",
-      "url": "https://news.ycombinator.com/item?id=48966713"
-    },
     {
       "date": "2026-07-20",
       "subcat": "Other Cool Projects",
@@ -110,6 +105,12 @@
       "subcat": "AI & Machine Learning",
       "title": "HUANGCHIHHUNGLeo/claude-real-video",
       "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video"
+    },
+    {
+      "date": "2026-07-21",
+      "subcat": "Hacker News Picks",
+      "title": "Jelly UI: Soft-body physics for native HTML form contro",
+      "url": "https://news.ycombinator.com/item?id=48981620"
     }
   ]
 }
