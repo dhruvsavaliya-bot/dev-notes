@@ -229,3 +229,15 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.
 - **Growth:** averaging ~211 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Shpigford/knockoff
+
+## Developer Tools
+
+**Added 2026-07-21**
+
+### [baairon/torlink](https://github.com/baairon/torlink)
+- **Stats:** 3,721 stars | 248 forks | 9 open issues
+- **Language:** TypeScript | **Created:** 2026-06-25 | **License:** MIT
+- **Topics:** crossplatform, downloader, magnet-links, p2p, torrent, torrent-client
+- **What it is:** A sleek, zero-setup torrent finder and downloader that lives right in your terminal.
+- **Growth:** averaging ~143 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/baairon/torlink
