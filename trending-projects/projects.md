@@ -257,6 +257,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~105 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/MaximeRivest/riddle
 
+**Added 2026-07-22**
+
+### [Yu9191/wloc](https://github.com/Yu9191/wloc)
+- **Stats:** 6,033 stars | 1,189 forks | 45 open issues
+- **Language:** JavaScript | **Created:** 2026-06-24 | **License:** None
+- **Topics:** none listed
+- **What it is:** 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
+- **Growth:** averaging ~215 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/Yu9191/wloc
+
 
 ## Web & Frontend
 

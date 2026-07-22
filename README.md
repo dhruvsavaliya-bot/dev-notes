@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**47 entries and counting** · Last updated: 2026-07-22
+**48 entries and counting** · Last updated: 2026-07-22
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 27 |
+| [Trending Projects](trending-projects/projects.md) | 28 |
 | [AI / LLM Notes](ai/notes.md) | 2 |
 | [Reading List](articles/reading-list.md) | 12 |
 | [Coding Tips](coding-tips/tips.md) | 6 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-07-22** · *Other Cool Projects* — [Yu9191/wloc](https://github.com/Yu9191/wloc)
 - **2026-07-22** · *AI & Machine Learning* — [jamesob/local-llm](https://github.com/jamesob/local-llm)
 - **2026-07-21** · *Other Cool Projects* — [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle)
-- **2026-07-21** · *Other Cool Projects* — [yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)
 
 ## How it works
 
