@@ -31,6 +31,7 @@
     "https://github.com/deepseek-ai/DeepSpec",
     "https://github.com/elder-plinius/T3MP3ST",
     "https://github.com/google-research/tabfm",
+    "https://github.com/hoainho/img2threejs",
     "https://github.com/isjiamu/gzh-design-skill",
     "https://github.com/jamesob/local-llm",
     "https://github.com/langchain-ai/openwiki",
@@ -58,12 +59,6 @@
     "https://news.ycombinator.com/item?id=48982535"
   ],
   "recent": [
-    {
-      "date": "2026-07-21",
-      "subcat": "Developer Tools",
-      "title": "baairon/torlink",
-      "url": "https://github.com/baairon/torlink"
-    },
     {
       "date": "2026-07-21",
       "subcat": "Hacker News Picks",
@@ -117,6 +112,12 @@
       "subcat": "AI & Machine Learning",
       "title": "xai-org/grok-build",
       "url": "https://github.com/xai-org/grok-build"
+    },
+    {
+      "date": "2026-07-22",
+      "subcat": "AI & Machine Learning",
+      "title": "hoainho/img2threejs",
+      "url": "https://github.com/hoainho/img2threejs"
     }
   ]
 }
