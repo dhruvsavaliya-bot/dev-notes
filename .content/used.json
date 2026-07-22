@@ -57,15 +57,10 @@
     "https://news.ycombinator.com/item?id=48977128",
     "https://news.ycombinator.com/item?id=48979269",
     "https://news.ycombinator.com/item?id=48981620",
-    "https://news.ycombinator.com/item?id=48982535"
+    "https://news.ycombinator.com/item?id=48982535",
+    "https://news.ycombinator.com/item?id=48992870"
   ],
   "recent": [
-    {
-      "date": "2026-07-21",
-      "subcat": "AI & Machine Learning",
-      "title": "HUANGCHIHHUNGLeo/claude-real-video",
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video"
-    },
     {
       "date": "2026-07-21",
       "subcat": "Hacker News Picks",
@@ -119,6 +114,12 @@
       "subcat": "Other Cool Projects",
       "title": "Younesfdj/gitfut",
       "url": "https://github.com/Younesfdj/gitfut"
+    },
+    {
+      "date": "2026-07-22",
+      "subcat": "Hacker News Picks",
+      "title": "Apple defeats liability for not scanning iCloud for CSA",
+      "url": "https://news.ycombinator.com/item?id=48992870"
     }
   ]
 }

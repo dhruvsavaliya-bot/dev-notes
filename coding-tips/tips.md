@@ -51,6 +51,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=48966713
 - **Link:** https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard
 
+**Added 2026-07-22**
+
+### [Apple defeats liability for not scanning iCloud for CSAM](https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm)
+- **Source:** blog.ericgoldman.org | **Posted:** 2026-07-21 | **By:** speckx
+- **Community:** 412 points, 390 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=48992870
+- **Link:** https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm
+
 
 ## Beginner
 
