@@ -20,6 +20,7 @@
     "https://github.com/Krishnagangwal/CS-Fundamentals",
     "https://github.com/MDX-Tom/gpt-5.6-instruct",
     "https://github.com/MaximeRivest/riddle",
+    "https://github.com/Sahir619/fable-method",
     "https://github.com/Shpigford/knockoff",
     "https://github.com/Waishnav/devspace",
     "https://github.com/Younesfdj/gitfut",
@@ -63,12 +64,6 @@
     "https://news.ycombinator.com/item?id=48992870"
   ],
   "recent": [
-    {
-      "date": "2026-07-21",
-      "subcat": "Other Cool Projects",
-      "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
-      "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5"
-    },
     {
       "date": "2026-07-21",
       "subcat": "Other Cool Projects",
@@ -122,6 +117,12 @@
       "subcat": "AI & Machine Learning",
       "title": "MDX-Tom/gpt-5.6-instruct",
       "url": "https://github.com/MDX-Tom/gpt-5.6-instruct"
+    },
+    {
+      "date": "2026-07-22",
+      "subcat": "AI & Machine Learning",
+      "title": "Sahir619/fable-method",
+      "url": "https://github.com/Sahir619/fable-method"
     }
   ]
 }

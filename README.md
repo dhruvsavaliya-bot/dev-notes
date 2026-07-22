@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**54 entries and counting** · Last updated: 2026-07-22
+**55 entries and counting** · Last updated: 2026-07-22
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 33 |
+| [Trending Projects](trending-projects/projects.md) | 34 |
 | [AI / LLM Notes](ai/notes.md) | 2 |
 | [Reading List](articles/reading-list.md) | 12 |
 | [Coding Tips](coding-tips/tips.md) | 7 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-07-22** · *AI & Machine Learning* — [Sahir619/fable-method](https://github.com/Sahir619/fable-method)
 - **2026-07-22** · *AI & Machine Learning* — [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)
 - **2026-07-22** · *AI & Machine Learning* — [unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)
-- **2026-07-22** · *Hacker News Picks* — [Apple defeats liability for not scanning iCloud for CSA](https://news.ycombinator.com/item?id=48992870)
 
 ## How it works
 

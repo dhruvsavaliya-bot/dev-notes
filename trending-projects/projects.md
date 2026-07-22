@@ -144,6 +144,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~228 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/MDX-Tom/gpt-5.6-instruct
 
+**Added 2026-07-22**
+
+### [Sahir619/fable-method](https://github.com/Sahir619/fable-method)
+- **Stats:** 1,779 stars | 254 forks | 2 open issues
+- **Language:** Python | **Created:** 2026-07-06 | **License:** MIT
+- **Topics:** agent-skills, ai-agents, claude, claude-code, claude-md, coding-agent
+- **What it is:** The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.
+- **Growth:** averaging ~111 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/Sahir619/fable-method
+
 
 ## Other Cool Projects
 
