@@ -94,6 +94,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~85 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/HUANGCHIHHUNGLeo/claude-real-video
 
+**Added 2026-07-22**
+
+### [jamesob/local-llm](https://github.com/jamesob/local-llm)
+- **Stats:** 1,573 stars | 96 forks | 2 open issues
+- **Language:** Shell | **Created:** 2026-07-03 | **License:** None
+- **Topics:** none listed
+- **What it is:** Everything I know about running LLMs locally
+- **Growth:** averaging ~82 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/jamesob/local-llm
+
 
 ## Other Cool Projects
 
