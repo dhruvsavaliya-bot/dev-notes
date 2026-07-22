@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**50 entries and counting** · Last updated: 2026-07-22
+**51 entries and counting** · Last updated: 2026-07-22
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 30 |
+| [Trending Projects](trending-projects/projects.md) | 31 |
 | [AI / LLM Notes](ai/notes.md) | 2 |
 | [Reading List](articles/reading-list.md) | 12 |
 | [Coding Tips](coding-tips/tips.md) | 6 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-07-22** · *Other Cool Projects* — [Younesfdj/gitfut](https://github.com/Younesfdj/gitfut)
 - **2026-07-22** · *AI & Machine Learning* — [hoainho/img2threejs](https://github.com/hoainho/img2threejs)
 - **2026-07-22** · *AI & Machine Learning* — [xai-org/grok-build](https://github.com/xai-org/grok-build)
-- **2026-07-22** · *Other Cool Projects* — [Yu9191/wloc](https://github.com/Yu9191/wloc)
 
 ## How it works
 

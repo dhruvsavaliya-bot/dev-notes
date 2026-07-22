@@ -287,6 +287,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~215 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Yu9191/wloc
 
+**Added 2026-07-22**
+
+### [Younesfdj/gitfut](https://github.com/Younesfdj/gitfut)
+- **Stats:** 2,275 stars | 116 forks | 32 open issues
+- **Language:** TypeScript | **Created:** 2026-06-24 | **License:** MIT
+- **Topics:** fifa-19, fut-card, github-stats-card, world-cup-2026
+- **What it is:** Your GitHub stats, turned into a World-Cup-style player card
+- **Growth:** averaging ~81 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/Younesfdj/gitfut
+
 
 ## Web & Frontend
 
