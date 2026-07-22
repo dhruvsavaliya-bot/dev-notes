@@ -124,6 +124,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~232 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/hoainho/img2threejs
 
+**Added 2026-07-22**
+
+### [unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)
+- **Stats:** 6,132 stars | 4 forks | 8 open issues
+- **Language:** Rust | **Created:** 2026-07-12 | **License:** None
+- **Topics:** none listed
+- **What it is:** AOS Community Edition: the open agent operating system.
+- **Growth:** averaging ~613 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/unicity-aos/aos-ce
+
 
 ## Other Cool Projects
 

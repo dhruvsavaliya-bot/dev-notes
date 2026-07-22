@@ -41,6 +41,7 @@
     "https://github.com/oso95/scroll-world",
     "https://github.com/synthetic-sciences/openscience",
     "https://github.com/tamnd/kage",
+    "https://github.com/unicity-aos/aos-ce",
     "https://github.com/withmarbleapp/os-taxonomy",
     "https://github.com/x4gKing/X4G",
     "https://github.com/xai-org/grok-build",
@@ -61,12 +62,6 @@
     "https://news.ycombinator.com/item?id=48992870"
   ],
   "recent": [
-    {
-      "date": "2026-07-21",
-      "subcat": "Hacker News Picks",
-      "title": "Jelly UI: Soft-body physics for native HTML form contro",
-      "url": "https://news.ycombinator.com/item?id=48981620"
-    },
     {
       "date": "2026-07-21",
       "subcat": "Hacker News Picks",
@@ -120,6 +115,12 @@
       "subcat": "Hacker News Picks",
       "title": "Apple defeats liability for not scanning iCloud for CSA",
       "url": "https://news.ycombinator.com/item?id=48992870"
+    },
+    {
+      "date": "2026-07-22",
+      "subcat": "AI & Machine Learning",
+      "title": "unicity-aos/aos-ce",
+      "url": "https://github.com/unicity-aos/aos-ce"
     }
   ]
 }
