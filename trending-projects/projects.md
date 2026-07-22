@@ -104,6 +104,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~82 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/jamesob/local-llm
 
+**Added 2026-07-22**
+
+### [xai-org/grok-build](https://github.com/xai-org/grok-build)
+- **Stats:** 21,540 stars | 4,018 forks | 0 open issues
+- **Language:** Rust | **Created:** 2026-07-14 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+- **Growth:** averaging ~2,692 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/xai-org/grok-build
+
 
 ## Other Cool Projects
 
