@@ -134,6 +134,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~613 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/unicity-aos/aos-ce
 
+**Added 2026-07-22**
+
+### [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)
+- **Stats:** 2,514 stars | 455 forks | 5 open issues
+- **Language:** Python | **Created:** 2026-07-11 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。
+- **Growth:** averaging ~228 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/MDX-Tom/gpt-5.6-instruct
+
 
 ## Other Cool Projects
 
