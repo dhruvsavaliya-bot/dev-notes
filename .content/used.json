@@ -68,15 +68,10 @@
     "https://news.ycombinator.com/item?id=48982535",
     "https://news.ycombinator.com/item?id=48992870",
     "https://news.ycombinator.com/item?id=49008211",
-    "https://news.ycombinator.com/item?id=49010129"
+    "https://news.ycombinator.com/item?id=49010129",
+    "https://news.ycombinator.com/item?id=49013538"
   ],
   "recent": [
-    {
-      "date": "2026-07-22",
-      "subcat": "AI & Machine Learning",
-      "title": "unicity-aos/aos-ce",
-      "url": "https://github.com/unicity-aos/aos-ce"
-    },
     {
       "date": "2026-07-22",
       "subcat": "AI & Machine Learning",
@@ -130,6 +125,12 @@
       "subcat": "AI Engineering",
       "title": "Stratagems #17: Alex Set an AI Bait. The Catch Wasn't C",
       "url": "https://dev.to/xulingfeng/stratagems-17-alex-set-an-ai-bait-the-catch-wasnt-code-it-was-someone-who-shouldnt-have-been-4893"
+    },
+    {
+      "date": "2026-07-23",
+      "subcat": "Hacker News Picks",
+      "title": "Malleable Computing, Emacs, and You",
+      "url": "https://news.ycombinator.com/item?id=49013538"
     }
   ]
 }

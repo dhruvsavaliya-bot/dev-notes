@@ -109,6 +109,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=48979269
 - **Link:** https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/
 
+**Added 2026-07-23**
+
+### [Malleable Computing, Emacs, and You](http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html)
+- **Source:** yummymelon.com | **Posted:** 2026-07-22 | **By:** kickingvegas
+- **Community:** 117 points, 32 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49013538
+- **Link:** http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html
+
 
 ## DevOps & Cloud
 
