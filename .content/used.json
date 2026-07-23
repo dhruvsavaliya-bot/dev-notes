@@ -63,15 +63,10 @@
     "https://news.ycombinator.com/item?id=48981620",
     "https://news.ycombinator.com/item?id=48982535",
     "https://news.ycombinator.com/item?id=48992870",
-    "https://news.ycombinator.com/item?id=49008211"
+    "https://news.ycombinator.com/item?id=49008211",
+    "https://news.ycombinator.com/item?id=49010129"
   ],
   "recent": [
-    {
-      "date": "2026-07-22",
-      "subcat": "Other Cool Projects",
-      "title": "Yu9191/wloc",
-      "url": "https://github.com/Yu9191/wloc"
-    },
     {
       "date": "2026-07-22",
       "subcat": "AI & Machine Learning",
@@ -125,6 +120,12 @@
       "subcat": "Hacker News Picks",
       "title": "Show HN: Bento - An entire PowerPoint in one HTML file ",
       "url": "https://news.ycombinator.com/item?id=49008211"
+    },
+    {
+      "date": "2026-07-23",
+      "subcat": "Hacker News Picks",
+      "title": "Are AI labs pelicanmaxxing?",
+      "url": "https://news.ycombinator.com/item?id=49010129"
     }
   ]
 }
