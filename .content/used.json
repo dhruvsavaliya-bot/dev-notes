@@ -51,6 +51,7 @@
     "https://github.com/xai-org/grok-build",
     "https://github.com/xuchonglang/investing-for-beginners",
     "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
+    "https://github.com/yynxxxxx/Codex-X",
     "https://news.ycombinator.com/item?id=48896600",
     "https://news.ycombinator.com/item?id=48896665",
     "https://news.ycombinator.com/item?id=48926590",
@@ -69,12 +70,6 @@
     "https://news.ycombinator.com/item?id=49010129"
   ],
   "recent": [
-    {
-      "date": "2026-07-22",
-      "subcat": "Other Cool Projects",
-      "title": "Younesfdj/gitfut",
-      "url": "https://github.com/Younesfdj/gitfut"
-    },
     {
       "date": "2026-07-22",
       "subcat": "Hacker News Picks",
@@ -128,6 +123,12 @@
       "subcat": "Other Cool Projects",
       "title": "anthropics/jacobian-lens",
       "url": "https://github.com/anthropics/jacobian-lens"
+    },
+    {
+      "date": "2026-07-23",
+      "subcat": "Other Cool Projects",
+      "title": "yynxxxxx/Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X"
     }
   ]
 }

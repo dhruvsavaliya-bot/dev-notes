@@ -357,6 +357,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~73 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/anthropics/jacobian-lens
 
+**Added 2026-07-23**
+
+### [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X)
+- **Stats:** 1,546 stars | 231 forks | 14 open issues
+- **Language:** Rust | **Created:** 2026-07-04 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Codex Switch & Instruct desktop manager
+- **Growth:** averaging ~81 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/yynxxxxx/Codex-X
+
 
 ## Web & Frontend
 
