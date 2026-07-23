@@ -347,6 +347,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~127 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/xuchonglang/investing-for-beginners
 
+**Added 2026-07-23**
+
+### [anthropics/jacobian-lens](https://github.com/anthropics/jacobian-lens)
+- **Stats:** 1,544 stars | 217 forks | 8 open issues
+- **Language:** Python | **Created:** 2026-07-02 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** Companion code for the global workspace interpretability paper
+- **Growth:** averaging ~73 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/anthropics/jacobian-lens
+
 
 ## Web & Frontend
 

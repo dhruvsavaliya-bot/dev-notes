@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**59 entries and counting** · Last updated: 2026-07-23
+**60 entries and counting** · Last updated: 2026-07-23
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 36 |
+| [Trending Projects](trending-projects/projects.md) | 37 |
 | [AI / LLM Notes](ai/notes.md) | 2 |
 | [Reading List](articles/reading-list.md) | 12 |
 | [Coding Tips](coding-tips/tips.md) | 9 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-07-23** · *Other Cool Projects* — [anthropics/jacobian-lens](https://github.com/anthropics/jacobian-lens)
 - **2026-07-23** · *Other Cool Projects* — [xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)
 - **2026-07-23** · *Hacker News Picks* — [Are AI labs pelicanmaxxing?](https://news.ycombinator.com/item?id=49010129)
-- **2026-07-23** · *Hacker News Picks* — [Show HN: Bento - An entire PowerPoint in one HTML file ](https://news.ycombinator.com/item?id=49008211)
 
 ## How it works
 

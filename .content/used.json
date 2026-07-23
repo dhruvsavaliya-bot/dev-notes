@@ -25,6 +25,7 @@
     "https://github.com/Waishnav/devspace",
     "https://github.com/Younesfdj/gitfut",
     "https://github.com/Yu9191/wloc",
+    "https://github.com/anthropics/jacobian-lens",
     "https://github.com/baairon/torlink",
     "https://github.com/baidu/Unlimited-OCR",
     "https://github.com/bikini/exploitarium",
@@ -68,12 +69,6 @@
     "https://news.ycombinator.com/item?id=49010129"
   ],
   "recent": [
-    {
-      "date": "2026-07-22",
-      "subcat": "AI & Machine Learning",
-      "title": "hoainho/img2threejs",
-      "url": "https://github.com/hoainho/img2threejs"
-    },
     {
       "date": "2026-07-22",
       "subcat": "Other Cool Projects",
@@ -127,6 +122,12 @@
       "subcat": "Other Cool Projects",
       "title": "xuchonglang/investing-for-beginners",
       "url": "https://github.com/xuchonglang/investing-for-beginners"
+    },
+    {
+      "date": "2026-07-23",
+      "subcat": "Other Cool Projects",
+      "title": "anthropics/jacobian-lens",
+      "url": "https://github.com/anthropics/jacobian-lens"
     }
   ]
 }
