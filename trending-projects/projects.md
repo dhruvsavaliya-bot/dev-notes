@@ -337,6 +337,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~81 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Younesfdj/gitfut
 
+**Added 2026-07-23**
+
+### [xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)
+- **Stats:** 2,557 stars | 156 forks | 0 open issues
+- **Language:** N/A | **Created:** 2026-07-03 | **License:** NOASSERTION
+- **Topics:** chinese, cryptocurrency, investing, options, xiaoyinsi
+- **What it is:** 小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架
+- **Growth:** averaging ~127 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/xuchonglang/investing-for-beginners
+
 
 ## Web & Frontend
 
