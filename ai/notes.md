@@ -23,3 +23,12 @@ Lessons from building with LLMs.
 - **Tags:** ai, discuss, career, programming
 - **Summary:** When the enemy occupies favorable terrain, don't attack head-on. Let them think they're safe, let...
 - **Link:** https://dev.to/xulingfeng/stratagems-16-mark-left-a-hole-in-his-ai-audit-lena-counted-every-layer-2l7p
+
+**Added 2026-07-23**
+
+### [Stratagems #17: Alex Set an AI Bait. The Catch Wasn't Code — It Was Someone Who Shouldn't Have Been Watching.](https://dev.to/xulingfeng/stratagems-17-alex-set-an-ai-bait-the-catch-wasnt-code-it-was-someone-who-shouldnt-have-been-4893)
+- **Author:** xulingfeng | **Published:** Jul 18 | **Read time:** 10 min
+- **Community:** 50 reactions, 19 comments — a top post of the week in #ai
+- **Tags:** ai, discuss, career, programming
+- **Summary:** Toss out a brick to lure a jade gem. — The 36 Stratagems, Throw Out a Brick to Get a...
+- **Link:** https://dev.to/xulingfeng/stratagems-17-alex-set-an-ai-bait-the-catch-wasnt-code-it-was-someone-who-shouldnt-have-been-4893

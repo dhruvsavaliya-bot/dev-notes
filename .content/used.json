@@ -13,6 +13,7 @@
     "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
     "https://dev.to/xulingfeng/stratagems-10-lena-watched-a-team-adopt-her-ai-template-leo-didnt-know-the-knife-was-in-the-4khj",
     "https://dev.to/xulingfeng/stratagems-16-mark-left-a-hole-in-his-ai-audit-lena-counted-every-layer-2l7p",
+    "https://dev.to/xulingfeng/stratagems-17-alex-set-an-ai-bait-the-catch-wasnt-code-it-was-someone-who-shouldnt-have-been-4893",
     "https://dev.to/xulingfeng/stratagems-9-lena-and-p-watched-two-ai-suppliers-fight-the-logs-said-neither-was-clean-2pj3",
     "https://github.com/Fei-Away/Codex-Dream-Skin",
     "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
@@ -72,12 +73,6 @@
   "recent": [
     {
       "date": "2026-07-22",
-      "subcat": "Hacker News Picks",
-      "title": "Apple defeats liability for not scanning iCloud for CSA",
-      "url": "https://news.ycombinator.com/item?id=48992870"
-    },
-    {
-      "date": "2026-07-22",
       "subcat": "AI & Machine Learning",
       "title": "unicity-aos/aos-ce",
       "url": "https://github.com/unicity-aos/aos-ce"
@@ -129,6 +124,12 @@
       "subcat": "Other Cool Projects",
       "title": "yynxxxxx/Codex-X",
       "url": "https://github.com/yynxxxxx/Codex-X"
+    },
+    {
+      "date": "2026-07-23",
+      "subcat": "AI Engineering",
+      "title": "Stratagems #17: Alex Set an AI Bait. The Catch Wasn't C",
+      "url": "https://dev.to/xulingfeng/stratagems-17-alex-set-an-ai-bait-the-catch-wasnt-code-it-was-someone-who-shouldnt-have-been-4893"
     }
   ]
 }
