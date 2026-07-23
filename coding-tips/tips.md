@@ -60,6 +60,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=48992870
 - **Link:** https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm
 
+**Added 2026-07-23**
+
+### [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/)
+- **Source:** bento.page | **Posted:** 2026-07-22 | **By:** starfallg
+- **Community:** 730 points, 163 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49008211
+- **Link:** https://bento.page/slides/
+
 
 ## Beginner
 
