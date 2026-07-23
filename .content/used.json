@@ -38,6 +38,7 @@
     "https://github.com/isjiamu/gzh-design-skill",
     "https://github.com/jamesob/local-llm",
     "https://github.com/langchain-ai/openwiki",
+    "https://github.com/lopopolo/harness-engineering",
     "https://github.com/mekos2772/ios-location-spoofer",
     "https://github.com/oomol-lab/open-connector",
     "https://github.com/oso95/scroll-world",
@@ -64,12 +65,6 @@
     "https://news.ycombinator.com/item?id=48992870"
   ],
   "recent": [
-    {
-      "date": "2026-07-21",
-      "subcat": "Other Cool Projects",
-      "title": "MaximeRivest/riddle",
-      "url": "https://github.com/MaximeRivest/riddle"
-    },
     {
       "date": "2026-07-22",
       "subcat": "AI & Machine Learning",
@@ -123,6 +118,12 @@
       "subcat": "AI & Machine Learning",
       "title": "Sahir619/fable-method",
       "url": "https://github.com/Sahir619/fable-method"
+    },
+    {
+      "date": "2026-07-23",
+      "subcat": "AI & Machine Learning",
+      "title": "lopopolo/harness-engineering",
+      "url": "https://github.com/lopopolo/harness-engineering"
     }
   ]
 }

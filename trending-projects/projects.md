@@ -154,6 +154,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~111 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Sahir619/fable-method
 
+**Added 2026-07-23**
+
+### [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)
+- **Stats:** 2,203 stars | 221 forks | 1 open issues
+- **Language:** Python | **Created:** 2026-07-18 | **License:** CC-BY-4.0
+- **Topics:** none listed
+- **What it is:** 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering
+- **Growth:** averaging ~440 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/lopopolo/harness-engineering
+
 
 ## Other Cool Projects
 
