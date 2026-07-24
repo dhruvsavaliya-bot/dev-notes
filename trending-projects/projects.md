@@ -391,3 +391,13 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** A sleek, zero-setup torrent finder and downloader that lives right in your terminal.
 - **Growth:** averaging ~143 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/baairon/torlink
+
+**Added 2026-07-24**
+
+### [Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith)
+- **Stats:** 1,618 stars | 277 forks | 1 open issues
+- **Language:** Python | **Created:** 2026-06-28 | **License:** MIT
+- **Topics:** cli, codex, codex-cli, configuration-management, developer-tools, local-first
+- **What it is:** Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.
+- **Growth:** averaging ~62 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/Jia-Ethan/codex-keysmith

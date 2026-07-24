@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**66 entries and counting** · Last updated: 2026-07-24
+**67 entries and counting** · Last updated: 2026-07-24
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 38 |
+| [Trending Projects](trending-projects/projects.md) | 39 |
 | [AI / LLM Notes](ai/notes.md) | 3 |
 | [Reading List](articles/reading-list.md) | 13 |
 | [Coding Tips](coding-tips/tips.md) | 12 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-07-24** · *Developer Tools* — [Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith)
 - **2026-07-24** · *Hacker News Picks* — [Show HN: Echo  Fable-level results at 1/3 the cost usin](https://news.ycombinator.com/item?id=49026810)
 - **2026-07-24** · *Beginner* — [Contribuir para a comunidade: como destacar isso no seu](https://dev.to/he4rt/contribuir-para-a-comunidade-como-destacar-isso-no-seu-linkedin-e-curriculo-4cgl)
-- **2026-07-24** · *Productivity* — [Choose your Burden](https://dev.to/francistrdev/choose-your-burden-4dgl)
 
 ## How it works
 
