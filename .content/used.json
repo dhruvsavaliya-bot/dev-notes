@@ -75,15 +75,10 @@
     "https://news.ycombinator.com/item?id=49008211",
     "https://news.ycombinator.com/item?id=49010129",
     "https://news.ycombinator.com/item?id=49013538",
+    "https://news.ycombinator.com/item?id=49022152",
     "https://news.ycombinator.com/item?id=49026810"
   ],
   "recent": [
-    {
-      "date": "2026-07-23",
-      "subcat": "Other Cool Projects",
-      "title": "anthropics/jacobian-lens",
-      "url": "https://github.com/anthropics/jacobian-lens"
-    },
     {
       "date": "2026-07-23",
       "subcat": "Other Cool Projects",
@@ -137,6 +132,12 @@
       "subcat": "Other Cool Projects",
       "title": "andrewyng/openworker",
       "url": "https://github.com/andrewyng/openworker"
+    },
+    {
+      "date": "2026-07-24",
+      "subcat": "Hacker News Picks",
+      "title": "Writing by hand is good for your brain",
+      "url": "https://news.ycombinator.com/item?id=49022152"
     }
   ]
 }
