@@ -71,15 +71,10 @@
     "https://news.ycombinator.com/item?id=48992870",
     "https://news.ycombinator.com/item?id=49008211",
     "https://news.ycombinator.com/item?id=49010129",
-    "https://news.ycombinator.com/item?id=49013538"
+    "https://news.ycombinator.com/item?id=49013538",
+    "https://news.ycombinator.com/item?id=49026810"
   ],
   "recent": [
-    {
-      "date": "2026-07-23",
-      "subcat": "AI & Machine Learning",
-      "title": "lopopolo/harness-engineering",
-      "url": "https://github.com/lopopolo/harness-engineering"
-    },
     {
       "date": "2026-07-23",
       "subcat": "Hacker News Picks",
@@ -133,6 +128,12 @@
       "subcat": "Beginner",
       "title": "Contribuir para a comunidade: como destacar isso no seu",
       "url": "https://dev.to/he4rt/contribuir-para-a-comunidade-como-destacar-isso-no-seu-linkedin-e-curriculo-4cgl"
+    },
+    {
+      "date": "2026-07-24",
+      "subcat": "Hacker News Picks",
+      "title": "Show HN: Echo  Fable-level results at 1/3 the cost usin",
+      "url": "https://news.ycombinator.com/item?id=49026810"
     }
   ]
 }

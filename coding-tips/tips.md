@@ -88,6 +88,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49010129
 - **Link:** https://dylancastillo.co/posts/pelicanmaxxing.html
 
+**Added 2026-07-24**
+
+### [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810)
+- **Source:** news.ycombinator.com | **Posted:** 2026-07-23 | **By:** adam_rida
+- **Community:** 327 points, 163 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49026810
+- **Link:** https://news.ycombinator.com/item?id=49026810
+
 
 ## Beginner
 
