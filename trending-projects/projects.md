@@ -377,6 +377,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~81 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/yynxxxxx/Codex-X
 
+**Added 2026-07-24**
+
+### [andrewyng/openworker](https://github.com/andrewyng/openworker)
+- **Stats:** 2,326 stars | 318 forks | 72 open issues
+- **Language:** Python | **Created:** 2026-07-20 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~581 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/andrewyng/openworker
+
 
 ## Web & Frontend
 
