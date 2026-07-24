@@ -99,3 +99,12 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Tags:** beginners, braziliandevs, networking, career
 - **Summary:** Quando comecei a ir a eventos de tecnologia, estava na faculdade e ia a todos os gratuitos ou que...
 - **Link:** https://dev.to/he4rt/como-escolher-eventos-de-tecnologia-para-participar-55kf
+
+**Added 2026-07-24**
+
+### [Contribuir para a comunidade: como destacar isso no seu LinkedIn e currículo](https://dev.to/he4rt/contribuir-para-a-comunidade-como-destacar-isso-no-seu-linkedin-e-curriculo-4cgl)
+- **Author:** vitoriazzp | **Published:** Jul 22 | **Read time:** 4 min
+- **Community:** 123 reactions, 7 comments — a top post of the week in #beginners
+- **Tags:** braziliandevs, career, discuss, beginners
+- **Summary:** Como eu mostro que estou contribuindo? Posso colocar no meu LinkedIn? E no meu currículo, como...
+- **Link:** https://dev.to/he4rt/contribuir-para-a-comunidade-como-destacar-isso-no-seu-linkedin-e-curriculo-4cgl
