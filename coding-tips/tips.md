@@ -13,6 +13,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** I didn't go to a university for computer science. I have a B.Tech in Geophysics.  What I know about...
 - **Link:** https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1
 
+**Added 2026-07-24**
+
+### [Choose your Burden](https://dev.to/francistrdev/choose-your-burden-4dgl)
+- **Author:** FrancisTRᴅᴇᴠ (っ◔◡◔)っ | **Published:** Jul 20 | **Read time:** 5 min
+- **Community:** 97 reactions, 55 comments — a top post of the week in #productivity
+- **Tags:** discuss, community, productivity, mentalhealth
+- **Summary:** Hey everyone. Just an update on the Salesforce Certification. I am planning on releasing articles...
+- **Link:** https://dev.to/francistrdev/choose-your-burden-4dgl
+
+
 ## Hacker News Picks
 
 **Added 2026-07-14**

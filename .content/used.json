@@ -8,6 +8,7 @@
   "ids": [
     "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
     "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1",
+    "https://dev.to/francistrdev/choose-your-burden-4dgl",
     "https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd",
     "https://dev.to/he4rt/como-escolher-eventos-de-tecnologia-para-participar-55kf",
     "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
@@ -75,12 +76,6 @@
     {
       "date": "2026-07-22",
       "subcat": "AI & Machine Learning",
-      "title": "MDX-Tom/gpt-5.6-instruct",
-      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct"
-    },
-    {
-      "date": "2026-07-22",
-      "subcat": "AI & Machine Learning",
       "title": "Sahir619/fable-method",
       "url": "https://github.com/Sahir619/fable-method"
     },
@@ -131,6 +126,12 @@
       "subcat": "Hacker News Picks",
       "title": "Malleable Computing, Emacs, and You",
       "url": "https://news.ycombinator.com/item?id=49013538"
+    },
+    {
+      "date": "2026-07-24",
+      "subcat": "Productivity",
+      "title": "Choose your Burden",
+      "url": "https://dev.to/francistrdev/choose-your-burden-4dgl"
     }
   ]
 }
