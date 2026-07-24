@@ -47,6 +47,7 @@
     "https://github.com/mekos2772/ios-location-spoofer",
     "https://github.com/oomol-lab/open-connector",
     "https://github.com/oso95/scroll-world",
+    "https://github.com/petergyang/no-ai-slop",
     "https://github.com/synthetic-sciences/openscience",
     "https://github.com/tamnd/kage",
     "https://github.com/unicity-aos/aos-ce",
@@ -76,12 +77,6 @@
     "https://news.ycombinator.com/item?id=49026810"
   ],
   "recent": [
-    {
-      "date": "2026-07-23",
-      "subcat": "Hacker News Picks",
-      "title": "Are AI labs pelicanmaxxing?",
-      "url": "https://news.ycombinator.com/item?id=49010129"
-    },
     {
       "date": "2026-07-23",
       "subcat": "Other Cool Projects",
@@ -135,6 +130,12 @@
       "subcat": "Developer Tools",
       "title": "Jia-Ethan/codex-keysmith",
       "url": "https://github.com/Jia-Ethan/codex-keysmith"
+    },
+    {
+      "date": "2026-07-24",
+      "subcat": "AI & Machine Learning",
+      "title": "petergyang/no-ai-slop",
+      "url": "https://github.com/petergyang/no-ai-slop"
     }
   ]
 }

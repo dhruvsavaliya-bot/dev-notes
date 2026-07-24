@@ -164,6 +164,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~440 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/lopopolo/harness-engineering
 
+**Added 2026-07-24**
+
+### [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop)
+- **Stats:** 2,109 stars | 166 forks | 9 open issues
+- **Language:** N/A | **Created:** 2026-07-07 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Removes 20+ patterns of AI slop from any piece of writing.
+- **Growth:** averaging ~124 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/petergyang/no-ai-slop
+
 
 ## Other Cool Projects
 
