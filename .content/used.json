@@ -17,6 +17,7 @@
     "https://dev.to/xulingfeng/stratagems-10-lena-watched-a-team-adopt-her-ai-template-leo-didnt-know-the-knife-was-in-the-4khj",
     "https://dev.to/xulingfeng/stratagems-16-mark-left-a-hole-in-his-ai-audit-lena-counted-every-layer-2l7p",
     "https://dev.to/xulingfeng/stratagems-17-alex-set-an-ai-bait-the-catch-wasnt-code-it-was-someone-who-shouldnt-have-been-4893",
+    "https://dev.to/xulingfeng/stratagems-18-leo-tracked-an-ai-signal-to-derek-both-were-looking-for-the-same-enemy-51g4",
     "https://dev.to/xulingfeng/stratagems-9-lena-and-p-watched-two-ai-suppliers-fight-the-logs-said-neither-was-clean-2pj3",
     "https://github.com/DavidHDev/canvas-ui",
     "https://github.com/Fei-Away/Codex-Dream-Skin",
@@ -85,12 +86,6 @@
   "recent": [
     {
       "date": "2026-07-24",
-      "subcat": "Beginner",
-      "title": "Contribuir para a comunidade: como destacar isso no seu",
-      "url": "https://dev.to/he4rt/contribuir-para-a-comunidade-como-destacar-isso-no-seu-linkedin-e-curriculo-4cgl"
-    },
-    {
-      "date": "2026-07-24",
       "subcat": "Hacker News Picks",
       "title": "Show HN: Echo  Fable-level results at 1/3 the cost usin",
       "url": "https://news.ycombinator.com/item?id=49026810"
@@ -142,6 +137,12 @@
       "subcat": "JavaScript",
       "title": "The Dirty Secret Behind AI Agents (Demo )",
       "url": "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d"
+    },
+    {
+      "date": "2026-07-25",
+      "subcat": "AI Engineering",
+      "title": "Stratagems #18: Leo Tracked an AI Signal to Derek. Both",
+      "url": "https://dev.to/xulingfeng/stratagems-18-leo-tracked-an-ai-signal-to-derek-both-were-looking-for-the-same-enemy-51g4"
     }
   ]
 }

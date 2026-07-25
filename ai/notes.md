@@ -32,3 +32,12 @@ Lessons from building with LLMs.
 - **Tags:** ai, discuss, career, programming
 - **Summary:** Toss out a brick to lure a jade gem. — The 36 Stratagems, Throw Out a Brick to Get a...
 - **Link:** https://dev.to/xulingfeng/stratagems-17-alex-set-an-ai-bait-the-catch-wasnt-code-it-was-someone-who-shouldnt-have-been-4893
+
+**Added 2026-07-25**
+
+### [Stratagems #18: Leo Tracked an AI Signal to Derek. Both Were Looking for the Same Enemy.](https://dev.to/xulingfeng/stratagems-18-leo-tracked-an-ai-signal-to-derek-both-were-looking-for-the-same-enemy-51g4)
+- **Author:** xulingfeng | **Published:** Jul 19 | **Read time:** 9 min
+- **Community:** 68 reactions, 24 comments — a top post of the week in #ai
+- **Tags:** ai, discuss, career, programming
+- **Summary:** Capture the ringleader first. The rest will scatter on their own. — The 36 Stratagems, Capture the...
+- **Link:** https://dev.to/xulingfeng/stratagems-18-leo-tracked-an-ai-signal-to-derek-both-were-looking-for-the-same-enemy-51g4
