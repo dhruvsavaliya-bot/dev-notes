@@ -17,6 +17,7 @@
     "https://dev.to/xulingfeng/stratagems-16-mark-left-a-hole-in-his-ai-audit-lena-counted-every-layer-2l7p",
     "https://dev.to/xulingfeng/stratagems-17-alex-set-an-ai-bait-the-catch-wasnt-code-it-was-someone-who-shouldnt-have-been-4893",
     "https://dev.to/xulingfeng/stratagems-9-lena-and-p-watched-two-ai-suppliers-fight-the-logs-said-neither-was-clean-2pj3",
+    "https://github.com/DavidHDev/canvas-ui",
     "https://github.com/Fei-Away/Codex-Dream-Skin",
     "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
     "https://github.com/Jia-Ethan/codex-keysmith",
@@ -82,12 +83,6 @@
   "recent": [
     {
       "date": "2026-07-23",
-      "subcat": "AI Engineering",
-      "title": "Stratagems #17: Alex Set an AI Bait. The Catch Wasn't C",
-      "url": "https://dev.to/xulingfeng/stratagems-17-alex-set-an-ai-bait-the-catch-wasnt-code-it-was-someone-who-shouldnt-have-been-4893"
-    },
-    {
-      "date": "2026-07-23",
       "subcat": "Hacker News Picks",
       "title": "Malleable Computing, Emacs, and You",
       "url": "https://news.ycombinator.com/item?id=49013538"
@@ -139,6 +134,12 @@
       "subcat": "Hacker News Picks",
       "title": "Firefox Containers Preview",
       "url": "https://news.ycombinator.com/item?id=48995409"
+    },
+    {
+      "date": "2026-07-25",
+      "subcat": "AI & Machine Learning",
+      "title": "DavidHDev/canvas-ui",
+      "url": "https://github.com/DavidHDev/canvas-ui"
     }
   ]
 }

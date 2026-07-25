@@ -174,6 +174,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~124 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/petergyang/no-ai-slop
 
+**Added 2026-07-25**
+
+### [DavidHDev/canvas-ui](https://github.com/DavidHDev/canvas-ui)
+- **Stats:** 1,726 stars | 67 forks | 0 open issues
+- **Language:** TypeScript | **Created:** 2026-07-16 | **License:** NOASSERTION
+- **Topics:** animation, canvas, component-library, components, creative-coding, design-engineering
+- **What it is:** A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla.
+- **Growth:** averaging ~191 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/DavidHDev/canvas-ui
+
 
 ## Other Cool Projects
 

@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**71 entries and counting** · Last updated: 2026-07-25
+**72 entries and counting** · Last updated: 2026-07-25
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 41 |
+| [Trending Projects](trending-projects/projects.md) | 42 |
 | [AI / LLM Notes](ai/notes.md) | 3 |
 | [Reading List](articles/reading-list.md) | 13 |
 | [Coding Tips](coding-tips/tips.md) | 14 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-07-25** · *AI & Machine Learning* — [DavidHDev/canvas-ui](https://github.com/DavidHDev/canvas-ui)
 - **2026-07-25** · *Hacker News Picks* — [Firefox Containers Preview](https://news.ycombinator.com/item?id=48995409)
 - **2026-07-24** · *Hacker News Picks* — [Writing by hand is good for your brain](https://news.ycombinator.com/item?id=49022152)
-- **2026-07-24** · *Other Cool Projects* — [andrewyng/openworker](https://github.com/andrewyng/openworker)
 
 ## How it works
 
