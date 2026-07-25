@@ -12,6 +12,7 @@
     "https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd",
     "https://dev.to/he4rt/como-escolher-eventos-de-tecnologia-para-participar-55kf",
     "https://dev.to/he4rt/contribuir-para-a-comunidade-como-destacar-isso-no-seu-linkedin-e-curriculo-4cgl",
+    "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
     "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
     "https://dev.to/xulingfeng/stratagems-10-lena-watched-a-team-adopt-her-ai-template-leo-didnt-know-the-knife-was-in-the-4khj",
     "https://dev.to/xulingfeng/stratagems-16-mark-left-a-hole-in-his-ai-audit-lena-counted-every-layer-2l7p",
@@ -84,12 +85,6 @@
   "recent": [
     {
       "date": "2026-07-24",
-      "subcat": "Productivity",
-      "title": "Choose your Burden",
-      "url": "https://dev.to/francistrdev/choose-your-burden-4dgl"
-    },
-    {
-      "date": "2026-07-24",
       "subcat": "Beginner",
       "title": "Contribuir para a comunidade: como destacar isso no seu",
       "url": "https://dev.to/he4rt/contribuir-para-a-comunidade-como-destacar-isso-no-seu-linkedin-e-curriculo-4cgl"
@@ -141,6 +136,12 @@
       "subcat": "Hacker News Picks",
       "title": "Unitree As2-W",
       "url": "https://news.ycombinator.com/item?id=49038045"
+    },
+    {
+      "date": "2026-07-25",
+      "subcat": "JavaScript",
+      "title": "The Dirty Secret Behind AI Agents (Demo )",
+      "url": "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d"
     }
   ]
 }
