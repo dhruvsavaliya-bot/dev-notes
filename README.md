@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**77 entries and counting** · Last updated: 2026-07-25
+**78 entries and counting** · Last updated: 2026-07-25
 
 ## Categories
 
@@ -11,15 +11,15 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 43 |
 | [AI / LLM Notes](ai/notes.md) | 4 |
-| [Reading List](articles/reading-list.md) | 13 |
+| [Reading List](articles/reading-list.md) | 14 |
 | [Coding Tips](coding-tips/tips.md) | 16 |
 | [Language Notes](languages/notes.md) | 1 |
 
 ## Latest additions
 
+- **2026-07-25** · *Hacker News Picks* — [ARC-AGI Leaderboard](https://news.ycombinator.com/item?id=49045040)
 - **2026-07-25** · *AI & Machine Learning* — [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)
 - **2026-07-25** · *Hacker News Picks* — [Marimo now runs in PyCharm](https://news.ycombinator.com/item?id=49004464)
-- **2026-07-25** · *AI Engineering* — [Stratagems #18: Leo Tracked an AI Signal to Derek. Both](https://dev.to/xulingfeng/stratagems-18-leo-tracked-an-ai-signal-to-derek-both-were-looking-for-the-same-enemy-51g4)
 
 ## How it works
 

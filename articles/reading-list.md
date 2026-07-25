@@ -118,6 +118,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49013538
 - **Link:** http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html
 
+**Added 2026-07-25**
+
+### [ARC-AGI Leaderboard](https://arcprize.org/leaderboard)
+- **Source:** arcprize.org | **Posted:** 2026-07-25 | **By:** rzk
+- **Community:** 114 points, 87 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49045040
+- **Link:** https://arcprize.org/leaderboard
+
 
 ## DevOps & Cloud
 
