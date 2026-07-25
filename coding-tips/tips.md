@@ -115,6 +115,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=48995409
 - **Link:** https://blog.mozilla.org/en/firefox/firefox-containers-preview/
 
+**Added 2026-07-25**
+
+### [Unitree As2-W](https://www.unitree.com/As2-W/)
+- **Source:** www.unitree.com | **Posted:** 2026-07-24 | **By:** MehrdadKhnzd
+- **Community:** 115 points, 49 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49038045
+- **Link:** https://www.unitree.com/As2-W/
+
 
 ## Beginner
 

@@ -78,15 +78,10 @@
     "https://news.ycombinator.com/item?id=49010129",
     "https://news.ycombinator.com/item?id=49013538",
     "https://news.ycombinator.com/item?id=49022152",
-    "https://news.ycombinator.com/item?id=49026810"
+    "https://news.ycombinator.com/item?id=49026810",
+    "https://news.ycombinator.com/item?id=49038045"
   ],
   "recent": [
-    {
-      "date": "2026-07-23",
-      "subcat": "Hacker News Picks",
-      "title": "Malleable Computing, Emacs, and You",
-      "url": "https://news.ycombinator.com/item?id=49013538"
-    },
     {
       "date": "2026-07-24",
       "subcat": "Productivity",
@@ -140,6 +135,12 @@
       "subcat": "AI & Machine Learning",
       "title": "DavidHDev/canvas-ui",
       "url": "https://github.com/DavidHDev/canvas-ui"
+    },
+    {
+      "date": "2026-07-25",
+      "subcat": "Hacker News Picks",
+      "title": "Unitree As2-W",
+      "url": "https://news.ycombinator.com/item?id=49038045"
     }
   ]
 }
