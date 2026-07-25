@@ -106,6 +106,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49022152
 - **Link:** https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your
 
+**Added 2026-07-25**
+
+### [Firefox Containers Preview](https://blog.mozilla.org/en/firefox/firefox-containers-preview/)
+- **Source:** blog.mozilla.org | **Posted:** 2026-07-21 | **By:** twapi
+- **Community:** 260 points, 91 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=48995409
+- **Link:** https://blog.mozilla.org/en/firefox/firefox-containers-preview/
+
 
 ## Beginner
 

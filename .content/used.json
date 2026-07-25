@@ -72,6 +72,7 @@
     "https://news.ycombinator.com/item?id=48981620",
     "https://news.ycombinator.com/item?id=48982535",
     "https://news.ycombinator.com/item?id=48992870",
+    "https://news.ycombinator.com/item?id=48995409",
     "https://news.ycombinator.com/item?id=49008211",
     "https://news.ycombinator.com/item?id=49010129",
     "https://news.ycombinator.com/item?id=49013538",
@@ -79,12 +80,6 @@
     "https://news.ycombinator.com/item?id=49026810"
   ],
   "recent": [
-    {
-      "date": "2026-07-23",
-      "subcat": "Other Cool Projects",
-      "title": "yynxxxxx/Codex-X",
-      "url": "https://github.com/yynxxxxx/Codex-X"
-    },
     {
       "date": "2026-07-23",
       "subcat": "AI Engineering",
@@ -138,6 +133,12 @@
       "subcat": "Hacker News Picks",
       "title": "Writing by hand is good for your brain",
       "url": "https://news.ycombinator.com/item?id=49022152"
+    },
+    {
+      "date": "2026-07-25",
+      "subcat": "Hacker News Picks",
+      "title": "Firefox Containers Preview",
+      "url": "https://news.ycombinator.com/item?id=48995409"
     }
   ]
 }
