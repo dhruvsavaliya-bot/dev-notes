@@ -124,6 +124,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49038045
 - **Link:** https://www.unitree.com/As2-W/
 
+**Added 2026-07-25**
+
+### [Marimo now runs in PyCharm](https://marimo.io/blog/pycharm)
+- **Source:** marimo.io | **Posted:** 2026-07-22 | **By:** cantdutchthis
+- **Community:** 109 points, 30 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49004464
+- **Link:** https://marimo.io/blog/pycharm
+
 
 ## Beginner
 
