@@ -44,6 +44,7 @@
     "https://github.com/elder-plinius/T3MP3ST",
     "https://github.com/google-research/tabfm",
     "https://github.com/hoainho/img2threejs",
+    "https://github.com/img2threejs/img2threejs",
     "https://github.com/isjiamu/gzh-design-skill",
     "https://github.com/jamesob/local-llm",
     "https://github.com/langchain-ai/openwiki",
@@ -85,12 +86,6 @@
     "https://news.ycombinator.com/item?id=49038045"
   ],
   "recent": [
-    {
-      "date": "2026-07-24",
-      "subcat": "Developer Tools",
-      "title": "Jia-Ethan/codex-keysmith",
-      "url": "https://github.com/Jia-Ethan/codex-keysmith"
-    },
     {
       "date": "2026-07-24",
       "subcat": "AI & Machine Learning",
@@ -144,6 +139,12 @@
       "subcat": "Hacker News Picks",
       "title": "Marimo now runs in PyCharm",
       "url": "https://news.ycombinator.com/item?id=49004464"
+    },
+    {
+      "date": "2026-07-25",
+      "subcat": "AI & Machine Learning",
+      "title": "img2threejs/img2threejs",
+      "url": "https://github.com/img2threejs/img2threejs"
     }
   ]
 }

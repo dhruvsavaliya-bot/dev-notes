@@ -184,6 +184,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~191 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/DavidHDev/canvas-ui
 
+**Added 2026-07-25**
+
+### [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)
+- **Stats:** 4,331 stars | 324 forks | 19 open issues
+- **Language:** Python | **Created:** 2026-07-15 | **License:** Apache-2.0
+- **Topics:** 3d, ai-agents, claude-code, computer-graphics, generative, image-to-3d
+- **What it is:** Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
+- **Growth:** averaging ~433 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/img2threejs/img2threejs
+
 
 ## Other Cool Projects
 
