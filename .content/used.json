@@ -53,6 +53,7 @@
     "https://github.com/mekos2772/ios-location-spoofer",
     "https://github.com/oomol-lab/open-connector",
     "https://github.com/oso95/scroll-world",
+    "https://github.com/penecho/penecho",
     "https://github.com/petergyang/no-ai-slop",
     "https://github.com/synthetic-sciences/openscience",
     "https://github.com/tamnd/kage",
@@ -88,12 +89,6 @@
     "https://news.ycombinator.com/item?id=49045040"
   ],
   "recent": [
-    {
-      "date": "2026-07-24",
-      "subcat": "Hacker News Picks",
-      "title": "Writing by hand is good for your brain",
-      "url": "https://news.ycombinator.com/item?id=49022152"
-    },
     {
       "date": "2026-07-25",
       "subcat": "Hacker News Picks",
@@ -147,6 +142,12 @@
       "subcat": "AI & Machine Learning",
       "title": "Vincentwei1021/video-shotcraft",
       "url": "https://github.com/Vincentwei1021/video-shotcraft"
+    },
+    {
+      "date": "2026-07-26",
+      "subcat": "AI & Machine Learning",
+      "title": "penecho/penecho",
+      "url": "https://github.com/penecho/penecho"
     }
   ]
 }

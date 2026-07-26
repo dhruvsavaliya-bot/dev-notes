@@ -204,6 +204,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~260 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Vincentwei1021/video-shotcraft
 
+**Added 2026-07-26**
+
+### [penecho/penecho](https://github.com/penecho/penecho)
+- **Stats:** 1,640 stars | 175 forks | 11 open issues
+- **Language:** JavaScript | **Created:** 2026-07-14 | **License:** AGPL-3.0
+- **Topics:** ai, canvas, claude, codex, education, handwriting
+- **What it is:** Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.
+- **Growth:** averaging ~136 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/penecho/penecho
+
 
 ## Other Cool Projects
 
