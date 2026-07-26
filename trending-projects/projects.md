@@ -427,6 +427,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~581 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/andrewyng/openworker
 
+**Added 2026-07-26**
+
+### [nyblnet/bento](https://github.com/nyblnet/bento)
+- **Stats:** 1,970 stars | 128 forks | 14 open issues
+- **Language:** TypeScript | **Created:** 2026-07-17 | **License:** MIT
+- **Topics:** mit-license, office, office-365, office-suite, office-tools, office365
+- **What it is:** Bento, the office suite that fits in a file
+- **Growth:** averaging ~218 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/nyblnet/bento
+
 
 ## Web & Frontend
 
