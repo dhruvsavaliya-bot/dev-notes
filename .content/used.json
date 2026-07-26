@@ -29,6 +29,7 @@
     "https://github.com/MaximeRivest/riddle",
     "https://github.com/Sahir619/fable-method",
     "https://github.com/Shpigford/knockoff",
+    "https://github.com/Vincentwei1021/video-shotcraft",
     "https://github.com/Waishnav/devspace",
     "https://github.com/Younesfdj/gitfut",
     "https://github.com/Yu9191/wloc",
@@ -89,12 +90,6 @@
   "recent": [
     {
       "date": "2026-07-24",
-      "subcat": "Other Cool Projects",
-      "title": "andrewyng/openworker",
-      "url": "https://github.com/andrewyng/openworker"
-    },
-    {
-      "date": "2026-07-24",
       "subcat": "Hacker News Picks",
       "title": "Writing by hand is good for your brain",
       "url": "https://news.ycombinator.com/item?id=49022152"
@@ -146,6 +141,12 @@
       "subcat": "Hacker News Picks",
       "title": "ARC-AGI Leaderboard",
       "url": "https://news.ycombinator.com/item?id=49045040"
+    },
+    {
+      "date": "2026-07-26",
+      "subcat": "AI & Machine Learning",
+      "title": "Vincentwei1021/video-shotcraft",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft"
     }
   ]
 }

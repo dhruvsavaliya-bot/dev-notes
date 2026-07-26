@@ -194,6 +194,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~433 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/img2threejs/img2threejs
 
+**Added 2026-07-26**
+
+### [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)
+- **Stats:** 1,821 stars | 159 forks | 3 open issues
+- **Language:** TypeScript | **Created:** 2026-07-19 | **License:** Apache-2.0
+- **Topics:** agent-skills, ai-agents, ai-video, claude-code, claude-code-skills, claude-skills
+- **What it is:** AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template
+- **Growth:** averaging ~260 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/Vincentwei1021/video-shotcraft
+
 
 ## Other Cool Projects
 
