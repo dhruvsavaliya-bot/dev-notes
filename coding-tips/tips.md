@@ -151,6 +151,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49063754
 - **Link:** https://nikolays.github.io/PGSimCity/
 
+**Added 2026-07-27**
+
+### [How to Block Some of the Bots](https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/)
+- **Source:** nochan.net | **Posted:** 2026-07-26 | **By:** Bender
+- **Community:** 105 points, 122 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49060945
+- **Link:** https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/
+
 
 ## Beginner
 
