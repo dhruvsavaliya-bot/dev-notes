@@ -90,15 +90,10 @@
     "https://news.ycombinator.com/item?id=49026810",
     "https://news.ycombinator.com/item?id=49038045",
     "https://news.ycombinator.com/item?id=49045040",
-    "https://news.ycombinator.com/item?id=49057398"
+    "https://news.ycombinator.com/item?id=49057398",
+    "https://news.ycombinator.com/item?id=49063022"
   ],
   "recent": [
-    {
-      "date": "2026-07-25",
-      "subcat": "AI Engineering",
-      "title": "Stratagems #18: Leo Tracked an AI Signal to Derek. Both",
-      "url": "https://dev.to/xulingfeng/stratagems-18-leo-tracked-an-ai-signal-to-derek-both-were-looking-for-the-same-enemy-51g4"
-    },
     {
       "date": "2026-07-25",
       "subcat": "Hacker News Picks",
@@ -152,6 +147,12 @@
       "subcat": "Web Development",
       "title": "Snake - rendered with 576 browser windows [warning - th",
       "url": "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i"
+    },
+    {
+      "date": "2026-07-27",
+      "subcat": "Hacker News Picks",
+      "title": "US citizen charged after GrapheneOS phone wipes during ",
+      "url": "https://news.ycombinator.com/item?id=49063022"
     }
   ]
 }

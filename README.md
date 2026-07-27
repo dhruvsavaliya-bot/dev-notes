@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**84 entries and counting** · Last updated: 2026-07-27
+**85 entries and counting** · Last updated: 2026-07-27
 
 ## Categories
 
@@ -11,15 +11,15 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 46 |
 | [AI / LLM Notes](ai/notes.md) | 5 |
-| [Reading List](articles/reading-list.md) | 16 |
+| [Reading List](articles/reading-list.md) | 17 |
 | [Coding Tips](coding-tips/tips.md) | 16 |
 | [Language Notes](languages/notes.md) | 1 |
 
 ## Latest additions
 
+- **2026-07-27** · *Hacker News Picks* — [US citizen charged after GrapheneOS phone wipes during ](https://news.ycombinator.com/item?id=49063022)
 - **2026-07-27** · *Web Development* — [Snake - rendered with 576 browser windows [warning - th](https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i)
 - **2026-07-27** · *Hacker News Picks* — [Go Analysis Framework: modular static analysis by go te](https://news.ycombinator.com/item?id=49057398)
-- **2026-07-27** · *AI Engineering* — [How AI Endpoints Change the Traditional API Flow](https://dev.to/gramli/how-ai-endpoints-change-the-traditional-api-flow-3773)
 
 ## How it works
 

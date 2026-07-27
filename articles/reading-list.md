@@ -146,6 +146,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49057398
 - **Link:** https://pkg.go.dev/golang.org/x/tools/go/analysis
 
+**Added 2026-07-27**
+
+### [US citizen charged after GrapheneOS phone wipes during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
+- **Source:** www.techspot.com | **Posted:** 2026-07-26 | **By:** eecc
+- **Community:** 599 points, 413 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49063022
+- **Link:** https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html
+
 
 ## DevOps & Cloud
 
