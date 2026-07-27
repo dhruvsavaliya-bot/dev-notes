@@ -142,6 +142,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49061887
 - **Link:** https://github.com/AARomanov1985/Audio-Cassette-Simulation
 
+**Added 2026-07-27**
+
+### [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
+- **Source:** nikolays.github.io | **Posted:** 2026-07-27 | **By:** jonbaer
+- **Community:** 568 points, 56 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49063754
+- **Link:** https://nikolays.github.io/PGSimCity/
+
 
 ## Beginner
 

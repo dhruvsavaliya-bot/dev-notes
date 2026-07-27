@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**86 entries and counting** · Last updated: 2026-07-27
+**87 entries and counting** · Last updated: 2026-07-27
 
 ## Categories
 
@@ -12,14 +12,14 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 | [Trending Projects](trending-projects/projects.md) | 46 |
 | [AI / LLM Notes](ai/notes.md) | 5 |
 | [Reading List](articles/reading-list.md) | 17 |
-| [Coding Tips](coding-tips/tips.md) | 17 |
+| [Coding Tips](coding-tips/tips.md) | 18 |
 | [Language Notes](languages/notes.md) | 1 |
 
 ## Latest additions
 
+- **2026-07-27** · *Hacker News Picks* — [PGSimCity - How PostgreSQL Works](https://news.ycombinator.com/item?id=49063754)
 - **2026-07-27** · *Hacker News Picks* — [Simulate cassette tape audio profiles using FFmpeg](https://news.ycombinator.com/item?id=49061887)
 - **2026-07-27** · *Hacker News Picks* — [US citizen charged after GrapheneOS phone wipes during ](https://news.ycombinator.com/item?id=49063022)
-- **2026-07-27** · *Web Development* — [Snake - rendered with 576 browser windows [warning - th](https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i)
 
 ## How it works
 

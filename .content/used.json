@@ -92,15 +92,10 @@
     "https://news.ycombinator.com/item?id=49045040",
     "https://news.ycombinator.com/item?id=49057398",
     "https://news.ycombinator.com/item?id=49061887",
-    "https://news.ycombinator.com/item?id=49063022"
+    "https://news.ycombinator.com/item?id=49063022",
+    "https://news.ycombinator.com/item?id=49063754"
   ],
   "recent": [
-    {
-      "date": "2026-07-25",
-      "subcat": "AI & Machine Learning",
-      "title": "img2threejs/img2threejs",
-      "url": "https://github.com/img2threejs/img2threejs"
-    },
     {
       "date": "2026-07-25",
       "subcat": "Hacker News Picks",
@@ -154,6 +149,12 @@
       "subcat": "Hacker News Picks",
       "title": "Simulate cassette tape audio profiles using FFmpeg",
       "url": "https://news.ycombinator.com/item?id=49061887"
+    },
+    {
+      "date": "2026-07-27",
+      "subcat": "Hacker News Picks",
+      "title": "PGSimCity - How PostgreSQL Works",
+      "url": "https://news.ycombinator.com/item?id=49063754"
     }
   ]
 }
