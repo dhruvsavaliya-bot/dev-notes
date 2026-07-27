@@ -88,15 +88,10 @@
     "https://news.ycombinator.com/item?id=49022152",
     "https://news.ycombinator.com/item?id=49026810",
     "https://news.ycombinator.com/item?id=49038045",
-    "https://news.ycombinator.com/item?id=49045040"
+    "https://news.ycombinator.com/item?id=49045040",
+    "https://news.ycombinator.com/item?id=49057398"
   ],
   "recent": [
-    {
-      "date": "2026-07-25",
-      "subcat": "Hacker News Picks",
-      "title": "Unitree As2-W",
-      "url": "https://news.ycombinator.com/item?id=49038045"
-    },
     {
       "date": "2026-07-25",
       "subcat": "JavaScript",
@@ -150,6 +145,12 @@
       "subcat": "AI Engineering",
       "title": "How AI Endpoints Change the Traditional API Flow",
       "url": "https://dev.to/gramli/how-ai-endpoints-change-the-traditional-api-flow-3773"
+    },
+    {
+      "date": "2026-07-27",
+      "subcat": "Hacker News Picks",
+      "title": "Go Analysis Framework: modular static analysis by go te",
+      "url": "https://news.ycombinator.com/item?id=49057398"
     }
   ]
 }

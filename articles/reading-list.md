@@ -127,6 +127,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49045040
 - **Link:** https://arcprize.org/leaderboard
 
+**Added 2026-07-27**
+
+### [Go Analysis Framework: modular static analysis by go team](https://pkg.go.dev/golang.org/x/tools/go/analysis)
+- **Source:** pkg.go.dev | **Posted:** 2026-07-26 | **By:** AbuAssar
+- **Community:** 194 points, 51 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49057398
+- **Link:** https://pkg.go.dev/golang.org/x/tools/go/analysis
+
 
 ## DevOps & Cloud
 
