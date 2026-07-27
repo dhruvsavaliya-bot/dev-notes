@@ -133,6 +133,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49004464
 - **Link:** https://marimo.io/blog/pycharm
 
+**Added 2026-07-27**
+
+### [Simulate cassette tape audio profiles using FFmpeg](https://github.com/AARomanov1985/Audio-Cassette-Simulation)
+- **Source:** github.com | **Posted:** 2026-07-26 | **By:** xterminal
+- **Community:** 124 points, 47 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49061887
+- **Link:** https://github.com/AARomanov1985/Audio-Cassette-Simulation
+
 
 ## Beginner
 
