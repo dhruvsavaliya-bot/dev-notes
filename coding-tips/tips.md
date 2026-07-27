@@ -160,6 +160,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49060945
 - **Link:** https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/
 
+**Added 2026-07-27**
+
+### [Kimi-K3 Releases on HuggingFace 7/27](https://huggingface.co/moonshotai/Kimi-K3)
+- **Source:** huggingface.co | **Posted:** 2026-07-27 | **By:** nateb2022
+- **Community:** 494 points, 231 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49065752
+- **Link:** https://huggingface.co/moonshotai/Kimi-K3
+
 
 ## Beginner
 
