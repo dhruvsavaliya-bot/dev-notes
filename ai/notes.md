@@ -41,3 +41,12 @@ Lessons from building with LLMs.
 - **Tags:** ai, discuss, career, programming
 - **Summary:** Capture the ringleader first. The rest will scatter on their own. — The 36 Stratagems, Capture the...
 - **Link:** https://dev.to/xulingfeng/stratagems-18-leo-tracked-an-ai-signal-to-derek-both-were-looking-for-the-same-enemy-51g4
+
+**Added 2026-07-27**
+
+### [How AI Endpoints Change the Traditional API Flow](https://dev.to/gramli/how-ai-endpoints-change-the-traditional-api-flow-3773)
+- **Author:** Daniel Balcarek | **Published:** Jul 23 | **Read time:** 10 min
+- **Community:** 54 reactions, 28 comments — a top post of the week in #ai
+- **Tags:** ai, architecture, webdev, api
+- **Summary:** As a backend developer, I have built hundreds of endpoints, so the typical endpoint flow is deeply...
+- **Link:** https://dev.to/gramli/how-ai-endpoints-change-the-traditional-api-flow-3773
