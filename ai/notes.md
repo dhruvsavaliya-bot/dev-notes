@@ -50,3 +50,12 @@ Lessons from building with LLMs.
 - **Tags:** ai, architecture, webdev, api
 - **Summary:** As a backend developer, I have built hundreds of endpoints, so the typical endpoint flow is deeply...
 - **Link:** https://dev.to/gramli/how-ai-endpoints-change-the-traditional-api-flow-3773
+
+**Added 2026-07-27**
+
+### [AI And Code Ownership: Who Is Responsible For Generated Code?](https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj)
+- **Author:** Nazar Boyko | **Published:** Jul 20 | **Read time:** 13 min
+- **Community:** 124 reactions, 103 comments — a top post of the week in #ai
+- **Tags:** discuss, ai, career, programming
+- **Summary:** Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...
+- **Link:** https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj

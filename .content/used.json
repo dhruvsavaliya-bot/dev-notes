@@ -14,6 +14,7 @@
     "https://dev.to/gramli/how-ai-endpoints-change-the-traditional-api-flow-3773",
     "https://dev.to/he4rt/como-escolher-eventos-de-tecnologia-para-participar-55kf",
     "https://dev.to/he4rt/contribuir-para-a-comunidade-como-destacar-isso-no-seu-linkedin-e-curriculo-4cgl",
+    "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
     "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
     "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
     "https://dev.to/xulingfeng/stratagems-10-lena-watched-a-team-adopt-her-ai-template-leo-didnt-know-the-knife-was-in-the-4khj",
@@ -100,12 +101,6 @@
     {
       "date": "2026-07-26",
       "subcat": "AI & Machine Learning",
-      "title": "Vincentwei1021/video-shotcraft",
-      "url": "https://github.com/Vincentwei1021/video-shotcraft"
-    },
-    {
-      "date": "2026-07-26",
-      "subcat": "AI & Machine Learning",
       "title": "penecho/penecho",
       "url": "https://github.com/penecho/penecho"
     },
@@ -156,6 +151,12 @@
       "subcat": "Hacker News Picks",
       "title": "How to Block Some of the Bots",
       "url": "https://news.ycombinator.com/item?id=49060945"
+    },
+    {
+      "date": "2026-07-27",
+      "subcat": "AI Engineering",
+      "title": "AI And Code Ownership: Who Is Responsible For Generated",
+      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj"
     }
   ]
 }
