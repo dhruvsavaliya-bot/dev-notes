@@ -10,6 +10,7 @@
     "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1",
     "https://dev.to/francistrdev/choose-your-burden-4dgl",
     "https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd",
+    "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i",
     "https://dev.to/gramli/how-ai-endpoints-change-the-traditional-api-flow-3773",
     "https://dev.to/he4rt/como-escolher-eventos-de-tecnologia-para-participar-55kf",
     "https://dev.to/he4rt/contribuir-para-a-comunidade-como-destacar-isso-no-seu-linkedin-e-curriculo-4cgl",
@@ -94,12 +95,6 @@
   "recent": [
     {
       "date": "2026-07-25",
-      "subcat": "JavaScript",
-      "title": "The Dirty Secret Behind AI Agents (Demo )",
-      "url": "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d"
-    },
-    {
-      "date": "2026-07-25",
       "subcat": "AI Engineering",
       "title": "Stratagems #18: Leo Tracked an AI Signal to Derek. Both",
       "url": "https://dev.to/xulingfeng/stratagems-18-leo-tracked-an-ai-signal-to-derek-both-were-looking-for-the-same-enemy-51g4"
@@ -151,6 +146,12 @@
       "subcat": "Hacker News Picks",
       "title": "Go Analysis Framework: modular static analysis by go te",
       "url": "https://news.ycombinator.com/item?id=49057398"
+    },
+    {
+      "date": "2026-07-27",
+      "subcat": "Web Development",
+      "title": "Snake - rendered with 576 browser windows [warning - th",
+      "url": "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i"
     }
   ]
 }

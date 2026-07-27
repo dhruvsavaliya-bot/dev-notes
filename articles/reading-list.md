@@ -26,6 +26,16 @@ Fresh dev articles and blog posts.
 - **Summary:** Here is a question that sounds simple until you've actually shipped a UI: how many files does it take...
 - **Link:** https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl
 
+**Added 2026-07-27**
+
+### [🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]](https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i)
+- **Author:** GrahamTheDev | **Published:** Jul 23 | **Read time:** 3 min
+- **Community:** 58 reactions, 26 comments — a top post of the week in #webdev
+- **Tags:** javascript, webdev, programming, css
+- **Summary:** I have been quiet lately I know - but don't worry I haven't forgotten you all and how much you like...
+- **Link:** https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i
+
+
 ## Hacker News Picks
 
 **Added 2026-07-14**
