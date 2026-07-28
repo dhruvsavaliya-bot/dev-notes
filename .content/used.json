@@ -65,6 +65,7 @@
     "https://github.com/synthetic-sciences/openscience",
     "https://github.com/tamnd/kage",
     "https://github.com/unicity-aos/aos-ce",
+    "https://github.com/vercel-labs/scriptc",
     "https://github.com/withmarbleapp/os-taxonomy",
     "https://github.com/x4gKing/X4G",
     "https://github.com/xai-org/grok-build",
@@ -103,12 +104,6 @@
     "https://news.ycombinator.com/item?id=49076900"
   ],
   "recent": [
-    {
-      "date": "2026-07-27",
-      "subcat": "Hacker News Picks",
-      "title": "US citizen charged after GrapheneOS phone wipes during ",
-      "url": "https://news.ycombinator.com/item?id=49063022"
-    },
     {
       "date": "2026-07-27",
       "subcat": "Hacker News Picks",
@@ -162,6 +157,12 @@
       "subcat": "AI Engineering",
       "title": "18 Stories, 6 Characters, 18 to Go  A Half-Time Check-I",
       "url": "https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0"
+    },
+    {
+      "date": "2026-07-28",
+      "subcat": "Other Cool Projects",
+      "title": "vercel-labs/scriptc",
+      "url": "https://github.com/vercel-labs/scriptc"
     }
   ]
 }

@@ -447,6 +447,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~2,167 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/MoonshotAI/Kimi-K3
 
+**Added 2026-07-28**
+
+### [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
+- **Stats:** 1,913 stars | 34 forks | 11 open issues
+- **Language:** TypeScript | **Created:** 2026-07-22 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** TypeScript-to-Native Compiler
+- **Growth:** averaging ~318 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/vercel-labs/scriptc
+
 
 ## Web & Frontend
 
