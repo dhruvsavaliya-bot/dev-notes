@@ -18,6 +18,7 @@
     "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
     "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
     "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
+    "https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0",
     "https://dev.to/xulingfeng/stratagems-10-lena-watched-a-team-adopt-her-ai-template-leo-didnt-know-the-knife-was-in-the-4khj",
     "https://dev.to/xulingfeng/stratagems-16-mark-left-a-hole-in-his-ai-audit-lena-counted-every-layer-2l7p",
     "https://dev.to/xulingfeng/stratagems-17-alex-set-an-ai-bait-the-catch-wasnt-code-it-was-someone-who-shouldnt-have-been-4893",
@@ -104,12 +105,6 @@
   "recent": [
     {
       "date": "2026-07-27",
-      "subcat": "Web Development",
-      "title": "Snake - rendered with 576 browser windows [warning - th",
-      "url": "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i"
-    },
-    {
-      "date": "2026-07-27",
       "subcat": "Hacker News Picks",
       "title": "US citizen charged after GrapheneOS phone wipes during ",
       "url": "https://news.ycombinator.com/item?id=49063022"
@@ -161,6 +156,12 @@
       "subcat": "AI Engineering",
       "title": "The Junior Developer Pipeline Is Broken... And AI Broke",
       "url": "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai"
+    },
+    {
+      "date": "2026-07-28",
+      "subcat": "AI Engineering",
+      "title": "18 Stories, 6 Characters, 18 to Go  A Half-Time Check-I",
+      "url": "https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0"
     }
   ]
 }

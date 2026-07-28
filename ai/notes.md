@@ -68,3 +68,12 @@ Lessons from building with LLMs.
 - **Tags:** ai, discuss, career, programming
 - **Summary:** Everyone agrees AI makes senior engineers more valuable. Almost nobody asks where the next generation...
 - **Link:** https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai
+
+**Added 2026-07-28**
+
+### [18 Stories, 6 Characters, 18 to Go — A Half-Time Check-In on the 36 Stratagems](https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0)
+- **Author:** xulingfeng | **Published:** Jul 26 | **Read time:** 6 min
+- **Community:** 58 reactions, 19 comments — a top post of the week in #ai
+- **Tags:** ai, discuss, career, programming
+- **Summary:** I took a week off from Dev.to. Not a planned one — I just sat down last Sunday and realized I had...
+- **Link:** https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0
