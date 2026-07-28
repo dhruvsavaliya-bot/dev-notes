@@ -22,6 +22,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** Hey everyone. Just an update on the Salesforce Certification. I am planning on releasing articles...
 - **Link:** https://dev.to/francistrdev/choose-your-burden-4dgl
 
+**Added 2026-07-28**
+
+### [How terminal-sharing tools put your shell in a browser](https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328)
+- **Author:** Athreya aka Maneshwar | **Published:** Jul 26 | **Read time:** 9 min
+- **Community:** 57 reactions, 6 comments — a top post of the week in #productivity
+- **Tags:** webdev, programming, productivity, cli
+- **Summary:** Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...
+- **Link:** https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328
+
 
 ## Hacker News Picks
 
