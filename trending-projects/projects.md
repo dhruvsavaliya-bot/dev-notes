@@ -457,6 +457,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~318 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/vercel-labs/scriptc
 
+**Added 2026-07-28**
+
+### [slvDev/esp32-ai](https://github.com/slvDev/esp32-ai)
+- **Stats:** 1,929 stars | 205 forks | 7 open issues
+- **Language:** Python | **Created:** 2026-07-23 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~385 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/slvDev/esp32-ai
+
 
 ## Web & Frontend
 

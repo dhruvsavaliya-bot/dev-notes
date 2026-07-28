@@ -62,6 +62,7 @@
     "https://github.com/oso95/scroll-world",
     "https://github.com/penecho/penecho",
     "https://github.com/petergyang/no-ai-slop",
+    "https://github.com/slvDev/esp32-ai",
     "https://github.com/synthetic-sciences/openscience",
     "https://github.com/tamnd/kage",
     "https://github.com/unicity-aos/aos-ce",
@@ -106,12 +107,6 @@
     "https://news.ycombinator.com/item?id=49076900"
   ],
   "recent": [
-    {
-      "date": "2026-07-27",
-      "subcat": "Hacker News Picks",
-      "title": "How to Block Some of the Bots",
-      "url": "https://news.ycombinator.com/item?id=49060945"
-    },
     {
       "date": "2026-07-27",
       "subcat": "AI Engineering",
@@ -165,6 +160,12 @@
       "subcat": "Hacker News Picks",
       "title": "Ray tracing massive amounts of animated geometry using ",
       "url": "https://news.ycombinator.com/item?id=49021007"
+    },
+    {
+      "date": "2026-07-28",
+      "subcat": "Other Cool Projects",
+      "title": "slvDev/esp32-ai",
+      "url": "https://github.com/slvDev/esp32-ai"
     }
   ]
 }
