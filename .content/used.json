@@ -30,6 +30,7 @@
     "https://github.com/Krishnagangwal/CS-Fundamentals",
     "https://github.com/MDX-Tom/gpt-5.6-instruct",
     "https://github.com/MaximeRivest/riddle",
+    "https://github.com/MoonshotAI/Kimi-K3",
     "https://github.com/Sahir619/fable-method",
     "https://github.com/Shpigford/knockoff",
     "https://github.com/Vincentwei1021/video-shotcraft",
@@ -102,12 +103,6 @@
   "recent": [
     {
       "date": "2026-07-27",
-      "subcat": "AI Engineering",
-      "title": "How AI Endpoints Change the Traditional API Flow",
-      "url": "https://dev.to/gramli/how-ai-endpoints-change-the-traditional-api-flow-3773"
-    },
-    {
-      "date": "2026-07-27",
       "subcat": "Hacker News Picks",
       "title": "Go Analysis Framework: modular static analysis by go te",
       "url": "https://news.ycombinator.com/item?id=49057398"
@@ -159,6 +154,12 @@
       "subcat": "Hacker News Picks",
       "title": "Astronauts describe persistent 'observer' sensation aft",
       "url": "https://news.ycombinator.com/item?id=49076900"
+    },
+    {
+      "date": "2026-07-28",
+      "subcat": "Other Cool Projects",
+      "title": "MoonshotAI/Kimi-K3",
+      "url": "https://github.com/MoonshotAI/Kimi-K3"
     }
   ]
 }

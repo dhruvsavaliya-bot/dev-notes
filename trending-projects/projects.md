@@ -437,6 +437,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~218 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/nyblnet/bento
 
+**Added 2026-07-28**
+
+### [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)
+- **Stats:** 2,167 stars | 165 forks | 6 open issues
+- **Language:** N/A | **Created:** 2026-07-27 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** Open Frontier Intelligence
+- **Growth:** averaging ~2,167 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/MoonshotAI/Kimi-K3
+
 
 ## Web & Frontend
 
