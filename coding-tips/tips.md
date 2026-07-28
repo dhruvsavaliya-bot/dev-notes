@@ -178,6 +178,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49070756
 - **Link:** https://eaton-works.com/2026/07/27/my-eicher-hack/
 
+**Added 2026-07-28**
+
+### [Ray tracing massive amounts of animated geometry using tetrahedral cages](https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/)
+- **Source:** gpuopen.com | **Posted:** 2026-07-23 | **By:** LorenDB
+- **Community:** 108 points, 13 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49021007
+- **Link:** https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/
+
 
 ## Beginner
 

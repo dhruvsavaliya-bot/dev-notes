@@ -91,6 +91,7 @@
     "https://news.ycombinator.com/item?id=49008211",
     "https://news.ycombinator.com/item?id=49010129",
     "https://news.ycombinator.com/item?id=49013538",
+    "https://news.ycombinator.com/item?id=49021007",
     "https://news.ycombinator.com/item?id=49022152",
     "https://news.ycombinator.com/item?id=49026810",
     "https://news.ycombinator.com/item?id=49038045",
@@ -105,12 +106,6 @@
     "https://news.ycombinator.com/item?id=49076900"
   ],
   "recent": [
-    {
-      "date": "2026-07-27",
-      "subcat": "Hacker News Picks",
-      "title": "PGSimCity - How PostgreSQL Works",
-      "url": "https://news.ycombinator.com/item?id=49063754"
-    },
     {
       "date": "2026-07-27",
       "subcat": "Hacker News Picks",
@@ -164,6 +159,12 @@
       "subcat": "Hacker News Picks",
       "title": "Exploiting Volvo/Eicher's fleet platform to gain contro",
       "url": "https://news.ycombinator.com/item?id=49070756"
+    },
+    {
+      "date": "2026-07-28",
+      "subcat": "Hacker News Picks",
+      "title": "Ray tracing massive amounts of animated geometry using ",
+      "url": "https://news.ycombinator.com/item?id=49021007"
     }
   ]
 }
