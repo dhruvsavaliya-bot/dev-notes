@@ -59,3 +59,12 @@ Lessons from building with LLMs.
 - **Tags:** discuss, ai, career, programming
 - **Summary:** Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...
 - **Link:** https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj
+
+**Added 2026-07-28**
+
+### [The Junior Developer Pipeline Is Broken... And AI Broke It](https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai)
+- **Author:** Nazar Boyko | **Published:** Jul 27 | **Read time:** 9 min
+- **Community:** 90 reactions, 77 comments — a top post of the week in #ai
+- **Tags:** ai, discuss, career, programming
+- **Summary:** Everyone agrees AI makes senior engineers more valuable. Almost nobody asks where the next generation...
+- **Link:** https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai

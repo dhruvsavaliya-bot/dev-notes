@@ -15,6 +15,7 @@
     "https://dev.to/he4rt/como-escolher-eventos-de-tecnologia-para-participar-55kf",
     "https://dev.to/he4rt/contribuir-para-a-comunidade-como-destacar-isso-no-seu-linkedin-e-curriculo-4cgl",
     "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
+    "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
     "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
     "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
     "https://dev.to/xulingfeng/stratagems-10-lena-watched-a-team-adopt-her-ai-template-leo-didnt-know-the-knife-was-in-the-4khj",
@@ -103,12 +104,6 @@
   "recent": [
     {
       "date": "2026-07-27",
-      "subcat": "Hacker News Picks",
-      "title": "Go Analysis Framework: modular static analysis by go te",
-      "url": "https://news.ycombinator.com/item?id=49057398"
-    },
-    {
-      "date": "2026-07-27",
       "subcat": "Web Development",
       "title": "Snake - rendered with 576 browser windows [warning - th",
       "url": "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i"
@@ -160,6 +155,12 @@
       "subcat": "Other Cool Projects",
       "title": "MoonshotAI/Kimi-K3",
       "url": "https://github.com/MoonshotAI/Kimi-K3"
+    },
+    {
+      "date": "2026-07-28",
+      "subcat": "AI Engineering",
+      "title": "The Junior Developer Pipeline Is Broken... And AI Broke",
+      "url": "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai"
     }
   ]
 }
