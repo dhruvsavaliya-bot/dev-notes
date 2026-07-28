@@ -169,6 +169,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49065752
 - **Link:** https://huggingface.co/moonshotai/Kimi-K3
 
+**Added 2026-07-28**
+
+### [Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles](https://eaton-works.com/2026/07/27/my-eicher-hack/)
+- **Source:** eaton-works.com | **Posted:** 2026-07-27 | **By:** EatonZ
+- **Community:** 155 points, 50 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49070756
+- **Link:** https://eaton-works.com/2026/07/27/my-eicher-hack/
+
 
 ## Beginner
 
