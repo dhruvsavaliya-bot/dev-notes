@@ -502,6 +502,17 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~62 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Jia-Ethan/codex-keysmith
 
+**Added 2026-07-29**
+
+### [openai/codex-security](https://github.com/openai/codex-security)
+- **Stats:** 3,164 stars | 169 forks | 44 open issues
+- **Language:** TypeScript | **Created:** 2026-07-13 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** SDKs and CLI for Codex Security
+- **Growth:** averaging ~197 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/openai/codex-security
+
+
 ## Backend & Infrastructure
 
 **Added 2026-07-29**

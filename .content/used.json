@@ -61,6 +61,7 @@
     "https://github.com/mekos2772/ios-location-spoofer",
     "https://github.com/nyblnet/bento",
     "https://github.com/oomol-lab/open-connector",
+    "https://github.com/openai/codex-security",
     "https://github.com/oso95/scroll-world",
     "https://github.com/penecho/penecho",
     "https://github.com/petergyang/no-ai-slop",
@@ -114,12 +115,6 @@
   "recent": [
     {
       "date": "2026-07-28",
-      "subcat": "AI Engineering",
-      "title": "18 Stories, 6 Characters, 18 to Go  A Half-Time Check-I",
-      "url": "https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0"
-    },
-    {
-      "date": "2026-07-28",
       "subcat": "Other Cool Projects",
       "title": "vercel-labs/scriptc",
       "url": "https://github.com/vercel-labs/scriptc"
@@ -171,6 +166,12 @@
       "subcat": "Backend & Infrastructure",
       "title": "x4gKing/3x-ui",
       "url": "https://github.com/x4gKing/3x-ui"
+    },
+    {
+      "date": "2026-07-29",
+      "subcat": "Developer Tools",
+      "title": "openai/codex-security",
+      "url": "https://github.com/openai/codex-security"
     }
   ]
 }
