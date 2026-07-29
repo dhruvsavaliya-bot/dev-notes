@@ -6,6 +6,7 @@
     "Prompting: show the model 2-3 examples of the exact output format you want. Few-shot beats long instructions."
   ],
   "ids": [
+    "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
     "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
     "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1",
     "https://dev.to/francistrdev/choose-your-burden-4dgl",
@@ -117,12 +118,6 @@
     {
       "date": "2026-07-28",
       "subcat": "Hacker News Picks",
-      "title": "Exploiting Volvo/Eicher's fleet platform to gain contro",
-      "url": "https://news.ycombinator.com/item?id=49070756"
-    },
-    {
-      "date": "2026-07-28",
-      "subcat": "Hacker News Picks",
       "title": "Ray tracing massive amounts of animated geometry using ",
       "url": "https://news.ycombinator.com/item?id=49021007"
     },
@@ -173,6 +168,12 @@
       "subcat": "Hacker News Picks",
       "title": "The iPhone Upgrade Program is being replaced by Apple U",
       "url": "https://news.ycombinator.com/item?id=49087306"
+    },
+    {
+      "date": "2026-07-29",
+      "subcat": "Productivity",
+      "title": "Understanding Over Origin",
+      "url": "https://dev.to/adamthedeveloper/understanding-over-origin-4685"
     }
   ]
 }

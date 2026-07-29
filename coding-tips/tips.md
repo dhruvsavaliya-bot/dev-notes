@@ -31,6 +31,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...
 - **Link:** https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328
 
+**Added 2026-07-29**
+
+### [Understanding Over Origin](https://dev.to/adamthedeveloper/understanding-over-origin-4685)
+- **Author:** Adam - The Developer ✨ | **Published:** Jul 28 | **Read time:** 6 min
+- **Community:** 50 reactions, 26 comments — a top post of the week in #productivity
+- **Tags:** ai, programming, productivity, opensource
+- **Summary:** Many of developers communities are asking the wrong question.  Not because they're wrong to worry...
+- **Link:** https://dev.to/adamthedeveloper/understanding-over-origin-4685
+
 
 ## Hacker News Picks
 

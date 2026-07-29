@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**105 entries and counting** · Last updated: 2026-07-29
+**106 entries and counting** · Last updated: 2026-07-29
 
 ## Categories
 
@@ -12,14 +12,14 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 | [Trending Projects](trending-projects/projects.md) | 51 |
 | [AI / LLM Notes](ai/notes.md) | 9 |
 | [Reading List](articles/reading-list.md) | 19 |
-| [Coding Tips](coding-tips/tips.md) | 25 |
+| [Coding Tips](coding-tips/tips.md) | 26 |
 | [Language Notes](languages/notes.md) | 1 |
 
 ## Latest additions
 
+- **2026-07-29** · *Productivity* — [Understanding Over Origin](https://dev.to/adamthedeveloper/understanding-over-origin-4685)
 - **2026-07-29** · *Hacker News Picks* — [The iPhone Upgrade Program is being replaced by Apple U](https://news.ycombinator.com/item?id=49087306)
 - **2026-07-29** · *Developer Tools* — [openai/codex-security](https://github.com/openai/codex-security)
-- **2026-07-29** · *Backend & Infrastructure* — [x4gKing/3x-ui](https://github.com/x4gKing/3x-ui)
 
 ## How it works
 
