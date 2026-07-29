@@ -205,6 +205,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49085698
 - **Link:** https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html
 
+**Added 2026-07-29**
+
+### [Now is the time to give LLMs access to the ACM digital library](https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/)
+- **Source:** cacm.acm.org | **Posted:** 2026-07-28 | **By:** rbanffy
+- **Community:** 142 points, 117 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49084987
+- **Link:** https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/
+
 
 ## Beginner
 
