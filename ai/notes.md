@@ -77,3 +77,12 @@ Lessons from building with LLMs.
 - **Tags:** ai, discuss, career, programming
 - **Summary:** I took a week off from Dev.to. Not a planned one — I just sat down last Sunday and realized I had...
 - **Link:** https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0
+
+**Added 2026-07-29**
+
+### [The Friction Is A Feature, Not A Bug: Teaching and Mentoring in the Age of AI](https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9)
+- **Author:** Yechiel Kalmenson | **Published:** Jul 22 | **Read time:** 11 min
+- **Community:** 50 reactions, 40 comments — a top post of the week in #ai
+- **Tags:** mentorship, ai, learning, discuss
+- **Summary:** Those who have been following me for a while will know that teaching and mentoring are a Big Deal™️...
+- **Link:** https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9

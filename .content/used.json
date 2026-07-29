@@ -25,6 +25,7 @@
     "https://dev.to/xulingfeng/stratagems-17-alex-set-an-ai-bait-the-catch-wasnt-code-it-was-someone-who-shouldnt-have-been-4893",
     "https://dev.to/xulingfeng/stratagems-18-leo-tracked-an-ai-signal-to-derek-both-were-looking-for-the-same-enemy-51g4",
     "https://dev.to/xulingfeng/stratagems-9-lena-and-p-watched-two-ai-suppliers-fight-the-logs-said-neither-was-clean-2pj3",
+    "https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9",
     "https://github.com/DavidHDev/canvas-ui",
     "https://github.com/Fei-Away/Codex-Dream-Skin",
     "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
@@ -109,12 +110,6 @@
   ],
   "recent": [
     {
-      "date": "2026-07-27",
-      "subcat": "Hacker News Picks",
-      "title": "Kimi-K3 Releases on HuggingFace 7/27",
-      "url": "https://news.ycombinator.com/item?id=49065752"
-    },
-    {
       "date": "2026-07-28",
       "subcat": "Hacker News Picks",
       "title": "Astronauts describe persistent 'observer' sensation aft",
@@ -167,6 +162,12 @@
       "subcat": "Productivity",
       "title": "How terminal-sharing tools put your shell in a browser",
       "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328"
+    },
+    {
+      "date": "2026-07-29",
+      "subcat": "AI Engineering",
+      "title": "The Friction Is A Feature, Not A Bug: Teaching and Ment",
+      "url": "https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9"
     }
   ]
 }
