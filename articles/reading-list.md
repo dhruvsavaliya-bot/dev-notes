@@ -164,6 +164,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49076900
 - **Link:** https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/
 
+**Added 2026-07-29**
+
+### [The iPhone Upgrade Program is being replaced by Apple Upgrade](https://www.apple.com/shop/iphone/iphone-upgrade-program)
+- **Source:** www.apple.com | **Posted:** 2026-07-28 | **By:** lkurtz
+- **Community:** 180 points, 326 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49087306
+- **Link:** https://www.apple.com/shop/iphone/iphone-upgrade-program
+
 
 ## DevOps & Cloud
 
