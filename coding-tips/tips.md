@@ -196,6 +196,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49021007
 - **Link:** https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/
 
+**Added 2026-07-29**
+
+### [Kimi K3 Architecture Overview and Notes](https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html)
+- **Source:** sebastianraschka.com | **Posted:** 2026-07-28 | **By:** ModelForge
+- **Community:** 356 points, 60 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49085698
+- **Link:** https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html
+
 
 ## Beginner
 
