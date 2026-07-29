@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**106 entries and counting** · Last updated: 2026-07-29
+**107 entries and counting** · Last updated: 2026-07-29
 
 ## Categories
 
@@ -11,15 +11,15 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 51 |
 | [AI / LLM Notes](ai/notes.md) | 9 |
-| [Reading List](articles/reading-list.md) | 19 |
+| [Reading List](articles/reading-list.md) | 20 |
 | [Coding Tips](coding-tips/tips.md) | 26 |
 | [Language Notes](languages/notes.md) | 1 |
 
 ## Latest additions
 
+- **2026-07-29** · *Security* — [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk)
 - **2026-07-29** · *Productivity* — [Understanding Over Origin](https://dev.to/adamthedeveloper/understanding-over-origin-4685)
 - **2026-07-29** · *Hacker News Picks* — [The iPhone Upgrade Program is being replaced by Apple U](https://news.ycombinator.com/item?id=49087306)
-- **2026-07-29** · *Developer Tools* — [openai/codex-security](https://github.com/openai/codex-security)
 
 ## How it works
 

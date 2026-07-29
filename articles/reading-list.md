@@ -184,3 +184,14 @@ Fresh dev articles and blog posts.
 - **Tags:** devops, programming, ai, career
 - **Summary:** Quick note before we dive in — I know I've been off track from the iOS/Swift series lately. I just...
 - **Link:** https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd
+
+## Security
+
+**Added 2026-07-29**
+
+### [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk)
+- **Author:** Thomas Bnt | **Published:** Jul 27 | **Read time:** 6 min
+- **Community:** 61 reactions, 19 comments — a top post of the week in #security
+- **Tags:** security, api, webdev, discuss
+- **Summary:** You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...
+- **Link:** https://dev.to/thomasbnt/passkeys-explained-simply-52jk
