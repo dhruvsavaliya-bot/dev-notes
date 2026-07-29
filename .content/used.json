@@ -70,6 +70,7 @@
     "https://github.com/unicity-aos/aos-ce",
     "https://github.com/vercel-labs/scriptc",
     "https://github.com/withmarbleapp/os-taxonomy",
+    "https://github.com/x4gKing/3x-ui",
     "https://github.com/x4gKing/X4G",
     "https://github.com/xai-org/grok-build",
     "https://github.com/xuchonglang/investing-for-beginners",
@@ -111,12 +112,6 @@
     "https://news.ycombinator.com/item?id=49085698"
   ],
   "recent": [
-    {
-      "date": "2026-07-28",
-      "subcat": "AI Engineering",
-      "title": "The Junior Developer Pipeline Is Broken... And AI Broke",
-      "url": "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai"
-    },
     {
       "date": "2026-07-28",
       "subcat": "AI Engineering",
@@ -170,6 +165,12 @@
       "subcat": "Hacker News Picks",
       "title": "Now is the time to give LLMs access to the ACM digital ",
       "url": "https://news.ycombinator.com/item?id=49084987"
+    },
+    {
+      "date": "2026-07-29",
+      "subcat": "Backend & Infrastructure",
+      "title": "x4gKing/3x-ui",
+      "url": "https://github.com/x4gKing/3x-ui"
     }
   ]
 }

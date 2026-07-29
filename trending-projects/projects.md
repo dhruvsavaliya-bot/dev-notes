@@ -501,3 +501,15 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.
 - **Growth:** averaging ~62 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Jia-Ethan/codex-keysmith
+
+## Backend & Infrastructure
+
+**Added 2026-07-29**
+
+### [x4gKing/3x-ui](https://github.com/x4gKing/3x-ui)
+- **Stats:** 1,799 stars | 3,580 forks | 11 open issues
+- **Language:** Dockerfile | **Created:** 2026-07-04 | **License:** None
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~71 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/x4gKing/3x-ui
