@@ -57,6 +57,7 @@
     "https://github.com/hoainho/img2threejs",
     "https://github.com/img2threejs/img2threejs",
     "https://github.com/isjiamu/gzh-design-skill",
+    "https://github.com/jakubkrehel/skills",
     "https://github.com/jamesob/local-llm",
     "https://github.com/kvcache-ai/AgentENV",
     "https://github.com/langchain-ai/openwiki",
@@ -120,12 +121,6 @@
   "recent": [
     {
       "date": "2026-07-29",
-      "subcat": "AI Engineering",
-      "title": "The Friction Is A Feature, Not A Bug: Teaching and Ment",
-      "url": "https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9"
-    },
-    {
-      "date": "2026-07-29",
       "subcat": "Hacker News Picks",
       "title": "Kimi K3 Architecture Overview and Notes",
       "url": "https://news.ycombinator.com/item?id=49085698"
@@ -177,6 +172,12 @@
       "subcat": "AI & Machine Learning",
       "title": "kvcache-ai/AgentENV",
       "url": "https://github.com/kvcache-ai/AgentENV"
+    },
+    {
+      "date": "2026-07-30",
+      "subcat": "AI & Machine Learning",
+      "title": "jakubkrehel/skills",
+      "url": "https://github.com/jakubkrehel/skills"
     }
   ]
 }

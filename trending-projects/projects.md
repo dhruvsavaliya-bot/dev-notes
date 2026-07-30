@@ -224,6 +224,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~327 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/kvcache-ai/AgentENV
 
+**Added 2026-07-30**
+
+### [jakubkrehel/skills](https://github.com/jakubkrehel/skills)
+- **Stats:** 1,943 stars | 52 forks | 1 open issues
+- **Language:** N/A | **Created:** 2026-07-10 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** A collection of agent skills that help with various parts of building a great interface. From animation and UI polish to accessibility and product writing.
+- **Growth:** averaging ~97 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/jakubkrehel/skills
+
 
 ## Other Cool Projects
 
