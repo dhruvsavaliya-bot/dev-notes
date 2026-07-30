@@ -191,6 +191,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49099715
 - **Link:** https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice
 
+**Added 2026-07-30**
+
+### [Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline)
+- **Source:** huggingface.co | **Posted:** 2026-07-28 | **By:** artninja1988
+- **Community:** 399 points, 220 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49089500
+- **Link:** https://huggingface.co/blog/agent-intrusion-technical-timeline
+
 
 ## DevOps & Cloud
 

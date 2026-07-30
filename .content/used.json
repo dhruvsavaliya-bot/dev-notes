@@ -118,17 +118,12 @@
     "https://news.ycombinator.com/item?id=49084987",
     "https://news.ycombinator.com/item?id=49085698",
     "https://news.ycombinator.com/item?id=49087306",
+    "https://news.ycombinator.com/item?id=49089500",
     "https://news.ycombinator.com/item?id=49098198",
     "https://news.ycombinator.com/item?id=49099715",
     "https://news.ycombinator.com/item?id=49100043"
   ],
   "recent": [
-    {
-      "date": "2026-07-29",
-      "subcat": "Hacker News Picks",
-      "title": "The iPhone Upgrade Program is being replaced by Apple U",
-      "url": "https://news.ycombinator.com/item?id=49087306"
-    },
     {
       "date": "2026-07-29",
       "subcat": "Productivity",
@@ -182,6 +177,12 @@
       "subcat": "AI Engineering",
       "title": "Slopsquatting: The Supply Chain Attack That Weaponizes ",
       "url": "https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2"
+    },
+    {
+      "date": "2026-07-30",
+      "subcat": "Hacker News Picks",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline o",
+      "url": "https://news.ycombinator.com/item?id=49089500"
     }
   ]
 }
