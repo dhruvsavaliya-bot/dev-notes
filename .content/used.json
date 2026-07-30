@@ -63,6 +63,7 @@
     "https://github.com/langchain-ai/openwiki",
     "https://github.com/lopopolo/harness-engineering",
     "https://github.com/mekos2772/ios-location-spoofer",
+    "https://github.com/mshumer/Claude-of-Duty",
     "https://github.com/nyblnet/bento",
     "https://github.com/oomol-lab/open-connector",
     "https://github.com/openai/codex-security",
@@ -122,12 +123,6 @@
   "recent": [
     {
       "date": "2026-07-29",
-      "subcat": "Hacker News Picks",
-      "title": "Now is the time to give LLMs access to the ACM digital ",
-      "url": "https://news.ycombinator.com/item?id=49084987"
-    },
-    {
-      "date": "2026-07-29",
       "subcat": "Backend & Infrastructure",
       "title": "x4gKing/3x-ui",
       "url": "https://github.com/x4gKing/3x-ui"
@@ -179,6 +174,12 @@
       "subcat": "Hacker News Picks",
       "title": "Show HN: CheapFoodMap  A map of good meals under $10",
       "url": "https://news.ycombinator.com/item?id=49100043"
+    },
+    {
+      "date": "2026-07-30",
+      "subcat": "Other Cool Projects",
+      "title": "mshumer/Claude-of-Duty",
+      "url": "https://github.com/mshumer/Claude-of-Duty"
     }
   ]
 }

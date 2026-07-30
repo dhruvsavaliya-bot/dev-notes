@@ -487,6 +487,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~385 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/slvDev/esp32-ai
 
+**Added 2026-07-30**
+
+### [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)
+- **Stats:** 2,303 stars | 335 forks | 18 open issues
+- **Language:** JavaScript | **Created:** 2026-07-25 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** A Call of Duty-quality FPS in Three.js, built from a single prompt.
+- **Growth:** averaging ~460 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/mshumer/Claude-of-Duty
+
 
 ## Web & Frontend
 
