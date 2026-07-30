@@ -86,3 +86,12 @@ Lessons from building with LLMs.
 - **Tags:** mentorship, ai, learning, discuss
 - **Summary:** Those who have been following me for a while will know that teaching and mentoring are a Big Deal™️...
 - **Link:** https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9
+
+**Added 2026-07-30**
+
+### [Slopsquatting: The Supply Chain Attack That Weaponizes AI Hallucinations](https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2)
+- **Author:** Nazar Boyko | **Published:** Jul 28 | **Read time:** 11 min
+- **Community:** 77 reactions, 48 comments — a top post of the week in #ai
+- **Tags:** security, ai, webdev, programming
+- **Summary:** Typosquatting bets on your typo. Slopsquatting bets on your AI assistant. When a model invents a...
+- **Link:** https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2

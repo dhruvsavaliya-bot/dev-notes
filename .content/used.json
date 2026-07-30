@@ -17,6 +17,7 @@
     "https://dev.to/he4rt/contribuir-para-a-comunidade-como-destacar-isso-no-seu-linkedin-e-curriculo-4cgl",
     "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
     "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
+    "https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2",
     "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
     "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
     "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
@@ -124,12 +125,6 @@
   "recent": [
     {
       "date": "2026-07-29",
-      "subcat": "Developer Tools",
-      "title": "openai/codex-security",
-      "url": "https://github.com/openai/codex-security"
-    },
-    {
-      "date": "2026-07-29",
       "subcat": "Hacker News Picks",
       "title": "The iPhone Upgrade Program is being replaced by Apple U",
       "url": "https://news.ycombinator.com/item?id=49087306"
@@ -181,6 +176,12 @@
       "subcat": "Hacker News Picks",
       "title": "Keychron announces first open-source firmware for gamin",
       "url": "https://news.ycombinator.com/item?id=49099715"
+    },
+    {
+      "date": "2026-07-30",
+      "subcat": "AI Engineering",
+      "title": "Slopsquatting: The Supply Chain Attack That Weaponizes ",
+      "url": "https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2"
     }
   ]
 }
