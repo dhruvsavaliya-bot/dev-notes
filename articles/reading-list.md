@@ -182,6 +182,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49098198
 - **Link:** https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html
 
+**Added 2026-07-30**
+
+### [Keychron announces first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice)
+- **Source:** www.digitalfoundry.net | **Posted:** 2026-07-29 | **By:** JLO64
+- **Community:** 374 points, 150 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49099715
+- **Link:** https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice
+
 
 ## DevOps & Cloud
 
