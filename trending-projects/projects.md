@@ -214,6 +214,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~136 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/penecho/penecho
 
+**Added 2026-07-30**
+
+### [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)
+- **Stats:** 2,294 stars | 176 forks | 52 open issues
+- **Language:** Rust | **Created:** 2026-07-23 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** AgentENV (AENV) is a distributed platform for running agent environments at scale.
+- **Growth:** averaging ~327 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/kvcache-ai/AgentENV
+
 
 ## Other Cool Projects
 

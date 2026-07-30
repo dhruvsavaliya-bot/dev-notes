@@ -58,6 +58,7 @@
     "https://github.com/img2threejs/img2threejs",
     "https://github.com/isjiamu/gzh-design-skill",
     "https://github.com/jamesob/local-llm",
+    "https://github.com/kvcache-ai/AgentENV",
     "https://github.com/langchain-ai/openwiki",
     "https://github.com/lopopolo/harness-engineering",
     "https://github.com/mekos2772/ios-location-spoofer",
@@ -118,12 +119,6 @@
   ],
   "recent": [
     {
-      "date": "2026-07-28",
-      "subcat": "Productivity",
-      "title": "How terminal-sharing tools put your shell in a browser",
-      "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328"
-    },
-    {
       "date": "2026-07-29",
       "subcat": "AI Engineering",
       "title": "The Friction Is A Feature, Not A Bug: Teaching and Ment",
@@ -176,6 +171,12 @@
       "subcat": "Hacker News Picks",
       "title": "A.I. companies are recruiting electricians and carpente",
       "url": "https://news.ycombinator.com/item?id=49098198"
+    },
+    {
+      "date": "2026-07-30",
+      "subcat": "AI & Machine Learning",
+      "title": "kvcache-ai/AgentENV",
+      "url": "https://github.com/kvcache-ai/AgentENV"
     }
   ]
 }
