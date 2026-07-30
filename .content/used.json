@@ -121,15 +121,10 @@
     "https://news.ycombinator.com/item?id=49089500",
     "https://news.ycombinator.com/item?id=49098198",
     "https://news.ycombinator.com/item?id=49099715",
-    "https://news.ycombinator.com/item?id=49100043"
+    "https://news.ycombinator.com/item?id=49100043",
+    "https://news.ycombinator.com/item?id=49104335"
   ],
   "recent": [
-    {
-      "date": "2026-07-29",
-      "subcat": "Productivity",
-      "title": "Understanding Over Origin",
-      "url": "https://dev.to/adamthedeveloper/understanding-over-origin-4685"
-    },
     {
       "date": "2026-07-29",
       "subcat": "Security",
@@ -183,6 +178,12 @@
       "subcat": "Hacker News Picks",
       "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline o",
       "url": "https://news.ycombinator.com/item?id=49089500"
+    },
+    {
+      "date": "2026-07-30",
+      "subcat": "Hacker News Picks",
+      "title": "The Productivity Mirage",
+      "url": "https://news.ycombinator.com/item?id=49104335"
     }
   ]
 }

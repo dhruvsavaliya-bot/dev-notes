@@ -232,6 +232,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49100043
 - **Link:** https://cheapfoodmap.com/
 
+**Added 2026-07-30**
+
+### [The Productivity Mirage](https://frantic.im/mirage/)
+- **Source:** frantic.im | **Posted:** 2026-07-29 | **By:** msephton
+- **Community:** 283 points, 125 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49104335
+- **Link:** https://frantic.im/mirage/
+
 
 ## Beginner
 
