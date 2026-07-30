@@ -223,6 +223,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49084987
 - **Link:** https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/
 
+**Added 2026-07-30**
+
+### [Show HN: CheapFoodMap – A map of good meals under $10](https://cheapfoodmap.com/)
+- **Source:** cheapfoodmap.com | **Posted:** 2026-07-29 | **By:** jaep1
+- **Community:** 184 points, 186 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49100043
+- **Link:** https://cheapfoodmap.com/
+
 
 ## Beginner
 
