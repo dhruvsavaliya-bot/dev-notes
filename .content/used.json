@@ -129,15 +129,10 @@
     "https://news.ycombinator.com/item?id=49108685",
     "https://news.ycombinator.com/item?id=49112744",
     "https://news.ycombinator.com/item?id=49113929",
-    "https://news.ycombinator.com/item?id=49118663"
+    "https://news.ycombinator.com/item?id=49118663",
+    "https://news.ycombinator.com/item?id=49120097"
   ],
   "recent": [
-    {
-      "date": "2026-07-30",
-      "subcat": "AI Engineering",
-      "title": "Slopsquatting: The Supply Chain Attack That Weaponizes ",
-      "url": "https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2"
-    },
     {
       "date": "2026-07-30",
       "subcat": "Hacker News Picks",
@@ -191,6 +186,12 @@
       "subcat": "Hacker News Picks",
       "title": "UEFA and its national associations will not participate",
       "url": "https://news.ycombinator.com/item?id=49113929"
+    },
+    {
+      "date": "2026-07-31",
+      "subcat": "Hacker News Picks",
+      "title": "Google fixed more Chrome bugs in June than over the pas",
+      "url": "https://news.ycombinator.com/item?id=49120097"
     }
   ]
 }

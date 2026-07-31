@@ -218,6 +218,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49113929
 - **Link:** https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/
 
+**Added 2026-07-31**
+
+### [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/)
+- **Source:** blog.google | **Posted:** 2026-07-31 | **By:** Garbage
+- **Community:** 160 points, 179 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49120097
+- **Link:** https://blog.google/security/chrome-stronger-with-every-update/
+
 
 ## DevOps & Cloud
 
