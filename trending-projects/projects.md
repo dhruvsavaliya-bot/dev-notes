@@ -234,6 +234,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~97 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/jakubkrehel/skills
 
+**Added 2026-07-31**
+
+### [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare)
+- **Stats:** 2,152 stars | 87 forks | 16 open issues
+- **Language:** Swift | **Created:** 2026-07-17 | **License:** Apache-2.0
+- **Topics:** apple-silicon, gemma, gemma4, gemma4-26b-a4b, gpgpu, llm
+- **What it is:** Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
+- **Growth:** averaging ~153 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/drumih/turbo-fieldfare
+
 
 ## Other Cool Projects
 

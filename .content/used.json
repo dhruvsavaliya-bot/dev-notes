@@ -53,6 +53,7 @@
     "https://github.com/cloudflare/security-audit-skill",
     "https://github.com/davidondrej/skills",
     "https://github.com/deepseek-ai/DeepSpec",
+    "https://github.com/drumih/turbo-fieldfare",
     "https://github.com/elder-plinius/T3MP3ST",
     "https://github.com/google-research/tabfm",
     "https://github.com/hoainho/img2threejs",
@@ -126,12 +127,6 @@
   ],
   "recent": [
     {
-      "date": "2026-07-29",
-      "subcat": "Security",
-      "title": "Passkeys Explained Simply",
-      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk"
-    },
-    {
       "date": "2026-07-30",
       "subcat": "Hacker News Picks",
       "title": "A.I. companies are recruiting electricians and carpente",
@@ -184,6 +179,12 @@
       "subcat": "Hacker News Picks",
       "title": "The Productivity Mirage",
       "url": "https://news.ycombinator.com/item?id=49104335"
+    },
+    {
+      "date": "2026-07-31",
+      "subcat": "AI & Machine Learning",
+      "title": "drumih/turbo-fieldfare",
+      "url": "https://github.com/drumih/turbo-fieldfare"
     }
   ]
 }
