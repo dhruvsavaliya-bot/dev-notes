@@ -507,6 +507,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~460 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/mshumer/Claude-of-Duty
 
+**Added 2026-07-31**
+
+### [digimata/quill](https://github.com/digimata/quill)
+- **Stats:** 2,557 stars | 160 forks | 18 open issues
+- **Language:** Swift | **Created:** 2026-07-24 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Ultra-minimalist macOS recording + transcription.
+- **Growth:** averaging ~365 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/digimata/quill
+
 
 ## Web & Frontend
 

@@ -53,6 +53,7 @@
     "https://github.com/cloudflare/security-audit-skill",
     "https://github.com/davidondrej/skills",
     "https://github.com/deepseek-ai/DeepSpec",
+    "https://github.com/digimata/quill",
     "https://github.com/drumih/turbo-fieldfare",
     "https://github.com/elder-plinius/T3MP3ST",
     "https://github.com/google-research/tabfm",
@@ -128,12 +129,6 @@
   "recent": [
     {
       "date": "2026-07-30",
-      "subcat": "Hacker News Picks",
-      "title": "A.I. companies are recruiting electricians and carpente",
-      "url": "https://news.ycombinator.com/item?id=49098198"
-    },
-    {
-      "date": "2026-07-30",
       "subcat": "AI & Machine Learning",
       "title": "kvcache-ai/AgentENV",
       "url": "https://github.com/kvcache-ai/AgentENV"
@@ -185,6 +180,12 @@
       "subcat": "AI & Machine Learning",
       "title": "drumih/turbo-fieldfare",
       "url": "https://github.com/drumih/turbo-fieldfare"
+    },
+    {
+      "date": "2026-07-31",
+      "subcat": "Other Cool Projects",
+      "title": "digimata/quill",
+      "url": "https://github.com/digimata/quill"
     }
   ]
 }
