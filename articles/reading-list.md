@@ -200,6 +200,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49089500
 - **Link:** https://huggingface.co/blog/agent-intrusion-technical-timeline
 
+**Added 2026-07-31**
+
+### [A California aquifer may have crossed the point of no return](https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return)
+- **Source:** www.science.org | **Posted:** 2026-07-31 | **By:** Jimmc414
+- **Community:** 121 points, 92 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49118663
+- **Link:** https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return
+
 
 ## DevOps & Cloud
 
