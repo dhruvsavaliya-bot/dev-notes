@@ -125,15 +125,10 @@
     "https://news.ycombinator.com/item?id=49099715",
     "https://news.ycombinator.com/item?id=49100043",
     "https://news.ycombinator.com/item?id=49104335",
+    "https://news.ycombinator.com/item?id=49108685",
     "https://news.ycombinator.com/item?id=49118663"
   ],
   "recent": [
-    {
-      "date": "2026-07-30",
-      "subcat": "AI & Machine Learning",
-      "title": "jakubkrehel/skills",
-      "url": "https://github.com/jakubkrehel/skills"
-    },
     {
       "date": "2026-07-30",
       "subcat": "Hacker News Picks",
@@ -187,6 +182,12 @@
       "subcat": "Hacker News Picks",
       "title": "A California aquifer may have crossed the point of no r",
       "url": "https://news.ycombinator.com/item?id=49118663"
+    },
+    {
+      "date": "2026-07-31",
+      "subcat": "Hacker News Picks",
+      "title": "GCC steering committee announces AI policy",
+      "url": "https://news.ycombinator.com/item?id=49108685"
     }
   ]
 }

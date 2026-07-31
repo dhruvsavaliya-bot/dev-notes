@@ -241,6 +241,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49104335
 - **Link:** https://frantic.im/mirage/
 
+**Added 2026-07-31**
+
+### [GCC steering committee announces AI policy](https://lwn.net/Articles/1086041/)
+- **Source:** lwn.net | **Posted:** 2026-07-30 | **By:** arto
+- **Community:** 278 points, 311 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49108685
+- **Link:** https://lwn.net/Articles/1086041/
+
 
 ## Beginner
 
