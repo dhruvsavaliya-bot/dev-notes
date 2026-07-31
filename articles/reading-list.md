@@ -209,6 +209,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49118663
 - **Link:** https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return
 
+**Added 2026-07-31**
+
+### [UEFA and its national associations will not participate in FIFA competitions](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)
+- **Source:** www.uefa.com | **Posted:** 2026-07-30 | **By:** dickfickling
+- **Community:** 1071 points, 578 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49113929
+- **Link:** https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/
+
 
 ## DevOps & Cloud
 

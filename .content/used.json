@@ -128,15 +128,10 @@
     "https://news.ycombinator.com/item?id=49104335",
     "https://news.ycombinator.com/item?id=49108685",
     "https://news.ycombinator.com/item?id=49112744",
+    "https://news.ycombinator.com/item?id=49113929",
     "https://news.ycombinator.com/item?id=49118663"
   ],
   "recent": [
-    {
-      "date": "2026-07-30",
-      "subcat": "Hacker News Picks",
-      "title": "Keychron announces first open-source firmware for gamin",
-      "url": "https://news.ycombinator.com/item?id=49099715"
-    },
     {
       "date": "2026-07-30",
       "subcat": "AI Engineering",
@@ -190,6 +185,12 @@
       "subcat": "JavaScript",
       "title": "Join our latest Frontend Challenge: Comfort Food Editio",
       "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0"
+    },
+    {
+      "date": "2026-07-31",
+      "subcat": "Hacker News Picks",
+      "title": "UEFA and its national associations will not participate",
+      "url": "https://news.ycombinator.com/item?id=49113929"
     }
   ]
 }
