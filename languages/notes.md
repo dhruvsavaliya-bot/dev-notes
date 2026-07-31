@@ -14,3 +14,12 @@ Snippets and gotchas across languages.
 - **Tags:** node, ai, agents, javascript
 - **Summary:** For quite a while now, I've had the feeling that AI agents are surrounded by this mystical aura....
 - **Link:** https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d
+
+**Added 2026-07-31**
+
+### [Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0)
+- **Author:** Jess Lee | **Published:** Jul 29 | **Read time:** 4 min
+- **Community:** 105 reactions, 27 comments — a top post of the week in #javascript
+- **Tags:** devchallenge, frontendchallenge, css, javascript
+- **Summary:** We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...
+- **Link:** https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0

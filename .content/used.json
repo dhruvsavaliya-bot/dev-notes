@@ -9,6 +9,7 @@
     "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
     "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
     "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1",
+    "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
     "https://dev.to/francistrdev/choose-your-burden-4dgl",
     "https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd",
     "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i",
@@ -132,12 +133,6 @@
   "recent": [
     {
       "date": "2026-07-30",
-      "subcat": "Other Cool Projects",
-      "title": "mshumer/Claude-of-Duty",
-      "url": "https://github.com/mshumer/Claude-of-Duty"
-    },
-    {
-      "date": "2026-07-30",
       "subcat": "Hacker News Picks",
       "title": "Keychron announces first open-source firmware for gamin",
       "url": "https://news.ycombinator.com/item?id=49099715"
@@ -189,6 +184,12 @@
       "subcat": "Hacker News Picks",
       "title": "Read this before you buy that TV streaming stick",
       "url": "https://news.ycombinator.com/item?id=49112744"
+    },
+    {
+      "date": "2026-07-31",
+      "subcat": "JavaScript",
+      "title": "Join our latest Frontend Challenge: Comfort Food Editio",
+      "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0"
     }
   ]
 }
