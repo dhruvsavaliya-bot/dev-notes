@@ -527,6 +527,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~365 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/digimata/quill
 
+**Added 2026-08-01**
+
+### [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)
+- **Stats:** 2,270 stars | 271 forks | 5 open issues
+- **Language:** TypeScript | **Created:** 2026-07-30 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~1,135 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/bashalarmistalt/decimen-optical-transfer
+
 
 ## Web & Frontend
 

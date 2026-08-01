@@ -49,6 +49,7 @@
     "https://github.com/anthropics/jacobian-lens",
     "https://github.com/baairon/torlink",
     "https://github.com/baidu/Unlimited-OCR",
+    "https://github.com/bashalarmistalt/decimen-optical-transfer",
     "https://github.com/bikini/exploitarium",
     "https://github.com/bozhouDev/codex-orange-book",
     "https://github.com/cloudflare/security-audit-skill",
@@ -135,12 +136,6 @@
   ],
   "recent": [
     {
-      "date": "2026-07-30",
-      "subcat": "Hacker News Picks",
-      "title": "The Productivity Mirage",
-      "url": "https://news.ycombinator.com/item?id=49104335"
-    },
-    {
       "date": "2026-07-31",
       "subcat": "AI & Machine Learning",
       "title": "drumih/turbo-fieldfare",
@@ -193,6 +188,12 @@
       "subcat": "AI & Machine Learning",
       "title": "yc-software/qm",
       "url": "https://github.com/yc-software/qm"
+    },
+    {
+      "date": "2026-08-01",
+      "subcat": "Other Cool Projects",
+      "title": "bashalarmistalt/decimen-optical-transfer",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
     }
   ]
 }
