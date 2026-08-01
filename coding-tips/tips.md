@@ -268,6 +268,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49129990
 - **Link:** https://www.raptitude.com/2026/07/how-to-exist/
 
+**Added 2026-08-01**
+
+### [The most official water costs $120k a gallon](https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/)
+- **Source:** signoregalilei.com | **Posted:** 2026-07-31 | **By:** surprisetalk
+- **Community:** 197 points, 151 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49124042
+- **Link:** https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/
+
 
 ## Beginner
 
