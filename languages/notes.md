@@ -23,3 +23,12 @@ Snippets and gotchas across languages.
 - **Tags:** devchallenge, frontendchallenge, css, javascript
 - **Summary:** We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...
 - **Link:** https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0
+
+**Added 2026-08-01**
+
+### [It Was Just a Patch Update. What Could Possibly Go Wrong?](https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3)
+- **Author:** Sylwia Laskowska | **Published:** Jul 30 | **Read time:** 6 min
+- **Community:** 56 reactions, 32 comments — a top post of the week in #javascript
+- **Tags:** devchallenge, bugsmash, angular, javascript
+- **Summary:** This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  You know those...
+- **Link:** https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3

@@ -20,6 +20,7 @@
     "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
     "https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2",
     "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
+    "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3",
     "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
     "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
     "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
@@ -138,12 +139,6 @@
   "recent": [
     {
       "date": "2026-07-31",
-      "subcat": "Other Cool Projects",
-      "title": "digimata/quill",
-      "url": "https://github.com/digimata/quill"
-    },
-    {
-      "date": "2026-07-31",
       "subcat": "Hacker News Picks",
       "title": "A California aquifer may have crossed the point of no r",
       "url": "https://news.ycombinator.com/item?id=49118663"
@@ -195,6 +190,12 @@
       "subcat": "Hacker News Picks",
       "title": "Show HN: I worked on a new browser for 2 years, today i",
       "url": "https://news.ycombinator.com/item?id=49128826"
+    },
+    {
+      "date": "2026-08-01",
+      "subcat": "JavaScript",
+      "title": "It Was Just a Patch Update. What Could Possibly Go Wron",
+      "url": "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3"
     }
   ]
 }
