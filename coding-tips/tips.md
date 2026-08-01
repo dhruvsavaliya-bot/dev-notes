@@ -259,6 +259,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49112744
 - **Link:** https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/
 
+**Added 2026-08-01**
+
+### [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/)
+- **Source:** www.raptitude.com | **Posted:** 2026-08-01 | **By:** walterbell
+- **Community:** 209 points, 116 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49129990
+- **Link:** https://www.raptitude.com/2026/07/how-to-exist/
+
 
 ## Beginner
 

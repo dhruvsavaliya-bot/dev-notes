@@ -134,15 +134,10 @@
     "https://news.ycombinator.com/item?id=49113929",
     "https://news.ycombinator.com/item?id=49118663",
     "https://news.ycombinator.com/item?id=49120097",
-    "https://news.ycombinator.com/item?id=49128826"
+    "https://news.ycombinator.com/item?id=49128826",
+    "https://news.ycombinator.com/item?id=49129990"
   ],
   "recent": [
-    {
-      "date": "2026-07-31",
-      "subcat": "Hacker News Picks",
-      "title": "A California aquifer may have crossed the point of no r",
-      "url": "https://news.ycombinator.com/item?id=49118663"
-    },
     {
       "date": "2026-07-31",
       "subcat": "Hacker News Picks",
@@ -196,6 +191,12 @@
       "subcat": "JavaScript",
       "title": "It Was Just a Patch Update. What Could Possibly Go Wron",
       "url": "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3"
+    },
+    {
+      "date": "2026-08-01",
+      "subcat": "Hacker News Picks",
+      "title": "How to Exist",
+      "url": "https://news.ycombinator.com/item?id=49129990"
     }
   ]
 }
