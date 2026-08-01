@@ -227,6 +227,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49120097
 - **Link:** https://blog.google/security/chrome-stronger-with-every-update/
 
+**Added 2026-08-01**
+
+### [Show HN: I worked on a new browser for 2 years, today it passed Acid 3](https://code.intellios.ai/cwbrowser/)
+- **Source:** code.intellios.ai | **Posted:** 2026-07-31 | **By:** coolwulf
+- **Community:** 104 points, 33 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49128826
+- **Link:** https://code.intellios.ai/cwbrowser/
+
 
 ## DevOps & Cloud
 
