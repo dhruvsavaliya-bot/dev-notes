@@ -244,6 +244,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~153 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/drumih/turbo-fieldfare
 
+**Added 2026-08-01**
+
+### [yc-software/qm](https://github.com/yc-software/qm)
+- **Stats:** 2,463 stars | 219 forks | 30 open issues
+- **Language:** TypeScript | **Created:** 2026-07-29 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Multiplayer agent harness for work
+- **Growth:** averaging ~821 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/yc-software/qm
+
 
 ## Other Cool Projects
 

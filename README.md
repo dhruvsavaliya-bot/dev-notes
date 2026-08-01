@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**124 entries and counting** · Last updated: 2026-07-31
+**125 entries and counting** · Last updated: 2026-08-01
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 56 |
+| [Trending Projects](trending-projects/projects.md) | 57 |
 | [AI / LLM Notes](ai/notes.md) | 10 |
 | [Reading List](articles/reading-list.md) | 26 |
 | [Coding Tips](coding-tips/tips.md) | 30 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-08-01** · *AI & Machine Learning* — [yc-software/qm](https://github.com/yc-software/qm)
 - **2026-07-31** · *Hacker News Picks* — [Google fixed more Chrome bugs in June than over the pas](https://news.ycombinator.com/item?id=49120097)
 - **2026-07-31** · *Hacker News Picks* — [UEFA and its national associations will not participate](https://news.ycombinator.com/item?id=49113929)
-- **2026-07-31** · *JavaScript* — [Join our latest Frontend Challenge: Comfort Food Editio](https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0)
 
 ## How it works
 
