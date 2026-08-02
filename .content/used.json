@@ -24,6 +24,7 @@
     "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
     "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
     "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
+    "https://dev.to/varshithvhegde/i-built-a-chat-app-that-rewrites-its-own-ui-in-real-time-21m5",
     "https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0",
     "https://dev.to/xulingfeng/stratagems-10-lena-watched-a-team-adopt-her-ai-template-leo-didnt-know-the-knife-was-in-the-4khj",
     "https://dev.to/xulingfeng/stratagems-16-mark-left-a-hole-in-his-ai-audit-lena-counted-every-layer-2l7p",
@@ -141,12 +142,6 @@
   "recent": [
     {
       "date": "2026-07-31",
-      "subcat": "Hacker News Picks",
-      "title": "Read this before you buy that TV streaming stick",
-      "url": "https://news.ycombinator.com/item?id=49112744"
-    },
-    {
-      "date": "2026-07-31",
       "subcat": "JavaScript",
       "title": "Join our latest Frontend Challenge: Comfort Food Editio",
       "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0"
@@ -198,6 +193,12 @@
       "subcat": "Hacker News Picks",
       "title": "The most official water costs $120k a gallon",
       "url": "https://news.ycombinator.com/item?id=49124042"
+    },
+    {
+      "date": "2026-08-02",
+      "subcat": "AI Engineering",
+      "title": "I Built a Chat App That Rewrites Its Own UI in Real Tim",
+      "url": "https://dev.to/varshithvhegde/i-built-a-chat-app-that-rewrites-its-own-ui-in-real-time-21m5"
     }
   ]
 }

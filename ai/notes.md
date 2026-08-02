@@ -95,3 +95,12 @@ Lessons from building with LLMs.
 - **Tags:** security, ai, webdev, programming
 - **Summary:** Typosquatting bets on your typo. Slopsquatting bets on your AI assistant. When a model invents a...
 - **Link:** https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2
+
+**Added 2026-08-02**
+
+### [I Built a Chat App That Rewrites Its Own UI in Real Time](https://dev.to/varshithvhegde/i-built-a-chat-app-that-rewrites-its-own-ui-in-real-time-21m5)
+- **Author:** Varshith V Hegde | **Published:** Jul 28 | **Read time:** 9 min
+- **Community:** 52 reactions, 14 comments — a top post of the week in #ai
+- **Tags:** ai, agents, webdev, productivity
+- **Summary:** So I had this idea that kept nagging at me.  Every AI chat app works the same way. You type...
+- **Link:** https://dev.to/varshithvhegde/i-built-a-chat-app-that-rewrites-its-own-ui-in-real-time-21m5
