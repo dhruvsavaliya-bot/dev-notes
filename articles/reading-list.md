@@ -245,6 +245,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49145937
 - **Link:** https://github.com/wie-project/kakehashi
 
+**Added 2026-08-03**
+
+### [How the words we teach English language learners changed](https://pudding.cool/2026/07/essential-words/)
+- **Source:** pudding.cool | **Posted:** 2026-08-02 | **By:** c-oreills
+- **Community:** 219 points, 168 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49145590
+- **Link:** https://pudding.cool/2026/07/essential-words/
+
 
 ## DevOps & Cloud
 

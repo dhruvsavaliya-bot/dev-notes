@@ -142,15 +142,10 @@
     "https://news.ycombinator.com/item?id=49124042",
     "https://news.ycombinator.com/item?id=49128826",
     "https://news.ycombinator.com/item?id=49129990",
+    "https://news.ycombinator.com/item?id=49145590",
     "https://news.ycombinator.com/item?id=49145937"
   ],
   "recent": [
-    {
-      "date": "2026-08-01",
-      "subcat": "Hacker News Picks",
-      "title": "Show HN: I worked on a new browser for 2 years, today i",
-      "url": "https://news.ycombinator.com/item?id=49128826"
-    },
     {
       "date": "2026-08-01",
       "subcat": "JavaScript",
@@ -204,6 +199,12 @@
       "subcat": "Hacker News Picks",
       "title": "Show HN: Kakehashi  Experimental userspace to run macOS",
       "url": "https://news.ycombinator.com/item?id=49145937"
+    },
+    {
+      "date": "2026-08-03",
+      "subcat": "Hacker News Picks",
+      "title": "How the words we teach English language learners change",
+      "url": "https://news.ycombinator.com/item?id=49145590"
     }
   ]
 }
