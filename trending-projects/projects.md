@@ -264,6 +264,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~77 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/AlephAITech/WorkBuddyGuide
 
+**Added 2026-08-03**
+
+### [MIgHTy-alIeN/MEV-Ethereum-Trading-Bot](https://github.com/MIgHTy-alIeN/MEV-Ethereum-Trading-Bot)
+- **Stats:** 1,931 stars | 1,371 forks | 16 open issues
+- **Language:** Solidity | **Created:** 2026-07-17 | **License:** NOASSERTION
+- **Topics:** ai, aitradingbot, bot, btc, claude, eth
+- **What it is:** An arbitrage bot is a smart contract connected to an external automation script that controls its operation.
+- **Growth:** averaging ~113 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/MIgHTy-alIeN/MEV-Ethereum-Trading-Bot
+
 
 ## Other Cool Projects
 

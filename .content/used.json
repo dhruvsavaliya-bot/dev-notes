@@ -41,6 +41,7 @@
     "https://github.com/Krishnagangwal/CS-Fundamentals",
     "https://github.com/LiamGvchi/gc-minimal-zine-poster",
     "https://github.com/MDX-Tom/gpt-5.6-instruct",
+    "https://github.com/MIgHTy-alIeN/MEV-Ethereum-Trading-Bot",
     "https://github.com/MaximeRivest/riddle",
     "https://github.com/MoonshotAI/Kimi-K3",
     "https://github.com/Sahir619/fable-method",
@@ -143,12 +144,6 @@
   ],
   "recent": [
     {
-      "date": "2026-07-31",
-      "subcat": "Hacker News Picks",
-      "title": "Google fixed more Chrome bugs in June than over the pas",
-      "url": "https://news.ycombinator.com/item?id=49120097"
-    },
-    {
       "date": "2026-08-01",
       "subcat": "AI & Machine Learning",
       "title": "yc-software/qm",
@@ -201,6 +196,12 @@
       "subcat": "Developer Tools",
       "title": "LiamGvchi/gc-minimal-zine-poster",
       "url": "https://github.com/LiamGvchi/gc-minimal-zine-poster"
+    },
+    {
+      "date": "2026-08-03",
+      "subcat": "AI & Machine Learning",
+      "title": "MIgHTy-alIeN/MEV-Ethereum-Trading-Bot",
+      "url": "https://github.com/MIgHTy-alIeN/MEV-Ethereum-Trading-Bot"
     }
   ]
 }
