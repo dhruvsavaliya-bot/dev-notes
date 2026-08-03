@@ -83,6 +83,7 @@
     "https://github.com/slvDev/esp32-ai",
     "https://github.com/synthetic-sciences/openscience",
     "https://github.com/tamnd/kage",
+    "https://github.com/trycompai/crm",
     "https://github.com/unicity-aos/aos-ce",
     "https://github.com/vercel-labs/scriptc",
     "https://github.com/withmarbleapp/os-taxonomy",
@@ -145,12 +146,6 @@
   "recent": [
     {
       "date": "2026-08-01",
-      "subcat": "AI & Machine Learning",
-      "title": "yc-software/qm",
-      "url": "https://github.com/yc-software/qm"
-    },
-    {
-      "date": "2026-08-01",
       "subcat": "Other Cool Projects",
       "title": "bashalarmistalt/decimen-optical-transfer",
       "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
@@ -202,6 +197,12 @@
       "subcat": "AI & Machine Learning",
       "title": "MIgHTy-alIeN/MEV-Ethereum-Trading-Bot",
       "url": "https://github.com/MIgHTy-alIeN/MEV-Ethereum-Trading-Bot"
+    },
+    {
+      "date": "2026-08-03",
+      "subcat": "AI & Machine Learning",
+      "title": "trycompai/crm",
+      "url": "https://github.com/trycompai/crm"
     }
   ]
 }

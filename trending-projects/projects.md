@@ -274,6 +274,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~113 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/MIgHTy-alIeN/MEV-Ethereum-Trading-Bot
 
+**Added 2026-08-03**
+
+### [trycompai/crm](https://github.com/trycompai/crm)
+- **Stats:** 2,029 stars | 248 forks | 1 open issues
+- **Language:** TypeScript | **Created:** 2026-07-31 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** An open-source, agentic-first CRM.
+- **Growth:** averaging ~676 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/trycompai/crm
+
 
 ## Other Cool Projects
 
