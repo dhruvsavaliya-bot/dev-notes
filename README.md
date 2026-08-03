@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**138 entries and counting** · Last updated: 2026-08-03
+**139 entries and counting** · Last updated: 2026-08-03
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 62 |
+| [Trending Projects](trending-projects/projects.md) | 63 |
 | [AI / LLM Notes](ai/notes.md) | 11 |
 | [Reading List](articles/reading-list.md) | 30 |
 | [Coding Tips](coding-tips/tips.md) | 32 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-08-03** · *Other Cool Projects* — [xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Enginee](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)
 - **2026-08-03** · *Hacker News Picks* — [Show HN: A Handwritten Blogging Platform](https://news.ycombinator.com/item?id=49119751)
 - **2026-08-03** · *Hacker News Picks* — [How the words we teach English language learners change](https://news.ycombinator.com/item?id=49145590)
-- **2026-08-03** · *Hacker News Picks* — [Show HN: Kakehashi  Experimental userspace to run macOS](https://news.ycombinator.com/item?id=49145937)
 
 ## How it works
 

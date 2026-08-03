@@ -567,6 +567,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1,135 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/bashalarmistalt/decimen-optical-transfer
 
+**Added 2026-08-03**
+
+### [xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)
+- **Stats:** 1,908 stars | 240 forks | 7 open issues
+- **Language:** N/A | **Created:** 2026-07-30 | **License:** None
+- **Topics:** none listed
+- **What it is:** FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
+- **Growth:** averaging ~477 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer
+
 
 ## Web & Frontend
 

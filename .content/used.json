@@ -90,6 +90,7 @@
     "https://github.com/x4gKing/3x-ui",
     "https://github.com/x4gKing/X4G",
     "https://github.com/xai-org/grok-build",
+    "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
     "https://github.com/xuchonglang/investing-for-beginners",
     "https://github.com/yc-software/qm",
     "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
@@ -150,12 +151,6 @@
     {
       "date": "2026-08-01",
       "subcat": "Hacker News Picks",
-      "title": "How to Exist",
-      "url": "https://news.ycombinator.com/item?id=49129990"
-    },
-    {
-      "date": "2026-08-01",
-      "subcat": "Hacker News Picks",
       "title": "The most official water costs $120k a gallon",
       "url": "https://news.ycombinator.com/item?id=49124042"
     },
@@ -206,6 +201,12 @@
       "subcat": "Hacker News Picks",
       "title": "Show HN: A Handwritten Blogging Platform",
       "url": "https://news.ycombinator.com/item?id=49119751"
+    },
+    {
+      "date": "2026-08-03",
+      "subcat": "Other Cool Projects",
+      "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Enginee",
+      "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
     }
   ]
 }
