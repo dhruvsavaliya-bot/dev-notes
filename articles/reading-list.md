@@ -35,6 +35,15 @@ Fresh dev articles and blog posts.
 - **Summary:** I have been quiet lately I know - but don't worry I haven't forgotten you all and how much you like...
 - **Link:** https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i
 
+**Added 2026-08-03**
+
+### [Vibe Coding: Endgame](https://dev.to/konark_13/vibe-coding-endgame-3bbn)
+- **Author:** Konark Sharma | **Published:** Jul 28 | **Read time:** 6 min
+- **Community:** 51 reactions, 49 comments — a top post of the week in #webdev
+- **Tags:** ai, vibecoding, webdev, discuss
+- **Summary:** A few months ago, my AI coding workflow looked something like...
+- **Link:** https://dev.to/konark_13/vibe-coding-endgame-3bbn
+
 
 ## Hacker News Picks
 
