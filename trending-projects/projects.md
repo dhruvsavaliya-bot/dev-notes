@@ -592,6 +592,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~197 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/openai/codex-security
 
+**Added 2026-08-03**
+
+### [LiamGvchi/gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster)
+- **Stats:** 1,953 stars | 77 forks | 0 open issues
+- **Language:** N/A | **Created:** 2026-07-12 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Codex skill for generating quiet minimal zine-style editorial poster prompts and images.
+- **Growth:** averaging ~88 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/LiamGvchi/gc-minimal-zine-poster
+
 
 ## Backend & Infrastructure
 
