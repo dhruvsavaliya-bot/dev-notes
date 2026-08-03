@@ -138,6 +138,7 @@
     "https://news.ycombinator.com/item?id=49112744",
     "https://news.ycombinator.com/item?id=49113929",
     "https://news.ycombinator.com/item?id=49118663",
+    "https://news.ycombinator.com/item?id=49119751",
     "https://news.ycombinator.com/item?id=49120097",
     "https://news.ycombinator.com/item?id=49124042",
     "https://news.ycombinator.com/item?id=49128826",
@@ -146,12 +147,6 @@
     "https://news.ycombinator.com/item?id=49145937"
   ],
   "recent": [
-    {
-      "date": "2026-08-01",
-      "subcat": "JavaScript",
-      "title": "It Was Just a Patch Update. What Could Possibly Go Wron",
-      "url": "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3"
-    },
     {
       "date": "2026-08-01",
       "subcat": "Hacker News Picks",
@@ -205,6 +200,12 @@
       "subcat": "Hacker News Picks",
       "title": "How the words we teach English language learners change",
       "url": "https://news.ycombinator.com/item?id=49145590"
+    },
+    {
+      "date": "2026-08-03",
+      "subcat": "Hacker News Picks",
+      "title": "Show HN: A Handwritten Blogging Platform",
+      "url": "https://news.ycombinator.com/item?id=49119751"
     }
   ]
 }

@@ -254,6 +254,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49145590
 - **Link:** https://pudding.cool/2026/07/essential-words/
 
+**Added 2026-08-03**
+
+### [Show HN: A Handwritten Blogging Platform](https://handwritten.blog/)
+- **Source:** handwritten.blog | **Posted:** 2026-07-31 | **By:** emilesilvis
+- **Community:** 110 points, 54 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49119751
+- **Link:** https://handwritten.blog/
+
 
 ## DevOps & Cloud
 
