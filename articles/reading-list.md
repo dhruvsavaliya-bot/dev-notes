@@ -236,6 +236,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49128826
 - **Link:** https://code.intellios.ai/cwbrowser/
 
+**Added 2026-08-03**
+
+### [Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM](https://github.com/wie-project/kakehashi)
+- **Source:** github.com | **Posted:** 2026-08-02 | **By:** vlad_kalinkin
+- **Community:** 213 points, 53 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49145937
+- **Link:** https://github.com/wie-project/kakehashi
+
 
 ## DevOps & Cloud
 

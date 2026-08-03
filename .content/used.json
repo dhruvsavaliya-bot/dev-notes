@@ -141,15 +141,10 @@
     "https://news.ycombinator.com/item?id=49120097",
     "https://news.ycombinator.com/item?id=49124042",
     "https://news.ycombinator.com/item?id=49128826",
-    "https://news.ycombinator.com/item?id=49129990"
+    "https://news.ycombinator.com/item?id=49129990",
+    "https://news.ycombinator.com/item?id=49145937"
   ],
   "recent": [
-    {
-      "date": "2026-08-01",
-      "subcat": "Other Cool Projects",
-      "title": "bashalarmistalt/decimen-optical-transfer",
-      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
-    },
     {
       "date": "2026-08-01",
       "subcat": "Hacker News Picks",
@@ -203,6 +198,12 @@
       "subcat": "AI & Machine Learning",
       "title": "trycompai/crm",
       "url": "https://github.com/trycompai/crm"
+    },
+    {
+      "date": "2026-08-03",
+      "subcat": "Hacker News Picks",
+      "title": "Show HN: Kakehashi  Experimental userspace to run macOS",
+      "url": "https://news.ycombinator.com/item?id=49145937"
     }
   ]
 }
