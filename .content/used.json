@@ -32,6 +32,7 @@
     "https://dev.to/xulingfeng/stratagems-18-leo-tracked-an-ai-signal-to-derek-both-were-looking-for-the-same-enemy-51g4",
     "https://dev.to/xulingfeng/stratagems-9-lena-and-p-watched-two-ai-suppliers-fight-the-logs-said-neither-was-clean-2pj3",
     "https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9",
+    "https://github.com/AlephAITech/WorkBuddyGuide",
     "https://github.com/DavidHDev/canvas-ui",
     "https://github.com/Fei-Away/Codex-Dream-Skin",
     "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
@@ -142,12 +143,6 @@
   "recent": [
     {
       "date": "2026-07-31",
-      "subcat": "JavaScript",
-      "title": "Join our latest Frontend Challenge: Comfort Food Editio",
-      "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0"
-    },
-    {
-      "date": "2026-07-31",
       "subcat": "Hacker News Picks",
       "title": "UEFA and its national associations will not participate",
       "url": "https://news.ycombinator.com/item?id=49113929"
@@ -199,6 +194,12 @@
       "subcat": "AI Engineering",
       "title": "I Built a Chat App That Rewrites Its Own UI in Real Tim",
       "url": "https://dev.to/varshithvhegde/i-built-a-chat-app-that-rewrites-its-own-ui-in-real-time-21m5"
+    },
+    {
+      "date": "2026-08-03",
+      "subcat": "AI & Machine Learning",
+      "title": "AlephAITech/WorkBuddyGuide",
+      "url": "https://github.com/AlephAITech/WorkBuddyGuide"
     }
   ]
 }

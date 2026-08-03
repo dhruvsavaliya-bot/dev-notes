@@ -254,6 +254,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~821 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/yc-software/qm
 
+**Added 2026-08-03**
+
+### [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide)
+- **Stats:** 1,862 stars | 260 forks | 9 open issues
+- **Language:** Python | **Created:** 2026-07-10 | **License:** MIT
+- **Topics:** codex, guide, llm, workbuddy
+- **What it is:** A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。
+- **Growth:** averaging ~77 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/AlephAITech/WorkBuddyGuide
+
 
 ## Other Cool Projects
 
