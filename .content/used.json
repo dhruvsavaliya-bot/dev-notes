@@ -147,15 +147,10 @@
     "https://news.ycombinator.com/item?id=49129990",
     "https://news.ycombinator.com/item?id=49145590",
     "https://news.ycombinator.com/item?id=49145937",
-    "https://news.ycombinator.com/item?id=49153374"
+    "https://news.ycombinator.com/item?id=49153374",
+    "https://news.ycombinator.com/item?id=49158474"
   ],
   "recent": [
-    {
-      "date": "2026-08-03",
-      "subcat": "AI & Machine Learning",
-      "title": "AlephAITech/WorkBuddyGuide",
-      "url": "https://github.com/AlephAITech/WorkBuddyGuide"
-    },
     {
       "date": "2026-08-03",
       "subcat": "Developer Tools",
@@ -209,6 +204,12 @@
       "subcat": "Hacker News Picks",
       "title": "Prevent cognitive debt by manually retyping LLM-generat",
       "url": "https://news.ycombinator.com/item?id=49153374"
+    },
+    {
+      "date": "2026-08-04",
+      "subcat": "Hacker News Picks",
+      "title": "Celebrating 45 Years of Kermit with the First New C-Ker",
+      "url": "https://news.ycombinator.com/item?id=49158474"
     }
   ]
 }

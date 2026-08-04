@@ -272,6 +272,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49119751
 - **Link:** https://handwritten.blog/
 
+**Added 2026-08-04**
+
+### [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
+- **Source:** changelog.complete.org | **Posted:** 2026-08-03 | **By:** roryirvine
+- **Community:** 146 points, 37 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49158474
+- **Link:** https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase
+
 
 ## DevOps & Cloud
 
