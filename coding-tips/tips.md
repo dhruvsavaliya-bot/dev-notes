@@ -40,6 +40,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** Many of developers communities are asking the wrong question.  Not because they're wrong to worry...
 - **Link:** https://dev.to/adamthedeveloper/understanding-over-origin-4685
 
+**Added 2026-08-04**
+
+### [Pensar demais nem sempre ajuda e o que eu aprendi com isso](https://dev.to/he4rt/pensar-demais-nem-sempre-ajuda-e-o-que-eu-aprendi-com-isso-49pp)
+- **Author:** Yuri Souza | **Published:** Aug 1 | **Read time:** 5 min
+- **Community:** 52 reactions, 8 comments — a top post of the week in #productivity
+- **Tags:** braziliandevs, productivity, career, discuss
+- **Summary:** Às vezes, a maior barreira para começar um projeto não é a complexidade do problema, mas a busca por...
+- **Link:** https://dev.to/he4rt/pensar-demais-nem-sempre-ajuda-e-o-que-eu-aprendi-com-isso-49pp
+
 
 ## Hacker News Picks
 

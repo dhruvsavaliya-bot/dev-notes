@@ -16,6 +16,7 @@
     "https://dev.to/gramli/how-ai-endpoints-change-the-traditional-api-flow-3773",
     "https://dev.to/he4rt/como-escolher-eventos-de-tecnologia-para-participar-55kf",
     "https://dev.to/he4rt/contribuir-para-a-comunidade-como-destacar-isso-no-seu-linkedin-e-curriculo-4cgl",
+    "https://dev.to/he4rt/pensar-demais-nem-sempre-ajuda-e-o-que-eu-aprendi-com-isso-49pp",
     "https://dev.to/konark_13/vibe-coding-endgame-3bbn",
     "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
     "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
@@ -155,12 +156,6 @@
   "recent": [
     {
       "date": "2026-08-03",
-      "subcat": "AI & Machine Learning",
-      "title": "trycompai/crm",
-      "url": "https://github.com/trycompai/crm"
-    },
-    {
-      "date": "2026-08-03",
       "subcat": "Hacker News Picks",
       "title": "Show HN: Kakehashi  Experimental userspace to run macOS",
       "url": "https://news.ycombinator.com/item?id=49145937"
@@ -212,6 +207,12 @@
       "subcat": "Hacker News Picks",
       "title": "Amazonian civilization had estimated 3M people in 3% of",
       "url": "https://news.ycombinator.com/item?id=49099336"
+    },
+    {
+      "date": "2026-08-04",
+      "subcat": "Productivity",
+      "title": "Pensar demais nem sempre ajuda e o que eu aprendi com i",
+      "url": "https://dev.to/he4rt/pensar-demais-nem-sempre-ajuda-e-o-que-eu-aprendi-com-isso-49pp"
     }
   ]
 }
