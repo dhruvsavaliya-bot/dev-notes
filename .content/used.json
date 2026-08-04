@@ -22,6 +22,7 @@
     "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
     "https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2",
     "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
+    "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
     "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
     "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3",
     "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
@@ -158,12 +159,6 @@
     {
       "date": "2026-08-03",
       "subcat": "Hacker News Picks",
-      "title": "How the words we teach English language learners change",
-      "url": "https://news.ycombinator.com/item?id=49145590"
-    },
-    {
-      "date": "2026-08-03",
-      "subcat": "Hacker News Picks",
       "title": "Show HN: A Handwritten Blogging Platform",
       "url": "https://news.ycombinator.com/item?id=49119751"
     },
@@ -214,6 +209,12 @@
       "subcat": "JavaScript",
       "title": "React 19's useActionState Showed Me Why Disabling My Su",
       "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd"
+    },
+    {
+      "date": "2026-08-04",
+      "subcat": "JavaScript",
+      "title": "TypeScript 7 Went Native: What Actually Changes And Wha",
+      "url": "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3"
     }
   ]
 }

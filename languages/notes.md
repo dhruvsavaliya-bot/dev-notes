@@ -41,3 +41,12 @@ Snippets and gotchas across languages.
 - **Tags:** react, webdev, javascript, programming
 - **Summary:** Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...
 - **Link:** https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd
+
+**Added 2026-08-04**
+
+### [TypeScript 7 Went Native: What Actually Changes And What Doesn't](https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3)
+- **Author:** Nazar Boyko | **Published:** Aug 3 | **Read time:** 8 min
+- **Community:** 111 reactions, 53 comments — a top post of the week in #javascript
+- **Tags:** discuss, javascript, typescript, performance
+- **Summary:** Everyone's heard by now that TypeScript "went native." And I keep seeing the same wrong conclusion...
+- **Link:** https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3
