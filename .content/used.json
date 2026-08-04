@@ -128,6 +128,7 @@
     "https://news.ycombinator.com/item?id=49065752",
     "https://news.ycombinator.com/item?id=49070756",
     "https://news.ycombinator.com/item?id=49076900",
+    "https://news.ycombinator.com/item?id=49082937",
     "https://news.ycombinator.com/item?id=49084987",
     "https://news.ycombinator.com/item?id=49085698",
     "https://news.ycombinator.com/item?id=49087306",
@@ -151,12 +152,6 @@
     "https://news.ycombinator.com/item?id=49158474"
   ],
   "recent": [
-    {
-      "date": "2026-08-03",
-      "subcat": "Developer Tools",
-      "title": "LiamGvchi/gc-minimal-zine-poster",
-      "url": "https://github.com/LiamGvchi/gc-minimal-zine-poster"
-    },
     {
       "date": "2026-08-03",
       "subcat": "AI & Machine Learning",
@@ -210,6 +205,12 @@
       "subcat": "Hacker News Picks",
       "title": "Celebrating 45 Years of Kermit with the First New C-Ker",
       "url": "https://news.ycombinator.com/item?id=49158474"
+    },
+    {
+      "date": "2026-08-04",
+      "subcat": "Hacker News Picks",
+      "title": "How Hollywood stopped making movies in Hollywood",
+      "url": "https://news.ycombinator.com/item?id=49082937"
     }
   ]
 }

@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**142 entries and counting** · Last updated: 2026-08-04
+**143 entries and counting** · Last updated: 2026-08-04
 
 ## Categories
 
@@ -12,14 +12,14 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 | [Trending Projects](trending-projects/projects.md) | 63 |
 | [AI / LLM Notes](ai/notes.md) | 11 |
 | [Reading List](articles/reading-list.md) | 32 |
-| [Coding Tips](coding-tips/tips.md) | 33 |
+| [Coding Tips](coding-tips/tips.md) | 34 |
 | [Language Notes](languages/notes.md) | 3 |
 
 ## Latest additions
 
+- **2026-08-04** · *Hacker News Picks* — [How Hollywood stopped making movies in Hollywood](https://news.ycombinator.com/item?id=49082937)
 - **2026-08-04** · *Hacker News Picks* — [Celebrating 45 Years of Kermit with the First New C-Ker](https://news.ycombinator.com/item?id=49158474)
 - **2026-08-04** · *Hacker News Picks* — [Prevent cognitive debt by manually retyping LLM-generat](https://news.ycombinator.com/item?id=49153374)
-- **2026-08-03** · *Web Development* — [Vibe Coding: Endgame](https://dev.to/konark_13/vibe-coding-endgame-3bbn)
 
 ## How it works
 

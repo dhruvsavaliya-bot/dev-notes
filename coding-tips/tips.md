@@ -286,6 +286,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49153374
 - **Link:** https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/
 
+**Added 2026-08-04**
+
+### [How Hollywood stopped making movies in Hollywood](https://www.statsignificant.com/p/how-hollywood-stopped-making-movies)
+- **Source:** www.statsignificant.com | **Posted:** 2026-07-28 | **By:** speckx
+- **Community:** 186 points, 225 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49082937
+- **Link:** https://www.statsignificant.com/p/how-hollywood-stopped-making-movies
+
 
 ## Beginner
 
