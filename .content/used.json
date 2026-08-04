@@ -22,6 +22,7 @@
     "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
     "https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2",
     "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
+    "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
     "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3",
     "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
     "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
@@ -157,12 +158,6 @@
     {
       "date": "2026-08-03",
       "subcat": "Hacker News Picks",
-      "title": "Show HN: Kakehashi  Experimental userspace to run macOS",
-      "url": "https://news.ycombinator.com/item?id=49145937"
-    },
-    {
-      "date": "2026-08-03",
-      "subcat": "Hacker News Picks",
       "title": "How the words we teach English language learners change",
       "url": "https://news.ycombinator.com/item?id=49145590"
     },
@@ -213,6 +208,12 @@
       "subcat": "Productivity",
       "title": "Pensar demais nem sempre ajuda e o que eu aprendi com i",
       "url": "https://dev.to/he4rt/pensar-demais-nem-sempre-ajuda-e-o-que-eu-aprendi-com-isso-49pp"
+    },
+    {
+      "date": "2026-08-04",
+      "subcat": "JavaScript",
+      "title": "React 19's useActionState Showed Me Why Disabling My Su",
+      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd"
     }
   ]
 }

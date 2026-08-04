@@ -32,3 +32,12 @@ Snippets and gotchas across languages.
 - **Tags:** devchallenge, bugsmash, angular, javascript
 - **Summary:** This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  You know those...
 - **Link:** https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3
+
+**Added 2026-08-04**
+
+### [React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd)
+- **Author:** Shubhra Pokhariya | **Published:** Jul 28 | **Read time:** 5 min
+- **Community:** 50 reactions, 30 comments — a top post of the week in #javascript
+- **Tags:** react, webdev, javascript, programming
+- **Summary:** Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...
+- **Link:** https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd
