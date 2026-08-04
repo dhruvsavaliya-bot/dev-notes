@@ -277,6 +277,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49124042
 - **Link:** https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/
 
+**Added 2026-08-04**
+
+### [Prevent cognitive debt by manually retyping LLM-generated code](https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/)
+- **Source:** ankursethi.com | **Posted:** 2026-08-03 | **By:** mpweiher
+- **Community:** 415 points, 350 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49153374
+- **Link:** https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/
+
 
 ## Beginner
 

@@ -146,15 +146,10 @@
     "https://news.ycombinator.com/item?id=49128826",
     "https://news.ycombinator.com/item?id=49129990",
     "https://news.ycombinator.com/item?id=49145590",
-    "https://news.ycombinator.com/item?id=49145937"
+    "https://news.ycombinator.com/item?id=49145937",
+    "https://news.ycombinator.com/item?id=49153374"
   ],
   "recent": [
-    {
-      "date": "2026-08-02",
-      "subcat": "AI Engineering",
-      "title": "I Built a Chat App That Rewrites Its Own UI in Real Tim",
-      "url": "https://dev.to/varshithvhegde/i-built-a-chat-app-that-rewrites-its-own-ui-in-real-time-21m5"
-    },
     {
       "date": "2026-08-03",
       "subcat": "AI & Machine Learning",
@@ -208,6 +203,12 @@
       "subcat": "Web Development",
       "title": "Vibe Coding: Endgame",
       "url": "https://dev.to/konark_13/vibe-coding-endgame-3bbn"
+    },
+    {
+      "date": "2026-08-04",
+      "subcat": "Hacker News Picks",
+      "title": "Prevent cognitive debt by manually retyping LLM-generat",
+      "url": "https://news.ycombinator.com/item?id=49153374"
     }
   ]
 }
