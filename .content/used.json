@@ -134,6 +134,7 @@
     "https://news.ycombinator.com/item?id=49087306",
     "https://news.ycombinator.com/item?id=49089500",
     "https://news.ycombinator.com/item?id=49098198",
+    "https://news.ycombinator.com/item?id=49099336",
     "https://news.ycombinator.com/item?id=49099715",
     "https://news.ycombinator.com/item?id=49100043",
     "https://news.ycombinator.com/item?id=49104335",
@@ -152,12 +153,6 @@
     "https://news.ycombinator.com/item?id=49158474"
   ],
   "recent": [
-    {
-      "date": "2026-08-03",
-      "subcat": "AI & Machine Learning",
-      "title": "MIgHTy-alIeN/MEV-Ethereum-Trading-Bot",
-      "url": "https://github.com/MIgHTy-alIeN/MEV-Ethereum-Trading-Bot"
-    },
     {
       "date": "2026-08-03",
       "subcat": "AI & Machine Learning",
@@ -211,6 +206,12 @@
       "subcat": "Hacker News Picks",
       "title": "How Hollywood stopped making movies in Hollywood",
       "url": "https://news.ycombinator.com/item?id=49082937"
+    },
+    {
+      "date": "2026-08-04",
+      "subcat": "Hacker News Picks",
+      "title": "Amazonian civilization had estimated 3M people in 3% of",
+      "url": "https://news.ycombinator.com/item?id=49099336"
     }
   ]
 }

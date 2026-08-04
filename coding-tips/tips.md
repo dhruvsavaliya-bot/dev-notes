@@ -295,6 +295,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49082937
 - **Link:** https://www.statsignificant.com/p/how-hollywood-stopped-making-movies
 
+**Added 2026-08-04**
+
+### [Amazonian civilization had estimated 3M people in 3% of forest area](https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization)
+- **Source:** www.science.org | **Posted:** 2026-07-29 | **By:** marojejian
+- **Community:** 118 points, 87 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49099336
+- **Link:** https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization
+
 
 ## Beginner
 
