@@ -281,6 +281,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49158474
 - **Link:** https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase
 
+**Added 2026-08-04**
+
+### [Harness Engineering for Self-Improvement](https://lilianweng.github.io/posts/2026-07-04-harness/)
+- **Source:** lilianweng.github.io | **Posted:** 2026-08-04 | **By:** tosh
+- **Community:** 101 points, 16 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49164896
+- **Link:** https://lilianweng.github.io/posts/2026-07-04-harness/
+
 
 ## DevOps & Cloud
 
