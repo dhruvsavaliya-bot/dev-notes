@@ -159,15 +159,10 @@
     "https://news.ycombinator.com/item?id=49158474",
     "https://news.ycombinator.com/item?id=49164896",
     "https://news.ycombinator.com/item?id=49173165",
+    "https://news.ycombinator.com/item?id=49173984",
     "https://news.ycombinator.com/item?id=49176697"
   ],
   "recent": [
-    {
-      "date": "2026-08-04",
-      "subcat": "Hacker News Picks",
-      "title": "Amazonian civilization had estimated 3M people in 3% of",
-      "url": "https://news.ycombinator.com/item?id=49099336"
-    },
     {
       "date": "2026-08-04",
       "subcat": "Productivity",
@@ -221,6 +216,12 @@
       "subcat": "Hacker News Picks",
       "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and",
       "url": "https://news.ycombinator.com/item?id=49176697"
+    },
+    {
+      "date": "2026-08-05",
+      "subcat": "Hacker News Picks",
+      "title": "Show HN: Maple-Preview  Ternary 20B MoE running at 120 ",
+      "url": "https://news.ycombinator.com/item?id=49173984"
     }
   ]
 }

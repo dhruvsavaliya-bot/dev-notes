@@ -322,6 +322,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49176697
 - **Link:** https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/
 
+**Added 2026-08-05**
+
+### [Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone](https://deepgrove.ai/maple-preview)
+- **Source:** deepgrove.ai | **Posted:** 2026-08-04 | **By:** edwardbzhang
+- **Community:** 122 points, 36 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49173984
+- **Link:** https://deepgrove.ai/maple-preview
+
 
 ## Beginner
 
