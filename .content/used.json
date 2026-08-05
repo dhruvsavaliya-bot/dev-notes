@@ -38,6 +38,7 @@
     "https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9",
     "https://github.com/AlephAITech/WorkBuddyGuide",
     "https://github.com/DavidHDev/canvas-ui",
+    "https://github.com/FareedKhan-dev/kimi-k3-in-c",
     "https://github.com/Fei-Away/Codex-Dream-Skin",
     "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
     "https://github.com/Jia-Ethan/codex-keysmith",
@@ -159,12 +160,6 @@
   "recent": [
     {
       "date": "2026-08-03",
-      "subcat": "Other Cool Projects",
-      "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Enginee",
-      "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
-    },
-    {
-      "date": "2026-08-03",
       "subcat": "Web Development",
       "title": "Vibe Coding: Endgame",
       "url": "https://dev.to/konark_13/vibe-coding-endgame-3bbn"
@@ -216,6 +211,12 @@
       "subcat": "Hacker News Picks",
       "title": "Harness Engineering for Self-Improvement",
       "url": "https://news.ycombinator.com/item?id=49164896"
+    },
+    {
+      "date": "2026-08-05",
+      "subcat": "AI & Machine Learning",
+      "title": "FareedKhan-dev/kimi-k3-in-c",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
     }
   ]
 }

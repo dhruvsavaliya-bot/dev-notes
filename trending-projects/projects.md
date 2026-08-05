@@ -284,6 +284,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~676 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/trycompai/crm
 
+**Added 2026-08-05**
+
+### [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
+- **Stats:** 2,112 stars | 347 forks | 7 open issues
+- **Language:** C | **Created:** 2026-08-01 | **License:** Apache-2.0
+- **Topics:** avx2, c99, cpu-inference, deep-learning, from-scratch, inference-engine
+- **What it is:** A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
+- **Growth:** averaging ~528 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/FareedKhan-dev/kimi-k3-in-c
+
 
 ## Other Cool Projects
 
