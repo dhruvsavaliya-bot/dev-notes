@@ -11,6 +11,7 @@
     "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1",
     "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
     "https://dev.to/francistrdev/choose-your-burden-4dgl",
+    "https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p",
     "https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd",
     "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i",
     "https://dev.to/gramli/how-ai-endpoints-change-the-traditional-api-flow-3773",
@@ -167,12 +168,6 @@
     {
       "date": "2026-08-04",
       "subcat": "JavaScript",
-      "title": "React 19's useActionState Showed Me Why Disabling My Su",
-      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd"
-    },
-    {
-      "date": "2026-08-04",
-      "subcat": "JavaScript",
       "title": "TypeScript 7 Went Native: What Actually Changes And Wha",
       "url": "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3"
     },
@@ -223,6 +218,12 @@
       "subcat": "Hacker News Picks",
       "title": "Eight Myths on Software Engineering and GenAI",
       "url": "https://news.ycombinator.com/item?id=49176830"
+    },
+    {
+      "date": "2026-08-05",
+      "subcat": "AI Engineering",
+      "title": "How would you decide, whether the content is good or ba",
+      "url": "https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p"
     }
   ]
 }

@@ -113,3 +113,12 @@ Lessons from building with LLMs.
 - **Tags:** ai, discuss, career, programming
 - **Summary:** Keep the shell. Preserve the presence. The ally doesn't suspect; the enemy doesn't move. — The 36...
 - **Link:** https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7
+
+**Added 2026-08-05**
+
+### [How would you decide, whether the content is good or bad?](https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p)
+- **Author:** FrancisTRᴅᴇᴠ (っ◔◡◔)っ | **Published:** Aug 3 | **Read time:** 9 min
+- **Community:** 108 reactions, 60 comments — a top post of the week in #ai
+- **Tags:** discuss, community, ai, writing
+- **Summary:** I want to talk about what I have notice on the platform and want to address what we all have been...
+- **Link:** https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p
