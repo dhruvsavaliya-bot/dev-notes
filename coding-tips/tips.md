@@ -313,6 +313,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49099336
 - **Link:** https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization
 
+**Added 2026-08-05**
+
+### [IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay](https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/)
+- **Source:** mysk.blog | **Posted:** 2026-08-04 | **By:** lapcat
+- **Community:** 103 points, 15 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49176697
+- **Link:** https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/
+
 
 ## Beginner
 

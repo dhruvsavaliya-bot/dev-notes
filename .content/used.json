@@ -158,15 +158,10 @@
     "https://news.ycombinator.com/item?id=49153374",
     "https://news.ycombinator.com/item?id=49158474",
     "https://news.ycombinator.com/item?id=49164896",
-    "https://news.ycombinator.com/item?id=49173165"
+    "https://news.ycombinator.com/item?id=49173165",
+    "https://news.ycombinator.com/item?id=49176697"
   ],
   "recent": [
-    {
-      "date": "2026-08-04",
-      "subcat": "Hacker News Picks",
-      "title": "How Hollywood stopped making movies in Hollywood",
-      "url": "https://news.ycombinator.com/item?id=49082937"
-    },
     {
       "date": "2026-08-04",
       "subcat": "Hacker News Picks",
@@ -220,6 +215,12 @@
       "subcat": "Hacker News Picks",
       "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 ",
       "url": "https://news.ycombinator.com/item?id=49173165"
+    },
+    {
+      "date": "2026-08-05",
+      "subcat": "Hacker News Picks",
+      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and",
+      "url": "https://news.ycombinator.com/item?id=49176697"
     }
   ]
 }
