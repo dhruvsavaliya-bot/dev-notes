@@ -34,6 +34,7 @@
     "https://dev.to/xulingfeng/stratagems-16-mark-left-a-hole-in-his-ai-audit-lena-counted-every-layer-2l7p",
     "https://dev.to/xulingfeng/stratagems-17-alex-set-an-ai-bait-the-catch-wasnt-code-it-was-someone-who-shouldnt-have-been-4893",
     "https://dev.to/xulingfeng/stratagems-18-leo-tracked-an-ai-signal-to-derek-both-were-looking-for-the-same-enemy-51g4",
+    "https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7",
     "https://dev.to/xulingfeng/stratagems-9-lena-and-p-watched-two-ai-suppliers-fight-the-logs-said-neither-was-clean-2pj3",
     "https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9",
     "https://github.com/AlephAITech/WorkBuddyGuide",
@@ -159,12 +160,6 @@
   ],
   "recent": [
     {
-      "date": "2026-08-03",
-      "subcat": "Web Development",
-      "title": "Vibe Coding: Endgame",
-      "url": "https://dev.to/konark_13/vibe-coding-endgame-3bbn"
-    },
-    {
       "date": "2026-08-04",
       "subcat": "Hacker News Picks",
       "title": "Prevent cognitive debt by manually retyping LLM-generat",
@@ -217,6 +212,12 @@
       "subcat": "AI & Machine Learning",
       "title": "FareedKhan-dev/kimi-k3-in-c",
       "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
+    },
+    {
+      "date": "2026-08-05",
+      "subcat": "AI Engineering",
+      "title": "Stratagems #21: The AI Thought P Was Still Alive. P Was",
+      "url": "https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7"
     }
   ]
 }

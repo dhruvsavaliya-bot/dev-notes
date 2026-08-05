@@ -104,3 +104,12 @@ Lessons from building with LLMs.
 - **Tags:** ai, agents, webdev, productivity
 - **Summary:** So I had this idea that kept nagging at me.  Every AI chat app works the same way. You type...
 - **Link:** https://dev.to/varshithvhegde/i-built-a-chat-app-that-rewrites-its-own-ui-in-real-time-21m5
+
+**Added 2026-08-05**
+
+### [Stratagems #21: The AI Thought P Was Still Alive. P Was Already Gone.](https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7)
+- **Author:** xulingfeng | **Published:** Aug 2 | **Read time:** 9 min
+- **Community:** 54 reactions, 35 comments — a top post of the week in #ai
+- **Tags:** ai, discuss, career, programming
+- **Summary:** Keep the shell. Preserve the presence. The ally doesn't suspect; the enemy doesn't move. — The 36...
+- **Link:** https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7
