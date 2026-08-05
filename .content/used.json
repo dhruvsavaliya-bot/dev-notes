@@ -157,15 +157,10 @@
     "https://news.ycombinator.com/item?id=49145937",
     "https://news.ycombinator.com/item?id=49153374",
     "https://news.ycombinator.com/item?id=49158474",
-    "https://news.ycombinator.com/item?id=49164896"
+    "https://news.ycombinator.com/item?id=49164896",
+    "https://news.ycombinator.com/item?id=49173165"
   ],
   "recent": [
-    {
-      "date": "2026-08-04",
-      "subcat": "Hacker News Picks",
-      "title": "Celebrating 45 Years of Kermit with the First New C-Ker",
-      "url": "https://news.ycombinator.com/item?id=49158474"
-    },
     {
       "date": "2026-08-04",
       "subcat": "Hacker News Picks",
@@ -219,6 +214,12 @@
       "subcat": "Other Cool Projects",
       "title": "firecrawl/anydoc",
       "url": "https://github.com/firecrawl/anydoc"
+    },
+    {
+      "date": "2026-08-05",
+      "subcat": "Hacker News Picks",
+      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 ",
+      "url": "https://news.ycombinator.com/item?id=49173165"
     }
   ]
 }

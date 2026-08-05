@@ -290,6 +290,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49164896
 - **Link:** https://lilianweng.github.io/posts/2026-07-04-harness/
 
+**Added 2026-08-05**
+
+### [In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years](https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/)
+- **Source:** writings.stephenwolfram.com | **Posted:** 2026-08-04 | **By:** jdcampolargo
+- **Community:** 1257 points, 71 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49173165
+- **Link:** https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/
+
 
 ## DevOps & Cloud
 
