@@ -587,6 +587,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~477 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer
 
+**Added 2026-08-05**
+
+### [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
+- **Stats:** 2,247 stars | 94 forks | 13 open issues
+- **Language:** Rust | **Created:** 2026-08-03 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
+- **Growth:** averaging ~1,123 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/firecrawl/anydoc
+
 
 ## Web & Frontend
 
