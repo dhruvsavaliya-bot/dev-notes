@@ -165,16 +165,11 @@
     "https://news.ycombinator.com/item?id=49173984",
     "https://news.ycombinator.com/item?id=49176697",
     "https://news.ycombinator.com/item?id=49176830",
+    "https://news.ycombinator.com/item?id=49185430",
     "https://news.ycombinator.com/item?id=49188022",
     "https://news.ycombinator.com/item?id=49189075"
   ],
   "recent": [
-    {
-      "date": "2026-08-05",
-      "subcat": "Other Cool Projects",
-      "title": "firecrawl/anydoc",
-      "url": "https://github.com/firecrawl/anydoc"
-    },
     {
       "date": "2026-08-05",
       "subcat": "Hacker News Picks",
@@ -228,6 +223,12 @@
       "subcat": "Hacker News Picks",
       "title": "I'm switching my phone from Android to Linux",
       "url": "https://news.ycombinator.com/item?id=49188022"
+    },
+    {
+      "date": "2026-08-06",
+      "subcat": "Hacker News Picks",
+      "title": "Celld: Self-hosted, distributed Durable Objects",
+      "url": "https://news.ycombinator.com/item?id=49185430"
     }
   ]
 }

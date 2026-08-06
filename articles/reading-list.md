@@ -308,6 +308,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49176830
 - **Link:** https://queue.acm.org/detail.cfm?id=3807963
 
+**Added 2026-08-06**
+
+### [Celld: Self-hosted, distributed Durable Objects](https://github.com/denoland/celld)
+- **Source:** github.com | **Posted:** 2026-08-05 | **By:** calvinfo
+- **Community:** 212 points, 35 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49185430
+- **Link:** https://github.com/denoland/celld
+
 
 ## DevOps & Cloud
 
