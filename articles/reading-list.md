@@ -339,3 +339,12 @@ Fresh dev articles and blog posts.
 - **Tags:** security, api, webdev, discuss
 - **Summary:** You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...
 - **Link:** https://dev.to/thomasbnt/passkeys-explained-simply-52jk
+
+**Added 2026-08-06**
+
+### [We’re Giving AI Agents More Tools. What Happens When the Boundaries Fail?](https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh)
+- **Author:** Hemapriya Kanagala | **Published:** Aug 3 | **Read time:** 21 min
+- **Community:** 70 reactions, 74 comments — a top post of the week in #security
+- **Tags:** discuss, security, agents, programming
+- **Summary:** 📌 TL;DR  AI agents are becoming useful because we're giving them the ability to do more than just...
+- **Link:** https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh

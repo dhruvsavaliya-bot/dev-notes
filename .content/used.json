@@ -18,6 +18,7 @@
     "https://dev.to/he4rt/como-escolher-eventos-de-tecnologia-para-participar-55kf",
     "https://dev.to/he4rt/contribuir-para-a-comunidade-como-destacar-isso-no-seu-linkedin-e-curriculo-4cgl",
     "https://dev.to/he4rt/pensar-demais-nem-sempre-ajuda-e-o-que-eu-aprendi-com-isso-49pp",
+    "https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh",
     "https://dev.to/konark_13/vibe-coding-endgame-3bbn",
     "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
     "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
@@ -173,12 +174,6 @@
     {
       "date": "2026-08-05",
       "subcat": "Hacker News Picks",
-      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 ",
-      "url": "https://news.ycombinator.com/item?id=49173165"
-    },
-    {
-      "date": "2026-08-05",
-      "subcat": "Hacker News Picks",
       "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and",
       "url": "https://news.ycombinator.com/item?id=49176697"
     },
@@ -229,6 +224,12 @@
       "subcat": "Hacker News Picks",
       "title": "Celld: Self-hosted, distributed Durable Objects",
       "url": "https://news.ycombinator.com/item?id=49185430"
+    },
+    {
+      "date": "2026-08-06",
+      "subcat": "Security",
+      "title": "Were Giving AI Agents More Tools. What Happens When the",
+      "url": "https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh"
     }
   ]
 }
