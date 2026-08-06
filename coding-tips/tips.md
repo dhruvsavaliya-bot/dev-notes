@@ -349,6 +349,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49188022
 - **Link:** https://runarcn.no/android-to-linux/
 
+**Added 2026-08-06**
+
+### [Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)
+- **Source:** research.meta.ai | **Posted:** 2026-08-05 | **By:** paulkrush
+- **Community:** 271 points, 170 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49187575
+- **Link:** https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2
+
 
 ## Beginner
 

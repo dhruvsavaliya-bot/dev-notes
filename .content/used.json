@@ -167,16 +167,11 @@
     "https://news.ycombinator.com/item?id=49176697",
     "https://news.ycombinator.com/item?id=49176830",
     "https://news.ycombinator.com/item?id=49185430",
+    "https://news.ycombinator.com/item?id=49187575",
     "https://news.ycombinator.com/item?id=49188022",
     "https://news.ycombinator.com/item?id=49189075"
   ],
   "recent": [
-    {
-      "date": "2026-08-05",
-      "subcat": "Hacker News Picks",
-      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and",
-      "url": "https://news.ycombinator.com/item?id=49176697"
-    },
     {
       "date": "2026-08-05",
       "subcat": "Hacker News Picks",
@@ -230,6 +225,12 @@
       "subcat": "Security",
       "title": "Were Giving AI Agents More Tools. What Happens When the",
       "url": "https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh"
+    },
+    {
+      "date": "2026-08-06",
+      "subcat": "Hacker News Picks",
+      "title": "Muse Code and Muse Spark 1.2",
+      "url": "https://news.ycombinator.com/item?id=49187575"
     }
   ]
 }
