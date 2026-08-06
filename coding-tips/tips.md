@@ -340,6 +340,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49189075
 - **Link:** https://www.primeintellect.ai/blog/prime-agent
 
+**Added 2026-08-06**
+
+### [I'm switching my phone from Android to Linux](https://runarcn.no/android-to-linux/)
+- **Source:** runarcn.no | **Posted:** 2026-08-05 | **By:** speckx
+- **Community:** 291 points, 277 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49188022
+- **Link:** https://runarcn.no/android-to-linux/
+
 
 ## Beginner
 

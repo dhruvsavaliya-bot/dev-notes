@@ -165,15 +165,10 @@
     "https://news.ycombinator.com/item?id=49173984",
     "https://news.ycombinator.com/item?id=49176697",
     "https://news.ycombinator.com/item?id=49176830",
+    "https://news.ycombinator.com/item?id=49188022",
     "https://news.ycombinator.com/item?id=49189075"
   ],
   "recent": [
-    {
-      "date": "2026-08-05",
-      "subcat": "AI Engineering",
-      "title": "Stratagems #21: The AI Thought P Was Still Alive. P Was",
-      "url": "https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7"
-    },
     {
       "date": "2026-08-05",
       "subcat": "Other Cool Projects",
@@ -227,6 +222,12 @@
       "subcat": "Other Cool Projects",
       "title": "imsai-sh/zhuzhiliao",
       "url": "https://github.com/imsai-sh/zhuzhiliao"
+    },
+    {
+      "date": "2026-08-06",
+      "subcat": "Hacker News Picks",
+      "title": "I'm switching my phone from Android to Linux",
+      "url": "https://news.ycombinator.com/item?id=49188022"
     }
   ]
 }
