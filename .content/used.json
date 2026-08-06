@@ -64,6 +64,7 @@
     "https://github.com/bashalarmistalt/decimen-optical-transfer",
     "https://github.com/bikini/exploitarium",
     "https://github.com/bozhouDev/codex-orange-book",
+    "https://github.com/bryanthaboi/gen1recomp",
     "https://github.com/cloudflare/security-audit-skill",
     "https://github.com/davidondrej/skills",
     "https://github.com/deepseek-ai/DeepSpec",
@@ -167,12 +168,6 @@
   ],
   "recent": [
     {
-      "date": "2026-08-04",
-      "subcat": "Hacker News Picks",
-      "title": "Harness Engineering for Self-Improvement",
-      "url": "https://news.ycombinator.com/item?id=49164896"
-    },
-    {
       "date": "2026-08-05",
       "subcat": "AI & Machine Learning",
       "title": "FareedKhan-dev/kimi-k3-in-c",
@@ -225,6 +220,12 @@
       "subcat": "Hacker News Picks",
       "title": "Prime Agent: A self-improving RLM agent",
       "url": "https://news.ycombinator.com/item?id=49189075"
+    },
+    {
+      "date": "2026-08-06",
+      "subcat": "Other Cool Projects",
+      "title": "bryanthaboi/gen1recomp",
+      "url": "https://github.com/bryanthaboi/gen1recomp"
     }
   ]
 }

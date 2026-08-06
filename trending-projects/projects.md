@@ -597,6 +597,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1,123 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/firecrawl/anydoc
 
+**Added 2026-08-06**
+
+### [bryanthaboi/gen1recomp](https://github.com/bryanthaboi/gen1recomp)
+- **Stats:** 2,122 stars | 161 forks | 22 open issues
+- **Language:** C | **Created:** 2026-07-18 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 Poke
+- **Growth:** averaging ~111 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/bryanthaboi/gen1recomp
+
 
 ## Web & Frontend
 
