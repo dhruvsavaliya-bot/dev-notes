@@ -607,6 +607,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~111 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/bryanthaboi/gen1recomp
 
+**Added 2026-08-06**
+
+### [imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao)
+- **Stats:** 2,152 stars | 278 forks | 9 open issues
+- **Language:** HTML | **Created:** 2026-08-01 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。
+- **Growth:** averaging ~430 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/imsai-sh/zhuzhiliao
+
 
 ## Web & Frontend
 
