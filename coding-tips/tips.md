@@ -331,6 +331,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49173984
 - **Link:** https://deepgrove.ai/maple-preview
 
+**Added 2026-08-06**
+
+### [Prime Agent: A self-improving RLM agent](https://www.primeintellect.ai/blog/prime-agent)
+- **Source:** www.primeintellect.ai | **Posted:** 2026-08-05 | **By:** Xeophon
+- **Community:** 131 points, 22 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49189075
+- **Link:** https://www.primeintellect.ai/blog/prime-agent
+
 
 ## Beginner
 

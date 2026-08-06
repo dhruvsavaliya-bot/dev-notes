@@ -162,15 +162,10 @@
     "https://news.ycombinator.com/item?id=49173165",
     "https://news.ycombinator.com/item?id=49173984",
     "https://news.ycombinator.com/item?id=49176697",
-    "https://news.ycombinator.com/item?id=49176830"
+    "https://news.ycombinator.com/item?id=49176830",
+    "https://news.ycombinator.com/item?id=49189075"
   ],
   "recent": [
-    {
-      "date": "2026-08-04",
-      "subcat": "JavaScript",
-      "title": "TypeScript 7 Went Native: What Actually Changes And Wha",
-      "url": "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3"
-    },
     {
       "date": "2026-08-04",
       "subcat": "Hacker News Picks",
@@ -224,6 +219,12 @@
       "subcat": "AI Engineering",
       "title": "How would you decide, whether the content is good or ba",
       "url": "https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p"
+    },
+    {
+      "date": "2026-08-06",
+      "subcat": "Hacker News Picks",
+      "title": "Prime Agent: A self-improving RLM agent",
+      "url": "https://news.ycombinator.com/item?id=49189075"
     }
   ]
 }
