@@ -50,3 +50,14 @@ Snippets and gotchas across languages.
 - **Tags:** discuss, javascript, typescript, performance
 - **Summary:** Everyone's heard by now that TypeScript "went native." And I keep seeing the same wrong conclusion...
 - **Link:** https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3
+
+## TypeScript
+
+**Added 2026-08-07**
+
+### [How I Smashed a Bug in a Shared Authentication Library](https://dev.to/gramli/how-i-smashed-a-bug-in-a-shared-authentication-library-33fm)
+- **Author:** Daniel Balcarek | **Published:** Aug 5 | **Read time:** 4 min
+- **Community:** 63 reactions, 43 comments — a top post of the week in #typescript
+- **Tags:** devchallenge, bugsmash, angular, typescript
+- **Summary:** This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  This happened a...
+- **Link:** https://dev.to/gramli/how-i-smashed-a-bug-in-a-shared-authentication-library-33fm

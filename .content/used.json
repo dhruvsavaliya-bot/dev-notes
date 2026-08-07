@@ -16,6 +16,7 @@
     "https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd",
     "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i",
     "https://dev.to/gramli/how-ai-endpoints-change-the-traditional-api-flow-3773",
+    "https://dev.to/gramli/how-i-smashed-a-bug-in-a-shared-authentication-library-33fm",
     "https://dev.to/he4rt/como-escolher-eventos-de-tecnologia-para-participar-55kf",
     "https://dev.to/he4rt/contribuir-para-a-comunidade-como-destacar-isso-no-seu-linkedin-e-curriculo-4cgl",
     "https://dev.to/he4rt/pensar-demais-nem-sempre-ajuda-e-o-que-eu-aprendi-com-isso-49pp",
@@ -179,12 +180,6 @@
   "recent": [
     {
       "date": "2026-08-06",
-      "subcat": "Other Cool Projects",
-      "title": "imsai-sh/zhuzhiliao",
-      "url": "https://github.com/imsai-sh/zhuzhiliao"
-    },
-    {
-      "date": "2026-08-06",
       "subcat": "Hacker News Picks",
       "title": "I'm switching my phone from Android to Linux",
       "url": "https://news.ycombinator.com/item?id=49188022"
@@ -236,6 +231,12 @@
       "subcat": "Hacker News Picks",
       "title": "Herdr is joining Y Combinator. The runtime stays open",
       "url": "https://news.ycombinator.com/item?id=49201003"
+    },
+    {
+      "date": "2026-08-07",
+      "subcat": "TypeScript",
+      "title": "How I Smashed a Bug in a Shared Authentication Library",
+      "url": "https://dev.to/gramli/how-i-smashed-a-bug-in-a-shared-authentication-library-33fm"
     }
   ]
 }
