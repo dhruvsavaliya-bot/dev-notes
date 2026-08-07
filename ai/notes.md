@@ -122,3 +122,12 @@ Lessons from building with LLMs.
 - **Tags:** discuss, community, ai, writing
 - **Summary:** I want to talk about what I have notice on the platform and want to address what we all have been...
 - **Link:** https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p
+
+**Added 2026-08-07**
+
+### [Understanding Over Origin: The Missing Friction](https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag)
+- **Author:** Adam - The Developer ✨ | **Published:** Aug 4 | **Read time:** 7 min
+- **Community:** 52 reactions, 41 comments — a top post of the week in #ai
+- **Tags:** ai, programming, productivity, learning
+- **Summary:** A few days ago, I wrote "Understanding Over Origin" and it got alot of engagement and I'm really...
+- **Link:** https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag

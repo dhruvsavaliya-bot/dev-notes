@@ -7,6 +7,7 @@
   ],
   "ids": [
     "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
+    "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag",
     "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
     "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1",
     "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
@@ -175,12 +176,6 @@
   ],
   "recent": [
     {
-      "date": "2026-08-05",
-      "subcat": "AI Engineering",
-      "title": "How would you decide, whether the content is good or ba",
-      "url": "https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p"
-    },
-    {
       "date": "2026-08-06",
       "subcat": "Hacker News Picks",
       "title": "Prime Agent: A self-improving RLM agent",
@@ -233,6 +228,12 @@
       "subcat": "AI & Machine Learning",
       "title": "microsoft/skill-recorder",
       "url": "https://github.com/microsoft/skill-recorder"
+    },
+    {
+      "date": "2026-08-07",
+      "subcat": "AI Engineering",
+      "title": "Understanding Over Origin: The Missing Friction",
+      "url": "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag"
     }
   ]
 }
