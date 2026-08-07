@@ -317,6 +317,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49185430
 - **Link:** https://github.com/denoland/celld
 
+**Added 2026-08-07**
+
+### [Herdr is joining Y Combinator. The runtime stays open](https://herdr.dev/blog/herdr-is-joining-y-combinator/)
+- **Source:** herdr.dev | **Posted:** 2026-08-06 | **By:** collinmanderson
+- **Community:** 220 points, 154 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49201003
+- **Link:** https://herdr.dev/blog/herdr-is-joining-y-combinator/
+
 
 ## DevOps & Cloud
 

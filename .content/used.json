@@ -173,15 +173,10 @@
     "https://news.ycombinator.com/item?id=49187575",
     "https://news.ycombinator.com/item?id=49188022",
     "https://news.ycombinator.com/item?id=49189075",
+    "https://news.ycombinator.com/item?id=49201003",
     "https://news.ycombinator.com/item?id=49204352"
   ],
   "recent": [
-    {
-      "date": "2026-08-06",
-      "subcat": "Other Cool Projects",
-      "title": "bryanthaboi/gen1recomp",
-      "url": "https://github.com/bryanthaboi/gen1recomp"
-    },
     {
       "date": "2026-08-06",
       "subcat": "Other Cool Projects",
@@ -235,6 +230,12 @@
       "subcat": "AI & Machine Learning",
       "title": "MIgHTy-alIeN/ai-trader-bot",
       "url": "https://github.com/MIgHTy-alIeN/ai-trader-bot"
+    },
+    {
+      "date": "2026-08-07",
+      "subcat": "Hacker News Picks",
+      "title": "Herdr is joining Y Combinator. The runtime stays open",
+      "url": "https://news.ycombinator.com/item?id=49201003"
     }
   ]
 }
