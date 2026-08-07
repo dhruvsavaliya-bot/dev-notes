@@ -294,6 +294,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~528 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/FareedKhan-dev/kimi-k3-in-c
 
+**Added 2026-08-07**
+
+### [microsoft/skill-recorder](https://github.com/microsoft/skill-recorder)
+- **Stats:** 2,202 stars | 235 forks | 30 open issues
+- **Language:** TypeScript | **Created:** 2026-07-29 | **License:** MIT
+- **Topics:** agent-skills, ai-agents, automation, copilot, copilot-cli, copilot-cowork
+- **What it is:** Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.
+- **Growth:** averaging ~244 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/microsoft/skill-recorder
+
 
 ## Other Cool Projects
 

@@ -84,6 +84,7 @@
     "https://github.com/langchain-ai/openwiki",
     "https://github.com/lopopolo/harness-engineering",
     "https://github.com/mekos2772/ios-location-spoofer",
+    "https://github.com/microsoft/skill-recorder",
     "https://github.com/mshumer/Claude-of-Duty",
     "https://github.com/nyblnet/bento",
     "https://github.com/oomol-lab/open-connector",
@@ -175,12 +176,6 @@
   "recent": [
     {
       "date": "2026-08-05",
-      "subcat": "Hacker News Picks",
-      "title": "Eight Myths on Software Engineering and GenAI",
-      "url": "https://news.ycombinator.com/item?id=49176830"
-    },
-    {
-      "date": "2026-08-05",
       "subcat": "AI Engineering",
       "title": "How would you decide, whether the content is good or ba",
       "url": "https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p"
@@ -232,6 +227,12 @@
       "subcat": "Hacker News Picks",
       "title": "Meta Ordered to Pay $942M to Address Harm to Kids from ",
       "url": "https://news.ycombinator.com/item?id=49204352"
+    },
+    {
+      "date": "2026-08-07",
+      "subcat": "AI & Machine Learning",
+      "title": "microsoft/skill-recorder",
+      "url": "https://github.com/microsoft/skill-recorder"
     }
   ]
 }
