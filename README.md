@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**166 entries and counting** · Last updated: 2026-08-07
+**167 entries and counting** · Last updated: 2026-08-07
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 68 |
+| [Trending Projects](trending-projects/projects.md) | 69 |
 | [AI / LLM Notes](ai/notes.md) | 14 |
 | [Reading List](articles/reading-list.md) | 37 |
 | [Coding Tips](coding-tips/tips.md) | 42 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-08-07** · *AI & Machine Learning* — [MIgHTy-alIeN/ai-trader-bot](https://github.com/MIgHTy-alIeN/ai-trader-bot)
 - **2026-08-07** · *AI Engineering* — [Understanding Over Origin: The Missing Friction](https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag)
 - **2026-08-07** · *AI & Machine Learning* — [microsoft/skill-recorder](https://github.com/microsoft/skill-recorder)
-- **2026-08-07** · *Hacker News Picks* — [Meta Ordered to Pay $942M to Address Harm to Kids from ](https://news.ycombinator.com/item?id=49204352)
 
 ## How it works
 
