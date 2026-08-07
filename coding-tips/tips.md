@@ -358,6 +358,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49187575
 - **Link:** https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2
 
+**Added 2026-08-07**
+
+### [Meta Ordered to Pay $942M to Address Harm to Kids from Social Media](https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7)
+- **Source:** www.wsj.com | **Posted:** 2026-08-07 | **By:** boplicity
+- **Community:** 116 points, 61 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49204352
+- **Link:** https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7
+
 
 ## Beginner
 
