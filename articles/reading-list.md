@@ -335,6 +335,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49213029
 - **Link:** https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/
 
+**Added 2026-08-08**
+
+### [Kitesurf: Agent-first browser that runs in V8 isolates](https://blog.cloudflare.com/kitesurf/)
+- **Source:** blog.cloudflare.com | **Posted:** 2026-08-07 | **By:** m3h
+- **Community:** 178 points, 48 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49208393
+- **Link:** https://blog.cloudflare.com/kitesurf/
+
 
 ## DevOps & Cloud
 
