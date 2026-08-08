@@ -344,6 +344,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49208393
 - **Link:** https://blog.cloudflare.com/kitesurf/
 
+**Added 2026-08-08**
+
+### [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
+- **Source:** arcprize.org | **Posted:** 2026-08-07 | **By:** tosh
+- **Community:** 616 points, 371 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49214008
+- **Link:** https://arcprize.org/results/deepseek-v4-flash-0731
+
 
 ## DevOps & Cloud
 

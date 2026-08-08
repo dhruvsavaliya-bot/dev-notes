@@ -177,15 +177,10 @@
     "https://news.ycombinator.com/item?id=49201003",
     "https://news.ycombinator.com/item?id=49204352",
     "https://news.ycombinator.com/item?id=49208393",
-    "https://news.ycombinator.com/item?id=49213029"
+    "https://news.ycombinator.com/item?id=49213029",
+    "https://news.ycombinator.com/item?id=49214008"
   ],
   "recent": [
-    {
-      "date": "2026-08-06",
-      "subcat": "Security",
-      "title": "Were Giving AI Agents More Tools. What Happens When the",
-      "url": "https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh"
-    },
     {
       "date": "2026-08-06",
       "subcat": "Hacker News Picks",
@@ -239,6 +234,12 @@
       "subcat": "Hacker News Picks",
       "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
       "url": "https://news.ycombinator.com/item?id=49208393"
+    },
+    {
+      "date": "2026-08-08",
+      "subcat": "Hacker News Picks",
+      "title": "DeepSeek V4 Flash 0731",
+      "url": "https://news.ycombinator.com/item?id=49214008"
     }
   ]
 }
