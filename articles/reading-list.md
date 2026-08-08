@@ -326,6 +326,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49201003
 - **Link:** https://herdr.dev/blog/herdr-is-joining-y-combinator/
 
+**Added 2026-08-08**
+
+### [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/)
+- **Source:** openai.com | **Posted:** 2026-08-07 | **By:** artninja1988
+- **Community:** 168 points, 168 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49213029
+- **Link:** https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/
+
 
 ## DevOps & Cloud
 

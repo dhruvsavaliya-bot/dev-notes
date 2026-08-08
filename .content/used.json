@@ -175,15 +175,10 @@
     "https://news.ycombinator.com/item?id=49188022",
     "https://news.ycombinator.com/item?id=49189075",
     "https://news.ycombinator.com/item?id=49201003",
-    "https://news.ycombinator.com/item?id=49204352"
+    "https://news.ycombinator.com/item?id=49204352",
+    "https://news.ycombinator.com/item?id=49213029"
   ],
   "recent": [
-    {
-      "date": "2026-08-06",
-      "subcat": "Hacker News Picks",
-      "title": "I'm switching my phone from Android to Linux",
-      "url": "https://news.ycombinator.com/item?id=49188022"
-    },
     {
       "date": "2026-08-06",
       "subcat": "Hacker News Picks",
@@ -237,6 +232,12 @@
       "subcat": "TypeScript",
       "title": "How I Smashed a Bug in a Shared Authentication Library",
       "url": "https://dev.to/gramli/how-i-smashed-a-bug-in-a-shared-authentication-library-33fm"
+    },
+    {
+      "date": "2026-08-08",
+      "subcat": "Hacker News Picks",
+      "title": "Responding to the next frontier of critical cyber capab",
+      "url": "https://news.ycombinator.com/item?id=49213029"
     }
   ]
 }
