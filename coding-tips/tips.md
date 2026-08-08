@@ -376,6 +376,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49213754
 - **Link:** https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code
 
+**Added 2026-08-08**
+
+### [Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD](https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/)
+- **Source:** malisper.me | **Posted:** 2026-08-07 | **By:** poly2it
+- **Community:** 295 points, 153 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49208535
+- **Link:** https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/
+
 
 ## Beginner
 
