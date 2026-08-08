@@ -178,15 +178,10 @@
     "https://news.ycombinator.com/item?id=49204352",
     "https://news.ycombinator.com/item?id=49208393",
     "https://news.ycombinator.com/item?id=49213029",
+    "https://news.ycombinator.com/item?id=49213754",
     "https://news.ycombinator.com/item?id=49214008"
   ],
   "recent": [
-    {
-      "date": "2026-08-06",
-      "subcat": "Hacker News Picks",
-      "title": "Muse Code and Muse Spark 1.2",
-      "url": "https://news.ycombinator.com/item?id=49187575"
-    },
     {
       "date": "2026-08-07",
       "subcat": "Hacker News Picks",
@@ -240,6 +235,12 @@
       "subcat": "Hacker News Picks",
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://news.ycombinator.com/item?id=49214008"
+    },
+    {
+      "date": "2026-08-08",
+      "subcat": "Hacker News Picks",
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "url": "https://news.ycombinator.com/item?id=49213754"
     }
   ]
 }
