@@ -23,6 +23,7 @@
     "https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh",
     "https://dev.to/konark_13/vibe-coding-endgame-3bbn",
     "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
+    "https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h",
     "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
     "https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2",
     "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
@@ -187,12 +188,6 @@
   "recent": [
     {
       "date": "2026-08-07",
-      "subcat": "AI & Machine Learning",
-      "title": "MIgHTy-alIeN/ai-trader-bot",
-      "url": "https://github.com/MIgHTy-alIeN/ai-trader-bot"
-    },
-    {
-      "date": "2026-08-07",
       "subcat": "Hacker News Picks",
       "title": "Herdr is joining Y Combinator. The runtime stays open",
       "url": "https://news.ycombinator.com/item?id=49201003"
@@ -244,6 +239,12 @@
       "subcat": "Hacker News Picks",
       "title": "Open-source interactive map for the Aug 12 total solar ",
       "url": "https://news.ycombinator.com/item?id=49225139"
+    },
+    {
+      "date": "2026-08-09",
+      "subcat": "JavaScript",
+      "title": "Mm Cm Landing Page: I built a Vietnamese dinner tray on",
+      "url": "https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h"
     }
   ]
 }

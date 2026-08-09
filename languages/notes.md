@@ -51,6 +51,16 @@ Snippets and gotchas across languages.
 - **Summary:** Everyone's heard by now that TypeScript "went native." And I keep seeing the same wrong conclusion...
 - **Link:** https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3
 
+**Added 2026-08-09**
+
+### [🥁 Mâm Cơm Landing Page: I built a Vietnamese dinner tray on a 3,000-year-old bronze drum](https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h)
+- **Author:** Mike | **Published:** Aug 6 | **Read time:** 9 min
+- **Community:** 53 reactions, 8 comments — a top post of the week in #javascript
+- **Tags:** devchallenge, frontendchallenge, webdev, javascript
+- **Summary:** This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing           What I...
+- **Link:** https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h
+
+
 ## TypeScript
 
 **Added 2026-08-07**
