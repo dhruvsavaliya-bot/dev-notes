@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**174 entries and counting** · Last updated: 2026-08-08
+**175 entries and counting** · Last updated: 2026-08-09
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 69 |
+| [Trending Projects](trending-projects/projects.md) | 70 |
 | [AI / LLM Notes](ai/notes.md) | 14 |
 | [Reading List](articles/reading-list.md) | 41 |
 | [Coding Tips](coding-tips/tips.md) | 44 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-08-09** · *AI & Machine Learning* — [kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew)
 - **2026-08-08** · *Hacker News Picks* — [Making Postgres 300x faster for analytics: batching, op](https://news.ycombinator.com/item?id=49208535)
 - **2026-08-08** · *Hacker News Picks* — [Oracle bans AI-generated code from OpenJDK](https://news.ycombinator.com/item?id=49213754)
-- **2026-08-08** · *Hacker News Picks* — [DeepSeek V4 Flash 0731](https://news.ycombinator.com/item?id=49214008)
 
 ## How it works
 

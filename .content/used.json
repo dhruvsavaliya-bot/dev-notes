@@ -83,6 +83,7 @@
     "https://github.com/isjiamu/gzh-design-skill",
     "https://github.com/jakubkrehel/skills",
     "https://github.com/jamesob/local-llm",
+    "https://github.com/kirodotdev/KiroCrew",
     "https://github.com/kvcache-ai/AgentENV",
     "https://github.com/langchain-ai/openwiki",
     "https://github.com/lopopolo/harness-engineering",
@@ -185,12 +186,6 @@
   "recent": [
     {
       "date": "2026-08-07",
-      "subcat": "AI & Machine Learning",
-      "title": "microsoft/skill-recorder",
-      "url": "https://github.com/microsoft/skill-recorder"
-    },
-    {
-      "date": "2026-08-07",
       "subcat": "AI Engineering",
       "title": "Understanding Over Origin: The Missing Friction",
       "url": "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag"
@@ -242,6 +237,12 @@
       "subcat": "Hacker News Picks",
       "title": "Making Postgres 300x faster for analytics: batching, op",
       "url": "https://news.ycombinator.com/item?id=49208535"
+    },
+    {
+      "date": "2026-08-09",
+      "subcat": "AI & Machine Learning",
+      "title": "kirodotdev/KiroCrew",
+      "url": "https://github.com/kirodotdev/KiroCrew"
     }
   ]
 }

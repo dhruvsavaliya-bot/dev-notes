@@ -314,6 +314,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~113 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/MIgHTy-alIeN/ai-trader-bot
 
+**Added 2026-08-09**
+
+### [kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew)
+- **Stats:** 2,409 stars | 201 forks | 441 open issues
+- **Language:** Python | **Created:** 2026-07-16 | **License:** Apache-2.0
+- **Topics:** agent, agentic-ai, agents, ai-agent, ai-agents, automation
+- **What it is:** A persistent workspace for development work that self-improves and continues beyond one session.
+- **Growth:** averaging ~100 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/kirodotdev/KiroCrew
+
 
 ## Other Cool Projects
 
