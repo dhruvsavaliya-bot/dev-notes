@@ -362,6 +362,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49225139
 - **Link:** https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute
 
+**Added 2026-08-09**
+
+### [The original URL for this prediction will no longer be available in 11 years (2011)](http://longbets.org/601/)
+- **Source:** longbets.org | **Posted:** 2026-08-09 | **By:** doubletwoyou
+- **Community:** 152 points, 71 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49228458
+- **Link:** http://longbets.org/601/
+
 
 ## DevOps & Cloud
 

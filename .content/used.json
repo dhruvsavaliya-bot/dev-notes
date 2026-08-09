@@ -183,15 +183,10 @@
     "https://news.ycombinator.com/item?id=49213029",
     "https://news.ycombinator.com/item?id=49213754",
     "https://news.ycombinator.com/item?id=49214008",
-    "https://news.ycombinator.com/item?id=49225139"
+    "https://news.ycombinator.com/item?id=49225139",
+    "https://news.ycombinator.com/item?id=49228458"
   ],
   "recent": [
-    {
-      "date": "2026-08-07",
-      "subcat": "Hacker News Picks",
-      "title": "Herdr is joining Y Combinator. The runtime stays open",
-      "url": "https://news.ycombinator.com/item?id=49201003"
-    },
     {
       "date": "2026-08-07",
       "subcat": "TypeScript",
@@ -245,6 +240,12 @@
       "subcat": "JavaScript",
       "title": "Mm Cm Landing Page: I built a Vietnamese dinner tray on",
       "url": "https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h"
+    },
+    {
+      "date": "2026-08-09",
+      "subcat": "Hacker News Picks",
+      "title": "The original URL for this prediction will no longer be ",
+      "url": "https://news.ycombinator.com/item?id=49228458"
     }
   ]
 }
