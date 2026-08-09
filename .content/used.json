@@ -183,16 +183,11 @@
     "https://news.ycombinator.com/item?id=49213029",
     "https://news.ycombinator.com/item?id=49213754",
     "https://news.ycombinator.com/item?id=49214008",
+    "https://news.ycombinator.com/item?id=49223082",
     "https://news.ycombinator.com/item?id=49225139",
     "https://news.ycombinator.com/item?id=49228458"
   ],
   "recent": [
-    {
-      "date": "2026-08-07",
-      "subcat": "TypeScript",
-      "title": "How I Smashed a Bug in a Shared Authentication Library",
-      "url": "https://dev.to/gramli/how-i-smashed-a-bug-in-a-shared-authentication-library-33fm"
-    },
     {
       "date": "2026-08-08",
       "subcat": "Hacker News Picks",
@@ -246,6 +241,12 @@
       "subcat": "Hacker News Picks",
       "title": "The original URL for this prediction will no longer be ",
       "url": "https://news.ycombinator.com/item?id=49228458"
+    },
+    {
+      "date": "2026-08-09",
+      "subcat": "Hacker News Picks",
+      "title": "Fastmail offers EU data region",
+      "url": "https://news.ycombinator.com/item?id=49223082"
     }
   ]
 }

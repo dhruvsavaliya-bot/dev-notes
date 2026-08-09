@@ -371,6 +371,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49228458
 - **Link:** http://longbets.org/601/
 
+**Added 2026-08-09**
+
+### [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/)
+- **Source:** www.fastmail.com | **Posted:** 2026-08-08 | **By:** groomlake
+- **Community:** 446 points, 239 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49223082
+- **Link:** https://www.fastmail.com/blog/fastmail-offers-eu-data-region/
+
 
 ## DevOps & Cloud
 

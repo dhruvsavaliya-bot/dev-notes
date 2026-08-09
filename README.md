@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**178 entries and counting** · Last updated: 2026-08-09
+**179 entries and counting** · Last updated: 2026-08-09
 
 ## Categories
 
@@ -11,15 +11,15 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 70 |
 | [AI / LLM Notes](ai/notes.md) | 14 |
-| [Reading List](articles/reading-list.md) | 43 |
+| [Reading List](articles/reading-list.md) | 44 |
 | [Coding Tips](coding-tips/tips.md) | 44 |
 | [Language Notes](languages/notes.md) | 7 |
 
 ## Latest additions
 
+- **2026-08-09** · *Hacker News Picks* — [Fastmail offers EU data region](https://news.ycombinator.com/item?id=49223082)
 - **2026-08-09** · *Hacker News Picks* — [The original URL for this prediction will no longer be ](https://news.ycombinator.com/item?id=49228458)
 - **2026-08-09** · *JavaScript* — [Mm Cm Landing Page: I built a Vietnamese dinner tray on](https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h)
-- **2026-08-09** · *Hacker News Picks* — [Open-source interactive map for the Aug 12 total solar ](https://news.ycombinator.com/item?id=49225139)
 
 ## How it works
 
