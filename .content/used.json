@@ -181,15 +181,10 @@
     "https://news.ycombinator.com/item?id=49208535",
     "https://news.ycombinator.com/item?id=49213029",
     "https://news.ycombinator.com/item?id=49213754",
-    "https://news.ycombinator.com/item?id=49214008"
+    "https://news.ycombinator.com/item?id=49214008",
+    "https://news.ycombinator.com/item?id=49225139"
   ],
   "recent": [
-    {
-      "date": "2026-08-07",
-      "subcat": "AI Engineering",
-      "title": "Understanding Over Origin: The Missing Friction",
-      "url": "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag"
-    },
     {
       "date": "2026-08-07",
       "subcat": "AI & Machine Learning",
@@ -243,6 +238,12 @@
       "subcat": "AI & Machine Learning",
       "title": "kirodotdev/KiroCrew",
       "url": "https://github.com/kirodotdev/KiroCrew"
+    },
+    {
+      "date": "2026-08-09",
+      "subcat": "Hacker News Picks",
+      "title": "Open-source interactive map for the Aug 12 total solar ",
+      "url": "https://news.ycombinator.com/item?id=49225139"
     }
   ]
 }

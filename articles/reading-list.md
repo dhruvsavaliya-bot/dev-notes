@@ -353,6 +353,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49214008
 - **Link:** https://arcprize.org/results/deepseek-v4-flash-0731
 
+**Added 2026-08-09**
+
+### [Open-source interactive map for the Aug 12 total solar eclipse](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute)
+- **Source:** eclipsefan.org | **Posted:** 2026-08-08 | **By:** MarcoDewey
+- **Community:** 115 points, 26 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49225139
+- **Link:** https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute
+
 
 ## DevOps & Cloud
 
