@@ -647,6 +647,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~430 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/imsai-sh/zhuzhiliao
 
+**Added 2026-08-10**
+
+### [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)
+- **Stats:** 3,022 stars | 179 forks | 5 open issues
+- **Language:** Python | **Created:** 2026-07-30 | **License:** None
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~274 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/MiniMax-AI/MiniMax-H3
+
 
 ## Web & Frontend
 
