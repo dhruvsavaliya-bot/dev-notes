@@ -398,6 +398,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49239021
 - **Link:** https://claude.com/blog/auto-mode-default-in-claude-code
 
+**Added 2026-08-10**
+
+### [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423)
+- **Source:** news.ycombinator.com | **Posted:** 2026-08-09 | **By:** david927
+- **Community:** 248 points, 877 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49233423
+- **Link:** https://news.ycombinator.com/item?id=49233423
+
 
 ## DevOps & Cloud
 
