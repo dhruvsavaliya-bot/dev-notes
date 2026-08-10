@@ -187,15 +187,10 @@
     "https://news.ycombinator.com/item?id=49223082",
     "https://news.ycombinator.com/item?id=49225139",
     "https://news.ycombinator.com/item?id=49228458",
-    "https://news.ycombinator.com/item?id=49230477"
+    "https://news.ycombinator.com/item?id=49230477",
+    "https://news.ycombinator.com/item?id=49234271"
   ],
   "recent": [
-    {
-      "date": "2026-08-08",
-      "subcat": "Hacker News Picks",
-      "title": "DeepSeek V4 Flash 0731",
-      "url": "https://news.ycombinator.com/item?id=49214008"
-    },
     {
       "date": "2026-08-08",
       "subcat": "Hacker News Picks",
@@ -249,6 +244,12 @@
       "subcat": "Hacker News Picks",
       "title": "Everything you do is being recorded",
       "url": "https://news.ycombinator.com/item?id=49230477"
+    },
+    {
+      "date": "2026-08-10",
+      "subcat": "Hacker News Picks",
+      "title": "I made tinnitus my friend, then it disappeared [video]",
+      "url": "https://news.ycombinator.com/item?id=49234271"
     }
   ]
 }

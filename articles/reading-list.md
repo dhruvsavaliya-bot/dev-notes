@@ -380,6 +380,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49223082
 - **Link:** https://www.fastmail.com/blog/fastmail-offers-eu-data-region/
 
+**Added 2026-08-10**
+
+### [I made tinnitus my friend, then it disappeared [video]](https://mynoise.net/vlog.php?ep=20260803)
+- **Source:** mynoise.net | **Posted:** 2026-08-09 | **By:** gregsadetsky
+- **Community:** 106 points, 79 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49234271
+- **Link:** https://mynoise.net/vlog.php?ep=20260803
+
 
 ## DevOps & Cloud
 
