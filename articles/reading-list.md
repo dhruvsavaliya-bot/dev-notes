@@ -416,6 +416,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49233448
 - **Link:** https://openchamber.dev/
 
+**Added 2026-08-10**
+
+### [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
+- **Source:** www.docker.com | **Posted:** 2026-08-10 | **By:** etoxin
+- **Community:** 306 points, 175 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49239751
+- **Link:** https://www.docker.com/products/docker-sandboxes/
+
 
 ## DevOps & Cloud
 
