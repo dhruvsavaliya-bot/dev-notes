@@ -188,15 +188,10 @@
     "https://news.ycombinator.com/item?id=49225139",
     "https://news.ycombinator.com/item?id=49228458",
     "https://news.ycombinator.com/item?id=49230477",
-    "https://news.ycombinator.com/item?id=49234271"
+    "https://news.ycombinator.com/item?id=49234271",
+    "https://news.ycombinator.com/item?id=49239021"
   ],
   "recent": [
-    {
-      "date": "2026-08-08",
-      "subcat": "Hacker News Picks",
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "url": "https://news.ycombinator.com/item?id=49213754"
-    },
     {
       "date": "2026-08-08",
       "subcat": "Hacker News Picks",
@@ -250,6 +245,12 @@
       "subcat": "Hacker News Picks",
       "title": "I made tinnitus my friend, then it disappeared [video]",
       "url": "https://news.ycombinator.com/item?id=49234271"
+    },
+    {
+      "date": "2026-08-10",
+      "subcat": "Hacker News Picks",
+      "title": "Auto mode is now the default in Claude Code",
+      "url": "https://news.ycombinator.com/item?id=49239021"
     }
   ]
 }

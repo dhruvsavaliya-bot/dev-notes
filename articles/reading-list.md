@@ -389,6 +389,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49234271
 - **Link:** https://mynoise.net/vlog.php?ep=20260803
 
+**Added 2026-08-10**
+
+### [Auto mode is now the default in Claude Code](https://claude.com/blog/auto-mode-default-in-claude-code)
+- **Source:** claude.com | **Posted:** 2026-08-10 | **By:** sbehere
+- **Community:** 162 points, 141 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49239021
+- **Link:** https://claude.com/blog/auto-mode-default-in-claude-code
+
 
 ## DevOps & Cloud
 
