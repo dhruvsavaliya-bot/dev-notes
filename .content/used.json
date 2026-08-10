@@ -190,16 +190,11 @@
     "https://news.ycombinator.com/item?id=49228458",
     "https://news.ycombinator.com/item?id=49230477",
     "https://news.ycombinator.com/item?id=49233423",
+    "https://news.ycombinator.com/item?id=49233448",
     "https://news.ycombinator.com/item?id=49234271",
     "https://news.ycombinator.com/item?id=49239021"
   ],
   "recent": [
-    {
-      "date": "2026-08-09",
-      "subcat": "Hacker News Picks",
-      "title": "Open-source interactive map for the Aug 12 total solar ",
-      "url": "https://news.ycombinator.com/item?id=49225139"
-    },
     {
       "date": "2026-08-09",
       "subcat": "JavaScript",
@@ -253,6 +248,12 @@
       "subcat": "Hacker News Picks",
       "title": "Ask HN: What are you working on? (August 2026)",
       "url": "https://news.ycombinator.com/item?id=49233423"
+    },
+    {
+      "date": "2026-08-10",
+      "subcat": "Hacker News Picks",
+      "title": "OpenChamber: An Agentic Development Environment",
+      "url": "https://news.ycombinator.com/item?id=49233448"
     }
   ]
 }
