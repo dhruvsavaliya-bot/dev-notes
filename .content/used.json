@@ -8,6 +8,7 @@
   "ids": [
     "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
     "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag",
+    "https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635",
     "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
     "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1",
     "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
@@ -193,12 +194,6 @@
   ],
   "recent": [
     {
-      "date": "2026-08-08",
-      "subcat": "Hacker News Picks",
-      "title": "Making Postgres 300x faster for analytics: batching, op",
-      "url": "https://news.ycombinator.com/item?id=49208535"
-    },
-    {
       "date": "2026-08-09",
       "subcat": "AI & Machine Learning",
       "title": "kirodotdev/KiroCrew",
@@ -251,6 +246,12 @@
       "subcat": "Hacker News Picks",
       "title": "Auto mode is now the default in Claude Code",
       "url": "https://news.ycombinator.com/item?id=49239021"
+    },
+    {
+      "date": "2026-08-10",
+      "subcat": "System Design & Architecture",
+      "title": "Restate's Single Binary vs Temporal's Cluster: When the",
+      "url": "https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635"
     }
   ]
 }

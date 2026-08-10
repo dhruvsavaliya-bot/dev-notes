@@ -429,3 +429,14 @@ Fresh dev articles and blog posts.
 - **Tags:** discuss, security, agents, programming
 - **Summary:** 📌 TL;DR  AI agents are becoming useful because we're giving them the ability to do more than just...
 - **Link:** https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh
+
+## System Design & Architecture
+
+**Added 2026-08-10**
+
+### [Restate's Single Binary vs Temporal's Cluster: When the Lighter Engine Wins](https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635)
+- **Author:** Andrii B. | **Published:** Aug 9 | **Read time:** 10 min
+- **Community:** 57 reactions, 29 comments — a top post of the week in #architecture
+- **Tags:** architecture, typescript, discuss, devops
+- **Summary:** Here is a bet that will save you a lot of arguing: pick your durable execution engine on what you...
+- **Link:** https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635
