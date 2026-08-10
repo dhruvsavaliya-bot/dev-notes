@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**180 entries and counting** · Last updated: 2026-08-10
+**181 entries and counting** · Last updated: 2026-08-10
 
 ## Categories
 
@@ -12,14 +12,14 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 | [Trending Projects](trending-projects/projects.md) | 71 |
 | [AI / LLM Notes](ai/notes.md) | 14 |
 | [Reading List](articles/reading-list.md) | 44 |
-| [Coding Tips](coding-tips/tips.md) | 44 |
+| [Coding Tips](coding-tips/tips.md) | 45 |
 | [Language Notes](languages/notes.md) | 7 |
 
 ## Latest additions
 
+- **2026-08-10** · *Hacker News Picks* — [Everything you do is being recorded](https://news.ycombinator.com/item?id=49230477)
 - **2026-08-10** · *Other Cool Projects* — [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)
 - **2026-08-09** · *Hacker News Picks* — [Fastmail offers EU data region](https://news.ycombinator.com/item?id=49223082)
-- **2026-08-09** · *Hacker News Picks* — [The original URL for this prediction will no longer be ](https://news.ycombinator.com/item?id=49228458)
 
 ## How it works
 

@@ -385,6 +385,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49208535
 - **Link:** https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/
 
+**Added 2026-08-10**
+
+### [Everything you do is being recorded](https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/)
+- **Source:** www.theatlantic.com | **Posted:** 2026-08-09 | **By:** ike_usawa
+- **Community:** 249 points, 201 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49230477
+- **Link:** https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/
+
 
 ## Beginner
 

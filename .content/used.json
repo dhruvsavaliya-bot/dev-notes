@@ -186,15 +186,10 @@
     "https://news.ycombinator.com/item?id=49214008",
     "https://news.ycombinator.com/item?id=49223082",
     "https://news.ycombinator.com/item?id=49225139",
-    "https://news.ycombinator.com/item?id=49228458"
+    "https://news.ycombinator.com/item?id=49228458",
+    "https://news.ycombinator.com/item?id=49230477"
   ],
   "recent": [
-    {
-      "date": "2026-08-08",
-      "subcat": "Hacker News Picks",
-      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
-      "url": "https://news.ycombinator.com/item?id=49208393"
-    },
     {
       "date": "2026-08-08",
       "subcat": "Hacker News Picks",
@@ -248,6 +243,12 @@
       "subcat": "Other Cool Projects",
       "title": "MiniMax-AI/MiniMax-H3",
       "url": "https://github.com/MiniMax-AI/MiniMax-H3"
+    },
+    {
+      "date": "2026-08-10",
+      "subcat": "Hacker News Picks",
+      "title": "Everything you do is being recorded",
+      "url": "https://news.ycombinator.com/item?id=49230477"
     }
   ]
 }
