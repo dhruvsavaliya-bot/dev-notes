@@ -425,6 +425,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49239751
 - **Link:** https://www.docker.com/products/docker-sandboxes/
 
+**Added 2026-08-11**
+
+### [Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
+- **Source:** www.ft.com | **Posted:** 2026-08-10 | **By:** root-parent
+- **Community:** 509 points, 470 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49243880
+- **Link:** https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878
+
 
 ## DevOps & Cloud
 
