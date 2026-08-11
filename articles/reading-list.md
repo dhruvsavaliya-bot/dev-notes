@@ -434,6 +434,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49243880
 - **Link:** https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878
 
+**Added 2026-08-11**
+
+### [Squeak 6.1](https://squeak.org/release_notes/6.1/)
+- **Source:** squeak.org | **Posted:** 2026-08-10 | **By:** fniephaus
+- **Community:** 269 points, 131 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49242653
+- **Link:** https://squeak.org/release_notes/6.1/
+
 
 ## DevOps & Cloud
 
