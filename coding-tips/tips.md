@@ -394,6 +394,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49230477
 - **Link:** https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/
 
+**Added 2026-08-11**
+
+### [Humanising LLM Outputs Is Dumb](https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb)
+- **Source:** kuber.studio | **Posted:** 2026-08-10 | **By:** kuberwastaken
+- **Community:** 187 points, 115 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49243474
+- **Link:** https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb
+
 
 ## Beginner
 
