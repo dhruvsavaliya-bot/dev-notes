@@ -657,6 +657,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~274 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/MiniMax-AI/MiniMax-H3
 
+**Added 2026-08-11**
+
+### [ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial)
+- **Stats:** 2,322 stars | 117 forks | 3 open issues
+- **Language:** N/A | **Created:** 2026-08-04 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~331 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/ZzzLc0405/photo-abstract-editorial
+
 
 ## Web & Frontend
 

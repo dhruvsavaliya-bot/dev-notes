@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**187 entries and counting** · Last updated: 2026-08-10
+**188 entries and counting** · Last updated: 2026-08-11
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 71 |
+| [Trending Projects](trending-projects/projects.md) | 72 |
 | [AI / LLM Notes](ai/notes.md) | 14 |
 | [Reading List](articles/reading-list.md) | 50 |
 | [Coding Tips](coding-tips/tips.md) | 45 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-08-11** · *Other Cool Projects* — [ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial)
 - **2026-08-10** · *Hacker News Picks* — [Docker Sandboxes  Disposable, isolated sandboxes for AI](https://news.ycombinator.com/item?id=49239751)
 - **2026-08-10** · *Hacker News Picks* — [OpenChamber: An Agentic Development Environment](https://news.ycombinator.com/item?id=49233448)
-- **2026-08-10** · *Hacker News Picks* — [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423)
 
 ## How it works
 

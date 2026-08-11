@@ -64,6 +64,7 @@
     "https://github.com/Waishnav/devspace",
     "https://github.com/Younesfdj/gitfut",
     "https://github.com/Yu9191/wloc",
+    "https://github.com/ZzzLc0405/photo-abstract-editorial",
     "https://github.com/andrewyng/openworker",
     "https://github.com/anthropics/jacobian-lens",
     "https://github.com/baairon/torlink",
@@ -199,12 +200,6 @@
     {
       "date": "2026-08-09",
       "subcat": "Hacker News Picks",
-      "title": "The original URL for this prediction will no longer be ",
-      "url": "https://news.ycombinator.com/item?id=49228458"
-    },
-    {
-      "date": "2026-08-09",
-      "subcat": "Hacker News Picks",
       "title": "Fastmail offers EU data region",
       "url": "https://news.ycombinator.com/item?id=49223082"
     },
@@ -255,6 +250,12 @@
       "subcat": "Hacker News Picks",
       "title": "Docker Sandboxes  Disposable, isolated sandboxes for AI",
       "url": "https://news.ycombinator.com/item?id=49239751"
+    },
+    {
+      "date": "2026-08-11",
+      "subcat": "Other Cool Projects",
+      "title": "ZzzLc0405/photo-abstract-editorial",
+      "url": "https://github.com/ZzzLc0405/photo-abstract-editorial"
     }
   ]
 }
