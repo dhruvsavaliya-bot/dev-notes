@@ -49,6 +49,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** Às vezes, a maior barreira para começar um projeto não é a complexidade do problema, mas a busca por...
 - **Link:** https://dev.to/he4rt/pensar-demais-nem-sempre-ajuda-e-o-que-eu-aprendi-com-isso-49pp
 
+**Added 2026-08-11**
+
+### [I Recreated Management With AI: 9 Things I Do Differently](https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g)
+- **Author:** Ashley Childress | **Published:** Aug 6 | **Read time:** 15 min
+- **Community:** 57 reactions, 30 comments — a top post of the week in #productivity
+- **Tags:** discuss, ai, writing, productivity
+- **Summary:** I stopped treating permission prompts as the safety system, then spent four and a half months writing 134 standing rules to replace them. Nine things I do differently with AI, and the proof to back it up.
+- **Link:** https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g
+
 
 ## Hacker News Picks
 
