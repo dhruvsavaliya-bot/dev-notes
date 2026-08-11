@@ -201,15 +201,10 @@
     "https://news.ycombinator.com/item?id=49239751",
     "https://news.ycombinator.com/item?id=49242653",
     "https://news.ycombinator.com/item?id=49243474",
-    "https://news.ycombinator.com/item?id=49243880"
+    "https://news.ycombinator.com/item?id=49243880",
+    "https://news.ycombinator.com/item?id=49249555"
   ],
   "recent": [
-    {
-      "date": "2026-08-10",
-      "subcat": "Hacker News Picks",
-      "title": "OpenChamber: An Agentic Development Environment",
-      "url": "https://news.ycombinator.com/item?id=49233448"
-    },
     {
       "date": "2026-08-10",
       "subcat": "Hacker News Picks",
@@ -263,6 +258,12 @@
       "subcat": "Hacker News Picks",
       "title": "Squeak 6.1",
       "url": "https://news.ycombinator.com/item?id=49242653"
+    },
+    {
+      "date": "2026-08-11",
+      "subcat": "Hacker News Picks",
+      "title": "Confessions of a Long-Distance Sailor",
+      "url": "https://news.ycombinator.com/item?id=49249555"
     }
   ]
 }

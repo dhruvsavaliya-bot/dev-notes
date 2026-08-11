@@ -412,6 +412,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49243474
 - **Link:** https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb
 
+**Added 2026-08-11**
+
+### [Confessions of a Long-Distance Sailor](https://arachnoid.com/lutusp/sailbook.html)
+- **Source:** arachnoid.com | **Posted:** 2026-08-10 | **By:** AntiRush
+- **Community:** 129 points, 38 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49249555
+- **Link:** https://arachnoid.com/lutusp/sailbook.html
+
 
 ## Beginner
 
