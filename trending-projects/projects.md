@@ -324,6 +324,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~100 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/kirodotdev/KiroCrew
 
+**Added 2026-08-11**
+
+### [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice)
+- **Stats:** 2,493 stars | 463 forks | 24 open issues
+- **Language:** TypeScript | **Created:** 2026-07-31 | **License:** Apache-2.0
+- **Topics:** ai, cross-platform, docx, electron, excel, linux
+- **What it is:** Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.
+- **Growth:** averaging ~226 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/genspark-ai/genoffice
+
 
 ## Other Cool Projects
 
