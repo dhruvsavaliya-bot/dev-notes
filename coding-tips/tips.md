@@ -423,3 +423,12 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Tags:** braziliandevs, career, discuss, beginners
 - **Summary:** Como eu mostro que estou contribuindo? Posso colocar no meu LinkedIn? E no meu currículo, como...
 - **Link:** https://dev.to/he4rt/contribuir-para-a-comunidade-como-destacar-isso-no-seu-linkedin-e-curriculo-4cgl
+
+**Added 2026-08-11**
+
+### [What Would You Tell Someone Early in Their Career?](https://dev.to/hemapriya_kanagala/what-would-you-tell-someone-early-in-their-career-1k76)
+- **Author:** Hemapriya Kanagala | **Published:** Aug 10 | **Read time:** 12 min
+- **Community:** 56 reactions, 42 comments — a top post of the week in #beginners
+- **Tags:** discuss, community, beginners, career
+- **Summary:** 📌 TL;DR  I'm still early in my own career, and lately I've been thinking about how much advice we...
+- **Link:** https://dev.to/hemapriya_kanagala/what-would-you-tell-someone-early-in-their-career-1k76
