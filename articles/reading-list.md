@@ -437,6 +437,16 @@ Fresh dev articles and blog posts.
 - **Summary:** Quick note before we dive in — I know I've been off track from the iOS/Swift series lately. I just...
 - **Link:** https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd
 
+**Added 2026-08-11**
+
+### [When Your VPS Never Had the Resources It Was Sold With](https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o)
+- **Author:** Pascal CESCATO | **Published:** Aug 5 | **Read time:** 5 min
+- **Community:** 57 reactions, 27 comments — a top post of the week in #devops
+- **Tags:** networking, devops, vps, linux
+- **Summary:** I needed a VPS to run CyberPanel. Simple enough: 1 vCPU, 1 GB RAM, 10 GB SSD, IPv6 only. CyberPanel...
+- **Link:** https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o
+
+
 ## Security
 
 **Added 2026-07-29**

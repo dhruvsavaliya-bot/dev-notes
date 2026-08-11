@@ -31,6 +31,7 @@
     "https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2",
     "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
     "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
+    "https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o",
     "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
     "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3",
     "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
@@ -203,12 +204,6 @@
   "recent": [
     {
       "date": "2026-08-10",
-      "subcat": "Hacker News Picks",
-      "title": "Auto mode is now the default in Claude Code",
-      "url": "https://news.ycombinator.com/item?id=49239021"
-    },
-    {
-      "date": "2026-08-10",
       "subcat": "System Design & Architecture",
       "title": "Restate's Single Binary vs Temporal's Cluster: When the",
       "url": "https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635"
@@ -260,6 +255,12 @@
       "subcat": "Productivity",
       "title": "I Recreated Management With AI: 9 Things I Do Different",
       "url": "https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g"
+    },
+    {
+      "date": "2026-08-11",
+      "subcat": "DevOps & Cloud",
+      "title": "When Your VPS Never Had the Resources It Was Sold With",
+      "url": "https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o"
     }
   ]
 }
