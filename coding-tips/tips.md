@@ -448,6 +448,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49201953
 - **Link:** https://aresluna.org/the-hardest-working-font-in-manhattan/
 
+**Added 2026-08-12**
+
+### [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
+- **Source:** blogs.nvidia.com | **Posted:** 2026-08-11 | **By:** droidjj
+- **Community:** 227 points, 117 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49263340
+- **Link:** https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/
+
 
 ## Beginner
 
