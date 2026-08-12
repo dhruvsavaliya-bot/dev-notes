@@ -466,6 +466,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49267928
 - **Link:** https://llama.app
 
+**Added 2026-08-12**
+
+### [LinkedIn CringeBot 3000](https://www.cringebot3000.com/)
+- **Source:** www.cringebot3000.com | **Posted:** 2026-08-12 | **By:** theanonymousone
+- **Community:** 318 points, 129 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49268564
+- **Link:** https://www.cringebot3000.com/
+
 
 ## Beginner
 

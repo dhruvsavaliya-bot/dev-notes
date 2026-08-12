@@ -210,15 +210,10 @@
     "https://news.ycombinator.com/item?id=49243880",
     "https://news.ycombinator.com/item?id=49249555",
     "https://news.ycombinator.com/item?id=49263340",
-    "https://news.ycombinator.com/item?id=49267928"
+    "https://news.ycombinator.com/item?id=49267928",
+    "https://news.ycombinator.com/item?id=49268564"
   ],
   "recent": [
-    {
-      "date": "2026-08-11",
-      "subcat": "Hacker News Picks",
-      "title": "Squeak 6.1",
-      "url": "https://news.ycombinator.com/item?id=49242653"
-    },
     {
       "date": "2026-08-11",
       "subcat": "Hacker News Picks",
@@ -272,6 +267,12 @@
       "subcat": "Hacker News Picks",
       "title": "llama.cpp",
       "url": "https://news.ycombinator.com/item?id=49267928"
+    },
+    {
+      "date": "2026-08-12",
+      "subcat": "Hacker News Picks",
+      "title": "LinkedIn CringeBot 3000",
+      "url": "https://news.ycombinator.com/item?id=49268564"
     }
   ]
 }

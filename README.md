@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**204 entries and counting** · Last updated: 2026-08-12
+**205 entries and counting** · Last updated: 2026-08-12
 
 ## Categories
 
@@ -12,14 +12,14 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 | [Trending Projects](trending-projects/projects.md) | 75 |
 | [AI / LLM Notes](ai/notes.md) | 15 |
 | [Reading List](articles/reading-list.md) | 53 |
-| [Coding Tips](coding-tips/tips.md) | 54 |
+| [Coding Tips](coding-tips/tips.md) | 55 |
 | [Language Notes](languages/notes.md) | 7 |
 
 ## Latest additions
 
+- **2026-08-12** · *Hacker News Picks* — [LinkedIn CringeBot 3000](https://news.ycombinator.com/item?id=49268564)
 - **2026-08-12** · *Hacker News Picks* — [llama.cpp](https://news.ycombinator.com/item?id=49267928)
 - **2026-08-12** · *AI & Machine Learning* — [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)
-- **2026-08-12** · *Hacker News Picks* — [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://news.ycombinator.com/item?id=49263340)
 
 ## How it works
 
