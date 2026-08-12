@@ -38,6 +38,7 @@
     "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
     "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
     "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
+    "https://dev.to/tooljet/how-to-integrate-tooljet-with-servicenow-for-enhanced-operations-1h1j",
     "https://dev.to/varshithvhegde/i-built-a-chat-app-that-rewrites-its-own-ui-in-real-time-21m5",
     "https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0",
     "https://dev.to/xulingfeng/stratagems-10-lena-watched-a-team-adopt-her-ai-template-leo-didnt-know-the-knife-was-in-the-4khj",
@@ -210,12 +211,6 @@
   "recent": [
     {
       "date": "2026-08-11",
-      "subcat": "AI & Machine Learning",
-      "title": "genspark-ai/genoffice",
-      "url": "https://github.com/genspark-ai/genoffice"
-    },
-    {
-      "date": "2026-08-11",
       "subcat": "Beginner",
       "title": "What Would You Tell Someone Early in Their Career?",
       "url": "https://dev.to/hemapriya_kanagala/what-would-you-tell-someone-early-in-their-career-1k76"
@@ -267,6 +262,12 @@
       "subcat": "Hacker News Picks",
       "title": "The hardest working font in Manhattan (2025)",
       "url": "https://news.ycombinator.com/item?id=49201953"
+    },
+    {
+      "date": "2026-08-12",
+      "subcat": "Productivity",
+      "title": "How to Integrate ToolJet with ServiceNow for Enhanced O",
+      "url": "https://dev.to/tooljet/how-to-integrate-tooljet-with-servicenow-for-enhanced-operations-1h1j"
     }
   ]
 }
