@@ -56,6 +56,7 @@
     "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
     "https://github.com/Jia-Ethan/codex-keysmith",
     "https://github.com/JustVugg/colibri",
+    "https://github.com/KKKKhazix/human-writing",
     "https://github.com/Krishnagangwal/CS-Fundamentals",
     "https://github.com/LiamGvchi/gc-minimal-zine-poster",
     "https://github.com/MDX-Tom/gpt-5.6-instruct",
@@ -213,12 +214,6 @@
   "recent": [
     {
       "date": "2026-08-11",
-      "subcat": "DevOps & Cloud",
-      "title": "When Your VPS Never Had the Resources It Was Sold With",
-      "url": "https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o"
-    },
-    {
-      "date": "2026-08-11",
       "subcat": "Hacker News Picks",
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta retu",
       "url": "https://news.ycombinator.com/item?id=49243880"
@@ -270,6 +265,12 @@
       "subcat": "Hacker News Picks",
       "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
       "url": "https://news.ycombinator.com/item?id=49263340"
+    },
+    {
+      "date": "2026-08-12",
+      "subcat": "AI & Machine Learning",
+      "title": "KKKKhazix/human-writing",
+      "url": "https://github.com/KKKKhazix/human-writing"
     }
   ]
 }

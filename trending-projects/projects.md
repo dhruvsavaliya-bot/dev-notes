@@ -334,6 +334,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~226 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/genspark-ai/genoffice
 
+**Added 2026-08-12**
+
+### [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)
+- **Stats:** 2,496 stars | 211 forks | 6 open issues
+- **Language:** Python | **Created:** 2026-08-05 | **License:** MIT
+- **Topics:** agent-skills, chinese-writing, creative-writing, writing-skill
+- **What it is:** 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
+- **Growth:** averaging ~356 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/KKKKhazix/human-writing
+
 
 ## Other Cool Projects
 
