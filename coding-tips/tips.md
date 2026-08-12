@@ -457,6 +457,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49263340
 - **Link:** https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/
 
+**Added 2026-08-12**
+
+### [llama.cpp](https://llama.app)
+- **Source:** llama.app | **Posted:** 2026-08-12 | **By:** kristianpaul
+- **Community:** 257 points, 113 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49267928
+- **Link:** https://llama.app
+
 
 ## Beginner
 
