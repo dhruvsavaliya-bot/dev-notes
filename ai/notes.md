@@ -131,3 +131,12 @@ Lessons from building with LLMs.
 - **Tags:** ai, programming, productivity, learning
 - **Summary:** A few days ago, I wrote "Understanding Over Origin" and it got alot of engagement and I'm really...
 - **Link:** https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag
+
+**Added 2026-08-12**
+
+### [Stratagems #24: Leo Built a Corridor. The AI Thought It Was a Road.](https://dev.to/xulingfeng/stratagems-24-leo-built-a-corridor-the-ai-thought-it-was-a-road-3blf)
+- **Author:** xulingfeng | **Published:** Aug 10 | **Read time:** 15 min
+- **Community:** 53 reactions, 22 comments — a top post of the week in #ai
+- **Tags:** career, ai, discuss, programming
+- **Summary:** Between two great powers, when a neighbor presses you to follow, borrow its momentum. A cornered...
+- **Link:** https://dev.to/xulingfeng/stratagems-24-leo-built-a-corridor-the-ai-thought-it-was-a-road-3blf
