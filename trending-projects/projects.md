@@ -677,6 +677,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~331 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/ZzzLc0405/photo-abstract-editorial
 
+**Added 2026-08-12**
+
+### [Zeejay0/gathered-scenes-zine-skill](https://github.com/Zeejay0/gathered-scenes-zine-skill)
+- **Stats:** 2,814 stars | 288 forks | 10 open issues
+- **Language:** N/A | **Created:** 2026-08-01 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~255 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/Zeejay0/gathered-scenes-zine-skill
+
 
 ## Web & Frontend
 

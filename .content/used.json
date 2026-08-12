@@ -70,6 +70,7 @@
     "https://github.com/Waishnav/devspace",
     "https://github.com/Younesfdj/gitfut",
     "https://github.com/Yu9191/wloc",
+    "https://github.com/Zeejay0/gathered-scenes-zine-skill",
     "https://github.com/ZzzLc0405/photo-abstract-editorial",
     "https://github.com/andrewyng/openworker",
     "https://github.com/anthropics/jacobian-lens",
@@ -211,12 +212,6 @@
   "recent": [
     {
       "date": "2026-08-11",
-      "subcat": "Beginner",
-      "title": "What Would You Tell Someone Early in Their Career?",
-      "url": "https://dev.to/hemapriya_kanagala/what-would-you-tell-someone-early-in-their-career-1k76"
-    },
-    {
-      "date": "2026-08-11",
       "subcat": "Productivity",
       "title": "I Recreated Management With AI: 9 Things I Do Different",
       "url": "https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g"
@@ -268,6 +263,12 @@
       "subcat": "Productivity",
       "title": "How to Integrate ToolJet with ServiceNow for Enhanced O",
       "url": "https://dev.to/tooljet/how-to-integrate-tooljet-with-servicenow-for-enhanced-operations-1h1j"
+    },
+    {
+      "date": "2026-08-12",
+      "subcat": "Other Cool Projects",
+      "title": "Zeejay0/gathered-scenes-zine-skill",
+      "url": "https://github.com/Zeejay0/gathered-scenes-zine-skill"
     }
   ]
 }
