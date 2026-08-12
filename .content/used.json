@@ -19,6 +19,7 @@
     "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i",
     "https://dev.to/gramli/how-ai-endpoints-change-the-traditional-api-flow-3773",
     "https://dev.to/gramli/how-i-smashed-a-bug-in-a-shared-authentication-library-33fm",
+    "https://dev.to/harsh2644/you-dont-have-an-ai-problem-you-have-a-thinking-problem-5f07",
     "https://dev.to/he4rt/como-escolher-eventos-de-tecnologia-para-participar-55kf",
     "https://dev.to/he4rt/contribuir-para-a-comunidade-como-destacar-isso-no-seu-linkedin-e-curriculo-4cgl",
     "https://dev.to/he4rt/pensar-demais-nem-sempre-ajuda-e-o-que-eu-aprendi-com-isso-49pp",
@@ -206,12 +207,6 @@
   ],
   "recent": [
     {
-      "date": "2026-08-10",
-      "subcat": "Hacker News Picks",
-      "title": "Docker Sandboxes  Disposable, isolated sandboxes for AI",
-      "url": "https://news.ycombinator.com/item?id=49239751"
-    },
-    {
       "date": "2026-08-11",
       "subcat": "Other Cool Projects",
       "title": "ZzzLc0405/photo-abstract-editorial",
@@ -264,6 +259,12 @@
       "subcat": "Hacker News Picks",
       "title": "Confessions of a Long-Distance Sailor",
       "url": "https://news.ycombinator.com/item?id=49249555"
+    },
+    {
+      "date": "2026-08-12",
+      "subcat": "Productivity",
+      "title": "You Don't Have an AI Problem You Have a Thinking Proble",
+      "url": "https://dev.to/harsh2644/you-dont-have-an-ai-problem-you-have-a-thinking-problem-5f07"
     }
   ]
 }

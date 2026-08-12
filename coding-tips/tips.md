@@ -58,6 +58,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** I stopped treating permission prompts as the safety system, then spent four and a half months writing 134 standing rules to replace them. Nine things I do differently with AI, and the proof to back it up.
 - **Link:** https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g
 
+**Added 2026-08-12**
+
+### [You Don't Have an AI Problem You Have a Thinking Problem.](https://dev.to/harsh2644/you-dont-have-an-ai-problem-you-have-a-thinking-problem-5f07)
+- **Author:** Harsh  | **Published:** Aug 10 | **Read time:** 7 min
+- **Community:** 52 reactions, 33 comments — a top post of the week in #productivity
+- **Tags:** ai, programming, softwaredevelopment, productivity
+- **Summary:** I used to think AI was making me lazy. I was wrong. AI wasn't making me lazy I was using AI as an...
+- **Link:** https://dev.to/harsh2644/you-dont-have-an-ai-problem-you-have-a-thinking-problem-5f07
+
 
 ## Hacker News Picks
 
