@@ -430,6 +430,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49249555
 - **Link:** https://arachnoid.com/lutusp/sailbook.html
 
+**Added 2026-08-12**
+
+### [The hardest working font in Manhattan (2025)](https://aresluna.org/the-hardest-working-font-in-manhattan/)
+- **Source:** aresluna.org | **Posted:** 2026-08-06 | **By:** dcminter
+- **Community:** 118 points, 14 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49201953
+- **Link:** https://aresluna.org/the-hardest-working-font-in-manhattan/
+
 
 ## Beginner
 

@@ -186,6 +186,7 @@
     "https://news.ycombinator.com/item?id=49188022",
     "https://news.ycombinator.com/item?id=49189075",
     "https://news.ycombinator.com/item?id=49201003",
+    "https://news.ycombinator.com/item?id=49201953",
     "https://news.ycombinator.com/item?id=49204352",
     "https://news.ycombinator.com/item?id=49208393",
     "https://news.ycombinator.com/item?id=49208535",
@@ -207,12 +208,6 @@
     "https://news.ycombinator.com/item?id=49249555"
   ],
   "recent": [
-    {
-      "date": "2026-08-11",
-      "subcat": "Hacker News Picks",
-      "title": "Humanising LLM Outputs Is Dumb",
-      "url": "https://news.ycombinator.com/item?id=49243474"
-    },
     {
       "date": "2026-08-11",
       "subcat": "AI & Machine Learning",
@@ -266,6 +261,12 @@
       "subcat": "AI Engineering",
       "title": "Stratagems #24: Leo Built a Corridor. The AI Thought It",
       "url": "https://dev.to/xulingfeng/stratagems-24-leo-built-a-corridor-the-ai-thought-it-was-a-road-3blf"
+    },
+    {
+      "date": "2026-08-12",
+      "subcat": "Hacker News Picks",
+      "title": "The hardest working font in Manhattan (2025)",
+      "url": "https://news.ycombinator.com/item?id=49201953"
     }
   ]
 }
