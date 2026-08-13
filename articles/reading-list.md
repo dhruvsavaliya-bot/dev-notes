@@ -452,6 +452,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49269429
 - **Link:** http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html
 
+**Added 2026-08-13**
+
+### [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)
+- **Source:** openrouter.ai | **Posted:** 2026-08-12 | **By:** explosion-s
+- **Community:** 966 points, 415 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49274600
+- **Link:** https://openrouter.ai/deepseek/deepseek-v4-pro-0813
+
 
 ## DevOps & Cloud
 

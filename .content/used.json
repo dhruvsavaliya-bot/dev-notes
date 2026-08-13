@@ -217,15 +217,10 @@
     "https://news.ycombinator.com/item?id=49271757",
     "https://news.ycombinator.com/item?id=49272569",
     "https://news.ycombinator.com/item?id=49272655",
+    "https://news.ycombinator.com/item?id=49274600",
     "https://news.ycombinator.com/item?id=49274858"
   ],
   "recent": [
-    {
-      "date": "2026-08-12",
-      "subcat": "Hacker News Picks",
-      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
-      "url": "https://news.ycombinator.com/item?id=49263340"
-    },
     {
       "date": "2026-08-12",
       "subcat": "AI & Machine Learning",
@@ -279,6 +274,12 @@
       "subcat": "Hacker News Picks",
       "title": "Why Target Common Lisp for Code Generation?",
       "url": "https://news.ycombinator.com/item?id=49269429"
+    },
+    {
+      "date": "2026-08-13",
+      "subcat": "Hacker News Picks",
+      "title": "DeepSeek V4 Pro 0813",
+      "url": "https://news.ycombinator.com/item?id=49274600"
     }
   ]
 }
