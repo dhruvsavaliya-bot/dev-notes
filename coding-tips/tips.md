@@ -502,6 +502,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49274858
 - **Link:** https://lovable.dev/blog/series-c
 
+**Added 2026-08-13**
+
+### [Tim King, AmigaDOS developer, has died](https://amiga-news.de/en/news/AN-2026-08-00070-EN.html)
+- **Source:** amiga-news.de | **Posted:** 2026-08-12 | **By:** doener
+- **Community:** 270 points, 33 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49272655
+- **Link:** https://amiga-news.de/en/news/AN-2026-08-00070-EN.html
+
 
 ## Beginner
 

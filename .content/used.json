@@ -215,15 +215,10 @@
     "https://news.ycombinator.com/item?id=49268564",
     "https://news.ycombinator.com/item?id=49271757",
     "https://news.ycombinator.com/item?id=49272569",
+    "https://news.ycombinator.com/item?id=49272655",
     "https://news.ycombinator.com/item?id=49274858"
   ],
   "recent": [
-    {
-      "date": "2026-08-12",
-      "subcat": "Productivity",
-      "title": "How to Integrate ToolJet with ServiceNow for Enhanced O",
-      "url": "https://dev.to/tooljet/how-to-integrate-tooljet-with-servicenow-for-enhanced-operations-1h1j"
-    },
     {
       "date": "2026-08-12",
       "subcat": "Other Cool Projects",
@@ -277,6 +272,12 @@
       "subcat": "Hacker News Picks",
       "title": "Lovable raises $400M Series C",
       "url": "https://news.ycombinator.com/item?id=49274858"
+    },
+    {
+      "date": "2026-08-13",
+      "subcat": "Hacker News Picks",
+      "title": "Tim King, AmigaDOS developer, has died",
+      "url": "https://news.ycombinator.com/item?id=49272655"
     }
   ]
 }
