@@ -493,6 +493,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49272569
 - **Link:** https://knownagents.com/insights
 
+**Added 2026-08-13**
+
+### [Lovable raises $400M Series C](https://lovable.dev/blog/series-c)
+- **Source:** lovable.dev | **Posted:** 2026-08-12 | **By:** thoughtpeddler
+- **Community:** 132 points, 124 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49274858
+- **Link:** https://lovable.dev/blog/series-c
+
 
 ## Beginner
 

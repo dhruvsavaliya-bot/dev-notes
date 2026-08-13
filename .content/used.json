@@ -214,15 +214,10 @@
     "https://news.ycombinator.com/item?id=49267928",
     "https://news.ycombinator.com/item?id=49268564",
     "https://news.ycombinator.com/item?id=49271757",
-    "https://news.ycombinator.com/item?id=49272569"
+    "https://news.ycombinator.com/item?id=49272569",
+    "https://news.ycombinator.com/item?id=49274858"
   ],
   "recent": [
-    {
-      "date": "2026-08-12",
-      "subcat": "Hacker News Picks",
-      "title": "The hardest working font in Manhattan (2025)",
-      "url": "https://news.ycombinator.com/item?id=49201953"
-    },
     {
       "date": "2026-08-12",
       "subcat": "Productivity",
@@ -276,6 +271,12 @@
       "subcat": "AI & Machine Learning",
       "title": "guillaumemeyer/watermarks-remover",
       "url": "https://github.com/guillaumemeyer/watermarks-remover"
+    },
+    {
+      "date": "2026-08-13",
+      "subcat": "Hacker News Picks",
+      "title": "Lovable raises $400M Series C",
+      "url": "https://news.ycombinator.com/item?id=49274858"
     }
   ]
 }
