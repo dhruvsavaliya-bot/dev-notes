@@ -443,6 +443,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49242653
 - **Link:** https://squeak.org/release_notes/6.1/
 
+**Added 2026-08-13**
+
+### [Why Target Common Lisp for Code Generation?](http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html)
+- **Source:** funcall.blogspot.com | **Posted:** 2026-08-12 | **By:** oumua_don17
+- **Community:** 104 points, 91 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49269429
+- **Link:** http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html
+
 
 ## DevOps & Cloud
 
