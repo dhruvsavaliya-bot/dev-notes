@@ -344,6 +344,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~356 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/KKKKhazix/human-writing
 
+**Added 2026-08-13**
+
+### [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
+- **Stats:** 3,062 stars | 301 forks | 1 open issues
+- **Language:** Python | **Created:** 2026-08-11 | **License:** MIT
+- **Topics:** agent-skill, ai, c2pa, claude, provenance, synthid
+- **What it is:** Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
+- **Growth:** averaging ~1,531 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/guillaumemeyer/watermarks-remover
+
 
 ## Other Cool Projects
 

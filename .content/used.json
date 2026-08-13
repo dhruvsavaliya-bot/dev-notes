@@ -90,6 +90,7 @@
     "https://github.com/firecrawl/anydoc",
     "https://github.com/genspark-ai/genoffice",
     "https://github.com/google-research/tabfm",
+    "https://github.com/guillaumemeyer/watermarks-remover",
     "https://github.com/hoainho/img2threejs",
     "https://github.com/img2threejs/img2threejs",
     "https://github.com/imsai-sh/zhuzhiliao",
@@ -218,12 +219,6 @@
   "recent": [
     {
       "date": "2026-08-12",
-      "subcat": "AI Engineering",
-      "title": "Stratagems #24: Leo Built a Corridor. The AI Thought It",
-      "url": "https://dev.to/xulingfeng/stratagems-24-leo-built-a-corridor-the-ai-thought-it-was-a-road-3blf"
-    },
-    {
-      "date": "2026-08-12",
       "subcat": "Hacker News Picks",
       "title": "The hardest working font in Manhattan (2025)",
       "url": "https://news.ycombinator.com/item?id=49201953"
@@ -275,6 +270,12 @@
       "subcat": "Hacker News Picks",
       "title": "Someone is running mass vulnerability scans, spoofing A",
       "url": "https://news.ycombinator.com/item?id=49272569"
+    },
+    {
+      "date": "2026-08-13",
+      "subcat": "AI & Machine Learning",
+      "title": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover"
     }
   ]
 }
