@@ -475,6 +475,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49268564
 - **Link:** https://www.cringebot3000.com/
 
+**Added 2026-08-13**
+
+### [Shade Map](https://shademap.app)
+- **Source:** shademap.app | **Posted:** 2026-08-12 | **By:** fredley
+- **Community:** 162 points, 43 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49271757
+- **Link:** https://shademap.app
+
 
 ## Beginner
 
