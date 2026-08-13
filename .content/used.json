@@ -212,15 +212,10 @@
     "https://news.ycombinator.com/item?id=49263340",
     "https://news.ycombinator.com/item?id=49267928",
     "https://news.ycombinator.com/item?id=49268564",
-    "https://news.ycombinator.com/item?id=49271757"
+    "https://news.ycombinator.com/item?id=49271757",
+    "https://news.ycombinator.com/item?id=49272569"
   ],
   "recent": [
-    {
-      "date": "2026-08-12",
-      "subcat": "Productivity",
-      "title": "You Don't Have an AI Problem You Have a Thinking Proble",
-      "url": "https://dev.to/harsh2644/you-dont-have-an-ai-problem-you-have-a-thinking-problem-5f07"
-    },
     {
       "date": "2026-08-12",
       "subcat": "AI Engineering",
@@ -274,6 +269,12 @@
       "subcat": "Hacker News Picks",
       "title": "Shade Map",
       "url": "https://news.ycombinator.com/item?id=49271757"
+    },
+    {
+      "date": "2026-08-13",
+      "subcat": "Hacker News Picks",
+      "title": "Someone is running mass vulnerability scans, spoofing A",
+      "url": "https://news.ycombinator.com/item?id=49272569"
     }
   ]
 }

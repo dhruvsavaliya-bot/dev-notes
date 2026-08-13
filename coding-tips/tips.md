@@ -484,6 +484,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49271757
 - **Link:** https://shademap.app
 
+**Added 2026-08-13**
+
+### [Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](https://knownagents.com/insights)
+- **Source:** knownagents.com | **Posted:** 2026-08-12 | **By:** gavinhking
+- **Community:** 257 points, 190 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49272569
+- **Link:** https://knownagents.com/insights
+
 
 ## Beginner
 
