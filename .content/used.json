@@ -222,15 +222,10 @@
     "https://news.ycombinator.com/item?id=49272655",
     "https://news.ycombinator.com/item?id=49274600",
     "https://news.ycombinator.com/item?id=49274858",
-    "https://news.ycombinator.com/item?id=49285244"
+    "https://news.ycombinator.com/item?id=49285244",
+    "https://news.ycombinator.com/item?id=49289844"
   ],
   "recent": [
-    {
-      "date": "2026-08-13",
-      "subcat": "Hacker News Picks",
-      "title": "Someone is running mass vulnerability scans, spoofing A",
-      "url": "https://news.ycombinator.com/item?id=49272569"
-    },
     {
       "date": "2026-08-13",
       "subcat": "AI & Machine Learning",
@@ -284,6 +279,12 @@
       "subcat": "Other Cool Projects",
       "title": "LaoFeng-mouse/flyingmouse-format",
       "url": "https://github.com/LaoFeng-mouse/flyingmouse-format"
+    },
+    {
+      "date": "2026-08-14",
+      "subcat": "Hacker News Picks",
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "url": "https://news.ycombinator.com/item?id=49289844"
     }
   ]
 }
