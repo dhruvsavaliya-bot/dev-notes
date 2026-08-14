@@ -717,6 +717,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~80,543 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/deepseek-ai/deepseek-harness
 
+**Added 2026-08-14**
+
+### [LaoFeng-mouse/flyingmouse-format](https://github.com/LaoFeng-mouse/flyingmouse-format)
+- **Stats:** 2,781 stars | 240 forks | 28 open issues
+- **Language:** JavaScript | **Created:** 2026-08-06 | **License:** NOASSERTION
+- **Topics:** desktop-app, electron, ffmpeg, file-converter, format-converter, libreoffice
+- **What it is:** 飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换
+- **Growth:** averaging ~347 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/LaoFeng-mouse/flyingmouse-format
+
 
 ## Web & Frontend
 
