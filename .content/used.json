@@ -32,6 +32,7 @@
     "https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2",
     "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
     "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
+    "https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b",
     "https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o",
     "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
     "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3",
@@ -225,12 +226,6 @@
     {
       "date": "2026-08-12",
       "subcat": "Hacker News Picks",
-      "title": "llama.cpp",
-      "url": "https://news.ycombinator.com/item?id=49267928"
-    },
-    {
-      "date": "2026-08-12",
-      "subcat": "Hacker News Picks",
       "title": "LinkedIn CringeBot 3000",
       "url": "https://news.ycombinator.com/item?id=49268564"
     },
@@ -281,6 +276,12 @@
       "subcat": "Hacker News Picks",
       "title": "DeepSeek Harness developer preview",
       "url": "https://news.ycombinator.com/item?id=49285244"
+    },
+    {
+      "date": "2026-08-14",
+      "subcat": "TypeScript",
+      "title": "is-kit Reached 50 Stars  Heres How We Use It in Product",
+      "url": "https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b"
     }
   ]
 }

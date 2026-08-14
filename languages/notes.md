@@ -71,3 +71,12 @@ Snippets and gotchas across languages.
 - **Tags:** devchallenge, bugsmash, angular, typescript
 - **Summary:** This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  This happened a...
 - **Link:** https://dev.to/gramli/how-i-smashed-a-bug-in-a-shared-authentication-library-33fm
+
+**Added 2026-08-14**
+
+### [is-kit Reached 50 Stars ⭐ Here’s How We Use It in Production](https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b)
+- **Author:** nyaomaru | **Published:** Aug 12 | **Read time:** 7 min
+- **Community:** 51 reactions, 6 comments — a top post of the week in #typescript
+- **Tags:** typescript, opensource, webdev, frontend
+- **Summary:** Hoi hoi!  I'm @nyaomaru, a frontend engineer who is trying to lose weight. 🐖🙀  I maintain a type...
+- **Link:** https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b
