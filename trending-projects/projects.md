@@ -707,6 +707,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~255 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Zeejay0/gathered-scenes-zine-skill
 
+**Added 2026-08-14**
+
+### [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+- **Stats:** 80,543 stars | 7,060 forks | 0 open issues
+- **Language:** TypeScript | **Created:** 2026-08-13 | **License:** MIT
+- **Topics:** cordis, dsh, dsh-plugin
+- **What it is:** DeepSeek Harness: Everything is a Plugin.
+- **Growth:** averaging ~80,543 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/deepseek-ai/deepseek-harness
+
 
 ## Web & Frontend
 
