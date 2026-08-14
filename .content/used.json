@@ -218,15 +218,10 @@
     "https://news.ycombinator.com/item?id=49272569",
     "https://news.ycombinator.com/item?id=49272655",
     "https://news.ycombinator.com/item?id=49274600",
-    "https://news.ycombinator.com/item?id=49274858"
+    "https://news.ycombinator.com/item?id=49274858",
+    "https://news.ycombinator.com/item?id=49285244"
   ],
   "recent": [
-    {
-      "date": "2026-08-12",
-      "subcat": "AI & Machine Learning",
-      "title": "KKKKhazix/human-writing",
-      "url": "https://github.com/KKKKhazix/human-writing"
-    },
     {
       "date": "2026-08-12",
       "subcat": "Hacker News Picks",
@@ -280,6 +275,12 @@
       "subcat": "Hacker News Picks",
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://news.ycombinator.com/item?id=49274600"
+    },
+    {
+      "date": "2026-08-14",
+      "subcat": "Hacker News Picks",
+      "title": "DeepSeek Harness developer preview",
+      "url": "https://news.ycombinator.com/item?id=49285244"
     }
   ]
 }

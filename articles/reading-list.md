@@ -461,6 +461,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49274600
 - **Link:** https://openrouter.ai/deepseek/deepseek-v4-pro-0813
 
+**Added 2026-08-14**
+
+### [DeepSeek Harness developer preview](https://deepseek.com/harness/en/)
+- **Source:** deepseek.com | **Posted:** 2026-08-13 | **By:** bjin
+- **Community:** 595 points, 251 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49285244
+- **Link:** https://deepseek.com/harness/en/
+
 
 ## DevOps & Cloud
 
