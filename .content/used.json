@@ -223,15 +223,10 @@
     "https://news.ycombinator.com/item?id=49274600",
     "https://news.ycombinator.com/item?id=49274858",
     "https://news.ycombinator.com/item?id=49285244",
+    "https://news.ycombinator.com/item?id=49285770",
     "https://news.ycombinator.com/item?id=49289844"
   ],
   "recent": [
-    {
-      "date": "2026-08-13",
-      "subcat": "AI & Machine Learning",
-      "title": "guillaumemeyer/watermarks-remover",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover"
-    },
     {
       "date": "2026-08-13",
       "subcat": "Hacker News Picks",
@@ -285,6 +280,12 @@
       "subcat": "Hacker News Picks",
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://news.ycombinator.com/item?id=49289844"
+    },
+    {
+      "date": "2026-08-14",
+      "subcat": "Hacker News Picks",
+      "title": "Ordinary Abundance",
+      "url": "https://news.ycombinator.com/item?id=49285770"
     }
   ]
 }
