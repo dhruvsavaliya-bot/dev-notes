@@ -488,6 +488,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49285770
 - **Link:** https://ordinaryabundance.com/
 
+**Added 2026-08-15**
+
+### [Ultraviolet Bird Photography](https://uvbirds.com/)
+- **Source:** uvbirds.com | **Posted:** 2026-08-07 | **By:** EndXA
+- **Community:** 136 points, 23 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49211375
+- **Link:** https://uvbirds.com/
+
 
 ## DevOps & Cloud
 
