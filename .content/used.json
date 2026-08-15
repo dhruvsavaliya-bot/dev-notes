@@ -228,15 +228,10 @@
     "https://news.ycombinator.com/item?id=49285244",
     "https://news.ycombinator.com/item?id=49285770",
     "https://news.ycombinator.com/item?id=49289844",
+    "https://news.ycombinator.com/item?id=49294997",
     "https://news.ycombinator.com/item?id=49299746"
   ],
   "recent": [
-    {
-      "date": "2026-08-14",
-      "subcat": "Hacker News Picks",
-      "title": "DeepSeek Harness developer preview",
-      "url": "https://news.ycombinator.com/item?id=49285244"
-    },
     {
       "date": "2026-08-14",
       "subcat": "TypeScript",
@@ -290,6 +285,12 @@
       "subcat": "Hacker News Picks",
       "title": "Ultraviolet Bird Photography",
       "url": "https://news.ycombinator.com/item?id=49211375"
+    },
+    {
+      "date": "2026-08-15",
+      "subcat": "Hacker News Picks",
+      "title": "GLM-5.3: Frontier coding with emergent cyber capabiliti",
+      "url": "https://news.ycombinator.com/item?id=49294997"
     }
   ]
 }

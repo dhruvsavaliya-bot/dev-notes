@@ -497,6 +497,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49211375
 - **Link:** https://uvbirds.com/
 
+**Added 2026-08-15**
+
+### [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3)
+- **Source:** z.ai | **Posted:** 2026-08-14 | **By:** pella
+- **Community:** 1087 points, 527 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49294997
+- **Link:** https://z.ai/blog/glm-5.3
+
 
 ## DevOps & Cloud
 

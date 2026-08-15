@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**222 entries and counting** · Last updated: 2026-08-15
+**223 entries and counting** · Last updated: 2026-08-15
 
 ## Categories
 
@@ -11,15 +11,15 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 80 |
 | [AI / LLM Notes](ai/notes.md) | 15 |
-| [Reading List](articles/reading-list.md) | 59 |
+| [Reading List](articles/reading-list.md) | 60 |
 | [Coding Tips](coding-tips/tips.md) | 60 |
 | [Language Notes](languages/notes.md) | 8 |
 
 ## Latest additions
 
+- **2026-08-15** · *Hacker News Picks* — [GLM-5.3: Frontier coding with emergent cyber capabiliti](https://news.ycombinator.com/item?id=49294997)
 - **2026-08-15** · *Hacker News Picks* — [Ultraviolet Bird Photography](https://news.ycombinator.com/item?id=49211375)
 - **2026-08-15** · *AI & Machine Learning* — [QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins)
-- **2026-08-15** · *Hacker News Picks* — [Introducing Toast 1](https://news.ycombinator.com/item?id=49299746)
 
 ## How it works
 
