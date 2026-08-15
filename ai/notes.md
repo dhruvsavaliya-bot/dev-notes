@@ -140,3 +140,12 @@ Lessons from building with LLMs.
 - **Tags:** career, ai, discuss, programming
 - **Summary:** Between two great powers, when a neighbor presses you to follow, borrow its momentum. A cornered...
 - **Link:** https://dev.to/xulingfeng/stratagems-24-leo-built-a-corridor-the-ai-thought-it-was-a-road-3blf
+
+**Added 2026-08-15**
+
+### [I Built a Notebook for Sharing Notes That Doesn't Ask You to Sign Up First](https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd)
+- **Author:** Varshith V Hegde | **Published:** Aug 12 | **Read time:** 14 min
+- **Community:** 57 reactions, 10 comments — a top post of the week in #ai
+- **Tags:** ai, webdev, programming, productivity
+- **Summary:** Someone asked me to share meeting notes in Slack yesterday.  I pasted the markdown. Slack ate the...
+- **Link:** https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd
