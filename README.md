@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**219 entries and counting** · Last updated: 2026-08-15
+**220 entries and counting** · Last updated: 2026-08-15
 
 ## Categories
 
@@ -12,14 +12,14 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 | [Trending Projects](trending-projects/projects.md) | 79 |
 | [AI / LLM Notes](ai/notes.md) | 15 |
 | [Reading List](articles/reading-list.md) | 58 |
-| [Coding Tips](coding-tips/tips.md) | 59 |
+| [Coding Tips](coding-tips/tips.md) | 60 |
 | [Language Notes](languages/notes.md) | 8 |
 
 ## Latest additions
 
+- **2026-08-15** · *Hacker News Picks* — [Introducing Toast 1](https://news.ycombinator.com/item?id=49299746)
 - **2026-08-15** · *Other Cool Projects* — [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)
 - **2026-08-14** · *Hacker News Picks* — [Ordinary Abundance](https://news.ycombinator.com/item?id=49285770)
-- **2026-08-14** · *Hacker News Picks* — [Accelerating GPT-5.6 Sol Ultrafast](https://news.ycombinator.com/item?id=49289844)
 
 ## How it works
 

@@ -511,6 +511,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49272655
 - **Link:** https://amiga-news.de/en/news/AN-2026-08-00070-EN.html
 
+**Added 2026-08-15**
+
+### [Introducing Toast 1](https://www.mixedbread.com/blog/toast-1)
+- **Source:** www.mixedbread.com | **Posted:** 2026-08-14 | **By:** mplappert
+- **Community:** 190 points, 59 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49299746
+- **Link:** https://www.mixedbread.com/blog/toast-1
+
 
 ## Beginner
 
