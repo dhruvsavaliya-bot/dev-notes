@@ -229,15 +229,10 @@
     "https://news.ycombinator.com/item?id=49285770",
     "https://news.ycombinator.com/item?id=49289844",
     "https://news.ycombinator.com/item?id=49294997",
+    "https://news.ycombinator.com/item?id=49299081",
     "https://news.ycombinator.com/item?id=49299746"
   ],
   "recent": [
-    {
-      "date": "2026-08-14",
-      "subcat": "TypeScript",
-      "title": "is-kit Reached 50 Stars  Heres How We Use It in Product",
-      "url": "https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b"
-    },
     {
       "date": "2026-08-14",
       "subcat": "Other Cool Projects",
@@ -291,6 +286,12 @@
       "subcat": "Hacker News Picks",
       "title": "GLM-5.3: Frontier coding with emergent cyber capabiliti",
       "url": "https://news.ycombinator.com/item?id=49294997"
+    },
+    {
+      "date": "2026-08-15",
+      "subcat": "Hacker News Picks",
+      "title": "I turned my RSS feeds into an e-ink newspaper to stop r",
+      "url": "https://news.ycombinator.com/item?id=49299081"
     }
   ]
 }
