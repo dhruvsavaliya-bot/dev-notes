@@ -727,6 +727,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~347 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/LaoFeng-mouse/flyingmouse-format
 
+**Added 2026-08-15**
+
+### [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)
+- **Stats:** 2,684 stars | 132 forks | 30 open issues
+- **Language:** TypeScript | **Created:** 2026-08-13 | **License:** MIT
+- **Topics:** deepseek, deepseek-harness, desktop, dsh, dsh-plugin, dsh-plugin-desktop
+- **What it is:** 为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验
+- **Growth:** averaging ~1,342 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/anywhere-labs/deepseek-harness-desktop
+
 
 ## Web & Frontend
 

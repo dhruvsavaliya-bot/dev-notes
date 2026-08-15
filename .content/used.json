@@ -77,6 +77,7 @@
     "https://github.com/ZzzLc0405/photo-abstract-editorial",
     "https://github.com/andrewyng/openworker",
     "https://github.com/anthropics/jacobian-lens",
+    "https://github.com/anywhere-labs/deepseek-harness-desktop",
     "https://github.com/baairon/torlink",
     "https://github.com/baidu/Unlimited-OCR",
     "https://github.com/bashalarmistalt/decimen-optical-transfer",
@@ -230,12 +231,6 @@
     {
       "date": "2026-08-13",
       "subcat": "Hacker News Picks",
-      "title": "Lovable raises $400M Series C",
-      "url": "https://news.ycombinator.com/item?id=49274858"
-    },
-    {
-      "date": "2026-08-13",
-      "subcat": "Hacker News Picks",
       "title": "Tim King, AmigaDOS developer, has died",
       "url": "https://news.ycombinator.com/item?id=49272655"
     },
@@ -286,6 +281,12 @@
       "subcat": "Hacker News Picks",
       "title": "Ordinary Abundance",
       "url": "https://news.ycombinator.com/item?id=49285770"
+    },
+    {
+      "date": "2026-08-15",
+      "subcat": "Other Cool Projects",
+      "title": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop"
     }
   ]
 }

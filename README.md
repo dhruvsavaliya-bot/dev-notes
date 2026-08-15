@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**218 entries and counting** · Last updated: 2026-08-14
+**219 entries and counting** · Last updated: 2026-08-15
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 78 |
+| [Trending Projects](trending-projects/projects.md) | 79 |
 | [AI / LLM Notes](ai/notes.md) | 15 |
 | [Reading List](articles/reading-list.md) | 58 |
 | [Coding Tips](coding-tips/tips.md) | 59 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-08-15** · *Other Cool Projects* — [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)
 - **2026-08-14** · *Hacker News Picks* — [Ordinary Abundance](https://news.ycombinator.com/item?id=49285770)
 - **2026-08-14** · *Hacker News Picks* — [Accelerating GPT-5.6 Sol Ultrafast](https://news.ycombinator.com/item?id=49289844)
-- **2026-08-14** · *Other Cool Projects* — [LaoFeng-mouse/flyingmouse-format](https://github.com/LaoFeng-mouse/flyingmouse-format)
 
 ## How it works
 
