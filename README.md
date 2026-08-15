@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**220 entries and counting** · Last updated: 2026-08-15
+**221 entries and counting** · Last updated: 2026-08-15
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 79 |
+| [Trending Projects](trending-projects/projects.md) | 80 |
 | [AI / LLM Notes](ai/notes.md) | 15 |
 | [Reading List](articles/reading-list.md) | 58 |
 | [Coding Tips](coding-tips/tips.md) | 60 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-08-15** · *AI & Machine Learning* — [QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins)
 - **2026-08-15** · *Hacker News Picks* — [Introducing Toast 1](https://news.ycombinator.com/item?id=49299746)
 - **2026-08-15** · *Other Cool Projects* — [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)
-- **2026-08-14** · *Hacker News Picks* — [Ordinary Abundance](https://news.ycombinator.com/item?id=49285770)
 
 ## How it works
 

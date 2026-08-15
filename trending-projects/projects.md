@@ -354,6 +354,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1,531 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/guillaumemeyer/watermarks-remover
 
+**Added 2026-08-15**
+
+### [QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins)
+- **Stats:** 2,542 stars | 141 forks | 15 open issues
+- **Language:** Python | **Created:** 2026-07-29 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** Make any agent harness multimodal-native.
+- **Growth:** averaging ~149 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/QwenLM/Qwen-MM-Plugins
+
 
 ## Other Cool Projects
 
