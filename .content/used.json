@@ -132,6 +132,7 @@
     "https://github.com/yc-software/qm",
     "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
     "https://github.com/yynxxxxx/Codex-X",
+    "https://github.com/zhu1090093659/dsh-web-ui",
     "https://news.ycombinator.com/item?id=48896600",
     "https://news.ycombinator.com/item?id=48896665",
     "https://news.ycombinator.com/item?id=48926590",
@@ -237,12 +238,6 @@
   ],
   "recent": [
     {
-      "date": "2026-08-14",
-      "subcat": "Hacker News Picks",
-      "title": "Ordinary Abundance",
-      "url": "https://news.ycombinator.com/item?id=49285770"
-    },
-    {
       "date": "2026-08-15",
       "subcat": "Other Cool Projects",
       "title": "anywhere-labs/deepseek-harness-desktop",
@@ -295,6 +290,12 @@
       "subcat": "Hacker News Picks",
       "title": "AI has access to a vastly larger working memory than th",
       "url": "https://news.ycombinator.com/item?id=49312845"
+    },
+    {
+      "date": "2026-08-16",
+      "subcat": "Web & Frontend",
+      "title": "zhu1090093659/dsh-web-ui",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui"
     }
   ]
 }

@@ -760,6 +760,17 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~211 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Shpigford/knockoff
 
+**Added 2026-08-16**
+
+### [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui)
+- **Stats:** 3,093 stars | 181 forks | 43 open issues
+- **Language:** TypeScript | **Created:** 2026-08-12 | **License:** Apache-2.0
+- **Topics:** deepseek-harness, dsh, dsh-plugin, web-ui
+- **What it is:** Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.
+- **Growth:** averaging ~773 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/zhu1090093659/dsh-web-ui
+
+
 ## Developer Tools
 
 **Added 2026-07-21**
