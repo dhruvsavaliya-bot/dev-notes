@@ -149,3 +149,12 @@ Lessons from building with LLMs.
 - **Tags:** ai, webdev, programming, productivity
 - **Summary:** Someone asked me to share meeting notes in Slack yesterday.  I pasted the markdown. Slack ate the...
 - **Link:** https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd
+
+**Added 2026-08-16**
+
+### [24 Cups, 36 Seats — The Bartender's Ledger](https://dev.to/xulingfeng/24-cups-36-seats-the-bartenders-ledger-40aj)
+- **Author:** xulingfeng | **Published:** Aug 13 | **Read time:** 11 min
+- **Community:** 69 reactions, 74 comments — a top post of the week in #ai
+- **Tags:** career, discuss, ai, programming
+- **Summary:** 24 stories. 24 visits. One counter, same six faces.              The Third Cup   The AI wave hit, and...
+- **Link:** https://dev.to/xulingfeng/24-cups-36-seats-the-bartenders-ledger-40aj
