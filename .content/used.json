@@ -232,15 +232,10 @@
     "https://news.ycombinator.com/item?id=49289844",
     "https://news.ycombinator.com/item?id=49294997",
     "https://news.ycombinator.com/item?id=49299081",
-    "https://news.ycombinator.com/item?id=49299746"
+    "https://news.ycombinator.com/item?id=49299746",
+    "https://news.ycombinator.com/item?id=49312845"
   ],
   "recent": [
-    {
-      "date": "2026-08-14",
-      "subcat": "Hacker News Picks",
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "url": "https://news.ycombinator.com/item?id=49289844"
-    },
     {
       "date": "2026-08-14",
       "subcat": "Hacker News Picks",
@@ -294,6 +289,12 @@
       "subcat": "AI Engineering",
       "title": "24 Cups, 36 Seats  The Bartender's Ledger",
       "url": "https://dev.to/xulingfeng/24-cups-36-seats-the-bartenders-ledger-40aj"
+    },
+    {
+      "date": "2026-08-16",
+      "subcat": "Hacker News Picks",
+      "title": "AI has access to a vastly larger working memory than th",
+      "url": "https://news.ycombinator.com/item?id=49312845"
     }
   ]
 }

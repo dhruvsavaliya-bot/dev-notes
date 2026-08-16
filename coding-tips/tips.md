@@ -529,6 +529,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49299081
 - **Link:** https://heyjonny.dev/posts/rss-to-eink-newspaper/
 
+**Added 2026-08-16**
+
+### [AI has access to a vastly larger working memory than the human brain](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+- **Source:** davidepiffer.com | **Posted:** 2026-08-15 | **By:** rzk
+- **Community:** 491 points, 416 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49312845
+- **Link:** https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians
+
 
 ## Beginner
 
