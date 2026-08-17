@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**228 entries and counting** · Last updated: 2026-08-16
+**229 entries and counting** · Last updated: 2026-08-17
 
 ## Categories
 
@@ -11,15 +11,15 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 81 |
 | [AI / LLM Notes](ai/notes.md) | 17 |
-| [Reading List](articles/reading-list.md) | 60 |
+| [Reading List](articles/reading-list.md) | 61 |
 | [Coding Tips](coding-tips/tips.md) | 62 |
 | [Language Notes](languages/notes.md) | 8 |
 
 ## Latest additions
 
+- **2026-08-17** · *Hacker News Picks* — [Qwen 3.8 27B is excellent, but it defaults to overthink](https://news.ycombinator.com/item?id=49324985)
 - **2026-08-16** · *Web & Frontend* — [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui)
 - **2026-08-16** · *Hacker News Picks* — [AI has access to a vastly larger working memory than th](https://news.ycombinator.com/item?id=49312845)
-- **2026-08-16** · *AI Engineering* — [24 Cups, 36 Seats  The Bartender's Ledger](https://dev.to/xulingfeng/24-cups-36-seats-the-bartenders-ledger-40aj)
 
 ## How it works
 

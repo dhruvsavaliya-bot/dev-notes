@@ -234,15 +234,10 @@
     "https://news.ycombinator.com/item?id=49294997",
     "https://news.ycombinator.com/item?id=49299081",
     "https://news.ycombinator.com/item?id=49299746",
-    "https://news.ycombinator.com/item?id=49312845"
+    "https://news.ycombinator.com/item?id=49312845",
+    "https://news.ycombinator.com/item?id=49324985"
   ],
   "recent": [
-    {
-      "date": "2026-08-15",
-      "subcat": "Other Cool Projects",
-      "title": "anywhere-labs/deepseek-harness-desktop",
-      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop"
-    },
     {
       "date": "2026-08-15",
       "subcat": "Hacker News Picks",
@@ -296,6 +291,12 @@
       "subcat": "Web & Frontend",
       "title": "zhu1090093659/dsh-web-ui",
       "url": "https://github.com/zhu1090093659/dsh-web-ui"
+    },
+    {
+      "date": "2026-08-17",
+      "subcat": "Hacker News Picks",
+      "title": "Qwen 3.8 27B is excellent, but it defaults to overthink",
+      "url": "https://news.ycombinator.com/item?id=49324985"
     }
   ]
 }

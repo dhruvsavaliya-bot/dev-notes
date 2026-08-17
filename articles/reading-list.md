@@ -506,6 +506,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49294997
 - **Link:** https://z.ai/blog/glm-5.3
 
+**Added 2026-08-17**
+
+### [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
+- **Source:** simonwillison.net | **Posted:** 2026-08-16 | **By:** bilsbie
+- **Community:** 174 points, 71 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49324985
+- **Link:** https://simonwillison.net/2026/Aug/16/qwen-38-27b/
+
 
 ## DevOps & Cloud
 
