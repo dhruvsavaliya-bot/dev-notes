@@ -515,6 +515,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49324985
 - **Link:** https://simonwillison.net/2026/Aug/16/qwen-38-27b/
 
+**Added 2026-08-17**
+
+### [Protobuf has LSP support](https://buf.build/blog/protobuf-lsp)
+- **Source:** buf.build | **Posted:** 2026-08-16 | **By:** theanonymousone
+- **Community:** 155 points, 107 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49322573
+- **Link:** https://buf.build/blog/protobuf-lsp
+
 
 ## DevOps & Cloud
 

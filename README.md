@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**234 entries and counting** · Last updated: 2026-08-17
+**235 entries and counting** · Last updated: 2026-08-17
 
 ## Categories
 
@@ -11,15 +11,15 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 85 |
 | [AI / LLM Notes](ai/notes.md) | 17 |
-| [Reading List](articles/reading-list.md) | 61 |
+| [Reading List](articles/reading-list.md) | 62 |
 | [Coding Tips](coding-tips/tips.md) | 63 |
 | [Language Notes](languages/notes.md) | 8 |
 
 ## Latest additions
 
+- **2026-08-17** · *Hacker News Picks* — [Protobuf has LSP support](https://news.ycombinator.com/item?id=49322573)
 - **2026-08-17** · *Other Cool Projects* — [pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen)
 - **2026-08-17** · *AI & Machine Learning* — [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)
-- **2026-08-17** · *Other Cool Projects* — [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)
 
 ## How it works
 

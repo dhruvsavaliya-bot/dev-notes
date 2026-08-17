@@ -239,16 +239,11 @@
     "https://news.ycombinator.com/item?id=49299081",
     "https://news.ycombinator.com/item?id=49299746",
     "https://news.ycombinator.com/item?id=49312845",
+    "https://news.ycombinator.com/item?id=49322573",
     "https://news.ycombinator.com/item?id=49324985",
     "https://news.ycombinator.com/item?id=49325185"
   ],
   "recent": [
-    {
-      "date": "2026-08-15",
-      "subcat": "AI Engineering",
-      "title": "I Built a Notebook for Sharing Notes That Doesn't Ask Y",
-      "url": "https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd"
-    },
     {
       "date": "2026-08-16",
       "subcat": "AI Engineering",
@@ -302,6 +297,12 @@
       "subcat": "Other Cool Projects",
       "title": "pathwaycom/arc-task-gen",
       "url": "https://github.com/pathwaycom/arc-task-gen"
+    },
+    {
+      "date": "2026-08-17",
+      "subcat": "Hacker News Picks",
+      "title": "Protobuf has LSP support",
+      "url": "https://news.ycombinator.com/item?id=49322573"
     }
   ]
 }
