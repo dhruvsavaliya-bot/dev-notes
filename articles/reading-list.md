@@ -524,6 +524,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49322573
 - **Link:** https://buf.build/blog/protobuf-lsp
 
+**Added 2026-08-17**
+
+### [How do I permanently disable random Google Photos popup to backup photos? (2024)](https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en)
+- **Source:** support.google.com | **Posted:** 2026-08-13 | **By:** dt3ft
+- **Community:** 139 points, 87 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49290545
+- **Link:** https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en
+
 
 ## DevOps & Cloud
 

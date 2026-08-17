@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**235 entries and counting** · Last updated: 2026-08-17
+**236 entries and counting** · Last updated: 2026-08-17
 
 ## Categories
 
@@ -11,15 +11,15 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 85 |
 | [AI / LLM Notes](ai/notes.md) | 17 |
-| [Reading List](articles/reading-list.md) | 62 |
+| [Reading List](articles/reading-list.md) | 63 |
 | [Coding Tips](coding-tips/tips.md) | 63 |
 | [Language Notes](languages/notes.md) | 8 |
 
 ## Latest additions
 
+- **2026-08-17** · *Hacker News Picks* — [How do I permanently disable random Google Photos popup](https://news.ycombinator.com/item?id=49290545)
 - **2026-08-17** · *Hacker News Picks* — [Protobuf has LSP support](https://news.ycombinator.com/item?id=49322573)
 - **2026-08-17** · *Other Cool Projects* — [pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen)
-- **2026-08-17** · *AI & Machine Learning* — [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)
 
 ## How it works
 
