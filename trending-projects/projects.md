@@ -757,6 +757,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1,030 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/yjh051108/dsh-routing-suite
 
+**Added 2026-08-17**
+
+### [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)
+- **Stats:** 6,555 stars | 955 forks | 78 open issues
+- **Language:** Python | **Created:** 2026-08-13 | **License:** CC0-1.0
+- **Topics:** awesome, awesome-list, deepseek-harness, dsh, dsh-plugin
+- **What it is:** A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
+- **Growth:** averaging ~1,638 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/awesome-dsh-plugin/awesome-dsh-plugin
+
 
 ## Web & Frontend
 

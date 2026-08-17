@@ -81,6 +81,7 @@
     "https://github.com/andrewyng/openworker",
     "https://github.com/anthropics/jacobian-lens",
     "https://github.com/anywhere-labs/deepseek-harness-desktop",
+    "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
     "https://github.com/baairon/torlink",
     "https://github.com/baidu/Unlimited-OCR",
     "https://github.com/bashalarmistalt/decimen-optical-transfer",
@@ -243,12 +244,6 @@
     {
       "date": "2026-08-15",
       "subcat": "Hacker News Picks",
-      "title": "Ultraviolet Bird Photography",
-      "url": "https://news.ycombinator.com/item?id=49211375"
-    },
-    {
-      "date": "2026-08-15",
-      "subcat": "Hacker News Picks",
       "title": "GLM-5.3: Frontier coding with emergent cyber capabiliti",
       "url": "https://news.ycombinator.com/item?id=49294997"
     },
@@ -299,6 +294,12 @@
       "subcat": "Other Cool Projects",
       "title": "yjh051108/dsh-routing-suite",
       "url": "https://github.com/yjh051108/dsh-routing-suite"
+    },
+    {
+      "date": "2026-08-17",
+      "subcat": "Other Cool Projects",
+      "title": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin"
     }
   ]
 }
