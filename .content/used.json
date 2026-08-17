@@ -34,6 +34,7 @@
     "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
     "https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b",
     "https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o",
+    "https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh",
     "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
     "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3",
     "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
@@ -247,12 +248,6 @@
   "recent": [
     {
       "date": "2026-08-16",
-      "subcat": "Hacker News Picks",
-      "title": "AI has access to a vastly larger working memory than th",
-      "url": "https://news.ycombinator.com/item?id=49312845"
-    },
-    {
-      "date": "2026-08-16",
       "subcat": "Web & Frontend",
       "title": "zhu1090093659/dsh-web-ui",
       "url": "https://github.com/zhu1090093659/dsh-web-ui"
@@ -304,6 +299,12 @@
       "subcat": "Hacker News Picks",
       "title": "How do I permanently disable random Google Photos popup",
       "url": "https://news.ycombinator.com/item?id=49290545"
+    },
+    {
+      "date": "2026-08-17",
+      "subcat": "AI Engineering",
+      "title": "The Next Evolution of Software Developers",
+      "url": "https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh"
     }
   ]
 }

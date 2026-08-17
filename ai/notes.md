@@ -158,3 +158,12 @@ Lessons from building with LLMs.
 - **Tags:** career, discuss, ai, programming
 - **Summary:** 24 stories. 24 visits. One counter, same six faces.              The Third Cup   The AI wave hit, and...
 - **Link:** https://dev.to/xulingfeng/24-cups-36-seats-the-bartenders-ledger-40aj
+
+**Added 2026-08-17**
+
+### [The Next Evolution of Software Developers](https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh)
+- **Author:** Roberto B. | **Published:** Aug 12 | **Read time:** 7 min
+- **Community:** 60 reactions, 29 comments — a top post of the week in #ai
+- **Tags:** ai, learning, mentorship, software
+- **Summary:** The next evolution of software developers: from implementation to intent, orchestration, and...
+- **Link:** https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh
