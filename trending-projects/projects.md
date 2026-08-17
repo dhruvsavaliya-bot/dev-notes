@@ -364,6 +364,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~149 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/QwenLM/Qwen-MM-Plugins
 
+**Added 2026-08-17**
+
+### [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)
+- **Stats:** 3,289 stars | 103 forks | 24 open issues
+- **Language:** JavaScript | **Created:** 2026-08-14 | **License:** NOASSERTION
+- **Topics:** deepseek, deepseek-harness, dsh-plugin, llm-agent
+- **What it is:** Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)
+- **Growth:** averaging ~1,096 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/xiaobright/dsh-anchored-standard
+
 
 ## Other Cool Projects
 
