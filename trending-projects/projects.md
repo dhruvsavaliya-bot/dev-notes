@@ -777,6 +777,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1,638 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/awesome-dsh-plugin/awesome-dsh-plugin
 
+**Added 2026-08-17**
+
+### [pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen)
+- **Stats:** 3,208 stars | 17 forks | 1 open issues
+- **Language:** Python | **Created:** 2026-08-04 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.
+- **Growth:** averaging ~246 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/pathwaycom/arc-task-gen
+
 
 ## Web & Frontend
 

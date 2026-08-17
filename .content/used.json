@@ -116,6 +116,7 @@
     "https://github.com/oomol-lab/open-connector",
     "https://github.com/openai/codex-security",
     "https://github.com/oso95/scroll-world",
+    "https://github.com/pathwaycom/arc-task-gen",
     "https://github.com/penecho/penecho",
     "https://github.com/petergyang/no-ai-slop",
     "https://github.com/slvDev/esp32-ai",
@@ -244,12 +245,6 @@
   "recent": [
     {
       "date": "2026-08-15",
-      "subcat": "Hacker News Picks",
-      "title": "I turned my RSS feeds into an e-ink newspaper to stop r",
-      "url": "https://news.ycombinator.com/item?id=49299081"
-    },
-    {
-      "date": "2026-08-15",
       "subcat": "AI Engineering",
       "title": "I Built a Notebook for Sharing Notes That Doesn't Ask Y",
       "url": "https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd"
@@ -301,6 +296,12 @@
       "subcat": "AI & Machine Learning",
       "title": "xiaobright/dsh-anchored-standard",
       "url": "https://github.com/xiaobright/dsh-anchored-standard"
+    },
+    {
+      "date": "2026-08-17",
+      "subcat": "Other Cool Projects",
+      "title": "pathwaycom/arc-task-gen",
+      "url": "https://github.com/pathwaycom/arc-task-gen"
     }
   ]
 }
