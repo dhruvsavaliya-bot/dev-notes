@@ -130,6 +130,7 @@
     "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
     "https://github.com/xuchonglang/investing-for-beginners",
     "https://github.com/yc-software/qm",
+    "https://github.com/yjh051108/dsh-routing-suite",
     "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
     "https://github.com/yynxxxxx/Codex-X",
     "https://github.com/zhu1090093659/dsh-web-ui",
@@ -241,12 +242,6 @@
   "recent": [
     {
       "date": "2026-08-15",
-      "subcat": "AI & Machine Learning",
-      "title": "QwenLM/Qwen-MM-Plugins",
-      "url": "https://github.com/QwenLM/Qwen-MM-Plugins"
-    },
-    {
-      "date": "2026-08-15",
       "subcat": "Hacker News Picks",
       "title": "Ultraviolet Bird Photography",
       "url": "https://news.ycombinator.com/item?id=49211375"
@@ -298,6 +293,12 @@
       "subcat": "Hacker News Picks",
       "title": "The Life and Death of Direct File [pdf]",
       "url": "https://news.ycombinator.com/item?id=49325185"
+    },
+    {
+      "date": "2026-08-17",
+      "subcat": "Other Cool Projects",
+      "title": "yjh051108/dsh-routing-suite",
+      "url": "https://github.com/yjh051108/dsh-routing-suite"
     }
   ]
 }

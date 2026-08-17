@@ -747,6 +747,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1,342 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/anywhere-labs/deepseek-harness-desktop
 
+**Added 2026-08-17**
+
+### [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)
+- **Stats:** 3,091 stars | 75 forks | 32 open issues
+- **Language:** PowerShell | **Created:** 2026-08-14 | **License:** None
+- **Topics:** none listed
+- **What it is:** dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
+- **Growth:** averaging ~1,030 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/yjh051108/dsh-routing-suite
+
 
 ## Web & Frontend
 
