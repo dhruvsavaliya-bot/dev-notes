@@ -235,15 +235,10 @@
     "https://news.ycombinator.com/item?id=49299081",
     "https://news.ycombinator.com/item?id=49299746",
     "https://news.ycombinator.com/item?id=49312845",
-    "https://news.ycombinator.com/item?id=49324985"
+    "https://news.ycombinator.com/item?id=49324985",
+    "https://news.ycombinator.com/item?id=49325185"
   ],
   "recent": [
-    {
-      "date": "2026-08-15",
-      "subcat": "Hacker News Picks",
-      "title": "Introducing Toast 1",
-      "url": "https://news.ycombinator.com/item?id=49299746"
-    },
     {
       "date": "2026-08-15",
       "subcat": "AI & Machine Learning",
@@ -297,6 +292,12 @@
       "subcat": "Hacker News Picks",
       "title": "Qwen 3.8 27B is excellent, but it defaults to overthink",
       "url": "https://news.ycombinator.com/item?id=49324985"
+    },
+    {
+      "date": "2026-08-17",
+      "subcat": "Hacker News Picks",
+      "title": "The Life and Death of Direct File [pdf]",
+      "url": "https://news.ycombinator.com/item?id=49325185"
     }
   ]
 }

@@ -538,6 +538,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49312845
 - **Link:** https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians
 
+**Added 2026-08-17**
+
+### [The Life and Death of Direct File [pdf]](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf)
+- **Source:** www.ischool.berkeley.edu | **Posted:** 2026-08-17 | **By:** ronbenton
+- **Community:** 142 points, 64 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49325185
+- **Link:** https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf
+
 
 ## Beginner
 
