@@ -248,15 +248,10 @@
     "https://news.ycombinator.com/item?id=49329575",
     "https://news.ycombinator.com/item?id=49331033",
     "https://news.ycombinator.com/item?id=49331423",
+    "https://news.ycombinator.com/item?id=49336304",
     "https://news.ycombinator.com/item?id=49338328"
   ],
   "recent": [
-    {
-      "date": "2026-08-17",
-      "subcat": "AI & Machine Learning",
-      "title": "xiaobright/dsh-anchored-standard",
-      "url": "https://github.com/xiaobright/dsh-anchored-standard"
-    },
     {
       "date": "2026-08-17",
       "subcat": "Other Cool Projects",
@@ -310,6 +305,12 @@
       "subcat": "LLMs",
       "title": "The End of Undetectable AI Text? Claudes New Watermark ",
       "url": "https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2"
+    },
+    {
+      "date": "2026-08-18",
+      "subcat": "Hacker News Picks",
+      "title": "India has paved the way for charging merchants a fee on",
+      "url": "https://news.ycombinator.com/item?id=49336304"
     }
   ]
 }

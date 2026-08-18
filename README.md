@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**242 entries and counting** · Last updated: 2026-08-18
+**243 entries and counting** · Last updated: 2026-08-18
 
 ## Categories
 
@@ -11,15 +11,15 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 85 |
 | [AI / LLM Notes](ai/notes.md) | 19 |
-| [Reading List](articles/reading-list.md) | 64 |
+| [Reading List](articles/reading-list.md) | 65 |
 | [Coding Tips](coding-tips/tips.md) | 66 |
 | [Language Notes](languages/notes.md) | 8 |
 
 ## Latest additions
 
+- **2026-08-18** · *Hacker News Picks* — [India has paved the way for charging merchants a fee on](https://news.ycombinator.com/item?id=49336304)
 - **2026-08-18** · *LLMs* — [The End of Undetectable AI Text? Claudes New Watermark ](https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2)
 - **2026-08-18** · *Hacker News Picks* — [GPT 5.6 Sol is the best "vision" model OpenAI ever rele](https://news.ycombinator.com/item?id=49329575)
-- **2026-08-18** · *Hacker News Picks* — [AI-Generated GitHub Copilot Autofix Allowed Compromise ](https://news.ycombinator.com/item?id=49331423)
 
 ## How it works
 

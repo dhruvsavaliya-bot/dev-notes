@@ -542,6 +542,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49338328
 - **Link:** https://fabiensanglard.net/quake_shareware_cd/index.html
 
+**Added 2026-08-18**
+
+### [India has paved the way for charging merchants a fee on UPI transactions](https://www.bbc.com/news/articles/c8xnwqe00v1o)
+- **Source:** www.bbc.com | **Posted:** 2026-08-17 | **By:** monkey_monkey
+- **Community:** 147 points, 177 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49336304
+- **Link:** https://www.bbc.com/news/articles/c8xnwqe00v1o
+
 
 ## DevOps & Cloud
 
