@@ -244,17 +244,12 @@
     "https://news.ycombinator.com/item?id=49322573",
     "https://news.ycombinator.com/item?id=49324985",
     "https://news.ycombinator.com/item?id=49325185",
+    "https://news.ycombinator.com/item?id=49329575",
     "https://news.ycombinator.com/item?id=49331033",
     "https://news.ycombinator.com/item?id=49331423",
     "https://news.ycombinator.com/item?id=49338328"
   ],
   "recent": [
-    {
-      "date": "2026-08-17",
-      "subcat": "Other Cool Projects",
-      "title": "yjh051108/dsh-routing-suite",
-      "url": "https://github.com/yjh051108/dsh-routing-suite"
-    },
     {
       "date": "2026-08-17",
       "subcat": "Other Cool Projects",
@@ -308,6 +303,12 @@
       "subcat": "Hacker News Picks",
       "title": "AI-Generated GitHub Copilot Autofix Allowed Compromise ",
       "url": "https://news.ycombinator.com/item?id=49331423"
+    },
+    {
+      "date": "2026-08-18",
+      "subcat": "Hacker News Picks",
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever rele",
+      "url": "https://news.ycombinator.com/item?id=49329575"
     }
   ]
 }
