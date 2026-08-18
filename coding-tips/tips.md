@@ -574,6 +574,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49329575
 - **Link:** https://blog.roboflow.com/openai-gpt-5-6/
 
+**Added 2026-08-18**
+
+### [GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759)
+- **Source:** arxiv.org | **Posted:** 2026-08-17 | **By:** linggen
+- **Community:** 216 points, 44 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49334991
+- **Link:** https://arxiv.org/abs/2608.13759
+
 
 ## Beginner
 
