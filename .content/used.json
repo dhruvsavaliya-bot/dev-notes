@@ -251,15 +251,10 @@
     "https://news.ycombinator.com/item?id=49331423",
     "https://news.ycombinator.com/item?id=49334991",
     "https://news.ycombinator.com/item?id=49336304",
+    "https://news.ycombinator.com/item?id=49336573",
     "https://news.ycombinator.com/item?id=49338328"
   ],
   "recent": [
-    {
-      "date": "2026-08-17",
-      "subcat": "Hacker News Picks",
-      "title": "How do I permanently disable random Google Photos popup",
-      "url": "https://news.ycombinator.com/item?id=49290545"
-    },
     {
       "date": "2026-08-17",
       "subcat": "AI Engineering",
@@ -313,6 +308,12 @@
       "subcat": "Productivity",
       "title": "Git Gud!",
       "url": "https://dev.to/francistrdev/git-gud-4e6g"
+    },
+    {
+      "date": "2026-08-18",
+      "subcat": "Hacker News Picks",
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://news.ycombinator.com/item?id=49336573"
     }
   ]
 }

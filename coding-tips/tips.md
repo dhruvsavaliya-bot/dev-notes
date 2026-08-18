@@ -592,6 +592,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49334991
 - **Link:** https://arxiv.org/abs/2608.13759
 
+**Added 2026-08-18**
+
+### [AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
+- **Source:** www.rickmanelius.com | **Posted:** 2026-08-17 | **By:** mooreds
+- **Community:** 955 points, 582 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49336573
+- **Link:** https://www.rickmanelius.com/p/aidr-ai-didnt-read
+
 
 ## Beginner
 
