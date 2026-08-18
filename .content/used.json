@@ -243,15 +243,10 @@
     "https://news.ycombinator.com/item?id=49312845",
     "https://news.ycombinator.com/item?id=49322573",
     "https://news.ycombinator.com/item?id=49324985",
-    "https://news.ycombinator.com/item?id=49325185"
+    "https://news.ycombinator.com/item?id=49325185",
+    "https://news.ycombinator.com/item?id=49331033"
   ],
   "recent": [
-    {
-      "date": "2026-08-16",
-      "subcat": "Web & Frontend",
-      "title": "zhu1090093659/dsh-web-ui",
-      "url": "https://github.com/zhu1090093659/dsh-web-ui"
-    },
     {
       "date": "2026-08-17",
       "subcat": "Hacker News Picks",
@@ -305,6 +300,12 @@
       "subcat": "AI Engineering",
       "title": "The Next Evolution of Software Developers",
       "url": "https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh"
+    },
+    {
+      "date": "2026-08-18",
+      "subcat": "Hacker News Picks",
+      "title": "Ask HN: Alternatives to GitHub",
+      "url": "https://news.ycombinator.com/item?id=49331033"
     }
   ]
 }

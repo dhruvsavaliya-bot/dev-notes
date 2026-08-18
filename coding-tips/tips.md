@@ -547,6 +547,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49325185
 - **Link:** https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf
 
+**Added 2026-08-18**
+
+### [Ask HN: Alternatives to GitHub](https://news.ycombinator.com/item?id=49331033)
+- **Source:** news.ycombinator.com | **Posted:** 2026-08-17 | **By:** dhruv3006
+- **Community:** 524 points, 334 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49331033
+- **Link:** https://news.ycombinator.com/item?id=49331033
+
 
 ## Beginner
 
