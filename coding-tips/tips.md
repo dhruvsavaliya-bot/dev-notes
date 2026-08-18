@@ -556,6 +556,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49331033
 - **Link:** https://news.ycombinator.com/item?id=49331033
 
+**Added 2026-08-18**
+
+### [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+- **Source:** www.wiz.io | **Posted:** 2026-08-17 | **By:** galnagli
+- **Community:** 351 points, 137 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49331423
+- **Link:** https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug
+
 
 ## Beginner
 
