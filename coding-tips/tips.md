@@ -76,6 +76,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** Most enterprises already run their operations on ServiceNow. The question isn't "should we use...
 - **Link:** https://dev.to/tooljet/how-to-integrate-tooljet-with-servicenow-for-enhanced-operations-1h1j
 
+**Added 2026-08-18**
+
+### [Git Gud!](https://dev.to/francistrdev/git-gud-4e6g)
+- **Author:** FrancisTRᴅᴇᴠ (っ◔◡◔)っ | **Published:** Aug 17 | **Read time:** 7 min
+- **Community:** 54 reactions, 16 comments — a top post of the week in #productivity
+- **Tags:** discuss, community, git, productivity
+- **Summary:** You heard me.    Alright, that was mean lol. Though based on the title, you probably already knew the...
+- **Link:** https://dev.to/francistrdev/git-gud-4e6g
+
 
 ## Hacker News Picks
 

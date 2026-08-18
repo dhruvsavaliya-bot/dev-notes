@@ -14,6 +14,7 @@
     "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1",
     "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
     "https://dev.to/francistrdev/choose-your-burden-4dgl",
+    "https://dev.to/francistrdev/git-gud-4e6g",
     "https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p",
     "https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd",
     "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i",
@@ -256,12 +257,6 @@
     {
       "date": "2026-08-17",
       "subcat": "Hacker News Picks",
-      "title": "Protobuf has LSP support",
-      "url": "https://news.ycombinator.com/item?id=49322573"
-    },
-    {
-      "date": "2026-08-17",
-      "subcat": "Hacker News Picks",
       "title": "How do I permanently disable random Google Photos popup",
       "url": "https://news.ycombinator.com/item?id=49290545"
     },
@@ -312,6 +307,12 @@
       "subcat": "Hacker News Picks",
       "title": "GPU Offload in Rust: Portable, Safe, and Fast",
       "url": "https://news.ycombinator.com/item?id=49334991"
+    },
+    {
+      "date": "2026-08-18",
+      "subcat": "Productivity",
+      "title": "Git Gud!",
+      "url": "https://dev.to/francistrdev/git-gud-4e6g"
     }
   ]
 }
