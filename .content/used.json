@@ -38,6 +38,7 @@
     "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
     "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3",
     "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
+    "https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2",
     "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
     "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
     "https://dev.to/tooljet/how-to-integrate-tooljet-with-servicenow-for-enhanced-operations-1h1j",
@@ -252,12 +253,6 @@
   "recent": [
     {
       "date": "2026-08-17",
-      "subcat": "Other Cool Projects",
-      "title": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin"
-    },
-    {
-      "date": "2026-08-17",
       "subcat": "AI & Machine Learning",
       "title": "xiaobright/dsh-anchored-standard",
       "url": "https://github.com/xiaobright/dsh-anchored-standard"
@@ -309,6 +304,12 @@
       "subcat": "Hacker News Picks",
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever rele",
       "url": "https://news.ycombinator.com/item?id=49329575"
+    },
+    {
+      "date": "2026-08-18",
+      "subcat": "LLMs",
+      "title": "The End of Undetectable AI Text? Claudes New Watermark ",
+      "url": "https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2"
     }
   ]
 }

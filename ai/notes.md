@@ -167,3 +167,14 @@ Lessons from building with LLMs.
 - **Tags:** ai, learning, mentorship, software
 - **Summary:** The next evolution of software developers: from implementation to intent, orchestration, and...
 - **Link:** https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh
+
+## LLMs
+
+**Added 2026-08-18**
+
+### [The End of Undetectable AI Text? Claude’s New Watermark Explained](https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2)
+- **Author:** Sylwia Laskowska | **Published:** Aug 11 | **Read time:** 6 min
+- **Community:** 138 reactions, 92 comments — a top post of the week in #llm
+- **Tags:** ai, llm, news
+- **Summary:** For the past few hours, the whole world,&nbsp; or at least my LinkedIn feed,&nbsp;has been talking...
+- **Link:** https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2
