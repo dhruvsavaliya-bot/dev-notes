@@ -244,15 +244,10 @@
     "https://news.ycombinator.com/item?id=49322573",
     "https://news.ycombinator.com/item?id=49324985",
     "https://news.ycombinator.com/item?id=49325185",
-    "https://news.ycombinator.com/item?id=49331033"
+    "https://news.ycombinator.com/item?id=49331033",
+    "https://news.ycombinator.com/item?id=49338328"
   ],
   "recent": [
-    {
-      "date": "2026-08-17",
-      "subcat": "Hacker News Picks",
-      "title": "Qwen 3.8 27B is excellent, but it defaults to overthink",
-      "url": "https://news.ycombinator.com/item?id=49324985"
-    },
     {
       "date": "2026-08-17",
       "subcat": "Hacker News Picks",
@@ -306,6 +301,12 @@
       "subcat": "Hacker News Picks",
       "title": "Ask HN: Alternatives to GitHub",
       "url": "https://news.ycombinator.com/item?id=49331033"
+    },
+    {
+      "date": "2026-08-18",
+      "subcat": "Hacker News Picks",
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "url": "https://news.ycombinator.com/item?id=49338328"
     }
   ]
 }

@@ -533,6 +533,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49290545
 - **Link:** https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en
 
+**Added 2026-08-18**
+
+### [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
+- **Source:** fabiensanglard.net | **Posted:** 2026-08-17 | **By:** shdon
+- **Community:** 236 points, 107 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49338328
+- **Link:** https://fabiensanglard.net/quake_shareware_cd/index.html
+
 
 ## DevOps & Cloud
 
