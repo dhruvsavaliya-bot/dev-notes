@@ -37,6 +37,7 @@
     "https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o",
     "https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh",
     "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
+    "https://dev.to/sylwia-lask/7-productivity-tips-that-sound-wrong-but-actually-work-5602",
     "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3",
     "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
     "https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2",
@@ -259,12 +260,6 @@
     {
       "date": "2026-08-18",
       "subcat": "Hacker News Picks",
-      "title": "Ask HN: Alternatives to GitHub",
-      "url": "https://news.ycombinator.com/item?id=49331033"
-    },
-    {
-      "date": "2026-08-18",
-      "subcat": "Hacker News Picks",
       "title": "Quake Shareware, a CD-ROM just a little too full",
       "url": "https://news.ycombinator.com/item?id=49338328"
     },
@@ -315,6 +310,12 @@
       "subcat": "AI & Machine Learning",
       "title": "dmmulroy/anti-slop",
       "url": "https://github.com/dmmulroy/anti-slop"
+    },
+    {
+      "date": "2026-08-19",
+      "subcat": "Productivity",
+      "title": "7 Productivity Tips That Sound Wrong (But Actually Work",
+      "url": "https://dev.to/sylwia-lask/7-productivity-tips-that-sound-wrong-but-actually-work-5602"
     }
   ]
 }

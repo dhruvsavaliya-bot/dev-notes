@@ -85,6 +85,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** You heard me.    Alright, that was mean lol. Though based on the title, you probably already knew the...
 - **Link:** https://dev.to/francistrdev/git-gud-4e6g
 
+**Added 2026-08-19**
+
+### [7 Productivity Tips That Sound Wrong (But Actually Work)](https://dev.to/sylwia-lask/7-productivity-tips-that-sound-wrong-but-actually-work-5602)
+- **Author:** Sylwia Laskowska | **Published:** Aug 18 | **Read time:** 7 min
+- **Community:** 53 reactions, 29 comments — a top post of the week in #productivity
+- **Tags:** productivity, mentalhealth, career
+- **Summary:** Struggling with burnout? Procrastination? Reaching your goals? Let me share a few methods that help...
+- **Link:** https://dev.to/sylwia-lask/7-productivity-tips-that-sound-wrong-but-actually-work-5602
+
 
 ## Hacker News Picks
 
