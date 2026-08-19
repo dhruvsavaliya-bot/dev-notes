@@ -96,6 +96,7 @@
     "https://github.com/deepseek-ai/DeepSpec",
     "https://github.com/deepseek-ai/deepseek-harness",
     "https://github.com/digimata/quill",
+    "https://github.com/dmmulroy/anti-slop",
     "https://github.com/drumih/turbo-fieldfare",
     "https://github.com/elder-plinius/T3MP3ST",
     "https://github.com/firecrawl/anydoc",
@@ -256,12 +257,6 @@
   ],
   "recent": [
     {
-      "date": "2026-08-17",
-      "subcat": "AI Engineering",
-      "title": "The Next Evolution of Software Developers",
-      "url": "https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh"
-    },
-    {
       "date": "2026-08-18",
       "subcat": "Hacker News Picks",
       "title": "Ask HN: Alternatives to GitHub",
@@ -314,6 +309,12 @@
       "subcat": "Hacker News Picks",
       "title": "AI;DR (AI; Didn't Read)",
       "url": "https://news.ycombinator.com/item?id=49336573"
+    },
+    {
+      "date": "2026-08-19",
+      "subcat": "AI & Machine Learning",
+      "title": "dmmulroy/anti-slop",
+      "url": "https://github.com/dmmulroy/anti-slop"
     }
   ]
 }

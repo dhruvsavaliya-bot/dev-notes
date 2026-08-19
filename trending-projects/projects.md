@@ -374,6 +374,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1,096 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/xiaobright/dsh-anchored-standard
 
+**Added 2026-08-19**
+
+### [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop)
+- **Stats:** 2,662 stars | 49 forks | 2 open issues
+- **Language:** TypeScript | **Created:** 2026-08-12 | **License:** MIT
+- **Topics:** agent-skills, linting, oxlint, typescript
+- **What it is:** Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
+- **Growth:** averaging ~380 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/dmmulroy/anti-slop
+
 
 ## Other Cool Projects
 
