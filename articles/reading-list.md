@@ -560,6 +560,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49321298
 - **Link:** https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/
 
+**Added 2026-08-19**
+
+### [Scientists stunned by children's lung recovery in ultra low emission zone](https://www.bbc.com/news/articles/c1l1r1zne1ro)
+- **Source:** www.bbc.com | **Posted:** 2026-08-19 | **By:** dabinat
+- **Community:** 247 points, 179 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49355105
+- **Link:** https://www.bbc.com/news/articles/c1l1r1zne1ro
+
 
 ## DevOps & Cloud
 

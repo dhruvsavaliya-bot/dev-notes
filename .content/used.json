@@ -256,15 +256,10 @@
     "https://news.ycombinator.com/item?id=49334991",
     "https://news.ycombinator.com/item?id=49336304",
     "https://news.ycombinator.com/item?id=49336573",
-    "https://news.ycombinator.com/item?id=49338328"
+    "https://news.ycombinator.com/item?id=49338328",
+    "https://news.ycombinator.com/item?id=49355105"
   ],
   "recent": [
-    {
-      "date": "2026-08-18",
-      "subcat": "Hacker News Picks",
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever rele",
-      "url": "https://news.ycombinator.com/item?id=49329575"
-    },
     {
       "date": "2026-08-18",
       "subcat": "LLMs",
@@ -318,6 +313,12 @@
       "subcat": "LLMs",
       "title": "The \"AI\" Badge Doesn't Measure What You Think It Does",
       "url": "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9"
+    },
+    {
+      "date": "2026-08-19",
+      "subcat": "Hacker News Picks",
+      "title": "Scientists stunned by children's lung recovery in ultra",
+      "url": "https://news.ycombinator.com/item?id=49355105"
     }
   ]
 }

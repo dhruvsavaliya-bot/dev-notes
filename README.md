@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**250 entries and counting** · Last updated: 2026-08-19
+**251 entries and counting** · Last updated: 2026-08-19
 
 ## Categories
 
@@ -11,15 +11,15 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 86 |
 | [AI / LLM Notes](ai/notes.md) | 20 |
-| [Reading List](articles/reading-list.md) | 66 |
+| [Reading List](articles/reading-list.md) | 67 |
 | [Coding Tips](coding-tips/tips.md) | 70 |
 | [Language Notes](languages/notes.md) | 8 |
 
 ## Latest additions
 
+- **2026-08-19** · *Hacker News Picks* — [Scientists stunned by children's lung recovery in ultra](https://news.ycombinator.com/item?id=49355105)
 - **2026-08-19** · *LLMs* — [The "AI" Badge Doesn't Measure What You Think It Does](https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9)
 - **2026-08-19** · *Hacker News Picks* — [Being ambitious and being a dad](https://news.ycombinator.com/item?id=49321298)
-- **2026-08-19** · *Productivity* — [7 Productivity Tips That Sound Wrong (But Actually Work](https://dev.to/sylwia-lask/7-productivity-tips-that-sound-wrong-but-actually-work-5602)
 
 ## How it works
 
