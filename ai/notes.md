@@ -178,3 +178,12 @@ Lessons from building with LLMs.
 - **Tags:** ai, llm, news
 - **Summary:** For the past few hours, the whole world,&nbsp; or at least my LinkedIn feed,&nbsp;has been talking...
 - **Link:** https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2
+
+**Added 2026-08-19**
+
+### [The "AI" Badge Doesn't Measure What You Think It Does](https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9)
+- **Author:** Pascal CESCATO | **Published:** Aug 15 | **Read time:** 7 min
+- **Community:** 72 reactions, 76 comments — a top post of the week in #llm
+- **Tags:** ai, llm, writing, discuss
+- **Summary:** Anthropic signed the EU AI Act's Code of Practice on Transparency of AI-Generated Content, and...
+- **Link:** https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9

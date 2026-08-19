@@ -34,6 +34,7 @@
     "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
     "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
     "https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b",
+    "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9",
     "https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o",
     "https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh",
     "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
@@ -261,12 +262,6 @@
     {
       "date": "2026-08-18",
       "subcat": "Hacker News Picks",
-      "title": "AI-Generated GitHub Copilot Autofix Allowed Compromise ",
-      "url": "https://news.ycombinator.com/item?id=49331423"
-    },
-    {
-      "date": "2026-08-18",
-      "subcat": "Hacker News Picks",
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever rele",
       "url": "https://news.ycombinator.com/item?id=49329575"
     },
@@ -317,6 +312,12 @@
       "subcat": "Hacker News Picks",
       "title": "Being ambitious and being a dad",
       "url": "https://news.ycombinator.com/item?id=49321298"
+    },
+    {
+      "date": "2026-08-19",
+      "subcat": "LLMs",
+      "title": "The \"AI\" Badge Doesn't Measure What You Think It Does",
+      "url": "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9"
     }
   ]
 }
