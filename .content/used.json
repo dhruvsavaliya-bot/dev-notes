@@ -245,6 +245,7 @@
     "https://news.ycombinator.com/item?id=49299081",
     "https://news.ycombinator.com/item?id=49299746",
     "https://news.ycombinator.com/item?id=49312845",
+    "https://news.ycombinator.com/item?id=49321298",
     "https://news.ycombinator.com/item?id=49322573",
     "https://news.ycombinator.com/item?id=49324985",
     "https://news.ycombinator.com/item?id=49325185",
@@ -257,12 +258,6 @@
     "https://news.ycombinator.com/item?id=49338328"
   ],
   "recent": [
-    {
-      "date": "2026-08-18",
-      "subcat": "Hacker News Picks",
-      "title": "Quake Shareware, a CD-ROM just a little too full",
-      "url": "https://news.ycombinator.com/item?id=49338328"
-    },
     {
       "date": "2026-08-18",
       "subcat": "Hacker News Picks",
@@ -316,6 +311,12 @@
       "subcat": "Productivity",
       "title": "7 Productivity Tips That Sound Wrong (But Actually Work",
       "url": "https://dev.to/sylwia-lask/7-productivity-tips-that-sound-wrong-but-actually-work-5602"
+    },
+    {
+      "date": "2026-08-19",
+      "subcat": "Hacker News Picks",
+      "title": "Being ambitious and being a dad",
+      "url": "https://news.ycombinator.com/item?id=49321298"
     }
   ]
 }

@@ -551,6 +551,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49336304
 - **Link:** https://www.bbc.com/news/articles/c8xnwqe00v1o
 
+**Added 2026-08-19**
+
+### [Being ambitious and being a dad](https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/)
+- **Source:** nicholascharriere.com | **Posted:** 2026-08-16 | **By:** nichochar
+- **Community:** 400 points, 241 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49321298
+- **Link:** https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/
+
 
 ## DevOps & Cloud
 
