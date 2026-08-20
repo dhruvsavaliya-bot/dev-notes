@@ -628,6 +628,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49361279
 - **Link:** https://www.raphaelbauer.com:443/posts/postgresql-everything/
 
+**Added 2026-08-20**
+
+### [Air Theremin – A browser theremin you play by waving at your webcam](https://theremin.bizibah.com/)
+- **Source:** theremin.bizibah.com | **Posted:** 2026-08-19 | **By:** gurov
+- **Community:** 271 points, 92 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49359425
+- **Link:** https://theremin.bizibah.com/
+
 
 ## Beginner
 

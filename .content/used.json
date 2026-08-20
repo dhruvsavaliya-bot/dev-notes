@@ -259,16 +259,11 @@
     "https://news.ycombinator.com/item?id=49336573",
     "https://news.ycombinator.com/item?id=49338328",
     "https://news.ycombinator.com/item?id=49355105",
+    "https://news.ycombinator.com/item?id=49359425",
     "https://news.ycombinator.com/item?id=49361279",
     "https://news.ycombinator.com/item?id=49362401"
   ],
   "recent": [
-    {
-      "date": "2026-08-18",
-      "subcat": "Productivity",
-      "title": "Git Gud!",
-      "url": "https://dev.to/francistrdev/git-gud-4e6g"
-    },
     {
       "date": "2026-08-18",
       "subcat": "Hacker News Picks",
@@ -322,6 +317,12 @@
       "subcat": "Hacker News Picks",
       "title": "PostgreSQL for Everything",
       "url": "https://news.ycombinator.com/item?id=49361279"
+    },
+    {
+      "date": "2026-08-20",
+      "subcat": "Hacker News Picks",
+      "title": "Air Theremin  A browser theremin you play by waving at ",
+      "url": "https://news.ycombinator.com/item?id=49359425"
     }
   ]
 }
