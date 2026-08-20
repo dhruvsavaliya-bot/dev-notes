@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**256 entries and counting** · Last updated: 2026-08-20
+**257 entries and counting** · Last updated: 2026-08-20
 
 ## Categories
 
@@ -12,14 +12,14 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 | [Trending Projects](trending-projects/projects.md) | 87 |
 | [AI / LLM Notes](ai/notes.md) | 20 |
 | [Reading List](articles/reading-list.md) | 67 |
-| [Coding Tips](coding-tips/tips.md) | 74 |
+| [Coding Tips](coding-tips/tips.md) | 75 |
 | [Language Notes](languages/notes.md) | 8 |
 
 ## Latest additions
 
+- **2026-08-20** · *Hacker News Picks* — [Manabu Kosaka's Handmade Paper Sculptures](https://news.ycombinator.com/item?id=49362001)
 - **2026-08-20** · *Hacker News Picks* — [Unlocking a locked/deactivated e-waste Cricut Maker](https://news.ycombinator.com/item?id=49365841)
 - **2026-08-20** · *Hacker News Picks* — [Air Theremin  A browser theremin you play by waving at ](https://news.ycombinator.com/item?id=49359425)
-- **2026-08-20** · *Hacker News Picks* — [PostgreSQL for Everything](https://news.ycombinator.com/item?id=49361279)
 
 ## How it works
 

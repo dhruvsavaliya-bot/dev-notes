@@ -646,6 +646,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49365841
 - **Link:** https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/
 
+**Added 2026-08-20**
+
+### [Manabu Kosaka's Handmade Paper Sculptures](https://coca11272000.wixsite.com/manabukosaka)
+- **Source:** coca11272000.wixsite.com | **Posted:** 2026-08-19 | **By:** surprisetalk
+- **Community:** 147 points, 19 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49362001
+- **Link:** https://coca11272000.wixsite.com/manabukosaka
+
 
 ## Beginner
 

@@ -261,16 +261,11 @@
     "https://news.ycombinator.com/item?id=49355105",
     "https://news.ycombinator.com/item?id=49359425",
     "https://news.ycombinator.com/item?id=49361279",
+    "https://news.ycombinator.com/item?id=49362001",
     "https://news.ycombinator.com/item?id=49362401",
     "https://news.ycombinator.com/item?id=49365841"
   ],
   "recent": [
-    {
-      "date": "2026-08-19",
-      "subcat": "AI & Machine Learning",
-      "title": "dmmulroy/anti-slop",
-      "url": "https://github.com/dmmulroy/anti-slop"
-    },
     {
       "date": "2026-08-19",
       "subcat": "Productivity",
@@ -324,6 +319,12 @@
       "subcat": "Hacker News Picks",
       "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
       "url": "https://news.ycombinator.com/item?id=49365841"
+    },
+    {
+      "date": "2026-08-20",
+      "subcat": "Hacker News Picks",
+      "title": "Manabu Kosaka's Handmade Paper Sculptures",
+      "url": "https://news.ycombinator.com/item?id=49362001"
     }
   ]
 }
