@@ -610,6 +610,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49336573
 - **Link:** https://www.rickmanelius.com/p/aidr-ai-didnt-read
 
+**Added 2026-08-20**
+
+### [Ornith-1.5: From Self-Scaffolding to Self-Improvement](https://ornith.ai/ornith_1_5.html)
+- **Source:** ornith.ai | **Posted:** 2026-08-19 | **By:** CommonGuy
+- **Community:** 180 points, 60 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49362401
+- **Link:** https://ornith.ai/ornith_1_5.html
+
 
 ## Beginner
 

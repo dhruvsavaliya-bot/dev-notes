@@ -258,15 +258,10 @@
     "https://news.ycombinator.com/item?id=49336304",
     "https://news.ycombinator.com/item?id=49336573",
     "https://news.ycombinator.com/item?id=49338328",
-    "https://news.ycombinator.com/item?id=49355105"
+    "https://news.ycombinator.com/item?id=49355105",
+    "https://news.ycombinator.com/item?id=49362401"
   ],
   "recent": [
-    {
-      "date": "2026-08-18",
-      "subcat": "Hacker News Picks",
-      "title": "India has paved the way for charging merchants a fee on",
-      "url": "https://news.ycombinator.com/item?id=49336304"
-    },
     {
       "date": "2026-08-18",
       "subcat": "Hacker News Picks",
@@ -320,6 +315,12 @@
       "subcat": "AI & Machine Learning",
       "title": "Tiger3807861189/J-Space-Cognition-Suite-V3.6",
       "url": "https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6"
+    },
+    {
+      "date": "2026-08-20",
+      "subcat": "Hacker News Picks",
+      "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+      "url": "https://news.ycombinator.com/item?id=49362401"
     }
   ]
 }
