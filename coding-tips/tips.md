@@ -619,6 +619,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49362401
 - **Link:** https://ornith.ai/ornith_1_5.html
 
+**Added 2026-08-20**
+
+### [PostgreSQL for Everything](https://www.raphaelbauer.com:443/posts/postgresql-everything/)
+- **Source:** www.raphaelbauer.com:443 | **Posted:** 2026-08-19 | **By:** karlmush
+- **Community:** 341 points, 210 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49361279
+- **Link:** https://www.raphaelbauer.com:443/posts/postgresql-everything/
+
 
 ## Beginner
 

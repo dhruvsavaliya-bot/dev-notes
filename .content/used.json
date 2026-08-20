@@ -259,15 +259,10 @@
     "https://news.ycombinator.com/item?id=49336573",
     "https://news.ycombinator.com/item?id=49338328",
     "https://news.ycombinator.com/item?id=49355105",
+    "https://news.ycombinator.com/item?id=49361279",
     "https://news.ycombinator.com/item?id=49362401"
   ],
   "recent": [
-    {
-      "date": "2026-08-18",
-      "subcat": "Hacker News Picks",
-      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-      "url": "https://news.ycombinator.com/item?id=49334991"
-    },
     {
       "date": "2026-08-18",
       "subcat": "Productivity",
@@ -321,6 +316,12 @@
       "subcat": "Hacker News Picks",
       "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
       "url": "https://news.ycombinator.com/item?id=49362401"
+    },
+    {
+      "date": "2026-08-20",
+      "subcat": "Hacker News Picks",
+      "title": "PostgreSQL for Everything",
+      "url": "https://news.ycombinator.com/item?id=49361279"
     }
   ]
 }
