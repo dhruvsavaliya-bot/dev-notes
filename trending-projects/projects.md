@@ -384,6 +384,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~380 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/dmmulroy/anti-slop
 
+**Added 2026-08-20**
+
+### [Tiger3807861189/J-Space-Cognition-Suite-V3.6](https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6)
+- **Stats:** 2,843 stars | 186 forks | 35 open issues
+- **Language:** Python | **Created:** 2026-07-22 | **License:** Apache-2.0
+- **Topics:** agent-skills, ai, ai-agent, ai-agents, claude-code, codex
+- **What it is:** J-Space Cognition Suite V3.6 - AI cognitive-enhancement Skills based on Anthropic's J-space global workspace research. | 哔哩哔哩：Tiger380 (UID 3494375382321675) — https://space.bilibili.com/3494375382321675
+- **Growth:** averaging ~98 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6
+
 
 ## Other Cool Projects
 

@@ -77,6 +77,7 @@
     "https://github.com/QwenLM/Qwen-MM-Plugins",
     "https://github.com/Sahir619/fable-method",
     "https://github.com/Shpigford/knockoff",
+    "https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6",
     "https://github.com/Vincentwei1021/video-shotcraft",
     "https://github.com/Waishnav/devspace",
     "https://github.com/Younesfdj/gitfut",
@@ -262,12 +263,6 @@
   "recent": [
     {
       "date": "2026-08-18",
-      "subcat": "LLMs",
-      "title": "The End of Undetectable AI Text? Claudes New Watermark ",
-      "url": "https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2"
-    },
-    {
-      "date": "2026-08-18",
       "subcat": "Hacker News Picks",
       "title": "India has paved the way for charging merchants a fee on",
       "url": "https://news.ycombinator.com/item?id=49336304"
@@ -319,6 +314,12 @@
       "subcat": "Hacker News Picks",
       "title": "Scientists stunned by children's lung recovery in ultra",
       "url": "https://news.ycombinator.com/item?id=49355105"
+    },
+    {
+      "date": "2026-08-20",
+      "subcat": "AI & Machine Learning",
+      "title": "Tiger3807861189/J-Space-Cognition-Suite-V3.6",
+      "url": "https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6"
     }
   ]
 }
