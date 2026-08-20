@@ -261,15 +261,10 @@
     "https://news.ycombinator.com/item?id=49355105",
     "https://news.ycombinator.com/item?id=49359425",
     "https://news.ycombinator.com/item?id=49361279",
-    "https://news.ycombinator.com/item?id=49362401"
+    "https://news.ycombinator.com/item?id=49362401",
+    "https://news.ycombinator.com/item?id=49365841"
   ],
   "recent": [
-    {
-      "date": "2026-08-18",
-      "subcat": "Hacker News Picks",
-      "title": "AI;DR (AI; Didn't Read)",
-      "url": "https://news.ycombinator.com/item?id=49336573"
-    },
     {
       "date": "2026-08-19",
       "subcat": "AI & Machine Learning",
@@ -323,6 +318,12 @@
       "subcat": "Hacker News Picks",
       "title": "Air Theremin  A browser theremin you play by waving at ",
       "url": "https://news.ycombinator.com/item?id=49359425"
+    },
+    {
+      "date": "2026-08-20",
+      "subcat": "Hacker News Picks",
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "url": "https://news.ycombinator.com/item?id=49365841"
     }
   ]
 }

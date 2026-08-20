@@ -637,6 +637,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49359425
 - **Link:** https://theremin.bizibah.com/
 
+**Added 2026-08-20**
+
+### [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
+- **Source:** sprocketfox.io | **Posted:** 2026-08-19 | **By:** 1e1a
+- **Community:** 219 points, 55 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49365841
+- **Link:** https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/
+
 
 ## Beginner
 
