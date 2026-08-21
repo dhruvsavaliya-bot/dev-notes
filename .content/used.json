@@ -268,16 +268,11 @@
     "https://news.ycombinator.com/item?id=49365841",
     "https://news.ycombinator.com/item?id=49368886",
     "https://news.ycombinator.com/item?id=49374287",
+    "https://news.ycombinator.com/item?id=49375996",
     "https://news.ycombinator.com/item?id=49376265",
     "https://news.ycombinator.com/item?id=49383326"
   ],
   "recent": [
-    {
-      "date": "2026-08-20",
-      "subcat": "Hacker News Picks",
-      "title": "PostgreSQL for Everything",
-      "url": "https://news.ycombinator.com/item?id=49361279"
-    },
     {
       "date": "2026-08-20",
       "subcat": "Hacker News Picks",
@@ -331,6 +326,12 @@
       "subcat": "Hacker News Picks",
       "title": "CIA funding helped keep NeXT afloat in the 80s",
       "url": "https://news.ycombinator.com/item?id=49368886"
+    },
+    {
+      "date": "2026-08-21",
+      "subcat": "Hacker News Picks",
+      "title": "Vomit: Clean up Claude 5's token output with a separate",
+      "url": "https://news.ycombinator.com/item?id=49375996"
     }
   ]
 }

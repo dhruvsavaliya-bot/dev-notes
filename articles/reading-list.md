@@ -578,6 +578,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49376265
 - **Link:** https://www.igalia.com/2026/08/19/Linux-72-Released.html
 
+**Added 2026-08-21**
+
+### [Vomit: Clean up Claude 5's token output with a separate LLM](https://github.com/zachahn/vomit)
+- **Source:** github.com | **Posted:** 2026-08-20 | **By:** Bluestein
+- **Community:** 263 points, 256 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49375996
+- **Link:** https://github.com/zachahn/vomit
+
 
 ## DevOps & Cloud
 
