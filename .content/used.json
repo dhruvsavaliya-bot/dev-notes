@@ -126,6 +126,7 @@
     "https://github.com/pathwaycom/arc-task-gen",
     "https://github.com/penecho/penecho",
     "https://github.com/petergyang/no-ai-slop",
+    "https://github.com/s1dashu/ip-as-logo-skill",
     "https://github.com/slvDev/esp32-ai",
     "https://github.com/synthetic-sciences/openscience",
     "https://github.com/tamnd/kage",
@@ -268,12 +269,6 @@
   "recent": [
     {
       "date": "2026-08-19",
-      "subcat": "Productivity",
-      "title": "7 Productivity Tips That Sound Wrong (But Actually Work",
-      "url": "https://dev.to/sylwia-lask/7-productivity-tips-that-sound-wrong-but-actually-work-5602"
-    },
-    {
-      "date": "2026-08-19",
       "subcat": "Hacker News Picks",
       "title": "Being ambitious and being a dad",
       "url": "https://news.ycombinator.com/item?id=49321298"
@@ -325,6 +320,12 @@
       "subcat": "Hacker News Picks",
       "title": "Manabu Kosaka's Handmade Paper Sculptures",
       "url": "https://news.ycombinator.com/item?id=49362001"
+    },
+    {
+      "date": "2026-08-21",
+      "subcat": "AI & Machine Learning",
+      "title": "s1dashu/ip-as-logo-skill",
+      "url": "https://github.com/s1dashu/ip-as-logo-skill"
     }
   ]
 }

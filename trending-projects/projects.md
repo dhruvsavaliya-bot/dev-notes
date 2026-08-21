@@ -394,6 +394,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~98 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6
 
+**Added 2026-08-21**
+
+### [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)
+- **Stats:** 3,216 stars | 157 forks | 3 open issues
+- **Language:** N/A | **Created:** 2026-08-18 | **License:** MIT
+- **Topics:** codex, codex-skill, image-generation, logo-design, mascot-design
+- **What it is:** A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
+- **Growth:** averaging ~1,072 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/s1dashu/ip-as-logo-skill
+
 
 ## Other Cool Projects
 
