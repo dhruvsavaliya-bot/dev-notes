@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**259 entries and counting** · Last updated: 2026-08-21
+**260 entries and counting** · Last updated: 2026-08-21
 
 ## Categories
 
@@ -11,15 +11,15 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 88 |
 | [AI / LLM Notes](ai/notes.md) | 20 |
-| [Reading List](articles/reading-list.md) | 67 |
+| [Reading List](articles/reading-list.md) | 68 |
 | [Coding Tips](coding-tips/tips.md) | 76 |
 | [Language Notes](languages/notes.md) | 8 |
 
 ## Latest additions
 
+- **2026-08-21** · *Hacker News Picks* — [Linux 7.2](https://news.ycombinator.com/item?id=49376265)
 - **2026-08-21** · *Hacker News Picks* — [DiffusionGemma Technical Report](https://news.ycombinator.com/item?id=49374287)
 - **2026-08-21** · *AI & Machine Learning* — [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)
-- **2026-08-20** · *Hacker News Picks* — [Manabu Kosaka's Handmade Paper Sculptures](https://news.ycombinator.com/item?id=49362001)
 
 ## How it works
 

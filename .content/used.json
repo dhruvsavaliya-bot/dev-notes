@@ -265,15 +265,10 @@
     "https://news.ycombinator.com/item?id=49362001",
     "https://news.ycombinator.com/item?id=49362401",
     "https://news.ycombinator.com/item?id=49365841",
-    "https://news.ycombinator.com/item?id=49374287"
+    "https://news.ycombinator.com/item?id=49374287",
+    "https://news.ycombinator.com/item?id=49376265"
   ],
   "recent": [
-    {
-      "date": "2026-08-19",
-      "subcat": "LLMs",
-      "title": "The \"AI\" Badge Doesn't Measure What You Think It Does",
-      "url": "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9"
-    },
     {
       "date": "2026-08-19",
       "subcat": "Hacker News Picks",
@@ -327,6 +322,12 @@
       "subcat": "Hacker News Picks",
       "title": "DiffusionGemma Technical Report",
       "url": "https://news.ycombinator.com/item?id=49374287"
+    },
+    {
+      "date": "2026-08-21",
+      "subcat": "Hacker News Picks",
+      "title": "Linux 7.2",
+      "url": "https://news.ycombinator.com/item?id=49376265"
     }
   ]
 }

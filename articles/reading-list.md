@@ -569,6 +569,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49355105
 - **Link:** https://www.bbc.com/news/articles/c1l1r1zne1ro
 
+**Added 2026-08-21**
+
+### [Linux 7.2](https://www.igalia.com/2026/08/19/Linux-72-Released.html)
+- **Source:** www.igalia.com | **Posted:** 2026-08-20 | **By:** mariuz
+- **Community:** 228 points, 77 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49376265
+- **Link:** https://www.igalia.com/2026/08/19/Linux-72-Released.html
+
 
 ## DevOps & Cloud
 
