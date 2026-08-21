@@ -664,6 +664,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49374287
 - **Link:** https://arxiv.org/abs/2608.00146
 
+**Added 2026-08-21**
+
+### [Codex on AWS bedrock bug causing 10x charges](https://github.com/openai/codex/issues/37674)
+- **Source:** github.com | **Posted:** 2026-08-21 | **By:** TheP1000
+- **Community:** 116 points, 32 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49383326
+- **Link:** https://github.com/openai/codex/issues/37674
+
 
 ## Beginner
 

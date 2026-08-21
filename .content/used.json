@@ -266,15 +266,10 @@
     "https://news.ycombinator.com/item?id=49362401",
     "https://news.ycombinator.com/item?id=49365841",
     "https://news.ycombinator.com/item?id=49374287",
-    "https://news.ycombinator.com/item?id=49376265"
+    "https://news.ycombinator.com/item?id=49376265",
+    "https://news.ycombinator.com/item?id=49383326"
   ],
   "recent": [
-    {
-      "date": "2026-08-19",
-      "subcat": "Hacker News Picks",
-      "title": "Scientists stunned by children's lung recovery in ultra",
-      "url": "https://news.ycombinator.com/item?id=49355105"
-    },
     {
       "date": "2026-08-20",
       "subcat": "AI & Machine Learning",
@@ -328,6 +323,12 @@
       "subcat": "Hacker News Picks",
       "title": "Linux 7.2",
       "url": "https://news.ycombinator.com/item?id=49376265"
+    },
+    {
+      "date": "2026-08-21",
+      "subcat": "Hacker News Picks",
+      "title": "Codex on AWS bedrock bug causing 10x charges",
+      "url": "https://news.ycombinator.com/item?id=49383326"
     }
   ]
 }
