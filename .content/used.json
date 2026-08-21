@@ -141,6 +141,7 @@
     "https://github.com/xiaobright/dsh-anchored-standard",
     "https://github.com/xuchonglang/investing-for-beginners",
     "https://github.com/yc-software/qm",
+    "https://github.com/yetone/cumora",
     "https://github.com/yjh051108/dsh-routing-suite",
     "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
     "https://github.com/yynxxxxx/Codex-X",
@@ -272,12 +273,6 @@
   "recent": [
     {
       "date": "2026-08-20",
-      "subcat": "AI & Machine Learning",
-      "title": "Tiger3807861189/J-Space-Cognition-Suite-V3.6",
-      "url": "https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6"
-    },
-    {
-      "date": "2026-08-20",
       "subcat": "Hacker News Picks",
       "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
       "url": "https://news.ycombinator.com/item?id=49362401"
@@ -329,6 +324,12 @@
       "subcat": "Hacker News Picks",
       "title": "Codex on AWS bedrock bug causing 10x charges",
       "url": "https://news.ycombinator.com/item?id=49383326"
+    },
+    {
+      "date": "2026-08-21",
+      "subcat": "AI & Machine Learning",
+      "title": "yetone/cumora",
+      "url": "https://github.com/yetone/cumora"
     }
   ]
 }

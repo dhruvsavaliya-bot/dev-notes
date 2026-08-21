@@ -404,6 +404,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1,072 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/s1dashu/ip-as-logo-skill
 
+**Added 2026-08-21**
+
+### [yetone/cumora](https://github.com/yetone/cumora)
+- **Stats:** 2,805 stars | 335 forks | 9 open issues
+- **Language:** TypeScript | **Created:** 2026-08-17 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
+- **Growth:** averaging ~701 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/yetone/cumora
+
 
 ## Other Cool Projects
 
