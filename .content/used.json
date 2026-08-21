@@ -266,17 +266,12 @@
     "https://news.ycombinator.com/item?id=49362001",
     "https://news.ycombinator.com/item?id=49362401",
     "https://news.ycombinator.com/item?id=49365841",
+    "https://news.ycombinator.com/item?id=49368886",
     "https://news.ycombinator.com/item?id=49374287",
     "https://news.ycombinator.com/item?id=49376265",
     "https://news.ycombinator.com/item?id=49383326"
   ],
   "recent": [
-    {
-      "date": "2026-08-20",
-      "subcat": "Hacker News Picks",
-      "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
-      "url": "https://news.ycombinator.com/item?id=49362401"
-    },
     {
       "date": "2026-08-20",
       "subcat": "Hacker News Picks",
@@ -330,6 +325,12 @@
       "subcat": "AI & Machine Learning",
       "title": "yetone/cumora",
       "url": "https://github.com/yetone/cumora"
+    },
+    {
+      "date": "2026-08-21",
+      "subcat": "Hacker News Picks",
+      "title": "CIA funding helped keep NeXT afloat in the 80s",
+      "url": "https://news.ycombinator.com/item?id=49368886"
     }
   ]
 }

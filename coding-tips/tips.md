@@ -673,6 +673,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49383326
 - **Link:** https://github.com/openai/codex/issues/37674
 
+**Added 2026-08-21**
+
+### [CIA funding helped keep NeXT afloat in the 80s](https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink)
+- **Source:** www.wsj.com | **Posted:** 2026-08-20 | **By:** EwanG
+- **Community:** 401 points, 247 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49368886
+- **Link:** https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink
+
 
 ## Beginner
 
