@@ -655,6 +655,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49362001
 - **Link:** https://coca11272000.wixsite.com/manabukosaka
 
+**Added 2026-08-21**
+
+### [DiffusionGemma Technical Report](https://arxiv.org/abs/2608.00146)
+- **Source:** arxiv.org | **Posted:** 2026-08-20 | **By:** gmays
+- **Community:** 143 points, 34 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49374287
+- **Link:** https://arxiv.org/abs/2608.00146
+
 
 ## Beginner
 

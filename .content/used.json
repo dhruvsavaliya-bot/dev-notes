@@ -264,15 +264,10 @@
     "https://news.ycombinator.com/item?id=49361279",
     "https://news.ycombinator.com/item?id=49362001",
     "https://news.ycombinator.com/item?id=49362401",
-    "https://news.ycombinator.com/item?id=49365841"
+    "https://news.ycombinator.com/item?id=49365841",
+    "https://news.ycombinator.com/item?id=49374287"
   ],
   "recent": [
-    {
-      "date": "2026-08-19",
-      "subcat": "Hacker News Picks",
-      "title": "Being ambitious and being a dad",
-      "url": "https://news.ycombinator.com/item?id=49321298"
-    },
     {
       "date": "2026-08-19",
       "subcat": "LLMs",
@@ -326,6 +321,12 @@
       "subcat": "AI & Machine Learning",
       "title": "s1dashu/ip-as-logo-skill",
       "url": "https://github.com/s1dashu/ip-as-logo-skill"
+    },
+    {
+      "date": "2026-08-21",
+      "subcat": "Hacker News Picks",
+      "title": "DiffusionGemma Technical Report",
+      "url": "https://news.ycombinator.com/item?id=49374287"
     }
   ]
 }
