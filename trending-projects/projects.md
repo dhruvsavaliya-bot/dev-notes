@@ -827,6 +827,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~246 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/pathwaycom/arc-task-gen
 
+**Added 2026-08-22**
+
+### [cordiverse/paper](https://github.com/cordiverse/paper)
+- **Stats:** 2,640 stars | 122 forks | 0 open issues
+- **Language:** N/A | **Created:** 2026-08-13 | **License:** None
+- **Topics:** none listed
+- **What it is:** A Programming Paradigm for Spatiotemporal Composability
+- **Growth:** averaging ~293 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/cordiverse/paper
+
 
 ## Web & Frontend
 

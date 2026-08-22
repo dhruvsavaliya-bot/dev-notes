@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**268 entries and counting** · Last updated: 2026-08-22
+**269 entries and counting** · Last updated: 2026-08-22
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 89 |
+| [Trending Projects](trending-projects/projects.md) | 90 |
 | [AI / LLM Notes](ai/notes.md) | 20 |
 | [Reading List](articles/reading-list.md) | 71 |
 | [Coding Tips](coding-tips/tips.md) | 80 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-08-22** · *Other Cool Projects* — [cordiverse/paper](https://github.com/cordiverse/paper)
 - **2026-08-22** · *Hacker News Picks* — [Stop Making TUIs](https://news.ycombinator.com/item?id=49384210)
 - **2026-08-22** · *Hacker News Picks* — [Three important steps in my maturation process](https://news.ycombinator.com/item?id=49394496)
-- **2026-08-22** · *Hacker News Picks* — [How we made a text-to-speech model respond in sub-50 ms](https://news.ycombinator.com/item?id=49389952)
 
 ## How it works
 
