@@ -605,6 +605,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49394496
 - **Link:** https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/
 
+**Added 2026-08-22**
+
+### [OTel isn’t going well](https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/)
+- **Source:** matduggan.com | **Posted:** 2026-08-21 | **By:** hn_acker
+- **Community:** 136 points, 55 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49391553
+- **Link:** https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/
+
 
 ## DevOps & Cloud
 

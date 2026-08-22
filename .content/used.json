@@ -275,15 +275,10 @@
     "https://news.ycombinator.com/item?id=49384210",
     "https://news.ycombinator.com/item?id=49387525",
     "https://news.ycombinator.com/item?id=49389952",
+    "https://news.ycombinator.com/item?id=49391553",
     "https://news.ycombinator.com/item?id=49394496"
   ],
   "recent": [
-    {
-      "date": "2026-08-21",
-      "subcat": "Hacker News Picks",
-      "title": "Linux 7.2",
-      "url": "https://news.ycombinator.com/item?id=49376265"
-    },
     {
       "date": "2026-08-21",
       "subcat": "Hacker News Picks",
@@ -337,6 +332,12 @@
       "subcat": "Other Cool Projects",
       "title": "cordiverse/paper",
       "url": "https://github.com/cordiverse/paper"
+    },
+    {
+      "date": "2026-08-22",
+      "subcat": "Hacker News Picks",
+      "title": "OTel isnt going well",
+      "url": "https://news.ycombinator.com/item?id=49391553"
     }
   ]
 }
