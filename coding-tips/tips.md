@@ -691,6 +691,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49387525
 - **Link:** https://precastreinforced.co.uk/2026/08/16/new-worlds/
 
+**Added 2026-08-22**
+
+### [Stop Making TUIs](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/)
+- **Source:** sockpuppet.org | **Posted:** 2026-08-21 | **By:** underdeserver
+- **Community:** 126 points, 193 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49384210
+- **Link:** https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/
+
 
 ## Beginner
 
