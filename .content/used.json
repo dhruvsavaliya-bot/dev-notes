@@ -271,15 +271,10 @@
     "https://news.ycombinator.com/item?id=49375996",
     "https://news.ycombinator.com/item?id=49376265",
     "https://news.ycombinator.com/item?id=49383326",
-    "https://news.ycombinator.com/item?id=49387525"
+    "https://news.ycombinator.com/item?id=49387525",
+    "https://news.ycombinator.com/item?id=49389952"
   ],
   "recent": [
-    {
-      "date": "2026-08-20",
-      "subcat": "Hacker News Picks",
-      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
-      "url": "https://news.ycombinator.com/item?id=49365841"
-    },
     {
       "date": "2026-08-20",
       "subcat": "Hacker News Picks",
@@ -333,6 +328,12 @@
       "subcat": "Hacker News Picks",
       "title": "New Worlds: We are living in the future of J.G. Ballard",
       "url": "https://news.ycombinator.com/item?id=49387525"
+    },
+    {
+      "date": "2026-08-22",
+      "subcat": "Hacker News Picks",
+      "title": "How we made a text-to-speech model respond in sub-50 ms",
+      "url": "https://news.ycombinator.com/item?id=49389952"
     }
   ]
 }

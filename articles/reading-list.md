@@ -587,6 +587,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49375996
 - **Link:** https://github.com/zachahn/vomit
 
+**Added 2026-08-22**
+
+### [How we made a text-to-speech model respond in sub-50 ms](https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/)
+- **Source:** nari-labs.com | **Posted:** 2026-08-21 | **By:** toebee
+- **Community:** 126 points, 31 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49389952
+- **Link:** https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/
+
 
 ## DevOps & Cloud
 
