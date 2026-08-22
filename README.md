@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**264 entries and counting** · Last updated: 2026-08-21
+**265 entries and counting** · Last updated: 2026-08-22
 
 ## Categories
 
@@ -12,14 +12,14 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 | [Trending Projects](trending-projects/projects.md) | 89 |
 | [AI / LLM Notes](ai/notes.md) | 20 |
 | [Reading List](articles/reading-list.md) | 69 |
-| [Coding Tips](coding-tips/tips.md) | 78 |
+| [Coding Tips](coding-tips/tips.md) | 79 |
 | [Language Notes](languages/notes.md) | 8 |
 
 ## Latest additions
 
+- **2026-08-22** · *Hacker News Picks* — [New Worlds: We are living in the future of J.G. Ballard](https://news.ycombinator.com/item?id=49387525)
 - **2026-08-21** · *Hacker News Picks* — [Vomit: Clean up Claude 5's token output with a separate](https://news.ycombinator.com/item?id=49375996)
 - **2026-08-21** · *Hacker News Picks* — [CIA funding helped keep NeXT afloat in the 80s](https://news.ycombinator.com/item?id=49368886)
-- **2026-08-21** · *AI & Machine Learning* — [yetone/cumora](https://github.com/yetone/cumora)
 
 ## How it works
 

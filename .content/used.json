@@ -270,15 +270,10 @@
     "https://news.ycombinator.com/item?id=49374287",
     "https://news.ycombinator.com/item?id=49375996",
     "https://news.ycombinator.com/item?id=49376265",
-    "https://news.ycombinator.com/item?id=49383326"
+    "https://news.ycombinator.com/item?id=49383326",
+    "https://news.ycombinator.com/item?id=49387525"
   ],
   "recent": [
-    {
-      "date": "2026-08-20",
-      "subcat": "Hacker News Picks",
-      "title": "Air Theremin  A browser theremin you play by waving at ",
-      "url": "https://news.ycombinator.com/item?id=49359425"
-    },
     {
       "date": "2026-08-20",
       "subcat": "Hacker News Picks",
@@ -332,6 +327,12 @@
       "subcat": "Hacker News Picks",
       "title": "Vomit: Clean up Claude 5's token output with a separate",
       "url": "https://news.ycombinator.com/item?id=49375996"
+    },
+    {
+      "date": "2026-08-22",
+      "subcat": "Hacker News Picks",
+      "title": "New Worlds: We are living in the future of J.G. Ballard",
+      "url": "https://news.ycombinator.com/item?id=49387525"
     }
   ]
 }

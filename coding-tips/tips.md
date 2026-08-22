@@ -682,6 +682,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49368886
 - **Link:** https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink
 
+**Added 2026-08-22**
+
+### [New Worlds: We are living in the future of J.G. Ballard or William Gibson](https://precastreinforced.co.uk/2026/08/16/new-worlds/)
+- **Source:** precastreinforced.co.uk | **Posted:** 2026-08-21 | **By:** speckx
+- **Community:** 215 points, 160 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49387525
+- **Link:** https://precastreinforced.co.uk/2026/08/16/new-worlds/
+
 
 ## Beginner
 
