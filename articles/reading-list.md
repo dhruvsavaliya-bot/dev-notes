@@ -596,6 +596,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49389952
 - **Link:** https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/
 
+**Added 2026-08-22**
+
+### [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
+- **Source:** thomasdullien.github.io | **Posted:** 2026-08-21 | **By:** tdullien
+- **Community:** 128 points, 58 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49394496
+- **Link:** https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/
+
 
 ## DevOps & Cloud
 
