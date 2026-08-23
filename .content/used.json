@@ -274,18 +274,13 @@
     "https://news.ycombinator.com/item?id=49383326",
     "https://news.ycombinator.com/item?id=49384210",
     "https://news.ycombinator.com/item?id=49387525",
+    "https://news.ycombinator.com/item?id=49387959",
     "https://news.ycombinator.com/item?id=49389952",
     "https://news.ycombinator.com/item?id=49391553",
     "https://news.ycombinator.com/item?id=49394496",
     "https://news.ycombinator.com/item?id=49402189"
   ],
   "recent": [
-    {
-      "date": "2026-08-21",
-      "subcat": "AI & Machine Learning",
-      "title": "yetone/cumora",
-      "url": "https://github.com/yetone/cumora"
-    },
     {
       "date": "2026-08-21",
       "subcat": "Hacker News Picks",
@@ -339,6 +334,12 @@
       "subcat": "Hacker News Picks",
       "title": "Scrap (2006)",
       "url": "https://news.ycombinator.com/item?id=49402189"
+    },
+    {
+      "date": "2026-08-23",
+      "subcat": "Hacker News Picks",
+      "title": "How a Texas student blew the whistle on a rogue AI hack",
+      "url": "https://news.ycombinator.com/item?id=49387959"
     }
   ]
 }

@@ -709,6 +709,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49402189
 - **Link:** https://twitter.com/moxie/status/2091218652133732491
 
+**Added 2026-08-23**
+
+### [How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/)
+- **Source:** www.reuters.com | **Posted:** 2026-08-21 | **By:** olalonde
+- **Community:** 181 points, 88 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49387959
+- **Link:** https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/
+
 
 ## Beginner
 
