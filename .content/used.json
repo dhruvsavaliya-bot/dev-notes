@@ -276,15 +276,10 @@
     "https://news.ycombinator.com/item?id=49387525",
     "https://news.ycombinator.com/item?id=49389952",
     "https://news.ycombinator.com/item?id=49391553",
-    "https://news.ycombinator.com/item?id=49394496"
+    "https://news.ycombinator.com/item?id=49394496",
+    "https://news.ycombinator.com/item?id=49402189"
   ],
   "recent": [
-    {
-      "date": "2026-08-21",
-      "subcat": "Hacker News Picks",
-      "title": "Codex on AWS bedrock bug causing 10x charges",
-      "url": "https://news.ycombinator.com/item?id=49383326"
-    },
     {
       "date": "2026-08-21",
       "subcat": "AI & Machine Learning",
@@ -338,6 +333,12 @@
       "subcat": "Hacker News Picks",
       "title": "OTel isnt going well",
       "url": "https://news.ycombinator.com/item?id=49391553"
+    },
+    {
+      "date": "2026-08-23",
+      "subcat": "Hacker News Picks",
+      "title": "Scrap (2006)",
+      "url": "https://news.ycombinator.com/item?id=49402189"
     }
   ]
 }

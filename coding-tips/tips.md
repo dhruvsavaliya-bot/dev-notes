@@ -700,6 +700,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49384210
 - **Link:** https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/
 
+**Added 2026-08-23**
+
+### [Scrap (2006)](https://twitter.com/moxie/status/2091218652133732491)
+- **Source:** twitter.com | **Posted:** 2026-08-22 | **By:** tosh
+- **Community:** 382 points, 201 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49402189
+- **Link:** https://twitter.com/moxie/status/2091218652133732491
+
 
 ## Beginner
 
