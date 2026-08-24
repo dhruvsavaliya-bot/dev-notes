@@ -623,6 +623,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49405816
 - **Link:** https://martypc.net/
 
+**Added 2026-08-24**
+
+### [The Art and Beauty of Blade Runner (2015)](https://nappertime.com/the-art-of-and-beauty-of-blade-runner/)
+- **Source:** nappertime.com | **Posted:** 2026-08-23 | **By:** cocacola1
+- **Community:** 136 points, 68 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49405331
+- **Link:** https://nappertime.com/the-art-of-and-beauty-of-blade-runner/
+
 
 ## DevOps & Cloud
 

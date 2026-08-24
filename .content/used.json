@@ -285,15 +285,10 @@
     "https://news.ycombinator.com/item?id=49391553",
     "https://news.ycombinator.com/item?id=49394496",
     "https://news.ycombinator.com/item?id=49402189",
+    "https://news.ycombinator.com/item?id=49405331",
     "https://news.ycombinator.com/item?id=49405816"
   ],
   "recent": [
-    {
-      "date": "2026-08-22",
-      "subcat": "Hacker News Picks",
-      "title": "OTel isnt going well",
-      "url": "https://news.ycombinator.com/item?id=49391553"
-    },
     {
       "date": "2026-08-23",
       "subcat": "Hacker News Picks",
@@ -347,6 +342,12 @@
       "subcat": "Web & Frontend",
       "title": "zhu1090093659/dsh-web",
       "url": "https://github.com/zhu1090093659/dsh-web"
+    },
+    {
+      "date": "2026-08-24",
+      "subcat": "Hacker News Picks",
+      "title": "The Art and Beauty of Blade Runner (2015)",
+      "url": "https://news.ycombinator.com/item?id=49405331"
     }
   ]
 }
