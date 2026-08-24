@@ -718,6 +718,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49387959
 - **Link:** https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/
 
+**Added 2026-08-24**
+
+### [Hister – A private, full content search index that you control](https://hister.org/)
+- **Source:** hister.org | **Posted:** 2026-08-18 | **By:** auraham
+- **Community:** 423 points, 94 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49351802
+- **Link:** https://hister.org/
+
 
 ## Beginner
 
