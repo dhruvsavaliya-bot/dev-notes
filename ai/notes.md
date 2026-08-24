@@ -168,6 +168,16 @@ Lessons from building with LLMs.
 - **Summary:** The next evolution of software developers: from implementation to intent, orchestration, and...
 - **Link:** https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh
 
+**Added 2026-08-24**
+
+### [Greatness Is Forged by Limitation](https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20)
+- **Author:** Adam - The Developer ✨ | **Published:** Aug 19 | **Read time:** 6 min
+- **Community:** 71 reactions, 38 comments — a top post of the week in #ai
+- **Tags:** ai, programming, webdev, career
+- **Summary:** Can't believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...
+- **Link:** https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20
+
+
 ## LLMs
 
 **Added 2026-08-18**

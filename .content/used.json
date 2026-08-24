@@ -6,6 +6,7 @@
     "Prompting: show the model 2-3 examples of the exact output format you want. Few-shot beats long instructions."
   ],
   "ids": [
+    "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
     "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
     "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag",
     "https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g",
@@ -284,12 +285,6 @@
     {
       "date": "2026-08-21",
       "subcat": "Hacker News Picks",
-      "title": "CIA funding helped keep NeXT afloat in the 80s",
-      "url": "https://news.ycombinator.com/item?id=49368886"
-    },
-    {
-      "date": "2026-08-21",
-      "subcat": "Hacker News Picks",
       "title": "Vomit: Clean up Claude 5's token output with a separate",
       "url": "https://news.ycombinator.com/item?id=49375996"
     },
@@ -340,6 +335,12 @@
       "subcat": "Hacker News Picks",
       "title": "How a Texas student blew the whistle on a rogue AI hack",
       "url": "https://news.ycombinator.com/item?id=49387959"
+    },
+    {
+      "date": "2026-08-24",
+      "subcat": "AI Engineering",
+      "title": "Greatness Is Forged by Limitation",
+      "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20"
     }
   ]
 }
