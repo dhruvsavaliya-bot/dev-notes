@@ -747,3 +747,12 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Tags:** discuss, community, beginners, career
 - **Summary:** 📌 TL;DR  I'm still early in my own career, and lately I've been thinking about how much advice we...
 - **Link:** https://dev.to/hemapriya_kanagala/what-would-you-tell-someone-early-in-their-career-1k76
+
+**Added 2026-08-24**
+
+### [1ª vez trabalhando com git em um time: tudo que você precisa saber](https://dev.to/he4rt/1a-vez-trabalhando-com-git-com-time-tudo-que-voce-precisa-saber-19il)
+- **Author:** vitoriazzp | **Published:** Aug 20 | **Read time:** 5 min
+- **Community:** 50 reactions, 1 comments — a top post of the week in #beginners
+- **Tags:** braziliandevs, opensource, github, beginners
+- **Summary:** Faz mais de 5 anos que eu não abria um PR ou issue técnica no Github, mas essa semana tenho aprendido...
+- **Link:** https://dev.to/he4rt/1a-vez-trabalhando-com-git-com-time-tudo-que-voce-precisa-saber-19il
