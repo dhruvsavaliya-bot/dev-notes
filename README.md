@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**278 entries and counting** · Last updated: 2026-08-24
+**279 entries and counting** · Last updated: 2026-08-24
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 93 |
+| [Trending Projects](trending-projects/projects.md) | 94 |
 | [AI / LLM Notes](ai/notes.md) | 21 |
 | [Reading List](articles/reading-list.md) | 73 |
 | [Coding Tips](coding-tips/tips.md) | 83 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-08-24** · *Web & Frontend* — [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
 - **2026-08-24** · *Other Cool Projects* — [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym)
 - **2026-08-24** · *AI & Machine Learning* — [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar)
-- **2026-08-24** · *Hacker News Picks* — [MartyPC is a cross-platform emulator of early PCs writt](https://news.ycombinator.com/item?id=49405816)
 
 ## How it works
 

@@ -890,6 +890,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1,024 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/MengTo/threeui
 
+**Added 2026-08-24**
+
+### [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
+- **Stats:** 5,860 stars | 373 forks | 18 open issues
+- **Language:** TypeScript | **Created:** 2026-08-12 | **License:** Apache-2.0
+- **Topics:** cordis, deepseek-harness, dsh, dsh-plugin, dsh-web, dsh-web-ui
+- **What it is:** DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发（dsh-market.com）
+- **Growth:** averaging ~488 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/zhu1090093659/dsh-web
+
 
 ## Developer Tools
 

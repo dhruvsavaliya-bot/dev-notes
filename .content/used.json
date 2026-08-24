@@ -151,6 +151,7 @@
     "https://github.com/yjh051108/dsh-routing-suite",
     "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
     "https://github.com/yynxxxxx/Codex-X",
+    "https://github.com/zhu1090093659/dsh-web",
     "https://github.com/zhu1090093659/dsh-web-ui",
     "https://news.ycombinator.com/item?id=48896600",
     "https://news.ycombinator.com/item?id=48896665",
@@ -289,12 +290,6 @@
   "recent": [
     {
       "date": "2026-08-22",
-      "subcat": "Other Cool Projects",
-      "title": "cordiverse/paper",
-      "url": "https://github.com/cordiverse/paper"
-    },
-    {
-      "date": "2026-08-22",
       "subcat": "Hacker News Picks",
       "title": "OTel isnt going well",
       "url": "https://news.ycombinator.com/item?id=49391553"
@@ -346,6 +341,12 @@
       "subcat": "Other Cool Projects",
       "title": "arvids-unavailable/openGym",
       "url": "https://github.com/arvids-unavailable/openGym"
+    },
+    {
+      "date": "2026-08-24",
+      "subcat": "Web & Frontend",
+      "title": "zhu1090093659/dsh-web",
+      "url": "https://github.com/zhu1090093659/dsh-web"
     }
   ]
 }
