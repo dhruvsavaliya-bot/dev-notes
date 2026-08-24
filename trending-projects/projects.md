@@ -414,6 +414,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~701 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/yetone/cumora
 
+**Added 2026-08-24**
+
+### [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar)
+- **Stats:** 2,769 stars | 223 forks | 125 open issues
+- **Language:** TypeScript | **Created:** 2026-08-07 | **License:** MIT
+- **Topics:** deepseek, deepseek-harness, dsh, dsh-better-sidebar, dsh-plugin, sidebar
+- **What it is:** 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages.
+- **Growth:** averaging ~162 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/omdsh-dev/DSH-better-sidebar
+
 
 ## Other Cool Projects
 

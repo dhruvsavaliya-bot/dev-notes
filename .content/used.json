@@ -124,6 +124,7 @@
     "https://github.com/microsoft/skill-recorder",
     "https://github.com/mshumer/Claude-of-Duty",
     "https://github.com/nyblnet/bento",
+    "https://github.com/omdsh-dev/DSH-better-sidebar",
     "https://github.com/oomol-lab/open-connector",
     "https://github.com/openai/codex-security",
     "https://github.com/oso95/scroll-world",
@@ -288,12 +289,6 @@
     {
       "date": "2026-08-22",
       "subcat": "Hacker News Picks",
-      "title": "Three important steps in my maturation process",
-      "url": "https://news.ycombinator.com/item?id=49394496"
-    },
-    {
-      "date": "2026-08-22",
-      "subcat": "Hacker News Picks",
       "title": "Stop Making TUIs",
       "url": "https://news.ycombinator.com/item?id=49384210"
     },
@@ -344,6 +339,12 @@
       "subcat": "Hacker News Picks",
       "title": "MartyPC is a cross-platform emulator of early PCs writt",
       "url": "https://news.ycombinator.com/item?id=49405816"
+    },
+    {
+      "date": "2026-08-24",
+      "subcat": "AI & Machine Learning",
+      "title": "omdsh-dev/DSH-better-sidebar",
+      "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
     }
   ]
 }
