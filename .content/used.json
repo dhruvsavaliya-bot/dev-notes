@@ -281,15 +281,10 @@
     "https://news.ycombinator.com/item?id=49389952",
     "https://news.ycombinator.com/item?id=49391553",
     "https://news.ycombinator.com/item?id=49394496",
-    "https://news.ycombinator.com/item?id=49402189"
+    "https://news.ycombinator.com/item?id=49402189",
+    "https://news.ycombinator.com/item?id=49405816"
   ],
   "recent": [
-    {
-      "date": "2026-08-22",
-      "subcat": "Hacker News Picks",
-      "title": "How we made a text-to-speech model respond in sub-50 ms",
-      "url": "https://news.ycombinator.com/item?id=49389952"
-    },
     {
       "date": "2026-08-22",
       "subcat": "Hacker News Picks",
@@ -343,6 +338,12 @@
       "subcat": "Beginner",
       "title": "1 vez trabalhando com git em um time: tudo que voc prec",
       "url": "https://dev.to/he4rt/1a-vez-trabalhando-com-git-com-time-tudo-que-voce-precisa-saber-19il"
+    },
+    {
+      "date": "2026-08-24",
+      "subcat": "Hacker News Picks",
+      "title": "MartyPC is a cross-platform emulator of early PCs writt",
+      "url": "https://news.ycombinator.com/item?id=49405816"
     }
   ]
 }

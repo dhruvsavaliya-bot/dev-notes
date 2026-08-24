@@ -614,6 +614,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49391553
 - **Link:** https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/
 
+**Added 2026-08-24**
+
+### [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/)
+- **Source:** martypc.net | **Posted:** 2026-08-23 | **By:** boilerupnc
+- **Community:** 154 points, 55 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49405816
+- **Link:** https://martypc.net/
+
 
 ## DevOps & Cloud
 
