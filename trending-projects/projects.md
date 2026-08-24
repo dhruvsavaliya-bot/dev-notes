@@ -860,6 +860,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~773 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/zhu1090093659/dsh-web-ui
 
+**Added 2026-08-24**
+
+### [MengTo/threeui](https://github.com/MengTo/threeui)
+- **Stats:** 3,072 stars | 306 forks | 5 open issues
+- **Language:** HTML | **Created:** 2026-08-21 | **License:** MIT
+- **Topics:** react, shaders, threejs, ui-components, webgl
+- **What it is:** Open-source ThreeUI Community catalog with live interactive components and complete Community source.
+- **Growth:** averaging ~1,024 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/MengTo/threeui
+
 
 ## Developer Tools
 

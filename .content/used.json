@@ -73,6 +73,7 @@
     "https://github.com/MIgHTy-alIeN/MEV-Ethereum-Trading-Bot",
     "https://github.com/MIgHTy-alIeN/ai-trader-bot",
     "https://github.com/MaximeRivest/riddle",
+    "https://github.com/MengTo/threeui",
     "https://github.com/MiniMax-AI/MiniMax-H3",
     "https://github.com/MoonshotAI/Kimi-K3",
     "https://github.com/QwenLM/Qwen-MM-Plugins",
@@ -283,12 +284,6 @@
   ],
   "recent": [
     {
-      "date": "2026-08-21",
-      "subcat": "Hacker News Picks",
-      "title": "Vomit: Clean up Claude 5's token output with a separate",
-      "url": "https://news.ycombinator.com/item?id=49375996"
-    },
-    {
       "date": "2026-08-22",
       "subcat": "Hacker News Picks",
       "title": "New Worlds: We are living in the future of J.G. Ballard",
@@ -341,6 +336,12 @@
       "subcat": "AI Engineering",
       "title": "Greatness Is Forged by Limitation",
       "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20"
+    },
+    {
+      "date": "2026-08-24",
+      "subcat": "Web & Frontend",
+      "title": "MengTo/threeui",
+      "url": "https://github.com/MengTo/threeui"
     }
   ]
 }
