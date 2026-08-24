@@ -90,6 +90,7 @@
     "https://github.com/andrewyng/openworker",
     "https://github.com/anthropics/jacobian-lens",
     "https://github.com/anywhere-labs/deepseek-harness-desktop",
+    "https://github.com/arvids-unavailable/openGym",
     "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
     "https://github.com/baairon/torlink",
     "https://github.com/baidu/Unlimited-OCR",
@@ -288,12 +289,6 @@
   "recent": [
     {
       "date": "2026-08-22",
-      "subcat": "Hacker News Picks",
-      "title": "Stop Making TUIs",
-      "url": "https://news.ycombinator.com/item?id=49384210"
-    },
-    {
-      "date": "2026-08-22",
       "subcat": "Other Cool Projects",
       "title": "cordiverse/paper",
       "url": "https://github.com/cordiverse/paper"
@@ -345,6 +340,12 @@
       "subcat": "AI & Machine Learning",
       "title": "omdsh-dev/DSH-better-sidebar",
       "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
+    },
+    {
+      "date": "2026-08-24",
+      "subcat": "Other Cool Projects",
+      "title": "arvids-unavailable/openGym",
+      "url": "https://github.com/arvids-unavailable/openGym"
     }
   ]
 }

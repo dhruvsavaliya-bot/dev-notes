@@ -847,6 +847,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~293 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/cordiverse/paper
 
+**Added 2026-08-24**
+
+### [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym)
+- **Stats:** 3,260 stars | 661 forks | 9 open issues
+- **Language:** JavaScript | **Created:** 2026-08-03 | **License:** AGPL-3.0
+- **Topics:** none listed
+- **What it is:** https://github.com/DuarteSantos8/openGym
+- **Growth:** averaging ~155 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/arvids-unavailable/openGym
+
 
 ## Web & Frontend
 
