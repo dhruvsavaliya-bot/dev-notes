@@ -659,6 +659,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49424387
 - **Link:** https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines
 
+**Added 2026-08-25**
+
+### [Show HN: PicoMQ – Durable Streams over HTTP, on object storage](https://picomq.com/)
+- **Source:** picomq.com | **Posted:** 2026-08-24 | **By:** adesh_nalpet
+- **Community:** 123 points, 22 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49421806
+- **Link:** https://picomq.com/
+
 
 ## DevOps & Cloud
 
