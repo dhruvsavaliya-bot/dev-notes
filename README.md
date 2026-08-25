@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**282 entries and counting** · Last updated: 2026-08-25
+**283 entries and counting** · Last updated: 2026-08-25
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 94 |
+| [Trending Projects](trending-projects/projects.md) | 95 |
 | [AI / LLM Notes](ai/notes.md) | 21 |
 | [Reading List](articles/reading-list.md) | 75 |
 | [Coding Tips](coding-tips/tips.md) | 84 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-08-25** · *Other Cool Projects* — [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)
 - **2026-08-25** · *Hacker News Picks* — [The entire city of San Francisco as a video game](https://news.ycombinator.com/item?id=49422784)
 - **2026-08-24** · *Hacker News Picks* — [Hister  A private, full content search index that you c](https://news.ycombinator.com/item?id=49351802)
-- **2026-08-24** · *Hacker News Picks* — [The Art and Beauty of Blade Runner (2015)](https://news.ycombinator.com/item?id=49405331)
 
 ## How it works
 

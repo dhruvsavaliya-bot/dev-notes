@@ -857,6 +857,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~155 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/arvids-unavailable/openGym
 
+**Added 2026-08-25**
+
+### [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)
+- **Stats:** 19,852 stars | 965 forks | 238 open issues
+- **Language:** TypeScript | **Created:** 2026-08-13 | **License:** MIT
+- **Topics:** cordis, cordis-plugin, deepseek, deepseek-harness, desktop, dsh
+- **What it is:** 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
+- **Growth:** averaging ~1,654 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/anywhere-labs/dsh-desktop
+
 
 ## Web & Frontend
 
