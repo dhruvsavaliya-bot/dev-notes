@@ -641,6 +641,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49422784
 - **Link:** https://sf.thijs.gg/
 
+**Added 2026-08-25**
+
+### [I were 17, I'd learn how to build LLMs from scratch](https://twitter.com/paulg/status/2091544343589060625)
+- **Source:** twitter.com | **Posted:** 2026-08-23 | **By:** bilsbie
+- **Community:** 537 points, 621 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49412396
+- **Link:** https://twitter.com/paulg/status/2091544343589060625
+
 
 ## DevOps & Cloud
 

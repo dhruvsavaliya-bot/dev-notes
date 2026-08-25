@@ -289,16 +289,11 @@
     "https://news.ycombinator.com/item?id=49402189",
     "https://news.ycombinator.com/item?id=49405331",
     "https://news.ycombinator.com/item?id=49405816",
+    "https://news.ycombinator.com/item?id=49412396",
     "https://news.ycombinator.com/item?id=49418255",
     "https://news.ycombinator.com/item?id=49422784"
   ],
   "recent": [
-    {
-      "date": "2026-08-24",
-      "subcat": "Beginner",
-      "title": "1 vez trabalhando com git em um time: tudo que voc prec",
-      "url": "https://dev.to/he4rt/1a-vez-trabalhando-com-git-com-time-tudo-que-voce-precisa-saber-19il"
-    },
     {
       "date": "2026-08-24",
       "subcat": "Hacker News Picks",
@@ -352,6 +347,12 @@
       "subcat": "Hacker News Picks",
       "title": "SeL4 security proofs now complete on AArch64",
       "url": "https://news.ycombinator.com/item?id=49418255"
+    },
+    {
+      "date": "2026-08-25",
+      "subcat": "Hacker News Picks",
+      "title": "I were 17, I'd learn how to build LLMs from scratch",
+      "url": "https://news.ycombinator.com/item?id=49412396"
     }
   ]
 }
