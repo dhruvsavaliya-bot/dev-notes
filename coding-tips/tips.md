@@ -736,6 +736,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49418255
 - **Link:** https://proofcraft.systems/news-2026/#2026-08-21
 
+**Added 2026-08-25**
+
+### [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926)
+- **Source:** twitter.com | **Posted:** 2026-08-24 | **By:** tosh
+- **Community:** 847 points, 602 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49420873
+- **Link:** https://twitter.com/lemire/status/2091894299289874926
+
 
 ## Beginner
 

@@ -291,15 +291,10 @@
     "https://news.ycombinator.com/item?id=49405816",
     "https://news.ycombinator.com/item?id=49412396",
     "https://news.ycombinator.com/item?id=49418255",
+    "https://news.ycombinator.com/item?id=49420873",
     "https://news.ycombinator.com/item?id=49422784"
   ],
   "recent": [
-    {
-      "date": "2026-08-24",
-      "subcat": "Hacker News Picks",
-      "title": "MartyPC is a cross-platform emulator of early PCs writt",
-      "url": "https://news.ycombinator.com/item?id=49405816"
-    },
     {
       "date": "2026-08-24",
       "subcat": "AI & Machine Learning",
@@ -353,6 +348,12 @@
       "subcat": "Hacker News Picks",
       "title": "I were 17, I'd learn how to build LLMs from scratch",
       "url": "https://news.ycombinator.com/item?id=49412396"
+    },
+    {
+      "date": "2026-08-25",
+      "subcat": "Hacker News Picks",
+      "title": "Xiaomi: New CPU matches Apple cores single threaded, mu",
+      "url": "https://news.ycombinator.com/item?id=49420873"
     }
   ]
 }
