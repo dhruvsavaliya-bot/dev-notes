@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**283 entries and counting** · Last updated: 2026-08-25
+**284 entries and counting** · Last updated: 2026-08-25
 
 ## Categories
 
@@ -12,14 +12,14 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 | [Trending Projects](trending-projects/projects.md) | 95 |
 | [AI / LLM Notes](ai/notes.md) | 21 |
 | [Reading List](articles/reading-list.md) | 75 |
-| [Coding Tips](coding-tips/tips.md) | 84 |
+| [Coding Tips](coding-tips/tips.md) | 85 |
 | [Language Notes](languages/notes.md) | 8 |
 
 ## Latest additions
 
+- **2026-08-25** · *Hacker News Picks* — [SeL4 security proofs now complete on AArch64](https://news.ycombinator.com/item?id=49418255)
 - **2026-08-25** · *Other Cool Projects* — [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)
 - **2026-08-25** · *Hacker News Picks* — [The entire city of San Francisco as a video game](https://news.ycombinator.com/item?id=49422784)
-- **2026-08-24** · *Hacker News Picks* — [Hister  A private, full content search index that you c](https://news.ycombinator.com/item?id=49351802)
 
 ## How it works
 
