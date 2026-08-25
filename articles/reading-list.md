@@ -632,6 +632,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49405331
 - **Link:** https://nappertime.com/the-art-of-and-beauty-of-blade-runner/
 
+**Added 2026-08-25**
+
+### [The entire city of San Francisco as a video game](https://sf.thijs.gg/)
+- **Source:** sf.thijs.gg | **Posted:** 2026-08-24 | **By:** centrosphere
+- **Community:** 387 points, 128 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49422784
+- **Link:** https://sf.thijs.gg/
+
 
 ## DevOps & Cloud
 
