@@ -294,15 +294,10 @@
     "https://news.ycombinator.com/item?id=49420873",
     "https://news.ycombinator.com/item?id=49421806",
     "https://news.ycombinator.com/item?id=49422784",
-    "https://news.ycombinator.com/item?id=49424387"
+    "https://news.ycombinator.com/item?id=49424387",
+    "https://news.ycombinator.com/item?id=49426564"
   ],
   "recent": [
-    {
-      "date": "2026-08-24",
-      "subcat": "Web & Frontend",
-      "title": "zhu1090093659/dsh-web",
-      "url": "https://github.com/zhu1090093659/dsh-web"
-    },
     {
       "date": "2026-08-24",
       "subcat": "Hacker News Picks",
@@ -356,6 +351,12 @@
       "subcat": "Hacker News Picks",
       "title": "Show HN: PicoMQ  Durable Streams over HTTP, on object s",
       "url": "https://news.ycombinator.com/item?id=49421806"
+    },
+    {
+      "date": "2026-08-25",
+      "subcat": "Hacker News Picks",
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.c",
+      "url": "https://news.ycombinator.com/item?id=49426564"
     }
   ]
 }

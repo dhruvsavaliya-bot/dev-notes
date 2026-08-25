@@ -745,6 +745,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49420873
 - **Link:** https://twitter.com/lemire/status/2091894299289874926
 
+**Added 2026-08-25**
+
+### [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
+- **Source:** developer.apple.com | **Posted:** 2026-08-24 | **By:** K7PJP
+- **Community:** 496 points, 143 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49426564
+- **Link:** https://developer.apple.com/news/?id=1ptvdtcm
+
 
 ## Beginner
 
