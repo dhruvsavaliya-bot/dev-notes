@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**286 entries and counting** · Last updated: 2026-08-25
+**287 entries and counting** · Last updated: 2026-08-25
 
 ## Categories
 
@@ -11,15 +11,15 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 95 |
 | [AI / LLM Notes](ai/notes.md) | 21 |
-| [Reading List](articles/reading-list.md) | 76 |
+| [Reading List](articles/reading-list.md) | 77 |
 | [Coding Tips](coding-tips/tips.md) | 86 |
 | [Language Notes](languages/notes.md) | 8 |
 
 ## Latest additions
 
+- **2026-08-25** · *Hacker News Picks* — [LLMs could control their host machines by exploiting in](https://news.ycombinator.com/item?id=49424387)
 - **2026-08-25** · *Hacker News Picks* — [Xiaomi: New CPU matches Apple cores single threaded, mu](https://news.ycombinator.com/item?id=49420873)
 - **2026-08-25** · *Hacker News Picks* — [I were 17, I'd learn how to build LLMs from scratch](https://news.ycombinator.com/item?id=49412396)
-- **2026-08-25** · *Hacker News Picks* — [SeL4 security proofs now complete on AArch64](https://news.ycombinator.com/item?id=49418255)
 
 ## How it works
 

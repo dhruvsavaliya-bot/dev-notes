@@ -650,6 +650,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49412396
 - **Link:** https://twitter.com/paulg/status/2091544343589060625
 
+**Added 2026-08-25**
+
+### [LLMs could control their host machines by exploiting inference engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines)
+- **Source:** boydkane.com | **Posted:** 2026-08-24 | **By:** zdw
+- **Community:** 140 points, 66 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49424387
+- **Link:** https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines
+
 
 ## DevOps & Cloud
 
