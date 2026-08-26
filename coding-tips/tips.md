@@ -763,6 +763,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49438052
 - **Link:** https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead
 
+**Added 2026-08-26**
+
+### [New Mac mini, featuring M6 and M5 Pro](https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/)
+- **Source:** www.apple.com | **Posted:** 2026-08-25 | **By:** runako
+- **Community:** 486 points, 297 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49433450
+- **Link:** https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/
+
 
 ## Beginner
 
