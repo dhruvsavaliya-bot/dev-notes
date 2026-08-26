@@ -772,6 +772,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49433450
 - **Link:** https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/
 
+**Added 2026-08-26**
+
+### [Don't Wordle](https://dontwordle.com/)
+- **Source:** dontwordle.com | **Posted:** 2026-08-25 | **By:** Hbruz0
+- **Community:** 349 points, 121 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49432319
+- **Link:** https://dontwordle.com/
+
 
 ## Beginner
 

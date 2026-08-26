@@ -297,17 +297,12 @@
     "https://news.ycombinator.com/item?id=49422784",
     "https://news.ycombinator.com/item?id=49424387",
     "https://news.ycombinator.com/item?id=49426564",
+    "https://news.ycombinator.com/item?id=49432319",
     "https://news.ycombinator.com/item?id=49433450",
     "https://news.ycombinator.com/item?id=49437049",
     "https://news.ycombinator.com/item?id=49438052"
   ],
   "recent": [
-    {
-      "date": "2026-08-25",
-      "subcat": "Hacker News Picks",
-      "title": "SeL4 security proofs now complete on AArch64",
-      "url": "https://news.ycombinator.com/item?id=49418255"
-    },
     {
       "date": "2026-08-25",
       "subcat": "Hacker News Picks",
@@ -361,6 +356,12 @@
       "subcat": "Hacker News Picks",
       "title": "Show HN: LatticeDB  Like SQLite but for graph databases",
       "url": "https://news.ycombinator.com/item?id=49437049"
+    },
+    {
+      "date": "2026-08-26",
+      "subcat": "Hacker News Picks",
+      "title": "Don't Wordle",
+      "url": "https://news.ycombinator.com/item?id=49432319"
     }
   ]
 }
