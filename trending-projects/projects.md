@@ -424,6 +424,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~162 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/omdsh-dev/DSH-better-sidebar
 
+**Added 2026-08-26**
+
+### [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
+- **Stats:** 2,926 stars | 354 forks | 36 open issues
+- **Language:** TypeScript | **Created:** 2026-08-17 | **License:** MIT
+- **Topics:** ag-ui, agent-governance, ai-agents, browser-automation, copilotkit, generative-ui
+- **What it is:** Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
+- **Growth:** averaging ~325 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/CopilotKit/OpenBot
+
 
 ## Other Cool Projects
 

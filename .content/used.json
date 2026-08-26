@@ -60,6 +60,7 @@
     "https://dev.to/xulingfeng/stratagems-9-lena-and-p-watched-two-ai-suppliers-fight-the-logs-said-neither-was-clean-2pj3",
     "https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9",
     "https://github.com/AlephAITech/WorkBuddyGuide",
+    "https://github.com/CopilotKit/OpenBot",
     "https://github.com/DavidHDev/canvas-ui",
     "https://github.com/FareedKhan-dev/kimi-k3-in-c",
     "https://github.com/Fei-Away/Codex-Dream-Skin",
@@ -301,12 +302,6 @@
     {
       "date": "2026-08-24",
       "subcat": "Hacker News Picks",
-      "title": "The Art and Beauty of Blade Runner (2015)",
-      "url": "https://news.ycombinator.com/item?id=49405331"
-    },
-    {
-      "date": "2026-08-24",
-      "subcat": "Hacker News Picks",
       "title": "Hister  A private, full content search index that you c",
       "url": "https://news.ycombinator.com/item?id=49351802"
     },
@@ -357,6 +352,12 @@
       "subcat": "Hacker News Picks",
       "title": "iCloud+ Hide My Email addresses will remain on icloud.c",
       "url": "https://news.ycombinator.com/item?id=49426564"
+    },
+    {
+      "date": "2026-08-26",
+      "subcat": "AI & Machine Learning",
+      "title": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot"
     }
   ]
 }
