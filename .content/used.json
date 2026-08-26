@@ -298,15 +298,10 @@
     "https://news.ycombinator.com/item?id=49424387",
     "https://news.ycombinator.com/item?id=49426564",
     "https://news.ycombinator.com/item?id=49433450",
+    "https://news.ycombinator.com/item?id=49437049",
     "https://news.ycombinator.com/item?id=49438052"
   ],
   "recent": [
-    {
-      "date": "2026-08-25",
-      "subcat": "Other Cool Projects",
-      "title": "anywhere-labs/dsh-desktop",
-      "url": "https://github.com/anywhere-labs/dsh-desktop"
-    },
     {
       "date": "2026-08-25",
       "subcat": "Hacker News Picks",
@@ -360,6 +355,12 @@
       "subcat": "Hacker News Picks",
       "title": "New Mac mini, featuring M6 and M5 Pro",
       "url": "https://news.ycombinator.com/item?id=49433450"
+    },
+    {
+      "date": "2026-08-26",
+      "subcat": "Hacker News Picks",
+      "title": "Show HN: LatticeDB  Like SQLite but for graph databases",
+      "url": "https://news.ycombinator.com/item?id=49437049"
     }
   ]
 }

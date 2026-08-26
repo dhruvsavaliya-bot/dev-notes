@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**292 entries and counting** · Last updated: 2026-08-26
+**293 entries and counting** · Last updated: 2026-08-26
 
 ## Categories
 
@@ -11,15 +11,15 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 96 |
 | [AI / LLM Notes](ai/notes.md) | 21 |
-| [Reading List](articles/reading-list.md) | 78 |
+| [Reading List](articles/reading-list.md) | 79 |
 | [Coding Tips](coding-tips/tips.md) | 89 |
 | [Language Notes](languages/notes.md) | 8 |
 
 ## Latest additions
 
+- **2026-08-26** · *Hacker News Picks* — [Show HN: LatticeDB  Like SQLite but for graph databases](https://news.ycombinator.com/item?id=49437049)
 - **2026-08-26** · *Hacker News Picks* — [New Mac mini, featuring M6 and M5 Pro](https://news.ycombinator.com/item?id=49433450)
 - **2026-08-26** · *Hacker News Picks* — [Dolly Parton has died](https://news.ycombinator.com/item?id=49438052)
-- **2026-08-26** · *AI & Machine Learning* — [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
 
 ## How it works
 

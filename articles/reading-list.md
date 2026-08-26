@@ -668,6 +668,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49421806
 - **Link:** https://picomq.com/
 
+**Added 2026-08-26**
+
+### [Show HN: LatticeDB – Like SQLite but for graph databases](https://github.com/jeffhajewski/latticedb)
+- **Source:** github.com | **Posted:** 2026-08-25 | **By:** smiths1999
+- **Community:** 150 points, 39 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49437049
+- **Link:** https://github.com/jeffhajewski/latticedb
+
 
 ## DevOps & Cloud
 
