@@ -677,6 +677,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49437049
 - **Link:** https://github.com/jeffhajewski/latticedb
 
+**Added 2026-08-26**
+
+### [C2PA Cameras Do Not Survive Contact with Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html)
+- **Source:** www.da.vidbuchanan.co.uk | **Posted:** 2026-08-25 | **By:** Retr0id
+- **Community:** 155 points, 102 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49439499
+- **Link:** https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html
+
 
 ## DevOps & Cloud
 
