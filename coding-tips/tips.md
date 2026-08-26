@@ -754,6 +754,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49426564
 - **Link:** https://developer.apple.com/news/?id=1ptvdtcm
 
+**Added 2026-08-26**
+
+### [Dolly Parton has died](https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead)
+- **Source:** www.theguardian.com | **Posted:** 2026-08-25 | **By:** helsinkiandrew
+- **Community:** 1379 points, 211 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49438052
+- **Link:** https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead
+
 
 ## Beginner
 

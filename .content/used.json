@@ -296,15 +296,10 @@
     "https://news.ycombinator.com/item?id=49421806",
     "https://news.ycombinator.com/item?id=49422784",
     "https://news.ycombinator.com/item?id=49424387",
-    "https://news.ycombinator.com/item?id=49426564"
+    "https://news.ycombinator.com/item?id=49426564",
+    "https://news.ycombinator.com/item?id=49438052"
   ],
   "recent": [
-    {
-      "date": "2026-08-24",
-      "subcat": "Hacker News Picks",
-      "title": "Hister  A private, full content search index that you c",
-      "url": "https://news.ycombinator.com/item?id=49351802"
-    },
     {
       "date": "2026-08-25",
       "subcat": "Hacker News Picks",
@@ -358,6 +353,12 @@
       "subcat": "AI & Machine Learning",
       "title": "CopilotKit/OpenBot",
       "url": "https://github.com/CopilotKit/OpenBot"
+    },
+    {
+      "date": "2026-08-26",
+      "subcat": "Hacker News Picks",
+      "title": "Dolly Parton has died",
+      "url": "https://news.ycombinator.com/item?id=49438052"
     }
   ]
 }
