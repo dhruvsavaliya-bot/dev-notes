@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**295 entries and counting** · Last updated: 2026-08-26
+**296 entries and counting** · Last updated: 2026-08-26
 
 ## Categories
 
@@ -11,15 +11,15 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 96 |
 | [AI / LLM Notes](ai/notes.md) | 21 |
-| [Reading List](articles/reading-list.md) | 80 |
+| [Reading List](articles/reading-list.md) | 81 |
 | [Coding Tips](coding-tips/tips.md) | 90 |
 | [Language Notes](languages/notes.md) | 8 |
 
 ## Latest additions
 
+- **2026-08-26** · *Hacker News Picks* — [How credit card rewards became a $9.2B wealth transfer](https://news.ycombinator.com/item?id=49432201)
 - **2026-08-26** · *Hacker News Picks* — [C2PA Cameras Do Not Survive Contact with Reality](https://news.ycombinator.com/item?id=49439499)
 - **2026-08-26** · *Hacker News Picks* — [Don't Wordle](https://news.ycombinator.com/item?id=49432319)
-- **2026-08-26** · *Hacker News Picks* — [Show HN: LatticeDB  Like SQLite but for graph databases](https://news.ycombinator.com/item?id=49437049)
 
 ## How it works
 

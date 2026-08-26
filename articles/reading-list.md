@@ -686,6 +686,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49439499
 - **Link:** https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html
 
+**Added 2026-08-26**
+
+### [How credit card rewards became a $9.2B wealth transfer](https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer)
+- **Source:** www.library.hbs.edu | **Posted:** 2026-08-25 | **By:** conbrian
+- **Community:** 192 points, 339 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49432201
+- **Link:** https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer
+
 
 ## DevOps & Cloud
 
