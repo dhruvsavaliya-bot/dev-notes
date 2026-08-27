@@ -713,6 +713,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49451313
 - **Link:** https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make
 
+**Added 2026-08-27**
+
+### [Serve Markdown to AI Agents with Accept Headers](https://acceptmarkdown.com/)
+- **Source:** acceptmarkdown.com | **Posted:** 2026-08-26 | **By:** tilt
+- **Community:** 122 points, 68 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49454764
+- **Link:** https://acceptmarkdown.com/
+
 
 ## DevOps & Cloud
 
