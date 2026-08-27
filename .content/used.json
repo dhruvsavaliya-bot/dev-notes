@@ -308,17 +308,12 @@
     "https://news.ycombinator.com/item?id=49437049",
     "https://news.ycombinator.com/item?id=49438052",
     "https://news.ycombinator.com/item?id=49439499",
+    "https://news.ycombinator.com/item?id=49450448",
     "https://news.ycombinator.com/item?id=49451313",
     "https://news.ycombinator.com/item?id=49454419",
     "https://news.ycombinator.com/item?id=49454764"
   ],
   "recent": [
-    {
-      "date": "2026-08-26",
-      "subcat": "Hacker News Picks",
-      "title": "C2PA Cameras Do Not Survive Contact with Reality",
-      "url": "https://news.ycombinator.com/item?id=49439499"
-    },
     {
       "date": "2026-08-26",
       "subcat": "Hacker News Picks",
@@ -372,6 +367,12 @@
       "subcat": "Hacker News Picks",
       "title": "Actinide is first startup to produce high-assay low-enr",
       "url": "https://news.ycombinator.com/item?id=49454419"
+    },
+    {
+      "date": "2026-08-27",
+      "subcat": "Hacker News Picks",
+      "title": "Nebula Sans",
+      "url": "https://news.ycombinator.com/item?id=49450448"
     }
   ]
 }

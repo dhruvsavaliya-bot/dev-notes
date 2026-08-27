@@ -808,6 +808,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49454419
 - **Link:** https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu
 
+**Added 2026-08-27**
+
+### [Nebula Sans](https://www.nebulasans.com)
+- **Source:** www.nebulasans.com | **Posted:** 2026-08-26 | **By:** GavinAnderegg
+- **Community:** 438 points, 172 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49450448
+- **Link:** https://www.nebulasans.com
+
 
 ## Beginner
 
