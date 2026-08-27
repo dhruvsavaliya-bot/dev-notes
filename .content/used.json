@@ -95,6 +95,7 @@
     "https://github.com/anywhere-labs/dsh-desktop",
     "https://github.com/arvids-unavailable/openGym",
     "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+    "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
     "https://github.com/baairon/torlink",
     "https://github.com/baidu/Unlimited-OCR",
     "https://github.com/bashalarmistalt/decimen-optical-transfer",
@@ -308,12 +309,6 @@
   ],
   "recent": [
     {
-      "date": "2026-08-25",
-      "subcat": "Hacker News Picks",
-      "title": "iCloud+ Hide My Email addresses will remain on icloud.c",
-      "url": "https://news.ycombinator.com/item?id=49426564"
-    },
-    {
       "date": "2026-08-26",
       "subcat": "AI & Machine Learning",
       "title": "CopilotKit/OpenBot",
@@ -366,6 +361,12 @@
       "subcat": "Productivity",
       "title": "What Do You Do While AI Codes?",
       "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k"
+    },
+    {
+      "date": "2026-08-27",
+      "subcat": "Other Cool Projects",
+      "title": "b-nnett/grok-bot-0.18-reconstructed",
+      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed"
     }
   ]
 }

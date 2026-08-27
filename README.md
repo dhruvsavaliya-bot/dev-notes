@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**298 entries and counting** · Last updated: 2026-08-27
+**299 entries and counting** · Last updated: 2026-08-27
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 96 |
+| [Trending Projects](trending-projects/projects.md) | 97 |
 | [AI / LLM Notes](ai/notes.md) | 21 |
 | [Reading List](articles/reading-list.md) | 82 |
 | [Coding Tips](coding-tips/tips.md) | 91 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-08-27** · *Other Cool Projects* — [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed)
 - **2026-08-27** · *Productivity* — [What Do You Do While AI Codes?](https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k)
 - **2026-08-26** · *Hacker News Picks* — [Apple introduces M6 and M5 Ultra](https://news.ycombinator.com/item?id=49433292)
-- **2026-08-26** · *Hacker News Picks* — [How credit card rewards became a $9.2B wealth transfer](https://news.ycombinator.com/item?id=49432201)
 
 ## How it works
 

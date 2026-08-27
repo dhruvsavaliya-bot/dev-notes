@@ -877,6 +877,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1,654 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/anywhere-labs/dsh-desktop
 
+**Added 2026-08-27**
+
+### [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed)
+- **Stats:** 3,141 stars | 3,159 forks | 14 open issues
+- **Language:** TypeScript | **Created:** 2026-08-23 | **License:** None
+- **Topics:** none listed
+- **What it is:** Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS
+- **Growth:** averaging ~785 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/b-nnett/grok-bot-0.18-reconstructed
+
 
 ## Web & Frontend
 
