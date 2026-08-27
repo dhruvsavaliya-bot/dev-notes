@@ -103,6 +103,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one "quick" habit that makes you the bottleneck.
 - **Link:** https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k
 
+**Added 2026-08-27**
+
+### [10 Git Commands You’ll Wish You Knew Earlier](https://dev.to/sylwia-lask/10-git-commands-youll-wish-you-knew-earlier-4fcp)
+- **Author:** Sylwia Laskowska | **Published:** Aug 26 | **Read time:** 13 min
+- **Community:** 95 reactions, 40 comments — a top post of the week in #productivity
+- **Tags:** git, programming, productivity, beginners
+- **Summary:** Do you know Git?&nbsp;Of course you do! Today, I’ve got a few of my favorite Git commands for...
+- **Link:** https://dev.to/sylwia-lask/10-git-commands-youll-wish-you-knew-earlier-4fcp
+
 
 ## Hacker News Picks
 
