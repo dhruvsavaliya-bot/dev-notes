@@ -305,15 +305,10 @@
     "https://news.ycombinator.com/item?id=49433450",
     "https://news.ycombinator.com/item?id=49437049",
     "https://news.ycombinator.com/item?id=49438052",
-    "https://news.ycombinator.com/item?id=49439499"
+    "https://news.ycombinator.com/item?id=49439499",
+    "https://news.ycombinator.com/item?id=49451313"
   ],
   "recent": [
-    {
-      "date": "2026-08-26",
-      "subcat": "AI & Machine Learning",
-      "title": "CopilotKit/OpenBot",
-      "url": "https://github.com/CopilotKit/OpenBot"
-    },
     {
       "date": "2026-08-26",
       "subcat": "Hacker News Picks",
@@ -367,6 +362,12 @@
       "subcat": "Other Cool Projects",
       "title": "b-nnett/grok-bot-0.18-reconstructed",
       "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed"
+    },
+    {
+      "date": "2026-08-27",
+      "subcat": "Hacker News Picks",
+      "title": "The turbulent AI era is here",
+      "url": "https://news.ycombinator.com/item?id=49451313"
     }
   ]
 }

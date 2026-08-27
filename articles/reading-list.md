@@ -704,6 +704,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49433292
 - **Link:** https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/
 
+**Added 2026-08-27**
+
+### [The turbulent AI era is here](https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make)
+- **Source:** www.gatesnotes.com | **Posted:** 2026-08-26 | **By:** LVB
+- **Community:** 210 points, 185 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49451313
+- **Link:** https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make
+
 
 ## DevOps & Cloud
 
