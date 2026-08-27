@@ -10,6 +10,7 @@
     "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
     "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag",
     "https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g",
+    "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
     "https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635",
     "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
     "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1",
@@ -309,12 +310,6 @@
     {
       "date": "2026-08-25",
       "subcat": "Hacker News Picks",
-      "title": "Show HN: PicoMQ  Durable Streams over HTTP, on object s",
-      "url": "https://news.ycombinator.com/item?id=49421806"
-    },
-    {
-      "date": "2026-08-25",
-      "subcat": "Hacker News Picks",
       "title": "iCloud+ Hide My Email addresses will remain on icloud.c",
       "url": "https://news.ycombinator.com/item?id=49426564"
     },
@@ -365,6 +360,12 @@
       "subcat": "Hacker News Picks",
       "title": "Apple introduces M6 and M5 Ultra",
       "url": "https://news.ycombinator.com/item?id=49433292"
+    },
+    {
+      "date": "2026-08-27",
+      "subcat": "Productivity",
+      "title": "What Do You Do While AI Codes?",
+      "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k"
     }
   ]
 }

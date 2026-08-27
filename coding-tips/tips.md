@@ -94,6 +94,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** Struggling with burnout? Procrastination? Reaching your goals? Let me share a few methods that help...
 - **Link:** https://dev.to/sylwia-lask/7-productivity-tips-that-sound-wrong-but-actually-work-5602
 
+**Added 2026-08-27**
+
+### [What Do You Do While AI Codes?](https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k)
+- **Author:** Ashley Childress | **Published:** Aug 25 | **Read time:** 4 min
+- **Community:** 70 reactions, 59 comments — a top post of the week in #productivity
+- **Tags:** discuss, ai, productivity, devex
+- **Summary:** AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one "quick" habit that makes you the bottleneck.
+- **Link:** https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k
+
 
 ## Hacker News Picks
 
