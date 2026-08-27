@@ -799,6 +799,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49432319
 - **Link:** https://dontwordle.com/
 
+**Added 2026-08-27**
+
+### [Actinide is first startup to produce high-assay low-enriched uranium (HALEU)](https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu)
+- **Source:** www.actinideinc.com | **Posted:** 2026-08-26 | **By:** dsalzman
+- **Community:** 163 points, 80 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49454419
+- **Link:** https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu
+
 
 ## Beginner
 

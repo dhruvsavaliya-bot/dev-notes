@@ -309,15 +309,10 @@
     "https://news.ycombinator.com/item?id=49438052",
     "https://news.ycombinator.com/item?id=49439499",
     "https://news.ycombinator.com/item?id=49451313",
+    "https://news.ycombinator.com/item?id=49454419",
     "https://news.ycombinator.com/item?id=49454764"
   ],
   "recent": [
-    {
-      "date": "2026-08-26",
-      "subcat": "Hacker News Picks",
-      "title": "Don't Wordle",
-      "url": "https://news.ycombinator.com/item?id=49432319"
-    },
     {
       "date": "2026-08-26",
       "subcat": "Hacker News Picks",
@@ -371,6 +366,12 @@
       "subcat": "LLMs",
       "title": "The Reasoning Ledger: Remembering Decisions, Not Just D",
       "url": "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm"
+    },
+    {
+      "date": "2026-08-27",
+      "subcat": "Hacker News Picks",
+      "title": "Actinide is first startup to produce high-assay low-enr",
+      "url": "https://news.ycombinator.com/item?id=49454419"
     }
   ]
 }
