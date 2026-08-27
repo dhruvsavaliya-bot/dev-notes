@@ -29,6 +29,7 @@
     "https://dev.to/he4rt/pensar-demais-nem-sempre-ajuda-e-o-que-eu-aprendi-com-isso-49pp",
     "https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh",
     "https://dev.to/hemapriya_kanagala/what-would-you-tell-someone-early-in-their-career-1k76",
+    "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm",
     "https://dev.to/konark_13/vibe-coding-endgame-3bbn",
     "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
     "https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h",
@@ -314,12 +315,6 @@
     {
       "date": "2026-08-26",
       "subcat": "Hacker News Picks",
-      "title": "Show HN: LatticeDB  Like SQLite but for graph databases",
-      "url": "https://news.ycombinator.com/item?id=49437049"
-    },
-    {
-      "date": "2026-08-26",
-      "subcat": "Hacker News Picks",
       "title": "Don't Wordle",
       "url": "https://news.ycombinator.com/item?id=49432319"
     },
@@ -370,6 +365,12 @@
       "subcat": "Productivity",
       "title": "10 Git Commands Youll Wish You Knew Earlier",
       "url": "https://dev.to/sylwia-lask/10-git-commands-youll-wish-you-knew-earlier-4fcp"
+    },
+    {
+      "date": "2026-08-27",
+      "subcat": "LLMs",
+      "title": "The Reasoning Ledger: Remembering Decisions, Not Just D",
+      "url": "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm"
     }
   ]
 }

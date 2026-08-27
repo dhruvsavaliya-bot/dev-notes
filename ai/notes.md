@@ -197,3 +197,12 @@ Lessons from building with LLMs.
 - **Tags:** ai, llm, writing, discuss
 - **Summary:** Anthropic signed the EU AI Act's Code of Practice on Transparency of AI-Generated Content, and...
 - **Link:** https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9
+
+**Added 2026-08-27**
+
+### [The Reasoning Ledger: Remembering Decisions, Not Just Data](https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm)
+- **Author:** Ken W Alger | **Published:** Aug 20 | **Read time:** 4 min
+- **Community:** 51 reactions, 57 comments — a top post of the week in #llm
+- **Tags:** ai, agents, llm, architecture
+- **Summary:** Part 4 of the Building the AI Memory Stack series  After finishing the previous article, I looked at...
+- **Link:** https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm
