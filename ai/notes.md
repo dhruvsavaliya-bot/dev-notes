@@ -177,6 +177,15 @@ Lessons from building with LLMs.
 - **Summary:** Can't believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...
 - **Link:** https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20
 
+**Added 2026-08-28**
+
+### [AI promoted every developer to reviewer. Nobody tested the reviewer.](https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h)
+- **Author:** Heinrich Neb | **Published:** Aug 24 | **Read time:** 6 min
+- **Community:** 53 reactions, 63 comments — a top post of the week in #ai
+- **Tags:** ai, productivity, testing, discuss
+- **Summary:** I wanted to disagree with 'AI made me a worse reviewer' from Michael Amachree (@dev_michael) ....
+- **Link:** https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h
+
 
 ## LLMs
 

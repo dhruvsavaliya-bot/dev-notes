@@ -27,6 +27,7 @@
     "https://dev.to/he4rt/como-escolher-eventos-de-tecnologia-para-participar-55kf",
     "https://dev.to/he4rt/contribuir-para-a-comunidade-como-destacar-isso-no-seu-linkedin-e-curriculo-4cgl",
     "https://dev.to/he4rt/pensar-demais-nem-sempre-ajuda-e-o-que-eu-aprendi-com-isso-49pp",
+    "https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h",
     "https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh",
     "https://dev.to/hemapriya_kanagala/what-would-you-tell-someone-early-in-their-career-1k76",
     "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm",
@@ -318,12 +319,6 @@
   "recent": [
     {
       "date": "2026-08-27",
-      "subcat": "Productivity",
-      "title": "What Do You Do While AI Codes?",
-      "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k"
-    },
-    {
-      "date": "2026-08-27",
       "subcat": "Other Cool Projects",
       "title": "b-nnett/grok-bot-0.18-reconstructed",
       "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed"
@@ -375,6 +370,12 @@
       "subcat": "Other Cool Projects",
       "title": "HEJustinSun/my-girlfriend-jingtian-latex",
       "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex"
+    },
+    {
+      "date": "2026-08-28",
+      "subcat": "AI Engineering",
+      "title": "AI promoted every developer to reviewer. Nobody tested ",
+      "url": "https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h"
     }
   ]
 }

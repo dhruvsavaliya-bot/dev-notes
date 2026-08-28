@@ -3,23 +3,23 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**307 entries and counting** · Last updated: 2026-08-28
+**308 entries and counting** · Last updated: 2026-08-28
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 99 |
-| [AI / LLM Notes](ai/notes.md) | 22 |
+| [AI / LLM Notes](ai/notes.md) | 23 |
 | [Reading List](articles/reading-list.md) | 84 |
 | [Coding Tips](coding-tips/tips.md) | 94 |
 | [Language Notes](languages/notes.md) | 8 |
 
 ## Latest additions
 
+- **2026-08-28** · *AI Engineering* — [AI promoted every developer to reviewer. Nobody tested ](https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h)
 - **2026-08-28** · *Other Cool Projects* — [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)
 - **2026-08-28** · *AI & Machine Learning* — [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop)
-- **2026-08-27** · *Hacker News Picks* — [Nebula Sans](https://news.ycombinator.com/item?id=49450448)
 
 ## How it works
 
