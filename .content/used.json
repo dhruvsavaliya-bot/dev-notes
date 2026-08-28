@@ -67,6 +67,7 @@
     "https://github.com/DavidHDev/canvas-ui",
     "https://github.com/FareedKhan-dev/kimi-k3-in-c",
     "https://github.com/Fei-Away/Codex-Dream-Skin",
+    "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
     "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
     "https://github.com/Jia-Ethan/codex-keysmith",
     "https://github.com/JustVugg/colibri",
@@ -316,12 +317,6 @@
   ],
   "recent": [
     {
-      "date": "2026-08-26",
-      "subcat": "Hacker News Picks",
-      "title": "Apple introduces M6 and M5 Ultra",
-      "url": "https://news.ycombinator.com/item?id=49433292"
-    },
-    {
       "date": "2026-08-27",
       "subcat": "Productivity",
       "title": "What Do You Do While AI Codes?",
@@ -374,6 +369,12 @@
       "subcat": "AI & Machine Learning",
       "title": "dataelement/dsh-desktop",
       "url": "https://github.com/dataelement/dsh-desktop"
+    },
+    {
+      "date": "2026-08-28",
+      "subcat": "Other Cool Projects",
+      "title": "HEJustinSun/my-girlfriend-jingtian-latex",
+      "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex"
     }
   ]
 }

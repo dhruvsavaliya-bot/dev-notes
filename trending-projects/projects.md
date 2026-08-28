@@ -897,6 +897,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~785 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/b-nnett/grok-bot-0.18-reconstructed
 
+**Added 2026-08-28**
+
+### [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)
+- **Stats:** 3,105 stars | 491 forks | 383 open issues
+- **Language:** TeX | **Created:** 2026-08-27 | **License:** None
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~3,105 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/HEJustinSun/my-girlfriend-jingtian-latex
+
 
 ## Web & Frontend
 
