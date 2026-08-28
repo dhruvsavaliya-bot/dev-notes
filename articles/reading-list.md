@@ -722,6 +722,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49454764
 - **Link:** https://acceptmarkdown.com/
 
+**Added 2026-08-28**
+
+### [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/)
+- **Source:** github.com | **Posted:** 2026-08-27 | **By:** elyosh
+- **Community:** 179 points, 45 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49471965
+- **Link:** https://github.com/elyosh/OpenTIE/
+
 
 ## DevOps & Cloud
 
