@@ -434,6 +434,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~325 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/CopilotKit/OpenBot
 
+**Added 2026-08-28**
+
+### [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop)
+- **Stats:** 2,940 stars | 166 forks | 34 open issues
+- **Language:** TypeScript | **Created:** 2026-08-13 | **License:** MIT
+- **Topics:** agent, apps, deepseek, deepseek-harness, deepseek-harness-desktop, desktop
+- **What it is:** DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版
+- **Growth:** averaging ~196 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/dataelement/dsh-desktop
+
 
 ## Other Cool Projects
 

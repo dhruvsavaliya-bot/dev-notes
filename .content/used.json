@@ -106,6 +106,7 @@
     "https://github.com/bryanthaboi/gen1recomp",
     "https://github.com/cloudflare/security-audit-skill",
     "https://github.com/cordiverse/paper",
+    "https://github.com/dataelement/dsh-desktop",
     "https://github.com/davidondrej/skills",
     "https://github.com/deepseek-ai/DeepSpec",
     "https://github.com/deepseek-ai/deepseek-harness",
@@ -317,12 +318,6 @@
     {
       "date": "2026-08-26",
       "subcat": "Hacker News Picks",
-      "title": "How credit card rewards became a $9.2B wealth transfer",
-      "url": "https://news.ycombinator.com/item?id=49432201"
-    },
-    {
-      "date": "2026-08-26",
-      "subcat": "Hacker News Picks",
       "title": "Apple introduces M6 and M5 Ultra",
       "url": "https://news.ycombinator.com/item?id=49433292"
     },
@@ -373,6 +368,12 @@
       "subcat": "Hacker News Picks",
       "title": "Nebula Sans",
       "url": "https://news.ycombinator.com/item?id=49450448"
+    },
+    {
+      "date": "2026-08-28",
+      "subcat": "AI & Machine Learning",
+      "title": "dataelement/dsh-desktop",
+      "url": "https://github.com/dataelement/dsh-desktop"
     }
   ]
 }
