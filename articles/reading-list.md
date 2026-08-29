@@ -731,6 +731,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49471965
 - **Link:** https://github.com/elyosh/OpenTIE/
 
+**Added 2026-08-29**
+
+### [Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment](https://arxiv.org/abs/2608.23691)
+- **Source:** arxiv.org | **Posted:** 2026-08-28 | **By:** stephenchung
+- **Community:** 106 points, 29 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49481455
+- **Link:** https://arxiv.org/abs/2608.23691
+
 
 ## DevOps & Cloud
 

@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**311 entries and counting** · Last updated: 2026-08-29
+**312 entries and counting** · Last updated: 2026-08-29
 
 ## Categories
 
@@ -11,15 +11,15 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 101 |
 | [AI / LLM Notes](ai/notes.md) | 23 |
-| [Reading List](articles/reading-list.md) | 85 |
+| [Reading List](articles/reading-list.md) | 86 |
 | [Coding Tips](coding-tips/tips.md) | 94 |
 | [Language Notes](languages/notes.md) | 8 |
 
 ## Latest additions
 
+- **2026-08-29** · *Hacker News Picks* — [Autonomous Mathematical Discovery in an Open-World Mult](https://news.ycombinator.com/item?id=49481455)
 - **2026-08-29** · *Other Cool Projects* — [Hisn00w/ASu-skills](https://github.com/Hisn00w/ASu-skills)
 - **2026-08-29** · *AI & Machine Learning* — [thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy)
-- **2026-08-28** · *Hacker News Picks* — [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fight](https://news.ycombinator.com/item?id=49471965)
 
 ## How it works
 
