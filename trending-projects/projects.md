@@ -917,6 +917,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~3,105 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/HEJustinSun/my-girlfriend-jingtian-latex
 
+**Added 2026-08-29**
+
+### [Hisn00w/ASu-skills](https://github.com/Hisn00w/ASu-skills)
+- **Stats:** 2,784 stars | 191 forks | 10 open issues
+- **Language:** HTML | **Created:** 2026-08-12 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** 简历包装
+- **Growth:** averaging ~163 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/Hisn00w/ASu-skills
+
 
 ## Web & Frontend
 

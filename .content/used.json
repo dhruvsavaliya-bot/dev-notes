@@ -70,6 +70,7 @@
     "https://github.com/Fei-Away/Codex-Dream-Skin",
     "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
     "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+    "https://github.com/Hisn00w/ASu-skills",
     "https://github.com/Jia-Ethan/codex-keysmith",
     "https://github.com/JustVugg/colibri",
     "https://github.com/KKKKhazix/human-writing",
@@ -321,12 +322,6 @@
   "recent": [
     {
       "date": "2026-08-27",
-      "subcat": "Hacker News Picks",
-      "title": "Serve Markdown to AI Agents with Accept Headers",
-      "url": "https://news.ycombinator.com/item?id=49454764"
-    },
-    {
-      "date": "2026-08-27",
       "subcat": "Productivity",
       "title": "10 Git Commands Youll Wish You Knew Earlier",
       "url": "https://dev.to/sylwia-lask/10-git-commands-youll-wish-you-knew-earlier-4fcp"
@@ -378,6 +373,12 @@
       "subcat": "AI & Machine Learning",
       "title": "thebuggeddev/anatomy",
       "url": "https://github.com/thebuggeddev/anatomy"
+    },
+    {
+      "date": "2026-08-29",
+      "subcat": "Other Cool Projects",
+      "title": "Hisn00w/ASu-skills",
+      "url": "https://github.com/Hisn00w/ASu-skills"
     }
   ]
 }
