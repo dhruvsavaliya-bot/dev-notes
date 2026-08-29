@@ -145,6 +145,7 @@
     "https://github.com/slvDev/esp32-ai",
     "https://github.com/synthetic-sciences/openscience",
     "https://github.com/tamnd/kage",
+    "https://github.com/thebuggeddev/anatomy",
     "https://github.com/trycompai/crm",
     "https://github.com/unicity-aos/aos-ce",
     "https://github.com/vercel-labs/scriptc",
@@ -321,12 +322,6 @@
     {
       "date": "2026-08-27",
       "subcat": "Hacker News Picks",
-      "title": "The turbulent AI era is here",
-      "url": "https://news.ycombinator.com/item?id=49451313"
-    },
-    {
-      "date": "2026-08-27",
-      "subcat": "Hacker News Picks",
       "title": "Serve Markdown to AI Agents with Accept Headers",
       "url": "https://news.ycombinator.com/item?id=49454764"
     },
@@ -377,6 +372,12 @@
       "subcat": "Hacker News Picks",
       "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fight",
       "url": "https://news.ycombinator.com/item?id=49471965"
+    },
+    {
+      "date": "2026-08-29",
+      "subcat": "AI & Machine Learning",
+      "title": "thebuggeddev/anatomy",
+      "url": "https://github.com/thebuggeddev/anatomy"
     }
   ]
 }

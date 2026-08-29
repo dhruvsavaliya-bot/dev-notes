@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**309 entries and counting** · Last updated: 2026-08-28
+**310 entries and counting** · Last updated: 2026-08-29
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 99 |
+| [Trending Projects](trending-projects/projects.md) | 100 |
 | [AI / LLM Notes](ai/notes.md) | 23 |
 | [Reading List](articles/reading-list.md) | 85 |
 | [Coding Tips](coding-tips/tips.md) | 94 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-08-29** · *AI & Machine Learning* — [thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy)
 - **2026-08-28** · *Hacker News Picks* — [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fight](https://news.ycombinator.com/item?id=49471965)
 - **2026-08-28** · *AI Engineering* — [AI promoted every developer to reviewer. Nobody tested ](https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h)
-- **2026-08-28** · *Other Cool Projects* — [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)
 
 ## How it works
 

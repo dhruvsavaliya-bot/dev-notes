@@ -444,6 +444,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~196 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/dataelement/dsh-desktop
 
+**Added 2026-08-29**
+
+### [thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy)
+- **Stats:** 2,760 stars | 769 forks | 24 open issues
+- **Language:** TypeScript | **Created:** 2026-08-02 | **License:** None
+- **Topics:** none listed
+- **What it is:** An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol
+- **Growth:** averaging ~102 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/thebuggeddev/anatomy
+
 
 ## Other Cool Projects
 
