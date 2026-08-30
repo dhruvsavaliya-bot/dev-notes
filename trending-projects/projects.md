@@ -937,6 +937,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1,070 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/sapientinc/PRAXIST
 
+**Added 2026-08-30**
+
+### [openTrinity/mycontext](https://github.com/openTrinity/mycontext)
+- **Stats:** 2,930 stars | 135 forks | 21 open issues
+- **Language:** TypeScript | **Created:** 2026-08-03 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** MyContext is a local-first desktop app for everyday communication and knowledge work
+- **Growth:** averaging ~108 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/openTrinity/mycontext
+
 
 ## Web & Frontend
 

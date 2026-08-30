@@ -137,6 +137,7 @@
     "https://github.com/nyblnet/bento",
     "https://github.com/omdsh-dev/DSH-better-sidebar",
     "https://github.com/oomol-lab/open-connector",
+    "https://github.com/openTrinity/mycontext",
     "https://github.com/openai/codex-security",
     "https://github.com/oso95/scroll-world",
     "https://github.com/pathwaycom/arc-task-gen",
@@ -325,12 +326,6 @@
     {
       "date": "2026-08-27",
       "subcat": "Hacker News Picks",
-      "title": "Actinide is first startup to produce high-assay low-enr",
-      "url": "https://news.ycombinator.com/item?id=49454419"
-    },
-    {
-      "date": "2026-08-27",
-      "subcat": "Hacker News Picks",
       "title": "Nebula Sans",
       "url": "https://news.ycombinator.com/item?id=49450448"
     },
@@ -381,6 +376,12 @@
       "subcat": "Other Cool Projects",
       "title": "sapientinc/PRAXIST",
       "url": "https://github.com/sapientinc/PRAXIST"
+    },
+    {
+      "date": "2026-08-30",
+      "subcat": "Other Cool Projects",
+      "title": "openTrinity/mycontext",
+      "url": "https://github.com/openTrinity/mycontext"
     }
   ]
 }
