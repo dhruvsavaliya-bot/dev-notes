@@ -454,6 +454,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~102 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/thebuggeddev/anatomy
 
+**Added 2026-08-30**
+
+### [fuxicodex/Fuxi](https://github.com/fuxicodex/Fuxi)
+- **Stats:** 2,920 stars | 177 forks | 1 open issues
+- **Language:** Python | **Created:** 2026-08-04 | **License:** NOASSERTION
+- **Topics:** agent, ai, ai-agent, ai-coding, autonomous-agent, cli
+- **What it is:** FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers.
+- **Growth:** averaging ~112 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/fuxicodex/Fuxi
+
 
 ## Other Cool Projects
 

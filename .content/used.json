@@ -119,6 +119,7 @@
     "https://github.com/drumih/turbo-fieldfare",
     "https://github.com/elder-plinius/T3MP3ST",
     "https://github.com/firecrawl/anydoc",
+    "https://github.com/fuxicodex/Fuxi",
     "https://github.com/genspark-ai/genoffice",
     "https://github.com/google-research/tabfm",
     "https://github.com/guillaumemeyer/watermarks-remover",
@@ -328,12 +329,6 @@
   "recent": [
     {
       "date": "2026-08-28",
-      "subcat": "AI Engineering",
-      "title": "AI promoted every developer to reviewer. Nobody tested ",
-      "url": "https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h"
-    },
-    {
-      "date": "2026-08-28",
       "subcat": "Hacker News Picks",
       "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fight",
       "url": "https://news.ycombinator.com/item?id=49471965"
@@ -385,6 +380,12 @@
       "subcat": "Hacker News Picks",
       "title": "Calibrate Before You Accelerate: Bias Toward Action in ",
       "url": "https://news.ycombinator.com/item?id=49491714"
+    },
+    {
+      "date": "2026-08-30",
+      "subcat": "AI & Machine Learning",
+      "title": "fuxicodex/Fuxi",
+      "url": "https://github.com/fuxicodex/Fuxi"
     }
   ]
 }

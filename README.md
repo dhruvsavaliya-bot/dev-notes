@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**317 entries and counting** · Last updated: 2026-08-30
+**318 entries and counting** · Last updated: 2026-08-30
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 103 |
+| [Trending Projects](trending-projects/projects.md) | 104 |
 | [AI / LLM Notes](ai/notes.md) | 23 |
 | [Reading List](articles/reading-list.md) | 87 |
 | [Coding Tips](coding-tips/tips.md) | 95 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-08-30** · *AI & Machine Learning* — [fuxicodex/Fuxi](https://github.com/fuxicodex/Fuxi)
 - **2026-08-30** · *Hacker News Picks* — [Calibrate Before You Accelerate: Bias Toward Action in ](https://news.ycombinator.com/item?id=49491714)
 - **2026-08-30** · *TypeScript* — [Learn Valid Parentheses, Reverse Linked List, and Tree ](https://dev.to/nyaomaru/learn-valid-parentheses-reverse-linked-list-and-tree-max-depth-with-step-by-step-visualization-in-3o09)
-- **2026-08-30** · *Hacker News Picks* — [EVE Online moves to Python 3](https://news.ycombinator.com/item?id=49433328)
 
 ## How it works
 
