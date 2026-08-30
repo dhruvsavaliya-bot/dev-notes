@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**315 entries and counting** · Last updated: 2026-08-30
+**316 entries and counting** · Last updated: 2026-08-30
 
 ## Categories
 
@@ -13,13 +13,13 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 | [AI / LLM Notes](ai/notes.md) | 23 |
 | [Reading List](articles/reading-list.md) | 87 |
 | [Coding Tips](coding-tips/tips.md) | 94 |
-| [Language Notes](languages/notes.md) | 8 |
+| [Language Notes](languages/notes.md) | 9 |
 
 ## Latest additions
 
+- **2026-08-30** · *TypeScript* — [Learn Valid Parentheses, Reverse Linked List, and Tree ](https://dev.to/nyaomaru/learn-valid-parentheses-reverse-linked-list-and-tree-max-depth-with-step-by-step-visualization-in-3o09)
 - **2026-08-30** · *Hacker News Picks* — [EVE Online moves to Python 3](https://news.ycombinator.com/item?id=49433328)
 - **2026-08-30** · *Other Cool Projects* — [openTrinity/mycontext](https://github.com/openTrinity/mycontext)
-- **2026-08-30** · *Other Cool Projects* — [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)
 
 ## How it works
 

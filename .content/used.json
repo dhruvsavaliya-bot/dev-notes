@@ -39,6 +39,7 @@
     "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
     "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
     "https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b",
+    "https://dev.to/nyaomaru/learn-valid-parentheses-reverse-linked-list-and-tree-max-depth-with-step-by-step-visualization-in-3o09",
     "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9",
     "https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o",
     "https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh",
@@ -326,12 +327,6 @@
   "recent": [
     {
       "date": "2026-08-28",
-      "subcat": "AI & Machine Learning",
-      "title": "dataelement/dsh-desktop",
-      "url": "https://github.com/dataelement/dsh-desktop"
-    },
-    {
-      "date": "2026-08-28",
       "subcat": "Other Cool Projects",
       "title": "HEJustinSun/my-girlfriend-jingtian-latex",
       "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex"
@@ -383,6 +378,12 @@
       "subcat": "Hacker News Picks",
       "title": "EVE Online moves to Python 3",
       "url": "https://news.ycombinator.com/item?id=49433328"
+    },
+    {
+      "date": "2026-08-30",
+      "subcat": "TypeScript",
+      "title": "Learn Valid Parentheses, Reverse Linked List, and Tree ",
+      "url": "https://dev.to/nyaomaru/learn-valid-parentheses-reverse-linked-list-and-tree-max-depth-with-step-by-step-visualization-in-3o09"
     }
   ]
 }

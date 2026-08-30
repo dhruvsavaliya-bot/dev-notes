@@ -80,3 +80,12 @@ Snippets and gotchas across languages.
 - **Tags:** typescript, opensource, webdev, frontend
 - **Summary:** Hoi hoi!  I'm @nyaomaru, a frontend engineer who is trying to lose weight. 🐖🙀  I maintain a type...
 - **Link:** https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b
+
+**Added 2026-08-30**
+
+### [Learn Valid Parentheses, Reverse Linked List, and Tree Max Depth with Step-by-Step Visualization in DSA View View 👀👀](https://dev.to/nyaomaru/learn-valid-parentheses-reverse-linked-list-and-tree-max-depth-with-step-by-step-visualization-in-3o09)
+- **Author:** nyaomaru | **Published:** Aug 26 | **Read time:** 9 min
+- **Community:** 68 reactions, 5 comments — a top post of the week in #typescript
+- **Tags:** typescript, algorithms, opensource, dsa
+- **Summary:** Hoi hoi!  I’m @nyaomaru, a frontend engineer who struggles to make game sounds. 😿  Have you used DSA...
+- **Link:** https://dev.to/nyaomaru/learn-valid-parentheses-reverse-linked-list-and-tree-max-depth-with-step-by-step-visualization-in-3o09
