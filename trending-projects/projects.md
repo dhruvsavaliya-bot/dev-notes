@@ -927,6 +927,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~163 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Hisn00w/ASu-skills
 
+**Added 2026-08-30**
+
+### [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)
+- **Stats:** 3,212 stars | 362 forks | 5 open issues
+- **Language:** Python | **Created:** 2026-08-27 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** Autonomous research system for measurable, computer-executable research.
+- **Growth:** averaging ~1,070 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/sapientinc/PRAXIST
+
 
 ## Web & Frontend
 

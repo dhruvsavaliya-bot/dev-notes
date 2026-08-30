@@ -143,6 +143,7 @@
     "https://github.com/penecho/penecho",
     "https://github.com/petergyang/no-ai-slop",
     "https://github.com/s1dashu/ip-as-logo-skill",
+    "https://github.com/sapientinc/PRAXIST",
     "https://github.com/slvDev/esp32-ai",
     "https://github.com/synthetic-sciences/openscience",
     "https://github.com/tamnd/kage",
@@ -323,12 +324,6 @@
   "recent": [
     {
       "date": "2026-08-27",
-      "subcat": "LLMs",
-      "title": "The Reasoning Ledger: Remembering Decisions, Not Just D",
-      "url": "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm"
-    },
-    {
-      "date": "2026-08-27",
       "subcat": "Hacker News Picks",
       "title": "Actinide is first startup to produce high-assay low-enr",
       "url": "https://news.ycombinator.com/item?id=49454419"
@@ -380,6 +375,12 @@
       "subcat": "Hacker News Picks",
       "title": "Autonomous Mathematical Discovery in an Open-World Mult",
       "url": "https://news.ycombinator.com/item?id=49481455"
+    },
+    {
+      "date": "2026-08-30",
+      "subcat": "Other Cool Projects",
+      "title": "sapientinc/PRAXIST",
+      "url": "https://github.com/sapientinc/PRAXIST"
     }
   ]
 }
