@@ -749,6 +749,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49433328
 - **Link:** https://www.eveonline.com/news/view/the-move-to-python-3-begins
 
+**Added 2026-08-30**
+
+### [Nancy Grace Roman Space Telescope](https://science.nasa.gov/mission/roman-space-telescope/)
+- **Source:** science.nasa.gov | **Posted:** 2026-08-29 | **By:** JumpCrisscross
+- **Community:** 226 points, 82 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49490870
+- **Link:** https://science.nasa.gov/mission/roman-space-telescope/
+
 
 ## DevOps & Cloud
 
