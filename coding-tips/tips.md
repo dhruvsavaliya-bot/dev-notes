@@ -817,6 +817,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49450448
 - **Link:** https://www.nebulasans.com
 
+**Added 2026-08-30**
+
+### [Calibrate Before You Accelerate: Bias Toward Action in a New Role](https://tucker.wales/writing/bias-towards-action/)
+- **Source:** tucker.wales | **Posted:** 2026-08-29 | **By:** tuckerwales
+- **Community:** 165 points, 66 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49491714
+- **Link:** https://tucker.wales/writing/bias-towards-action/
+
 
 ## Beginner
 
