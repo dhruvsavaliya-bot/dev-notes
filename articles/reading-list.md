@@ -740,6 +740,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49481455
 - **Link:** https://arxiv.org/abs/2608.23691
 
+**Added 2026-08-30**
+
+### [EVE Online moves to Python 3](https://www.eveonline.com/news/view/the-move-to-python-3-begins)
+- **Source:** www.eveonline.com | **Posted:** 2026-08-25 | **By:** TylerJaacks
+- **Community:** 349 points, 191 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49433328
+- **Link:** https://www.eveonline.com/news/view/the-move-to-python-3-begins
+
 
 ## DevOps & Cloud
 
