@@ -112,6 +112,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** Do you know Git?&nbsp;Of course you do! Today, I’ve got a few of my favorite Git commands for...
 - **Link:** https://dev.to/sylwia-lask/10-git-commands-youll-wish-you-knew-earlier-4fcp
 
+**Added 2026-08-31**
+
+### [Velocidade de entrega e custo de manutenção pós IA](https://dev.to/he4rt/velocidade-de-entrega-e-custo-de-manutencao-pos-ia-5gei)
+- **Author:** Elves Santos | **Published:** Aug 27 | **Read time:** 7 min
+- **Community:** 78 reactions, 3 comments — a top post of the week in #productivity
+- **Tags:** ai, braziliandevs, career, productivity
+- **Summary:** Entregar ficou rápido demais. O problema é que manter continuou custando o mesmo preço de sempre.    ...
+- **Link:** https://dev.to/he4rt/velocidade-de-entrega-e-custo-de-manutencao-pos-ia-5gei
+
 
 ## Hacker News Picks
 

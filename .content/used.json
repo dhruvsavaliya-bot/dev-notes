@@ -27,6 +27,7 @@
     "https://dev.to/he4rt/como-escolher-eventos-de-tecnologia-para-participar-55kf",
     "https://dev.to/he4rt/contribuir-para-a-comunidade-como-destacar-isso-no-seu-linkedin-e-curriculo-4cgl",
     "https://dev.to/he4rt/pensar-demais-nem-sempre-ajuda-e-o-que-eu-aprendi-com-isso-49pp",
+    "https://dev.to/he4rt/velocidade-de-entrega-e-custo-de-manutencao-pos-ia-5gei",
     "https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h",
     "https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh",
     "https://dev.to/hemapriya_kanagala/what-would-you-tell-someone-early-in-their-career-1k76",
@@ -330,12 +331,6 @@
   "recent": [
     {
       "date": "2026-08-29",
-      "subcat": "AI & Machine Learning",
-      "title": "thebuggeddev/anatomy",
-      "url": "https://github.com/thebuggeddev/anatomy"
-    },
-    {
-      "date": "2026-08-29",
       "subcat": "Other Cool Projects",
       "title": "Hisn00w/ASu-skills",
       "url": "https://github.com/Hisn00w/ASu-skills"
@@ -387,6 +382,12 @@
       "subcat": "Hacker News Picks",
       "title": "Nancy Grace Roman Space Telescope",
       "url": "https://news.ycombinator.com/item?id=49490870"
+    },
+    {
+      "date": "2026-08-31",
+      "subcat": "Productivity",
+      "title": "Velocidade de entrega e custo de manuteno ps IA",
+      "url": "https://dev.to/he4rt/velocidade-de-entrega-e-custo-de-manutencao-pos-ia-5gei"
     }
   ]
 }
