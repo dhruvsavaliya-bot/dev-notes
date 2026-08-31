@@ -186,6 +186,15 @@ Lessons from building with LLMs.
 - **Summary:** I wanted to disagree with 'AI made me a worse reviewer' from Michael Amachree (@dev_michael) ....
 - **Link:** https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h
 
+**Added 2026-08-31**
+
+### [Amazon AI Blocked My Kindle Book. I Asked What Went Wrong. Then They Approved It.](https://dev.to/xulingfeng/amazon-ai-blocked-my-kindle-book-i-asked-what-went-wrong-then-they-approved-it-48hi)
+- **Author:** xulingfeng | **Published:** Aug 28 | **Read time:** 7 min
+- **Community:** 52 reactions, 15 comments — a top post of the week in #ai
+- **Tags:** ai, discuss, career, programming
+- **Summary:** Yesterday, I published a post titled "My Book 'AI, Ego &amp; Regret' Paperback Is Live. Kindle Is...
+- **Link:** https://dev.to/xulingfeng/amazon-ai-blocked-my-kindle-book-i-asked-what-went-wrong-then-they-approved-it-48hi
+
 
 ## LLMs
 

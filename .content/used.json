@@ -58,6 +58,7 @@
     "https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd",
     "https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0",
     "https://dev.to/xulingfeng/24-cups-36-seats-the-bartenders-ledger-40aj",
+    "https://dev.to/xulingfeng/amazon-ai-blocked-my-kindle-book-i-asked-what-went-wrong-then-they-approved-it-48hi",
     "https://dev.to/xulingfeng/stratagems-10-lena-watched-a-team-adopt-her-ai-template-leo-didnt-know-the-knife-was-in-the-4khj",
     "https://dev.to/xulingfeng/stratagems-16-mark-left-a-hole-in-his-ai-audit-lena-counted-every-layer-2l7p",
     "https://dev.to/xulingfeng/stratagems-17-alex-set-an-ai-bait-the-catch-wasnt-code-it-was-someone-who-shouldnt-have-been-4893",
@@ -336,12 +337,6 @@
   "recent": [
     {
       "date": "2026-08-30",
-      "subcat": "TypeScript",
-      "title": "Learn Valid Parentheses, Reverse Linked List, and Tree ",
-      "url": "https://dev.to/nyaomaru/learn-valid-parentheses-reverse-linked-list-and-tree-max-depth-with-step-by-step-visualization-in-3o09"
-    },
-    {
-      "date": "2026-08-30",
       "subcat": "Hacker News Picks",
       "title": "Calibrate Before You Accelerate: Bias Toward Action in ",
       "url": "https://news.ycombinator.com/item?id=49491714"
@@ -393,6 +388,12 @@
       "subcat": "Hacker News Picks",
       "title": "Matrox: Graphics for Professionals",
       "url": "https://news.ycombinator.com/item?id=49503934"
+    },
+    {
+      "date": "2026-08-31",
+      "subcat": "AI Engineering",
+      "title": "Amazon AI Blocked My Kindle Book. I Asked What Went Wro",
+      "url": "https://dev.to/xulingfeng/amazon-ai-blocked-my-kindle-book-i-asked-what-went-wrong-then-they-approved-it-48hi"
     }
   ]
 }
