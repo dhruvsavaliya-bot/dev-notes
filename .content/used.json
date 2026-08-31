@@ -328,15 +328,10 @@
     "https://news.ycombinator.com/item?id=49471965",
     "https://news.ycombinator.com/item?id=49481455",
     "https://news.ycombinator.com/item?id=49490870",
-    "https://news.ycombinator.com/item?id=49491714"
+    "https://news.ycombinator.com/item?id=49491714",
+    "https://news.ycombinator.com/item?id=49499095"
   ],
   "recent": [
-    {
-      "date": "2026-08-30",
-      "subcat": "Other Cool Projects",
-      "title": "sapientinc/PRAXIST",
-      "url": "https://github.com/sapientinc/PRAXIST"
-    },
     {
       "date": "2026-08-30",
       "subcat": "Other Cool Projects",
@@ -390,6 +385,12 @@
       "subcat": "Developer Tools",
       "title": "dsh-market/dsh-market",
       "url": "https://github.com/dsh-market/dsh-market"
+    },
+    {
+      "date": "2026-08-31",
+      "subcat": "Hacker News Picks",
+      "title": "Zig: Pointer Stability for ArrayLists",
+      "url": "https://news.ycombinator.com/item?id=49499095"
     }
   ]
 }

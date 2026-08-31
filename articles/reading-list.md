@@ -758,6 +758,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49490870
 - **Link:** https://science.nasa.gov/mission/roman-space-telescope/
 
+**Added 2026-08-31**
+
+### [Zig: Pointer Stability for ArrayLists](https://ziglang.org/devlog/2026/#2026-08-27)
+- **Source:** ziglang.org | **Posted:** 2026-08-30 | **By:** tosh
+- **Community:** 103 points, 65 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49499095
+- **Link:** https://ziglang.org/devlog/2026/#2026-08-27
+
 
 ## DevOps & Cloud
 
