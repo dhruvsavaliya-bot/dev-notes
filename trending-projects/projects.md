@@ -1053,6 +1053,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~88 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/LiamGvchi/gc-minimal-zine-poster
 
+**Added 2026-08-31**
+
+### [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market)
+- **Stats:** 2,867 stars | 155 forks | 30 open issues
+- **Language:** TypeScript | **Created:** 2026-08-14 | **License:** MIT
+- **Topics:** deepseek-harness, dsh-plugin, marketplace
+- **What it is:** The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场
+- **Growth:** averaging ~168 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/dsh-market/dsh-market
+
 
 ## Backend & Infrastructure
 

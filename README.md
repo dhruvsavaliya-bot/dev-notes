@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**321 entries and counting** · Last updated: 2026-08-31
+**322 entries and counting** · Last updated: 2026-08-31
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 105 |
+| [Trending Projects](trending-projects/projects.md) | 106 |
 | [AI / LLM Notes](ai/notes.md) | 23 |
 | [Reading List](articles/reading-list.md) | 88 |
 | [Coding Tips](coding-tips/tips.md) | 96 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-08-31** · *Developer Tools* — [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market)
 - **2026-08-31** · *AI & Machine Learning* — [Leonxlnx/unlazy](https://github.com/Leonxlnx/unlazy)
 - **2026-08-31** · *Productivity* — [Velocidade de entrega e custo de manuteno ps IA](https://dev.to/he4rt/velocidade-de-entrega-e-custo-de-manutencao-pos-ia-5gei)
-- **2026-08-30** · *Hacker News Picks* — [Nancy Grace Roman Space Telescope](https://news.ycombinator.com/item?id=49490870)
 
 ## How it works
 

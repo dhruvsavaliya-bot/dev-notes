@@ -119,6 +119,7 @@
     "https://github.com/digimata/quill",
     "https://github.com/dmmulroy/anti-slop",
     "https://github.com/drumih/turbo-fieldfare",
+    "https://github.com/dsh-market/dsh-market",
     "https://github.com/elder-plinius/T3MP3ST",
     "https://github.com/firecrawl/anydoc",
     "https://github.com/fuxicodex/Fuxi",
@@ -331,12 +332,6 @@
   ],
   "recent": [
     {
-      "date": "2026-08-29",
-      "subcat": "Hacker News Picks",
-      "title": "Autonomous Mathematical Discovery in an Open-World Mult",
-      "url": "https://news.ycombinator.com/item?id=49481455"
-    },
-    {
       "date": "2026-08-30",
       "subcat": "Other Cool Projects",
       "title": "sapientinc/PRAXIST",
@@ -389,6 +384,12 @@
       "subcat": "AI & Machine Learning",
       "title": "Leonxlnx/unlazy",
       "url": "https://github.com/Leonxlnx/unlazy"
+    },
+    {
+      "date": "2026-08-31",
+      "subcat": "Developer Tools",
+      "title": "dsh-market/dsh-market",
+      "url": "https://github.com/dsh-market/dsh-market"
     }
   ]
 }
