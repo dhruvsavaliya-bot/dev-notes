@@ -44,6 +44,15 @@ Fresh dev articles and blog posts.
 - **Summary:** A few months ago, my AI coding workflow looked something like...
 - **Link:** https://dev.to/konark_13/vibe-coding-endgame-3bbn
 
+**Added 2026-08-31**
+
+### [I Used React DataGrid to Build a Real Space Mission Explorer](https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b)
+- **Author:** Hadil Ben Abdallah | **Published:** Aug 24 | **Read time:** 14 min
+- **Community:** 97 reactions, 36 comments — a top post of the week in #webdev
+- **Tags:** webdev, programming, react, nextjs
+- **Summary:** I went through the documentation and feature list of React DataGrid, and I wrote React DataGrid: A...
+- **Link:** https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b
+
 
 ## Hacker News Picks
 
