@@ -464,6 +464,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~112 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/fuxicodex/Fuxi
 
+**Added 2026-08-31**
+
+### [Leonxlnx/unlazy](https://github.com/Leonxlnx/unlazy)
+- **Stats:** 2,842 stars | 173 forks | 1 open issues
+- **Language:** JavaScript | **Created:** 2026-08-09 | **License:** MIT
+- **Topics:** ai-agents, claude, claude-code, llm, productivity, prompt-engineering
+- **What it is:** Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.
+- **Growth:** averaging ~129 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/Leonxlnx/unlazy
+
 
 ## Other Cool Projects
 
