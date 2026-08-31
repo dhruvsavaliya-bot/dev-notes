@@ -330,15 +330,10 @@
     "https://news.ycombinator.com/item?id=49481455",
     "https://news.ycombinator.com/item?id=49490870",
     "https://news.ycombinator.com/item?id=49491714",
-    "https://news.ycombinator.com/item?id=49499095"
+    "https://news.ycombinator.com/item?id=49499095",
+    "https://news.ycombinator.com/item?id=49503934"
   ],
   "recent": [
-    {
-      "date": "2026-08-30",
-      "subcat": "Hacker News Picks",
-      "title": "EVE Online moves to Python 3",
-      "url": "https://news.ycombinator.com/item?id=49433328"
-    },
     {
       "date": "2026-08-30",
       "subcat": "TypeScript",
@@ -392,6 +387,12 @@
       "subcat": "Web Development",
       "title": "I Used React DataGrid to Build a Real Space Mission Exp",
       "url": "https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b"
+    },
+    {
+      "date": "2026-08-31",
+      "subcat": "Hacker News Picks",
+      "title": "Matrox: Graphics for Professionals",
+      "url": "https://news.ycombinator.com/item?id=49503934"
     }
   ]
 }
