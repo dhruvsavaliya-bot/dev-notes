@@ -335,15 +335,10 @@
     "https://news.ycombinator.com/item?id=49491714",
     "https://news.ycombinator.com/item?id=49499095",
     "https://news.ycombinator.com/item?id=49503934",
+    "https://news.ycombinator.com/item?id=49508506",
     "https://news.ycombinator.com/item?id=49516199"
   ],
   "recent": [
-    {
-      "date": "2026-08-31",
-      "subcat": "Productivity",
-      "title": "Velocidade de entrega e custo de manuteno ps IA",
-      "url": "https://dev.to/he4rt/velocidade-de-entrega-e-custo-de-manutencao-pos-ia-5gei"
-    },
     {
       "date": "2026-08-31",
       "subcat": "AI & Machine Learning",
@@ -397,6 +392,12 @@
       "subcat": "Hacker News Picks",
       "title": "Evidence of Fraud in an Influential Study About Procras",
       "url": "https://news.ycombinator.com/item?id=49516199"
+    },
+    {
+      "date": "2026-09-01",
+      "subcat": "Hacker News Picks",
+      "title": "I think the military commissary's freezers were hacked",
+      "url": "https://news.ycombinator.com/item?id=49508506"
     }
   ]
 }

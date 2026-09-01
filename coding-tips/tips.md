@@ -862,6 +862,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49516199
 - **Link:** https://datacolada.org/138
 
+**Added 2026-09-01**
+
+### [I think the military commissary's freezers were hacked](https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary)
+- **Source:** signalandsilence.substack.com | **Posted:** 2026-08-31 | **By:** jcurbo
+- **Community:** 340 points, 195 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49508506
+- **Link:** https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary
+
 
 ## Beginner
 
