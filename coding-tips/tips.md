@@ -853,6 +853,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49467700
 - **Link:** https://nullpt.rs/reverse-engineering-adhd-test
 
+**Added 2026-09-01**
+
+### [Evidence of Fraud in an Influential Study About Procrastination](https://datacolada.org/138)
+- **Source:** datacolada.org | **Posted:** 2026-08-31 | **By:** Anon84
+- **Community:** 193 points, 128 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49516199
+- **Link:** https://datacolada.org/138
+
 
 ## Beginner
 
