@@ -328,6 +328,7 @@
     "https://news.ycombinator.com/item?id=49451313",
     "https://news.ycombinator.com/item?id=49454419",
     "https://news.ycombinator.com/item?id=49454764",
+    "https://news.ycombinator.com/item?id=49467700",
     "https://news.ycombinator.com/item?id=49471965",
     "https://news.ycombinator.com/item?id=49481455",
     "https://news.ycombinator.com/item?id=49490870",
@@ -336,12 +337,6 @@
     "https://news.ycombinator.com/item?id=49503934"
   ],
   "recent": [
-    {
-      "date": "2026-08-30",
-      "subcat": "AI & Machine Learning",
-      "title": "fuxicodex/Fuxi",
-      "url": "https://github.com/fuxicodex/Fuxi"
-    },
     {
       "date": "2026-08-30",
       "subcat": "Hacker News Picks",
@@ -395,6 +390,12 @@
       "subcat": "AI & Machine Learning",
       "title": "wang2122/sprix-sage-router",
       "url": "https://github.com/wang2122/sprix-sage-router"
+    },
+    {
+      "date": "2026-09-01",
+      "subcat": "Hacker News Picks",
+      "title": "Reverse engineering my ADHD test",
+      "url": "https://news.ycombinator.com/item?id=49467700"
     }
   ]
 }

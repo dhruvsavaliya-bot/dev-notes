@@ -844,6 +844,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49503934
 - **Link:** https://www.abortretry.fail/p/matrox
 
+**Added 2026-09-01**
+
+### [Reverse engineering my ADHD test](https://nullpt.rs/reverse-engineering-adhd-test)
+- **Source:** nullpt.rs | **Posted:** 2026-08-27 | **By:** hazebooth
+- **Community:** 192 points, 101 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49467700
+- **Link:** https://nullpt.rs/reverse-engineering-adhd-test
+
 
 ## Beginner
 
