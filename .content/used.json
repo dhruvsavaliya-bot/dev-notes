@@ -159,6 +159,7 @@
     "https://github.com/trycompai/crm",
     "https://github.com/unicity-aos/aos-ce",
     "https://github.com/vercel-labs/scriptc",
+    "https://github.com/wang2122/sprix-sage-router",
     "https://github.com/withmarbleapp/os-taxonomy",
     "https://github.com/x4gKing/3x-ui",
     "https://github.com/x4gKing/X4G",
@@ -337,12 +338,6 @@
   "recent": [
     {
       "date": "2026-08-30",
-      "subcat": "Hacker News Picks",
-      "title": "Calibrate Before You Accelerate: Bias Toward Action in ",
-      "url": "https://news.ycombinator.com/item?id=49491714"
-    },
-    {
-      "date": "2026-08-30",
       "subcat": "AI & Machine Learning",
       "title": "fuxicodex/Fuxi",
       "url": "https://github.com/fuxicodex/Fuxi"
@@ -394,6 +389,12 @@
       "subcat": "AI Engineering",
       "title": "Amazon AI Blocked My Kindle Book. I Asked What Went Wro",
       "url": "https://dev.to/xulingfeng/amazon-ai-blocked-my-kindle-book-i-asked-what-went-wrong-then-they-approved-it-48hi"
+    },
+    {
+      "date": "2026-09-01",
+      "subcat": "AI & Machine Learning",
+      "title": "wang2122/sprix-sage-router",
+      "url": "https://github.com/wang2122/sprix-sage-router"
     }
   ]
 }

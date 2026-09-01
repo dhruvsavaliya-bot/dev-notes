@@ -474,6 +474,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~129 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Leonxlnx/unlazy
 
+**Added 2026-09-01**
+
+### [wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router)
+- **Stats:** 3,105 stars | 338 forks | 1 open issues
+- **Language:** Python | **Created:** 2026-08-18 | **License:** MIT
+- **Topics:** a2a, agent-orchestration, agent-routing, ai-agents, multi-agent-systems, python
+- **What it is:** Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.
+- **Growth:** averaging ~221 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/wang2122/sprix-sage-router
+
 
 ## Other Cool Projects
 
