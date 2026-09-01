@@ -333,18 +333,13 @@
     "https://news.ycombinator.com/item?id=49481455",
     "https://news.ycombinator.com/item?id=49490870",
     "https://news.ycombinator.com/item?id=49491714",
+    "https://news.ycombinator.com/item?id=49496292",
     "https://news.ycombinator.com/item?id=49499095",
     "https://news.ycombinator.com/item?id=49503934",
     "https://news.ycombinator.com/item?id=49508506",
     "https://news.ycombinator.com/item?id=49516199"
   ],
   "recent": [
-    {
-      "date": "2026-08-31",
-      "subcat": "AI & Machine Learning",
-      "title": "Leonxlnx/unlazy",
-      "url": "https://github.com/Leonxlnx/unlazy"
-    },
     {
       "date": "2026-08-31",
       "subcat": "Developer Tools",
@@ -398,6 +393,12 @@
       "subcat": "Hacker News Picks",
       "title": "I think the military commissary's freezers were hacked",
       "url": "https://news.ycombinator.com/item?id=49508506"
+    },
+    {
+      "date": "2026-09-01",
+      "subcat": "Hacker News Picks",
+      "title": "Smartphone LED detects hidden cameras with AI",
+      "url": "https://news.ycombinator.com/item?id=49496292"
     }
   ]
 }

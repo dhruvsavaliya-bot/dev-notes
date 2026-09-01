@@ -871,6 +871,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49508506
 - **Link:** https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary
 
+**Added 2026-09-01**
+
+### [Smartphone LED detects hidden cameras with AI](https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/)
+- **Source:** www.chosun.com | **Posted:** 2026-08-30 | **By:** geox
+- **Community:** 223 points, 67 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49496292
+- **Link:** https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/
+
 
 ## Beginner
 
