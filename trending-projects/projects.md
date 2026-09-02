@@ -484,6 +484,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~221 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/wang2122/sprix-sage-router
 
+**Added 2026-09-02**
+
+### [vercel-labs/fx](https://github.com/vercel-labs/fx)
+- **Stats:** 2,680 stars | 308 forks | 184 open issues
+- **Language:** Zig | **Created:** 2026-08-11 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** Unix like coding agent
+- **Growth:** averaging ~121 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/vercel-labs/fx
+
 
 ## Other Cool Projects
 

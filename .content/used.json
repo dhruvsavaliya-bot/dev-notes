@@ -160,6 +160,7 @@
     "https://github.com/thebuggeddev/anatomy",
     "https://github.com/trycompai/crm",
     "https://github.com/unicity-aos/aos-ce",
+    "https://github.com/vercel-labs/fx",
     "https://github.com/vercel-labs/scriptc",
     "https://github.com/wang2122/sprix-sage-router",
     "https://github.com/withmarbleapp/os-taxonomy",
@@ -345,12 +346,6 @@
   "recent": [
     {
       "date": "2026-08-31",
-      "subcat": "Hacker News Picks",
-      "title": "Matrox: Graphics for Professionals",
-      "url": "https://news.ycombinator.com/item?id=49503934"
-    },
-    {
-      "date": "2026-08-31",
       "subcat": "AI Engineering",
       "title": "Amazon AI Blocked My Kindle Book. I Asked What Went Wro",
       "url": "https://dev.to/xulingfeng/amazon-ai-blocked-my-kindle-book-i-asked-what-went-wrong-then-they-approved-it-48hi"
@@ -402,6 +397,12 @@
       "subcat": "Web Development",
       "title": "Fixing Delicate Cache Mismatches in a Brownfield SPA: A",
       "url": "https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9"
+    },
+    {
+      "date": "2026-09-02",
+      "subcat": "AI & Machine Learning",
+      "title": "vercel-labs/fx",
+      "url": "https://github.com/vercel-labs/fx"
     }
   ]
 }
