@@ -880,6 +880,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49496292
 - **Link:** https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/
 
+**Added 2026-09-02**
+
+### [Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s](https://github.com/carloslfu/slotstream)
+- **Source:** github.com | **Posted:** 2026-09-01 | **By:** carloslfu
+- **Community:** 175 points, 90 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49524447
+- **Link:** https://github.com/carloslfu/slotstream
+
 
 ## Beginner
 

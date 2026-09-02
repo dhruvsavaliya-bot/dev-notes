@@ -337,15 +337,10 @@
     "https://news.ycombinator.com/item?id=49499095",
     "https://news.ycombinator.com/item?id=49503934",
     "https://news.ycombinator.com/item?id=49508506",
-    "https://news.ycombinator.com/item?id=49516199"
+    "https://news.ycombinator.com/item?id=49516199",
+    "https://news.ycombinator.com/item?id=49524447"
   ],
   "recent": [
-    {
-      "date": "2026-08-31",
-      "subcat": "Developer Tools",
-      "title": "dsh-market/dsh-market",
-      "url": "https://github.com/dsh-market/dsh-market"
-    },
     {
       "date": "2026-08-31",
       "subcat": "Hacker News Picks",
@@ -399,6 +394,12 @@
       "subcat": "Hacker News Picks",
       "title": "Smartphone LED detects hidden cameras with AI",
       "url": "https://news.ycombinator.com/item?id=49496292"
+    },
+    {
+      "date": "2026-09-02",
+      "subcat": "Hacker News Picks",
+      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac w",
+      "url": "https://news.ycombinator.com/item?id=49524447"
     }
   ]
 }
