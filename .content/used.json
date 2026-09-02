@@ -67,6 +67,7 @@
     "https://dev.to/xulingfeng/stratagems-18-leo-tracked-an-ai-signal-to-derek-both-were-looking-for-the-same-enemy-51g4",
     "https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7",
     "https://dev.to/xulingfeng/stratagems-24-leo-built-a-corridor-the-ai-thought-it-was-a-road-3blf",
+    "https://dev.to/xulingfeng/stratagems-25-derek-changed-the-delay-the-ai-didnt-flinch-28ca",
     "https://dev.to/xulingfeng/stratagems-9-lena-and-p-watched-two-ai-suppliers-fight-the-logs-said-neither-was-clean-2pj3",
     "https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9",
     "https://github.com/AlephAITech/WorkBuddyGuide",
@@ -347,12 +348,6 @@
   "recent": [
     {
       "date": "2026-09-01",
-      "subcat": "AI & Machine Learning",
-      "title": "wang2122/sprix-sage-router",
-      "url": "https://github.com/wang2122/sprix-sage-router"
-    },
-    {
-      "date": "2026-09-01",
       "subcat": "Hacker News Picks",
       "title": "Reverse engineering my ADHD test",
       "url": "https://news.ycombinator.com/item?id=49467700"
@@ -404,6 +399,12 @@
       "subcat": "Hacker News Picks",
       "title": "Claude Fable 5.1 and Claude Mythos 5.1",
       "url": "https://news.ycombinator.com/item?id=49525378"
+    },
+    {
+      "date": "2026-09-02",
+      "subcat": "AI Engineering",
+      "title": "Stratagems #25: Derek Changed the Delay. The AI Didn't ",
+      "url": "https://dev.to/xulingfeng/stratagems-25-derek-changed-the-delay-the-ai-didnt-flinch-28ca"
     }
   ]
 }

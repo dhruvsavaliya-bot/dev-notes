@@ -204,6 +204,15 @@ Lessons from building with LLMs.
 - **Summary:** Your AI coding agent does exactly what you ask, which isn't always what you mean. NexPath catches vague prompts before they become bugs.
 - **Link:** https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n
 
+**Added 2026-09-02**
+
+### [Stratagems #25: Derek Changed the Delay. The AI Didn't Flinch.](https://dev.to/xulingfeng/stratagems-25-derek-changed-the-delay-the-ai-didnt-flinch-28ca)
+- **Author:** xulingfeng | **Published:** Aug 27 | **Read time:** 16 min
+- **Community:** 55 reactions, 73 comments — a top post of the week in #ai
+- **Tags:** discuss, ai, programming, career
+- **Summary:** Keep the beams standing. Replace what they carry. — The 36 Stratagems, Replace the beams with rotten...
+- **Link:** https://dev.to/xulingfeng/stratagems-25-derek-changed-the-delay-the-ai-didnt-flinch-28ca
+
 
 ## LLMs
 

@@ -3,23 +3,23 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**336 entries and counting** · Last updated: 2026-09-02
+**337 entries and counting** · Last updated: 2026-09-02
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 108 |
-| [AI / LLM Notes](ai/notes.md) | 25 |
+| [AI / LLM Notes](ai/notes.md) | 26 |
 | [Reading List](articles/reading-list.md) | 92 |
 | [Coding Tips](coding-tips/tips.md) | 102 |
 | [Language Notes](languages/notes.md) | 9 |
 
 ## Latest additions
 
+- **2026-09-02** · *AI Engineering* — [Stratagems #25: Derek Changed the Delay. The AI Didn't ](https://dev.to/xulingfeng/stratagems-25-derek-changed-the-delay-the-ai-didnt-flinch-28ca)
 - **2026-09-02** · *Hacker News Picks* — [Claude Fable 5.1 and Claude Mythos 5.1](https://news.ycombinator.com/item?id=49525378)
 - **2026-09-02** · *AI & Machine Learning* — [vercel-labs/fx](https://github.com/vercel-labs/fx)
-- **2026-09-02** · *Web Development* — [Fixing Delicate Cache Mismatches in a Brownfield SPA: A](https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9)
 
 ## How it works
 
