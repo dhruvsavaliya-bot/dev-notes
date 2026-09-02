@@ -195,6 +195,15 @@ Lessons from building with LLMs.
 - **Summary:** Yesterday, I published a post titled "My Book 'AI, Ego &amp; Regret' Paperback Is Live. Kindle Is...
 - **Link:** https://dev.to/xulingfeng/amazon-ai-blocked-my-kindle-book-i-asked-what-went-wrong-then-they-approved-it-48hi
 
+**Added 2026-09-02**
+
+### [NexPath Review: The Prompt Quality Layer for Cursor, Windsurf and Claude Code](https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n)
+- **Author:** Sarvar Nadaf | **Published:** Aug 27 | **Read time:** 8 min
+- **Community:** 57 reactions, 37 comments — a top post of the week in #ai
+- **Tags:** ai, programming, showdev, discuss
+- **Summary:** Your AI coding agent does exactly what you ask, which isn't always what you mean. NexPath catches vague prompts before they become bugs.
+- **Link:** https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n
+
 
 ## LLMs
 

@@ -45,6 +45,7 @@
     "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9",
     "https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o",
     "https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh",
+    "https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n",
     "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
     "https://dev.to/sylwia-lask/10-git-commands-youll-wish-you-knew-earlier-4fcp",
     "https://dev.to/sylwia-lask/7-productivity-tips-that-sound-wrong-but-actually-work-5602",
@@ -343,12 +344,6 @@
   "recent": [
     {
       "date": "2026-08-31",
-      "subcat": "Hacker News Picks",
-      "title": "Zig: Pointer Stability for ArrayLists",
-      "url": "https://news.ycombinator.com/item?id=49499095"
-    },
-    {
-      "date": "2026-08-31",
       "subcat": "Web Development",
       "title": "I Used React DataGrid to Build a Real Space Mission Exp",
       "url": "https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b"
@@ -400,6 +395,12 @@
       "subcat": "Hacker News Picks",
       "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac w",
       "url": "https://news.ycombinator.com/item?id=49524447"
+    },
+    {
+      "date": "2026-09-02",
+      "subcat": "AI Engineering",
+      "title": "NexPath Review: The Prompt Quality Layer for Cursor, Wi",
+      "url": "https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n"
     }
   ]
 }
