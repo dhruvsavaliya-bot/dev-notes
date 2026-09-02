@@ -341,15 +341,10 @@
     "https://news.ycombinator.com/item?id=49503934",
     "https://news.ycombinator.com/item?id=49508506",
     "https://news.ycombinator.com/item?id=49516199",
-    "https://news.ycombinator.com/item?id=49524447"
+    "https://news.ycombinator.com/item?id=49524447",
+    "https://news.ycombinator.com/item?id=49525378"
   ],
   "recent": [
-    {
-      "date": "2026-08-31",
-      "subcat": "AI Engineering",
-      "title": "Amazon AI Blocked My Kindle Book. I Asked What Went Wro",
-      "url": "https://dev.to/xulingfeng/amazon-ai-blocked-my-kindle-book-i-asked-what-went-wrong-then-they-approved-it-48hi"
-    },
     {
       "date": "2026-09-01",
       "subcat": "AI & Machine Learning",
@@ -403,6 +398,12 @@
       "subcat": "AI & Machine Learning",
       "title": "vercel-labs/fx",
       "url": "https://github.com/vercel-labs/fx"
+    },
+    {
+      "date": "2026-09-02",
+      "subcat": "Hacker News Picks",
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://news.ycombinator.com/item?id=49525378"
     }
   ]
 }

@@ -785,6 +785,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49499095
 - **Link:** https://ziglang.org/devlog/2026/#2026-08-27
 
+**Added 2026-09-02**
+
+### [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
+- **Source:** www.anthropic.com | **Posted:** 2026-09-01 | **By:** denysvitali
+- **Community:** 1199 points, 1120 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49525378
+- **Link:** https://www.anthropic.com/claude-fable-and-mythos-5-1
+
 
 ## DevOps & Cloud
 
