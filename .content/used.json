@@ -14,6 +14,7 @@
     "https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635",
     "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
     "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1",
+    "https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9",
     "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
     "https://dev.to/francistrdev/choose-your-burden-4dgl",
     "https://dev.to/francistrdev/git-gud-4e6g",
@@ -344,12 +345,6 @@
   "recent": [
     {
       "date": "2026-08-31",
-      "subcat": "Web Development",
-      "title": "I Used React DataGrid to Build a Real Space Mission Exp",
-      "url": "https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b"
-    },
-    {
-      "date": "2026-08-31",
       "subcat": "Hacker News Picks",
       "title": "Matrox: Graphics for Professionals",
       "url": "https://news.ycombinator.com/item?id=49503934"
@@ -401,6 +396,12 @@
       "subcat": "AI Engineering",
       "title": "NexPath Review: The Prompt Quality Layer for Cursor, Wi",
       "url": "https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n"
+    },
+    {
+      "date": "2026-09-02",
+      "subcat": "Web Development",
+      "title": "Fixing Delicate Cache Mismatches in a Brownfield SPA: A",
+      "url": "https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9"
     }
   ]
 }

@@ -53,6 +53,15 @@ Fresh dev articles and blog posts.
 - **Summary:** I went through the documentation and feature list of React DataGrid, and I wrote React DataGrid: A...
 - **Link:** https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b
 
+**Added 2026-09-02**
+
+### [Fixing Delicate Cache Mismatches in a Brownfield SPA: A Pragmatic Solution](https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9)
+- **Author:** Ben Halpern | **Published:** Aug 31 | **Read time:** 4 min
+- **Community:** 50 reactions, 4 comments — a top post of the week in #webdev
+- **Tags:** webdev, architecture, webperf, rails
+- **Summary:** How we eliminated subtle stylesheet caching glitches during deployments on DEV without a massive rewrite.
+- **Link:** https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9
+
 
 ## Hacker News Picks
 
