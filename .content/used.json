@@ -105,6 +105,7 @@
     "https://github.com/ZzzLc0405/photo-abstract-editorial",
     "https://github.com/andrewyng/openworker",
     "https://github.com/anthropics/jacobian-lens",
+    "https://github.com/antirez/h3.c",
     "https://github.com/anywhere-labs/deepseek-harness-desktop",
     "https://github.com/anywhere-labs/dsh-desktop",
     "https://github.com/arvids-unavailable/openGym",
@@ -351,12 +352,6 @@
     {
       "date": "2026-09-01",
       "subcat": "Hacker News Picks",
-      "title": "I think the military commissary's freezers were hacked",
-      "url": "https://news.ycombinator.com/item?id=49508506"
-    },
-    {
-      "date": "2026-09-01",
-      "subcat": "Hacker News Picks",
       "title": "Smartphone LED detects hidden cameras with AI",
       "url": "https://news.ycombinator.com/item?id=49496292"
     },
@@ -407,6 +402,12 @@
       "subcat": "AI Engineering",
       "title": "Tell Me About You",
       "url": "https://dev.to/kenielzep97/tell-me-about-you-1hi4"
+    },
+    {
+      "date": "2026-09-02",
+      "subcat": "Other Cool Projects",
+      "title": "antirez/h3.c",
+      "url": "https://github.com/antirez/h3.c"
     }
   ]
 }

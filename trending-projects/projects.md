@@ -987,6 +987,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~108 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/openTrinity/mycontext
 
+**Added 2026-09-02**
+
+### [antirez/h3.c](https://github.com/antirez/h3.c)
+- **Stats:** 2,538 stars | 188 forks | 52 open issues
+- **Language:** C | **Created:** 2026-08-09 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** MiniMax H3 inference engine for Mac computers
+- **Growth:** averaging ~105 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/antirez/h3.c
+
 
 ## Web & Frontend
 
