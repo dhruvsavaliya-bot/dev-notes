@@ -33,6 +33,7 @@
     "https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h",
     "https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh",
     "https://dev.to/hemapriya_kanagala/what-would-you-tell-someone-early-in-their-career-1k76",
+    "https://dev.to/kenielzep97/tell-me-about-you-1hi4",
     "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm",
     "https://dev.to/konark_13/vibe-coding-endgame-3bbn",
     "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
@@ -350,12 +351,6 @@
     {
       "date": "2026-09-01",
       "subcat": "Hacker News Picks",
-      "title": "Evidence of Fraud in an Influential Study About Procras",
-      "url": "https://news.ycombinator.com/item?id=49516199"
-    },
-    {
-      "date": "2026-09-01",
-      "subcat": "Hacker News Picks",
       "title": "I think the military commissary's freezers were hacked",
       "url": "https://news.ycombinator.com/item?id=49508506"
     },
@@ -406,6 +401,12 @@
       "subcat": "Hacker News Picks",
       "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
       "url": "https://news.ycombinator.com/item?id=49529621"
+    },
+    {
+      "date": "2026-09-02",
+      "subcat": "AI Engineering",
+      "title": "Tell Me About You",
+      "url": "https://dev.to/kenielzep97/tell-me-about-you-1hi4"
     }
   ]
 }

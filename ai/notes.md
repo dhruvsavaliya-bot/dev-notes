@@ -213,6 +213,15 @@ Lessons from building with LLMs.
 - **Summary:** Keep the beams standing. Replace what they carry. — The 36 Stratagems, Replace the beams with rotten...
 - **Link:** https://dev.to/xulingfeng/stratagems-25-derek-changed-the-delay-the-ai-didnt-flinch-28ca
 
+**Added 2026-09-02**
+
+### [Tell Me About You](https://dev.to/kenielzep97/tell-me-about-you-1hi4)
+- **Author:** Self-Correcting Systems | **Published:** Aug 30 | **Read time:** 5 min
+- **Community:** 52 reactions, 65 comments — a top post of the week in #ai
+- **Tags:** watercooler, discuss, community, ai
+- **Summary:** After sixty-seven published posts here, the comments have become one of the best parts of the work....
+- **Link:** https://dev.to/kenielzep97/tell-me-about-you-1hi4
+
 
 ## LLMs
 
