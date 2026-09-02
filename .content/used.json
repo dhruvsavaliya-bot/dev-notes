@@ -343,15 +343,10 @@
     "https://news.ycombinator.com/item?id=49508506",
     "https://news.ycombinator.com/item?id=49516199",
     "https://news.ycombinator.com/item?id=49524447",
-    "https://news.ycombinator.com/item?id=49525378"
+    "https://news.ycombinator.com/item?id=49525378",
+    "https://news.ycombinator.com/item?id=49529621"
   ],
   "recent": [
-    {
-      "date": "2026-09-01",
-      "subcat": "Hacker News Picks",
-      "title": "Reverse engineering my ADHD test",
-      "url": "https://news.ycombinator.com/item?id=49467700"
-    },
     {
       "date": "2026-09-01",
       "subcat": "Hacker News Picks",
@@ -405,6 +400,12 @@
       "subcat": "AI Engineering",
       "title": "Stratagems #25: Derek Changed the Delay. The AI Didn't ",
       "url": "https://dev.to/xulingfeng/stratagems-25-derek-changed-the-delay-the-ai-didnt-flinch-28ca"
+    },
+    {
+      "date": "2026-09-02",
+      "subcat": "Hacker News Picks",
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "url": "https://news.ycombinator.com/item?id=49529621"
     }
   ]
 }

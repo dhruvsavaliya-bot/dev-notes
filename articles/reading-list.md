@@ -794,6 +794,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49525378
 - **Link:** https://www.anthropic.com/claude-fable-and-mythos-5-1
 
+**Added 2026-09-02**
+
+### [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
+- **Source:** krebsonsecurity.com | **Posted:** 2026-09-01 | **By:** tatersolid
+- **Community:** 227 points, 95 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49529621
+- **Link:** https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/
+
 
 ## DevOps & Cloud
 
