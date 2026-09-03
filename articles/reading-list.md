@@ -812,6 +812,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49529621
 - **Link:** https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/
 
+**Added 2026-09-03**
+
+### [Poisson Disk Sampling](https://stripeacross.com/posts/poisson-disk-sampling/)
+- **Source:** stripeacross.com | **Posted:** 2026-09-02 | **By:** vismit2000
+- **Community:** 141 points, 19 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49536177
+- **Link:** https://stripeacross.com/posts/poisson-disk-sampling/
+
 
 ## DevOps & Cloud
 

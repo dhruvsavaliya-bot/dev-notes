@@ -347,15 +347,10 @@
     "https://news.ycombinator.com/item?id=49516199",
     "https://news.ycombinator.com/item?id=49524447",
     "https://news.ycombinator.com/item?id=49525378",
-    "https://news.ycombinator.com/item?id=49529621"
+    "https://news.ycombinator.com/item?id=49529621",
+    "https://news.ycombinator.com/item?id=49536177"
   ],
   "recent": [
-    {
-      "date": "2026-09-02",
-      "subcat": "Hacker News Picks",
-      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac w",
-      "url": "https://news.ycombinator.com/item?id=49524447"
-    },
     {
       "date": "2026-09-02",
       "subcat": "AI Engineering",
@@ -409,6 +404,12 @@
       "subcat": "Web Development",
       "title": "Building With AI When You Don't Know Architecture: A Su",
       "url": "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3"
+    },
+    {
+      "date": "2026-09-03",
+      "subcat": "Hacker News Picks",
+      "title": "Poisson Disk Sampling",
+      "url": "https://news.ycombinator.com/item?id=49536177"
     }
   ]
 }
