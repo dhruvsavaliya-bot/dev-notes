@@ -351,15 +351,10 @@
     "https://news.ycombinator.com/item?id=49524447",
     "https://news.ycombinator.com/item?id=49525378",
     "https://news.ycombinator.com/item?id=49529621",
-    "https://news.ycombinator.com/item?id=49536177"
+    "https://news.ycombinator.com/item?id=49536177",
+    "https://news.ycombinator.com/item?id=49536411"
   ],
   "recent": [
-    {
-      "date": "2026-09-02",
-      "subcat": "Hacker News Picks",
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "url": "https://news.ycombinator.com/item?id=49525378"
-    },
     {
       "date": "2026-09-02",
       "subcat": "AI Engineering",
@@ -413,6 +408,12 @@
       "subcat": "Web Development",
       "title": "I Asked for a Portfolio but Got a Filing Cabinet",
       "url": "https://dev.to/anchildress1/i-asked-for-a-portfolio-but-got-a-filing-cabinet-4ef8"
+    },
+    {
+      "date": "2026-09-03",
+      "subcat": "Hacker News Picks",
+      "title": "WebLLM: high-performance in-browser LLM inference engin",
+      "url": "https://news.ycombinator.com/item?id=49536411"
     }
   ]
 }

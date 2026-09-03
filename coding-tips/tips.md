@@ -889,6 +889,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49524447
 - **Link:** https://github.com/carloslfu/slotstream
 
+**Added 2026-09-03**
+
+### [WebLLM: high-performance in-browser LLM inference engine](https://github.com/mlc-ai/web-llm)
+- **Source:** github.com | **Posted:** 2026-09-02 | **By:** saikatsg
+- **Community:** 121 points, 20 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49536411
+- **Link:** https://github.com/mlc-ai/web-llm
+
 
 ## Beginner
 
