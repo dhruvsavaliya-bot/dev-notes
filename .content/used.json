@@ -122,6 +122,7 @@
     "https://github.com/cordiverse/paper",
     "https://github.com/dataelement/dsh-desktop",
     "https://github.com/davidondrej/skills",
+    "https://github.com/deeplethe/utopia",
     "https://github.com/deepseek-ai/DeepSpec",
     "https://github.com/deepseek-ai/deepseek-harness",
     "https://github.com/digimata/quill",
@@ -353,12 +354,6 @@
   "recent": [
     {
       "date": "2026-09-02",
-      "subcat": "AI Engineering",
-      "title": "NexPath Review: The Prompt Quality Layer for Cursor, Wi",
-      "url": "https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n"
-    },
-    {
-      "date": "2026-09-02",
       "subcat": "Web Development",
       "title": "Fixing Delicate Cache Mismatches in a Brownfield SPA: A",
       "url": "https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9"
@@ -410,6 +405,12 @@
       "subcat": "Hacker News Picks",
       "title": "Poisson Disk Sampling",
       "url": "https://news.ycombinator.com/item?id=49536177"
+    },
+    {
+      "date": "2026-09-03",
+      "subcat": "AI & Machine Learning",
+      "title": "deeplethe/utopia",
+      "url": "https://github.com/deeplethe/utopia"
     }
   ]
 }

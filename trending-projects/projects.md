@@ -494,6 +494,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~121 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/vercel-labs/fx
 
+**Added 2026-09-03**
+
+### [deeplethe/utopia](https://github.com/deeplethe/utopia)
+- **Stats:** 3,064 stars | 255 forks | 11 open issues
+- **Language:** Rust | **Created:** 2026-08-07 | **License:** Apache-2.0
+- **Topics:** agent-memory, bitemporal, graphrag, knowledge-base, knowledge-graph, llm
+- **What it is:** World's first open-source enterprise world model.
+- **Growth:** averaging ~113 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/deeplethe/utopia
+
 
 ## Other Cool Projects
 
