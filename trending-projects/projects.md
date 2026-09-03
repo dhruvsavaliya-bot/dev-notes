@@ -504,6 +504,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~113 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/deeplethe/utopia
 
+**Added 2026-09-03**
+
+### [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI)
+- **Stats:** 2,794 stars | 150 forks | 95 open issues
+- **Language:** TypeScript | **Created:** 2026-08-13 | **License:** MIT
+- **Topics:** claude-code, coding-agent, deepseek, deepseek-harness, dsh-plugin, ink
+- **What it is:** DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.
+- **Growth:** averaging ~133 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/ccch1mneyyy/dsh-TUI
+
 
 ## Other Cool Projects
 

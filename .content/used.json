@@ -118,6 +118,7 @@
     "https://github.com/bikini/exploitarium",
     "https://github.com/bozhouDev/codex-orange-book",
     "https://github.com/bryanthaboi/gen1recomp",
+    "https://github.com/ccch1mneyyy/dsh-TUI",
     "https://github.com/cloudflare/security-audit-skill",
     "https://github.com/cordiverse/paper",
     "https://github.com/dataelement/dsh-desktop",
@@ -354,12 +355,6 @@
   "recent": [
     {
       "date": "2026-09-02",
-      "subcat": "Web Development",
-      "title": "Fixing Delicate Cache Mismatches in a Brownfield SPA: A",
-      "url": "https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9"
-    },
-    {
-      "date": "2026-09-02",
       "subcat": "AI & Machine Learning",
       "title": "vercel-labs/fx",
       "url": "https://github.com/vercel-labs/fx"
@@ -411,6 +406,12 @@
       "subcat": "AI & Machine Learning",
       "title": "deeplethe/utopia",
       "url": "https://github.com/deeplethe/utopia"
+    },
+    {
+      "date": "2026-09-03",
+      "subcat": "AI & Machine Learning",
+      "title": "ccch1mneyyy/dsh-TUI",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI"
     }
   ]
 }
