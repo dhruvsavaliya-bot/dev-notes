@@ -33,6 +33,7 @@
     "https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h",
     "https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh",
     "https://dev.to/hemapriya_kanagala/what-would-you-tell-someone-early-in-their-career-1k76",
+    "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3",
     "https://dev.to/kenielzep97/tell-me-about-you-1hi4",
     "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm",
     "https://dev.to/konark_13/vibe-coding-endgame-3bbn",
@@ -350,12 +351,6 @@
   ],
   "recent": [
     {
-      "date": "2026-09-01",
-      "subcat": "Hacker News Picks",
-      "title": "Smartphone LED detects hidden cameras with AI",
-      "url": "https://news.ycombinator.com/item?id=49496292"
-    },
-    {
       "date": "2026-09-02",
       "subcat": "Hacker News Picks",
       "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac w",
@@ -408,6 +403,12 @@
       "subcat": "Other Cool Projects",
       "title": "antirez/h3.c",
       "url": "https://github.com/antirez/h3.c"
+    },
+    {
+      "date": "2026-09-03",
+      "subcat": "Web Development",
+      "title": "Building With AI When You Don't Know Architecture: A Su",
+      "url": "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3"
     }
   ]
 }

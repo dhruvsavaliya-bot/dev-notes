@@ -62,6 +62,15 @@ Fresh dev articles and blog posts.
 - **Summary:** How we eliminated subtle stylesheet caching glitches during deployments on DEV without a massive rewrite.
 - **Link:** https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9
 
+**Added 2026-09-03**
+
+### [Building With AI When You Don't Know Architecture: A Survival Guide](https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3)
+- **Author:** James Anderson | **Published:** Sep 1 | **Read time:** 7 min
+- **Community:** 57 reactions, 47 comments — a top post of the week in #webdev
+- **Tags:** ai, beginners, webdev
+- **Summary:** Let me describe a moment you might recognize.  You had an idea for an app. You didn't know how to...
+- **Link:** https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3
+
 
 ## Hacker News Picks
 
