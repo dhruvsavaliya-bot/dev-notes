@@ -9,6 +9,7 @@
     "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
     "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
     "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag",
+    "https://dev.to/anchildress1/i-asked-for-a-portfolio-but-got-a-filing-cabinet-4ef8",
     "https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g",
     "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
     "https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635",
@@ -355,12 +356,6 @@
   "recent": [
     {
       "date": "2026-09-02",
-      "subcat": "AI & Machine Learning",
-      "title": "vercel-labs/fx",
-      "url": "https://github.com/vercel-labs/fx"
-    },
-    {
-      "date": "2026-09-02",
       "subcat": "Hacker News Picks",
       "title": "Claude Fable 5.1 and Claude Mythos 5.1",
       "url": "https://news.ycombinator.com/item?id=49525378"
@@ -412,6 +407,12 @@
       "subcat": "AI & Machine Learning",
       "title": "ccch1mneyyy/dsh-TUI",
       "url": "https://github.com/ccch1mneyyy/dsh-TUI"
+    },
+    {
+      "date": "2026-09-03",
+      "subcat": "Web Development",
+      "title": "I Asked for a Portfolio but Got a Filing Cabinet",
+      "url": "https://dev.to/anchildress1/i-asked-for-a-portfolio-but-got-a-filing-cabinet-4ef8"
     }
   ]
 }

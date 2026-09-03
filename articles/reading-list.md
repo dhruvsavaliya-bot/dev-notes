@@ -71,6 +71,15 @@ Fresh dev articles and blog posts.
 - **Summary:** Let me describe a moment you might recognize.  You had an idea for an app. You didn't know how to...
 - **Link:** https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3
 
+**Added 2026-09-03**
+
+### [I Asked for a Portfolio but Got a Filing Cabinet](https://dev.to/anchildress1/i-asked-for-a-portfolio-but-got-a-filing-cabinet-4ef8)
+- **Author:** Ashley Childress | **Published:** Aug 29 | **Read time:** 4 min
+- **Community:** 64 reactions, 24 comments — a top post of the week in #webdev
+- **Tags:** ai, webdev, design, ux
+- **Summary:** Every AI redesign of my portfolio looked different and was the same filing cabinet underneath. What a style guide couldn't fix — and the one instruction that did.
+- **Link:** https://dev.to/anchildress1/i-asked-for-a-portfolio-but-got-a-filing-cabinet-4ef8
+
 
 ## Hacker News Picks
 
