@@ -139,6 +139,7 @@
     "https://github.com/genspark-ai/genoffice",
     "https://github.com/google-research/tabfm",
     "https://github.com/guillaumemeyer/watermarks-remover",
+    "https://github.com/gvzdv/claudish-to-english",
     "https://github.com/hoainho/img2threejs",
     "https://github.com/img2threejs/img2threejs",
     "https://github.com/imsai-sh/zhuzhiliao",
@@ -359,12 +360,6 @@
   "recent": [
     {
       "date": "2026-09-02",
-      "subcat": "AI Engineering",
-      "title": "Tell Me About You",
-      "url": "https://dev.to/kenielzep97/tell-me-about-you-1hi4"
-    },
-    {
-      "date": "2026-09-02",
       "subcat": "Other Cool Projects",
       "title": "antirez/h3.c",
       "url": "https://github.com/antirez/h3.c"
@@ -416,6 +411,12 @@
       "subcat": "Other Cool Projects",
       "title": "amagine-ai/Amagine3D",
       "url": "https://github.com/amagine-ai/Amagine3D"
+    },
+    {
+      "date": "2026-09-04",
+      "subcat": "Other Cool Projects",
+      "title": "gvzdv/claudish-to-english",
+      "url": "https://github.com/gvzdv/claudish-to-english"
     }
   ]
 }

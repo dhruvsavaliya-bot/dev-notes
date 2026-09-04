@@ -1037,6 +1037,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~154 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/amagine-ai/Amagine3D
 
+**Added 2026-09-04**
+
+### [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english)
+- **Stats:** 2,510 stars | 119 forks | 7 open issues
+- **Language:** Shell | **Created:** 2026-08-10 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~100 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/gvzdv/claudish-to-english
+
 
 ## Web & Frontend
 
