@@ -830,6 +830,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49536177
 - **Link:** https://stripeacross.com/posts/poisson-disk-sampling/
 
+**Added 2026-09-04**
+
+### [.name Termination](https://neil.fraser.name/news/2026/09/03/)
+- **Source:** neil.fraser.name | **Posted:** 2026-09-03 | **By:** pavel_lishin
+- **Community:** 1914 points, 471 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49550772
+- **Link:** https://neil.fraser.name/news/2026/09/03/
+
 
 ## DevOps & Cloud
 
