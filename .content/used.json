@@ -132,6 +132,7 @@
     "https://github.com/drumih/turbo-fieldfare",
     "https://github.com/dsh-market/dsh-market",
     "https://github.com/elder-plinius/T3MP3ST",
+    "https://github.com/eternityspring/shuohao-skills",
     "https://github.com/firecrawl/anydoc",
     "https://github.com/fuxicodex/Fuxi",
     "https://github.com/genspark-ai/genoffice",
@@ -357,12 +358,6 @@
   "recent": [
     {
       "date": "2026-09-02",
-      "subcat": "AI Engineering",
-      "title": "Stratagems #25: Derek Changed the Delay. The AI Didn't ",
-      "url": "https://dev.to/xulingfeng/stratagems-25-derek-changed-the-delay-the-ai-didnt-flinch-28ca"
-    },
-    {
-      "date": "2026-09-02",
       "subcat": "Hacker News Picks",
       "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
       "url": "https://news.ycombinator.com/item?id=49529621"
@@ -414,6 +409,12 @@
       "subcat": "Hacker News Picks",
       "title": "WebLLM: high-performance in-browser LLM inference engin",
       "url": "https://news.ycombinator.com/item?id=49536411"
+    },
+    {
+      "date": "2026-09-04",
+      "subcat": "AI & Machine Learning",
+      "title": "eternityspring/shuohao-skills",
+      "url": "https://github.com/eternityspring/shuohao-skills"
     }
   ]
 }

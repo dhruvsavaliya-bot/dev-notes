@@ -514,6 +514,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~133 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/ccch1mneyyy/dsh-TUI
 
+**Added 2026-09-04**
+
+### [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills)
+- **Stats:** 2,667 stars | 341 forks | 3 open issues
+- **Language:** JavaScript | **Created:** 2026-08-06 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.
+- **Growth:** averaging ~91 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/eternityspring/shuohao-skills
+
 
 ## Other Cool Projects
 
