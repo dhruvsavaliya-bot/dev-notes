@@ -105,6 +105,7 @@
     "https://github.com/Yu9191/wloc",
     "https://github.com/Zeejay0/gathered-scenes-zine-skill",
     "https://github.com/ZzzLc0405/photo-abstract-editorial",
+    "https://github.com/amagine-ai/Amagine3D",
     "https://github.com/andrewyng/openworker",
     "https://github.com/anthropics/jacobian-lens",
     "https://github.com/antirez/h3.c",
@@ -358,12 +359,6 @@
   "recent": [
     {
       "date": "2026-09-02",
-      "subcat": "Hacker News Picks",
-      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "url": "https://news.ycombinator.com/item?id=49529621"
-    },
-    {
-      "date": "2026-09-02",
       "subcat": "AI Engineering",
       "title": "Tell Me About You",
       "url": "https://dev.to/kenielzep97/tell-me-about-you-1hi4"
@@ -415,6 +410,12 @@
       "subcat": "AI & Machine Learning",
       "title": "eternityspring/shuohao-skills",
       "url": "https://github.com/eternityspring/shuohao-skills"
+    },
+    {
+      "date": "2026-09-04",
+      "subcat": "Other Cool Projects",
+      "title": "amagine-ai/Amagine3D",
+      "url": "https://github.com/amagine-ai/Amagine3D"
     }
   ]
 }

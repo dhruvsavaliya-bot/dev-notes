@@ -1027,6 +1027,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~105 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/antirez/h3.c
 
+**Added 2026-09-04**
+
+### [amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D)
+- **Stats:** 2,469 stars | 97 forks | 4 open issues
+- **Language:** Python | **Created:** 2026-08-19 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** Amagine3D: From hardware requirements to editable 3D designs
+- **Growth:** averaging ~154 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/amagine-ai/Amagine3D
+
 
 ## Web & Frontend
 
