@@ -524,6 +524,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~91 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/eternityspring/shuohao-skills
 
+**Added 2026-09-05**
+
+### [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)
+- **Stats:** 2,496 stars | 266 forks | 7 open issues
+- **Language:** TypeScript | **Created:** 2026-08-28 | **License:** MIT
+- **Topics:** ai-agents, chatgpt, codex, mcp, model-context-protocol, oauth
+- **What it is:** ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
+- **Growth:** averaging ~312 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/XiaoDuoYa/codex-with-chatgpt
+
 
 ## Other Cool Projects
 

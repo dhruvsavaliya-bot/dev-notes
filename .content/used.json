@@ -101,6 +101,7 @@
     "https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6",
     "https://github.com/Vincentwei1021/video-shotcraft",
     "https://github.com/Waishnav/devspace",
+    "https://github.com/XiaoDuoYa/codex-with-chatgpt",
     "https://github.com/Younesfdj/gitfut",
     "https://github.com/Yu9191/wloc",
     "https://github.com/Zeejay0/gathered-scenes-zine-skill",
@@ -362,12 +363,6 @@
   "recent": [
     {
       "date": "2026-09-03",
-      "subcat": "Hacker News Picks",
-      "title": "Poisson Disk Sampling",
-      "url": "https://news.ycombinator.com/item?id=49536177"
-    },
-    {
-      "date": "2026-09-03",
       "subcat": "AI & Machine Learning",
       "title": "deeplethe/utopia",
       "url": "https://github.com/deeplethe/utopia"
@@ -419,6 +414,12 @@
       "subcat": "Hacker News Picks",
       "title": "Statichost.eu  European static site hosting",
       "url": "https://news.ycombinator.com/item?id=49569896"
+    },
+    {
+      "date": "2026-09-05",
+      "subcat": "AI & Machine Learning",
+      "title": "XiaoDuoYa/codex-with-chatgpt",
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
     }
   ]
 }
