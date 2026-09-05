@@ -356,15 +356,10 @@
     "https://news.ycombinator.com/item?id=49529621",
     "https://news.ycombinator.com/item?id=49536177",
     "https://news.ycombinator.com/item?id=49536411",
-    "https://news.ycombinator.com/item?id=49550772"
+    "https://news.ycombinator.com/item?id=49550772",
+    "https://news.ycombinator.com/item?id=49569896"
   ],
   "recent": [
-    {
-      "date": "2026-09-03",
-      "subcat": "Web Development",
-      "title": "Building With AI When You Don't Know Architecture: A Su",
-      "url": "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3"
-    },
     {
       "date": "2026-09-03",
       "subcat": "Hacker News Picks",
@@ -418,6 +413,12 @@
       "subcat": "Hacker News Picks",
       "title": ".name Termination",
       "url": "https://news.ycombinator.com/item?id=49550772"
+    },
+    {
+      "date": "2026-09-05",
+      "subcat": "Hacker News Picks",
+      "title": "Statichost.eu  European static site hosting",
+      "url": "https://news.ycombinator.com/item?id=49569896"
     }
   ]
 }

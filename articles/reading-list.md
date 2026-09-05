@@ -839,6 +839,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49550772
 - **Link:** https://neil.fraser.name/news/2026/09/03/
 
+**Added 2026-09-05**
+
+### [Statichost.eu – European static site hosting](https://www.statichost.eu/)
+- **Source:** www.statichost.eu | **Posted:** 2026-09-04 | **By:** p4bl0
+- **Community:** 223 points, 69 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49569896
+- **Link:** https://www.statichost.eu/
+
 
 ## DevOps & Cloud
 
