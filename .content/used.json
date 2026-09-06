@@ -150,6 +150,7 @@
     "https://github.com/kirodotdev/KiroCrew",
     "https://github.com/kvcache-ai/AgentENV",
     "https://github.com/langchain-ai/openwiki",
+    "https://github.com/lnkiai/m3e-canvas",
     "https://github.com/lopopolo/harness-engineering",
     "https://github.com/mekos2772/ios-location-spoofer",
     "https://github.com/microsoft/skill-recorder",
@@ -364,12 +365,6 @@
     {
       "date": "2026-09-03",
       "subcat": "AI & Machine Learning",
-      "title": "deeplethe/utopia",
-      "url": "https://github.com/deeplethe/utopia"
-    },
-    {
-      "date": "2026-09-03",
-      "subcat": "AI & Machine Learning",
       "title": "ccch1mneyyy/dsh-TUI",
       "url": "https://github.com/ccch1mneyyy/dsh-TUI"
     },
@@ -420,6 +415,12 @@
       "subcat": "AI & Machine Learning",
       "title": "XiaoDuoYa/codex-with-chatgpt",
       "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
+    },
+    {
+      "date": "2026-09-06",
+      "subcat": "Web & Frontend",
+      "title": "lnkiai/m3e-canvas",
+      "url": "https://github.com/lnkiai/m3e-canvas"
     }
   ]
 }

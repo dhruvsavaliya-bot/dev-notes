@@ -1100,6 +1100,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~488 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/zhu1090093659/dsh-web
 
+**Added 2026-09-06**
+
+### [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)
+- **Stats:** 3,931 stars | 333 forks | 3 open issues
+- **Language:** TypeScript | **Created:** 2026-09-02 | **License:** MIT
+- **Topics:** design-tool, material-3-expressive, material-design, material3, nextjs, prompt
+- **What it is:** Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
+- **Growth:** averaging ~982 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/lnkiai/m3e-canvas
+
 
 ## Developer Tools
 
