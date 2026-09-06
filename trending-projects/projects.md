@@ -1110,6 +1110,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~982 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/lnkiai/m3e-canvas
 
+**Added 2026-09-06**
+
+### [crmne/fastpotify](https://github.com/crmne/fastpotify)
+- **Stats:** 3,296 stars | 142 forks | 62 open issues
+- **Language:** Rust | **Created:** 2026-08-27 | **License:** MIT
+- **Topics:** audio, cross-platform, desktop-app, egui, gui, librespot
+- **What it is:** Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
+- **Growth:** averaging ~329 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/crmne/fastpotify
+
 
 ## Developer Tools
 
