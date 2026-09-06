@@ -848,6 +848,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49569896
 - **Link:** https://www.statichost.eu/
 
+**Added 2026-09-06**
+
+### [Chrome again exempts Google from user site data settings](https://lapcatsoftware.com/articles/2026/9/1.html)
+- **Source:** lapcatsoftware.com | **Posted:** 2026-09-05 | **By:** ExMachina73
+- **Community:** 376 points, 50 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49581870
+- **Link:** https://lapcatsoftware.com/articles/2026/9/1.html
+
 
 ## DevOps & Cloud
 

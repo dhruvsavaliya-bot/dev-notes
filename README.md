@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**354 entries and counting** · Last updated: 2026-09-06
+**355 entries and counting** · Last updated: 2026-09-06
 
 ## Categories
 
@@ -11,15 +11,15 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 117 |
 | [AI / LLM Notes](ai/notes.md) | 27 |
-| [Reading List](articles/reading-list.md) | 98 |
+| [Reading List](articles/reading-list.md) | 99 |
 | [Coding Tips](coding-tips/tips.md) | 103 |
 | [Language Notes](languages/notes.md) | 9 |
 
 ## Latest additions
 
+- **2026-09-06** · *Hacker News Picks* — [Chrome again exempts Google from user site data setting](https://news.ycombinator.com/item?id=49581870)
 - **2026-09-06** · *Web & Frontend* — [crmne/fastpotify](https://github.com/crmne/fastpotify)
 - **2026-09-06** · *Web & Frontend* — [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)
-- **2026-09-05** · *AI & Machine Learning* — [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)
 
 ## How it works
 
