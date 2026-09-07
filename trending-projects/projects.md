@@ -1077,6 +1077,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~162 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/tobi/walgit
 
+**Added 2026-09-07**
+
+### [rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)
+- **Stats:** 2,448 stars | 115 forks | 20 open issues
+- **Language:** JavaScript | **Created:** 2026-08-29 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.
+- **Growth:** averaging ~272 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/rakanki911/DLSS5-Swapper
+
 
 ## Web & Frontend
 

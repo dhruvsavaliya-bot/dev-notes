@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**358 entries and counting** · Last updated: 2026-09-07
+**359 entries and counting** · Last updated: 2026-09-07
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 119 |
+| [Trending Projects](trending-projects/projects.md) | 120 |
 | [AI / LLM Notes](ai/notes.md) | 27 |
 | [Reading List](articles/reading-list.md) | 99 |
 | [Coding Tips](coding-tips/tips.md) | 104 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-09-07** · *Other Cool Projects* — [rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)
 - **2026-09-07** · *AI & Machine Learning* — [yanliudesign/mono-color-skill](https://github.com/yanliudesign/mono-color-skill)
 - **2026-09-07** · *Other Cool Projects* — [tobi/walgit](https://github.com/tobi/walgit)
-- **2026-09-07** · *Productivity* — [What do you build when you can build anything?](https://dev.to/ale3oula/what-do-you-build-when-you-can-build-anything-4eg0)
 
 ## How it works
 
