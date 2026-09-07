@@ -857,6 +857,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49581870
 - **Link:** https://lapcatsoftware.com/articles/2026/9/1.html
 
+**Added 2026-09-07**
+
+### [NetBSD 9.5 released and EOL for NetBSD-9](https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and)
+- **Source:** blog.netbsd.org | **Posted:** 2026-09-06 | **By:** jaypatelani
+- **Community:** 132 points, 12 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49587636
+- **Link:** https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and
+
 
 ## DevOps & Cloud
 
