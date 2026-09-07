@@ -53,6 +53,7 @@
     "https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n",
     "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
     "https://dev.to/sylwia-lask/10-git-commands-youll-wish-you-knew-earlier-4fcp",
+    "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii",
     "https://dev.to/sylwia-lask/7-productivity-tips-that-sound-wrong-but-actually-work-5602",
     "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3",
     "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
@@ -371,12 +372,6 @@
   "recent": [
     {
       "date": "2026-09-05",
-      "subcat": "Hacker News Picks",
-      "title": "Statichost.eu  European static site hosting",
-      "url": "https://news.ycombinator.com/item?id=49569896"
-    },
-    {
-      "date": "2026-09-05",
       "subcat": "AI & Machine Learning",
       "title": "XiaoDuoYa/codex-with-chatgpt",
       "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
@@ -428,6 +423,12 @@
       "subcat": "Hacker News Picks",
       "title": "NetBSD 9.5 released and EOL for NetBSD-9",
       "url": "https://news.ycombinator.com/item?id=49587636"
+    },
+    {
+      "date": "2026-09-07",
+      "subcat": "Beginner",
+      "title": "20 Agentic AI Terms Every Developer Should Know (Explai",
+      "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii"
     }
   ]
 }

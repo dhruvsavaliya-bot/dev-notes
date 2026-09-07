@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**360 entries and counting** · Last updated: 2026-09-07
+**361 entries and counting** · Last updated: 2026-09-07
 
 ## Categories
 
@@ -12,14 +12,14 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 | [Trending Projects](trending-projects/projects.md) | 120 |
 | [AI / LLM Notes](ai/notes.md) | 27 |
 | [Reading List](articles/reading-list.md) | 100 |
-| [Coding Tips](coding-tips/tips.md) | 104 |
+| [Coding Tips](coding-tips/tips.md) | 105 |
 | [Language Notes](languages/notes.md) | 9 |
 
 ## Latest additions
 
+- **2026-09-07** · *Beginner* — [20 Agentic AI Terms Every Developer Should Know (Explai](https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii)
 - **2026-09-07** · *Hacker News Picks* — [NetBSD 9.5 released and EOL for NetBSD-9](https://news.ycombinator.com/item?id=49587636)
 - **2026-09-07** · *Other Cool Projects* — [rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)
-- **2026-09-07** · *AI & Machine Learning* — [yanliudesign/mono-color-skill](https://github.com/yanliudesign/mono-color-skill)
 
 ## How it works
 

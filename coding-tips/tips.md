@@ -945,3 +945,12 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Tags:** braziliandevs, opensource, github, beginners
 - **Summary:** Faz mais de 5 anos que eu não abria um PR ou issue técnica no Github, mas essa semana tenho aprendido...
 - **Link:** https://dev.to/he4rt/1a-vez-trabalhando-com-git-com-time-tudo-que-voce-precisa-saber-19il
+
+**Added 2026-09-07**
+
+### [20 Agentic AI Terms Every Developer Should Know (Explained Simply)](https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii)
+- **Author:** Sylwia Laskowska | **Published:** Sep 3 | **Read time:** 11 min
+- **Community:** 188 reactions, 91 comments — a top post of the week in #beginners
+- **Tags:** ai, agents, mcp, beginners
+- **Summary:** Do you ever feel like the AI world has moved forward a little too quickly?&nbsp;You hear about...
+- **Link:** https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii
