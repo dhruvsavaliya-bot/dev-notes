@@ -1057,6 +1057,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~100 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/gvzdv/claudish-to-english
 
+**Added 2026-09-07**
+
+### [tobi/walgit](https://github.com/tobi/walgit)
+- **Stats:** 2,444 stars | 138 forks | 14 open issues
+- **Language:** Rust | **Created:** 2026-08-23 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~162 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/tobi/walgit
+
 
 ## Web & Frontend
 

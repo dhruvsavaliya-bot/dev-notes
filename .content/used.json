@@ -172,6 +172,7 @@
     "https://github.com/synthetic-sciences/openscience",
     "https://github.com/tamnd/kage",
     "https://github.com/thebuggeddev/anatomy",
+    "https://github.com/tobi/walgit",
     "https://github.com/trycompai/crm",
     "https://github.com/unicity-aos/aos-ce",
     "https://github.com/vercel-labs/fx",
@@ -367,12 +368,6 @@
   "recent": [
     {
       "date": "2026-09-04",
-      "subcat": "AI & Machine Learning",
-      "title": "eternityspring/shuohao-skills",
-      "url": "https://github.com/eternityspring/shuohao-skills"
-    },
-    {
-      "date": "2026-09-04",
       "subcat": "Other Cool Projects",
       "title": "amagine-ai/Amagine3D",
       "url": "https://github.com/amagine-ai/Amagine3D"
@@ -424,6 +419,12 @@
       "subcat": "Productivity",
       "title": "What do you build when you can build anything?",
       "url": "https://dev.to/ale3oula/what-do-you-build-when-you-can-build-anything-4eg0"
+    },
+    {
+      "date": "2026-09-07",
+      "subcat": "Other Cool Projects",
+      "title": "tobi/walgit",
+      "url": "https://github.com/tobi/walgit"
     }
   ]
 }
