@@ -121,6 +121,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** Entregar ficou rápido demais. O problema é que manter continuou custando o mesmo preço de sempre.    ...
 - **Link:** https://dev.to/he4rt/velocidade-de-entrega-e-custo-de-manutencao-pos-ia-5gei
 
+**Added 2026-09-07**
+
+### [What do you build when you can build anything?](https://dev.to/ale3oula/what-do-you-build-when-you-can-build-anything-4eg0)
+- **Author:** Alexandra | **Published:** Sep 2 | **Read time:** 5 min
+- **Community:** 83 reactions, 54 comments — a top post of the week in #productivity
+- **Tags:** ai, productivity, discuss
+- **Summary:** My hot take is: Telling people that they have to build endlessly is very, very, very bad advice. If...
+- **Link:** https://dev.to/ale3oula/what-do-you-build-when-you-can-build-anything-4eg0
+
 
 ## Hacker News Picks
 

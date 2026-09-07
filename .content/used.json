@@ -9,6 +9,7 @@
     "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
     "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
     "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag",
+    "https://dev.to/ale3oula/what-do-you-build-when-you-can-build-anything-4eg0",
     "https://dev.to/anchildress1/i-asked-for-a-portfolio-but-got-a-filing-cabinet-4ef8",
     "https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g",
     "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
@@ -365,12 +366,6 @@
   ],
   "recent": [
     {
-      "date": "2026-09-03",
-      "subcat": "Hacker News Picks",
-      "title": "WebLLM: high-performance in-browser LLM inference engin",
-      "url": "https://news.ycombinator.com/item?id=49536411"
-    },
-    {
       "date": "2026-09-04",
       "subcat": "AI & Machine Learning",
       "title": "eternityspring/shuohao-skills",
@@ -423,6 +418,12 @@
       "subcat": "Hacker News Picks",
       "title": "Chrome again exempts Google from user site data setting",
       "url": "https://news.ycombinator.com/item?id=49581870"
+    },
+    {
+      "date": "2026-09-07",
+      "subcat": "Productivity",
+      "title": "What do you build when you can build anything?",
+      "url": "https://dev.to/ale3oula/what-do-you-build-when-you-can-build-anything-4eg0"
     }
   ]
 }
