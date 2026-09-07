@@ -89,3 +89,14 @@ Snippets and gotchas across languages.
 - **Tags:** typescript, algorithms, opensource, dsa
 - **Summary:** Hoi hoi!  I’m @nyaomaru, a frontend engineer who struggles to make game sounds. 😿  Have you used DSA...
 - **Link:** https://dev.to/nyaomaru/learn-valid-parentheses-reverse-linked-list-and-tree-max-depth-with-step-by-step-visualization-in-3o09
+
+## Python
+
+**Added 2026-09-07**
+
+### [I Built a Version Bump Tool in Rust That Is 10,000x Faster Than Its Python Counterparts.](https://dev.to/wiseai/i-built-a-version-bump-tool-in-rust-that-is-10000x-faster-than-its-python-counterparts-i6b)
+- **Author:** Mahmoud Harmouch | **Published:** Sep 6 | **Read time:** 9 min
+- **Community:** 110 reactions, 10 comments — a top post of the week in #python
+- **Tags:** rust, python, tutorial, javascript
+- **Summary:** Hello, fellow version-bumping enthusiasts, sleep-deprived Rustaceans, and accidental software...
+- **Link:** https://dev.to/wiseai/i-built-a-version-bump-tool-in-rust-that-is-10000x-faster-than-its-python-counterparts-i6b

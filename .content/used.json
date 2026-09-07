@@ -63,6 +63,7 @@
     "https://dev.to/tooljet/how-to-integrate-tooljet-with-servicenow-for-enhanced-operations-1h1j",
     "https://dev.to/varshithvhegde/i-built-a-chat-app-that-rewrites-its-own-ui-in-real-time-21m5",
     "https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd",
+    "https://dev.to/wiseai/i-built-a-version-bump-tool-in-rust-that-is-10000x-faster-than-its-python-counterparts-i6b",
     "https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0",
     "https://dev.to/xulingfeng/24-cups-36-seats-the-bartenders-ledger-40aj",
     "https://dev.to/xulingfeng/amazon-ai-blocked-my-kindle-book-i-asked-what-went-wrong-then-they-approved-it-48hi",
@@ -371,12 +372,6 @@
   ],
   "recent": [
     {
-      "date": "2026-09-05",
-      "subcat": "AI & Machine Learning",
-      "title": "XiaoDuoYa/codex-with-chatgpt",
-      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
-    },
-    {
       "date": "2026-09-06",
       "subcat": "Web & Frontend",
       "title": "lnkiai/m3e-canvas",
@@ -429,6 +424,12 @@
       "subcat": "Beginner",
       "title": "20 Agentic AI Terms Every Developer Should Know (Explai",
       "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii"
+    },
+    {
+      "date": "2026-09-07",
+      "subcat": "Python",
+      "title": "I Built a Version Bump Tool in Rust That Is 10,000x Fas",
+      "url": "https://dev.to/wiseai/i-built-a-version-bump-tool-in-rust-that-is-10000x-faster-than-its-python-counterparts-i6b"
     }
   ]
 }
