@@ -534,6 +534,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~312 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/XiaoDuoYa/codex-with-chatgpt
 
+**Added 2026-09-07**
+
+### [yanliudesign/mono-color-skill](https://github.com/yanliudesign/mono-color-skill)
+- **Stats:** 2,809 stars | 68 forks | 6 open issues
+- **Language:** Python | **Created:** 2026-08-19 | **License:** MIT
+- **Topics:** agent-skill, ai-agent, claude-skill, editorial-design, generative-art, halftone
+- **What it is:** One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained typography.
+- **Growth:** averaging ~147 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/yanliudesign/mono-color-skill
+
 
 ## Other Cool Projects
 
