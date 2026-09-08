@@ -368,18 +368,13 @@
     "https://news.ycombinator.com/item?id=49536177",
     "https://news.ycombinator.com/item?id=49536411",
     "https://news.ycombinator.com/item?id=49550772",
+    "https://news.ycombinator.com/item?id=49552299",
     "https://news.ycombinator.com/item?id=49569896",
     "https://news.ycombinator.com/item?id=49581870",
     "https://news.ycombinator.com/item?id=49587636",
     "https://news.ycombinator.com/item?id=49604861"
   ],
   "recent": [
-    {
-      "date": "2026-09-07",
-      "subcat": "Productivity",
-      "title": "What do you build when you can build anything?",
-      "url": "https://dev.to/ale3oula/what-do-you-build-when-you-can-build-anything-4eg0"
-    },
     {
       "date": "2026-09-07",
       "subcat": "Other Cool Projects",
@@ -433,6 +428,12 @@
       "subcat": "TypeScript",
       "title": "Learn Number of Islands, Invert Binary Tree, and Course",
       "url": "https://dev.to/nyaomaru/learn-number-of-islands-invert-binary-tree-and-course-schedule-with-step-by-step-visualization-in-5947"
+    },
+    {
+      "date": "2026-09-08",
+      "subcat": "Hacker News Picks",
+      "title": "WeatherNext 3",
+      "url": "https://news.ycombinator.com/item?id=49552299"
     }
   ]
 }

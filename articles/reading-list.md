@@ -875,6 +875,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49604861
 - **Link:** https://jellyfin.org/posts/jellyfin-release-12.0/
 
+**Added 2026-09-08**
+
+### [WeatherNext 3](https://deepmind.google/science/weathernext/)
+- **Source:** deepmind.google | **Posted:** 2026-09-03 | **By:** matthieu_bl
+- **Community:** 321 points, 78 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49552299
+- **Link:** https://deepmind.google/science/weathernext/
+
 
 ## DevOps & Cloud
 
