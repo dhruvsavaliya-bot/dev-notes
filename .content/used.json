@@ -46,6 +46,7 @@
     "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
     "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
     "https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b",
+    "https://dev.to/nyaomaru/learn-number-of-islands-invert-binary-tree-and-course-schedule-with-step-by-step-visualization-in-5947",
     "https://dev.to/nyaomaru/learn-valid-parentheses-reverse-linked-list-and-tree-max-depth-with-step-by-step-visualization-in-3o09",
     "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9",
     "https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o",
@@ -374,12 +375,6 @@
   ],
   "recent": [
     {
-      "date": "2026-09-06",
-      "subcat": "Hacker News Picks",
-      "title": "Chrome again exempts Google from user site data setting",
-      "url": "https://news.ycombinator.com/item?id=49581870"
-    },
-    {
       "date": "2026-09-07",
       "subcat": "Productivity",
       "title": "What do you build when you can build anything?",
@@ -432,6 +427,12 @@
       "subcat": "Hacker News Picks",
       "title": "Jellyfin 12.0",
       "url": "https://news.ycombinator.com/item?id=49604861"
+    },
+    {
+      "date": "2026-09-08",
+      "subcat": "TypeScript",
+      "title": "Learn Number of Islands, Invert Binary Tree, and Course",
+      "url": "https://dev.to/nyaomaru/learn-number-of-islands-invert-binary-tree-and-course-schedule-with-step-by-step-visualization-in-5947"
     }
   ]
 }

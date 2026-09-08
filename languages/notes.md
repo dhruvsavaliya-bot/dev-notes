@@ -90,6 +90,16 @@ Snippets and gotchas across languages.
 - **Summary:** Hoi hoi!  I’m @nyaomaru, a frontend engineer who struggles to make game sounds. 😿  Have you used DSA...
 - **Link:** https://dev.to/nyaomaru/learn-valid-parentheses-reverse-linked-list-and-tree-max-depth-with-step-by-step-visualization-in-3o09
 
+**Added 2026-09-08**
+
+### [Learn Number of Islands, Invert Binary Tree, and Course Schedule with Step-by-Step Visualization in DSA View View 👀👀](https://dev.to/nyaomaru/learn-number-of-islands-invert-binary-tree-and-course-schedule-with-step-by-step-visualization-in-5947)
+- **Author:** nyaomaru | **Published:** Sep 2 | **Read time:** 12 min
+- **Community:** 63 reactions, 13 comments — a top post of the week in #typescript
+- **Tags:** typescript, dsa, opensource, webdev
+- **Summary:** Hoi hoi!  I’m @nyaomaru, a frontend engineer who is surprised by how cold it is in the Netherlands...
+- **Link:** https://dev.to/nyaomaru/learn-number-of-islands-invert-binary-tree-and-course-schedule-with-step-by-step-visualization-in-5947
+
+
 ## Python
 
 **Added 2026-09-07**
