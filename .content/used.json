@@ -372,15 +372,10 @@
     "https://news.ycombinator.com/item?id=49569896",
     "https://news.ycombinator.com/item?id=49581870",
     "https://news.ycombinator.com/item?id=49587636",
-    "https://news.ycombinator.com/item?id=49604861"
+    "https://news.ycombinator.com/item?id=49604861",
+    "https://news.ycombinator.com/item?id=49604870"
   ],
   "recent": [
-    {
-      "date": "2026-09-07",
-      "subcat": "Other Cool Projects",
-      "title": "tobi/walgit",
-      "url": "https://github.com/tobi/walgit"
-    },
     {
       "date": "2026-09-07",
       "subcat": "AI & Machine Learning",
@@ -434,6 +429,12 @@
       "subcat": "Hacker News Picks",
       "title": "WeatherNext 3",
       "url": "https://news.ycombinator.com/item?id=49552299"
+    },
+    {
+      "date": "2026-09-08",
+      "subcat": "Hacker News Picks",
+      "title": "There's a new \"Google Jail\" for independent wikis",
+      "url": "https://news.ycombinator.com/item?id=49604870"
     }
   ]
 }

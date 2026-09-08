@@ -907,6 +907,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49536411
 - **Link:** https://github.com/mlc-ai/web-llm
 
+**Added 2026-09-08**
+
+### [There's a new "Google Jail" for independent wikis](https://weirdgloop.org/blog/google-jail)
+- **Source:** weirdgloop.org | **Posted:** 2026-09-08 | **By:** pizzaiolo
+- **Community:** 239 points, 85 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49604870
+- **Link:** https://weirdgloop.org/blog/google-jail
+
 
 ## Beginner
 
