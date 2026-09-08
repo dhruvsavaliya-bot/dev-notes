@@ -866,6 +866,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49587636
 - **Link:** https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and
 
+**Added 2026-09-08**
+
+### [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/)
+- **Source:** jellyfin.org | **Posted:** 2026-09-08 | **By:** 0xC0ncord
+- **Community:** 261 points, 96 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49604861
+- **Link:** https://jellyfin.org/posts/jellyfin-release-12.0/
+
 
 ## DevOps & Cloud
 
