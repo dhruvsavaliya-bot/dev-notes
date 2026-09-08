@@ -111,6 +111,7 @@
     "https://github.com/ZzzLc0405/photo-abstract-editorial",
     "https://github.com/amagine-ai/Amagine3D",
     "https://github.com/andrewyng/openworker",
+    "https://github.com/anthropics/commerce-agents",
     "https://github.com/anthropics/jacobian-lens",
     "https://github.com/antirez/h3.c",
     "https://github.com/anywhere-labs/deepseek-harness-desktop",
@@ -374,12 +375,6 @@
     {
       "date": "2026-09-06",
       "subcat": "Web & Frontend",
-      "title": "lnkiai/m3e-canvas",
-      "url": "https://github.com/lnkiai/m3e-canvas"
-    },
-    {
-      "date": "2026-09-06",
-      "subcat": "Web & Frontend",
       "title": "crmne/fastpotify",
       "url": "https://github.com/crmne/fastpotify"
     },
@@ -430,6 +425,12 @@
       "subcat": "Python",
       "title": "I Built a Version Bump Tool in Rust That Is 10,000x Fas",
       "url": "https://dev.to/wiseai/i-built-a-version-bump-tool-in-rust-that-is-10000x-faster-than-its-python-counterparts-i6b"
+    },
+    {
+      "date": "2026-09-08",
+      "subcat": "AI & Machine Learning",
+      "title": "anthropics/commerce-agents",
+      "url": "https://github.com/anthropics/commerce-agents"
     }
   ]
 }

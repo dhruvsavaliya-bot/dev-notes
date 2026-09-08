@@ -544,6 +544,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~147 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/yanliudesign/mono-color-skill
 
+**Added 2026-09-08**
+
+### [anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)
+- **Stats:** 2,426 stars | 420 forks | 6 open issues
+- **Language:** Python | **Created:** 2026-09-01 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.
+- **Growth:** averaging ~346 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/anthropics/commerce-agents
+
 
 ## Other Cool Projects
 
