@@ -972,3 +972,12 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Tags:** ai, agents, mcp, beginners
 - **Summary:** Do you ever feel like the AI world has moved forward a little too quickly?&nbsp;You hear about...
 - **Link:** https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii
+
+**Added 2026-09-09**
+
+### [I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things](https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg)
+- **Author:** Hemapriya Kanagala | **Published:** Sep 3 | **Read time:** 17 min
+- **Community:** 91 reactions, 37 comments — a top post of the week in #beginners
+- **Tags:** discuss, aws, beginners, agents
+- **Summary:** TL;DR  I recently finished a project from Udacity's Future AWS Agent Engineer Nanodegree Program,...
+- **Link:** https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg
