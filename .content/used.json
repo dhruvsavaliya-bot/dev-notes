@@ -381,15 +381,10 @@
     "https://news.ycombinator.com/item?id=49604861",
     "https://news.ycombinator.com/item?id=49604870",
     "https://news.ycombinator.com/item?id=49610181",
+    "https://news.ycombinator.com/item?id=49610631",
     "https://news.ycombinator.com/item?id=49613262"
   ],
   "recent": [
-    {
-      "date": "2026-09-08",
-      "subcat": "Hacker News Picks",
-      "title": "WeatherNext 3",
-      "url": "https://news.ycombinator.com/item?id=49552299"
-    },
     {
       "date": "2026-09-08",
       "subcat": "Hacker News Picks",
@@ -443,6 +438,12 @@
       "subcat": "Hacker News Picks",
       "title": "Tension wood: A 'muscle' that can both bend and straigh",
       "url": "https://news.ycombinator.com/item?id=49546964"
+    },
+    {
+      "date": "2026-09-09",
+      "subcat": "Hacker News Picks",
+      "title": "I-have-ADHD: A skill to stop coding agents from burying",
+      "url": "https://news.ycombinator.com/item?id=49610631"
     }
   ]
 }

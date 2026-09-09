@@ -902,6 +902,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49613262
 - **Link:** https://openai.com/index/navier-stokes-solution/
 
+**Added 2026-09-09**
+
+### [I-have-ADHD: A skill to stop coding agents from burying the answer](https://github.com/ayghri/i-have-adhd)
+- **Source:** github.com | **Posted:** 2026-09-08 | **By:** domhudson
+- **Community:** 473 points, 327 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49610631
+- **Link:** https://github.com/ayghri/i-have-adhd
+
 
 ## DevOps & Cloud
 
