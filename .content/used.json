@@ -376,15 +376,10 @@
     "https://news.ycombinator.com/item?id=49581870",
     "https://news.ycombinator.com/item?id=49587636",
     "https://news.ycombinator.com/item?id=49604861",
-    "https://news.ycombinator.com/item?id=49604870"
+    "https://news.ycombinator.com/item?id=49604870",
+    "https://news.ycombinator.com/item?id=49610181"
   ],
   "recent": [
-    {
-      "date": "2026-09-07",
-      "subcat": "Beginner",
-      "title": "20 Agentic AI Terms Every Developer Should Know (Explai",
-      "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii"
-    },
     {
       "date": "2026-09-07",
       "subcat": "Python",
@@ -438,6 +433,12 @@
       "subcat": "Beginner",
       "title": "I Built My First AWS Agent Workflow, and the Hardest Pa",
       "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg"
+    },
+    {
+      "date": "2026-09-09",
+      "subcat": "Hacker News Picks",
+      "title": "DaVinci Resolve 21.1",
+      "url": "https://news.ycombinator.com/item?id=49610181"
     }
   ]
 }

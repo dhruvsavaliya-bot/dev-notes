@@ -884,6 +884,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49552299
 - **Link:** https://deepmind.google/science/weathernext/
 
+**Added 2026-09-09**
+
+### [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03)
+- **Source:** www.blackmagicdesign.com | **Posted:** 2026-09-08 | **By:** tosh
+- **Community:** 392 points, 175 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49610181
+- **Link:** https://www.blackmagicdesign.com/media/release/20260908-03
+
 
 ## DevOps & Cloud
 
