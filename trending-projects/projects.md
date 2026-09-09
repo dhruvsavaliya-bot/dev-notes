@@ -554,6 +554,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~346 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/anthropics/commerce-agents
 
+**Added 2026-09-09**
+
+### [Nanako0129/sepia](https://github.com/Nanako0129/sepia)
+- **Stats:** 2,476 stars | 157 forks | 2 open issues
+- **Language:** Python | **Created:** 2026-08-28 | **License:** MIT
+- **Topics:** agent-skills, ai-writing, antigravity, claude-code, codex, developer-tools
+- **What it is:** De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).
+- **Growth:** averaging ~206 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/Nanako0129/sepia
+
 
 ## Other Cool Projects
 

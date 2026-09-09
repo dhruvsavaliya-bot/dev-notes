@@ -101,6 +101,7 @@
     "https://github.com/MengTo/threeui",
     "https://github.com/MiniMax-AI/MiniMax-H3",
     "https://github.com/MoonshotAI/Kimi-K3",
+    "https://github.com/Nanako0129/sepia",
     "https://github.com/QwenLM/Qwen-MM-Plugins",
     "https://github.com/Sahir619/fable-method",
     "https://github.com/Shpigford/knockoff",
@@ -381,12 +382,6 @@
   ],
   "recent": [
     {
-      "date": "2026-09-07",
-      "subcat": "Python",
-      "title": "I Built a Version Bump Tool in Rust That Is 10,000x Fas",
-      "url": "https://dev.to/wiseai/i-built-a-version-bump-tool-in-rust-that-is-10000x-faster-than-its-python-counterparts-i6b"
-    },
-    {
       "date": "2026-09-08",
       "subcat": "AI & Machine Learning",
       "title": "anthropics/commerce-agents",
@@ -439,6 +434,12 @@
       "subcat": "Hacker News Picks",
       "title": "DaVinci Resolve 21.1",
       "url": "https://news.ycombinator.com/item?id=49610181"
+    },
+    {
+      "date": "2026-09-09",
+      "subcat": "AI & Machine Learning",
+      "title": "Nanako0129/sepia",
+      "url": "https://github.com/Nanako0129/sepia"
     }
   ]
 }
