@@ -378,15 +378,10 @@
     "https://news.ycombinator.com/item?id=49587636",
     "https://news.ycombinator.com/item?id=49604861",
     "https://news.ycombinator.com/item?id=49604870",
-    "https://news.ycombinator.com/item?id=49610181"
+    "https://news.ycombinator.com/item?id=49610181",
+    "https://news.ycombinator.com/item?id=49613262"
   ],
   "recent": [
-    {
-      "date": "2026-09-08",
-      "subcat": "AI & Machine Learning",
-      "title": "anthropics/commerce-agents",
-      "url": "https://github.com/anthropics/commerce-agents"
-    },
     {
       "date": "2026-09-08",
       "subcat": "Hacker News Picks",
@@ -440,6 +435,12 @@
       "subcat": "AI & Machine Learning",
       "title": "Nanako0129/sepia",
       "url": "https://github.com/Nanako0129/sepia"
+    },
+    {
+      "date": "2026-09-09",
+      "subcat": "Hacker News Picks",
+      "title": "On the NavierStokes Millennium Prize Problem",
+      "url": "https://news.ycombinator.com/item?id=49613262"
     }
   ]
 }

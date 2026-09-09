@@ -893,6 +893,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49610181
 - **Link:** https://www.blackmagicdesign.com/media/release/20260908-03
 
+**Added 2026-09-09**
+
+### [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)
+- **Source:** openai.com | **Posted:** 2026-09-08 | **By:** tedsanders
+- **Community:** 1258 points, 1004 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49613262
+- **Link:** https://openai.com/index/navier-stokes-solution/
+
 
 ## DevOps & Cloud
 
