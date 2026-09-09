@@ -222,6 +222,15 @@ Lessons from building with LLMs.
 - **Summary:** After sixty-seven published posts here, the comments have become one of the best parts of the work....
 - **Link:** https://dev.to/kenielzep97/tell-me-about-you-1hi4
 
+**Added 2026-09-09**
+
+### [From AI Solutions to Shared Knowledge: Building an MCP for the Community](https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk)
+- **Author:** Pascal CESCATO | **Published:** Sep 7 | **Read time:** 8 min
+- **Community:** 74 reactions, 69 comments — a top post of the week in #ai
+- **Tags:** devchallenge, weekendchallenge, ai, mcp
+- **Summary:** This is a submission for the Weekend Challenge: Generosity Edition      Don't Just Ask AI. Give the...
+- **Link:** https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk
+
 
 ## LLMs
 
