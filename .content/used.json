@@ -42,6 +42,7 @@
     "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
     "https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h",
     "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
+    "https://dev.to/nazar-boyko/has-ai-made-you-a-lazier-developer-be-honest-5ack",
     "https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2",
     "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
     "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
@@ -379,12 +380,6 @@
   "recent": [
     {
       "date": "2026-09-07",
-      "subcat": "Other Cool Projects",
-      "title": "rakanki911/DLSS5-Swapper",
-      "url": "https://github.com/rakanki911/DLSS5-Swapper"
-    },
-    {
-      "date": "2026-09-07",
       "subcat": "Hacker News Picks",
       "title": "NetBSD 9.5 released and EOL for NetBSD-9",
       "url": "https://news.ycombinator.com/item?id=49587636"
@@ -436,6 +431,12 @@
       "subcat": "Other Cool Projects",
       "title": "ashemag/human-atlas",
       "url": "https://github.com/ashemag/human-atlas"
+    },
+    {
+      "date": "2026-09-09",
+      "subcat": "Productivity",
+      "title": "Has AI Made You A Lazier Developer? Be Honest.",
+      "url": "https://dev.to/nazar-boyko/has-ai-made-you-a-lazier-developer-be-honest-5ack"
     }
   ]
 }

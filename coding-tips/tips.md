@@ -130,6 +130,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** My hot take is: Telling people that they have to build endlessly is very, very, very bad advice. If...
 - **Link:** https://dev.to/ale3oula/what-do-you-build-when-you-can-build-anything-4eg0
 
+**Added 2026-09-09**
+
+### [Has AI Made You A Lazier Developer? Be Honest.](https://dev.to/nazar-boyko/has-ai-made-you-a-lazier-developer-be-honest-5ack)
+- **Author:** Nazar Boyko | **Published:** Sep 8 | **Read time:** 4 min
+- **Community:** 58 reactions, 17 comments — a top post of the week in #productivity
+- **Tags:** discuss, ai, productivity, career
+- **Summary:** Haven't you ever wondered if this AI vibe coding has made us lazy? Who's been solving problems on...
+- **Link:** https://dev.to/nazar-boyko/has-ai-made-you-a-lazier-developer-be-honest-5ack
+
 
 ## Hacker News Picks
 
