@@ -1097,6 +1097,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~272 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/rakanki911/DLSS5-Swapper
 
+**Added 2026-09-09**
+
+### [ashemag/human-atlas](https://github.com/ashemag/human-atlas)
+- **Stats:** 2,528 stars | 642 forks | 23 open issues
+- **Language:** TypeScript | **Created:** 2026-09-05 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.
+- **Growth:** averaging ~632 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/ashemag/human-atlas
+
 
 ## Web & Frontend
 

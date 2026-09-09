@@ -118,6 +118,7 @@
     "https://github.com/anywhere-labs/deepseek-harness-desktop",
     "https://github.com/anywhere-labs/dsh-desktop",
     "https://github.com/arvids-unavailable/openGym",
+    "https://github.com/ashemag/human-atlas",
     "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
     "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
     "https://github.com/baairon/torlink",
@@ -378,12 +379,6 @@
   "recent": [
     {
       "date": "2026-09-07",
-      "subcat": "AI & Machine Learning",
-      "title": "yanliudesign/mono-color-skill",
-      "url": "https://github.com/yanliudesign/mono-color-skill"
-    },
-    {
-      "date": "2026-09-07",
       "subcat": "Other Cool Projects",
       "title": "rakanki911/DLSS5-Swapper",
       "url": "https://github.com/rakanki911/DLSS5-Swapper"
@@ -435,6 +430,12 @@
       "subcat": "Hacker News Picks",
       "title": "There's a new \"Google Jail\" for independent wikis",
       "url": "https://news.ycombinator.com/item?id=49604870"
+    },
+    {
+      "date": "2026-09-09",
+      "subcat": "Other Cool Projects",
+      "title": "ashemag/human-atlas",
+      "url": "https://github.com/ashemag/human-atlas"
     }
   ]
 }
