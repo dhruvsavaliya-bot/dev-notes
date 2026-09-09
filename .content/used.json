@@ -372,6 +372,7 @@
     "https://news.ycombinator.com/item?id=49529621",
     "https://news.ycombinator.com/item?id=49536177",
     "https://news.ycombinator.com/item?id=49536411",
+    "https://news.ycombinator.com/item?id=49546964",
     "https://news.ycombinator.com/item?id=49550772",
     "https://news.ycombinator.com/item?id=49552299",
     "https://news.ycombinator.com/item?id=49569896",
@@ -383,12 +384,6 @@
     "https://news.ycombinator.com/item?id=49613262"
   ],
   "recent": [
-    {
-      "date": "2026-09-08",
-      "subcat": "TypeScript",
-      "title": "Learn Number of Islands, Invert Binary Tree, and Course",
-      "url": "https://dev.to/nyaomaru/learn-number-of-islands-invert-binary-tree-and-course-schedule-with-step-by-step-visualization-in-5947"
-    },
     {
       "date": "2026-09-08",
       "subcat": "Hacker News Picks",
@@ -442,6 +437,12 @@
       "subcat": "AI Engineering",
       "title": "From AI Solutions to Shared Knowledge: Building an MCP ",
       "url": "https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk"
+    },
+    {
+      "date": "2026-09-09",
+      "subcat": "Hacker News Picks",
+      "title": "Tension wood: A 'muscle' that can both bend and straigh",
+      "url": "https://news.ycombinator.com/item?id=49546964"
     }
   ]
 }

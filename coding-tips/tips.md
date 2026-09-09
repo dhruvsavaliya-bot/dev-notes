@@ -925,6 +925,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49604870
 - **Link:** https://weirdgloop.org/blog/google-jail
 
+**Added 2026-09-09**
+
+### [Tension wood: A 'muscle' that can both bend and straighten plants](https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html)
+- **Source:** phys.org | **Posted:** 2026-09-03 | **By:** mdp2021
+- **Community:** 127 points, 34 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49546964
+- **Link:** https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html
+
 
 ## Beginner
 
