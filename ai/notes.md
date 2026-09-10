@@ -231,6 +231,15 @@ Lessons from building with LLMs.
 - **Summary:** This is a submission for the Weekend Challenge: Generosity Edition      Don't Just Ask AI. Give the...
 - **Link:** https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk
 
+**Added 2026-09-10**
+
+### [Como eu aprendi a aprender (e por que a IA não veio pra pensar por você)](https://dev.to/stherzada/como-eu-aprendi-a-aprender-e-por-que-a-ia-nao-veio-pra-pensar-por-voce-fhg)
+- **Author:** Sther | **Published:** Sep 8 | **Read time:** 6 min
+- **Community:** 57 reactions, 4 comments — a top post of the week in #ai
+- **Tags:** ai, architecture, braziliandevs, software
+- **Summary:** Eu entrei na programação de cabeça no finalzinho de 2022. Não foi um caminho gradual, do tipo "vou...
+- **Link:** https://dev.to/stherzada/como-eu-aprendi-a-aprender-e-por-que-a-ia-nao-veio-pra-pensar-por-voce-fhg
+
 
 ## LLMs
 

@@ -56,6 +56,7 @@
     "https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh",
     "https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n",
     "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
+    "https://dev.to/stherzada/como-eu-aprendi-a-aprender-e-por-que-a-ia-nao-veio-pra-pensar-por-voce-fhg",
     "https://dev.to/sylwia-lask/10-git-commands-youll-wish-you-knew-earlier-4fcp",
     "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii",
     "https://dev.to/sylwia-lask/7-productivity-tips-that-sound-wrong-but-actually-work-5602",
@@ -392,12 +393,6 @@
   "recent": [
     {
       "date": "2026-09-09",
-      "subcat": "AI & Machine Learning",
-      "title": "Nanako0129/sepia",
-      "url": "https://github.com/Nanako0129/sepia"
-    },
-    {
-      "date": "2026-09-09",
       "subcat": "Hacker News Picks",
       "title": "On the NavierStokes Millennium Prize Problem",
       "url": "https://news.ycombinator.com/item?id=49613262"
@@ -449,6 +444,12 @@
       "subcat": "Hacker News Picks",
       "title": "Growing proof that autonomous cars save lives",
       "url": "https://news.ycombinator.com/item?id=49629886"
+    },
+    {
+      "date": "2026-09-10",
+      "subcat": "AI Engineering",
+      "title": "Como eu aprendi a aprender (e por que a IA no veio pra ",
+      "url": "https://dev.to/stherzada/como-eu-aprendi-a-aprender-e-por-que-a-ia-nao-veio-pra-pensar-por-voce-fhg"
     }
   ]
 }
