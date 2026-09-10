@@ -385,16 +385,11 @@
     "https://news.ycombinator.com/item?id=49610181",
     "https://news.ycombinator.com/item?id=49610631",
     "https://news.ycombinator.com/item?id=49613262",
+    "https://news.ycombinator.com/item?id=49629886",
     "https://news.ycombinator.com/item?id=49630931",
     "https://news.ycombinator.com/item?id=49636283"
   ],
   "recent": [
-    {
-      "date": "2026-09-09",
-      "subcat": "Hacker News Picks",
-      "title": "DaVinci Resolve 21.1",
-      "url": "https://news.ycombinator.com/item?id=49610181"
-    },
     {
       "date": "2026-09-09",
       "subcat": "AI & Machine Learning",
@@ -448,6 +443,12 @@
       "subcat": "Hacker News Picks",
       "title": "Automattic's board forces CEO Matt Mullenweg into leave",
       "url": "https://news.ycombinator.com/item?id=49636283"
+    },
+    {
+      "date": "2026-09-10",
+      "subcat": "Hacker News Picks",
+      "title": "Growing proof that autonomous cars save lives",
+      "url": "https://news.ycombinator.com/item?id=49629886"
     }
   ]
 }
