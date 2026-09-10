@@ -385,15 +385,10 @@
     "https://news.ycombinator.com/item?id=49610181",
     "https://news.ycombinator.com/item?id=49610631",
     "https://news.ycombinator.com/item?id=49613262",
-    "https://news.ycombinator.com/item?id=49630931"
+    "https://news.ycombinator.com/item?id=49630931",
+    "https://news.ycombinator.com/item?id=49636283"
   ],
   "recent": [
-    {
-      "date": "2026-09-09",
-      "subcat": "Beginner",
-      "title": "I Built My First AWS Agent Workflow, and the Hardest Pa",
-      "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg"
-    },
     {
       "date": "2026-09-09",
       "subcat": "Hacker News Picks",
@@ -447,6 +442,12 @@
       "subcat": "AI & Machine Learning",
       "title": "ApodexAI/FrontierAgent",
       "url": "https://github.com/ApodexAI/FrontierAgent"
+    },
+    {
+      "date": "2026-09-10",
+      "subcat": "Hacker News Picks",
+      "title": "Automattic's board forces CEO Matt Mullenweg into leave",
+      "url": "https://news.ycombinator.com/item?id=49636283"
     }
   ]
 }

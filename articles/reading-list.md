@@ -920,6 +920,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49630931
 - **Link:** https://www.apple.com/iphone-duo/
 
+**Added 2026-09-10**
+
+### [Automattic's board forces CEO Matt Mullenweg into leave of absence](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/)
+- **Source:** techcrunch.com | **Posted:** 2026-09-09 | **By:** LeoPanthera
+- **Community:** 238 points, 173 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49636283
+- **Link:** https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/
+
 
 ## DevOps & Cloud
 
