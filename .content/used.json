@@ -81,6 +81,7 @@
     "https://dev.to/xulingfeng/stratagems-9-lena-and-p-watched-two-ai-suppliers-fight-the-logs-said-neither-was-clean-2pj3",
     "https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9",
     "https://github.com/AlephAITech/WorkBuddyGuide",
+    "https://github.com/ApodexAI/FrontierAgent",
     "https://github.com/CopilotKit/OpenBot",
     "https://github.com/DavidHDev/canvas-ui",
     "https://github.com/EvoMap/AutoResearch",
@@ -389,12 +390,6 @@
   "recent": [
     {
       "date": "2026-09-09",
-      "subcat": "Productivity",
-      "title": "Has AI Made You A Lazier Developer? Be Honest.",
-      "url": "https://dev.to/nazar-boyko/has-ai-made-you-a-lazier-developer-be-honest-5ack"
-    },
-    {
-      "date": "2026-09-09",
       "subcat": "Beginner",
       "title": "I Built My First AWS Agent Workflow, and the Hardest Pa",
       "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg"
@@ -446,6 +441,12 @@
       "subcat": "AI & Machine Learning",
       "title": "EvoMap/AutoResearch",
       "url": "https://github.com/EvoMap/AutoResearch"
+    },
+    {
+      "date": "2026-09-10",
+      "subcat": "AI & Machine Learning",
+      "title": "ApodexAI/FrontierAgent",
+      "url": "https://github.com/ApodexAI/FrontierAgent"
     }
   ]
 }

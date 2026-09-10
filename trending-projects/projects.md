@@ -574,6 +574,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~102 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/EvoMap/AutoResearch
 
+**Added 2026-09-10**
+
+### [ApodexAI/FrontierAgent](https://github.com/ApodexAI/FrontierAgent)
+- **Stats:** 2,471 stars | 171 forks | 12 open issues
+- **Language:** Python | **Created:** 2026-08-22 | **License:** Apache-2.0
+- **Topics:** agent-orchestration, agentic-ai, agentic-framework, ai-agents, harness, multi-agent
+- **What it is:** 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.
+- **Growth:** averaging ~130 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/ApodexAI/FrontierAgent
+
 
 ## Other Cool Projects
 
