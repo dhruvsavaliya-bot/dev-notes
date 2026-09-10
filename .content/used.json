@@ -386,17 +386,12 @@
     "https://news.ycombinator.com/item?id=49610181",
     "https://news.ycombinator.com/item?id=49610631",
     "https://news.ycombinator.com/item?id=49613262",
+    "https://news.ycombinator.com/item?id=49626190",
     "https://news.ycombinator.com/item?id=49629886",
     "https://news.ycombinator.com/item?id=49630931",
     "https://news.ycombinator.com/item?id=49636283"
   ],
   "recent": [
-    {
-      "date": "2026-09-09",
-      "subcat": "Hacker News Picks",
-      "title": "On the NavierStokes Millennium Prize Problem",
-      "url": "https://news.ycombinator.com/item?id=49613262"
-    },
     {
       "date": "2026-09-09",
       "subcat": "AI Engineering",
@@ -450,6 +445,12 @@
       "subcat": "AI Engineering",
       "title": "Como eu aprendi a aprender (e por que a IA no veio pra ",
       "url": "https://dev.to/stherzada/como-eu-aprendi-a-aprender-e-por-que-a-ia-nao-veio-pra-pensar-por-voce-fhg"
+    },
+    {
+      "date": "2026-09-10",
+      "subcat": "Hacker News Picks",
+      "title": "Shopify acquires Tailwind",
+      "url": "https://news.ycombinator.com/item?id=49626190"
     }
   ]
 }

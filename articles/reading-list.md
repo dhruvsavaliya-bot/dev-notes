@@ -938,6 +938,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49629886
 - **Link:** https://spectrum.ieee.org/are-self-driving-cars-safe
 
+**Added 2026-09-10**
+
+### [Shopify acquires Tailwind](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
+- **Source:** tailwindcss.com | **Posted:** 2026-09-09 | **By:** EdwinHoksberg
+- **Community:** 1050 points, 405 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49626190
+- **Link:** https://tailwindcss.com/blog/tailwind-is-joining-shopify
+
 
 ## DevOps & Cloud
 
