@@ -83,6 +83,7 @@
     "https://github.com/AlephAITech/WorkBuddyGuide",
     "https://github.com/CopilotKit/OpenBot",
     "https://github.com/DavidHDev/canvas-ui",
+    "https://github.com/EvoMap/AutoResearch",
     "https://github.com/FareedKhan-dev/kimi-k3-in-c",
     "https://github.com/Fei-Away/Codex-Dream-Skin",
     "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
@@ -388,12 +389,6 @@
   "recent": [
     {
       "date": "2026-09-09",
-      "subcat": "Other Cool Projects",
-      "title": "ashemag/human-atlas",
-      "url": "https://github.com/ashemag/human-atlas"
-    },
-    {
-      "date": "2026-09-09",
       "subcat": "Productivity",
       "title": "Has AI Made You A Lazier Developer? Be Honest.",
       "url": "https://dev.to/nazar-boyko/has-ai-made-you-a-lazier-developer-be-honest-5ack"
@@ -445,6 +440,12 @@
       "subcat": "Hacker News Picks",
       "title": "iPhone Duo",
       "url": "https://news.ycombinator.com/item?id=49630931"
+    },
+    {
+      "date": "2026-09-10",
+      "subcat": "AI & Machine Learning",
+      "title": "EvoMap/AutoResearch",
+      "url": "https://github.com/EvoMap/AutoResearch"
     }
   ]
 }

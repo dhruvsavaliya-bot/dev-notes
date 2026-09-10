@@ -564,6 +564,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~206 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Nanako0129/sepia
 
+**Added 2026-09-10**
+
+### [EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch)
+- **Stats:** 2,653 stars | 175 forks | 2 open issues
+- **Language:** Python | **Created:** 2026-08-15 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project.
+- **Growth:** averaging ~102 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/EvoMap/AutoResearch
+
 
 ## Other Cool Projects
 
