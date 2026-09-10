@@ -21,6 +21,7 @@
     "https://dev.to/francistrdev/choose-your-burden-4dgl",
     "https://dev.to/francistrdev/git-gud-4e6g",
     "https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p",
+    "https://dev.to/francistrdev/networking-is-hard-but-easy-to-think-about-dc1",
     "https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd",
     "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i",
     "https://dev.to/gramli/how-ai-endpoints-change-the-traditional-api-flow-3773",
@@ -394,12 +395,6 @@
   "recent": [
     {
       "date": "2026-09-09",
-      "subcat": "AI Engineering",
-      "title": "From AI Solutions to Shared Knowledge: Building an MCP ",
-      "url": "https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk"
-    },
-    {
-      "date": "2026-09-09",
       "subcat": "Hacker News Picks",
       "title": "Tension wood: A 'muscle' that can both bend and straigh",
       "url": "https://news.ycombinator.com/item?id=49546964"
@@ -451,6 +446,12 @@
       "subcat": "Hacker News Picks",
       "title": "Shopify acquires Tailwind",
       "url": "https://news.ycombinator.com/item?id=49626190"
+    },
+    {
+      "date": "2026-09-10",
+      "subcat": "Productivity",
+      "title": "Networking is Hard but easy to think about.",
+      "url": "https://dev.to/francistrdev/networking-is-hard-but-easy-to-think-about-dc1"
     }
   ]
 }

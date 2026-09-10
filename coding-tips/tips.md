@@ -139,6 +139,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** Haven't you ever wondered if this AI vibe coding has made us lazy? Who's been solving problems on...
 - **Link:** https://dev.to/nazar-boyko/has-ai-made-you-a-lazier-developer-be-honest-5ack
 
+**Added 2026-09-10**
+
+### [Networking is Hard but easy to think about.](https://dev.to/francistrdev/networking-is-hard-but-easy-to-think-about-dc1)
+- **Author:** FrancisTRᴅᴇᴠ (っ◔◡◔)っ | **Published:** Sep 8 | **Read time:** 5 min
+- **Community:** 57 reactions, 49 comments — a top post of the week in #productivity
+- **Tags:** discuss, community, productivity, mentalhealth
+- **Summary:** The video cover is what we are all feeling in this Job Market. I don't have a good cover image this...
+- **Link:** https://dev.to/francistrdev/networking-is-hard-but-easy-to-think-about-dc1
+
 
 ## Hacker News Picks
 
