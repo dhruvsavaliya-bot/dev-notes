@@ -382,15 +382,10 @@
     "https://news.ycombinator.com/item?id=49604870",
     "https://news.ycombinator.com/item?id=49610181",
     "https://news.ycombinator.com/item?id=49610631",
-    "https://news.ycombinator.com/item?id=49613262"
+    "https://news.ycombinator.com/item?id=49613262",
+    "https://news.ycombinator.com/item?id=49630931"
   ],
   "recent": [
-    {
-      "date": "2026-09-08",
-      "subcat": "Hacker News Picks",
-      "title": "There's a new \"Google Jail\" for independent wikis",
-      "url": "https://news.ycombinator.com/item?id=49604870"
-    },
     {
       "date": "2026-09-09",
       "subcat": "Other Cool Projects",
@@ -444,6 +439,12 @@
       "subcat": "Hacker News Picks",
       "title": "I-have-ADHD: A skill to stop coding agents from burying",
       "url": "https://news.ycombinator.com/item?id=49610631"
+    },
+    {
+      "date": "2026-09-10",
+      "subcat": "Hacker News Picks",
+      "title": "iPhone Duo",
+      "url": "https://news.ycombinator.com/item?id=49630931"
     }
   ]
 }

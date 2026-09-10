@@ -911,6 +911,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49610631
 - **Link:** https://github.com/ayghri/i-have-adhd
 
+**Added 2026-09-10**
+
+### [iPhone Duo](https://www.apple.com/iphone-duo/)
+- **Source:** www.apple.com | **Posted:** 2026-09-09 | **By:** thecosmicfrog
+- **Community:** 1018 points, 1824 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49630931
+- **Link:** https://www.apple.com/iphone-duo/
+
 
 ## DevOps & Cloud
 

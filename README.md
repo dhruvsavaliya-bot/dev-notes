@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**376 entries and counting** · Last updated: 2026-09-09
+**377 entries and counting** · Last updated: 2026-09-10
 
 ## Categories
 
@@ -11,15 +11,15 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 123 |
 | [AI / LLM Notes](ai/notes.md) | 28 |
-| [Reading List](articles/reading-list.md) | 105 |
+| [Reading List](articles/reading-list.md) | 106 |
 | [Coding Tips](coding-tips/tips.md) | 109 |
 | [Language Notes](languages/notes.md) | 11 |
 
 ## Latest additions
 
+- **2026-09-10** · *Hacker News Picks* — [iPhone Duo](https://news.ycombinator.com/item?id=49630931)
 - **2026-09-09** · *Hacker News Picks* — [I-have-ADHD: A skill to stop coding agents from burying](https://news.ycombinator.com/item?id=49610631)
 - **2026-09-09** · *Hacker News Picks* — [Tension wood: A 'muscle' that can both bend and straigh](https://news.ycombinator.com/item?id=49546964)
-- **2026-09-09** · *AI Engineering* — [From AI Solutions to Shared Knowledge: Building an MCP ](https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk)
 
 ## How it works
 
