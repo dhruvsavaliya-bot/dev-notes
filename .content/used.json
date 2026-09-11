@@ -62,6 +62,7 @@
     "https://dev.to/sylwia-lask/10-git-commands-youll-wish-you-knew-earlier-4fcp",
     "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii",
     "https://dev.to/sylwia-lask/7-productivity-tips-that-sound-wrong-but-actually-work-5602",
+    "https://dev.to/sylwia-lask/ai-is-already-better-at-coding-than-most-software-developers-4hno",
     "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3",
     "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
     "https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2",
@@ -397,12 +398,6 @@
   "recent": [
     {
       "date": "2026-09-10",
-      "subcat": "Hacker News Picks",
-      "title": "iPhone Duo",
-      "url": "https://news.ycombinator.com/item?id=49630931"
-    },
-    {
-      "date": "2026-09-10",
       "subcat": "AI & Machine Learning",
       "title": "EvoMap/AutoResearch",
       "url": "https://github.com/EvoMap/AutoResearch"
@@ -454,6 +449,12 @@
       "subcat": "Hacker News Picks",
       "title": "Detecting and countering misuse of AI: September 2026",
       "url": "https://news.ycombinator.com/item?id=49647300"
+    },
+    {
+      "date": "2026-09-11",
+      "subcat": "AI Engineering",
+      "title": "AI Is Already Better at Coding Than Most Software Devel",
+      "url": "https://dev.to/sylwia-lask/ai-is-already-better-at-coding-than-most-software-developers-4hno"
     }
   ]
 }

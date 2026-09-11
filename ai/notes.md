@@ -240,6 +240,15 @@ Lessons from building with LLMs.
 - **Summary:** Eu entrei na programação de cabeça no finalzinho de 2022. Não foi um caminho gradual, do tipo "vou...
 - **Link:** https://dev.to/stherzada/como-eu-aprendi-a-aprender-e-por-que-a-ia-nao-veio-pra-pensar-por-voce-fhg
 
+**Added 2026-09-11**
+
+### [AI Is Already Better at Coding Than Most Software Developers](https://dev.to/sylwia-lask/ai-is-already-better-at-coding-than-most-software-developers-4hno)
+- **Author:** Sylwia Laskowska | **Published:** Sep 10 | **Read time:** 5 min
+- **Community:** 103 reactions, 85 comments — a top post of the week in #ai
+- **Tags:** discuss, ai, webdev, programming
+- **Summary:** ...but let me say this right away: coding was never the most valuable part of software...
+- **Link:** https://dev.to/sylwia-lask/ai-is-already-better-at-coding-than-most-software-developers-4hno
+
 
 ## LLMs
 
