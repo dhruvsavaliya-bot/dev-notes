@@ -943,6 +943,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49546964
 - **Link:** https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html
 
+**Added 2026-09-11**
+
+### [Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)
+- **Source:** www.anthropic.com | **Posted:** 2026-09-10 | **By:** garo-pro
+- **Community:** 140 points, 206 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49647300
+- **Link:** https://www.anthropic.com/threat-intelligence-report-september-2026
+
 
 ## Beginner
 
