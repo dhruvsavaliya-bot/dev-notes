@@ -99,6 +99,15 @@ Snippets and gotchas across languages.
 - **Summary:** Hoi hoi!  I’m @nyaomaru, a frontend engineer who is surprised by how cold it is in the Netherlands...
 - **Link:** https://dev.to/nyaomaru/learn-number-of-islands-invert-binary-tree-and-course-schedule-with-step-by-step-visualization-in-5947
 
+**Added 2026-09-11**
+
+### [Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀](https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg)
+- **Author:** nyaomaru | **Published:** Sep 9 | **Read time:** 10 min
+- **Community:** 57 reactions, 12 comments — a top post of the week in #typescript
+- **Tags:** typescript, algorithms, opensource, dsa
+- **Summary:** Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...
+- **Link:** https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg
+
 
 ## Python
 

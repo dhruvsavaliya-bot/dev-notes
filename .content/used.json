@@ -50,6 +50,7 @@
     "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
     "https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b",
     "https://dev.to/nyaomaru/learn-number-of-islands-invert-binary-tree-and-course-schedule-with-step-by-step-visualization-in-5947",
+    "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
     "https://dev.to/nyaomaru/learn-valid-parentheses-reverse-linked-list-and-tree-max-depth-with-step-by-step-visualization-in-3o09",
     "https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk",
     "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9",
@@ -396,12 +397,6 @@
     {
       "date": "2026-09-09",
       "subcat": "Hacker News Picks",
-      "title": "Tension wood: A 'muscle' that can both bend and straigh",
-      "url": "https://news.ycombinator.com/item?id=49546964"
-    },
-    {
-      "date": "2026-09-09",
-      "subcat": "Hacker News Picks",
       "title": "I-have-ADHD: A skill to stop coding agents from burying",
       "url": "https://news.ycombinator.com/item?id=49610631"
     },
@@ -452,6 +447,12 @@
       "subcat": "Productivity",
       "title": "Networking is Hard but easy to think about.",
       "url": "https://dev.to/francistrdev/networking-is-hard-but-easy-to-think-about-dc1"
+    },
+    {
+      "date": "2026-09-11",
+      "subcat": "TypeScript",
+      "title": "Learn Trapping Rain Water, Top K Frequent and Selection",
+      "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg"
     }
   ]
 }
