@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**389 entries and counting** · Last updated: 2026-09-12
+**390 entries and counting** · Last updated: 2026-09-12
 
 ## Categories
 
@@ -12,14 +12,14 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 | [Trending Projects](trending-projects/projects.md) | 125 |
 | [AI / LLM Notes](ai/notes.md) | 31 |
 | [Reading List](articles/reading-list.md) | 110 |
-| [Coding Tips](coding-tips/tips.md) | 111 |
+| [Coding Tips](coding-tips/tips.md) | 112 |
 | [Language Notes](languages/notes.md) | 12 |
 
 ## Latest additions
 
+- **2026-09-12** · *Hacker News Picks* — [Retrospectively Reverse-Engineering Apple's Neural Engi](https://news.ycombinator.com/item?id=49670032)
 - **2026-09-12** · *AI Engineering* — [Most 'AI Agents' Are Just If-Statements in a Trench Coa](https://dev.to/james_anderson_h/most-ai-agents-are-just-if-statements-in-a-trench-coat-3960)
 - **2026-09-12** · *Hacker News Picks* — [Show HN: Bodily Oddities](https://news.ycombinator.com/item?id=49649789)
-- **2026-09-11** · *AI Engineering* — [AI Is Already Better at Coding Than Most Software Devel](https://dev.to/sylwia-lask/ai-is-already-better-at-coding-than-most-software-developers-4hno)
 
 ## How it works
 

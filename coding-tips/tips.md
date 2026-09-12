@@ -952,6 +952,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49647300
 - **Link:** https://www.anthropic.com/threat-intelligence-report-september-2026
 
+**Added 2026-09-12**
+
+### [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html)
+- **Source:** eiln.github.io | **Posted:** 2026-09-12 | **By:** zdw
+- **Community:** 106 points, 13 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49670032
+- **Link:** https://eiln.github.io/posts/ane.html
+
 
 ## Beginner
 
