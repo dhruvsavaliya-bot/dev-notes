@@ -947,6 +947,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49626190
 - **Link:** https://tailwindcss.com/blog/tailwind-is-joining-shopify
 
+**Added 2026-09-12**
+
+### [Show HN: Bodily Oddities](https://vester.si/bodily-oddities/)
+- **Source:** vester.si | **Posted:** 2026-09-10 | **By:** vesterde
+- **Community:** 241 points, 166 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49649789
+- **Link:** https://vester.si/bodily-oddities/
+
 
 ## DevOps & Cloud
 

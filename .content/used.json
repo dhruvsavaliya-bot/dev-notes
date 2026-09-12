@@ -393,15 +393,10 @@
     "https://news.ycombinator.com/item?id=49629886",
     "https://news.ycombinator.com/item?id=49630931",
     "https://news.ycombinator.com/item?id=49636283",
-    "https://news.ycombinator.com/item?id=49647300"
+    "https://news.ycombinator.com/item?id=49647300",
+    "https://news.ycombinator.com/item?id=49649789"
   ],
   "recent": [
-    {
-      "date": "2026-09-10",
-      "subcat": "AI & Machine Learning",
-      "title": "EvoMap/AutoResearch",
-      "url": "https://github.com/EvoMap/AutoResearch"
-    },
     {
       "date": "2026-09-10",
       "subcat": "AI & Machine Learning",
@@ -455,6 +450,12 @@
       "subcat": "AI Engineering",
       "title": "AI Is Already Better at Coding Than Most Software Devel",
       "url": "https://dev.to/sylwia-lask/ai-is-already-better-at-coding-than-most-software-developers-4hno"
+    },
+    {
+      "date": "2026-09-12",
+      "subcat": "Hacker News Picks",
+      "title": "Show HN: Bodily Oddities",
+      "url": "https://news.ycombinator.com/item?id=49649789"
     }
   ]
 }
