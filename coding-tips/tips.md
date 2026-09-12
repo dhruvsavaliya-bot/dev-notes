@@ -961,6 +961,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49670032
 - **Link:** https://eiln.github.io/posts/ane.html
 
+**Added 2026-09-12**
+
+### [Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/)
+- **Source:** www.claymath.org | **Posted:** 2026-09-12 | **By:** rvz
+- **Community:** 198 points, 134 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49668706
+- **Link:** https://www.claymath.org/news/navier-stokes-announcement/
+
 
 ## Beginner
 

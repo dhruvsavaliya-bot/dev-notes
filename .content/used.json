@@ -396,15 +396,10 @@
     "https://news.ycombinator.com/item?id=49636283",
     "https://news.ycombinator.com/item?id=49647300",
     "https://news.ycombinator.com/item?id=49649789",
+    "https://news.ycombinator.com/item?id=49668706",
     "https://news.ycombinator.com/item?id=49670032"
   ],
   "recent": [
-    {
-      "date": "2026-09-10",
-      "subcat": "Hacker News Picks",
-      "title": "Growing proof that autonomous cars save lives",
-      "url": "https://news.ycombinator.com/item?id=49629886"
-    },
     {
       "date": "2026-09-10",
       "subcat": "AI Engineering",
@@ -458,6 +453,12 @@
       "subcat": "Hacker News Picks",
       "title": "Retrospectively Reverse-Engineering Apple's Neural Engi",
       "url": "https://news.ycombinator.com/item?id=49670032"
+    },
+    {
+      "date": "2026-09-12",
+      "subcat": "Hacker News Picks",
+      "title": "Navier-Stokes Announcement",
+      "url": "https://news.ycombinator.com/item?id=49668706"
     }
   ]
 }
