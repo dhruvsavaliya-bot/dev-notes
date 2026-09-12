@@ -38,6 +38,7 @@
     "https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh",
     "https://dev.to/hemapriya_kanagala/what-would-you-tell-someone-early-in-their-career-1k76",
     "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3",
+    "https://dev.to/james_anderson_h/most-ai-agents-are-just-if-statements-in-a-trench-coat-3960",
     "https://dev.to/kenielzep97/tell-me-about-you-1hi4",
     "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm",
     "https://dev.to/konark_13/vibe-coding-endgame-3bbn",
@@ -399,12 +400,6 @@
   "recent": [
     {
       "date": "2026-09-10",
-      "subcat": "AI & Machine Learning",
-      "title": "ApodexAI/FrontierAgent",
-      "url": "https://github.com/ApodexAI/FrontierAgent"
-    },
-    {
-      "date": "2026-09-10",
       "subcat": "Hacker News Picks",
       "title": "Automattic's board forces CEO Matt Mullenweg into leave",
       "url": "https://news.ycombinator.com/item?id=49636283"
@@ -456,6 +451,12 @@
       "subcat": "Hacker News Picks",
       "title": "Show HN: Bodily Oddities",
       "url": "https://news.ycombinator.com/item?id=49649789"
+    },
+    {
+      "date": "2026-09-12",
+      "subcat": "AI Engineering",
+      "title": "Most 'AI Agents' Are Just If-Statements in a Trench Coa",
+      "url": "https://dev.to/james_anderson_h/most-ai-agents-are-just-if-statements-in-a-trench-coat-3960"
     }
   ]
 }

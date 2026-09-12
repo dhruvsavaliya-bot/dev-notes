@@ -249,6 +249,15 @@ Lessons from building with LLMs.
 - **Summary:** ...but let me say this right away: coding was never the most valuable part of software...
 - **Link:** https://dev.to/sylwia-lask/ai-is-already-better-at-coding-than-most-software-developers-4hno
 
+**Added 2026-09-12**
+
+### [Most 'AI Agents' Are Just If-Statements in a Trench Coat](https://dev.to/james_anderson_h/most-ai-agents-are-just-if-statements-in-a-trench-coat-3960)
+- **Author:** James Anderson | **Published:** Sep 8 | **Read time:** 7 min
+- **Community:** 87 reactions, 92 comments — a top post of the week in #ai
+- **Tags:** ai, softwareengineering, webdev, agents
+- **Summary:** I built an agent last year, and I was proud of it.  It had a planner. It had tools. It had a...
+- **Link:** https://dev.to/james_anderson_h/most-ai-agents-are-just-if-statements-in-a-trench-coat-3960
+
 
 ## LLMs
 
