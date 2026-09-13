@@ -1157,6 +1157,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~93 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/omacom/try-omarchy
 
+**Added 2026-09-13**
+
+### [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget)
+- **Stats:** 2,277 stars | 89 forks | 51 open issues
+- **Language:** JavaScript | **Created:** 2026-08-18 | **License:** MIT
+- **Topics:** cordis, deepseek, deepseek-harness, developer-tools, dsh, dsh-plugin
+- **What it is:** DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装
+- **Growth:** averaging ~87 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget
+
 
 ## Web & Frontend
 
