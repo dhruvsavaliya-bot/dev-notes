@@ -970,6 +970,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49668706
 - **Link:** https://www.claymath.org/news/navier-stokes-announcement/
 
+**Added 2026-09-13**
+
+### [Android NAT-T keepalive offload bypasses VPN lockdown](https://supuk.ch/papers/android-natt-keepalive-vpn-bypass)
+- **Source:** supuk.ch | **Posted:** 2026-09-11 | **By:** mhitza
+- **Community:** 180 points, 46 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49665502
+- **Link:** https://supuk.ch/papers/android-natt-keepalive-vpn-bypass
+
 
 ## Beginner
 

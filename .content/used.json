@@ -396,16 +396,11 @@
     "https://news.ycombinator.com/item?id=49636283",
     "https://news.ycombinator.com/item?id=49647300",
     "https://news.ycombinator.com/item?id=49649789",
+    "https://news.ycombinator.com/item?id=49665502",
     "https://news.ycombinator.com/item?id=49668706",
     "https://news.ycombinator.com/item?id=49670032"
   ],
   "recent": [
-    {
-      "date": "2026-09-10",
-      "subcat": "AI Engineering",
-      "title": "Como eu aprendi a aprender (e por que a IA no veio pra ",
-      "url": "https://dev.to/stherzada/como-eu-aprendi-a-aprender-e-por-que-a-ia-nao-veio-pra-pensar-por-voce-fhg"
-    },
     {
       "date": "2026-09-10",
       "subcat": "Hacker News Picks",
@@ -459,6 +454,12 @@
       "subcat": "Hacker News Picks",
       "title": "Navier-Stokes Announcement",
       "url": "https://news.ycombinator.com/item?id=49668706"
+    },
+    {
+      "date": "2026-09-13",
+      "subcat": "Hacker News Picks",
+      "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
+      "url": "https://news.ycombinator.com/item?id=49665502"
     }
   ]
 }
