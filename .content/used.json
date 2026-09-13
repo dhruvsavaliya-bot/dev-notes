@@ -175,6 +175,7 @@
     "https://github.com/mekos2772/ios-location-spoofer",
     "https://github.com/microsoft/skill-recorder",
     "https://github.com/mshumer/Claude-of-Duty",
+    "https://github.com/nateherkai/scroll-craft",
     "https://github.com/nyblnet/bento",
     "https://github.com/omacom/try-omarchy",
     "https://github.com/omdsh-dev/DSH-better-sidebar",
@@ -406,12 +407,6 @@
   ],
   "recent": [
     {
-      "date": "2026-09-11",
-      "subcat": "AI Engineering",
-      "title": "AI Is Already Better at Coding Than Most Software Devel",
-      "url": "https://dev.to/sylwia-lask/ai-is-already-better-at-coding-than-most-software-developers-4hno"
-    },
-    {
       "date": "2026-09-12",
       "subcat": "Hacker News Picks",
       "title": "Show HN: Bodily Oddities",
@@ -464,6 +459,12 @@
       "subcat": "Other Cool Projects",
       "title": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
       "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget"
+    },
+    {
+      "date": "2026-09-13",
+      "subcat": "AI & Machine Learning",
+      "title": "nateherkai/scroll-craft",
+      "url": "https://github.com/nateherkai/scroll-craft"
     }
   ]
 }

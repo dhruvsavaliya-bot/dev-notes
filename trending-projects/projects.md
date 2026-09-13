@@ -594,6 +594,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~162 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Player-YN/PawWork_ZhuaZhua
 
+**Added 2026-09-13**
+
+### [nateherkai/scroll-craft](https://github.com/nateherkai/scroll-craft)
+- **Stats:** 2,379 stars | 354 forks | 6 open issues
+- **Language:** JavaScript | **Created:** 2026-08-22 | **License:** MIT
+- **Topics:** accessibility, agent-skills, ai-web-design, anthropic, claude-code, claude-code-plugin
+- **What it is:** An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding agents. Also available as a Claude Code plugin.
+- **Growth:** averaging ~108 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/nateherkai/scroll-craft
+
 
 ## Other Cool Projects
 
