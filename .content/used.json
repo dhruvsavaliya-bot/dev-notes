@@ -399,15 +399,10 @@
     "https://news.ycombinator.com/item?id=49649789",
     "https://news.ycombinator.com/item?id=49665502",
     "https://news.ycombinator.com/item?id=49668706",
-    "https://news.ycombinator.com/item?id=49670032"
+    "https://news.ycombinator.com/item?id=49670032",
+    "https://news.ycombinator.com/item?id=49673580"
   ],
   "recent": [
-    {
-      "date": "2026-09-10",
-      "subcat": "Productivity",
-      "title": "Networking is Hard but easy to think about.",
-      "url": "https://dev.to/francistrdev/networking-is-hard-but-easy-to-think-about-dc1"
-    },
     {
       "date": "2026-09-11",
       "subcat": "TypeScript",
@@ -461,6 +456,12 @@
       "subcat": "Other Cool Projects",
       "title": "omacom/try-omarchy",
       "url": "https://github.com/omacom/try-omarchy"
+    },
+    {
+      "date": "2026-09-13",
+      "subcat": "Hacker News Picks",
+      "title": "Microcode in Intel's 8087 floating-point chip: the scal",
+      "url": "https://news.ycombinator.com/item?id=49673580"
     }
   ]
 }
