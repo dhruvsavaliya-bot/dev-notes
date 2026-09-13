@@ -1137,6 +1137,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~632 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/ashemag/human-atlas
 
+**Added 2026-09-13**
+
+### [omacom/try-omarchy](https://github.com/omacom/try-omarchy)
+- **Stats:** 1,972 stars | 100 forks | 44 open issues
+- **Language:** Swift | **Created:** 2026-08-23 | **License:** MIT
+- **Topics:** aarch64, apple-silicon, archlinux, arm, arm64, community
+- **What it is:** Run Omarchy on MacOS without any setup.
+- **Growth:** averaging ~93 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/omacom/try-omarchy
+
 
 ## Web & Frontend
 

@@ -174,6 +174,7 @@
     "https://github.com/microsoft/skill-recorder",
     "https://github.com/mshumer/Claude-of-Duty",
     "https://github.com/nyblnet/bento",
+    "https://github.com/omacom/try-omarchy",
     "https://github.com/omdsh-dev/DSH-better-sidebar",
     "https://github.com/oomol-lab/open-connector",
     "https://github.com/openTrinity/mycontext",
@@ -403,12 +404,6 @@
   "recent": [
     {
       "date": "2026-09-10",
-      "subcat": "Hacker News Picks",
-      "title": "Shopify acquires Tailwind",
-      "url": "https://news.ycombinator.com/item?id=49626190"
-    },
-    {
-      "date": "2026-09-10",
       "subcat": "Productivity",
       "title": "Networking is Hard but easy to think about.",
       "url": "https://dev.to/francistrdev/networking-is-hard-but-easy-to-think-about-dc1"
@@ -460,6 +455,12 @@
       "subcat": "Hacker News Picks",
       "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
       "url": "https://news.ycombinator.com/item?id=49665502"
+    },
+    {
+      "date": "2026-09-13",
+      "subcat": "Other Cool Projects",
+      "title": "omacom/try-omarchy",
+      "url": "https://github.com/omacom/try-omarchy"
     }
   ]
 }
