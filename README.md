@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**394 entries and counting** · Last updated: 2026-09-13
+**395 entries and counting** · Last updated: 2026-09-13
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 126 |
+| [Trending Projects](trending-projects/projects.md) | 127 |
 | [AI / LLM Notes](ai/notes.md) | 31 |
 | [Reading List](articles/reading-list.md) | 111 |
 | [Coding Tips](coding-tips/tips.md) | 114 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-09-13** · *AI & Machine Learning* — [Player-YN/PawWork_ZhuaZhua](https://github.com/Player-YN/PawWork_ZhuaZhua)
 - **2026-09-13** · *Hacker News Picks* — [Microcode in Intel's 8087 floating-point chip: the scal](https://news.ycombinator.com/item?id=49673580)
 - **2026-09-13** · *Other Cool Projects* — [omacom/try-omarchy](https://github.com/omacom/try-omarchy)
-- **2026-09-13** · *Hacker News Picks* — [Android NAT-T keepalive offload bypasses VPN lockdown](https://news.ycombinator.com/item?id=49665502)
 
 ## How it works
 

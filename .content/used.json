@@ -110,6 +110,7 @@
     "https://github.com/MiniMax-AI/MiniMax-H3",
     "https://github.com/MoonshotAI/Kimi-K3",
     "https://github.com/Nanako0129/sepia",
+    "https://github.com/Player-YN/PawWork_ZhuaZhua",
     "https://github.com/QwenLM/Qwen-MM-Plugins",
     "https://github.com/Sahir619/fable-method",
     "https://github.com/Shpigford/knockoff",
@@ -405,12 +406,6 @@
   "recent": [
     {
       "date": "2026-09-11",
-      "subcat": "TypeScript",
-      "title": "Learn Trapping Rain Water, Top K Frequent and Selection",
-      "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg"
-    },
-    {
-      "date": "2026-09-11",
       "subcat": "Hacker News Picks",
       "title": "Detecting and countering misuse of AI: September 2026",
       "url": "https://news.ycombinator.com/item?id=49647300"
@@ -462,6 +457,12 @@
       "subcat": "Hacker News Picks",
       "title": "Microcode in Intel's 8087 floating-point chip: the scal",
       "url": "https://news.ycombinator.com/item?id=49673580"
+    },
+    {
+      "date": "2026-09-13",
+      "subcat": "AI & Machine Learning",
+      "title": "Player-YN/PawWork_ZhuaZhua",
+      "url": "https://github.com/Player-YN/PawWork_ZhuaZhua"
     }
   ]
 }
