@@ -1177,6 +1177,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~87 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget
 
+**Added 2026-09-13**
+
+### [sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)
+- **Stats:** 2,304 stars | 135 forks | 96 open issues
+- **Language:** N/A | **Created:** 2026-09-07 | **License:** None
+- **Topics:** none listed
+- **What it is:** Here is a dlssg for RTX30 Series GPU
+- **Growth:** averaging ~384 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/sdli1995/dlssg_for_sm86
+
 
 ## Web & Frontend
 

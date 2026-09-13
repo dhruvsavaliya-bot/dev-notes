@@ -189,6 +189,7 @@
     "https://github.com/rakanki911/DLSS5-Swapper",
     "https://github.com/s1dashu/ip-as-logo-skill",
     "https://github.com/sapientinc/PRAXIST",
+    "https://github.com/sdli1995/dlssg_for_sm86",
     "https://github.com/slvDev/esp32-ai",
     "https://github.com/synthetic-sciences/openscience",
     "https://github.com/tamnd/kage",
@@ -408,12 +409,6 @@
   "recent": [
     {
       "date": "2026-09-12",
-      "subcat": "Hacker News Picks",
-      "title": "Show HN: Bodily Oddities",
-      "url": "https://news.ycombinator.com/item?id=49649789"
-    },
-    {
-      "date": "2026-09-12",
       "subcat": "AI Engineering",
       "title": "Most 'AI Agents' Are Just If-Statements in a Trench Coa",
       "url": "https://dev.to/james_anderson_h/most-ai-agents-are-just-if-statements-in-a-trench-coat-3960"
@@ -465,6 +460,12 @@
       "subcat": "AI & Machine Learning",
       "title": "nateherkai/scroll-craft",
       "url": "https://github.com/nateherkai/scroll-craft"
+    },
+    {
+      "date": "2026-09-13",
+      "subcat": "Other Cool Projects",
+      "title": "sdli1995/dlssg_for_sm86",
+      "url": "https://github.com/sdli1995/dlssg_for_sm86"
     }
   ]
 }
