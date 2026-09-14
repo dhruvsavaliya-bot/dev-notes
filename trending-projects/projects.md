@@ -604,6 +604,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~108 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/nateherkai/scroll-craft
 
+**Added 2026-09-14**
+
+### [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)
+- **Stats:** 1,957 stars | 195 forks | 0 open issues
+- **Language:** Zig | **Created:** 2026-08-22 | **License:** MIT
+- **Topics:** ai-agents, ai-debugging, binary-analysis, claude, claude-code, malware-analysis
+- **What it is:** x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros
+- **Growth:** averaging ~85 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/duty1g/x64dbg-mcp-server
+
 
 ## Other Cool Projects
 
