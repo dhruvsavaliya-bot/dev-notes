@@ -80,6 +80,15 @@ Fresh dev articles and blog posts.
 - **Summary:** Every AI redesign of my portfolio looked different and was the same filing cabinet underneath. What a style guide couldn't fix — and the one instruction that did.
 - **Link:** https://dev.to/anchildress1/i-asked-for-a-portfolio-but-got-a-filing-cabinet-4ef8
 
+**Added 2026-09-14**
+
+### [Angular DataGrid: A Free, Open-Source AG Grid Alternative Built for Scale](https://dev.to/hadil/angular-datagrid-a-free-open-source-ag-grid-alternative-built-for-scale-5gkm)
+- **Author:** Hadil Ben Abdallah | **Published:** Sep 8 | **Read time:** 18 min
+- **Community:** 73 reactions, 8 comments — a top post of the week in #webdev
+- **Tags:** webdev, programming, angular, opensource
+- **Summary:** Angular has changed in recent versions, especially around how developers handle reactive state....
+- **Link:** https://dev.to/hadil/angular-datagrid-a-free-open-source-ag-grid-alternative-built-for-scale-5gkm
+
 
 ## Hacker News Picks
 

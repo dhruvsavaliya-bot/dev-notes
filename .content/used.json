@@ -27,6 +27,7 @@
     "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i",
     "https://dev.to/gramli/how-ai-endpoints-change-the-traditional-api-flow-3773",
     "https://dev.to/gramli/how-i-smashed-a-bug-in-a-shared-authentication-library-33fm",
+    "https://dev.to/hadil/angular-datagrid-a-free-open-source-ag-grid-alternative-built-for-scale-5gkm",
     "https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b",
     "https://dev.to/harsh2644/you-dont-have-an-ai-problem-you-have-a-thinking-problem-5f07",
     "https://dev.to/he4rt/1a-vez-trabalhando-com-git-com-time-tudo-que-voce-precisa-saber-19il",
@@ -413,12 +414,6 @@
   "recent": [
     {
       "date": "2026-09-13",
-      "subcat": "Other Cool Projects",
-      "title": "omacom/try-omarchy",
-      "url": "https://github.com/omacom/try-omarchy"
-    },
-    {
-      "date": "2026-09-13",
       "subcat": "Hacker News Picks",
       "title": "Microcode in Intel's 8087 floating-point chip: the scal",
       "url": "https://news.ycombinator.com/item?id=49673580"
@@ -470,6 +465,12 @@
       "subcat": "Productivity",
       "title": "Shift Left Code Review: How Qodo Turns Your Coding Agen",
       "url": "https://dev.to/dev_kiran/shift-left-code-review-how-qodo-turns-your-coding-agent-into-its-own-first-reviewer-58fc"
+    },
+    {
+      "date": "2026-09-14",
+      "subcat": "Web Development",
+      "title": "Angular DataGrid: A Free, Open-Source AG Grid Alternati",
+      "url": "https://dev.to/hadil/angular-datagrid-a-free-open-source-ag-grid-alternative-built-for-scale-5gkm"
     }
   ]
 }
