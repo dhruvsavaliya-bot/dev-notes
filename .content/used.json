@@ -41,6 +41,7 @@
     "https://dev.to/james_anderson_h/most-ai-agents-are-just-if-statements-in-a-trench-coat-3960",
     "https://dev.to/kenielzep97/tell-me-about-you-1hi4",
     "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm",
+    "https://dev.to/kenwalger/the-verification-bottleneck-in-ai-generated-software-3p7l",
     "https://dev.to/konark_13/vibe-coding-endgame-3bbn",
     "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
     "https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h",
@@ -410,12 +411,6 @@
   ],
   "recent": [
     {
-      "date": "2026-09-12",
-      "subcat": "Hacker News Picks",
-      "title": "Navier-Stokes Announcement",
-      "url": "https://news.ycombinator.com/item?id=49668706"
-    },
-    {
       "date": "2026-09-13",
       "subcat": "Hacker News Picks",
       "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
@@ -468,6 +463,12 @@
       "subcat": "Hacker News Picks",
       "title": "Julia 1.13 highlights",
       "url": "https://news.ycombinator.com/item?id=49642645"
+    },
+    {
+      "date": "2026-09-14",
+      "subcat": "AI Engineering",
+      "title": "The Verification Bottleneck in AI-Generated Software",
+      "url": "https://dev.to/kenwalger/the-verification-bottleneck-in-ai-generated-software-3p7l"
     }
   ]
 }

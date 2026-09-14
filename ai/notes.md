@@ -258,6 +258,15 @@ Lessons from building with LLMs.
 - **Summary:** I built an agent last year, and I was proud of it.  It had a planner. It had tools. It had a...
 - **Link:** https://dev.to/james_anderson_h/most-ai-agents-are-just-if-statements-in-a-trench-coat-3960
 
+**Added 2026-09-14**
+
+### [The Verification Bottleneck in AI-Generated Software](https://dev.to/kenwalger/the-verification-bottleneck-in-ai-generated-software-3p7l)
+- **Author:** Ken W Alger | **Published:** Sep 9 | **Read time:** 8 min
+- **Community:** 68 reactions, 55 comments — a top post of the week in #ai
+- **Tags:** ai, testing, programming, devtools
+- **Summary:** AI can generate code faster than ever. That doesn't mean we're shipping correct software...
+- **Link:** https://dev.to/kenwalger/the-verification-bottleneck-in-ai-generated-software-3p7l
+
 
 ## LLMs
 
