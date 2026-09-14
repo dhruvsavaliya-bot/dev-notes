@@ -965,6 +965,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49673580
 - **Link:** https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html
 
+**Added 2026-09-14**
+
+### [Julia 1.13 highlights](https://julialang.org/blog/2026/09/julia-1.13-highlights/)
+- **Source:** julialang.org | **Posted:** 2026-09-10 | **By:** eigenspace
+- **Community:** 185 points, 16 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49642645
+- **Link:** https://julialang.org/blog/2026/09/julia-1.13-highlights/
+
 
 ## DevOps & Cloud
 
