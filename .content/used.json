@@ -16,6 +16,7 @@
     "https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635",
     "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
     "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1",
+    "https://dev.to/dev_kiran/shift-left-code-review-how-qodo-turns-your-coding-agent-into-its-own-first-reviewer-58fc",
     "https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9",
     "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
     "https://dev.to/francistrdev/choose-your-burden-4dgl",
@@ -412,12 +413,6 @@
   "recent": [
     {
       "date": "2026-09-13",
-      "subcat": "Hacker News Picks",
-      "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
-      "url": "https://news.ycombinator.com/item?id=49665502"
-    },
-    {
-      "date": "2026-09-13",
       "subcat": "Other Cool Projects",
       "title": "omacom/try-omarchy",
       "url": "https://github.com/omacom/try-omarchy"
@@ -469,6 +464,12 @@
       "subcat": "AI Engineering",
       "title": "The Verification Bottleneck in AI-Generated Software",
       "url": "https://dev.to/kenwalger/the-verification-bottleneck-in-ai-generated-software-3p7l"
+    },
+    {
+      "date": "2026-09-14",
+      "subcat": "Productivity",
+      "title": "Shift Left Code Review: How Qodo Turns Your Coding Agen",
+      "url": "https://dev.to/dev_kiran/shift-left-code-review-how-qodo-turns-your-coding-agent-into-its-own-first-reviewer-58fc"
     }
   ]
 }

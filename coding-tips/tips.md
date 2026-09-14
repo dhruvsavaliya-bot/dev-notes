@@ -148,6 +148,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** The video cover is what we are all feeling in this Job Market. I don't have a good cover image this...
 - **Link:** https://dev.to/francistrdev/networking-is-hard-but-easy-to-think-about-dc1
 
+**Added 2026-09-14**
+
+### [Shift Left Code Review: How Qodo Turns Your Coding Agent Into Its Own First Reviewer](https://dev.to/dev_kiran/shift-left-code-review-how-qodo-turns-your-coding-agent-into-its-own-first-reviewer-58fc)
+- **Author:** Kiran Naragund | **Published:** Sep 14 | **Read time:** 10 min
+- **Community:** 67 reactions, 2 comments — a top post of the week in #productivity
+- **Tags:** ai, productivity, devops, opensource
+- **Summary:** Hello Devs 👋  I have been thinking about something that has changed quite a bit with AI coding...
+- **Link:** https://dev.to/dev_kiran/shift-left-code-review-how-qodo-turns-your-coding-agent-into-its-own-first-reviewer-58fc
+
 
 ## Hacker News Picks
 
