@@ -88,6 +88,7 @@
     "https://dev.to/xulingfeng/stratagems-25-derek-changed-the-delay-the-ai-didnt-flinch-28ca",
     "https://dev.to/xulingfeng/stratagems-9-lena-and-p-watched-two-ai-suppliers-fight-the-logs-said-neither-was-clean-2pj3",
     "https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9",
+    "https://github.com/Albert-Weasker/niubigeo",
     "https://github.com/AlephAITech/WorkBuddyGuide",
     "https://github.com/ApodexAI/FrontierAgent",
     "https://github.com/CopilotKit/OpenBot",
@@ -414,12 +415,6 @@
   "recent": [
     {
       "date": "2026-09-13",
-      "subcat": "Hacker News Picks",
-      "title": "Microcode in Intel's 8087 floating-point chip: the scal",
-      "url": "https://news.ycombinator.com/item?id=49673580"
-    },
-    {
-      "date": "2026-09-13",
       "subcat": "AI & Machine Learning",
       "title": "Player-YN/PawWork_ZhuaZhua",
       "url": "https://github.com/Player-YN/PawWork_ZhuaZhua"
@@ -471,6 +466,12 @@
       "subcat": "Web Development",
       "title": "Angular DataGrid: A Free, Open-Source AG Grid Alternati",
       "url": "https://dev.to/hadil/angular-datagrid-a-free-open-source-ag-grid-alternative-built-for-scale-5gkm"
+    },
+    {
+      "date": "2026-09-15",
+      "subcat": "AI & Machine Learning",
+      "title": "Albert-Weasker/niubigeo",
+      "url": "https://github.com/Albert-Weasker/niubigeo"
     }
   ]
 }

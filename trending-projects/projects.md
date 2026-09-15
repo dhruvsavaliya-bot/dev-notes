@@ -614,6 +614,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~85 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/duty1g/x64dbg-mcp-server
 
+**Added 2026-09-15**
+
+### [Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo)
+- **Stats:** 2,414 stars | 95 forks | 11 open issues
+- **Language:** TypeScript | **Created:** 2026-09-03 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing
+- **Growth:** averaging ~201 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/Albert-Weasker/niubigeo
+
 
 ## Other Cool Projects
 
