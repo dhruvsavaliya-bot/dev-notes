@@ -267,6 +267,15 @@ Lessons from building with LLMs.
 - **Summary:** AI can generate code faster than ever. That doesn't mean we're shipping correct software...
 - **Link:** https://dev.to/kenwalger/the-verification-bottleneck-in-ai-generated-software-3p7l
 
+**Added 2026-09-15**
+
+### [Stratagems #30: Lena Signed the Client. The AI Didn't Know It Was Being Audited.](https://dev.to/xulingfeng/stratagems-30-lena-signed-the-client-the-ai-didnt-know-it-was-being-audited-3985)
+- **Author:** xulingfeng | **Published:** Sep 10 | **Read time:** 19 min
+- **Community:** 56 reactions, 39 comments — a top post of the week in #ai
+- **Tags:** ai, discuss, career, programming
+- **Summary:** Come to check the locks, and leave holding the keys. Slip in through the gap, take the host's seat,...
+- **Link:** https://dev.to/xulingfeng/stratagems-30-lena-signed-the-client-the-ai-didnt-know-it-was-being-audited-3985
+
 
 ## LLMs
 

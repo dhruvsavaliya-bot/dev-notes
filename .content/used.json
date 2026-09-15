@@ -86,6 +86,7 @@
     "https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7",
     "https://dev.to/xulingfeng/stratagems-24-leo-built-a-corridor-the-ai-thought-it-was-a-road-3blf",
     "https://dev.to/xulingfeng/stratagems-25-derek-changed-the-delay-the-ai-didnt-flinch-28ca",
+    "https://dev.to/xulingfeng/stratagems-30-lena-signed-the-client-the-ai-didnt-know-it-was-being-audited-3985",
     "https://dev.to/xulingfeng/stratagems-9-lena-and-p-watched-two-ai-suppliers-fight-the-logs-said-neither-was-clean-2pj3",
     "https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9",
     "https://github.com/Albert-Weasker/niubigeo",
@@ -415,12 +416,6 @@
   "recent": [
     {
       "date": "2026-09-13",
-      "subcat": "AI & Machine Learning",
-      "title": "Player-YN/PawWork_ZhuaZhua",
-      "url": "https://github.com/Player-YN/PawWork_ZhuaZhua"
-    },
-    {
-      "date": "2026-09-13",
       "subcat": "Other Cool Projects",
       "title": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
       "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget"
@@ -472,6 +467,12 @@
       "subcat": "AI & Machine Learning",
       "title": "Albert-Weasker/niubigeo",
       "url": "https://github.com/Albert-Weasker/niubigeo"
+    },
+    {
+      "date": "2026-09-15",
+      "subcat": "AI Engineering",
+      "title": "Stratagems #30: Lena Signed the Client. The AI Didn't K",
+      "url": "https://dev.to/xulingfeng/stratagems-30-lena-signed-the-client-the-ai-didnt-know-it-was-being-audited-3985"
     }
   ]
 }
