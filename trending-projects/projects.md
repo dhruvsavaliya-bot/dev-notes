@@ -624,6 +624,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~201 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Albert-Weasker/niubigeo
 
+**Added 2026-09-15**
+
+### [NVlabs/SoL-Pi](https://github.com/NVlabs/SoL-Pi)
+- **Stats:** 1,982 stars | 145 forks | 53 open issues
+- **Language:** TypeScript | **Created:** 2026-09-02 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses
+- **Growth:** averaging ~152 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/NVlabs/SoL-Pi
+
 
 ## Other Cool Projects
 
