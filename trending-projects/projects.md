@@ -1280,6 +1280,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~329 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/crmne/fastpotify
 
+**Added 2026-09-15**
+
+### [crmne/spotifast](https://github.com/crmne/spotifast)
+- **Stats:** 4,105 stars | 184 forks | 70 open issues
+- **Language:** Rust | **Created:** 2026-08-27 | **License:** MIT
+- **Topics:** audio, cross-platform, desktop-app, egui, gui, librespot
+- **What it is:** Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
+- **Growth:** averaging ~216 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/crmne/spotifast
+
 
 ## Developer Tools
 

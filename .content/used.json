@@ -150,6 +150,7 @@
     "https://github.com/cloudflare/security-audit-skill",
     "https://github.com/cordiverse/paper",
     "https://github.com/crmne/fastpotify",
+    "https://github.com/crmne/spotifast",
     "https://github.com/dataelement/dsh-desktop",
     "https://github.com/davidondrej/skills",
     "https://github.com/deeplethe/utopia",
@@ -417,12 +418,6 @@
   ],
   "recent": [
     {
-      "date": "2026-09-13",
-      "subcat": "Other Cool Projects",
-      "title": "sdli1995/dlssg_for_sm86",
-      "url": "https://github.com/sdli1995/dlssg_for_sm86"
-    },
-    {
       "date": "2026-09-14",
       "subcat": "AI & Machine Learning",
       "title": "duty1g/x64dbg-mcp-server",
@@ -475,6 +470,12 @@
       "subcat": "Hacker News Picks",
       "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara ",
       "url": "https://news.ycombinator.com/item?id=49675817"
+    },
+    {
+      "date": "2026-09-15",
+      "subcat": "Web & Frontend",
+      "title": "crmne/spotifast",
+      "url": "https://github.com/crmne/spotifast"
     }
   ]
 }
