@@ -412,15 +412,10 @@
     "https://news.ycombinator.com/item?id=49665502",
     "https://news.ycombinator.com/item?id=49668706",
     "https://news.ycombinator.com/item?id=49670032",
-    "https://news.ycombinator.com/item?id=49673580"
+    "https://news.ycombinator.com/item?id=49673580",
+    "https://news.ycombinator.com/item?id=49675817"
   ],
   "recent": [
-    {
-      "date": "2026-09-13",
-      "subcat": "AI & Machine Learning",
-      "title": "nateherkai/scroll-craft",
-      "url": "https://github.com/nateherkai/scroll-craft"
-    },
     {
       "date": "2026-09-13",
       "subcat": "Other Cool Projects",
@@ -474,6 +469,12 @@
       "subcat": "AI & Machine Learning",
       "title": "NVlabs/SoL-Pi",
       "url": "https://github.com/NVlabs/SoL-Pi"
+    },
+    {
+      "date": "2026-09-15",
+      "subcat": "Hacker News Picks",
+      "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara ",
+      "url": "https://news.ycombinator.com/item?id=49675817"
     }
   ]
 }

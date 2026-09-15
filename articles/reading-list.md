@@ -983,6 +983,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49642645
 - **Link:** https://julialang.org/blog/2026/09/julia-1.13-highlights/
 
+**Added 2026-09-15**
+
+### [4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls](https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/)
+- **Source:** arkeonews.net | **Posted:** 2026-09-12 | **By:** arunbahl
+- **Community:** 140 points, 40 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49675817
+- **Link:** https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/
+
 
 ## DevOps & Cloud
 
