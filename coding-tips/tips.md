@@ -988,6 +988,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49665502
 - **Link:** https://supuk.ch/papers/android-natt-keepalive-vpn-bypass
 
+**Added 2026-09-16**
+
+### [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
+- **Source:** typesafe.ai | **Posted:** 2026-09-15 | **By:** albelfio
+- **Community:** 951 points, 297 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49717558
+- **Link:** https://typesafe.ai/blog/introducing-system-one-models-and-jev
+
 
 ## Beginner
 

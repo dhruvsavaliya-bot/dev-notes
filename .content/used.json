@@ -414,15 +414,10 @@
     "https://news.ycombinator.com/item?id=49668706",
     "https://news.ycombinator.com/item?id=49670032",
     "https://news.ycombinator.com/item?id=49673580",
-    "https://news.ycombinator.com/item?id=49675817"
+    "https://news.ycombinator.com/item?id=49675817",
+    "https://news.ycombinator.com/item?id=49717558"
   ],
   "recent": [
-    {
-      "date": "2026-09-14",
-      "subcat": "AI & Machine Learning",
-      "title": "duty1g/x64dbg-mcp-server",
-      "url": "https://github.com/duty1g/x64dbg-mcp-server"
-    },
     {
       "date": "2026-09-14",
       "subcat": "Hacker News Picks",
@@ -476,6 +471,12 @@
       "subcat": "Web & Frontend",
       "title": "crmne/spotifast",
       "url": "https://github.com/crmne/spotifast"
+    },
+    {
+      "date": "2026-09-16",
+      "subcat": "Hacker News Picks",
+      "title": "Introducing System One Models and Jev",
+      "url": "https://news.ycombinator.com/item?id=49717558"
     }
   ]
 }
