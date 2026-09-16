@@ -285,6 +285,15 @@ Lessons from building with LLMs.
 - **Summary:** Intro   AI Avatar is a free app where your VRoid (VRM) avatar cheers you with all its...
 - **Link:** https://dev.to/webdeveloperhyper/ai-avatar-v20-cursor-avatar-notification-avatar-voxel-avatar-4dd2
 
+**Added 2026-09-16**
+
+### [I let AI write 100% of my code for 30 days. Here's what broke.](https://dev.to/infoinlet1/i-let-ai-write-100-of-my-code-for-30-days-heres-what-broke-1aa0)
+- **Author:** Info Inlet | **Published:** Sep 9 | **Read time:** 5 min
+- **Community:** 50 reactions, 51 comments — a top post of the week in #ai
+- **Tags:** ai, webdev, programming, career
+- **Summary:** Not "AI-assisted." Not "copilot suggestions I edited." I mean I made a rule: for 30 days, I don't...
+- **Link:** https://dev.to/infoinlet1/i-let-ai-write-100-of-my-code-for-30-days-heres-what-broke-1aa0
+
 
 ## LLMs
 
