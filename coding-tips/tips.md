@@ -997,6 +997,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49717558
 - **Link:** https://typesafe.ai/blog/introducing-system-one-models-and-jev
 
+**Added 2026-09-16**
+
+### [Suspected sabotage causes major Netherlands rail disruption](https://www.bbc.com/news/articles/c8ly49w9g1edo)
+- **Source:** www.bbc.com | **Posted:** 2026-09-15 | **By:** choult
+- **Community:** 499 points, 445 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49710253
+- **Link:** https://www.bbc.com/news/articles/c8ly49w9g1edo
+
 
 ## Beginner
 

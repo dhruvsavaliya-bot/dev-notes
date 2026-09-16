@@ -421,15 +421,10 @@
     "https://news.ycombinator.com/item?id=49670032",
     "https://news.ycombinator.com/item?id=49673580",
     "https://news.ycombinator.com/item?id=49675817",
+    "https://news.ycombinator.com/item?id=49710253",
     "https://news.ycombinator.com/item?id=49717558"
   ],
   "recent": [
-    {
-      "date": "2026-09-15",
-      "subcat": "AI & Machine Learning",
-      "title": "NVlabs/SoL-Pi",
-      "url": "https://github.com/NVlabs/SoL-Pi"
-    },
     {
       "date": "2026-09-15",
       "subcat": "Hacker News Picks",
@@ -483,6 +478,12 @@
       "subcat": "AI & Machine Learning",
       "title": "totec448-spec/chat-on-steroids",
       "url": "https://github.com/totec448-spec/chat-on-steroids"
+    },
+    {
+      "date": "2026-09-16",
+      "subcat": "Hacker News Picks",
+      "title": "Suspected sabotage causes major Netherlands rail disrup",
+      "url": "https://news.ycombinator.com/item?id=49710253"
     }
   ]
 }
