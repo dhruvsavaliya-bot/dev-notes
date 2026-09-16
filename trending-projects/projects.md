@@ -634,6 +634,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~152 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/NVlabs/SoL-Pi
 
+**Added 2026-09-16**
+
+### [amosblomqvist/learn](https://github.com/amosblomqvist/learn)
+- **Stats:** 1,984 stars | 198 forks | 8 open issues
+- **Language:** TypeScript | **Created:** 2026-08-24 | **License:** None
+- **Topics:** none listed
+- **What it is:** My AI learning system.
+- **Growth:** averaging ~86 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/amosblomqvist/learn
+
 
 ## Other Cool Projects
 

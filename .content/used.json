@@ -133,6 +133,7 @@
     "https://github.com/Zeejay0/gathered-scenes-zine-skill",
     "https://github.com/ZzzLc0405/photo-abstract-editorial",
     "https://github.com/amagine-ai/Amagine3D",
+    "https://github.com/amosblomqvist/learn",
     "https://github.com/andrewyng/openworker",
     "https://github.com/anthropics/commerce-agents",
     "https://github.com/anthropics/jacobian-lens",
@@ -422,12 +423,6 @@
   ],
   "recent": [
     {
-      "date": "2026-09-14",
-      "subcat": "Web Development",
-      "title": "Angular DataGrid: A Free, Open-Source AG Grid Alternati",
-      "url": "https://dev.to/hadil/angular-datagrid-a-free-open-source-ag-grid-alternative-built-for-scale-5gkm"
-    },
-    {
       "date": "2026-09-15",
       "subcat": "AI & Machine Learning",
       "title": "Albert-Weasker/niubigeo",
@@ -480,6 +475,12 @@
       "subcat": "Machine Learning",
       "title": "Vibe Coding Isn't the Problem. Calling It Engineering I",
       "url": "https://dev.to/georgekobaidze/vibe-coding-isnt-the-problem-calling-it-engineering-is-lm1"
+    },
+    {
+      "date": "2026-09-16",
+      "subcat": "AI & Machine Learning",
+      "title": "amosblomqvist/learn",
+      "url": "https://github.com/amosblomqvist/learn"
     }
   ]
 }
