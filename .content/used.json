@@ -149,6 +149,7 @@
     "https://github.com/baidu/Unlimited-OCR",
     "https://github.com/bashalarmistalt/decimen-optical-transfer",
     "https://github.com/bikini/exploitarium",
+    "https://github.com/bojieli/ai-infra-book",
     "https://github.com/bozhouDev/codex-orange-book",
     "https://github.com/bryanthaboi/gen1recomp",
     "https://github.com/ccch1mneyyy/dsh-TUI",
@@ -427,12 +428,6 @@
   "recent": [
     {
       "date": "2026-09-15",
-      "subcat": "Hacker News Picks",
-      "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara ",
-      "url": "https://news.ycombinator.com/item?id=49675817"
-    },
-    {
-      "date": "2026-09-15",
       "subcat": "Web & Frontend",
       "title": "crmne/spotifast",
       "url": "https://github.com/crmne/spotifast"
@@ -484,6 +479,12 @@
       "subcat": "Hacker News Picks",
       "title": "Suspected sabotage causes major Netherlands rail disrup",
       "url": "https://news.ycombinator.com/item?id=49710253"
+    },
+    {
+      "date": "2026-09-16",
+      "subcat": "AI & Machine Learning",
+      "title": "bojieli/ai-infra-book",
+      "url": "https://github.com/bojieli/ai-infra-book"
     }
   ]
 }

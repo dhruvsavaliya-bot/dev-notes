@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**416 entries and counting** · Last updated: 2026-09-16
+**417 entries and counting** · Last updated: 2026-09-16
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 136 |
+| [Trending Projects](trending-projects/projects.md) | 137 |
 | [AI / LLM Notes](ai/notes.md) | 36 |
 | [Reading List](articles/reading-list.md) | 115 |
 | [Coding Tips](coding-tips/tips.md) | 117 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-09-16** · *AI & Machine Learning* — [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book)
 - **2026-09-16** · *Hacker News Picks* — [Suspected sabotage causes major Netherlands rail disrup](https://news.ycombinator.com/item?id=49710253)
 - **2026-09-16** · *AI & Machine Learning* — [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids)
-- **2026-09-16** · *Web Development* — [5 DEV.to Features I Wish Existed. 3 I'm Genuinely Relie](https://dev.to/dj29/5-devto-features-i-wish-existed-3-im-genuinely-relieved-they-dont-3b8n)
 
 ## How it works
 

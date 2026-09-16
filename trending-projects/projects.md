@@ -654,6 +654,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~111 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/totec448-spec/chat-on-steroids
 
+**Added 2026-09-16**
+
+### [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book)
+- **Stats:** 3,793 stars | 265 forks | 2 open issues
+- **Language:** Python | **Created:** 2026-08-22 | **License:** Apache-2.0
+- **Topics:** accelerator, ai-infra, ai-infrastructure, book, datacenter-network, deepseek
+- **What it is:** 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
+- **Growth:** averaging ~151 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/bojieli/ai-infra-book
+
 
 ## Other Cool Projects
 
