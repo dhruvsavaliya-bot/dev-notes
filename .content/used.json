@@ -208,6 +208,7 @@
     "https://github.com/tamnd/kage",
     "https://github.com/thebuggeddev/anatomy",
     "https://github.com/tobi/walgit",
+    "https://github.com/totec448-spec/chat-on-steroids",
     "https://github.com/trycompai/crm",
     "https://github.com/unicity-aos/aos-ce",
     "https://github.com/vercel-labs/fx",
@@ -425,12 +426,6 @@
   "recent": [
     {
       "date": "2026-09-15",
-      "subcat": "AI Engineering",
-      "title": "Stratagems #30: Lena Signed the Client. The AI Didn't K",
-      "url": "https://dev.to/xulingfeng/stratagems-30-lena-signed-the-client-the-ai-didnt-know-it-was-being-audited-3985"
-    },
-    {
-      "date": "2026-09-15",
       "subcat": "AI & Machine Learning",
       "title": "NVlabs/SoL-Pi",
       "url": "https://github.com/NVlabs/SoL-Pi"
@@ -482,6 +477,12 @@
       "subcat": "Web Development",
       "title": "5 DEV.to Features I Wish Existed. 3 I'm Genuinely Relie",
       "url": "https://dev.to/dj29/5-devto-features-i-wish-existed-3-im-genuinely-relieved-they-dont-3b8n"
+    },
+    {
+      "date": "2026-09-16",
+      "subcat": "AI & Machine Learning",
+      "title": "totec448-spec/chat-on-steroids",
+      "url": "https://github.com/totec448-spec/chat-on-steroids"
     }
   ]
 }

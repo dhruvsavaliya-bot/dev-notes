@@ -644,6 +644,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~86 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/amosblomqvist/learn
 
+**Added 2026-09-16**
+
+### [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids)
+- **Stats:** 2,798 stars | 364 forks | 85 open issues
+- **Language:** TypeScript | **Created:** 2026-08-22 | **License:** MIT
+- **Topics:** automation, chatgpt, chrome-extension, electron, linux, local-first
+- **What it is:** Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.
+- **Growth:** averaging ~111 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/totec448-spec/chat-on-steroids
+
 
 ## Other Cool Projects
 

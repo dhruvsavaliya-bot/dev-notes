@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**414 entries and counting** · Last updated: 2026-09-16
+**415 entries and counting** · Last updated: 2026-09-16
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 135 |
+| [Trending Projects](trending-projects/projects.md) | 136 |
 | [AI / LLM Notes](ai/notes.md) | 36 |
 | [Reading List](articles/reading-list.md) | 115 |
 | [Coding Tips](coding-tips/tips.md) | 116 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-09-16** · *AI & Machine Learning* — [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids)
 - **2026-09-16** · *Web Development* — [5 DEV.to Features I Wish Existed. 3 I'm Genuinely Relie](https://dev.to/dj29/5-devto-features-i-wish-existed-3-im-genuinely-relieved-they-dont-3b8n)
 - **2026-09-16** · *AI & Machine Learning* — [amosblomqvist/learn](https://github.com/amosblomqvist/learn)
-- **2026-09-16** · *Machine Learning* — [Vibe Coding Isn't the Problem. Calling It Engineering I](https://dev.to/georgekobaidze/vibe-coding-isnt-the-problem-calling-it-engineering-is-lm1)
 
 ## How it works
 
