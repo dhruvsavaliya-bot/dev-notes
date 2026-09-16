@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**413 entries and counting** · Last updated: 2026-09-16
+**414 entries and counting** · Last updated: 2026-09-16
 
 ## Categories
 
@@ -11,15 +11,15 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 135 |
 | [AI / LLM Notes](ai/notes.md) | 36 |
-| [Reading List](articles/reading-list.md) | 114 |
+| [Reading List](articles/reading-list.md) | 115 |
 | [Coding Tips](coding-tips/tips.md) | 116 |
 | [Language Notes](languages/notes.md) | 12 |
 
 ## Latest additions
 
+- **2026-09-16** · *Web Development* — [5 DEV.to Features I Wish Existed. 3 I'm Genuinely Relie](https://dev.to/dj29/5-devto-features-i-wish-existed-3-im-genuinely-relieved-they-dont-3b8n)
 - **2026-09-16** · *AI & Machine Learning* — [amosblomqvist/learn](https://github.com/amosblomqvist/learn)
 - **2026-09-16** · *Machine Learning* — [Vibe Coding Isn't the Problem. Calling It Engineering I](https://dev.to/georgekobaidze/vibe-coding-isnt-the-problem-calling-it-engineering-is-lm1)
-- **2026-09-16** · *AI Engineering* — [I let AI write 100% of my code for 30 days. Here's what](https://dev.to/infoinlet1/i-let-ai-write-100-of-my-code-for-30-days-heres-what-broke-1aa0)
 
 ## How it works
 

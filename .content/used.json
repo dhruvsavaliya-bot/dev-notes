@@ -19,6 +19,7 @@
     "https://dev.to/dev_kiran/shift-left-code-review-how-qodo-turns-your-coding-agent-into-its-own-first-reviewer-58fc",
     "https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9",
     "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
+    "https://dev.to/dj29/5-devto-features-i-wish-existed-3-im-genuinely-relieved-they-dont-3b8n",
     "https://dev.to/francistrdev/choose-your-burden-4dgl",
     "https://dev.to/francistrdev/git-gud-4e6g",
     "https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p",
@@ -424,12 +425,6 @@
   "recent": [
     {
       "date": "2026-09-15",
-      "subcat": "AI & Machine Learning",
-      "title": "Albert-Weasker/niubigeo",
-      "url": "https://github.com/Albert-Weasker/niubigeo"
-    },
-    {
-      "date": "2026-09-15",
       "subcat": "AI Engineering",
       "title": "Stratagems #30: Lena Signed the Client. The AI Didn't K",
       "url": "https://dev.to/xulingfeng/stratagems-30-lena-signed-the-client-the-ai-didnt-know-it-was-being-audited-3985"
@@ -481,6 +476,12 @@
       "subcat": "AI & Machine Learning",
       "title": "amosblomqvist/learn",
       "url": "https://github.com/amosblomqvist/learn"
+    },
+    {
+      "date": "2026-09-16",
+      "subcat": "Web Development",
+      "title": "5 DEV.to Features I Wish Existed. 3 I'm Genuinely Relie",
+      "url": "https://dev.to/dj29/5-devto-features-i-wish-existed-3-im-genuinely-relieved-they-dont-3b8n"
     }
   ]
 }

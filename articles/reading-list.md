@@ -89,6 +89,15 @@ Fresh dev articles and blog posts.
 - **Summary:** Angular has changed in recent versions, especially around how developers handle reactive state....
 - **Link:** https://dev.to/hadil/angular-datagrid-a-free-open-source-ag-grid-alternative-built-for-scale-5gkm
 
+**Added 2026-09-16**
+
+### [5 DEV.to Features I Wish Existed. 3 I'm Genuinely Relieved They Don't.](https://dev.to/dj29/5-devto-features-i-wish-existed-3-im-genuinely-relieved-they-dont-3b8n)
+- **Author:** Dhruv Jani | **Published:** Sep 14 | **Read time:** 5 min
+- **Community:** 88 reactions, 40 comments — a top post of the week in #webdev
+- **Tags:** discuss, meta, forem, webdev
+- **Summary:** I'm a DEV Trusted Member, which means I spend a pretty unreasonable amount of time in the review...
+- **Link:** https://dev.to/dj29/5-devto-features-i-wish-existed-3-im-genuinely-relieved-they-dont-3b8n
+
 
 ## Hacker News Picks
 
