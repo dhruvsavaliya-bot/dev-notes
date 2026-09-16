@@ -276,6 +276,15 @@ Lessons from building with LLMs.
 - **Summary:** Come to check the locks, and leave holding the keys. Slip in through the gap, take the host's seat,...
 - **Link:** https://dev.to/xulingfeng/stratagems-30-lena-signed-the-client-the-ai-didnt-know-it-was-being-audited-3985
 
+**Added 2026-09-16**
+
+### [AI Avatar v20, Cursor Avatar, Notification Avatar (Voxel Avatar)🧊](https://dev.to/webdeveloperhyper/ai-avatar-v20-cursor-avatar-notification-avatar-voxel-avatar-4dd2)
+- **Author:** Web Developer Hyper | **Published:** Sep 13 | **Read time:** 4 min
+- **Community:** 52 reactions, 24 comments — a top post of the week in #ai
+- **Tags:** ai, webdev, productivity, discuss
+- **Summary:** Intro   AI Avatar is a free app where your VRoid (VRM) avatar cheers you with all its...
+- **Link:** https://dev.to/webdeveloperhyper/ai-avatar-v20-cursor-avatar-notification-avatar-voxel-avatar-4dd2
+
 
 ## LLMs
 

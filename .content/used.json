@@ -75,6 +75,7 @@
     "https://dev.to/tooljet/how-to-integrate-tooljet-with-servicenow-for-enhanced-operations-1h1j",
     "https://dev.to/varshithvhegde/i-built-a-chat-app-that-rewrites-its-own-ui-in-real-time-21m5",
     "https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd",
+    "https://dev.to/webdeveloperhyper/ai-avatar-v20-cursor-avatar-notification-avatar-voxel-avatar-4dd2",
     "https://dev.to/wiseai/i-built-a-version-bump-tool-in-rust-that-is-10000x-faster-than-its-python-counterparts-i6b",
     "https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0",
     "https://dev.to/xulingfeng/24-cups-36-seats-the-bartenders-ledger-40aj",
@@ -420,12 +421,6 @@
   "recent": [
     {
       "date": "2026-09-14",
-      "subcat": "Hacker News Picks",
-      "title": "Julia 1.13 highlights",
-      "url": "https://news.ycombinator.com/item?id=49642645"
-    },
-    {
-      "date": "2026-09-14",
       "subcat": "AI Engineering",
       "title": "The Verification Bottleneck in AI-Generated Software",
       "url": "https://dev.to/kenwalger/the-verification-bottleneck-in-ai-generated-software-3p7l"
@@ -477,6 +472,12 @@
       "subcat": "Hacker News Picks",
       "title": "Introducing System One Models and Jev",
       "url": "https://news.ycombinator.com/item?id=49717558"
+    },
+    {
+      "date": "2026-09-16",
+      "subcat": "AI Engineering",
+      "title": "AI Avatar v20, Cursor Avatar, Notification Avatar (Voxe",
+      "url": "https://dev.to/webdeveloperhyper/ai-avatar-v20-cursor-avatar-notification-avatar-voxel-avatar-4dd2"
     }
   ]
 }
