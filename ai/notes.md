@@ -323,3 +323,14 @@ Lessons from building with LLMs.
 - **Tags:** ai, agents, llm, architecture
 - **Summary:** Part 4 of the Building the AI Memory Stack series  After finishing the previous article, I looked at...
 - **Link:** https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm
+
+## Machine Learning
+
+**Added 2026-09-16**
+
+### [Vibe Coding Isn't the Problem. Calling It Engineering Is](https://dev.to/georgekobaidze/vibe-coding-isnt-the-problem-calling-it-engineering-is-lm1)
+- **Author:** Giorgi Kobaidze | **Published:** Sep 13 | **Read time:** 3 min
+- **Community:** 128 reactions, 161 comments — a top post of the week in #machinelearning
+- **Tags:** ai, machinelearning, coding, development
+- **Summary:** Let's Address the Elephant in the Room Again   Vibe coding has always been a weird topic to...
+- **Link:** https://dev.to/georgekobaidze/vibe-coding-isnt-the-problem-calling-it-engineering-is-lm1

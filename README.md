@@ -3,23 +3,23 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**411 entries and counting** · Last updated: 2026-09-16
+**412 entries and counting** · Last updated: 2026-09-16
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 134 |
-| [AI / LLM Notes](ai/notes.md) | 35 |
+| [AI / LLM Notes](ai/notes.md) | 36 |
 | [Reading List](articles/reading-list.md) | 114 |
 | [Coding Tips](coding-tips/tips.md) | 116 |
 | [Language Notes](languages/notes.md) | 12 |
 
 ## Latest additions
 
+- **2026-09-16** · *Machine Learning* — [Vibe Coding Isn't the Problem. Calling It Engineering I](https://dev.to/georgekobaidze/vibe-coding-isnt-the-problem-calling-it-engineering-is-lm1)
 - **2026-09-16** · *AI Engineering* — [I let AI write 100% of my code for 30 days. Here's what](https://dev.to/infoinlet1/i-let-ai-write-100-of-my-code-for-30-days-heres-what-broke-1aa0)
 - **2026-09-16** · *AI Engineering* — [AI Avatar v20, Cursor Avatar, Notification Avatar (Voxe](https://dev.to/webdeveloperhyper/ai-avatar-v20-cursor-avatar-notification-avatar-voxel-avatar-4dd2)
-- **2026-09-16** · *Hacker News Picks* — [Introducing System One Models and Jev](https://news.ycombinator.com/item?id=49717558)
 
 ## How it works
 
