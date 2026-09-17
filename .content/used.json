@@ -182,6 +182,7 @@
     "https://github.com/isjiamu/gzh-design-skill",
     "https://github.com/jakubkrehel/skills",
     "https://github.com/jamesob/local-llm",
+    "https://github.com/kacperkapusciak/goldie",
     "https://github.com/kirodotdev/KiroCrew",
     "https://github.com/kvcache-ai/AgentENV",
     "https://github.com/langchain-ai/openwiki",
@@ -429,12 +430,6 @@
   "recent": [
     {
       "date": "2026-09-16",
-      "subcat": "Hacker News Picks",
-      "title": "Introducing System One Models and Jev",
-      "url": "https://news.ycombinator.com/item?id=49717558"
-    },
-    {
-      "date": "2026-09-16",
       "subcat": "AI Engineering",
       "title": "AI Avatar v20, Cursor Avatar, Notification Avatar (Voxe",
       "url": "https://dev.to/webdeveloperhyper/ai-avatar-v20-cursor-avatar-notification-avatar-voxel-avatar-4dd2"
@@ -486,6 +481,12 @@
       "subcat": "Other Cool Projects",
       "title": "eternity4719/HowToLiveBetter",
       "url": "https://github.com/eternity4719/HowToLiveBetter"
+    },
+    {
+      "date": "2026-09-17",
+      "subcat": "AI & Machine Learning",
+      "title": "kacperkapusciak/goldie",
+      "url": "https://github.com/kacperkapusciak/goldie"
     }
   ]
 }

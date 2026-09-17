@@ -664,6 +664,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~151 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/bojieli/ai-infra-book
 
+**Added 2026-09-17**
+
+### [kacperkapusciak/goldie](https://github.com/kacperkapusciak/goldie)
+- **Stats:** 2,087 stars | 178 forks | 4 open issues
+- **Language:** TypeScript | **Created:** 2026-08-24 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** ✨ agentic app store previews and screenshots
+- **Growth:** averaging ~86 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/kacperkapusciak/goldie
+
 
 ## Other Cool Projects
 
