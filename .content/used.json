@@ -427,17 +427,12 @@
     "https://news.ycombinator.com/item?id=49668706",
     "https://news.ycombinator.com/item?id=49670032",
     "https://news.ycombinator.com/item?id=49673580",
+    "https://news.ycombinator.com/item?id=49674451",
     "https://news.ycombinator.com/item?id=49675817",
     "https://news.ycombinator.com/item?id=49710253",
     "https://news.ycombinator.com/item?id=49717558"
   ],
   "recent": [
-    {
-      "date": "2026-09-16",
-      "subcat": "Web Development",
-      "title": "5 DEV.to Features I Wish Existed. 3 I'm Genuinely Relie",
-      "url": "https://dev.to/dj29/5-devto-features-i-wish-existed-3-im-genuinely-relieved-they-dont-3b8n"
-    },
     {
       "date": "2026-09-16",
       "subcat": "AI & Machine Learning",
@@ -491,6 +486,12 @@
       "subcat": "Developer Tools",
       "title": "Rion-Wu-tech/wechat-intelligence-hub",
       "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub"
+    },
+    {
+      "date": "2026-09-17",
+      "subcat": "Hacker News Picks",
+      "title": "Reversing Factorio's RNG",
+      "url": "https://news.ycombinator.com/item?id=49674451"
     }
   ]
 }

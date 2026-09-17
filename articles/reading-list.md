@@ -1001,6 +1001,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49675817
 - **Link:** https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/
 
+**Added 2026-09-17**
+
+### [Reversing Factorio's RNG](https://gegell.github.io/posts/factorio-rng/)
+- **Source:** gegell.github.io | **Posted:** 2026-09-12 | **By:** jheitmann
+- **Community:** 208 points, 30 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49674451
+- **Link:** https://gegell.github.io/posts/factorio-rng/
+
 
 ## DevOps & Cloud
 
