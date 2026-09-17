@@ -229,6 +229,7 @@
     "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
     "https://github.com/xiaobright/dsh-anchored-standard",
     "https://github.com/xuchonglang/investing-for-beginners",
+    "https://github.com/yang0/handraw-style",
     "https://github.com/yanliudesign/mono-color-skill",
     "https://github.com/yc-software/qm",
     "https://github.com/yetone/cumora",
@@ -436,12 +437,6 @@
   "recent": [
     {
       "date": "2026-09-16",
-      "subcat": "Hacker News Picks",
-      "title": "Suspected sabotage causes major Netherlands rail disrup",
-      "url": "https://news.ycombinator.com/item?id=49710253"
-    },
-    {
-      "date": "2026-09-16",
       "subcat": "AI & Machine Learning",
       "title": "bojieli/ai-infra-book",
       "url": "https://github.com/bojieli/ai-infra-book"
@@ -493,6 +488,12 @@
       "subcat": "AI & Machine Learning",
       "title": "Human-Agent-Society/reef",
       "url": "https://github.com/Human-Agent-Society/reef"
+    },
+    {
+      "date": "2026-09-17",
+      "subcat": "Other Cool Projects",
+      "title": "yang0/handraw-style",
+      "url": "https://github.com/yang0/handraw-style"
     }
   ]
 }

@@ -1287,6 +1287,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~242 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/eternity4719/HowToLiveBetter
 
+**Added 2026-09-17**
+
+### [yang0/handraw-style](https://github.com/yang0/handraw-style)
+- **Stats:** 2,074 stars | 268 forks | 4 open issues
+- **Language:** HTML | **Created:** 2026-09-05 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** 手绘风格编号画廊与双语提示词 Skill
+- **Growth:** averaging ~172 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/yang0/handraw-style
+
 
 ## Web & Frontend
 
