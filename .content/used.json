@@ -183,6 +183,7 @@
     "https://github.com/isjiamu/gzh-design-skill",
     "https://github.com/jakubkrehel/skills",
     "https://github.com/jamesob/local-llm",
+    "https://github.com/jub0t/Concat",
     "https://github.com/kacperkapusciak/goldie",
     "https://github.com/kirodotdev/KiroCrew",
     "https://github.com/kvcache-ai/AgentENV",
@@ -431,12 +432,6 @@
   "recent": [
     {
       "date": "2026-09-16",
-      "subcat": "AI Engineering",
-      "title": "I let AI write 100% of my code for 30 days. Here's what",
-      "url": "https://dev.to/infoinlet1/i-let-ai-write-100-of-my-code-for-30-days-heres-what-broke-1aa0"
-    },
-    {
-      "date": "2026-09-16",
       "subcat": "Machine Learning",
       "title": "Vibe Coding Isn't the Problem. Calling It Engineering I",
       "url": "https://dev.to/georgekobaidze/vibe-coding-isnt-the-problem-calling-it-engineering-is-lm1"
@@ -488,6 +483,12 @@
       "subcat": "AI & Machine Learning",
       "title": "ai-sucks-butt/ai-sucks-butt",
       "url": "https://github.com/ai-sucks-butt/ai-sucks-butt"
+    },
+    {
+      "date": "2026-09-17",
+      "subcat": "Developer Tools",
+      "title": "jub0t/Concat",
+      "url": "https://github.com/jub0t/Concat"
     }
   ]
 }

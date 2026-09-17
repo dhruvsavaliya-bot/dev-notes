@@ -1403,6 +1403,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~168 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/dsh-market/dsh-market
 
+**Added 2026-09-17**
+
+### [jub0t/Concat](https://github.com/jub0t/Concat)
+- **Stats:** 2,569 stars | 226 forks | 28 open issues
+- **Language:** Rust | **Created:** 2026-08-25 | **License:** AGPL-3.0
+- **Topics:** audio-processor, auto-caption, automation, capcut, capcut-alternative, content-creation
+- **What it is:** Open-Source CapCut replacement.
+- **Growth:** averaging ~111 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/jub0t/Concat
+
 
 ## Backend & Infrastructure
 
