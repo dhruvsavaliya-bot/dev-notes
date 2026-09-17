@@ -105,6 +105,7 @@
     "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
     "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
     "https://github.com/Hisn00w/ASu-skills",
+    "https://github.com/Human-Agent-Society/reef",
     "https://github.com/Jia-Ethan/codex-keysmith",
     "https://github.com/JustVugg/colibri",
     "https://github.com/KKKKhazix/human-writing",
@@ -435,12 +436,6 @@
   "recent": [
     {
       "date": "2026-09-16",
-      "subcat": "AI & Machine Learning",
-      "title": "totec448-spec/chat-on-steroids",
-      "url": "https://github.com/totec448-spec/chat-on-steroids"
-    },
-    {
-      "date": "2026-09-16",
       "subcat": "Hacker News Picks",
       "title": "Suspected sabotage causes major Netherlands rail disrup",
       "url": "https://news.ycombinator.com/item?id=49710253"
@@ -492,6 +487,12 @@
       "subcat": "Hacker News Picks",
       "title": "Reversing Factorio's RNG",
       "url": "https://news.ycombinator.com/item?id=49674451"
+    },
+    {
+      "date": "2026-09-17",
+      "subcat": "AI & Machine Learning",
+      "title": "Human-Agent-Society/reef",
+      "url": "https://github.com/Human-Agent-Society/reef"
     }
   ]
 }

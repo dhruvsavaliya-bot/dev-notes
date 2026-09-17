@@ -684,6 +684,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~696 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/ai-sucks-butt/ai-sucks-butt
 
+**Added 2026-09-17**
+
+### [Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef)
+- **Stats:** 2,911 stars | 223 forks | 55 open issues
+- **Language:** Python | **Created:** 2026-08-31 | **License:** Apache-2.0
+- **Topics:** agent-infrastructure, ai-agents, continual-learning, inference, llm, llm-training
+- **What it is:** Continual learning infra for self-improving agents
+- **Growth:** averaging ~171 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/Human-Agent-Society/reef
+
 
 ## Other Cool Projects
 
