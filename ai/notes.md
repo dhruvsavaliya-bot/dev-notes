@@ -294,6 +294,15 @@ Lessons from building with LLMs.
 - **Summary:** Not "AI-assisted." Not "copilot suggestions I edited." I mean I made a rule: for 30 days, I don't...
 - **Link:** https://dev.to/infoinlet1/i-let-ai-write-100-of-my-code-for-30-days-heres-what-broke-1aa0
 
+**Added 2026-09-17**
+
+### [The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer](https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh)
+- **Author:** Elmar Chavez | **Published:** Sep 15 | **Read time:** 9 min
+- **Community:** 61 reactions, 22 comments — a top post of the week in #ai
+- **Tags:** software, ai, programming, productivity
+- **Summary:** Over the past couple of months, I've read a lot of articles about the consequences of AI dependency...
+- **Link:** https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh
+
 
 ## LLMs
 

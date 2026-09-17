@@ -15,6 +15,7 @@
     "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
     "https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635",
     "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
+    "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh",
     "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1",
     "https://dev.to/dev_kiran/shift-left-code-review-how-qodo-turns-your-coding-agent-into-its-own-first-reviewer-58fc",
     "https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9",
@@ -432,12 +433,6 @@
   "recent": [
     {
       "date": "2026-09-16",
-      "subcat": "Machine Learning",
-      "title": "Vibe Coding Isn't the Problem. Calling It Engineering I",
-      "url": "https://dev.to/georgekobaidze/vibe-coding-isnt-the-problem-calling-it-engineering-is-lm1"
-    },
-    {
-      "date": "2026-09-16",
       "subcat": "AI & Machine Learning",
       "title": "amosblomqvist/learn",
       "url": "https://github.com/amosblomqvist/learn"
@@ -489,6 +484,12 @@
       "subcat": "Developer Tools",
       "title": "jub0t/Concat",
       "url": "https://github.com/jub0t/Concat"
+    },
+    {
+      "date": "2026-09-17",
+      "subcat": "AI Engineering",
+      "title": "The Slow and Quiet Cognitive Atrophy of a Modern Softwa",
+      "url": "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh"
     }
   ]
 }
