@@ -133,6 +133,7 @@
     "https://github.com/Yu9191/wloc",
     "https://github.com/Zeejay0/gathered-scenes-zine-skill",
     "https://github.com/ZzzLc0405/photo-abstract-editorial",
+    "https://github.com/ai-sucks-butt/ai-sucks-butt",
     "https://github.com/amagine-ai/Amagine3D",
     "https://github.com/amosblomqvist/learn",
     "https://github.com/andrewyng/openworker",
@@ -431,12 +432,6 @@
     {
       "date": "2026-09-16",
       "subcat": "AI Engineering",
-      "title": "AI Avatar v20, Cursor Avatar, Notification Avatar (Voxe",
-      "url": "https://dev.to/webdeveloperhyper/ai-avatar-v20-cursor-avatar-notification-avatar-voxel-avatar-4dd2"
-    },
-    {
-      "date": "2026-09-16",
-      "subcat": "AI Engineering",
       "title": "I let AI write 100% of my code for 30 days. Here's what",
       "url": "https://dev.to/infoinlet1/i-let-ai-write-100-of-my-code-for-30-days-heres-what-broke-1aa0"
     },
@@ -487,6 +482,12 @@
       "subcat": "AI & Machine Learning",
       "title": "kacperkapusciak/goldie",
       "url": "https://github.com/kacperkapusciak/goldie"
+    },
+    {
+      "date": "2026-09-17",
+      "subcat": "AI & Machine Learning",
+      "title": "ai-sucks-butt/ai-sucks-butt",
+      "url": "https://github.com/ai-sucks-butt/ai-sucks-butt"
     }
   ]
 }

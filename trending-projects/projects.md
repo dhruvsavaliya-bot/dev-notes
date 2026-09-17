@@ -674,6 +674,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~86 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/kacperkapusciak/goldie
 
+**Added 2026-09-17**
+
+### [ai-sucks-butt/ai-sucks-butt](https://github.com/ai-sucks-butt/ai-sucks-butt)
+- **Stats:** 2,090 stars | 0 forks | 0 open issues
+- **Language:** Python | **Created:** 2026-09-14 | **License:** None
+- **Topics:** none listed
+- **What it is:** If you think AI sucks, star the repo.
+- **Growth:** averaging ~696 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/ai-sucks-butt/ai-sucks-butt
+
 
 ## Other Cool Projects
 
