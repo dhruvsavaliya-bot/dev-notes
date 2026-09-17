@@ -124,6 +124,7 @@
     "https://github.com/Nanako0129/sepia",
     "https://github.com/Player-YN/PawWork_ZhuaZhua",
     "https://github.com/QwenLM/Qwen-MM-Plugins",
+    "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
     "https://github.com/Sahir619/fable-method",
     "https://github.com/Shpigford/knockoff",
     "https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6",
@@ -433,12 +434,6 @@
   "recent": [
     {
       "date": "2026-09-16",
-      "subcat": "AI & Machine Learning",
-      "title": "amosblomqvist/learn",
-      "url": "https://github.com/amosblomqvist/learn"
-    },
-    {
-      "date": "2026-09-16",
       "subcat": "Web Development",
       "title": "5 DEV.to Features I Wish Existed. 3 I'm Genuinely Relie",
       "url": "https://dev.to/dj29/5-devto-features-i-wish-existed-3-im-genuinely-relieved-they-dont-3b8n"
@@ -490,6 +485,12 @@
       "subcat": "AI Engineering",
       "title": "The Slow and Quiet Cognitive Atrophy of a Modern Softwa",
       "url": "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh"
+    },
+    {
+      "date": "2026-09-17",
+      "subcat": "Developer Tools",
+      "title": "Rion-Wu-tech/wechat-intelligence-hub",
+      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub"
     }
   ]
 }

@@ -1413,6 +1413,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~111 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/jub0t/Concat
 
+**Added 2026-09-17**
+
+### [Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub)
+- **Stats:** 2,385 stars | 2,680 forks | 8 open issues
+- **Language:** Python | **Created:** 2026-09-04 | **License:** AGPL-3.0
+- **Topics:** none listed
+- **What it is:** Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.
+- **Growth:** averaging ~183 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/Rion-Wu-tech/wechat-intelligence-hub
+
 
 ## Backend & Infrastructure
 
