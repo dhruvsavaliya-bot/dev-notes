@@ -1247,6 +1247,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~384 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/sdli1995/dlssg_for_sm86
 
+**Added 2026-09-17**
+
+### [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)
+- **Stats:** 2,422 stars | 200 forks | 2 open issues
+- **Language:** HTML | **Created:** 2026-09-07 | **License:** Unlicense
+- **Topics:** none listed
+- **What it is:** 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
+- **Growth:** averaging ~242 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/eternity4719/HowToLiveBetter
+
 
 ## Web & Frontend
 
