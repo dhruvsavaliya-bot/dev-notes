@@ -156,6 +156,7 @@
     "https://github.com/bikini/exploitarium",
     "https://github.com/bojieli/ai-infra-book",
     "https://github.com/bozhouDev/codex-orange-book",
+    "https://github.com/browser-use/jev-ultrafast",
     "https://github.com/bryanthaboi/gen1recomp",
     "https://github.com/ccch1mneyyy/dsh-TUI",
     "https://github.com/cloudflare/security-audit-skill",
@@ -445,12 +446,6 @@
   "recent": [
     {
       "date": "2026-09-17",
-      "subcat": "AI & Machine Learning",
-      "title": "Human-Agent-Society/reef",
-      "url": "https://github.com/Human-Agent-Society/reef"
-    },
-    {
-      "date": "2026-09-17",
       "subcat": "Other Cool Projects",
       "title": "yang0/handraw-style",
       "url": "https://github.com/yang0/handraw-style"
@@ -502,6 +497,12 @@
       "subcat": "Other Cool Projects",
       "title": "tamaratran/fast-jev-compaction",
       "url": "https://github.com/tamaratran/fast-jev-compaction"
+    },
+    {
+      "date": "2026-09-18",
+      "subcat": "Other Cool Projects",
+      "title": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast"
     }
   ]
 }

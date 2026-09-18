@@ -1327,6 +1327,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~2,142 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/tamaratran/fast-jev-compaction
 
+**Added 2026-09-18**
+
+### [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
+- **Stats:** 4,062 stars | 245 forks | 27 open issues
+- **Language:** Python | **Created:** 2026-09-16 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** i. am. speed.
+- **Growth:** averaging ~2,031 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/browser-use/jev-ultrafast
+
 
 ## Web & Frontend
 
