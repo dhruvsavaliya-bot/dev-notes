@@ -438,15 +438,10 @@
     "https://news.ycombinator.com/item?id=49715813",
     "https://news.ycombinator.com/item?id=49717558",
     "https://news.ycombinator.com/item?id=49740260",
-    "https://news.ycombinator.com/item?id=49743483"
+    "https://news.ycombinator.com/item?id=49743483",
+    "https://news.ycombinator.com/item?id=49746290"
   ],
   "recent": [
-    {
-      "date": "2026-09-17",
-      "subcat": "Developer Tools",
-      "title": "Rion-Wu-tech/wechat-intelligence-hub",
-      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub"
-    },
     {
       "date": "2026-09-17",
       "subcat": "Hacker News Picks",
@@ -500,6 +495,12 @@
       "subcat": "Hacker News Picks",
       "title": "Fujitsu launches made-in-Japan next-generation CPU FUJI",
       "url": "https://news.ycombinator.com/item?id=49715813"
+    },
+    {
+      "date": "2026-09-18",
+      "subcat": "Hacker News Picks",
+      "title": "Flet 1.0  Build cross-platform apps in Python",
+      "url": "https://news.ycombinator.com/item?id=49746290"
     }
   ]
 }

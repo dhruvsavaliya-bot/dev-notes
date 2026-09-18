@@ -1006,6 +1006,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49710253
 - **Link:** https://www.bbc.com/news/articles/c8ly49w9g1edo
 
+**Added 2026-09-18**
+
+### [Flet 1.0 – Build cross-platform apps in Python](https://flet.dev/)
+- **Source:** flet.dev | **Posted:** 2026-09-17 | **By:** absqueued
+- **Community:** 125 points, 58 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49746290
+- **Link:** https://flet.dev/
+
 
 ## Beginner
 
