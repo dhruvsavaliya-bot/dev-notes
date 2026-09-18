@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**433 entries and counting** · Last updated: 2026-09-18
+**434 entries and counting** · Last updated: 2026-09-18
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 146 |
+| [Trending Projects](trending-projects/projects.md) | 147 |
 | [AI / LLM Notes](ai/notes.md) | 38 |
 | [Reading List](articles/reading-list.md) | 119 |
 | [Coding Tips](coding-tips/tips.md) | 118 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-09-18** · *Other Cool Projects* — [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)
 - **2026-09-18** · *Hacker News Picks* — [Flet 1.0  Build cross-platform apps in Python](https://news.ycombinator.com/item?id=49746290)
 - **2026-09-18** · *Hacker News Picks* — [Fujitsu launches made-in-Japan next-generation CPU FUJI](https://news.ycombinator.com/item?id=49715813)
-- **2026-09-18** · *Hacker News Picks* — [Infinite-Parameter LLMs: Generating and Adapting Weight](https://news.ycombinator.com/item?id=49743483)
 
 ## How it works
 

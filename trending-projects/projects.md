@@ -1317,6 +1317,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~111 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/wide-trace/open-higgsfield
 
+**Added 2026-09-18**
+
+### [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)
+- **Stats:** 2,142 stars | 105 forks | 36 open issues
+- **Language:** TypeScript | **Created:** 2026-09-17 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
+- **Growth:** averaging ~2,142 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/tamaratran/fast-jev-compaction
+
 
 ## Web & Frontend
 
