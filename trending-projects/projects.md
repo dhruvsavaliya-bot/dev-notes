@@ -1307,6 +1307,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~172 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/yang0/handraw-style
 
+**Added 2026-09-18**
+
+### [wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)
+- **Stats:** 2,566 stars | 420 forks | 2 open issues
+- **Language:** TypeScript | **Created:** 2026-08-26 | **License:** None
+- **Topics:** none listed
+- **What it is:** A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.
+- **Growth:** averaging ~111 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/wide-trace/open-higgsfield
+
 
 ## Web & Frontend
 

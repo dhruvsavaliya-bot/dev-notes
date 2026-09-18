@@ -224,6 +224,7 @@
     "https://github.com/vercel-labs/fx",
     "https://github.com/vercel-labs/scriptc",
     "https://github.com/wang2122/sprix-sage-router",
+    "https://github.com/wide-trace/open-higgsfield",
     "https://github.com/withmarbleapp/os-taxonomy",
     "https://github.com/x4gKing/3x-ui",
     "https://github.com/x4gKing/X4G",
@@ -440,12 +441,6 @@
   "recent": [
     {
       "date": "2026-09-17",
-      "subcat": "AI & Machine Learning",
-      "title": "ai-sucks-butt/ai-sucks-butt",
-      "url": "https://github.com/ai-sucks-butt/ai-sucks-butt"
-    },
-    {
-      "date": "2026-09-17",
       "subcat": "Developer Tools",
       "title": "jub0t/Concat",
       "url": "https://github.com/jub0t/Concat"
@@ -497,6 +492,12 @@
       "subcat": "AI & Machine Learning",
       "title": "shadcn-ui/lint",
       "url": "https://github.com/shadcn-ui/lint"
+    },
+    {
+      "date": "2026-09-18",
+      "subcat": "Other Cool Projects",
+      "title": "wide-trace/open-higgsfield",
+      "url": "https://github.com/wide-trace/open-higgsfield"
     }
   ]
 }
