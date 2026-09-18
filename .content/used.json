@@ -435,17 +435,12 @@
     "https://news.ycombinator.com/item?id=49674451",
     "https://news.ycombinator.com/item?id=49675817",
     "https://news.ycombinator.com/item?id=49710253",
+    "https://news.ycombinator.com/item?id=49715813",
     "https://news.ycombinator.com/item?id=49717558",
     "https://news.ycombinator.com/item?id=49740260",
     "https://news.ycombinator.com/item?id=49743483"
   ],
   "recent": [
-    {
-      "date": "2026-09-17",
-      "subcat": "AI Engineering",
-      "title": "The Slow and Quiet Cognitive Atrophy of a Modern Softwa",
-      "url": "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh"
-    },
     {
       "date": "2026-09-17",
       "subcat": "Developer Tools",
@@ -499,6 +494,12 @@
       "subcat": "Hacker News Picks",
       "title": "Infinite-Parameter LLMs: Generating and Adapting Weight",
       "url": "https://news.ycombinator.com/item?id=49743483"
+    },
+    {
+      "date": "2026-09-18",
+      "subcat": "Hacker News Picks",
+      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJI",
+      "url": "https://news.ycombinator.com/item?id=49715813"
     }
   ]
 }

@@ -1028,6 +1028,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49743483
 - **Link:** https://arxiv.org/abs/2609.18842
 
+**Added 2026-09-18**
+
+### [Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02)
+- **Source:** global.fujitsu | **Posted:** 2026-09-15 | **By:** my123
+- **Community:** 589 points, 227 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49715813
+- **Link:** https://global.fujitsu/en-global/pr/news/2026/09/14-02
+
 
 ## DevOps & Cloud
 
