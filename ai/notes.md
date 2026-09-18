@@ -303,6 +303,15 @@ Lessons from building with LLMs.
 - **Summary:** Over the past couple of months, I've read a lot of articles about the consequences of AI dependency...
 - **Link:** https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh
 
+**Added 2026-09-18**
+
+### [The Quiet Weight of Working in Tech in the AI Era](https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g)
+- **Author:** James Anderson | **Published:** Sep 15 | **Read time:** 7 min
+- **Community:** 107 reactions, 69 comments — a top post of the week in #ai
+- **Tags:** mentalhealth, career, ai, discuss
+- **Summary:** I've started noticing a look on people's faces.  It's in standups, in the half-second-too-fast "yeah,...
+- **Link:** https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g
+
 
 ## LLMs
 

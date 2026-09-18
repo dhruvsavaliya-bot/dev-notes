@@ -45,6 +45,7 @@
     "https://dev.to/infoinlet1/i-let-ai-write-100-of-my-code-for-30-days-heres-what-broke-1aa0",
     "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3",
     "https://dev.to/james_anderson_h/most-ai-agents-are-just-if-statements-in-a-trench-coat-3960",
+    "https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g",
     "https://dev.to/kenielzep97/tell-me-about-you-1hi4",
     "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm",
     "https://dev.to/kenwalger/the-verification-bottleneck-in-ai-generated-software-3p7l",
@@ -438,12 +439,6 @@
   "recent": [
     {
       "date": "2026-09-17",
-      "subcat": "Other Cool Projects",
-      "title": "eternity4719/HowToLiveBetter",
-      "url": "https://github.com/eternity4719/HowToLiveBetter"
-    },
-    {
-      "date": "2026-09-17",
       "subcat": "AI & Machine Learning",
       "title": "kacperkapusciak/goldie",
       "url": "https://github.com/kacperkapusciak/goldie"
@@ -495,6 +490,12 @@
       "subcat": "Hacker News Picks",
       "title": "The American Religion of Self-Storage Facilities",
       "url": "https://news.ycombinator.com/item?id=49740260"
+    },
+    {
+      "date": "2026-09-18",
+      "subcat": "AI Engineering",
+      "title": "The Quiet Weight of Working in Tech in the AI Era",
+      "url": "https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g"
     }
   ]
 }
