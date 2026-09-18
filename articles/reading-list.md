@@ -1019,6 +1019,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49740260
 - **Link:** https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities
 
+**Added 2026-09-18**
+
+### [Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data](https://arxiv.org/abs/2609.18842)
+- **Source:** arxiv.org | **Posted:** 2026-09-17 | **By:** Betelbuddy
+- **Community:** 141 points, 39 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49743483
+- **Link:** https://arxiv.org/abs/2609.18842
+
 
 ## DevOps & Cloud
 
