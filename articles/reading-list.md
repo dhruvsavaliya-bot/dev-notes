@@ -1010,6 +1010,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49674451
 - **Link:** https://gegell.github.io/posts/factorio-rng/
 
+**Added 2026-09-18**
+
+### [The American Religion of Self-Storage Facilities](https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities)
+- **Source:** www.newyorker.com | **Posted:** 2026-09-17 | **By:** pseudolus
+- **Community:** 210 points, 359 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49740260
+- **Link:** https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities
+
 
 ## DevOps & Cloud
 
