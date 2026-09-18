@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**428 entries and counting** · Last updated: 2026-09-18
+**429 entries and counting** · Last updated: 2026-09-18
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 144 |
+| [Trending Projects](trending-projects/projects.md) | 145 |
 | [AI / LLM Notes](ai/notes.md) | 38 |
 | [Reading List](articles/reading-list.md) | 117 |
 | [Coding Tips](coding-tips/tips.md) | 117 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-09-18** · *AI & Machine Learning* — [shadcn-ui/lint](https://github.com/shadcn-ui/lint)
 - **2026-09-18** · *AI Engineering* — [The Quiet Weight of Working in Tech in the AI Era](https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g)
 - **2026-09-18** · *Hacker News Picks* — [The American Religion of Self-Storage Facilities](https://news.ycombinator.com/item?id=49740260)
-- **2026-09-17** · *Other Cool Projects* — [yang0/handraw-style](https://github.com/yang0/handraw-style)
 
 ## How it works
 

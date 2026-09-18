@@ -694,6 +694,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~171 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Human-Agent-Society/reef
 
+**Added 2026-09-18**
+
+### [shadcn-ui/lint](https://github.com/shadcn-ui/lint)
+- **Stats:** 2,082 stars | 35 forks | 13 open issues
+- **Language:** TypeScript | **Created:** 2026-09-02 | **License:** MIT
+- **Topics:** agents, ai, design, design-system, design-tools, shadcn
+- **What it is:** An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.
+- **Growth:** averaging ~130 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/shadcn-ui/lint
+
 
 ## Other Cool Projects
 

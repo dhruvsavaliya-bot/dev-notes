@@ -212,6 +212,7 @@
     "https://github.com/s1dashu/ip-as-logo-skill",
     "https://github.com/sapientinc/PRAXIST",
     "https://github.com/sdli1995/dlssg_for_sm86",
+    "https://github.com/shadcn-ui/lint",
     "https://github.com/slvDev/esp32-ai",
     "https://github.com/synthetic-sciences/openscience",
     "https://github.com/tamnd/kage",
@@ -440,12 +441,6 @@
     {
       "date": "2026-09-17",
       "subcat": "AI & Machine Learning",
-      "title": "kacperkapusciak/goldie",
-      "url": "https://github.com/kacperkapusciak/goldie"
-    },
-    {
-      "date": "2026-09-17",
-      "subcat": "AI & Machine Learning",
       "title": "ai-sucks-butt/ai-sucks-butt",
       "url": "https://github.com/ai-sucks-butt/ai-sucks-butt"
     },
@@ -496,6 +491,12 @@
       "subcat": "AI Engineering",
       "title": "The Quiet Weight of Working in Tech in the AI Era",
       "url": "https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g"
+    },
+    {
+      "date": "2026-09-18",
+      "subcat": "AI & Machine Learning",
+      "title": "shadcn-ui/lint",
+      "url": "https://github.com/shadcn-ui/lint"
     }
   ]
 }
