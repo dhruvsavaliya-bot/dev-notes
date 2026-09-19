@@ -321,6 +321,15 @@ Lessons from building with LLMs.
 - **Summary:** TL;DR  GPT-6 Astra has started another familiar AI conversation. The model is more capable, Jensen...
 - **Link:** https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al
 
+**Added 2026-09-19**
+
+### [AI Didn't Remove the Engineering Work. It Just Made It Easier to Pretend You Did.](https://dev.to/dj29/ai-didnt-remove-the-engineering-work-it-just-made-it-easier-to-pretend-you-did-42m9)
+- **Author:** Dhruv Jani | **Published:** Sep 15 | **Read time:** 4 min
+- **Community:** 103 reactions, 89 comments — a top post of the week in #ai
+- **Tags:** ai, discuss, career, webdev
+- **Summary:** On September 15, India — along with Sri Lanka and Tanzania — celebrates Engineer's Day, marking the...
+- **Link:** https://dev.to/dj29/ai-didnt-remove-the-engineering-work-it-just-made-it-easier-to-pretend-you-did-42m9
+
 
 ## LLMs
 

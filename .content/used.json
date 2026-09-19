@@ -21,6 +21,7 @@
     "https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9",
     "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
     "https://dev.to/dj29/5-devto-features-i-wish-existed-3-im-genuinely-relieved-they-dont-3b8n",
+    "https://dev.to/dj29/ai-didnt-remove-the-engineering-work-it-just-made-it-easier-to-pretend-you-did-42m9",
     "https://dev.to/francistrdev/choose-your-burden-4dgl",
     "https://dev.to/francistrdev/git-gud-4e6g",
     "https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p",
@@ -452,12 +453,6 @@
     {
       "date": "2026-09-18",
       "subcat": "Hacker News Picks",
-      "title": "Infinite-Parameter LLMs: Generating and Adapting Weight",
-      "url": "https://news.ycombinator.com/item?id=49743483"
-    },
-    {
-      "date": "2026-09-18",
-      "subcat": "Hacker News Picks",
       "title": "Fujitsu launches made-in-Japan next-generation CPU FUJI",
       "url": "https://news.ycombinator.com/item?id=49715813"
     },
@@ -508,6 +503,12 @@
       "subcat": "AI Engineering",
       "title": "What Happens When AI Outgrows the Tests We Use to Measu",
       "url": "https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al"
+    },
+    {
+      "date": "2026-09-19",
+      "subcat": "AI Engineering",
+      "title": "AI Didn't Remove the Engineering Work. It Just Made It ",
+      "url": "https://dev.to/dj29/ai-didnt-remove-the-engineering-work-it-just-made-it-easier-to-pretend-you-did-42m9"
     }
   ]
 }
