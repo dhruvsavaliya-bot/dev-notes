@@ -442,15 +442,10 @@
     "https://news.ycombinator.com/item?id=49740260",
     "https://news.ycombinator.com/item?id=49743483",
     "https://news.ycombinator.com/item?id=49746290",
-    "https://news.ycombinator.com/item?id=49746626"
+    "https://news.ycombinator.com/item?id=49746626",
+    "https://news.ycombinator.com/item?id=49748553"
   ],
   "recent": [
-    {
-      "date": "2026-09-18",
-      "subcat": "Hacker News Picks",
-      "title": "The American Religion of Self-Storage Facilities",
-      "url": "https://news.ycombinator.com/item?id=49740260"
-    },
     {
       "date": "2026-09-18",
       "subcat": "AI Engineering",
@@ -504,6 +499,12 @@
       "subcat": "Hacker News Picks",
       "title": "How SpaceX streamlined the Raptor engine",
       "url": "https://news.ycombinator.com/item?id=49746626"
+    },
+    {
+      "date": "2026-09-19",
+      "subcat": "Hacker News Picks",
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can ",
+      "url": "https://news.ycombinator.com/item?id=49748553"
     }
   ]
 }
