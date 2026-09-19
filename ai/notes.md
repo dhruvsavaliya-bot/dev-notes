@@ -312,6 +312,15 @@ Lessons from building with LLMs.
 - **Summary:** I've started noticing a look on people's faces.  It's in standups, in the half-second-too-fast "yeah,...
 - **Link:** https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g
 
+**Added 2026-09-19**
+
+### [What Happens When AI Outgrows the Tests We Use to Measure It?](https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al)
+- **Author:** Hemapriya Kanagala | **Published:** Sep 14 | **Read time:** 14 min
+- **Community:** 114 reactions, 37 comments — a top post of the week in #ai
+- **Tags:** discuss, ai, programming, chatgpt
+- **Summary:** TL;DR  GPT-6 Astra has started another familiar AI conversation. The model is more capable, Jensen...
+- **Link:** https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al
+
 
 ## LLMs
 

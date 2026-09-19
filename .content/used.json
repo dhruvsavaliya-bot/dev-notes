@@ -41,6 +41,7 @@
     "https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h",
     "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg",
     "https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh",
+    "https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al",
     "https://dev.to/hemapriya_kanagala/what-would-you-tell-someone-early-in-their-career-1k76",
     "https://dev.to/infoinlet1/i-let-ai-write-100-of-my-code-for-30-days-heres-what-broke-1aa0",
     "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3",
@@ -450,12 +451,6 @@
   "recent": [
     {
       "date": "2026-09-18",
-      "subcat": "Other Cool Projects",
-      "title": "wide-trace/open-higgsfield",
-      "url": "https://github.com/wide-trace/open-higgsfield"
-    },
-    {
-      "date": "2026-09-18",
       "subcat": "Hacker News Picks",
       "title": "Infinite-Parameter LLMs: Generating and Adapting Weight",
       "url": "https://news.ycombinator.com/item?id=49743483"
@@ -507,6 +502,12 @@
       "subcat": "Hacker News Picks",
       "title": "How to Write with an LLM",
       "url": "https://news.ycombinator.com/item?id=49747070"
+    },
+    {
+      "date": "2026-09-19",
+      "subcat": "AI Engineering",
+      "title": "What Happens When AI Outgrows the Tests We Use to Measu",
+      "url": "https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al"
     }
   ]
 }
