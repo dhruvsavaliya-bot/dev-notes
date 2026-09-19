@@ -29,6 +29,7 @@
     "https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd",
     "https://dev.to/georgekobaidze/vibe-coding-isnt-the-problem-calling-it-engineering-is-lm1",
     "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i",
+    "https://dev.to/gramli/api-performance-testing-how-to-design-realistic-tests-59gn",
     "https://dev.to/gramli/how-ai-endpoints-change-the-traditional-api-flow-3773",
     "https://dev.to/gramli/how-i-smashed-a-bug-in-a-shared-authentication-library-33fm",
     "https://dev.to/hadil/angular-datagrid-a-free-open-source-ag-grid-alternative-built-for-scale-5gkm",
@@ -453,12 +454,6 @@
     {
       "date": "2026-09-18",
       "subcat": "Hacker News Picks",
-      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJI",
-      "url": "https://news.ycombinator.com/item?id=49715813"
-    },
-    {
-      "date": "2026-09-18",
-      "subcat": "Hacker News Picks",
       "title": "Flet 1.0  Build cross-platform apps in Python",
       "url": "https://news.ycombinator.com/item?id=49746290"
     },
@@ -509,6 +504,12 @@
       "subcat": "AI Engineering",
       "title": "AI Didn't Remove the Engineering Work. It Just Made It ",
       "url": "https://dev.to/dj29/ai-didnt-remove-the-engineering-work-it-just-made-it-easier-to-pretend-you-did-42m9"
+    },
+    {
+      "date": "2026-09-19",
+      "subcat": "Web Development",
+      "title": "API Performance Testing: How to Design Realistic Tests",
+      "url": "https://dev.to/gramli/api-performance-testing-how-to-design-realistic-tests-59gn"
     }
   ]
 }

@@ -98,6 +98,15 @@ Fresh dev articles and blog posts.
 - **Summary:** I'm a DEV Trusted Member, which means I spend a pretty unreasonable amount of time in the review...
 - **Link:** https://dev.to/dj29/5-devto-features-i-wish-existed-3-im-genuinely-relieved-they-dont-3b8n
 
+**Added 2026-09-19**
+
+### [API Performance Testing: How to Design Realistic Tests](https://dev.to/gramli/api-performance-testing-how-to-design-realistic-tests-59gn)
+- **Author:** Daniel Balcarek | **Published:** Sep 17 | **Read time:** 10 min
+- **Community:** 57 reactions, 27 comments — a top post of the week in #webdev
+- **Tags:** testing, performance, api, webdev
+- **Summary:** Most of us have heard the term performance testing, whether before releasing a big new feature,...
+- **Link:** https://dev.to/gramli/api-performance-testing-how-to-design-realistic-tests-59gn
+
 
 ## Hacker News Picks
 
