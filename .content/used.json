@@ -443,15 +443,10 @@
     "https://news.ycombinator.com/item?id=49743483",
     "https://news.ycombinator.com/item?id=49746290",
     "https://news.ycombinator.com/item?id=49746626",
-    "https://news.ycombinator.com/item?id=49748553"
+    "https://news.ycombinator.com/item?id=49748553",
+    "https://news.ycombinator.com/item?id=49752041"
   ],
   "recent": [
-    {
-      "date": "2026-09-18",
-      "subcat": "AI Engineering",
-      "title": "The Quiet Weight of Working in Tech in the AI Era",
-      "url": "https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g"
-    },
     {
       "date": "2026-09-18",
       "subcat": "AI & Machine Learning",
@@ -505,6 +500,12 @@
       "subcat": "Hacker News Picks",
       "title": "Show HN: Cactus Needle 3: 8-29MB automation models can ",
       "url": "https://news.ycombinator.com/item?id=49748553"
+    },
+    {
+      "date": "2026-09-19",
+      "subcat": "Hacker News Picks",
+      "title": "OpenJev",
+      "url": "https://news.ycombinator.com/item?id=49752041"
     }
   ]
 }
