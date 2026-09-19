@@ -1033,6 +1033,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49752041
 - **Link:** https://openjev.com/
 
+**Added 2026-09-19**
+
+### [How to Write with an LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/)
+- **Source:** sockpuppet.org | **Posted:** 2026-09-17 | **By:** joeriddles
+- **Community:** 485 points, 324 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49747070
+- **Link:** https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/
+
 
 ## Beginner
 

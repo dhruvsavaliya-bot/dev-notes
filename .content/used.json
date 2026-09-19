@@ -443,16 +443,11 @@
     "https://news.ycombinator.com/item?id=49743483",
     "https://news.ycombinator.com/item?id=49746290",
     "https://news.ycombinator.com/item?id=49746626",
+    "https://news.ycombinator.com/item?id=49747070",
     "https://news.ycombinator.com/item?id=49748553",
     "https://news.ycombinator.com/item?id=49752041"
   ],
   "recent": [
-    {
-      "date": "2026-09-18",
-      "subcat": "AI & Machine Learning",
-      "title": "shadcn-ui/lint",
-      "url": "https://github.com/shadcn-ui/lint"
-    },
     {
       "date": "2026-09-18",
       "subcat": "Other Cool Projects",
@@ -506,6 +501,12 @@
       "subcat": "Hacker News Picks",
       "title": "OpenJev",
       "url": "https://news.ycombinator.com/item?id=49752041"
+    },
+    {
+      "date": "2026-09-19",
+      "subcat": "Hacker News Picks",
+      "title": "How to Write with an LLM",
+      "url": "https://news.ycombinator.com/item?id=49747070"
     }
   ]
 }
