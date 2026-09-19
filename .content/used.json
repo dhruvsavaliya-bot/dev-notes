@@ -441,15 +441,10 @@
     "https://news.ycombinator.com/item?id=49717558",
     "https://news.ycombinator.com/item?id=49740260",
     "https://news.ycombinator.com/item?id=49743483",
-    "https://news.ycombinator.com/item?id=49746290"
+    "https://news.ycombinator.com/item?id=49746290",
+    "https://news.ycombinator.com/item?id=49746626"
   ],
   "recent": [
-    {
-      "date": "2026-09-17",
-      "subcat": "Other Cool Projects",
-      "title": "yang0/handraw-style",
-      "url": "https://github.com/yang0/handraw-style"
-    },
     {
       "date": "2026-09-18",
       "subcat": "Hacker News Picks",
@@ -503,6 +498,12 @@
       "subcat": "Other Cool Projects",
       "title": "browser-use/jev-ultrafast",
       "url": "https://github.com/browser-use/jev-ultrafast"
+    },
+    {
+      "date": "2026-09-19",
+      "subcat": "Hacker News Picks",
+      "title": "How SpaceX streamlined the Raptor engine",
+      "url": "https://news.ycombinator.com/item?id=49746626"
     }
   ]
 }

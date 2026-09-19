@@ -1015,6 +1015,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49746290
 - **Link:** https://flet.dev/
 
+**Added 2026-09-19**
+
+### [How SpaceX streamlined the Raptor engine](https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor)
+- **Source:** www.construction-physics.com | **Posted:** 2026-09-17 | **By:** JumpCrisscross
+- **Community:** 181 points, 51 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49746626
+- **Link:** https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor
+
 
 ## Beginner
 
