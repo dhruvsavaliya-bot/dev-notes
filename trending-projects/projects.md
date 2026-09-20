@@ -1347,6 +1347,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~691 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/robbietilton/Compositor
 
+**Added 2026-09-20**
+
+### [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
+- **Stats:** 2,322 stars | 214 forks | 21 open issues
+- **Language:** Python | **Created:** 2026-09-18 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~1,161 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/NandhaKishorM/laya
+
 
 ## Web & Frontend
 

@@ -127,6 +127,7 @@
     "https://github.com/MoonshotAI/Kimi-K3",
     "https://github.com/NVlabs/SoL-Pi",
     "https://github.com/Nanako0129/sepia",
+    "https://github.com/NandhaKishorM/laya",
     "https://github.com/Player-YN/PawWork_ZhuaZhua",
     "https://github.com/QwenLM/Qwen-MM-Plugins",
     "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
@@ -457,12 +458,6 @@
     {
       "date": "2026-09-19",
       "subcat": "Hacker News Picks",
-      "title": "How SpaceX streamlined the Raptor engine",
-      "url": "https://news.ycombinator.com/item?id=49746626"
-    },
-    {
-      "date": "2026-09-19",
-      "subcat": "Hacker News Picks",
       "title": "Show HN: Cactus Needle 3: 8-29MB automation models can ",
       "url": "https://news.ycombinator.com/item?id=49748553"
     },
@@ -513,6 +508,12 @@
       "subcat": "Hacker News Picks",
       "title": "If math is more than proof, we need to better celebrate",
       "url": "https://news.ycombinator.com/item?id=49763928"
+    },
+    {
+      "date": "2026-09-20",
+      "subcat": "Other Cool Projects",
+      "title": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya"
     }
   ]
 }
