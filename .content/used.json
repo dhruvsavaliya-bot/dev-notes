@@ -450,15 +450,10 @@
     "https://news.ycombinator.com/item?id=49747070",
     "https://news.ycombinator.com/item?id=49748553",
     "https://news.ycombinator.com/item?id=49752041",
+    "https://news.ycombinator.com/item?id=49763928",
     "https://news.ycombinator.com/item?id=49766966"
   ],
   "recent": [
-    {
-      "date": "2026-09-18",
-      "subcat": "Other Cool Projects",
-      "title": "browser-use/jev-ultrafast",
-      "url": "https://github.com/browser-use/jev-ultrafast"
-    },
     {
       "date": "2026-09-19",
       "subcat": "Hacker News Picks",
@@ -512,6 +507,12 @@
       "subcat": "Hacker News Picks",
       "title": "Brood War Bench",
       "url": "https://news.ycombinator.com/item?id=49766966"
+    },
+    {
+      "date": "2026-09-20",
+      "subcat": "Hacker News Picks",
+      "title": "If math is more than proof, we need to better celebrate",
+      "url": "https://news.ycombinator.com/item?id=49763928"
     }
   ]
 }

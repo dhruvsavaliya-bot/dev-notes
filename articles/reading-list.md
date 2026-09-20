@@ -1064,6 +1064,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49766966
 - **Link:** https://bw.swerdlow.dev/report
 
+**Added 2026-09-20**
+
+### [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
+- **Source:** terrytao.wordpress.com | **Posted:** 2026-09-19 | **By:** num42
+- **Community:** 359 points, 265 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49763928
+- **Link:** https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/
+
 
 ## DevOps & Cloud
 
