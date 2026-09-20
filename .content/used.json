@@ -449,15 +449,10 @@
     "https://news.ycombinator.com/item?id=49746626",
     "https://news.ycombinator.com/item?id=49747070",
     "https://news.ycombinator.com/item?id=49748553",
-    "https://news.ycombinator.com/item?id=49752041"
+    "https://news.ycombinator.com/item?id=49752041",
+    "https://news.ycombinator.com/item?id=49766966"
   ],
   "recent": [
-    {
-      "date": "2026-09-18",
-      "subcat": "Other Cool Projects",
-      "title": "tamaratran/fast-jev-compaction",
-      "url": "https://github.com/tamaratran/fast-jev-compaction"
-    },
     {
       "date": "2026-09-18",
       "subcat": "Other Cool Projects",
@@ -511,6 +506,12 @@
       "subcat": "Other Cool Projects",
       "title": "robbietilton/Compositor",
       "url": "https://github.com/robbietilton/Compositor"
+    },
+    {
+      "date": "2026-09-20",
+      "subcat": "Hacker News Picks",
+      "title": "Brood War Bench",
+      "url": "https://news.ycombinator.com/item?id=49766966"
     }
   ]
 }

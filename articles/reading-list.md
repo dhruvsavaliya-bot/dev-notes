@@ -1055,6 +1055,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49748553
 - **Link:** https://cactuscompute.com/needle
 
+**Added 2026-09-20**
+
+### [Brood War Bench](https://bw.swerdlow.dev/report)
+- **Source:** bw.swerdlow.dev | **Posted:** 2026-09-19 | **By:** benswerd
+- **Community:** 257 points, 110 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49766966
+- **Link:** https://bw.swerdlow.dev/report
+
 
 ## DevOps & Cloud
 
