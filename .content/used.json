@@ -213,6 +213,7 @@
     "https://github.com/penecho/penecho",
     "https://github.com/petergyang/no-ai-slop",
     "https://github.com/rakanki911/DLSS5-Swapper",
+    "https://github.com/robbietilton/Compositor",
     "https://github.com/s1dashu/ip-as-logo-skill",
     "https://github.com/sapientinc/PRAXIST",
     "https://github.com/sdli1995/dlssg_for_sm86",
@@ -453,12 +454,6 @@
   "recent": [
     {
       "date": "2026-09-18",
-      "subcat": "Hacker News Picks",
-      "title": "Flet 1.0  Build cross-platform apps in Python",
-      "url": "https://news.ycombinator.com/item?id=49746290"
-    },
-    {
-      "date": "2026-09-18",
       "subcat": "Other Cool Projects",
       "title": "tamaratran/fast-jev-compaction",
       "url": "https://github.com/tamaratran/fast-jev-compaction"
@@ -510,6 +505,12 @@
       "subcat": "Web Development",
       "title": "API Performance Testing: How to Design Realistic Tests",
       "url": "https://dev.to/gramli/api-performance-testing-how-to-design-realistic-tests-59gn"
+    },
+    {
+      "date": "2026-09-20",
+      "subcat": "Other Cool Projects",
+      "title": "robbietilton/Compositor",
+      "url": "https://github.com/robbietilton/Compositor"
     }
   ]
 }

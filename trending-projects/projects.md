@@ -1337,6 +1337,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~2,031 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/browser-use/jev-ultrafast
 
+**Added 2026-09-20**
+
+### [robbietilton/Compositor](https://github.com/robbietilton/Compositor)
+- **Stats:** 2,767 stars | 295 forks | 27 open issues
+- **Language:** Swift | **Created:** 2026-09-16 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** The Photoshop alternative for Mac
+- **Growth:** averaging ~691 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/robbietilton/Compositor
+
 
 ## Web & Frontend
 
