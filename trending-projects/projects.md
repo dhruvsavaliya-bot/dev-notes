@@ -1367,6 +1367,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~139 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Mantitup-Org/vista
 
+**Added 2026-09-21**
+
+### [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf)
+- **Stats:** 2,685 stars | 165 forks | 15 open issues
+- **Language:** Python | **Created:** 2026-09-16 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.
+- **Growth:** averaging ~537 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/TheoLeeCJ/SemIf
+
 
 ## Web & Frontend
 

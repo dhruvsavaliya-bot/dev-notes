@@ -135,6 +135,7 @@
     "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
     "https://github.com/Sahir619/fable-method",
     "https://github.com/Shpigford/knockoff",
+    "https://github.com/TheoLeeCJ/SemIf",
     "https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6",
     "https://github.com/Vincentwei1021/video-shotcraft",
     "https://github.com/Waishnav/devspace",
@@ -461,12 +462,6 @@
   "recent": [
     {
       "date": "2026-09-19",
-      "subcat": "AI Engineering",
-      "title": "AI Didn't Remove the Engineering Work. It Just Made It ",
-      "url": "https://dev.to/dj29/ai-didnt-remove-the-engineering-work-it-just-made-it-easier-to-pretend-you-did-42m9"
-    },
-    {
-      "date": "2026-09-19",
       "subcat": "Web Development",
       "title": "API Performance Testing: How to Design Realistic Tests",
       "url": "https://dev.to/gramli/api-performance-testing-how-to-design-realistic-tests-59gn"
@@ -518,6 +513,12 @@
       "subcat": "Hacker News Picks",
       "title": "The Effect of CRTs on Pixel Art (2024)",
       "url": "https://news.ycombinator.com/item?id=49768336"
+    },
+    {
+      "date": "2026-09-21",
+      "subcat": "Other Cool Projects",
+      "title": "TheoLeeCJ/SemIf",
+      "url": "https://github.com/TheoLeeCJ/SemIf"
     }
   ]
 }
