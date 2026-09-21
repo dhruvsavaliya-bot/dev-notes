@@ -1357,6 +1357,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1,161 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/NandhaKishorM/laya
 
+**Added 2026-09-21**
+
+### [Mantitup-Org/vista](https://github.com/Mantitup-Org/vista)
+- **Stats:** 2,374 stars | 32 forks | 13 open issues
+- **Language:** TypeScript | **Created:** 2026-09-04 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~139 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/Mantitup-Org/vista
+
 
 ## Web & Frontend
 

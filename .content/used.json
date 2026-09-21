@@ -120,6 +120,7 @@
     "https://github.com/MDX-Tom/gpt-5.6-instruct",
     "https://github.com/MIgHTy-alIeN/MEV-Ethereum-Trading-Bot",
     "https://github.com/MIgHTy-alIeN/ai-trader-bot",
+    "https://github.com/Mantitup-Org/vista",
     "https://github.com/MaximeRivest/riddle",
     "https://github.com/MengTo/threeui",
     "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -458,12 +459,6 @@
     {
       "date": "2026-09-19",
       "subcat": "Hacker News Picks",
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can ",
-      "url": "https://news.ycombinator.com/item?id=49748553"
-    },
-    {
-      "date": "2026-09-19",
-      "subcat": "Hacker News Picks",
       "title": "OpenJev",
       "url": "https://news.ycombinator.com/item?id=49752041"
     },
@@ -514,6 +509,12 @@
       "subcat": "Other Cool Projects",
       "title": "NandhaKishorM/laya",
       "url": "https://github.com/NandhaKishorM/laya"
+    },
+    {
+      "date": "2026-09-21",
+      "subcat": "Other Cool Projects",
+      "title": "Mantitup-Org/vista",
+      "url": "https://github.com/Mantitup-Org/vista"
     }
   ]
 }
