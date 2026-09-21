@@ -81,6 +81,7 @@
     "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
     "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
     "https://dev.to/tooljet/how-to-integrate-tooljet-with-servicenow-for-enhanced-operations-1h1j",
+    "https://dev.to/valyuai/how-to-use-jev-a-practical-guide-to-typesafes-system-one-model-g5e",
     "https://dev.to/varshithvhegde/i-built-a-chat-app-that-rewrites-its-own-ui-in-real-time-21m5",
     "https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd",
     "https://dev.to/webdeveloperhyper/ai-avatar-v20-cursor-avatar-notification-avatar-voxel-avatar-4dd2",
@@ -459,12 +460,6 @@
   "recent": [
     {
       "date": "2026-09-19",
-      "subcat": "Hacker News Picks",
-      "title": "How to Write with an LLM",
-      "url": "https://news.ycombinator.com/item?id=49747070"
-    },
-    {
-      "date": "2026-09-19",
       "subcat": "AI Engineering",
       "title": "What Happens When AI Outgrows the Tests We Use to Measu",
       "url": "https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al"
@@ -516,6 +511,12 @@
       "subcat": "Hacker News Picks",
       "title": "I am often wrong",
       "url": "https://news.ycombinator.com/item?id=49777467"
+    },
+    {
+      "date": "2026-09-21",
+      "subcat": "LLMs",
+      "title": "How to Use Jev: A practical guide to TypeSafe's System ",
+      "url": "https://dev.to/valyuai/how-to-use-jev-a-practical-guide-to-typesafes-system-one-model-g5e"
     }
   ]
 }

@@ -360,6 +360,16 @@ Lessons from building with LLMs.
 - **Summary:** Part 4 of the Building the AI Memory Stack series  After finishing the previous article, I looked at...
 - **Link:** https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm
 
+**Added 2026-09-21**
+
+### [How to Use Jev: A practical guide to TypeSafe's System One model](https://dev.to/valyuai/how-to-use-jev-a-practical-guide-to-typesafes-system-one-model-g5e)
+- **Author:** Prosper Otemuyiwa | **Published:** Sep 17 | **Read time:** 15 min
+- **Community:** 110 reactions, 2 comments — a top post of the week in #llm
+- **Tags:** ai, llm, softwaredevelopment, tutorial
+- **Summary:** Jev is a frontier AI model from TypeSafe AI that returns typed, probabilistic decisions instead of...
+- **Link:** https://dev.to/valyuai/how-to-use-jev-a-practical-guide-to-typesafes-system-one-model-g5e
+
+
 ## Machine Learning
 
 **Added 2026-09-16**
