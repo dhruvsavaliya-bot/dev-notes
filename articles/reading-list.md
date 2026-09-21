@@ -1082,6 +1082,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49768336
 - **Link:** https://datagubbe.se/crt/
 
+**Added 2026-09-21**
+
+### [Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++](https://github.com/adonis-singh/re4)
+- **Source:** github.com | **Posted:** 2026-09-20 | **By:** metrofun
+- **Community:** 123 points, 72 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49778022
+- **Link:** https://github.com/adonis-singh/re4
+
 
 ## DevOps & Cloud
 
