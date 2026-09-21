@@ -205,6 +205,7 @@
     "https://github.com/lopopolo/harness-engineering",
     "https://github.com/mekos2772/ios-location-spoofer",
     "https://github.com/microsoft/skill-recorder",
+    "https://github.com/mizorewww/laya-mlx",
     "https://github.com/mshumer/Claude-of-Duty",
     "https://github.com/nateherkai/scroll-craft",
     "https://github.com/nyblnet/bento",
@@ -465,12 +466,6 @@
   "recent": [
     {
       "date": "2026-09-20",
-      "subcat": "Hacker News Picks",
-      "title": "If math is more than proof, we need to better celebrate",
-      "url": "https://news.ycombinator.com/item?id=49763928"
-    },
-    {
-      "date": "2026-09-20",
       "subcat": "Other Cool Projects",
       "title": "NandhaKishorM/laya",
       "url": "https://github.com/NandhaKishorM/laya"
@@ -522,6 +517,12 @@
       "subcat": "AI & Machine Learning",
       "title": "Player-YN/BrowserKitten",
       "url": "https://github.com/Player-YN/BrowserKitten"
+    },
+    {
+      "date": "2026-09-21",
+      "subcat": "AI & Machine Learning",
+      "title": "mizorewww/laya-mlx",
+      "url": "https://github.com/mizorewww/laya-mlx"
     }
   ]
 }

@@ -724,6 +724,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~121 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Player-YN/BrowserKitten
 
+**Added 2026-09-21**
+
+### [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx)
+- **Stats:** 2,594 stars | 140 forks | 4 open issues
+- **Language:** Python | **Created:** 2026-09-19 | **License:** Apache-2.0
+- **Topics:** apple-silicon, decision-model, inference, laya, local-ai, machine-learning
+- **What it is:** Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.
+- **Growth:** averaging ~1,297 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/mizorewww/laya-mlx
+
 
 ## Other Cool Projects
 

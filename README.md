@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**454 entries and counting** · Last updated: 2026-09-21
+**455 entries and counting** · Last updated: 2026-09-21
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 154 |
+| [Trending Projects](trending-projects/projects.md) | 155 |
 | [AI / LLM Notes](ai/notes.md) | 41 |
 | [Reading List](articles/reading-list.md) | 125 |
 | [Coding Tips](coding-tips/tips.md) | 122 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-09-21** · *AI & Machine Learning* — [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx)
 - **2026-09-21** · *AI & Machine Learning* — [Player-YN/BrowserKitten](https://github.com/Player-YN/BrowserKitten)
 - **2026-09-21** · *Hacker News Picks* — [Resident Evil 4 (GameCube)  complete byte-identical dec](https://news.ycombinator.com/item?id=49778022)
-- **2026-09-21** · *AI & Machine Learning* — [zai-org/ZCode](https://github.com/zai-org/ZCode)
 
 ## How it works
 
