@@ -704,6 +704,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~130 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/shadcn-ui/lint
 
+**Added 2026-09-21**
+
+### [zai-org/ZCode](https://github.com/zai-org/ZCode)
+- **Stats:** 4,617 stars | 1,260 forks | 11 open issues
+- **Language:** TypeScript | **Created:** 2026-09-20 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** Z.ai's coding agent harness. Powerful, intelligent, extensible.
+- **Growth:** averaging ~4,617 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/zai-org/ZCode
+
 
 ## Other Cool Projects
 

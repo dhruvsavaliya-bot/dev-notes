@@ -249,6 +249,7 @@
     "https://github.com/yjh051108/dsh-routing-suite",
     "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
     "https://github.com/yynxxxxx/Codex-X",
+    "https://github.com/zai-org/ZCode",
     "https://github.com/zhu1090093659/dsh-web",
     "https://github.com/zhu1090093659/dsh-web-ui",
     "https://news.ycombinator.com/item?id=48896600",
@@ -461,12 +462,6 @@
   ],
   "recent": [
     {
-      "date": "2026-09-19",
-      "subcat": "Web Development",
-      "title": "API Performance Testing: How to Design Realistic Tests",
-      "url": "https://dev.to/gramli/api-performance-testing-how-to-design-realistic-tests-59gn"
-    },
-    {
       "date": "2026-09-20",
       "subcat": "Other Cool Projects",
       "title": "robbietilton/Compositor",
@@ -519,6 +514,12 @@
       "subcat": "Other Cool Projects",
       "title": "TheoLeeCJ/SemIf",
       "url": "https://github.com/TheoLeeCJ/SemIf"
+    },
+    {
+      "date": "2026-09-21",
+      "subcat": "AI & Machine Learning",
+      "title": "zai-org/ZCode",
+      "url": "https://github.com/zai-org/ZCode"
     }
   ]
 }
