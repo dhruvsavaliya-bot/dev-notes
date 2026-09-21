@@ -1042,6 +1042,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49747070
 - **Link:** https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/
 
+**Added 2026-09-21**
+
+### [I am often wrong](https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html)
+- **Source:** borischerny.com | **Posted:** 2026-09-20 | **By:** bcherny
+- **Community:** 155 points, 125 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49777467
+- **Link:** https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html
+
 
 ## Beginner
 
