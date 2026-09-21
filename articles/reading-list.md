@@ -1073,6 +1073,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49763928
 - **Link:** https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/
 
+**Added 2026-09-21**
+
+### [The Effect of CRTs on Pixel Art (2024)](https://datagubbe.se/crt/)
+- **Source:** datagubbe.se | **Posted:** 2026-09-19 | **By:** tobr
+- **Community:** 177 points, 55 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49768336
+- **Link:** https://datagubbe.se/crt/
+
 
 ## DevOps & Cloud
 
