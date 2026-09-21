@@ -714,6 +714,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~4,617 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/zai-org/ZCode
 
+**Added 2026-09-21**
+
+### [Player-YN/BrowserKitten](https://github.com/Player-YN/BrowserKitten)
+- **Stats:** 2,906 stars | 10 forks | 0 open issues
+- **Language:** JavaScript | **Created:** 2026-08-28 | **License:** MIT
+- **Topics:** ai-agent, browser-agent, byok, chrome-extension, llm, pptx
+- **What it is:** Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.
+- **Growth:** averaging ~121 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/Player-YN/BrowserKitten
+
 
 ## Other Cool Projects
 
