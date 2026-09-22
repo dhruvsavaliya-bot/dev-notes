@@ -108,6 +108,15 @@ Snippets and gotchas across languages.
 - **Summary:** Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...
 - **Link:** https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg
 
+**Added 2026-09-22**
+
+### [What If Your AI Agent Never Had to Leave the Browser? (Demo 🚀)](https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g)
+- **Author:** Sylwia Laskowska | **Published:** Sep 21 | **Read time:** 8 min
+- **Community:** 75 reactions, 51 comments — a top post of the week in #typescript
+- **Tags:** ai, webdev, mcp, typescript
+- **Summary:** I haven't written anything lately because, honestly, I just didn't have the headspace for it. There...
+- **Link:** https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g
+
 
 ## Python
 

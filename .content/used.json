@@ -80,6 +80,7 @@
     "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3",
     "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
     "https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2",
+    "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g",
     "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
     "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
     "https://dev.to/tooljet/how-to-integrate-tooljet-with-servicenow-for-enhanced-operations-1h1j",
@@ -472,12 +473,6 @@
   "recent": [
     {
       "date": "2026-09-21",
-      "subcat": "AI & Machine Learning",
-      "title": "zai-org/ZCode",
-      "url": "https://github.com/zai-org/ZCode"
-    },
-    {
-      "date": "2026-09-21",
       "subcat": "Hacker News Picks",
       "title": "Resident Evil 4 (GameCube)  complete byte-identical dec",
       "url": "https://news.ycombinator.com/item?id=49778022"
@@ -529,6 +524,12 @@
       "subcat": "AI Engineering",
       "title": "Your AI Coding Agent Can Be Attacked by the Repository ",
       "url": "https://dev.to/robertadam987_/your-ai-coding-agent-can-be-attacked-by-the-repository-it-opens-ie4"
+    },
+    {
+      "date": "2026-09-22",
+      "subcat": "TypeScript",
+      "title": "What If Your AI Agent Never Had to Leave the Browser? (",
+      "url": "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g"
     }
   ]
 }
