@@ -1417,6 +1417,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~605 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/jaredpalmer/kev
 
+**Added 2026-09-22**
+
+### [Mak5er/AirCard](https://github.com/Mak5er/AirCard)
+- **Stats:** 2,511 stars | 106 forks | 20 open issues
+- **Language:** Swift | **Created:** 2026-09-16 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
+- **Growth:** averaging ~418 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/Mak5er/AirCard
+
 
 ## Web & Frontend
 

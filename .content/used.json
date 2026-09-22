@@ -124,6 +124,7 @@
     "https://github.com/MDX-Tom/gpt-5.6-instruct",
     "https://github.com/MIgHTy-alIeN/MEV-Ethereum-Trading-Bot",
     "https://github.com/MIgHTy-alIeN/ai-trader-bot",
+    "https://github.com/Mak5er/AirCard",
     "https://github.com/Mantitup-Org/vista",
     "https://github.com/MaximeRivest/riddle",
     "https://github.com/MengTo/threeui",
@@ -475,12 +476,6 @@
     {
       "date": "2026-09-21",
       "subcat": "AI & Machine Learning",
-      "title": "Player-YN/BrowserKitten",
-      "url": "https://github.com/Player-YN/BrowserKitten"
-    },
-    {
-      "date": "2026-09-21",
-      "subcat": "AI & Machine Learning",
       "title": "mizorewww/laya-mlx",
       "url": "https://github.com/mizorewww/laya-mlx"
     },
@@ -531,6 +526,12 @@
       "subcat": "Other Cool Projects",
       "title": "jaredpalmer/kev",
       "url": "https://github.com/jaredpalmer/kev"
+    },
+    {
+      "date": "2026-09-22",
+      "subcat": "Other Cool Projects",
+      "title": "Mak5er/AirCard",
+      "url": "https://github.com/Mak5er/AirCard"
     }
   ]
 }
