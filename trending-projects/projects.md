@@ -1407,6 +1407,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~537 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/TheoLeeCJ/SemIf
 
+**Added 2026-09-22**
+
+### [jaredpalmer/kev](https://github.com/jaredpalmer/kev)
+- **Stats:** 3,026 stars | 146 forks | 6 open issues
+- **Language:** Python | **Created:** 2026-09-17 | **License:** Apache-2.0
+- **Topics:** decision-model, jev, qwen3
+- **What it is:** tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own
+- **Growth:** averaging ~605 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/jaredpalmer/kev
+
 
 ## Web & Frontend
 
