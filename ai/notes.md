@@ -330,6 +330,15 @@ Lessons from building with LLMs.
 - **Summary:** On September 15, India — along with Sri Lanka and Tanzania — celebrates Engineer's Day, marking the...
 - **Link:** https://dev.to/dj29/ai-didnt-remove-the-engineering-work-it-just-made-it-easier-to-pretend-you-did-42m9
 
+**Added 2026-09-22**
+
+### [Your AI Coding Agent Can Be Attacked by the Repository It Opens](https://dev.to/robertadam987_/your-ai-coding-agent-can-be-attacked-by-the-repository-it-opens-ie4)
+- **Author:** Robert Adamson | **Published:** Sep 19 | **Read time:** 5 min
+- **Community:** 54 reactions, 33 comments — a top post of the week in #ai
+- **Tags:** security, programming, ai, discuss
+- **Summary:** Most developers already know this rule:    Don't run code from a repository you don't...
+- **Link:** https://dev.to/robertadam987_/your-ai-coding-agent-can-be-attacked-by-the-repository-it-opens-ie4
+
 
 ## LLMs
 

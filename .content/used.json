@@ -68,6 +68,7 @@
     "https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk",
     "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9",
     "https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o",
+    "https://dev.to/robertadam987_/your-ai-coding-agent-can-be-attacked-by-the-repository-it-opens-ie4",
     "https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh",
     "https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n",
     "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
@@ -471,12 +472,6 @@
   "recent": [
     {
       "date": "2026-09-21",
-      "subcat": "Other Cool Projects",
-      "title": "TheoLeeCJ/SemIf",
-      "url": "https://github.com/TheoLeeCJ/SemIf"
-    },
-    {
-      "date": "2026-09-21",
       "subcat": "AI & Machine Learning",
       "title": "zai-org/ZCode",
       "url": "https://github.com/zai-org/ZCode"
@@ -528,6 +523,12 @@
       "subcat": "Hacker News Picks",
       "title": "NASAs Mars Sample Return mission is dead",
       "url": "https://news.ycombinator.com/item?id=49791939"
+    },
+    {
+      "date": "2026-09-22",
+      "subcat": "AI Engineering",
+      "title": "Your AI Coding Agent Can Be Attacked by the Repository ",
+      "url": "https://dev.to/robertadam987_/your-ai-coding-agent-can-be-attacked-by-the-repository-it-opens-ie4"
     }
   ]
 }
