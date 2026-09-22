@@ -463,15 +463,10 @@
     "https://news.ycombinator.com/item?id=49768336",
     "https://news.ycombinator.com/item?id=49777467",
     "https://news.ycombinator.com/item?id=49778022",
-    "https://news.ycombinator.com/item?id=49783999"
+    "https://news.ycombinator.com/item?id=49783999",
+    "https://news.ycombinator.com/item?id=49794330"
   ],
   "recent": [
-    {
-      "date": "2026-09-21",
-      "subcat": "Hacker News Picks",
-      "title": "I am often wrong",
-      "url": "https://news.ycombinator.com/item?id=49777467"
-    },
     {
       "date": "2026-09-21",
       "subcat": "LLMs",
@@ -525,6 +520,12 @@
       "subcat": "Hacker News Picks",
       "title": "Kev: Tiny Jev-like family of decision models built on t",
       "url": "https://news.ycombinator.com/item?id=49783999"
+    },
+    {
+      "date": "2026-09-22",
+      "subcat": "Hacker News Picks",
+      "title": "I don't want to read what you didn't write",
+      "url": "https://news.ycombinator.com/item?id=49794330"
     }
   ]
 }

@@ -1091,6 +1091,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49778022
 - **Link:** https://github.com/adonis-singh/re4
 
+**Added 2026-09-22**
+
+### [I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
+- **Source:** blog.colinbreck.com | **Posted:** 2026-09-21 | **By:** mooreds
+- **Community:** 525 points, 188 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49794330
+- **Link:** https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/
+
 
 ## DevOps & Cloud
 
