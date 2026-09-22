@@ -16,6 +16,7 @@
     "https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635",
     "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
     "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh",
+    "https://dev.to/danielhe4rt/youre-not-an-impostor-you-just-started-from-a-different-line-2lph",
     "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1",
     "https://dev.to/dev_kiran/shift-left-code-review-how-qodo-turns-your-coding-agent-into-its-own-first-reviewer-58fc",
     "https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9",
@@ -465,12 +466,6 @@
   ],
   "recent": [
     {
-      "date": "2026-09-20",
-      "subcat": "Other Cool Projects",
-      "title": "NandhaKishorM/laya",
-      "url": "https://github.com/NandhaKishorM/laya"
-    },
-    {
       "date": "2026-09-21",
       "subcat": "Other Cool Projects",
       "title": "Mantitup-Org/vista",
@@ -523,6 +518,12 @@
       "subcat": "AI & Machine Learning",
       "title": "mizorewww/laya-mlx",
       "url": "https://github.com/mizorewww/laya-mlx"
+    },
+    {
+      "date": "2026-09-22",
+      "subcat": "Beginner",
+      "title": "You're not an impostor, you just started from a differe",
+      "url": "https://dev.to/danielhe4rt/youre-not-an-impostor-you-just-started-from-a-different-line-2lph"
     }
   ]
 }

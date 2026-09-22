@@ -1107,3 +1107,12 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Tags:** discuss, aws, beginners, agents
 - **Summary:** TL;DR  I recently finished a project from Udacity's Future AWS Agent Engineer Nanodegree Program,...
 - **Link:** https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg
+
+**Added 2026-09-22**
+
+### [You're not an impostor, you just started from a different line](https://dev.to/danielhe4rt/youre-not-an-impostor-you-just-started-from-a-different-line-2lph)
+- **Author:** Daniel Reis | **Published:** Sep 21 | **Read time:** 8 min
+- **Community:** 120 reactions, 1 comments — a top post of the week in #beginners
+- **Tags:** career, discuss, beginners, braziliandevs
+- **Summary:** If you've ever felt like a fraud in an interview in English, this is probably what you need to...
+- **Link:** https://dev.to/danielhe4rt/youre-not-an-impostor-you-just-started-from-a-different-line-2lph

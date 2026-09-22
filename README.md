@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**455 entries and counting** · Last updated: 2026-09-21
+**456 entries and counting** · Last updated: 2026-09-22
 
 ## Categories
 
@@ -12,14 +12,14 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 | [Trending Projects](trending-projects/projects.md) | 155 |
 | [AI / LLM Notes](ai/notes.md) | 41 |
 | [Reading List](articles/reading-list.md) | 125 |
-| [Coding Tips](coding-tips/tips.md) | 122 |
+| [Coding Tips](coding-tips/tips.md) | 123 |
 | [Language Notes](languages/notes.md) | 12 |
 
 ## Latest additions
 
+- **2026-09-22** · *Beginner* — [You're not an impostor, you just started from a differe](https://dev.to/danielhe4rt/youre-not-an-impostor-you-just-started-from-a-different-line-2lph)
 - **2026-09-21** · *AI & Machine Learning* — [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx)
 - **2026-09-21** · *AI & Machine Learning* — [Player-YN/BrowserKitten](https://github.com/Player-YN/BrowserKitten)
-- **2026-09-21** · *Hacker News Picks* — [Resident Evil 4 (GameCube)  complete byte-identical dec](https://news.ycombinator.com/item?id=49778022)
 
 ## How it works
 
