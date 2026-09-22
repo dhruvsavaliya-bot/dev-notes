@@ -1051,6 +1051,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49777467
 - **Link:** https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html
 
+**Added 2026-09-22**
+
+### [Kev: Tiny Jev-like family of decision models built on top of Qwen3.5](https://github.com/jaredpalmer/kev/tree/main)
+- **Source:** github.com | **Posted:** 2026-09-21 | **By:** tosh
+- **Community:** 422 points, 191 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49783999
+- **Link:** https://github.com/jaredpalmer/kev/tree/main
+
 
 ## Beginner
 

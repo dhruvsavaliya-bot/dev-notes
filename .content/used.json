@@ -462,15 +462,10 @@
     "https://news.ycombinator.com/item?id=49766966",
     "https://news.ycombinator.com/item?id=49768336",
     "https://news.ycombinator.com/item?id=49777467",
-    "https://news.ycombinator.com/item?id=49778022"
+    "https://news.ycombinator.com/item?id=49778022",
+    "https://news.ycombinator.com/item?id=49783999"
   ],
   "recent": [
-    {
-      "date": "2026-09-21",
-      "subcat": "Other Cool Projects",
-      "title": "Mantitup-Org/vista",
-      "url": "https://github.com/Mantitup-Org/vista"
-    },
     {
       "date": "2026-09-21",
       "subcat": "Hacker News Picks",
@@ -524,6 +519,12 @@
       "subcat": "Beginner",
       "title": "You're not an impostor, you just started from a differe",
       "url": "https://dev.to/danielhe4rt/youre-not-an-impostor-you-just-started-from-a-different-line-2lph"
+    },
+    {
+      "date": "2026-09-22",
+      "subcat": "Hacker News Picks",
+      "title": "Kev: Tiny Jev-like family of decision models built on t",
+      "url": "https://news.ycombinator.com/item?id=49783999"
     }
   ]
 }
