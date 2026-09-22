@@ -465,15 +465,10 @@
     "https://news.ycombinator.com/item?id=49777467",
     "https://news.ycombinator.com/item?id=49778022",
     "https://news.ycombinator.com/item?id=49783999",
+    "https://news.ycombinator.com/item?id=49791939",
     "https://news.ycombinator.com/item?id=49794330"
   ],
   "recent": [
-    {
-      "date": "2026-09-21",
-      "subcat": "Hacker News Picks",
-      "title": "The Effect of CRTs on Pixel Art (2024)",
-      "url": "https://news.ycombinator.com/item?id=49768336"
-    },
     {
       "date": "2026-09-21",
       "subcat": "Other Cool Projects",
@@ -527,6 +522,12 @@
       "subcat": "Hacker News Picks",
       "title": "Divide by depth for instant 3D",
       "url": "https://news.ycombinator.com/item?id=49769561"
+    },
+    {
+      "date": "2026-09-22",
+      "subcat": "Hacker News Picks",
+      "title": "NASAs Mars Sample Return mission is dead",
+      "url": "https://news.ycombinator.com/item?id=49791939"
     }
   ]
 }

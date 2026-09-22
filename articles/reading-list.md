@@ -1100,6 +1100,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49794330
 - **Link:** https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/
 
+**Added 2026-09-22**
+
+### [NASA’s Mars Sample Return mission is dead](https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead)
+- **Source:** www.science.org | **Posted:** 2026-09-21 | **By:** Muhammad523
+- **Community:** 380 points, 315 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49791939
+- **Link:** https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead
+
 
 ## DevOps & Cloud
 
