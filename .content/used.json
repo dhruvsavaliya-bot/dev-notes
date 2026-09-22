@@ -461,18 +461,13 @@
     "https://news.ycombinator.com/item?id=49763928",
     "https://news.ycombinator.com/item?id=49766966",
     "https://news.ycombinator.com/item?id=49768336",
+    "https://news.ycombinator.com/item?id=49769561",
     "https://news.ycombinator.com/item?id=49777467",
     "https://news.ycombinator.com/item?id=49778022",
     "https://news.ycombinator.com/item?id=49783999",
     "https://news.ycombinator.com/item?id=49794330"
   ],
   "recent": [
-    {
-      "date": "2026-09-21",
-      "subcat": "LLMs",
-      "title": "How to Use Jev: A practical guide to TypeSafe's System ",
-      "url": "https://dev.to/valyuai/how-to-use-jev-a-practical-guide-to-typesafes-system-one-model-g5e"
-    },
     {
       "date": "2026-09-21",
       "subcat": "Hacker News Picks",
@@ -526,6 +521,12 @@
       "subcat": "Hacker News Picks",
       "title": "I don't want to read what you didn't write",
       "url": "https://news.ycombinator.com/item?id=49794330"
+    },
+    {
+      "date": "2026-09-22",
+      "subcat": "Hacker News Picks",
+      "title": "Divide by depth for instant 3D",
+      "url": "https://news.ycombinator.com/item?id=49769561"
     }
   ]
 }

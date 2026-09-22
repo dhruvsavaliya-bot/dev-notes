@@ -1060,6 +1060,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49783999
 - **Link:** https://github.com/jaredpalmer/kev/tree/main
 
+**Added 2026-09-22**
+
+### [Divide by depth for instant 3D](https://gabrieloc.com/2026/09/15/perspective.html)
+- **Source:** gabrieloc.com | **Posted:** 2026-09-19 | **By:** gabrieloc
+- **Community:** 132 points, 23 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49769561
+- **Link:** https://gabrieloc.com/2026/09/15/perspective.html
+
 
 ## Beginner
 
