@@ -734,6 +734,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1,297 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/mizorewww/laya-mlx
 
+**Added 2026-09-23**
+
+### [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)
+- **Stats:** 4,382 stars | 913 forks | 38 open issues
+- **Language:** Kotlin | **Created:** 2026-09-21 | **License:** MIT
+- **Topics:** accessibility-service, android, chat-assistant, llm, qq, wechat
+- **What it is:** 装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
+- **Growth:** averaging ~2,191 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/jev-chat/jev-chat-jarvis
+
 
 ## Other Cool Projects
 
