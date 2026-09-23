@@ -1109,6 +1109,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49791939
 - **Link:** https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead
 
+**Added 2026-09-23**
+
+### [Obscura: VPN that can't log your activity](https://obscura.com/#faq-technical)
+- **Source:** obscura.com | **Posted:** 2026-09-22 | **By:** Flimm
+- **Community:** 156 points, 119 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49807003
+- **Link:** https://obscura.com/#faq-technical
+
 
 ## DevOps & Cloud
 
