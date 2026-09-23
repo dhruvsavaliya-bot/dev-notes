@@ -1078,6 +1078,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49808023
 - **Link:** https://foxscript.org/
 
+**Added 2026-09-23**
+
+### [People hooked on vapes try a new way to quit: cigarettes](https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke)
+- **Source:** www.bloomberg.com | **Posted:** 2026-09-22 | **By:** alephnerd
+- **Community:** 175 points, 191 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49795686
+- **Link:** https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke
+
 
 ## Beginner
 
