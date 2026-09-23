@@ -339,6 +339,15 @@ Lessons from building with LLMs.
 - **Summary:** Most developers already know this rule:    Don't run code from a repository you don't...
 - **Link:** https://dev.to/robertadam987_/your-ai-coding-agent-can-be-attacked-by-the-repository-it-opens-ie4
 
+**Added 2026-09-23**
+
+### [Two Weeks In: A 15-Year QA Veteran, Back to Being the New Guy](https://dev.to/xulingfeng/two-weeks-in-a-15-year-qa-veteran-back-to-being-the-new-guy-39g3)
+- **Author:** xulingfeng | **Published:** Sep 22 | **Read time:** 6 min
+- **Community:** 76 reactions, 53 comments — a top post of the week in #ai
+- **Tags:** discuss, career, testing, ai
+- **Summary:** I started last Monday. Today it's been exactly two weeks.  Here's the funny part. I've spent 15...
+- **Link:** https://dev.to/xulingfeng/two-weeks-in-a-15-year-qa-veteran-back-to-being-the-new-guy-39g3
+
 
 ## LLMs
 

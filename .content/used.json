@@ -101,6 +101,7 @@
     "https://dev.to/xulingfeng/stratagems-25-derek-changed-the-delay-the-ai-didnt-flinch-28ca",
     "https://dev.to/xulingfeng/stratagems-30-lena-signed-the-client-the-ai-didnt-know-it-was-being-audited-3985",
     "https://dev.to/xulingfeng/stratagems-9-lena-and-p-watched-two-ai-suppliers-fight-the-logs-said-neither-was-clean-2pj3",
+    "https://dev.to/xulingfeng/two-weeks-in-a-15-year-qa-veteran-back-to-being-the-new-guy-39g3",
     "https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9",
     "https://github.com/Albert-Weasker/niubigeo",
     "https://github.com/AlephAITech/WorkBuddyGuide",
@@ -479,12 +480,6 @@
     {
       "date": "2026-09-22",
       "subcat": "Hacker News Picks",
-      "title": "I don't want to read what you didn't write",
-      "url": "https://news.ycombinator.com/item?id=49794330"
-    },
-    {
-      "date": "2026-09-22",
-      "subcat": "Hacker News Picks",
       "title": "Divide by depth for instant 3D",
       "url": "https://news.ycombinator.com/item?id=49769561"
     },
@@ -535,6 +530,12 @@
       "subcat": "Hacker News Picks",
       "title": "People hooked on vapes try a new way to quit: cigarette",
       "url": "https://news.ycombinator.com/item?id=49795686"
+    },
+    {
+      "date": "2026-09-23",
+      "subcat": "AI Engineering",
+      "title": "Two Weeks In: A 15-Year QA Veteran, Back to Being the N",
+      "url": "https://dev.to/xulingfeng/two-weeks-in-a-15-year-qa-veteran-back-to-being-the-new-guy-39g3"
     }
   ]
 }
