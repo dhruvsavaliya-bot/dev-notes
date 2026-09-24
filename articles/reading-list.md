@@ -1118,6 +1118,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49807003
 - **Link:** https://obscura.com/#faq-technical
 
+**Added 2026-09-24**
+
+### [Meta VR Glasses](https://www.meta.com/vr-glasses/)
+- **Source:** www.meta.com | **Posted:** 2026-09-23 | **By:** polymorph1sm
+- **Community:** 307 points, 267 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49824268
+- **Link:** https://www.meta.com/vr-glasses/
+
 
 ## DevOps & Cloud
 

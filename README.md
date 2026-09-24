@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**469 entries and counting** · Last updated: 2026-09-23
+**470 entries and counting** · Last updated: 2026-09-24
 
 ## Categories
 
@@ -11,15 +11,15 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 158 |
 | [AI / LLM Notes](ai/notes.md) | 43 |
-| [Reading List](articles/reading-list.md) | 128 |
+| [Reading List](articles/reading-list.md) | 129 |
 | [Coding Tips](coding-tips/tips.md) | 127 |
 | [Language Notes](languages/notes.md) | 13 |
 
 ## Latest additions
 
+- **2026-09-24** · *Hacker News Picks* — [Meta VR Glasses](https://news.ycombinator.com/item?id=49824268)
 - **2026-09-23** · *Hacker News Picks* — [Obscura: VPN that can't log your activity](https://news.ycombinator.com/item?id=49807003)
 - **2026-09-23** · *AI Engineering* — [Two Weeks In: A 15-Year QA Veteran, Back to Being the N](https://dev.to/xulingfeng/two-weeks-in-a-15-year-qa-veteran-back-to-being-the-new-guy-39g3)
-- **2026-09-23** · *Hacker News Picks* — [People hooked on vapes try a new way to quit: cigarette](https://news.ycombinator.com/item?id=49795686)
 
 ## How it works
 
