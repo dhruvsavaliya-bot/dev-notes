@@ -1127,6 +1127,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49824268
 - **Link:** https://www.meta.com/vr-glasses/
 
+**Added 2026-09-24**
+
+### [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
+- **Source:** www.qualcomm.com | **Posted:** 2026-09-23 | **By:** aaronday
+- **Community:** 276 points, 126 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49823582
+- **Link:** https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux
+
 
 ## DevOps & Cloud
 

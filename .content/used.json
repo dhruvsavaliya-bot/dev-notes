@@ -476,15 +476,10 @@
     "https://news.ycombinator.com/item?id=49795686",
     "https://news.ycombinator.com/item?id=49807003",
     "https://news.ycombinator.com/item?id=49808023",
+    "https://news.ycombinator.com/item?id=49823582",
     "https://news.ycombinator.com/item?id=49824268"
   ],
   "recent": [
-    {
-      "date": "2026-09-22",
-      "subcat": "AI Engineering",
-      "title": "Your AI Coding Agent Can Be Attacked by the Repository ",
-      "url": "https://dev.to/robertadam987_/your-ai-coding-agent-can-be-attacked-by-the-repository-it-opens-ie4"
-    },
     {
       "date": "2026-09-22",
       "subcat": "TypeScript",
@@ -538,6 +533,12 @@
       "subcat": "Hacker News Picks",
       "title": "Meta VR Glasses",
       "url": "https://news.ycombinator.com/item?id=49824268"
+    },
+    {
+      "date": "2026-09-24",
+      "subcat": "Hacker News Picks",
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "url": "https://news.ycombinator.com/item?id=49823582"
     }
   ]
 }
