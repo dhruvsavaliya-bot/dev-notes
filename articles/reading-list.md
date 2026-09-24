@@ -1136,6 +1136,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49823582
 - **Link:** https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux
 
+**Added 2026-09-24**
+
+### [Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest](https://github.com/nestrilabs/virtio-nvgpu)
+- **Source:** github.com | **Posted:** 2026-09-24 | **By:** WanjohiRyan
+- **Community:** 116 points, 48 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49824864
+- **Link:** https://github.com/nestrilabs/virtio-nvgpu
+
 
 ## DevOps & Cloud
 

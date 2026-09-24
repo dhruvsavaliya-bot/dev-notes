@@ -481,15 +481,10 @@
     "https://news.ycombinator.com/item?id=49807003",
     "https://news.ycombinator.com/item?id=49808023",
     "https://news.ycombinator.com/item?id=49823582",
-    "https://news.ycombinator.com/item?id=49824268"
+    "https://news.ycombinator.com/item?id=49824268",
+    "https://news.ycombinator.com/item?id=49824864"
   ],
   "recent": [
-    {
-      "date": "2026-09-23",
-      "subcat": "Hacker News Picks",
-      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro ",
-      "url": "https://news.ycombinator.com/item?id=49808023"
-    },
     {
       "date": "2026-09-23",
       "subcat": "Hacker News Picks",
@@ -543,6 +538,12 @@
       "subcat": "AI Engineering",
       "title": "We All Have a \"Serious Work\" AI and a \"Just Vibing\" AI.",
       "url": "https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2"
+    },
+    {
+      "date": "2026-09-24",
+      "subcat": "Hacker News Picks",
+      "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KV",
+      "url": "https://news.ycombinator.com/item?id=49824864"
     }
   ]
 }
