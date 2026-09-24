@@ -1087,6 +1087,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49795686
 - **Link:** https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke
 
+**Added 2026-09-24**
+
+### [The mystery animal on an ancient god's head](https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/)
+- **Source:** signoregalilei.com | **Posted:** 2026-09-22 | **By:** surprisetalk
+- **Community:** 100 points, 27 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49799855
+- **Link:** https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/
+
 
 ## Beginner
 
