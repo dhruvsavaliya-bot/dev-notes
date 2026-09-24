@@ -744,6 +744,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~2,191 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/jev-chat/jev-chat-jarvis
 
+**Added 2026-09-24**
+
+### [mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless)
+- **Stats:** 2,487 stars | 1,855 forks | 15 open issues
+- **Language:** Python | **Created:** 2026-09-15 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.
+- **Growth:** averaging ~276 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/mcncarl/jianying-headless
+
 
 ## Other Cool Projects
 

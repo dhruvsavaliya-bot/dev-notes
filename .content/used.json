@@ -210,6 +210,7 @@
     "https://github.com/langchain-ai/openwiki",
     "https://github.com/lnkiai/m3e-canvas",
     "https://github.com/lopopolo/harness-engineering",
+    "https://github.com/mcncarl/jianying-headless",
     "https://github.com/mekos2772/ios-location-spoofer",
     "https://github.com/microsoft/skill-recorder",
     "https://github.com/mizorewww/laya-mlx",
@@ -482,12 +483,6 @@
   "recent": [
     {
       "date": "2026-09-22",
-      "subcat": "TypeScript",
-      "title": "What If Your AI Agent Never Had to Leave the Browser? (",
-      "url": "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g"
-    },
-    {
-      "date": "2026-09-22",
       "subcat": "Other Cool Projects",
       "title": "jaredpalmer/kev",
       "url": "https://github.com/jaredpalmer/kev"
@@ -539,6 +534,12 @@
       "subcat": "Hacker News Picks",
       "title": "Linux support is coming to Snapdragon X2 Series",
       "url": "https://news.ycombinator.com/item?id=49823582"
+    },
+    {
+      "date": "2026-09-24",
+      "subcat": "AI & Machine Learning",
+      "title": "mcncarl/jianying-headless",
+      "url": "https://github.com/mcncarl/jianying-headless"
     }
   ]
 }

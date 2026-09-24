@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**471 entries and counting** · Last updated: 2026-09-24
+**472 entries and counting** · Last updated: 2026-09-24
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 158 |
+| [Trending Projects](trending-projects/projects.md) | 159 |
 | [AI / LLM Notes](ai/notes.md) | 43 |
 | [Reading List](articles/reading-list.md) | 130 |
 | [Coding Tips](coding-tips/tips.md) | 127 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-09-24** · *AI & Machine Learning* — [mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless)
 - **2026-09-24** · *Hacker News Picks* — [Linux support is coming to Snapdragon X2 Series](https://news.ycombinator.com/item?id=49823582)
 - **2026-09-24** · *Hacker News Picks* — [Meta VR Glasses](https://news.ycombinator.com/item?id=49824268)
-- **2026-09-23** · *Hacker News Picks* — [Obscura: VPN that can't log your activity](https://news.ycombinator.com/item?id=49807003)
 
 ## How it works
 
