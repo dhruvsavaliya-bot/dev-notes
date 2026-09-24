@@ -142,6 +142,7 @@
     "https://github.com/Sahir619/fable-method",
     "https://github.com/Shpigford/knockoff",
     "https://github.com/TheoLeeCJ/SemIf",
+    "https://github.com/TheoLeeCJ/SemIf-OpenJev",
     "https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6",
     "https://github.com/Vincentwei1021/video-shotcraft",
     "https://github.com/Waishnav/devspace",
@@ -484,12 +485,6 @@
     {
       "date": "2026-09-22",
       "subcat": "Other Cool Projects",
-      "title": "jaredpalmer/kev",
-      "url": "https://github.com/jaredpalmer/kev"
-    },
-    {
-      "date": "2026-09-22",
-      "subcat": "Other Cool Projects",
       "title": "Mak5er/AirCard",
       "url": "https://github.com/Mak5er/AirCard"
     },
@@ -540,6 +535,12 @@
       "subcat": "AI & Machine Learning",
       "title": "mcncarl/jianying-headless",
       "url": "https://github.com/mcncarl/jianying-headless"
+    },
+    {
+      "date": "2026-09-24",
+      "subcat": "Other Cool Projects",
+      "title": "TheoLeeCJ/SemIf-OpenJev",
+      "url": "https://github.com/TheoLeeCJ/SemIf-OpenJev"
     }
   ]
 }

@@ -1447,6 +1447,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~418 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Mak5er/AirCard
 
+**Added 2026-09-24**
+
+### [TheoLeeCJ/SemIf-OpenJev](https://github.com/TheoLeeCJ/SemIf-OpenJev)
+- **Stats:** 4,148 stars | 277 forks | 27 open issues
+- **Language:** Python | **Created:** 2026-09-16 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.
+- **Growth:** averaging ~518 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/TheoLeeCJ/SemIf-OpenJev
+
 
 ## Web & Frontend
 
