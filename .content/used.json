@@ -23,6 +23,7 @@
     "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
     "https://dev.to/dj29/5-devto-features-i-wish-existed-3-im-genuinely-relieved-they-dont-3b8n",
     "https://dev.to/dj29/ai-didnt-remove-the-engineering-work-it-just-made-it-easier-to-pretend-you-did-42m9",
+    "https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2",
     "https://dev.to/francistrdev/choose-your-burden-4dgl",
     "https://dev.to/francistrdev/git-gud-4e6g",
     "https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p",
@@ -485,12 +486,6 @@
   "recent": [
     {
       "date": "2026-09-23",
-      "subcat": "AI & Machine Learning",
-      "title": "jev-chat/jev-chat-jarvis",
-      "url": "https://github.com/jev-chat/jev-chat-jarvis"
-    },
-    {
-      "date": "2026-09-23",
       "subcat": "Hacker News Picks",
       "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro ",
       "url": "https://news.ycombinator.com/item?id=49808023"
@@ -542,6 +537,12 @@
       "subcat": "Hacker News Picks",
       "title": "The mystery animal on an ancient god's head",
       "url": "https://news.ycombinator.com/item?id=49799855"
+    },
+    {
+      "date": "2026-09-24",
+      "subcat": "AI Engineering",
+      "title": "We All Have a \"Serious Work\" AI and a \"Just Vibing\" AI.",
+      "url": "https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2"
     }
   ]
 }

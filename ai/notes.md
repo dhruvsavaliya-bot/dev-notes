@@ -348,6 +348,15 @@ Lessons from building with LLMs.
 - **Summary:** I started last Monday. Today it's been exactly two weeks.  Here's the funny part. I've spent 15...
 - **Link:** https://dev.to/xulingfeng/two-weeks-in-a-15-year-qa-veteran-back-to-being-the-new-guy-39g3
 
+**Added 2026-09-24**
+
+### [We All Have a "Serious Work" AI and a "Just Vibing" AI. When Did That Happen?](https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2)
+- **Author:** Dhruv Jani | **Published:** Sep 22 | **Read time:** 4 min
+- **Community:** 61 reactions, 29 comments — a top post of the week in #ai
+- **Tags:** discuss, ai, gemini, antigravity
+- **Summary:** Hi Guys!!! As you know I wasn't good for well, a week and Now.....   Let's Dive In!!!  I never...
+- **Link:** https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2
+
 
 ## LLMs
 
