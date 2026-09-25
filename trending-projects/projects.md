@@ -1457,6 +1457,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~518 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/TheoLeeCJ/SemIf-OpenJev
 
+**Added 2026-09-25**
+
+### [yi1108/printfilm](https://github.com/yi1108/printfilm)
+- **Stats:** 2,622 stars | 243 forks | 1 open issues
+- **Language:** Python | **Created:** 2026-09-10 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** PRINTFILM：AI 视频获客与 AI短剧创作平台
+- **Growth:** averaging ~174 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/yi1108/printfilm
+
 
 ## Web & Frontend
 

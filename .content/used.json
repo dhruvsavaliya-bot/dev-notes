@@ -259,6 +259,7 @@
     "https://github.com/yanliudesign/mono-color-skill",
     "https://github.com/yc-software/qm",
     "https://github.com/yetone/cumora",
+    "https://github.com/yi1108/printfilm",
     "https://github.com/yjh051108/dsh-routing-suite",
     "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
     "https://github.com/yynxxxxx/Codex-X",
@@ -488,12 +489,6 @@
   "recent": [
     {
       "date": "2026-09-23",
-      "subcat": "AI Engineering",
-      "title": "Two Weeks In: A 15-Year QA Veteran, Back to Being the N",
-      "url": "https://dev.to/xulingfeng/two-weeks-in-a-15-year-qa-veteran-back-to-being-the-new-guy-39g3"
-    },
-    {
-      "date": "2026-09-23",
       "subcat": "Hacker News Picks",
       "title": "Obscura: VPN that can't log your activity",
       "url": "https://news.ycombinator.com/item?id=49807003"
@@ -545,6 +540,12 @@
       "subcat": "Python",
       "title": "i built a green blob that lives on my desktop. now it h",
       "url": "https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd"
+    },
+    {
+      "date": "2026-09-25",
+      "subcat": "Other Cool Projects",
+      "title": "yi1108/printfilm",
+      "url": "https://github.com/yi1108/printfilm"
     }
   ]
 }
