@@ -476,6 +476,7 @@
     "https://news.ycombinator.com/item?id=49777467",
     "https://news.ycombinator.com/item?id=49778022",
     "https://news.ycombinator.com/item?id=49783999",
+    "https://news.ycombinator.com/item?id=49787759",
     "https://news.ycombinator.com/item?id=49791939",
     "https://news.ycombinator.com/item?id=49794330",
     "https://news.ycombinator.com/item?id=49795686",
@@ -487,12 +488,6 @@
     "https://news.ycombinator.com/item?id=49824864"
   ],
   "recent": [
-    {
-      "date": "2026-09-23",
-      "subcat": "Hacker News Picks",
-      "title": "Obscura: VPN that can't log your activity",
-      "url": "https://news.ycombinator.com/item?id=49807003"
-    },
     {
       "date": "2026-09-24",
       "subcat": "Hacker News Picks",
@@ -546,6 +541,12 @@
       "subcat": "Other Cool Projects",
       "title": "yi1108/printfilm",
       "url": "https://github.com/yi1108/printfilm"
+    },
+    {
+      "date": "2026-09-25",
+      "subcat": "Hacker News Picks",
+      "title": "Book review: Is parallel programming hard, and, if so, ",
+      "url": "https://news.ycombinator.com/item?id=49787759"
     }
   ]
 }

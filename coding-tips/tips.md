@@ -1096,6 +1096,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49799855
 - **Link:** https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/
 
+**Added 2026-09-25**
+
+### [Book review: Is parallel programming hard, and, if so, what can you do about it?](https://ahelwer.ca/post/2026-09-21-concurrency-textbook/)
+- **Source:** ahelwer.ca | **Posted:** 2026-09-21 | **By:** ahelwer
+- **Community:** 119 points, 49 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49787759
+- **Link:** https://ahelwer.ca/post/2026-09-21-concurrency-textbook/
+
 
 ## Beginner
 
