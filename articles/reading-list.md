@@ -1163,6 +1163,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49805344
 - **Link:** https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/
 
+**Added 2026-09-25**
+
+### [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
+- **Source:** f-droid.org | **Posted:** 2026-09-24 | **By:** daveoc64
+- **Community:** 1297 points, 372 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49831968
+- **Link:** https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html
+
 
 ## DevOps & Cloud
 

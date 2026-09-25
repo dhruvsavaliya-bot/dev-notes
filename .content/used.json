@@ -487,15 +487,10 @@
     "https://news.ycombinator.com/item?id=49808023",
     "https://news.ycombinator.com/item?id=49823582",
     "https://news.ycombinator.com/item?id=49824268",
-    "https://news.ycombinator.com/item?id=49824864"
+    "https://news.ycombinator.com/item?id=49824864",
+    "https://news.ycombinator.com/item?id=49831968"
   ],
   "recent": [
-    {
-      "date": "2026-09-24",
-      "subcat": "AI & Machine Learning",
-      "title": "mcncarl/jianying-headless",
-      "url": "https://github.com/mcncarl/jianying-headless"
-    },
     {
       "date": "2026-09-24",
       "subcat": "Other Cool Projects",
@@ -549,6 +544,12 @@
       "subcat": "Hacker News Picks",
       "title": "My weird new hobby: Wandering around Tokyo on Google Ma",
       "url": "https://news.ycombinator.com/item?id=49805344"
+    },
+    {
+      "date": "2026-09-25",
+      "subcat": "Hacker News Picks",
+      "title": "F-Droid 2.0",
+      "url": "https://news.ycombinator.com/item?id=49831968"
     }
   ]
 }
