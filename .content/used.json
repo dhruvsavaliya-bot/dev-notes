@@ -56,6 +56,7 @@
     "https://dev.to/kenwalger/the-verification-bottleneck-in-ai-generated-software-3p7l",
     "https://dev.to/konark_13/vibe-coding-endgame-3bbn",
     "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
+    "https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd",
     "https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h",
     "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
     "https://dev.to/nazar-boyko/has-ai-made-you-a-lazier-developer-be-honest-5ack",
@@ -487,12 +488,6 @@
   "recent": [
     {
       "date": "2026-09-23",
-      "subcat": "Hacker News Picks",
-      "title": "People hooked on vapes try a new way to quit: cigarette",
-      "url": "https://news.ycombinator.com/item?id=49795686"
-    },
-    {
-      "date": "2026-09-23",
       "subcat": "AI Engineering",
       "title": "Two Weeks In: A 15-Year QA Veteran, Back to Being the N",
       "url": "https://dev.to/xulingfeng/two-weeks-in-a-15-year-qa-veteran-back-to-being-the-new-guy-39g3"
@@ -544,6 +539,12 @@
       "subcat": "Hacker News Picks",
       "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KV",
       "url": "https://news.ycombinator.com/item?id=49824864"
+    },
+    {
+      "date": "2026-09-25",
+      "subcat": "Python",
+      "title": "i built a green blob that lives on my desktop. now it h",
+      "url": "https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd"
     }
   ]
 }

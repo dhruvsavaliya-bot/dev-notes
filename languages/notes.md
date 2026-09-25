@@ -128,3 +128,12 @@ Snippets and gotchas across languages.
 - **Tags:** rust, python, tutorial, javascript
 - **Summary:** Hello, fellow version-bumping enthusiasts, sleep-deprived Rustaceans, and accidental software...
 - **Link:** https://dev.to/wiseai/i-built-a-version-bump-tool-in-rust-that-is-10000x-faster-than-its-python-counterparts-i6b
+
+**Added 2026-09-25**
+
+### [i built a green blob that lives on my desktop. now it has feelings.](https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd)
+- **Author:** Mika Flowers | **Published:** Sep 20 | **Read time:** 6 min
+- **Community:** 86 reactions, 28 comments — a top post of the week in #python
+- **Tags:** showdev, python, linux, opensource
+- **Summary:** A quick disclaimer before we dive in: when I say "feelings," I mean state machines, bond...
+- **Link:** https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd
