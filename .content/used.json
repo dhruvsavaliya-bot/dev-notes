@@ -67,6 +67,7 @@
     "https://dev.to/nyaomaru/learn-number-of-islands-invert-binary-tree-and-course-schedule-with-step-by-step-visualization-in-5947",
     "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
     "https://dev.to/nyaomaru/learn-valid-parentheses-reverse-linked-list-and-tree-max-depth-with-step-by-step-visualization-in-3o09",
+    "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
     "https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk",
     "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9",
     "https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o",
@@ -491,12 +492,6 @@
     {
       "date": "2026-09-24",
       "subcat": "Hacker News Picks",
-      "title": "Meta VR Glasses",
-      "url": "https://news.ycombinator.com/item?id=49824268"
-    },
-    {
-      "date": "2026-09-24",
-      "subcat": "Hacker News Picks",
       "title": "Linux support is coming to Snapdragon X2 Series",
       "url": "https://news.ycombinator.com/item?id=49823582"
     },
@@ -547,6 +542,12 @@
       "subcat": "Hacker News Picks",
       "title": "Book review: Is parallel programming hard, and, if so, ",
       "url": "https://news.ycombinator.com/item?id=49787759"
+    },
+    {
+      "date": "2026-09-25",
+      "subcat": "Web Development",
+      "title": "Your Type Guard Can Silently Drift from Your TypeScript",
+      "url": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57"
     }
   ]
 }

@@ -107,6 +107,15 @@ Fresh dev articles and blog posts.
 - **Summary:** Most of us have heard the term performance testing, whether before releasing a big new feature,...
 - **Link:** https://dev.to/gramli/api-performance-testing-how-to-design-realistic-tests-59gn
 
+**Added 2026-09-25**
+
+### [Your Type Guard Can Silently Drift from Your TypeScript Type 🔧](https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57)
+- **Author:** nyaomaru | **Published:** Sep 23 | **Read time:** 6 min
+- **Community:** 60 reactions, 16 comments — a top post of the week in #webdev
+- **Tags:** typescript, javascript, webdev, opensource
+- **Summary:** Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer just back from a short vacation on Texel, a small...
+- **Link:** https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57
+
 
 ## Hacker News Picks
 
