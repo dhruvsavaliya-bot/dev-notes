@@ -482,6 +482,7 @@
     "https://news.ycombinator.com/item?id=49794330",
     "https://news.ycombinator.com/item?id=49795686",
     "https://news.ycombinator.com/item?id=49799855",
+    "https://news.ycombinator.com/item?id=49805344",
     "https://news.ycombinator.com/item?id=49807003",
     "https://news.ycombinator.com/item?id=49808023",
     "https://news.ycombinator.com/item?id=49823582",
@@ -489,12 +490,6 @@
     "https://news.ycombinator.com/item?id=49824864"
   ],
   "recent": [
-    {
-      "date": "2026-09-24",
-      "subcat": "Hacker News Picks",
-      "title": "Linux support is coming to Snapdragon X2 Series",
-      "url": "https://news.ycombinator.com/item?id=49823582"
-    },
     {
       "date": "2026-09-24",
       "subcat": "AI & Machine Learning",
@@ -548,6 +543,12 @@
       "subcat": "Web Development",
       "title": "Your Type Guard Can Silently Drift from Your TypeScript",
       "url": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57"
+    },
+    {
+      "date": "2026-09-25",
+      "subcat": "Hacker News Picks",
+      "title": "My weird new hobby: Wandering around Tokyo on Google Ma",
+      "url": "https://news.ycombinator.com/item?id=49805344"
     }
   ]
 }
