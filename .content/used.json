@@ -206,6 +206,7 @@
     "https://github.com/jakubkrehel/skills",
     "https://github.com/jamesob/local-llm",
     "https://github.com/jaredpalmer/kev",
+    "https://github.com/jarrodwatts/jev-trader",
     "https://github.com/jev-chat/jev-chat-jarvis",
     "https://github.com/jub0t/Concat",
     "https://github.com/kacperkapusciak/goldie",
@@ -494,12 +495,6 @@
   "recent": [
     {
       "date": "2026-09-24",
-      "subcat": "Hacker News Picks",
-      "title": "The mystery animal on an ancient god's head",
-      "url": "https://news.ycombinator.com/item?id=49799855"
-    },
-    {
-      "date": "2026-09-24",
       "subcat": "AI Engineering",
       "title": "We All Have a \"Serious Work\" AI and a \"Just Vibing\" AI.",
       "url": "https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2"
@@ -551,6 +546,12 @@
       "subcat": "Other Cool Projects",
       "title": "vinzdg/codenotch",
       "url": "https://github.com/vinzdg/codenotch"
+    },
+    {
+      "date": "2026-09-26",
+      "subcat": "AI & Machine Learning",
+      "title": "jarrodwatts/jev-trader",
+      "url": "https://github.com/jarrodwatts/jev-trader"
     }
   ]
 }

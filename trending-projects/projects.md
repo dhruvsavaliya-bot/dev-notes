@@ -754,6 +754,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~276 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/mcncarl/jianying-headless
 
+**Added 2026-09-26**
+
+### [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader)
+- **Stats:** 2,437 stars | 462 forks | 7 open issues
+- **Language:** TypeScript | **Created:** 2026-09-16 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** One AI trade decision every Monad block. Jev on Kuru MON-USDC.
+- **Growth:** averaging ~243 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/jarrodwatts/jev-trader
+
 
 ## Other Cool Projects
 
