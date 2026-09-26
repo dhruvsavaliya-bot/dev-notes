@@ -1467,6 +1467,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~174 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/yi1108/printfilm
 
+**Added 2026-09-26**
+
+### [vinzdg/codenotch](https://github.com/vinzdg/codenotch)
+- **Stats:** 2,499 stars | 383 forks | 53 open issues
+- **Language:** Swift | **Created:** 2026-09-05 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.
+- **Growth:** averaging ~119 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/vinzdg/codenotch
+
 
 ## Web & Frontend
 

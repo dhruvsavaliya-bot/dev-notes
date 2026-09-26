@@ -247,6 +247,7 @@
     "https://github.com/unicity-aos/aos-ce",
     "https://github.com/vercel-labs/fx",
     "https://github.com/vercel-labs/scriptc",
+    "https://github.com/vinzdg/codenotch",
     "https://github.com/wang2122/sprix-sage-router",
     "https://github.com/wide-trace/open-higgsfield",
     "https://github.com/withmarbleapp/os-taxonomy",
@@ -493,12 +494,6 @@
   "recent": [
     {
       "date": "2026-09-24",
-      "subcat": "Other Cool Projects",
-      "title": "TheoLeeCJ/SemIf-OpenJev",
-      "url": "https://github.com/TheoLeeCJ/SemIf-OpenJev"
-    },
-    {
-      "date": "2026-09-24",
       "subcat": "Hacker News Picks",
       "title": "The mystery animal on an ancient god's head",
       "url": "https://news.ycombinator.com/item?id=49799855"
@@ -550,6 +545,12 @@
       "subcat": "Hacker News Picks",
       "title": "F-Droid 2.0",
       "url": "https://news.ycombinator.com/item?id=49831968"
+    },
+    {
+      "date": "2026-09-26",
+      "subcat": "Other Cool Projects",
+      "title": "vinzdg/codenotch",
+      "url": "https://github.com/vinzdg/codenotch"
     }
   ]
 }
