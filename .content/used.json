@@ -110,6 +110,7 @@
     "https://github.com/AlephAITech/WorkBuddyGuide",
     "https://github.com/ApodexAI/FrontierAgent",
     "https://github.com/CopilotKit/OpenBot",
+    "https://github.com/CopilotKit/openmuse",
     "https://github.com/DavidHDev/canvas-ui",
     "https://github.com/EvoMap/AutoResearch",
     "https://github.com/FareedKhan-dev/kimi-k3-in-c",
@@ -497,12 +498,6 @@
   "recent": [
     {
       "date": "2026-09-25",
-      "subcat": "Python",
-      "title": "i built a green blob that lives on my desktop. now it h",
-      "url": "https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd"
-    },
-    {
-      "date": "2026-09-25",
       "subcat": "Other Cool Projects",
       "title": "yi1108/printfilm",
       "url": "https://github.com/yi1108/printfilm"
@@ -554,6 +549,12 @@
       "subcat": "Other Cool Projects",
       "title": "TianyuCodings/NanoJev",
       "url": "https://github.com/TianyuCodings/NanoJev"
+    },
+    {
+      "date": "2026-09-27",
+      "subcat": "AI & Machine Learning",
+      "title": "CopilotKit/openmuse",
+      "url": "https://github.com/CopilotKit/openmuse"
     }
   ]
 }

@@ -764,6 +764,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~243 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/jarrodwatts/jev-trader
 
+**Added 2026-09-27**
+
+### [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse)
+- **Stats:** 2,384 stars | 290 forks | 29 open issues
+- **Language:** TypeScript | **Created:** 2026-09-15 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI.
+- **Growth:** averaging ~198 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/CopilotKit/openmuse
+
 
 ## Other Cool Projects
 
