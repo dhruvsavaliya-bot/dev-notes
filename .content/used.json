@@ -144,6 +144,7 @@
     "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
     "https://github.com/Sahir619/fable-method",
     "https://github.com/Shpigford/knockoff",
+    "https://github.com/SonicloudTech/sonicloud_opensdk",
     "https://github.com/TheoLeeCJ/SemIf",
     "https://github.com/TheoLeeCJ/SemIf-OpenJev",
     "https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6",
@@ -495,12 +496,6 @@
   "recent": [
     {
       "date": "2026-09-24",
-      "subcat": "AI Engineering",
-      "title": "We All Have a \"Serious Work\" AI and a \"Just Vibing\" AI.",
-      "url": "https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2"
-    },
-    {
-      "date": "2026-09-24",
       "subcat": "Hacker News Picks",
       "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KV",
       "url": "https://news.ycombinator.com/item?id=49824864"
@@ -552,6 +547,12 @@
       "subcat": "AI & Machine Learning",
       "title": "jarrodwatts/jev-trader",
       "url": "https://github.com/jarrodwatts/jev-trader"
+    },
+    {
+      "date": "2026-09-27",
+      "subcat": "Other Cool Projects",
+      "title": "SonicloudTech/sonicloud_opensdk",
+      "url": "https://github.com/SonicloudTech/sonicloud_opensdk"
     }
   ]
 }

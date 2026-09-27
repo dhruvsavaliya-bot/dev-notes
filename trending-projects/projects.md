@@ -1487,6 +1487,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~119 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/vinzdg/codenotch
 
+**Added 2026-09-27**
+
+### [SonicloudTech/sonicloud_opensdk](https://github.com/SonicloudTech/sonicloud_opensdk)
+- **Stats:** 2,589 stars | 61 forks | 0 open issues
+- **Language:** HTML | **Created:** 2026-09-02 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** 声云录音卡 Recorder 是一套面向开发者和行业客户的智能录音硬件接入方案。 项目以录音卡片硬件为核心，开放 BLE 协议 SDK 及 Android、iOS、鸿蒙、Flutter 接入示例，同时提供 Windows/macOS 桌面端 Demo，支持设备连接、录音控制、实时音频、文件传输、OTA 升级和语音转写等能力，帮助开发者快速将录音硬件接入自己的 App、桌面软件或行业系统。 如需获取硬件规格、样机、完整协议、SDK 资料或定制服务，请联系安徽声云
+- **Growth:** averaging ~103 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/SonicloudTech/sonicloud_opensdk
+
 
 ## Web & Frontend
 
