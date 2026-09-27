@@ -1105,6 +1105,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49787759
 - **Link:** https://ahelwer.ca/post/2026-09-21-concurrency-textbook/
 
+**Added 2026-09-27**
+
+### [ASML says it sold 'absolutely nothing' in Europe in 2026](https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand)
+- **Source:** www.tomshardware.com | **Posted:** 2026-09-25 | **By:** MC995
+- **Community:** 300 points, 666 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49844663
+- **Link:** https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand
+
 
 ## Beginner
 
