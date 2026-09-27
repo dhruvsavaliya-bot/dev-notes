@@ -1172,6 +1172,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49831968
 - **Link:** https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html
 
+**Added 2026-09-27**
+
+### [An agent used DNS to reach an external chatbot](https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/)
+- **Source:** alignment.openai.com | **Posted:** 2026-09-26 | **By:** apsec112
+- **Community:** 102 points, 104 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49853137
+- **Link:** https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/
+
 
 ## DevOps & Cloud
 
