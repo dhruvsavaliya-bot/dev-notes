@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**487 entries and counting** · Last updated: 2026-09-27
+**488 entries and counting** · Last updated: 2026-09-27
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 166 |
+| [Trending Projects](trending-projects/projects.md) | 167 |
 | [AI / LLM Notes](ai/notes.md) | 44 |
 | [Reading List](articles/reading-list.md) | 134 |
 | [Coding Tips](coding-tips/tips.md) | 129 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-09-27** · *Other Cool Projects* — [newliver666/apk-reverse](https://github.com/newliver666/apk-reverse)
 - **2026-09-27** · *AI & Machine Learning* — [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse)
 - **2026-09-27** · *Other Cool Projects* — [TianyuCodings/NanoJev](https://github.com/TianyuCodings/NanoJev)
-- **2026-09-27** · *Other Cool Projects* — [SonicloudTech/sonicloud_opensdk](https://github.com/SonicloudTech/sonicloud_opensdk)
 
 ## How it works
 

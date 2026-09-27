@@ -1517,6 +1517,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~231 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/TianyuCodings/NanoJev
 
+**Added 2026-09-27**
+
+### [newliver666/apk-reverse](https://github.com/newliver666/apk-reverse)
+- **Stats:** 2,372 stars | 496 forks | 0 open issues
+- **Language:** Python | **Created:** 2026-09-19 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Suitable for Android APK reverse engineering analysis
+- **Growth:** averaging ~296 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/newliver666/apk-reverse
+
 
 ## Web & Frontend
 
