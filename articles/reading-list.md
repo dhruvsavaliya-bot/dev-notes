@@ -116,6 +116,15 @@ Fresh dev articles and blog posts.
 - **Summary:** Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer just back from a short vacation on Texel, a small...
 - **Link:** https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57
 
+**Added 2026-09-27**
+
+### [Your API's newest users are agents...](https://dev.to/nikolas_dimitroulakis_d23/we-described-our-api-twice-once-for-humans-once-for-agents-4e4g)
+- **Author:** Nikolas Dimitroulakis | **Published:** Sep 25 | **Read time:** 4 min
+- **Community:** 62 reactions, 8 comments — a top post of the week in #webdev
+- **Tags:** ai, api, mcp, webdev
+- **Summary:** Who called your API last?  For us, the honest answer is more and more often an agent. Claude Code...
+- **Link:** https://dev.to/nikolas_dimitroulakis_d23/we-described-our-api-twice-once-for-humans-once-for-agents-4e4g
+
 
 ## Hacker News Picks
 

@@ -63,6 +63,7 @@
     "https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2",
     "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
     "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
+    "https://dev.to/nikolas_dimitroulakis_d23/we-described-our-api-twice-once-for-humans-once-for-agents-4e4g",
     "https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b",
     "https://dev.to/nyaomaru/learn-number-of-islands-invert-binary-tree-and-course-schedule-with-step-by-step-visualization-in-5947",
     "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
@@ -502,12 +503,6 @@
     {
       "date": "2026-09-25",
       "subcat": "Hacker News Picks",
-      "title": "My weird new hobby: Wandering around Tokyo on Google Ma",
-      "url": "https://news.ycombinator.com/item?id=49805344"
-    },
-    {
-      "date": "2026-09-25",
-      "subcat": "Hacker News Picks",
       "title": "F-Droid 2.0",
       "url": "https://news.ycombinator.com/item?id=49831968"
     },
@@ -558,6 +553,12 @@
       "subcat": "Hacker News Picks",
       "title": "ASML says it sold 'absolutely nothing' in Europe in 202",
       "url": "https://news.ycombinator.com/item?id=49844663"
+    },
+    {
+      "date": "2026-09-27",
+      "subcat": "Web Development",
+      "title": "Your API's newest users are agents...",
+      "url": "https://dev.to/nikolas_dimitroulakis_d23/we-described-our-api-twice-once-for-humans-once-for-agents-4e4g"
     }
   ]
 }
