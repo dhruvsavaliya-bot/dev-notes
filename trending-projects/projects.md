@@ -1497,6 +1497,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~103 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/SonicloudTech/sonicloud_opensdk
 
+**Added 2026-09-27**
+
+### [TianyuCodings/NanoJev](https://github.com/TianyuCodings/NanoJev)
+- **Stats:** 2,316 stars | 243 forks | 7 open issues
+- **Language:** Python | **Created:** 2026-09-17 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.
+- **Growth:** averaging ~231 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/TianyuCodings/NanoJev
+
 
 ## Web & Frontend
 

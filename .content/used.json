@@ -147,6 +147,7 @@
     "https://github.com/SonicloudTech/sonicloud_opensdk",
     "https://github.com/TheoLeeCJ/SemIf",
     "https://github.com/TheoLeeCJ/SemIf-OpenJev",
+    "https://github.com/TianyuCodings/NanoJev",
     "https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6",
     "https://github.com/Vincentwei1021/video-shotcraft",
     "https://github.com/Waishnav/devspace",
@@ -495,12 +496,6 @@
   ],
   "recent": [
     {
-      "date": "2026-09-24",
-      "subcat": "Hacker News Picks",
-      "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KV",
-      "url": "https://news.ycombinator.com/item?id=49824864"
-    },
-    {
       "date": "2026-09-25",
       "subcat": "Python",
       "title": "i built a green blob that lives on my desktop. now it h",
@@ -553,6 +548,12 @@
       "subcat": "Other Cool Projects",
       "title": "SonicloudTech/sonicloud_opensdk",
       "url": "https://github.com/SonicloudTech/sonicloud_opensdk"
+    },
+    {
+      "date": "2026-09-27",
+      "subcat": "Other Cool Projects",
+      "title": "TianyuCodings/NanoJev",
+      "url": "https://github.com/TianyuCodings/NanoJev"
     }
   ]
 }
