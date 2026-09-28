@@ -357,6 +357,15 @@ Lessons from building with LLMs.
 - **Summary:** Hi Guys!!! As you know I wasn't good for well, a week and Now.....   Let's Dive In!!!  I never...
 - **Link:** https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2
 
+**Added 2026-09-28**
+
+### [Per-Agent Cost Tracking for Multi-Agent AI on AWS](https://dev.to/aws-builders/per-agent-cost-tracking-for-multi-agent-ai-on-aws-10eg)
+- **Author:** Sarvar Nadaf | **Published:** Sep 23 | **Read time:** 28 min
+- **Community:** 61 reactions, 54 comments — a top post of the week in #ai
+- **Tags:** aws, observability, ai, discuss
+- **Summary:** I spent a week adding per-agent cost tracing to a multi-agent AWS Bedrock and Strands crew. It returned a perfect answer, showed 200 OK, and still billed ~1.4x. Here is how to catch that silent waste, read-only and at $0.
+- **Link:** https://dev.to/aws-builders/per-agent-cost-tracking-for-multi-agent-ai-on-aws-10eg
+
 
 ## LLMs
 

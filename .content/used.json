@@ -14,6 +14,7 @@
     "https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g",
     "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
     "https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635",
+    "https://dev.to/aws-builders/per-agent-cost-tracking-for-multi-agent-ai-on-aws-10eg",
     "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
     "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh",
     "https://dev.to/danielhe4rt/youre-not-an-impostor-you-just-started-from-a-different-line-2lph",
@@ -503,12 +504,6 @@
   "recent": [
     {
       "date": "2026-09-26",
-      "subcat": "Other Cool Projects",
-      "title": "vinzdg/codenotch",
-      "url": "https://github.com/vinzdg/codenotch"
-    },
-    {
-      "date": "2026-09-26",
       "subcat": "AI & Machine Learning",
       "title": "jarrodwatts/jev-trader",
       "url": "https://github.com/jarrodwatts/jev-trader"
@@ -560,6 +555,12 @@
       "subcat": "Hacker News Picks",
       "title": "Ember-1",
       "url": "https://news.ycombinator.com/item?id=49868830"
+    },
+    {
+      "date": "2026-09-28",
+      "subcat": "AI Engineering",
+      "title": "Per-Agent Cost Tracking for Multi-Agent AI on AWS",
+      "url": "https://dev.to/aws-builders/per-agent-cost-tracking-for-multi-agent-ai-on-aws-10eg"
     }
   ]
 }
