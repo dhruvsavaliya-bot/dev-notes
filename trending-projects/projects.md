@@ -1527,6 +1527,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~296 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/newliver666/apk-reverse
 
+**Added 2026-09-28**
+
+### [cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)
+- **Stats:** 2,855 stars | 185 forks | 3 open issues
+- **Language:** HTML | **Created:** 2026-09-18 | **License:** None
+- **Topics:** none listed
+- **What it is:** 《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线
+- **Growth:** averaging ~285 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/cdyforever/how-to-live-better
+
 
 ## Web & Frontend
 
