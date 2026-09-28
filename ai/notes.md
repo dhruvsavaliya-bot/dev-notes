@@ -366,6 +366,15 @@ Lessons from building with LLMs.
 - **Summary:** I spent a week adding per-agent cost tracing to a multi-agent AWS Bedrock and Strands crew. It returned a perfect answer, showed 200 OK, and still billed ~1.4x. Here is how to catch that silent waste, read-only and at $0.
 - **Link:** https://dev.to/aws-builders/per-agent-cost-tracking-for-multi-agent-ai-on-aws-10eg
 
+**Added 2026-09-28**
+
+### [7 Best AI Project Management Tools for Software Development Teams in 2026](https://dev.to/therealmrmumba/7-best-ai-project-management-tools-for-software-development-teams-in-2026-fik)
+- **Author:** Emmanuel Mumba | **Published:** Sep 28 | **Read time:** 9 min
+- **Community:** 55 reactions, 8 comments — a top post of the week in #ai
+- **Tags:** ai, webdev
+- **Summary:** How AI is changing project management, from traditional task tracking to workflows where AI agents...
+- **Link:** https://dev.to/therealmrmumba/7-best-ai-project-management-tools-for-software-development-teams-in-2026-fik
+
 
 ## LLMs
 

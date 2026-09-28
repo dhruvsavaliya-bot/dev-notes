@@ -87,6 +87,7 @@
     "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
     "https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2",
     "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g",
+    "https://dev.to/therealmrmumba/7-best-ai-project-management-tools-for-software-development-teams-in-2026-fik",
     "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
     "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
     "https://dev.to/tooljet/how-to-integrate-tooljet-with-servicenow-for-enhanced-operations-1h1j",
@@ -508,12 +509,6 @@
   "recent": [
     {
       "date": "2026-09-27",
-      "subcat": "Other Cool Projects",
-      "title": "newliver666/apk-reverse",
-      "url": "https://github.com/newliver666/apk-reverse"
-    },
-    {
-      "date": "2026-09-27",
       "subcat": "Hacker News Picks",
       "title": "An agent used DNS to reach an external chatbot",
       "url": "https://news.ycombinator.com/item?id=49853137"
@@ -565,6 +560,12 @@
       "subcat": "Hacker News Picks",
       "title": "What I did at Recurse Center",
       "url": "https://news.ycombinator.com/item?id=49869773"
+    },
+    {
+      "date": "2026-09-28",
+      "subcat": "AI Engineering",
+      "title": "7 Best AI Project Management Tools for Software Develop",
+      "url": "https://dev.to/therealmrmumba/7-best-ai-project-management-tools-for-software-development-teams-in-2026-fik"
     }
   ]
 }
