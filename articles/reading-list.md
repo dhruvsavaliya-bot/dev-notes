@@ -1199,6 +1199,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49869773
 - **Link:** https://thill.me/2026/09/11/what-i-did-at-rc.html
 
+**Added 2026-09-28**
+
+### [Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi](https://loficities.com/)
+- **Source:** loficities.com | **Posted:** 2026-09-27 | **By:** safaelmali
+- **Community:** 259 points, 112 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49869574
+- **Link:** https://loficities.com/
+
 
 ## DevOps & Cloud
 

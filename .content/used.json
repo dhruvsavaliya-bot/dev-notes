@@ -504,15 +504,10 @@
     "https://news.ycombinator.com/item?id=49853137",
     "https://news.ycombinator.com/item?id=49866515",
     "https://news.ycombinator.com/item?id=49868830",
+    "https://news.ycombinator.com/item?id=49869574",
     "https://news.ycombinator.com/item?id=49869773"
   ],
   "recent": [
-    {
-      "date": "2026-09-27",
-      "subcat": "Hacker News Picks",
-      "title": "An agent used DNS to reach an external chatbot",
-      "url": "https://news.ycombinator.com/item?id=49853137"
-    },
     {
       "date": "2026-09-27",
       "subcat": "Hacker News Picks",
@@ -566,6 +561,12 @@
       "subcat": "AI Engineering",
       "title": "7 Best AI Project Management Tools for Software Develop",
       "url": "https://dev.to/therealmrmumba/7-best-ai-project-management-tools-for-software-development-teams-in-2026-fik"
+    },
+    {
+      "date": "2026-09-28",
+      "subcat": "Hacker News Picks",
+      "title": "Show HN: Lofi Cities  Pixel-art city nights with browse",
+      "url": "https://news.ycombinator.com/item?id=49869574"
     }
   ]
 }
