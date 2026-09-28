@@ -137,3 +137,14 @@ Snippets and gotchas across languages.
 - **Tags:** showdev, python, linux, opensource
 - **Summary:** A quick disclaimer before we dive in: when I say "feelings," I mean state machines, bond...
 - **Link:** https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd
+
+## Go
+
+**Added 2026-09-28**
+
+### [Cheap RAG in Go with Gemini File Search: no vector DB, two calls, one hosted store](https://dev.to/lovestaco/cheap-rag-in-go-with-gemini-file-search-no-vector-db-two-calls-one-hosted-store-4kb5)
+- **Author:** Athreya aka Maneshwar | **Published:** Sep 22 | **Read time:** 14 min
+- **Community:** 52 reactions, 9 comments — a top post of the week in #go
+- **Tags:** go, ai, rag, gemini
+- **Summary:** Hello, I'm Maneshwar, and I'm building LiveReview — a blast-radius aware AI code review built for...
+- **Link:** https://dev.to/lovestaco/cheap-rag-in-go-with-gemini-file-search-no-vector-db-two-calls-one-hosted-store-4kb5
