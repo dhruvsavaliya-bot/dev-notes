@@ -1190,6 +1190,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49853137
 - **Link:** https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/
 
+**Added 2026-09-28**
+
+### [What I did at Recurse Center](https://thill.me/2026/09/11/what-i-did-at-rc.html)
+- **Source:** thill.me | **Posted:** 2026-09-27 | **By:** bingden
+- **Community:** 107 points, 32 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49869773
+- **Link:** https://thill.me/2026/09/11/what-i-did-at-rc.html
+
 
 ## DevOps & Cloud
 
