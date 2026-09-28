@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**491 entries and counting** · Last updated: 2026-09-27
+**492 entries and counting** · Last updated: 2026-09-28
 
 ## Categories
 
@@ -12,14 +12,14 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 | [Trending Projects](trending-projects/projects.md) | 167 |
 | [AI / LLM Notes](ai/notes.md) | 44 |
 | [Reading List](articles/reading-list.md) | 136 |
-| [Coding Tips](coding-tips/tips.md) | 130 |
+| [Coding Tips](coding-tips/tips.md) | 131 |
 | [Language Notes](languages/notes.md) | 14 |
 
 ## Latest additions
 
+- **2026-09-28** · *Hacker News Picks* — [Ember-1](https://news.ycombinator.com/item?id=49868830)
 - **2026-09-27** · *Web Development* — [Your API's newest users are agents...](https://dev.to/nikolas_dimitroulakis_d23/we-described-our-api-twice-once-for-humans-once-for-agents-4e4g)
 - **2026-09-27** · *Hacker News Picks* — [ASML says it sold 'absolutely nothing' in Europe in 202](https://news.ycombinator.com/item?id=49844663)
-- **2026-09-27** · *Hacker News Picks* — [An agent used DNS to reach an external chatbot](https://news.ycombinator.com/item?id=49853137)
 
 ## How it works
 

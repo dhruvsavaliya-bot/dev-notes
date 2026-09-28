@@ -1114,6 +1114,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49844663
 - **Link:** https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand
 
+**Added 2026-09-28**
+
+### [Ember-1](https://fireworks.ai/blog/ember-1)
+- **Source:** fireworks.ai | **Posted:** 2026-09-27 | **By:** gmays
+- **Community:** 388 points, 196 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49868830
+- **Link:** https://fireworks.ai/blog/ember-1
+
 
 ## Beginner
 

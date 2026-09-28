@@ -497,15 +497,10 @@
     "https://news.ycombinator.com/item?id=49824864",
     "https://news.ycombinator.com/item?id=49831968",
     "https://news.ycombinator.com/item?id=49844663",
-    "https://news.ycombinator.com/item?id=49853137"
+    "https://news.ycombinator.com/item?id=49853137",
+    "https://news.ycombinator.com/item?id=49868830"
   ],
   "recent": [
-    {
-      "date": "2026-09-25",
-      "subcat": "Hacker News Picks",
-      "title": "F-Droid 2.0",
-      "url": "https://news.ycombinator.com/item?id=49831968"
-    },
     {
       "date": "2026-09-26",
       "subcat": "Other Cool Projects",
@@ -559,6 +554,12 @@
       "subcat": "Web Development",
       "title": "Your API's newest users are agents...",
       "url": "https://dev.to/nikolas_dimitroulakis_d23/we-described-our-api-twice-once-for-humans-once-for-agents-4e4g"
+    },
+    {
+      "date": "2026-09-28",
+      "subcat": "Hacker News Picks",
+      "title": "Ember-1",
+      "url": "https://news.ycombinator.com/item?id=49868830"
     }
   ]
 }
