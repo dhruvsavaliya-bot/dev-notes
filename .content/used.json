@@ -510,15 +510,10 @@
     "https://news.ycombinator.com/item?id=49869574",
     "https://news.ycombinator.com/item?id=49869773",
     "https://news.ycombinator.com/item?id=49879401",
-    "https://news.ycombinator.com/item?id=49879883"
+    "https://news.ycombinator.com/item?id=49879883",
+    "https://news.ycombinator.com/item?id=49883471"
   ],
   "recent": [
-    {
-      "date": "2026-09-28",
-      "subcat": "Hacker News Picks",
-      "title": "Replacing the old battery on rechargeable bike lights",
-      "url": "https://news.ycombinator.com/item?id=49866515"
-    },
     {
       "date": "2026-09-28",
       "subcat": "Go",
@@ -572,6 +567,12 @@
       "subcat": "AI Engineering",
       "title": "I Turned DEV.to Into a Walkable 3D Library  Debugging I",
       "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd"
+    },
+    {
+      "date": "2026-09-29",
+      "subcat": "Hacker News Picks",
+      "title": "It's Time to Investigate the AI Labs",
+      "url": "https://news.ycombinator.com/item?id=49883471"
     }
   ]
 }
