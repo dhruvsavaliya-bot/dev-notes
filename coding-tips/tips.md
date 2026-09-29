@@ -1150,6 +1150,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49879883
 - **Link:** https://www.cnbc.com/2026/09/28/nvidia-releases.html
 
+**Added 2026-09-29**
+
+### [12,000-year-old Göbeklitepe burials explain scattered bones](https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/)
+- **Source:** archaeologymag.com | **Posted:** 2026-09-26 | **By:** yusufaytas
+- **Community:** 119 points, 28 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49855059
+- **Link:** https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/
+
 
 ## Beginner
 

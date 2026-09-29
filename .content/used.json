@@ -503,6 +503,7 @@
     "https://news.ycombinator.com/item?id=49831968",
     "https://news.ycombinator.com/item?id=49844663",
     "https://news.ycombinator.com/item?id=49853137",
+    "https://news.ycombinator.com/item?id=49855059",
     "https://news.ycombinator.com/item?id=49866515",
     "https://news.ycombinator.com/item?id=49868830",
     "https://news.ycombinator.com/item?id=49869574",
@@ -510,12 +511,6 @@
     "https://news.ycombinator.com/item?id=49879883"
   ],
   "recent": [
-    {
-      "date": "2026-09-28",
-      "subcat": "Hacker News Picks",
-      "title": "Ember-1",
-      "url": "https://news.ycombinator.com/item?id=49868830"
-    },
     {
       "date": "2026-09-28",
       "subcat": "AI Engineering",
@@ -569,6 +564,12 @@
       "subcat": "Hacker News Picks",
       "title": "Nvidia wants to put a watchdog chip next to every AI ag",
       "url": "https://news.ycombinator.com/item?id=49879883"
+    },
+    {
+      "date": "2026-09-29",
+      "subcat": "Hacker News Picks",
+      "title": "12,000-year-old Gbeklitepe burials explain scattered bo",
+      "url": "https://news.ycombinator.com/item?id=49855059"
     }
   ]
 }
