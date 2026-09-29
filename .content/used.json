@@ -14,6 +14,7 @@
     "https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g",
     "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
     "https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635",
+    "https://dev.to/annavi11arrea1/sharing-dev-followers-count-on-github-profile-bj3",
     "https://dev.to/aws-builders/per-agent-cost-tracking-for-multi-agent-ai-on-aws-10eg",
     "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
     "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh",
@@ -516,12 +517,6 @@
   "recent": [
     {
       "date": "2026-09-28",
-      "subcat": "Go",
-      "title": "Cheap RAG in Go with Gemini File Search: no vector DB, ",
-      "url": "https://dev.to/lovestaco/cheap-rag-in-go-with-gemini-file-search-no-vector-db-two-calls-one-hosted-store-4kb5"
-    },
-    {
-      "date": "2026-09-28",
       "subcat": "Hacker News Picks",
       "title": "What I did at Recurse Center",
       "url": "https://news.ycombinator.com/item?id=49869773"
@@ -573,6 +568,12 @@
       "subcat": "Hacker News Picks",
       "title": "It's Time to Investigate the AI Labs",
       "url": "https://news.ycombinator.com/item?id=49883471"
+    },
+    {
+      "date": "2026-09-29",
+      "subcat": "Web Development",
+      "title": "Sharing DEV Followers Count on Github Profile",
+      "url": "https://dev.to/annavi11arrea1/sharing-dev-followers-count-on-github-profile-bj3"
     }
   ]
 }

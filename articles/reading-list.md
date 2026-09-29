@@ -125,6 +125,15 @@ Fresh dev articles and blog posts.
 - **Summary:** Who called your API last?  For us, the honest answer is more and more often an agent. Claude Code...
 - **Link:** https://dev.to/nikolas_dimitroulakis_d23/we-described-our-api-twice-once-for-humans-once-for-agents-4e4g
 
+**Added 2026-09-29**
+
+### [🦄 Sharing DEV Followers Count on Github Profile 🦄](https://dev.to/annavi11arrea1/sharing-dev-followers-count-on-github-profile-bj3)
+- **Author:** Anna Villarreal | **Published:** Sep 23 | **Read time:** 3 min
+- **Community:** 142 reactions, 87 comments — a top post of the week in #webdev
+- **Tags:** github, webdev, tooling, githubactions
+- **Summary:** TLDR - I finished a small project that I am sharing for my friends on DEV, that allows you...
+- **Link:** https://dev.to/annavi11arrea1/sharing-dev-followers-count-on-github-profile-bj3
+
 
 ## Hacker News Picks
 
