@@ -506,15 +506,10 @@
     "https://news.ycombinator.com/item?id=49866515",
     "https://news.ycombinator.com/item?id=49868830",
     "https://news.ycombinator.com/item?id=49869574",
-    "https://news.ycombinator.com/item?id=49869773"
+    "https://news.ycombinator.com/item?id=49869773",
+    "https://news.ycombinator.com/item?id=49879883"
   ],
   "recent": [
-    {
-      "date": "2026-09-27",
-      "subcat": "Web Development",
-      "title": "Your API's newest users are agents...",
-      "url": "https://dev.to/nikolas_dimitroulakis_d23/we-described-our-api-twice-once-for-humans-once-for-agents-4e4g"
-    },
     {
       "date": "2026-09-28",
       "subcat": "Hacker News Picks",
@@ -568,6 +563,12 @@
       "subcat": "Productivity",
       "title": "Claude e Obsidian - Como uma QA utiliza essas ferrament",
       "url": "https://dev.to/he4rt/claude-e-obsidian-como-uma-qa-utiliza-essas-ferramentas-no-dia-a-dia-51jc"
+    },
+    {
+      "date": "2026-09-29",
+      "subcat": "Hacker News Picks",
+      "title": "Nvidia wants to put a watchdog chip next to every AI ag",
+      "url": "https://news.ycombinator.com/item?id=49879883"
     }
   ]
 }

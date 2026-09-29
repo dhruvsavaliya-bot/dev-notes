@@ -1141,6 +1141,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49866515
 - **Link:** https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/
 
+**Added 2026-09-29**
+
+### [Nvidia wants to put a watchdog chip next to every AI agent](https://www.cnbc.com/2026/09/28/nvidia-releases.html)
+- **Source:** www.cnbc.com | **Posted:** 2026-09-28 | **By:** jonbaer
+- **Community:** 141 points, 170 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49879883
+- **Link:** https://www.cnbc.com/2026/09/28/nvidia-releases.html
+
 
 ## Beginner
 
