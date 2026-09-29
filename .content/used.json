@@ -60,6 +60,7 @@
     "https://dev.to/lovestaco/cheap-rag-in-go-with-gemini-file-search-no-vector-db-two-calls-one-hosted-store-4kb5",
     "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
     "https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd",
+    "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd",
     "https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h",
     "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
     "https://dev.to/nazar-boyko/has-ai-made-you-a-lazier-developer-be-honest-5ack",
@@ -514,12 +515,6 @@
   "recent": [
     {
       "date": "2026-09-28",
-      "subcat": "Other Cool Projects",
-      "title": "cdyforever/how-to-live-better",
-      "url": "https://github.com/cdyforever/how-to-live-better"
-    },
-    {
-      "date": "2026-09-28",
       "subcat": "Hacker News Picks",
       "title": "Replacing the old battery on rechargeable bike lights",
       "url": "https://news.ycombinator.com/item?id=49866515"
@@ -571,6 +566,12 @@
       "subcat": "Hacker News Picks",
       "title": "Show HN: HN.watch  Videos of all Hacker News posts",
       "url": "https://news.ycombinator.com/item?id=49879401"
+    },
+    {
+      "date": "2026-09-29",
+      "subcat": "AI Engineering",
+      "title": "I Turned DEV.to Into a Walkable 3D Library  Debugging I",
+      "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd"
     }
   ]
 }

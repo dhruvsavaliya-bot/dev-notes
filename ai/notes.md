@@ -375,6 +375,15 @@ Lessons from building with LLMs.
 - **Summary:** How AI is changing project management, from traditional task tracking to workflows where AI agents...
 - **Link:** https://dev.to/therealmrmumba/7-best-ai-project-management-tools-for-software-development-teams-in-2026-fik
 
+**Added 2026-09-29**
+
+### [I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare](https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd)
+- **Author:** Mika Flowers | **Published:** Sep 23 | **Read time:** 7 min
+- **Community:** 70 reactions, 30 comments — a top post of the week in #ai
+- **Tags:** buildinpublic, webdev, nextjs, ai
+- **Summary:** DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...
+- **Link:** https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd
+
 
 ## LLMs
 
