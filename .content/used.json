@@ -128,6 +128,7 @@
     "https://github.com/Human-Agent-Society/reef",
     "https://github.com/Jia-Ethan/codex-keysmith",
     "https://github.com/JustVugg/colibri",
+    "https://github.com/KKKKhazix/AIHOT",
     "https://github.com/KKKKhazix/human-writing",
     "https://github.com/Krishnagangwal/CS-Fundamentals",
     "https://github.com/LaoFeng-mouse/flyingmouse-format",
@@ -517,12 +518,6 @@
   "recent": [
     {
       "date": "2026-09-28",
-      "subcat": "Hacker News Picks",
-      "title": "What I did at Recurse Center",
-      "url": "https://news.ycombinator.com/item?id=49869773"
-    },
-    {
-      "date": "2026-09-28",
       "subcat": "AI Engineering",
       "title": "7 Best AI Project Management Tools for Software Develop",
       "url": "https://dev.to/therealmrmumba/7-best-ai-project-management-tools-for-software-development-teams-in-2026-fik"
@@ -574,6 +569,12 @@
       "subcat": "Web Development",
       "title": "Sharing DEV Followers Count on Github Profile",
       "url": "https://dev.to/annavi11arrea1/sharing-dev-followers-count-on-github-profile-bj3"
+    },
+    {
+      "date": "2026-09-29",
+      "subcat": "AI & Machine Learning",
+      "title": "KKKKhazix/AIHOT",
+      "url": "https://github.com/KKKKhazix/AIHOT"
     }
   ]
 }

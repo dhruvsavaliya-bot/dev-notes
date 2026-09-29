@@ -774,6 +774,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~198 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/CopilotKit/openmuse
 
+**Added 2026-09-29**
+
+### [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)
+- **Stats:** 2,434 stars | 697 forks | 3 open issues
+- **Language:** TypeScript | **Created:** 2026-09-28 | **License:** MIT
+- **Topics:** ai, llm, mcp, news-aggregator, rss, self-hosted
+- **What it is:** 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
+- **Growth:** averaging ~2,434 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/KKKKhazix/AIHOT
+
 
 ## Other Cool Projects
 
