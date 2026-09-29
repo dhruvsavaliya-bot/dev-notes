@@ -157,6 +157,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** Hello Devs 👋  I have been thinking about something that has changed quite a bit with AI coding...
 - **Link:** https://dev.to/dev_kiran/shift-left-code-review-how-qodo-turns-your-coding-agent-into-its-own-first-reviewer-58fc
 
+**Added 2026-09-29**
+
+### [Claude e Obsidian - Como uma QA utiliza essas ferramentas no dia-a-dia](https://dev.to/he4rt/claude-e-obsidian-como-uma-qa-utiliza-essas-ferramentas-no-dia-a-dia-51jc)
+- **Author:** Alicia Marianne Gonçalves | **Published:** Sep 28 | **Read time:** 5 min
+- **Community:** 90 reactions, 0 comments — a top post of the week in #productivity
+- **Tags:** ai, productivity, braziliandevs, claude
+- **Summary:** 🇺🇸 You can also read the English version of this article on AWS Community Builders.   Ser QA nessa...
+- **Link:** https://dev.to/he4rt/claude-e-obsidian-como-uma-qa-utiliza-essas-ferramentas-no-dia-a-dia-51jc
+
 
 ## Hacker News Picks
 

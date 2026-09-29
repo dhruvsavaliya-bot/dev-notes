@@ -39,6 +39,7 @@
     "https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b",
     "https://dev.to/harsh2644/you-dont-have-an-ai-problem-you-have-a-thinking-problem-5f07",
     "https://dev.to/he4rt/1a-vez-trabalhando-com-git-com-time-tudo-que-voce-precisa-saber-19il",
+    "https://dev.to/he4rt/claude-e-obsidian-como-uma-qa-utiliza-essas-ferramentas-no-dia-a-dia-51jc",
     "https://dev.to/he4rt/como-escolher-eventos-de-tecnologia-para-participar-55kf",
     "https://dev.to/he4rt/contribuir-para-a-comunidade-como-destacar-isso-no-seu-linkedin-e-curriculo-4cgl",
     "https://dev.to/he4rt/pensar-demais-nem-sempre-ajuda-e-o-que-eu-aprendi-com-isso-49pp",
@@ -510,12 +511,6 @@
   "recent": [
     {
       "date": "2026-09-27",
-      "subcat": "Hacker News Picks",
-      "title": "ASML says it sold 'absolutely nothing' in Europe in 202",
-      "url": "https://news.ycombinator.com/item?id=49844663"
-    },
-    {
-      "date": "2026-09-27",
       "subcat": "Web Development",
       "title": "Your API's newest users are agents...",
       "url": "https://dev.to/nikolas_dimitroulakis_d23/we-described-our-api-twice-once-for-humans-once-for-agents-4e4g"
@@ -567,6 +562,12 @@
       "subcat": "Hacker News Picks",
       "title": "Show HN: Lofi Cities  Pixel-art city nights with browse",
       "url": "https://news.ycombinator.com/item?id=49869574"
+    },
+    {
+      "date": "2026-09-29",
+      "subcat": "Productivity",
+      "title": "Claude e Obsidian - Como uma QA utiliza essas ferrament",
+      "url": "https://dev.to/he4rt/claude-e-obsidian-como-uma-qa-utiliza-essas-ferramentas-no-dia-a-dia-51jc"
     }
   ]
 }
