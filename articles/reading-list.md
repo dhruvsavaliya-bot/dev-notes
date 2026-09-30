@@ -1277,6 +1277,16 @@ Fresh dev articles and blog posts.
 - **Summary:** 📌 TL;DR  AI agents are becoming useful because we're giving them the ability to do more than just...
 - **Link:** https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh
 
+**Added 2026-09-30**
+
+### [Prompt Injection Is the New SQL Injection (and We're Not Ready)](https://dev.to/james_anderson_h/prompt-injection-is-the-new-sql-injection-and-were-not-ready-4ea4)
+- **Author:** James Anderson | **Published:** Sep 27 | **Read time:** 7 min
+- **Community:** 80 reactions, 75 comments — a top post of the week in #security
+- **Tags:** ai, security, agents, webdev
+- **Summary:** In March 2026, a financial services company discovered that their customer-facing AI agent had been...
+- **Link:** https://dev.to/james_anderson_h/prompt-injection-is-the-new-sql-injection-and-were-not-ready-4ea4
+
+
 ## System Design & Architecture
 
 **Added 2026-08-10**
