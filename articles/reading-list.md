@@ -1235,6 +1235,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49893157
 - **Link:** https://news.ycombinator.com/item?id=49893157
 
+**Added 2026-09-30**
+
+### [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
+- **Source:** postalemployeenetwork.com | **Posted:** 2026-09-29 | **By:** ilamont
+- **Community:** 234 points, 137 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49899090
+- **Link:** https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/
+
 
 ## DevOps & Cloud
 

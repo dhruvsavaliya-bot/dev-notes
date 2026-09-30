@@ -517,15 +517,10 @@
     "https://news.ycombinator.com/item?id=49879401",
     "https://news.ycombinator.com/item?id=49879883",
     "https://news.ycombinator.com/item?id=49883471",
-    "https://news.ycombinator.com/item?id=49893157"
+    "https://news.ycombinator.com/item?id=49893157",
+    "https://news.ycombinator.com/item?id=49899090"
   ],
   "recent": [
-    {
-      "date": "2026-09-29",
-      "subcat": "Hacker News Picks",
-      "title": "12,000-year-old Gbeklitepe burials explain scattered bo",
-      "url": "https://news.ycombinator.com/item?id=49855059"
-    },
     {
       "date": "2026-09-29",
       "subcat": "Hacker News Picks",
@@ -579,6 +574,12 @@
       "subcat": "Security",
       "title": "Prompt Injection Is the New SQL Injection (and We're No",
       "url": "https://dev.to/james_anderson_h/prompt-injection-is-the-new-sql-injection-and-were-not-ready-4ea4"
+    },
+    {
+      "date": "2026-09-30",
+      "subcat": "Hacker News Picks",
+      "title": "U.S. postal inspectors shut down website selling counte",
+      "url": "https://news.ycombinator.com/item?id=49899090"
     }
   ]
 }
