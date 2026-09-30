@@ -1244,6 +1244,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49899090
 - **Link:** https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/
 
+**Added 2026-09-30**
+
+### [A Staff Engineer's Guide to Inventing Work](https://sujithjay.com/inventing-work)
+- **Source:** sujithjay.com | **Posted:** 2026-09-28 | **By:** amortize
+- **Community:** 280 points, 57 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49878857
+- **Link:** https://sujithjay.com/inventing-work
+
 
 ## DevOps & Cloud
 

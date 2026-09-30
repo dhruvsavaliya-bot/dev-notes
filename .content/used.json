@@ -514,6 +514,7 @@
     "https://news.ycombinator.com/item?id=49868830",
     "https://news.ycombinator.com/item?id=49869574",
     "https://news.ycombinator.com/item?id=49869773",
+    "https://news.ycombinator.com/item?id=49878857",
     "https://news.ycombinator.com/item?id=49879401",
     "https://news.ycombinator.com/item?id=49879883",
     "https://news.ycombinator.com/item?id=49883471",
@@ -521,12 +522,6 @@
     "https://news.ycombinator.com/item?id=49899090"
   ],
   "recent": [
-    {
-      "date": "2026-09-29",
-      "subcat": "Hacker News Picks",
-      "title": "Show HN: HN.watch  Videos of all Hacker News posts",
-      "url": "https://news.ycombinator.com/item?id=49879401"
-    },
     {
       "date": "2026-09-29",
       "subcat": "AI Engineering",
@@ -580,6 +575,12 @@
       "subcat": "Hacker News Picks",
       "title": "U.S. postal inspectors shut down website selling counte",
       "url": "https://news.ycombinator.com/item?id=49899090"
+    },
+    {
+      "date": "2026-09-30",
+      "subcat": "Hacker News Picks",
+      "title": "A Staff Engineer's Guide to Inventing Work",
+      "url": "https://news.ycombinator.com/item?id=49878857"
     }
   ]
 }
