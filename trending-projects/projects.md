@@ -784,6 +784,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~2,434 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/KKKKhazix/AIHOT
 
+**Added 2026-09-30**
+
+### [yetone/magpie](https://github.com/yetone/magpie)
+- **Stats:** 3,020 stars | 181 forks | 30 open issues
+- **Language:** Go | **Created:** 2026-09-23 | **License:** MIT
+- **Topics:** claude-code, codex, deepseek, gemini-cli, llm, macos
+- **What it is:** Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
+- **Growth:** averaging ~431 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/yetone/magpie
+
 
 ## Other Cool Projects
 

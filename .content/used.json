@@ -275,6 +275,7 @@
     "https://github.com/yanliudesign/mono-color-skill",
     "https://github.com/yc-software/qm",
     "https://github.com/yetone/cumora",
+    "https://github.com/yetone/magpie",
     "https://github.com/yi1108/printfilm",
     "https://github.com/yjh051108/dsh-routing-suite",
     "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
@@ -518,12 +519,6 @@
   "recent": [
     {
       "date": "2026-09-28",
-      "subcat": "AI Engineering",
-      "title": "7 Best AI Project Management Tools for Software Develop",
-      "url": "https://dev.to/therealmrmumba/7-best-ai-project-management-tools-for-software-development-teams-in-2026-fik"
-    },
-    {
-      "date": "2026-09-28",
       "subcat": "Hacker News Picks",
       "title": "Show HN: Lofi Cities  Pixel-art city nights with browse",
       "url": "https://news.ycombinator.com/item?id=49869574"
@@ -575,6 +570,12 @@
       "subcat": "AI & Machine Learning",
       "title": "KKKKhazix/AIHOT",
       "url": "https://github.com/KKKKhazix/AIHOT"
+    },
+    {
+      "date": "2026-09-30",
+      "subcat": "AI & Machine Learning",
+      "title": "yetone/magpie",
+      "url": "https://github.com/yetone/magpie"
     }
   ]
 }
