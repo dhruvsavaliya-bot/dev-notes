@@ -515,15 +515,10 @@
     "https://news.ycombinator.com/item?id=49869773",
     "https://news.ycombinator.com/item?id=49879401",
     "https://news.ycombinator.com/item?id=49879883",
-    "https://news.ycombinator.com/item?id=49883471"
+    "https://news.ycombinator.com/item?id=49883471",
+    "https://news.ycombinator.com/item?id=49893157"
   ],
   "recent": [
-    {
-      "date": "2026-09-29",
-      "subcat": "Productivity",
-      "title": "Claude e Obsidian - Como uma QA utiliza essas ferrament",
-      "url": "https://dev.to/he4rt/claude-e-obsidian-como-uma-qa-utiliza-essas-ferramentas-no-dia-a-dia-51jc"
-    },
     {
       "date": "2026-09-29",
       "subcat": "Hacker News Picks",
@@ -577,6 +572,12 @@
       "subcat": "Beginner",
       "title": "I Built My First AI Agent With AWS AgentCore, and the H",
       "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-ai-agent-with-aws-agentcore-and-the-hardest-part-wasnt-the-ai-54lf"
+    },
+    {
+      "date": "2026-09-30",
+      "subcat": "Hacker News Picks",
+      "title": "Ask HN: What are you reading?",
+      "url": "https://news.ycombinator.com/item?id=49893157"
     }
   ]
 }

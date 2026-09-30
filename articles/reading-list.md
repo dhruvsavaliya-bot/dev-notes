@@ -1226,6 +1226,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49883471
 - **Link:** https://calnewport.com/its-time-to-investigate-the-ai-labs/
 
+**Added 2026-09-30**
+
+### [Ask HN: What are you reading?](https://news.ycombinator.com/item?id=49893157)
+- **Source:** news.ycombinator.com | **Posted:** 2026-09-29 | **By:** dan-bailey
+- **Community:** 222 points, 481 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49893157
+- **Link:** https://news.ycombinator.com/item?id=49893157
+
 
 ## DevOps & Cloud
 
