@@ -1233,3 +1233,12 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Tags:** career, discuss, beginners, braziliandevs
 - **Summary:** If you've ever felt like a fraud in an interview in English, this is probably what you need to...
 - **Link:** https://dev.to/danielhe4rt/youre-not-an-impostor-you-just-started-from-a-different-line-2lph
+
+**Added 2026-09-30**
+
+### [I Built My First AI Agent With AWS AgentCore, and the Hardest Part Wasn't the AI](https://dev.to/hemapriya_kanagala/i-built-my-first-ai-agent-with-aws-agentcore-and-the-hardest-part-wasnt-the-ai-54lf)
+- **Author:** Hemapriya Kanagala | **Published:** Sep 29 | **Read time:** 17 min
+- **Community:** 74 reactions, 20 comments — a top post of the week in #beginners
+- **Tags:** discuss, aws, beginners, agents
+- **Summary:** TL;DR  I recently completed another project from Udacity's Future AWS Agent Engineer Nanodegree...
+- **Link:** https://dev.to/hemapriya_kanagala/i-built-my-first-ai-agent-with-aws-agentcore-and-the-hardest-part-wasnt-the-ai-54lf

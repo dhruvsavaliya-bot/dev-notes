@@ -46,6 +46,7 @@
     "https://dev.to/he4rt/pensar-demais-nem-sempre-ajuda-e-o-que-eu-aprendi-com-isso-49pp",
     "https://dev.to/he4rt/velocidade-de-entrega-e-custo-de-manutencao-pos-ia-5gei",
     "https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h",
+    "https://dev.to/hemapriya_kanagala/i-built-my-first-ai-agent-with-aws-agentcore-and-the-hardest-part-wasnt-the-ai-54lf",
     "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg",
     "https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh",
     "https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al",
@@ -518,12 +519,6 @@
   ],
   "recent": [
     {
-      "date": "2026-09-28",
-      "subcat": "Hacker News Picks",
-      "title": "Show HN: Lofi Cities  Pixel-art city nights with browse",
-      "url": "https://news.ycombinator.com/item?id=49869574"
-    },
-    {
       "date": "2026-09-29",
       "subcat": "Productivity",
       "title": "Claude e Obsidian - Como uma QA utiliza essas ferrament",
@@ -576,6 +571,12 @@
       "subcat": "AI & Machine Learning",
       "title": "yetone/magpie",
       "url": "https://github.com/yetone/magpie"
+    },
+    {
+      "date": "2026-09-30",
+      "subcat": "Beginner",
+      "title": "I Built My First AI Agent With AWS AgentCore, and the H",
+      "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-ai-agent-with-aws-agentcore-and-the-hardest-part-wasnt-the-ai-54lf"
     }
   ]
 }
