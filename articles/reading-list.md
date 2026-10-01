@@ -1280,6 +1280,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49913571
 - **Link:** https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
 
+**Added 2026-10-01**
+
+### [Before pixels: Modular industrial dashboards](https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/)
+- **Source:** unsung.aresluna.org | **Posted:** 2026-09-30 | **By:** leephillips
+- **Community:** 168 points, 35 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49912792
+- **Link:** https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/
+
 
 ## DevOps & Cloud
 
