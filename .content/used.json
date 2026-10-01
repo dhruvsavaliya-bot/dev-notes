@@ -519,15 +519,10 @@
     "https://news.ycombinator.com/item?id=49879883",
     "https://news.ycombinator.com/item?id=49883471",
     "https://news.ycombinator.com/item?id=49893157",
-    "https://news.ycombinator.com/item?id=49899090"
+    "https://news.ycombinator.com/item?id=49899090",
+    "https://news.ycombinator.com/item?id=49909056"
   ],
   "recent": [
-    {
-      "date": "2026-09-29",
-      "subcat": "AI Engineering",
-      "title": "I Turned DEV.to Into a Walkable 3D Library  Debugging I",
-      "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd"
-    },
     {
       "date": "2026-09-29",
       "subcat": "Hacker News Picks",
@@ -581,6 +576,12 @@
       "subcat": "Hacker News Picks",
       "title": "A Staff Engineer's Guide to Inventing Work",
       "url": "https://news.ycombinator.com/item?id=49878857"
+    },
+    {
+      "date": "2026-10-01",
+      "subcat": "Hacker News Picks",
+      "title": "What TLA+ can and can't check",
+      "url": "https://news.ycombinator.com/item?id=49909056"
     }
   ]
 }

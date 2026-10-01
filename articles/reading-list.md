@@ -1253,6 +1253,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49878857
 - **Link:** https://sujithjay.com/inventing-work
 
+**Added 2026-10-01**
+
+### [What TLA+ can and can't check](https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/)
+- **Source:** buttondown.com | **Posted:** 2026-09-30 | **By:** b-man
+- **Community:** 157 points, 34 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49909056
+- **Link:** https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/
+
 
 ## DevOps & Cloud
 
