@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**517 entries and counting** · Last updated: 2026-10-01
+**518 entries and counting** · Last updated: 2026-10-01
 
 ## Categories
 
@@ -11,15 +11,15 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 172 |
 | [AI / LLM Notes](ai/notes.md) | 47 |
-| [Reading List](articles/reading-list.md) | 146 |
+| [Reading List](articles/reading-list.md) | 147 |
 | [Coding Tips](coding-tips/tips.md) | 137 |
 | [Language Notes](languages/notes.md) | 15 |
 
 ## Latest additions
 
+- **2026-10-01** · *Web Development* — [TypeScript Compiler API: Preserving Child Node Narrowin](https://dev.to/nyaomaru/typescript-compiler-api-preserving-child-node-narrowing-in-reusable-type-guards-4pgh)
 - **2026-10-01** · *Hacker News Picks* — [Gemini 4 Argon](https://news.ycombinator.com/item?id=49913571)
 - **2026-10-01** · *Developer Tools* — [Niko1221/Strata](https://github.com/Niko1221/Strata)
-- **2026-10-01** · *Other Cool Projects* — [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM)
 
 ## How it works
 

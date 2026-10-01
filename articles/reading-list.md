@@ -134,6 +134,15 @@ Fresh dev articles and blog posts.
 - **Summary:** TLDR - I finished a small project that I am sharing for my friends on DEV, that allows you...
 - **Link:** https://dev.to/annavi11arrea1/sharing-dev-followers-count-on-github-profile-bj3
 
+**Added 2026-10-01**
+
+### [TypeScript Compiler API: Preserving Child Node Narrowing in Reusable Type Guards 🔧](https://dev.to/nyaomaru/typescript-compiler-api-preserving-child-node-narrowing-in-reusable-type-guards-4pgh)
+- **Author:** nyaomaru | **Published:** Sep 30 | **Read time:** 8 min
+- **Community:** 54 reactions, 1 comments — a top post of the week in #webdev
+- **Tags:** typescript, opensource, webdev, frontend
+- **Summary:** Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer exploring new possibilities with Jev 😸 (I'm also...
+- **Link:** https://dev.to/nyaomaru/typescript-compiler-api-preserving-child-node-narrowing-in-reusable-type-guards-4pgh
+
 
 ## Hacker News Picks
 

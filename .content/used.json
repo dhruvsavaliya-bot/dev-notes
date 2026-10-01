@@ -75,6 +75,7 @@
     "https://dev.to/nyaomaru/learn-number-of-islands-invert-binary-tree-and-course-schedule-with-step-by-step-visualization-in-5947",
     "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
     "https://dev.to/nyaomaru/learn-valid-parentheses-reverse-linked-list-and-tree-max-depth-with-step-by-step-visualization-in-3o09",
+    "https://dev.to/nyaomaru/typescript-compiler-api-preserving-child-node-narrowing-in-reusable-type-guards-4pgh",
     "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
     "https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk",
     "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9",
@@ -528,12 +529,6 @@
   "recent": [
     {
       "date": "2026-09-30",
-      "subcat": "AI & Machine Learning",
-      "title": "yetone/magpie",
-      "url": "https://github.com/yetone/magpie"
-    },
-    {
-      "date": "2026-09-30",
       "subcat": "Beginner",
       "title": "I Built My First AI Agent With AWS AgentCore, and the H",
       "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-ai-agent-with-aws-agentcore-and-the-hardest-part-wasnt-the-ai-54lf"
@@ -585,6 +580,12 @@
       "subcat": "Hacker News Picks",
       "title": "Gemini 4 Argon",
       "url": "https://news.ycombinator.com/item?id=49913571"
+    },
+    {
+      "date": "2026-10-01",
+      "subcat": "Web Development",
+      "title": "TypeScript Compiler API: Preserving Child Node Narrowin",
+      "url": "https://dev.to/nyaomaru/typescript-compiler-api-preserving-child-node-narrowing-in-reusable-type-guards-4pgh"
     }
   ]
 }
