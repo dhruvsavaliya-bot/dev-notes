@@ -1289,6 +1289,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49912792
 - **Link:** https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/
 
+**Added 2026-10-01**
+
+### [The last time my family was replaced by technology](https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/)
+- **Source:** manuel.darcemont.fr | **Posted:** 2026-09-30 | **By:** megalomanu
+- **Community:** 269 points, 546 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49908394
+- **Link:** https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/
+
 
 ## DevOps & Cloud
 
