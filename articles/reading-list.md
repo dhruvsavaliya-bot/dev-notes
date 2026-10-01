@@ -1262,6 +1262,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49909056
 - **Link:** https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/
 
+**Added 2026-10-01**
+
+### [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
+- **Source:** blog.google | **Posted:** 2026-09-30 | **By:** bradleyg223
+- **Community:** 1339 points, 852 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49913571
+- **Link:** https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
+
 
 ## DevOps & Cloud
 

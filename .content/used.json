@@ -522,15 +522,10 @@
     "https://news.ycombinator.com/item?id=49883471",
     "https://news.ycombinator.com/item?id=49893157",
     "https://news.ycombinator.com/item?id=49899090",
-    "https://news.ycombinator.com/item?id=49909056"
+    "https://news.ycombinator.com/item?id=49909056",
+    "https://news.ycombinator.com/item?id=49913571"
   ],
   "recent": [
-    {
-      "date": "2026-09-29",
-      "subcat": "AI & Machine Learning",
-      "title": "KKKKhazix/AIHOT",
-      "url": "https://github.com/KKKKhazix/AIHOT"
-    },
     {
       "date": "2026-09-30",
       "subcat": "AI & Machine Learning",
@@ -584,6 +579,12 @@
       "subcat": "Developer Tools",
       "title": "Niko1221/Strata",
       "url": "https://github.com/Niko1221/Strata"
+    },
+    {
+      "date": "2026-10-01",
+      "subcat": "Hacker News Picks",
+      "title": "Gemini 4 Argon",
+      "url": "https://news.ycombinator.com/item?id=49913571"
     }
   ]
 }
