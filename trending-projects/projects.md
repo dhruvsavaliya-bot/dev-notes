@@ -1557,6 +1557,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~285 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/cdyforever/how-to-live-better
 
+**Added 2026-10-01**
+
+### [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM)
+- **Stats:** 2,631 stars | 227 forks | 19 open issues
+- **Language:** Python | **Created:** 2026-09-23 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~328 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/Contrastive-LM/CLM
+
 
 ## Web & Frontend
 

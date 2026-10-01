@@ -118,6 +118,7 @@
     "https://github.com/Albert-Weasker/niubigeo",
     "https://github.com/AlephAITech/WorkBuddyGuide",
     "https://github.com/ApodexAI/FrontierAgent",
+    "https://github.com/Contrastive-LM/CLM",
     "https://github.com/CopilotKit/OpenBot",
     "https://github.com/CopilotKit/openmuse",
     "https://github.com/DavidHDev/canvas-ui",
@@ -525,12 +526,6 @@
   "recent": [
     {
       "date": "2026-09-29",
-      "subcat": "Hacker News Picks",
-      "title": "It's Time to Investigate the AI Labs",
-      "url": "https://news.ycombinator.com/item?id=49883471"
-    },
-    {
-      "date": "2026-09-29",
       "subcat": "Web Development",
       "title": "Sharing DEV Followers Count on Github Profile",
       "url": "https://dev.to/annavi11arrea1/sharing-dev-followers-count-on-github-profile-bj3"
@@ -582,6 +577,12 @@
       "subcat": "Hacker News Picks",
       "title": "What TLA+ can and can't check",
       "url": "https://news.ycombinator.com/item?id=49909056"
+    },
+    {
+      "date": "2026-10-01",
+      "subcat": "Other Cool Projects",
+      "title": "Contrastive-LM/CLM",
+      "url": "https://github.com/Contrastive-LM/CLM"
     }
   ]
 }
