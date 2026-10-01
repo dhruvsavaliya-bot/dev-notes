@@ -150,6 +150,7 @@
     "https://github.com/NVlabs/SoL-Pi",
     "https://github.com/Nanako0129/sepia",
     "https://github.com/NandhaKishorM/laya",
+    "https://github.com/Niko1221/Strata",
     "https://github.com/Player-YN/BrowserKitten",
     "https://github.com/Player-YN/PawWork_ZhuaZhua",
     "https://github.com/QwenLM/Qwen-MM-Plugins",
@@ -526,12 +527,6 @@
   "recent": [
     {
       "date": "2026-09-29",
-      "subcat": "Web Development",
-      "title": "Sharing DEV Followers Count on Github Profile",
-      "url": "https://dev.to/annavi11arrea1/sharing-dev-followers-count-on-github-profile-bj3"
-    },
-    {
-      "date": "2026-09-29",
       "subcat": "AI & Machine Learning",
       "title": "KKKKhazix/AIHOT",
       "url": "https://github.com/KKKKhazix/AIHOT"
@@ -583,6 +578,12 @@
       "subcat": "Other Cool Projects",
       "title": "Contrastive-LM/CLM",
       "url": "https://github.com/Contrastive-LM/CLM"
+    },
+    {
+      "date": "2026-10-01",
+      "subcat": "Developer Tools",
+      "title": "Niko1221/Strata",
+      "url": "https://github.com/Niko1221/Strata"
     }
   ]
 }

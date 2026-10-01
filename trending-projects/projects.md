@@ -1713,6 +1713,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~183 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Rion-Wu-tech/wechat-intelligence-hub
 
+**Added 2026-10-01**
+
+### [Niko1221/Strata](https://github.com/Niko1221/Strata)
+- **Stats:** 3,367 stars | 316 forks | 48 open issues
+- **Language:** C++ | **Created:** 2026-09-24 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
+- **Growth:** averaging ~481 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/Niko1221/Strata
+
 
 ## Backend & Infrastructure
 
