@@ -1298,6 +1298,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49908394
 - **Link:** https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/
 
+**Added 2026-10-02**
+
+### [Ask HN: Who wants to be hired? (October 2026)](https://news.ycombinator.com/item?id=49922568)
+- **Source:** news.ycombinator.com | **Posted:** 2026-10-01 | **By:** whoishiring
+- **Community:** 109 points, 338 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49922568
+- **Link:** https://news.ycombinator.com/item?id=49922568
+
 
 ## DevOps & Cloud
 
