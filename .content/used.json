@@ -27,6 +27,7 @@
     "https://dev.to/dj29/ai-didnt-remove-the-engineering-work-it-just-made-it-easier-to-pretend-you-did-42m9",
     "https://dev.to/dj29/chain-of-thought-faithfulness-toggling-reasoning-mode-made-one-model-5x-more-likely-to-follow-39b3",
     "https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2",
+    "https://dev.to/erikch/are-frontend-developers-cooked-is-frontend-design-safe-nn8",
     "https://dev.to/francistrdev/choose-your-burden-4dgl",
     "https://dev.to/francistrdev/git-gud-4e6g",
     "https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p",
@@ -536,12 +537,6 @@
   "recent": [
     {
       "date": "2026-10-01",
-      "subcat": "Developer Tools",
-      "title": "Niko1221/Strata",
-      "url": "https://github.com/Niko1221/Strata"
-    },
-    {
-      "date": "2026-10-01",
       "subcat": "Hacker News Picks",
       "title": "Gemini 4 Argon",
       "url": "https://news.ycombinator.com/item?id=49913571"
@@ -593,6 +588,12 @@
       "subcat": "Other Cool Projects",
       "title": "Taichu-AI/ZDTaichu5.0-9B",
       "url": "https://github.com/Taichu-AI/ZDTaichu5.0-9B"
+    },
+    {
+      "date": "2026-10-02",
+      "subcat": "Web Development",
+      "title": "Are Frontend Developers Cooked? Is Frontend design safe",
+      "url": "https://dev.to/erikch/are-frontend-developers-cooked-is-frontend-design-safe-nn8"
     }
   ]
 }

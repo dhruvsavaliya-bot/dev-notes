@@ -143,6 +143,15 @@ Fresh dev articles and blog posts.
 - **Summary:** Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer exploring new possibilities with Jev 😸 (I'm also...
 - **Link:** https://dev.to/nyaomaru/typescript-compiler-api-preserving-child-node-narrowing-in-reusable-type-guards-4pgh
 
+**Added 2026-10-02**
+
+### [Are Frontend Developers Cooked? Is Frontend design safe?](https://dev.to/erikch/are-frontend-developers-cooked-is-frontend-design-safe-nn8)
+- **Author:** Erik Hanchett | **Published:** Sep 30 | **Read time:** 4 min
+- **Community:** 50 reactions, 18 comments — a top post of the week in #webdev
+- **Tags:** webdev, frontend, ai, career
+- **Summary:** I recently put out a video arguing that frontend development is changing. I don't think the work is...
+- **Link:** https://dev.to/erikch/are-frontend-developers-cooked-is-frontend-design-safe-nn8
+
 
 ## Hacker News Picks
 
