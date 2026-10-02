@@ -1168,6 +1168,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49879401
 - **Link:** https://hn.watch/
 
+**Added 2026-10-02**
+
+### [Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers](https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/)
+- **Source:** www.rtl-sdr.com | **Posted:** 2026-10-01 | **By:** nkw
+- **Community:** 230 points, 40 comments on Hacker News front page
+- **Why it's here:** HN front page is the most competitive dev content filter on the internet - only ~30 stories/day make it out of thousands.
+- **Discussion:** https://news.ycombinator.com/item?id=49922674
+- **Link:** https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/
+
 
 ## Beginner
 

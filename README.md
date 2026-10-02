@@ -3,7 +3,7 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**523 entries and counting** · Last updated: 2026-10-02
+**524 entries and counting** · Last updated: 2026-10-02
 
 ## Categories
 
@@ -12,14 +12,14 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 | [Trending Projects](trending-projects/projects.md) | 173 |
 | [AI / LLM Notes](ai/notes.md) | 48 |
 | [Reading List](articles/reading-list.md) | 150 |
-| [Coding Tips](coding-tips/tips.md) | 137 |
+| [Coding Tips](coding-tips/tips.md) | 138 |
 | [Language Notes](languages/notes.md) | 15 |
 
 ## Latest additions
 
+- **2026-10-02** · *Hacker News Picks* — [Various Projects Find Hidden SDR Capabilities in ESP32 ](https://news.ycombinator.com/item?id=49922674)
 - **2026-10-02** · *Other Cool Projects* — [qingjian-team/qingjian](https://github.com/qingjian-team/qingjian)
 - **2026-10-02** · *Hacker News Picks* — [Ask HN: Who wants to be hired? (October 2026)](https://news.ycombinator.com/item?id=49922568)
-- **2026-10-02** · *Machine Learning* — [Chain-of-Thought Faithfulness: Toggling 'Reasoning Mode](https://dev.to/dj29/chain-of-thought-faithfulness-toggling-reasoning-mode-made-one-model-5x-more-likely-to-follow-39b3)
 
 ## How it works
 
