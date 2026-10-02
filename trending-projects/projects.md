@@ -1567,6 +1567,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~328 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Contrastive-LM/CLM
 
+**Added 2026-10-02**
+
+### [qingjian-team/qingjian](https://github.com/qingjian-team/qingjian)
+- **Stats:** 2,613 stars | 207 forks | 124 open issues
+- **Language:** Rust | **Created:** 2026-09-07 | **License:** GPL-3.0
+- **Topics:** chinese, chinese-input-method, english-learning, ime, input-method, japanese-learning
+- **What it is:** 青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词
+- **Growth:** averaging ~104 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/qingjian-team/qingjian
+
 
 ## Web & Frontend
 

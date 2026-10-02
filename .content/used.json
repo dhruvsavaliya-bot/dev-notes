@@ -250,6 +250,7 @@
     "https://github.com/pathwaycom/arc-task-gen",
     "https://github.com/penecho/penecho",
     "https://github.com/petergyang/no-ai-slop",
+    "https://github.com/qingjian-team/qingjian",
     "https://github.com/rakanki911/DLSS5-Swapper",
     "https://github.com/robbietilton/Compositor",
     "https://github.com/s1dashu/ip-as-logo-skill",
@@ -532,12 +533,6 @@
   ],
   "recent": [
     {
-      "date": "2026-09-30",
-      "subcat": "Hacker News Picks",
-      "title": "A Staff Engineer's Guide to Inventing Work",
-      "url": "https://news.ycombinator.com/item?id=49878857"
-    },
-    {
       "date": "2026-10-01",
       "subcat": "Hacker News Picks",
       "title": "What TLA+ can and can't check",
@@ -590,6 +585,12 @@
       "subcat": "Hacker News Picks",
       "title": "Ask HN: Who wants to be hired? (October 2026)",
       "url": "https://news.ycombinator.com/item?id=49922568"
+    },
+    {
+      "date": "2026-10-02",
+      "subcat": "Other Cool Projects",
+      "title": "qingjian-team/qingjian",
+      "url": "https://github.com/qingjian-team/qingjian"
     }
   ]
 }

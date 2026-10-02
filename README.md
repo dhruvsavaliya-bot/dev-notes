@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**522 entries and counting** · Last updated: 2026-10-02
+**523 entries and counting** · Last updated: 2026-10-02
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 172 |
+| [Trending Projects](trending-projects/projects.md) | 173 |
 | [AI / LLM Notes](ai/notes.md) | 48 |
 | [Reading List](articles/reading-list.md) | 150 |
 | [Coding Tips](coding-tips/tips.md) | 137 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-10-02** · *Other Cool Projects* — [qingjian-team/qingjian](https://github.com/qingjian-team/qingjian)
 - **2026-10-02** · *Hacker News Picks* — [Ask HN: Who wants to be hired? (October 2026)](https://news.ycombinator.com/item?id=49922568)
 - **2026-10-02** · *Machine Learning* — [Chain-of-Thought Faithfulness: Toggling 'Reasoning Mode](https://dev.to/dj29/chain-of-thought-faithfulness-toggling-reasoning-mode-made-one-model-5x-more-likely-to-follow-39b3)
-- **2026-10-01** · *Hacker News Picks* — [The last time my family was replaced by technology](https://news.ycombinator.com/item?id=49908394)
 
 ## How it works
 
