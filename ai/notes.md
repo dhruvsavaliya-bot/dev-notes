@@ -434,3 +434,12 @@ Lessons from building with LLMs.
 - **Tags:** ai, machinelearning, coding, development
 - **Summary:** Let's Address the Elephant in the Room Again   Vibe coding has always been a weird topic to...
 - **Link:** https://dev.to/georgekobaidze/vibe-coding-isnt-the-problem-calling-it-engineering-is-lm1
+
+**Added 2026-10-02**
+
+### [Chain-of-Thought Faithfulness: Toggling 'Reasoning Mode' Made One Model 5x More Likely to Follow Its Own Mistakes](https://dev.to/dj29/chain-of-thought-faithfulness-toggling-reasoning-mode-made-one-model-5x-more-likely-to-follow-39b3)
+- **Author:** Dhruv Jani | **Published:** Sep 27 | **Read time:** 5 min
+- **Community:** 52 reactions, 25 comments — a top post of the week in #machinelearning
+- **Tags:** devchallenge, kagglechallenge, ai, machinelearning
+- **Summary:** This is a submission for the Kaggle Benchmarking Challenge           What I Benchmarked   A while...
+- **Link:** https://dev.to/dj29/chain-of-thought-faithfulness-toggling-reasoning-mode-made-one-model-5x-more-likely-to-follow-39b3

@@ -25,6 +25,7 @@
     "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
     "https://dev.to/dj29/5-devto-features-i-wish-existed-3-im-genuinely-relieved-they-dont-3b8n",
     "https://dev.to/dj29/ai-didnt-remove-the-engineering-work-it-just-made-it-easier-to-pretend-you-did-42m9",
+    "https://dev.to/dj29/chain-of-thought-faithfulness-toggling-reasoning-mode-made-one-model-5x-more-likely-to-follow-39b3",
     "https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2",
     "https://dev.to/francistrdev/choose-your-burden-4dgl",
     "https://dev.to/francistrdev/git-gud-4e6g",
@@ -531,12 +532,6 @@
   "recent": [
     {
       "date": "2026-09-30",
-      "subcat": "Security",
-      "title": "Prompt Injection Is the New SQL Injection (and We're No",
-      "url": "https://dev.to/james_anderson_h/prompt-injection-is-the-new-sql-injection-and-were-not-ready-4ea4"
-    },
-    {
-      "date": "2026-09-30",
       "subcat": "Hacker News Picks",
       "title": "U.S. postal inspectors shut down website selling counte",
       "url": "https://news.ycombinator.com/item?id=49899090"
@@ -588,6 +583,12 @@
       "subcat": "Hacker News Picks",
       "title": "The last time my family was replaced by technology",
       "url": "https://news.ycombinator.com/item?id=49908394"
+    },
+    {
+      "date": "2026-10-02",
+      "subcat": "Machine Learning",
+      "title": "Chain-of-Thought Faithfulness: Toggling 'Reasoning Mode",
+      "url": "https://dev.to/dj29/chain-of-thought-faithfulness-toggling-reasoning-mode-made-one-model-5x-more-likely-to-follow-39b3"
     }
   ]
 }
