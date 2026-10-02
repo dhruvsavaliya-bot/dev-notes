@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**526 entries and counting** · Last updated: 2026-10-02
+**527 entries and counting** · Last updated: 2026-10-02
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 174 |
+| [Trending Projects](trending-projects/projects.md) | 175 |
 | [AI / LLM Notes](ai/notes.md) | 48 |
 | [Reading List](articles/reading-list.md) | 151 |
 | [Coding Tips](coding-tips/tips.md) | 138 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-10-02** · *AI & Machine Learning* — [Louis-CFM/coucou](https://github.com/Louis-CFM/coucou)
 - **2026-10-02** · *Web Development* — [Are Frontend Developers Cooked? Is Frontend design safe](https://dev.to/erikch/are-frontend-developers-cooked-is-frontend-design-safe-nn8)
 - **2026-10-02** · *Other Cool Projects* — [Taichu-AI/ZDTaichu5.0-9B](https://github.com/Taichu-AI/ZDTaichu5.0-9B)
-- **2026-10-02** · *Hacker News Picks* — [Various Projects Find Hidden SDR Capabilities in ESP32 ](https://news.ycombinator.com/item?id=49922674)
 
 ## How it works
 

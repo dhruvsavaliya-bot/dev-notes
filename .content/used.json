@@ -140,6 +140,7 @@
     "https://github.com/LaoFeng-mouse/flyingmouse-format",
     "https://github.com/Leonxlnx/unlazy",
     "https://github.com/LiamGvchi/gc-minimal-zine-poster",
+    "https://github.com/Louis-CFM/coucou",
     "https://github.com/MDX-Tom/gpt-5.6-instruct",
     "https://github.com/MIgHTy-alIeN/MEV-Ethereum-Trading-Bot",
     "https://github.com/MIgHTy-alIeN/ai-trader-bot",
@@ -537,12 +538,6 @@
   "recent": [
     {
       "date": "2026-10-01",
-      "subcat": "Hacker News Picks",
-      "title": "Gemini 4 Argon",
-      "url": "https://news.ycombinator.com/item?id=49913571"
-    },
-    {
-      "date": "2026-10-01",
       "subcat": "Web Development",
       "title": "TypeScript Compiler API: Preserving Child Node Narrowin",
       "url": "https://dev.to/nyaomaru/typescript-compiler-api-preserving-child-node-narrowing-in-reusable-type-guards-4pgh"
@@ -594,6 +589,12 @@
       "subcat": "Web Development",
       "title": "Are Frontend Developers Cooked? Is Frontend design safe",
       "url": "https://dev.to/erikch/are-frontend-developers-cooked-is-frontend-design-safe-nn8"
+    },
+    {
+      "date": "2026-10-02",
+      "subcat": "AI & Machine Learning",
+      "title": "Louis-CFM/coucou",
+      "url": "https://github.com/Louis-CFM/coucou"
     }
   ]
 }

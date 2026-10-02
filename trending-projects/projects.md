@@ -794,6 +794,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~431 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/yetone/magpie
 
+**Added 2026-10-02**
+
+### [Louis-CFM/coucou](https://github.com/Louis-CFM/coucou)
+- **Stats:** 2,762 stars | 409 forks | 82 open issues
+- **Language:** Swift | **Created:** 2026-09-27 | **License:** MIT
+- **Topics:** ai-agents, anthropic, antigravity, claude, claude-code, dynamic-island
+- **What it is:** A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Gemini CLI, Antigravity and more.
+- **Growth:** averaging ~552 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/Louis-CFM/coucou
+
 
 ## Other Cool Projects
 
