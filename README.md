@@ -3,13 +3,13 @@
 Auto-curated developer knowledge base — fresh content added **four times daily**
 from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
-**524 entries and counting** · Last updated: 2026-10-02
+**525 entries and counting** · Last updated: 2026-10-02
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 173 |
+| [Trending Projects](trending-projects/projects.md) | 174 |
 | [AI / LLM Notes](ai/notes.md) | 48 |
 | [Reading List](articles/reading-list.md) | 150 |
 | [Coding Tips](coding-tips/tips.md) | 138 |
@@ -17,9 +17,9 @@ from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.
 
 ## Latest additions
 
+- **2026-10-02** · *Other Cool Projects* — [Taichu-AI/ZDTaichu5.0-9B](https://github.com/Taichu-AI/ZDTaichu5.0-9B)
 - **2026-10-02** · *Hacker News Picks* — [Various Projects Find Hidden SDR Capabilities in ESP32 ](https://news.ycombinator.com/item?id=49922674)
 - **2026-10-02** · *Other Cool Projects* — [qingjian-team/qingjian](https://github.com/qingjian-team/qingjian)
-- **2026-10-02** · *Hacker News Picks* — [Ask HN: Who wants to be hired? (October 2026)](https://news.ycombinator.com/item?id=49922568)
 
 ## How it works
 

@@ -160,6 +160,7 @@
     "https://github.com/Sahir619/fable-method",
     "https://github.com/Shpigford/knockoff",
     "https://github.com/SonicloudTech/sonicloud_opensdk",
+    "https://github.com/Taichu-AI/ZDTaichu5.0-9B",
     "https://github.com/TheoLeeCJ/SemIf",
     "https://github.com/TheoLeeCJ/SemIf-OpenJev",
     "https://github.com/TianyuCodings/NanoJev",
@@ -535,12 +536,6 @@
   "recent": [
     {
       "date": "2026-10-01",
-      "subcat": "Other Cool Projects",
-      "title": "Contrastive-LM/CLM",
-      "url": "https://github.com/Contrastive-LM/CLM"
-    },
-    {
-      "date": "2026-10-01",
       "subcat": "Developer Tools",
       "title": "Niko1221/Strata",
       "url": "https://github.com/Niko1221/Strata"
@@ -592,6 +587,12 @@
       "subcat": "Hacker News Picks",
       "title": "Various Projects Find Hidden SDR Capabilities in ESP32 ",
       "url": "https://news.ycombinator.com/item?id=49922674"
+    },
+    {
+      "date": "2026-10-02",
+      "subcat": "Other Cool Projects",
+      "title": "Taichu-AI/ZDTaichu5.0-9B",
+      "url": "https://github.com/Taichu-AI/ZDTaichu5.0-9B"
     }
   ]
 }

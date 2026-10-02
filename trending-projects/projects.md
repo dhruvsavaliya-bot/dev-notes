@@ -1577,6 +1577,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~104 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/qingjian-team/qingjian
 
+**Added 2026-10-02**
+
+### [Taichu-AI/ZDTaichu5.0-9B](https://github.com/Taichu-AI/ZDTaichu5.0-9B)
+- **Stats:** 2,837 stars | 551 forks | 3 open issues
+- **Language:** Python | **Created:** 2026-09-04 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~101 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/Taichu-AI/ZDTaichu5.0-9B
+
 
 ## Web & Frontend
 
