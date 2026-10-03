@@ -261,6 +261,7 @@
     "https://github.com/sapientinc/PRAXIST",
     "https://github.com/sdli1995/dlssg_for_sm86",
     "https://github.com/shadcn-ui/lint",
+    "https://github.com/shihabal3amri/DiPlay",
     "https://github.com/slvDev/esp32-ai",
     "https://github.com/synthetic-sciences/openscience",
     "https://github.com/tamaratran/fast-jev-compaction",
@@ -540,12 +541,6 @@
     {
       "date": "2026-10-01",
       "subcat": "Hacker News Picks",
-      "title": "Before pixels: Modular industrial dashboards",
-      "url": "https://news.ycombinator.com/item?id=49912792"
-    },
-    {
-      "date": "2026-10-01",
-      "subcat": "Hacker News Picks",
       "title": "The last time my family was replaced by technology",
       "url": "https://news.ycombinator.com/item?id=49908394"
     },
@@ -596,6 +591,12 @@
       "subcat": "AI Engineering",
       "title": "Hacktoberfest Is Coming to Nadiad, Gujarat  Official ML",
       "url": "https://dev.to/dj29/hacktoberfest-is-coming-to-nadiad-gujarat-official-mlh-meetup-at-ddu-15-oct-1dc4"
+    },
+    {
+      "date": "2026-10-03",
+      "subcat": "Other Cool Projects",
+      "title": "shihabal3amri/DiPlay",
+      "url": "https://github.com/shihabal3amri/DiPlay"
     }
   ]
 }

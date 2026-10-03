@@ -1597,6 +1597,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~101 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Taichu-AI/ZDTaichu5.0-9B
 
+**Added 2026-10-03**
+
+### [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay)
+- **Stats:** 2,606 stars | 357 forks | 68 open issues
+- **Language:** Kotlin | **Created:** 2026-09-24 | **License:** GPL-3.0
+- **Topics:** none listed
+- **What it is:** Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.
+- **Growth:** averaging ~289 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
+- **Link:** https://github.com/shihabal3amri/DiPlay
+
 
 ## Web & Frontend
 
