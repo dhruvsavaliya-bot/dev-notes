@@ -26,6 +26,7 @@
     "https://dev.to/dj29/5-devto-features-i-wish-existed-3-im-genuinely-relieved-they-dont-3b8n",
     "https://dev.to/dj29/ai-didnt-remove-the-engineering-work-it-just-made-it-easier-to-pretend-you-did-42m9",
     "https://dev.to/dj29/chain-of-thought-faithfulness-toggling-reasoning-mode-made-one-model-5x-more-likely-to-follow-39b3",
+    "https://dev.to/dj29/hacktoberfest-is-coming-to-nadiad-gujarat-official-mlh-meetup-at-ddu-15-oct-1dc4",
     "https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2",
     "https://dev.to/erikch/are-frontend-developers-cooked-is-frontend-design-safe-nn8",
     "https://dev.to/francistrdev/choose-your-burden-4dgl",
@@ -538,12 +539,6 @@
   "recent": [
     {
       "date": "2026-10-01",
-      "subcat": "Web Development",
-      "title": "TypeScript Compiler API: Preserving Child Node Narrowin",
-      "url": "https://dev.to/nyaomaru/typescript-compiler-api-preserving-child-node-narrowing-in-reusable-type-guards-4pgh"
-    },
-    {
-      "date": "2026-10-01",
       "subcat": "Hacker News Picks",
       "title": "Before pixels: Modular industrial dashboards",
       "url": "https://news.ycombinator.com/item?id=49912792"
@@ -595,6 +590,12 @@
       "subcat": "AI & Machine Learning",
       "title": "Louis-CFM/coucou",
       "url": "https://github.com/Louis-CFM/coucou"
+    },
+    {
+      "date": "2026-10-03",
+      "subcat": "AI Engineering",
+      "title": "Hacktoberfest Is Coming to Nadiad, Gujarat  Official ML",
+      "url": "https://dev.to/dj29/hacktoberfest-is-coming-to-nadiad-gujarat-official-mlh-meetup-at-ddu-15-oct-1dc4"
     }
   ]
 }

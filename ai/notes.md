@@ -384,6 +384,15 @@ Lessons from building with LLMs.
 - **Summary:** DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...
 - **Link:** https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd
 
+**Added 2026-10-03**
+
+### [Hacktoberfest Is Coming to Nadiad, Gujarat 🚀 Official MLH Meetup at DDU, 15 Oct](https://dev.to/dj29/hacktoberfest-is-coming-to-nadiad-gujarat-official-mlh-meetup-at-ddu-15-oct-1dc4)
+- **Author:** Dhruv Jani | **Published:** Oct 2 | **Read time:** 4 min
+- **Community:** 53 reactions, 12 comments — a top post of the week in #ai
+- **Tags:** hacktoberfest, opensource, ai, beginners
+- **Summary:** Most students hear about hackathons, open source and developer communities in their third or fourth...
+- **Link:** https://dev.to/dj29/hacktoberfest-is-coming-to-nadiad-gujarat-official-mlh-meetup-at-ddu-15-oct-1dc4
+
 
 ## LLMs
 
