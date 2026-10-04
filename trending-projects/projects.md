@@ -1680,6 +1680,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~216 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/crmne/spotifast
 
+**Added 2026-10-04**
+
+### [remoteinterview/zero](https://github.com/remoteinterview/zero)
+- **Stats:** 5,809 stars | 242 forks | 91 open issues
+- **Language:** JavaScript | **Created:** 2018-11-21 | **License:** Apache-2.0
+- **Topics:** hmr, javascript, nodejs, react, ssr, typescript
+- **What it is:** Zero is a web server to simplify web development.
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/remoteinterview/zero
+
 
 ## Developer Tools
 

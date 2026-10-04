@@ -259,6 +259,7 @@
     "https://github.com/petergyang/no-ai-slop",
     "https://github.com/qingjian-team/qingjian",
     "https://github.com/rakanki911/DLSS5-Swapper",
+    "https://github.com/remoteinterview/zero",
     "https://github.com/robbietilton/Compositor",
     "https://github.com/s1dashu/ip-as-logo-skill",
     "https://github.com/sapientinc/PRAXIST",
@@ -548,12 +549,6 @@
   "recent": [
     {
       "date": "2026-10-03",
-      "subcat": "AI Engineering",
-      "title": "Hacktoberfest Is Coming to Nadiad, Gujarat  Official ML",
-      "url": "https://dev.to/dj29/hacktoberfest-is-coming-to-nadiad-gujarat-official-mlh-meetup-at-ddu-15-oct-1dc4"
-    },
-    {
-      "date": "2026-10-03",
       "subcat": "Other Cool Projects",
       "title": "shihabal3amri/DiPlay",
       "url": "https://github.com/shihabal3amri/DiPlay"
@@ -605,6 +600,12 @@
       "subcat": "Hacker News Picks",
       "title": "Reasons I didn't become an EMT, ranked",
       "url": "https://news.ycombinator.com/item?id=49947631"
+    },
+    {
+      "date": "2026-10-04",
+      "subcat": "Web & Frontend",
+      "title": "remoteinterview/zero",
+      "url": "https://github.com/remoteinterview/zero"
     }
   ]
 }
