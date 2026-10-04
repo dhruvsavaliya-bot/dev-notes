@@ -69,6 +69,16 @@ Snippets and gotchas across languages.
 - **Summary:** Intro   I created an AI avatar, a VRM 3D character that reacts when you chat with AI or...
 - **Link:** https://dev.to/webdeveloperhyper/let-superheroes-cheer-you-up-ai-avatar-v6-chrome-extension-vs-code-extension-2ak7
 
+**Added 2026-10-04**
+
+### [Porffor goes alpha August 11th](https://honk.foo/porffor-alpha/)
+- **Source:** honk.foo | **Posted:** 2026-08-25 | **By:** giacomo_cavalieri
+- **Community:** 21 score, 1 comments on Lobsters
+- **Tags:** compilers, javascript
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th
+- **Link:** https://honk.foo/porffor-alpha/
+
 
 ## TypeScript
 

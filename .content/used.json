@@ -304,6 +304,7 @@
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
     "https://huggingface.co/datasets/nvidia/Open-SWE-Traces",
     "https://huggingface.co/datasets/nvidia/OpenH-RF",
+    "https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th",
     "https://news.ycombinator.com/item?id=21611677",
     "https://news.ycombinator.com/item?id=31335904",
     "https://news.ycombinator.com/item?id=37149349",
@@ -559,12 +560,6 @@
   "recent": [
     {
       "date": "2026-10-04",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: LinkedIn sucks, so I built a better one",
-      "url": "https://news.ycombinator.com/item?id=43454915"
-    },
-    {
-      "date": "2026-10-04",
       "subcat": "Hacker News Picks",
       "title": "The work by Valve's Timur Kristf on improving old AMD G",
       "url": "https://news.ycombinator.com/item?id=49946895"
@@ -616,6 +611,12 @@
       "subcat": "Other Cool Projects",
       "title": "amirh00sain/SpiderPanel",
       "url": "https://github.com/amirh00sain/SpiderPanel"
+    },
+    {
+      "date": "2026-10-04",
+      "subcat": "JavaScript",
+      "title": "Porffor goes alpha August 11th",
+      "url": "https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th"
     }
   ]
 }
