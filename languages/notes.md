@@ -168,3 +168,12 @@ Snippets and gotchas across languages.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=44471388
 - **Link:** https://doeken.org/blog/coroutines-in-php
+
+**Added 2026-10-04**
+
+### [Running PHP fast at the edge with WebAssembly](https://wasmer.io/posts/running-php-blazingly-fast-at-the-edge-with-wasm)
+- **Source:** wasmer.io | **Posted:** 2024-05-23 | **By:** ecmm
+- **Community:** 116 points, 93 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=40457229
+- **Link:** https://wasmer.io/posts/running-php-blazingly-fast-at-the-edge-with-wasm

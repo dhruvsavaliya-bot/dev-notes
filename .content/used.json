@@ -304,6 +304,7 @@
     "https://huggingface.co/datasets/nvidia/OpenH-RF",
     "https://news.ycombinator.com/item?id=21611677",
     "https://news.ycombinator.com/item?id=31335904",
+    "https://news.ycombinator.com/item?id=40457229",
     "https://news.ycombinator.com/item?id=43454915",
     "https://news.ycombinator.com/item?id=44471388",
     "https://news.ycombinator.com/item?id=48896600",
@@ -555,12 +556,6 @@
   "recent": [
     {
       "date": "2026-10-04",
-      "subcat": "Developer Tools",
-      "title": "ardatan/graphql-tools",
-      "url": "https://github.com/ardatan/graphql-tools"
-    },
-    {
-      "date": "2026-10-04",
       "subcat": "Show & Ask HN",
       "title": "Show HN: thedaywefightback.js",
       "url": "https://news.ycombinator.com/item?id=7185024"
@@ -612,6 +607,12 @@
       "subcat": "AI & Machine Learning",
       "title": "ShenSeanChen/waku-agent",
       "url": "https://github.com/ShenSeanChen/waku-agent"
+    },
+    {
+      "date": "2026-10-04",
+      "subcat": "PHP",
+      "title": "Running PHP fast at the edge with WebAssembly",
+      "url": "https://news.ycombinator.com/item?id=40457229"
     }
   ]
 }
