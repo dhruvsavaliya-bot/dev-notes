@@ -104,6 +104,7 @@
     "https://dev.to/varshithvhegde/i-built-a-chat-app-that-rewrites-its-own-ui-in-real-time-21m5",
     "https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd",
     "https://dev.to/webdeveloperhyper/ai-avatar-v20-cursor-avatar-notification-avatar-voxel-avatar-4dd2",
+    "https://dev.to/webdeveloperhyper/let-superheroes-cheer-you-up-ai-avatar-v6-chrome-extension-vs-code-extension-2ak7",
     "https://dev.to/wiseai/i-built-a-version-bump-tool-in-rust-that-is-10000x-faster-than-its-python-counterparts-i6b",
     "https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0",
     "https://dev.to/xulingfeng/24-cups-36-seats-the-bartenders-ledger-40aj",
@@ -539,12 +540,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-01",
-      "subcat": "Hacker News Picks",
-      "title": "The last time my family was replaced by technology",
-      "url": "https://news.ycombinator.com/item?id=49908394"
-    },
-    {
       "date": "2026-10-02",
       "subcat": "Machine Learning",
       "title": "Chain-of-Thought Faithfulness: Toggling 'Reasoning Mode",
@@ -597,6 +592,12 @@
       "subcat": "Other Cool Projects",
       "title": "shihabal3amri/DiPlay",
       "url": "https://github.com/shihabal3amri/DiPlay"
+    },
+    {
+      "date": "2026-10-04",
+      "subcat": "JavaScript",
+      "title": "Let Superheroes Cheer You Up (AI Avatar v6: Chrome Exte",
+      "url": "https://dev.to/webdeveloperhyper/let-superheroes-cheer-you-up-ai-avatar-v6-chrome-extension-vs-code-extension-2ak7"
     }
   ]
 }

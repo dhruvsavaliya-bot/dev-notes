@@ -60,6 +60,15 @@ Snippets and gotchas across languages.
 - **Summary:** This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing           What I...
 - **Link:** https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h
 
+**Added 2026-10-04**
+
+### [🦸Let Superheroes Cheer You Up (AI Avatar v6: Chrome Extension + VS Code Extension)](https://dev.to/webdeveloperhyper/let-superheroes-cheer-you-up-ai-avatar-v6-chrome-extension-vs-code-extension-2ak7)
+- **Author:** Web Developer Hyper | **Published:** Apr 21 | **Read time:** 4 min
+- **Community:** 74 reactions, 46 comments -- a top post in #javascript
+- **Tags:** ai, webdev, javascript, discuss
+- **Summary:** Intro   I created an AI avatar, a VRM 3D character that reacts when you chat with AI or...
+- **Link:** https://dev.to/webdeveloperhyper/let-superheroes-cheer-you-up-ai-avatar-v6-chrome-extension-vs-code-extension-2ak7
+
 
 ## TypeScript
 
