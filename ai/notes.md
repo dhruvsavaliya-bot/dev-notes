@@ -491,6 +491,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/prompthero/openjourney
 
+**Added 2026-10-05**
+
+### [monology/pile-uncopyrighted](https://huggingface.co/datasets/monology/pile-uncopyrighted)
+- **Stats:** 175 likes | 86,464 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2023-08-30
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/monology/pile-uncopyrighted
+
 
 ## Research Papers
 
