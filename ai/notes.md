@@ -452,3 +452,14 @@ Lessons from building with LLMs.
 - **Tags:** devchallenge, kagglechallenge, ai, machinelearning
 - **Summary:** This is a submission for the Kaggle Benchmarking Challenge           What I Benchmarked   A while...
 - **Link:** https://dev.to/dj29/chain-of-thought-faithfulness-toggling-reasoning-mode-made-one-model-5x-more-likely-to-follow-39b3
+
+## Models & Datasets
+
+**Added 2026-10-04**
+
+### [OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED)
+- **Stats:** 1,385 likes | 761,643 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-08-19
+- **Tags:** mlx, safetensors, gguf, qwen3_5, abliterated, uncensored
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED

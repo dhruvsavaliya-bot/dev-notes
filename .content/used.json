@@ -296,6 +296,7 @@
     "https://github.com/zai-org/ZCode",
     "https://github.com/zhu1090093659/dsh-web",
     "https://github.com/zhu1090093659/dsh-web-ui",
+    "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
     "https://news.ycombinator.com/item?id=48896600",
     "https://news.ycombinator.com/item?id=48896665",
     "https://news.ycombinator.com/item?id=48926590",
@@ -541,12 +542,6 @@
   "recent": [
     {
       "date": "2026-10-02",
-      "subcat": "Machine Learning",
-      "title": "Chain-of-Thought Faithfulness: Toggling 'Reasoning Mode",
-      "url": "https://dev.to/dj29/chain-of-thought-faithfulness-toggling-reasoning-mode-made-one-model-5x-more-likely-to-follow-39b3"
-    },
-    {
-      "date": "2026-10-02",
       "subcat": "Hacker News Picks",
       "title": "Ask HN: Who wants to be hired? (October 2026)",
       "url": "https://news.ycombinator.com/item?id=49922568"
@@ -598,6 +593,12 @@
       "subcat": "JavaScript",
       "title": "Let Superheroes Cheer You Up (AI Avatar v6: Chrome Exte",
       "url": "https://dev.to/webdeveloperhyper/let-superheroes-cheer-you-up-ai-avatar-v6-chrome-extension-vs-code-extension-2ak7"
+    },
+    {
+      "date": "2026-10-04",
+      "subcat": "Models & Datasets",
+      "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+      "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED"
     }
   ]
 }
