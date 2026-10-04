@@ -162,6 +162,7 @@
     "https://github.com/QwenLM/Qwen-MM-Plugins",
     "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
     "https://github.com/Sahir619/fable-method",
+    "https://github.com/ShenSeanChen/waku-agent",
     "https://github.com/Shpigford/knockoff",
     "https://github.com/SonicloudTech/sonicloud_opensdk",
     "https://github.com/Taichu-AI/ZDTaichu5.0-9B",
@@ -554,12 +555,6 @@
   "recent": [
     {
       "date": "2026-10-04",
-      "subcat": "Hacker News Picks",
-      "title": "Agents don't need memory, they need documentation",
-      "url": "https://news.ycombinator.com/item?id=49945933"
-    },
-    {
-      "date": "2026-10-04",
       "subcat": "Developer Tools",
       "title": "ardatan/graphql-tools",
       "url": "https://github.com/ardatan/graphql-tools"
@@ -611,6 +606,12 @@
       "subcat": "Hacker News Picks",
       "title": "Save .org",
       "url": "https://news.ycombinator.com/item?id=21611677"
+    },
+    {
+      "date": "2026-10-04",
+      "subcat": "AI & Machine Learning",
+      "title": "ShenSeanChen/waku-agent",
+      "url": "https://github.com/ShenSeanChen/waku-agent"
     }
   ]
 }

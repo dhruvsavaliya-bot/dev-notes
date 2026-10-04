@@ -804,6 +804,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~552 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Louis-CFM/coucou
 
+**Added 2026-10-04**
+
+### [ShenSeanChen/waku-agent](https://github.com/ShenSeanChen/waku-agent)
+- **Stats:** 1,900 stars | 384 forks | 41 open issues
+- **Language:** Python | **Created:** 2026-07-10 | **License:** MIT
+- **Topics:** agent-framework, ai-agent, ai-assistant, claude, evals, llm
+- **What it is:** Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code built to stay legible as it grows.
+- **Growth:** averaging ~22 stars/day since launch.
+- **Link:** https://github.com/ShenSeanChen/waku-agent
+
 
 ## Other Cool Projects
 
