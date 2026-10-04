@@ -4,7 +4,8 @@ dev-notes trigger (multi-source, multi-entry, target-driven)
 
 Every run:
   1. Syncs with origin, then works out how many commits today still needs
-     to reach DAILY_TARGET (never more than MAX_PER_RUN in one run)
+     to reach the day's target -- DAILY_TARGET on weekdays, WEEKEND_TARGET on
+     weekends, jittered per date (never more than MAX_PER_RUN in one run)
   2. Gathers candidates from every source that will answer -- GitHub search,
      Hacker News, Lobsters, dev.to, arXiv, Hugging Face -- relaxing the
      quality bar only if the fresh pool comes up short
@@ -46,7 +47,9 @@ def envint(name, default):
 
 
 # ---------------- volume knobs (tune anytime) ----------------
-DAILY_TARGET = envint("DEVNOTES_DAILY_TARGET", 42)          # commits a day should reach
+DAILY_TARGET = envint("DEVNOTES_DAILY_TARGET", 42)           # Mon-Fri target
+WEEKEND_TARGET = envint("DEVNOTES_WEEKEND_TARGET", 12)      # Sat/Sun target
+TARGET_JITTER = envint("DEVNOTES_JITTER", 6)                # +/- spread on the target
 MAX_PER_RUN = envint("DEVNOTES_MAX_PER_RUN", 8)             # ceiling for a single run
 MAX_ENTRIES_PER_FILE = envint("DEVNOTES_MAX_ENTRIES", 400)  # rotate past this
 PACE = os.environ.get("DEVNOTES_PACE", "1") != "0"          # spread target across the day
@@ -862,6 +865,26 @@ def spread(candidates, n):
     return picked
 
 
+def todays_target(when=None):
+    """The commit target for one calendar day.
+
+    A flat count seven days a week is the one pattern no human produces -- real
+    graphs have lighter weekends. Weekends still get a healthy number rather than
+    zero, so every square stays green and the streak stays unbroken.
+
+    The jitter is seeded by the date, not by the clock, for two reasons: every run
+    on a given day must agree on the same number, and the two runners (Actions and
+    the local task) have to agree with each other or they would fight over the
+    remainder. Identical totals every single day is its own tell.
+    """
+    day = when or date.today()
+    base = WEEKEND_TARGET if day.weekday() >= 5 else DAILY_TARGET
+    if TARGET_JITTER <= 0:
+        return base
+    rng = random.Random(day.toordinal())   # own instance: leaves global random alone
+    return max(1, base + rng.randint(-TARGET_JITTER, TARGET_JITTER))
+
+
 def allowance(done):
     """How many commits this run may add.
 
@@ -872,12 +895,13 @@ def allowance(done):
     slept. Past CATCHUP_AFTER the brake comes off so a slow day can still
     reach the target before midnight.
     """
+    target = todays_target()
     if not PACE:
-        return min(MAX_PER_RUN, max(0, DAILY_TARGET - done))
+        return min(MAX_PER_RUN, max(0, target - done))
     now = datetime.now()
     elapsed = (now.hour * 60 + now.minute) / (24 * 60)
-    earned = DAILY_TARGET if elapsed >= CATCHUP_AFTER else int(DAILY_TARGET * elapsed) + 1
-    return min(MAX_PER_RUN, max(0, min(earned, DAILY_TARGET) - done))
+    earned = target if elapsed >= CATCHUP_AFTER else int(target * elapsed) + 1
+    return min(MAX_PER_RUN, max(0, min(earned, target) - done))
 
 
 def entry_title(block, fallback):
@@ -903,7 +927,9 @@ def main():
 
     done = commits_today()
     need = forced if forced is not None else allowance(done)
-    print(f"today: {done} commits | target {DAILY_TARGET} | this run wants {need}")
+    target = todays_target()
+    kind = "weekend" if date.today().weekday() >= 5 else "weekday"
+    print(f"today: {done} commits | {kind} target {target} | this run wants {need}")
 
     if need <= 0:
         print("Daily target already met. Nothing to do.")
@@ -952,7 +978,7 @@ def main():
 
     if added:
         push()
-    print(f"done: {added} commits this run ({done + added}/{DAILY_TARGET} today)")
+    print(f"done: {added} commits this run ({done + added}/{target} today)")
 
 
 if __name__ == "__main__":

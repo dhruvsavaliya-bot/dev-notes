@@ -30,7 +30,8 @@ jobs:
     env:
       TZ: Asia/Kolkata                 # match the local runner's idea of "today"
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # lifts GitHub search to 5000 req/hr
-      DEVNOTES_DAILY_TARGET: '42'
+      DEVNOTES_DAILY_TARGET: '42'     # Mon-Fri
+      DEVNOTES_WEEKEND_TARGET: '12'   # Sat/Sun -- lighter, but never zero
       DEVNOTES_MAX_PER_RUN: '8'
 
     steps:
