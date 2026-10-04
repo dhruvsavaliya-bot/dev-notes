@@ -8,7 +8,13 @@ name: dev-notes auto
 
 on:
   schedule:
-    - cron: '17 * * * *'   # hourly, offset off the top of the hour (less queueing)
+    # Twice an hour, both offset well off the top of the hour. GitHub drops
+    # scheduled runs under load -- two windows means a dropped one costs 30
+    # minutes instead of 60, and the pacing logic absorbs the gap by itself.
+    # A run that finds the day's target already met exits in seconds, so the
+    # extra window costs almost nothing (public repos get free minutes).
+    - cron: '17 * * * *'
+    - cron: '47 * * * *'
   workflow_dispatch:
     inputs:
       count:
