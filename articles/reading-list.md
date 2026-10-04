@@ -1325,6 +1325,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49945933
 - **Link:** https://liao.gg/blog/agents-dont-need-memory
 
+**Added 2026-10-04**
+
+### [Reasons I didn't become an EMT, ranked](https://ben.stolovitz.com/posts/reasons-not-emt-ranked/)
+- **Source:** ben.stolovitz.com | **Posted:** 2026-10-03 | **By:** citelao
+- **Community:** 146 points, 75 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49947631
+- **Link:** https://ben.stolovitz.com/posts/reasons-not-emt-ranked/
+
 
 ## DevOps & Cloud
 

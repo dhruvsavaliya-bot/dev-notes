@@ -542,15 +542,10 @@
     "https://news.ycombinator.com/item?id=49922568",
     "https://news.ycombinator.com/item?id=49922674",
     "https://news.ycombinator.com/item?id=49945933",
+    "https://news.ycombinator.com/item?id=49947631",
     "https://news.ycombinator.com/item?id=7185024"
   ],
   "recent": [
-    {
-      "date": "2026-10-02",
-      "subcat": "AI & Machine Learning",
-      "title": "Louis-CFM/coucou",
-      "url": "https://github.com/Louis-CFM/coucou"
-    },
     {
       "date": "2026-10-03",
       "subcat": "AI Engineering",
@@ -604,6 +599,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: thedaywefightback.js",
       "url": "https://news.ycombinator.com/item?id=7185024"
+    },
+    {
+      "date": "2026-10-04",
+      "subcat": "Hacker News Picks",
+      "title": "Reasons I didn't become an EMT, ranked",
+      "url": "https://news.ycombinator.com/item?id=49947631"
     }
   ]
 }
