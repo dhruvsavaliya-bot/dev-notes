@@ -1423,3 +1423,15 @@ Fresh dev articles and blog posts.
 - **Tags:** architecture, typescript, discuss, devops
 - **Summary:** Here is a bet that will save you a lot of arguing: pick your durable execution engine on what you...
 - **Link:** https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635
+
+## Lobsters Picks
+
+**Added 2026-10-05**
+
+### [I got targeted: Trying to get your credentials via a git post-checkout hook](https://frankwiles.com/posts/i-got-targeted/)
+- **Source:** frankwiles.com | **Posted:** 2026-10-02 | **By:** frankwiles
+- **Community:** 127 score, 39 comments on Lobsters
+- **Tags:** security, vcs
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your
+- **Link:** https://frankwiles.com/posts/i-got-targeted/
