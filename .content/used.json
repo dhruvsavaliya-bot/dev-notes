@@ -302,6 +302,7 @@
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
     "https://news.ycombinator.com/item?id=31335904",
     "https://news.ycombinator.com/item?id=43454915",
+    "https://news.ycombinator.com/item?id=44471388",
     "https://news.ycombinator.com/item?id=48896600",
     "https://news.ycombinator.com/item?id=48896665",
     "https://news.ycombinator.com/item?id=48926590",
@@ -551,12 +552,6 @@
   "recent": [
     {
       "date": "2026-10-04",
-      "subcat": "Models & Datasets",
-      "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-      "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED"
-    },
-    {
-      "date": "2026-10-04",
       "subcat": "Developer Tools",
       "title": "komi-store/komi-store",
       "url": "https://github.com/komi-store/komi-store"
@@ -608,6 +603,12 @@
       "subcat": "Hacker News Picks",
       "title": "The work by Valve's Timur Kristf on improving old AMD G",
       "url": "https://news.ycombinator.com/item?id=49946895"
+    },
+    {
+      "date": "2026-10-04",
+      "subcat": "PHP",
+      "title": "Exploring Coroutines in PHP",
+      "url": "https://news.ycombinator.com/item?id=44471388"
     }
   ]
 }

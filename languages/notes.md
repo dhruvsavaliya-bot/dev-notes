@@ -157,3 +157,14 @@ Snippets and gotchas across languages.
 - **Tags:** go, ai, rag, gemini
 - **Summary:** Hello, I'm Maneshwar, and I'm building LiveReview — a blast-radius aware AI code review built for...
 - **Link:** https://dev.to/lovestaco/cheap-rag-in-go-with-gemini-file-search-no-vector-db-two-calls-one-hosted-store-4kb5
+
+## PHP
+
+**Added 2026-10-04**
+
+### [Exploring Coroutines in PHP](https://doeken.org/blog/coroutines-in-php)
+- **Source:** doeken.org | **Posted:** 2025-07-05 | **By:** doekenorg
+- **Community:** 116 points, 65 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=44471388
+- **Link:** https://doeken.org/blog/coroutines-in-php
