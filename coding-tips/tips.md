@@ -1262,3 +1262,12 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=31335904
 - **Link:** https://himalayas.app/companies
+
+**Added 2026-10-04**
+
+### [Show HN: thedaywefightback.js](https://github.com/tfrce/thedaywefightback.js)
+- **Source:** github.com | **Posted:** 2014-02-05 | **By:** thomasfromcdnjs
+- **Community:** 472 points, 135 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=7185024
+- **Link:** https://github.com/tfrce/thedaywefightback.js
