@@ -1617,6 +1617,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~289 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/shihabal3amri/DiPlay
 
+**Added 2026-10-04**
+
+### [amirh00sain/SpiderPanel](https://github.com/amirh00sain/SpiderPanel)
+- **Stats:** 1,660 stars | 6,168 forks | 2 open issues
+- **Language:** Python | **Created:** 2026-08-18 | **License:** None
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~35 stars/day since launch.
+- **Link:** https://github.com/amirh00sain/SpiderPanel
+
 
 ## Web & Frontend
 
