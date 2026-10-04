@@ -6,6 +6,7 @@
     "Prompting: show the model 2-3 examples of the exact output format you want. Few-shot beats long instructions."
   ],
   "ids": [
+    "http://arxiv.org/abs/2609.09270v1",
     "http://arxiv.org/abs/2609.35878v1",
     "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
     "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
@@ -562,12 +563,6 @@
   "recent": [
     {
       "date": "2026-10-04",
-      "subcat": "Models & Datasets",
-      "title": "nvidia/OpenH-RF",
-      "url": "https://huggingface.co/datasets/nvidia/OpenH-RF"
-    },
-    {
-      "date": "2026-10-04",
       "subcat": "Hacker News Picks",
       "title": "Save .org",
       "url": "https://news.ycombinator.com/item?id=21611677"
@@ -619,6 +614,12 @@
       "subcat": "Go",
       "title": "Go concurrency distilled",
       "url": "https://lobste.rs/s/rucvky/go_concurrency_distilled"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "Research Papers",
+      "title": "Python in the front, party in the Backline: compiling q",
+      "url": "http://arxiv.org/abs/2609.09270v1"
     }
   ]
 }

@@ -493,3 +493,13 @@ Lessons from building with LLMs.
 - **Abstract:** This work presents PoliVEM, a software framework for the Virtual Element Method (VEM) in computational solid and structural mechanics. A C++17 computational core and a Python interface place one-dimensional beams, two- and three-dimensional elasticity, axisymmetric elasticity, transient diffusion, and finite-strain hyperelasticity in a common implementation. The framework stores vertex, edge, face, and cell degrees of freedom in one hierarchy, constructs the energy, strain, and $L^2$ projections...
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.35878v1
+
+**Added 2026-10-05**
+
+### [Python in the front, party in the Backline: compiling quantum workloads across CPUs, GPUs, and FPGAs](http://arxiv.org/abs/2609.09270v1)
+- **Authors:** Joseph K. L. Lee, Mehrdad Malekmohammadi, Hong-Sheng Zheng, Shuli Shu et al.
+- **Published:** 2026-09-08 | **Primary category:** cs.PL
+- **Categories:** quant-ph, cs.DC, cs.PL
+- **Abstract:** Moving from quantum research and development to production-grade, fault-tolerant quantum workload execution remains one of the most significant challenges facing quantum platform builders. While Python frameworks have enabled an easy entry point for quantum algorithm design, the low-latency requirements for real-time quantum error correction (QEC) demand performance that traditional interpreted environments cannot provide. FPGAs and ASICs play a central role at these layers, but their specialize...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.09270v1
