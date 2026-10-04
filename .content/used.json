@@ -301,6 +301,7 @@
     "https://github.com/zhu1090093659/dsh-web-ui",
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
     "https://news.ycombinator.com/item?id=31335904",
+    "https://news.ycombinator.com/item?id=43454915",
     "https://news.ycombinator.com/item?id=48896600",
     "https://news.ycombinator.com/item?id=48896665",
     "https://news.ycombinator.com/item?id=48926590",
@@ -548,12 +549,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-03",
-      "subcat": "Other Cool Projects",
-      "title": "shihabal3amri/DiPlay",
-      "url": "https://github.com/shihabal3amri/DiPlay"
-    },
-    {
       "date": "2026-10-04",
       "subcat": "JavaScript",
       "title": "Let Superheroes Cheer You Up (AI Avatar v6: Chrome Exte",
@@ -606,6 +601,12 @@
       "subcat": "Web & Frontend",
       "title": "remoteinterview/zero",
       "url": "https://github.com/remoteinterview/zero"
+    },
+    {
+      "date": "2026-10-04",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: LinkedIn sucks, so I built a better one",
+      "url": "https://news.ycombinator.com/item?id=43454915"
     }
   ]
 }

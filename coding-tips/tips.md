@@ -1271,3 +1271,12 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=7185024
 - **Link:** https://github.com/tfrce/thedaywefightback.js
+
+**Added 2026-10-04**
+
+### [Show HN: LinkedIn sucks, so I built a better one](https://heyopenspot.com/)
+- **Source:** heyopenspot.com | **Posted:** 2025-03-23 | **By:** fliellerjulian
+- **Community:** 470 points, 377 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=43454915
+- **Link:** https://heyopenspot.com/
