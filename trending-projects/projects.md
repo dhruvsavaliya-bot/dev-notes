@@ -1763,6 +1763,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~481 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/Niko1221/Strata
 
+**Added 2026-10-04**
+
+### [komi-store/komi-store](https://github.com/komi-store/komi-store)
+- **Stats:** 19,038 stars | 723 forks | 88 open issues
+- **Language:** Kotlin | **Created:** 2025-11-21 | **License:** Apache-2.0
+- **Topics:** android, desktop, github-app, github-store, kotlin, kotlin-android
+- **What it is:** 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
+- **Growth:** averaging ~60 stars/day since launch.
+- **Link:** https://github.com/komi-store/komi-store
+
 
 ## Backend & Infrastructure
 

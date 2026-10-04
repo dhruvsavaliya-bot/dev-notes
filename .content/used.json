@@ -234,6 +234,7 @@
     "https://github.com/jub0t/Concat",
     "https://github.com/kacperkapusciak/goldie",
     "https://github.com/kirodotdev/KiroCrew",
+    "https://github.com/komi-store/komi-store",
     "https://github.com/kvcache-ai/AgentENV",
     "https://github.com/langchain-ai/openwiki",
     "https://github.com/lnkiai/m3e-canvas",
@@ -542,12 +543,6 @@
   "recent": [
     {
       "date": "2026-10-02",
-      "subcat": "Hacker News Picks",
-      "title": "Ask HN: Who wants to be hired? (October 2026)",
-      "url": "https://news.ycombinator.com/item?id=49922568"
-    },
-    {
-      "date": "2026-10-02",
       "subcat": "Other Cool Projects",
       "title": "qingjian-team/qingjian",
       "url": "https://github.com/qingjian-team/qingjian"
@@ -599,6 +594,12 @@
       "subcat": "Models & Datasets",
       "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
       "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED"
+    },
+    {
+      "date": "2026-10-04",
+      "subcat": "Developer Tools",
+      "title": "komi-store/komi-store",
+      "url": "https://github.com/komi-store/komi-store"
     }
   ]
 }
