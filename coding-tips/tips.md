@@ -1289,3 +1289,12 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=16535886
 - **Link:** https://news.ycombinator.com/item?id=16535886
+
+**Added 2026-10-05**
+
+### [Show HN: I made a web-based notepad with a built in unit calculator](https://numpad.io/)
+- **Source:** numpad.io | **Posted:** 2022-08-17 | **By:** tonyonodi
+- **Community:** 488 points, 239 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=32493946
+- **Link:** https://numpad.io/

@@ -315,6 +315,7 @@
     "https://news.ycombinator.com/item?id=16535886",
     "https://news.ycombinator.com/item?id=21611677",
     "https://news.ycombinator.com/item?id=31335904",
+    "https://news.ycombinator.com/item?id=32493946",
     "https://news.ycombinator.com/item?id=37149349",
     "https://news.ycombinator.com/item?id=40457229",
     "https://news.ycombinator.com/item?id=43454915",
@@ -568,12 +569,6 @@
   "recent": [
     {
       "date": "2026-10-04",
-      "subcat": "Other Cool Projects",
-      "title": "amirh00sain/SpiderPanel",
-      "url": "https://github.com/amirh00sain/SpiderPanel"
-    },
-    {
-      "date": "2026-10-04",
       "subcat": "JavaScript",
       "title": "Porffor goes alpha August 11th",
       "url": "https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th"
@@ -625,6 +620,12 @@
       "subcat": "Models & Datasets",
       "title": "monology/pile-uncopyrighted",
       "url": "https://huggingface.co/datasets/monology/pile-uncopyrighted"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: I made a web-based notepad with a built in uni",
+      "url": "https://news.ycombinator.com/item?id=32493946"
     }
   ]
 }
