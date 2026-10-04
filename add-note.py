@@ -48,8 +48,9 @@ def envint(name, default):
 
 # ---------------- volume knobs (tune anytime) ----------------
 DAILY_TARGET = envint("DEVNOTES_DAILY_TARGET", 42)           # Mon-Fri target
-WEEKEND_TARGET = envint("DEVNOTES_WEEKEND_TARGET", 12)      # Sat/Sun target
-TARGET_JITTER = envint("DEVNOTES_JITTER", 6)                # +/- spread on the target
+WEEKEND_TARGET = envint("DEVNOTES_WEEKEND_TARGET", 24)      # Sat/Sun target
+TARGET_JITTER = envint("DEVNOTES_JITTER", 6)                # +/- spread, weekdays
+WEEKEND_JITTER = envint("DEVNOTES_WEEKEND_JITTER", 4)       # +/- spread, weekends
 MAX_PER_RUN = envint("DEVNOTES_MAX_PER_RUN", 8)             # ceiling for a single run
 MAX_ENTRIES_PER_FILE = envint("DEVNOTES_MAX_ENTRIES", 400)  # rotate past this
 PACE = os.environ.get("DEVNOTES_PACE", "1") != "0"          # spread target across the day
@@ -878,11 +879,18 @@ def todays_target(when=None):
     remainder. Identical totals every single day is its own tell.
     """
     day = when or date.today()
-    base = WEEKEND_TARGET if day.weekday() >= 5 else DAILY_TARGET
-    if TARGET_JITTER <= 0:
+    weekend = day.weekday() >= 5
+    base = WEEKEND_TARGET if weekend else DAILY_TARGET
+    # Weekends get a tighter spread on purpose. GitHub shades relative to your
+    # busiest day, so once weekdays push the max to ~48 the bands land at
+    # 1-9 / 10-19 / 20-28 / 29+. A wide weekend spread would dip below 20 and
+    # render at the palest green right beside a maxed-out weekday; 24 +/- 4 keeps
+    # every weekend inside the 20-28 band -- a visible step down, never washed out.
+    spread = WEEKEND_JITTER if weekend else TARGET_JITTER
+    if spread <= 0:
         return base
     rng = random.Random(day.toordinal())   # own instance: leaves global random alone
-    return max(1, base + rng.randint(-TARGET_JITTER, TARGET_JITTER))
+    return max(1, base + rng.randint(-spread, spread))
 
 
 def allowance(done):
