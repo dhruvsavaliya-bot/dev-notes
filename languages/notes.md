@@ -168,6 +168,17 @@ Snippets and gotchas across languages.
 - **Summary:** Hello, I'm Maneshwar, and I'm building LiveReview — a blast-radius aware AI code review built for...
 - **Link:** https://dev.to/lovestaco/cheap-rag-in-go-with-gemini-file-search-no-vector-db-two-calls-one-hosted-store-4kb5
 
+**Added 2026-10-05**
+
+### [Go concurrency distilled](https://antonz.org/go-concurrency-distilled/)
+- **Source:** antonz.org | **Posted:** 2026-09-26 | **By:** cgrinds
+- **Community:** 50 score, 1 comments on Lobsters
+- **Tags:** go
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/rucvky/go_concurrency_distilled
+- **Link:** https://antonz.org/go-concurrency-distilled/
+
+
 ## PHP
 
 **Added 2026-10-04**
