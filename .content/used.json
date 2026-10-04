@@ -301,6 +301,7 @@
     "https://github.com/zhu1090093659/dsh-web",
     "https://github.com/zhu1090093659/dsh-web-ui",
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+    "https://huggingface.co/datasets/nvidia/Open-SWE-Traces",
     "https://huggingface.co/datasets/nvidia/OpenH-RF",
     "https://news.ycombinator.com/item?id=21611677",
     "https://news.ycombinator.com/item?id=31335904",
@@ -556,12 +557,6 @@
   "recent": [
     {
       "date": "2026-10-04",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: thedaywefightback.js",
-      "url": "https://news.ycombinator.com/item?id=7185024"
-    },
-    {
-      "date": "2026-10-04",
       "subcat": "Hacker News Picks",
       "title": "Reasons I didn't become an EMT, ranked",
       "url": "https://news.ycombinator.com/item?id=49947631"
@@ -613,6 +608,12 @@
       "subcat": "PHP",
       "title": "Running PHP fast at the edge with WebAssembly",
       "url": "https://news.ycombinator.com/item?id=40457229"
+    },
+    {
+      "date": "2026-10-04",
+      "subcat": "Models & Datasets",
+      "title": "nvidia/Open-SWE-Traces",
+      "url": "https://huggingface.co/datasets/nvidia/Open-SWE-Traces"
     }
   ]
 }

@@ -472,3 +472,12 @@ Lessons from building with LLMs.
 - **Tags:** none listed
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/nvidia/OpenH-RF
+
+**Added 2026-10-04**
+
+### [nvidia/Open-SWE-Traces](https://huggingface.co/datasets/nvidia/Open-SWE-Traces)
+- **Stats:** 140 likes | 26,381 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-04-16
+- **Tags:** code, synthetic, tools, agents, software
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/nvidia/Open-SWE-Traces
