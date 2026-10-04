@@ -481,3 +481,15 @@ Lessons from building with LLMs.
 - **Tags:** code, synthetic, tools, agents, software
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/nvidia/Open-SWE-Traces
+
+## Research Papers
+
+**Added 2026-10-04**
+
+### [PoliVEM: a Python-driven virtual element framework for computational solid mechanics](http://arxiv.org/abs/2609.35878v1)
+- **Authors:** Paulo Akira F. Enabe, Rodrigo Provasi
+- **Published:** 2026-09-26 | **Primary category:** cs.SE
+- **Categories:** cs.SE
+- **Abstract:** This work presents PoliVEM, a software framework for the Virtual Element Method (VEM) in computational solid and structural mechanics. A C++17 computational core and a Python interface place one-dimensional beams, two- and three-dimensional elasticity, axisymmetric elasticity, transient diffusion, and finite-strain hyperelasticity in a common implementation. The framework stores vertex, edge, face, and cell degrees of freedom in one hierarchy, constructs the energy, strain, and $L^2$ projections...
+- **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.35878v1
