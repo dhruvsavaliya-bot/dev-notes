@@ -1316,6 +1316,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49922568
 - **Link:** https://news.ycombinator.com/item?id=49922568
 
+**Added 2026-10-04**
+
+### [Agents don't need memory, they need documentation](https://liao.gg/blog/agents-dont-need-memory)
+- **Source:** liao.gg | **Posted:** 2026-10-03 | **By:** kmeh
+- **Community:** 163 points, 92 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49945933
+- **Link:** https://liao.gg/blog/agents-dont-need-memory
+
 
 ## DevOps & Cloud
 
