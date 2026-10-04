@@ -47,8 +47,10 @@ def envint(name, default):
 
 # ---------------- volume knobs (tune anytime) ----------------
 DAILY_TARGET = envint("DEVNOTES_DAILY_TARGET", 42)          # commits a day should reach
-MAX_PER_RUN = envint("DEVNOTES_MAX_PER_RUN", 6)             # ceiling for a single run
+MAX_PER_RUN = envint("DEVNOTES_MAX_PER_RUN", 8)             # ceiling for a single run
 MAX_ENTRIES_PER_FILE = envint("DEVNOTES_MAX_ENTRIES", 400)  # rotate past this
+PACE = os.environ.get("DEVNOTES_PACE", "1") != "0"          # spread target across the day
+CATCHUP_AFTER = 0.83                                        # ~20:00: drop pacing, go for target
 
 # ---------------- quality thresholds (tune anytime) ----------------
 MIN_REACTIONS = 50        # dev.to: minimum hearts
@@ -768,6 +770,24 @@ def spread(candidates, n):
     return picked
 
 
+def allowance(done):
+    """How many commits this run may add.
+
+    With pacing on, a run may only carry the day up to the share of the target
+    the clock has already earned -- otherwise 24 hourly runs would fire the
+    whole day's target off before lunch and then idle. A runner that was
+    asleep for hours catches up by itself, because its share grew while it
+    slept. Past CATCHUP_AFTER the brake comes off so a slow day can still
+    reach the target before midnight.
+    """
+    if not PACE:
+        return min(MAX_PER_RUN, max(0, DAILY_TARGET - done))
+    now = datetime.now()
+    elapsed = (now.hour * 60 + now.minute) / (24 * 60)
+    earned = DAILY_TARGET if elapsed >= CATCHUP_AFTER else int(DAILY_TARGET * elapsed) + 1
+    return min(MAX_PER_RUN, max(0, min(earned, DAILY_TARGET) - done))
+
+
 def entry_title(block, fallback):
     title = block.split("](")[0].replace("### [", "")
     title = title.encode("ascii", "ignore").decode().strip()[:55].strip()
@@ -790,7 +810,7 @@ def main():
     sync()
 
     done = commits_today()
-    need = forced if forced is not None else min(MAX_PER_RUN, max(0, DAILY_TARGET - done))
+    need = forced if forced is not None else allowance(done)
     print(f"today: {done} commits | target {DAILY_TARGET} | this run wants {need}")
 
     if need <= 0:

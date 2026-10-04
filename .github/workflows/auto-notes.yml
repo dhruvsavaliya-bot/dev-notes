@@ -1,0 +1,60 @@
+name: dev-notes auto
+
+# The local Task Scheduler job only runs while the PC is on. This runs the
+# same script in the cloud every hour, so the day's target gets met whether
+# the machine is awake, asleep, or on a plane. Both runners read the same
+# "how many commits has today had?" signal, so they top each other up
+# instead of doubling up.
+
+on:
+  schedule:
+    - cron: '17 * * * *'   # hourly, offset off the top of the hour (less queueing)
+  workflow_dispatch:
+    inputs:
+      count:
+        description: 'Entries to add this run (blank = paced automatic)'
+        required: false
+        default: ''
+
+permissions:
+  contents: write          # the push comes from GITHUB_TOKEN
+
+concurrency:
+  group: dev-notes-auto    # never let two runs race on the same branch
+  cancel-in-progress: false
+
+jobs:
+  add-notes:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      TZ: Asia/Kolkata                 # match the local runner's idea of "today"
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # lifts GitHub search to 5000 req/hr
+      DEVNOTES_DAILY_TARGET: '42'
+      DEVNOTES_MAX_PER_RUN: '8'
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 500             # commits_today() looks back 36h; stay clear of that
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Configure commit identity
+        # Contributions count against the account this email is verified on,
+        # NOT against whoever pushed. Change this and the green squares move.
+        run: |
+          git config user.name  "Dhruv Savaliya"
+          git config user.email "dhruvsavaliya1306@gmail.com"
+
+      - name: Add notes
+        env:
+          COUNT: ${{ inputs.count }}
+        run: |
+          if [ -n "$COUNT" ]; then
+            python add-note.py --count "$COUNT"
+          else
+            python add-note.py
+          fi
