@@ -301,6 +301,7 @@
     "https://github.com/zhu1090093659/dsh-web-ui",
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
     "https://huggingface.co/datasets/nvidia/OpenH-RF",
+    "https://news.ycombinator.com/item?id=21611677",
     "https://news.ycombinator.com/item?id=31335904",
     "https://news.ycombinator.com/item?id=43454915",
     "https://news.ycombinator.com/item?id=44471388",
@@ -553,12 +554,6 @@
   "recent": [
     {
       "date": "2026-10-04",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: 1,900 remote company profiles with tech stacks",
-      "url": "https://news.ycombinator.com/item?id=31335904"
-    },
-    {
-      "date": "2026-10-04",
       "subcat": "Hacker News Picks",
       "title": "Agents don't need memory, they need documentation",
       "url": "https://news.ycombinator.com/item?id=49945933"
@@ -610,6 +605,12 @@
       "subcat": "Models & Datasets",
       "title": "nvidia/OpenH-RF",
       "url": "https://huggingface.co/datasets/nvidia/OpenH-RF"
+    },
+    {
+      "date": "2026-10-04",
+      "subcat": "Hacker News Picks",
+      "title": "Save .org",
+      "url": "https://news.ycombinator.com/item?id=21611677"
     }
   ]
 }

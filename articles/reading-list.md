@@ -1343,6 +1343,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49946895
 - **Link:** https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU
 
+**Added 2026-10-04**
+
+### [Save .org](https://savedotorg.org/)
+- **Source:** savedotorg.org | **Posted:** 2019-11-23 | **By:** jaden
+- **Community:** 2297 points, 342 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=21611677
+- **Link:** https://savedotorg.org/
+
 
 ## DevOps & Cloud
 
