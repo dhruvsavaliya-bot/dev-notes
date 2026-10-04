@@ -305,6 +305,7 @@
     "https://huggingface.co/datasets/nvidia/OpenH-RF",
     "https://news.ycombinator.com/item?id=21611677",
     "https://news.ycombinator.com/item?id=31335904",
+    "https://news.ycombinator.com/item?id=37149349",
     "https://news.ycombinator.com/item?id=40457229",
     "https://news.ycombinator.com/item?id=43454915",
     "https://news.ycombinator.com/item?id=44471388",
@@ -557,12 +558,6 @@
   "recent": [
     {
       "date": "2026-10-04",
-      "subcat": "Hacker News Picks",
-      "title": "Reasons I didn't become an EMT, ranked",
-      "url": "https://news.ycombinator.com/item?id=49947631"
-    },
-    {
-      "date": "2026-10-04",
       "subcat": "Web & Frontend",
       "title": "remoteinterview/zero",
       "url": "https://github.com/remoteinterview/zero"
@@ -614,6 +609,12 @@
       "subcat": "Models & Datasets",
       "title": "nvidia/Open-SWE-Traces",
       "url": "https://huggingface.co/datasets/nvidia/Open-SWE-Traces"
+    },
+    {
+      "date": "2026-10-04",
+      "subcat": "Hacker News Picks",
+      "title": "LK-99 isnt a superconductor",
+      "url": "https://news.ycombinator.com/item?id=37149349"
     }
   ]
 }

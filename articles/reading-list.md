@@ -1352,6 +1352,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=21611677
 - **Link:** https://savedotorg.org/
 
+**Added 2026-10-04**
+
+### [LK-99 isn’t a superconductor](https://www.nature.com/articles/d41586-023-02585-7)
+- **Source:** www.nature.com | **Posted:** 2023-08-16 | **By:** Brajeshwar
+- **Community:** 2145 points, 698 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=37149349
+- **Link:** https://www.nature.com/articles/d41586-023-02585-7
+
 
 ## DevOps & Cloud
 
