@@ -220,40 +220,70 @@ GH_LANGS = [
 ]
 
 
-def gh_search(query, sort="stars", page=1):
+# Unauthenticated GitHub search allows 10 requests/minute. Relaxation rounds can
+# ask for more than that, and the 403 it returns looks like an outage rather than
+# a quota. Spend a deliberate budget instead, so GitHub sources bow out cleanly
+# and the other five sources still fill the run.
+GH_CALL_BUDGET = envint("DEVNOTES_GH_CALLS", 50 if (os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")) else 8)
+_gh_calls = 0
+
+
+def gh_page(query, sort, page):
+    global _gh_calls
+    if _gh_calls >= GH_CALL_BUDGET:
+        raise RuntimeError(f"GitHub search budget spent ({GH_CALL_BUDGET} calls/run)")
+    _gh_calls += 1
     url = (
         "https://api.github.com/search/repositories?q="
         + urllib.parse.quote(query)
         + f"&sort={sort}&order=desc&per_page=50&page={page}"
     )
-    items = get_json(url, gh_headers()).get("items", [])
-    return [(r["html_url"], repo_subcat(r), repo_block(r)) for r in items]
+    return get_json(url, gh_headers())
+
+
+def gh_items(query, sort="stars"):
+    """Page 1, plus a random deeper page that actually exists.
+
+    Guessing a page number blind returned nothing whenever the result set was
+    smaller than the guess -- `language:Elixir` has two matching repos, not 250.
+    Page 1's total_count tells us how deep we may go (search caps at 1000).
+    """
+    first = gh_page(query, sort, 1)
+    items = list(first.get("items", []))
+    pages = max(1, -(-min(first.get("total_count", 0), 1000) // 50))
+    if pages > 1:
+        items += gh_page(query, sort, random.randint(2, min(pages, 10))).get("items", [])
+    return items
+
+
+def gh_search(query, sort="stars"):
+    return [(r["html_url"], repo_subcat(r), repo_block(r)) for r in gh_items(query, sort)]
 
 
 def src_gh_new(relax):
     since = (date.today() - timedelta(days=TREND_WINDOW_DAYS)).isoformat()
-    return gh_search(f"created:>{since} stars:>{bar(MIN_STARS, relax)}", page=random.randint(1, 2))
+    return gh_search(f"created:>{since} stars:>{bar(MIN_STARS, relax)}")
 
 
 def src_gh_rising(relax):
     since = (date.today() - timedelta(days=90)).isoformat()
-    return gh_search(f"created:>{since} stars:>{bar(500, relax)}", page=random.randint(1, 4))
+    return gh_search(f"created:>{since} stars:>{bar(500, relax)}")
 
 
 def src_gh_active(relax):
     since = (date.today() - timedelta(days=7)).isoformat()
-    return gh_search(f"pushed:>{since} stars:>{bar(2000, relax)}", sort="updated", page=random.randint(1, 8))
+    return gh_search(f"pushed:>{since} stars:>{bar(2000, relax)}", sort="updated")
 
 
 def src_gh_topic(relax):
     topic = random.choice(GH_TOPICS)
-    return gh_search(f"topic:{topic} stars:>{bar(300, relax)}", page=random.randint(1, 6))
+    return gh_search(f"topic:{topic} stars:>{bar(300, relax)}")
 
 
 def src_gh_lang(relax):
     lang = random.choice(GH_LANGS)
     since = (date.today() - timedelta(days=365)).isoformat()
-    return gh_search(f"language:{lang} created:>{since} stars:>{bar(300, relax)}", page=random.randint(1, 6))
+    return gh_search(f"language:{lang} created:>{since} stars:>{bar(300, relax)}")
 
 
 def hn_block(h, subcat):
@@ -377,6 +407,52 @@ def src_lobsters_lang(relax):
     return lobsters(f"https://lobste.rs/t/{tag}.json", bar(MIN_LOBSTERS_SCORE, relax), name)
 
 
+# languages/ starved for years on dev.to alone (16 entries against trending's 177):
+# its tags return almost nothing above the reaction bar. These two file GitHub
+# repos and HN stories under the LANGUAGE headline rather than a domain one, which
+# is what finally gives that category a pool worth picking from.
+# headline -> (GitHub `language:` value or None, Hacker News search term).
+# "SQL & Databases" has no GitHub language, hence the None -- asking for
+# `language:SQL` returns a flat zero.
+LANG_QUERIES = {
+    "Python": ("Python", "python"),
+    "JavaScript": ("JavaScript", "javascript"),
+    "TypeScript": ("TypeScript", "typescript"),
+    "Go": ("Go", "golang"),
+    "Rust": ("Rust", "rust"),
+    "Java": ("Java", "java"),
+    "C++": ("C++", "c++"),
+    "C#": ("C#", "c#"),
+    "Ruby": ("Ruby", "ruby"),
+    "Kotlin": ("Kotlin", "kotlin"),
+    "Swift": ("Swift", "swift"),
+    "Elixir": ("Elixir", "elixir"),
+    "PHP": ("PHP", "php"),
+    "SQL & Databases": (None, "sql database"),
+}
+
+
+def src_gh_lang_notes(relax):
+    """GitHub repos filed under the language's own headline."""
+    choices = [(n, gh) for n, (gh, _) in LANG_QUERIES.items() if gh]
+    name, lang = random.choice(choices)
+    since = (date.today() - timedelta(days=365)).isoformat()
+    query = f'language:"{lang}" created:>{since} stars:>{bar(400, relax)}'
+    return [(r["html_url"], name, repo_block(r)) for r in gh_items(query)]
+
+
+def src_hn_lang(relax):
+    """Hacker News stories about one language, filed under its headline."""
+    name, (_, term) = random.choice(list(LANG_QUERIES.items()))
+    pts = bar(80, relax)
+    page = random.randint(0, 8)
+    return hn_search(
+        f"query={urllib.parse.quote(term)}&tags=story"
+        f"&numericFilters=points>{pts}&hitsPerPage=50&page={page}",
+        pts, name,
+    )
+
+
 ARXIV_CATS = ["cs.LG", "cs.CL", "cs.AI", "cs.SE", "cs.CR", "cs.DC", "cs.PL"]
 ATOM = "{http://www.w3.org/2005/Atom}"
 
@@ -498,7 +574,8 @@ SOURCES = {
                  devto_source("articles")],
     "ai": [devto_source("ai"), src_arxiv, src_hf_models, src_hf_datasets],
     "coding-tips": [devto_source("coding-tips"), src_hn_show, src_hn_ask, src_lobsters_new],
-    "languages": [devto_source("languages"), src_lobsters_lang],
+    "languages": [devto_source("languages"), src_lobsters_lang,
+                  src_gh_lang_notes, src_hn_lang],
 }
 
 
@@ -654,9 +731,18 @@ def sync():
     stash those changes aside -- recoverable with `git stash list` -- and
     proceed, rather than letting `git pull --rebase` abort the whole run.
     """
-    if run("git", "status", "--porcelain"):
+    dirty = run("git", "status", "--porcelain")
+    if dirty:
         print("  (working tree dirty at start; stashing aside before pull)")
-        run("git", "stash", "push", "-u", "-m", "dev-notes auto-stash before sync")
+        # Burying someone's half-finished edit without saying so is how an hour of
+        # work disappears: an unattended run fires, stashes, and the next thing
+        # the editor sees is their file reverted. Name the files and the way back.
+        code = [ln[3:] for ln in dirty.splitlines() if ln[3:].endswith((".py", ".yml", ".bat"))]
+        if code:
+            print(f"  !! stashed IN-PROGRESS CODE EDITS: {', '.join(code)}")
+            print("  !! recover with: git stash pop")
+        run("git", "stash", "push", "-u", "-m",
+            f"dev-notes auto-stash {datetime.now():%Y-%m-%d %H:%M}")
     code, out = run_ok("git", "pull", "--rebase", "origin", "main")
     if code != 0:
         run_ok("git", "rebase", "--abort")
@@ -760,8 +846,14 @@ def spread(candidates, n):
         buckets.setdefault(c[0], []).append(c)
     for v in buckets.values():
         random.shuffle(v)
+    # Sparsest category first. Round-robin gives everyone one pick per pass, so
+    # ordering by current entry count is what hands a run's EXTRA picks to the
+    # files that are behind -- languages sat at 16 entries against trending's 177
+    # because the old picker took the first category that had anything fresh.
+    # Shuffle before the stable sort so equal-count categories break ties randomly.
     order = list(buckets)
     random.shuffle(order)
+    order.sort(key=count_entries)
     picked = []
     while len(picked) < n and any(buckets.values()):
         for category in order:
