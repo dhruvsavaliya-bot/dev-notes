@@ -482,6 +482,16 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/nvidia/Open-SWE-Traces
 
+**Added 2026-10-05**
+
+### [prompthero/openjourney](https://huggingface.co/prompthero/openjourney)
+- **Stats:** 3,262 likes | 3,675 downloads
+- **Kind:** Hugging Face model | **Task:** text-to-image | **Created:** 2022-11-08
+- **Tags:** diffusers, safetensors, stable-diffusion, text-to-image, en, endpoints_compatible
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/prompthero/openjourney
+
+
 ## Research Papers
 
 **Added 2026-10-04**

@@ -306,6 +306,7 @@
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
     "https://huggingface.co/datasets/nvidia/Open-SWE-Traces",
     "https://huggingface.co/datasets/nvidia/OpenH-RF",
+    "https://huggingface.co/prompthero/openjourney",
     "https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th",
     "https://lobste.rs/s/rucvky/go_concurrency_distilled",
     "https://news.ycombinator.com/item?id=21611677",
@@ -563,12 +564,6 @@
   "recent": [
     {
       "date": "2026-10-04",
-      "subcat": "Hacker News Picks",
-      "title": "Save .org",
-      "url": "https://news.ycombinator.com/item?id=21611677"
-    },
-    {
-      "date": "2026-10-04",
       "subcat": "AI & Machine Learning",
       "title": "ShenSeanChen/waku-agent",
       "url": "https://github.com/ShenSeanChen/waku-agent"
@@ -620,6 +615,12 @@
       "subcat": "Research Papers",
       "title": "Python in the front, party in the Backline: compiling q",
       "url": "http://arxiv.org/abs/2609.09270v1"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "Models & Datasets",
+      "title": "prompthero/openjourney",
+      "url": "https://huggingface.co/prompthero/openjourney"
     }
   ]
 }
