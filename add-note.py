@@ -1,36 +1,70 @@
 #!/usr/bin/env python3
 """
-dev-notes trigger (LIVE + subcategories + detailed entries)
+dev-notes trigger (multi-source, multi-entry, target-driven)
 
 Every run:
-  1. Picks a random category, then a random SUBCATEGORY inside it
-     (e.g. ai -> "Gen AI" / "LLMs" / "Machine Learning")
-  2. Fetches fresh, strictly dev-related content for that subcategory
-     (GitHub API + dev.to topic tags, quality-filtered)
-  3. Files the entry under the matching "## Subcategory" headline
-     inside that category's markdown file (creates headline if new)
-  4. Commits and pushes. Never repeats an item (tracked in used.json).
+  1. Syncs with origin, then works out how many commits today still needs
+     to reach DAILY_TARGET (never more than MAX_PER_RUN in one run)
+  2. Gathers candidates from every source that will answer -- GitHub search,
+     Hacker News, Lobsters, dev.to, arXiv, Hugging Face -- relaxing the
+     quality bar only if the fresh pool comes up short
+  3. Files each entry under its matching "## Subcategory" headline and makes
+     ONE COMMIT PER ENTRY, then pushes the whole batch once
+  4. Never repeats an item (tracked in used.json), and never lets a day end
+     with zero commits (heartbeat fallback when every source is down)
 
-Python stdlib only. Quality thresholds at the top.
+Two runners share the target: a GitHub Actions cron and the local Task
+Scheduler job. Whichever runs first does the work; the other tops up the
+remainder and no-ops once the day's target is met.
+
+Python stdlib only. Every knob below has a DEVNOTES_* environment override.
 """
 
+import gzip
 import json
+import os
 import random
 import subprocess
 import sys
+import urllib.parse
 import urllib.request
-from datetime import date, timedelta
+import xml.etree.ElementTree as ET
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
 REPO = Path(__file__).parent
 USED = REPO / ".content" / "used.json"
+PULSE = REPO / ".content" / "pulse.md"
+ARCHIVE = REPO / "archive"
+
+
+def envint(name, default):
+    try:
+        return int(os.environ.get(name, default))
+    except ValueError:
+        return default
+
+
+# ---------------- volume knobs (tune anytime) ----------------
+DAILY_TARGET = envint("DEVNOTES_DAILY_TARGET", 42)          # commits a day should reach
+MAX_PER_RUN = envint("DEVNOTES_MAX_PER_RUN", 6)             # ceiling for a single run
+MAX_ENTRIES_PER_FILE = envint("DEVNOTES_MAX_ENTRIES", 400)  # rotate past this
 
 # ---------------- quality thresholds (tune anytime) ----------------
 MIN_REACTIONS = 50        # dev.to: minimum hearts
 MIN_READ_MINUTES = 3      # dev.to: skip short listicles
-MIN_STARS = 200           # GitHub: minimum stars
-TREND_WINDOW_DAYS = 30    # GitHub: repo must be created within this window
-# ---------------------------------------------------------------------
+MIN_STARS = 200           # GitHub: minimum stars for brand-new repos
+MIN_HN_POINTS = 100       # Hacker News: minimum upvotes
+MIN_LOBSTERS_SCORE = 15   # Lobsters: minimum score
+MIN_HF_LIKES = 50         # Hugging Face: minimum likes
+TREND_WINDOW_DAYS = 30    # GitHub: "brand new" window
+# -------------------------------------------------------------------
+
+
+def bar(value, relax):
+    """A threshold, halved for each relaxation round. Never drops below 1."""
+    return max(1, int(value * (0.5 ** relax)))
+
 
 FILES = {
     "coding-tips": REPO / "coding-tips" / "tips.md",
@@ -63,11 +97,16 @@ SUBCATS = {
         "LLMs": "llm",
         "Machine Learning": "machinelearning",
         "AI Engineering": "ai",
+        "Data Science": "datascience",
+        "Computer Vision": "computervision",
     },
     "coding-tips": {
         "Beginner": "beginners",
         "Clean Code & Best Practices": "cleancode",
         "Productivity": "productivity",
+        "Testing": "testing",
+        "Git & Workflow": "git",
+        "Career & Craft": "career",
     },
     "languages": {
         "Python": "python",
@@ -77,6 +116,13 @@ SUBCATS = {
         "Rust": "rust",
         "Java": "java",
         "SQL & Databases": "sql",
+        "C++": "cpp",
+        "C#": "csharp",
+        "PHP": "php",
+        "Ruby": "ruby",
+        "Kotlin": "kotlin",
+        "Swift": "swift",
+        "Elixir": "elixir",
     },
     "articles": {
         "Web Development": "webdev",
@@ -84,19 +130,40 @@ SUBCATS = {
         "DevOps & Cloud": "devops",
         "Security": "security",
         "System Design & Architecture": "architecture",
+        "Performance": "performance",
+        "Open Source": "opensource",
     },
 }
 
-UA = {"User-Agent": "dev-notes-script"}
+UA = {"User-Agent": "dev-notes-script", "Accept-Encoding": "gzip"}
 
 
-def get_json(url):
-    req = urllib.request.Request(url, headers=UA)
-    with urllib.request.urlopen(req, timeout=15) as r:
-        return json.loads(r.read().decode("utf-8"))
+def http_get(url, extra_headers=None):
+    headers = dict(UA)
+    if extra_headers:
+        headers.update(extra_headers)
+    req = urllib.request.Request(url, headers=headers)
+    with urllib.request.urlopen(req, timeout=20) as r:
+        raw = r.read()
+        if r.headers.get("Content-Encoding") == "gzip":
+            raw = gzip.decompress(raw)
+        return raw
 
 
-# ------------- fetchers: return list of (uid, subcategory, md_block) -------------
+def get_json(url, extra_headers=None):
+    return json.loads(http_get(url, extra_headers).decode("utf-8", "replace"))
+
+
+def gh_headers():
+    """Authenticate GitHub search when a token is around (5000/hr vs 10/min)."""
+    token = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
+    return {"Authorization": f"Bearer {token}"} if token else None
+
+
+# ======================================================================
+# sources: each is called with a relax level and returns a list of
+# (uid, subcategory, markdown_block) triples
+# ======================================================================
 
 def repo_subcat(r):
     """Classify a GitHub repo into a domain headline."""
@@ -105,128 +172,356 @@ def repo_subcat(r):
         " ".join(r.get("topics", [])).lower(),
         (r.get("language") or "").lower(),
     ])
-    if any(k in text for k in ("llm", " ai ", "ai-", "agent", "gpt", "machine-learning", "ml ", "neural", "rag")):
+    if any(k in text for k in ("llm", " ai ", "ai-", "agent", "gpt", "machine-learning", "ml ", "neural", "rag", "diffusion")):
         return "AI & Machine Learning"
-    if any(k in text for k in ("react", "frontend", "css", "ui ", "vue", "nextjs", "web app", "browser")):
+    if any(k in text for k in ("react", "frontend", "css", "ui ", "vue", "nextjs", "web app", "browser", "svelte")):
         return "Web & Frontend"
-    if any(k in text for k in ("cli", "terminal", "devtool", "editor", "vscode", "productivity", "build")):
+    if any(k in text for k in ("cli", "terminal", "devtool", "editor", "vscode", "productivity", "build", "linter")):
         return "Developer Tools"
-    if any(k in text for k in ("database", "backend", "api", "server", "kubernetes", "docker", "cloud")):
+    if any(k in text for k in ("database", "backend", "api", "server", "kubernetes", "docker", "cloud", "queue")):
         return "Backend & Infrastructure"
+    if any(k in text for k in ("security", "crypto", "pentest", "vulnerab", "exploit", "malware")):
+        return "Security"
     return "Other Cool Projects"
 
 
-def fetch_trending_repos():
-    since = (date.today() - timedelta(days=TREND_WINDOW_DAYS)).isoformat()
-    url = (
-        "https://api.github.com/search/repositories"
-        f"?q=created:>{since}+stars:>{MIN_STARS}&sort=stars&order=desc&per_page=30"
+def repo_block(r):
+    desc = (r.get("description") or "No description provided.").strip()
+    topics = ", ".join(r.get("topics", [])[:6]) or "none listed"
+    created = (r.get("created_at") or "")[:10]
+    try:
+        age = max(1, (date.today() - date.fromisoformat(created)).days)
+    except ValueError:
+        age = 1
+    stars_per_day = r["stargazers_count"] // age
+    return (
+        f"### [{r['full_name']}]({r['html_url']})\n"
+        f"- **Stats:** {r['stargazers_count']:,} stars | {r['forks_count']:,} forks"
+        f" | {r.get('open_issues_count', 0):,} open issues\n"
+        f"- **Language:** {r.get('language') or 'N/A'} | **Created:** {created or 'unknown'}"
+        f" | **License:** {(r.get('license') or {}).get('spdx_id', 'None')}\n"
+        f"- **Topics:** {topics}\n"
+        f"- **What it is:** {desc}\n"
+        f"- **Growth:** averaging ~{stars_per_day:,} stars/day since launch.\n"
+        f"- **Link:** {r['html_url']}"
     )
-    out = []
-    for r in get_json(url).get("items", []):
-        desc = (r.get("description") or "No description provided.").strip()
-        topics = ", ".join(r.get("topics", [])[:6]) or "none listed"
-        created = (r.get("created_at") or "")[:10]
-        stars_per_day = r["stargazers_count"] // max(
-            1, (date.today() - date.fromisoformat(created)).days
-        )
-        block = (
-            f"### [{r['full_name']}]({r['html_url']})\n"
-            f"- **Stats:** {r['stargazers_count']:,} stars | {r['forks_count']:,} forks"
-            f" | {r.get('open_issues_count', 0):,} open issues\n"
-            f"- **Language:** {r.get('language') or 'N/A'} | **Created:** {created}"
-            f" | **License:** {(r.get('license') or {}).get('spdx_id', 'None')}\n"
-            f"- **Topics:** {topics}\n"
-            f"- **What it is:** {desc}\n"
-            f"- **Growth:** averaging ~{stars_per_day:,} stars/day since launch —"
-            f" one of the fastest-growing new repos on GitHub right now.\n"
-            f"- **Link:** {r['html_url']}"
-        )
-        out.append((r["html_url"], repo_subcat(r), block))
-    return out
 
 
-def fetch_devto(tag, subcat_name):
-    url = f"https://dev.to/api/articles?tag={tag}&top=7&per_page=30"
-    out = []
-    for a in get_json(url):
-        reactions = a.get("positive_reactions_count", 0)
-        mins = a.get("reading_time_minutes", 0)
-        if reactions < MIN_REACTIONS or mins < MIN_READ_MINUTES:
-            continue  # quality gate
-        desc = (a.get("description") or "").strip()
-        tags = ", ".join(a.get("tag_list", [])[:6])
-        pub = (a.get("readable_publish_date") or "").strip()
-        block = (
-            f"### [{a['title']}]({a['url']})\n"
-            f"- **Author:** {a['user']['name']} | **Published:** {pub}"
-            f" | **Read time:** {mins} min\n"
-            f"- **Community:** {reactions} reactions, {a.get('comments_count', 0)} comments"
-            f" — a top post of the week in #{tag}\n"
-            f"- **Tags:** {tags}\n"
-            f"- **Summary:** {desc}\n"
-            f"- **Link:** {a['url']}"
-        )
-        out.append((a["url"], subcat_name, block))
-    return out
+GH_TOPICS = [
+    "cli", "llm", "agents", "rag", "compiler", "devops", "kubernetes", "react",
+    "typescript", "rust", "golang", "database", "observability", "testing",
+    "security", "wasm", "graphics", "embedded", "api", "self-hosted",
+]
+GH_LANGS = [
+    "Python", "JavaScript", "TypeScript", "Go", "Rust", "Java", "C++", "C#",
+    "Ruby", "Swift", "Kotlin", "Zig", "Elixir", "Lua", "Haskell",
+]
 
 
-MIN_HN_POINTS = 100  # Hacker News: minimum upvotes
+def gh_search(query, sort="stars", page=1):
+    url = (
+        "https://api.github.com/search/repositories?q="
+        + urllib.parse.quote(query)
+        + f"&sort={sort}&order=desc&per_page=50&page={page}"
+    )
+    items = get_json(url, gh_headers()).get("items", [])
+    return [(r["html_url"], repo_subcat(r), repo_block(r)) for r in items]
 
 
-def fetch_hackernews():
-    """Front-page HN stories - the most heavily curated dev content anywhere."""
-    url = "https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=30"
+def src_gh_new(relax):
+    since = (date.today() - timedelta(days=TREND_WINDOW_DAYS)).isoformat()
+    return gh_search(f"created:>{since} stars:>{bar(MIN_STARS, relax)}", page=random.randint(1, 2))
+
+
+def src_gh_rising(relax):
+    since = (date.today() - timedelta(days=90)).isoformat()
+    return gh_search(f"created:>{since} stars:>{bar(500, relax)}", page=random.randint(1, 4))
+
+
+def src_gh_active(relax):
+    since = (date.today() - timedelta(days=7)).isoformat()
+    return gh_search(f"pushed:>{since} stars:>{bar(2000, relax)}", sort="updated", page=random.randint(1, 8))
+
+
+def src_gh_topic(relax):
+    topic = random.choice(GH_TOPICS)
+    return gh_search(f"topic:{topic} stars:>{bar(300, relax)}", page=random.randint(1, 6))
+
+
+def src_gh_lang(relax):
+    lang = random.choice(GH_LANGS)
+    since = (date.today() - timedelta(days=365)).isoformat()
+    return gh_search(f"language:{lang} created:>{since} stars:>{bar(300, relax)}", page=random.randint(1, 6))
+
+
+def hn_block(h, subcat):
+    points = h.get("points") or 0
+    story_url = h.get("url") or f"https://news.ycombinator.com/item?id={h['objectID']}"
+    domain = story_url.split("/")[2] if "://" in story_url else "news.ycombinator.com"
+    hn_link = f"https://news.ycombinator.com/item?id={h['objectID']}"
+    created = (h.get("created_at") or "")[:10]
+    title = (h.get("title") or h.get("story_title") or "Untitled").strip()
+    block = (
+        f"### [{title}]({story_url})\n"
+        f"- **Source:** {domain} | **Posted:** {created} | **By:** {h.get('author', 'unknown')}\n"
+        f"- **Community:** {points} points, {h.get('num_comments', 0)} comments on Hacker News\n"
+        f"- **Why it's here:** it cleared the Hacker News points bar, the most"
+        f" competitive dev content filter on the internet.\n"
+        f"- **Discussion:** {hn_link}\n"
+        f"- **Link:** {story_url}"
+    )
+    return (hn_link, subcat, block)
+
+
+def hn_search(query, min_points, subcat):
+    url = f"https://hn.algolia.com/api/v1/search?{query}"
     out = []
     for h in get_json(url).get("hits", []):
-        points = h.get("points") or 0
-        if points < MIN_HN_POINTS:
-            continue  # quality gate
-        story_url = h.get("url") or f"https://news.ycombinator.com/item?id={h['objectID']}"
-        domain = story_url.split("/")[2] if "://" in story_url else "news.ycombinator.com"
-        hn_link = f"https://news.ycombinator.com/item?id={h['objectID']}"
-        created = (h.get("created_at") or "")[:10]
-        block = (
-            f"### [{h['title']}]({story_url})\n"
-            f"- **Source:** {domain} | **Posted:** {created} | **By:** {h.get('author', 'unknown')}\n"
-            f"- **Community:** {points} points, {h.get('num_comments', 0)} comments"
-            f" on Hacker News front page\n"
-            f"- **Why it's here:** HN front page is the most competitive dev content"
-            f" filter on the internet - only ~30 stories/day make it out of thousands.\n"
-            f"- **Discussion:** {hn_link}\n"
-            f"- **Link:** {story_url}"
-        )
-        out.append((hn_link, "Hacker News Picks", block))
+        if not (h.get("title") or h.get("story_title")):
+            continue
+        if (h.get("points") or 0) < min_points:
+            continue
+        out.append(hn_block(h, subcat))
     return out
 
 
-def make_devto_fetcher(category):
-    def fetch():
-        name, tag = random.choice(list(SUBCATS[category].items()))
-        return fetch_devto(tag, name)
-    return fetch
+def src_hn_front(relax):
+    return hn_search("tags=front_page&hitsPerPage=50", bar(MIN_HN_POINTS, relax), "Hacker News Picks")
 
 
-def mixed_fetcher(category, hn_chance):
-    """Sometimes pull from Hacker News instead of dev.to for extra quality."""
-    devto = make_devto_fetcher(category)
-
-    def fetch():
-        if random.random() < hn_chance:
-            return fetch_hackernews()
-        return devto()
-    return fetch
+def src_hn_deep(relax):
+    pts = bar(MIN_HN_POINTS, relax)
+    page = random.randint(0, 24)
+    return hn_search(
+        f"tags=story&numericFilters=points>{pts}&hitsPerPage=50&page={page}",
+        pts, "Hacker News Picks",
+    )
 
 
-FETCHERS = {
-    "trending-projects": fetch_trending_repos,
-    "articles": mixed_fetcher("articles", hn_chance=0.5),
-    "ai": make_devto_fetcher("ai"),
-    "coding-tips": mixed_fetcher("coding-tips", hn_chance=0.35),
-    "languages": make_devto_fetcher("languages"),
+def src_hn_show(relax):
+    pts = bar(60, relax)
+    page = random.randint(0, 12)
+    return hn_search(
+        f"tags=show_hn&numericFilters=points>{pts}&hitsPerPage=50&page={page}",
+        pts, "Show & Ask HN",
+    )
+
+
+def src_hn_ask(relax):
+    pts = bar(60, relax)
+    page = random.randint(0, 12)
+    return hn_search(
+        f"tags=ask_hn&numericFilters=points>{pts}&hitsPerPage=50&page={page}",
+        pts, "Show & Ask HN",
+    )
+
+
+LOBSTERS_TAGS = [
+    "programming", "python", "rust", "javascript", "go", "devops", "ai",
+    "security", "databases", "web", "compilers", "testing", "performance",
+    "linux", "osdev", "distributed",
+]
+LOBSTERS_LANGS = {
+    "python": "Python", "javascript": "JavaScript", "rust": "Rust",
+    "go": "Go", "java": "Java", "ruby": "Ruby", "elixir": "Elixir",
 }
 
-# --------------------------------------------------------------------------------------
+
+def lobsters(url, min_score, subcat):
+    out = []
+    for s in get_json(url):
+        if (s.get("score") or 0) < min_score:
+            continue
+        comments = s.get("comments_url") or ""
+        if not comments:
+            continue
+        link = s.get("url") or comments
+        tags = ", ".join(s.get("tags", [])[:6]) or "none listed"
+        desc = (s.get("description_plain") or s.get("description") or "").strip()
+        desc = (desc[:400] + "...") if len(desc) > 400 else (desc or "No summary provided.")
+        domain = link.split("/")[2] if "://" in link else "lobste.rs"
+        submitter = s.get("submitter_user")
+        if isinstance(submitter, dict):
+            submitter = submitter.get("username", "unknown")
+        block = (
+            f"### [{(s.get('title') or 'Untitled').strip()}]({link})\n"
+            f"- **Source:** {domain} | **Posted:** {(s.get('created_at') or '')[:10]}"
+            f" | **By:** {submitter or 'unknown'}\n"
+            f"- **Community:** {s.get('score', 0)} score, {s.get('comment_count', 0)} comments on Lobsters\n"
+            f"- **Tags:** {tags}\n"
+            f"- **Summary:** {desc}\n"
+            f"- **Discussion:** {comments}\n"
+            f"- **Link:** {link}"
+        )
+        out.append((comments, subcat, block))
+    return out
+
+
+def src_lobsters_hot(relax):
+    return lobsters("https://lobste.rs/hottest.json", bar(MIN_LOBSTERS_SCORE, relax), "Lobsters Picks")
+
+
+def src_lobsters_new(relax):
+    return lobsters("https://lobste.rs/newest.json", bar(MIN_LOBSTERS_SCORE, relax), "Lobsters Picks")
+
+
+def src_lobsters_tag(relax):
+    tag = random.choice(LOBSTERS_TAGS)
+    return lobsters(f"https://lobste.rs/t/{tag}.json", bar(MIN_LOBSTERS_SCORE, relax), "Lobsters Picks")
+
+
+def src_lobsters_lang(relax):
+    tag, name = random.choice(list(LOBSTERS_LANGS.items()))
+    return lobsters(f"https://lobste.rs/t/{tag}.json", bar(MIN_LOBSTERS_SCORE, relax), name)
+
+
+ARXIV_CATS = ["cs.LG", "cs.CL", "cs.AI", "cs.SE", "cs.CR", "cs.DC", "cs.PL"]
+ATOM = "{http://www.w3.org/2005/Atom}"
+
+
+def src_arxiv(relax):
+    cat = random.choice(ARXIV_CATS)
+    # arXiv has no quality bar to relax -- reach deeper into the backlog instead
+    start = random.randint(0, 300 * (relax + 1))
+    url = (
+        "http://export.arxiv.org/api/query?search_query=cat:" + cat
+        + f"&sortBy=submittedDate&sortOrder=descending&start={start}&max_results=40"
+    )
+    root = ET.fromstring(http_get(url))
+    out = []
+    for e in root.findall(ATOM + "entry"):
+        link = (e.findtext(ATOM + "id") or "").strip()
+        title = " ".join((e.findtext(ATOM + "title") or "").split())
+        if not link or not title:
+            continue
+        summary = " ".join((e.findtext(ATOM + "summary") or "").split())
+        summary = (summary[:500] + "...") if len(summary) > 500 else (summary or "No abstract provided.")
+        authors = [a.findtext(ATOM + "name") or "" for a in e.findall(ATOM + "author")]
+        cats = [c.get("term") for c in e.findall(ATOM + "category") if c.get("term")]
+        block = (
+            f"### [{title}]({link})\n"
+            f"- **Authors:** {', '.join(authors[:4]) or 'unknown'}"
+            f"{' et al.' if len(authors) > 4 else ''}\n"
+            f"- **Published:** {(e.findtext(ATOM + 'published') or '')[:10]}"
+            f" | **Primary category:** {cat}\n"
+            f"- **Categories:** {', '.join(cats[:6]) or cat}\n"
+            f"- **Abstract:** {summary}\n"
+            f"- **Why it's here:** fresh off arXiv {cat} -- where the research"
+            f" behind next year's tooling shows up first.\n"
+            f"- **Link:** {link}"
+        )
+        out.append((link, "Research Papers", block))
+    return out
+
+
+def hf_block(item, kind):
+    ident = item.get("id") or item.get("modelId") or ""
+    if not ident:
+        return None
+    url = f"https://huggingface.co/{'datasets/' if kind == 'dataset' else ''}{ident}"
+    tags = [t for t in item.get("tags", []) if ":" not in t][:6]
+    block = (
+        f"### [{ident}]({url})\n"
+        f"- **Stats:** {item.get('likes', 0):,} likes | {item.get('downloads', 0):,} downloads\n"
+        f"- **Kind:** Hugging Face {kind} | **Task:** {item.get('pipeline_tag') or 'n/a'}"
+        f" | **Created:** {(item.get('createdAt') or '')[:10]}\n"
+        f"- **Tags:** {', '.join(tags) or 'none listed'}\n"
+        f"- **What it is:** a {kind} on the Hugging Face Hub with real community"
+        f" pull -- useful when you need something that already works.\n"
+        f"- **Link:** {url}"
+    )
+    return (url, "Models & Datasets", block)
+
+
+def hf_fetch(endpoint, kind, min_likes):
+    sort = random.choice(["likes", "downloads", "trendingScore"])
+    skip = random.randint(0, 400)
+    url = f"https://huggingface.co/api/{endpoint}?sort={sort}&direction=-1&limit=50&skip={skip}"
+    out = []
+    for item in get_json(url):
+        if (item.get("likes") or 0) < min_likes:
+            continue
+        triple = hf_block(item, kind)
+        if triple:
+            out.append(triple)
+    return out
+
+
+def src_hf_models(relax):
+    return hf_fetch("models", "model", bar(MIN_HF_LIKES, relax))
+
+
+def src_hf_datasets(relax):
+    return hf_fetch("datasets", "dataset", bar(MIN_HF_LIKES, relax))
+
+
+def devto_source(category):
+    """Build a dev.to fetcher for one category, varying tag/window/page per run."""
+    def fetch(relax):
+        name, tag = random.choice(list(SUBCATS[category].items()))
+        top = random.choice([7, 30, 365])
+        page = random.randint(1, 3)
+        url = f"https://dev.to/api/articles?tag={tag}&top={top}&per_page=50&page={page}"
+        min_reactions = bar(MIN_REACTIONS, relax)
+        min_minutes = bar(MIN_READ_MINUTES, relax)
+        out = []
+        for a in get_json(url):
+            reactions = a.get("positive_reactions_count", 0)
+            mins = a.get("reading_time_minutes", 0)
+            if reactions < min_reactions or mins < min_minutes:
+                continue  # quality gate
+            desc = (a.get("description") or "").strip() or "No summary provided."
+            tags = ", ".join(a.get("tag_list", [])[:6])
+            block = (
+                f"### [{a['title']}]({a['url']})\n"
+                f"- **Author:** {a['user']['name']} | **Published:**"
+                f" {(a.get('readable_publish_date') or '').strip()}"
+                f" | **Read time:** {mins} min\n"
+                f"- **Community:** {reactions} reactions, {a.get('comments_count', 0)} comments"
+                f" -- a top post in #{tag}\n"
+                f"- **Tags:** {tags}\n"
+                f"- **Summary:** {desc}\n"
+                f"- **Link:** {a['url']}"
+            )
+            out.append((a["url"], name, block))
+        return out
+
+    fetch.__name__ = f"src_devto_{category.replace('-', '_')}"
+    return fetch
+
+
+SOURCES = {
+    "trending-projects": [src_gh_new, src_gh_rising, src_gh_active, src_gh_topic, src_gh_lang],
+    "articles": [src_hn_front, src_hn_deep, src_lobsters_hot, src_lobsters_tag,
+                 devto_source("articles")],
+    "ai": [devto_source("ai"), src_arxiv, src_hf_models, src_hf_datasets],
+    "coding-tips": [devto_source("coding-tips"), src_hn_show, src_hn_ask, src_lobsters_new],
+    "languages": [devto_source("languages"), src_lobsters_lang],
+}
+
+
+# ======================================================================
+# file plumbing
+# ======================================================================
+
+def rotate_if_needed(category):
+    """Keep category files readable: past MAX_ENTRIES_PER_FILE, move to archive/."""
+    path = FILES[category]
+    if not path.exists():
+        return
+    text = path.read_text(encoding="utf-8")
+    if text.count("### [") < MAX_ENTRIES_PER_FILE:
+        return
+    ARCHIVE.mkdir(parents=True, exist_ok=True)
+    stamp = date.today().strftime("%Y-%m")
+    dest = ARCHIVE / f"{category}-{stamp}.md"
+    n = 2
+    while dest.exists():
+        dest = ARCHIVE / f"{category}-{stamp}-{n}.md"
+        n += 1
+    dest.write_text(text, encoding="utf-8")
+    path.write_text(TITLES[category], encoding="utf-8")
+    print(f"  (rotated {path.name} -> {dest.relative_to(REPO).as_posix()})")
 
 
 def insert_under_headline(path, title_block, subcat, entry):
@@ -254,8 +549,69 @@ def insert_under_headline(path, title_block, subcat, entry):
     path.write_text(text, encoding="utf-8")
 
 
+def count_entries(category):
+    """Entries live in the active file plus any rotated archive files."""
+    path = FILES[category]
+    total = path.read_text(encoding="utf-8").count("### [") if path.exists() else 0
+    if ARCHIVE.exists():
+        for p in sorted(ARCHIVE.glob(f"{category}-*.md")):
+            total += p.read_text(encoding="utf-8").count("### [")
+    return total
+
+
+README_ORDER = ["trending-projects", "ai", "articles", "coding-tips", "languages"]
+README_LABELS = {
+    "trending-projects": "Trending Projects",
+    "ai": "AI / LLM Notes",
+    "articles": "Reading List",
+    "coding-tips": "Coding Tips",
+    "languages": "Language Notes",
+}
+
+
+def update_readme(recent):
+    counts = {c: count_entries(c) for c in FILES}
+    total = sum(counts.values())
+
+    rows = "\n".join(
+        f"| [{README_LABELS[c]}]({FILES[c].relative_to(REPO).as_posix()}) | {counts[c]} |"
+        for c in README_ORDER
+    )
+    latest = "\n".join(
+        f"- **{e['date']}** · *{e['subcat']}* — [{e['title']}]({e['url']})"
+        for e in reversed(recent[-5:])
+    ) or "- (first entries coming soon)"
+
+    readme = (
+        "# \U0001F4DA dev-notes\n\n"
+        "Auto-curated developer knowledge base — fresh content lands **every hour,\n"
+        "around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and\n"
+        "the Hugging Face Hub.\n\n"
+        f"**{total} entries and counting** · Last updated: {date.today().isoformat()}\n\n"
+        "## Categories\n\n"
+        "| Section | Entries |\n|---|---|\n"
+        f"{rows}\n\n"
+        "## Latest additions\n\n"
+        f"{latest}\n\n"
+        "## How it works\n\n"
+        "A Python script runs on a schedule — in GitHub Actions around the clock,\n"
+        "with a local Task Scheduler job as backup. Each run pulls the\n"
+        "highest-signal new dev content from six sources (quality-filtered by\n"
+        "stars, points, reactions and likes), files each item under a topic\n"
+        "headline, and commits it here — one commit per entry. No duplicates:\n"
+        "every item is tracked. Long sections rotate into `archive/`.\n"
+    )
+    (REPO / "README.md").write_text(readme, encoding="utf-8")
+
+
+# ======================================================================
+# git plumbing
+# ======================================================================
+
 def notify(msg):
     """Non-blocking Windows popup (auto-closes in 10s). Silent no-op elsewhere."""
+    if os.environ.get("CI"):
+        return
     try:
         subprocess.run(
             ["powershell", "-NoProfile", "-Command",
@@ -272,57 +628,20 @@ def fail(context, detail):
     sys.exit(1)
 
 
-def run(*cmd):
+def run_ok(*cmd):
+    """Run a git command, returning (returncode, output) without exiting."""
     r = subprocess.run(
         cmd, cwd=REPO, capture_output=True, text=True,
         encoding="utf-8", errors="replace",
     )
-    if r.returncode != 0:
-        fail(" ".join(cmd[:2]), (r.stderr or r.stdout or "").strip()[:300])
-    return (r.stdout or "").strip()
+    return r.returncode, ((r.stdout or "") + (r.stderr or "")).strip()
 
 
-README_ORDER = ["trending-projects", "ai", "articles", "coding-tips", "languages"]
-README_LABELS = {
-    "trending-projects": "Trending Projects",
-    "ai": "AI / LLM Notes",
-    "articles": "Reading List",
-    "coding-tips": "Coding Tips",
-    "languages": "Language Notes",
-}
-
-
-def update_readme(recent):
-    counts = {}
-    for cat, path in FILES.items():
-        counts[cat] = path.read_text(encoding="utf-8").count("### [") if path.exists() else 0
-    total = sum(counts.values())
-
-    rows = "\n".join(
-        f"| [{README_LABELS[c]}]({FILES[c].relative_to(REPO).as_posix()}) | {counts[c]} |"
-        for c in README_ORDER
-    )
-    latest = "\n".join(
-        f"- **{e['date']}** \u00b7 *{e['subcat']}* \u2014 [{e['title']}]({e['url']})"
-        for e in reversed(recent[-3:])
-    ) or "- (first entries coming soon)"
-
-    readme = (
-        "# \U0001F4DA dev-notes\n\n"
-        "Auto-curated developer knowledge base \u2014 fresh content added **four times daily**\n"
-        "from GitHub Trending, Hacker News (100+ points), and dev.to's top posts.\n\n"
-        f"**{total} entries and counting** \u00b7 Last updated: {date.today().isoformat()}\n\n"
-        "## Categories\n\n"
-        "| Section | Entries |\n|---|---|\n"
-        f"{rows}\n\n"
-        "## Latest additions\n\n"
-        f"{latest}\n\n"
-        "## How it works\n\n"
-        "A Python script runs on a schedule, pulls the highest-signal new dev content\n"
-        "(quality-filtered by stars, points, and reactions), files each item under a\n"
-        "topic headline, and commits it here. No duplicates \u2014 every entry is tracked.\n"
-    )
-    (REPO / "README.md").write_text(readme, encoding="utf-8")
+def run(*cmd):
+    code, out = run_ok(*cmd)
+    if code != 0:
+        fail(" ".join(cmd[:2]), out[:300])
+    return out
 
 
 def sync():
@@ -330,70 +649,198 @@ def sync():
 
     An unattended run must never wedge itself on leftover uncommitted
     changes (a manual edit, a half-finished run). If the tree is dirty we
-    stash those changes aside — recoverable with `git stash list` — and
+    stash those changes aside -- recoverable with `git stash list` -- and
     proceed, rather than letting `git pull --rebase` abort the whole run.
     """
     if run("git", "status", "--porcelain"):
         print("  (working tree dirty at start; stashing aside before pull)")
         run("git", "stash", "push", "-u", "-m", "dev-notes auto-stash before sync")
-    run("git", "pull", "--rebase", "origin", "main")
+    code, out = run_ok("git", "pull", "--rebase", "origin", "main")
+    if code != 0:
+        run_ok("git", "rebase", "--abort")
+        fail("git pull", out[:300])
 
+
+def commits_today():
+    """How many commits already landed today, from either runner (call after sync)."""
+    today = date.today().isoformat()
+    out = run("git", "log", "--since=36 hours ago", "--date=short", "--pretty=%ad")
+    return sum(1 for line in out.splitlines() if line.strip() == today)
+
+
+def commit(message):
+    run("git", "add", "-A")
+    if not run("git", "status", "--porcelain"):
+        print("  (nothing staged; skipping commit)")
+        return False
+    run("git", "commit", "-m", message)
+    return True
+
+
+def push():
+    """Push, rebasing onto whatever the other runner pushed in the meantime."""
+    for attempt in range(4):
+        code, out = run_ok("git", "push", "origin", "main")
+        if code == 0:
+            return
+        print(f"  (push rejected on attempt {attempt + 1}; rebasing: {out[:120]})")
+        code, out = run_ok("git", "pull", "--rebase", "origin", "main")
+        if code != 0:
+            run_ok("git", "rebase", "--abort")
+    fail("git push", "still rejected after 4 attempts")
+
+
+def heartbeat():
+    """Last resort: keep the day from ending empty when every source is down."""
+    PULSE.parent.mkdir(parents=True, exist_ok=True)
+    if PULSE.exists():
+        lines = PULSE.read_text(encoding="utf-8").rstrip().splitlines()
+    else:
+        lines = [
+            "# Pulse",
+            "",
+            "Runs where every content source was unreachable, logged here so the",
+            "run history stays continuous even when nothing could be fetched.",
+            "",
+        ]
+    lines.append(f"- {datetime.now().isoformat(timespec='seconds')} — all sources unreachable, no entry added")
+    PULSE.write_text("\n".join(lines[:5] + lines[5:][-200:]) + "\n", encoding="utf-8")
+    if commit("chore: heartbeat (no source reachable this run)"):
+        push()
+        print("OK  heartbeat committed")
+
+
+# ======================================================================
+# candidate gathering
+# ======================================================================
+
+def sweep(pool, used_ids, relax):
+    """One pass: pull from a random source in EVERY category.
+
+    Sweeping by category rather than draining sources one at a time is what
+    keeps a run varied -- a single source can return 50 items, and draining it
+    first would hand spread() nothing but arXiv papers to choose from.
+    """
+    categories = list(SOURCES)
+    random.shuffle(categories)
+    for category in categories:
+        source = random.choice(SOURCES[category])
+        try:
+            items = source(relax)
+        except Exception as e:
+            print(f"  ({category}/{source.__name__} unavailable: {e})")
+            continue
+        for uid, subcat, block in items:
+            if uid in used_ids or uid in pool:
+                continue
+            pool[uid] = (category, uid, subcat, block)
+
+
+def gather(need, used_ids):
+    """Collect fresh candidates, relaxing thresholds only if we come up short."""
+    pool = {}
+    for relax in (0, 1, 2):
+        for _ in range(2):
+            sweep(pool, used_ids, relax)
+            spread_ok = len({v[0] for v in pool.values()}) >= min(3, len(SOURCES))
+            if len(pool) >= need and spread_ok:
+                return list(pool.values())
+        if relax < 2:
+            print(f"  (only {len(pool)} fresh candidates across"
+                  f" {len({v[0] for v in pool.values()})} categories; relaxing quality bar)")
+    return list(pool.values())
+
+
+def spread(candidates, n):
+    """Pick n candidates round-robin across categories so no file hogs a run."""
+    buckets = {}
+    for c in candidates:
+        buckets.setdefault(c[0], []).append(c)
+    for v in buckets.values():
+        random.shuffle(v)
+    order = list(buckets)
+    random.shuffle(order)
+    picked = []
+    while len(picked) < n and any(buckets.values()):
+        for category in order:
+            if buckets[category] and len(picked) < n:
+                picked.append(buckets[category].pop())
+    return picked
+
+
+def entry_title(block, fallback):
+    title = block.split("](")[0].replace("### [", "")
+    title = title.encode("ascii", "ignore").decode().strip()[:55].strip()
+    return title or fallback
+
+
+# ======================================================================
 
 def main():
-    # sync first so edits made elsewhere (e.g. GitHub web) never break the push
+    argv = sys.argv[1:]
+    dry_run = "--dry-run" in argv
+    forced = None
+    if "--count" in argv:
+        try:
+            forced = int(argv[argv.index("--count") + 1])
+        except (IndexError, ValueError):
+            fail("args", "--count needs a number")
+
+    # sync first so edits made elsewhere (other runner, GitHub web) never break the push
     sync()
+
+    done = commits_today()
+    need = forced if forced is not None else min(MAX_PER_RUN, max(0, DAILY_TARGET - done))
+    print(f"today: {done} commits | target {DAILY_TARGET} | this run wants {need}")
+
+    if need <= 0:
+        print("Daily target already met. Nothing to do.")
+        return
 
     used = json.loads(USED.read_text(encoding="utf-8")) if USED.exists() else {}
     used_ids = set(used.get("ids", []))
+    recent = used.get("recent", [])
 
-    categories = list(FETCHERS.keys())
-    random.shuffle(categories)
-
-    picked = None
-    for category in categories:
-        try:
-            candidates = [
-                (u, s, b) for u, s, b in FETCHERS[category]() if u not in used_ids
-            ]
-        except Exception as e:
-            print(f"  ({category} source unavailable: {e})")
-            continue
-        if candidates:
-            picked = (category, *random.choice(candidates))
-            break
+    picked = spread(gather(need, used_ids), need)
 
     if not picked:
-        print("No new content passed the quality filters right now. Try again later.")
-        sys.exit(0)
+        print("No new content passed the quality filters right now.")
+        if done == 0 and not dry_run:
+            heartbeat()
+        return
 
-    category, uid, subcat, block = picked
+    if dry_run:
+        for category, uid, subcat, block in picked:
+            print(f"  DRY {category} -> {subcat}: {entry_title(block, subcat)}")
+        print(f"(dry run: {len(picked)} entries, nothing written)")
+        return
 
-    insert_under_headline(FILES[category], TITLES[category], subcat, block)
+    added = 0
+    for category, uid, subcat, block in picked:
+        rotate_if_needed(category)
+        insert_under_headline(FILES[category], TITLES[category], subcat, block)
 
-    title = block.split("](")[0].replace("### [", "")
-    title = title.encode("ascii", "ignore").decode().strip()[:55]
+        title = entry_title(block, subcat)
+        recent.append({
+            "date": date.today().isoformat(),
+            "subcat": subcat,
+            "title": title,
+            "url": uid,
+        })
+        used["recent"] = recent[-10:]
+        used_ids.add(uid)
+        used["ids"] = sorted(used_ids)
+        USED.write_text(json.dumps(used, indent=2), encoding="utf-8")
 
-    # track recent entries + refresh README dashboard
-    recent = used.get("recent", [])
-    recent.append({
-        "date": date.today().isoformat(),
-        "subcat": subcat,
-        "title": title,
-        "url": uid,
-    })
-    used["recent"] = recent[-10:]
+        update_readme(used["recent"])
 
-    used_ids.add(uid)
-    used["ids"] = sorted(used_ids)
-    USED.write_text(json.dumps(used, indent=2), encoding="utf-8")
+        if commit(f"{COMMIT_PREFIX[category]}: [{subcat}] {title}"):
+            added += 1
+            print(f"OK  {category} -> {subcat}: {title}")
 
-    update_readme(used["recent"])
-
-    run("git", "add", "-A")
-    run("git", "commit", "-m", f"{COMMIT_PREFIX[category]}: [{subcat}] {title}")
-    run("git", "push", "origin", "main")
-
-    print(f"OK  {category} -> {subcat}: {title}")
+    if added:
+        push()
+    print(f"done: {added} commits this run ({done + added}/{DAILY_TARGET} today)")
 
 
 if __name__ == "__main__":
