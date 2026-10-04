@@ -185,6 +185,7 @@
     "https://github.com/antirez/h3.c",
     "https://github.com/anywhere-labs/deepseek-harness-desktop",
     "https://github.com/anywhere-labs/dsh-desktop",
+    "https://github.com/ardatan/graphql-tools",
     "https://github.com/arvids-unavailable/openGym",
     "https://github.com/ashemag/human-atlas",
     "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
@@ -545,12 +546,6 @@
   "recent": [
     {
       "date": "2026-10-02",
-      "subcat": "Other Cool Projects",
-      "title": "Taichu-AI/ZDTaichu5.0-9B",
-      "url": "https://github.com/Taichu-AI/ZDTaichu5.0-9B"
-    },
-    {
-      "date": "2026-10-02",
       "subcat": "Web Development",
       "title": "Are Frontend Developers Cooked? Is Frontend design safe",
       "url": "https://dev.to/erikch/are-frontend-developers-cooked-is-frontend-design-safe-nn8"
@@ -602,6 +597,12 @@
       "subcat": "Hacker News Picks",
       "title": "Agents don't need memory, they need documentation",
       "url": "https://news.ycombinator.com/item?id=49945933"
+    },
+    {
+      "date": "2026-10-04",
+      "subcat": "Developer Tools",
+      "title": "ardatan/graphql-tools",
+      "url": "https://github.com/ardatan/graphql-tools"
     }
   ]
 }

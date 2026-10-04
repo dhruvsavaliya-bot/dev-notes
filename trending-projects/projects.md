@@ -1773,6 +1773,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~60 stars/day since launch.
 - **Link:** https://github.com/komi-store/komi-store
 
+**Added 2026-10-04**
+
+### [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools)
+- **Stats:** 5,429 stars | 828 forks | 124 open issues
+- **Language:** TypeScript | **Created:** 2016-03-22 | **License:** MIT
+- **Topics:** graphql, graphql-api, graphql-js, graphql-schema, javascript, mock
+- **What it is:** :wrench: Utility library for GraphQL to build, stitch and mock GraphQL schemas in the SDL-first approach
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/ardatan/graphql-tools
+
 
 ## Backend & Infrastructure
 
