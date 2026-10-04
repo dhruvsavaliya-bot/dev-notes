@@ -298,6 +298,7 @@
     "https://github.com/zhu1090093659/dsh-web",
     "https://github.com/zhu1090093659/dsh-web-ui",
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+    "https://news.ycombinator.com/item?id=31335904",
     "https://news.ycombinator.com/item?id=48896600",
     "https://news.ycombinator.com/item?id=48896665",
     "https://news.ycombinator.com/item?id=48926590",
@@ -543,12 +544,6 @@
   "recent": [
     {
       "date": "2026-10-02",
-      "subcat": "Other Cool Projects",
-      "title": "qingjian-team/qingjian",
-      "url": "https://github.com/qingjian-team/qingjian"
-    },
-    {
-      "date": "2026-10-02",
       "subcat": "Hacker News Picks",
       "title": "Various Projects Find Hidden SDR Capabilities in ESP32 ",
       "url": "https://news.ycombinator.com/item?id=49922674"
@@ -600,6 +595,12 @@
       "subcat": "Developer Tools",
       "title": "komi-store/komi-store",
       "url": "https://github.com/komi-store/komi-store"
+    },
+    {
+      "date": "2026-10-04",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: 1,900 remote company profiles with tech stacks",
+      "url": "https://news.ycombinator.com/item?id=31335904"
     }
   ]
 }

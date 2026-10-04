@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**532 entries and counting** · Last updated: 2026-10-04
+**533 entries and counting** · Last updated: 2026-10-04
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 177 |
 | [AI / LLM Notes](ai/notes.md) | 50 |
 | [Reading List](articles/reading-list.md) | 151 |
-| [Coding Tips](coding-tips/tips.md) | 138 |
+| [Coding Tips](coding-tips/tips.md) | 139 |
 | [Language Notes](languages/notes.md) | 16 |
 
 ## Latest additions
 
+- **2026-10-04** · *Show & Ask HN* — [Show HN: 1,900 remote company profiles with tech stacks](https://news.ycombinator.com/item?id=31335904)
 - **2026-10-04** · *Developer Tools* — [komi-store/komi-store](https://github.com/komi-store/komi-store)
 - **2026-10-04** · *Models & Datasets* — [OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED)
 - **2026-10-04** · *JavaScript* — [Let Superheroes Cheer You Up (AI Avatar v6: Chrome Exte](https://dev.to/webdeveloperhyper/let-superheroes-cheer-you-up-ai-avatar-v6-chrome-extension-vs-code-extension-2ak7)
 - **2026-10-03** · *Other Cool Projects* — [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay)
-- **2026-10-03** · *AI Engineering* — [Hacktoberfest Is Coming to Nadiad, Gujarat  Official ML](https://dev.to/dj29/hacktoberfest-is-coming-to-nadiad-gujarat-official-mlh-meetup-at-ddu-15-oct-1dc4)
 
 ## How it works
 

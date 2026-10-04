@@ -1251,3 +1251,14 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Tags:** discuss, aws, beginners, agents
 - **Summary:** TL;DR  I recently completed another project from Udacity's Future AWS Agent Engineer Nanodegree...
 - **Link:** https://dev.to/hemapriya_kanagala/i-built-my-first-ai-agent-with-aws-agentcore-and-the-hardest-part-wasnt-the-ai-54lf
+
+## Show & Ask HN
+
+**Added 2026-10-04**
+
+### [Show HN: 1,900 remote company profiles with tech stacks and employee benefits](https://himalayas.app/companies)
+- **Source:** himalayas.app | **Posted:** 2022-05-11 | **By:** AbiTyasTunggal
+- **Community:** 457 points, 173 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=31335904
+- **Link:** https://himalayas.app/companies
