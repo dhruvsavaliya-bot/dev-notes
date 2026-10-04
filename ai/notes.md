@@ -463,3 +463,12 @@ Lessons from building with LLMs.
 - **Tags:** mlx, safetensors, gguf, qwen3_5, abliterated, uncensored
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED
+
+**Added 2026-10-04**
+
+### [nvidia/OpenH-RF](https://huggingface.co/datasets/nvidia/OpenH-RF)
+- **Stats:** 61 likes | 3,732 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-08-06
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/nvidia/OpenH-RF

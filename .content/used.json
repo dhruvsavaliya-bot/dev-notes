@@ -300,6 +300,7 @@
     "https://github.com/zhu1090093659/dsh-web",
     "https://github.com/zhu1090093659/dsh-web-ui",
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+    "https://huggingface.co/datasets/nvidia/OpenH-RF",
     "https://news.ycombinator.com/item?id=31335904",
     "https://news.ycombinator.com/item?id=43454915",
     "https://news.ycombinator.com/item?id=44471388",
@@ -552,12 +553,6 @@
   "recent": [
     {
       "date": "2026-10-04",
-      "subcat": "Developer Tools",
-      "title": "komi-store/komi-store",
-      "url": "https://github.com/komi-store/komi-store"
-    },
-    {
-      "date": "2026-10-04",
       "subcat": "Show & Ask HN",
       "title": "Show HN: 1,900 remote company profiles with tech stacks",
       "url": "https://news.ycombinator.com/item?id=31335904"
@@ -609,6 +604,12 @@
       "subcat": "PHP",
       "title": "Exploring Coroutines in PHP",
       "url": "https://news.ycombinator.com/item?id=44471388"
+    },
+    {
+      "date": "2026-10-04",
+      "subcat": "Models & Datasets",
+      "title": "nvidia/OpenH-RF",
+      "url": "https://huggingface.co/datasets/nvidia/OpenH-RF"
     }
   ]
 }
