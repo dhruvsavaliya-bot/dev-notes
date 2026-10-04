@@ -544,16 +544,11 @@
     "https://news.ycombinator.com/item?id=49922568",
     "https://news.ycombinator.com/item?id=49922674",
     "https://news.ycombinator.com/item?id=49945933",
+    "https://news.ycombinator.com/item?id=49946895",
     "https://news.ycombinator.com/item?id=49947631",
     "https://news.ycombinator.com/item?id=7185024"
   ],
   "recent": [
-    {
-      "date": "2026-10-04",
-      "subcat": "JavaScript",
-      "title": "Let Superheroes Cheer You Up (AI Avatar v6: Chrome Exte",
-      "url": "https://dev.to/webdeveloperhyper/let-superheroes-cheer-you-up-ai-avatar-v6-chrome-extension-vs-code-extension-2ak7"
-    },
     {
       "date": "2026-10-04",
       "subcat": "Models & Datasets",
@@ -607,6 +602,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: LinkedIn sucks, so I built a better one",
       "url": "https://news.ycombinator.com/item?id=43454915"
+    },
+    {
+      "date": "2026-10-04",
+      "subcat": "Hacker News Picks",
+      "title": "The work by Valve's Timur Kristf on improving old AMD G",
+      "url": "https://news.ycombinator.com/item?id=49946895"
     }
   ]
 }

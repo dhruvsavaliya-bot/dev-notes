@@ -1334,6 +1334,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49947631
 - **Link:** https://ben.stolovitz.com/posts/reasons-not-emt-ranked/
 
+**Added 2026-10-04**
+
+### [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU)
+- **Source:** www.phoronix.com | **Posted:** 2026-10-03 | **By:** speckx
+- **Community:** 280 points, 39 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49946895
+- **Link:** https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU
+
 
 ## DevOps & Cloud
 
