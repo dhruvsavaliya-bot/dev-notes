@@ -814,6 +814,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~22 stars/day since launch.
 - **Link:** https://github.com/ShenSeanChen/waku-agent
 
+**Added 2026-10-05**
+
+### [angusdevgo/Seep-Reverse-Lab](https://github.com/angusdevgo/Seep-Reverse-Lab)
+- **Stats:** 902 stars | 266 forks | 0 open issues
+- **Language:** Lua | **Created:** 2026-09-23 | **License:** GPL-3.0
+- **Topics:** none listed
+- **What it is:** Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.
+- **Growth:** averaging ~75 stars/day since launch.
+- **Link:** https://github.com/angusdevgo/Seep-Reverse-Lab
+
 
 ## Other Cool Projects
 

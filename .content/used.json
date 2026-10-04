@@ -184,6 +184,7 @@
     "https://github.com/amirh00sain/SpiderPanel",
     "https://github.com/amosblomqvist/learn",
     "https://github.com/andrewyng/openworker",
+    "https://github.com/angusdevgo/Seep-Reverse-Lab",
     "https://github.com/anthropics/commerce-agents",
     "https://github.com/anthropics/jacobian-lens",
     "https://github.com/antirez/h3.c",
@@ -566,12 +567,6 @@
   "recent": [
     {
       "date": "2026-10-04",
-      "subcat": "Models & Datasets",
-      "title": "nvidia/Open-SWE-Traces",
-      "url": "https://huggingface.co/datasets/nvidia/Open-SWE-Traces"
-    },
-    {
-      "date": "2026-10-04",
       "subcat": "Hacker News Picks",
       "title": "LK-99 isnt a superconductor",
       "url": "https://news.ycombinator.com/item?id=37149349"
@@ -623,6 +618,12 @@
       "subcat": "Lobsters Picks",
       "title": "I got targeted: Trying to get your credentials via a gi",
       "url": "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "AI & Machine Learning",
+      "title": "angusdevgo/Seep-Reverse-Lab",
+      "url": "https://github.com/angusdevgo/Seep-Reverse-Lab"
     }
   ]
 }
