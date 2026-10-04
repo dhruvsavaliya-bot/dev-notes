@@ -1280,3 +1280,12 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=43454915
 - **Link:** https://heyopenspot.com/
+
+**Added 2026-10-05**
+
+### [Ask HN: Best way to learn modern C++?](https://news.ycombinator.com/item?id=16535886)
+- **Source:** news.ycombinator.com | **Posted:** 2018-03-07 | **By:** jxub
+- **Community:** 686 points, 173 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=16535886
+- **Link:** https://news.ycombinator.com/item?id=16535886

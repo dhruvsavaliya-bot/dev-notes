@@ -309,6 +309,7 @@
     "https://huggingface.co/prompthero/openjourney",
     "https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th",
     "https://lobste.rs/s/rucvky/go_concurrency_distilled",
+    "https://news.ycombinator.com/item?id=16535886",
     "https://news.ycombinator.com/item?id=21611677",
     "https://news.ycombinator.com/item?id=31335904",
     "https://news.ycombinator.com/item?id=37149349",
@@ -564,12 +565,6 @@
   "recent": [
     {
       "date": "2026-10-04",
-      "subcat": "AI & Machine Learning",
-      "title": "ShenSeanChen/waku-agent",
-      "url": "https://github.com/ShenSeanChen/waku-agent"
-    },
-    {
-      "date": "2026-10-04",
       "subcat": "PHP",
       "title": "Running PHP fast at the edge with WebAssembly",
       "url": "https://news.ycombinator.com/item?id=40457229"
@@ -621,6 +616,12 @@
       "subcat": "Models & Datasets",
       "title": "prompthero/openjourney",
       "url": "https://huggingface.co/prompthero/openjourney"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: Best way to learn modern C++?",
+      "url": "https://news.ycombinator.com/item?id=16535886"
     }
   ]
 }
