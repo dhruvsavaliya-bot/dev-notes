@@ -25,6 +25,10 @@ concurrency:
 
 jobs:
   add-notes:
+    # Staying on ubuntu-latest through the Ubuntu 26 migration (19 Oct 2026) on
+    # purpose: the script is stdlib-only Python with no system dependencies, so
+    # the image swap is low risk -- whereas a pinned image eventually gets retired
+    # and breaks an unattended job with no one watching.
     runs-on: ubuntu-latest
     timeout-minutes: 15
     env:
@@ -36,11 +40,11 @@ jobs:
       DEVNOTES_MAX_PER_RUN: '8'
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           fetch-depth: 500             # commits_today() looks back 36h; stay clear of that
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
           python-version: '3.12'
 
