@@ -79,6 +79,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th
 - **Link:** https://honk.foo/porffor-alpha/
 
+**Added 2026-10-05**
+
+### [JDK 27 has been released](https://openjdk.org/projects/jdk/27/)
+- **Source:** openjdk.org | **Posted:** 2026-09-15 | **By:** rajtilakjee
+- **Community:** 38 score, 5 comments on Lobsters
+- **Tags:** java, release
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/jlja1a/jdk_27_has_been_released
+- **Link:** https://openjdk.org/projects/jdk/27/
+
 
 ## TypeScript
 

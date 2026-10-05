@@ -315,6 +315,7 @@
     "https://huggingface.co/prompthero/openjourney",
     "https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th",
     "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your",
+    "https://lobste.rs/s/jlja1a/jdk_27_has_been_released",
     "https://lobste.rs/s/rucvky/go_concurrency_distilled",
     "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed",
     "https://news.ycombinator.com/item?id=16535886",
@@ -578,12 +579,6 @@
   "recent": [
     {
       "date": "2026-10-05",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: I made a web-based notepad with a built in uni",
-      "url": "https://news.ycombinator.com/item?id=32493946"
-    },
-    {
-      "date": "2026-10-05",
       "subcat": "AI Engineering",
       "title": "The Code Works. What Could Possibly Go Wrong?",
       "url": "https://dev.to/sylwia-lask/the-code-works-what-could-possibly-go-wrong-5hbm"
@@ -635,6 +630,12 @@
       "subcat": "Python",
       "title": "Tencent-Hunyuan/HY-Motion-1.0",
       "url": "https://github.com/Tencent-Hunyuan/HY-Motion-1.0"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "Java",
+      "title": "JDK 27 has been released",
+      "url": "https://lobste.rs/s/jlja1a/jdk_27_has_been_released"
     }
   ]
 }
