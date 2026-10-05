@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**586 entries and counting** · Last updated: 2026-10-06
+**587 entries and counting** · Last updated: 2026-10-06
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 184 |
-| [AI / LLM Notes](ai/notes.md) | 63 |
+| [AI / LLM Notes](ai/notes.md) | 64 |
 | [Reading List](articles/reading-list.md) | 161 |
 | [Coding Tips](coding-tips/tips.md) | 145 |
 | [Language Notes](languages/notes.md) | 33 |
 
 ## Latest additions
 
+- **2026-10-06** · *Research Papers* — [Deterministic Regime Switching and Feasibility Inversio](http://arxiv.org/abs/2609.31250v1)
 - **2026-10-06** · *Ruby* — [Rails is done](https://lobste.rs/s/paryb7/rails_is_done)
 - **2026-10-05** · *Elixir* — [getmydia/mydia](https://github.com/getmydia/mydia)
 - **2026-10-05** · *Hacker News Picks* — [U.S. Supreme Court Puts Limits on Police Power to Seize](https://news.ycombinator.com/item?id=19209957)
 - **2026-10-05** · *Swift* — [zachlatta/freeflow](https://github.com/zachlatta/freeflow)
-- **2026-10-05** · *Backend & Infrastructure* — [XxxXTeam/business2api](https://github.com/XxxXTeam/business2api)
 
 ## How it works
 

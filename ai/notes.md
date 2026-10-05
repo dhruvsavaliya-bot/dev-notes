@@ -587,3 +587,13 @@ Lessons from building with LLMs.
 - **Abstract:** Extracellular electrophysiology records a different set of neurons in every session. Neural foundation models embed each neuron and each session into their tokens, so every new session is an input they have never seen, and they fail to generalize to it. A tokenizer for new sessions needs a unit that every session shares and that carries behavior. Population activity offers such a unit. It evolves on a low-dimensional manifold that persists across neuronal turnover and across animals once session...
 - **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.03001v1
+
+**Added 2026-10-06**
+
+### [Deterministic Regime Switching and Feasibility Inversion in Dynamic Tensor Rematerialization](http://arxiv.org/abs/2609.31250v1)
+- **Authors:** Mahesh Reddy Pagadala
+- **Published:** 2026-09-25 | **Primary category:** cs.DC
+- **Categories:** cs.LG, cs.DC
+- **Abstract:** We report fine-grained, deterministic instability in Dynamic Tensor Rematerialization (DTR), an online eviction policy for memory-constrained DNN training, measured on the reference DTR simulator (simrd) using public execution traces. On an LSTM trace, memory budgets differing by 0.10% of unconstrained peak memory select fast and slow execution regimes whose overheads differ by as much as 7.3x; the slow regime is driven by broadly repeated re-eviction of the same storages (evictions per storage ...
+- **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.31250v1
