@@ -579,21 +579,10 @@
     "https://news.ycombinator.com/item?id=49945933",
     "https://news.ycombinator.com/item?id=49946895",
     "https://news.ycombinator.com/item?id=49947631",
-    "https://news.ycombinator.com/item?id=7185024"
+    "https://news.ycombinator.com/item?id=7185024",
+    "https://dev.to/aws-builders/ai-agent-governance-on-aws-block-agents-prove-eu-ai-act-compliance-1829"
   ],
   "recent": [
-    {
-      "date": "2026-10-05",
-      "subcat": "Show & Ask HN",
-      "title": "GraphQL kinda sucks",
-      "url": "https://news.ycombinator.com/item?id=32366759"
-    },
-    {
-      "date": "2026-10-05",
-      "subcat": "Swift",
-      "title": "Why the West is reluctant to deny Russian banks access",
-      "url": "https://news.ycombinator.com/item?id=30467919"
-    },
     {
       "date": "2026-10-05",
       "subcat": "LLMs",
@@ -641,6 +630,18 @@
       "subcat": "Models & Datasets",
       "title": "mlfoundations/MINT-1T-HTML",
       "url": "https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "Ruby",
+      "title": "OpenAI agents carried out an undisclosed attack on Ruby",
+      "url": "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "AI Engineering",
+      "title": "AI Agent Governance on AWS: Block Agents, Prove EU AI A",
+      "url": "https://dev.to/aws-builders/ai-agent-governance-on-aws-block-agents-prove-eu-ai-act-compliance-1829"
     }
   ]
 }

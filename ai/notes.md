@@ -402,6 +402,15 @@ Lessons from building with LLMs.
 - **Summary:** Would you treat a serious illness without seeing a doctor, relying only on whatever your favorite AI...
 - **Link:** https://dev.to/sylwia-lask/the-code-works-what-could-possibly-go-wrong-5hbm
 
+**Added 2026-10-05**
+
+### [AI Agent Governance on AWS: Block Agents, Prove EU AI Act Compliance](https://dev.to/aws-builders/ai-agent-governance-on-aws-block-agents-prove-eu-ai-act-compliance-1829)
+- **Author:** Sarvar Nadaf | **Published:** Sep 29 | **Read time:** 22 min
+- **Community:** 57 reactions, 23 comments -- a top post in #ai
+- **Tags:** aws, ai, governance, discuss
+- **Summary:** I built a synthetic multi-agent loan crew on Amazon Bedrock and made Traccia hard-block a runaway agent, redact applicant PII across every sub-agent, and export EU AI Act audit evidence. Two of my three governance policies blocked nothing - and not because I misconfigured them. Why is the useful part.
+- **Link:** https://dev.to/aws-builders/ai-agent-governance-on-aws-block-agents-prove-eu-ai-act-compliance-1829
+
 
 ## LLMs
 

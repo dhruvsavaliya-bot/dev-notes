@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**573 entries and counting** · Last updated: 2026-10-05
+**574 entries and counting** · Last updated: 2026-10-05
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 182 |
-| [AI / LLM Notes](ai/notes.md) | 62 |
+| [AI / LLM Notes](ai/notes.md) | 63 |
 | [Reading List](articles/reading-list.md) | 158 |
 | [Coding Tips](coding-tips/tips.md) | 145 |
 | [Language Notes](languages/notes.md) | 26 |
 
 ## Latest additions
 
+- **2026-10-05** · *AI Engineering* — [AI Agent Governance on AWS: Block Agents, Prove EU AI A](https://dev.to/aws-builders/ai-agent-governance-on-aws-block-agents-prove-eu-ai-act-compliance-1829)
+- **2026-10-05** · *Ruby* — [OpenAI agents carried out an undisclosed attack on Ruby](https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed)
 - **2026-10-05** · *Models & Datasets* — [mlfoundations/MINT-1T-HTML](https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML)
 - **2026-10-05** · *Rust* — [zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown)
 - **2026-10-05** · *Research Papers* — [Neural Data Needs Semantic Tokenization: Behavioral Eve](http://arxiv.org/abs/2610.03001v1)
-- **2026-10-05** · *Python* — [apache/ossie](https://github.com/apache/ossie)
-- **2026-10-05** · *Models & Datasets* — [google/siglip-base-patch16-224](https://huggingface.co/google/siglip-base-patch16-224)
 
 ## How it works
 
