@@ -93,6 +93,7 @@
     "https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh",
     "https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n",
     "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
+    "https://dev.to/smtahosin/python-thinks-different-what-actually-happens-inside-your-code-visual-guide-241l",
     "https://dev.to/stherzada/como-eu-aprendi-a-aprender-e-por-que-a-ia-nao-veio-pra-pensar-por-voce-fhg",
     "https://dev.to/sylwia-lask/10-git-commands-youll-wish-you-knew-earlier-4fcp",
     "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii",
@@ -586,12 +587,6 @@
   "recent": [
     {
       "date": "2026-10-05",
-      "subcat": "Python",
-      "title": "Tencent-Hunyuan/HY-Motion-1.0",
-      "url": "https://github.com/Tencent-Hunyuan/HY-Motion-1.0"
-    },
-    {
-      "date": "2026-10-05",
       "subcat": "Java",
       "title": "JDK 27 has been released",
       "url": "https://lobste.rs/s/jlja1a/jdk_27_has_been_released"
@@ -643,6 +638,12 @@
       "subcat": "JavaScript",
       "title": "foxhui/WebAI2API",
       "url": "https://github.com/foxhui/WebAI2API"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "Python",
+      "title": "Python Thinks Different: What Actually Happens Inside Y",
+      "url": "https://dev.to/smtahosin/python-thinks-different-what-actually-happens-inside-your-code-visual-guide-241l"
     }
   ]
 }
