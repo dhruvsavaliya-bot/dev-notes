@@ -518,6 +518,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/monology/pile-uncopyrighted
 
+**Added 2026-10-05**
+
+### [google/siglip-base-patch16-224](https://huggingface.co/google/siglip-base-patch16-224)
+- **Stats:** 92 likes | 1,854,227 downloads
+- **Kind:** Hugging Face model | **Task:** zero-shot-image-classification | **Created:** 2023-09-30
+- **Tags:** transformers, pytorch, safetensors, siglip, zero-shot-image-classification, vision
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/google/siglip-base-patch16-224
+
 
 ## Research Papers
 

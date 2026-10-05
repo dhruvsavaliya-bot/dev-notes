@@ -312,6 +312,7 @@
     "https://huggingface.co/datasets/monology/pile-uncopyrighted",
     "https://huggingface.co/datasets/nvidia/Open-SWE-Traces",
     "https://huggingface.co/datasets/nvidia/OpenH-RF",
+    "https://huggingface.co/google/siglip-base-patch16-224",
     "https://huggingface.co/prompthero/openjourney",
     "https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th",
     "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your",
@@ -579,12 +580,6 @@
   "recent": [
     {
       "date": "2026-10-05",
-      "subcat": "AI Engineering",
-      "title": "The Code Works. What Could Possibly Go Wrong?",
-      "url": "https://dev.to/sylwia-lask/the-code-works-what-could-possibly-go-wrong-5hbm"
-    },
-    {
-      "date": "2026-10-05",
       "subcat": "Show & Ask HN",
       "title": "A day in the life of a startup founder",
       "url": "https://news.ycombinator.com/item?id=4166183"
@@ -636,6 +631,12 @@
       "subcat": "Java",
       "title": "JDK 27 has been released",
       "url": "https://lobste.rs/s/jlja1a/jdk_27_has_been_released"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "Models & Datasets",
+      "title": "google/siglip-base-patch16-224",
+      "url": "https://huggingface.co/google/siglip-base-patch16-224"
     }
   ]
 }
