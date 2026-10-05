@@ -330,6 +330,7 @@
     "https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th",
     "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your",
     "https://lobste.rs/s/jlja1a/jdk_27_has_been_released",
+    "https://lobste.rs/s/paryb7/rails_is_done",
     "https://lobste.rs/s/rucvky/go_concurrency_distilled",
     "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed",
     "https://news.ycombinator.com/item?id=14350059",
@@ -596,12 +597,6 @@
   "recent": [
     {
       "date": "2026-10-05",
-      "subcat": "Python",
-      "title": "Python Thinks Different: What Actually Happens Inside Y",
-      "url": "https://dev.to/smtahosin/python-thinks-different-what-actually-happens-inside-your-code-visual-guide-241l"
-    },
-    {
-      "date": "2026-10-05",
       "subcat": "Swift",
       "title": "tldev/dorso",
       "url": "https://github.com/tldev/dorso"
@@ -653,6 +648,12 @@
       "subcat": "Elixir",
       "title": "getmydia/mydia",
       "url": "https://github.com/getmydia/mydia"
+    },
+    {
+      "date": "2026-10-06",
+      "subcat": "Ruby",
+      "title": "Rails is done",
+      "url": "https://lobste.rs/s/paryb7/rails_is_done"
     }
   ]
 }

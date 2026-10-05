@@ -261,6 +261,17 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed
 - **Link:** https://www.rubyhack.ai/
 
+**Added 2026-10-06**
+
+### [Rails is done](https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/)
+- **Source:** lucas.dohmen.io | **Posted:** 2026-08-09 | **By:** henrycatalinismith
+- **Community:** 78 score, 52 comments on Lobsters
+- **Tags:** culture, ruby
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/paryb7/rails_is_done
+- **Link:** https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/
+
+
 ## Swift
 
 **Added 2026-10-05**
