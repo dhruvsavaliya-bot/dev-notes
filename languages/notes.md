@@ -89,6 +89,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/jlja1a/jdk_27_has_been_released
 - **Link:** https://openjdk.org/projects/jdk/27/
 
+**Added 2026-10-05**
+
+### [foxhui/WebAI2API](https://github.com/foxhui/WebAI2API)
+- **Stats:** 1,380 stars | 358 forks | 41 open issues
+- **Language:** JavaScript | **Created:** 2025-11-23 | **License:** MIT
+- **Topics:** ai-tools, browser-automation, generative-ai, image-generation, openai-api, text-generation
+- **What it is:** WebAI2API: 基于 Camoufox 的网页 AI 转 API 工具，支持 LMArena/Gemini等，多窗口并发与账号隔离。 | Web AI to OpenAI API via Camoufox. Supports LMArena/Gemini and more, multi-window concurrency & account isolation.
+- **Growth:** averaging ~4 stars/day since launch.
+- **Link:** https://github.com/foxhui/WebAI2API
+
 
 ## TypeScript
 

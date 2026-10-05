@@ -20,6 +20,7 @@
     "https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635",
     "https://dev.to/annavi11arrea1/sharing-dev-followers-count-on-github-profile-bj3",
     "https://dev.to/astro-official/scraping-predictions-for-2026-agentic-workflow-and-ai-350m",
+    "https://dev.to/aws-builders/ai-agent-governance-on-aws-block-agents-prove-eu-ai-act-compliance-1829",
     "https://dev.to/aws-builders/per-agent-cost-tracking-for-multi-agent-ai-on-aws-10eg",
     "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
     "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh",
@@ -229,6 +230,7 @@
     "https://github.com/eternity4719/HowToLiveBetter",
     "https://github.com/eternityspring/shuohao-skills",
     "https://github.com/firecrawl/anydoc",
+    "https://github.com/foxhui/WebAI2API",
     "https://github.com/fuxicodex/Fuxi",
     "https://github.com/genspark-ai/genoffice",
     "https://github.com/google-research/tabfm",
@@ -579,16 +581,9 @@
     "https://news.ycombinator.com/item?id=49945933",
     "https://news.ycombinator.com/item?id=49946895",
     "https://news.ycombinator.com/item?id=49947631",
-    "https://news.ycombinator.com/item?id=7185024",
-    "https://dev.to/aws-builders/ai-agent-governance-on-aws-block-agents-prove-eu-ai-act-compliance-1829"
+    "https://news.ycombinator.com/item?id=7185024"
   ],
   "recent": [
-    {
-      "date": "2026-10-05",
-      "subcat": "LLMs",
-      "title": "Scraping predictions for 2026: agentic workflow and AI",
-      "url": "https://dev.to/astro-official/scraping-predictions-for-2026-agentic-workflow-and-ai-350m"
-    },
     {
       "date": "2026-10-05",
       "subcat": "Python",
@@ -642,6 +637,12 @@
       "subcat": "AI Engineering",
       "title": "AI Agent Governance on AWS: Block Agents, Prove EU AI A",
       "url": "https://dev.to/aws-builders/ai-agent-governance-on-aws-block-agents-prove-eu-ai-act-compliance-1829"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "JavaScript",
+      "title": "foxhui/WebAI2API",
+      "url": "https://github.com/foxhui/WebAI2API"
     }
   ]
 }
