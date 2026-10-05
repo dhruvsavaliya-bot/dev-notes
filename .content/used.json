@@ -318,6 +318,7 @@
     "https://news.ycombinator.com/item?id=16535886",
     "https://news.ycombinator.com/item?id=21611677",
     "https://news.ycombinator.com/item?id=23361987",
+    "https://news.ycombinator.com/item?id=30467919",
     "https://news.ycombinator.com/item?id=31335904",
     "https://news.ycombinator.com/item?id=32366759",
     "https://news.ycombinator.com/item?id=32493946",
@@ -575,12 +576,6 @@
   "recent": [
     {
       "date": "2026-10-05",
-      "subcat": "Lobsters Picks",
-      "title": "I got targeted: Trying to get your credentials via a gi",
-      "url": "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your"
-    },
-    {
-      "date": "2026-10-05",
       "subcat": "AI & Machine Learning",
       "title": "angusdevgo/Seep-Reverse-Lab",
       "url": "https://github.com/angusdevgo/Seep-Reverse-Lab"
@@ -632,6 +627,12 @@
       "subcat": "Show & Ask HN",
       "title": "GraphQL kinda sucks",
       "url": "https://news.ycombinator.com/item?id=32366759"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "Swift",
+      "title": "Why the West is reluctant to deny Russian banks access",
+      "url": "https://news.ycombinator.com/item?id=30467919"
     }
   ]
 }

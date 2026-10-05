@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**564 entries and counting** · Last updated: 2026-10-05
+**565 entries and counting** · Last updated: 2026-10-05
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 58 |
 | [Reading List](articles/reading-list.md) | 158 |
 | [Coding Tips](coding-tips/tips.md) | 145 |
-| [Language Notes](languages/notes.md) | 21 |
+| [Language Notes](languages/notes.md) | 22 |
 
 ## Latest additions
 
+- **2026-10-05** · *Swift* — [Why the West is reluctant to deny Russian banks access](https://news.ycombinator.com/item?id=30467919)
 - **2026-10-05** · *Show & Ask HN* — [GraphQL kinda sucks](https://news.ycombinator.com/item?id=32366759)
 - **2026-10-05** · *Ruby* — [OpenAI agents carried out an undisclosed attack on Ruby](https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed)
 - **2026-10-05** · *Research Papers* — [Emergent Structure in the Marginal Attention Space of L](http://arxiv.org/abs/2610.03109v1)
 - **2026-10-05** · *Hacker News Picks* — [SpaceX successfully launches two humans into orbit](https://news.ycombinator.com/item?id=23361987)
-- **2026-10-05** · *Show & Ask HN* — [A day in the life of a startup founder](https://news.ycombinator.com/item?id=4166183)
 
 ## How it works
 

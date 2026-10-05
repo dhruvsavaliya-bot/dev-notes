@@ -210,3 +210,14 @@ Snippets and gotchas across languages.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed
 - **Link:** https://www.rubyhack.ai/
+
+## Swift
+
+**Added 2026-10-05**
+
+### [Why the West is reluctant to deny Russian banks access to SWIFT](https://www.economist.com/the-economist-explains/2022/02/25/why-the-west-is-reluctant-to-deny-russian-banks-access-to-swift)
+- **Source:** www.economist.com | **Posted:** 2022-02-25 | **By:** doener
+- **Community:** 353 points, 493 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=30467919
+- **Link:** https://www.economist.com/the-economist-explains/2022/02/25/why-the-west-is-reluctant-to-deny-russian-banks-access-to-swift
