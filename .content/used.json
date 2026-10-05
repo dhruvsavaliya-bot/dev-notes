@@ -171,6 +171,7 @@
     "https://github.com/Shpigford/knockoff",
     "https://github.com/SonicloudTech/sonicloud_opensdk",
     "https://github.com/Taichu-AI/ZDTaichu5.0-9B",
+    "https://github.com/Tencent-Hunyuan/HY-Motion-1.0",
     "https://github.com/TheoLeeCJ/SemIf",
     "https://github.com/TheoLeeCJ/SemIf-OpenJev",
     "https://github.com/TianyuCodings/NanoJev",
@@ -577,12 +578,6 @@
   "recent": [
     {
       "date": "2026-10-05",
-      "subcat": "Models & Datasets",
-      "title": "monology/pile-uncopyrighted",
-      "url": "https://huggingface.co/datasets/monology/pile-uncopyrighted"
-    },
-    {
-      "date": "2026-10-05",
       "subcat": "Show & Ask HN",
       "title": "Show HN: I made a web-based notepad with a built in uni",
       "url": "https://news.ycombinator.com/item?id=32493946"
@@ -634,6 +629,12 @@
       "subcat": "LLMs",
       "title": "Scraping predictions for 2026: agentic workflow and AI",
       "url": "https://dev.to/astro-official/scraping-predictions-for-2026-agentic-workflow-and-ai-350m"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "Python",
+      "title": "Tencent-Hunyuan/HY-Motion-1.0",
+      "url": "https://github.com/Tencent-Hunyuan/HY-Motion-1.0"
     }
   ]
 }

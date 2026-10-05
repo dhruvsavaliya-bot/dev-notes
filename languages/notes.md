@@ -157,6 +157,17 @@ Snippets and gotchas across languages.
 - **Summary:** A quick disclaimer before we dive in: when I say "feelings," I mean state machines, bond...
 - **Link:** https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd
 
+**Added 2026-10-05**
+
+### [Tencent-Hunyuan/HY-Motion-1.0](https://github.com/Tencent-Hunyuan/HY-Motion-1.0)
+- **Stats:** 2,579 stars | 218 forks | 12 open issues
+- **Language:** Python | **Created:** 2025-12-29 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** HY-Motion model for 3D human motion or 3D character animation generation.
+- **Growth:** averaging ~9 stars/day since launch.
+- **Link:** https://github.com/Tencent-Hunyuan/HY-Motion-1.0
+
+
 ## Go
 
 **Added 2026-09-28**
