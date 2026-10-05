@@ -314,6 +314,7 @@
     "https://github.com/yjh051108/dsh-routing-suite",
     "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
     "https://github.com/yynxxxxx/Codex-X",
+    "https://github.com/zachlatta/freeflow",
     "https://github.com/zai-org/ZCode",
     "https://github.com/zerx-lab/FluxDown",
     "https://github.com/zhu1090093659/dsh-web",
@@ -593,12 +594,6 @@
   "recent": [
     {
       "date": "2026-10-05",
-      "subcat": "Ruby",
-      "title": "OpenAI agents carried out an undisclosed attack on Ruby",
-      "url": "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed"
-    },
-    {
-      "date": "2026-10-05",
       "subcat": "AI Engineering",
       "title": "AI Agent Governance on AWS: Block Agents, Prove EU AI A",
       "url": "https://dev.to/aws-builders/ai-agent-governance-on-aws-block-agents-prove-eu-ai-act-compliance-1829"
@@ -650,6 +645,12 @@
       "subcat": "Backend & Infrastructure",
       "title": "XxxXTeam/business2api",
       "url": "https://github.com/XxxXTeam/business2api"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "Swift",
+      "title": "zachlatta/freeflow",
+      "url": "https://github.com/zachlatta/freeflow"
     }
   ]
 }

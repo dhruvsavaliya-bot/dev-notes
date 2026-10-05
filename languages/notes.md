@@ -292,6 +292,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/Blimp-Labs/claude-usage-bar
 
+**Added 2026-10-05**
+
+### [zachlatta/freeflow](https://github.com/zachlatta/freeflow)
+- **Stats:** 2,807 stars | 286 forks | 86 open issues
+- **Language:** Swift | **Created:** 2026-02-15 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Free & fast alternative to Wispr Flow
+- **Growth:** averaging ~12 stars/day since launch.
+- **Link:** https://github.com/zachlatta/freeflow
+
 
 ## Rust
 

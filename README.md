@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**582 entries and counting** · Last updated: 2026-10-05
+**583 entries and counting** · Last updated: 2026-10-05
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 63 |
 | [Reading List](articles/reading-list.md) | 160 |
 | [Coding Tips](coding-tips/tips.md) | 145 |
-| [Language Notes](languages/notes.md) | 30 |
+| [Language Notes](languages/notes.md) | 31 |
 
 ## Latest additions
 
+- **2026-10-05** · *Swift* — [zachlatta/freeflow](https://github.com/zachlatta/freeflow)
 - **2026-10-05** · *Backend & Infrastructure* — [XxxXTeam/business2api](https://github.com/XxxXTeam/business2api)
 - **2026-10-05** · *Hacker News Picks* — [My Familys Slave](https://news.ycombinator.com/item?id=14350059)
 - **2026-10-05** · *Swift* — [Blimp-Labs/claude-usage-bar](https://github.com/Blimp-Labs/claude-usage-bar)
 - **2026-10-05** · *AI & Machine Learning* — [LightningRAG/LightningRAG](https://github.com/LightningRAG/LightningRAG)
-- **2026-10-05** · *Hacker News Picks* — [The Password Game](https://news.ycombinator.com/item?id=36493715)
 
 ## How it works
 
