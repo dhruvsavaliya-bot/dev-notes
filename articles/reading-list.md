@@ -1388,6 +1388,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=14350059
 - **Link:** https://www.theatlantic.com/magazine/archive/2017/06/lolas-story/524490/?single_page=true
 
+**Added 2026-10-05**
+
+### [U.S. Supreme Court Puts Limits on Police Power to Seize Private Property](https://www.nytimes.com/2019/02/20/us/politics/civil-asset-forfeiture-supreme-court.html)
+- **Source:** www.nytimes.com | **Posted:** 2019-02-20 | **By:** ComputerGuru
+- **Community:** 1426 points, 423 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=19209957
+- **Link:** https://www.nytimes.com/2019/02/20/us/politics/civil-asset-forfeiture-supreme-court.html
+
 
 ## DevOps & Cloud
 

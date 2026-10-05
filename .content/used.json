@@ -333,6 +333,7 @@
     "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed",
     "https://news.ycombinator.com/item?id=14350059",
     "https://news.ycombinator.com/item?id=16535886",
+    "https://news.ycombinator.com/item?id=19209957",
     "https://news.ycombinator.com/item?id=21611677",
     "https://news.ycombinator.com/item?id=23361987",
     "https://news.ycombinator.com/item?id=30467919",
@@ -594,12 +595,6 @@
   "recent": [
     {
       "date": "2026-10-05",
-      "subcat": "AI Engineering",
-      "title": "AI Agent Governance on AWS: Block Agents, Prove EU AI A",
-      "url": "https://dev.to/aws-builders/ai-agent-governance-on-aws-block-agents-prove-eu-ai-act-compliance-1829"
-    },
-    {
-      "date": "2026-10-05",
       "subcat": "JavaScript",
       "title": "foxhui/WebAI2API",
       "url": "https://github.com/foxhui/WebAI2API"
@@ -651,6 +646,12 @@
       "subcat": "Swift",
       "title": "zachlatta/freeflow",
       "url": "https://github.com/zachlatta/freeflow"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "Hacker News Picks",
+      "title": "U.S. Supreme Court Puts Limits on Police Power to Seize",
+      "url": "https://news.ycombinator.com/item?id=19209957"
     }
   ]
 }
