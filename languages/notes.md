@@ -314,3 +314,15 @@ Snippets and gotchas across languages.
 - **What it is:** Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。
 - **Growth:** averaging ~41 stars/day since launch.
 - **Link:** https://github.com/zerx-lab/FluxDown
+
+## Elixir
+
+**Added 2026-10-05**
+
+### [getmydia/mydia](https://github.com/getmydia/mydia)
+- **Stats:** 789 stars | 22 forks | 8 open issues
+- **Language:** Elixir | **Created:** 2025-11-05 | **License:** AGPL-3.0
+- **Topics:** none listed
+- **What it is:** Your personal media companion, built with Phoenix LiveView
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/getmydia/mydia

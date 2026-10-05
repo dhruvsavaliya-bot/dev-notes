@@ -237,6 +237,7 @@
     "https://github.com/foxhui/WebAI2API",
     "https://github.com/fuxicodex/Fuxi",
     "https://github.com/genspark-ai/genoffice",
+    "https://github.com/getmydia/mydia",
     "https://github.com/google-research/tabfm",
     "https://github.com/guillaumemeyer/watermarks-remover",
     "https://github.com/gvzdv/claudish-to-english",
@@ -595,12 +596,6 @@
   "recent": [
     {
       "date": "2026-10-05",
-      "subcat": "JavaScript",
-      "title": "foxhui/WebAI2API",
-      "url": "https://github.com/foxhui/WebAI2API"
-    },
-    {
-      "date": "2026-10-05",
       "subcat": "Python",
       "title": "Python Thinks Different: What Actually Happens Inside Y",
       "url": "https://dev.to/smtahosin/python-thinks-different-what-actually-happens-inside-your-code-visual-guide-241l"
@@ -652,6 +647,12 @@
       "subcat": "Hacker News Picks",
       "title": "U.S. Supreme Court Puts Limits on Police Power to Seize",
       "url": "https://news.ycombinator.com/item?id=19209957"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "Elixir",
+      "title": "getmydia/mydia",
+      "url": "https://github.com/getmydia/mydia"
     }
   ]
 }
