@@ -168,6 +168,7 @@
     "https://github.com/Nanako0129/sepia",
     "https://github.com/NandhaKishorM/laya",
     "https://github.com/Niko1221/Strata",
+    "https://github.com/OpenNHP/opennhp",
     "https://github.com/Player-YN/BrowserKitten",
     "https://github.com/Player-YN/PawWork_ZhuaZhua",
     "https://github.com/QwenLM/Qwen-MM-Plugins",
@@ -599,12 +600,6 @@
   "recent": [
     {
       "date": "2026-10-05",
-      "subcat": "AI & Machine Learning",
-      "title": "LightningRAG/LightningRAG",
-      "url": "https://github.com/LightningRAG/LightningRAG"
-    },
-    {
-      "date": "2026-10-05",
       "subcat": "Swift",
       "title": "Blimp-Labs/claude-usage-bar",
       "url": "https://github.com/Blimp-Labs/claude-usage-bar"
@@ -656,6 +651,12 @@
       "subcat": "Hacker News Picks",
       "title": "Making a GTK application in Haskell, part 1",
       "url": "https://news.ycombinator.com/item?id=49965308"
+    },
+    {
+      "date": "2026-10-06",
+      "subcat": "AI & Machine Learning",
+      "title": "OpenNHP/opennhp",
+      "url": "https://github.com/OpenNHP/opennhp"
     }
   ]
 }

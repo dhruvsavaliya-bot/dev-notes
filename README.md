@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**588 entries and counting** · Last updated: 2026-10-06
+**589 entries and counting** · Last updated: 2026-10-06
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 184 |
+| [Trending Projects](trending-projects/projects.md) | 185 |
 | [AI / LLM Notes](ai/notes.md) | 64 |
 | [Reading List](articles/reading-list.md) | 162 |
 | [Coding Tips](coding-tips/tips.md) | 145 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-06** · *AI & Machine Learning* — [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp)
 - **2026-10-06** · *Hacker News Picks* — [Making a GTK application in Haskell, part 1](https://news.ycombinator.com/item?id=49965308)
 - **2026-10-06** · *Research Papers* — [Deterministic Regime Switching and Feasibility Inversio](http://arxiv.org/abs/2609.31250v1)
 - **2026-10-06** · *Ruby* — [Rails is done](https://lobste.rs/s/paryb7/rails_is_done)
 - **2026-10-05** · *Elixir* — [getmydia/mydia](https://github.com/getmydia/mydia)
-- **2026-10-05** · *Hacker News Picks* — [U.S. Supreme Court Puts Limits on Police Power to Seize](https://news.ycombinator.com/item?id=19209957)
 
 ## How it works
 

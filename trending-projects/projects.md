@@ -834,6 +834,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/LightningRAG/LightningRAG
 
+**Added 2026-10-06**
+
+### [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp)
+- **Stats:** 13,940 stars | 2,484 forks | 15 open issues
+- **Language:** Go | **Created:** 2014-08-04 | **License:** Apache-2.0
+- **Topics:** cybersecurity, zero-trust, zero-trust-network-access, zero-trust-security
+- **What it is:** A lightweight, cryptography-powered, open-source toolkit built to enforce Zero Trust security for infrastructure, applications, and data in the AI-driven world.
+- **Growth:** averaging ~3 stars/day since launch.
+- **Link:** https://github.com/OpenNHP/opennhp
+
 
 ## Other Cool Projects
 
