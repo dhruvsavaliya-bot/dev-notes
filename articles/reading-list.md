@@ -1379,6 +1379,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=36493715
 - **Link:** https://neal.fun/password-game/
 
+**Added 2026-10-05**
+
+### [My Family’s Slave](https://www.theatlantic.com/magazine/archive/2017/06/lolas-story/524490/?single_page=true)
+- **Source:** www.theatlantic.com | **Posted:** 2017-05-16 | **By:** aaron695
+- **Community:** 1419 points, 606 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=14350059
+- **Link:** https://www.theatlantic.com/magazine/archive/2017/06/lolas-story/524490/?single_page=true
+
 
 ## DevOps & Cloud
 

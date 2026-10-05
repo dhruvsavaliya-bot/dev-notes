@@ -329,6 +329,7 @@
     "https://lobste.rs/s/jlja1a/jdk_27_has_been_released",
     "https://lobste.rs/s/rucvky/go_concurrency_distilled",
     "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed",
+    "https://news.ycombinator.com/item?id=14350059",
     "https://news.ycombinator.com/item?id=16535886",
     "https://news.ycombinator.com/item?id=21611677",
     "https://news.ycombinator.com/item?id=23361987",
@@ -591,12 +592,6 @@
   "recent": [
     {
       "date": "2026-10-05",
-      "subcat": "Rust",
-      "title": "zerx-lab/FluxDown",
-      "url": "https://github.com/zerx-lab/FluxDown"
-    },
-    {
-      "date": "2026-10-05",
       "subcat": "Models & Datasets",
       "title": "mlfoundations/MINT-1T-HTML",
       "url": "https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML"
@@ -648,6 +643,12 @@
       "subcat": "Swift",
       "title": "Blimp-Labs/claude-usage-bar",
       "url": "https://github.com/Blimp-Labs/claude-usage-bar"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "Hacker News Picks",
+      "title": "My Familys Slave",
+      "url": "https://news.ycombinator.com/item?id=14350059"
     }
   ]
 }
