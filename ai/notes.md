@@ -559,3 +559,13 @@ Lessons from building with LLMs.
 - **Abstract:** While representation similarity across independently trained language models is well-documented, how internal mechanics such as attention behave across models remains far less characterized. Inspired by this gap, we examine the structure of post-softmax attention weights by marginalizing over query positions, mapping them into a joint token-head "marginal attention space". Evaluating across 60+ diverse LLMs, we find that different properties emerge when reducing this space along its token and he...
 - **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.03109v1
+
+**Added 2026-10-05**
+
+### [Neural Data Needs Semantic Tokenization: Behavioral Events as Boundaries of Session-Transferable Tokens](http://arxiv.org/abs/2610.03001v1)
+- **Authors:** Sangyoon Bae, Jiook Cha
+- **Published:** 2026-10-02 | **Primary category:** cs.LG
+- **Categories:** cs.LG
+- **Abstract:** Extracellular electrophysiology records a different set of neurons in every session. Neural foundation models embed each neuron and each session into their tokens, so every new session is an input they have never seen, and they fail to generalize to it. A tokenizer for new sessions needs a unit that every session shares and that carries behavior. Population activity offers such a unit. It evolves on a low-dimensional manifold that persists across neuronal turnover and across animals once session...
+- **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.03001v1

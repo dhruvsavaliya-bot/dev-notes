@@ -8,6 +8,7 @@
   "ids": [
     "http://arxiv.org/abs/2609.09270v1",
     "http://arxiv.org/abs/2609.35878v1",
+    "http://arxiv.org/abs/2610.03001v1",
     "http://arxiv.org/abs/2610.03109v1",
     "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
     "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
@@ -581,12 +582,6 @@
   "recent": [
     {
       "date": "2026-10-05",
-      "subcat": "Hacker News Picks",
-      "title": "SpaceX successfully launches two humans into orbit",
-      "url": "https://news.ycombinator.com/item?id=23361987"
-    },
-    {
-      "date": "2026-10-05",
       "subcat": "Research Papers",
       "title": "Emergent Structure in the Marginal Attention Space of L",
       "url": "http://arxiv.org/abs/2610.03109v1"
@@ -638,6 +633,12 @@
       "subcat": "Python",
       "title": "apache/ossie",
       "url": "https://github.com/apache/ossie"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "Research Papers",
+      "title": "Neural Data Needs Semantic Tokenization: Behavioral Eve",
+      "url": "http://arxiv.org/abs/2610.03001v1"
     }
   ]
 }
