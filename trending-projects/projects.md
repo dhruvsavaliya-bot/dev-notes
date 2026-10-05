@@ -844,6 +844,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~3 stars/day since launch.
 - **Link:** https://github.com/OpenNHP/opennhp
 
+**Added 2026-10-06**
+
+### [NVIDIA/cuml](https://github.com/NVIDIA/cuml)
+- **Stats:** 5,300 stars | 684 forks | 805 open issues
+- **Language:** Python | **Created:** 2018-10-11 | **License:** Apache-2.0
+- **Topics:** cuda, gpu, machine-learning, machine-learning-algorithms, nvidia
+- **What it is:** NVIDIA cuML: GPU-Accelerated Machine Learning
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/NVIDIA/cuml
+
 
 ## Other Cool Projects
 

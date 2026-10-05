@@ -165,6 +165,7 @@
     "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
     "https://github.com/MiniMax-AI/MiniMax-H3",
     "https://github.com/MoonshotAI/Kimi-K3",
+    "https://github.com/NVIDIA/cuml",
     "https://github.com/NVlabs/SoL-Pi",
     "https://github.com/Nanako0129/sepia",
     "https://github.com/NandhaKishorM/laya",
@@ -603,12 +604,6 @@
   "recent": [
     {
       "date": "2026-10-05",
-      "subcat": "Swift",
-      "title": "zachlatta/freeflow",
-      "url": "https://github.com/zachlatta/freeflow"
-    },
-    {
-      "date": "2026-10-05",
       "subcat": "Hacker News Picks",
       "title": "U.S. Supreme Court Puts Limits on Police Power to Seize",
       "url": "https://news.ycombinator.com/item?id=19209957"
@@ -660,6 +655,12 @@
       "subcat": "Hacker News Picks",
       "title": "Differences Between `Foldl` and `Foldr`",
       "url": "https://news.ycombinator.com/item?id=49917900"
+    },
+    {
+      "date": "2026-10-06",
+      "subcat": "AI & Machine Learning",
+      "title": "NVIDIA/cuml",
+      "url": "https://github.com/NVIDIA/cuml"
     }
   ]
 }
