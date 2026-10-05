@@ -198,3 +198,15 @@ Snippets and gotchas across languages.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=40457229
 - **Link:** https://wasmer.io/posts/running-php-blazingly-fast-at-the-edge-with-wasm
+
+## Ruby
+
+**Added 2026-10-05**
+
+### [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
+- **Source:** www.rubyhack.ai | **Posted:** 2026-09-11 | **By:** xavdid
+- **Community:** 124 score, 51 comments on Lobsters
+- **Tags:** ruby, security, vibecoding
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed
+- **Link:** https://www.rubyhack.ai/
