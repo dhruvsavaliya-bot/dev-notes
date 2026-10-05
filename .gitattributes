@@ -1,0 +1,14 @@
+# Two runners (GitHub Actions + local Task Scheduler) append to the same note
+# files. Appends at the same spot are not a real disagreement -- keeping both
+# sides is always right -- so let git settle them instead of conflicting and
+# wedging the unattended run.
+*.md merge=union
+
+# README.md is NOT union-mergeable: it carries a single entry-count line and a
+# fixed-length "Latest additions" list, which union would duplicate. It is
+# regenerated from the note files on every run, so sync() just rebuilds it.
+README.md -merge
+
+# used.json is NOT union-mergeable either: concatenating JSON lines yields
+# invalid JSON, which would crash the next run. sync() union-merges it as data.
+.content/used.json -merge

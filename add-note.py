@@ -38,6 +38,16 @@ USED = REPO / ".content" / "used.json"
 PULSE = REPO / ".content" / "pulse.md"
 ARCHIVE = REPO / "archive"
 
+# How many recent entries used.json carries (feeds README "Latest additions").
+RECENT_KEEP = 10
+
+# The two files both runners rewrite on EVERY run: a count line and a rolling
+# list. A conflict here is never a real disagreement -- there is nothing to
+# choose between the sides -- so an unattended run settles it itself instead of
+# dying at sync. Note files are union-merged by git (.gitattributes); anything
+# outside this set is a genuine conflict and still stops the run for a human.
+AUTO_RESOLVABLE = {".content/used.json", "README.md"}
+
 
 def envint(name, default):
     try:
@@ -727,6 +737,120 @@ def run(*cmd):
     return out
 
 
+def _entry_id(item):
+    """Identity of one used.json list item: a url for entries, the value itself
+    for plain strings (ids, tip texts)."""
+    if isinstance(item, dict):
+        return item.get("url") or json.dumps(item, sort_keys=True)
+    return item
+
+
+def _stage(number, path):
+    """One side of a conflicted file, straight out of the index."""
+    code, out = run_ok("git", "show", f":{number}:{path}")
+    return out if code == 0 else ""
+
+
+def union_merge_used():
+    """Union-merge both sides of used.json as data, not as text.
+
+    Concatenating JSON lines the way git's union driver does would produce
+    invalid JSON and crash the next run, so the merge happens on parsed
+    objects: every list becomes the union of both sides. Stage 2 is the side
+    already on the branch and stage 3 the commit being replayed, so stage-3
+    items are the newer ones and go last.
+    """
+    rel = USED.relative_to(REPO).as_posix()
+    try:
+        ours = json.loads(_stage(2, rel) or "{}")
+        theirs = json.loads(_stage(3, rel) or "{}")
+    except json.JSONDecodeError as exc:
+        print(f"  !! used.json unparseable on one side ({exc}); not resolving")
+        return False
+
+    merged = {}
+    for key in list(ours) + [k for k in theirs if k not in ours]:
+        a, b = ours.get(key), theirs.get(key)
+        if isinstance(a, list) and isinstance(b, list):
+            seen = {_entry_id(x) for x in a}
+            merged[key] = a + [x for x in b if _entry_id(x) not in seen]
+        else:
+            merged[key] = a if a is not None else b
+
+    if isinstance(merged.get("ids"), list):
+        merged["ids"] = sorted(set(merged["ids"]))
+    if isinstance(merged.get("recent"), list):
+        merged["recent"] = merged["recent"][-RECENT_KEEP:]
+
+    USED.write_text(json.dumps(merged, indent=2), encoding="utf-8")
+    print(f"  (used.json union-merged: {len(merged.get('ids', []))} ids)")
+    return True
+
+
+def rebase_in_progress():
+    for name in ("rebase-merge", "rebase-apply"):
+        code, out = run_ok("git", "rev-parse", "--git-path", name)
+        if code == 0 and (REPO / out).exists():
+            return True
+    return False
+
+
+def resolve_bookkeeping():
+    """Carry a conflicted rebase through, if only bookkeeping files are stuck.
+
+    Returns True when the rebase ran to completion. False means "this is a real
+    conflict" -- the caller aborts and fails the run, as before. Without this,
+    one overlapping hour between the two runners wedges every later run: the
+    pull conflicts, the run bails, and nothing is committed until someone
+    notices by hand.
+    """
+    for _ in range(20):  # one pass per replayed commit
+        stuck = run("git", "diff", "--name-only", "--diff-filter=U").splitlines()
+        unexpected = [f for f in stuck if f not in AUTO_RESOLVABLE]
+        if unexpected:
+            print(f"  !! conflict outside bookkeeping files: {', '.join(unexpected)}")
+            return False
+
+        if any(f == USED.relative_to(REPO).as_posix() for f in stuck):
+            if not union_merge_used():
+                return False
+        # README is derived, never merged: rebuild it from the notes on disk.
+        used = json.loads(USED.read_text(encoding="utf-8")) if USED.exists() else {}
+        update_readme(used.get("recent", []))
+
+        run("git", "add", "-A")
+        code, out = run_ok("git", "-c", "core.editor=true", "rebase", "--continue")
+        if code != 0:
+            low = out.lower()
+            if "no changes" in low or "nothing to commit" in low:
+                code, out = run_ok("git", "rebase", "--skip")
+            if code != 0:
+                print(f"  !! rebase --continue refused: {out[:200]}")
+                return False
+        if not rebase_in_progress():
+            return True
+
+    print("  !! still conflicting after 20 passes; giving up")
+    return False
+
+
+def pull_rebase():
+    """git pull --rebase, auto-resolving the bookkeeping-only conflicts.
+
+    Returns (ok, detail). On a real conflict the rebase is aborted first, so
+    the tree is always left clean either way.
+    """
+    code, out = run_ok("git", "pull", "--rebase", "origin", "main")
+    if code == 0:
+        return True, out
+    print("  (pull stopped on a conflict; trying to resolve bookkeeping files)")
+    if resolve_bookkeeping():
+        print("  (resolved; rebase completed)")
+        return True, out
+    run_ok("git", "rebase", "--abort")
+    return False, out
+
+
 def sync():
     """Pull latest, tolerating a dirty working tree.
 
@@ -747,9 +871,8 @@ def sync():
             print("  !! recover with: git stash pop")
         run("git", "stash", "push", "-u", "-m",
             f"dev-notes auto-stash {datetime.now():%Y-%m-%d %H:%M}")
-    code, out = run_ok("git", "pull", "--rebase", "origin", "main")
-    if code != 0:
-        run_ok("git", "rebase", "--abort")
+    ok, out = pull_rebase()
+    if not ok:
         fail("git pull", out[:300])
 
 
@@ -776,9 +899,7 @@ def push():
         if code == 0:
             return
         print(f"  (push rejected on attempt {attempt + 1}; rebasing: {out[:120]})")
-        code, out = run_ok("git", "pull", "--rebase", "origin", "main")
-        if code != 0:
-            run_ok("git", "rebase", "--abort")
+        pull_rebase()
     fail("git push", "still rejected after 4 attempts")
 
 
@@ -973,7 +1094,7 @@ def main():
             "title": title,
             "url": uid,
         })
-        used["recent"] = recent[-10:]
+        used["recent"] = recent[-RECENT_KEEP:]
         used_ids.add(uid)
         used["ids"] = sorted(used_ids)
         USED.write_text(json.dumps(used, indent=2), encoding="utf-8")
