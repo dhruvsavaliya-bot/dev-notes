@@ -1370,6 +1370,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=23361987
 - **Link:** https://www.nasa.gov/press-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon
 
+**Added 2026-10-05**
+
+### [The Password Game](https://neal.fun/password-game/)
+- **Source:** neal.fun | **Posted:** 2023-06-27 | **By:** kretaceous
+- **Community:** 1413 points, 486 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=36493715
+- **Link:** https://neal.fun/password-game/
+
 
 ## DevOps & Cloud
 
