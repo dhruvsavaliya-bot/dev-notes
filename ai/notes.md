@@ -531,3 +531,13 @@ Lessons from building with LLMs.
 - **Abstract:** Moving from quantum research and development to production-grade, fault-tolerant quantum workload execution remains one of the most significant challenges facing quantum platform builders. While Python frameworks have enabled an easy entry point for quantum algorithm design, the low-latency requirements for real-time quantum error correction (QEC) demand performance that traditional interpreted environments cannot provide. FPGAs and ASICs play a central role at these layers, but their specialize...
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.09270v1
+
+**Added 2026-10-05**
+
+### [Emergent Structure in the Marginal Attention Space of Language Models](http://arxiv.org/abs/2610.03109v1)
+- **Authors:** Valentino Maiorca, Walter Nelson, Francesco Locatello
+- **Published:** 2026-10-02 | **Primary category:** cs.CL
+- **Categories:** cs.CL
+- **Abstract:** While representation similarity across independently trained language models is well-documented, how internal mechanics such as attention behave across models remains far less characterized. Inspired by this gap, we examine the structure of post-softmax attention weights by marginalizing over query positions, mapping them into a joint token-head "marginal attention space". Evaluating across 60+ diverse LLMs, we find that different properties emerge when reducing this space along its token and he...
+- **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.03109v1
