@@ -272,6 +272,17 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=30467919
 - **Link:** https://www.economist.com/the-economist-explains/2022/02/25/why-the-west-is-reluctant-to-deny-russian-banks-access-to-swift
 
+**Added 2026-10-05**
+
+### [tldev/dorso](https://github.com/tldev/dorso)
+- **Stats:** 2,569 stars | 75 forks | 3 open issues
+- **Language:** Swift | **Created:** 2026-01-24 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** A macOS app that blurs your screen when you slouch.
+- **Growth:** averaging ~10 stars/day since launch.
+- **Link:** https://github.com/tldev/dorso
+
+
 ## Rust
 
 **Added 2026-10-05**

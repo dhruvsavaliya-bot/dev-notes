@@ -285,6 +285,7 @@
     "https://github.com/tamaratran/fast-jev-compaction",
     "https://github.com/tamnd/kage",
     "https://github.com/thebuggeddev/anatomy",
+    "https://github.com/tldev/dorso",
     "https://github.com/tobi/walgit",
     "https://github.com/totec448-spec/chat-on-steroids",
     "https://github.com/trycompai/crm",
@@ -587,12 +588,6 @@
   "recent": [
     {
       "date": "2026-10-05",
-      "subcat": "Java",
-      "title": "JDK 27 has been released",
-      "url": "https://lobste.rs/s/jlja1a/jdk_27_has_been_released"
-    },
-    {
-      "date": "2026-10-05",
       "subcat": "Models & Datasets",
       "title": "google/siglip-base-patch16-224",
       "url": "https://huggingface.co/google/siglip-base-patch16-224"
@@ -644,6 +639,12 @@
       "subcat": "Python",
       "title": "Python Thinks Different: What Actually Happens Inside Y",
       "url": "https://dev.to/smtahosin/python-thinks-different-what-actually-happens-inside-your-code-visual-guide-241l"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "Swift",
+      "title": "tldev/dorso",
+      "url": "https://github.com/tldev/dorso"
     }
   ]
 }
