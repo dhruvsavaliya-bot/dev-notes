@@ -597,3 +597,13 @@ Lessons from building with LLMs.
 - **Abstract:** We report fine-grained, deterministic instability in Dynamic Tensor Rematerialization (DTR), an online eviction policy for memory-constrained DNN training, measured on the reference DTR simulator (simrd) using public execution traces. On an LSTM trace, memory budgets differing by 0.10% of unconstrained peak memory select fast and slow execution regimes whose overheads differ by as much as 7.3x; the slow regime is driven by broadly repeated re-eviction of the same storages (evictions per storage ...
 - **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.31250v1
+
+**Added 2026-10-06**
+
+### [FRESHLATENT: Channel-Aware Latent Adaptation for Resource-Constrained Embodied VLM Perception](http://arxiv.org/abs/2609.30629v1)
+- **Authors:** Rajat Bhattacharjya, Minwoo Kim, Arnab Sarkar, Tamoghno Das et al.
+- **Published:** 2026-09-24 | **Primary category:** cs.DC
+- **Categories:** eess.SP, cs.CV, cs.DC, cs.LG, cs.RO
+- **Abstract:** Mission-critical UAVs increasingly rely on split vision-language model (VLM) perception under tight onboard-resource and wireless-communication constraints. However, corruption of transmitted intermediate features creates a deployment mismatch for clean-trained split interfaces, while stronger channel-aware codecs can impose substantial onboard cost. We present FreshLatent, a lightweight channel-aware latent adapter that trains a power-normalized encoder-decoder through wireless corruption while...
+- **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.30629v1
