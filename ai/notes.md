@@ -393,6 +393,15 @@ Lessons from building with LLMs.
 - **Summary:** Most students hear about hackathons, open source and developer communities in their third or fourth...
 - **Link:** https://dev.to/dj29/hacktoberfest-is-coming-to-nadiad-gujarat-official-mlh-meetup-at-ddu-15-oct-1dc4
 
+**Added 2026-10-05**
+
+### [The Code Works. What Could Possibly Go Wrong?](https://dev.to/sylwia-lask/the-code-works-what-could-possibly-go-wrong-5hbm)
+- **Author:** Sylwia Laskowska | **Published:** Jun 10 | **Read time:** 5 min
+- **Community:** 148 reactions, 139 comments -- a top post in #ai
+- **Tags:** ai, webdev, discuss
+- **Summary:** Would you treat a serious illness without seeing a doctor, relying only on whatever your favorite AI...
+- **Link:** https://dev.to/sylwia-lask/the-code-works-what-could-possibly-go-wrong-5hbm
+
 
 ## LLMs
 

@@ -95,6 +95,7 @@
     "https://dev.to/sylwia-lask/7-productivity-tips-that-sound-wrong-but-actually-work-5602",
     "https://dev.to/sylwia-lask/ai-is-already-better-at-coding-than-most-software-developers-4hno",
     "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3",
+    "https://dev.to/sylwia-lask/the-code-works-what-could-possibly-go-wrong-5hbm",
     "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
     "https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2",
     "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g",
@@ -569,12 +570,6 @@
   "recent": [
     {
       "date": "2026-10-04",
-      "subcat": "JavaScript",
-      "title": "Porffor goes alpha August 11th",
-      "url": "https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th"
-    },
-    {
-      "date": "2026-10-04",
       "subcat": "Research Papers",
       "title": "PoliVEM: a Python-driven virtual element framework for",
       "url": "http://arxiv.org/abs/2609.35878v1"
@@ -626,6 +621,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: I made a web-based notepad with a built in uni",
       "url": "https://news.ycombinator.com/item?id=32493946"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "AI Engineering",
+      "title": "The Code Works. What Could Possibly Go Wrong?",
+      "url": "https://dev.to/sylwia-lask/the-code-works-what-could-possibly-go-wrong-5hbm"
     }
   ]
 }
