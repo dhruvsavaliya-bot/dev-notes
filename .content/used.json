@@ -18,6 +18,7 @@
     "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
     "https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635",
     "https://dev.to/annavi11arrea1/sharing-dev-followers-count-on-github-profile-bj3",
+    "https://dev.to/astro-official/scraping-predictions-for-2026-agentic-workflow-and-ai-350m",
     "https://dev.to/aws-builders/per-agent-cost-tracking-for-multi-agent-ai-on-aws-10eg",
     "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
     "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh",
@@ -576,12 +577,6 @@
   "recent": [
     {
       "date": "2026-10-05",
-      "subcat": "AI & Machine Learning",
-      "title": "angusdevgo/Seep-Reverse-Lab",
-      "url": "https://github.com/angusdevgo/Seep-Reverse-Lab"
-    },
-    {
-      "date": "2026-10-05",
       "subcat": "Models & Datasets",
       "title": "monology/pile-uncopyrighted",
       "url": "https://huggingface.co/datasets/monology/pile-uncopyrighted"
@@ -633,6 +628,12 @@
       "subcat": "Swift",
       "title": "Why the West is reluctant to deny Russian banks access",
       "url": "https://news.ycombinator.com/item?id=30467919"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "LLMs",
+      "title": "Scraping predictions for 2026: agentic workflow and AI",
+      "url": "https://dev.to/astro-official/scraping-predictions-for-2026-agentic-workflow-and-ai-350m"
     }
   ]
 }

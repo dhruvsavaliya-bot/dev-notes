@@ -441,6 +441,15 @@ Lessons from building with LLMs.
 - **Summary:** Jev is a frontier AI model from TypeSafe AI that returns typed, probabilistic decisions instead of...
 - **Link:** https://dev.to/valyuai/how-to-use-jev-a-practical-guide-to-typesafes-system-one-model-g5e
 
+**Added 2026-10-05**
+
+### [Scraping predictions for 2026: agentic workflow and AI](https://dev.to/astro-official/scraping-predictions-for-2026-agentic-workflow-and-ai-350m)
+- **Author:** Astro — Enterprise Data Gathering Infrastructure | **Published:** Dec 2 '25 | **Read time:** 4 min
+- **Community:** 126 reactions, 1 comments -- a top post in #llm
+- **Tags:** ai, webscraping, promptengineering, llm
+- **Summary:** What are AI agents for scraping Agentic AI are autonomous systems based on large language models...
+- **Link:** https://dev.to/astro-official/scraping-predictions-for-2026-agentic-workflow-and-ai-350m
+
 
 ## Machine Learning
 
