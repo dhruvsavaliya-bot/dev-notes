@@ -308,6 +308,7 @@
     "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
     "https://github.com/yynxxxxx/Codex-X",
     "https://github.com/zai-org/ZCode",
+    "https://github.com/zerx-lab/FluxDown",
     "https://github.com/zhu1090093659/dsh-web",
     "https://github.com/zhu1090093659/dsh-web-ui",
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
@@ -582,12 +583,6 @@
   "recent": [
     {
       "date": "2026-10-05",
-      "subcat": "Research Papers",
-      "title": "Emergent Structure in the Marginal Attention Space of L",
-      "url": "http://arxiv.org/abs/2610.03109v1"
-    },
-    {
-      "date": "2026-10-05",
       "subcat": "Ruby",
       "title": "OpenAI agents carried out an undisclosed attack on Ruby",
       "url": "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed"
@@ -639,6 +634,12 @@
       "subcat": "Research Papers",
       "title": "Neural Data Needs Semantic Tokenization: Behavioral Eve",
       "url": "http://arxiv.org/abs/2610.03001v1"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "Rust",
+      "title": "zerx-lab/FluxDown",
+      "url": "https://github.com/zerx-lab/FluxDown"
     }
   ]
 }

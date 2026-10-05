@@ -252,3 +252,15 @@ Snippets and gotchas across languages.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=30467919
 - **Link:** https://www.economist.com/the-economist-explains/2022/02/25/why-the-west-is-reluctant-to-deny-russian-banks-access-to-swift
+
+## Rust
+
+**Added 2026-10-05**
+
+### [zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown)
+- **Stats:** 3,879 stars | 232 forks | 416 open issues
+- **Language:** Rust | **Created:** 2026-07-03 | **License:** AGPL-3.0
+- **Topics:** none listed
+- **What it is:** Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。
+- **Growth:** averaging ~41 stars/day since launch.
+- **Link:** https://github.com/zerx-lab/FluxDown
