@@ -271,6 +271,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/paryb7/rails_is_done
 - **Link:** https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/
 
+**Added 2026-10-06**
+
+### [It doesn’t matter whether “Matz is nice”](https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice)
+- **Source:** po-ru.com | **Posted:** 2026-07-29 | **By:** chrisl
+- **Community:** 290 score, 116 comments on Lobsters
+- **Tags:** culture, ruby
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice
+- **Link:** https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice
+
 
 ## Swift
 

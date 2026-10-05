@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**589 entries and counting** · Last updated: 2026-10-06
+**590 entries and counting** · Last updated: 2026-10-06
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 64 |
 | [Reading List](articles/reading-list.md) | 162 |
 | [Coding Tips](coding-tips/tips.md) | 145 |
-| [Language Notes](languages/notes.md) | 33 |
+| [Language Notes](languages/notes.md) | 34 |
 
 ## Latest additions
 
+- **2026-10-06** · *Ruby* — [It doesnt matter whether Matz is nice](https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice)
 - **2026-10-06** · *AI & Machine Learning* — [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp)
 - **2026-10-06** · *Hacker News Picks* — [Making a GTK application in Haskell, part 1](https://news.ycombinator.com/item?id=49965308)
 - **2026-10-06** · *Research Papers* — [Deterministic Regime Switching and Feasibility Inversio](http://arxiv.org/abs/2609.31250v1)
 - **2026-10-06** · *Ruby* — [Rails is done](https://lobste.rs/s/paryb7/rails_is_done)
-- **2026-10-05** · *Elixir* — [getmydia/mydia](https://github.com/getmydia/mydia)
 
 ## How it works
 

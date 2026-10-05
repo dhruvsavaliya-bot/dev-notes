@@ -334,6 +334,7 @@
     "https://lobste.rs/s/jlja1a/jdk_27_has_been_released",
     "https://lobste.rs/s/paryb7/rails_is_done",
     "https://lobste.rs/s/rucvky/go_concurrency_distilled",
+    "https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice",
     "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed",
     "https://news.ycombinator.com/item?id=14350059",
     "https://news.ycombinator.com/item?id=16535886",
@@ -600,12 +601,6 @@
   "recent": [
     {
       "date": "2026-10-05",
-      "subcat": "Swift",
-      "title": "Blimp-Labs/claude-usage-bar",
-      "url": "https://github.com/Blimp-Labs/claude-usage-bar"
-    },
-    {
-      "date": "2026-10-05",
       "subcat": "Hacker News Picks",
       "title": "My Familys Slave",
       "url": "https://news.ycombinator.com/item?id=14350059"
@@ -657,6 +652,12 @@
       "subcat": "AI & Machine Learning",
       "title": "OpenNHP/opennhp",
       "url": "https://github.com/OpenNHP/opennhp"
+    },
+    {
+      "date": "2026-10-06",
+      "subcat": "Ruby",
+      "title": "It doesnt matter whether Matz is nice",
+      "url": "https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice"
     }
   ]
 }
