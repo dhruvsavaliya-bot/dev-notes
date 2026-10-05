@@ -824,6 +824,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~75 stars/day since launch.
 - **Link:** https://github.com/angusdevgo/Seep-Reverse-Lab
 
+**Added 2026-10-05**
+
+### [LightningRAG/LightningRAG](https://github.com/LightningRAG/LightningRAG)
+- **Stats:** 451 stars | 43 forks | 0 open issues
+- **Language:** Go | **Created:** 2026-03-15 | **License:** Apache-2.0
+- **Topics:** agent, ai, deepseek, dify, gin, go
+- **What it is:** LightningRAG is a full-stack Vue + Gin starter with a decoupled frontend and backend, plus built-in, extensible RAG (retrieval-augmented generation): knowledge bases, vector search, and integrations with many LLM and vector-store providers
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/LightningRAG/LightningRAG
+
 
 ## Other Cool Projects
 
