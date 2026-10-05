@@ -527,6 +527,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/google/siglip-base-patch16-224
 
+**Added 2026-10-05**
+
+### [mlfoundations/MINT-1T-HTML](https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML)
+- **Stats:** 107 likes | 815,383 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2024-07-21
+- **Tags:** multimodal
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML
+
 
 ## Research Papers
 
