@@ -1397,6 +1397,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=19209957
 - **Link:** https://www.nytimes.com/2019/02/20/us/politics/civil-asset-forfeiture-supreme-court.html
 
+**Added 2026-10-06**
+
+### [Making a GTK application in Haskell, part 1](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
+- **Source:** floreal.tech | **Posted:** 2026-10-05 | **By:** Vosporos
+- **Community:** 119 points, 27 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49965308
+- **Link:** https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/
+
 
 ## DevOps & Cloud
 

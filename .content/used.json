@@ -593,15 +593,10 @@
     "https://news.ycombinator.com/item?id=49945933",
     "https://news.ycombinator.com/item?id=49946895",
     "https://news.ycombinator.com/item?id=49947631",
+    "https://news.ycombinator.com/item?id=49965308",
     "https://news.ycombinator.com/item?id=7185024"
   ],
   "recent": [
-    {
-      "date": "2026-10-05",
-      "subcat": "Hacker News Picks",
-      "title": "The Password Game",
-      "url": "https://news.ycombinator.com/item?id=36493715"
-    },
     {
       "date": "2026-10-05",
       "subcat": "AI & Machine Learning",
@@ -655,6 +650,12 @@
       "subcat": "Research Papers",
       "title": "Deterministic Regime Switching and Feasibility Inversio",
       "url": "http://arxiv.org/abs/2609.31250v1"
+    },
+    {
+      "date": "2026-10-06",
+      "subcat": "Hacker News Picks",
+      "title": "Making a GTK application in Haskell, part 1",
+      "url": "https://news.ycombinator.com/item?id=49965308"
     }
   ]
 }
