@@ -319,6 +319,7 @@
     "https://news.ycombinator.com/item?id=32493946",
     "https://news.ycombinator.com/item?id=37149349",
     "https://news.ycombinator.com/item?id=40457229",
+    "https://news.ycombinator.com/item?id=4166183",
     "https://news.ycombinator.com/item?id=43454915",
     "https://news.ycombinator.com/item?id=44471388",
     "https://news.ycombinator.com/item?id=48896600",
@@ -569,12 +570,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-04",
-      "subcat": "Research Papers",
-      "title": "PoliVEM: a Python-driven virtual element framework for",
-      "url": "http://arxiv.org/abs/2609.35878v1"
-    },
-    {
       "date": "2026-10-05",
       "subcat": "Go",
       "title": "Go concurrency distilled",
@@ -627,6 +622,12 @@
       "subcat": "AI Engineering",
       "title": "The Code Works. What Could Possibly Go Wrong?",
       "url": "https://dev.to/sylwia-lask/the-code-works-what-could-possibly-go-wrong-5hbm"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "Show & Ask HN",
+      "title": "A day in the life of a startup founder",
+      "url": "https://news.ycombinator.com/item?id=4166183"
     }
   ]
 }

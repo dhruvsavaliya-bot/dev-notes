@@ -1298,3 +1298,12 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=32493946
 - **Link:** https://numpad.io/
+
+**Added 2026-10-05**
+
+### [A day in the life of a startup founder](https://news.ycombinator.com/item?id=4166183)
+- **Source:** news.ycombinator.com | **Posted:** 2012-06-27 | **By:** jgrahamc
+- **Community:** 633 points, 126 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=4166183
+- **Link:** https://news.ycombinator.com/item?id=4166183
