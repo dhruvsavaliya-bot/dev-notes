@@ -1307,3 +1307,12 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=4166183
 - **Link:** https://news.ycombinator.com/item?id=4166183
+
+**Added 2026-10-05**
+
+### [GraphQL kinda sucks](https://news.ycombinator.com/item?id=32366759)
+- **Source:** news.ycombinator.com | **Posted:** 2022-08-06 | **By:** randytandy
+- **Community:** 720 points, 433 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=32366759
+- **Link:** https://news.ycombinator.com/item?id=32366759
