@@ -194,6 +194,7 @@
     "https://github.com/antirez/h3.c",
     "https://github.com/anywhere-labs/deepseek-harness-desktop",
     "https://github.com/anywhere-labs/dsh-desktop",
+    "https://github.com/apache/ossie",
     "https://github.com/ardatan/graphql-tools",
     "https://github.com/arvids-unavailable/openGym",
     "https://github.com/ashemag/human-atlas",
@@ -580,12 +581,6 @@
   "recent": [
     {
       "date": "2026-10-05",
-      "subcat": "Show & Ask HN",
-      "title": "A day in the life of a startup founder",
-      "url": "https://news.ycombinator.com/item?id=4166183"
-    },
-    {
-      "date": "2026-10-05",
       "subcat": "Hacker News Picks",
       "title": "SpaceX successfully launches two humans into orbit",
       "url": "https://news.ycombinator.com/item?id=23361987"
@@ -637,6 +632,12 @@
       "subcat": "Models & Datasets",
       "title": "google/siglip-base-patch16-224",
       "url": "https://huggingface.co/google/siglip-base-patch16-224"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "Python",
+      "title": "apache/ossie",
+      "url": "https://github.com/apache/ossie"
     }
   ]
 }

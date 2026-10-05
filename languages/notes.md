@@ -177,6 +177,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~9 stars/day since launch.
 - **Link:** https://github.com/Tencent-Hunyuan/HY-Motion-1.0
 
+**Added 2026-10-05**
+
+### [apache/ossie](https://github.com/apache/ossie)
+- **Stats:** 2,346 stars | 304 forks | 119 open issues
+- **Language:** Python | **Created:** 2025-11-18 | **License:** Apache-2.0
+- **Topics:** metadata, semantic
+- **What it is:** Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data
+- **Growth:** averaging ~7 stars/day since launch.
+- **Link:** https://github.com/apache/ossie
+
 
 ## Go
 
