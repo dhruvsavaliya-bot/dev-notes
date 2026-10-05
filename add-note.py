@@ -708,7 +708,8 @@ def notify(msg):
     try:
         subprocess.run(
             ["powershell", "-NoProfile", "-Command",
-             f"(New-Object -ComObject Wscript.Shell).Popup('{msg}',10,'dev-notes',48)"],
+             "(New-Object -ComObject Wscript.Shell)"
+             f".Popup('{msg.replace(chr(39), chr(39) * 2)}',10,'dev-notes',48)"],
             capture_output=True, timeout=15,
         )
     except Exception:
@@ -859,6 +860,14 @@ def sync():
     stash those changes aside -- recoverable with `git stash list` -- and
     proceed, rather than letting `git pull --rebase` abort the whole run.
     """
+    # A rebase left half-finished -- killed run, closed console, power cut --
+    # makes every later run fail at the pull with no obvious cause. Clear it
+    # first; --abort returns to the pre-rebase commits, which the pull below
+    # then replays normally, so nothing is lost.
+    if rebase_in_progress():
+        print("  !! leftover rebase from an interrupted run; aborting it first")
+        run_ok("git", "rebase", "--abort")
+
     dirty = run("git", "status", "--porcelain")
     if dirty:
         print("  (working tree dirty at start; stashing aside before pull)")
@@ -899,7 +908,11 @@ def push():
         if code == 0:
             return
         print(f"  (push rejected on attempt {attempt + 1}; rebasing: {out[:120]})")
-        pull_rebase()
+        ok, detail = pull_rebase()
+        if not ok:
+            # Retrying the push would hit the same wall three more times and
+            # then blame the push, sending the next reader to the wrong place.
+            fail("git push", f"conflict while rebasing: {detail[:250]}")
     fail("git push", "still rejected after 4 attempts")
 
 
@@ -1051,8 +1064,13 @@ def main():
         except (IndexError, ValueError):
             fail("args", "--count needs a number")
 
-    # sync first so edits made elsewhere (other runner, GitHub web) never break the push
-    sync()
+    # sync first so edits made elsewhere (other runner, GitHub web) never break the push.
+    # A dry run must leave the repo exactly as it found it -- sync() stashes a dirty
+    # tree, so running one while mid-edit used to bury the edit it was called to check.
+    if dry_run:
+        print("(dry run: skipping sync; counts reflect the local checkout)")
+    else:
+        sync()
 
     done = commits_today()
     need = forced if forced is not None else allowance(done)
