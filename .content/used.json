@@ -315,6 +315,7 @@
     "https://lobste.rs/s/rucvky/go_concurrency_distilled",
     "https://news.ycombinator.com/item?id=16535886",
     "https://news.ycombinator.com/item?id=21611677",
+    "https://news.ycombinator.com/item?id=23361987",
     "https://news.ycombinator.com/item?id=31335904",
     "https://news.ycombinator.com/item?id=32493946",
     "https://news.ycombinator.com/item?id=37149349",
@@ -571,12 +572,6 @@
   "recent": [
     {
       "date": "2026-10-05",
-      "subcat": "Go",
-      "title": "Go concurrency distilled",
-      "url": "https://lobste.rs/s/rucvky/go_concurrency_distilled"
-    },
-    {
-      "date": "2026-10-05",
       "subcat": "Research Papers",
       "title": "Python in the front, party in the Backline: compiling q",
       "url": "http://arxiv.org/abs/2609.09270v1"
@@ -628,6 +623,12 @@
       "subcat": "Show & Ask HN",
       "title": "A day in the life of a startup founder",
       "url": "https://news.ycombinator.com/item?id=4166183"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "Hacker News Picks",
+      "title": "SpaceX successfully launches two humans into orbit",
+      "url": "https://news.ycombinator.com/item?id=23361987"
     }
   ]
 }

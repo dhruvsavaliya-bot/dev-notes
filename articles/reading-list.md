@@ -1361,6 +1361,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=37149349
 - **Link:** https://www.nature.com/articles/d41586-023-02585-7
 
+**Added 2026-10-05**
+
+### [SpaceX successfully launches two humans into orbit](https://www.nasa.gov/press-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon)
+- **Source:** www.nasa.gov | **Posted:** 2020-05-30 | **By:** tosh
+- **Community:** 2856 points, 798 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=23361987
+- **Link:** https://www.nasa.gov/press-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon
+
 
 ## DevOps & Cloud
 
