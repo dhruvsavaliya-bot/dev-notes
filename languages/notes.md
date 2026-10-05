@@ -282,6 +282,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~10 stars/day since launch.
 - **Link:** https://github.com/tldev/dorso
 
+**Added 2026-10-05**
+
+### [Blimp-Labs/claude-usage-bar](https://github.com/Blimp-Labs/claude-usage-bar)
+- **Stats:** 478 stars | 49 forks | 18 open issues
+- **Language:** Swift | **Created:** 2026-03-04 | **License:** BSD-2-Clause
+- **Topics:** none listed
+- **What it is:** A macOS menu bar app that shows your Claude API usage at a glance
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/Blimp-Labs/claude-usage-bar
+
 
 ## Rust
 

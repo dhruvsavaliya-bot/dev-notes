@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**579 entries and counting** · Last updated: 2026-10-05
+**580 entries and counting** · Last updated: 2026-10-05
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 63 |
 | [Reading List](articles/reading-list.md) | 159 |
 | [Coding Tips](coding-tips/tips.md) | 145 |
-| [Language Notes](languages/notes.md) | 29 |
+| [Language Notes](languages/notes.md) | 30 |
 
 ## Latest additions
 
+- **2026-10-05** · *Swift* — [Blimp-Labs/claude-usage-bar](https://github.com/Blimp-Labs/claude-usage-bar)
 - **2026-10-05** · *AI & Machine Learning* — [LightningRAG/LightningRAG](https://github.com/LightningRAG/LightningRAG)
 - **2026-10-05** · *Hacker News Picks* — [The Password Game](https://news.ycombinator.com/item?id=36493715)
 - **2026-10-05** · *Swift* — [tldev/dorso](https://github.com/tldev/dorso)
 - **2026-10-05** · *Python* — [Python Thinks Different: What Actually Happens Inside Y](https://dev.to/smtahosin/python-thinks-different-what-actually-happens-inside-your-code-visual-guide-241l)
-- **2026-10-05** · *JavaScript* — [foxhui/WebAI2API](https://github.com/foxhui/WebAI2API)
 
 ## How it works
 

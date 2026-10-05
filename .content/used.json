@@ -131,6 +131,7 @@
     "https://github.com/Albert-Weasker/niubigeo",
     "https://github.com/AlephAITech/WorkBuddyGuide",
     "https://github.com/ApodexAI/FrontierAgent",
+    "https://github.com/Blimp-Labs/claude-usage-bar",
     "https://github.com/Contrastive-LM/CLM",
     "https://github.com/CopilotKit/OpenBot",
     "https://github.com/CopilotKit/openmuse",
@@ -590,12 +591,6 @@
   "recent": [
     {
       "date": "2026-10-05",
-      "subcat": "Research Papers",
-      "title": "Neural Data Needs Semantic Tokenization: Behavioral Eve",
-      "url": "http://arxiv.org/abs/2610.03001v1"
-    },
-    {
-      "date": "2026-10-05",
       "subcat": "Rust",
       "title": "zerx-lab/FluxDown",
       "url": "https://github.com/zerx-lab/FluxDown"
@@ -647,6 +642,12 @@
       "subcat": "AI & Machine Learning",
       "title": "LightningRAG/LightningRAG",
       "url": "https://github.com/LightningRAG/LightningRAG"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "Swift",
+      "title": "Blimp-Labs/claude-usage-bar",
+      "url": "https://github.com/Blimp-Labs/claude-usage-bar"
     }
   ]
 }
