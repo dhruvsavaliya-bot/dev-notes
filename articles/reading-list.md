@@ -1406,6 +1406,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49965308
 - **Link:** https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/
 
+**Added 2026-10-06**
+
+### [Differences Between `Foldl` and `Foldr`](https://blog.haskell.org/foldl-and-foldr/)
+- **Source:** blog.haskell.org | **Posted:** 2026-10-01 | **By:** signa11
+- **Community:** 124 points, 29 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49917900
+- **Link:** https://blog.haskell.org/foldl-and-foldr/
+
 
 ## DevOps & Cloud
 
