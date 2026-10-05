@@ -1845,3 +1845,13 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** No description provided.
 - **Growth:** averaging ~71 stars/day since launch — one of the fastest-growing new repos on GitHub right now.
 - **Link:** https://github.com/x4gKing/3x-ui
+
+**Added 2026-10-05**
+
+### [XxxXTeam/business2api](https://github.com/XxxXTeam/business2api)
+- **Stats:** 498 stars | 56 forks | 5 open issues
+- **Language:** Go | **Created:** 2025-11-28 | **License:** None
+- **Topics:** none listed
+- **What it is:** OpenAI/Gemini 兼容的 Gemini Business API 代理服务
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/XxxXTeam/business2api

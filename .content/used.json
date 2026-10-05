@@ -184,6 +184,7 @@
     "https://github.com/Vincentwei1021/video-shotcraft",
     "https://github.com/Waishnav/devspace",
     "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "https://github.com/XxxXTeam/business2api",
     "https://github.com/Younesfdj/gitfut",
     "https://github.com/Yu9191/wloc",
     "https://github.com/Zeejay0/gathered-scenes-zine-skill",
@@ -592,12 +593,6 @@
   "recent": [
     {
       "date": "2026-10-05",
-      "subcat": "Models & Datasets",
-      "title": "mlfoundations/MINT-1T-HTML",
-      "url": "https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML"
-    },
-    {
-      "date": "2026-10-05",
       "subcat": "Ruby",
       "title": "OpenAI agents carried out an undisclosed attack on Ruby",
       "url": "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed"
@@ -649,6 +644,12 @@
       "subcat": "Hacker News Picks",
       "title": "My Familys Slave",
       "url": "https://news.ycombinator.com/item?id=14350059"
+    },
+    {
+      "date": "2026-10-05",
+      "subcat": "Backend & Infrastructure",
+      "title": "XxxXTeam/business2api",
+      "url": "https://github.com/XxxXTeam/business2api"
     }
   ]
 }
