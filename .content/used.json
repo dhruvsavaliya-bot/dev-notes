@@ -241,6 +241,7 @@
     "https://github.com/firecrawl/anydoc",
     "https://github.com/foxhui/WebAI2API",
     "https://github.com/fuxicodex/Fuxi",
+    "https://github.com/garnix-io/garnix-ci",
     "https://github.com/genspark-ai/genoffice",
     "https://github.com/getmydia/mydia",
     "https://github.com/google-research/tabfm",
@@ -610,12 +611,6 @@
   "recent": [
     {
       "date": "2026-10-06",
-      "subcat": "Ruby",
-      "title": "It doesnt matter whether Matz is nice",
-      "url": "https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice"
-    },
-    {
-      "date": "2026-10-06",
       "subcat": "Research Papers",
       "title": "FRESHLATENT: Channel-Aware Latent Adaptation for Resour",
       "url": "http://arxiv.org/abs/2609.30629v1"
@@ -667,6 +662,12 @@
       "subcat": "Lobsters Picks",
       "title": "Claude Says",
       "url": "https://lobste.rs/s/7faqgg/claude_says"
+    },
+    {
+      "date": "2026-10-06",
+      "subcat": "Other Cool Projects",
+      "title": "garnix-io/garnix-ci",
+      "url": "https://github.com/garnix-io/garnix-ci"
     }
   ]
 }

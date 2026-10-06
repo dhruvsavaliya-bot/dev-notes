@@ -1667,6 +1667,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~35 stars/day since launch.
 - **Link:** https://github.com/amirh00sain/SpiderPanel
 
+**Added 2026-10-06**
+
+### [garnix-io/garnix-ci](https://github.com/garnix-io/garnix-ci)
+- **Stats:** 499 stars | 50 forks | 2 open issues
+- **Language:** Haskell | **Created:** 2026-05-27 | **License:** BSD-3-Clause
+- **Topics:** none listed
+- **What it is:** CI and hosting for nix-based, flakified github repos
+- **Growth:** averaging ~3 stars/day since launch.
+- **Link:** https://github.com/garnix-io/garnix-ci
+
 
 ## Web & Frontend
 
