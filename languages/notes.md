@@ -268,6 +268,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/rucvky/go_concurrency_distilled
 - **Link:** https://antonz.org/go-concurrency-distilled/
 
+**Added 2026-10-06**
+
+### [TinyGo 0.42 - Recover Is Real](https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/)
+- **Source:** tinygo.org | **Posted:** 2026-09-02 | **By:** datboi
+- **Community:** 33 score, 4 comments on Lobsters
+- **Tags:** go, release
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/qi1bxu/tinygo_0_42_recover_is_real
+- **Link:** https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/
+
 
 ## PHP
 

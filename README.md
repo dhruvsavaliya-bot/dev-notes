@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**616 entries and counting** · Last updated: 2026-10-06
+**617 entries and counting** · Last updated: 2026-10-06
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 71 |
 | [Reading List](articles/reading-list.md) | 165 |
 | [Coding Tips](coding-tips/tips.md) | 149 |
-| [Language Notes](languages/notes.md) | 44 |
+| [Language Notes](languages/notes.md) | 45 |
 
 ## Latest additions
 
+- **2026-10-06** · *Go* — [TinyGo 0.42 - Recover Is Real](https://lobste.rs/s/qi1bxu/tinygo_0_42_recover_is_real)
 - **2026-10-06** · *Ruby* — [Ruby Central's Destructive Legacy](https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy)
 - **2026-10-06** · *Research Papers* — [A monadic interpreter and type-and-effect checker](http://arxiv.org/abs/2609.07667v1)
 - **2026-10-06** · *Rust* — [herdrdev/herdr](https://github.com/herdrdev/herdr)
 - **2026-10-06** · *JavaScript* — [Let's make the worst htmx ever](https://lobste.rs/s/9yyxpk/let_s_make_worst_htmx_ever)
-- **2026-10-06** · *Show & Ask HN* — [Show HN: Open-source private home security camera syste](https://news.ycombinator.com/item?id=42284412)
 
 ## How it works
 
