@@ -653,3 +653,13 @@ Lessons from building with LLMs.
 - **Abstract:** Removing CPython's Global Interpreter Lock (GIL) exposes native code to concurrency absent from ordinary C types. Mutation or re-entry can revoke a borrowed object, storage pointer, traversal state, or lease between acquisition and use while its owner remains alive, causing native memory errors and runtime-state corruption. Race analyses track conflicting accesses. Python/C lifecycle analyses track individual object states. These reporting units leave implicit owner-subject-storage relations dis...
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.28608v1
+
+**Added 2026-10-06**
+
+### [A monadic interpreter and type-and-effect checker](http://arxiv.org/abs/2609.07667v1)
+- **Authors:** Stefano Raviola, Paola Giannini, Francesco Dagnino
+- **Published:** 2026-09-07 | **Primary category:** cs.PL
+- **Categories:** cs.PL
+- **Abstract:** We present a concrete implementation in Haskell of a monadic framework that includes both a small-step interpreter and a type-and-effect checker for the corresponding language. Our approach separates the language syntax from the semantics of its effects. This design allows the interpreter to remain parametric over the underlying monad, while the static checker approximates effects independently of their concrete implementation. The theoretical foundation of this framework-applied to a call-by-va...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.07667v1
