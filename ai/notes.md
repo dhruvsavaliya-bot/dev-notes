@@ -545,6 +545,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML
 
+**Added 2026-10-06**
+
+### [ystemsrx/Erotic_Literature_Collection](https://huggingface.co/datasets/ystemsrx/Erotic_Literature_Collection)
+- **Stats:** 230 likes | 3,179 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2024-09-04
+- **Tags:** porn, Pre-training, Fine-tuning, Explicit Content, Chinese, Erotic Literature
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/ystemsrx/Erotic_Literature_Collection
+
 
 ## Research Papers
 
