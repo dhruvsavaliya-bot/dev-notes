@@ -12,6 +12,7 @@
     "http://arxiv.org/abs/2609.30629v1",
     "http://arxiv.org/abs/2609.31250v1",
     "http://arxiv.org/abs/2609.35878v1",
+    "http://arxiv.org/abs/2609.38281v1",
     "http://arxiv.org/abs/2610.03001v1",
     "http://arxiv.org/abs/2610.03109v1",
     "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
@@ -636,12 +637,6 @@
   "recent": [
     {
       "date": "2026-10-06",
-      "subcat": "Ruby",
-      "title": "Ruby Central's Destructive Legacy",
-      "url": "https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy"
-    },
-    {
-      "date": "2026-10-06",
       "subcat": "Go",
       "title": "TinyGo 0.42 - Recover Is Real",
       "url": "https://lobste.rs/s/qi1bxu/tinygo_0_42_recover_is_real"
@@ -693,6 +688,12 @@
       "subcat": "Python",
       "title": "aden-hive/hive",
       "url": "https://github.com/aden-hive/hive"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "Research Papers",
+      "title": "Beyond the Headset: A Systematization of Knowledge on E",
+      "url": "http://arxiv.org/abs/2609.38281v1"
     }
   ]
 }

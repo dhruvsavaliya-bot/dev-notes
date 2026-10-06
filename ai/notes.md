@@ -681,3 +681,13 @@ Lessons from building with LLMs.
 - **Abstract:** We present a concrete implementation in Haskell of a monadic framework that includes both a small-step interpreter and a type-and-effect checker for the corresponding language. Our approach separates the language syntax from the semantics of its effects. This design allows the interpreter to remain parametric over the underlying monad, while the static checker approximates effects independently of their concrete implementation. The theoretical foundation of this framework-applied to a call-by-va...
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.07667v1
+
+**Added 2026-10-07**
+
+### [Beyond the Headset: A Systematization of Knowledge on Extended Reality Privacy and Security in Healthcare](http://arxiv.org/abs/2609.38281v1)
+- **Authors:** Nafisa Anjum, M. Rasel Mahmud
+- **Published:** 2026-09-29 | **Primary category:** cs.CR
+- **Categories:** cs.CR, cs.HC
+- **Abstract:** Extended reality (XR) systems are increasingly used in healthcare applications ranging from surgical planning to remote rehabilitation and mental health support. However, the rich streams of sensor, biometric, behavioral, and environmental data that enable these applications also introduce substantial privacy and security risks. Adversaries may exploit insecure communication, sensor side channels, application-layer vulnerabilities, or data-processing pipelines to infer sensitive information or d...
+- **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.38281v1
