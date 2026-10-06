@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**623 entries and counting** · Last updated: 2026-10-06
+**624 entries and counting** · Last updated: 2026-10-06
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 188 |
+| [Trending Projects](trending-projects/projects.md) | 189 |
 | [AI / LLM Notes](ai/notes.md) | 73 |
 | [Reading List](articles/reading-list.md) | 167 |
 | [Coding Tips](coding-tips/tips.md) | 149 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-06** · *AI & Machine Learning* — [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
 - **2026-10-06** · *Hacker News Picks* — [Meta's Muse Is an Adorable Privacy and Security Dumpste](https://news.ycombinator.com/item?id=49977588)
 - **2026-10-06** · *Models & Datasets* — [larryvrh/MiniMax-H3-Turbo-Lora](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora)
 - **2026-10-06** · *Go* — [Hacking the Go compiler to efficiently map IPv4 to IPv6](https://lobste.rs/s/ul9krj/hacking_go_compiler_efficiently_map_ipv4)
 - **2026-10-06** · *AI & Machine Learning* — [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla)
-- **2026-10-06** · *Hacker News Picks* — [Find the flattest route between any two points in SF](https://news.ycombinator.com/item?id=49971230)
 
 ## How it works
 

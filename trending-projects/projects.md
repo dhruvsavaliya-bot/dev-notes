@@ -864,6 +864,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~10 stars/day since launch.
 - **Link:** https://github.com/ShishirPatil/gorilla
 
+**Added 2026-10-06**
+
+### [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+- **Stats:** 109,952 stars | 21,127 forks | 90 open issues
+- **Language:** Python | **Created:** 2024-12-28 | **License:** Apache-2.0
+- **Topics:** agent, finance, llm, multiagent, trading
+- **What it is:** TradingAgents: Multi-Agents LLM Financial Trading Framework
+- **Growth:** averaging ~169 stars/day since launch.
+- **Link:** https://github.com/TauricResearch/TradingAgents
+
 
 ## Other Cool Projects
 

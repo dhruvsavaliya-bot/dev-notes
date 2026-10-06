@@ -185,6 +185,7 @@
     "https://github.com/Shpigford/knockoff",
     "https://github.com/SonicloudTech/sonicloud_opensdk",
     "https://github.com/Taichu-AI/ZDTaichu5.0-9B",
+    "https://github.com/TauricResearch/TradingAgents",
     "https://github.com/Tencent-Hunyuan/HY-Motion-1.0",
     "https://github.com/TheoLeeCJ/SemIf",
     "https://github.com/TheoLeeCJ/SemIf-OpenJev",
@@ -634,12 +635,6 @@
   "recent": [
     {
       "date": "2026-10-06",
-      "subcat": "Rust",
-      "title": "herdrdev/herdr",
-      "url": "https://github.com/herdrdev/herdr"
-    },
-    {
-      "date": "2026-10-06",
       "subcat": "Research Papers",
       "title": "A monadic interpreter and type-and-effect checker",
       "url": "http://arxiv.org/abs/2609.07667v1"
@@ -691,6 +686,12 @@
       "subcat": "Hacker News Picks",
       "title": "Meta's Muse Is an Adorable Privacy and Security Dumpste",
       "url": "https://news.ycombinator.com/item?id=49977588"
+    },
+    {
+      "date": "2026-10-06",
+      "subcat": "AI & Machine Learning",
+      "title": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents"
     }
   ]
 }
