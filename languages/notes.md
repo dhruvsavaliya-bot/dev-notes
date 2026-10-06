@@ -362,6 +362,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~12 stars/day since launch.
 - **Link:** https://github.com/zachlatta/freeflow
 
+**Added 2026-10-06**
+
+### [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce)
+- **Stats:** 942 stars | 131 forks | 182 open issues
+- **Language:** Swift | **Created:** 2026-05-12 | **License:** Apache-2.0
+- **Topics:** ai-agents, coding-agents, context-engineering, developer-tools, macos, mcp
+- **What it is:** Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.
+- **Growth:** averaging ~6 stars/day since launch.
+- **Link:** https://github.com/repoprompt/repoprompt-ce
+
 
 ## Rust
 
