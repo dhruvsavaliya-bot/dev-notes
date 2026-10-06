@@ -344,6 +344,7 @@
     "https://huggingface.co/datasets/ystemsrx/Erotic_Literature_Collection",
     "https://huggingface.co/google/siglip-base-patch16-224",
     "https://huggingface.co/jaredpalmer/kev-4b",
+    "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
     "https://huggingface.co/microsoft/TRELLIS-image-large",
     "https://huggingface.co/prompthero/openjourney",
     "https://lobste.rs/s/7faqgg/claude_says",
@@ -632,12 +633,6 @@
   "recent": [
     {
       "date": "2026-10-06",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Open-source private home security camera syste",
-      "url": "https://news.ycombinator.com/item?id=42284412"
-    },
-    {
-      "date": "2026-10-06",
       "subcat": "JavaScript",
       "title": "Let's make the worst htmx ever",
       "url": "https://lobste.rs/s/9yyxpk/let_s_make_worst_htmx_ever"
@@ -689,6 +684,12 @@
       "subcat": "Go",
       "title": "Hacking the Go compiler to efficiently map IPv4 to IPv6",
       "url": "https://lobste.rs/s/ul9krj/hacking_go_compiler_efficiently_map_ipv4"
+    },
+    {
+      "date": "2026-10-06",
+      "subcat": "Models & Datasets",
+      "title": "larryvrh/MiniMax-H3-Turbo-Lora",
+      "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora"
     }
   ]
 }

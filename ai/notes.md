@@ -590,6 +590,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/jaredpalmer/kev-4b
 
+**Added 2026-10-06**
+
+### [larryvrh/MiniMax-H3-Turbo-Lora](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora)
+- **Stats:** 1,073 likes | 209,457 downloads
+- **Kind:** Hugging Face model | **Task:** text-to-video | **Created:** 2026-08-05
+- **Tags:** minimax-h3, text-to-video, text-to-audio, audio-video, lora, comfyui
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora
+
 
 ## Research Papers
 
