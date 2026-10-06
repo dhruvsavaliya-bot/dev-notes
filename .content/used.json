@@ -362,6 +362,7 @@
     "https://news.ycombinator.com/item?id=4166183",
     "https://news.ycombinator.com/item?id=43454915",
     "https://news.ycombinator.com/item?id=44471388",
+    "https://news.ycombinator.com/item?id=45352432",
     "https://news.ycombinator.com/item?id=48896600",
     "https://news.ycombinator.com/item?id=48896665",
     "https://news.ycombinator.com/item?id=48926590",
@@ -614,12 +615,6 @@
   "recent": [
     {
       "date": "2026-10-06",
-      "subcat": "C#",
-      "title": "Optiscaler-Client/Optiscaler-Client",
-      "url": "https://github.com/Optiscaler-Client/Optiscaler-Client"
-    },
-    {
-      "date": "2026-10-06",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Is the market bad, or am I having the worst luc",
       "url": "https://news.ycombinator.com/item?id=36901303"
@@ -671,6 +666,12 @@
       "subcat": "TypeScript",
       "title": "Draculabo/AntigravityManager",
       "url": "https://github.com/Draculabo/AntigravityManager"
+    },
+    {
+      "date": "2026-10-06",
+      "subcat": "Ruby",
+      "title": "I'm leaving Ruby Central",
+      "url": "https://news.ycombinator.com/item?id=45352432"
     }
   ]
 }

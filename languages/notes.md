@@ -301,6 +301,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice
 - **Link:** https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice
 
+**Added 2026-10-06**
+
+### [I'm leaving Ruby Central](https://gist.github.com/simi/349d881d16d3d86947945615a47c60ca)
+- **Source:** gist.github.com | **Posted:** 2025-09-23 | **By:** retrorubies
+- **Community:** 204 points, 119 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=45352432
+- **Link:** https://gist.github.com/simi/349d881d16d3d86947945615a47c60ca
+
 
 ## Swift
 
