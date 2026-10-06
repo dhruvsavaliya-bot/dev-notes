@@ -1415,6 +1415,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49917900
 - **Link:** https://blog.haskell.org/foldl-and-foldr/
 
+**Added 2026-10-06**
+
+### [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors)
+- **Source:** www.vals.ai | **Posted:** 2026-10-05 | **By:** outlier99
+- **Community:** 192 points, 146 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49970667
+- **Link:** https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors
+
 
 ## DevOps & Cloud
 
