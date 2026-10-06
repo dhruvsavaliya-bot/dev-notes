@@ -249,6 +249,7 @@
     "https://github.com/google-research/tabfm",
     "https://github.com/guillaumemeyer/watermarks-remover",
     "https://github.com/gvzdv/claudish-to-english",
+    "https://github.com/herdrdev/herdr",
     "https://github.com/hoainho/img2threejs",
     "https://github.com/img2threejs/img2threejs",
     "https://github.com/imsai-sh/zhuzhiliao",
@@ -624,12 +625,6 @@
   "recent": [
     {
       "date": "2026-10-06",
-      "subcat": "Ruby",
-      "title": "I'm leaving Ruby Central",
-      "url": "https://news.ycombinator.com/item?id=45352432"
-    },
-    {
-      "date": "2026-10-06",
       "subcat": "Models & Datasets",
       "title": "openbmb/RLHF-V-Dataset",
       "url": "https://huggingface.co/datasets/openbmb/RLHF-V-Dataset"
@@ -681,6 +676,12 @@
       "subcat": "JavaScript",
       "title": "Let's make the worst htmx ever",
       "url": "https://lobste.rs/s/9yyxpk/let_s_make_worst_htmx_ever"
+    },
+    {
+      "date": "2026-10-06",
+      "subcat": "Rust",
+      "title": "herdrdev/herdr",
+      "url": "https://github.com/herdrdev/herdr"
     }
   ]
 }

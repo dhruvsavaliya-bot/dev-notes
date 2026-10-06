@@ -395,6 +395,17 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~41 stars/day since launch.
 - **Link:** https://github.com/zerx-lab/FluxDown
 
+**Added 2026-10-06**
+
+### [herdrdev/herdr](https://github.com/herdrdev/herdr)
+- **Stats:** 42,584 stars | 3,324 forks | 322 open issues
+- **Language:** Rust | **Created:** 2026-03-27 | **License:** Apache-2.0
+- **Topics:** agent, agent-orchestration, ai, ai-agents, claude-code, cli
+- **What it is:** the runtime your coding agents live on
+- **Growth:** averaging ~220 stars/day since launch.
+- **Link:** https://github.com/herdrdev/herdr
+
+
 ## Elixir
 
 **Added 2026-10-05**
