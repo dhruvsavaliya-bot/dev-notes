@@ -356,6 +356,7 @@
     "https://lobste.rs/s/qi1bxu/tinygo_0_42_recover_is_real",
     "https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy",
     "https://lobste.rs/s/rucvky/go_concurrency_distilled",
+    "https://lobste.rs/s/ul9krj/hacking_go_compiler_efficiently_map_ipv4",
     "https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice",
     "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed",
     "https://news.ycombinator.com/item?id=14350059",
@@ -631,12 +632,6 @@
   "recent": [
     {
       "date": "2026-10-06",
-      "subcat": "Research Papers",
-      "title": "CONCURDEP: Event-Guided Analysis of Dependency Invalida",
-      "url": "http://arxiv.org/abs/2609.28608v1"
-    },
-    {
-      "date": "2026-10-06",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Open-source private home security camera syste",
       "url": "https://news.ycombinator.com/item?id=42284412"
@@ -688,6 +683,12 @@
       "subcat": "AI & Machine Learning",
       "title": "ShishirPatil/gorilla",
       "url": "https://github.com/ShishirPatil/gorilla"
+    },
+    {
+      "date": "2026-10-06",
+      "subcat": "Go",
+      "title": "Hacking the Go compiler to efficiently map IPv4 to IPv6",
+      "url": "https://lobste.rs/s/ul9krj/hacking_go_compiler_efficiently_map_ipv4"
     }
   ]
 }

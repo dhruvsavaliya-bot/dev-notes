@@ -278,6 +278,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/qi1bxu/tinygo_0_42_recover_is_real
 - **Link:** https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/
 
+**Added 2026-10-06**
+
+### [Hacking the Go compiler to efficiently map IPv4 to IPv6](https://vincent.bernat.ch/en/blog/2026-go-netip-addrto6)
+- **Source:** vincent.bernat.ch | **Posted:** 2026-10-04 | **By:** fanf
+- **Community:** 27 score, 0 comments on Lobsters
+- **Tags:** compilers, go
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/ul9krj/hacking_go_compiler_efficiently_map_ipv4
+- **Link:** https://vincent.bernat.ch/en/blog/2026-go-netip-addrto6
+
 
 ## PHP
 
