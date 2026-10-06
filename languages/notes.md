@@ -166,6 +166,16 @@ Snippets and gotchas across languages.
 - **Summary:** I haven't written anything lately because, honestly, I just didn't have the headspace for it. There...
 - **Link:** https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g
 
+**Added 2026-10-06**
+
+### [Draculabo/AntigravityManager](https://github.com/Draculabo/AntigravityManager)
+- **Stats:** 2,345 stars | 285 forks | 21 open issues
+- **Language:** TypeScript | **Created:** 2025-11-29 | **License:** NOASSERTION
+- **Topics:** account-manager, antigravity, antigravity-ai, antigravity-ide, antigravity-tools, antigravity2api
+- **What it is:** Antigravity Manager is a powerful Electron-based application designed to manage accounts and processes for the Antigravity application. It provides a seamless interface for switching accounts, backing up progress, and controlling the application lifecycle.
+- **Growth:** averaging ~7 stars/day since launch.
+- **Link:** https://github.com/Draculabo/AntigravityManager
+
 
 ## Python
 
