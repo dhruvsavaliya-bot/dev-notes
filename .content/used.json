@@ -367,6 +367,7 @@
     "https://news.ycombinator.com/item?id=37149349",
     "https://news.ycombinator.com/item?id=40457229",
     "https://news.ycombinator.com/item?id=4166183",
+    "https://news.ycombinator.com/item?id=42284412",
     "https://news.ycombinator.com/item?id=43454915",
     "https://news.ycombinator.com/item?id=44471388",
     "https://news.ycombinator.com/item?id=45352432",
@@ -622,12 +623,6 @@
   "recent": [
     {
       "date": "2026-10-06",
-      "subcat": "Models & Datasets",
-      "title": "markov-ai/computer-use-large",
-      "url": "https://huggingface.co/datasets/markov-ai/computer-use-large"
-    },
-    {
-      "date": "2026-10-06",
       "subcat": "TypeScript",
       "title": "Draculabo/AntigravityManager",
       "url": "https://github.com/Draculabo/AntigravityManager"
@@ -679,6 +674,12 @@
       "subcat": "Research Papers",
       "title": "CONCURDEP: Event-Guided Analysis of Dependency Invalida",
       "url": "http://arxiv.org/abs/2609.28608v1"
+    },
+    {
+      "date": "2026-10-06",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Open-source private home security camera syste",
+      "url": "https://news.ycombinator.com/item?id=42284412"
     }
   ]
 }

@@ -1343,3 +1343,12 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=27447206
 - **Link:** https://news.ycombinator.com/item?id=27447206
+
+**Added 2026-10-06**
+
+### [Show HN: Open-source private home security camera system (end-to-end encryption)](https://github.com/privastead/privastead)
+- **Source:** github.com | **Posted:** 2024-11-30 | **By:** arrdalan
+- **Community:** 551 points, 165 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=42284412
+- **Link:** https://github.com/privastead/privastead
