@@ -330,6 +330,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=45352432
 - **Link:** https://gist.github.com/simi/349d881d16d3d86947945615a47c60ca
 
+**Added 2026-10-06**
+
+### [Ruby Central's Destructive Legacy](https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/)
+- **Source:** andre.arko.net | **Posted:** 2026-07-31 | **By:** soulcutter
+- **Community:** 97 score, 49 comments on Lobsters
+- **Tags:** rant, ruby
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy
+- **Link:** https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/
+
 
 ## Swift
 
