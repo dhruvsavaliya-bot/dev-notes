@@ -628,15 +628,10 @@
     "https://news.ycombinator.com/item?id=49965308",
     "https://news.ycombinator.com/item?id=49970667",
     "https://news.ycombinator.com/item?id=49971230",
+    "https://news.ycombinator.com/item?id=49977588",
     "https://news.ycombinator.com/item?id=7185024"
   ],
   "recent": [
-    {
-      "date": "2026-10-06",
-      "subcat": "JavaScript",
-      "title": "Let's make the worst htmx ever",
-      "url": "https://lobste.rs/s/9yyxpk/let_s_make_worst_htmx_ever"
-    },
     {
       "date": "2026-10-06",
       "subcat": "Rust",
@@ -690,6 +685,12 @@
       "subcat": "Models & Datasets",
       "title": "larryvrh/MiniMax-H3-Turbo-Lora",
       "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora"
+    },
+    {
+      "date": "2026-10-06",
+      "subcat": "Hacker News Picks",
+      "title": "Meta's Muse Is an Adorable Privacy and Security Dumpste",
+      "url": "https://news.ycombinator.com/item?id=49977588"
     }
   ]
 }

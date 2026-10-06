@@ -1433,6 +1433,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49971230
 - **Link:** https://flattensf.com/
 
+**Added 2026-10-06**
+
+### [Meta's Muse Is an Adorable Privacy and Security Dumpster Fire](https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/)
+- **Source:** www.techdirt.com | **Posted:** 2026-10-06 | **By:** beardyw
+- **Community:** 102 points, 26 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49977588
+- **Link:** https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/
+
 
 ## DevOps & Cloud
 
