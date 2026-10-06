@@ -15,6 +15,7 @@
     "http://arxiv.org/abs/2609.38281v1",
     "http://arxiv.org/abs/2610.03001v1",
     "http://arxiv.org/abs/2610.03109v1",
+    "http://arxiv.org/abs/2610.03665v1",
     "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
     "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
     "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag",
@@ -638,12 +639,6 @@
   "recent": [
     {
       "date": "2026-10-06",
-      "subcat": "Models & Datasets",
-      "title": "jaredpalmer/kev-4b",
-      "url": "https://huggingface.co/jaredpalmer/kev-4b"
-    },
-    {
-      "date": "2026-10-06",
       "subcat": "Hacker News Picks",
       "title": "Find the flattest route between any two points in SF",
       "url": "https://news.ycombinator.com/item?id=49971230"
@@ -695,6 +690,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: A store that generates products from anything",
       "url": "https://news.ycombinator.com/item?id=45231378"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "Research Papers",
+      "title": "Pivot-SD: Efficient Self-Distillation for Masked Diffus",
+      "url": "http://arxiv.org/abs/2610.03665v1"
     }
   ]
 }

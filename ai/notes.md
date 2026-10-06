@@ -691,3 +691,13 @@ Lessons from building with LLMs.
 - **Abstract:** Extended reality (XR) systems are increasingly used in healthcare applications ranging from surgical planning to remote rehabilitation and mental health support. However, the rich streams of sensor, biometric, behavioral, and environmental data that enable these applications also introduce substantial privacy and security risks. Adversaries may exploit insecure communication, sensor side channels, application-layer vulnerabilities, or data-processing pipelines to infer sensitive information or d...
 - **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.38281v1
+
+**Added 2026-10-07**
+
+### [Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models](http://arxiv.org/abs/2610.03665v1)
+- **Authors:** Seo Hyun Kim, Sunwoo Hong, Younwoo Choi, Chen-Hao Chao et al.
+- **Published:** 2026-10-02 | **Primary category:** cs.CL
+- **Categories:** cs.LG, cs.CL
+- **Abstract:** Masked diffusion language models (dLMs) offer a promising parallel alternative to autoregressive models for complex reasoning. However, they face a distinct credit-assignment challenge, since a few commitments during denoising sharply reduce the uncertainty over the remaining masked positions and shape much of the response. Most post-training recipes for dLMs do not use this signal to decide which tokens to train on: they typically train on the final text or assign rewards to whole denoising ste...
+- **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.03665v1
