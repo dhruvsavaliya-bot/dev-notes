@@ -1316,3 +1316,12 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=32366759
 - **Link:** https://news.ycombinator.com/item?id=32366759
+
+**Added 2026-10-06**
+
+### [Ask HN: Is the market bad, or am I having the worst luck job hunting?](https://news.ycombinator.com/item?id=36901303)
+- **Source:** news.ycombinator.com | **Posted:** 2023-07-27 | **By:** imadkhan
+- **Community:** 711 points, 1052 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=36901303
+- **Link:** https://news.ycombinator.com/item?id=36901303
