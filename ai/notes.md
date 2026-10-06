@@ -581,6 +581,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/microsoft/TRELLIS-image-large
 
+**Added 2026-10-06**
+
+### [jaredpalmer/kev-4b](https://huggingface.co/jaredpalmer/kev-4b)
+- **Stats:** 107 likes | 18,135 downloads
+- **Kind:** Hugging Face model | **Task:** text-classification | **Created:** 2026-09-19
+- **Tags:** peft, safetensors, decision-model, calibration, lora, multiple-choice
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/jaredpalmer/kev-4b
+
 
 ## Research Papers
 

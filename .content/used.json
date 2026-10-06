@@ -342,6 +342,7 @@
     "https://huggingface.co/datasets/openbmb/RLHF-V-Dataset",
     "https://huggingface.co/datasets/ystemsrx/Erotic_Literature_Collection",
     "https://huggingface.co/google/siglip-base-patch16-224",
+    "https://huggingface.co/jaredpalmer/kev-4b",
     "https://huggingface.co/microsoft/TRELLIS-image-large",
     "https://huggingface.co/prompthero/openjourney",
     "https://lobste.rs/s/7faqgg/claude_says",
@@ -628,12 +629,6 @@
   "recent": [
     {
       "date": "2026-10-06",
-      "subcat": "Swift",
-      "title": "repoprompt/repoprompt-ce",
-      "url": "https://github.com/repoprompt/repoprompt-ce"
-    },
-    {
-      "date": "2026-10-06",
       "subcat": "Models & Datasets",
       "title": "microsoft/TRELLIS-image-large",
       "url": "https://huggingface.co/microsoft/TRELLIS-image-large"
@@ -685,6 +680,12 @@
       "subcat": "Go",
       "title": "TinyGo 0.42 - Recover Is Real",
       "url": "https://lobste.rs/s/qi1bxu/tinygo_0_42_recover_is_real"
+    },
+    {
+      "date": "2026-10-06",
+      "subcat": "Models & Datasets",
+      "title": "jaredpalmer/kev-4b",
+      "url": "https://huggingface.co/jaredpalmer/kev-4b"
     }
   ]
 }
