@@ -199,6 +199,7 @@
     "https://github.com/Yu9191/wloc",
     "https://github.com/Zeejay0/gathered-scenes-zine-skill",
     "https://github.com/ZzzLc0405/photo-abstract-editorial",
+    "https://github.com/aden-hive/hive",
     "https://github.com/ai-sucks-butt/ai-sucks-butt",
     "https://github.com/amagine-ai/Amagine3D",
     "https://github.com/amirh00sain/SpiderPanel",
@@ -635,12 +636,6 @@
   "recent": [
     {
       "date": "2026-10-06",
-      "subcat": "Research Papers",
-      "title": "A monadic interpreter and type-and-effect checker",
-      "url": "http://arxiv.org/abs/2609.07667v1"
-    },
-    {
-      "date": "2026-10-06",
       "subcat": "Ruby",
       "title": "Ruby Central's Destructive Legacy",
       "url": "https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy"
@@ -692,6 +687,12 @@
       "subcat": "AI & Machine Learning",
       "title": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "Python",
+      "title": "aden-hive/hive",
+      "url": "https://github.com/aden-hive/hive"
     }
   ]
 }

@@ -246,6 +246,16 @@ Snippets and gotchas across languages.
 - **Summary:** Stop thinking of Python variables as boxes. This visual deep-dive reveals how Python really stores your data, manages memory, and cleans up after you. Packed with diagrams, code experiments, and aha moments.
 - **Link:** https://dev.to/smtahosin/python-thinks-different-what-actually-happens-inside-your-code-visual-guide-241l
 
+**Added 2026-10-07**
+
+### [aden-hive/hive](https://github.com/aden-hive/hive)
+- **Stats:** 11,089 stars | 5,651 forks | 1,358 open issues
+- **Language:** Python | **Created:** 2026-01-12 | **License:** Apache-2.0
+- **Topics:** agent, agent-framework, agent-skills, anthropic, automation, autonomous-agents
+- **What it is:** Multi-Agent Harness for Production AI
+- **Growth:** averaging ~41 stars/day since launch.
+- **Link:** https://github.com/aden-hive/hive
+
 
 ## Go
 
