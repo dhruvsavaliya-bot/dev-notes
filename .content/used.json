@@ -339,6 +339,7 @@
     "https://huggingface.co/datasets/openbmb/RLHF-V-Dataset",
     "https://huggingface.co/datasets/ystemsrx/Erotic_Literature_Collection",
     "https://huggingface.co/google/siglip-base-patch16-224",
+    "https://huggingface.co/microsoft/TRELLIS-image-large",
     "https://huggingface.co/prompthero/openjourney",
     "https://lobste.rs/s/7faqgg/claude_says",
     "https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th",
@@ -619,12 +620,6 @@
   "recent": [
     {
       "date": "2026-10-06",
-      "subcat": "Lobsters Picks",
-      "title": "Claude Says",
-      "url": "https://lobste.rs/s/7faqgg/claude_says"
-    },
-    {
-      "date": "2026-10-06",
       "subcat": "Other Cool Projects",
       "title": "garnix-io/garnix-ci",
       "url": "https://github.com/garnix-io/garnix-ci"
@@ -676,6 +671,12 @@
       "subcat": "Swift",
       "title": "repoprompt/repoprompt-ce",
       "url": "https://github.com/repoprompt/repoprompt-ce"
+    },
+    {
+      "date": "2026-10-06",
+      "subcat": "Models & Datasets",
+      "title": "microsoft/TRELLIS-image-large",
+      "url": "https://huggingface.co/microsoft/TRELLIS-image-large"
     }
   ]
 }

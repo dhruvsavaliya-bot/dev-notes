@@ -572,6 +572,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/openbmb/RLHF-V-Dataset
 
+**Added 2026-10-06**
+
+### [microsoft/TRELLIS-image-large](https://huggingface.co/microsoft/TRELLIS-image-large)
+- **Stats:** 689 likes | 2,138,284 downloads
+- **Kind:** Hugging Face model | **Task:** image-to-3d | **Created:** 2024-12-02
+- **Tags:** trellis, image-to-3d, en
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/microsoft/TRELLIS-image-large
+
 
 ## Research Papers
 
