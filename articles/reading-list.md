@@ -1498,3 +1498,13 @@ Fresh dev articles and blog posts.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your
 - **Link:** https://frankwiles.com/posts/i-got-targeted/
+
+**Added 2026-10-06**
+
+### [Claude Says](https://ohhfishal.net/Posts/claude)
+- **Source:** ohhfishal.net | **Posted:** 2026-10-04 | **By:** lr0
+- **Community:** 35 score, 25 comments on Lobsters
+- **Tags:** rant, vibecoding
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/7faqgg/claude_says
+- **Link:** https://ohhfishal.net/Posts/claude

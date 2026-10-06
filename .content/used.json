@@ -334,6 +334,7 @@
     "https://huggingface.co/datasets/ystemsrx/Erotic_Literature_Collection",
     "https://huggingface.co/google/siglip-base-patch16-224",
     "https://huggingface.co/prompthero/openjourney",
+    "https://lobste.rs/s/7faqgg/claude_says",
     "https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th",
     "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your",
     "https://lobste.rs/s/jlja1a/jdk_27_has_been_released",
@@ -609,12 +610,6 @@
   "recent": [
     {
       "date": "2026-10-06",
-      "subcat": "AI & Machine Learning",
-      "title": "OpenNHP/opennhp",
-      "url": "https://github.com/OpenNHP/opennhp"
-    },
-    {
-      "date": "2026-10-06",
       "subcat": "Ruby",
       "title": "It doesnt matter whether Matz is nice",
       "url": "https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice"
@@ -666,6 +661,12 @@
       "subcat": "Models & Datasets",
       "title": "ystemsrx/Erotic_Literature_Collection",
       "url": "https://huggingface.co/datasets/ystemsrx/Erotic_Literature_Collection"
+    },
+    {
+      "date": "2026-10-06",
+      "subcat": "Lobsters Picks",
+      "title": "Claude Says",
+      "url": "https://lobste.rs/s/7faqgg/claude_says"
     }
   ]
 }
