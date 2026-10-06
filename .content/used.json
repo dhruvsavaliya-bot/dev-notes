@@ -171,6 +171,7 @@
     "https://github.com/NandhaKishorM/laya",
     "https://github.com/Niko1221/Strata",
     "https://github.com/OpenNHP/opennhp",
+    "https://github.com/Optiscaler-Client/Optiscaler-Client",
     "https://github.com/Player-YN/BrowserKitten",
     "https://github.com/Player-YN/PawWork_ZhuaZhua",
     "https://github.com/QwenLM/Qwen-MM-Plugins",
@@ -604,12 +605,6 @@
   "recent": [
     {
       "date": "2026-10-05",
-      "subcat": "Hacker News Picks",
-      "title": "U.S. Supreme Court Puts Limits on Police Power to Seize",
-      "url": "https://news.ycombinator.com/item?id=19209957"
-    },
-    {
-      "date": "2026-10-05",
       "subcat": "Elixir",
       "title": "getmydia/mydia",
       "url": "https://github.com/getmydia/mydia"
@@ -661,6 +656,12 @@
       "subcat": "AI & Machine Learning",
       "title": "NVIDIA/cuml",
       "url": "https://github.com/NVIDIA/cuml"
+    },
+    {
+      "date": "2026-10-06",
+      "subcat": "C#",
+      "title": "Optiscaler-Client/Optiscaler-Client",
+      "url": "https://github.com/Optiscaler-Client/Optiscaler-Client"
     }
   ]
 }

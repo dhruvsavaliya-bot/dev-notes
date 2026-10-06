@@ -347,3 +347,15 @@ Snippets and gotchas across languages.
 - **What it is:** Your personal media companion, built with Phoenix LiveView
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/getmydia/mydia
+
+## C#
+
+**Added 2026-10-06**
+
+### [Optiscaler-Client/Optiscaler-Client](https://github.com/Optiscaler-Client/Optiscaler-Client)
+- **Stats:** 1,510 stars | 50 forks | 7 open issues
+- **Language:** C# | **Created:** 2026-03-17 | **License:** GPL-3.0
+- **Topics:** none listed
+- **What it is:** A modern manager for OptiScaler
+- **Growth:** averaging ~7 stars/day since launch.
+- **Link:** https://github.com/Optiscaler-Client/Optiscaler-Client
