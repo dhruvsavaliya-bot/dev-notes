@@ -357,6 +357,7 @@
     "https://news.ycombinator.com/item?id=31335904",
     "https://news.ycombinator.com/item?id=32366759",
     "https://news.ycombinator.com/item?id=32493946",
+    "https://news.ycombinator.com/item?id=33512338",
     "https://news.ycombinator.com/item?id=36493715",
     "https://news.ycombinator.com/item?id=36901303",
     "https://news.ycombinator.com/item?id=37149349",
@@ -617,12 +618,6 @@
   "recent": [
     {
       "date": "2026-10-06",
-      "subcat": "C++",
-      "title": "wuyi2121/SCAN-Planner",
-      "url": "https://github.com/wuyi2121/SCAN-Planner"
-    },
-    {
-      "date": "2026-10-06",
       "subcat": "Models & Datasets",
       "title": "ystemsrx/Erotic_Literature_Collection",
       "url": "https://huggingface.co/datasets/ystemsrx/Erotic_Literature_Collection"
@@ -674,6 +669,12 @@
       "subcat": "Java",
       "title": "zhukunpenglinyutong/jetbrains-cc-gui",
       "url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui"
+    },
+    {
+      "date": "2026-10-06",
+      "subcat": "Show & Ask HN",
+      "title": "Monumental (if correct) advance in number theory posted",
+      "url": "https://news.ycombinator.com/item?id=33512338"
     }
   ]
 }

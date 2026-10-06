@@ -1325,3 +1325,12 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=36901303
 - **Link:** https://news.ycombinator.com/item?id=36901303
+
+**Added 2026-10-06**
+
+### [Monumental (if correct) advance in number theory posted to ArXiv by Yitang Zhang](https://news.ycombinator.com/item?id=33512338)
+- **Source:** news.ycombinator.com | **Posted:** 2022-11-07 | **By:** gavagai691
+- **Community:** 1303 points, 417 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=33512338
+- **Link:** https://news.ycombinator.com/item?id=33512338
