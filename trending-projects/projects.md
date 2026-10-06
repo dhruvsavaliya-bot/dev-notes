@@ -854,6 +854,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/NVIDIA/cuml
 
+**Added 2026-10-06**
+
+### [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla)
+- **Stats:** 13,040 stars | 1,413 forks | 290 open issues
+- **Language:** Python | **Created:** 2023-05-19 | **License:** Apache-2.0
+- **Topics:** api, api-documentation, chatgpt, claude-api, gpt-4-api, llm
+- **What it is:** Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
+- **Growth:** averaging ~10 stars/day since launch.
+- **Link:** https://github.com/ShishirPatil/gorilla
+
 
 ## Other Cool Projects
 

@@ -181,6 +181,7 @@
     "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
     "https://github.com/Sahir619/fable-method",
     "https://github.com/ShenSeanChen/waku-agent",
+    "https://github.com/ShishirPatil/gorilla",
     "https://github.com/Shpigford/knockoff",
     "https://github.com/SonicloudTech/sonicloud_opensdk",
     "https://github.com/Taichu-AI/ZDTaichu5.0-9B",
@@ -630,12 +631,6 @@
   "recent": [
     {
       "date": "2026-10-06",
-      "subcat": "Show & Ask HN",
-      "title": "Tell HN: SMS-based two-factor authentication is not sec",
-      "url": "https://news.ycombinator.com/item?id=27447206"
-    },
-    {
-      "date": "2026-10-06",
       "subcat": "Research Papers",
       "title": "CONCURDEP: Event-Guided Analysis of Dependency Invalida",
       "url": "http://arxiv.org/abs/2609.28608v1"
@@ -687,6 +682,12 @@
       "subcat": "Hacker News Picks",
       "title": "Find the flattest route between any two points in SF",
       "url": "https://news.ycombinator.com/item?id=49971230"
+    },
+    {
+      "date": "2026-10-06",
+      "subcat": "AI & Machine Learning",
+      "title": "ShishirPatil/gorilla",
+      "url": "https://github.com/ShishirPatil/gorilla"
     }
   ]
 }
