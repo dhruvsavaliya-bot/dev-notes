@@ -382,6 +382,7 @@
     "https://news.ycombinator.com/item?id=42284412",
     "https://news.ycombinator.com/item?id=43454915",
     "https://news.ycombinator.com/item?id=44471388",
+    "https://news.ycombinator.com/item?id=45231378",
     "https://news.ycombinator.com/item?id=45352432",
     "https://news.ycombinator.com/item?id=48896600",
     "https://news.ycombinator.com/item?id=48896665",
@@ -637,12 +638,6 @@
   "recent": [
     {
       "date": "2026-10-06",
-      "subcat": "Go",
-      "title": "TinyGo 0.42 - Recover Is Real",
-      "url": "https://lobste.rs/s/qi1bxu/tinygo_0_42_recover_is_real"
-    },
-    {
-      "date": "2026-10-06",
       "subcat": "Models & Datasets",
       "title": "jaredpalmer/kev-4b",
       "url": "https://huggingface.co/jaredpalmer/kev-4b"
@@ -694,6 +689,12 @@
       "subcat": "Research Papers",
       "title": "Beyond the Headset: A Systematization of Knowledge on E",
       "url": "http://arxiv.org/abs/2609.38281v1"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: A store that generates products from anything",
+      "url": "https://news.ycombinator.com/item?id=45231378"
     }
   ]
 }

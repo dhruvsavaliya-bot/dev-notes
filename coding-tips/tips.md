@@ -1352,3 +1352,12 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=42284412
 - **Link:** https://github.com/privastead/privastead
+
+**Added 2026-10-07**
+
+### [Show HN: A store that generates products from anything you type in search](https://anycrap.shop/)
+- **Source:** anycrap.shop | **Posted:** 2025-09-13 | **By:** kafked
+- **Community:** 1184 points, 333 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=45231378
+- **Link:** https://anycrap.shop/
