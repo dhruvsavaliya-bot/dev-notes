@@ -109,6 +109,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/bcfzer/hacking_nameof
 - **Link:** https://committing-crimes.com/articles/2026-08-04-java-nameof
 
+**Added 2026-10-06**
+
+### [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui)
+- **Stats:** 6,794 stars | 668 forks | 528 open issues
+- **Language:** Java | **Created:** 2025-11-20 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Jetbrains Claude Code and Codex GUI Plugin
+- **Growth:** averaging ~21 stars/day since launch.
+- **Link:** https://github.com/zhukunpenglinyutong/jetbrains-cc-gui
+
 
 ## TypeScript
 

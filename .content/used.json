@@ -328,6 +328,7 @@
     "https://github.com/zerx-lab/FluxDown",
     "https://github.com/zhu1090093659/dsh-web",
     "https://github.com/zhu1090093659/dsh-web-ui",
+    "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
     "https://huggingface.co/datasets/markov-ai/computer-use-large",
     "https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML",
@@ -616,12 +617,6 @@
   "recent": [
     {
       "date": "2026-10-06",
-      "subcat": "Hacker News Picks",
-      "title": "Opus 5.5 agents discover two room-temperature magnetic",
-      "url": "https://news.ycombinator.com/item?id=49970667"
-    },
-    {
-      "date": "2026-10-06",
       "subcat": "C++",
       "title": "wuyi2121/SCAN-Planner",
       "url": "https://github.com/wuyi2121/SCAN-Planner"
@@ -673,6 +668,12 @@
       "subcat": "Models & Datasets",
       "title": "openbmb/RLHF-V-Dataset",
       "url": "https://huggingface.co/datasets/openbmb/RLHF-V-Dataset"
+    },
+    {
+      "date": "2026-10-06",
+      "subcat": "Java",
+      "title": "zhukunpenglinyutong/jetbrains-cc-gui",
+      "url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui"
     }
   ]
 }
