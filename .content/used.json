@@ -355,6 +355,7 @@
     "https://news.ycombinator.com/item?id=19209957",
     "https://news.ycombinator.com/item?id=21611677",
     "https://news.ycombinator.com/item?id=23361987",
+    "https://news.ycombinator.com/item?id=27447206",
     "https://news.ycombinator.com/item?id=30467919",
     "https://news.ycombinator.com/item?id=31335904",
     "https://news.ycombinator.com/item?id=32366759",
@@ -620,12 +621,6 @@
   "recent": [
     {
       "date": "2026-10-06",
-      "subcat": "Other Cool Projects",
-      "title": "garnix-io/garnix-ci",
-      "url": "https://github.com/garnix-io/garnix-ci"
-    },
-    {
-      "date": "2026-10-06",
       "subcat": "Java",
       "title": "Hacking in the 'nameOf'",
       "url": "https://lobste.rs/s/bcfzer/hacking_nameof"
@@ -677,6 +672,12 @@
       "subcat": "Models & Datasets",
       "title": "microsoft/TRELLIS-image-large",
       "url": "https://huggingface.co/microsoft/TRELLIS-image-large"
+    },
+    {
+      "date": "2026-10-06",
+      "subcat": "Show & Ask HN",
+      "title": "Tell HN: SMS-based two-factor authentication is not sec",
+      "url": "https://news.ycombinator.com/item?id=27447206"
     }
   ]
 }

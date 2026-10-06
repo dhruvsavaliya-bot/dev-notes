@@ -1334,3 +1334,12 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=33512338
 - **Link:** https://news.ycombinator.com/item?id=33512338
+
+**Added 2026-10-06**
+
+### [Tell HN: SMS-based two-factor authentication is not secure](https://news.ycombinator.com/item?id=27447206)
+- **Source:** news.ycombinator.com | **Posted:** 2021-06-09 | **By:** Zolt
+- **Community:** 628 points, 286 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=27447206
+- **Link:** https://news.ycombinator.com/item?id=27447206
