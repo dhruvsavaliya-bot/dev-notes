@@ -7,6 +7,7 @@
   ],
   "ids": [
     "http://arxiv.org/abs/2609.09270v1",
+    "http://arxiv.org/abs/2609.28608v1",
     "http://arxiv.org/abs/2609.30629v1",
     "http://arxiv.org/abs/2609.31250v1",
     "http://arxiv.org/abs/2609.35878v1",
@@ -621,12 +622,6 @@
   "recent": [
     {
       "date": "2026-10-06",
-      "subcat": "Java",
-      "title": "Hacking in the 'nameOf'",
-      "url": "https://lobste.rs/s/bcfzer/hacking_nameof"
-    },
-    {
-      "date": "2026-10-06",
       "subcat": "Models & Datasets",
       "title": "markov-ai/computer-use-large",
       "url": "https://huggingface.co/datasets/markov-ai/computer-use-large"
@@ -678,6 +673,12 @@
       "subcat": "Show & Ask HN",
       "title": "Tell HN: SMS-based two-factor authentication is not sec",
       "url": "https://news.ycombinator.com/item?id=27447206"
+    },
+    {
+      "date": "2026-10-06",
+      "subcat": "Research Papers",
+      "title": "CONCURDEP: Event-Guided Analysis of Dependency Invalida",
+      "url": "http://arxiv.org/abs/2609.28608v1"
     }
   ]
 }

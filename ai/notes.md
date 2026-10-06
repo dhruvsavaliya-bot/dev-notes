@@ -643,3 +643,13 @@ Lessons from building with LLMs.
 - **Abstract:** Mission-critical UAVs increasingly rely on split vision-language model (VLM) perception under tight onboard-resource and wireless-communication constraints. However, corruption of transmitted intermediate features creates a deployment mismatch for clean-trained split interfaces, while stronger channel-aware codecs can impose substantial onboard cost. We present FreshLatent, a lightweight channel-aware latent adapter that trains a power-normalized encoder-decoder through wireless corruption while...
 - **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.30629v1
+
+**Added 2026-10-06**
+
+### [CONCURDEP: Event-Guided Analysis of Dependency Invalidation in CPython Concurrency](http://arxiv.org/abs/2609.28608v1)
+- **Authors:** Baihong Chen, Hadley Westover, Wen Li
+- **Published:** 2026-09-23 | **Primary category:** cs.SE
+- **Categories:** cs.CR, cs.SE
+- **Abstract:** Removing CPython's Global Interpreter Lock (GIL) exposes native code to concurrency absent from ordinary C types. Mutation or re-entry can revoke a borrowed object, storage pointer, traversal state, or lease between acquisition and use while its owner remains alive, causing native memory errors and runtime-state corruption. Race analyses track conflicting accesses. Python/C lifecycle analyses track individual object states. These reporting units leave implicit owner-subject-storage relations dis...
+- **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.28608v1
