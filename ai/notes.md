@@ -563,6 +563,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/markov-ai/computer-use-large
 
+**Added 2026-10-06**
+
+### [openbmb/RLHF-V-Dataset](https://huggingface.co/datasets/openbmb/RLHF-V-Dataset)
+- **Stats:** 78 likes | 837 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2023-12-30
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/openbmb/RLHF-V-Dataset
+
 
 ## Research Papers
 

@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**604 entries and counting** · Last updated: 2026-10-06
+**605 entries and counting** · Last updated: 2026-10-06
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 187 |
-| [AI / LLM Notes](ai/notes.md) | 67 |
+| [AI / LLM Notes](ai/notes.md) | 68 |
 | [Reading List](articles/reading-list.md) | 165 |
 | [Coding Tips](coding-tips/tips.md) | 146 |
 | [Language Notes](languages/notes.md) | 39 |
 
 ## Latest additions
 
+- **2026-10-06** · *Models & Datasets* — [openbmb/RLHF-V-Dataset](https://huggingface.co/datasets/openbmb/RLHF-V-Dataset)
 - **2026-10-06** · *Ruby* — [I'm leaving Ruby Central](https://news.ycombinator.com/item?id=45352432)
 - **2026-10-06** · *TypeScript* — [Draculabo/AntigravityManager](https://github.com/Draculabo/AntigravityManager)
 - **2026-10-06** · *Models & Datasets* — [markov-ai/computer-use-large](https://huggingface.co/datasets/markov-ai/computer-use-large)
 - **2026-10-06** · *Java* — [Hacking in the 'nameOf'](https://lobste.rs/s/bcfzer/hacking_nameof)
-- **2026-10-06** · *Other Cool Projects* — [garnix-io/garnix-ci](https://github.com/garnix-io/garnix-ci)
 
 ## How it works
 
