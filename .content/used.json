@@ -328,6 +328,7 @@
     "https://github.com/zhu1090093659/dsh-web",
     "https://github.com/zhu1090093659/dsh-web-ui",
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+    "https://huggingface.co/datasets/markov-ai/computer-use-large",
     "https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML",
     "https://huggingface.co/datasets/monology/pile-uncopyrighted",
     "https://huggingface.co/datasets/nvidia/Open-SWE-Traces",
@@ -612,12 +613,6 @@
   "recent": [
     {
       "date": "2026-10-06",
-      "subcat": "Hacker News Picks",
-      "title": "Differences Between `Foldl` and `Foldr`",
-      "url": "https://news.ycombinator.com/item?id=49917900"
-    },
-    {
-      "date": "2026-10-06",
       "subcat": "AI & Machine Learning",
       "title": "NVIDIA/cuml",
       "url": "https://github.com/NVIDIA/cuml"
@@ -669,6 +664,12 @@
       "subcat": "Java",
       "title": "Hacking in the 'nameOf'",
       "url": "https://lobste.rs/s/bcfzer/hacking_nameof"
+    },
+    {
+      "date": "2026-10-06",
+      "subcat": "Models & Datasets",
+      "title": "markov-ai/computer-use-large",
+      "url": "https://huggingface.co/datasets/markov-ai/computer-use-large"
     }
   ]
 }

@@ -554,6 +554,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/ystemsrx/Erotic_Literature_Collection
 
+**Added 2026-10-06**
+
+### [markov-ai/computer-use-large](https://huggingface.co/datasets/markov-ai/computer-use-large)
+- **Stats:** 199 likes | 60,059 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-03-12
+- **Tags:** screen-recording, computer-use, software-tutorials, gui, desktop
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/markov-ai/computer-use-large
+
 
 ## Research Papers
 
