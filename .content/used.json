@@ -624,15 +624,10 @@
     "https://news.ycombinator.com/item?id=49947631",
     "https://news.ycombinator.com/item?id=49965308",
     "https://news.ycombinator.com/item?id=49970667",
+    "https://news.ycombinator.com/item?id=49971230",
     "https://news.ycombinator.com/item?id=7185024"
   ],
   "recent": [
-    {
-      "date": "2026-10-06",
-      "subcat": "Models & Datasets",
-      "title": "microsoft/TRELLIS-image-large",
-      "url": "https://huggingface.co/microsoft/TRELLIS-image-large"
-    },
     {
       "date": "2026-10-06",
       "subcat": "Show & Ask HN",
@@ -686,6 +681,12 @@
       "subcat": "Models & Datasets",
       "title": "jaredpalmer/kev-4b",
       "url": "https://huggingface.co/jaredpalmer/kev-4b"
+    },
+    {
+      "date": "2026-10-06",
+      "subcat": "Hacker News Picks",
+      "title": "Find the flattest route between any two points in SF",
+      "url": "https://news.ycombinator.com/item?id=49971230"
     }
   ]
 }

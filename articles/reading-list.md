@@ -1424,6 +1424,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49970667
 - **Link:** https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors
 
+**Added 2026-10-06**
+
+### [Find the flattest route between any two points in SF](https://flattensf.com/)
+- **Source:** flattensf.com | **Posted:** 2026-10-05 | **By:** ishan0102
+- **Community:** 246 points, 86 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49971230
+- **Link:** https://flattensf.com/
+
 
 ## DevOps & Cloud
 
