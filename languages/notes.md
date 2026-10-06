@@ -99,6 +99,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~4 stars/day since launch.
 - **Link:** https://github.com/foxhui/WebAI2API
 
+**Added 2026-10-06**
+
+### [Hacking in the 'nameOf'](https://committing-crimes.com/articles/2026-08-04-java-nameof)
+- **Source:** committing-crimes.com | **Posted:** 2026-08-12 | **By:** abnercoimbre
+- **Community:** 15 score, 2 comments on Lobsters
+- **Tags:** java, programming
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/bcfzer/hacking_nameof
+- **Link:** https://committing-crimes.com/articles/2026-08-04-java-nameof
+
 
 ## TypeScript
 

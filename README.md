@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**600 entries and counting** · Last updated: 2026-10-06
+**601 entries and counting** · Last updated: 2026-10-06
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 66 |
 | [Reading List](articles/reading-list.md) | 165 |
 | [Coding Tips](coding-tips/tips.md) | 146 |
-| [Language Notes](languages/notes.md) | 36 |
+| [Language Notes](languages/notes.md) | 37 |
 
 ## Latest additions
 
+- **2026-10-06** · *Java* — [Hacking in the 'nameOf'](https://lobste.rs/s/bcfzer/hacking_nameof)
 - **2026-10-06** · *Other Cool Projects* — [garnix-io/garnix-ci](https://github.com/garnix-io/garnix-ci)
 - **2026-10-06** · *Lobsters Picks* — [Claude Says](https://lobste.rs/s/7faqgg/claude_says)
 - **2026-10-06** · *Models & Datasets* — [ystemsrx/Erotic_Literature_Collection](https://huggingface.co/datasets/ystemsrx/Erotic_Literature_Collection)
 - **2026-10-06** · *C++* — [wuyi2121/SCAN-Planner](https://github.com/wuyi2121/SCAN-Planner)
-- **2026-10-06** · *Hacker News Picks* — [Opus 5.5 agents discover two room-temperature magnetic](https://news.ycombinator.com/item?id=49970667)
 
 ## How it works
 
