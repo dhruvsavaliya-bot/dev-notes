@@ -1526,3 +1526,13 @@ Fresh dev articles and blog posts.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/7faqgg/claude_says
 - **Link:** https://ohhfishal.net/Posts/claude
+
+**Added 2026-10-07**
+
+### [Extend Lua with Zig 1: Hello World](https://www.robbielyman.com/blog/extend-lua-with-zig-1/)
+- **Source:** www.robbielyman.com | **Posted:** 2026-10-06 | **By:** FedericoSchonborn
+- **Community:** 15 score, 0 comments on Lobsters
+- **Tags:** lua, zig
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/tmr7jp/extend_lua_with_zig_1_hello_world
+- **Link:** https://www.robbielyman.com/blog/extend-lua-with-zig-1/
