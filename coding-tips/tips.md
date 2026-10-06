@@ -1361,3 +1361,12 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=45231378
 - **Link:** https://anycrap.shop/
+
+**Added 2026-10-07**
+
+### [Tell HN: Thank you for not redesigning Hacker News](https://news.ycombinator.com/item?id=20854214)
+- **Source:** news.ycombinator.com | **Posted:** 2019-09-01 | **By:** ramphastidae
+- **Community:** 1831 points, 390 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=20854214
+- **Link:** https://news.ycombinator.com/item?id=20854214

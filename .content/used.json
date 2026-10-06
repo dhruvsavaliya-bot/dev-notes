@@ -367,6 +367,7 @@
     "https://news.ycombinator.com/item?id=14350059",
     "https://news.ycombinator.com/item?id=16535886",
     "https://news.ycombinator.com/item?id=19209957",
+    "https://news.ycombinator.com/item?id=20854214",
     "https://news.ycombinator.com/item?id=21611677",
     "https://news.ycombinator.com/item?id=23361987",
     "https://news.ycombinator.com/item?id=27447206",
@@ -639,12 +640,6 @@
   "recent": [
     {
       "date": "2026-10-06",
-      "subcat": "Hacker News Picks",
-      "title": "Find the flattest route between any two points in SF",
-      "url": "https://news.ycombinator.com/item?id=49971230"
-    },
-    {
-      "date": "2026-10-06",
       "subcat": "AI & Machine Learning",
       "title": "ShishirPatil/gorilla",
       "url": "https://github.com/ShishirPatil/gorilla"
@@ -696,6 +691,12 @@
       "subcat": "Research Papers",
       "title": "Pivot-SD: Efficient Self-Distillation for Masked Diffus",
       "url": "http://arxiv.org/abs/2610.03665v1"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "Show & Ask HN",
+      "title": "Tell HN: Thank you for not redesigning Hacker News",
+      "url": "https://news.ycombinator.com/item?id=20854214"
     }
   ]
 }
