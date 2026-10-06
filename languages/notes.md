@@ -119,6 +119,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~21 stars/day since launch.
 - **Link:** https://github.com/zhukunpenglinyutong/jetbrains-cc-gui
 
+**Added 2026-10-06**
+
+### [Let's make the worst htmx ever](https://zserge.com/posts/worst-htmx-ever/)
+- **Source:** zserge.com | **Posted:** 2026-07-31 | **By:** rslabbert
+- **Community:** 24 score, 1 comments on Lobsters
+- **Tags:** javascript, web
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/9yyxpk/let_s_make_worst_htmx_ever
+- **Link:** https://zserge.com/posts/worst-htmx-ever/
+
 
 ## TypeScript
 
