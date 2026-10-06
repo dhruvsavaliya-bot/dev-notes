@@ -305,6 +305,7 @@
     "https://github.com/wang2122/sprix-sage-router",
     "https://github.com/wide-trace/open-higgsfield",
     "https://github.com/withmarbleapp/os-taxonomy",
+    "https://github.com/wuyi2121/SCAN-Planner",
     "https://github.com/x4gKing/3x-ui",
     "https://github.com/x4gKing/X4G",
     "https://github.com/xai-org/grok-build",
@@ -607,12 +608,6 @@
   "recent": [
     {
       "date": "2026-10-06",
-      "subcat": "Research Papers",
-      "title": "Deterministic Regime Switching and Feasibility Inversio",
-      "url": "http://arxiv.org/abs/2609.31250v1"
-    },
-    {
-      "date": "2026-10-06",
       "subcat": "Hacker News Picks",
       "title": "Making a GTK application in Haskell, part 1",
       "url": "https://news.ycombinator.com/item?id=49965308"
@@ -664,6 +659,12 @@
       "subcat": "Hacker News Picks",
       "title": "Opus 5.5 agents discover two room-temperature magnetic",
       "url": "https://news.ycombinator.com/item?id=49970667"
+    },
+    {
+      "date": "2026-10-06",
+      "subcat": "C++",
+      "title": "wuyi2121/SCAN-Planner",
+      "url": "https://github.com/wuyi2121/SCAN-Planner"
     }
   ]
 }

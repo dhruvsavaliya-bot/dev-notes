@@ -359,3 +359,15 @@ Snippets and gotchas across languages.
 - **What it is:** A modern manager for OptiScaler
 - **Growth:** averaging ~7 stars/day since launch.
 - **Link:** https://github.com/Optiscaler-Client/Optiscaler-Client
+
+## C++
+
+**Added 2026-10-06**
+
+### [wuyi2121/SCAN-Planner](https://github.com/wuyi2121/SCAN-Planner)
+- **Stats:** 550 stars | 61 forks | 7 open issues
+- **Language:** C++ | **Created:** 2026-05-30 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** SCAN-Planner: Spatial Collision-Aware Local planning for Route-Guided Long-Range Quadruped Navigation
+- **Growth:** averaging ~4 stars/day since launch.
+- **Link:** https://github.com/wuyi2121/SCAN-Planner
