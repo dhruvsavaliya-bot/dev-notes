@@ -1566,3 +1566,13 @@ Fresh dev articles and blog posts.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem
 - **Link:** https://phunky.cafe/my-homelab-got-hacked/
+
+**Added 2026-10-07**
+
+### [Tests for a PDF](https://blog.lvmbdv.dev/posts/tests-for-a-pdf/)
+- **Source:** blog.lvmbdv.dev | **Posted:** 2026-08-04 | **By:** lvmbdv
+- **Community:** 19 score, 6 comments on Lobsters
+- **Tags:** devops, testing
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/98zvnf/tests_for_pdf
+- **Link:** https://blog.lvmbdv.dev/posts/tests-for-a-pdf/
