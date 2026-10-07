@@ -455,6 +455,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~220 stars/day since launch.
 - **Link:** https://github.com/herdrdev/herdr
 
+**Added 2026-10-07**
+
+### [How to speed up the Rust compiler in September 2026](https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html)
+- **Source:** nnethercote.github.io | **Posted:** 2026-09-29 | **By:** patchunwrap
+- **Community:** 74 score, 5 comments on Lobsters
+- **Tags:** compilers, rust, vibecoding
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/odrfgk/how_speed_up_rust_compiler_september_2026
+- **Link:** https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html
+
 
 ## Elixir
 
