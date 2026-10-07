@@ -18,6 +18,7 @@
     "http://arxiv.org/abs/2610.03109v1",
     "http://arxiv.org/abs/2610.03665v1",
     "http://arxiv.org/abs/2610.06516v1",
+    "http://arxiv.org/abs/2610.06625v2",
     "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
     "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
     "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag",
@@ -653,12 +654,6 @@
   "recent": [
     {
       "date": "2026-10-07",
-      "subcat": "Lobsters Picks",
-      "title": "Async Rust: Where does the scheduler live?",
-      "url": "https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live"
-    },
-    {
-      "date": "2026-10-07",
       "subcat": "Other Cool Projects",
       "title": "wild-linker/wild",
       "url": "https://github.com/wild-linker/wild"
@@ -710,6 +705,12 @@
       "subcat": "Ruby",
       "title": "Hanami, Why?: Introductions",
       "url": "https://lobste.rs/s/bag41j/hanami_why_introductions"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "Research Papers",
+      "title": "JEV versus LLMs: Accuracy, Cost and Calibration on Seve",
+      "url": "http://arxiv.org/abs/2610.06625v2"
     }
   ]
 }
