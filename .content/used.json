@@ -210,6 +210,7 @@
     "https://github.com/amirh00sain/SpiderPanel",
     "https://github.com/amosblomqvist/learn",
     "https://github.com/andrewyng/openworker",
+    "https://github.com/angusdevgo/IDM_Pro_Tool",
     "https://github.com/angusdevgo/Seep-Reverse-Lab",
     "https://github.com/anthropics/commerce-agents",
     "https://github.com/anthropics/jacobian-lens",
@@ -649,12 +650,6 @@
   "recent": [
     {
       "date": "2026-10-07",
-      "subcat": "Show & Ask HN",
-      "title": "Tell HN: Thank you for not redesigning Hacker News",
-      "url": "https://news.ycombinator.com/item?id=20854214"
-    },
-    {
-      "date": "2026-10-07",
       "subcat": "Lobsters Picks",
       "title": "Extend Lua with Zig 1: Hello World",
       "url": "https://lobste.rs/s/tmr7jp/extend_lua_with_zig_1_hello_world"
@@ -706,6 +701,12 @@
       "subcat": "Lobsters Picks",
       "title": "A sustainable web career, for when all this blows over",
       "url": "https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "C#",
+      "title": "angusdevgo/IDM_Pro_Tool",
+      "url": "https://github.com/angusdevgo/IDM_Pro_Tool"
     }
   ]
 }

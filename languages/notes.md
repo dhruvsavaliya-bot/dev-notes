@@ -490,6 +490,17 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~7 stars/day since launch.
 - **Link:** https://github.com/Optiscaler-Client/Optiscaler-Client
 
+**Added 2026-10-07**
+
+### [angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool)
+- **Stats:** 1,303 stars | 289 forks | 1 open issues
+- **Language:** C# | **Created:** 2026-09-10 | **License:** GPL-3.0
+- **Topics:** none listed
+- **What it is:** IDM激活与状态维护工具
+- **Growth:** averaging ~48 stars/day since launch.
+- **Link:** https://github.com/angusdevgo/IDM_Pro_Tool
+
+
 ## C++
 
 **Added 2026-10-06**
