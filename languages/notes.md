@@ -147,6 +147,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=49057241
 - **Link:** https://swag.htmx.org/en-cad/products/htmx-4-the-game
 
+**Added 2026-10-08**
+
+### [The JavaScript Pun: tagged template literal](https://shukla.io/blog/2026-09/pun.html)
+- **Source:** shukla.io | **Posted:** 2026-09-26 | **By:** binroot
+- **Community:** 18 score, 2 comments on Lobsters
+- **Tags:** javascript
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/rtcnc8/javascript_pun_tagged_template_literal
+- **Link:** https://shukla.io/blog/2026-09/pun.html
+
 
 ## TypeScript
 

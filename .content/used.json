@@ -384,6 +384,7 @@
     "https://lobste.rs/s/paryb7/rails_is_done",
     "https://lobste.rs/s/qi1bxu/tinygo_0_42_recover_is_real",
     "https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy",
+    "https://lobste.rs/s/rtcnc8/javascript_pun_tagged_template_literal",
     "https://lobste.rs/s/rucvky/go_concurrency_distilled",
     "https://lobste.rs/s/rwdufq/anti_patterns_software_blogging",
     "https://lobste.rs/s/tmr7jp/extend_lua_with_zig_1_hello_world",
@@ -675,12 +676,6 @@
   "recent": [
     {
       "date": "2026-10-07",
-      "subcat": "Lobsters Picks",
-      "title": "My Homelab Got Hacked - A Postmortem",
-      "url": "https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem"
-    },
-    {
-      "date": "2026-10-07",
       "subcat": "Web & Frontend",
       "title": "mayswind/ezbookkeeping",
       "url": "https://github.com/mayswind/ezbookkeeping"
@@ -732,6 +727,12 @@
       "subcat": "Other Cool Projects",
       "title": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "JavaScript",
+      "title": "The JavaScript Pun: tagged template literal",
+      "url": "https://lobste.rs/s/rtcnc8/javascript_pun_tagged_template_literal"
     }
   ]
 }
