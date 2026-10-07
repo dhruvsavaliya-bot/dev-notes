@@ -380,6 +380,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy
 - **Link:** https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/
 
+**Added 2026-10-07**
+
+### [Hanami, Why?: Introductions](https://aaronmallen.me/writing/hanami-why-introductions)
+- **Source:** aaronmallen.me | **Posted:** 2026-09-30 | **By:** aaronmallen
+- **Community:** 54 score, 13 comments on Lobsters
+- **Tags:** ruby
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/bag41j/hanami_why_introductions
+- **Link:** https://aaronmallen.me/writing/hanami-why-introductions
+
 
 ## Swift
 

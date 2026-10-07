@@ -361,6 +361,7 @@
     "https://lobste.rs/s/7faqgg/claude_says",
     "https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th",
     "https://lobste.rs/s/9yyxpk/let_s_make_worst_htmx_ever",
+    "https://lobste.rs/s/bag41j/hanami_why_introductions",
     "https://lobste.rs/s/bcfzer/hacking_nameof",
     "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your",
     "https://lobste.rs/s/dpfpr3/goroutine_leak_profiles",
@@ -652,12 +653,6 @@
   "recent": [
     {
       "date": "2026-10-07",
-      "subcat": "Research Papers",
-      "title": "Anchor-ECC: Local Integrity Checking for Watermarked LL",
-      "url": "http://arxiv.org/abs/2609.38722v1"
-    },
-    {
-      "date": "2026-10-07",
       "subcat": "Lobsters Picks",
       "title": "Async Rust: Where does the scheduler live?",
       "url": "https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live"
@@ -709,6 +704,12 @@
       "subcat": "Elixir",
       "title": "openai/symphony",
       "url": "https://github.com/openai/symphony"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "Ruby",
+      "title": "Hanami, Why?: Introductions",
+      "url": "https://lobste.rs/s/bag41j/hanami_why_introductions"
     }
   ]
 }
