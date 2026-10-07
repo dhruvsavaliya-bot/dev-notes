@@ -362,6 +362,7 @@
     "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your",
     "https://lobste.rs/s/dpfpr3/goroutine_leak_profiles",
     "https://lobste.rs/s/jlja1a/jdk_27_has_been_released",
+    "https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this",
     "https://lobste.rs/s/odrfgk/how_speed_up_rust_compiler_september_2026",
     "https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live",
     "https://lobste.rs/s/paryb7/rails_is_done",
@@ -648,12 +649,6 @@
   "recent": [
     {
       "date": "2026-10-07",
-      "subcat": "Research Papers",
-      "title": "Pivot-SD: Efficient Self-Distillation for Masked Diffus",
-      "url": "http://arxiv.org/abs/2610.03665v1"
-    },
-    {
-      "date": "2026-10-07",
       "subcat": "Show & Ask HN",
       "title": "Tell HN: Thank you for not redesigning Hacker News",
       "url": "https://news.ycombinator.com/item?id=20854214"
@@ -705,6 +700,12 @@
       "subcat": "Git & Workflow",
       "title": "Git worktree like a boss",
       "url": "https://dev.to/metal3d/git-worktree-like-a-boss-2j1b"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "Lobsters Picks",
+      "title": "A sustainable web career, for when all this blows over",
+      "url": "https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this"
     }
   ]
 }

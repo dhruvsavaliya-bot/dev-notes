@@ -1546,3 +1546,13 @@ Fresh dev articles and blog posts.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live
 - **Link:** https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/
+
+**Added 2026-10-07**
+
+### [A sustainable web career, for when all this blows over](https://dbushell.com/2026/10/07/sustainable-web-career/)
+- **Source:** dbushell.com | **Posted:** 2026-10-06 | **By:** nrvous
+- **Community:** 31 score, 16 comments on Lobsters
+- **Tags:** vibecoding, web
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this
+- **Link:** https://dbushell.com/2026/10/07/sustainable-web-career/
