@@ -379,6 +379,7 @@
     "https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice",
     "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed",
     "https://news.ycombinator.com/item?id=14350059",
+    "https://news.ycombinator.com/item?id=15471449",
     "https://news.ycombinator.com/item?id=16535886",
     "https://news.ycombinator.com/item?id=18407173",
     "https://news.ycombinator.com/item?id=19209957",
@@ -656,12 +657,6 @@
   "recent": [
     {
       "date": "2026-10-07",
-      "subcat": "Research Papers",
-      "title": "Test-Time Adaptation of Reasoning Strategies with Bayes",
-      "url": "http://arxiv.org/abs/2610.06516v1"
-    },
-    {
-      "date": "2026-10-07",
       "subcat": "Git & Workflow",
       "title": "Git worktree like a boss",
       "url": "https://dev.to/metal3d/git-worktree-like-a-boss-2j1b"
@@ -713,6 +708,12 @@
       "subcat": "PHP",
       "title": "Boris: A tiny but robust REPL for PHP",
       "url": "https://news.ycombinator.com/item?id=5673032"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "JavaScript",
+      "title": "How JavaScript works: Event loop and the rise of Async",
+      "url": "https://news.ycombinator.com/item?id=15471449"
     }
   ]
 }

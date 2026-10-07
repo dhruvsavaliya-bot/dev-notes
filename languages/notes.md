@@ -129,6 +129,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/9yyxpk/let_s_make_worst_htmx_ever
 - **Link:** https://zserge.com/posts/worst-htmx-ever/
 
+**Added 2026-10-07**
+
+### [How JavaScript works: Event loop and the rise of Async programming](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
+- **Source:** blog.sessionstack.com | **Posted:** 2017-10-14 | **By:** kiyanwang
+- **Community:** 336 points, 141 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=15471449
+- **Link:** https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5
+
 
 ## TypeScript
 
