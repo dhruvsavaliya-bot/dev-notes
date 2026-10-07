@@ -356,6 +356,7 @@
     "https://lobste.rs/s/9yyxpk/let_s_make_worst_htmx_ever",
     "https://lobste.rs/s/bcfzer/hacking_nameof",
     "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your",
+    "https://lobste.rs/s/dpfpr3/goroutine_leak_profiles",
     "https://lobste.rs/s/jlja1a/jdk_27_has_been_released",
     "https://lobste.rs/s/paryb7/rails_is_done",
     "https://lobste.rs/s/qi1bxu/tinygo_0_42_recover_is_real",
@@ -641,12 +642,6 @@
   "recent": [
     {
       "date": "2026-10-06",
-      "subcat": "Go",
-      "title": "Hacking the Go compiler to efficiently map IPv4 to IPv6",
-      "url": "https://lobste.rs/s/ul9krj/hacking_go_compiler_efficiently_map_ipv4"
-    },
-    {
-      "date": "2026-10-06",
       "subcat": "Models & Datasets",
       "title": "larryvrh/MiniMax-H3-Turbo-Lora",
       "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora"
@@ -698,6 +693,12 @@
       "subcat": "Lobsters Picks",
       "title": "Extend Lua with Zig 1: Hello World",
       "url": "https://lobste.rs/s/tmr7jp/extend_lua_with_zig_1_hello_world"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "Go",
+      "title": "Goroutine Leak Profiles",
+      "url": "https://lobste.rs/s/dpfpr3/goroutine_leak_profiles"
     }
   ]
 }

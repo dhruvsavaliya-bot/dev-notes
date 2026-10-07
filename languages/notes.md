@@ -298,6 +298,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/ul9krj/hacking_go_compiler_efficiently_map_ipv4
 - **Link:** https://vincent.bernat.ch/en/blog/2026-go-netip-addrto6
 
+**Added 2026-10-07**
+
+### [Goroutine Leak Profiles](https://go.dev/blog/goroutine-leak-profiles)
+- **Source:** go.dev | **Posted:** 2026-09-02 | **By:** olex
+- **Community:** 20 score, 9 comments on Lobsters
+- **Tags:** go
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/dpfpr3/goroutine_leak_profiles
+- **Link:** https://go.dev/blog/goroutine-leak-profiles
+
 
 ## PHP
 
