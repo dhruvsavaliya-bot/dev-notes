@@ -1790,6 +1790,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/remoteinterview/zero
 
+**Added 2026-10-07**
+
+### [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping)
+- **Stats:** 5,719 stars | 702 forks | 12 open issues
+- **Language:** Go | **Created:** 2020-10-17 | **License:** MIT
+- **Topics:** accounting, app, bookkeeping, docker, expense-manager, expense-tracker
+- **What it is:** ezBookkeeping is an open source, powerful, self-hosted personal finance app that is easy to use.
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/mayswind/ezbookkeeping
+
 
 ## Developer Tools
 

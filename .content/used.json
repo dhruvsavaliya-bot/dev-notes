@@ -279,6 +279,7 @@
     "https://github.com/langchain-ai/openwiki",
     "https://github.com/lnkiai/m3e-canvas",
     "https://github.com/lopopolo/harness-engineering",
+    "https://github.com/mayswind/ezbookkeeping",
     "https://github.com/mcncarl/jianying-headless",
     "https://github.com/mekos2772/ios-location-spoofer",
     "https://github.com/microsoft/skill-recorder",
@@ -666,12 +667,6 @@
   "recent": [
     {
       "date": "2026-10-07",
-      "subcat": "JavaScript",
-      "title": "How JavaScript works: Event loop and the rise of Async",
-      "url": "https://news.ycombinator.com/item?id=15471449"
-    },
-    {
-      "date": "2026-10-07",
       "subcat": "Python",
       "title": "zai-org/Open-AutoGLM",
       "url": "https://github.com/zai-org/Open-AutoGLM"
@@ -723,6 +718,12 @@
       "subcat": "Lobsters Picks",
       "title": "My Homelab Got Hacked - A Postmortem",
       "url": "https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "Web & Frontend",
+      "title": "mayswind/ezbookkeeping",
+      "url": "https://github.com/mayswind/ezbookkeeping"
     }
   ]
 }
