@@ -316,6 +316,7 @@
     "https://github.com/vinzdg/codenotch",
     "https://github.com/wang2122/sprix-sage-router",
     "https://github.com/wide-trace/open-higgsfield",
+    "https://github.com/wild-linker/wild",
     "https://github.com/withmarbleapp/os-taxonomy",
     "https://github.com/wuyi2121/SCAN-Planner",
     "https://github.com/x4gKing/3x-ui",
@@ -643,12 +644,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-06",
-      "subcat": "AI & Machine Learning",
-      "title": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents"
-    },
-    {
       "date": "2026-10-07",
       "subcat": "Python",
       "title": "aden-hive/hive",
@@ -701,6 +696,12 @@
       "subcat": "Lobsters Picks",
       "title": "Async Rust: Where does the scheduler live?",
       "url": "https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "Other Cool Projects",
+      "title": "wild-linker/wild",
+      "url": "https://github.com/wild-linker/wild"
     }
   ]
 }

@@ -1697,6 +1697,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~3 stars/day since launch.
 - **Link:** https://github.com/garnix-io/garnix-ci
 
+**Added 2026-10-07**
+
+### [wild-linker/wild](https://github.com/wild-linker/wild)
+- **Stats:** 4,030 stars | 146 forks | 80 open issues
+- **Language:** Rust | **Created:** 2024-02-04 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** A very fast linker for Linux
+- **Growth:** averaging ~4 stars/day since launch.
+- **Link:** https://github.com/wild-linker/wild
+
 
 ## Web & Frontend
 
