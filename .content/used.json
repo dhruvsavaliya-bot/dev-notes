@@ -299,6 +299,7 @@
     "https://github.com/pathwaycom/arc-task-gen",
     "https://github.com/penecho/penecho",
     "https://github.com/petergyang/no-ai-slop",
+    "https://github.com/pingdotgg/t3code",
     "https://github.com/qingjian-team/qingjian",
     "https://github.com/rakanki911/DLSS5-Swapper",
     "https://github.com/remoteinterview/zero",
@@ -674,12 +675,6 @@
   "recent": [
     {
       "date": "2026-10-07",
-      "subcat": "Show & Ask HN",
-      "title": "Tell HN: A hacker's life is in danger, your awareness m",
-      "url": "https://news.ycombinator.com/item?id=33484185"
-    },
-    {
-      "date": "2026-10-07",
       "subcat": "Lobsters Picks",
       "title": "My Homelab Got Hacked - A Postmortem",
       "url": "https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem"
@@ -731,6 +726,12 @@
       "subcat": "Lobsters Picks",
       "title": "Updates to Full Disk Access in macOS",
       "url": "https://lobste.rs/s/9ipypq/updates_full_disk_access_macos"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "Other Cool Projects",
+      "title": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code"
     }
   ]
 }

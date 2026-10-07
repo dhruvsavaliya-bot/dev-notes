@@ -1717,6 +1717,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~4 stars/day since launch.
 - **Link:** https://github.com/wild-linker/wild
 
+**Added 2026-10-08**
+
+### [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+- **Stats:** 26,122 stars | 6,762 forks | 2,734 open issues
+- **Language:** TypeScript | **Created:** 2026-02-08 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~107 stars/day since launch.
+- **Link:** https://github.com/pingdotgg/t3code
+
 
 ## Web & Frontend
 
