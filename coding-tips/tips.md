@@ -1418,3 +1418,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Tags:** git, devops, development
 - **Summary:** If there’s one Git tool that few people know about, it’s “worktree.” Once you’ve mastered this tool,...
 - **Link:** https://dev.to/metal3d/git-worktree-like-a-boss-2j1b
+
+## Lobsters Picks
+
+**Added 2026-10-08**
+
+### [Anti-Patterns in Software Blogging](https://refactoringenglish.com/blog/anti-patterns-software-blogging/)
+- **Source:** refactoringenglish.com | **Posted:** 2026-10-07 | **By:** mtlynch
+- **Community:** 55 score, 26 comments on Lobsters
+- **Tags:** programming
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/rwdufq/anti_patterns_software_blogging
+- **Link:** https://refactoringenglish.com/blog/anti-patterns-software-blogging/

@@ -383,6 +383,7 @@
     "https://lobste.rs/s/qi1bxu/tinygo_0_42_recover_is_real",
     "https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy",
     "https://lobste.rs/s/rucvky/go_concurrency_distilled",
+    "https://lobste.rs/s/rwdufq/anti_patterns_software_blogging",
     "https://lobste.rs/s/tmr7jp/extend_lua_with_zig_1_hello_world",
     "https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem",
     "https://lobste.rs/s/ul9krj/hacking_go_compiler_efficiently_map_ipv4",
@@ -672,12 +673,6 @@
   "recent": [
     {
       "date": "2026-10-07",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: I've been writing daily TILs for a year",
-      "url": "https://news.ycombinator.com/item?id=11068902"
-    },
-    {
-      "date": "2026-10-07",
       "subcat": "Python",
       "title": "Micro language implementation: Calcium",
       "url": "https://lobste.rs/s/iii8sl/micro_language_implementation_calcium"
@@ -729,6 +724,12 @@
       "subcat": "Models & Datasets",
       "title": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic",
       "url": "https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "Lobsters Picks",
+      "title": "Anti-Patterns in Software Blogging",
+      "url": "https://lobste.rs/s/rwdufq/anti_patterns_software_blogging"
     }
   ]
 }
