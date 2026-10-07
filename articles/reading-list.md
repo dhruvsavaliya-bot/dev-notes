@@ -1576,3 +1576,13 @@ Fresh dev articles and blog posts.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/98zvnf/tests_for_pdf
 - **Link:** https://blog.lvmbdv.dev/posts/tests-for-a-pdf/
+
+**Added 2026-10-08**
+
+### [Updates to Full Disk Access in macOS](https://developer.apple.com/news/?id=p6zjojqw)
+- **Source:** developer.apple.com | **Posted:** 2026-10-02 | **By:** videah
+- **Community:** 28 score, 39 comments on Lobsters
+- **Tags:** mac, security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/9ipypq/updates_full_disk_access_macos
+- **Link:** https://developer.apple.com/news/?id=p6zjojqw
