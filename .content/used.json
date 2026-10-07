@@ -290,6 +290,7 @@
     "https://github.com/oomol-lab/open-connector",
     "https://github.com/openTrinity/mycontext",
     "https://github.com/openai/codex-security",
+    "https://github.com/openai/symphony",
     "https://github.com/oso95/scroll-world",
     "https://github.com/pathwaycom/arc-task-gen",
     "https://github.com/penecho/penecho",
@@ -651,12 +652,6 @@
   "recent": [
     {
       "date": "2026-10-07",
-      "subcat": "Go",
-      "title": "Goroutine Leak Profiles",
-      "url": "https://lobste.rs/s/dpfpr3/goroutine_leak_profiles"
-    },
-    {
-      "date": "2026-10-07",
       "subcat": "Research Papers",
       "title": "Anchor-ECC: Local Integrity Checking for Watermarked LL",
       "url": "http://arxiv.org/abs/2609.38722v1"
@@ -708,6 +703,12 @@
       "subcat": "Models & Datasets",
       "title": "almanach/camembert-base",
       "url": "https://huggingface.co/almanach/camembert-base"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "Elixir",
+      "title": "openai/symphony",
+      "url": "https://github.com/openai/symphony"
     }
   ]
 }

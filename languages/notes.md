@@ -478,6 +478,17 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/getmydia/mydia
 
+**Added 2026-10-07**
+
+### [openai/symphony](https://github.com/openai/symphony)
+- **Stats:** 27,579 stars | 2,868 forks | 8 open issues
+- **Language:** Elixir | **Created:** 2026-02-26 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
+- **Growth:** averaging ~123 stars/day since launch.
+- **Link:** https://github.com/openai/symphony
+
+
 ## C#
 
 **Added 2026-10-06**
