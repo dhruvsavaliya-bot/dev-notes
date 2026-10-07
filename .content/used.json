@@ -193,6 +193,7 @@
     "https://github.com/Taichu-AI/ZDTaichu5.0-9B",
     "https://github.com/TauricResearch/TradingAgents",
     "https://github.com/Tencent-Hunyuan/HY-Motion-1.0",
+    "https://github.com/TencentCloud/CubeSandbox",
     "https://github.com/TheoLeeCJ/SemIf",
     "https://github.com/TheoLeeCJ/SemIf-OpenJev",
     "https://github.com/TianyuCodings/NanoJev",
@@ -660,12 +661,6 @@
   "recent": [
     {
       "date": "2026-10-07",
-      "subcat": "Models & Datasets",
-      "title": "almanach/camembert-base",
-      "url": "https://huggingface.co/almanach/camembert-base"
-    },
-    {
-      "date": "2026-10-07",
       "subcat": "Elixir",
       "title": "openai/symphony",
       "url": "https://github.com/openai/symphony"
@@ -717,6 +712,12 @@
       "subcat": "Java",
       "title": "Htmx 4.0, the first JavaScript library to release exclu",
       "url": "https://news.ycombinator.com/item?id=49057241"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "Go",
+      "title": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox"
     }
   ]
 }

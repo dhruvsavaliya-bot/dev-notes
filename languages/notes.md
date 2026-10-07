@@ -336,6 +336,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/dpfpr3/goroutine_leak_profiles
 - **Link:** https://go.dev/blog/goroutine-leak-profiles
 
+**Added 2026-10-07**
+
+### [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
+- **Stats:** 12,817 stars | 1,174 forks | 170 open issues
+- **Language:** Go | **Created:** 2026-04-10 | **License:** NOASSERTION
+- **Topics:** agents, container, sandbox
+- **What it is:** Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
+- **Growth:** averaging ~71 stars/day since launch.
+- **Link:** https://github.com/TencentCloud/CubeSandbox
+
 
 ## PHP
 
