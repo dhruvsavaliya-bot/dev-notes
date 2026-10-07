@@ -599,6 +599,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora
 
+**Added 2026-10-07**
+
+### [almanach/camembert-base](https://huggingface.co/almanach/camembert-base)
+- **Stats:** 107 likes | 1,013,924 downloads
+- **Kind:** Hugging Face model | **Task:** fill-mask | **Created:** 2022-03-02
+- **Tags:** transformers, pytorch, tf, safetensors, camembert, fill-mask
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/almanach/camembert-base
+
 
 ## Research Papers
 
