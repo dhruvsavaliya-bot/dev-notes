@@ -13,6 +13,7 @@
     "http://arxiv.org/abs/2609.31250v1",
     "http://arxiv.org/abs/2609.35878v1",
     "http://arxiv.org/abs/2609.38281v1",
+    "http://arxiv.org/abs/2609.38722v1",
     "http://arxiv.org/abs/2610.03001v1",
     "http://arxiv.org/abs/2610.03109v1",
     "http://arxiv.org/abs/2610.03665v1",
@@ -642,12 +643,6 @@
   "recent": [
     {
       "date": "2026-10-06",
-      "subcat": "Models & Datasets",
-      "title": "larryvrh/MiniMax-H3-Turbo-Lora",
-      "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora"
-    },
-    {
-      "date": "2026-10-06",
       "subcat": "Hacker News Picks",
       "title": "Meta's Muse Is an Adorable Privacy and Security Dumpste",
       "url": "https://news.ycombinator.com/item?id=49977588"
@@ -699,6 +694,12 @@
       "subcat": "Go",
       "title": "Goroutine Leak Profiles",
       "url": "https://lobste.rs/s/dpfpr3/goroutine_leak_profiles"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "Research Papers",
+      "title": "Anchor-ECC: Local Integrity Checking for Watermarked LL",
+      "url": "http://arxiv.org/abs/2609.38722v1"
     }
   ]
 }

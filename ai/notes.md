@@ -701,3 +701,13 @@ Lessons from building with LLMs.
 - **Abstract:** Masked diffusion language models (dLMs) offer a promising parallel alternative to autoregressive models for complex reasoning. However, they face a distinct credit-assignment challenge, since a few commitments during denoising sharply reduce the uncertainty over the remaining masked positions and shape much of the response. Most post-training recipes for dLMs do not use this signal to decide which tokens to train on: they typically train on the final text or assign rewards to whole denoising ste...
 - **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.03665v1
+
+**Added 2026-10-07**
+
+### [Anchor-ECC: Local Integrity Checking for Watermarked LLM Outputs via Error-Correcting Codes](http://arxiv.org/abs/2609.38722v1)
+- **Authors:** Zewei Deng, Muhammad Siddeek, Liyan Xie, Mohamed Seif et al.
+- **Published:** 2026-09-30 | **Primary category:** cs.CR
+- **Categories:** cs.CR, cs.CL
+- **Abstract:** LLM watermarking has become an effective approach to distinguishing AI-generated text from human-written text by embedding detectable patterns during generation. However, a small post-generation edit may change the meaning of the text without removing its overall watermark signal, creating a risk that the modified content is still attributed to the original model. We propose Anchor-ECC, which incorporates the error-correcting code (ECC) constraints and explicit boundary anchors into the watermar...
+- **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.38722v1
