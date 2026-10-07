@@ -284,6 +284,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~86 stars/day since launch.
 - **Link:** https://github.com/zai-org/Open-AutoGLM
 
+**Added 2026-10-07**
+
+### [Micro language implementation: Calcium](https://nedbatchelder.com/blog/202608/micro_language_implementation_calcium)
+- **Source:** nedbatchelder.com | **Posted:** 2026-08-24 | **By:** kngl
+- **Community:** 18 score, 0 comments on Lobsters
+- **Tags:** plt, python
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/iii8sl/micro_language_implementation_calcium
+- **Link:** https://nedbatchelder.com/blog/202608/micro_language_implementation_calcium
+
 
 ## Go
 
