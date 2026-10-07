@@ -340,6 +340,7 @@
     "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
     "https://github.com/yynxxxxx/Codex-X",
     "https://github.com/zachlatta/freeflow",
+    "https://github.com/zai-org/Open-AutoGLM",
     "https://github.com/zai-org/ZCode",
     "https://github.com/zerx-lab/FluxDown",
     "https://github.com/zhu1090093659/dsh-web",
@@ -657,12 +658,6 @@
   "recent": [
     {
       "date": "2026-10-07",
-      "subcat": "Git & Workflow",
-      "title": "Git worktree like a boss",
-      "url": "https://dev.to/metal3d/git-worktree-like-a-boss-2j1b"
-    },
-    {
-      "date": "2026-10-07",
       "subcat": "Lobsters Picks",
       "title": "A sustainable web career, for when all this blows over",
       "url": "https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this"
@@ -714,6 +709,12 @@
       "subcat": "JavaScript",
       "title": "How JavaScript works: Event loop and the rise of Async",
       "url": "https://news.ycombinator.com/item?id=15471449"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "Python",
+      "title": "zai-org/Open-AutoGLM",
+      "url": "https://github.com/zai-org/Open-AutoGLM"
     }
   ]
 }

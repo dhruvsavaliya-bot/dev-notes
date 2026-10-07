@@ -265,6 +265,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~41 stars/day since launch.
 - **Link:** https://github.com/aden-hive/hive
 
+**Added 2026-10-07**
+
+### [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)
+- **Stats:** 26,350 stars | 4,047 forks | 268 open issues
+- **Language:** Python | **Created:** 2025-12-08 | **License:** Apache-2.0
+- **Topics:** agent, phone-use-agent
+- **What it is:** An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
+- **Growth:** averaging ~86 stars/day since launch.
+- **Link:** https://github.com/zai-org/Open-AutoGLM
+
 
 ## Go
 
