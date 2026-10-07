@@ -1556,3 +1556,13 @@ Fresh dev articles and blog posts.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this
 - **Link:** https://dbushell.com/2026/10/07/sustainable-web-career/
+
+**Added 2026-10-07**
+
+### [My Homelab Got Hacked - A Postmortem](https://phunky.cafe/my-homelab-got-hacked/)
+- **Source:** phunky.cafe | **Posted:** 2026-08-12 | **By:** colindean
+- **Community:** 71 score, 20 comments on Lobsters
+- **Tags:** devops, security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem
+- **Link:** https://phunky.cafe/my-homelab-got-hacked/

@@ -380,6 +380,7 @@
     "https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy",
     "https://lobste.rs/s/rucvky/go_concurrency_distilled",
     "https://lobste.rs/s/tmr7jp/extend_lua_with_zig_1_hello_world",
+    "https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem",
     "https://lobste.rs/s/ul9krj/hacking_go_compiler_efficiently_map_ipv4",
     "https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice",
     "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed",
@@ -665,12 +666,6 @@
   "recent": [
     {
       "date": "2026-10-07",
-      "subcat": "PHP",
-      "title": "Boris: A tiny but robust REPL for PHP",
-      "url": "https://news.ycombinator.com/item?id=5673032"
-    },
-    {
-      "date": "2026-10-07",
       "subcat": "JavaScript",
       "title": "How JavaScript works: Event loop and the rise of Async",
       "url": "https://news.ycombinator.com/item?id=15471449"
@@ -722,6 +717,12 @@
       "subcat": "Show & Ask HN",
       "title": "Tell HN: A hacker's life is in danger, your awareness m",
       "url": "https://news.ycombinator.com/item?id=33484185"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "Lobsters Picks",
+      "title": "My Homelab Got Hacked - A Postmortem",
+      "url": "https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem"
     }
   ]
 }
