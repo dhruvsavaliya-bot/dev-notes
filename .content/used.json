@@ -79,6 +79,7 @@
     "https://dev.to/konark_13/vibe-coding-endgame-3bbn",
     "https://dev.to/lovestaco/cheap-rag-in-go-with-gemini-file-search-no-vector-db-two-calls-one-hosted-store-4kb5",
     "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
+    "https://dev.to/metal3d/git-worktree-like-a-boss-2j1b",
     "https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd",
     "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd",
     "https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h",
@@ -647,12 +648,6 @@
   "recent": [
     {
       "date": "2026-10-07",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: A store that generates products from anything",
-      "url": "https://news.ycombinator.com/item?id=45231378"
-    },
-    {
-      "date": "2026-10-07",
       "subcat": "Research Papers",
       "title": "Pivot-SD: Efficient Self-Distillation for Masked Diffus",
       "url": "http://arxiv.org/abs/2610.03665v1"
@@ -704,6 +699,12 @@
       "subcat": "Research Papers",
       "title": "Test-Time Adaptation of Reasoning Strategies with Bayes",
       "url": "http://arxiv.org/abs/2610.06516v1"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "Git & Workflow",
+      "title": "Git worktree like a boss",
+      "url": "https://dev.to/metal3d/git-worktree-like-a-boss-2j1b"
     }
   ]
 }

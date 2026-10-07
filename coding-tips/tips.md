@@ -1370,3 +1370,14 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=20854214
 - **Link:** https://news.ycombinator.com/item?id=20854214
+
+## Git & Workflow
+
+**Added 2026-10-07**
+
+### [Git worktree like a boss](https://dev.to/metal3d/git-worktree-like-a-boss-2j1b)
+- **Author:** Patrice Ferlet | **Published:** Mar 18 | **Read time:** 8 min
+- **Community:** 85 reactions, 8 comments -- a top post in #git
+- **Tags:** git, devops, development
+- **Summary:** If there’s one Git tool that few people know about, it’s “worktree.” Once you’ve mastered this tool,...
+- **Link:** https://dev.to/metal3d/git-worktree-like-a-boss-2j1b
