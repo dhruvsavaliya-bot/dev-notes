@@ -608,6 +608,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/almanach/camembert-base
 
+**Added 2026-10-07**
+
+### [bytedance-research/Lance](https://huggingface.co/bytedance-research/Lance)
+- **Stats:** 1,059 likes | 1,126 downloads
+- **Kind:** Hugging Face model | **Task:** any-to-any | **Created:** 2026-05-15
+- **Tags:** Lance, safetensors, multimodal, image-generation, video-generation, image-editing
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/bytedance-research/Lance
+
 
 ## Research Papers
 

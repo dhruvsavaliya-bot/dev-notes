@@ -349,6 +349,7 @@
     "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
     "https://huggingface.co/almanach/camembert-base",
+    "https://huggingface.co/bytedance-research/Lance",
     "https://huggingface.co/datasets/markov-ai/computer-use-large",
     "https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML",
     "https://huggingface.co/datasets/monology/pile-uncopyrighted",
@@ -661,12 +662,6 @@
   "recent": [
     {
       "date": "2026-10-07",
-      "subcat": "Elixir",
-      "title": "openai/symphony",
-      "url": "https://github.com/openai/symphony"
-    },
-    {
-      "date": "2026-10-07",
       "subcat": "Ruby",
       "title": "Hanami, Why?: Introductions",
       "url": "https://lobste.rs/s/bag41j/hanami_why_introductions"
@@ -718,6 +713,12 @@
       "subcat": "Go",
       "title": "TencentCloud/CubeSandbox",
       "url": "https://github.com/TencentCloud/CubeSandbox"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "Models & Datasets",
+      "title": "bytedance-research/Lance",
+      "url": "https://huggingface.co/bytedance-research/Lance"
     }
   ]
 }
