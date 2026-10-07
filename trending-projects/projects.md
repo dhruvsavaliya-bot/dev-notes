@@ -874,6 +874,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~169 stars/day since launch.
 - **Link:** https://github.com/TauricResearch/TradingAgents
 
+**Added 2026-10-07**
+
+### [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
+- **Stats:** 32,348 stars | 4,529 forks | 559 open issues
+- **Language:** Python | **Created:** 2023-04-27 | **License:** NOASSERTION
+- **Topics:** ai, ai-chat, chatgpt, chatui, enterprise-search, gen-ai
+- **What it is:** Open Source AI Platform - AI Chat with advanced features that works with every LLM
+- **Growth:** averaging ~25 stars/day since launch.
+- **Link:** https://github.com/onyx-dot-app/onyx
+
 
 ## Other Cool Projects
 

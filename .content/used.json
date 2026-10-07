@@ -290,6 +290,7 @@
     "https://github.com/nyblnet/bento",
     "https://github.com/omacom/try-omarchy",
     "https://github.com/omdsh-dev/DSH-better-sidebar",
+    "https://github.com/onyx-dot-app/onyx",
     "https://github.com/oomol-lab/open-connector",
     "https://github.com/openTrinity/mycontext",
     "https://github.com/openai/codex-security",
@@ -670,12 +671,6 @@
   "recent": [
     {
       "date": "2026-10-07",
-      "subcat": "Go",
-      "title": "TencentCloud/CubeSandbox",
-      "url": "https://github.com/TencentCloud/CubeSandbox"
-    },
-    {
-      "date": "2026-10-07",
       "subcat": "Models & Datasets",
       "title": "bytedance-research/Lance",
       "url": "https://huggingface.co/bytedance-research/Lance"
@@ -727,6 +722,12 @@
       "subcat": "Lobsters Picks",
       "title": "Tests for a PDF",
       "url": "https://lobste.rs/s/98zvnf/tests_for_pdf"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "AI & Machine Learning",
+      "title": "onyx-dot-app/onyx",
+      "url": "https://github.com/onyx-dot-app/onyx"
     }
   ]
 }

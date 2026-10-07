@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**659 entries and counting** · Last updated: 2026-10-07
+**660 entries and counting** · Last updated: 2026-10-07
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 191 |
+| [Trending Projects](trending-projects/projects.md) | 192 |
 | [AI / LLM Notes](ai/notes.md) | 80 |
 | [Reading List](articles/reading-list.md) | 172 |
 | [Coding Tips](coding-tips/tips.md) | 156 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-07** · *AI & Machine Learning* — [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 - **2026-10-07** · *Lobsters Picks* — [Tests for a PDF](https://lobste.rs/s/98zvnf/tests_for_pdf)
 - **2026-10-07** · *Show & Ask HN* — [Ask HN: What are some good technology blogs to follow?](https://news.ycombinator.com/item?id=13849430)
 - **2026-10-07** · *Python* — [Python Iceberg](https://lobste.rs/s/xv6z4r/python_iceberg)
 - **2026-10-07** · *Web & Frontend* — [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping)
-- **2026-10-07** · *Lobsters Picks* — [My Homelab Got Hacked - A Postmortem](https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem)
 
 ## How it works
 
