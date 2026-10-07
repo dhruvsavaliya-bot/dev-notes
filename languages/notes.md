@@ -138,6 +138,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=15471449
 - **Link:** https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5
 
+**Added 2026-10-07**
+
+### [Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy](https://swag.htmx.org/en-cad/products/htmx-4-the-game)
+- **Source:** swag.htmx.org | **Posted:** 2026-07-26 | **By:** rcy
+- **Community:** 515 points, 207 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49057241
+- **Link:** https://swag.htmx.org/en-cad/products/htmx-4-the-game
+
 
 ## TypeScript
 
