@@ -1380,6 +1380,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=18407173
 - **Link:** https://news.ycombinator.com/item?id=18407173
 
+**Added 2026-10-07**
+
+### [Show HN: I've been writing daily TILs for a year](https://github.com/jbranchaud/til)
+- **Source:** github.com | **Posted:** 2016-02-09 | **By:** jbranchaud
+- **Community:** 819 points, 150 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=11068902
+- **Link:** https://github.com/jbranchaud/til
+
 
 ## Git & Workflow
 

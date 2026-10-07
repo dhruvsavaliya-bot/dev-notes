@@ -382,6 +382,7 @@
     "https://lobste.rs/s/ul9krj/hacking_go_compiler_efficiently_map_ipv4",
     "https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice",
     "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed",
+    "https://news.ycombinator.com/item?id=11068902",
     "https://news.ycombinator.com/item?id=14350059",
     "https://news.ycombinator.com/item?id=15471449",
     "https://news.ycombinator.com/item?id=16535886",
@@ -662,12 +663,6 @@
   "recent": [
     {
       "date": "2026-10-07",
-      "subcat": "Ruby",
-      "title": "Hanami, Why?: Introductions",
-      "url": "https://lobste.rs/s/bag41j/hanami_why_introductions"
-    },
-    {
-      "date": "2026-10-07",
       "subcat": "Research Papers",
       "title": "JEV versus LLMs: Accuracy, Cost and Calibration on Seve",
       "url": "http://arxiv.org/abs/2610.06625v2"
@@ -719,6 +714,12 @@
       "subcat": "Models & Datasets",
       "title": "bytedance-research/Lance",
       "url": "https://huggingface.co/bytedance-research/Lance"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: I've been writing daily TILs for a year",
+      "url": "https://news.ycombinator.com/item?id=11068902"
     }
   ]
 }
