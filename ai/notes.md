@@ -617,6 +617,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/bytedance-research/Lance
 
+**Added 2026-10-08**
+
+### [DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF)
+- **Stats:** 967 likes | 2,007,376 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-07-19
+- **Tags:** gguf, MTP GGUFS, Regular GGUFS, NEO Imatrix, fine tune, unsloth
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF
+
 
 ## Research Papers
 

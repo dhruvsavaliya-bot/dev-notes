@@ -349,6 +349,7 @@
     "https://github.com/zhu1090093659/dsh-web",
     "https://github.com/zhu1090093659/dsh-web-ui",
     "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
+    "https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
     "https://huggingface.co/almanach/camembert-base",
     "https://huggingface.co/bytedance-research/Lance",
@@ -671,12 +672,6 @@
   "recent": [
     {
       "date": "2026-10-07",
-      "subcat": "Models & Datasets",
-      "title": "bytedance-research/Lance",
-      "url": "https://huggingface.co/bytedance-research/Lance"
-    },
-    {
-      "date": "2026-10-07",
       "subcat": "Show & Ask HN",
       "title": "Show HN: I've been writing daily TILs for a year",
       "url": "https://news.ycombinator.com/item?id=11068902"
@@ -728,6 +723,12 @@
       "subcat": "AI & Machine Learning",
       "title": "onyx-dot-app/onyx",
       "url": "https://github.com/onyx-dot-app/onyx"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "Models & Datasets",
+      "title": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic",
+      "url": "https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF"
     }
   ]
 }
