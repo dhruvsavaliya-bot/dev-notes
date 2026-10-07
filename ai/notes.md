@@ -626,6 +626,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF
 
+**Added 2026-10-08**
+
+### [FlyRank/internship-warehouse](https://huggingface.co/datasets/FlyRank/internship-warehouse)
+- **Stats:** 727 likes | 6,507 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-07-07
+- **Tags:** seo, content-performance, data-warehouse, tabular, education, flyrank-internship
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/FlyRank/internship-warehouse
+
 
 ## Research Papers
 
