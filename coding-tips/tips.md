@@ -1398,6 +1398,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=33484185
 - **Link:** https://news.ycombinator.com/item?id=33484185
 
+**Added 2026-10-07**
+
+### [Ask HN: What are some good technology blogs to follow?](https://news.ycombinator.com/item?id=13849430)
+- **Source:** news.ycombinator.com | **Posted:** 2017-03-12 | **By:** buddies2705
+- **Community:** 893 points, 187 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=13849430
+- **Link:** https://news.ycombinator.com/item?id=13849430
+
 
 ## Git & Workflow
 

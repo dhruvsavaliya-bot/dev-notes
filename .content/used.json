@@ -387,6 +387,7 @@
     "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed",
     "https://lobste.rs/s/xv6z4r/python_iceberg",
     "https://news.ycombinator.com/item?id=11068902",
+    "https://news.ycombinator.com/item?id=13849430",
     "https://news.ycombinator.com/item?id=14350059",
     "https://news.ycombinator.com/item?id=15471449",
     "https://news.ycombinator.com/item?id=16535886",
@@ -668,12 +669,6 @@
   "recent": [
     {
       "date": "2026-10-07",
-      "subcat": "Rust",
-      "title": "The state of SIMD in Rust in 2026",
-      "url": "https://lobste.rs/s/iotaty/state_simd_rust_2026"
-    },
-    {
-      "date": "2026-10-07",
       "subcat": "Java",
       "title": "Htmx 4.0, the first JavaScript library to release exclu",
       "url": "https://news.ycombinator.com/item?id=49057241"
@@ -725,6 +720,12 @@
       "subcat": "Python",
       "title": "Python Iceberg",
       "url": "https://lobste.rs/s/xv6z4r/python_iceberg"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: What are some good technology blogs to follow?",
+      "url": "https://news.ycombinator.com/item?id=13849430"
     }
   ]
 }
