@@ -1371,6 +1371,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=20854214
 - **Link:** https://news.ycombinator.com/item?id=20854214
 
+**Added 2026-10-07**
+
+### [Tell HN: Amazon now owns 3.0.0.0/8](https://news.ycombinator.com/item?id=18407173)
+- **Source:** news.ycombinator.com | **Posted:** 2018-11-08 | **By:** STRML
+- **Community:** 565 points, 313 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=18407173
+- **Link:** https://news.ycombinator.com/item?id=18407173
+
+
 ## Git & Workflow
 
 **Added 2026-10-07**

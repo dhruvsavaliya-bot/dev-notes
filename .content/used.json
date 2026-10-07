@@ -380,6 +380,7 @@
     "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed",
     "https://news.ycombinator.com/item?id=14350059",
     "https://news.ycombinator.com/item?id=16535886",
+    "https://news.ycombinator.com/item?id=18407173",
     "https://news.ycombinator.com/item?id=19209957",
     "https://news.ycombinator.com/item?id=20854214",
     "https://news.ycombinator.com/item?id=21611677",
@@ -654,12 +655,6 @@
   "recent": [
     {
       "date": "2026-10-07",
-      "subcat": "Other Cool Projects",
-      "title": "wild-linker/wild",
-      "url": "https://github.com/wild-linker/wild"
-    },
-    {
-      "date": "2026-10-07",
       "subcat": "Rust",
       "title": "How to speed up the Rust compiler in September 2026",
       "url": "https://lobste.rs/s/odrfgk/how_speed_up_rust_compiler_september_2026"
@@ -711,6 +706,12 @@
       "subcat": "Research Papers",
       "title": "JEV versus LLMs: Accuracy, Cost and Calibration on Seve",
       "url": "http://arxiv.org/abs/2610.06625v2"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "Show & Ask HN",
+      "title": "Tell HN: Amazon now owns 3.0.0.0/8",
+      "url": "https://news.ycombinator.com/item?id=18407173"
     }
   ]
 }
