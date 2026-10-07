@@ -397,6 +397,7 @@
     "https://news.ycombinator.com/item?id=31335904",
     "https://news.ycombinator.com/item?id=32366759",
     "https://news.ycombinator.com/item?id=32493946",
+    "https://news.ycombinator.com/item?id=33484185",
     "https://news.ycombinator.com/item?id=33512338",
     "https://news.ycombinator.com/item?id=36493715",
     "https://news.ycombinator.com/item?id=36901303",
@@ -664,12 +665,6 @@
   "recent": [
     {
       "date": "2026-10-07",
-      "subcat": "Show & Ask HN",
-      "title": "Tell HN: Amazon now owns 3.0.0.0/8",
-      "url": "https://news.ycombinator.com/item?id=18407173"
-    },
-    {
-      "date": "2026-10-07",
       "subcat": "PHP",
       "title": "Boris: A tiny but robust REPL for PHP",
       "url": "https://news.ycombinator.com/item?id=5673032"
@@ -721,6 +716,12 @@
       "subcat": "Python",
       "title": "Micro language implementation: Calcium",
       "url": "https://lobste.rs/s/iii8sl/micro_language_implementation_calcium"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "Show & Ask HN",
+      "title": "Tell HN: A hacker's life is in danger, your awareness m",
+      "url": "https://news.ycombinator.com/item?id=33484185"
     }
   ]
 }
