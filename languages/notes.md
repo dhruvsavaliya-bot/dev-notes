@@ -504,6 +504,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/odrfgk/how_speed_up_rust_compiler_september_2026
 - **Link:** https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html
 
+**Added 2026-10-07**
+
+### [The state of SIMD in Rust in 2026](https://shnatsel.github.io/state-of-simd-rust-2026/)
+- **Source:** shnatsel.github.io | **Posted:** 2026-09-26 | **By:** janerik
+- **Community:** 39 score, 5 comments on Lobsters
+- **Tags:** rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/iotaty/state_simd_rust_2026
+- **Link:** https://shnatsel.github.io/state-of-simd-rust-2026/
+
 
 ## Elixir
 
