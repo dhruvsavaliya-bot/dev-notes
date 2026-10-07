@@ -711,3 +711,13 @@ Lessons from building with LLMs.
 - **Abstract:** LLM watermarking has become an effective approach to distinguishing AI-generated text from human-written text by embedding detectable patterns during generation. However, a small post-generation edit may change the meaning of the text without removing its overall watermark signal, creating a risk that the modified content is still attributed to the original model. We propose Anchor-ECC, which incorporates the error-correcting code (ECC) constraints and explicit boundary anchors into the watermar...
 - **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.38722v1
+
+**Added 2026-10-07**
+
+### [Test-Time Adaptation of Reasoning Strategies with Bayesian Nonparametric Memory](http://arxiv.org/abs/2610.06516v1)
+- **Authors:** Keshav Ramji, Tahira Naseem, Ramón Fernandez Astudillo
+- **Published:** 2026-10-05 | **Primary category:** cs.CL
+- **Categories:** cs.CL
+- **Abstract:** While modern large language models (LLMs) have been trained to reason through verbalized chains-of-thought, the generation cost grows substantially due to suboptimal paths to reach the final answer. Furthermore, as new insights are discovered while observing various input queries (e.g. through self-reflection), limited mechanisms exist for carrying forward these findings to be applied to subsequent problems. One can view the list of such strategies or behaviors as a growing cheatsheet, with elem...
+- **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.06516v1

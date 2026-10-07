@@ -17,6 +17,7 @@
     "http://arxiv.org/abs/2610.03001v1",
     "http://arxiv.org/abs/2610.03109v1",
     "http://arxiv.org/abs/2610.03665v1",
+    "http://arxiv.org/abs/2610.06516v1",
     "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
     "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
     "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag",
@@ -646,12 +647,6 @@
   "recent": [
     {
       "date": "2026-10-07",
-      "subcat": "Research Papers",
-      "title": "Beyond the Headset: A Systematization of Knowledge on E",
-      "url": "http://arxiv.org/abs/2609.38281v1"
-    },
-    {
-      "date": "2026-10-07",
       "subcat": "Show & Ask HN",
       "title": "Show HN: A store that generates products from anything",
       "url": "https://news.ycombinator.com/item?id=45231378"
@@ -703,6 +698,12 @@
       "subcat": "Rust",
       "title": "How to speed up the Rust compiler in September 2026",
       "url": "https://lobste.rs/s/odrfgk/how_speed_up_rust_compiler_september_2026"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "Research Papers",
+      "title": "Test-Time Adaptation of Reasoning Strategies with Bayes",
+      "url": "http://arxiv.org/abs/2610.06516v1"
     }
   ]
 }
