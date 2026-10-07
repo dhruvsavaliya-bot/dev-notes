@@ -359,6 +359,7 @@
     "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your",
     "https://lobste.rs/s/dpfpr3/goroutine_leak_profiles",
     "https://lobste.rs/s/jlja1a/jdk_27_has_been_released",
+    "https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live",
     "https://lobste.rs/s/paryb7/rails_is_done",
     "https://lobste.rs/s/qi1bxu/tinygo_0_42_recover_is_real",
     "https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy",
@@ -643,12 +644,6 @@
   "recent": [
     {
       "date": "2026-10-06",
-      "subcat": "Hacker News Picks",
-      "title": "Meta's Muse Is an Adorable Privacy and Security Dumpste",
-      "url": "https://news.ycombinator.com/item?id=49977588"
-    },
-    {
-      "date": "2026-10-06",
       "subcat": "AI & Machine Learning",
       "title": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents"
@@ -700,6 +695,12 @@
       "subcat": "Research Papers",
       "title": "Anchor-ECC: Local Integrity Checking for Watermarked LL",
       "url": "http://arxiv.org/abs/2609.38722v1"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "Lobsters Picks",
+      "title": "Async Rust: Where does the scheduler live?",
+      "url": "https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live"
     }
   ]
 }

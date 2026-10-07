@@ -1536,3 +1536,13 @@ Fresh dev articles and blog posts.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/tmr7jp/extend_lua_with_zig_1_hello_world
 - **Link:** https://www.robbielyman.com/blog/extend-lua-with-zig-1/
+
+**Added 2026-10-07**
+
+### [Async Rust: Where does the scheduler live?](https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/)
+- **Source:** herecomesthemoon.net | **Posted:** 2026-10-05 | **By:** mond
+- **Community:** 59 score, 34 comments on Lobsters
+- **Tags:** rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live
+- **Link:** https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/
