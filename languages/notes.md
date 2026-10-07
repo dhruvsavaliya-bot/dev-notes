@@ -294,6 +294,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/iii8sl/micro_language_implementation_calcium
 - **Link:** https://nedbatchelder.com/blog/202608/micro_language_implementation_calcium
 
+**Added 2026-10-07**
+
+### [Python Iceberg](https://aleyan.com/projects/python-iceberg/)
+- **Source:** aleyan.com | **Posted:** 2026-09-06 | **By:** aleyan
+- **Community:** 31 score, 26 comments on Lobsters
+- **Tags:** python, vibecoding, visualization
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/xv6z4r/python_iceberg
+- **Link:** https://aleyan.com/projects/python-iceberg/
+
 
 ## Go
 
