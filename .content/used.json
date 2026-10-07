@@ -650,15 +650,10 @@
     "https://news.ycombinator.com/item?id=49970667",
     "https://news.ycombinator.com/item?id=49971230",
     "https://news.ycombinator.com/item?id=49977588",
+    "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=7185024"
   ],
   "recent": [
-    {
-      "date": "2026-10-07",
-      "subcat": "Rust",
-      "title": "How to speed up the Rust compiler in September 2026",
-      "url": "https://lobste.rs/s/odrfgk/how_speed_up_rust_compiler_september_2026"
-    },
     {
       "date": "2026-10-07",
       "subcat": "Research Papers",
@@ -712,6 +707,12 @@
       "subcat": "Show & Ask HN",
       "title": "Tell HN: Amazon now owns 3.0.0.0/8",
       "url": "https://news.ycombinator.com/item?id=18407173"
+    },
+    {
+      "date": "2026-10-07",
+      "subcat": "PHP",
+      "title": "Boris: A tiny but robust REPL for PHP",
+      "url": "https://news.ycombinator.com/item?id=5673032"
     }
   ]
 }

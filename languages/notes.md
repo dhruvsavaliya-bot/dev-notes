@@ -329,6 +329,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=40457229
 - **Link:** https://wasmer.io/posts/running-php-blazingly-fast-at-the-edge-with-wasm
 
+**Added 2026-10-07**
+
+### [Boris: A tiny but robust REPL for PHP](https://github.com/d11wtq/boris)
+- **Source:** github.com | **Posted:** 2013-05-08 | **By:** nodesocket
+- **Community:** 121 points, 46 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=5673032
+- **Link:** https://github.com/d11wtq/boris
+
+
 ## Ruby
 
 **Added 2026-10-05**
