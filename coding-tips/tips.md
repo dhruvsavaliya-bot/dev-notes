@@ -1430,3 +1430,13 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/rwdufq/anti_patterns_software_blogging
 - **Link:** https://refactoringenglish.com/blog/anti-patterns-software-blogging/
+
+**Added 2026-10-08**
+
+### [Software developers are not okay](https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/)
+- **Source:** www.baldurbjarnason.com | **Posted:** 2026-10-07 | **By:** aloys
+- **Community:** 47 score, 19 comments on Lobsters
+- **Tags:** philosophy
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/0gvyif/software_developers_are_not_okay
+- **Link:** https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/

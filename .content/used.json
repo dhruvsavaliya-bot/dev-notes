@@ -368,6 +368,7 @@
     "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
     "https://huggingface.co/microsoft/TRELLIS-image-large",
     "https://huggingface.co/prompthero/openjourney",
+    "https://lobste.rs/s/0gvyif/software_developers_are_not_okay",
     "https://lobste.rs/s/7faqgg/claude_says",
     "https://lobste.rs/s/98zvnf/tests_for_pdf",
     "https://lobste.rs/s/9ipypq/updates_full_disk_access_macos",
@@ -679,12 +680,6 @@
   "recent": [
     {
       "date": "2026-10-07",
-      "subcat": "Lobsters Picks",
-      "title": "Tests for a PDF",
-      "url": "https://lobste.rs/s/98zvnf/tests_for_pdf"
-    },
-    {
-      "date": "2026-10-07",
       "subcat": "AI & Machine Learning",
       "title": "onyx-dot-app/onyx",
       "url": "https://github.com/onyx-dot-app/onyx"
@@ -736,6 +731,12 @@
       "subcat": "Models & Datasets",
       "title": "openai/healthbench",
       "url": "https://huggingface.co/datasets/openai/healthbench"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "Lobsters Picks",
+      "title": "Software developers are not okay",
+      "url": "https://lobste.rs/s/0gvyif/software_developers_are_not_okay"
     }
   ]
 }
