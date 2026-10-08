@@ -362,6 +362,7 @@
     "https://huggingface.co/datasets/FlyRank/internship-warehouse",
     "https://huggingface.co/datasets/ShadenA/MathNet",
     "https://huggingface.co/datasets/espnet/yodas2",
+    "https://huggingface.co/datasets/harborframework/terminal-bench-2.0",
     "https://huggingface.co/datasets/markov-ai/computer-use-large",
     "https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML",
     "https://huggingface.co/datasets/monology/pile-uncopyrighted",
@@ -704,12 +705,6 @@
   "recent": [
     {
       "date": "2026-10-08",
-      "subcat": "Lobsters Picks",
-      "title": "Margaret Hamilton, computing pioneer who led software d",
-      "url": "https://lobste.rs/s/9qtgrm/margaret_hamilton_computing_pioneer_who"
-    },
-    {
-      "date": "2026-10-08",
       "subcat": "Models & Datasets",
       "title": "Qwen/Qwen3-ASR-1.7B",
       "url": "https://huggingface.co/Qwen/Qwen3-ASR-1.7B"
@@ -761,6 +756,12 @@
       "subcat": "PHP",
       "title": "PHP 8.5",
       "url": "https://news.ycombinator.com/item?id=45989469"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "Models & Datasets",
+      "title": "harborframework/terminal-bench-2.0",
+      "url": "https://huggingface.co/datasets/harborframework/terminal-bench-2.0"
     }
   ]
 }

@@ -689,6 +689,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/espnet/yodas2
 
+**Added 2026-10-08**
+
+### [harborframework/terminal-bench-2.0](https://huggingface.co/datasets/harborframework/terminal-bench-2.0)
+- **Stats:** 51 likes | 72,774 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-02-13
+- **Tags:** benchmark, agents, terminal, code, evaluation, harbor
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/harborframework/terminal-bench-2.0
+
 
 ## Research Papers
 
