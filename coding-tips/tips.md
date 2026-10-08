@@ -1407,6 +1407,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=13849430
 - **Link:** https://news.ycombinator.com/item?id=13849430
 
+**Added 2026-10-08**
+
+### [Show HN: My embarrassing personal website from the 90s](http://boglin.iwarp.com/)
+- **Source:** boglin.iwarp.com | **Posted:** 2018-03-02 | **By:** rpeden
+- **Community:** 867 points, 417 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=16505244
+- **Link:** http://boglin.iwarp.com/
+
 
 ## Git & Workflow
 

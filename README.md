@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**679 entries and counting** · Last updated: 2026-10-08
+**680 entries and counting** · Last updated: 2026-10-08
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 195 |
 | [AI / LLM Notes](ai/notes.md) | 85 |
 | [Reading List](articles/reading-list.md) | 174 |
-| [Coding Tips](coding-tips/tips.md) | 158 |
+| [Coding Tips](coding-tips/tips.md) | 159 |
 | [Language Notes](languages/notes.md) | 67 |
 
 ## Latest additions
 
+- **2026-10-08** · *Show & Ask HN* — [Show HN: My embarrassing personal website from the 90s](https://news.ycombinator.com/item?id=16505244)
 - **2026-10-08** · *Models & Datasets* — [yandex/AliceAI-Foundation-80B-A3B-Base](https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base)
 - **2026-10-08** · *TypeScript* — [`satisfies` is my favorite TypeScript keyword (2024)](https://news.ycombinator.com/item?id=45968310)
 - **2026-10-08** · *Python* — [When str.lower() is a security vulnerability in Python](https://lobste.rs/s/ap9w8i/when_str_lower_is_security_vulnerability)
 - **2026-10-08** · *Python* — [Costs of running a Python webapp for 55k monthly users](https://news.ycombinator.com/item?id=24372084)
-- **2026-10-08** · *AI & Machine Learning* — [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 
 ## How it works
 

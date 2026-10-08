@@ -406,6 +406,7 @@
     "https://news.ycombinator.com/item?id=14350059",
     "https://news.ycombinator.com/item?id=14773964",
     "https://news.ycombinator.com/item?id=15471449",
+    "https://news.ycombinator.com/item?id=16505244",
     "https://news.ycombinator.com/item?id=16535886",
     "https://news.ycombinator.com/item?id=18407173",
     "https://news.ycombinator.com/item?id=19209957",
@@ -690,12 +691,6 @@
   "recent": [
     {
       "date": "2026-10-08",
-      "subcat": "Hacker News Picks",
-      "title": "A 10x Faster TypeScript",
-      "url": "https://news.ycombinator.com/item?id=43332830"
-    },
-    {
-      "date": "2026-10-08",
       "subcat": "Other Cool Projects",
       "title": "ScottPlot/ScottPlot",
       "url": "https://github.com/ScottPlot/ScottPlot"
@@ -747,6 +742,12 @@
       "subcat": "Models & Datasets",
       "title": "yandex/AliceAI-Foundation-80B-A3B-Base",
       "url": "https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: My embarrassing personal website from the 90s",
+      "url": "https://news.ycombinator.com/item?id=16505244"
     }
   ]
 }
