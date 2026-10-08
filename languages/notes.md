@@ -590,6 +590,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/bag41j/hanami_why_introductions
 - **Link:** https://aaronmallen.me/writing/hanami-why-introductions
 
+**Added 2026-10-09**
+
+### [grubby: static site generator for git repos written in Ruby](https://git.btxx.org/grubby)
+- **Source:** git.btxx.org | **Posted:** 2026-10-04 | **By:** bt
+- **Community:** 18 score, 11 comments on Lobsters
+- **Tags:** ruby, vcs
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/xpyahx/grubby_static_site_generator_for_git
+- **Link:** https://git.btxx.org/grubby
+
 
 ## Swift
 
