@@ -152,6 +152,7 @@
     "https://github.com/EvoMap/AutoResearch",
     "https://github.com/FareedKhan-dev/kimi-k3-in-c",
     "https://github.com/Fei-Away/Codex-Dream-Skin",
+    "https://github.com/FlashML-org/FreeVideo",
     "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
     "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
     "https://github.com/Hisn00w/ASu-skills",
@@ -711,12 +712,6 @@
   "recent": [
     {
       "date": "2026-10-08",
-      "subcat": "Lobsters Picks",
-      "title": "The Mathocalypse",
-      "url": "https://lobste.rs/s/zlhyss/mathocalypse"
-    },
-    {
-      "date": "2026-10-08",
       "subcat": "Backend & Infrastructure",
       "title": "CluvexStudio/Aether",
       "url": "https://github.com/CluvexStudio/Aether"
@@ -768,6 +763,12 @@
       "subcat": "Hacker News Picks",
       "title": "Trump administration is suspending Microsoft from a gre",
       "url": "https://news.ycombinator.com/item?id=50006832"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "AI & Machine Learning",
+      "title": "FlashML-org/FreeVideo",
+      "url": "https://github.com/FlashML-org/FreeVideo"
     }
   ]
 }

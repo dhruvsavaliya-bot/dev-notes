@@ -894,6 +894,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~20 stars/day since launch.
 - **Link:** https://github.com/ToolJet/ToolJet
 
+**Added 2026-10-09**
+
+### [FlashML-org/FreeVideo](https://github.com/FlashML-org/FreeVideo)
+- **Stats:** 1,365 stars | 128 forks | 58 open issues
+- **Language:** Python | **Created:** 2026-09-13 | **License:** Apache-2.0
+- **Topics:** diffusion-models, inference, minimax-h3, video-generation
+- **What it is:** Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB of RAM, and adapts its acceleration path to your hardware.
+- **Growth:** averaging ~52 stars/day since launch.
+- **Link:** https://github.com/FlashML-org/FreeVideo
+
 
 ## Other Cool Projects
 

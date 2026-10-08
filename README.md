@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**700 entries and counting** · Last updated: 2026-10-09
+**701 entries and counting** · Last updated: 2026-10-09
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 197 |
+| [Trending Projects](trending-projects/projects.md) | 198 |
 | [AI / LLM Notes](ai/notes.md) | 90 |
 | [Reading List](articles/reading-list.md) | 177 |
 | [Coding Tips](coding-tips/tips.md) | 160 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-09** · *AI & Machine Learning* — [FlashML-org/FreeVideo](https://github.com/FlashML-org/FreeVideo)
 - **2026-10-09** · *Hacker News Picks* — [Trump administration is suspending Microsoft from a gre](https://news.ycombinator.com/item?id=50006832)
 - **2026-10-09** · *Research Papers* — [SPLASH: Switching Parallel Layouts of Attention with Se](http://arxiv.org/abs/2609.37626v1)
 - **2026-10-09** · *Ruby* — [grubby: static site generator for git repos written in](https://lobste.rs/s/xpyahx/grubby_static_site_generator_for_git)
 - **2026-10-08** · *PHP* — [PHP in 2021](https://news.ycombinator.com/item?id=26825468)
-- **2026-10-08** · *Web & Frontend* — [mesamirh/MovieBox-Tui](https://github.com/mesamirh/MovieBox-Tui)
 
 ## How it works
 
