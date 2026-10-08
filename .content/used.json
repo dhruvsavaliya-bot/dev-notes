@@ -707,16 +707,11 @@
     "https://news.ycombinator.com/item?id=49971230",
     "https://news.ycombinator.com/item?id=49977588",
     "https://news.ycombinator.com/item?id=50006832",
+    "https://news.ycombinator.com/item?id=50009295",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=7185024"
   ],
   "recent": [
-    {
-      "date": "2026-10-08",
-      "subcat": "PHP",
-      "title": "PHP 8.5",
-      "url": "https://news.ycombinator.com/item?id=45989469"
-    },
     {
       "date": "2026-10-08",
       "subcat": "Models & Datasets",
@@ -770,6 +765,12 @@
       "subcat": "Research Papers",
       "title": "Leto: Fast In-Place Recovery for LLM Training on Surviv",
       "url": "http://arxiv.org/abs/2610.00687v1"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Hacker News Picks",
+      "title": "Theranos.world",
+      "url": "https://news.ycombinator.com/item?id=50009295"
     }
   ]
 }

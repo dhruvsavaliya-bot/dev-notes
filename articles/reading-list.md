@@ -1460,6 +1460,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50006832
 - **Link:** https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea
 
+**Added 2026-10-09**
+
+### [Theranos.world](https://www.theranos.world/)
+- **Source:** www.theranos.world | **Posted:** 2026-10-08 | **By:** kbyatnal
+- **Community:** 116 points, 60 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50009295
+- **Link:** https://www.theranos.world/
+
 
 ## DevOps & Cloud
 
