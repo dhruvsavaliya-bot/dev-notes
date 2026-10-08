@@ -341,6 +341,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=24372084
 - **Link:** https://keepthescore.co/blog/posts/costs-of-running-webapp/
 
+**Added 2026-10-08**
+
+### [When str.lower() is a security vulnerability in Python](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
+- **Source:** sethmlarson.dev | **Posted:** 2026-08-18 | **By:** ubernostrum
+- **Community:** 19 score, 4 comments on Lobsters
+- **Tags:** python, security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/ap9w8i/when_str_lower_is_security_vulnerability
+- **Link:** https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability
+
 
 ## Go
 

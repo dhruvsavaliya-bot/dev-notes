@@ -377,6 +377,7 @@
     "https://lobste.rs/s/9ipypq/updates_full_disk_access_macos",
     "https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th",
     "https://lobste.rs/s/9yyxpk/let_s_make_worst_htmx_ever",
+    "https://lobste.rs/s/ap9w8i/when_str_lower_is_security_vulnerability",
     "https://lobste.rs/s/bag41j/hanami_why_introductions",
     "https://lobste.rs/s/bcfzer/hacking_nameof",
     "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your",
@@ -687,12 +688,6 @@
   "recent": [
     {
       "date": "2026-10-08",
-      "subcat": "Java",
-      "title": "Gpu.js  GPU Accelerated JavaScript",
-      "url": "https://news.ycombinator.com/item?id=14773964"
-    },
-    {
-      "date": "2026-10-08",
       "subcat": "Models & Datasets",
       "title": "openai/healthbench",
       "url": "https://huggingface.co/datasets/openai/healthbench"
@@ -744,6 +739,12 @@
       "subcat": "Python",
       "title": "Costs of running a Python webapp for 55k monthly users",
       "url": "https://news.ycombinator.com/item?id=24372084"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "Python",
+      "title": "When str.lower() is a security vulnerability in Python",
+      "url": "https://lobste.rs/s/ap9w8i/when_str_lower_is_security_vulnerability"
     }
   ]
 }
