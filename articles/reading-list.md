@@ -1595,3 +1595,13 @@ Fresh dev articles and blog posts.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/9ipypq/updates_full_disk_access_macos
 - **Link:** https://developer.apple.com/news/?id=p6zjojqw
+
+**Added 2026-10-08**
+
+### [The Mathocalypse](https://scottaaronson.blog/?p=10169)
+- **Source:** scottaaronson.blog | **Posted:** 2026-10-07 | **By:** mseri
+- **Community:** 16 score, 4 comments on Lobsters
+- **Tags:** math, vibecoding
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/zlhyss/mathocalypse
+- **Link:** https://scottaaronson.blog/?p=10169
