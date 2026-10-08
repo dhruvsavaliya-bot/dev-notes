@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**682 entries and counting** · Last updated: 2026-10-08
+**683 entries and counting** · Last updated: 2026-10-08
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 85 |
 | [Reading List](articles/reading-list.md) | 174 |
 | [Coding Tips](coding-tips/tips.md) | 159 |
-| [Language Notes](languages/notes.md) | 69 |
+| [Language Notes](languages/notes.md) | 70 |
 
 ## Latest additions
 
+- **2026-10-08** · *PHP* — [harris21/laravel-fuse](https://github.com/harris21/laravel-fuse)
 - **2026-10-08** · *Python* — [There are only twelve 4x4 sudokus - and a cool trick fo](https://lobste.rs/s/ccnirb/there_are_only_twelve_4x4_sudokus_cool)
 - **2026-10-08** · *Elixir* — [BEAM Metrics in ClickHouse](https://lobste.rs/s/2tspe2/beam_metrics_clickhouse)
 - **2026-10-08** · *Show & Ask HN* — [Show HN: My embarrassing personal website from the 90s](https://news.ycombinator.com/item?id=16505244)
 - **2026-10-08** · *Models & Datasets* — [yandex/AliceAI-Foundation-80B-A3B-Base](https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base)
-- **2026-10-08** · *TypeScript* — [`satisfies` is my favorite TypeScript keyword (2024)](https://news.ycombinator.com/item?id=45968310)
 
 ## How it works
 

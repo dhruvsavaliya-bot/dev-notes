@@ -471,6 +471,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=5673032
 - **Link:** https://github.com/d11wtq/boris
 
+**Added 2026-10-08**
+
+### [harris21/laravel-fuse](https://github.com/harris21/laravel-fuse)
+- **Stats:** 497 stars | 20 forks | 0 open issues
+- **Language:** PHP | **Created:** 2025-12-26 | **License:** MIT
+- **Topics:** circuit-breaker, laravel, php, queues, resilience
+- **What it is:** Circuit breaker for Laravel queue jobs
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/harris21/laravel-fuse
+
 
 ## Ruby
 

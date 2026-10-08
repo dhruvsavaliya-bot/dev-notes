@@ -263,6 +263,7 @@
     "https://github.com/google-research/tabfm",
     "https://github.com/guillaumemeyer/watermarks-remover",
     "https://github.com/gvzdv/claudish-to-english",
+    "https://github.com/harris21/laravel-fuse",
     "https://github.com/herdrdev/herdr",
     "https://github.com/hoainho/img2threejs",
     "https://github.com/img2threejs/img2threejs",
@@ -693,12 +694,6 @@
   "recent": [
     {
       "date": "2026-10-08",
-      "subcat": "Python",
-      "title": "No-op statements syntactically valid only since Python",
-      "url": "https://news.ycombinator.com/item?id=31637428"
-    },
-    {
-      "date": "2026-10-08",
       "subcat": "Models & Datasets",
       "title": "ShadenA/MathNet",
       "url": "https://huggingface.co/datasets/ShadenA/MathNet"
@@ -750,6 +745,12 @@
       "subcat": "Python",
       "title": "There are only twelve 4x4 sudokus - and a cool trick fo",
       "url": "https://lobste.rs/s/ccnirb/there_are_only_twelve_4x4_sudokus_cool"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "PHP",
+      "title": "harris21/laravel-fuse",
+      "url": "https://github.com/harris21/laravel-fuse"
     }
   ]
 }
