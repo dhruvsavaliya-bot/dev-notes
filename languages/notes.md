@@ -323,6 +323,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/xv6z4r/python_iceberg
 - **Link:** https://aleyan.com/projects/python-iceberg/
 
+**Added 2026-10-08**
+
+### [No-op statements syntactically valid only since Python X.Y](https://github.com/jwilk/python-syntax-errors)
+- **Source:** github.com | **Posted:** 2022-06-06 | **By:** pabs3
+- **Community:** 281 points, 157 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=31637428
+- **Link:** https://github.com/jwilk/python-syntax-errors
+
 
 ## Go
 

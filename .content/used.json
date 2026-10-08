@@ -412,6 +412,7 @@
     "https://news.ycombinator.com/item?id=27447206",
     "https://news.ycombinator.com/item?id=30467919",
     "https://news.ycombinator.com/item?id=31335904",
+    "https://news.ycombinator.com/item?id=31637428",
     "https://news.ycombinator.com/item?id=32366759",
     "https://news.ycombinator.com/item?id=32493946",
     "https://news.ycombinator.com/item?id=33484185",
@@ -683,12 +684,6 @@
   "recent": [
     {
       "date": "2026-10-08",
-      "subcat": "Lobsters Picks",
-      "title": "Updates to Full Disk Access in macOS",
-      "url": "https://lobste.rs/s/9ipypq/updates_full_disk_access_macos"
-    },
-    {
-      "date": "2026-10-08",
       "subcat": "Other Cool Projects",
       "title": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code"
@@ -740,6 +735,12 @@
       "subcat": "Go",
       "title": "Proposal: expression to create pointer to simple types",
       "url": "https://news.ycombinator.com/item?id=26862318"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "Python",
+      "title": "No-op statements syntactically valid only since Python",
+      "url": "https://news.ycombinator.com/item?id=31637428"
     }
   ]
 }
