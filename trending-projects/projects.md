@@ -884,6 +884,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~25 stars/day since launch.
 - **Link:** https://github.com/onyx-dot-app/onyx
 
+**Added 2026-10-08**
+
+### [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+- **Stats:** 41,045 stars | 5,482 forks | 1,069 open issues
+- **Language:** JavaScript | **Created:** 2021-03-30 | **License:** AGPL-3.0
+- **Topics:** ai-app-builder, docker, internal-applications, internal-project, internal-tool, internal-tools
+- **What it is:** Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀
+- **Growth:** averaging ~20 stars/day since launch.
+- **Link:** https://github.com/ToolJet/ToolJet
+
 
 ## Other Cool Projects
 

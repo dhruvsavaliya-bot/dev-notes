@@ -199,6 +199,7 @@
     "https://github.com/TheoLeeCJ/SemIf-OpenJev",
     "https://github.com/TianyuCodings/NanoJev",
     "https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6",
+    "https://github.com/ToolJet/ToolJet",
     "https://github.com/Vincentwei1021/video-shotcraft",
     "https://github.com/Waishnav/devspace",
     "https://github.com/XiaoDuoYa/codex-with-chatgpt",
@@ -685,12 +686,6 @@
   "recent": [
     {
       "date": "2026-10-08",
-      "subcat": "JavaScript",
-      "title": "The JavaScript Pun: tagged template literal",
-      "url": "https://lobste.rs/s/rtcnc8/javascript_pun_tagged_template_literal"
-    },
-    {
-      "date": "2026-10-08",
       "subcat": "Models & Datasets",
       "title": "FlyRank/internship-warehouse",
       "url": "https://huggingface.co/datasets/FlyRank/internship-warehouse"
@@ -742,6 +737,12 @@
       "subcat": "Models & Datasets",
       "title": "ShadenA/MathNet",
       "url": "https://huggingface.co/datasets/ShadenA/MathNet"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "AI & Machine Learning",
+      "title": "ToolJet/ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet"
     }
   ]
 }

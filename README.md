@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**674 entries and counting** · Last updated: 2026-10-08
+**675 entries and counting** · Last updated: 2026-10-08
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 194 |
+| [Trending Projects](trending-projects/projects.md) | 195 |
 | [AI / LLM Notes](ai/notes.md) | 84 |
 | [Reading List](articles/reading-list.md) | 174 |
 | [Coding Tips](coding-tips/tips.md) | 158 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-08** · *AI & Machine Learning* — [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 - **2026-10-08** · *Models & Datasets* — [ShadenA/MathNet](https://huggingface.co/datasets/ShadenA/MathNet)
 - **2026-10-08** · *Python* — [No-op statements syntactically valid only since Python](https://news.ycombinator.com/item?id=31637428)
 - **2026-10-08** · *Go* — [Proposal: expression to create pointer to simple types](https://news.ycombinator.com/item?id=26862318)
 - **2026-10-08** · *Other Cool Projects* — [ScottPlot/ScottPlot](https://github.com/ScottPlot/ScottPlot)
-- **2026-10-08** · *Hacker News Picks* — [A 10x Faster TypeScript](https://news.ycombinator.com/item?id=43332830)
 
 ## How it works
 
