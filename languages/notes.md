@@ -233,6 +233,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~7 stars/day since launch.
 - **Link:** https://github.com/Draculabo/AntigravityManager
 
+**Added 2026-10-08**
+
+### [`satisfies` is my favorite TypeScript keyword (2024)](https://sjer.red/blog/2024-12-21/)
+- **Source:** sjer.red | **Posted:** 2025-11-18 | **By:** surprisetalk
+- **Community:** 214 points, 209 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=45968310
+- **Link:** https://sjer.red/blog/2024-12-21/
+
 
 ## Python
 

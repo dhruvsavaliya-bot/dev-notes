@@ -432,6 +432,7 @@
     "https://news.ycombinator.com/item?id=44471388",
     "https://news.ycombinator.com/item?id=45231378",
     "https://news.ycombinator.com/item?id=45352432",
+    "https://news.ycombinator.com/item?id=45968310",
     "https://news.ycombinator.com/item?id=48896600",
     "https://news.ycombinator.com/item?id=48896665",
     "https://news.ycombinator.com/item?id=48926590",
@@ -688,12 +689,6 @@
   "recent": [
     {
       "date": "2026-10-08",
-      "subcat": "Models & Datasets",
-      "title": "openai/healthbench",
-      "url": "https://huggingface.co/datasets/openai/healthbench"
-    },
-    {
-      "date": "2026-10-08",
       "subcat": "Lobsters Picks",
       "title": "Software developers are not okay",
       "url": "https://lobste.rs/s/0gvyif/software_developers_are_not_okay"
@@ -745,6 +740,12 @@
       "subcat": "Python",
       "title": "When str.lower() is a security vulnerability in Python",
       "url": "https://lobste.rs/s/ap9w8i/when_str_lower_is_security_vulnerability"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "TypeScript",
+      "title": "`satisfies` is my favorite TypeScript keyword (2024)",
+      "url": "https://news.ycombinator.com/item?id=45968310"
     }
   ]
 }
