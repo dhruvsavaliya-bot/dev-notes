@@ -501,6 +501,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/harris21/laravel-fuse
 
+**Added 2026-10-08**
+
+### [PHP – The Right Way](https://phptherightway.com/)
+- **Source:** phptherightway.com | **Posted:** 2022-02-05 | **By:** acqbu
+- **Community:** 287 points, 332 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=30219984
+- **Link:** https://phptherightway.com/
+
 
 ## Ruby
 
