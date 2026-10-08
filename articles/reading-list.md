@@ -1451,6 +1451,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=43332830
 - **Link:** https://devblogs.microsoft.com/typescript/typescript-native-port/
 
+**Added 2026-10-09**
+
+### [Trump administration is suspending Microsoft from a green card program](https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea)
+- **Source:** apnews.com | **Posted:** 2026-10-08 | **By:** alephnerd
+- **Community:** 736 points, 1275 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50006832
+- **Link:** https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea
+
 
 ## DevOps & Cloud
 

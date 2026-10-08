@@ -704,16 +704,11 @@
     "https://news.ycombinator.com/item?id=49970667",
     "https://news.ycombinator.com/item?id=49971230",
     "https://news.ycombinator.com/item?id=49977588",
+    "https://news.ycombinator.com/item?id=50006832",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=7185024"
   ],
   "recent": [
-    {
-      "date": "2026-10-08",
-      "subcat": "Models & Datasets",
-      "title": "espnet/yodas2",
-      "url": "https://huggingface.co/datasets/espnet/yodas2"
-    },
     {
       "date": "2026-10-08",
       "subcat": "Lobsters Picks",
@@ -767,6 +762,12 @@
       "subcat": "Research Papers",
       "title": "SPLASH: Switching Parallel Layouts of Attention with Se",
       "url": "http://arxiv.org/abs/2609.37626v1"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Hacker News Picks",
+      "title": "Trump administration is suspending Microsoft from a gre",
+      "url": "https://news.ycombinator.com/item?id=50006832"
     }
   ]
 }
