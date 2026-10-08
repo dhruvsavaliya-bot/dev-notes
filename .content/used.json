@@ -371,6 +371,7 @@
     "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
     "https://huggingface.co/microsoft/TRELLIS-image-large",
     "https://huggingface.co/prompthero/openjourney",
+    "https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base",
     "https://lobste.rs/s/0gvyif/software_developers_are_not_okay",
     "https://lobste.rs/s/7faqgg/claude_says",
     "https://lobste.rs/s/98zvnf/tests_for_pdf",
@@ -689,12 +690,6 @@
   "recent": [
     {
       "date": "2026-10-08",
-      "subcat": "Lobsters Picks",
-      "title": "Software developers are not okay",
-      "url": "https://lobste.rs/s/0gvyif/software_developers_are_not_okay"
-    },
-    {
-      "date": "2026-10-08",
       "subcat": "Hacker News Picks",
       "title": "A 10x Faster TypeScript",
       "url": "https://news.ycombinator.com/item?id=43332830"
@@ -746,6 +741,12 @@
       "subcat": "TypeScript",
       "title": "`satisfies` is my favorite TypeScript keyword (2024)",
       "url": "https://news.ycombinator.com/item?id=45968310"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "Models & Datasets",
+      "title": "yandex/AliceAI-Foundation-80B-A3B-Base",
+      "url": "https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base"
     }
   ]
 }

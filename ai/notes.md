@@ -653,6 +653,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/ShadenA/MathNet
 
+**Added 2026-10-08**
+
+### [yandex/AliceAI-Foundation-80B-A3B-Base](https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base)
+- **Stats:** 383 likes | 4,918 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-09-12
+- **Tags:** transformers, safetensors, alice_ai, text-generation, custom_code, mixture-of-experts
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base
+
 
 ## Research Papers
 
