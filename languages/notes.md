@@ -390,6 +390,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/ccnirb/there_are_only_twelve_4x4_sudokus_cool
 - **Link:** https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/
 
+**Added 2026-10-09**
+
+### [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+- **Stats:** 51,752 stars | 4,711 forks | 144 open issues
+- **Language:** Python | **Created:** 2026-03-08 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+- **Growth:** averaging ~240 stars/day since launch.
+- **Link:** https://github.com/HKUDS/CLI-Anything
+
 
 ## Go
 
