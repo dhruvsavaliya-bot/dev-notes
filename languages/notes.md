@@ -360,6 +360,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/ap9w8i/when_str_lower_is_security_vulnerability
 - **Link:** https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability
 
+**Added 2026-10-08**
+
+### [There are only twelve 4x4 sudokus - and a cool trick for finding minimal subsets](https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/)
+- **Source:** baldino.dev | **Posted:** 2026-09-14 | **By:** aziis98
+- **Community:** 15 score, 2 comments on Lobsters
+- **Tags:** compsci, math, python
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/ccnirb/there_are_only_twelve_4x4_sudokus_cool
+- **Link:** https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/
+
 
 ## Go
 
