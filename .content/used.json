@@ -360,6 +360,7 @@
     "https://huggingface.co/datasets/monology/pile-uncopyrighted",
     "https://huggingface.co/datasets/nvidia/Open-SWE-Traces",
     "https://huggingface.co/datasets/nvidia/OpenH-RF",
+    "https://huggingface.co/datasets/openai/healthbench",
     "https://huggingface.co/datasets/openbmb/RLHF-V-Dataset",
     "https://huggingface.co/datasets/ystemsrx/Erotic_Literature_Collection",
     "https://huggingface.co/google/siglip-base-patch16-224",
@@ -678,12 +679,6 @@
   "recent": [
     {
       "date": "2026-10-07",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: What are some good technology blogs to follow?",
-      "url": "https://news.ycombinator.com/item?id=13849430"
-    },
-    {
-      "date": "2026-10-07",
       "subcat": "Lobsters Picks",
       "title": "Tests for a PDF",
       "url": "https://lobste.rs/s/98zvnf/tests_for_pdf"
@@ -735,6 +730,12 @@
       "subcat": "Java",
       "title": "Gpu.js  GPU Accelerated JavaScript",
       "url": "https://news.ycombinator.com/item?id=14773964"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "Models & Datasets",
+      "title": "openai/healthbench",
+      "url": "https://huggingface.co/datasets/openai/healthbench"
     }
   ]
 }
