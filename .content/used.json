@@ -392,6 +392,7 @@
     "https://lobste.rs/s/iotaty/state_simd_rust_2026",
     "https://lobste.rs/s/jlja1a/jdk_27_has_been_released",
     "https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this",
+    "https://lobste.rs/s/lxo74i/introducing_microlighter",
     "https://lobste.rs/s/odrfgk/how_speed_up_rust_compiler_september_2026",
     "https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live",
     "https://lobste.rs/s/paryb7/rails_is_done",
@@ -697,12 +698,6 @@
     {
       "date": "2026-10-08",
       "subcat": "Python",
-      "title": "Costs of running a Python webapp for 55k monthly users",
-      "url": "https://news.ycombinator.com/item?id=24372084"
-    },
-    {
-      "date": "2026-10-08",
-      "subcat": "Python",
       "title": "When str.lower() is a security vulnerability in Python",
       "url": "https://lobste.rs/s/ap9w8i/when_str_lower_is_security_vulnerability"
     },
@@ -753,6 +748,12 @@
       "subcat": "Models & Datasets",
       "title": "Qwen/Qwen3-ASR-1.7B",
       "url": "https://huggingface.co/Qwen/Qwen3-ASR-1.7B"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "JavaScript",
+      "title": "Introducing Microlighter",
+      "url": "https://lobste.rs/s/lxo74i/introducing_microlighter"
     }
   ]
 }

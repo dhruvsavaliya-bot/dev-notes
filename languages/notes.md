@@ -166,6 +166,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=14773964
 - **Link:** http://gpu.rocks/
 
+**Added 2026-10-08**
+
+### [Introducing Microlighter](https://daverupert.com/2026/08/microlighter/)
+- **Source:** daverupert.com | **Posted:** 2026-08-19 | **By:** carlana
+- **Community:** 37 score, 5 comments on Lobsters
+- **Tags:** javascript, vibecoding
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/lxo74i/introducing_microlighter
+- **Link:** https://daverupert.com/2026/08/microlighter/
+
 
 ## TypeScript
 
