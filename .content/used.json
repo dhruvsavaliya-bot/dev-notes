@@ -372,6 +372,7 @@
     "https://huggingface.co/jaredpalmer/kev-4b",
     "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
     "https://huggingface.co/microsoft/TRELLIS-image-large",
+    "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit",
     "https://huggingface.co/prompthero/openjourney",
     "https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base",
     "https://lobste.rs/s/0gvyif/software_developers_are_not_okay",
@@ -697,12 +698,6 @@
   "recent": [
     {
       "date": "2026-10-08",
-      "subcat": "Python",
-      "title": "When str.lower() is a security vulnerability in Python",
-      "url": "https://lobste.rs/s/ap9w8i/when_str_lower_is_security_vulnerability"
-    },
-    {
-      "date": "2026-10-08",
       "subcat": "TypeScript",
       "title": "`satisfies` is my favorite TypeScript keyword (2024)",
       "url": "https://news.ycombinator.com/item?id=45968310"
@@ -754,6 +749,12 @@
       "subcat": "JavaScript",
       "title": "Introducing Microlighter",
       "url": "https://lobste.rs/s/lxo74i/introducing_microlighter"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "Models & Datasets",
+      "title": "prism-ml/Ternary-Bonsai-27B-mlx-2bit",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit"
     }
   ]
 }

@@ -671,6 +671,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/Qwen/Qwen3-ASR-1.7B
 
+**Added 2026-10-08**
+
+### [prism-ml/Ternary-Bonsai-27B-mlx-2bit](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit)
+- **Stats:** 203 likes | 1,094,153 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-07-04
+- **Tags:** mlx, safetensors, qwen3_5, conversational, ternary, 2-bit
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit
+
 
 ## Research Papers
 

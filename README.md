@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**686 entries and counting** · Last updated: 2026-10-08
+**687 entries and counting** · Last updated: 2026-10-08
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 195 |
-| [AI / LLM Notes](ai/notes.md) | 86 |
+| [AI / LLM Notes](ai/notes.md) | 87 |
 | [Reading List](articles/reading-list.md) | 174 |
 | [Coding Tips](coding-tips/tips.md) | 160 |
 | [Language Notes](languages/notes.md) | 71 |
 
 ## Latest additions
 
+- **2026-10-08** · *Models & Datasets* — [prism-ml/Ternary-Bonsai-27B-mlx-2bit](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit)
 - **2026-10-08** · *JavaScript* — [Introducing Microlighter](https://lobste.rs/s/lxo74i/introducing_microlighter)
 - **2026-10-08** · *Models & Datasets* — [Qwen/Qwen3-ASR-1.7B](https://huggingface.co/Qwen/Qwen3-ASR-1.7B)
 - **2026-10-08** · *Lobsters Picks* — [Margaret Hamilton, computing pioneer who led software d](https://lobste.rs/s/9qtgrm/margaret_hamilton_computing_pioneer_who)
 - **2026-10-08** · *PHP* — [harris21/laravel-fuse](https://github.com/harris21/laravel-fuse)
-- **2026-10-08** · *Python* — [There are only twelve 4x4 sudokus - and a cool trick fo](https://lobste.rs/s/ccnirb/there_are_only_twelve_4x4_sudokus_cool)
 
 ## How it works
 
