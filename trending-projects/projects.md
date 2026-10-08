@@ -1727,6 +1727,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~107 stars/day since launch.
 - **Link:** https://github.com/pingdotgg/t3code
 
+**Added 2026-10-08**
+
+### [ScottPlot/ScottPlot](https://github.com/ScottPlot/ScottPlot)
+- **Stats:** 6,768 stars | 1,015 forks | 244 open issues
+- **Language:** C# | **Created:** 2018-01-04 | **License:** MIT
+- **Topics:** chart, charting, charts, csharp, data-visualization, dotnet
+- **What it is:** Interactive plotting library for .NET
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/ScottPlot/ScottPlot
+
 
 ## Web & Frontend
 

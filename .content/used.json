@@ -186,6 +186,7 @@
     "https://github.com/QwenLM/Qwen-MM-Plugins",
     "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
     "https://github.com/Sahir619/fable-method",
+    "https://github.com/ScottPlot/ScottPlot",
     "https://github.com/ShenSeanChen/waku-agent",
     "https://github.com/ShishirPatil/gorilla",
     "https://github.com/Shpigford/knockoff",
@@ -681,12 +682,6 @@
   "recent": [
     {
       "date": "2026-10-08",
-      "subcat": "Models & Datasets",
-      "title": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic",
-      "url": "https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF"
-    },
-    {
-      "date": "2026-10-08",
       "subcat": "Lobsters Picks",
       "title": "Anti-Patterns in Software Blogging",
       "url": "https://lobste.rs/s/rwdufq/anti_patterns_software_blogging"
@@ -738,6 +733,12 @@
       "subcat": "Hacker News Picks",
       "title": "A 10x Faster TypeScript",
       "url": "https://news.ycombinator.com/item?id=43332830"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "Other Cool Projects",
+      "title": "ScottPlot/ScottPlot",
+      "url": "https://github.com/ScottPlot/ScottPlot"
     }
   ]
 }

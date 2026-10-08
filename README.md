@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**670 entries and counting** · Last updated: 2026-10-08
+**671 entries and counting** · Last updated: 2026-10-08
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 193 |
+| [Trending Projects](trending-projects/projects.md) | 194 |
 | [AI / LLM Notes](ai/notes.md) | 83 |
 | [Reading List](articles/reading-list.md) | 174 |
 | [Coding Tips](coding-tips/tips.md) | 158 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-08** · *Other Cool Projects* — [ScottPlot/ScottPlot](https://github.com/ScottPlot/ScottPlot)
 - **2026-10-08** · *Hacker News Picks* — [A 10x Faster TypeScript](https://news.ycombinator.com/item?id=43332830)
 - **2026-10-08** · *Lobsters Picks* — [Software developers are not okay](https://lobste.rs/s/0gvyif/software_developers_are_not_okay)
 - **2026-10-08** · *Models & Datasets* — [openai/healthbench](https://huggingface.co/datasets/openai/healthbench)
 - **2026-10-08** · *Java* — [Gpu.js  GPU Accelerated JavaScript](https://news.ycombinator.com/item?id=14773964)
-- **2026-10-08** · *Models & Datasets* — [FlyRank/internship-warehouse](https://huggingface.co/datasets/FlyRank/internship-warehouse)
 
 ## How it works
 
