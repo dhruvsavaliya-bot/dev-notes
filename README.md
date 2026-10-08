@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**694 entries and counting** · Last updated: 2026-10-08
+**695 entries and counting** · Last updated: 2026-10-08
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 196 |
 | [AI / LLM Notes](ai/notes.md) | 89 |
-| [Reading List](articles/reading-list.md) | 175 |
+| [Reading List](articles/reading-list.md) | 176 |
 | [Coding Tips](coding-tips/tips.md) | 160 |
 | [Language Notes](languages/notes.md) | 74 |
 
 ## Latest additions
 
+- **2026-10-08** · *Lobsters Picks* — [An open-source, clean-room reimplementation of Adobe Ph](https://lobste.rs/s/qn61ip/open_source_clean_room_reimplementation)
 - **2026-10-08** · *Models & Datasets* — [harborframework/terminal-bench-2.0](https://huggingface.co/datasets/harborframework/terminal-bench-2.0)
 - **2026-10-08** · *PHP* — [PHP 8.5](https://news.ycombinator.com/item?id=45989469)
 - **2026-10-08** · *Backend & Infrastructure* — [CluvexStudio/Aether](https://github.com/CluvexStudio/Aether)
 - **2026-10-08** · *Lobsters Picks* — [The Mathocalypse](https://lobste.rs/s/zlhyss/mathocalypse)
-- **2026-10-08** · *Models & Datasets* — [espnet/yodas2](https://huggingface.co/datasets/espnet/yodas2)
 
 ## How it works
 

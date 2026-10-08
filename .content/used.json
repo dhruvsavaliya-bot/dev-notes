@@ -402,6 +402,7 @@
     "https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live",
     "https://lobste.rs/s/paryb7/rails_is_done",
     "https://lobste.rs/s/qi1bxu/tinygo_0_42_recover_is_real",
+    "https://lobste.rs/s/qn61ip/open_source_clean_room_reimplementation",
     "https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy",
     "https://lobste.rs/s/rtcnc8/javascript_pun_tagged_template_literal",
     "https://lobste.rs/s/rucvky/go_concurrency_distilled",
@@ -705,12 +706,6 @@
   "recent": [
     {
       "date": "2026-10-08",
-      "subcat": "Models & Datasets",
-      "title": "Qwen/Qwen3-ASR-1.7B",
-      "url": "https://huggingface.co/Qwen/Qwen3-ASR-1.7B"
-    },
-    {
-      "date": "2026-10-08",
       "subcat": "JavaScript",
       "title": "Introducing Microlighter",
       "url": "https://lobste.rs/s/lxo74i/introducing_microlighter"
@@ -762,6 +757,12 @@
       "subcat": "Models & Datasets",
       "title": "harborframework/terminal-bench-2.0",
       "url": "https://huggingface.co/datasets/harborframework/terminal-bench-2.0"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "Lobsters Picks",
+      "title": "An open-source, clean-room reimplementation of Adobe Ph",
+      "url": "https://lobste.rs/s/qn61ip/open_source_clean_room_reimplementation"
     }
   ]
 }

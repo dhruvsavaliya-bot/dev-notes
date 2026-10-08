@@ -1605,3 +1605,13 @@ Fresh dev articles and blog posts.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/zlhyss/mathocalypse
 - **Link:** https://scottaaronson.blog/?p=10169
+
+**Added 2026-10-08**
+
+### [An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust](https://github.com/storytold/photocraft)
+- **Source:** github.com | **Posted:** 2026-10-07 | **By:** jussi
+- **Community:** 39 score, 34 comments on Lobsters
+- **Tags:** rust, vibecoding
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/qn61ip/open_source_clean_room_reimplementation
+- **Link:** https://github.com/storytold/photocraft
