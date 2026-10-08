@@ -397,6 +397,7 @@
     "https://news.ycombinator.com/item?id=11068902",
     "https://news.ycombinator.com/item?id=13849430",
     "https://news.ycombinator.com/item?id=14350059",
+    "https://news.ycombinator.com/item?id=14773964",
     "https://news.ycombinator.com/item?id=15471449",
     "https://news.ycombinator.com/item?id=16535886",
     "https://news.ycombinator.com/item?id=18407173",
@@ -677,12 +678,6 @@
   "recent": [
     {
       "date": "2026-10-07",
-      "subcat": "Python",
-      "title": "Python Iceberg",
-      "url": "https://lobste.rs/s/xv6z4r/python_iceberg"
-    },
-    {
-      "date": "2026-10-07",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: What are some good technology blogs to follow?",
       "url": "https://news.ycombinator.com/item?id=13849430"
@@ -734,6 +729,12 @@
       "subcat": "Models & Datasets",
       "title": "FlyRank/internship-warehouse",
       "url": "https://huggingface.co/datasets/FlyRank/internship-warehouse"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "Java",
+      "title": "Gpu.js  GPU Accelerated JavaScript",
+      "url": "https://news.ycombinator.com/item?id=14773964"
     }
   ]
 }

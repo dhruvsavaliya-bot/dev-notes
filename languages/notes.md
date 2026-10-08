@@ -157,6 +157,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/rtcnc8/javascript_pun_tagged_template_literal
 - **Link:** https://shukla.io/blog/2026-09/pun.html
 
+**Added 2026-10-08**
+
+### [Gpu.js – GPU Accelerated JavaScript](http://gpu.rocks/)
+- **Source:** gpu.rocks | **Posted:** 2017-07-14 | **By:** olegkikin
+- **Community:** 321 points, 77 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=14773964
+- **Link:** http://gpu.rocks/
+
 
 ## TypeScript
 
