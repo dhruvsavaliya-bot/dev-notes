@@ -408,6 +408,7 @@
     "https://news.ycombinator.com/item?id=20854214",
     "https://news.ycombinator.com/item?id=21611677",
     "https://news.ycombinator.com/item?id=23361987",
+    "https://news.ycombinator.com/item?id=26862318",
     "https://news.ycombinator.com/item?id=27447206",
     "https://news.ycombinator.com/item?id=30467919",
     "https://news.ycombinator.com/item?id=31335904",
@@ -683,12 +684,6 @@
     {
       "date": "2026-10-08",
       "subcat": "Lobsters Picks",
-      "title": "Anti-Patterns in Software Blogging",
-      "url": "https://lobste.rs/s/rwdufq/anti_patterns_software_blogging"
-    },
-    {
-      "date": "2026-10-08",
-      "subcat": "Lobsters Picks",
       "title": "Updates to Full Disk Access in macOS",
       "url": "https://lobste.rs/s/9ipypq/updates_full_disk_access_macos"
     },
@@ -739,6 +734,12 @@
       "subcat": "Other Cool Projects",
       "title": "ScottPlot/ScottPlot",
       "url": "https://github.com/ScottPlot/ScottPlot"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "Go",
+      "title": "Proposal: expression to create pointer to simple types",
+      "url": "https://news.ycombinator.com/item?id=26862318"
     }
   ]
 }

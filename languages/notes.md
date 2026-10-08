@@ -385,6 +385,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~71 stars/day since launch.
 - **Link:** https://github.com/TencentCloud/CubeSandbox
 
+**Added 2026-10-08**
+
+### [Proposal: expression to create pointer to simple types](https://github.com/golang/go/issues/45624)
+- **Source:** github.com | **Posted:** 2021-04-19 | **By:** jgrimm
+- **Community:** 142 points, 103 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=26862318
+- **Link:** https://github.com/golang/go/issues/45624
+
 
 ## PHP
 
