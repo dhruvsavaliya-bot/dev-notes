@@ -286,6 +286,7 @@
     "https://github.com/mayswind/ezbookkeeping",
     "https://github.com/mcncarl/jianying-headless",
     "https://github.com/mekos2772/ios-location-spoofer",
+    "https://github.com/mesamirh/MovieBox-Tui",
     "https://github.com/microsoft/skill-recorder",
     "https://github.com/mizorewww/laya-mlx",
     "https://github.com/mshumer/Claude-of-Duty",
@@ -706,12 +707,6 @@
   "recent": [
     {
       "date": "2026-10-08",
-      "subcat": "JavaScript",
-      "title": "Introducing Microlighter",
-      "url": "https://lobste.rs/s/lxo74i/introducing_microlighter"
-    },
-    {
-      "date": "2026-10-08",
       "subcat": "Models & Datasets",
       "title": "prism-ml/Ternary-Bonsai-27B-mlx-2bit",
       "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit"
@@ -763,6 +758,12 @@
       "subcat": "Lobsters Picks",
       "title": "An open-source, clean-room reimplementation of Adobe Ph",
       "url": "https://lobste.rs/s/qn61ip/open_source_clean_room_reimplementation"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "Web & Frontend",
+      "title": "mesamirh/MovieBox-Tui",
+      "url": "https://github.com/mesamirh/MovieBox-Tui"
     }
   ]
 }

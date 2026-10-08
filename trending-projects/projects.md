@@ -1840,6 +1840,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/mayswind/ezbookkeeping
 
+**Added 2026-10-08**
+
+### [mesamirh/MovieBox-Tui](https://github.com/mesamirh/MovieBox-Tui)
+- **Stats:** 2,455 stars | 289 forks | 12 open issues
+- **Language:** Rust | **Created:** 2026-07-16 | **License:** Apache-2.0
+- **Topics:** anime, cli, downloader, iptv, moviebox, movies
+- **What it is:** Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.
+- **Growth:** averaging ~29 stars/day since launch.
+- **Link:** https://github.com/mesamirh/MovieBox-Tui
+
 
 ## Developer Tools
 
