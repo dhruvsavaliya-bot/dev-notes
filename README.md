@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**689 entries and counting** · Last updated: 2026-10-08
+**690 entries and counting** · Last updated: 2026-10-08
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 195 |
-| [AI / LLM Notes](ai/notes.md) | 87 |
+| [AI / LLM Notes](ai/notes.md) | 88 |
 | [Reading List](articles/reading-list.md) | 174 |
 | [Coding Tips](coding-tips/tips.md) | 160 |
 | [Language Notes](languages/notes.md) | 73 |
 
 ## Latest additions
 
+- **2026-10-08** · *Models & Datasets* — [espnet/yodas2](https://huggingface.co/datasets/espnet/yodas2)
 - **2026-10-08** · *PHP* — [PHP  The Right Way](https://news.ycombinator.com/item?id=30219984)
 - **2026-10-08** · *JavaScript* — [what if my git host were a static site generator?](https://lobste.rs/s/6syfar/what_if_my_git_host_were_static_site)
 - **2026-10-08** · *Models & Datasets* — [prism-ml/Ternary-Bonsai-27B-mlx-2bit](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit)
 - **2026-10-08** · *JavaScript* — [Introducing Microlighter](https://lobste.rs/s/lxo74i/introducing_microlighter)
-- **2026-10-08** · *Models & Datasets* — [Qwen/Qwen3-ASR-1.7B](https://huggingface.co/Qwen/Qwen3-ASR-1.7B)
 
 ## How it works
 

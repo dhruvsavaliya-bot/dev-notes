@@ -680,6 +680,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit
 
+**Added 2026-10-08**
+
+### [espnet/yodas2](https://huggingface.co/datasets/espnet/yodas2)
+- **Stats:** 56 likes | 64,939 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2024-04-06
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/espnet/yodas2
+
 
 ## Research Papers
 

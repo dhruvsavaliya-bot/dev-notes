@@ -360,6 +360,7 @@
     "https://huggingface.co/bytedance-research/Lance",
     "https://huggingface.co/datasets/FlyRank/internship-warehouse",
     "https://huggingface.co/datasets/ShadenA/MathNet",
+    "https://huggingface.co/datasets/espnet/yodas2",
     "https://huggingface.co/datasets/markov-ai/computer-use-large",
     "https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML",
     "https://huggingface.co/datasets/monology/pile-uncopyrighted",
@@ -700,12 +701,6 @@
   "recent": [
     {
       "date": "2026-10-08",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: My embarrassing personal website from the 90s",
-      "url": "https://news.ycombinator.com/item?id=16505244"
-    },
-    {
-      "date": "2026-10-08",
       "subcat": "Elixir",
       "title": "BEAM Metrics in ClickHouse",
       "url": "https://lobste.rs/s/2tspe2/beam_metrics_clickhouse"
@@ -757,6 +752,12 @@
       "subcat": "PHP",
       "title": "PHP  The Right Way",
       "url": "https://news.ycombinator.com/item?id=30219984"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "Models & Datasets",
+      "title": "espnet/yodas2",
+      "url": "https://huggingface.co/datasets/espnet/yodas2"
     }
   ]
 }
