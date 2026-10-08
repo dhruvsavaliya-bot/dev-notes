@@ -1965,3 +1965,13 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** OpenAI/Gemini 兼容的 Gemini Business API 代理服务
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/XxxXTeam/business2api
+
+**Added 2026-10-08**
+
+### [CluvexStudio/Aether](https://github.com/CluvexStudio/Aether)
+- **Stats:** 2,118 stars | 166 forks | 28 open issues
+- **Language:** Rust | **Created:** 2026-07-14 | **License:** AGPL-3.0
+- **Topics:** cloudflare, gool, http2, http3, masque, quic
+- **What it is:** A Rust userspace WARP core for censored networks, built around MASQUE over HTTP/3 and HTTP/2.
+- **Growth:** averaging ~24 stars/day since launch.
+- **Link:** https://github.com/CluvexStudio/Aether

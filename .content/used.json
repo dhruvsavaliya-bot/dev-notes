@@ -142,6 +142,7 @@
     "https://github.com/AlephAITech/WorkBuddyGuide",
     "https://github.com/ApodexAI/FrontierAgent",
     "https://github.com/Blimp-Labs/claude-usage-bar",
+    "https://github.com/CluvexStudio/Aether",
     "https://github.com/Contrastive-LM/CLM",
     "https://github.com/CopilotKit/OpenBot",
     "https://github.com/CopilotKit/openmuse",
@@ -702,12 +703,6 @@
   "recent": [
     {
       "date": "2026-10-08",
-      "subcat": "Python",
-      "title": "There are only twelve 4x4 sudokus - and a cool trick fo",
-      "url": "https://lobste.rs/s/ccnirb/there_are_only_twelve_4x4_sudokus_cool"
-    },
-    {
-      "date": "2026-10-08",
       "subcat": "PHP",
       "title": "harris21/laravel-fuse",
       "url": "https://github.com/harris21/laravel-fuse"
@@ -759,6 +754,12 @@
       "subcat": "Lobsters Picks",
       "title": "The Mathocalypse",
       "url": "https://lobste.rs/s/zlhyss/mathocalypse"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "Backend & Infrastructure",
+      "title": "CluvexStudio/Aether",
+      "url": "https://github.com/CluvexStudio/Aether"
     }
   ]
 }
