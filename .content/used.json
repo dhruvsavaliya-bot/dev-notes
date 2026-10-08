@@ -376,6 +376,7 @@
     "https://huggingface.co/datasets/openai/healthbench",
     "https://huggingface.co/datasets/openbmb/RLHF-V-Dataset",
     "https://huggingface.co/datasets/ystemsrx/Erotic_Literature_Collection",
+    "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
     "https://huggingface.co/google/siglip-base-patch16-224",
     "https://huggingface.co/jaredpalmer/kev-4b",
     "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
@@ -715,12 +716,6 @@
   "recent": [
     {
       "date": "2026-10-08",
-      "subcat": "Lobsters Picks",
-      "title": "An open-source, clean-room reimplementation of Adobe Ph",
-      "url": "https://lobste.rs/s/qn61ip/open_source_clean_room_reimplementation"
-    },
-    {
-      "date": "2026-10-08",
       "subcat": "Web & Frontend",
       "title": "mesamirh/MovieBox-Tui",
       "url": "https://github.com/mesamirh/MovieBox-Tui"
@@ -772,6 +767,12 @@
       "subcat": "Python",
       "title": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Models & Datasets",
+      "title": "drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
+      "url": "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI"
     }
   ]
 }

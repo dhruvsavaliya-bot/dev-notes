@@ -698,6 +698,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/harborframework/terminal-bench-2.0
 
+**Added 2026-10-09**
+
+### [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI)
+- **Stats:** 501 likes | 200,839 downloads
+- **Kind:** Hugging Face model | **Task:** text-to-video | **Created:** 2026-08-06
+- **Tags:** minimax-h3, lora, adapter, comfyui, text-to-video, reference-to-video
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI
+
 
 ## Research Papers
 
