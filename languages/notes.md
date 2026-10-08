@@ -176,6 +176,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/lxo74i/introducing_microlighter
 - **Link:** https://daverupert.com/2026/08/microlighter/
 
+**Added 2026-10-08**
+
+### [what if my git host were a static site generator?](https://char.lt/blog/2026/09/sorcery-repo-viewer/)
+- **Source:** char.lt | **Posted:** 2026-09-13 | **By:** easrng
+- **Community:** 65 score, 25 comments on Lobsters
+- **Tags:** javascript, vcs, web
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/6syfar/what_if_my_git_host_were_static_site
+- **Link:** https://char.lt/blog/2026/09/sorcery-repo-viewer/
+
 
 ## TypeScript
 

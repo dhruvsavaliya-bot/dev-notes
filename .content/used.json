@@ -377,6 +377,7 @@
     "https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base",
     "https://lobste.rs/s/0gvyif/software_developers_are_not_okay",
     "https://lobste.rs/s/2tspe2/beam_metrics_clickhouse",
+    "https://lobste.rs/s/6syfar/what_if_my_git_host_were_static_site",
     "https://lobste.rs/s/7faqgg/claude_says",
     "https://lobste.rs/s/98zvnf/tests_for_pdf",
     "https://lobste.rs/s/9ipypq/updates_full_disk_access_macos",
@@ -698,12 +699,6 @@
   "recent": [
     {
       "date": "2026-10-08",
-      "subcat": "TypeScript",
-      "title": "`satisfies` is my favorite TypeScript keyword (2024)",
-      "url": "https://news.ycombinator.com/item?id=45968310"
-    },
-    {
-      "date": "2026-10-08",
       "subcat": "Models & Datasets",
       "title": "yandex/AliceAI-Foundation-80B-A3B-Base",
       "url": "https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base"
@@ -755,6 +750,12 @@
       "subcat": "Models & Datasets",
       "title": "prism-ml/Ternary-Bonsai-27B-mlx-2bit",
       "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "JavaScript",
+      "title": "what if my git host were a static site generator?",
+      "url": "https://lobste.rs/s/6syfar/what_if_my_git_host_were_static_site"
     }
   ]
 }
