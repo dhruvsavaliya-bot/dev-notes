@@ -840,3 +840,13 @@ Lessons from building with LLMs.
 - **Abstract:** No single way of parallelizing attention serves large language models well under all loads. Low concurrency favors tensor parallelism, many independent requests favor data-parallel attention, and long prompts favor context parallelism. Reasoning, agentic, and RL-rollout workloads make a fixed choice untenable: a batch that begins as many short requests ends as a few very long ones, so the best layout changes while the same requests run. Serving engines nevertheless fix one layout at launch, beca...
 - **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.37626v1
+
+**Added 2026-10-09**
+
+### [Leto: Fast In-Place Recovery for LLM Training on Surviving Hardware](http://arxiv.org/abs/2610.00687v1)
+- **Authors:** Geon-Woo Kim, Joon Ha Kim, Daehyeok Kim
+- **Published:** 2026-09-30 | **Primary category:** cs.DC
+- **Categories:** cs.DC, cs.LG
+- **Abstract:** Hardware-operable failures (HOFs) interrupt large language model (LLM) training but permit recovery on the same hardware without reset, repair, or replacement. Existing recovery systems nevertheless reload checkpoints, recompute lost progress, and rebuild process state, idling GPUs that could otherwise continue training. We present Leto, a fault-tolerant training system that leverages surviving hardware to enable efficient in-place recovery. Our key insight is that the state needed to resume tra...
+- **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.00687v1

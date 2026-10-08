@@ -15,6 +15,7 @@
     "http://arxiv.org/abs/2609.37626v1",
     "http://arxiv.org/abs/2609.38281v1",
     "http://arxiv.org/abs/2609.38722v1",
+    "http://arxiv.org/abs/2610.00687v1",
     "http://arxiv.org/abs/2610.03001v1",
     "http://arxiv.org/abs/2610.03109v1",
     "http://arxiv.org/abs/2610.03665v1",
@@ -712,12 +713,6 @@
   "recent": [
     {
       "date": "2026-10-08",
-      "subcat": "Backend & Infrastructure",
-      "title": "CluvexStudio/Aether",
-      "url": "https://github.com/CluvexStudio/Aether"
-    },
-    {
-      "date": "2026-10-08",
       "subcat": "PHP",
       "title": "PHP 8.5",
       "url": "https://news.ycombinator.com/item?id=45989469"
@@ -769,6 +764,12 @@
       "subcat": "AI & Machine Learning",
       "title": "FlashML-org/FreeVideo",
       "url": "https://github.com/FlashML-org/FreeVideo"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Research Papers",
+      "title": "Leto: Fast In-Place Recovery for LLM Training on Surviv",
+      "url": "http://arxiv.org/abs/2610.00687v1"
     }
   ]
 }
