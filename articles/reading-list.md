@@ -1442,6 +1442,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49977588
 - **Link:** https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/
 
+**Added 2026-10-08**
+
+### [A 10x Faster TypeScript](https://devblogs.microsoft.com/typescript/typescript-native-port/)
+- **Source:** devblogs.microsoft.com | **Posted:** 2025-03-11 | **By:** DanRosenwasser
+- **Community:** 1827 points, 907 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=43332830
+- **Link:** https://devblogs.microsoft.com/typescript/typescript-native-port/
+
 
 ## DevOps & Cloud
 
