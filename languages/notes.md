@@ -332,6 +332,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=31637428
 - **Link:** https://github.com/jwilk/python-syntax-errors
 
+**Added 2026-10-08**
+
+### [Costs of running a Python webapp for 55k monthly users](https://keepthescore.co/blog/posts/costs-of-running-webapp/)
+- **Source:** keepthescore.co | **Posted:** 2020-09-04 | **By:** caspii
+- **Community:** 289 points, 257 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=24372084
+- **Link:** https://keepthescore.co/blog/posts/costs-of-running-webapp/
+
 
 ## Go
 

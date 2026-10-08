@@ -410,6 +410,7 @@
     "https://news.ycombinator.com/item?id=20854214",
     "https://news.ycombinator.com/item?id=21611677",
     "https://news.ycombinator.com/item?id=23361987",
+    "https://news.ycombinator.com/item?id=24372084",
     "https://news.ycombinator.com/item?id=26862318",
     "https://news.ycombinator.com/item?id=27447206",
     "https://news.ycombinator.com/item?id=30467919",
@@ -686,12 +687,6 @@
   "recent": [
     {
       "date": "2026-10-08",
-      "subcat": "Models & Datasets",
-      "title": "FlyRank/internship-warehouse",
-      "url": "https://huggingface.co/datasets/FlyRank/internship-warehouse"
-    },
-    {
-      "date": "2026-10-08",
       "subcat": "Java",
       "title": "Gpu.js  GPU Accelerated JavaScript",
       "url": "https://news.ycombinator.com/item?id=14773964"
@@ -743,6 +738,12 @@
       "subcat": "AI & Machine Learning",
       "title": "ToolJet/ToolJet",
       "url": "https://github.com/ToolJet/ToolJet"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "Python",
+      "title": "Costs of running a Python webapp for 55k monthly users",
+      "url": "https://news.ycombinator.com/item?id=24372084"
     }
   ]
 }
