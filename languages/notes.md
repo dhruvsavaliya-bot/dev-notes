@@ -510,6 +510,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=30219984
 - **Link:** https://phptherightway.com/
 
+**Added 2026-10-08**
+
+### [PHP 8.5](https://stitcher.io/blog/new-in-php-85)
+- **Source:** stitcher.io | **Posted:** 2025-11-20 | **By:** brentroose
+- **Community:** 244 points, 190 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=45989469
+- **Link:** https://stitcher.io/blog/new-in-php-85
+
 
 ## Ruby
 
