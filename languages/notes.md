@@ -519,6 +519,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=45989469
 - **Link:** https://stitcher.io/blog/new-in-php-85
 
+**Added 2026-10-08**
+
+### [PHP in 2021](https://stitcher.io/blog/php-in-2021)
+- **Source:** stitcher.io | **Posted:** 2021-04-15 | **By:** nowandlater
+- **Community:** 279 points, 298 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=26825468
+- **Link:** https://stitcher.io/blog/php-in-2021
+
 
 ## Ruby
 
