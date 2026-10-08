@@ -644,6 +644,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/openai/healthbench
 
+**Added 2026-10-08**
+
+### [ShadenA/MathNet](https://huggingface.co/datasets/ShadenA/MathNet)
+- **Stats:** 96 likes | 118,100 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-04-23
+- **Tags:** mathematics, olympiad, reasoning, competition-math, multimodal, retrieval
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/ShadenA/MathNet
+
 
 ## Research Papers
 

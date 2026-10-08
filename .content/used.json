@@ -356,6 +356,7 @@
     "https://huggingface.co/almanach/camembert-base",
     "https://huggingface.co/bytedance-research/Lance",
     "https://huggingface.co/datasets/FlyRank/internship-warehouse",
+    "https://huggingface.co/datasets/ShadenA/MathNet",
     "https://huggingface.co/datasets/markov-ai/computer-use-large",
     "https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML",
     "https://huggingface.co/datasets/monology/pile-uncopyrighted",
@@ -684,12 +685,6 @@
   "recent": [
     {
       "date": "2026-10-08",
-      "subcat": "Other Cool Projects",
-      "title": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code"
-    },
-    {
-      "date": "2026-10-08",
       "subcat": "JavaScript",
       "title": "The JavaScript Pun: tagged template literal",
       "url": "https://lobste.rs/s/rtcnc8/javascript_pun_tagged_template_literal"
@@ -741,6 +736,12 @@
       "subcat": "Python",
       "title": "No-op statements syntactically valid only since Python",
       "url": "https://news.ycombinator.com/item?id=31637428"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "Models & Datasets",
+      "title": "ShadenA/MathNet",
+      "url": "https://huggingface.co/datasets/ShadenA/MathNet"
     }
   ]
 }
