@@ -12,6 +12,7 @@
     "http://arxiv.org/abs/2609.30629v1",
     "http://arxiv.org/abs/2609.31250v1",
     "http://arxiv.org/abs/2609.35878v1",
+    "http://arxiv.org/abs/2609.37626v1",
     "http://arxiv.org/abs/2609.38281v1",
     "http://arxiv.org/abs/2609.38722v1",
     "http://arxiv.org/abs/2610.03001v1",
@@ -709,12 +710,6 @@
   "recent": [
     {
       "date": "2026-10-08",
-      "subcat": "PHP",
-      "title": "PHP  The Right Way",
-      "url": "https://news.ycombinator.com/item?id=30219984"
-    },
-    {
-      "date": "2026-10-08",
       "subcat": "Models & Datasets",
       "title": "espnet/yodas2",
       "url": "https://huggingface.co/datasets/espnet/yodas2"
@@ -766,6 +761,12 @@
       "subcat": "Ruby",
       "title": "grubby: static site generator for git repos written in",
       "url": "https://lobste.rs/s/xpyahx/grubby_static_site_generator_for_git"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Research Papers",
+      "title": "SPLASH: Switching Parallel Layouts of Attention with Se",
+      "url": "http://arxiv.org/abs/2609.37626v1"
     }
   ]
 }

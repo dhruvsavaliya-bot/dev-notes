@@ -830,3 +830,13 @@ Lessons from building with LLMs.
 - **Abstract:** Large language models (LLMs) annotate and scale political text or constructs by generating text tokens. A new class of models, which TypeSafe markets as "System One" models, instead returns decisions and probability distributions across a user-supplied fixed answer set. A commercial model, JEV, is advertised as having a dramatic cost and speed advantage over traditional LLMs along with better calibrated decisions. As such, it might be useful for social scientists looking to quickly and cost-effe...
 - **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.06625v2
+
+**Added 2026-10-09**
+
+### [SPLASH: Switching Parallel Layouts of Attention with Seamless Handoff for LLM Serving](http://arxiv.org/abs/2609.37626v1)
+- **Authors:** Chuan Liu, Shuoming Zhang, Zhicheng Li, Qianqi Sun et al.
+- **Published:** 2026-09-29 | **Primary category:** cs.DC
+- **Categories:** cs.DC, cs.AI
+- **Abstract:** No single way of parallelizing attention serves large language models well under all loads. Low concurrency favors tensor parallelism, many independent requests favor data-parallel attention, and long prompts favor context parallelism. Reasoning, agentic, and RL-rollout workloads make a fixed choice untenable: a batch that begins as many short requests ends as a few very long ones, so the best layout changes while the same requests run. Serving engines nevertheless fix one layout at launch, beca...
+- **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.37626v1
