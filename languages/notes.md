@@ -641,6 +641,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~123 stars/day since launch.
 - **Link:** https://github.com/openai/symphony
 
+**Added 2026-10-08**
+
+### [BEAM Metrics in ClickHouse](https://andrealeopardi.com/posts/beam-metrics-in-clickhouse/)
+- **Source:** andrealeopardi.com | **Posted:** 2026-03-18 | **By:** whatyouhide
+- **Community:** 17 score, 0 comments on Lobsters
+- **Tags:** elixir, erlang
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/2tspe2/beam_metrics_clickhouse
+- **Link:** https://andrealeopardi.com/posts/beam-metrics-in-clickhouse/
+
 
 ## C#
 
