@@ -1449,3 +1449,13 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/0gvyif/software_developers_are_not_okay
 - **Link:** https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/
+
+**Added 2026-10-08**
+
+### [Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
+- **Source:** news.mit.edu | **Posted:** 2026-10-07 | **By:** lorddimwit
+- **Community:** 101 score, 3 comments on Lobsters
+- **Tags:** person
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/9qtgrm/margaret_hamilton_computing_pioneer_who
+- **Link:** https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007
