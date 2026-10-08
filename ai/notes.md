@@ -662,6 +662,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base
 
+**Added 2026-10-08**
+
+### [Qwen/Qwen3-ASR-1.7B](https://huggingface.co/Qwen/Qwen3-ASR-1.7B)
+- **Stats:** 1,157 likes | 1,267,269 downloads
+- **Kind:** Hugging Face model | **Task:** automatic-speech-recognition | **Created:** 2026-01-28
+- **Tags:** safetensors, qwen3_asr, automatic-speech-recognition, eval-results
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/Qwen/Qwen3-ASR-1.7B
+
 
 ## Research Papers
 

@@ -355,6 +355,7 @@
     "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
     "https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+    "https://huggingface.co/Qwen/Qwen3-ASR-1.7B",
     "https://huggingface.co/almanach/camembert-base",
     "https://huggingface.co/bytedance-research/Lance",
     "https://huggingface.co/datasets/FlyRank/internship-warehouse",
@@ -695,12 +696,6 @@
   "recent": [
     {
       "date": "2026-10-08",
-      "subcat": "AI & Machine Learning",
-      "title": "ToolJet/ToolJet",
-      "url": "https://github.com/ToolJet/ToolJet"
-    },
-    {
-      "date": "2026-10-08",
       "subcat": "Python",
       "title": "Costs of running a Python webapp for 55k monthly users",
       "url": "https://news.ycombinator.com/item?id=24372084"
@@ -752,6 +747,12 @@
       "subcat": "Lobsters Picks",
       "title": "Margaret Hamilton, computing pioneer who led software d",
       "url": "https://lobste.rs/s/9qtgrm/margaret_hamilton_computing_pioneer_who"
+    },
+    {
+      "date": "2026-10-08",
+      "subcat": "Models & Datasets",
+      "title": "Qwen/Qwen3-ASR-1.7B",
+      "url": "https://huggingface.co/Qwen/Qwen3-ASR-1.7B"
     }
   ]
 }
