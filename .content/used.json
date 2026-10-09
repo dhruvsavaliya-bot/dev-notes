@@ -213,6 +213,7 @@
     "https://github.com/Waishnav/devspace",
     "https://github.com/XiaoDuoYa/codex-with-chatgpt",
     "https://github.com/XxxXTeam/business2api",
+    "https://github.com/Yeachan-Heo/oh-my-codex",
     "https://github.com/Younesfdj/gitfut",
     "https://github.com/Yu9191/wloc",
     "https://github.com/Zeejay0/gathered-scenes-zine-skill",
@@ -756,12 +757,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Models & Datasets",
-      "title": "zgcagi/ZGCM-1-Data",
-      "url": "https://huggingface.co/datasets/zgcagi/ZGCM-1-Data"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Memories  FOSS Google Photos alternative built",
       "url": "https://news.ycombinator.com/item?id=39783223"
@@ -813,6 +808,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Three new Kitten TTS models  smallest less tha",
       "url": "https://news.ycombinator.com/item?id=47441546"
+    },
+    {
+      "date": "2026-10-10",
+      "subcat": "TypeScript",
+      "title": "Yeachan-Heo/oh-my-codex",
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex"
     }
   ]
 }

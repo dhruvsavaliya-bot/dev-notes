@@ -282,6 +282,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=45968310
 - **Link:** https://sjer.red/blog/2024-12-21/
 
+**Added 2026-10-10**
+
+### [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
+- **Stats:** 33,494 stars | 2,542 forks | 2 open issues
+- **Language:** TypeScript | **Created:** 2026-02-02 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
+- **Growth:** averaging ~133 stars/day since launch.
+- **Link:** https://github.com/Yeachan-Heo/oh-my-codex
+
 
 ## Python
 
