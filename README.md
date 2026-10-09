@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**737 entries and counting** · Last updated: 2026-10-09
+**738 entries and counting** · Last updated: 2026-10-09
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 201 |
 | [AI / LLM Notes](ai/notes.md) | 104 |
-| [Reading List](articles/reading-list.md) | 180 |
+| [Reading List](articles/reading-list.md) | 181 |
 | [Coding Tips](coding-tips/tips.md) | 165 |
 | [Language Notes](languages/notes.md) | 87 |
 
 ## Latest additions
 
+- **2026-10-09** · *Hacker News Picks* — [Why isn't the industry freaking out about DeepSeek 4.1](https://news.ycombinator.com/item?id=50000488)
 - **2026-10-09** · *Show & Ask HN* — [Show HN: Memories  FOSS Google Photos alternative built](https://news.ycombinator.com/item?id=39783223)
 - **2026-10-09** · *Models & Datasets* — [zgcagi/ZGCM-1-Data](https://huggingface.co/datasets/zgcagi/ZGCM-1-Data)
 - **2026-10-09** · *Ruby* — [Ruby-SAML pwned by XML signature wrapping attacks](https://news.ycombinator.com/item?id=41586031)
 - **2026-10-09** · *Performance* — [The 7 Walls JavaScript Hits  and How WebAssembly Gets P](https://dev.to/james_anderson_h/the-7-walls-javascript-hits-and-how-webassembly-gets-past-them-3khk)
-- **2026-10-09** · *Models & Datasets* — [Qwen/Qwen2.5-32B-Instruct-AWQ](https://huggingface.co/Qwen/Qwen2.5-32B-Instruct-AWQ)
 
 ## How it works
 

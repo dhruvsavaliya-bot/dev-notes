@@ -740,18 +740,13 @@
     "https://news.ycombinator.com/item?id=49971230",
     "https://news.ycombinator.com/item?id=49977588",
     "https://news.ycombinator.com/item?id=49998992",
+    "https://news.ycombinator.com/item?id=50000488",
     "https://news.ycombinator.com/item?id=50006832",
     "https://news.ycombinator.com/item?id=50009295",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=7185024"
   ],
   "recent": [
-    {
-      "date": "2026-10-09",
-      "subcat": "Elixir",
-      "title": "Elixir v1.20 released: now a gradually typed language",
-      "url": "https://lobste.rs/s/wq1csk/elixir_v1_20_released_now_gradually_typed"
-    },
     {
       "date": "2026-10-09",
       "subcat": "JavaScript",
@@ -805,6 +800,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Memories  FOSS Google Photos alternative built",
       "url": "https://news.ycombinator.com/item?id=39783223"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Hacker News Picks",
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1",
+      "url": "https://news.ycombinator.com/item?id=50000488"
     }
   ]
 }

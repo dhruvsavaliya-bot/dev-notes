@@ -1478,6 +1478,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49998992
 - **Link:** https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/
 
+**Added 2026-10-09**
+
+### [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/)
+- **Source:** www.dgt.is | **Posted:** 2026-10-08 | **By:** jonotime
+- **Community:** 949 points, 866 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50000488
+- **Link:** https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/
+
 
 ## DevOps & Cloud
 
