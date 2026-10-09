@@ -739,6 +739,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~12 stars/day since launch.
 - **Link:** https://github.com/celldock/celldock-for-mac
 
+**Added 2026-10-09**
+
+### [Ask HN: I realise data science is not for me and feel depressed](https://news.ycombinator.com/item?id=30513030)
+- **Source:** news.ycombinator.com | **Posted:** 2022-03-01 | **By:** boa00
+- **Community:** 146 points, 140 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=30513030
+- **Link:** https://news.ycombinator.com/item?id=30513030
+
 
 ## Rust
 

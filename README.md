@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**742 entries and counting** · Last updated: 2026-10-09
+**743 entries and counting** · Last updated: 2026-10-09
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 105 |
 | [Reading List](articles/reading-list.md) | 181 |
 | [Coding Tips](coding-tips/tips.md) | 166 |
-| [Language Notes](languages/notes.md) | 88 |
+| [Language Notes](languages/notes.md) | 89 |
 
 ## Latest additions
 
+- **2026-10-09** · *Swift* — [Ask HN: I realise data science is not for me and feel d](https://news.ycombinator.com/item?id=30513030)
 - **2026-10-09** · *Show & Ask HN* — [Show HN: Termtosvg  Record terminal sessions as SVG ani](https://news.ycombinator.com/item?id=17449810)
 - **2026-10-09** · *Models & Datasets* — [Anthropic/claude-protein-binder-design](https://huggingface.co/datasets/Anthropic/claude-protein-binder-design)
 - **2026-10-09** · *Ruby* — ['Learn Ruby on Rails' is free today](https://news.ycombinator.com/item?id=6821576)
 - **2026-10-09** · *Other Cool Projects* — [waligoraamodio288-rgb/hongguo-desktop-releases](https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases)
-- **2026-10-09** · *Hacker News Picks* — [Why isn't the industry freaking out about DeepSeek 4.1](https://news.ycombinator.com/item?id=50000488)
 
 ## How it works
 

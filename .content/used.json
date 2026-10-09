@@ -468,6 +468,7 @@
     "https://news.ycombinator.com/item?id=27447206",
     "https://news.ycombinator.com/item?id=30219984",
     "https://news.ycombinator.com/item?id=30467919",
+    "https://news.ycombinator.com/item?id=30513030",
     "https://news.ycombinator.com/item?id=31335904",
     "https://news.ycombinator.com/item?id=31637428",
     "https://news.ycombinator.com/item?id=32366759",
@@ -753,12 +754,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Models & Datasets",
-      "title": "Qwen/Qwen2.5-32B-Instruct-AWQ",
-      "url": "https://huggingface.co/Qwen/Qwen2.5-32B-Instruct-AWQ"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Performance",
       "title": "The 7 Walls JavaScript Hits  and How WebAssembly Gets P",
       "url": "https://dev.to/james_anderson_h/the-7-walls-javascript-hits-and-how-webassembly-gets-past-them-3khk"
@@ -810,6 +805,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Termtosvg  Record terminal sessions as SVG ani",
       "url": "https://news.ycombinator.com/item?id=17449810"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Swift",
+      "title": "Ask HN: I realise data science is not for me and feel d",
+      "url": "https://news.ycombinator.com/item?id=30513030"
     }
   ]
 }
