@@ -659,6 +659,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/xpyahx/grubby_static_site_generator_for_git
 - **Link:** https://git.btxx.org/grubby
 
+**Added 2026-10-09**
+
+### [Ruby-SAML pwned by XML signature wrapping attacks](https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/)
+- **Source:** ssoready.com | **Posted:** 2024-09-18 | **By:** ucarion
+- **Community:** 166 points, 91 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=41586031
+- **Link:** https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/
+
 
 ## Swift
 
