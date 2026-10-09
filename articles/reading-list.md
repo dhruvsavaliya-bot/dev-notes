@@ -1642,3 +1642,14 @@ Fresh dev articles and blog posts.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/qn61ip/open_source_clean_room_reimplementation
 - **Link:** https://github.com/storytold/photocraft
+
+## Performance
+
+**Added 2026-10-09**
+
+### [The 7 Walls JavaScript Hits — and How WebAssembly Gets Past Them](https://dev.to/james_anderson_h/the-7-walls-javascript-hits-and-how-webassembly-gets-past-them-3khk)
+- **Author:** James Anderson | **Published:** Sep 28 | **Read time:** 7 min
+- **Community:** 51 reactions, 39 comments -- a top post in #performance
+- **Tags:** webassembly, webdev, javascript, performance
+- **Summary:** Every time Figma renders a complex design instantly, or Google Sheets recalculates a huge spreadsheet...
+- **Link:** https://dev.to/james_anderson_h/the-7-walls-javascript-hits-and-how-webassembly-gets-past-them-3khk

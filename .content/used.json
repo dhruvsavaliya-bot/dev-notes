@@ -76,6 +76,7 @@
     "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3",
     "https://dev.to/james_anderson_h/most-ai-agents-are-just-if-statements-in-a-trench-coat-3960",
     "https://dev.to/james_anderson_h/prompt-injection-is-the-new-sql-injection-and-were-not-ready-4ea4",
+    "https://dev.to/james_anderson_h/the-7-walls-javascript-hits-and-how-webassembly-gets-past-them-3khk",
     "https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g",
     "https://dev.to/kenielzep97/tell-me-about-you-1hi4",
     "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm",
@@ -744,12 +745,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Heynote  A dedicated scratchpad for developers",
-      "url": "https://news.ycombinator.com/item?id=38733968"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "PHP",
       "title": "laramint/laravel-brain",
       "url": "https://github.com/laramint/laravel-brain"
@@ -801,6 +796,12 @@
       "subcat": "Models & Datasets",
       "title": "Qwen/Qwen2.5-32B-Instruct-AWQ",
       "url": "https://huggingface.co/Qwen/Qwen2.5-32B-Instruct-AWQ"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Performance",
+      "title": "The 7 Walls JavaScript Hits  and How WebAssembly Gets P",
+      "url": "https://dev.to/james_anderson_h/the-7-walls-javascript-hits-and-how-webassembly-gets-past-them-3khk"
     }
   ]
 }
