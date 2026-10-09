@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**748 entries and counting** · Last updated: 2026-10-10
+**749 entries and counting** · Last updated: 2026-10-10
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 107 |
 | [Reading List](articles/reading-list.md) | 181 |
 | [Coding Tips](coding-tips/tips.md) | 168 |
-| [Language Notes](languages/notes.md) | 90 |
+| [Language Notes](languages/notes.md) | 91 |
 
 ## Latest additions
 
+- **2026-10-10** · *Go* — [Show HN: Desert Atlas, a self-hosted OpenStreetMap app](https://news.ycombinator.com/item?id=38532914)
 - **2026-10-10** · *Lobsters Picks* — [Programming Isnt Special](https://lobste.rs/s/ily7as/programming_isn_t_special)
 - **2026-10-10** · *Research Papers* — [Trustworthy Data- and ML-Ops for Intelligent Transporta](http://arxiv.org/abs/2610.01282v1)
 - **2026-10-10** · *TypeScript* — [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
 - **2026-10-09** · *Show & Ask HN* — [Show HN: Three new Kitten TTS models  smallest less tha](https://news.ycombinator.com/item?id=47441546)
-- **2026-10-09** · *Models & Datasets* — [eidon-ai/tracker-pov](https://huggingface.co/datasets/eidon-ai/tracker-pov)
 
 ## How it works
 

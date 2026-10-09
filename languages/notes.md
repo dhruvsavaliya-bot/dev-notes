@@ -511,6 +511,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=26862318
 - **Link:** https://github.com/golang/go/issues/45624
 
+**Added 2026-10-10**
+
+### [Show HN: Desert Atlas, a self-hosted OpenStreetMap app for Sandstorm](https://sandstorm.org/news/2023-12-05-osm-on-sandstorm)
+- **Source:** sandstorm.org | **Posted:** 2023-12-05 | **By:** orblivion
+- **Community:** 101 points, 11 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=38532914
+- **Link:** https://sandstorm.org/news/2023-12-05-osm-on-sandstorm
+
 
 ## PHP
 
