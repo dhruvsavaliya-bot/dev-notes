@@ -393,6 +393,7 @@
     "https://huggingface.co/google/siglip-base-patch16-224",
     "https://huggingface.co/jaredpalmer/kev-4b",
     "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+    "https://huggingface.co/meta-llama/Llama-3.1-8B",
     "https://huggingface.co/microsoft/Florence-2-base",
     "https://huggingface.co/microsoft/TRELLIS-image-large",
     "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit",
@@ -740,12 +741,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Models & Datasets",
-      "title": "openbmb/UltraData-Code",
-      "url": "https://huggingface.co/datasets/openbmb/UltraData-Code"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "C#",
       "title": "MikuLeaks/MikuSB",
       "url": "https://github.com/MikuLeaks/MikuSB"
@@ -797,6 +792,12 @@
       "subcat": "JavaScript",
       "title": "Actual Budget",
       "url": "https://lobste.rs/s/tfjoxv/actual_budget"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Models & Datasets",
+      "title": "meta-llama/Llama-3.1-8B",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B"
     }
   ]
 }

@@ -770,6 +770,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro
 
+**Added 2026-10-09**
+
+### [meta-llama/Llama-3.1-8B](https://huggingface.co/meta-llama/Llama-3.1-8B)
+- **Stats:** 2,621 likes | 679,200 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2024-07-14
+- **Tags:** transformers, safetensors, llama, text-generation, facebook, meta
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/meta-llama/Llama-3.1-8B
+
 
 ## Research Papers
 
