@@ -1522,3 +1522,13 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/9qtgrm/margaret_hamilton_computing_pioneer_who
 - **Link:** https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007
+
+**Added 2026-10-10**
+
+### [Programming Isn’t Special](https://blog.glyph.im/2026/10/programming-isnt-special.html)
+- **Source:** blog.glyph.im | **Posted:** 2026-10-09 | **By:** hugoarnal
+- **Community:** 58 score, 26 comments on Lobsters
+- **Tags:** art, vibecoding
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/ily7as/programming_isn_t_special
+- **Link:** https://blog.glyph.im/2026/10/programming-isnt-special.html

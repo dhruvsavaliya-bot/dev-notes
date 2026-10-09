@@ -426,6 +426,7 @@
     "https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit",
     "https://lobste.rs/s/dpfpr3/goroutine_leak_profiles",
     "https://lobste.rs/s/iii8sl/micro_language_implementation_calcium",
+    "https://lobste.rs/s/ily7as/programming_isn_t_special",
     "https://lobste.rs/s/imdwmj/pandas_should_go_extinct",
     "https://lobste.rs/s/iotaty/state_simd_rust_2026",
     "https://lobste.rs/s/j7kltq/turbo_haskell",
@@ -758,12 +759,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Hacker News Picks",
-      "title": "Why isn't the industry freaking out about DeepSeek 4.1",
-      "url": "https://news.ycombinator.com/item?id=50000488"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Other Cool Projects",
       "title": "waligoraamodio288-rgb/hongguo-desktop-releases",
       "url": "https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases"
@@ -815,6 +810,12 @@
       "subcat": "Research Papers",
       "title": "Trustworthy Data- and ML-Ops for Intelligent Transporta",
       "url": "http://arxiv.org/abs/2610.01282v1"
+    },
+    {
+      "date": "2026-10-10",
+      "subcat": "Lobsters Picks",
+      "title": "Programming Isnt Special",
+      "url": "https://lobste.rs/s/ily7as/programming_isn_t_special"
     }
   ]
 }
