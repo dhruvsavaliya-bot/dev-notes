@@ -392,6 +392,7 @@
     "https://huggingface.co/datasets/openbmb/UltraData-Code",
     "https://huggingface.co/datasets/tau/commonsense_qa",
     "https://huggingface.co/datasets/ystemsrx/Erotic_Literature_Collection",
+    "https://huggingface.co/datasets/zgcagi/ZGCM-1-Data",
     "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
     "https://huggingface.co/google/siglip-base-patch16-224",
     "https://huggingface.co/jaredpalmer/kev-4b",
@@ -746,12 +747,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Models & Datasets",
-      "title": "TIGER-Lab/MMLU-Pro",
-      "url": "https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Research Papers",
       "title": "After the Fix: Transfer of Corrected Agent Experience",
       "url": "http://arxiv.org/abs/2609.34603v2"
@@ -803,6 +798,12 @@
       "subcat": "Ruby",
       "title": "Ruby-SAML pwned by XML signature wrapping attacks",
       "url": "https://news.ycombinator.com/item?id=41586031"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Models & Datasets",
+      "title": "zgcagi/ZGCM-1-Data",
+      "url": "https://huggingface.co/datasets/zgcagi/ZGCM-1-Data"
     }
   ]
 }

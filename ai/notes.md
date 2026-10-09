@@ -797,6 +797,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/Qwen/Qwen2.5-32B-Instruct-AWQ
 
+**Added 2026-10-09**
+
+### [zgcagi/ZGCM-1-Data](https://huggingface.co/datasets/zgcagi/ZGCM-1-Data)
+- **Stats:** 88 likes | 44,560 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-09-05
+- **Tags:** pretraining, midtraining, supervised-fine-tuning, code, reasoning, long-context
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/zgcagi/ZGCM-1-Data
+
 
 ## Research Papers
 
