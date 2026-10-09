@@ -400,6 +400,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~240 stars/day since launch.
 - **Link:** https://github.com/HKUDS/CLI-Anything
 
+**Added 2026-10-09**
+
+### [Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/)
+- **Source:** eddie.codes | **Posted:** 2026-09-11 | **By:** ohrv
+- **Community:** 42 score, 11 comments on Lobsters
+- **Tags:** databases, python
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/imdwmj/pandas_should_go_extinct
+- **Link:** https://eddie.codes/posts/pandas-should-go-extinct/
+
 
 ## Go
 

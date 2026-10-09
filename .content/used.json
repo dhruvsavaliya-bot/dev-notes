@@ -402,6 +402,7 @@
     "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your",
     "https://lobste.rs/s/dpfpr3/goroutine_leak_profiles",
     "https://lobste.rs/s/iii8sl/micro_language_implementation_calcium",
+    "https://lobste.rs/s/imdwmj/pandas_should_go_extinct",
     "https://lobste.rs/s/iotaty/state_simd_rust_2026",
     "https://lobste.rs/s/jlja1a/jdk_27_has_been_released",
     "https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this",
@@ -720,12 +721,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Hacker News Picks",
-      "title": "Trump administration is suspending Microsoft from a gre",
-      "url": "https://news.ycombinator.com/item?id=50006832"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "AI & Machine Learning",
       "title": "FlashML-org/FreeVideo",
       "url": "https://github.com/FlashML-org/FreeVideo"
@@ -777,6 +772,12 @@
       "subcat": "Developer Tools",
       "title": "kryvora-network/kryvora-node",
       "url": "https://github.com/kryvora-network/kryvora-node"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Python",
+      "title": "Pandas Should Go Extinct",
+      "url": "https://lobste.rs/s/imdwmj/pandas_should_go_extinct"
     }
   ]
 }
