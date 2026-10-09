@@ -800,6 +800,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~48 stars/day since launch.
 - **Link:** https://github.com/angusdevgo/IDM_Pro_Tool
 
+**Added 2026-10-09**
+
+### [MikuLeaks/MikuSB](https://github.com/MikuLeaks/MikuSB)
+- **Stats:** 758 stars | 156 forks | 28 open issues
+- **Language:** C# | **Created:** 2026-04-20 | **License:** MIT
+- **Topics:** csharp, dotnet, networking, protobuf, reverse-engineering, server-emulator
+- **What it is:** Open-source C#/.NET research server emulator for local protocol and networking experimentation.
+- **Growth:** averaging ~4 stars/day since launch.
+- **Link:** https://github.com/MikuLeaks/MikuSB
+
 
 ## C++
 
