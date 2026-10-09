@@ -85,6 +85,7 @@
     "https://dev.to/metal3d/git-worktree-like-a-boss-2j1b",
     "https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd",
     "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd",
+    "https://dev.to/mikachu/i-write-on-a-2006-imac-and-code-on-a-200-laptop-9n4",
     "https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h",
     "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
     "https://dev.to/nazar-boyko/has-ai-made-you-a-lazier-developer-be-honest-5ack",
@@ -726,12 +727,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "PHP",
-      "title": "Laravel : A New PHP Framework",
-      "url": "https://news.ycombinator.com/item?id=4029427"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Models & Datasets",
       "title": "Comfy-Org/Wan_2.1_ComfyUI_repackaged",
       "url": "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged"
@@ -783,6 +778,12 @@
       "subcat": "Models & Datasets",
       "title": "tau/commonsense_qa",
       "url": "https://huggingface.co/datasets/tau/commonsense_qa"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Productivity",
+      "title": "I Write on a 2006 iMac and Code on a $200 Laptop",
+      "url": "https://dev.to/mikachu/i-write-on-a-2006-imac-and-code-on-a-200-laptop-9n4"
     }
   ]
 }

@@ -166,6 +166,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** 🇺🇸 You can also read the English version of this article on AWS Community Builders.   Ser QA nessa...
 - **Link:** https://dev.to/he4rt/claude-e-obsidian-como-uma-qa-utiliza-essas-ferramentas-no-dia-a-dia-51jc
 
+**Added 2026-10-09**
+
+### [I Write on a 2006 iMac and Code on a $200 Laptop](https://dev.to/mikachu/i-write-on-a-2006-imac-and-code-on-a-200-laptop-9n4)
+- **Author:** Mika Flowers | **Published:** Oct 7 | **Read time:** 4 min
+- **Community:** 50 reactions, 18 comments -- a top post in #productivity
+- **Tags:** discuss, productivity, webdev, programming
+- **Summary:** I've always loved the idea of reusing old hardware, especially when it's still more than capable of...
+- **Link:** https://dev.to/mikachu/i-write-on-a-2006-imac-and-code-on-a-200-laptop-9n4
+
 
 ## Hacker News Picks
 
