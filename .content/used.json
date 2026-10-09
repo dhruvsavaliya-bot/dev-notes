@@ -11,6 +11,7 @@
     "http://arxiv.org/abs/2609.28608v1",
     "http://arxiv.org/abs/2609.30629v1",
     "http://arxiv.org/abs/2609.31250v1",
+    "http://arxiv.org/abs/2609.34603v2",
     "http://arxiv.org/abs/2609.35878v1",
     "http://arxiv.org/abs/2609.37626v1",
     "http://arxiv.org/abs/2609.38281v1",
@@ -737,12 +738,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Hacker News Picks",
-      "title": "Archaeologists Are Reconstructing the 'Invisible' Techn",
-      "url": "https://news.ycombinator.com/item?id=49998992"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Developer Tools",
       "title": "liangxiegame/QFramework",
       "url": "https://github.com/liangxiegame/QFramework"
@@ -794,6 +789,12 @@
       "subcat": "Models & Datasets",
       "title": "TIGER-Lab/MMLU-Pro",
       "url": "https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Research Papers",
+      "title": "After the Fix: Transfer of Corrected Agent Experience",
+      "url": "http://arxiv.org/abs/2609.34603v2"
     }
   ]
 }

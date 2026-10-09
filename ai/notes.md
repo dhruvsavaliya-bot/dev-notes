@@ -922,3 +922,13 @@ Lessons from building with LLMs.
 - **Abstract:** Hardware-operable failures (HOFs) interrupt large language model (LLM) training but permit recovery on the same hardware without reset, repair, or replacement. Existing recovery systems nevertheless reload checkpoints, recompute lost progress, and rebuild process state, idling GPUs that could otherwise continue training. We present Leto, a fault-tolerant training system that leverages surviving hardware to enable efficient in-place recovery. Our key insight is that the state needed to resume tra...
 - **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.00687v1
+
+**Added 2026-10-09**
+
+### [After the Fix: Transfer of Corrected Agent Experience](http://arxiv.org/abs/2609.34603v2)
+- **Authors:** Yanfei Zhang, Xu Lin
+- **Published:** 2026-09-28 | **Primary category:** cs.SE
+- **Categories:** cs.AI, cs.CL, cs.SE
+- **Abstract:** Does repairing an episode make its experience a better memory for the next task? We transfer the same failed source before and after accepted repair to a fixed target, alongside independent execution. Our 3,300 runs cover 100 ThinkingBox pairs and the same 100 APEX pairs with and without source-state inheritance, under eleven conditions. ThinkingBox's Full/Skill/Hybrid correction gains are 44/29/32 percentage points, with corrected performance 25/22/18 points above independence; inference weaken...
+- **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.34603v2
