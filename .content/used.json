@@ -448,6 +448,7 @@
     "https://news.ycombinator.com/item?id=36493715",
     "https://news.ycombinator.com/item?id=36901303",
     "https://news.ycombinator.com/item?id=37149349",
+    "https://news.ycombinator.com/item?id=4029427",
     "https://news.ycombinator.com/item?id=40457229",
     "https://news.ycombinator.com/item?id=4166183",
     "https://news.ycombinator.com/item?id=42284412",
@@ -716,12 +717,6 @@
   "recent": [
     {
       "date": "2026-10-08",
-      "subcat": "Web & Frontend",
-      "title": "mesamirh/MovieBox-Tui",
-      "url": "https://github.com/mesamirh/MovieBox-Tui"
-    },
-    {
-      "date": "2026-10-08",
       "subcat": "PHP",
       "title": "PHP in 2021",
       "url": "https://news.ycombinator.com/item?id=26825468"
@@ -773,6 +768,12 @@
       "subcat": "Models & Datasets",
       "title": "drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
       "url": "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "PHP",
+      "title": "Laravel : A New PHP Framework",
+      "url": "https://news.ycombinator.com/item?id=4029427"
     }
   ]
 }

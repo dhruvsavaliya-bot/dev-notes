@@ -538,6 +538,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=26825468
 - **Link:** https://stitcher.io/blog/php-in-2021
 
+**Added 2026-10-09**
+
+### [Laravel : A New PHP Framework](http://www.ianlandsman.com/2012/02/22/laravel)
+- **Source:** www.ianlandsman.com | **Posted:** 2012-05-27 | **By:** rshetty
+- **Community:** 92 points, 94 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=4029427
+- **Link:** http://www.ianlandsman.com/2012/02/22/laravel
+
 
 ## Ruby
 
