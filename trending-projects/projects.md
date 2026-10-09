@@ -1767,6 +1767,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/ScottPlot/ScottPlot
 
+**Added 2026-10-09**
+
+### [waligoraamodio288-rgb/hongguo-desktop-releases](https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases)
+- **Stats:** 2,415 stars | 121 forks | 171 open issues
+- **Language:** N/A | **Created:** 2026-09-14 | **License:** None
+- **Topics:** desktop-app, hongguo, video-player, windows
+- **What it is:** 红果短剧电脑版（红果桌面版）｜Windows 10/11 免费短剧播放器，无需安卓模拟器；直接下载 EXE，附安装说明和问题反馈。由渠道有数独立维护。
+- **Growth:** averaging ~96 stars/day since launch.
+- **Link:** https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases
+
 
 ## Web & Frontend
 

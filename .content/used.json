@@ -341,6 +341,7 @@
     "https://github.com/vercel-labs/fx",
     "https://github.com/vercel-labs/scriptc",
     "https://github.com/vinzdg/codenotch",
+    "https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases",
     "https://github.com/wang2122/sprix-sage-router",
     "https://github.com/wide-trace/open-higgsfield",
     "https://github.com/wild-linker/wild",
@@ -749,12 +750,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "JavaScript",
-      "title": "Actual Budget",
-      "url": "https://lobste.rs/s/tfjoxv/actual_budget"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Models & Datasets",
       "title": "meta-llama/Llama-3.1-8B",
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B"
@@ -806,6 +801,12 @@
       "subcat": "Hacker News Picks",
       "title": "Why isn't the industry freaking out about DeepSeek 4.1",
       "url": "https://news.ycombinator.com/item?id=50000488"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Other Cool Projects",
+      "title": "waligoraamodio288-rgb/hongguo-desktop-releases",
+      "url": "https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases"
     }
   ]
 }
