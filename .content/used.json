@@ -456,6 +456,7 @@
     "https://news.ycombinator.com/item?id=15471449",
     "https://news.ycombinator.com/item?id=16505244",
     "https://news.ycombinator.com/item?id=16535886",
+    "https://news.ycombinator.com/item?id=17449810",
     "https://news.ycombinator.com/item?id=18407173",
     "https://news.ycombinator.com/item?id=19209957",
     "https://news.ycombinator.com/item?id=20854214",
@@ -753,12 +754,6 @@
     {
       "date": "2026-10-09",
       "subcat": "Models & Datasets",
-      "title": "zai-org/GLM-5.3-Flash",
-      "url": "https://huggingface.co/zai-org/GLM-5.3-Flash"
-    },
-    {
-      "date": "2026-10-09",
-      "subcat": "Models & Datasets",
       "title": "Qwen/Qwen2.5-32B-Instruct-AWQ",
       "url": "https://huggingface.co/Qwen/Qwen2.5-32B-Instruct-AWQ"
     },
@@ -809,6 +804,12 @@
       "subcat": "Models & Datasets",
       "title": "Anthropic/claude-protein-binder-design",
       "url": "https://huggingface.co/datasets/Anthropic/claude-protein-binder-design"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Termtosvg  Record terminal sessions as SVG ani",
+      "url": "https://news.ycombinator.com/item?id=17449810"
     }
   ]
 }

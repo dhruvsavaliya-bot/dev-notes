@@ -1461,6 +1461,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=39783223
 - **Link:** https://memories.gallery/
 
+**Added 2026-10-09**
+
+### [Show HN: Termtosvg – Record terminal sessions as SVG animations](https://github.com/nbedos/termtosvg)
+- **Source:** github.com | **Posted:** 2018-07-03 | **By:** nbe
+- **Community:** 767 points, 79 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=17449810
+- **Link:** https://github.com/nbedos/termtosvg
+
 
 ## Git & Workflow
 
