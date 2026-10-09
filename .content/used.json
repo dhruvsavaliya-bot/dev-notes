@@ -476,6 +476,7 @@
     "https://news.ycombinator.com/item?id=36901303",
     "https://news.ycombinator.com/item?id=37149349",
     "https://news.ycombinator.com/item?id=38733968",
+    "https://news.ycombinator.com/item?id=39783223",
     "https://news.ycombinator.com/item?id=4029427",
     "https://news.ycombinator.com/item?id=40457229",
     "https://news.ycombinator.com/item?id=41586031",
@@ -747,12 +748,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Research Papers",
-      "title": "After the Fix: Transfer of Corrected Agent Experience",
-      "url": "http://arxiv.org/abs/2609.34603v2"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Elixir",
       "title": "Elixir v1.20 released: now a gradually typed language",
       "url": "https://lobste.rs/s/wq1csk/elixir_v1_20_released_now_gradually_typed"
@@ -804,6 +799,12 @@
       "subcat": "Models & Datasets",
       "title": "zgcagi/ZGCM-1-Data",
       "url": "https://huggingface.co/datasets/zgcagi/ZGCM-1-Data"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Memories  FOSS Google Photos alternative built",
+      "url": "https://news.ycombinator.com/item?id=39783223"
     }
   ]
 }

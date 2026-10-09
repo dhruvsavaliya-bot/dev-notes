@@ -1452,6 +1452,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=38733968
 - **Link:** https://heynote.com/
 
+**Added 2026-10-09**
+
+### [Show HN: Memories – FOSS Google Photos alternative built for high performance](https://memories.gallery/)
+- **Source:** memories.gallery | **Posted:** 2024-03-21 | **By:** radialapps
+- **Community:** 797 points, 230 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=39783223
+- **Link:** https://memories.gallery/
+
 
 ## Git & Workflow
 
