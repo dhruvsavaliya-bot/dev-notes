@@ -725,6 +725,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/microsoft/Florence-2-base
 
+**Added 2026-10-09**
+
+### [tau/commonsense_qa](https://huggingface.co/datasets/tau/commonsense_qa)
+- **Stats:** 155 likes | 92,071 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2022-03-02
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/tau/commonsense_qa
+
 
 ## Research Papers
 

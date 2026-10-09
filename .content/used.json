@@ -378,6 +378,7 @@
     "https://huggingface.co/datasets/nvidia/OpenH-RF",
     "https://huggingface.co/datasets/openai/healthbench",
     "https://huggingface.co/datasets/openbmb/RLHF-V-Dataset",
+    "https://huggingface.co/datasets/tau/commonsense_qa",
     "https://huggingface.co/datasets/ystemsrx/Erotic_Literature_Collection",
     "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
     "https://huggingface.co/google/siglip-base-patch16-224",
@@ -725,12 +726,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Models & Datasets",
-      "title": "drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
-      "url": "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "PHP",
       "title": "Laravel : A New PHP Framework",
       "url": "https://news.ycombinator.com/item?id=4029427"
@@ -782,6 +777,12 @@
       "subcat": "Java",
       "title": "Turbo Haskell",
       "url": "https://lobste.rs/s/j7kltq/turbo_haskell"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Models & Datasets",
+      "title": "tau/commonsense_qa",
+      "url": "https://huggingface.co/datasets/tau/commonsense_qa"
     }
   ]
 }
