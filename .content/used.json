@@ -215,6 +215,7 @@
     "https://github.com/ZzzLc0405/photo-abstract-editorial",
     "https://github.com/aden-hive/hive",
     "https://github.com/ai-sucks-butt/ai-sucks-butt",
+    "https://github.com/aliyun/ai-agent-handbook",
     "https://github.com/amagine-ai/Amagine3D",
     "https://github.com/amirh00sain/SpiderPanel",
     "https://github.com/amosblomqvist/learn",
@@ -723,12 +724,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Hacker News Picks",
-      "title": "Theranos.world",
-      "url": "https://news.ycombinator.com/item?id=50009295"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Python",
       "title": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything"
@@ -780,6 +775,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: How are you using GPT to be productive?",
       "url": "https://news.ycombinator.com/item?id=35299071"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "AI & Machine Learning",
+      "title": "aliyun/ai-agent-handbook",
+      "url": "https://github.com/aliyun/ai-agent-handbook"
     }
   ]
 }

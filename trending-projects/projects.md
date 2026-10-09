@@ -904,6 +904,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~52 stars/day since launch.
 - **Link:** https://github.com/FlashML-org/FreeVideo
 
+**Added 2026-10-09**
+
+### [aliyun/ai-agent-handbook](https://github.com/aliyun/ai-agent-handbook)
+- **Stats:** 1,259 stars | 186 forks | 3 open issues
+- **Language:** N/A | **Created:** 2026-09-11 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** A practical guide to building enterprise AI agents across their full lifecycle.
+- **Growth:** averaging ~44 stars/day since launch.
+- **Link:** https://github.com/aliyun/ai-agent-handbook
+
 
 ## Other Cool Projects
 

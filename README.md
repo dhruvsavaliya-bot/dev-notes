@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**712 entries and counting** · Last updated: 2026-10-09
+**713 entries and counting** · Last updated: 2026-10-09
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 199 |
+| [Trending Projects](trending-projects/projects.md) | 200 |
 | [AI / LLM Notes](ai/notes.md) | 94 |
 | [Reading List](articles/reading-list.md) | 178 |
 | [Coding Tips](coding-tips/tips.md) | 162 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-09** · *AI & Machine Learning* — [aliyun/ai-agent-handbook](https://github.com/aliyun/ai-agent-handbook)
 - **2026-10-09** · *Show & Ask HN* — [Ask HN: How are you using GPT to be productive?](https://news.ycombinator.com/item?id=35299071)
 - **2026-10-09** · *Models & Datasets* — [microsoft/Florence-2-base](https://huggingface.co/microsoft/Florence-2-base)
 - **2026-10-09** · *Python* — [Pandas Should Go Extinct](https://lobste.rs/s/imdwmj/pandas_should_go_extinct)
 - **2026-10-09** · *Developer Tools* — [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node)
-- **2026-10-09** · *Show & Ask HN* — [Ask HN: Are we overcomplicating software development?](https://news.ycombinator.com/item?id=13426896)
 
 ## How it works
 
