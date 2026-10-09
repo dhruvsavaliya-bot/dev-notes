@@ -196,6 +196,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/j7kltq/turbo_haskell
 - **Link:** https://comonad.com/reader/2026/turbo-haskell/
 
+**Added 2026-10-09**
+
+### [Actual Budget](https://actualbudget.org/)
+- **Source:** actualbudget.org | **Posted:** 2026-08-17 | **By:** pyfisch
+- **Community:** 17 score, 8 comments on Lobsters
+- **Tags:** finance, javascript
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/tfjoxv/actual_budget
+- **Link:** https://actualbudget.org/
+
 
 ## TypeScript
 

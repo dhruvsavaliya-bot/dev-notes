@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**728 entries and counting** · Last updated: 2026-10-09
+**729 entries and counting** · Last updated: 2026-10-09
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 100 |
 | [Reading List](articles/reading-list.md) | 179 |
 | [Coding Tips](coding-tips/tips.md) | 164 |
-| [Language Notes](languages/notes.md) | 84 |
+| [Language Notes](languages/notes.md) | 85 |
 
 ## Latest additions
 
+- **2026-10-09** · *JavaScript* — [Actual Budget](https://lobste.rs/s/tfjoxv/actual_budget)
 - **2026-10-09** · *Elixir* — [Elixir v1.20 released: now a gradually typed language](https://lobste.rs/s/wq1csk/elixir_v1_20_released_now_gradually_typed)
 - **2026-10-09** · *Research Papers* — [After the Fix: Transfer of Corrected Agent Experience](http://arxiv.org/abs/2609.34603v2)
 - **2026-10-09** · *Models & Datasets* — [TIGER-Lab/MMLU-Pro](https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro)
 - **2026-10-09** · *PHP* — [laramint/laravel-brain](https://github.com/laramint/laravel-brain)
-- **2026-10-09** · *Show & Ask HN* — [Show HN: Heynote  A dedicated scratchpad for developers](https://news.ycombinator.com/item?id=38733968)
 
 ## How it works
 

@@ -430,6 +430,7 @@
     "https://lobste.rs/s/rtcnc8/javascript_pun_tagged_template_literal",
     "https://lobste.rs/s/rucvky/go_concurrency_distilled",
     "https://lobste.rs/s/rwdufq/anti_patterns_software_blogging",
+    "https://lobste.rs/s/tfjoxv/actual_budget",
     "https://lobste.rs/s/tmr7jp/extend_lua_with_zig_1_hello_world",
     "https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem",
     "https://lobste.rs/s/ul9krj/hacking_go_compiler_efficiently_map_ipv4",
@@ -739,12 +740,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Rust",
-      "title": "Rust for CPython (Python Language Summit 2026)",
-      "url": "https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Models & Datasets",
       "title": "openbmb/UltraData-Code",
       "url": "https://huggingface.co/datasets/openbmb/UltraData-Code"
@@ -796,6 +791,12 @@
       "subcat": "Elixir",
       "title": "Elixir v1.20 released: now a gradually typed language",
       "url": "https://lobste.rs/s/wq1csk/elixir_v1_20_released_now_gradually_typed"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "JavaScript",
+      "title": "Actual Budget",
+      "url": "https://lobste.rs/s/tfjoxv/actual_budget"
     }
   ]
 }
