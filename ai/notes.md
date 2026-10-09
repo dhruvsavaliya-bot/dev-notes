@@ -779,6 +779,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/meta-llama/Llama-3.1-8B
 
+**Added 2026-10-09**
+
+### [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash)
+- **Stats:** 2,766 likes | 6,390,969 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-08-25
+- **Tags:** transformers, safetensors, glm5_next, image-text-to-text, conversational, en
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/zai-org/GLM-5.3-Flash
+
 
 ## Research Papers
 
