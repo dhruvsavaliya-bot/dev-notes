@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**732 entries and counting** · Last updated: 2026-10-09
+**733 entries and counting** · Last updated: 2026-10-09
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 201 |
-| [AI / LLM Notes](ai/notes.md) | 102 |
+| [AI / LLM Notes](ai/notes.md) | 103 |
 | [Reading List](articles/reading-list.md) | 179 |
 | [Coding Tips](coding-tips/tips.md) | 164 |
 | [Language Notes](languages/notes.md) | 86 |
 
 ## Latest additions
 
+- **2026-10-09** · *Models & Datasets* — [Qwen/Qwen2.5-32B-Instruct-AWQ](https://huggingface.co/Qwen/Qwen2.5-32B-Instruct-AWQ)
 - **2026-10-09** · *Models & Datasets* — [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash)
 - **2026-10-09** · *Swift* — [celldock/celldock-for-mac](https://github.com/celldock/celldock-for-mac)
 - **2026-10-09** · *Models & Datasets* — [meta-llama/Llama-3.1-8B](https://huggingface.co/meta-llama/Llama-3.1-8B)
 - **2026-10-09** · *JavaScript* — [Actual Budget](https://lobste.rs/s/tfjoxv/actual_budget)
-- **2026-10-09** · *Elixir* — [Elixir v1.20 released: now a gradually typed language](https://lobste.rs/s/wq1csk/elixir_v1_20_released_now_gradually_typed)
 
 ## How it works
 

@@ -371,6 +371,7 @@
     "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged",
     "https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+    "https://huggingface.co/Qwen/Qwen2.5-32B-Instruct-AWQ",
     "https://huggingface.co/Qwen/Qwen3-ASR-1.7B",
     "https://huggingface.co/almanach/camembert-base",
     "https://huggingface.co/bytedance-research/Lance",
@@ -743,12 +744,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Models & Datasets",
-      "title": "argilla/magpie-ultra-v0.1",
-      "url": "https://huggingface.co/datasets/argilla/magpie-ultra-v0.1"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Heynote  A dedicated scratchpad for developers",
       "url": "https://news.ycombinator.com/item?id=38733968"
@@ -800,6 +795,12 @@
       "subcat": "Models & Datasets",
       "title": "zai-org/GLM-5.3-Flash",
       "url": "https://huggingface.co/zai-org/GLM-5.3-Flash"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Models & Datasets",
+      "title": "Qwen/Qwen2.5-32B-Instruct-AWQ",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-32B-Instruct-AWQ"
     }
   ]
 }
