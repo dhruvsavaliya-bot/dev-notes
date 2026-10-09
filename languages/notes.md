@@ -734,6 +734,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/iotaty/state_simd_rust_2026
 - **Link:** https://shnatsel.github.io/state-of-simd-rust-2026/
 
+**Added 2026-10-09**
+
+### [Rust for CPython (Python Language Summit 2026)](https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/)
+- **Source:** blog.python.org | **Posted:** 2026-10-03 | **By:** blin
+- **Community:** 34 score, 6 comments on Lobsters
+- **Tags:** python, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit
+- **Link:** https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/
+
 
 ## Elixir
 

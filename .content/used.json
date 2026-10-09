@@ -405,6 +405,7 @@
     "https://lobste.rs/s/bcfzer/hacking_nameof",
     "https://lobste.rs/s/ccnirb/there_are_only_twelve_4x4_sudokus_cool",
     "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your",
+    "https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit",
     "https://lobste.rs/s/dpfpr3/goroutine_leak_profiles",
     "https://lobste.rs/s/iii8sl/micro_language_implementation_calcium",
     "https://lobste.rs/s/imdwmj/pandas_should_go_extinct",
@@ -729,12 +730,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Developer Tools",
-      "title": "kryvora-network/kryvora-node",
-      "url": "https://github.com/kryvora-network/kryvora-node"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Python",
       "title": "Pandas Should Go Extinct",
       "url": "https://lobste.rs/s/imdwmj/pandas_should_go_extinct"
@@ -786,6 +781,12 @@
       "subcat": "Developer Tools",
       "title": "liangxiegame/QFramework",
       "url": "https://github.com/liangxiegame/QFramework"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Rust",
+      "title": "Rust for CPython (Python Language Summit 2026)",
+      "url": "https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit"
     }
   ]
 }
