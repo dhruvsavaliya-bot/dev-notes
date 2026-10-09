@@ -815,6 +815,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/Anthropic/claude-protein-binder-design
 
+**Added 2026-10-09**
+
+### [eidon-ai/tracker-pov](https://huggingface.co/datasets/eidon-ai/tracker-pov)
+- **Stats:** 71 likes | 84,632 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-09-11
+- **Tags:** egocentric, imu, manipulation, activities-of-daily-living, motion-capture, embodied-ai
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/eidon-ai/tracker-pov
+
 
 ## Research Papers
 

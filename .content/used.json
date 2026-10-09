@@ -382,6 +382,7 @@
     "https://huggingface.co/datasets/ShadenA/MathNet",
     "https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro",
     "https://huggingface.co/datasets/argilla/magpie-ultra-v0.1",
+    "https://huggingface.co/datasets/eidon-ai/tracker-pov",
     "https://huggingface.co/datasets/espnet/yodas2",
     "https://huggingface.co/datasets/harborframework/terminal-bench-2.0",
     "https://huggingface.co/datasets/markov-ai/computer-use-large",
@@ -754,12 +755,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Performance",
-      "title": "The 7 Walls JavaScript Hits  and How WebAssembly Gets P",
-      "url": "https://dev.to/james_anderson_h/the-7-walls-javascript-hits-and-how-webassembly-gets-past-them-3khk"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Ruby",
       "title": "Ruby-SAML pwned by XML signature wrapping attacks",
       "url": "https://news.ycombinator.com/item?id=41586031"
@@ -811,6 +806,12 @@
       "subcat": "Swift",
       "title": "Ask HN: I realise data science is not for me and feel d",
       "url": "https://news.ycombinator.com/item?id=30513030"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Models & Datasets",
+      "title": "eidon-ai/tracker-pov",
+      "url": "https://huggingface.co/datasets/eidon-ai/tracker-pov"
     }
   ]
 }
