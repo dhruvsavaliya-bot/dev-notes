@@ -1470,6 +1470,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=17449810
 - **Link:** https://github.com/nbedos/termtosvg
 
+**Added 2026-10-09**
+
+### [Show HN: Three new Kitten TTS models – smallest less than 25MB](https://github.com/KittenML/KittenTTS)
+- **Source:** github.com | **Posted:** 2026-03-19 | **By:** rohan_joshi
+- **Community:** 561 points, 181 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=47441546
+- **Link:** https://github.com/KittenML/KittenTTS
+
 
 ## Git & Workflow
 

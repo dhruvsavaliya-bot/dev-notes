@@ -494,6 +494,7 @@
     "https://news.ycombinator.com/item?id=45352432",
     "https://news.ycombinator.com/item?id=45968310",
     "https://news.ycombinator.com/item?id=45989469",
+    "https://news.ycombinator.com/item?id=47441546",
     "https://news.ycombinator.com/item?id=48896600",
     "https://news.ycombinator.com/item?id=48896665",
     "https://news.ycombinator.com/item?id=48926590",
@@ -755,12 +756,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Ruby",
-      "title": "Ruby-SAML pwned by XML signature wrapping attacks",
-      "url": "https://news.ycombinator.com/item?id=41586031"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Models & Datasets",
       "title": "zgcagi/ZGCM-1-Data",
       "url": "https://huggingface.co/datasets/zgcagi/ZGCM-1-Data"
@@ -812,6 +807,12 @@
       "subcat": "Models & Datasets",
       "title": "eidon-ai/tracker-pov",
       "url": "https://huggingface.co/datasets/eidon-ai/tracker-pov"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Three new Kitten TTS models  smallest less tha",
+      "url": "https://news.ycombinator.com/item?id=47441546"
     }
   ]
 }
