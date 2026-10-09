@@ -787,6 +787,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/2tspe2/beam_metrics_clickhouse
 - **Link:** https://andrealeopardi.com/posts/beam-metrics-in-clickhouse/
 
+**Added 2026-10-09**
+
+### [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/)
+- **Source:** elixir-lang.org | **Posted:** 2026-06-03 | **By:** munksgaard
+- **Community:** 103 score, 10 comments on Lobsters
+- **Tags:** elixir, plt
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/wq1csk/elixir_v1_20_released_now_gradually_typed
+- **Link:** https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/
+
 
 ## C#
 
