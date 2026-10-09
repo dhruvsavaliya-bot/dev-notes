@@ -377,6 +377,7 @@
     "https://huggingface.co/Qwen/Qwen3-ASR-1.7B",
     "https://huggingface.co/almanach/camembert-base",
     "https://huggingface.co/bytedance-research/Lance",
+    "https://huggingface.co/datasets/Anthropic/claude-protein-binder-design",
     "https://huggingface.co/datasets/FlyRank/internship-warehouse",
     "https://huggingface.co/datasets/ShadenA/MathNet",
     "https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro",
@@ -751,12 +752,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Swift",
-      "title": "celldock/celldock-for-mac",
-      "url": "https://github.com/celldock/celldock-for-mac"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Models & Datasets",
       "title": "zai-org/GLM-5.3-Flash",
       "url": "https://huggingface.co/zai-org/GLM-5.3-Flash"
@@ -808,6 +803,12 @@
       "subcat": "Ruby",
       "title": "'Learn Ruby on Rails' is free today",
       "url": "https://news.ycombinator.com/item?id=6821576"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Models & Datasets",
+      "title": "Anthropic/claude-protein-binder-design",
+      "url": "https://huggingface.co/datasets/Anthropic/claude-protein-binder-design"
     }
   ]
 }

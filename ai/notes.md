@@ -806,6 +806,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/zgcagi/ZGCM-1-Data
 
+**Added 2026-10-09**
+
+### [Anthropic/claude-protein-binder-design](https://huggingface.co/datasets/Anthropic/claude-protein-binder-design)
+- **Stats:** 218 likes | 37,369 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-08-17
+- **Tags:** biology, proteins, protein-design, de-novo-binders, surface-plasmon-resonance, biolayer-interferometry
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/Anthropic/claude-protein-binder-design
+
 
 ## Research Papers
 
