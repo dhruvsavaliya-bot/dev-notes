@@ -1983,6 +1983,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~75 stars/day since launch.
 - **Link:** https://github.com/kryvora-network/kryvora-node
 
+**Added 2026-10-09**
+
+### [liangxiegame/QFramework](https://github.com/liangxiegame/QFramework)
+- **Stats:** 5,473 stars | 863 forks | 8 open issues
+- **Language:** C# | **Created:** 2016-02-05 | **License:** MIT
+- **Topics:** frameworks, game-dev, godot, godot-addon, godot-engine, godot-plugin
+- **What it is:** Godot/Unity3D System Design Architecture
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/liangxiegame/QFramework
+
 
 ## Backend & Infrastructure
 

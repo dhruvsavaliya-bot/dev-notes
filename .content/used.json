@@ -288,6 +288,7 @@
     "https://github.com/kryvora-network/kryvora-node",
     "https://github.com/kvcache-ai/AgentENV",
     "https://github.com/langchain-ai/openwiki",
+    "https://github.com/liangxiegame/QFramework",
     "https://github.com/lnkiai/m3e-canvas",
     "https://github.com/lopopolo/harness-engineering",
     "https://github.com/mayswind/ezbookkeeping",
@@ -728,12 +729,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: Are we overcomplicating software development?",
-      "url": "https://news.ycombinator.com/item?id=13426896"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Developer Tools",
       "title": "kryvora-network/kryvora-node",
       "url": "https://github.com/kryvora-network/kryvora-node"
@@ -785,6 +780,12 @@
       "subcat": "Hacker News Picks",
       "title": "Archaeologists Are Reconstructing the 'Invisible' Techn",
       "url": "https://news.ycombinator.com/item?id=49998992"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Developer Tools",
+      "title": "liangxiegame/QFramework",
+      "url": "https://github.com/liangxiegame/QFramework"
     }
   ]
 }
