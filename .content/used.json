@@ -719,18 +719,13 @@
     "https://news.ycombinator.com/item?id=49970667",
     "https://news.ycombinator.com/item?id=49971230",
     "https://news.ycombinator.com/item?id=49977588",
+    "https://news.ycombinator.com/item?id=49998992",
     "https://news.ycombinator.com/item?id=50006832",
     "https://news.ycombinator.com/item?id=50009295",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=7185024"
   ],
   "recent": [
-    {
-      "date": "2026-10-09",
-      "subcat": "Models & Datasets",
-      "title": "Comfy-Org/Wan_2.1_ComfyUI_repackaged",
-      "url": "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged"
-    },
     {
       "date": "2026-10-09",
       "subcat": "Show & Ask HN",
@@ -784,6 +779,12 @@
       "subcat": "Productivity",
       "title": "I Write on a 2006 iMac and Code on a $200 Laptop",
       "url": "https://dev.to/mikachu/i-write-on-a-2006-imac-and-code-on-a-200-laptop-9n4"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Hacker News Picks",
+      "title": "Archaeologists Are Reconstructing the 'Invisible' Techn",
+      "url": "https://news.ycombinator.com/item?id=49998992"
     }
   ]
 }

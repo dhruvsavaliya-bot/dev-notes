@@ -1469,6 +1469,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50009295
 - **Link:** https://www.theranos.world/
 
+**Added 2026-10-09**
+
+### [Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age](https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/)
+- **Source:** www.smithsonianmag.com | **Posted:** 2026-10-07 | **By:** Hooke
+- **Community:** 117 points, 51 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49998992
+- **Link:** https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/
+
 
 ## DevOps & Cloud
 
