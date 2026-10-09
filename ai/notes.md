@@ -716,6 +716,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged
 
+**Added 2026-10-09**
+
+### [microsoft/Florence-2-base](https://huggingface.co/microsoft/Florence-2-base)
+- **Stats:** 404 likes | 3,069,943 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2024-06-15
+- **Tags:** transformers, pytorch, safetensors, florence2, image-text-to-text, vision
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/microsoft/Florence-2-base
+
 
 ## Research Papers
 

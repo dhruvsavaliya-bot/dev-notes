@@ -382,6 +382,7 @@
     "https://huggingface.co/google/siglip-base-patch16-224",
     "https://huggingface.co/jaredpalmer/kev-4b",
     "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+    "https://huggingface.co/microsoft/Florence-2-base",
     "https://huggingface.co/microsoft/TRELLIS-image-large",
     "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit",
     "https://huggingface.co/prompthero/openjourney",
@@ -721,12 +722,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "AI & Machine Learning",
-      "title": "FlashML-org/FreeVideo",
-      "url": "https://github.com/FlashML-org/FreeVideo"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Research Papers",
       "title": "Leto: Fast In-Place Recovery for LLM Training on Surviv",
       "url": "http://arxiv.org/abs/2610.00687v1"
@@ -778,6 +773,12 @@
       "subcat": "Python",
       "title": "Pandas Should Go Extinct",
       "url": "https://lobste.rs/s/imdwmj/pandas_should_go_extinct"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Models & Datasets",
+      "title": "microsoft/Florence-2-base",
+      "url": "https://huggingface.co/microsoft/Florence-2-base"
     }
   ]
 }
