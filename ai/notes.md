@@ -707,6 +707,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI
 
+**Added 2026-10-09**
+
+### [Comfy-Org/Wan_2.1_ComfyUI_repackaged](https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged)
+- **Stats:** 997 likes | 3,666,406 downloads
+- **Kind:** Hugging Face model | **Task:** n/a | **Created:** 2025-02-25
+- **Tags:** diffusion-single-file, comfyui
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged
+
 
 ## Research Papers
 

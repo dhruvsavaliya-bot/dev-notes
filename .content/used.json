@@ -359,6 +359,7 @@
     "https://github.com/zhu1090093659/dsh-web",
     "https://github.com/zhu1090093659/dsh-web-ui",
     "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
+    "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged",
     "https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
     "https://huggingface.co/Qwen/Qwen3-ASR-1.7B",
@@ -716,12 +717,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-08",
-      "subcat": "PHP",
-      "title": "PHP in 2021",
-      "url": "https://news.ycombinator.com/item?id=26825468"
-    },
-    {
       "date": "2026-10-09",
       "subcat": "Ruby",
       "title": "grubby: static site generator for git repos written in",
@@ -774,6 +769,12 @@
       "subcat": "PHP",
       "title": "Laravel : A New PHP Framework",
       "url": "https://news.ycombinator.com/item?id=4029427"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Models & Datasets",
+      "title": "Comfy-Org/Wan_2.1_ComfyUI_repackaged",
+      "url": "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged"
     }
   ]
 }
