@@ -364,6 +364,7 @@
     "https://github.com/zhu1090093659/dsh-web",
     "https://github.com/zhu1090093659/dsh-web-ui",
     "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
+    "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
     "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged",
     "https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
@@ -732,12 +733,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: How are you using GPT to be productive?",
-      "url": "https://news.ycombinator.com/item?id=35299071"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "AI & Machine Learning",
       "title": "aliyun/ai-agent-handbook",
       "url": "https://github.com/aliyun/ai-agent-handbook"
@@ -789,6 +784,12 @@
       "subcat": "C#",
       "title": "MikuLeaks/MikuSB",
       "url": "https://github.com/MikuLeaks/MikuSB"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Models & Datasets",
+      "title": "BreezeBlue/Breeze-TTS-2",
+      "url": "https://huggingface.co/BreezeBlue/Breeze-TTS-2"
     }
   ]
 }
