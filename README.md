@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**724 entries and counting** · Last updated: 2026-10-09
+**725 entries and counting** · Last updated: 2026-10-09
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 98 |
 | [Reading List](articles/reading-list.md) | 179 |
 | [Coding Tips](coding-tips/tips.md) | 164 |
-| [Language Notes](languages/notes.md) | 82 |
+| [Language Notes](languages/notes.md) | 83 |
 
 ## Latest additions
 
+- **2026-10-09** · *PHP* — [laramint/laravel-brain](https://github.com/laramint/laravel-brain)
 - **2026-10-09** · *Show & Ask HN* — [Show HN: Heynote  A dedicated scratchpad for developers](https://news.ycombinator.com/item?id=38733968)
 - **2026-10-09** · *Models & Datasets* — [argilla/magpie-ultra-v0.1](https://huggingface.co/datasets/argilla/magpie-ultra-v0.1)
 - **2026-10-09** · *Models & Datasets* — [BreezeBlue/Breeze-TTS-2](https://huggingface.co/BreezeBlue/Breeze-TTS-2)
 - **2026-10-09** · *C#* — [MikuLeaks/MikuSB](https://github.com/MikuLeaks/MikuSB)
-- **2026-10-09** · *Models & Datasets* — [openbmb/UltraData-Code](https://huggingface.co/datasets/openbmb/UltraData-Code)
 
 ## How it works
 

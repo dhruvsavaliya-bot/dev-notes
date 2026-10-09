@@ -289,6 +289,7 @@
     "https://github.com/kryvora-network/kryvora-node",
     "https://github.com/kvcache-ai/AgentENV",
     "https://github.com/langchain-ai/openwiki",
+    "https://github.com/laramint/laravel-brain",
     "https://github.com/liangxiegame/QFramework",
     "https://github.com/lnkiai/m3e-canvas",
     "https://github.com/lopopolo/harness-engineering",
@@ -735,12 +736,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Models & Datasets",
-      "title": "tau/commonsense_qa",
-      "url": "https://huggingface.co/datasets/tau/commonsense_qa"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Productivity",
       "title": "I Write on a 2006 iMac and Code on a $200 Laptop",
       "url": "https://dev.to/mikachu/i-write-on-a-2006-imac-and-code-on-a-200-laptop-9n4"
@@ -792,6 +787,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Heynote  A dedicated scratchpad for developers",
       "url": "https://news.ycombinator.com/item?id=38733968"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "PHP",
+      "title": "laramint/laravel-brain",
+      "url": "https://github.com/laramint/laravel-brain"
     }
   ]
 }

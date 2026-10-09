@@ -567,6 +567,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=4029427
 - **Link:** http://www.ianlandsman.com/2012/02/22/laravel
 
+**Added 2026-10-09**
+
+### [laramint/laravel-brain](https://github.com/laramint/laravel-brain)
+- **Stats:** 935 stars | 53 forks | 3 open issues
+- **Language:** PHP | **Created:** 2026-04-29 | **License:** None
+- **Topics:** brain, laramint, laravel, laravel-auto-crud, laravel-brain, laravel-packages
+- **What it is:** Visualize your Laravel request lifecycle as an interactive graph
+- **Growth:** averaging ~5 stars/day since launch.
+- **Link:** https://github.com/laramint/laravel-brain
+
 
 ## Ruby
 
