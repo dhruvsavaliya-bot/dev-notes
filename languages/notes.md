@@ -668,6 +668,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=41586031
 - **Link:** https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/
 
+**Added 2026-10-09**
+
+### ['Learn Ruby on Rails' is free today](http://learn-rails.com/download-offer.html)
+- **Source:** learn-rails.com | **Posted:** 2013-11-29 | **By:** DanielKehoe
+- **Community:** 172 points, 63 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=6821576
+- **Link:** http://learn-rails.com/download-offer.html
+
 
 ## Swift
 
