@@ -17,6 +17,7 @@
     "http://arxiv.org/abs/2609.38281v1",
     "http://arxiv.org/abs/2609.38722v1",
     "http://arxiv.org/abs/2610.00687v1",
+    "http://arxiv.org/abs/2610.01282v1",
     "http://arxiv.org/abs/2610.03001v1",
     "http://arxiv.org/abs/2610.03109v1",
     "http://arxiv.org/abs/2610.03665v1",
@@ -757,12 +758,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Memories  FOSS Google Photos alternative built",
-      "url": "https://news.ycombinator.com/item?id=39783223"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Hacker News Picks",
       "title": "Why isn't the industry freaking out about DeepSeek 4.1",
       "url": "https://news.ycombinator.com/item?id=50000488"
@@ -814,6 +809,12 @@
       "subcat": "TypeScript",
       "title": "Yeachan-Heo/oh-my-codex",
       "url": "https://github.com/Yeachan-Heo/oh-my-codex"
+    },
+    {
+      "date": "2026-10-10",
+      "subcat": "Research Papers",
+      "title": "Trustworthy Data- and ML-Ops for Intelligent Transporta",
+      "url": "http://arxiv.org/abs/2610.01282v1"
     }
   ]
 }

@@ -986,3 +986,13 @@ Lessons from building with LLMs.
 - **Abstract:** Does repairing an episode make its experience a better memory for the next task? We transfer the same failed source before and after accepted repair to a fixed target, alongside independent execution. Our 3,300 runs cover 100 ThinkingBox pairs and the same 100 APEX pairs with and without source-state inheritance, under eleven conditions. ThinkingBox's Full/Skill/Hybrid correction gains are 44/29/32 percentage points, with corrected performance 25/22/18 points above independence; inference weaken...
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.34603v2
+
+**Added 2026-10-10**
+
+### [Trustworthy Data- and ML-Ops for Intelligent Transportation Systems and Logistics](http://arxiv.org/abs/2610.01282v1)
+- **Authors:** Antonio Emanuele Cinà, Giovanni Scodeller, Cecilia Caterina Pasquale, Silvia Siri et al.
+- **Published:** 2026-10-01 | **Primary category:** cs.SE
+- **Categories:** cs.AI, cs.SE
+- **Abstract:** The rapid evolution of Intelligent Transportation Systems and Logistics (ITS\&L) has become a cornerstone of the modern social economy, relying heavily on the integration of Data, Artificial Intelligence (AI), and, more specifically, Machine Learning (ML). This paper provides a comprehensive review of Trustworthy Data and Machine Learning Operations (DataOps and MLOps) in the ITS\&L domain, underscoring their importance in improving efficiency, reliability, and decision-making precision within t...
+- **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.01282v1
