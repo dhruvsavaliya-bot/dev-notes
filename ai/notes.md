@@ -734,6 +734,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/tau/commonsense_qa
 
+**Added 2026-10-09**
+
+### [openbmb/UltraData-Code](https://huggingface.co/datasets/openbmb/UltraData-Code)
+- **Stats:** 198 likes | 43,401 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-09-05
+- **Tags:** llm, code, code-pretraining, algorithmic-code, synthetic-data
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/openbmb/UltraData-Code
+
 
 ## Research Papers
 
