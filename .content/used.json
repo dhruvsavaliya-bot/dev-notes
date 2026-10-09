@@ -374,6 +374,7 @@
     "https://huggingface.co/bytedance-research/Lance",
     "https://huggingface.co/datasets/FlyRank/internship-warehouse",
     "https://huggingface.co/datasets/ShadenA/MathNet",
+    "https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro",
     "https://huggingface.co/datasets/argilla/magpie-ultra-v0.1",
     "https://huggingface.co/datasets/espnet/yodas2",
     "https://huggingface.co/datasets/harborframework/terminal-bench-2.0",
@@ -736,12 +737,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Productivity",
-      "title": "I Write on a 2006 iMac and Code on a $200 Laptop",
-      "url": "https://dev.to/mikachu/i-write-on-a-2006-imac-and-code-on-a-200-laptop-9n4"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Hacker News Picks",
       "title": "Archaeologists Are Reconstructing the 'Invisible' Techn",
       "url": "https://news.ycombinator.com/item?id=49998992"
@@ -793,6 +788,12 @@
       "subcat": "PHP",
       "title": "laramint/laravel-brain",
       "url": "https://github.com/laramint/laravel-brain"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Models & Datasets",
+      "title": "TIGER-Lab/MMLU-Pro",
+      "url": "https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro"
     }
   ]
 }

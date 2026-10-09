@@ -761,6 +761,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/argilla/magpie-ultra-v0.1
 
+**Added 2026-10-09**
+
+### [TIGER-Lab/MMLU-Pro](https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro)
+- **Stats:** 545 likes | 202,148 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2024-05-08
+- **Tags:** evaluation
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro
+
 
 ## Research Papers
 
