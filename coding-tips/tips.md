@@ -1416,6 +1416,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=16505244
 - **Link:** http://boglin.iwarp.com/
 
+**Added 2026-10-09**
+
+### [Ask HN: Are we overcomplicating software development?](https://news.ycombinator.com/item?id=13426896)
+- **Source:** news.ycombinator.com | **Posted:** 2017-01-18 | **By:** ian0
+- **Community:** 639 points, 368 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=13426896
+- **Link:** https://news.ycombinator.com/item?id=13426896
+
 
 ## Git & Workflow
 

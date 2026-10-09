@@ -423,6 +423,7 @@
     "https://lobste.rs/s/xv6z4r/python_iceberg",
     "https://lobste.rs/s/zlhyss/mathocalypse",
     "https://news.ycombinator.com/item?id=11068902",
+    "https://news.ycombinator.com/item?id=13426896",
     "https://news.ycombinator.com/item?id=13849430",
     "https://news.ycombinator.com/item?id=14350059",
     "https://news.ycombinator.com/item?id=14773964",
@@ -718,12 +719,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Ruby",
-      "title": "grubby: static site generator for git repos written in",
-      "url": "https://lobste.rs/s/xpyahx/grubby_static_site_generator_for_git"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Research Papers",
       "title": "SPLASH: Switching Parallel Layouts of Attention with Se",
       "url": "http://arxiv.org/abs/2609.37626v1"
@@ -775,6 +770,12 @@
       "subcat": "Models & Datasets",
       "title": "Comfy-Org/Wan_2.1_ComfyUI_repackaged",
       "url": "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: Are we overcomplicating software development?",
+      "url": "https://news.ycombinator.com/item?id=13426896"
     }
   ]
 }
