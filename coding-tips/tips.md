@@ -1425,6 +1425,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=13426896
 - **Link:** https://news.ycombinator.com/item?id=13426896
 
+**Added 2026-10-09**
+
+### [Ask HN: How are you using GPT to be productive?](https://news.ycombinator.com/item?id=35299071)
+- **Source:** news.ycombinator.com | **Posted:** 2023-03-25 | **By:** yosito
+- **Community:** 629 points, 735 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=35299071
+- **Link:** https://news.ycombinator.com/item?id=35299071
+
 
 ## Git & Workflow
 
