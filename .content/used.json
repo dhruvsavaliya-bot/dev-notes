@@ -406,6 +406,7 @@
     "https://lobste.rs/s/iii8sl/micro_language_implementation_calcium",
     "https://lobste.rs/s/imdwmj/pandas_should_go_extinct",
     "https://lobste.rs/s/iotaty/state_simd_rust_2026",
+    "https://lobste.rs/s/j7kltq/turbo_haskell",
     "https://lobste.rs/s/jlja1a/jdk_27_has_been_released",
     "https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this",
     "https://lobste.rs/s/lxo74i/introducing_microlighter",
@@ -724,12 +725,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Python",
-      "title": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Models & Datasets",
       "title": "drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
       "url": "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI"
@@ -781,6 +776,12 @@
       "subcat": "AI & Machine Learning",
       "title": "aliyun/ai-agent-handbook",
       "url": "https://github.com/aliyun/ai-agent-handbook"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Java",
+      "title": "Turbo Haskell",
+      "url": "https://lobste.rs/s/j7kltq/turbo_haskell"
     }
   ]
 }

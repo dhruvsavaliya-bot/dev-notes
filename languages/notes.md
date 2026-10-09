@@ -186,6 +186,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/6syfar/what_if_my_git_host_were_static_site
 - **Link:** https://char.lt/blog/2026/09/sorcery-repo-viewer/
 
+**Added 2026-10-09**
+
+### [Turbo Haskell](https://comonad.com/reader/2026/turbo-haskell/)
+- **Source:** comonad.com | **Posted:** 2026-09-30 | **By:** carbolymer
+- **Community:** 33 score, 5 comments on Lobsters
+- **Tags:** haskell, java, programming, vibecoding
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/j7kltq/turbo_haskell
+- **Link:** https://comonad.com/reader/2026/turbo-haskell/
+
 
 ## TypeScript
 
