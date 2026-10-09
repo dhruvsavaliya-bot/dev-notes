@@ -711,6 +711,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~6 stars/day since launch.
 - **Link:** https://github.com/repoprompt/repoprompt-ce
 
+**Added 2026-10-09**
+
+### [celldock/celldock-for-mac](https://github.com/celldock/celldock-for-mac)
+- **Stats:** 758 stars | 155 forks | 15 open issues
+- **Language:** Swift | **Created:** 2026-08-09 | **License:** NOASSERTION
+- **Topics:** 5g, 5gsim, lte
+- **What it is:** Use cellular network, SMS, and calls on your Mac.
+- **Growth:** averaging ~12 stars/day since launch.
+- **Link:** https://github.com/celldock/celldock-for-mac
+
 
 ## Rust
 

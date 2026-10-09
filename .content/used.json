@@ -246,6 +246,7 @@
     "https://github.com/bryanthaboi/gen1recomp",
     "https://github.com/ccch1mneyyy/dsh-TUI",
     "https://github.com/cdyforever/how-to-live-better",
+    "https://github.com/celldock/celldock-for-mac",
     "https://github.com/cloudflare/security-audit-skill",
     "https://github.com/cordiverse/paper",
     "https://github.com/crmne/fastpotify",
@@ -741,12 +742,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "C#",
-      "title": "MikuLeaks/MikuSB",
-      "url": "https://github.com/MikuLeaks/MikuSB"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Models & Datasets",
       "title": "BreezeBlue/Breeze-TTS-2",
       "url": "https://huggingface.co/BreezeBlue/Breeze-TTS-2"
@@ -798,6 +793,12 @@
       "subcat": "Models & Datasets",
       "title": "meta-llama/Llama-3.1-8B",
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Swift",
+      "title": "celldock/celldock-for-mac",
+      "url": "https://github.com/celldock/celldock-for-mac"
     }
   ]
 }
