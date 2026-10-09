@@ -1443,6 +1443,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=35299071
 - **Link:** https://news.ycombinator.com/item?id=35299071
 
+**Added 2026-10-09**
+
+### [Show HN: Heynote – A dedicated scratchpad for developers](https://heynote.com/)
+- **Source:** heynote.com | **Posted:** 2023-12-22 | **By:** jonatanheyman
+- **Community:** 1063 points, 303 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=38733968
+- **Link:** https://heynote.com/
+
 
 ## Git & Workflow
 

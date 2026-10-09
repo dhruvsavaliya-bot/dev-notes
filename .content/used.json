@@ -464,6 +464,7 @@
     "https://news.ycombinator.com/item?id=36493715",
     "https://news.ycombinator.com/item?id=36901303",
     "https://news.ycombinator.com/item?id=37149349",
+    "https://news.ycombinator.com/item?id=38733968",
     "https://news.ycombinator.com/item?id=4029427",
     "https://news.ycombinator.com/item?id=40457229",
     "https://news.ycombinator.com/item?id=4166183",
@@ -734,12 +735,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Java",
-      "title": "Turbo Haskell",
-      "url": "https://lobste.rs/s/j7kltq/turbo_haskell"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Models & Datasets",
       "title": "tau/commonsense_qa",
       "url": "https://huggingface.co/datasets/tau/commonsense_qa"
@@ -791,6 +786,12 @@
       "subcat": "Models & Datasets",
       "title": "argilla/magpie-ultra-v0.1",
       "url": "https://huggingface.co/datasets/argilla/magpie-ultra-v0.1"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Heynote  A dedicated scratchpad for developers",
+      "url": "https://news.ycombinator.com/item?id=38733968"
     }
   ]
 }
