@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**708 entries and counting** · Last updated: 2026-10-09
+**709 entries and counting** · Last updated: 2026-10-09
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 198 |
+| [Trending Projects](trending-projects/projects.md) | 199 |
 | [AI / LLM Notes](ai/notes.md) | 93 |
 | [Reading List](articles/reading-list.md) | 178 |
 | [Coding Tips](coding-tips/tips.md) | 161 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-09** · *Developer Tools* — [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node)
 - **2026-10-09** · *Show & Ask HN* — [Ask HN: Are we overcomplicating software development?](https://news.ycombinator.com/item?id=13426896)
 - **2026-10-09** · *Models & Datasets* — [Comfy-Org/Wan_2.1_ComfyUI_repackaged](https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged)
 - **2026-10-09** · *PHP* — [Laravel : A New PHP Framework](https://news.ycombinator.com/item?id=4029427)
 - **2026-10-09** · *Models & Datasets* — [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI)
-- **2026-10-09** · *Python* — [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 
 ## How it works
 

@@ -1963,6 +1963,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/ardatan/graphql-tools
 
+**Added 2026-10-09**
+
+### [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node)
+- **Stats:** 1,285 stars | 69 forks | 0 open issues
+- **Language:** Go | **Created:** 2026-09-22 | **License:** NOASSERTION
+- **Topics:** depin, distributed-systems, golang, infrastructure, node-runner, telemetry
+- **What it is:** Reference client daemon and verification worker for Kryvora Network nodes.
+- **Growth:** averaging ~75 stars/day since launch.
+- **Link:** https://github.com/kryvora-network/kryvora-node
+
 
 ## Backend & Infrastructure
 

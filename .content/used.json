@@ -283,6 +283,7 @@
     "https://github.com/kacperkapusciak/goldie",
     "https://github.com/kirodotdev/KiroCrew",
     "https://github.com/komi-store/komi-store",
+    "https://github.com/kryvora-network/kryvora-node",
     "https://github.com/kvcache-ai/AgentENV",
     "https://github.com/langchain-ai/openwiki",
     "https://github.com/lnkiai/m3e-canvas",
@@ -719,12 +720,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Research Papers",
-      "title": "SPLASH: Switching Parallel Layouts of Attention with Se",
-      "url": "http://arxiv.org/abs/2609.37626v1"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Hacker News Picks",
       "title": "Trump administration is suspending Microsoft from a gre",
       "url": "https://news.ycombinator.com/item?id=50006832"
@@ -776,6 +771,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Are we overcomplicating software development?",
       "url": "https://news.ycombinator.com/item?id=13426896"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Developer Tools",
+      "title": "kryvora-network/kryvora-node",
+      "url": "https://github.com/kryvora-network/kryvora-node"
     }
   ]
 }
