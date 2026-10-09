@@ -752,6 +752,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/BreezeBlue/Breeze-TTS-2
 
+**Added 2026-10-09**
+
+### [argilla/magpie-ultra-v0.1](https://huggingface.co/datasets/argilla/magpie-ultra-v0.1)
+- **Stats:** 221 likes | 2,245 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2024-07-24
+- **Tags:** synthetic, distilabel, rlaif
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/argilla/magpie-ultra-v0.1
+
 
 ## Research Papers
 

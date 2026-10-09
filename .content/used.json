@@ -373,6 +373,7 @@
     "https://huggingface.co/bytedance-research/Lance",
     "https://huggingface.co/datasets/FlyRank/internship-warehouse",
     "https://huggingface.co/datasets/ShadenA/MathNet",
+    "https://huggingface.co/datasets/argilla/magpie-ultra-v0.1",
     "https://huggingface.co/datasets/espnet/yodas2",
     "https://huggingface.co/datasets/harborframework/terminal-bench-2.0",
     "https://huggingface.co/datasets/markov-ai/computer-use-large",
@@ -733,12 +734,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "AI & Machine Learning",
-      "title": "aliyun/ai-agent-handbook",
-      "url": "https://github.com/aliyun/ai-agent-handbook"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Java",
       "title": "Turbo Haskell",
       "url": "https://lobste.rs/s/j7kltq/turbo_haskell"
@@ -790,6 +785,12 @@
       "subcat": "Models & Datasets",
       "title": "BreezeBlue/Breeze-TTS-2",
       "url": "https://huggingface.co/BreezeBlue/Breeze-TTS-2"
+    },
+    {
+      "date": "2026-10-09",
+      "subcat": "Models & Datasets",
+      "title": "argilla/magpie-ultra-v0.1",
+      "url": "https://huggingface.co/datasets/argilla/magpie-ultra-v0.1"
     }
   ]
 }
