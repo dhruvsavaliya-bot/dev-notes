@@ -468,6 +468,7 @@
     "https://news.ycombinator.com/item?id=20854214",
     "https://news.ycombinator.com/item?id=21611677",
     "https://news.ycombinator.com/item?id=23361987",
+    "https://news.ycombinator.com/item?id=23658721",
     "https://news.ycombinator.com/item?id=24372084",
     "https://news.ycombinator.com/item?id=26825468",
     "https://news.ycombinator.com/item?id=26862318",
@@ -762,12 +763,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Termtosvg  Record terminal sessions as SVG ani",
-      "url": "https://news.ycombinator.com/item?id=17449810"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Swift",
       "title": "Ask HN: I realise data science is not for me and feel d",
       "url": "https://news.ycombinator.com/item?id=30513030"
@@ -819,6 +814,12 @@
       "subcat": "Models & Datasets",
       "title": "Qwen/Qwen3.6-27B",
       "url": "https://huggingface.co/Qwen/Qwen3.6-27B"
+    },
+    {
+      "date": "2026-10-10",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: A Reddit reader that looks like the frontpage",
+      "url": "https://news.ycombinator.com/item?id=23658721"
     }
   ]
 }

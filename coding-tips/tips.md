@@ -1479,6 +1479,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=47441546
 - **Link:** https://github.com/KittenML/KittenTTS
 
+**Added 2026-10-10**
+
+### [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
+- **Source:** unim.press | **Posted:** 2020-06-27 | **By:** thesephist
+- **Community:** 638 points, 122 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=23658721
+- **Link:** https://unim.press/#dataisbeautiful
+
 
 ## Git & Workflow
 
