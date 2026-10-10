@@ -379,6 +379,7 @@
     "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
     "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged",
     "https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
+    "https://huggingface.co/FrancisRing/Prism",
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
     "https://huggingface.co/Qwen/Qwen2.5-32B-Instruct-AWQ",
     "https://huggingface.co/Qwen/Qwen3-ASR-1.7B",
@@ -773,12 +774,6 @@
   "recent": [
     {
       "date": "2026-10-10",
-      "subcat": "Lobsters Picks",
-      "title": "Unison Cloud is now open source",
-      "url": "https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source"
-    },
-    {
-      "date": "2026-10-10",
       "subcat": "C++",
       "title": "safijari/openpuck",
       "url": "https://github.com/safijari/openpuck"
@@ -830,6 +825,12 @@
       "subcat": "SQL & Databases",
       "title": "Show HN: SnapQL  Desktop app to query Postgres with AI",
       "url": "https://news.ycombinator.com/item?id=44326620"
+    },
+    {
+      "date": "2026-10-10",
+      "subcat": "Models & Datasets",
+      "title": "FrancisRing/Prism",
+      "url": "https://huggingface.co/FrancisRing/Prism"
     }
   ]
 }

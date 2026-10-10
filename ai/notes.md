@@ -851,6 +851,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF
 
+**Added 2026-10-10**
+
+### [FrancisRing/Prism](https://huggingface.co/FrancisRing/Prism)
+- **Stats:** 141 likes | 0 downloads
+- **Kind:** Hugging Face model | **Task:** image-to-video | **Created:** 2026-09-24
+- **Tags:** diffusers, safetensors, video-generation, video diffusion transformer, joint-video-audio-generation, sparse-attention
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/FrancisRing/Prism
+
 
 ## Research Papers
 
