@@ -333,6 +333,7 @@
     "https://github.com/shadcn-ui/lint",
     "https://github.com/shihabal3amri/DiPlay",
     "https://github.com/slvDev/esp32-ai",
+    "https://github.com/sunny-glow/Auto-BenchMax",
     "https://github.com/synthetic-sciences/openscience",
     "https://github.com/tamaratran/fast-jev-compaction",
     "https://github.com/tamnd/kage",
@@ -768,12 +769,6 @@
   "recent": [
     {
       "date": "2026-10-10",
-      "subcat": "Lobsters Picks",
-      "title": "Programming Isnt Special",
-      "url": "https://lobste.rs/s/ily7as/programming_isn_t_special"
-    },
-    {
-      "date": "2026-10-10",
       "subcat": "Go",
       "title": "Show HN: Desert Atlas, a self-hosted OpenStreetMap app",
       "url": "https://news.ycombinator.com/item?id=38532914"
@@ -825,6 +820,12 @@
       "subcat": "Web Development",
       "title": "Migrating a Real TypeScript OSS Library from tsup to ts",
       "url": "https://dev.to/nyaomaru/migrating-a-real-typescript-oss-library-from-tsup-to-tsdown-5b80"
+    },
+    {
+      "date": "2026-10-10",
+      "subcat": "Other Cool Projects",
+      "title": "sunny-glow/Auto-BenchMax",
+      "url": "https://github.com/sunny-glow/Auto-BenchMax"
     }
   ]
 }

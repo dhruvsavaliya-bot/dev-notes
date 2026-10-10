@@ -1777,6 +1777,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~96 stars/day since launch.
 - **Link:** https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases
 
+**Added 2026-10-10**
+
+### [sunny-glow/Auto-BenchMax](https://github.com/sunny-glow/Auto-BenchMax)
+- **Stats:** 1,335 stars | 19 forks | 2 open issues
+- **Language:** Python | **Created:** 2026-07-23 | **License:** None
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~16 stars/day since launch.
+- **Link:** https://github.com/sunny-glow/Auto-BenchMax
+
 
 ## Web & Frontend
 
