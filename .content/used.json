@@ -392,6 +392,7 @@
     "https://huggingface.co/bytedance-research/Lance",
     "https://huggingface.co/datasets/Anthropic/claude-protein-binder-design",
     "https://huggingface.co/datasets/FlyRank/internship-warehouse",
+    "https://huggingface.co/datasets/OpenGVLab/ShareGPT-4o",
     "https://huggingface.co/datasets/ShadenA/MathNet",
     "https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro",
     "https://huggingface.co/datasets/argilla/magpie-ultra-v0.1",
@@ -781,12 +782,6 @@
   "recent": [
     {
       "date": "2026-10-10",
-      "subcat": "JavaScript",
-      "title": "outsourc-e/hermes-workspace",
-      "url": "https://github.com/outsourc-e/hermes-workspace"
-    },
-    {
-      "date": "2026-10-10",
       "subcat": "SQL & Databases",
       "title": "Show HN: SnapQL  Desktop app to query Postgres with AI",
       "url": "https://news.ycombinator.com/item?id=44326620"
@@ -838,6 +833,12 @@
       "subcat": "TypeScript",
       "title": "remorses/playwriter",
       "url": "https://github.com/remorses/playwriter"
+    },
+    {
+      "date": "2026-10-11",
+      "subcat": "Models & Datasets",
+      "title": "OpenGVLab/ShareGPT-4o",
+      "url": "https://huggingface.co/datasets/OpenGVLab/ShareGPT-4o"
     }
   ]
 }

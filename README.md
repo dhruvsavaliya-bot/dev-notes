@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**770 entries and counting** · Last updated: 2026-10-11
+**771 entries and counting** · Last updated: 2026-10-11
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 204 |
-| [AI / LLM Notes](ai/notes.md) | 112 |
+| [AI / LLM Notes](ai/notes.md) | 113 |
 | [Reading List](articles/reading-list.md) | 184 |
 | [Coding Tips](coding-tips/tips.md) | 171 |
 | [Language Notes](languages/notes.md) | 99 |
 
 ## Latest additions
 
+- **2026-10-11** · *Models & Datasets* — [OpenGVLab/ShareGPT-4o](https://huggingface.co/datasets/OpenGVLab/ShareGPT-4o)
 - **2026-10-11** · *TypeScript* — [remorses/playwriter](https://github.com/remorses/playwriter)
 - **2026-10-11** · *PHP* — [trypostit/trypost](https://github.com/trypostit/trypost)
 - **2026-10-10** · *Models & Datasets* — [Alissonerdx/BFS-Best-Face-Swap](https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap)
 - **2026-10-10** · *SQL & Databases* — [Launch HN: Matano (YC W23)  Open-Source Security Lake P](https://news.ycombinator.com/item?id=34505603)
-- **2026-10-10** · *Other Cool Projects* — [midesoft/rankGap](https://github.com/midesoft/rankGap)
 
 ## How it works
 

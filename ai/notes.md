@@ -869,6 +869,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap
 
+**Added 2026-10-11**
+
+### [OpenGVLab/ShareGPT-4o](https://huggingface.co/datasets/OpenGVLab/ShareGPT-4o)
+- **Stats:** 200 likes | 8,795 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2024-05-28
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/OpenGVLab/ShareGPT-4o
+
 
 ## Research Papers
 
