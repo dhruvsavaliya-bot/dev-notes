@@ -842,6 +842,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/openbmb/MiniCPM-V-2_6
 
+**Added 2026-10-10**
+
+### [unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF)
+- **Stats:** 1,124 likes | 5,615,277 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2025-07-31
+- **Tags:** transformers, gguf, unsloth, qwen3, qwen, text-generation
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF
+
 
 ## Research Papers
 
