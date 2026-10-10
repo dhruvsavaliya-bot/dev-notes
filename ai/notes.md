@@ -833,6 +833,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/Qwen/Qwen3.6-27B
 
+**Added 2026-10-10**
+
+### [openbmb/MiniCPM-V-2_6](https://huggingface.co/openbmb/MiniCPM-V-2_6)
+- **Stats:** 1,060 likes | 36,400 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2024-08-04
+- **Tags:** transformers, safetensors, minicpmv, feature-extraction, minicpm-v, vision
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/openbmb/MiniCPM-V-2_6
+
 
 ## Research Papers
 

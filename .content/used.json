@@ -407,6 +407,7 @@
     "https://huggingface.co/meta-llama/Llama-3.1-8B",
     "https://huggingface.co/microsoft/Florence-2-base",
     "https://huggingface.co/microsoft/TRELLIS-image-large",
+    "https://huggingface.co/openbmb/MiniCPM-V-2_6",
     "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit",
     "https://huggingface.co/prompthero/openjourney",
     "https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base",
@@ -764,12 +765,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-09",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Three new Kitten TTS models  smallest less tha",
-      "url": "https://news.ycombinator.com/item?id=47441546"
-    },
-    {
       "date": "2026-10-10",
       "subcat": "TypeScript",
       "title": "Yeachan-Heo/oh-my-codex",
@@ -822,6 +817,12 @@
       "subcat": "C++",
       "title": "safijari/openpuck",
       "url": "https://github.com/safijari/openpuck"
+    },
+    {
+      "date": "2026-10-10",
+      "subcat": "Models & Datasets",
+      "title": "openbmb/MiniCPM-V-2_6",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-2_6"
     }
   ]
 }
