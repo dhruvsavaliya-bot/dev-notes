@@ -458,6 +458,7 @@
     "https://news.ycombinator.com/item?id=14350059",
     "https://news.ycombinator.com/item?id=14773964",
     "https://news.ycombinator.com/item?id=15471449",
+    "https://news.ycombinator.com/item?id=15895173",
     "https://news.ycombinator.com/item?id=16505244",
     "https://news.ycombinator.com/item?id=16535886",
     "https://news.ycombinator.com/item?id=17449810",
@@ -760,12 +761,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Ruby",
-      "title": "'Learn Ruby on Rails' is free today",
-      "url": "https://news.ycombinator.com/item?id=6821576"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Models & Datasets",
       "title": "Anthropic/claude-protein-binder-design",
       "url": "https://huggingface.co/datasets/Anthropic/claude-protein-binder-design"
@@ -817,6 +812,12 @@
       "subcat": "Go",
       "title": "Show HN: Desert Atlas, a self-hosted OpenStreetMap app",
       "url": "https://news.ycombinator.com/item?id=38532914"
+    },
+    {
+      "date": "2026-10-10",
+      "subcat": "Go",
+      "title": "Ask HN: How to approach testing in Golang?",
+      "url": "https://news.ycombinator.com/item?id=15895173"
     }
   ]
 }

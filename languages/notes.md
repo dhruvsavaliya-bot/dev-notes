@@ -520,6 +520,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=38532914
 - **Link:** https://sandstorm.org/news/2023-12-05-osm-on-sandstorm
 
+**Added 2026-10-10**
+
+### [Ask HN: How to approach testing in Golang?](https://news.ycombinator.com/item?id=15895173)
+- **Source:** news.ycombinator.com | **Posted:** 2017-12-11 | **By:** kc1116
+- **Community:** 98 points, 35 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=15895173
+- **Link:** https://news.ycombinator.com/item?id=15895173
+
 
 ## PHP
 
