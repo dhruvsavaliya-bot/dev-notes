@@ -85,6 +85,7 @@
     "https://dev.to/konark_13/vibe-coding-endgame-3bbn",
     "https://dev.to/lovestaco/cheap-rag-in-go-with-gemini-file-search-no-vector-db-two-calls-one-hosted-store-4kb5",
     "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
+    "https://dev.to/maame-codes/devops-from-scratch-a-students-diary-entry-00-5b71",
     "https://dev.to/metal3d/git-worktree-like-a-boss-2j1b",
     "https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd",
     "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd",
@@ -782,12 +783,6 @@
   "recent": [
     {
       "date": "2026-10-10",
-      "subcat": "SQL & Databases",
-      "title": "Show HN: SnapQL  Desktop app to query Postgres with AI",
-      "url": "https://news.ycombinator.com/item?id=44326620"
-    },
-    {
-      "date": "2026-10-10",
       "subcat": "Models & Datasets",
       "title": "FrancisRing/Prism",
       "url": "https://huggingface.co/FrancisRing/Prism"
@@ -839,6 +834,12 @@
       "subcat": "Models & Datasets",
       "title": "OpenGVLab/ShareGPT-4o",
       "url": "https://huggingface.co/datasets/OpenGVLab/ShareGPT-4o"
+    },
+    {
+      "date": "2026-10-11",
+      "subcat": "Beginner",
+      "title": "DevOps From Scratch: A Students Diary (Entry #00)",
+      "url": "https://dev.to/maame-codes/devops-from-scratch-a-students-diary-entry-00-5b71"
     }
   ]
 }

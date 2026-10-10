@@ -1261,6 +1261,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** TL;DR  I recently completed another project from Udacity's Future AWS Agent Engineer Nanodegree...
 - **Link:** https://dev.to/hemapriya_kanagala/i-built-my-first-ai-agent-with-aws-agentcore-and-the-hardest-part-wasnt-the-ai-54lf
 
+**Added 2026-10-11**
+
+### [DevOps From Scratch: A Student’s Diary (Entry #00)](https://dev.to/maame-codes/devops-from-scratch-a-students-diary-entry-00-5b71)
+- **Author:** Maame Afua A. P. Fordjour  | **Published:** Dec 22 '25 | **Read time:** 3 min
+- **Community:** 113 reactions, 14 comments -- a top post in #beginners
+- **Tags:** learning, devops, beginners
+- **Summary:** Why I'm stopping the "Tutorial Hell" and starting a journey to 2027 🚀  Hello, world! 🌍  I’m currently...
+- **Link:** https://dev.to/maame-codes/devops-from-scratch-a-students-diary-entry-00-5b71
+
+
 ## Show & Ask HN
 
 **Added 2026-10-04**
