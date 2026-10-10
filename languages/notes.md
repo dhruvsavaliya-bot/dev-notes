@@ -917,3 +917,13 @@ Snippets and gotchas across languages.
 - **What it is:** SCAN-Planner: Spatial Collision-Aware Local planning for Route-Guided Long-Range Quadruped Navigation
 - **Growth:** averaging ~4 stars/day since launch.
 - **Link:** https://github.com/wuyi2121/SCAN-Planner
+
+**Added 2026-10-10**
+
+### [safijari/openpuck](https://github.com/safijari/openpuck)
+- **Stats:** 1,005 stars | 89 forks | 79 open issues
+- **Language:** C++ | **Created:** 2026-06-06 | **License:** AGPL-3.0
+- **Topics:** none listed
+- **What it is:** Opensource firmware for NRF52840 Pro Micro that copycats the Steam Controller 2 Puck and adds an Xbox and Switch mode
+- **Growth:** averaging ~7 stars/day since launch.
+- **Link:** https://github.com/safijari/openpuck

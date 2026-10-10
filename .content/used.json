@@ -326,6 +326,7 @@
     "https://github.com/repoprompt/repoprompt-ce",
     "https://github.com/robbietilton/Compositor",
     "https://github.com/s1dashu/ip-as-logo-skill",
+    "https://github.com/safijari/openpuck",
     "https://github.com/sapientinc/PRAXIST",
     "https://github.com/sdli1995/dlssg_for_sm86",
     "https://github.com/shadcn-ui/lint",
@@ -764,12 +765,6 @@
   "recent": [
     {
       "date": "2026-10-09",
-      "subcat": "Models & Datasets",
-      "title": "eidon-ai/tracker-pov",
-      "url": "https://huggingface.co/datasets/eidon-ai/tracker-pov"
-    },
-    {
-      "date": "2026-10-09",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Three new Kitten TTS models  smallest less tha",
       "url": "https://news.ycombinator.com/item?id=47441546"
@@ -821,6 +816,12 @@
       "subcat": "Lobsters Picks",
       "title": "Unison Cloud is now open source",
       "url": "https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source"
+    },
+    {
+      "date": "2026-10-10",
+      "subcat": "C++",
+      "title": "safijari/openpuck",
+      "url": "https://github.com/safijari/openpuck"
     }
   ]
 }
