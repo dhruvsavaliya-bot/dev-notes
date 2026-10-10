@@ -1671,6 +1671,16 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source
 - **Link:** https://www.unison-lang.org/blog/unison-cloud-open-source/
 
+**Added 2026-10-10**
+
+### [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
+- **Source:** lumi.codeberg.page | **Posted:** 2026-10-09 | **By:** stilic
+- **Community:** 15 score, 0 comments on Lobsters
+- **Tags:** culture
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/o8xo9z/importance_communities_around_software
+- **Link:** https://lumi.codeberg.page/blog/software-community.html
+
 
 ## Performance
 
