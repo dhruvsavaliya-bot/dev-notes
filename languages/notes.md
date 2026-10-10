@@ -947,3 +947,14 @@ Snippets and gotchas across languages.
 - **What it is:** No description provided.
 - **Growth:** averaging ~94 stars/day since launch.
 - **Link:** https://github.com/Dingo-Shenanigans/ReSkate
+
+## SQL & Databases
+
+**Added 2026-10-10**
+
+### [Show HN: SnapQL – Desktop app to query Postgres with AI](https://github.com/NickTikhonov/snap-ql)
+- **Source:** github.com | **Posted:** 2025-06-20 | **By:** nicktikhonov
+- **Community:** 104 points, 73 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=44326620
+- **Link:** https://github.com/NickTikhonov/snap-ql

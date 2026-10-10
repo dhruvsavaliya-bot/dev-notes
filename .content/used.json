@@ -505,6 +505,7 @@
     "https://news.ycombinator.com/item?id=42284412",
     "https://news.ycombinator.com/item?id=43332830",
     "https://news.ycombinator.com/item?id=43454915",
+    "https://news.ycombinator.com/item?id=44326620",
     "https://news.ycombinator.com/item?id=44471388",
     "https://news.ycombinator.com/item?id=45231378",
     "https://news.ycombinator.com/item?id=45352432",
@@ -772,12 +773,6 @@
   "recent": [
     {
       "date": "2026-10-10",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: A Reddit reader that looks like the frontpage",
-      "url": "https://news.ycombinator.com/item?id=23658721"
-    },
-    {
-      "date": "2026-10-10",
       "subcat": "Lobsters Picks",
       "title": "Unison Cloud is now open source",
       "url": "https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source"
@@ -829,6 +824,12 @@
       "subcat": "JavaScript",
       "title": "outsourc-e/hermes-workspace",
       "url": "https://github.com/outsourc-e/hermes-workspace"
+    },
+    {
+      "date": "2026-10-10",
+      "subcat": "SQL & Databases",
+      "title": "Show HN: SnapQL  Desktop app to query Postgres with AI",
+      "url": "https://news.ycombinator.com/item?id=44326620"
     }
   ]
 }
