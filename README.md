@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**755 entries and counting** · Last updated: 2026-10-10
+**756 entries and counting** · Last updated: 2026-10-10
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 202 |
 | [AI / LLM Notes](ai/notes.md) | 109 |
 | [Reading List](articles/reading-list.md) | 182 |
-| [Coding Tips](coding-tips/tips.md) | 169 |
+| [Coding Tips](coding-tips/tips.md) | 170 |
 | [Language Notes](languages/notes.md) | 93 |
 
 ## Latest additions
 
+- **2026-10-10** · *Lobsters Picks* — [A tale of four theorem provers, or: A (reasonably) opin](https://lobste.rs/s/4dwrz0/tale_four_theorem_provers_reasonably)
 - **2026-10-10** · *Models & Datasets* — [openbmb/MiniCPM-V-2_6](https://huggingface.co/openbmb/MiniCPM-V-2_6)
 - **2026-10-10** · *C++* — [safijari/openpuck](https://github.com/safijari/openpuck)
 - **2026-10-10** · *Lobsters Picks* — [Unison Cloud is now open source](https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source)
 - **2026-10-10** · *Show & Ask HN* — [Show HN: A Reddit reader that looks like the frontpage](https://news.ycombinator.com/item?id=23658721)
-- **2026-10-10** · *Models & Datasets* — [Qwen/Qwen3.6-27B](https://huggingface.co/Qwen/Qwen3.6-27B)
 
 ## How it works
 

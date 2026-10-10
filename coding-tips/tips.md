@@ -1541,3 +1541,13 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/ily7as/programming_isn_t_special
 - **Link:** https://blog.glyph.im/2026/10/programming-isnt-special.html
+
+**Added 2026-10-10**
+
+### [A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda](https://blueberrywren.dev/blog/primes/)
+- **Source:** blueberrywren.dev | **Posted:** 2026-10-09 | **By:** blueberrywren
+- **Community:** 31 score, 6 comments on Lobsters
+- **Tags:** design, plt
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/4dwrz0/tale_four_theorem_provers_reasonably
+- **Link:** https://blueberrywren.dev/blog/primes/
