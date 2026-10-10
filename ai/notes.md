@@ -824,6 +824,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/eidon-ai/tracker-pov
 
+**Added 2026-10-10**
+
+### [Qwen/Qwen3.6-27B](https://huggingface.co/Qwen/Qwen3.6-27B)
+- **Stats:** 2,319 likes | 2,276,333 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-04-21
+- **Tags:** transformers, safetensors, qwen3_5, image-text-to-text, conversational, eval-results
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/Qwen/Qwen3.6-27B
+
 
 ## Research Papers
 
