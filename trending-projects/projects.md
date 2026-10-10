@@ -1787,6 +1787,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~16 stars/day since launch.
 - **Link:** https://github.com/sunny-glow/Auto-BenchMax
 
+**Added 2026-10-10**
+
+### [midesoft/rankGap](https://github.com/midesoft/rankGap)
+- **Stats:** 359 stars | 187 forks | 2 open issues
+- **Language:** Ruby | **Created:** 2025-12-29 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Rank-gap statistics for exploring high-dimensional overlap
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/midesoft/rankGap
+
 
 ## Web & Frontend
 

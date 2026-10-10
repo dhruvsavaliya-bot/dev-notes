@@ -305,6 +305,7 @@
     "https://github.com/mekos2772/ios-location-spoofer",
     "https://github.com/mesamirh/MovieBox-Tui",
     "https://github.com/microsoft/skill-recorder",
+    "https://github.com/midesoft/rankGap",
     "https://github.com/mizorewww/laya-mlx",
     "https://github.com/mshumer/Claude-of-Duty",
     "https://github.com/nateherkai/scroll-craft",
@@ -776,12 +777,6 @@
   "recent": [
     {
       "date": "2026-10-10",
-      "subcat": "Lobsters Picks",
-      "title": "A tale of four theorem provers, or: A (reasonably) opin",
-      "url": "https://lobste.rs/s/4dwrz0/tale_four_theorem_provers_reasonably"
-    },
-    {
-      "date": "2026-10-10",
       "subcat": "Web Development",
       "title": "Migrating a Real TypeScript OSS Library from tsup to ts",
       "url": "https://dev.to/nyaomaru/migrating-a-real-typescript-oss-library-from-tsup-to-tsdown-5b80"
@@ -833,6 +828,12 @@
       "subcat": "Lobsters Picks",
       "title": "The importance of communities around software",
       "url": "https://lobste.rs/s/o8xo9z/importance_communities_around_software"
+    },
+    {
+      "date": "2026-10-10",
+      "subcat": "Other Cool Projects",
+      "title": "midesoft/rankGap",
+      "url": "https://github.com/midesoft/rankGap"
     }
   ]
 }
