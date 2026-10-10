@@ -318,6 +318,7 @@
     "https://github.com/openai/codex-security",
     "https://github.com/openai/symphony",
     "https://github.com/oso95/scroll-world",
+    "https://github.com/outsourc-e/hermes-workspace",
     "https://github.com/pathwaycom/arc-task-gen",
     "https://github.com/penecho/penecho",
     "https://github.com/petergyang/no-ai-slop",
@@ -771,12 +772,6 @@
   "recent": [
     {
       "date": "2026-10-10",
-      "subcat": "Models & Datasets",
-      "title": "Qwen/Qwen3.6-27B",
-      "url": "https://huggingface.co/Qwen/Qwen3.6-27B"
-    },
-    {
-      "date": "2026-10-10",
       "subcat": "Show & Ask HN",
       "title": "Show HN: A Reddit reader that looks like the frontpage",
       "url": "https://news.ycombinator.com/item?id=23658721"
@@ -828,6 +823,12 @@
       "subcat": "Models & Datasets",
       "title": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
       "url": "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF"
+    },
+    {
+      "date": "2026-10-10",
+      "subcat": "JavaScript",
+      "title": "outsourc-e/hermes-workspace",
+      "url": "https://github.com/outsourc-e/hermes-workspace"
     }
   ]
 }

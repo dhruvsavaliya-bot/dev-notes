@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**760 entries and counting** · Last updated: 2026-10-10
+**761 entries and counting** · Last updated: 2026-10-10
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 110 |
 | [Reading List](articles/reading-list.md) | 183 |
 | [Coding Tips](coding-tips/tips.md) | 170 |
-| [Language Notes](languages/notes.md) | 94 |
+| [Language Notes](languages/notes.md) | 95 |
 
 ## Latest additions
 
+- **2026-10-10** · *JavaScript* — [outsourc-e/hermes-workspace](https://github.com/outsourc-e/hermes-workspace)
 - **2026-10-10** · *Models & Datasets* — [unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF)
 - **2026-10-10** · *C++* — [Dingo-Shenanigans/ReSkate](https://github.com/Dingo-Shenanigans/ReSkate)
 - **2026-10-10** · *Other Cool Projects* — [sunny-glow/Auto-BenchMax](https://github.com/sunny-glow/Auto-BenchMax)
 - **2026-10-10** · *Web Development* — [Migrating a Real TypeScript OSS Library from tsup to ts](https://dev.to/nyaomaru/migrating-a-real-typescript-oss-library-from-tsup-to-tsdown-5b80)
-- **2026-10-10** · *Lobsters Picks* — [A tale of four theorem provers, or: A (reasonably) opin](https://lobste.rs/s/4dwrz0/tale_four_theorem_provers_reasonably)
 
 ## How it works
 

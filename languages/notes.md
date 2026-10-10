@@ -206,6 +206,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/tfjoxv/actual_budget
 - **Link:** https://actualbudget.org/
 
+**Added 2026-10-10**
+
+### [outsourc-e/hermes-workspace](https://github.com/outsourc-e/hermes-workspace)
+- **Stats:** 6,700 stars | 1,047 forks | 179 open issues
+- **Language:** JavaScript | **Created:** 2026-03-16 | **License:** MIT
+- **Topics:** agent-ui, ai-workspace, hackathon, hermes-agent, nous-research, react
+- **What it is:** Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.
+- **Growth:** averaging ~32 stars/day since launch.
+- **Link:** https://github.com/outsourc-e/hermes-workspace
+
 
 ## TypeScript
 
