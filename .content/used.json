@@ -345,6 +345,7 @@
     "https://github.com/tobi/walgit",
     "https://github.com/totec448-spec/chat-on-steroids",
     "https://github.com/trycompai/crm",
+    "https://github.com/trypostit/trypost",
     "https://github.com/unicity-aos/aos-ce",
     "https://github.com/vercel-labs/fx",
     "https://github.com/vercel-labs/scriptc",
@@ -779,12 +780,6 @@
   "recent": [
     {
       "date": "2026-10-10",
-      "subcat": "C++",
-      "title": "Dingo-Shenanigans/ReSkate",
-      "url": "https://github.com/Dingo-Shenanigans/ReSkate"
-    },
-    {
-      "date": "2026-10-10",
       "subcat": "Models & Datasets",
       "title": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
       "url": "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF"
@@ -836,6 +831,12 @@
       "subcat": "Models & Datasets",
       "title": "Alissonerdx/BFS-Best-Face-Swap",
       "url": "https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap"
+    },
+    {
+      "date": "2026-10-11",
+      "subcat": "PHP",
+      "title": "trypostit/trypost",
+      "url": "https://github.com/trypostit/trypost"
     }
   ]
 }

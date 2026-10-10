@@ -625,6 +625,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~5 stars/day since launch.
 - **Link:** https://github.com/laramint/laravel-brain
 
+**Added 2026-10-11**
+
+### [trypostit/trypost](https://github.com/trypostit/trypost)
+- **Stats:** 692 stars | 182 forks | 42 open issues
+- **Language:** PHP | **Created:** 2026-01-17 | **License:** AGPL-3.0
+- **Topics:** content-scheduling, creators, facebook, instragram, laravel, linkedin
+- **What it is:** Open-source Social Media Scheduling
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/trypostit/trypost
+
 
 ## Ruby
 
