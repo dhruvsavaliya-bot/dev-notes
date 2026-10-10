@@ -377,6 +377,7 @@
     "https://github.com/zhu1090093659/dsh-web",
     "https://github.com/zhu1090093659/dsh-web-ui",
     "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
+    "https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap",
     "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
     "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged",
     "https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
@@ -778,12 +779,6 @@
   "recent": [
     {
       "date": "2026-10-10",
-      "subcat": "Other Cool Projects",
-      "title": "sunny-glow/Auto-BenchMax",
-      "url": "https://github.com/sunny-glow/Auto-BenchMax"
-    },
-    {
-      "date": "2026-10-10",
       "subcat": "C++",
       "title": "Dingo-Shenanigans/ReSkate",
       "url": "https://github.com/Dingo-Shenanigans/ReSkate"
@@ -835,6 +830,12 @@
       "subcat": "SQL & Databases",
       "title": "Launch HN: Matano (YC W23)  Open-Source Security Lake P",
       "url": "https://news.ycombinator.com/item?id=34505603"
+    },
+    {
+      "date": "2026-10-10",
+      "subcat": "Models & Datasets",
+      "title": "Alissonerdx/BFS-Best-Face-Swap",
+      "url": "https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap"
     }
   ]
 }

@@ -860,6 +860,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/FrancisRing/Prism
 
+**Added 2026-10-10**
+
+### [Alissonerdx/BFS-Best-Face-Swap](https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap)
+- **Stats:** 1,349 likes | 248,475 downloads
+- **Kind:** Hugging Face model | **Task:** image-to-image | **Created:** 2025-11-07
+- **Tags:** diffusers, lora, qwen-image, qwen-image-2.1, qwen-image-edit, face-swap
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap
+
 
 ## Research Papers
 
