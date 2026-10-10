@@ -152,6 +152,15 @@ Fresh dev articles and blog posts.
 - **Summary:** I recently put out a video arguing that frontend development is changing. I don't think the work is...
 - **Link:** https://dev.to/erikch/are-frontend-developers-cooked-is-frontend-design-safe-nn8
 
+**Added 2026-10-10**
+
+### [Migrating a Real TypeScript OSS Library from tsup to tsdown 🔧](https://dev.to/nyaomaru/migrating-a-real-typescript-oss-library-from-tsup-to-tsdown-5b80)
+- **Author:** nyaomaru | **Published:** Oct 7 | **Read time:** 7 min
+- **Community:** 65 reactions, 22 comments -- a top post in #webdev
+- **Tags:** typescript, opensource, webdev, frontend
+- **Summary:** The config migration was small. Preserving the package contract was the interesting part.   Hoi hoi!...
+- **Link:** https://dev.to/nyaomaru/migrating-a-real-typescript-oss-library-from-tsup-to-tsdown-5b80
+
 
 ## Hacker News Picks
 

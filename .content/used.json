@@ -100,6 +100,7 @@
     "https://dev.to/nyaomaru/learn-number-of-islands-invert-binary-tree-and-course-schedule-with-step-by-step-visualization-in-5947",
     "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
     "https://dev.to/nyaomaru/learn-valid-parentheses-reverse-linked-list-and-tree-max-depth-with-step-by-step-visualization-in-3o09",
+    "https://dev.to/nyaomaru/migrating-a-real-typescript-oss-library-from-tsup-to-tsdown-5b80",
     "https://dev.to/nyaomaru/typescript-compiler-api-preserving-child-node-narrowing-in-reusable-type-guards-4pgh",
     "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
     "https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk",
@@ -767,12 +768,6 @@
   "recent": [
     {
       "date": "2026-10-10",
-      "subcat": "Research Papers",
-      "title": "Trustworthy Data- and ML-Ops for Intelligent Transporta",
-      "url": "http://arxiv.org/abs/2610.01282v1"
-    },
-    {
-      "date": "2026-10-10",
       "subcat": "Lobsters Picks",
       "title": "Programming Isnt Special",
       "url": "https://lobste.rs/s/ily7as/programming_isn_t_special"
@@ -824,6 +819,12 @@
       "subcat": "Lobsters Picks",
       "title": "A tale of four theorem provers, or: A (reasonably) opin",
       "url": "https://lobste.rs/s/4dwrz0/tale_four_theorem_provers_reasonably"
+    },
+    {
+      "date": "2026-10-10",
+      "subcat": "Web Development",
+      "title": "Migrating a Real TypeScript OSS Library from tsup to ts",
+      "url": "https://dev.to/nyaomaru/migrating-a-real-typescript-oss-library-from-tsup-to-tsdown-5b80"
     }
   ]
 }
