@@ -1652,6 +1652,17 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://lobste.rs/s/qn61ip/open_source_clean_room_reimplementation
 - **Link:** https://github.com/storytold/photocraft
 
+**Added 2026-10-10**
+
+### [Unison Cloud is now open source](https://www.unison-lang.org/blog/unison-cloud-open-source/)
+- **Source:** www.unison-lang.org | **Posted:** 2026-10-09 | **By:** bontaq
+- **Community:** 35 score, 2 comments on Lobsters
+- **Tags:** release
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source
+- **Link:** https://www.unison-lang.org/blog/unison-cloud-open-source/
+
+
 ## Performance
 
 **Added 2026-10-09**
