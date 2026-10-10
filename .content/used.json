@@ -154,6 +154,7 @@
     "https://github.com/CopilotKit/OpenBot",
     "https://github.com/CopilotKit/openmuse",
     "https://github.com/DavidHDev/canvas-ui",
+    "https://github.com/Dingo-Shenanigans/ReSkate",
     "https://github.com/Draculabo/AntigravityManager",
     "https://github.com/EvoMap/AutoResearch",
     "https://github.com/FareedKhan-dev/kimi-k3-in-c",
@@ -770,12 +771,6 @@
     {
       "date": "2026-10-10",
       "subcat": "Go",
-      "title": "Show HN: Desert Atlas, a self-hosted OpenStreetMap app",
-      "url": "https://news.ycombinator.com/item?id=38532914"
-    },
-    {
-      "date": "2026-10-10",
-      "subcat": "Go",
       "title": "Ask HN: How to approach testing in Golang?",
       "url": "https://news.ycombinator.com/item?id=15895173"
     },
@@ -826,6 +821,12 @@
       "subcat": "Other Cool Projects",
       "title": "sunny-glow/Auto-BenchMax",
       "url": "https://github.com/sunny-glow/Auto-BenchMax"
+    },
+    {
+      "date": "2026-10-10",
+      "subcat": "C++",
+      "title": "Dingo-Shenanigans/ReSkate",
+      "url": "https://github.com/Dingo-Shenanigans/ReSkate"
     }
   ]
 }

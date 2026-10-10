@@ -927,3 +927,13 @@ Snippets and gotchas across languages.
 - **What it is:** Opensource firmware for NRF52840 Pro Micro that copycats the Steam Controller 2 Puck and adds an Xbox and Switch mode
 - **Growth:** averaging ~7 stars/day since launch.
 - **Link:** https://github.com/safijari/openpuck
+
+**Added 2026-10-10**
+
+### [Dingo-Shenanigans/ReSkate](https://github.com/Dingo-Shenanigans/ReSkate)
+- **Stats:** 758 stars | 132 forks | 65 open issues
+- **Language:** C++ | **Created:** 2026-10-02 | **License:** GPL-3.0
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~94 stars/day since launch.
+- **Link:** https://github.com/Dingo-Shenanigans/ReSkate
