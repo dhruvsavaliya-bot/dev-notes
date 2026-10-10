@@ -958,3 +958,12 @@ Snippets and gotchas across languages.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=44326620
 - **Link:** https://github.com/NickTikhonov/snap-ql
+
+**Added 2026-10-10**
+
+### [Launch HN: Matano (YC W23) – Open-Source Security Lake Platform (SIEM) for AWS](https://news.ycombinator.com/item?id=34505603)
+- **Source:** news.ycombinator.com | **Posted:** 2023-01-24 | **By:** wizwit999
+- **Community:** 140 points, 53 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=34505603
+- **Link:** https://news.ycombinator.com/item?id=34505603
