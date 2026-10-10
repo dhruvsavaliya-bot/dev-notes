@@ -504,6 +504,7 @@
     "https://news.ycombinator.com/item?id=41586031",
     "https://news.ycombinator.com/item?id=4166183",
     "https://news.ycombinator.com/item?id=42284412",
+    "https://news.ycombinator.com/item?id=43186406",
     "https://news.ycombinator.com/item?id=43332830",
     "https://news.ycombinator.com/item?id=43454915",
     "https://news.ycombinator.com/item?id=44326620",
@@ -774,12 +775,6 @@
   "recent": [
     {
       "date": "2026-10-10",
-      "subcat": "C++",
-      "title": "safijari/openpuck",
-      "url": "https://github.com/safijari/openpuck"
-    },
-    {
-      "date": "2026-10-10",
       "subcat": "Models & Datasets",
       "title": "openbmb/MiniCPM-V-2_6",
       "url": "https://huggingface.co/openbmb/MiniCPM-V-2_6"
@@ -831,6 +826,12 @@
       "subcat": "Models & Datasets",
       "title": "FrancisRing/Prism",
       "url": "https://huggingface.co/FrancisRing/Prism"
+    },
+    {
+      "date": "2026-10-10",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: I got laid off from Meta and created a minor h",
+      "url": "https://news.ycombinator.com/item?id=43186406"
     }
   ]
 }

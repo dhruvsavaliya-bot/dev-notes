@@ -1488,6 +1488,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=23658721
 - **Link:** https://unim.press/#dataisbeautiful
 
+**Added 2026-10-10**
+
+### [Show HN: I got laid off from Meta and created a minor hit on Steam](https://news.ycombinator.com/item?id=43186406)
+- **Source:** news.ycombinator.com | **Posted:** 2025-02-26 | **By:** newobj
+- **Community:** 1581 points, 356 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=43186406
+- **Link:** https://news.ycombinator.com/item?id=43186406
+
 
 ## Git & Workflow
 

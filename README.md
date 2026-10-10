@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**763 entries and counting** · Last updated: 2026-10-10
+**764 entries and counting** · Last updated: 2026-10-10
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 203 |
 | [AI / LLM Notes](ai/notes.md) | 111 |
 | [Reading List](articles/reading-list.md) | 183 |
-| [Coding Tips](coding-tips/tips.md) | 170 |
+| [Coding Tips](coding-tips/tips.md) | 171 |
 | [Language Notes](languages/notes.md) | 96 |
 
 ## Latest additions
 
+- **2026-10-10** · *Show & Ask HN* — [Show HN: I got laid off from Meta and created a minor h](https://news.ycombinator.com/item?id=43186406)
 - **2026-10-10** · *Models & Datasets* — [FrancisRing/Prism](https://huggingface.co/FrancisRing/Prism)
 - **2026-10-10** · *SQL & Databases* — [Show HN: SnapQL  Desktop app to query Postgres with AI](https://news.ycombinator.com/item?id=44326620)
 - **2026-10-10** · *JavaScript* — [outsourc-e/hermes-workspace](https://github.com/outsourc-e/hermes-workspace)
 - **2026-10-10** · *Models & Datasets* — [unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF)
-- **2026-10-10** · *C++* — [Dingo-Shenanigans/ReSkate](https://github.com/Dingo-Shenanigans/ReSkate)
 
 ## How it works
 
