@@ -987,3 +987,15 @@ Snippets and gotchas across languages.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=34505603
 - **Link:** https://news.ycombinator.com/item?id=34505603
+
+## Kotlin
+
+**Added 2026-10-11**
+
+### [LegadoTeam/legado](https://github.com/LegadoTeam/legado)
+- **Stats:** 1,455 stars | 348 forks | 53 open issues
+- **Language:** Kotlin | **Created:** 2025-10-31 | **License:** GPL-3.0
+- **Topics:** none listed
+- **What it is:** Legado 3.0 Book Reader with powerful controls
+- **Growth:** averaging ~4 stars/day since launch.
+- **Link:** https://github.com/LegadoTeam/legado

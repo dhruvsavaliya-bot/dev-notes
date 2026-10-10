@@ -172,6 +172,7 @@
     "https://github.com/KKKKhazix/human-writing",
     "https://github.com/Krishnagangwal/CS-Fundamentals",
     "https://github.com/LaoFeng-mouse/flyingmouse-format",
+    "https://github.com/LegadoTeam/legado",
     "https://github.com/Leonxlnx/unlazy",
     "https://github.com/LiamGvchi/gc-minimal-zine-poster",
     "https://github.com/LightningRAG/LightningRAG",
@@ -783,12 +784,6 @@
   "recent": [
     {
       "date": "2026-10-10",
-      "subcat": "Models & Datasets",
-      "title": "FrancisRing/Prism",
-      "url": "https://huggingface.co/FrancisRing/Prism"
-    },
-    {
-      "date": "2026-10-10",
       "subcat": "Show & Ask HN",
       "title": "Show HN: I got laid off from Meta and created a minor h",
       "url": "https://news.ycombinator.com/item?id=43186406"
@@ -840,6 +835,12 @@
       "subcat": "Beginner",
       "title": "DevOps From Scratch: A Students Diary (Entry #00)",
       "url": "https://dev.to/maame-codes/devops-from-scratch-a-students-diary-entry-00-5b71"
+    },
+    {
+      "date": "2026-10-11",
+      "subcat": "Kotlin",
+      "title": "LegadoTeam/legado",
+      "url": "https://github.com/LegadoTeam/legado"
     }
   ]
 }
