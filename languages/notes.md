@@ -302,6 +302,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~133 stars/day since launch.
 - **Link:** https://github.com/Yeachan-Heo/oh-my-codex
 
+**Added 2026-10-11**
+
+### [remorses/playwriter](https://github.com/remorses/playwriter)
+- **Stats:** 3,981 stars | 190 forks | 27 open issues
+- **Language:** TypeScript | **Created:** 2025-11-13 | **License:** MIT
+- **Topics:** mcp, playwright
+- **What it is:** Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
+- **Growth:** averaging ~11 stars/day since launch.
+- **Link:** https://github.com/remorses/playwriter
+
 
 ## Python
 

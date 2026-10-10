@@ -326,6 +326,7 @@
     "https://github.com/pingdotgg/t3code",
     "https://github.com/qingjian-team/qingjian",
     "https://github.com/rakanki911/DLSS5-Swapper",
+    "https://github.com/remorses/playwriter",
     "https://github.com/remoteinterview/zero",
     "https://github.com/repoprompt/repoprompt-ce",
     "https://github.com/robbietilton/Compositor",
@@ -780,12 +781,6 @@
   "recent": [
     {
       "date": "2026-10-10",
-      "subcat": "Models & Datasets",
-      "title": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
-      "url": "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF"
-    },
-    {
-      "date": "2026-10-10",
       "subcat": "JavaScript",
       "title": "outsourc-e/hermes-workspace",
       "url": "https://github.com/outsourc-e/hermes-workspace"
@@ -837,6 +832,12 @@
       "subcat": "PHP",
       "title": "trypostit/trypost",
       "url": "https://github.com/trypostit/trypost"
+    },
+    {
+      "date": "2026-10-11",
+      "subcat": "TypeScript",
+      "title": "remorses/playwriter",
+      "url": "https://github.com/remorses/playwriter"
     }
   ]
 }
