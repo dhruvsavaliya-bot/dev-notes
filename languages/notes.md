@@ -216,6 +216,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~32 stars/day since launch.
 - **Link:** https://github.com/outsourc-e/hermes-workspace
 
+**Added 2026-10-11**
+
+### [Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me](https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib)
+- **Author:** Dumebi Okolo | **Published:** Mar 10 | **Read time:** 11 min
+- **Community:** 51 reactions, 30 comments -- a top post in #javascript
+- **Tags:** webdev, javascript, showdev, nextjs
+- **Summary:** An evaluation of the Gemini 2.5 flash and Claude 3.7 Sonnet model for an agentic engine.  I had a...
+- **Link:** https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib
+
 
 ## TypeScript
 

@@ -47,6 +47,7 @@
     "https://dev.to/dj29/chain-of-thought-faithfulness-toggling-reasoning-mode-made-one-model-5x-more-likely-to-follow-39b3",
     "https://dev.to/dj29/hacktoberfest-is-coming-to-nadiad-gujarat-official-mlh-meetup-at-ddu-15-oct-1dc4",
     "https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2",
+    "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib",
     "https://dev.to/erikch/are-frontend-developers-cooked-is-frontend-design-safe-nn8",
     "https://dev.to/francistrdev/choose-your-burden-4dgl",
     "https://dev.to/francistrdev/git-gud-4e6g",
@@ -787,12 +788,6 @@
   "recent": [
     {
       "date": "2026-10-10",
-      "subcat": "SQL & Databases",
-      "title": "Launch HN: Matano (YC W23)  Open-Source Security Lake P",
-      "url": "https://news.ycombinator.com/item?id=34505603"
-    },
-    {
-      "date": "2026-10-10",
       "subcat": "Models & Datasets",
       "title": "Alissonerdx/BFS-Best-Face-Swap",
       "url": "https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap"
@@ -844,6 +839,12 @@
       "subcat": "Show & Ask HN",
       "title": "Tell HN: Cancelling HP Instant Ink prevents cartridges",
       "url": "https://news.ycombinator.com/item?id=36030156"
+    },
+    {
+      "date": "2026-10-11",
+      "subcat": "JavaScript",
+      "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Con",
+      "url": "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib"
     }
   ]
 }
