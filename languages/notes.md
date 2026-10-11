@@ -824,6 +824,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=30513030
 - **Link:** https://news.ycombinator.com/item?id=30513030
 
+**Added 2026-10-11**
+
+### [Why I quit using SwiftUI](https://chsxf.dev/2022/08/28/5-tup-why-i-quit-using-swiftui.html)
+- **Source:** chsxf.dev | **Posted:** 2022-08-28 | **By:** geoffeg
+- **Community:** 229 points, 246 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=32630389
+- **Link:** https://chsxf.dev/2022/08/28/5-tup-why-i-quit-using-swiftui.html
+
 
 ## Rust
 

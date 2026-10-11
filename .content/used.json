@@ -506,6 +506,7 @@
     "https://news.ycombinator.com/item?id=31637428",
     "https://news.ycombinator.com/item?id=32366759",
     "https://news.ycombinator.com/item?id=32493946",
+    "https://news.ycombinator.com/item?id=32630389",
     "https://news.ycombinator.com/item?id=33484185",
     "https://news.ycombinator.com/item?id=33512338",
     "https://news.ycombinator.com/item?id=34505603",
@@ -793,12 +794,6 @@
   "recent": [
     {
       "date": "2026-10-11",
-      "subcat": "Kotlin",
-      "title": "LegadoTeam/legado",
-      "url": "https://github.com/LegadoTeam/legado"
-    },
-    {
-      "date": "2026-10-11",
       "subcat": "Rust",
       "title": "Psst: Fast Spotify client with native GUI, without Elec",
       "url": "https://news.ycombinator.com/item?id=28203654"
@@ -850,6 +845,12 @@
       "subcat": "Research Papers",
       "title": "Isotropic Yet Undecodable: The Sequential Content-Suffi",
       "url": "http://arxiv.org/abs/2610.07906v1"
+    },
+    {
+      "date": "2026-10-11",
+      "subcat": "Swift",
+      "title": "Why I quit using SwiftUI",
+      "url": "https://news.ycombinator.com/item?id=32630389"
     }
   ]
 }
