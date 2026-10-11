@@ -23,6 +23,7 @@
     "http://arxiv.org/abs/2610.03665v1",
     "http://arxiv.org/abs/2610.06516v1",
     "http://arxiv.org/abs/2610.06625v2",
+    "http://arxiv.org/abs/2610.07906v1",
     "http://arxiv.org/abs/2610.08077v2",
     "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
     "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
@@ -792,12 +793,6 @@
   "recent": [
     {
       "date": "2026-10-11",
-      "subcat": "Beginner",
-      "title": "DevOps From Scratch: A Students Diary (Entry #00)",
-      "url": "https://dev.to/maame-codes/devops-from-scratch-a-students-diary-entry-00-5b71"
-    },
-    {
-      "date": "2026-10-11",
       "subcat": "Kotlin",
       "title": "LegadoTeam/legado",
       "url": "https://github.com/LegadoTeam/legado"
@@ -849,6 +844,12 @@
       "subcat": "JavaScript",
       "title": "The Architecture Nobody Talks About: How I Built System",
       "url": "https://dev.to/thebitforge/the-architecture-nobody-talks-about-how-i-built-systems-that-actually-scale-and-why-most-dont-3fk5"
+    },
+    {
+      "date": "2026-10-11",
+      "subcat": "Research Papers",
+      "title": "Isotropic Yet Undecodable: The Sequential Content-Suffi",
+      "url": "http://arxiv.org/abs/2610.07906v1"
     }
   ]
 }

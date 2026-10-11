@@ -1069,3 +1069,13 @@ Lessons from building with LLMs.
 - **Abstract:** Reinforcement learning with verifiable rewards (RLVR) turns agent experience into learning signals primarily through scalar outcome rewards after interaction. For group-relative objectives, however, this signal vanishes when all rollouts receive the same reward, even though their trajectories may reveal useful information about what the task requires and how the agent fails. We ask a complementary question: can hindsight teach an agent what it could have anticipated before acting? We introduce p...
 - **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.08077v2
+
+**Added 2026-10-11**
+
+### [Isotropic Yet Undecodable: The Sequential Content-Sufficiency Gap in Latent-Predictive Text Representations](http://arxiv.org/abs/2610.07906v1)
+- **Authors:** K. P. Santoso, N. Z. Fadil, F. P. Harsanti, R. V. H. Ginardi et al.
+- **Published:** 2026-10-06 | **Primary category:** cs.CL
+- **Categories:** cs.AI, cs.CL, cs.LG
+- **Abstract:** We study sequential content sufficiency by investigating whether a representation retains the ordered target information available in its input. An information-theoretic decomposition separates input ambiguity, representation loss, and readout mismatch. We construct recoverable views where perfect agreement and joint isotropic Gaussianity coexist with zero target information, and establish limits imposed by deterministic canonical anchors. Token log-loss provides a one-sided information-loss bou...
+- **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.07906v1
