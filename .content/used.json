@@ -504,6 +504,7 @@
     "https://news.ycombinator.com/item?id=33512338",
     "https://news.ycombinator.com/item?id=34505603",
     "https://news.ycombinator.com/item?id=35299071",
+    "https://news.ycombinator.com/item?id=36030156",
     "https://news.ycombinator.com/item?id=36493715",
     "https://news.ycombinator.com/item?id=36901303",
     "https://news.ycombinator.com/item?id=37149349",
@@ -786,12 +787,6 @@
   "recent": [
     {
       "date": "2026-10-10",
-      "subcat": "Other Cool Projects",
-      "title": "midesoft/rankGap",
-      "url": "https://github.com/midesoft/rankGap"
-    },
-    {
-      "date": "2026-10-10",
       "subcat": "SQL & Databases",
       "title": "Launch HN: Matano (YC W23)  Open-Source Security Lake P",
       "url": "https://news.ycombinator.com/item?id=34505603"
@@ -843,6 +838,12 @@
       "subcat": "Models & Datasets",
       "title": "zai-org/chatglm3-6b",
       "url": "https://huggingface.co/zai-org/chatglm3-6b"
+    },
+    {
+      "date": "2026-10-11",
+      "subcat": "Show & Ask HN",
+      "title": "Tell HN: Cancelling HP Instant Ink prevents cartridges",
+      "url": "https://news.ycombinator.com/item?id=36030156"
     }
   ]
 }
