@@ -460,6 +460,7 @@
     "https://lobste.rs/s/qi1bxu/tinygo_0_42_recover_is_real",
     "https://lobste.rs/s/qn61ip/open_source_clean_room_reimplementation",
     "https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy",
+    "https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably",
     "https://lobste.rs/s/rtcnc8/javascript_pun_tagged_template_literal",
     "https://lobste.rs/s/rucvky/go_concurrency_distilled",
     "https://lobste.rs/s/rwdufq/anti_patterns_software_blogging",
@@ -789,12 +790,6 @@
   "recent": [
     {
       "date": "2026-10-11",
-      "subcat": "PHP",
-      "title": "trypostit/trypost",
-      "url": "https://github.com/trypostit/trypost"
-    },
-    {
-      "date": "2026-10-11",
       "subcat": "TypeScript",
       "title": "remorses/playwriter",
       "url": "https://github.com/remorses/playwriter"
@@ -846,6 +841,12 @@
       "subcat": "Research Papers",
       "title": "Self-Retrospection Distillation: Turning Post-hoc Exper",
       "url": "http://arxiv.org/abs/2610.08077v2"
+    },
+    {
+      "date": "2026-10-11",
+      "subcat": "Lobsters Picks",
+      "title": "oh, apparently it's not possible to portably check for",
+      "url": "https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably"
     }
   ]
 }

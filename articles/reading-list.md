@@ -1681,6 +1681,16 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://lobste.rs/s/o8xo9z/importance_communities_around_software
 - **Link:** https://lumi.codeberg.page/blog/software-community.html
 
+**Added 2026-10-11**
+
+### [oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c](https://sebsite.pw/w/20261009-strtod.html)
+- **Source:** sebsite.pw | **Posted:** 2026-10-10 | **By:** seb
+- **Community:** 58 score, 18 comments on Lobsters
+- **Tags:** c
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably
+- **Link:** https://sebsite.pw/w/20261009-strtod.html
+
 
 ## Performance
 
