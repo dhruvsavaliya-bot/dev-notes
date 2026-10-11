@@ -1496,6 +1496,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50000488
 - **Link:** https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/
 
+**Added 2026-10-12**
+
+### [EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/)
+- **Source:** www.patrick-breyer.de | **Posted:** 2026-07-09 | **By:** rapnie
+- **Community:** 1636 points, 864 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=48843923
+- **Link:** https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/
+
 
 ## DevOps & Cloud
 

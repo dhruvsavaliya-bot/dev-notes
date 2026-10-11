@@ -548,6 +548,7 @@
     "https://news.ycombinator.com/item?id=45968310",
     "https://news.ycombinator.com/item?id=45989469",
     "https://news.ycombinator.com/item?id=47441546",
+    "https://news.ycombinator.com/item?id=48843923",
     "https://news.ycombinator.com/item?id=48896600",
     "https://news.ycombinator.com/item?id=48896665",
     "https://news.ycombinator.com/item?id=48926590",
@@ -809,12 +810,6 @@
   "recent": [
     {
       "date": "2026-10-11",
-      "subcat": "Research Papers",
-      "title": "On the Reliability of LLM-Based Vulnerability Patching",
-      "url": "http://arxiv.org/abs/2610.10150v1"
-    },
-    {
-      "date": "2026-10-11",
       "subcat": "Lobsters Picks",
       "title": "The Lightbulb Computer: Reimagining Spatial & Ambient C",
       "url": "https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial"
@@ -866,6 +861,12 @@
       "subcat": "Lobsters Picks",
       "title": "LineageOS 24.0 released",
       "url": "https://lobste.rs/s/ecxril/lineageos_24_0_released"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Hacker News Picks",
+      "title": "EU Parliament greenlights Chat Control 1.0",
+      "url": "https://news.ycombinator.com/item?id=48843923"
     }
   ]
 }
