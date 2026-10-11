@@ -859,6 +859,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit
 - **Link:** https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/
 
+**Added 2026-10-11**
+
+### [Psst: Fast Spotify client with native GUI, without Electron, built in Rust](https://github.com/jpochyla/psst)
+- **Source:** github.com | **Posted:** 2021-08-16 | **By:** tim--
+- **Community:** 1138 points, 422 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=28203654
+- **Link:** https://github.com/jpochyla/psst
+
 
 ## Elixir
 

@@ -491,6 +491,7 @@
     "https://news.ycombinator.com/item?id=26825468",
     "https://news.ycombinator.com/item?id=26862318",
     "https://news.ycombinator.com/item?id=27447206",
+    "https://news.ycombinator.com/item?id=28203654",
     "https://news.ycombinator.com/item?id=30219984",
     "https://news.ycombinator.com/item?id=30467919",
     "https://news.ycombinator.com/item?id=30513030",
@@ -784,12 +785,6 @@
   "recent": [
     {
       "date": "2026-10-10",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: I got laid off from Meta and created a minor h",
-      "url": "https://news.ycombinator.com/item?id=43186406"
-    },
-    {
-      "date": "2026-10-10",
       "subcat": "Lobsters Picks",
       "title": "The importance of communities around software",
       "url": "https://lobste.rs/s/o8xo9z/importance_communities_around_software"
@@ -841,6 +836,12 @@
       "subcat": "Kotlin",
       "title": "LegadoTeam/legado",
       "url": "https://github.com/LegadoTeam/legado"
+    },
+    {
+      "date": "2026-10-11",
+      "subcat": "Rust",
+      "title": "Psst: Fast Spotify client with native GUI, without Elec",
+      "url": "https://news.ycombinator.com/item?id=28203654"
     }
   ]
 }
