@@ -1599,3 +1599,13 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial
 - **Link:** https://lightbulbcomputer.com/
+
+**Added 2026-10-12**
+
+### [How big is a Git commit?](https://ratfactor.com/cards/git-commit-size)
+- **Source:** ratfactor.com | **Posted:** 2026-10-11 | **By:** rajtilakjee
+- **Community:** 25 score, 2 comments on Lobsters
+- **Tags:** vcs
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/9wcfld/how_big_is_git_commit
+- **Link:** https://ratfactor.com/cards/git-commit-size
