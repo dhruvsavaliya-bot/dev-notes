@@ -577,6 +577,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=15895173
 - **Link:** https://news.ycombinator.com/item?id=15895173
 
+**Added 2026-10-12**
+
+### [The new Go JSON API: twice as fast, or 1.5x slower?](https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/)
+- **Source:** lemire.me | **Posted:** 2026-09-04 | **By:** weberc2
+- **Community:** 16 score, 3 comments on Lobsters
+- **Tags:** go, performance
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/67ygvv/new_go_json_api_twice_as_fast_1_5x_slower
+- **Link:** https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/
+
 
 ## PHP
 

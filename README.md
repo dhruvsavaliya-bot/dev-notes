@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**791 entries and counting** · Last updated: 2026-10-11
+**792 entries and counting** · Last updated: 2026-10-12
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 119 |
 | [Reading List](articles/reading-list.md) | 185 |
 | [Coding Tips](coding-tips/tips.md) | 175 |
-| [Language Notes](languages/notes.md) | 105 |
+| [Language Notes](languages/notes.md) | 106 |
 
 ## Latest additions
 
+- **2026-10-12** · *Go* — [The new Go JSON API: twice as fast, or 1.5x slower?](https://lobste.rs/s/67ygvv/new_go_json_api_twice_as_fast_1_5x_slower)
 - **2026-10-11** · *AI & Machine Learning* — [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent)
 - **2026-10-11** · *Lobsters Picks* — [The Lightbulb Computer: Reimagining Spatial & Ambient C](https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial)
 - **2026-10-11** · *Research Papers* — [On the Reliability of LLM-Based Vulnerability Patching](http://arxiv.org/abs/2610.10150v1)
 - **2026-10-11** · *AI & Machine Learning* — [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe)
-- **2026-10-11** · *Lobsters Picks* — [Why 'externalized' proofs of cyclic trait impls does no](https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait)
 
 ## How it works
 
