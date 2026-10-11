@@ -924,6 +924,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~25 stars/day since launch.
 - **Link:** https://github.com/screenpipe/screenpipe
 
+**Added 2026-10-11**
+
+### [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent)
+- **Stats:** 20,524 stars | 2,250 forks | 157 open issues
+- **Language:** Python | **Created:** 2024-04-02 | **License:** MIT
+- **Topics:** agent, agent-based-model, ai, cybersecurity, developer-tools, llm
+- **What it is:** SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
+- **Growth:** averaging ~22 stars/day since launch.
+- **Link:** https://github.com/SWE-agent/SWE-agent
+
 
 ## Other Cool Projects
 
