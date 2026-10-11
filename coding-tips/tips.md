@@ -1589,3 +1589,13 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait
 - **Link:** https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/
+
+**Added 2026-10-11**
+
+### [The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors](https://lightbulbcomputer.com/)
+- **Source:** lightbulbcomputer.com | **Posted:** 2026-10-10 | **By:** pyfisch
+- **Community:** 58 score, 10 comments on Lobsters
+- **Tags:** design
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial
+- **Link:** https://lightbulbcomputer.com/
