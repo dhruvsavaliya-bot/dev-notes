@@ -597,6 +597,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/tsfs3w/why_function_arguments_are_not_function
 - **Link:** https://jerf.org/iri/post/2026/func_args_are_not_colors/
 
+**Added 2026-10-12**
+
+### [Debian Code Search: Fast TurboPFor with Go SIMD](https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/)
+- **Source:** michael.stapelberg.ch | **Posted:** 2026-09-06 | **By:** stapelberg
+- **Community:** 58 score, 8 comments on Lobsters
+- **Tags:** go, performance, vibecoding
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/ceuque/debian_code_search_fast_turbopfor_with_go
+- **Link:** https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/
+
 
 ## PHP
 
