@@ -587,6 +587,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/67ygvv/new_go_json_api_twice_as_fast_1_5x_slower
 - **Link:** https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/
 
+**Added 2026-10-12**
+
+### [Why Function Arguments Are Not Function Colors](https://jerf.org/iri/post/2026/func_args_are_not_colors/)
+- **Source:** jerf.org | **Posted:** 2026-09-08 | **By:** abhin4v
+- **Community:** 23 score, 15 comments on Lobsters
+- **Tags:** go, haskell, programming
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/tsfs3w/why_function_arguments_are_not_function
+- **Link:** https://jerf.org/iri/post/2026/func_args_are_not_colors/
+
 
 ## PHP
 

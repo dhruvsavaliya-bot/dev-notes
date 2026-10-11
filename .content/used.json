@@ -481,6 +481,7 @@
     "https://lobste.rs/s/rwdufq/anti_patterns_software_blogging",
     "https://lobste.rs/s/tfjoxv/actual_budget",
     "https://lobste.rs/s/tmr7jp/extend_lua_with_zig_1_hello_world",
+    "https://lobste.rs/s/tsfs3w/why_function_arguments_are_not_function",
     "https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem",
     "https://lobste.rs/s/ul9krj/hacking_go_compiler_efficiently_map_ipv4",
     "https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice",
@@ -806,12 +807,6 @@
   "recent": [
     {
       "date": "2026-10-11",
-      "subcat": "Research Papers",
-      "title": "Hybrid Hierarchical Runtime Verification for Edge-IoT S",
-      "url": "http://arxiv.org/abs/2610.09825v1"
-    },
-    {
-      "date": "2026-10-11",
       "subcat": "Lobsters Picks",
       "title": "Why 'externalized' proofs of cyclic trait impls does no",
       "url": "https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait"
@@ -863,6 +858,12 @@
       "subcat": "Lobsters Picks",
       "title": "No Man Is an Island",
       "url": "https://lobste.rs/s/nxspz6/no_man_is_island"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Go",
+      "title": "Why Function Arguments Are Not Function Colors",
+      "url": "https://lobste.rs/s/tsfs3w/why_function_arguments_are_not_function"
     }
   ]
 }
