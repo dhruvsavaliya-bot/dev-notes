@@ -896,6 +896,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/Contrastive-LM/CLM-v0.1-8B
 
+**Added 2026-10-12**
+
+### [microsoft/OmniParser-v2.0](https://huggingface.co/microsoft/OmniParser-v2.0)
+- **Stats:** 1,365 likes | 3,027 downloads
+- **Kind:** Hugging Face model | **Task:** n/a | **Created:** 2025-02-12
+- **Tags:** transformers, safetensors, endpoint-template, custom_code, endpoints_compatible
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/microsoft/OmniParser-v2.0
+
 
 ## Research Papers
 

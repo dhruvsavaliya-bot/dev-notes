@@ -431,6 +431,7 @@
     "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
     "https://huggingface.co/meta-llama/Llama-3.1-8B",
     "https://huggingface.co/microsoft/Florence-2-base",
+    "https://huggingface.co/microsoft/OmniParser-v2.0",
     "https://huggingface.co/microsoft/TRELLIS-image-large",
     "https://huggingface.co/openbmb/MiniCPM-V-2_6",
     "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit",
@@ -812,12 +813,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Go",
-      "title": "The new Go JSON API: twice as fast, or 1.5x slower?",
-      "url": "https://lobste.rs/s/67ygvv/new_go_json_api_twice_as_fast_1_5x_slower"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Research Papers",
       "title": "VClare: Resolving Imperfect Specifications in LLM-Based",
       "url": "http://arxiv.org/abs/2607.24854v1"
@@ -869,6 +864,12 @@
       "subcat": "Go",
       "title": "Debian Code Search: Fast TurboPFor with Go SIMD",
       "url": "https://lobste.rs/s/ceuque/debian_code_search_fast_turbopfor_with_go"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Models & Datasets",
+      "title": "microsoft/OmniParser-v2.0",
+      "url": "https://huggingface.co/microsoft/OmniParser-v2.0"
     }
   ]
 }
