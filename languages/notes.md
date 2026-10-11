@@ -225,6 +225,15 @@ Snippets and gotchas across languages.
 - **Summary:** An evaluation of the Gemini 2.5 flash and Claude 3.7 Sonnet model for an agentic engine.  I had a...
 - **Link:** https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib
 
+**Added 2026-10-11**
+
+### [The Architecture Nobody Talks About: How I Built Systems That Actually Scale (And Why Most Don't)](https://dev.to/thebitforge/the-architecture-nobody-talks-about-how-i-built-systems-that-actually-scale-and-why-most-dont-3fk5)
+- **Author:** TheBitForge | **Published:** Nov 17 '25 | **Read time:** 32 min
+- **Community:** 113 reactions, 22 comments -- a top post in #javascript
+- **Tags:** aws, programming, webdev, javascript
+- **Summary:** The Architecture Nobody Talks About: How I Built Systems That Actually Scale (And Why Most...
+- **Link:** https://dev.to/thebitforge/the-architecture-nobody-talks-about-how-i-built-systems-that-actually-scale-and-why-most-dont-3fk5
+
 
 ## TypeScript
 

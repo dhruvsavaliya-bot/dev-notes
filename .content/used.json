@@ -124,6 +124,7 @@
     "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
     "https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2",
     "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g",
+    "https://dev.to/thebitforge/the-architecture-nobody-talks-about-how-i-built-systems-that-actually-scale-and-why-most-dont-3fk5",
     "https://dev.to/therealmrmumba/7-best-ai-project-management-tools-for-software-development-teams-in-2026-fik",
     "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
     "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
@@ -791,12 +792,6 @@
   "recent": [
     {
       "date": "2026-10-11",
-      "subcat": "Models & Datasets",
-      "title": "OpenGVLab/ShareGPT-4o",
-      "url": "https://huggingface.co/datasets/OpenGVLab/ShareGPT-4o"
-    },
-    {
-      "date": "2026-10-11",
       "subcat": "Beginner",
       "title": "DevOps From Scratch: A Students Diary (Entry #00)",
       "url": "https://dev.to/maame-codes/devops-from-scratch-a-students-diary-entry-00-5b71"
@@ -848,6 +843,12 @@
       "subcat": "Web & Frontend",
       "title": "bizspring-open/BizSpring-Java-Mall",
       "url": "https://github.com/bizspring-open/BizSpring-Java-Mall"
+    },
+    {
+      "date": "2026-10-11",
+      "subcat": "JavaScript",
+      "title": "The Architecture Nobody Talks About: How I Built System",
+      "url": "https://dev.to/thebitforge/the-architecture-nobody-talks-about-how-i-built-systems-that-actually-scale-and-why-most-dont-3fk5"
     }
   ]
 }
