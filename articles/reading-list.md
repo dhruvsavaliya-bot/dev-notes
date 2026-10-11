@@ -1691,6 +1691,16 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably
 - **Link:** https://sebsite.pw/w/20261009-strtod.html
 
+**Added 2026-10-12**
+
+### [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
+- **Source:** borretti.me | **Posted:** 2026-10-09 | **By:** facundoolano
+- **Community:** 70 score, 15 comments on Lobsters
+- **Tags:** philosophy, vibecoding
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/nxspz6/no_man_is_island
+- **Link:** https://borretti.me/article/no-man-is-an-island
+
 
 ## Performance
 

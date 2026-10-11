@@ -467,6 +467,7 @@
     "https://lobste.rs/s/jlja1a/jdk_27_has_been_released",
     "https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this",
     "https://lobste.rs/s/lxo74i/introducing_microlighter",
+    "https://lobste.rs/s/nxspz6/no_man_is_island",
     "https://lobste.rs/s/o8xo9z/importance_communities_around_software",
     "https://lobste.rs/s/odrfgk/how_speed_up_rust_compiler_september_2026",
     "https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live",
@@ -805,12 +806,6 @@
   "recent": [
     {
       "date": "2026-10-11",
-      "subcat": "JavaScript",
-      "title": "Bun 1.4",
-      "url": "https://lobste.rs/s/eesu8d/bun_1_4"
-    },
-    {
-      "date": "2026-10-11",
       "subcat": "Research Papers",
       "title": "Hybrid Hierarchical Runtime Verification for Edge-IoT S",
       "url": "http://arxiv.org/abs/2610.09825v1"
@@ -862,6 +857,12 @@
       "subcat": "Lobsters Picks",
       "title": "How big is a Git commit?",
       "url": "https://lobste.rs/s/9wcfld/how_big_is_git_commit"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Lobsters Picks",
+      "title": "No Man Is an Island",
+      "url": "https://lobste.rs/s/nxspz6/no_man_is_island"
     }
   ]
 }
