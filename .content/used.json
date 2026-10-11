@@ -342,6 +342,7 @@
     "https://github.com/s1dashu/ip-as-logo-skill",
     "https://github.com/safijari/openpuck",
     "https://github.com/sapientinc/PRAXIST",
+    "https://github.com/screenpipe/screenpipe",
     "https://github.com/sdli1995/dlssg_for_sm86",
     "https://github.com/shadcn-ui/lint",
     "https://github.com/shihabal3amri/DiPlay",
@@ -798,12 +799,6 @@
   "recent": [
     {
       "date": "2026-10-11",
-      "subcat": "Research Papers",
-      "title": "Self-Retrospection Distillation: Turning Post-hoc Exper",
-      "url": "http://arxiv.org/abs/2610.08077v2"
-    },
-    {
-      "date": "2026-10-11",
       "subcat": "Lobsters Picks",
       "title": "oh, apparently it's not possible to portably check for",
       "url": "https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably"
@@ -855,6 +850,12 @@
       "subcat": "Lobsters Picks",
       "title": "Why 'externalized' proofs of cyclic trait impls does no",
       "url": "https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait"
+    },
+    {
+      "date": "2026-10-11",
+      "subcat": "AI & Machine Learning",
+      "title": "screenpipe/screenpipe",
+      "url": "https://github.com/screenpipe/screenpipe"
     }
   ]
 }

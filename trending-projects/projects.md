@@ -914,6 +914,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~44 stars/day since launch.
 - **Link:** https://github.com/aliyun/ai-agent-handbook
 
+**Added 2026-10-11**
+
+### [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe)
+- **Stats:** 21,906 stars | 2,241 forks | 35 open issues
+- **Language:** Rust | **Created:** 2024-06-19 | **License:** NOASSERTION
+- **Topics:** agents, agi, ai, ai-memory, audio-recording, computer-vision
+- **What it is:** YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
+- **Growth:** averaging ~25 stars/day since launch.
+- **Link:** https://github.com/screenpipe/screenpipe
+
 
 ## Other Cool Projects
 
