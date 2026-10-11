@@ -887,6 +887,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/zai-org/chatglm3-6b
 
+**Added 2026-10-12**
+
+### [Contrastive-LM/CLM-v0.1-8B](https://huggingface.co/Contrastive-LM/CLM-v0.1-8B)
+- **Stats:** 764 likes | 4,367 downloads
+- **Kind:** Hugging Face model | **Task:** text-ranking | **Created:** 2026-09-21
+- **Tags:** contrastive-lm, clm, contrastive-learning, verifier, reranker, agents
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/Contrastive-LM/CLM-v0.1-8B
+
 
 ## Research Papers
 

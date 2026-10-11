@@ -395,6 +395,7 @@
     "https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap",
     "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
     "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged",
+    "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
     "https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
     "https://huggingface.co/FrancisRing/Prism",
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
@@ -807,12 +808,6 @@
   "recent": [
     {
       "date": "2026-10-11",
-      "subcat": "Lobsters Picks",
-      "title": "Why 'externalized' proofs of cyclic trait impls does no",
-      "url": "https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait"
-    },
-    {
-      "date": "2026-10-11",
       "subcat": "AI & Machine Learning",
       "title": "screenpipe/screenpipe",
       "url": "https://github.com/screenpipe/screenpipe"
@@ -864,6 +859,12 @@
       "subcat": "Go",
       "title": "Why Function Arguments Are Not Function Colors",
       "url": "https://lobste.rs/s/tsfs3w/why_function_arguments_are_not_function"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Models & Datasets",
+      "title": "Contrastive-LM/CLM-v0.1-8B",
+      "url": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B"
     }
   ]
 }
