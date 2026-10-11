@@ -451,6 +451,7 @@
     "https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit",
     "https://lobste.rs/s/dpfpr3/goroutine_leak_profiles",
     "https://lobste.rs/s/eesu8d/bun_1_4",
+    "https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait",
     "https://lobste.rs/s/iii8sl/micro_language_implementation_calcium",
     "https://lobste.rs/s/ily7as/programming_isn_t_special",
     "https://lobste.rs/s/imdwmj/pandas_should_go_extinct",
@@ -797,12 +798,6 @@
   "recent": [
     {
       "date": "2026-10-11",
-      "subcat": "JavaScript",
-      "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Con",
-      "url": "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib"
-    },
-    {
-      "date": "2026-10-11",
       "subcat": "Research Papers",
       "title": "Self-Retrospection Distillation: Turning Post-hoc Exper",
       "url": "http://arxiv.org/abs/2610.08077v2"
@@ -854,6 +849,12 @@
       "subcat": "Research Papers",
       "title": "Hybrid Hierarchical Runtime Verification for Edge-IoT S",
       "url": "http://arxiv.org/abs/2610.09825v1"
+    },
+    {
+      "date": "2026-10-11",
+      "subcat": "Lobsters Picks",
+      "title": "Why 'externalized' proofs of cyclic trait impls does no",
+      "url": "https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait"
     }
   ]
 }

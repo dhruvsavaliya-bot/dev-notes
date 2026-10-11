@@ -1579,3 +1579,13 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/4dwrz0/tale_four_theorem_provers_reasonably
 - **Link:** https://blueberrywren.dev/blog/primes/
+
+**Added 2026-10-11**
+
+### [Why 'externalized' proofs of cyclic trait impls does not work](https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/)
+- **Source:** smallcultfollowing.com | **Posted:** 2026-10-10 | **By:** fanf
+- **Community:** 16 score, 0 comments on Lobsters
+- **Tags:** rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait
+- **Link:** https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/
