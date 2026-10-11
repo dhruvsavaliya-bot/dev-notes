@@ -1079,3 +1079,13 @@ Lessons from building with LLMs.
 - **Abstract:** We study sequential content sufficiency by investigating whether a representation retains the ordered target information available in its input. An information-theoretic decomposition separates input ambiguity, representation loss, and readout mismatch. We construct recoverable views where perfect agreement and joint isotropic Gaussianity coexist with zero target information, and establish limits imposed by deterministic canonical anchors. Token log-loss provides a one-sided information-loss bou...
 - **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.07906v1
+
+**Added 2026-10-11**
+
+### [Maintaining Benchmarks Against Increasingly Capable Agents: Detection and Remediation of Unearned Passes](http://arxiv.org/abs/2609.34262v1)
+- **Authors:** Weijun Luo, Kelvin Luu, Xinyi Liu, Guangze Luo et al.
+- **Published:** 2026-09-28 | **Primary category:** cs.SE
+- **Categories:** cs.AI, cs.LG, cs.SE
+- **Abstract:** Agentic benchmarks guide model selection and training. Yet an agent can pass a task without demonstrating the intended capability. Such outcomes constitute unearned passes; their proportion among all passes defines the integrity gap. As agents improve, benchmark surfaces that once seemed harmless can become exploitable, making benchmark validity an ongoing maintenance problem. We introduce a process-verification framework that audits passing trajectories, distinguishes evidenced reward hacking f...
+- **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.34262v1

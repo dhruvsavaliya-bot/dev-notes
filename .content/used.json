@@ -11,6 +11,7 @@
     "http://arxiv.org/abs/2609.28608v1",
     "http://arxiv.org/abs/2609.30629v1",
     "http://arxiv.org/abs/2609.31250v1",
+    "http://arxiv.org/abs/2609.34262v1",
     "http://arxiv.org/abs/2609.34603v2",
     "http://arxiv.org/abs/2609.35878v1",
     "http://arxiv.org/abs/2609.37626v1",
@@ -794,12 +795,6 @@
   "recent": [
     {
       "date": "2026-10-11",
-      "subcat": "Rust",
-      "title": "Psst: Fast Spotify client with native GUI, without Elec",
-      "url": "https://news.ycombinator.com/item?id=28203654"
-    },
-    {
-      "date": "2026-10-11",
       "subcat": "Models & Datasets",
       "title": "zai-org/chatglm3-6b",
       "url": "https://huggingface.co/zai-org/chatglm3-6b"
@@ -851,6 +846,12 @@
       "subcat": "Swift",
       "title": "Why I quit using SwiftUI",
       "url": "https://news.ycombinator.com/item?id=32630389"
+    },
+    {
+      "date": "2026-10-11",
+      "subcat": "Research Papers",
+      "title": "Maintaining Benchmarks Against Increasingly Capable Age",
+      "url": "http://arxiv.org/abs/2609.34262v1"
     }
   ]
 }
