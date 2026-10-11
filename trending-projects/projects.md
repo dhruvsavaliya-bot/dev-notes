@@ -1900,6 +1900,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~29 stars/day since launch.
 - **Link:** https://github.com/mesamirh/MovieBox-Tui
 
+**Added 2026-10-11**
+
+### [bizspring-open/BizSpring-Java-Mall](https://github.com/bizspring-open/BizSpring-Java-Mall)
+- **Stats:** 420 stars | 22 forks | 2 open issues
+- **Language:** Java | **Created:** 2025-11-12 | **License:** AGPL-3.0
+- **Topics:** none listed
+- **What it is:** BizSpring Java商城平台首选,分销商城,b2b2c商城,saas商城,java电商系统, 可商用；Vue3,Element UI Plus,Uniapp,微服务,SpringCloud,跨境电商,跨境商城,电商国际化,外贸,独立站,多国语言,移动商城,小程序商城,H5商城,公众号商城,App,Redis,支持多语言,多规格SKU,分销,拼团,砍价,秒杀,优惠券,积分,会员等级,小程序前后端分离,方便二开,Markdown在线文档,代码生成,二开文档
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/bizspring-open/BizSpring-Java-Mall
+
 
 ## Developer Tools
 
