@@ -1059,3 +1059,13 @@ Lessons from building with LLMs.
 - **Abstract:** The rapid evolution of Intelligent Transportation Systems and Logistics (ITS\&L) has become a cornerstone of the modern social economy, relying heavily on the integration of Data, Artificial Intelligence (AI), and, more specifically, Machine Learning (ML). This paper provides a comprehensive review of Trustworthy Data and Machine Learning Operations (DataOps and MLOps) in the ITS\&L domain, underscoring their importance in improving efficiency, reliability, and decision-making precision within t...
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.01282v1
+
+**Added 2026-10-11**
+
+### [Self-Retrospection Distillation: Turning Post-hoc Experiences into Prior Foresight](http://arxiv.org/abs/2610.08077v2)
+- **Authors:** Haoxiang Zhang, Qinglin Chen, Hiroaki Hayashi, Zhuofeng Li et al.
+- **Published:** 2026-10-06 | **Primary category:** cs.CL
+- **Categories:** cs.AI, cs.CL, cs.IR, cs.LG
+- **Abstract:** Reinforcement learning with verifiable rewards (RLVR) turns agent experience into learning signals primarily through scalar outcome rewards after interaction. For group-relative objectives, however, this signal vanishes when all rollouts receive the same reward, even though their trajectories may reveal useful information about what the task requires and how the agent fails. We ask a complementary question: can hindsight teach an agent what it could have anticipated before acting? We introduce p...
+- **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.08077v2

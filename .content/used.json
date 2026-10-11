@@ -23,6 +23,7 @@
     "http://arxiv.org/abs/2610.03665v1",
     "http://arxiv.org/abs/2610.06516v1",
     "http://arxiv.org/abs/2610.06625v2",
+    "http://arxiv.org/abs/2610.08077v2",
     "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
     "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
     "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag",
@@ -787,12 +788,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-10",
-      "subcat": "Models & Datasets",
-      "title": "Alissonerdx/BFS-Best-Face-Swap",
-      "url": "https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap"
-    },
-    {
       "date": "2026-10-11",
       "subcat": "PHP",
       "title": "trypostit/trypost",
@@ -845,6 +840,12 @@
       "subcat": "JavaScript",
       "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Con",
       "url": "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib"
+    },
+    {
+      "date": "2026-10-11",
+      "subcat": "Research Papers",
+      "title": "Self-Retrospection Distillation: Turning Post-hoc Exper",
+      "url": "http://arxiv.org/abs/2610.08077v2"
     }
   ]
 }
