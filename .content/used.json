@@ -26,6 +26,7 @@
     "http://arxiv.org/abs/2610.06625v2",
     "http://arxiv.org/abs/2610.07906v1",
     "http://arxiv.org/abs/2610.08077v2",
+    "http://arxiv.org/abs/2610.09825v1",
     "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
     "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
     "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag",
@@ -796,12 +797,6 @@
   "recent": [
     {
       "date": "2026-10-11",
-      "subcat": "Show & Ask HN",
-      "title": "Tell HN: Cancelling HP Instant Ink prevents cartridges",
-      "url": "https://news.ycombinator.com/item?id=36030156"
-    },
-    {
-      "date": "2026-10-11",
       "subcat": "JavaScript",
       "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Con",
       "url": "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib"
@@ -853,6 +848,12 @@
       "subcat": "JavaScript",
       "title": "Bun 1.4",
       "url": "https://lobste.rs/s/eesu8d/bun_1_4"
+    },
+    {
+      "date": "2026-10-11",
+      "subcat": "Research Papers",
+      "title": "Hybrid Hierarchical Runtime Verification for Edge-IoT S",
+      "url": "http://arxiv.org/abs/2610.09825v1"
     }
   ]
 }

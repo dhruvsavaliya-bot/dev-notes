@@ -1089,3 +1089,13 @@ Lessons from building with LLMs.
 - **Abstract:** Agentic benchmarks guide model selection and training. Yet an agent can pass a task without demonstrating the intended capability. Such outcomes constitute unearned passes; their proportion among all passes defines the integrity gap. As agents improve, benchmark surfaces that once seemed harmless can become exploitable, making benchmark validity an ongoing maintenance problem. We introduce a process-verification framework that audits passing trajectories, distinguishes evidenced reward hacking f...
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.34262v1
+
+**Added 2026-10-11**
+
+### [Hybrid Hierarchical Runtime Verification for Edge-IoT Security: Combining MonPoly and RTLola](http://arxiv.org/abs/2610.09825v1)
+- **Authors:** Nikolaos Kekatos, Marinelio Chintri, Panagiotis Katsaros, Alexios Lekidis et al.
+- **Published:** 2026-10-07 | **Primary category:** cs.CR
+- **Categories:** cs.CR, cs.DC, cs.LO
+- **Abstract:** Security monitoring of edge-IoT fleets faces three structural challenges. (i) A per-node monitor is cheap but cannot see attacks that coordinate across devices. (ii) A cloud monitor sees the full fleet but pays for that view in bandwidth. (iii) Even at the cloud, a monitor built on a single RV engine can be fooled by an attacker who compromises a device, raises one malicious request, and then goes silent: once the events stop, an event-triggered monitor has nothing left to evaluate. We propose a...
+- **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.09825v1
