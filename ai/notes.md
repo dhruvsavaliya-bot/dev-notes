@@ -878,6 +878,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/OpenGVLab/ShareGPT-4o
 
+**Added 2026-10-11**
+
+### [zai-org/chatglm3-6b](https://huggingface.co/zai-org/chatglm3-6b)
+- **Stats:** 1,167 likes | 61,189 downloads
+- **Kind:** Hugging Face model | **Task:** n/a | **Created:** 2023-10-25
+- **Tags:** transformers, pytorch, safetensors, chatglm, glm, thudm
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/zai-org/chatglm3-6b
+
 
 ## Research Papers
 
