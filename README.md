@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**788 entries and counting** · Last updated: 2026-10-11
+**789 entries and counting** · Last updated: 2026-10-11
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 206 |
-| [AI / LLM Notes](ai/notes.md) | 118 |
+| [AI / LLM Notes](ai/notes.md) | 119 |
 | [Reading List](articles/reading-list.md) | 185 |
 | [Coding Tips](coding-tips/tips.md) | 174 |
 | [Language Notes](languages/notes.md) | 105 |
 
 ## Latest additions
 
+- **2026-10-11** · *Research Papers* — [On the Reliability of LLM-Based Vulnerability Patching](http://arxiv.org/abs/2610.10150v1)
 - **2026-10-11** · *AI & Machine Learning* — [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe)
 - **2026-10-11** · *Lobsters Picks* — [Why 'externalized' proofs of cyclic trait impls does no](https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait)
 - **2026-10-11** · *Research Papers* — [Hybrid Hierarchical Runtime Verification for Edge-IoT S](http://arxiv.org/abs/2610.09825v1)
 - **2026-10-11** · *JavaScript* — [Bun 1.4](https://lobste.rs/s/eesu8d/bun_1_4)
-- **2026-10-11** · *Research Papers* — [Maintaining Benchmarks Against Increasingly Capable Age](http://arxiv.org/abs/2609.34262v1)
 
 ## How it works
 

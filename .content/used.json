@@ -27,6 +27,7 @@
     "http://arxiv.org/abs/2610.07906v1",
     "http://arxiv.org/abs/2610.08077v2",
     "http://arxiv.org/abs/2610.09825v1",
+    "http://arxiv.org/abs/2610.10150v1",
     "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
     "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
     "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag",
@@ -799,12 +800,6 @@
   "recent": [
     {
       "date": "2026-10-11",
-      "subcat": "Lobsters Picks",
-      "title": "oh, apparently it's not possible to portably check for",
-      "url": "https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably"
-    },
-    {
-      "date": "2026-10-11",
       "subcat": "Web & Frontend",
       "title": "bizspring-open/BizSpring-Java-Mall",
       "url": "https://github.com/bizspring-open/BizSpring-Java-Mall"
@@ -856,6 +851,12 @@
       "subcat": "AI & Machine Learning",
       "title": "screenpipe/screenpipe",
       "url": "https://github.com/screenpipe/screenpipe"
+    },
+    {
+      "date": "2026-10-11",
+      "subcat": "Research Papers",
+      "title": "On the Reliability of LLM-Based Vulnerability Patching",
+      "url": "http://arxiv.org/abs/2610.10150v1"
     }
   ]
 }

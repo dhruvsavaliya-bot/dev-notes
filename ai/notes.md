@@ -1099,3 +1099,13 @@ Lessons from building with LLMs.
 - **Abstract:** Security monitoring of edge-IoT fleets faces three structural challenges. (i) A per-node monitor is cheap but cannot see attacks that coordinate across devices. (ii) A cloud monitor sees the full fleet but pays for that view in bandwidth. (iii) Even at the cloud, a monitor built on a single RV engine can be fooled by an attacker who compromises a device, raises one malicious request, and then goes silent: once the events stop, an event-triggered monitor has nothing left to evaluate. We propose a...
 - **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.09825v1
+
+**Added 2026-10-11**
+
+### [On the Reliability of LLM-Based Vulnerability Patching Benchmarks](http://arxiv.org/abs/2610.10150v1)
+- **Authors:** Dang K Le, Wenxuan Shi, Xinyu Xing
+- **Published:** 2026-10-07 | **Primary category:** cs.CR
+- **Categories:** cs.CR, cs.SE
+- **Abstract:** Large language models (LLMs) have shown strong potential for automated vulnerability patching, but current benchmarks can substantially distort reported performance. Drawing on extensive experience developing, running, and stress-testing such frameworks, we identify under-examined pitfalls across three dimensions: (1) agent-level factors, where prompting, tool availability, and detailed instructions can raise success rates without improving developer-aligned patch quality; (2) framework-level fa...
+- **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.10150v1
