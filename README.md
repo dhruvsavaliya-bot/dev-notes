@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**799 entries and counting** · Last updated: 2026-10-12
+**800 entries and counting** · Last updated: 2026-10-12
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 207 |
+| [Trending Projects](trending-projects/projects.md) | 208 |
 | [AI / LLM Notes](ai/notes.md) | 121 |
 | [Reading List](articles/reading-list.md) | 187 |
 | [Coding Tips](coding-tips/tips.md) | 177 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-12** · *Backend & Infrastructure* — [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS)
 - **2026-10-12** · *Hacker News Picks* — [EU Parliament greenlights Chat Control 1.0](https://news.ycombinator.com/item?id=48843923)
 - **2026-10-12** · *Lobsters Picks* — [LineageOS 24.0 released](https://lobste.rs/s/ecxril/lineageos_24_0_released)
 - **2026-10-12** · *Models & Datasets* — [Contrastive-LM/CLM-v0.1-8B](https://huggingface.co/Contrastive-LM/CLM-v0.1-8B)
 - **2026-10-12** · *Go* — [Why Function Arguments Are Not Function Colors](https://lobste.rs/s/tsfs3w/why_function_arguments_are_not_function)
-- **2026-10-12** · *Lobsters Picks* — [No Man Is an Island](https://lobste.rs/s/nxspz6/no_man_is_island)
 
 ## How it works
 

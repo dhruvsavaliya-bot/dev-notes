@@ -2085,3 +2085,13 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** A Rust userspace WARP core for censored networks, built around MASQUE over HTTP/3 and HTTP/2.
 - **Growth:** averaging ~24 stars/day since launch.
 - **Link:** https://github.com/CluvexStudio/Aether
+
+**Added 2026-10-12**
+
+### [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS)
+- **Stats:** 2,300 stars | 223 forks | 3 open issues
+- **Language:** Kotlin | **Created:** 2026-02-18 | **License:** GPL-3.0
+- **Topics:** android, containerization, docker, droidspaces, kernelsu, lxc
+- **What it is:** A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty
+- **Growth:** averaging ~9 stars/day since launch.
+- **Link:** https://github.com/ravindu644/Droidspaces-OSS
