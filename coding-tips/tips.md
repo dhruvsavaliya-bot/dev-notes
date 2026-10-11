@@ -1609,3 +1609,13 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/9wcfld/how_big_is_git_commit
 - **Link:** https://ratfactor.com/cards/git-commit-size
+
+**Added 2026-10-12**
+
+### [LineageOS 24.0 released](https://lineageos.org/Changelog-32/)
+- **Source:** lineageos.org | **Posted:** 2026-10-11 | **By:** timschumi
+- **Community:** 34 score, 12 comments on Lobsters
+- **Tags:** android, mobile, release
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/ecxril/lineageos_24_0_released
+- **Link:** https://lineageos.org/Changelog-32/
