@@ -234,6 +234,16 @@ Snippets and gotchas across languages.
 - **Summary:** The Architecture Nobody Talks About: How I Built Systems That Actually Scale (And Why Most...
 - **Link:** https://dev.to/thebitforge/the-architecture-nobody-talks-about-how-i-built-systems-that-actually-scale-and-why-most-dont-3fk5
 
+**Added 2026-10-11**
+
+### [Bun 1.4](https://bun.com/blog/bun-v1.4)
+- **Source:** bun.com | **Posted:** 2026-08-20 | **By:** simonw
+- **Community:** 72 score, 98 comments on Lobsters
+- **Tags:** javascript, vibecoding
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/eesu8d/bun_1_4
+- **Link:** https://bun.com/blog/bun-v1.4
+
 
 ## TypeScript
 

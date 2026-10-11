@@ -449,6 +449,7 @@
     "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your",
     "https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit",
     "https://lobste.rs/s/dpfpr3/goroutine_leak_profiles",
+    "https://lobste.rs/s/eesu8d/bun_1_4",
     "https://lobste.rs/s/iii8sl/micro_language_implementation_calcium",
     "https://lobste.rs/s/ily7as/programming_isn_t_special",
     "https://lobste.rs/s/imdwmj/pandas_should_go_extinct",
@@ -795,12 +796,6 @@
   "recent": [
     {
       "date": "2026-10-11",
-      "subcat": "Models & Datasets",
-      "title": "zai-org/chatglm3-6b",
-      "url": "https://huggingface.co/zai-org/chatglm3-6b"
-    },
-    {
-      "date": "2026-10-11",
       "subcat": "Show & Ask HN",
       "title": "Tell HN: Cancelling HP Instant Ink prevents cartridges",
       "url": "https://news.ycombinator.com/item?id=36030156"
@@ -852,6 +847,12 @@
       "subcat": "Research Papers",
       "title": "Maintaining Benchmarks Against Increasingly Capable Age",
       "url": "http://arxiv.org/abs/2609.34262v1"
+    },
+    {
+      "date": "2026-10-11",
+      "subcat": "JavaScript",
+      "title": "Bun 1.4",
+      "url": "https://lobste.rs/s/eesu8d/bun_1_4"
     }
   ]
 }
