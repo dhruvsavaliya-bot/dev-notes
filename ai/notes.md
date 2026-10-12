@@ -905,6 +905,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/microsoft/OmniParser-v2.0
 
+**Added 2026-10-12**
+
+### [tencent/Hy3](https://huggingface.co/tencent/Hy3)
+- **Stats:** 975 likes | 496,350 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-07-02
+- **Tags:** transformers, safetensors, hy_v3, text-generation, hunyuan, hy3
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/tencent/Hy3
+
 
 ## Research Papers
 

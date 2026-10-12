@@ -440,6 +440,7 @@
     "https://huggingface.co/openbmb/MiniCPM-V-2_6",
     "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit",
     "https://huggingface.co/prompthero/openjourney",
+    "https://huggingface.co/tencent/Hy3",
     "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base",
     "https://huggingface.co/zai-org/GLM-5.3-Flash",
@@ -822,12 +823,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Models & Datasets",
-      "title": "microsoft/OmniParser-v2.0",
-      "url": "https://huggingface.co/microsoft/OmniParser-v2.0"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Java",
       "title": "Javas new garbage collector promises low pause times on",
       "url": "https://news.ycombinator.com/item?id=17875944"
@@ -879,6 +874,12 @@
       "subcat": "Go",
       "title": "Platform-independent SIMD in Go",
       "url": "https://lobste.rs/s/sfdf3h/platform_independent_simd_go"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Models & Datasets",
+      "title": "tencent/Hy3",
+      "url": "https://huggingface.co/tencent/Hy3"
     }
   ]
 }
