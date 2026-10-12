@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**834 entries and counting** · Last updated: 2026-10-12
+**835 entries and counting** · Last updated: 2026-10-12
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 212 |
 | [AI / LLM Notes](ai/notes.md) | 133 |
-| [Reading List](articles/reading-list.md) | 191 |
+| [Reading List](articles/reading-list.md) | 192 |
 | [Coding Tips](coding-tips/tips.md) | 182 |
 | [Language Notes](languages/notes.md) | 116 |
 
 ## Latest additions
 
+- **2026-10-12** · *Lobsters Picks* — [Arena Allocators in C](https://lobste.rs/s/zziknb/arena_allocators_c)
 - **2026-10-12** · *Show & Ask HN* — [Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla |](https://news.ycombinator.com/item?id=46996490)
 - **2026-10-12** · *Research Papers* — [NosRacer: Dynamic Detection of Race Conditions in On-De](http://arxiv.org/abs/2610.11875v1)
 - **2026-10-12** · *AI & Machine Learning* — [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)
 - **2026-10-12** · *Lobsters Picks* — [What's Wrong with GitHub](https://lobste.rs/s/u9ue6c/what_s_wrong_with_github)
-- **2026-10-12** · *Show & Ask HN* — [Ask HN: Who is hiring? (January 2018)](https://news.ycombinator.com/item?id=16052538)
 
 ## How it works
 

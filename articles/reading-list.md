@@ -1750,6 +1750,16 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://lobste.rs/s/u9ue6c/what_s_wrong_with_github
 - **Link:** https://www.gnu.org/philosophy/whats-wrong-with-github.html
 
+**Added 2026-10-12**
+
+### [Arena Allocators in C](https://eliasebner.com/blog/guides/arena-allocators-in-c/)
+- **Source:** eliasebner.com | **Posted:** 2026-10-11 | **By:** eliasebner
+- **Community:** 19 score, 6 comments on Lobsters
+- **Tags:** c
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/zziknb/arena_allocators_c
+- **Link:** https://eliasebner.com/blog/guides/arena-allocators-in-c/
+
 
 ## Performance
 
