@@ -1847,6 +1847,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/midesoft/rankGap
 
+**Added 2026-10-13**
+
+### [tester-army/e2e](https://github.com/tester-army/e2e)
+- **Stats:** 9,535 stars | 455 forks | 97 open issues
+- **Language:** TypeScript | **Created:** 2026-07-22 | **License:** Apache-2.0
+- **Topics:** e2e, e2e-testing, end-to-end-testing, mobile, mobile-testing, playwright
+- **What it is:** Next generation e2e testing framework for web and mobile apps.
+- **Growth:** averaging ~114 stars/day since launch.
+- **Link:** https://github.com/tester-army/e2e
+
 
 ## Web & Frontend
 

@@ -370,6 +370,7 @@
     "https://github.com/synthetic-sciences/openscience",
     "https://github.com/tamaratran/fast-jev-compaction",
     "https://github.com/tamnd/kage",
+    "https://github.com/tester-army/e2e",
     "https://github.com/thebuggeddev/anatomy",
     "https://github.com/tldev/dorso",
     "https://github.com/tobi/walgit",
@@ -853,12 +854,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Research Papers",
-      "title": "NosRacer: Dynamic Detection of Race Conditions in On-De",
-      "url": "http://arxiv.org/abs/2610.11875v1"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Show & Ask HN",
       "title": "Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla |",
       "url": "https://news.ycombinator.com/item?id=46996490"
@@ -910,6 +905,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Any interesting niche hobbies?",
       "url": "https://news.ycombinator.com/item?id=47654062"
+    },
+    {
+      "date": "2026-10-13",
+      "subcat": "Other Cool Projects",
+      "title": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e"
     }
   ]
 }
