@@ -1242,3 +1242,13 @@ Lessons from building with LLMs.
 - **Abstract:** Commercial on-device network operating systems (NOSes) run complex control planes in production routers and switches, where configuration update tasks are executed by multiple loosely coupled components through asynchronous message passing. Such executions are prone to race conditions: the same ordered input commands may produce different outcomes when messages are delivered in different orders. The race conditions are difficult to expose because they often manifest only as subtle, delayed malfu...
 - **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.11875v1
+
+**Added 2026-10-13**
+
+### [LoLBench: Evaluating Coding Agents with Long-Horizon Proposals on Large Software Systems](http://arxiv.org/abs/2609.37143v1)
+- **Authors:** Yun Peng, Zihan Wu, Zeyang Zhuang, Xin Zhou et al.
+- **Published:** 2026-09-29 | **Primary category:** cs.SE
+- **Categories:** cs.SE, cs.CL
+- **Abstract:** Modern coding agents can deliver increasingly large repository-level changes, and recent benchmarks reflect this by emphasizing long-horizon tasks with large reference implementations. Many benchmarks evaluate coding agents' implementation capability to produce correct code edits from detailed specifications. However, practical modular development tasks also require the perception capability of grounding user intent and high-level design to derive a specification. We introduce LoLBench to evalua...
+- **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.37143v1

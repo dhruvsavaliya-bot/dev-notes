@@ -15,6 +15,7 @@
     "http://arxiv.org/abs/2609.34262v1",
     "http://arxiv.org/abs/2609.34603v2",
     "http://arxiv.org/abs/2609.35878v1",
+    "http://arxiv.org/abs/2609.37143v1",
     "http://arxiv.org/abs/2609.37626v1",
     "http://arxiv.org/abs/2609.38281v1",
     "http://arxiv.org/abs/2609.38722v1",
@@ -849,12 +850,6 @@
     {
       "date": "2026-10-12",
       "subcat": "Research Papers",
-      "title": "Learning to Watermark Speech Synthesis Against Model-Dr",
-      "url": "http://arxiv.org/abs/2610.04235v1"
-    },
-    {
-      "date": "2026-10-12",
-      "subcat": "Research Papers",
       "title": "Multi-Source and Multi-Dimensional Information Fusion i",
       "url": "http://arxiv.org/abs/2610.13298v1"
     },
@@ -905,6 +900,12 @@
       "subcat": "TypeScript",
       "title": "srizzon/git-city",
       "url": "https://github.com/srizzon/git-city"
+    },
+    {
+      "date": "2026-10-13",
+      "subcat": "Research Papers",
+      "title": "LoLBench: Evaluating Coding Agents with Long-Horizon Pr",
+      "url": "http://arxiv.org/abs/2609.37143v1"
     }
   ]
 }
