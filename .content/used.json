@@ -370,6 +370,7 @@
     "https://github.com/tldev/dorso",
     "https://github.com/tobi/walgit",
     "https://github.com/totec448-spec/chat-on-steroids",
+    "https://github.com/trinodb/trino",
     "https://github.com/trycompai/crm",
     "https://github.com/trypostit/trypost",
     "https://github.com/unicity-aos/aos-ce",
@@ -846,12 +847,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Models & Datasets",
-      "title": "tencent/Hunyuan3D-2.1",
-      "url": "https://huggingface.co/tencent/Hunyuan3D-2.1"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "JavaScript",
       "title": "Kiesel Devlog #15: Release 0.4.0",
       "url": "https://lobste.rs/s/4zmka2/kiesel_devlog_15_release_0_4_0"
@@ -903,6 +898,12 @@
       "subcat": "Lobsters Picks",
       "title": "Arena Allocators in C",
       "url": "https://lobste.rs/s/zziknb/arena_allocators_c"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Backend & Infrastructure",
+      "title": "trinodb/trino",
+      "url": "https://github.com/trinodb/trino"
     }
   ]
 }

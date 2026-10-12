@@ -2135,3 +2135,13 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty
 - **Growth:** averaging ~9 stars/day since launch.
 - **Link:** https://github.com/ravindu644/Droidspaces-OSS
+
+**Added 2026-10-12**
+
+### [trinodb/trino](https://github.com/trinodb/trino)
+- **Stats:** 13,323 stars | 3,821 forks | 2,714 open issues
+- **Language:** Java | **Created:** 2019-01-19 | **License:** Apache-2.0
+- **Topics:** analytics, big-data, data-science, database, databases, datalake
+- **What it is:** Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+- **Growth:** averaging ~4 stars/day since launch.
+- **Link:** https://github.com/trinodb/trino
