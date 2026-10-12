@@ -508,6 +508,7 @@
     "https://lobste.rs/s/zlhyss/mathocalypse",
     "https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source",
     "https://news.ycombinator.com/item?id=11068902",
+    "https://news.ycombinator.com/item?id=11076390",
     "https://news.ycombinator.com/item?id=13426896",
     "https://news.ycombinator.com/item?id=13849430",
     "https://news.ycombinator.com/item?id=14350059",
@@ -827,12 +828,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Java",
-      "title": "ARM chips have an instruction with JavaScript in the na",
-      "url": "https://news.ycombinator.com/item?id=24808207"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Research Papers",
       "title": "Sonic-AMG: Streaming Human Motion Generation from Spati",
       "url": "http://arxiv.org/abs/2610.13300v1"
@@ -884,6 +879,12 @@
       "subcat": "Models & Datasets",
       "title": "huggingface/badges",
       "url": "https://huggingface.co/datasets/huggingface/badges"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Python",
+      "title": "Bokeh  a Python interactive visualization library",
+      "url": "https://news.ycombinator.com/item?id=11076390"
     }
   ]
 }

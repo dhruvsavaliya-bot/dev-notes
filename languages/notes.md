@@ -506,6 +506,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/imdwmj/pandas_should_go_extinct
 - **Link:** https://eddie.codes/posts/pandas-should-go-extinct/
 
+**Added 2026-10-12**
+
+### [Bokeh – a Python interactive visualization library](http://bokeh.pydata.org/en/latest/)
+- **Source:** bokeh.pydata.org | **Posted:** 2016-02-10 | **By:** sonabinu
+- **Community:** 295 points, 66 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=11076390
+- **Link:** http://bokeh.pydata.org/en/latest/
+
 
 ## Go
 
