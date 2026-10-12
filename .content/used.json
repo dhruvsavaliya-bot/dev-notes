@@ -31,6 +31,7 @@
     "http://arxiv.org/abs/2610.08077v2",
     "http://arxiv.org/abs/2610.09825v1",
     "http://arxiv.org/abs/2610.10150v1",
+    "http://arxiv.org/abs/2610.13298v1",
     "http://arxiv.org/abs/2610.13300v1",
     "http://arxiv.org/abs/2610.13407v1",
     "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
@@ -839,12 +840,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Kotlin",
-      "title": "JetBrains/kotlin-toolchain",
-      "url": "https://github.com/JetBrains/kotlin-toolchain"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Models & Datasets",
       "title": "tiiuae/falcon-refinedweb",
       "url": "https://huggingface.co/datasets/tiiuae/falcon-refinedweb"
@@ -896,6 +891,12 @@
       "subcat": "Research Papers",
       "title": "Learning to Watermark Speech Synthesis Against Model-Dr",
       "url": "http://arxiv.org/abs/2610.04235v1"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Research Papers",
+      "title": "Multi-Source and Multi-Dimensional Information Fusion i",
+      "url": "http://arxiv.org/abs/2610.13298v1"
     }
   ]
 }

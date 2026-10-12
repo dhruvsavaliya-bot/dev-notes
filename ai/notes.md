@@ -1222,3 +1222,13 @@ Lessons from building with LLMs.
 - **Abstract:** Modern TTS systems increasingly generate synthetic speech at scale for diverse users. This setting calls for content-level provenance that can verify the origin of released speech and attribute it to the requesting user, which generative watermarking can support by embedding multi-bit identifiers directly into synthesized speech. Once released, however, speech may undergo heterogeneous learned transformations during distribution and editing, with reconstruction objectives that can preserve speec...
 - **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.04235v1
+
+**Added 2026-10-12**
+
+### [Multi-Source and Multi-Dimensional Information Fusion in Resource-Constrained Edge Networks](http://arxiv.org/abs/2610.13298v1)
+- **Authors:** Yushi Wang, Zhengxin Yu, Guhan Zheng, Wang Miao et al.
+- **Published:** 2026-10-09 | **Primary category:** cs.DC
+- **Categories:** cs.DC, cs.CV
+- **Abstract:** Multi-source semantic information fusion enables edge networks to support global inference using observations collected by distributed terminals. However, limited communication and computation resources restrict semantic uploading, leaving the edge server with incomplete tokens that differ in modality, semantic granularity, arrival time, and channel condition. The value of these tokens also depends on the complementary or redundant information provided by other terminals. In this paper, we propo...
+- **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.13298v1
