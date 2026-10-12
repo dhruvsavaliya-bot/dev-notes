@@ -526,6 +526,7 @@
     "https://news.ycombinator.com/item?id=15471449",
     "https://news.ycombinator.com/item?id=15814907",
     "https://news.ycombinator.com/item?id=15895173",
+    "https://news.ycombinator.com/item?id=16052538",
     "https://news.ycombinator.com/item?id=16505244",
     "https://news.ycombinator.com/item?id=16535886",
     "https://news.ycombinator.com/item?id=17449810",
@@ -840,12 +841,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Models & Datasets",
-      "title": "tiiuae/falcon-refinedweb",
-      "url": "https://huggingface.co/datasets/tiiuae/falcon-refinedweb"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Research Papers",
       "title": "Hybrid Classical-Quantum Solutions to Accelerate the Ad",
       "url": "http://arxiv.org/abs/2610.06638v1"
@@ -897,6 +892,12 @@
       "subcat": "Research Papers",
       "title": "Multi-Source and Multi-Dimensional Information Fusion i",
       "url": "http://arxiv.org/abs/2610.13298v1"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: Who is hiring? (January 2018)",
+      "url": "https://news.ycombinator.com/item?id=16052538"
     }
   ]
 }

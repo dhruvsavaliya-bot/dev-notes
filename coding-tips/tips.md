@@ -1534,6 +1534,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=9962185
 - **Link:** http://spotthedrowningchild.com
 
+**Added 2026-10-12**
+
+### [Ask HN: Who is hiring? (January 2018)](https://news.ycombinator.com/item?id=16052538)
+- **Source:** news.ycombinator.com | **Posted:** 2018-01-02 | **By:** whoishiring
+- **Community:** 513 points, 893 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=16052538
+- **Link:** https://news.ycombinator.com/item?id=16052538
+
 
 ## Git & Workflow
 
