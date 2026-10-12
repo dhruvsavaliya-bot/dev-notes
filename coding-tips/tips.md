@@ -1516,6 +1516,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=36030156
 - **Link:** https://news.ycombinator.com/item?id=36030156
 
+**Added 2026-10-12**
+
+### [Show HN: I rewrote my Mac Electron app in Rust](https://desktopdocs.com/?v=2025)
+- **Source:** desktopdocs.com | **Posted:** 2025-05-28 | **By:** katrinarodri
+- **Community:** 597 points, 443 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=44118023
+- **Link:** https://desktopdocs.com/?v=2025
+
 
 ## Git & Workflow
 

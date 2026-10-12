@@ -559,6 +559,7 @@
     "https://news.ycombinator.com/item?id=43186406",
     "https://news.ycombinator.com/item?id=43332830",
     "https://news.ycombinator.com/item?id=43454915",
+    "https://news.ycombinator.com/item?id=44118023",
     "https://news.ycombinator.com/item?id=44326620",
     "https://news.ycombinator.com/item?id=44471388",
     "https://news.ycombinator.com/item?id=45231378",
@@ -828,12 +829,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Research Papers",
-      "title": "Sonic-AMG: Streaming Human Motion Generation from Spati",
-      "url": "http://arxiv.org/abs/2610.13300v1"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Lobsters Picks",
       "title": "How shredding JSON is giving Logfire 1000x query speedu",
       "url": "https://lobste.rs/s/6vjx1k/how_shredding_json_is_giving_logfire"
@@ -885,6 +880,12 @@
       "subcat": "Python",
       "title": "Bokeh  a Python interactive visualization library",
       "url": "https://news.ycombinator.com/item?id=11076390"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: I rewrote my Mac Electron app in Rust",
+      "url": "https://news.ycombinator.com/item?id=44118023"
     }
   ]
 }
