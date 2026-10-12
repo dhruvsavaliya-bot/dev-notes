@@ -15,6 +15,7 @@
     "http://arxiv.org/abs/2609.34262v1",
     "http://arxiv.org/abs/2609.34603v2",
     "http://arxiv.org/abs/2609.35878v1",
+    "http://arxiv.org/abs/2609.36201v1",
     "http://arxiv.org/abs/2609.36807v1",
     "http://arxiv.org/abs/2609.37143v1",
     "http://arxiv.org/abs/2609.37626v1",
@@ -854,12 +855,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Show & Ask HN",
-      "title": "Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla |",
-      "url": "https://news.ycombinator.com/item?id=46996490"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Lobsters Picks",
       "title": "Arena Allocators in C",
       "url": "https://lobste.rs/s/zziknb/arena_allocators_c"
@@ -911,6 +906,12 @@
       "subcat": "Other Cool Projects",
       "title": "tester-army/e2e",
       "url": "https://github.com/tester-army/e2e"
+    },
+    {
+      "date": "2026-10-13",
+      "subcat": "Research Papers",
+      "title": "SCOUT: Synergizing Reasoning and Tool-Use for Computer-",
+      "url": "http://arxiv.org/abs/2609.36201v1"
     }
   ]
 }

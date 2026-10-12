@@ -1262,3 +1262,13 @@ Lessons from building with LLMs.
 - **Abstract:** Software engineering agents increasingly use reusable skills distilled from prior experience to resolve repository-level issues, yet such skills often fail to transfer across repositories. A central challenge is that a behavior appearing in a successful trajectory is not necessarily responsible for the successful outcome: it may be genuinely useful, merely incidental, or simply a recurring habit of the model. We introduce XRepoSkill, a trajectory-based approach for learning transferable skills. ...
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.36807v1
+
+**Added 2026-10-13**
+
+### [SCOUT: Synergizing Reasoning and Tool-Use for Computer-Use Safety](http://arxiv.org/abs/2609.36201v1)
+- **Authors:** Jianxing Chen, Xiao Yu, Shipra Agrawal, Zhou Yu
+- **Published:** 2026-09-28 | **Primary category:** cs.SE
+- **Categories:** cs.CL, cs.AI, cs.SE
+- **Abstract:** Computer-use agents (CUAs), while capable of completing computer tasks in everyday and professional workflows, can cause unintended harm even under benign instructions and environments. However, detecting such harm remains challenging. First, it requires careful, task-specific reasoning: verifiers guided only by general safety criteria often overlook many important but subtle harmful behaviors. Second, it requires active investigation: past trajectory screenshots show what the agent did but not ...
+- **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.36201v1
