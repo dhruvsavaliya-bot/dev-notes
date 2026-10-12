@@ -1930,6 +1930,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/bizspring-open/BizSpring-Java-Mall
 
+**Added 2026-10-12**
+
+### [vikejs/vike](https://github.com/vikejs/vike)
+- **Stats:** 5,834 stars | 397 forks | 93 open issues
+- **Language:** TypeScript | **Created:** 2021-01-28 | **License:** MIT
+- **Topics:** full-stack, node, react, react-ssr, server-rendering, server-side-rendering
+- **What it is:** (Replaces Next.js/Nuxt) 🔨 Build mission-critical applications with stability and development freedom.
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/vikejs/vike
+
 
 ## Developer Tools
 

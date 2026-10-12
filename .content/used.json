@@ -365,6 +365,7 @@
     "https://github.com/unicity-aos/aos-ce",
     "https://github.com/vercel-labs/fx",
     "https://github.com/vercel-labs/scriptc",
+    "https://github.com/vikejs/vike",
     "https://github.com/vinzdg/codenotch",
     "https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases",
     "https://github.com/wang2122/sprix-sage-router",
@@ -816,12 +817,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Go",
-      "title": "Why Function Arguments Are Not Function Colors",
-      "url": "https://lobste.rs/s/tsfs3w/why_function_arguments_are_not_function"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Models & Datasets",
       "title": "Contrastive-LM/CLM-v0.1-8B",
       "url": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B"
@@ -873,6 +868,12 @@
       "subcat": "Lobsters Picks",
       "title": "I'm sorry, but you still have to think",
       "url": "https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Web & Frontend",
+      "title": "vikejs/vike",
+      "url": "https://github.com/vikejs/vike"
     }
   ]
 }
