@@ -932,6 +932,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/huggingface/badges
 
+**Added 2026-10-12**
+
+### [tiiuae/falcon-refinedweb](https://huggingface.co/datasets/tiiuae/falcon-refinedweb)
+- **Stats:** 968 likes | 82,848 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2023-05-07
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/tiiuae/falcon-refinedweb
+
 
 ## Research Papers
 

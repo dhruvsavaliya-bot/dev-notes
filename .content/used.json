@@ -430,6 +430,7 @@
     "https://huggingface.co/datasets/openbmb/RLHF-V-Dataset",
     "https://huggingface.co/datasets/openbmb/UltraData-Code",
     "https://huggingface.co/datasets/tau/commonsense_qa",
+    "https://huggingface.co/datasets/tiiuae/falcon-refinedweb",
     "https://huggingface.co/datasets/ystemsrx/Erotic_Literature_Collection",
     "https://huggingface.co/datasets/zgcagi/ZGCM-1-Data",
     "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
@@ -830,12 +831,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "AI & Machine Learning",
-      "title": "web-platform-tests/wpt",
-      "url": "https://github.com/web-platform-tests/wpt"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Go",
       "title": "Platform-independent SIMD in Go",
       "url": "https://lobste.rs/s/sfdf3h/platform_independent_simd_go"
@@ -887,6 +882,12 @@
       "subcat": "Kotlin",
       "title": "JetBrains/kotlin-toolchain",
       "url": "https://github.com/JetBrains/kotlin-toolchain"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Models & Datasets",
+      "title": "tiiuae/falcon-refinedweb",
+      "url": "https://huggingface.co/datasets/tiiuae/falcon-refinedweb"
     }
   ]
 }
