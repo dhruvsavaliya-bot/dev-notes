@@ -25,6 +25,7 @@
     "http://arxiv.org/abs/2610.03665v1",
     "http://arxiv.org/abs/2610.06516v1",
     "http://arxiv.org/abs/2610.06625v2",
+    "http://arxiv.org/abs/2610.06638v1",
     "http://arxiv.org/abs/2610.07906v1",
     "http://arxiv.org/abs/2610.08077v2",
     "http://arxiv.org/abs/2610.09825v1",
@@ -831,12 +832,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Go",
-      "title": "Platform-independent SIMD in Go",
-      "url": "https://lobste.rs/s/sfdf3h/platform_independent_simd_go"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Models & Datasets",
       "title": "tencent/Hy3",
       "url": "https://huggingface.co/tencent/Hy3"
@@ -888,6 +883,12 @@
       "subcat": "Models & Datasets",
       "title": "tiiuae/falcon-refinedweb",
       "url": "https://huggingface.co/datasets/tiiuae/falcon-refinedweb"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Research Papers",
+      "title": "Hybrid Classical-Quantum Solutions to Accelerate the Ad",
+      "url": "http://arxiv.org/abs/2610.06638v1"
     }
   ]
 }

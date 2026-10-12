@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**820 entries and counting** · Last updated: 2026-10-12
+**821 entries and counting** · Last updated: 2026-10-12
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 210 |
-| [AI / LLM Notes](ai/notes.md) | 128 |
+| [AI / LLM Notes](ai/notes.md) | 129 |
 | [Reading List](articles/reading-list.md) | 189 |
 | [Coding Tips](coding-tips/tips.md) | 179 |
 | [Language Notes](languages/notes.md) | 114 |
 
 ## Latest additions
 
+- **2026-10-12** · *Research Papers* — [Hybrid Classical-Quantum Solutions to Accelerate the Ad](http://arxiv.org/abs/2610.06638v1)
 - **2026-10-12** · *Models & Datasets* — [tiiuae/falcon-refinedweb](https://huggingface.co/datasets/tiiuae/falcon-refinedweb)
 - **2026-10-12** · *Kotlin* — [JetBrains/kotlin-toolchain](https://github.com/JetBrains/kotlin-toolchain)
 - **2026-10-12** · *Show & Ask HN* — [Show HN: I rewrote my Mac Electron app in Rust](https://news.ycombinator.com/item?id=44118023)
 - **2026-10-12** · *Python* — [Bokeh  a Python interactive visualization library](https://news.ycombinator.com/item?id=11076390)
-- **2026-10-12** · *Models & Datasets* — [huggingface/badges](https://huggingface.co/datasets/huggingface/badges)
 
 ## How it works
 

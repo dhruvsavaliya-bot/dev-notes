@@ -1193,3 +1193,13 @@ Lessons from building with LLMs.
 - **Abstract:** Modeling human reactions to spatial audio requires understanding both what is heard and where it comes from. Prior work generates motion offline from complete acoustic and spatial input sequences. Humans, however, react to sounds without knowing what they will hear next. We present Sonic-AMG, to our knowledge the first framework for streaming human motion generation from spatial audio. The model encodes acoustic content and body-relative source geometry as separate tokens. Conditioned on these t...
 - **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.13300v1
+
+**Added 2026-10-12**
+
+### [Hybrid Classical-Quantum Solutions to Accelerate the Adoption of Quantum Computing](http://arxiv.org/abs/2610.06638v1)
+- **Authors:** Advait Deshpande, Luciano Baresi, Arosha K. Bandara
+- **Published:** 2026-10-05 | **Primary category:** cs.SE
+- **Categories:** cs.ET, cs.DC, cs.PL, cs.SE
+- **Abstract:** Despite the promise and potential of quantum computing, most of the current day developments of quantum computing have several limitations for relevant practical use. As a result, hybrid classical-quantum computing has emerged as a viable solution. This paper discusses the software aspects of hybrid classical-quantum computing solutions to understand and examine how hybrid computing solutions can be expected to work in practice. This paper examines existing software solutions (cloud applications...
+- **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.06638v1
