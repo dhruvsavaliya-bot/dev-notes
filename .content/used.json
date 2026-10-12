@@ -508,6 +508,7 @@
     "https://lobste.rs/s/tfjoxv/actual_budget",
     "https://lobste.rs/s/tmr7jp/extend_lua_with_zig_1_hello_world",
     "https://lobste.rs/s/tsfs3w/why_function_arguments_are_not_function",
+    "https://lobste.rs/s/u9ue6c/what_s_wrong_with_github",
     "https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem",
     "https://lobste.rs/s/ul9krj/hacking_go_compiler_efficiently_map_ipv4",
     "https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice",
@@ -841,12 +842,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Research Papers",
-      "title": "Hybrid Classical-Quantum Solutions to Accelerate the Ad",
-      "url": "http://arxiv.org/abs/2610.06638v1"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Spot the Drowning Child",
       "url": "https://news.ycombinator.com/item?id=9962185"
@@ -898,6 +893,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Who is hiring? (January 2018)",
       "url": "https://news.ycombinator.com/item?id=16052538"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Lobsters Picks",
+      "title": "What's Wrong with GitHub",
+      "url": "https://lobste.rs/s/u9ue6c/what_s_wrong_with_github"
     }
   ]
 }

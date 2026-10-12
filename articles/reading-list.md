@@ -1740,6 +1740,16 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://lobste.rs/s/6vjx1k/how_shredding_json_is_giving_logfire
 - **Link:** https://pydantic.dev/articles/dynamic-shredding-2026-01-26
 
+**Added 2026-10-12**
+
+### [What's Wrong with GitHub](https://www.gnu.org/philosophy/whats-wrong-with-github.html)
+- **Source:** www.gnu.org | **Posted:** 2026-10-11 | **By:** tusharhero
+- **Community:** 54 score, 49 comments on Lobsters
+- **Tags:** vcs
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/u9ue6c/what_s_wrong_with_github
+- **Link:** https://www.gnu.org/philosophy/whats-wrong-with-github.html
+
 
 ## Performance
 
