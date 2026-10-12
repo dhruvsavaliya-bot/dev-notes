@@ -1568,6 +1568,16 @@ Fresh dev articles and blog posts.
 - **Summary:** Here is a bet that will save you a lot of arguing: pick your durable execution engine on what you...
 - **Link:** https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635
 
+**Added 2026-10-12**
+
+### [The Grand Unifying Architecture of Frontend](https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk)
+- **Author:** Ryan Carniato | **Published:** Sep 22 | **Read time:** 10 min
+- **Community:** 50 reactions, 10 comments -- a top post in #architecture
+- **Tags:** webdev, javascript, solidjs, architecture
+- **Summary:** I used to joke that the history of frontend development could be retraced by following the argument...
+- **Link:** https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk
+
+
 ## Lobsters Picks
 
 **Added 2026-10-05**

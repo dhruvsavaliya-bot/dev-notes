@@ -117,6 +117,7 @@
     "https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk",
     "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9",
     "https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o",
+    "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk",
     "https://dev.to/robertadam987_/your-ai-coding-agent-can-be-attacked-by-the-repository-it-opens-ie4",
     "https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh",
     "https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n",
@@ -833,12 +834,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Lobsters Picks",
-      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-      "url": "https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "PHP",
       "title": "PHP 7.2.0 Released",
       "url": "https://news.ycombinator.com/item?id=15814907"
@@ -890,6 +885,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Spot the Drowning Child",
       "url": "https://news.ycombinator.com/item?id=9962185"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "System Design & Architecture",
+      "title": "The Grand Unifying Architecture of Frontend",
+      "url": "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk"
     }
   ]
 }
