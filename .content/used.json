@@ -527,6 +527,7 @@
     "https://news.ycombinator.com/item?id=11068902",
     "https://news.ycombinator.com/item?id=11076390",
     "https://news.ycombinator.com/item?id=13426896",
+    "https://news.ycombinator.com/item?id=13764728",
     "https://news.ycombinator.com/item?id=13849430",
     "https://news.ycombinator.com/item?id=14350059",
     "https://news.ycombinator.com/item?id=14773964",
@@ -849,12 +850,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Research Papers",
-      "title": "Multi-Source and Multi-Dimensional Information Fusion i",
-      "url": "http://arxiv.org/abs/2610.13298v1"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Who is hiring? (January 2018)",
       "url": "https://news.ycombinator.com/item?id=16052538"
@@ -906,6 +901,12 @@
       "subcat": "Research Papers",
       "title": "LoLBench: Evaluating Coding Agents with Long-Horizon Pr",
       "url": "http://arxiv.org/abs/2609.37143v1"
+    },
+    {
+      "date": "2026-10-13",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: Who is hiring? (March 2017)",
+      "url": "https://news.ycombinator.com/item?id=13764728"
     }
   ]
 }

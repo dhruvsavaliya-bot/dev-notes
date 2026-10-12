@@ -1552,6 +1552,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=46996490
 - **Link:** https://news.ycombinator.com/item?id=46996490
 
+**Added 2026-10-13**
+
+### [Ask HN: Who is hiring? (March 2017)](https://news.ycombinator.com/item?id=13764728)
+- **Source:** news.ycombinator.com | **Posted:** 2017-03-01 | **By:** whoishiring
+- **Community:** 478 points, 1052 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=13764728
+- **Link:** https://news.ycombinator.com/item?id=13764728
+
 
 ## Git & Workflow
 
