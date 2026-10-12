@@ -511,6 +511,7 @@
     "https://news.ycombinator.com/item?id=14350059",
     "https://news.ycombinator.com/item?id=14773964",
     "https://news.ycombinator.com/item?id=15471449",
+    "https://news.ycombinator.com/item?id=15814907",
     "https://news.ycombinator.com/item?id=15895173",
     "https://news.ycombinator.com/item?id=16505244",
     "https://news.ycombinator.com/item?id=16535886",
@@ -824,12 +825,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Research Papers",
-      "title": "Accelerating Linear Bandits with Persistent Candidate S",
-      "url": "http://arxiv.org/abs/2610.13407v1"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Lobsters Picks",
       "title": "I'm sorry, but you still have to think",
       "url": "https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think"
@@ -881,6 +876,12 @@
       "subcat": "Lobsters Picks",
       "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
       "url": "https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "PHP",
+      "title": "PHP 7.2.0 Released",
+      "url": "https://news.ycombinator.com/item?id=15814907"
     }
   ]
 }

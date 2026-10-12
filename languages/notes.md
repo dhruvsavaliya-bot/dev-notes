@@ -731,6 +731,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/trypostit/trypost
 
+**Added 2026-10-12**
+
+### [PHP 7.2.0 Released](http://php.net/releases/7_2_0.php)
+- **Source:** php.net | **Posted:** 2017-11-30 | **By:** pgl
+- **Community:** 143 points, 75 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=15814907
+- **Link:** http://php.net/releases/7_2_0.php
+
 
 ## Ruby
 
