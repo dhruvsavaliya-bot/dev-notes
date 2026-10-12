@@ -934,6 +934,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~22 stars/day since launch.
 - **Link:** https://github.com/SWE-agent/SWE-agent
 
+**Added 2026-10-12**
+
+### [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt)
+- **Stats:** 6,221 stars | 3,993 forks | 2,925 open issues
+- **Language:** HTML | **Created:** 2012-03-04 | **License:** NOASSERTION
+- **Topics:** blink, browser, dom, firefox, gecko, google-chrome
+- **What it is:** Test suites for Web platform specs — including WHATWG, W3C, and others
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/web-platform-tests/wpt
+
 
 ## Other Cool Projects
 

@@ -370,6 +370,7 @@
     "https://github.com/vinzdg/codenotch",
     "https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases",
     "https://github.com/wang2122/sprix-sage-router",
+    "https://github.com/web-platform-tests/wpt",
     "https://github.com/wide-trace/open-higgsfield",
     "https://github.com/wild-linker/wild",
     "https://github.com/withmarbleapp/os-taxonomy",
@@ -820,12 +821,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Backend & Infrastructure",
-      "title": "ravindu644/Droidspaces-OSS",
-      "url": "https://github.com/ravindu644/Droidspaces-OSS"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Go",
       "title": "Debian Code Search: Fast TurboPFor with Go SIMD",
       "url": "https://lobste.rs/s/ceuque/debian_code_search_fast_turbopfor_with_go"
@@ -877,6 +872,12 @@
       "subcat": "Lobsters Picks",
       "title": "How shredding JSON is giving Logfire 1000x query speedu",
       "url": "https://lobste.rs/s/6vjx1k/how_shredding_json_is_giving_logfire"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "AI & Machine Learning",
+      "title": "web-platform-tests/wpt",
+      "url": "https://github.com/web-platform-tests/wpt"
     }
   ]
 }
