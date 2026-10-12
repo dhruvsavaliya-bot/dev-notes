@@ -944,6 +944,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/web-platform-tests/wpt
 
+**Added 2026-10-12**
+
+### [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)
+- **Stats:** 4,603 stars | 920 forks | 972 open issues
+- **Language:** Python | **Created:** 2025-05-08 | **License:** Apache-2.0
+- **Topics:** agents, ai, api-gateway, asyncio, authentication-middleware, devops
+- **What it is:** An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool calling, and supports plugins.
+- **Growth:** averaging ~8 stars/day since launch.
+- **Link:** https://github.com/IBM/mcp-context-forge
+
 
 ## Other Cool Projects
 

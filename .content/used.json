@@ -181,6 +181,7 @@
     "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
     "https://github.com/Hisn00w/ASu-skills",
     "https://github.com/Human-Agent-Society/reef",
+    "https://github.com/IBM/mcp-context-forge",
     "https://github.com/JetBrains/kotlin-toolchain",
     "https://github.com/Jia-Ethan/codex-keysmith",
     "https://github.com/JustVugg/colibri",
@@ -842,12 +843,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Spot the Drowning Child",
-      "url": "https://news.ycombinator.com/item?id=9962185"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "System Design & Architecture",
       "title": "The Grand Unifying Architecture of Frontend",
       "url": "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk"
@@ -899,6 +894,12 @@
       "subcat": "Lobsters Picks",
       "title": "What's Wrong with GitHub",
       "url": "https://lobste.rs/s/u9ue6c/what_s_wrong_with_github"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "AI & Machine Learning",
+      "title": "IBM/mcp-context-forge",
+      "url": "https://github.com/IBM/mcp-context-forge"
     }
   ]
 }
