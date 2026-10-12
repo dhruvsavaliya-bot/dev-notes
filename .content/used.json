@@ -218,6 +218,7 @@
     "https://github.com/Player-YN/PawWork_ZhuaZhua",
     "https://github.com/QwenLM/Qwen-MM-Plugins",
     "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+    "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
     "https://github.com/SWE-agent/SWE-agent",
     "https://github.com/Sahir619/fable-method",
     "https://github.com/ScottPlot/ScottPlot",
@@ -850,12 +851,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: Who is hiring? (January 2018)",
-      "url": "https://news.ycombinator.com/item?id=16052538"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Lobsters Picks",
       "title": "What's Wrong with GitHub",
       "url": "https://lobste.rs/s/u9ue6c/what_s_wrong_with_github"
@@ -907,6 +902,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Who is hiring? (March 2017)",
       "url": "https://news.ycombinator.com/item?id=13764728"
+    },
+    {
+      "date": "2026-10-13",
+      "subcat": "AI & Machine Learning",
+      "title": "Ryze-AI-Adgent/open-seo-mcp-skills",
+      "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills"
     }
   ]
 }

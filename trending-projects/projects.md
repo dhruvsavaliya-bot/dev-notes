@@ -954,6 +954,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~8 stars/day since launch.
 - **Link:** https://github.com/IBM/mcp-context-forge
 
+**Added 2026-10-13**
+
+### [Ryze-AI-Adgent/open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills)
+- **Stats:** 5,175 stars | 367 forks | 2 open issues
+- **Language:** Shell | **Created:** 2026-08-29 | **License:** MIT
+- **Topics:** ai-seo, ai-visibility, backlinks, claude, claude-code, claude-skills
+- **What it is:** Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp
+- **Growth:** averaging ~115 stars/day since launch.
+- **Link:** https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills
+
 
 ## Other Cool Projects
 

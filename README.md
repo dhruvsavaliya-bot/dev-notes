@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**839 entries and counting** · Last updated: 2026-10-13
+**840 entries and counting** · Last updated: 2026-10-13
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 213 |
+| [Trending Projects](trending-projects/projects.md) | 214 |
 | [AI / LLM Notes](ai/notes.md) | 134 |
 | [Reading List](articles/reading-list.md) | 192 |
 | [Coding Tips](coding-tips/tips.md) | 183 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-13** · *AI & Machine Learning* — [Ryze-AI-Adgent/open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills)
 - **2026-10-13** · *Show & Ask HN* — [Ask HN: Who is hiring? (March 2017)](https://news.ycombinator.com/item?id=13764728)
 - **2026-10-13** · *Research Papers* — [LoLBench: Evaluating Coding Agents with Long-Horizon Pr](http://arxiv.org/abs/2609.37143v1)
 - **2026-10-12** · *TypeScript* — [srizzon/git-city](https://github.com/srizzon/git-city)
 - **2026-10-12** · *Backend & Infrastructure* — [trinodb/trino](https://github.com/trinodb/trino)
-- **2026-10-12** · *Lobsters Picks* — [Arena Allocators in C](https://lobste.rs/s/zziknb/arena_allocators_c)
 
 ## How it works
 
