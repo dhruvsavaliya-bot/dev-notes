@@ -1252,3 +1252,13 @@ Lessons from building with LLMs.
 - **Abstract:** Modern coding agents can deliver increasingly large repository-level changes, and recent benchmarks reflect this by emphasizing long-horizon tasks with large reference implementations. Many benchmarks evaluate coding agents' implementation capability to produce correct code edits from detailed specifications. However, practical modular development tasks also require the perception capability of grounding user intent and high-level design to derive a specification. We introduce LoLBench to evalua...
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.37143v1
+
+**Added 2026-10-13**
+
+### [XRepoSkill: Learning Transferable Skills for Software Engineering Agents](http://arxiv.org/abs/2609.36807v1)
+- **Authors:** Yaoqi Guo, Haoyang Zhou, Jiayi Zhang, Yiran Zhang et al.
+- **Published:** 2026-09-29 | **Primary category:** cs.SE
+- **Categories:** cs.SE
+- **Abstract:** Software engineering agents increasingly use reusable skills distilled from prior experience to resolve repository-level issues, yet such skills often fail to transfer across repositories. A central challenge is that a behavior appearing in a successful trajectory is not necessarily responsible for the successful outcome: it may be genuinely useful, merely incidental, or simply a recurring habit of the model. We introduce XRepoSkill, a trajectory-based approach for learning transferable skills. ...
+- **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.36807v1

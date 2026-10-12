@@ -15,6 +15,7 @@
     "http://arxiv.org/abs/2609.34262v1",
     "http://arxiv.org/abs/2609.34603v2",
     "http://arxiv.org/abs/2609.35878v1",
+    "http://arxiv.org/abs/2609.36807v1",
     "http://arxiv.org/abs/2609.37143v1",
     "http://arxiv.org/abs/2609.37626v1",
     "http://arxiv.org/abs/2609.38281v1",
@@ -851,12 +852,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Lobsters Picks",
-      "title": "What's Wrong with GitHub",
-      "url": "https://lobste.rs/s/u9ue6c/what_s_wrong_with_github"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "AI & Machine Learning",
       "title": "IBM/mcp-context-forge",
       "url": "https://github.com/IBM/mcp-context-forge"
@@ -908,6 +903,12 @@
       "subcat": "AI & Machine Learning",
       "title": "Ryze-AI-Adgent/open-seo-mcp-skills",
       "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills"
+    },
+    {
+      "date": "2026-10-13",
+      "subcat": "Research Papers",
+      "title": "XRepoSkill: Learning Transferable Skills for Software E",
+      "url": "http://arxiv.org/abs/2609.36807v1"
     }
   ]
 }
