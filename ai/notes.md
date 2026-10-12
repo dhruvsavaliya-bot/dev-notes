@@ -1232,3 +1232,13 @@ Lessons from building with LLMs.
 - **Abstract:** Multi-source semantic information fusion enables edge networks to support global inference using observations collected by distributed terminals. However, limited communication and computation resources restrict semantic uploading, leaving the edge server with incomplete tokens that differ in modality, semantic granularity, arrival time, and channel condition. The value of these tokens also depends on the complementary or redundant information provided by other terminals. In this paper, we propo...
 - **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.13298v1
+
+**Added 2026-10-12**
+
+### [NosRacer: Dynamic Detection of Race Conditions in On-Device Network Operating Systems](http://arxiv.org/abs/2610.11875v1)
+- **Authors:** Runze Wu, Jingbo Zhai, Shanming Ping, Lingzhi Ouyang et al.
+- **Published:** 2026-10-08 | **Primary category:** cs.DC
+- **Categories:** cs.DC, cs.SE
+- **Abstract:** Commercial on-device network operating systems (NOSes) run complex control planes in production routers and switches, where configuration update tasks are executed by multiple loosely coupled components through asynchronous message passing. Such executions are prone to race conditions: the same ordered input commands may produce different outcomes when messages are delivered in different orders. The race conditions are difficult to expose because they often manifest only as subtle, delayed malfu...
+- **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.11875v1
