@@ -253,6 +253,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=17875944
 - **Link:** https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/
 
+**Added 2026-10-12**
+
+### [ARM chips have an instruction with JavaScript in the name](https://stackoverflow.com/questions/50966676/why-do-arm-chips-have-an-instruction-with-javascript-in-the-name-fjcvtzs)
+- **Source:** stackoverflow.com | **Posted:** 2020-10-17 | **By:** kdeldycke
+- **Community:** 406 points, 299 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=24808207
+- **Link:** https://stackoverflow.com/questions/50966676/why-do-arm-chips-have-an-instruction-with-javascript-in-the-name-fjcvtzs
+
 
 ## TypeScript
 

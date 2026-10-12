@@ -517,6 +517,7 @@
     "https://news.ycombinator.com/item?id=23361987",
     "https://news.ycombinator.com/item?id=23658721",
     "https://news.ycombinator.com/item?id=24372084",
+    "https://news.ycombinator.com/item?id=24808207",
     "https://news.ycombinator.com/item?id=26825468",
     "https://news.ycombinator.com/item?id=26862318",
     "https://news.ycombinator.com/item?id=27447206",
@@ -817,12 +818,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Models & Datasets",
-      "title": "Contrastive-LM/CLM-v0.1-8B",
-      "url": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Lobsters Picks",
       "title": "LineageOS 24.0 released",
       "url": "https://lobste.rs/s/ecxril/lineageos_24_0_released"
@@ -874,6 +869,12 @@
       "subcat": "Web & Frontend",
       "title": "vikejs/vike",
       "url": "https://github.com/vikejs/vike"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Java",
+      "title": "ARM chips have an instruction with JavaScript in the na",
+      "url": "https://news.ycombinator.com/item?id=24808207"
     }
   ]
 }
