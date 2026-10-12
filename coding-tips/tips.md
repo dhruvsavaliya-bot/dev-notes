@@ -1525,6 +1525,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=44118023
 - **Link:** https://desktopdocs.com/?v=2025
 
+**Added 2026-10-12**
+
+### [Show HN: Spot the Drowning Child](http://spotthedrowningchild.com)
+- **Source:** spotthedrowningchild.com | **Posted:** 2015-07-28 | **By:** omegaworks
+- **Community:** 1215 points, 378 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=9962185
+- **Link:** http://spotthedrowningchild.com
+
 
 ## Git & Workflow
 
