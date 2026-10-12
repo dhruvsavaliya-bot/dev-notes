@@ -941,6 +941,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/tiiuae/falcon-refinedweb
 
+**Added 2026-10-12**
+
+### [tencent/Hunyuan3D-2.1](https://huggingface.co/tencent/Hunyuan3D-2.1)
+- **Stats:** 1,263 likes | 63,342 downloads
+- **Kind:** Hugging Face model | **Task:** image-to-3d | **Created:** 2025-06-13
+- **Tags:** hunyuan3d-2, diffusers, safetensors, image-to-3d, text-to-3d, en
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/tencent/Hunyuan3D-2.1
+
 
 ## Research Papers
 

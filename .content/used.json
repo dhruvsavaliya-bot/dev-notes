@@ -448,6 +448,7 @@
     "https://huggingface.co/openbmb/MiniCPM-V-2_6",
     "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit",
     "https://huggingface.co/prompthero/openjourney",
+    "https://huggingface.co/tencent/Hunyuan3D-2.1",
     "https://huggingface.co/tencent/Hy3",
     "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base",
@@ -836,12 +837,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Models & Datasets",
-      "title": "huggingface/badges",
-      "url": "https://huggingface.co/datasets/huggingface/badges"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Python",
       "title": "Bokeh  a Python interactive visualization library",
       "url": "https://news.ycombinator.com/item?id=11076390"
@@ -893,6 +888,12 @@
       "subcat": "Go",
       "title": "Error Handling in Go: Stop Panicking, Start Wrapping",
       "url": "https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Models & Datasets",
+      "title": "tencent/Hunyuan3D-2.1",
+      "url": "https://huggingface.co/tencent/Hunyuan3D-2.1"
     }
   ]
 }
