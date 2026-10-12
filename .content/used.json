@@ -469,6 +469,7 @@
     "https://lobste.rs/s/dpfpr3/goroutine_leak_profiles",
     "https://lobste.rs/s/ecxril/lineageos_24_0_released",
     "https://lobste.rs/s/eesu8d/bun_1_4",
+    "https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow",
     "https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait",
     "https://lobste.rs/s/iii8sl/micro_language_implementation_calcium",
     "https://lobste.rs/s/ily7as/programming_isn_t_special",
@@ -823,12 +824,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Java",
-      "title": "Javas new garbage collector promises low pause times on",
-      "url": "https://news.ycombinator.com/item?id=17875944"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Research Papers",
       "title": "Accelerating Linear Bandits with Persistent Candidate S",
       "url": "http://arxiv.org/abs/2610.13407v1"
@@ -880,6 +875,12 @@
       "subcat": "Models & Datasets",
       "title": "tencent/Hy3",
       "url": "https://huggingface.co/tencent/Hy3"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Lobsters Picks",
+      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+      "url": "https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow"
     }
   ]
 }

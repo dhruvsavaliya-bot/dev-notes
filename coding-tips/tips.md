@@ -1619,3 +1619,13 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/ecxril/lineageos_24_0_released
 - **Link:** https://lineageos.org/Changelog-32/
+
+**Added 2026-10-12**
+
+### [Valen's Memory Safety: A New Kind of Borrow Checking](https://verdagon.dev/blog/valen-group-borrowing)
+- **Source:** verdagon.dev | **Posted:** 2026-10-11 | **By:** Verdagon
+- **Community:** 25 score, 5 comments on Lobsters
+- **Tags:** compilers, plt
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow
+- **Link:** https://verdagon.dev/blog/valen-group-borrowing
