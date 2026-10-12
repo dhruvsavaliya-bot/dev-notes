@@ -419,6 +419,7 @@
     "https://huggingface.co/datasets/eidon-ai/tracker-pov",
     "https://huggingface.co/datasets/espnet/yodas2",
     "https://huggingface.co/datasets/harborframework/terminal-bench-2.0",
+    "https://huggingface.co/datasets/huggingface/badges",
     "https://huggingface.co/datasets/markov-ai/computer-use-large",
     "https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML",
     "https://huggingface.co/datasets/monology/pile-uncopyrighted",
@@ -826,12 +827,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Web & Frontend",
-      "title": "vikejs/vike",
-      "url": "https://github.com/vikejs/vike"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Java",
       "title": "ARM chips have an instruction with JavaScript in the na",
       "url": "https://news.ycombinator.com/item?id=24808207"
@@ -883,6 +878,12 @@
       "subcat": "Models & Datasets",
       "title": "HuggingFaceH4/zephyr-7b-beta",
       "url": "https://huggingface.co/HuggingFaceH4/zephyr-7b-beta"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Models & Datasets",
+      "title": "huggingface/badges",
+      "url": "https://huggingface.co/datasets/huggingface/badges"
     }
   ]
 }

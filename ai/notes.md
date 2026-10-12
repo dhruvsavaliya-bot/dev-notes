@@ -923,6 +923,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/HuggingFaceH4/zephyr-7b-beta
 
+**Added 2026-10-12**
+
+### [huggingface/badges](https://huggingface.co/datasets/huggingface/badges)
+- **Stats:** 50 likes | 210,853 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2023-02-02
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/huggingface/badges
+
 
 ## Research Papers
 
