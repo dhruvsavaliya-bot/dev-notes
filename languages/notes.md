@@ -1121,3 +1121,13 @@ Snippets and gotchas across languages.
 - **What it is:** Legado 3.0 Book Reader with powerful controls
 - **Growth:** averaging ~4 stars/day since launch.
 - **Link:** https://github.com/LegadoTeam/legado
+
+**Added 2026-10-12**
+
+### [JetBrains/kotlin-toolchain](https://github.com/JetBrains/kotlin-toolchain)
+- **Stats:** 459 stars | 30 forks | 4 open issues
+- **Language:** Kotlin | **Created:** 2026-05-11 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** A set of tools for the Kotlin language, with a focus on user experience and tooling
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/JetBrains/kotlin-toolchain

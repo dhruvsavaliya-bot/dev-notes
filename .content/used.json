@@ -176,6 +176,7 @@
     "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
     "https://github.com/Hisn00w/ASu-skills",
     "https://github.com/Human-Agent-Society/reef",
+    "https://github.com/JetBrains/kotlin-toolchain",
     "https://github.com/Jia-Ethan/codex-keysmith",
     "https://github.com/JustVugg/colibri",
     "https://github.com/KKKKhazix/AIHOT",
@@ -829,12 +830,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Lobsters Picks",
-      "title": "How shredding JSON is giving Logfire 1000x query speedu",
-      "url": "https://lobste.rs/s/6vjx1k/how_shredding_json_is_giving_logfire"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "AI & Machine Learning",
       "title": "web-platform-tests/wpt",
       "url": "https://github.com/web-platform-tests/wpt"
@@ -886,6 +881,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: I rewrote my Mac Electron app in Rust",
       "url": "https://news.ycombinator.com/item?id=44118023"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Kotlin",
+      "title": "JetBrains/kotlin-toolchain",
+      "url": "https://github.com/JetBrains/kotlin-toolchain"
     }
   ]
 }
