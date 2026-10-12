@@ -262,6 +262,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=24808207
 - **Link:** https://stackoverflow.com/questions/50966676/why-do-arm-chips-have-an-instruction-with-javascript-in-the-name-fjcvtzs
 
+**Added 2026-10-12**
+
+### [Kiesel Devlog #15: Release 0.4.0](https://linus.dev/posts/kiesel-devlog-15/)
+- **Source:** linus.dev | **Posted:** 2026-10-10 | **By:** FedericoSchonborn
+- **Community:** 23 score, 3 comments on Lobsters
+- **Tags:** javascript, zig
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/4zmka2/kiesel_devlog_15_release_0_4_0
+- **Link:** https://linus.dev/posts/kiesel-devlog-15/
+
 
 ## TypeScript
 
