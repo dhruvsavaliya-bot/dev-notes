@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**841 entries and counting** · Last updated: 2026-10-13
+**842 entries and counting** · Last updated: 2026-10-13
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 214 |
 | [AI / LLM Notes](ai/notes.md) | 135 |
 | [Reading List](articles/reading-list.md) | 192 |
-| [Coding Tips](coding-tips/tips.md) | 183 |
+| [Coding Tips](coding-tips/tips.md) | 184 |
 | [Language Notes](languages/notes.md) | 117 |
 
 ## Latest additions
 
+- **2026-10-13** · *Show & Ask HN* — [Ask HN: Any interesting niche hobbies?](https://news.ycombinator.com/item?id=47654062)
 - **2026-10-13** · *Research Papers* — [XRepoSkill: Learning Transferable Skills for Software E](http://arxiv.org/abs/2609.36807v1)
 - **2026-10-13** · *AI & Machine Learning* — [Ryze-AI-Adgent/open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills)
 - **2026-10-13** · *Show & Ask HN* — [Ask HN: Who is hiring? (March 2017)](https://news.ycombinator.com/item?id=13764728)
 - **2026-10-13** · *Research Papers* — [LoLBench: Evaluating Coding Agents with Long-Horizon Pr](http://arxiv.org/abs/2609.37143v1)
-- **2026-10-12** · *TypeScript* — [srizzon/git-city](https://github.com/srizzon/git-city)
 
 ## How it works
 

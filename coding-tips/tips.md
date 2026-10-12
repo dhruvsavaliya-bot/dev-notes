@@ -1561,6 +1561,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=13764728
 - **Link:** https://news.ycombinator.com/item?id=13764728
 
+**Added 2026-10-13**
+
+### [Ask HN: Any interesting niche hobbies?](https://news.ycombinator.com/item?id=47654062)
+- **Source:** news.ycombinator.com | **Posted:** 2026-04-05 | **By:** e-topy
+- **Community:** 483 points, 736 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=47654062
+- **Link:** https://news.ycombinator.com/item?id=47654062
+
 
 ## Git & Workflow
 

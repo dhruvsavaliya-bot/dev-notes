@@ -589,6 +589,7 @@
     "https://news.ycombinator.com/item?id=45989469",
     "https://news.ycombinator.com/item?id=46996490",
     "https://news.ycombinator.com/item?id=47441546",
+    "https://news.ycombinator.com/item?id=47654062",
     "https://news.ycombinator.com/item?id=48843923",
     "https://news.ycombinator.com/item?id=48896600",
     "https://news.ycombinator.com/item?id=48896665",
@@ -852,12 +853,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "AI & Machine Learning",
-      "title": "IBM/mcp-context-forge",
-      "url": "https://github.com/IBM/mcp-context-forge"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Research Papers",
       "title": "NosRacer: Dynamic Detection of Race Conditions in On-De",
       "url": "http://arxiv.org/abs/2610.11875v1"
@@ -909,6 +904,12 @@
       "subcat": "Research Papers",
       "title": "XRepoSkill: Learning Transferable Skills for Software E",
       "url": "http://arxiv.org/abs/2609.36807v1"
+    },
+    {
+      "date": "2026-10-13",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: Any interesting niche hobbies?",
+      "url": "https://news.ycombinator.com/item?id=47654062"
     }
   ]
 }
