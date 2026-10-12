@@ -914,6 +914,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/tencent/Hy3
 
+**Added 2026-10-12**
+
+### [HuggingFaceH4/zephyr-7b-beta](https://huggingface.co/HuggingFaceH4/zephyr-7b-beta)
+- **Stats:** 1,852 likes | 89,085 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2023-10-26
+- **Tags:** transformers, pytorch, safetensors, mistral, text-generation, generated_from_trainer
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/HuggingFaceH4/zephyr-7b-beta
+
 
 ## Research Papers
 

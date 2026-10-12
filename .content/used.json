@@ -403,6 +403,7 @@
     "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
     "https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
     "https://huggingface.co/FrancisRing/Prism",
+    "https://huggingface.co/HuggingFaceH4/zephyr-7b-beta",
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
     "https://huggingface.co/Qwen/Qwen2.5-32B-Instruct-AWQ",
     "https://huggingface.co/Qwen/Qwen3-ASR-1.7B",
@@ -825,12 +826,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Lobsters Picks",
-      "title": "I'm sorry, but you still have to think",
-      "url": "https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Web & Frontend",
       "title": "vikejs/vike",
       "url": "https://github.com/vikejs/vike"
@@ -882,6 +877,12 @@
       "subcat": "PHP",
       "title": "PHP 7.2.0 Released",
       "url": "https://news.ycombinator.com/item?id=15814907"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Models & Datasets",
+      "title": "HuggingFaceH4/zephyr-7b-beta",
+      "url": "https://huggingface.co/HuggingFaceH4/zephyr-7b-beta"
     }
   ]
 }

@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**814 entries and counting** · Last updated: 2026-10-12
+**815 entries and counting** · Last updated: 2026-10-12
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 210 |
-| [AI / LLM Notes](ai/notes.md) | 125 |
+| [AI / LLM Notes](ai/notes.md) | 126 |
 | [Reading List](articles/reading-list.md) | 189 |
 | [Coding Tips](coding-tips/tips.md) | 178 |
 | [Language Notes](languages/notes.md) | 112 |
 
 ## Latest additions
 
+- **2026-10-12** · *Models & Datasets* — [HuggingFaceH4/zephyr-7b-beta](https://huggingface.co/HuggingFaceH4/zephyr-7b-beta)
 - **2026-10-12** · *PHP* — [PHP 7.2.0 Released](https://news.ycombinator.com/item?id=15814907)
 - **2026-10-12** · *Lobsters Picks* — [Valen's Memory Safety: A New Kind of Borrow Checking](https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow)
 - **2026-10-12** · *Models & Datasets* — [tencent/Hy3](https://huggingface.co/tencent/Hy3)
 - **2026-10-12** · *Go* — [Platform-independent SIMD in Go](https://lobste.rs/s/sfdf3h/platform_independent_simd_go)
-- **2026-10-12** · *AI & Machine Learning* — [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt)
 
 ## How it works
 
