@@ -1710,6 +1710,16 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://lobste.rs/s/nxspz6/no_man_is_island
 - **Link:** https://borretti.me/article/no-man-is-an-island
 
+**Added 2026-10-12**
+
+### [I'm sorry, but you still have to think](https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/)
+- **Source:** itsallaboutthebit.com | **Posted:** 2026-10-11 | **By:** dimonomid
+- **Community:** 34 score, 3 comments on Lobsters
+- **Tags:** vibecoding
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think
+- **Link:** https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/
+
 
 ## Performance
 

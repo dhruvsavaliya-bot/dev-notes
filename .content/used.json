@@ -472,6 +472,7 @@
     "https://lobste.rs/s/j7kltq/turbo_haskell",
     "https://lobste.rs/s/jlja1a/jdk_27_has_been_released",
     "https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this",
+    "https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think",
     "https://lobste.rs/s/lxo74i/introducing_microlighter",
     "https://lobste.rs/s/nxspz6/no_man_is_island",
     "https://lobste.rs/s/o8xo9z/importance_communities_around_software",
@@ -815,12 +816,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Lobsters Picks",
-      "title": "No Man Is an Island",
-      "url": "https://lobste.rs/s/nxspz6/no_man_is_island"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Go",
       "title": "Why Function Arguments Are Not Function Colors",
       "url": "https://lobste.rs/s/tsfs3w/why_function_arguments_are_not_function"
@@ -872,6 +867,12 @@
       "subcat": "Research Papers",
       "title": "Accelerating Linear Bandits with Persistent Candidate S",
       "url": "http://arxiv.org/abs/2610.13407v1"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Lobsters Picks",
+      "title": "I'm sorry, but you still have to think",
+      "url": "https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think"
     }
   ]
 }
