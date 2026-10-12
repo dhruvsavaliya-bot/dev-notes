@@ -1147,3 +1147,13 @@ Lessons from building with LLMs.
 - **Abstract:** Exhaustive optimistic scoring can make action selection costly in linear bandits with a large fixed set of $K$ actions, requiring $\mathcal{O}(K)$ score evaluations per round. We introduce Persistent Candidate LinUCB (\textsc{PC-LinUCB}), which maintains $k$ active actions and samples $q$ challengers uniformly from the remaining $K-k$ actions at each round. By scoring only these $k+q$ candidates, \textsc{PC-LinUCB} reduces the number of score evaluations per round to $\mathcal{O}(k+q)$. We estab...
 - **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.13407v1
+
+**Added 2026-10-12**
+
+### [Sonic-AMG: Streaming Human Motion Generation from Spatial Audio](http://arxiv.org/abs/2610.13300v1)
+- **Authors:** Jingcheng Ni, Zekun Li, Zhiyang Dou, Xiaoyan Cong et al.
+- **Published:** 2026-10-09 | **Primary category:** cs.LG
+- **Categories:** cs.CV, cs.GR, cs.LG, cs.RO, cs.SD
+- **Abstract:** Modeling human reactions to spatial audio requires understanding both what is heard and where it comes from. Prior work generates motion offline from complete acoustic and spatial input sequences. Humans, however, react to sounds without knowing what they will hear next. We present Sonic-AMG, to our knowledge the first framework for streaming human motion generation from spatial audio. The model encodes acoustic content and body-relative source geometry as separate tokens. Conditioned on these t...
+- **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.13300v1

@@ -29,6 +29,7 @@
     "http://arxiv.org/abs/2610.08077v2",
     "http://arxiv.org/abs/2610.09825v1",
     "http://arxiv.org/abs/2610.10150v1",
+    "http://arxiv.org/abs/2610.13300v1",
     "http://arxiv.org/abs/2610.13407v1",
     "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
     "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
@@ -818,12 +819,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Lobsters Picks",
-      "title": "LineageOS 24.0 released",
-      "url": "https://lobste.rs/s/ecxril/lineageos_24_0_released"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Hacker News Picks",
       "title": "EU Parliament greenlights Chat Control 1.0",
       "url": "https://news.ycombinator.com/item?id=48843923"
@@ -875,6 +870,12 @@
       "subcat": "Java",
       "title": "ARM chips have an instruction with JavaScript in the na",
       "url": "https://news.ycombinator.com/item?id=24808207"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Research Papers",
+      "title": "Sonic-AMG: Streaming Human Motion Generation from Spati",
+      "url": "http://arxiv.org/abs/2610.13300v1"
     }
   ]
 }
