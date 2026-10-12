@@ -23,6 +23,7 @@
     "http://arxiv.org/abs/2610.03001v1",
     "http://arxiv.org/abs/2610.03109v1",
     "http://arxiv.org/abs/2610.03665v1",
+    "http://arxiv.org/abs/2610.04235v1",
     "http://arxiv.org/abs/2610.06516v1",
     "http://arxiv.org/abs/2610.06625v2",
     "http://arxiv.org/abs/2610.06638v1",
@@ -838,12 +839,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: I rewrote my Mac Electron app in Rust",
-      "url": "https://news.ycombinator.com/item?id=44118023"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Kotlin",
       "title": "JetBrains/kotlin-toolchain",
       "url": "https://github.com/JetBrains/kotlin-toolchain"
@@ -895,6 +890,12 @@
       "subcat": "JavaScript",
       "title": "Kiesel Devlog #15: Release 0.4.0",
       "url": "https://lobste.rs/s/4zmka2/kiesel_devlog_15_release_0_4_0"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Research Papers",
+      "title": "Learning to Watermark Speech Synthesis Against Model-Dr",
+      "url": "http://arxiv.org/abs/2610.04235v1"
     }
   ]
 }

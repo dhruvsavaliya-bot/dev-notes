@@ -1212,3 +1212,13 @@ Lessons from building with LLMs.
 - **Abstract:** Despite the promise and potential of quantum computing, most of the current day developments of quantum computing have several limitations for relevant practical use. As a result, hybrid classical-quantum computing has emerged as a viable solution. This paper discusses the software aspects of hybrid classical-quantum computing solutions to understand and examine how hybrid computing solutions can be expected to work in practice. This paper examines existing software solutions (cloud applications...
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.06638v1
+
+**Added 2026-10-12**
+
+### [Learning to Watermark Speech Synthesis Against Model-Driven Reconstruction](http://arxiv.org/abs/2610.04235v1)
+- **Authors:** Weizhi Liu, Yue Li, Hui Tian, Zhaoxia Yin
+- **Published:** 2026-10-03 | **Primary category:** cs.CR
+- **Categories:** cs.CR, cs.SD
+- **Abstract:** Modern TTS systems increasingly generate synthetic speech at scale for diverse users. This setting calls for content-level provenance that can verify the origin of released speech and attribute it to the requesting user, which generative watermarking can support by embedding multi-bit identifiers directly into synthesized speech. Once released, however, speech may undergo heterogeneous learned transformations during distribution and editing, with reconstruction objectives that can preserve speec...
+- **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.04235v1
