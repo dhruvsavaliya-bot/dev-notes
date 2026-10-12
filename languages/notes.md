@@ -244,6 +244,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/eesu8d/bun_1_4
 - **Link:** https://bun.com/blog/bun-v1.4
 
+**Added 2026-10-12**
+
+### [Java’s new garbage collector promises low pause times on multi-terabyte heaps](https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/)
+- **Source:** www.opsian.com | **Posted:** 2018-08-30 | **By:** ScottWRobinson
+- **Community:** 372 points, 234 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=17875944
+- **Link:** https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/
+
 
 ## TypeScript
 
