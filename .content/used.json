@@ -94,6 +94,7 @@
     "https://dev.to/kenwalger/the-verification-bottleneck-in-ai-generated-software-3p7l",
     "https://dev.to/konark_13/vibe-coding-endgame-3bbn",
     "https://dev.to/lovestaco/cheap-rag-in-go-with-gemini-file-search-no-vector-db-two-calls-one-hosted-store-4kb5",
+    "https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d",
     "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
     "https://dev.to/maame-codes/devops-from-scratch-a-students-diary-entry-00-5b71",
     "https://dev.to/metal3d/git-worktree-like-a-boss-2j1b",
@@ -836,12 +837,6 @@
     {
       "date": "2026-10-12",
       "subcat": "Models & Datasets",
-      "title": "HuggingFaceH4/zephyr-7b-beta",
-      "url": "https://huggingface.co/HuggingFaceH4/zephyr-7b-beta"
-    },
-    {
-      "date": "2026-10-12",
-      "subcat": "Models & Datasets",
       "title": "huggingface/badges",
       "url": "https://huggingface.co/datasets/huggingface/badges"
     },
@@ -892,6 +887,12 @@
       "subcat": "Developer Tools",
       "title": "jub0t/concat",
       "url": "https://github.com/jub0t/concat"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Go",
+      "title": "Error Handling in Go: Stop Panicking, Start Wrapping",
+      "url": "https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d"
     }
   ]
 }

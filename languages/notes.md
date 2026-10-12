@@ -644,6 +644,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/sfdf3h/platform_independent_simd_go
 - **Link:** https://go.dev/blog/simd-experiment
 
+**Added 2026-10-12**
+
+### [Error Handling in Go: Stop Panicking, Start Wrapping](https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d)
+- **Author:** Athreya aka Maneshwar | **Published:** May 8 | **Read time:** 5 min
+- **Community:** 56 reactions, 4 comments -- a top post in #go
+- **Tags:** webdev, programming, beginners, go
+- **Summary:** Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...
+- **Link:** https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d
+
 
 ## PHP
 
