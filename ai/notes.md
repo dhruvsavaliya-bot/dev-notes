@@ -950,6 +950,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/tencent/Hunyuan3D-2.1
 
+**Added 2026-10-13**
+
+### [McAuley-Lab/Amazon-Reviews-2023](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)
+- **Stats:** 376 likes | 63,516 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2024-01-23
+- **Tags:** recommendation, reviews
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023
+
 
 ## Research Papers
 
