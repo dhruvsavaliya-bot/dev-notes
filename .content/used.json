@@ -362,6 +362,7 @@
     "https://github.com/shadcn-ui/lint",
     "https://github.com/shihabal3amri/DiPlay",
     "https://github.com/slvDev/esp32-ai",
+    "https://github.com/srizzon/git-city",
     "https://github.com/sunny-glow/Auto-BenchMax",
     "https://github.com/synthetic-sciences/openscience",
     "https://github.com/tamaratran/fast-jev-compaction",
@@ -847,12 +848,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "JavaScript",
-      "title": "Kiesel Devlog #15: Release 0.4.0",
-      "url": "https://lobste.rs/s/4zmka2/kiesel_devlog_15_release_0_4_0"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Research Papers",
       "title": "Learning to Watermark Speech Synthesis Against Model-Dr",
       "url": "http://arxiv.org/abs/2610.04235v1"
@@ -904,6 +899,12 @@
       "subcat": "Backend & Infrastructure",
       "title": "trinodb/trino",
       "url": "https://github.com/trinodb/trino"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "TypeScript",
+      "title": "srizzon/git-city",
+      "url": "https://github.com/srizzon/git-city"
     }
   ]
 }

@@ -368,6 +368,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~11 stars/day since launch.
 - **Link:** https://github.com/remorses/playwriter
 
+**Added 2026-10-12**
+
+### [srizzon/git-city](https://github.com/srizzon/git-city)
+- **Stats:** 5,804 stars | 294 forks | 33 open issues
+- **Language:** TypeScript | **Created:** 2026-02-20 | **License:** AGPL-3.0
+- **Topics:** 3d, github, nextjs, pixel-art, react, react-three-fiber
+- **What it is:** Your GitHub profile as a 3D pixel art building in an interactive city
+- **Growth:** averaging ~24 stars/day since launch.
+- **Link:** https://github.com/srizzon/git-city
+
 
 ## Python
 
