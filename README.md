@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**808 entries and counting** · Last updated: 2026-10-12
+**809 entries and counting** · Last updated: 2026-10-12
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 209 |
 | [AI / LLM Notes](ai/notes.md) | 124 |
-| [Reading List](articles/reading-list.md) | 188 |
+| [Reading List](articles/reading-list.md) | 189 |
 | [Coding Tips](coding-tips/tips.md) | 177 |
 | [Language Notes](languages/notes.md) | 110 |
 
 ## Latest additions
 
+- **2026-10-12** · *Lobsters Picks* — [How shredding JSON is giving Logfire 1000x query speedu](https://lobste.rs/s/6vjx1k/how_shredding_json_is_giving_logfire)
 - **2026-10-12** · *Research Papers* — [Sonic-AMG: Streaming Human Motion Generation from Spati](http://arxiv.org/abs/2610.13300v1)
 - **2026-10-12** · *Java* — [ARM chips have an instruction with JavaScript in the na](https://news.ycombinator.com/item?id=24808207)
 - **2026-10-12** · *Web & Frontend* — [vikejs/vike](https://github.com/vikejs/vike)
 - **2026-10-12** · *Lobsters Picks* — [I'm sorry, but you still have to think](https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think)
-- **2026-10-12** · *Research Papers* — [Accelerating Linear Bandits with Persistent Candidate S](http://arxiv.org/abs/2610.13407v1)
 
 ## How it works
 

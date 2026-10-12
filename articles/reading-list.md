@@ -1720,6 +1720,16 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think
 - **Link:** https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/
 
+**Added 2026-10-12**
+
+### [How shredding JSON is giving Logfire 1000x query speedups](https://pydantic.dev/articles/dynamic-shredding-2026-01-26)
+- **Source:** pydantic.dev | **Posted:** 2026-10-11 | **By:** typesanitizer
+- **Community:** 20 score, 3 comments on Lobsters
+- **Tags:** databases, performance
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/6vjx1k/how_shredding_json_is_giving_logfire
+- **Link:** https://pydantic.dev/articles/dynamic-shredding-2026-01-26
+
 
 ## Performance
 
