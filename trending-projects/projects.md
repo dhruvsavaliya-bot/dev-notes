@@ -2073,6 +2073,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/liangxiegame/QFramework
 
+**Added 2026-10-12**
+
+### [jub0t/concat](https://github.com/jub0t/concat)
+- **Stats:** 4,919 stars | 468 forks | 96 open issues
+- **Language:** Rust | **Created:** 2026-08-25 | **License:** AGPL-3.0
+- **Topics:** ffmpeg, free-video-editor, model-context-protocol, non-linear-editor, offline-first, open-source-video-editor
+- **What it is:** ⭐ Concat: The truly free, and open-source cross-platform CapCut replacement. Supports MCPs & API.
+- **Growth:** averaging ~102 stars/day since launch.
+- **Link:** https://github.com/jub0t/concat
+
 
 ## Backend & Infrastructure
 

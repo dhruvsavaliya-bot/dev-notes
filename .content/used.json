@@ -307,6 +307,7 @@
     "https://github.com/jarrodwatts/jev-trader",
     "https://github.com/jev-chat/jev-chat-jarvis",
     "https://github.com/jub0t/Concat",
+    "https://github.com/jub0t/concat",
     "https://github.com/kacperkapusciak/goldie",
     "https://github.com/kirodotdev/KiroCrew",
     "https://github.com/komi-store/komi-store",
@@ -834,12 +835,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "PHP",
-      "title": "PHP 7.2.0 Released",
-      "url": "https://news.ycombinator.com/item?id=15814907"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Models & Datasets",
       "title": "HuggingFaceH4/zephyr-7b-beta",
       "url": "https://huggingface.co/HuggingFaceH4/zephyr-7b-beta"
@@ -891,6 +886,12 @@
       "subcat": "System Design & Architecture",
       "title": "The Grand Unifying Architecture of Frontend",
       "url": "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Developer Tools",
+      "title": "jub0t/concat",
+      "url": "https://github.com/jub0t/concat"
     }
   ]
 }
