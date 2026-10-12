@@ -1543,6 +1543,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=16052538
 - **Link:** https://news.ycombinator.com/item?id=16052538
 
+**Added 2026-10-12**
+
+### [Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)](https://news.ycombinator.com/item?id=46996490)
+- **Source:** news.ycombinator.com | **Posted:** 2026-02-12 | **By:** ffworld
+- **Community:** 519 points, 28 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=46996490
+- **Link:** https://news.ycombinator.com/item?id=46996490
+
 
 ## Git & Workflow
 

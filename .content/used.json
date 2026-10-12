@@ -580,6 +580,7 @@
     "https://news.ycombinator.com/item?id=45352432",
     "https://news.ycombinator.com/item?id=45968310",
     "https://news.ycombinator.com/item?id=45989469",
+    "https://news.ycombinator.com/item?id=46996490",
     "https://news.ycombinator.com/item?id=47441546",
     "https://news.ycombinator.com/item?id=48843923",
     "https://news.ycombinator.com/item?id=48896600",
@@ -844,12 +845,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Developer Tools",
-      "title": "jub0t/concat",
-      "url": "https://github.com/jub0t/concat"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Go",
       "title": "Error Handling in Go: Stop Panicking, Start Wrapping",
       "url": "https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d"
@@ -901,6 +896,12 @@
       "subcat": "Research Papers",
       "title": "NosRacer: Dynamic Detection of Race Conditions in On-De",
       "url": "http://arxiv.org/abs/2610.11875v1"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Show & Ask HN",
+      "title": "Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla |",
+      "url": "https://news.ycombinator.com/item?id=46996490"
     }
   ]
 }
