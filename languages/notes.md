@@ -1010,6 +1010,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=28203654
 - **Link:** https://github.com/jpochyla/psst
 
+**Added 2026-10-13**
+
+### [C for Rust Programmers](https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/)
+- **Source:** bd103.dev | **Posted:** 2026-10-07 | **By:** BD103
+- **Community:** 63 score, 23 comments on Lobsters
+- **Tags:** c, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/lgdxtw/c_for_rust_programmers
+- **Link:** https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/
+
 
 ## Elixir
 

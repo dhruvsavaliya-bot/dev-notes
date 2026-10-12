@@ -500,6 +500,7 @@
     "https://lobste.rs/s/jlja1a/jdk_27_has_been_released",
     "https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this",
     "https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think",
+    "https://lobste.rs/s/lgdxtw/c_for_rust_programmers",
     "https://lobste.rs/s/lxo74i/introducing_microlighter",
     "https://lobste.rs/s/nxspz6/no_man_is_island",
     "https://lobste.rs/s/o8xo9z/importance_communities_around_software",
@@ -856,12 +857,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Backend & Infrastructure",
-      "title": "trinodb/trino",
-      "url": "https://github.com/trinodb/trino"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "TypeScript",
       "title": "srizzon/git-city",
       "url": "https://github.com/srizzon/git-city"
@@ -913,6 +908,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Why Is Everything Declining?",
       "url": "https://news.ycombinator.com/item?id=34560255"
+    },
+    {
+      "date": "2026-10-13",
+      "subcat": "Rust",
+      "title": "C for Rust Programmers",
+      "url": "https://lobste.rs/s/lgdxtw/c_for_rust_programmers"
     }
   ]
 }
