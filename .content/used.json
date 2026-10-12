@@ -490,6 +490,7 @@
     "https://lobste.rs/s/rtcnc8/javascript_pun_tagged_template_literal",
     "https://lobste.rs/s/rucvky/go_concurrency_distilled",
     "https://lobste.rs/s/rwdufq/anti_patterns_software_blogging",
+    "https://lobste.rs/s/sfdf3h/platform_independent_simd_go",
     "https://lobste.rs/s/tfjoxv/actual_budget",
     "https://lobste.rs/s/tmr7jp/extend_lua_with_zig_1_hello_world",
     "https://lobste.rs/s/tsfs3w/why_function_arguments_are_not_function",
@@ -821,12 +822,6 @@
   "recent": [
     {
       "date": "2026-10-12",
-      "subcat": "Go",
-      "title": "Debian Code Search: Fast TurboPFor with Go SIMD",
-      "url": "https://lobste.rs/s/ceuque/debian_code_search_fast_turbopfor_with_go"
-    },
-    {
-      "date": "2026-10-12",
       "subcat": "Models & Datasets",
       "title": "microsoft/OmniParser-v2.0",
       "url": "https://huggingface.co/microsoft/OmniParser-v2.0"
@@ -878,6 +873,12 @@
       "subcat": "AI & Machine Learning",
       "title": "web-platform-tests/wpt",
       "url": "https://github.com/web-platform-tests/wpt"
+    },
+    {
+      "date": "2026-10-12",
+      "subcat": "Go",
+      "title": "Platform-independent SIMD in Go",
+      "url": "https://lobste.rs/s/sfdf3h/platform_independent_simd_go"
     }
   ]
 }

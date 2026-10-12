@@ -625,6 +625,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/ceuque/debian_code_search_fast_turbopfor_with_go
 - **Link:** https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/
 
+**Added 2026-10-12**
+
+### [Platform-independent SIMD in Go](https://go.dev/blog/simd-experiment)
+- **Source:** go.dev | **Posted:** 2026-09-24 | **By:** cgrinds
+- **Community:** 19 score, 0 comments on Lobsters
+- **Tags:** go
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/sfdf3h/platform_independent_simd_go
+- **Link:** https://go.dev/blog/simd-experiment
+
 
 ## PHP
 
