@@ -523,6 +523,7 @@
     "https://lobste.rs/s/odrfgk/how_speed_up_rust_compiler_september_2026",
     "https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live",
     "https://lobste.rs/s/paryb7/rails_is_done",
+    "https://lobste.rs/s/pioj21/performance_cost_rwlock_our_read_heavy",
     "https://lobste.rs/s/qi1bxu/tinygo_0_42_recover_is_real",
     "https://lobste.rs/s/qn61ip/open_source_clean_room_reimplementation",
     "https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy",
@@ -880,12 +881,6 @@
   "recent": [
     {
       "date": "2026-10-13",
-      "subcat": "Models & Datasets",
-      "title": "meta-math/MetaMathQA",
-      "url": "https://huggingface.co/datasets/meta-math/MetaMathQA"
-    },
-    {
-      "date": "2026-10-13",
       "subcat": "Show & Ask HN",
       "title": "Merry Christmas Everyone",
       "url": "https://news.ycombinator.com/item?id=42506577"
@@ -937,6 +932,12 @@
       "subcat": "Show & Ask HN",
       "title": "Dear procrastinator",
       "url": "https://news.ycombinator.com/item?id=2886187"
+    },
+    {
+      "date": "2026-10-13",
+      "subcat": "Rust",
+      "title": "The Performance Cost of RwLock in Our Read-Heavy Worklo",
+      "url": "https://lobste.rs/s/pioj21/performance_cost_rwlock_our_read_heavy"
     }
   ]
 }

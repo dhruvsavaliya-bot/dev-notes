@@ -1038,6 +1038,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/lgdxtw/c_for_rust_programmers
 - **Link:** https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/
 
+**Added 2026-10-13**
+
+### [The Performance Cost of RwLock in Our Read-Heavy Workload](https://pranitha.dev/posts/rwlock-vs-lockfree/)
+- **Source:** pranitha.dev | **Posted:** 2026-10-08 | **By:** ohrv
+- **Community:** 19 score, 8 comments on Lobsters
+- **Tags:** performance, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/pioj21/performance_cost_rwlock_our_read_heavy
+- **Link:** https://pranitha.dev/posts/rwlock-vs-lockfree/
+
 
 ## Elixir
 
