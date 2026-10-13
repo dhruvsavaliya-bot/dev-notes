@@ -1031,6 +1031,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/google-research-datasets/mbpp
 
+**Added 2026-10-14**
+
+### [fka/prompts.chat](https://huggingface.co/datasets/fka/prompts.chat)
+- **Stats:** 9,885 likes | 28,727 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2022-12-13
+- **Tags:** ChatGPT, prompts, AI, GPT, Claude, Gemini
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/fka/prompts.chat
+
 
 ## Research Papers
 
