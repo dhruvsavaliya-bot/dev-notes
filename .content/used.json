@@ -179,6 +179,7 @@
     "https://github.com/DavidHDev/canvas-ui",
     "https://github.com/Dingo-Shenanigans/ReSkate",
     "https://github.com/Draculabo/AntigravityManager",
+    "https://github.com/EpicGames/lore",
     "https://github.com/EvoMap/AutoResearch",
     "https://github.com/FalkorDB/FalkorDB",
     "https://github.com/FareedKhan-dev/kimi-k3-in-c",
@@ -890,12 +891,6 @@
   "recent": [
     {
       "date": "2026-10-13",
-      "subcat": "Rust",
-      "title": "The Performance Cost of RwLock in Our Read-Heavy Worklo",
-      "url": "https://lobste.rs/s/pioj21/performance_cost_rwlock_our_read_heavy"
-    },
-    {
-      "date": "2026-10-13",
       "subcat": "Models & Datasets",
       "title": "google-research-datasets/mbpp",
       "url": "https://huggingface.co/datasets/google-research-datasets/mbpp"
@@ -947,6 +942,12 @@
       "subcat": "Hacker News Picks",
       "title": "A $20k American-made electric pickup with no paint, no",
       "url": "https://news.ycombinator.com/item?id=43794284"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "Other Cool Projects",
+      "title": "EpicGames/lore",
+      "url": "https://github.com/EpicGames/lore"
     }
   ]
 }

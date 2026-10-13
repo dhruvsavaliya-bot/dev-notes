@@ -1877,6 +1877,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~114 stars/day since launch.
 - **Link:** https://github.com/tester-army/e2e
 
+**Added 2026-10-14**
+
+### [EpicGames/lore](https://github.com/EpicGames/lore)
+- **Stats:** 8,912 stars | 459 forks | 115 open issues
+- **Language:** Rust | **Created:** 2026-05-21 | **License:** MIT
+- **Topics:** open-source
+- **What it is:** Lore is a next-generation, open source version control system
+- **Growth:** averaging ~61 stars/day since launch.
+- **Link:** https://github.com/EpicGames/lore
+
 
 ## Web & Frontend
 
