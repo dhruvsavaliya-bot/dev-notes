@@ -1615,6 +1615,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=2886187
 - **Link:** https://news.ycombinator.com/item?id=2886187
 
+**Added 2026-10-14**
+
+### [Ask HN: What's the best resource for learning modern x64 assembly?](https://news.ycombinator.com/item?id=22279051)
+- **Source:** news.ycombinator.com | **Posted:** 2020-02-08 | **By:** ssklash
+- **Community:** 492 points, 109 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=22279051
+- **Link:** https://news.ycombinator.com/item?id=22279051
+
 
 ## Git & Workflow
 

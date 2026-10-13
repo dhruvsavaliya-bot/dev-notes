@@ -574,6 +574,7 @@
     "https://news.ycombinator.com/item?id=19209957",
     "https://news.ycombinator.com/item?id=20854214",
     "https://news.ycombinator.com/item?id=21611677",
+    "https://news.ycombinator.com/item?id=22279051",
     "https://news.ycombinator.com/item?id=23361987",
     "https://news.ycombinator.com/item?id=23658721",
     "https://news.ycombinator.com/item?id=24372084",
@@ -888,12 +889,6 @@
   "recent": [
     {
       "date": "2026-10-13",
-      "subcat": "Models & Datasets",
-      "title": "m-a-p/Matrix",
-      "url": "https://huggingface.co/datasets/m-a-p/Matrix"
-    },
-    {
-      "date": "2026-10-13",
       "subcat": "Show & Ask HN",
       "title": "Dear procrastinator",
       "url": "https://news.ycombinator.com/item?id=2886187"
@@ -945,6 +940,12 @@
       "subcat": "Models & Datasets",
       "title": "open-r1/codeforces-cots",
       "url": "https://huggingface.co/datasets/open-r1/codeforces-cots"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: What's the best resource for learning modern x6",
+      "url": "https://news.ycombinator.com/item?id=22279051"
     }
   ]
 }
