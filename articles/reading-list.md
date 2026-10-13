@@ -1523,6 +1523,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=14087381
 - **Link:** https://josephg.com/blog/electron-is-flash-for-the-desktop/
 
+**Added 2026-10-14**
+
+### [A $20k American-made electric pickup with no paint, no stereo, no screen](https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos)
+- **Source:** www.theverge.com | **Posted:** 2025-04-25 | **By:** kwindla
+- **Community:** 1457 points, 1297 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=43794284
+- **Link:** https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos
+
 
 ## DevOps & Cloud
 

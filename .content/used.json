@@ -615,6 +615,7 @@
     "https://news.ycombinator.com/item?id=43186406",
     "https://news.ycombinator.com/item?id=43332830",
     "https://news.ycombinator.com/item?id=43454915",
+    "https://news.ycombinator.com/item?id=43794284",
     "https://news.ycombinator.com/item?id=43880962",
     "https://news.ycombinator.com/item?id=44118023",
     "https://news.ycombinator.com/item?id=44326620",
@@ -889,12 +890,6 @@
   "recent": [
     {
       "date": "2026-10-13",
-      "subcat": "Show & Ask HN",
-      "title": "Dear procrastinator",
-      "url": "https://news.ycombinator.com/item?id=2886187"
-    },
-    {
-      "date": "2026-10-13",
       "subcat": "Rust",
       "title": "The Performance Cost of RwLock in Our Read-Heavy Worklo",
       "url": "https://lobste.rs/s/pioj21/performance_cost_rwlock_our_read_heavy"
@@ -946,6 +941,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: What's the best resource for learning modern x6",
       "url": "https://news.ycombinator.com/item?id=22279051"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "Hacker News Picks",
+      "title": "A $20k American-made electric pickup with no paint, no",
+      "url": "https://news.ycombinator.com/item?id=43794284"
     }
   ]
 }
