@@ -504,6 +504,7 @@
     "https://lobste.rs/s/ceuque/debian_code_search_fast_turbopfor_with_go",
     "https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit",
     "https://lobste.rs/s/dpfpr3/goroutine_leak_profiles",
+    "https://lobste.rs/s/e5vf6k/don_t_couple_your_go_code_github",
     "https://lobste.rs/s/ecxril/lineageos_24_0_released",
     "https://lobste.rs/s/eesu8d/bun_1_4",
     "https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow",
@@ -882,12 +883,6 @@
   "recent": [
     {
       "date": "2026-10-13",
-      "subcat": "AI & Machine Learning",
-      "title": "FalkorDB/FalkorDB",
-      "url": "https://github.com/FalkorDB/FalkorDB"
-    },
-    {
-      "date": "2026-10-13",
       "subcat": "Models & Datasets",
       "title": "glaiveai/glaive-function-calling-v2",
       "url": "https://huggingface.co/datasets/glaiveai/glaive-function-calling-v2"
@@ -939,6 +934,12 @@
       "subcat": "Models & Datasets",
       "title": "google-research-datasets/mbpp",
       "url": "https://huggingface.co/datasets/google-research-datasets/mbpp"
+    },
+    {
+      "date": "2026-10-13",
+      "subcat": "Go",
+      "title": "Don't couple your Go code to GitHub",
+      "url": "https://lobste.rs/s/e5vf6k/don_t_couple_your_go_code_github"
     }
   ]
 }

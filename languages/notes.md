@@ -691,6 +691,16 @@ Snippets and gotchas across languages.
 - **Summary:** Why I Am Writing This: A PHP Developer Crossing Into Go   I am a PHP developer.  I have...
 - **Link:** https://dev.to/nazar-boyko/how-to-learn-go-fast-a-practical-roadmap-for-senior-backend-developers-18l5
 
+**Added 2026-10-13**
+
+### [Don't couple your Go code to GitHub](https://iain.rocks/blog/dont-couple-your-go-code-to-github)
+- **Source:** iain.rocks | **Posted:** 2026-09-27 | **By:** olex
+- **Community:** 50 score, 25 comments on Lobsters
+- **Tags:** go
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/e5vf6k/don_t_couple_your_go_code_github
+- **Link:** https://iain.rocks/blog/dont-couple-your-go-code-to-github
+
 
 ## PHP
 

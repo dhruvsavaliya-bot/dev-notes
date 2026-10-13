@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**871 entries and counting** · Last updated: 2026-10-13
+**872 entries and counting** · Last updated: 2026-10-13
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 145 |
 | [Reading List](articles/reading-list.md) | 194 |
 | [Coding Tips](coding-tips/tips.md) | 191 |
-| [Language Notes](languages/notes.md) | 123 |
+| [Language Notes](languages/notes.md) | 124 |
 
 ## Latest additions
 
+- **2026-10-13** · *Go* — [Don't couple your Go code to GitHub](https://lobste.rs/s/e5vf6k/don_t_couple_your_go_code_github)
 - **2026-10-13** · *Models & Datasets* — [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp)
 - **2026-10-13** · *Rust* — [The Performance Cost of RwLock in Our Read-Heavy Worklo](https://lobste.rs/s/pioj21/performance_cost_rwlock_our_read_heavy)
 - **2026-10-13** · *Show & Ask HN* — [Dear procrastinator](https://news.ycombinator.com/item?id=2886187)
 - **2026-10-13** · *Models & Datasets* — [m-a-p/Matrix](https://huggingface.co/datasets/m-a-p/Matrix)
-- **2026-10-13** · *Models & Datasets* — [ACERobotics/ACE-Data-0](https://huggingface.co/datasets/ACERobotics/ACE-Data-0)
 
 ## How it works
 
