@@ -1013,6 +1013,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/ACERobotics/ACE-Data-0
 
+**Added 2026-10-13**
+
+### [m-a-p/Matrix](https://huggingface.co/datasets/m-a-p/Matrix)
+- **Stats:** 180 likes | 31,342 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2024-05-08
+- **Tags:** language model
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/m-a-p/Matrix
+
 
 ## Research Papers
 
