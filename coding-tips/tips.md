@@ -1710,3 +1710,17 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow
 - **Link:** https://verdagon.dev/blog/valen-group-borrowing
+
+**Added 2026-10-13**
+
+### [French supermarket chains say cyberattack forced refrigerator shutdown](https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown)
+- **Source:** www.afp.com | **Posted:** 2026-10-12 | **By:** aldantanneo
+- **Community:** 21 score, 13 comments on Lobsters
+- **Tags:** security
+- **Summary:** This popped up and reminded me strangely of a story post a month ago here:
+
+https://lobste.rs/s/ygjo0g/i_think_military_commissary_freezers
+
+And, lo and behold, the very same controller supplier is mentioned in both the earlier US article and the one covering this by [french newspaper Le Monde](https://www.lemonde.fr/economie/article/2026/10/12/plusieurs-centaines-de-supermarches-intermarche-e...
+- **Discussion:** https://lobste.rs/s/u4vlin/french_supermarket_chains_say
+- **Link:** https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown

@@ -526,6 +526,7 @@
     "https://lobste.rs/s/tfjoxv/actual_budget",
     "https://lobste.rs/s/tmr7jp/extend_lua_with_zig_1_hello_world",
     "https://lobste.rs/s/tsfs3w/why_function_arguments_are_not_function",
+    "https://lobste.rs/s/u4vlin/french_supermarket_chains_say",
     "https://lobste.rs/s/u9ue6c/what_s_wrong_with_github",
     "https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem",
     "https://lobste.rs/s/ul9krj/hacking_go_compiler_efficiently_map_ipv4",
@@ -869,12 +870,6 @@
   "recent": [
     {
       "date": "2026-10-13",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Twitch Installs Arch Linux  A cooperative text",
-      "url": "https://news.ycombinator.com/item?id=10477721"
-    },
-    {
-      "date": "2026-10-13",
       "subcat": "Hacker News Picks",
       "title": "Google proposes changes to Chromium which would disable",
       "url": "https://news.ycombinator.com/item?id=18973477"
@@ -926,6 +921,12 @@
       "subcat": "Models & Datasets",
       "title": "openai/gdpval",
       "url": "https://huggingface.co/datasets/openai/gdpval"
+    },
+    {
+      "date": "2026-10-13",
+      "subcat": "Lobsters Picks",
+      "title": "French supermarket chains say cyberattack forced refrig",
+      "url": "https://lobste.rs/s/u4vlin/french_supermarket_chains_say"
     }
   ]
 }
