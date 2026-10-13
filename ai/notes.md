@@ -986,6 +986,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/openai/gdpval
 
+**Added 2026-10-13**
+
+### [meta-math/MetaMathQA](https://huggingface.co/datasets/meta-math/MetaMathQA)
+- **Stats:** 484 likes | 66,380 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2023-09-21
+- **Tags:** math, math-qa
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/meta-math/MetaMathQA
+
 
 ## Research Papers
 
