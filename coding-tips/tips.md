@@ -1579,6 +1579,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=34560255
 - **Link:** https://news.ycombinator.com/item?id=34560255
 
+**Added 2026-10-13**
+
+### [Show HN: Twitch Installs Arch Linux – A cooperative text-based horror game](https://twitchinstalls.com)
+- **Source:** twitchinstalls.com | **Posted:** 2015-10-30 | **By:** jbott
+- **Community:** 802 points, 250 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=10477721
+- **Link:** https://twitchinstalls.com
+
 
 ## Git & Workflow
 
