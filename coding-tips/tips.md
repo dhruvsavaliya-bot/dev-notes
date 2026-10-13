@@ -1588,6 +1588,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=10477721
 - **Link:** https://twitchinstalls.com
 
+**Added 2026-10-13**
+
+### [Show HN: Free, in-browser PDF editor](https://breezepdf.com)
+- **Source:** breezepdf.com | **Posted:** 2025-05-03 | **By:** philjohnson
+- **Community:** 791 points, 182 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=43880962
+- **Link:** https://breezepdf.com
+
 
 ## Git & Workflow
 
