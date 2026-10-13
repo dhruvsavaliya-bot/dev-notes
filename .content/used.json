@@ -435,6 +435,7 @@
     "https://huggingface.co/Qwen/Qwen3.6-27B",
     "https://huggingface.co/almanach/camembert-base",
     "https://huggingface.co/bytedance-research/Lance",
+    "https://huggingface.co/datasets/ACERobotics/ACE-Data-0",
     "https://huggingface.co/datasets/Anthropic/claude-protein-binder-design",
     "https://huggingface.co/datasets/FlyRank/internship-warehouse",
     "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023",
@@ -877,12 +878,6 @@
   "recent": [
     {
       "date": "2026-10-13",
-      "subcat": "Go",
-      "title": "How To Learn Go Fast: A Practical Roadmap For Senior Ba",
-      "url": "https://dev.to/nazar-boyko/how-to-learn-go-fast-a-practical-roadmap-for-senior-backend-developers-18l5"
-    },
-    {
-      "date": "2026-10-13",
       "subcat": "Models & Datasets",
       "title": "openai/gdpval",
       "url": "https://huggingface.co/datasets/openai/gdpval"
@@ -934,6 +929,12 @@
       "subcat": "TypeScript",
       "title": "How Do We Extract the Why from a PR into a CHANGELOG wi",
       "url": "https://dev.to/nyaomaru/how-do-we-extract-the-why-from-a-pr-into-a-changelog-with-jev-52pk"
+    },
+    {
+      "date": "2026-10-13",
+      "subcat": "Models & Datasets",
+      "title": "ACERobotics/ACE-Data-0",
+      "url": "https://huggingface.co/datasets/ACERobotics/ACE-Data-0"
     }
   ]
 }

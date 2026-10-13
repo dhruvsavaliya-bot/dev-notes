@@ -1004,6 +1004,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/glaiveai/glaive-function-calling-v2
 
+**Added 2026-10-13**
+
+### [ACERobotics/ACE-Data-0](https://huggingface.co/datasets/ACERobotics/ACE-Data-0)
+- **Stats:** 53 likes | 241,199 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-07-28
+- **Tags:** video, audio, 3d, timeseries, robotics, embodied-ai
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/ACERobotics/ACE-Data-0
+
 
 ## Research Papers
 
