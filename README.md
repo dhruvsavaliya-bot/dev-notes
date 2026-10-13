@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**868 entries and counting** · Last updated: 2026-10-13
+**869 entries and counting** · Last updated: 2026-10-13
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 218 |
 | [AI / LLM Notes](ai/notes.md) | 144 |
 | [Reading List](articles/reading-list.md) | 194 |
-| [Coding Tips](coding-tips/tips.md) | 190 |
+| [Coding Tips](coding-tips/tips.md) | 191 |
 | [Language Notes](languages/notes.md) | 122 |
 
 ## Latest additions
 
+- **2026-10-13** · *Show & Ask HN* — [Dear procrastinator](https://news.ycombinator.com/item?id=2886187)
 - **2026-10-13** · *Models & Datasets* — [m-a-p/Matrix](https://huggingface.co/datasets/m-a-p/Matrix)
 - **2026-10-13** · *Models & Datasets* — [ACERobotics/ACE-Data-0](https://huggingface.co/datasets/ACERobotics/ACE-Data-0)
 - **2026-10-13** · *TypeScript* — [How Do We Extract the Why from a PR into a CHANGELOG wi](https://dev.to/nyaomaru/how-do-we-extract-the-why-from-a-pr-into-a-changelog-with-jev-52pk)
 - **2026-10-13** · *Lobsters Picks* — [Finding a $90,000 Remote Code Execution Vulnerability i](https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution)
-- **2026-10-13** · *Kotlin* — [1812z/HyperIsland](https://github.com/1812z/HyperIsland)
 
 ## How it works
 
