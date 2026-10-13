@@ -1514,6 +1514,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=18973477
 - **Link:** https://bugs.chromium.org/p/chromium/issues/detail?id=896897&desc=2#c23
 
+**Added 2026-10-13**
+
+### [Electron is flash for the desktop (2016)](https://josephg.com/blog/electron-is-flash-for-the-desktop/)
+- **Source:** josephg.com | **Posted:** 2017-04-11 | **By:** charlieirish
+- **Community:** 1519 points, 996 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=14087381
+- **Link:** https://josephg.com/blog/electron-is-flash-for-the-desktop/
+
 
 ## DevOps & Cloud
 

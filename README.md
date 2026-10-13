@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**853 entries and counting** · Last updated: 2026-10-13
+**854 entries and counting** · Last updated: 2026-10-13
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 216 |
 | [AI / LLM Notes](ai/notes.md) | 139 |
-| [Reading List](articles/reading-list.md) | 193 |
+| [Reading List](articles/reading-list.md) | 194 |
 | [Coding Tips](coding-tips/tips.md) | 187 |
 | [Language Notes](languages/notes.md) | 118 |
 
 ## Latest additions
 
+- **2026-10-13** · *Hacker News Picks* — [Electron is flash for the desktop (2016)](https://news.ycombinator.com/item?id=14087381)
 - **2026-10-13** · *Show & Ask HN* — [Show HN: Free, in-browser PDF editor](https://news.ycombinator.com/item?id=43880962)
 - **2026-10-13** · *Models & Datasets* — [Qwen/Qwen3-0.6B](https://huggingface.co/Qwen/Qwen3-0.6B)
 - **2026-10-13** · *Web & Frontend* — [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile)
 - **2026-10-13** · *Hacker News Picks* — [Google proposes changes to Chromium which would disable](https://news.ycombinator.com/item?id=18973477)
-- **2026-10-13** · *Show & Ask HN* — [Show HN: Twitch Installs Arch Linux  A cooperative text](https://news.ycombinator.com/item?id=10477721)
 
 ## How it works
 

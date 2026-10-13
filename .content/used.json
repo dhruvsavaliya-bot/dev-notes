@@ -539,6 +539,7 @@
     "https://news.ycombinator.com/item?id=13426896",
     "https://news.ycombinator.com/item?id=13764728",
     "https://news.ycombinator.com/item?id=13849430",
+    "https://news.ycombinator.com/item?id=14087381",
     "https://news.ycombinator.com/item?id=14350059",
     "https://news.ycombinator.com/item?id=14773964",
     "https://news.ycombinator.com/item?id=15471449",
@@ -864,12 +865,6 @@
   "recent": [
     {
       "date": "2026-10-13",
-      "subcat": "Research Papers",
-      "title": "SCOUT: Synergizing Reasoning and Tool-Use for Computer-",
-      "url": "http://arxiv.org/abs/2609.36201v1"
-    },
-    {
-      "date": "2026-10-13",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Why Is Everything Declining?",
       "url": "https://news.ycombinator.com/item?id=34560255"
@@ -921,6 +916,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Free, in-browser PDF editor",
       "url": "https://news.ycombinator.com/item?id=43880962"
+    },
+    {
+      "date": "2026-10-13",
+      "subcat": "Hacker News Picks",
+      "title": "Electron is flash for the desktop (2016)",
+      "url": "https://news.ycombinator.com/item?id=14087381"
     }
   ]
 }
