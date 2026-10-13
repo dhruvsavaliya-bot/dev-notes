@@ -959,6 +959,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023
 
+**Added 2026-10-13**
+
+### [FermionResearch/Phonon-2](https://huggingface.co/FermionResearch/Phonon-2)
+- **Stats:** 290 likes | 4,485 downloads
+- **Kind:** Hugging Face model | **Task:** automatic-speech-recognition | **Created:** 2026-09-28
+- **Tags:** mlx, parakeet_tdt_five_value, apple-silicon, speech-to-text, asr, stt
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/FermionResearch/Phonon-2
+
 
 ## Research Papers
 

@@ -418,6 +418,7 @@
     "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged",
     "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
     "https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
+    "https://huggingface.co/FermionResearch/Phonon-2",
     "https://huggingface.co/FrancisRing/Prism",
     "https://huggingface.co/HuggingFaceH4/zephyr-7b-beta",
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
@@ -858,12 +859,6 @@
   "recent": [
     {
       "date": "2026-10-13",
-      "subcat": "Research Papers",
-      "title": "LoLBench: Evaluating Coding Agents with Long-Horizon Pr",
-      "url": "http://arxiv.org/abs/2609.37143v1"
-    },
-    {
-      "date": "2026-10-13",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Who is hiring? (March 2017)",
       "url": "https://news.ycombinator.com/item?id=13764728"
@@ -915,6 +910,12 @@
       "subcat": "Models & Datasets",
       "title": "McAuley-Lab/Amazon-Reviews-2023",
       "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023"
+    },
+    {
+      "date": "2026-10-13",
+      "subcat": "Models & Datasets",
+      "title": "FermionResearch/Phonon-2",
+      "url": "https://huggingface.co/FermionResearch/Phonon-2"
     }
   ]
 }
