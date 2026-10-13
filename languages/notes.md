@@ -272,6 +272,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/4zmka2/kiesel_devlog_15_release_0_4_0
 - **Link:** https://linus.dev/posts/kiesel-devlog-15/
 
+**Added 2026-10-13**
+
+### [DuckDuckGo – two non-JavaScript versions of search results](https://help.duckduckgo.com/duckduckgo-help-pages/features/non-javascript/)
+- **Source:** help.duckduckgo.com | **Posted:** 2021-03-04 | **By:** URfejk
+- **Community:** 414 points, 97 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=26344358
+- **Link:** https://help.duckduckgo.com/duckduckgo-help-pages/features/non-javascript/
+
 
 ## TypeScript
 
