@@ -968,6 +968,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/FermionResearch/Phonon-2
 
+**Added 2026-10-13**
+
+### [Qwen/Qwen3-0.6B](https://huggingface.co/Qwen/Qwen3-0.6B)
+- **Stats:** 1,791 likes | 30,604,529 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2025-04-27
+- **Tags:** transformers, safetensors, qwen3, text-generation, conversational, text-generation-inference
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/Qwen/Qwen3-0.6B
+
 
 ## Research Papers
 
