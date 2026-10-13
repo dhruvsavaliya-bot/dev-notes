@@ -1170,3 +1170,13 @@ Snippets and gotchas across languages.
 - **What it is:** A set of tools for the Kotlin language, with a focus on user experience and tooling
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/JetBrains/kotlin-toolchain
+
+**Added 2026-10-13**
+
+### [Flow-Tube/Flow](https://github.com/Flow-Tube/Flow)
+- **Stats:** 2,491 stars | 127 forks | 46 open issues
+- **Language:** Kotlin | **Created:** 2025-10-19 | **License:** GPL-3.0
+- **Topics:** android, flow, innertube, kotlin, music-player, newpipe-extractor
+- **What it is:** A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
+- **Growth:** averaging ~6 stars/day since launch.
+- **Link:** https://github.com/Flow-Tube/Flow

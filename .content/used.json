@@ -180,6 +180,7 @@
     "https://github.com/FareedKhan-dev/kimi-k3-in-c",
     "https://github.com/Fei-Away/Codex-Dream-Skin",
     "https://github.com/FlashML-org/FreeVideo",
+    "https://github.com/Flow-Tube/Flow",
     "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
     "https://github.com/HKUDS/CLI-Anything",
     "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
@@ -866,12 +867,6 @@
   "recent": [
     {
       "date": "2026-10-13",
-      "subcat": "Rust",
-      "title": "C for Rust Programmers",
-      "url": "https://lobste.rs/s/lgdxtw/c_for_rust_programmers"
-    },
-    {
-      "date": "2026-10-13",
       "subcat": "Models & Datasets",
       "title": "McAuley-Lab/Amazon-Reviews-2023",
       "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023"
@@ -923,6 +918,12 @@
       "subcat": "AI & Machine Learning",
       "title": "agno-agi/agno",
       "url": "https://github.com/agno-agi/agno"
+    },
+    {
+      "date": "2026-10-13",
+      "subcat": "Kotlin",
+      "title": "Flow-Tube/Flow",
+      "url": "https://github.com/Flow-Tube/Flow"
     }
   ]
 }
