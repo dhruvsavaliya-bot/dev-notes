@@ -1756,3 +1756,13 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution
 - **Link:** https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce
+
+**Added 2026-10-14**
+
+### [Did Ente Locker copy my code without attribution?](https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/)
+- **Source:** fairscan.org | **Posted:** 2026-10-13 | **By:** tusharhero
+- **Community:** 36 score, 4 comments on Lobsters
+- **Tags:** law
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without
+- **Link:** https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/
