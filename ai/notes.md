@@ -977,6 +977,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/Qwen/Qwen3-0.6B
 
+**Added 2026-10-13**
+
+### [openai/gdpval](https://huggingface.co/datasets/openai/gdpval)
+- **Stats:** 556 likes | 272,285 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2025-09-25
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/openai/gdpval
+
 
 ## Research Papers
 
