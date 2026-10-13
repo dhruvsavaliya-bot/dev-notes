@@ -553,6 +553,7 @@
     "https://lobste.rs/s/zlhyss/mathocalypse",
     "https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source",
     "https://lobste.rs/s/zziknb/arena_allocators_c",
+    "https://news.ycombinator.com/item?id=10225438",
     "https://news.ycombinator.com/item?id=10477721",
     "https://news.ycombinator.com/item?id=11068902",
     "https://news.ycombinator.com/item?id=11076390",
@@ -891,12 +892,6 @@
   "recent": [
     {
       "date": "2026-10-13",
-      "subcat": "Models & Datasets",
-      "title": "google-research-datasets/mbpp",
-      "url": "https://huggingface.co/datasets/google-research-datasets/mbpp"
-    },
-    {
-      "date": "2026-10-13",
       "subcat": "Go",
       "title": "Don't couple your Go code to GitHub",
       "url": "https://lobste.rs/s/e5vf6k/don_t_couple_your_go_code_github"
@@ -948,6 +943,12 @@
       "subcat": "Other Cool Projects",
       "title": "EpicGames/lore",
       "url": "https://github.com/EpicGames/lore"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "SQL & Databases",
+      "title": "CryptDB  A database system that can process SQL queries",
+      "url": "https://news.ycombinator.com/item?id=10225438"
     }
   ]
 }

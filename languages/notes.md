@@ -1205,6 +1205,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=40456236
 - **Link:** https://github.com/Dataherald/dataherald
 
+**Added 2026-10-14**
+
+### [CryptDB – A database system that can process SQL queries over encrypted data](https://github.com/CryptDB/cryptdb)
+- **Source:** github.com | **Posted:** 2015-09-16 | **By:** monort
+- **Community:** 88 points, 15 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=10225438
+- **Link:** https://github.com/CryptDB/cryptdb
+
 
 ## Kotlin
 
