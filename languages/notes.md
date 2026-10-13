@@ -673,6 +673,15 @@ Snippets and gotchas across languages.
 - **Summary:** Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...
 - **Link:** https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d
 
+**Added 2026-10-13**
+
+### [How To Learn Go Fast: A Practical Roadmap For Senior Backend Developers](https://dev.to/nazar-boyko/how-to-learn-go-fast-a-practical-roadmap-for-senior-backend-developers-18l5)
+- **Author:** Nazar Boyko | **Published:** Jun 27 | **Read time:** 30 min
+- **Community:** 152 reactions, 43 comments -- a top post in #go
+- **Tags:** go, architecture, career, learn
+- **Summary:** Why I Am Writing This: A PHP Developer Crossing Into Go   I am a PHP developer.  I have...
+- **Link:** https://dev.to/nazar-boyko/how-to-learn-go-fast-a-practical-roadmap-for-senior-backend-developers-18l5
+
 
 ## PHP
 

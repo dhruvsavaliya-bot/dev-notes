@@ -110,6 +110,7 @@
     "https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h",
     "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
     "https://dev.to/nazar-boyko/has-ai-made-you-a-lazier-developer-be-honest-5ack",
+    "https://dev.to/nazar-boyko/how-to-learn-go-fast-a-practical-roadmap-for-senior-backend-developers-18l5",
     "https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2",
     "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
     "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
@@ -868,12 +869,6 @@
     {
       "date": "2026-10-13",
       "subcat": "Models & Datasets",
-      "title": "McAuley-Lab/Amazon-Reviews-2023",
-      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023"
-    },
-    {
-      "date": "2026-10-13",
-      "subcat": "Models & Datasets",
       "title": "FermionResearch/Phonon-2",
       "url": "https://huggingface.co/FermionResearch/Phonon-2"
     },
@@ -924,6 +919,12 @@
       "subcat": "Kotlin",
       "title": "Flow-Tube/Flow",
       "url": "https://github.com/Flow-Tube/Flow"
+    },
+    {
+      "date": "2026-10-13",
+      "subcat": "Go",
+      "title": "How To Learn Go Fast: A Practical Roadmap For Senior Ba",
+      "url": "https://dev.to/nazar-boyko/how-to-learn-go-fast-a-practical-roadmap-for-senior-backend-developers-18l5"
     }
   ]
 }
