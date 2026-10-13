@@ -166,6 +166,7 @@
     "https://dev.to/xulingfeng/stratagems-9-lena-and-p-watched-two-ai-suppliers-fight-the-logs-said-neither-was-clean-2pj3",
     "https://dev.to/xulingfeng/two-weeks-in-a-15-year-qa-veteran-back-to-being-the-new-guy-39g3",
     "https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9",
+    "https://github.com/1812z/HyperIsland",
     "https://github.com/Albert-Weasker/niubigeo",
     "https://github.com/AlephAITech/WorkBuddyGuide",
     "https://github.com/ApodexAI/FrontierAgent",
@@ -874,12 +875,6 @@
   "recent": [
     {
       "date": "2026-10-13",
-      "subcat": "Hacker News Picks",
-      "title": "Electron is flash for the desktop (2016)",
-      "url": "https://news.ycombinator.com/item?id=14087381"
-    },
-    {
-      "date": "2026-10-13",
       "subcat": "AI & Machine Learning",
       "title": "agno-agi/agno",
       "url": "https://github.com/agno-agi/agno"
@@ -931,6 +926,12 @@
       "subcat": "Models & Datasets",
       "title": "glaiveai/glaive-function-calling-v2",
       "url": "https://huggingface.co/datasets/glaiveai/glaive-function-calling-v2"
+    },
+    {
+      "date": "2026-10-13",
+      "subcat": "Kotlin",
+      "title": "1812z/HyperIsland",
+      "url": "https://github.com/1812z/HyperIsland"
     }
   ]
 }

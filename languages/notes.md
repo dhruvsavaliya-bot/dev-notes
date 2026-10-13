@@ -1189,3 +1189,13 @@ Snippets and gotchas across languages.
 - **What it is:** A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
 - **Growth:** averaging ~6 stars/day since launch.
 - **Link:** https://github.com/Flow-Tube/Flow
+
+**Added 2026-10-13**
+
+### [1812z/HyperIsland](https://github.com/1812z/HyperIsland)
+- **Stats:** 575 stars | 64 forks | 7 open issues
+- **Language:** Kotlin | **Created:** 2026-03-14 | **License:** MIT
+- **Topics:** android, hyperos, miuix, xposed
+- **What it is:** HyperOS  Dynamic  Island Enhancer
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/1812z/HyperIsland
