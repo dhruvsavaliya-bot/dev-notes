@@ -446,6 +446,7 @@
     "https://huggingface.co/datasets/eidon-ai/tracker-pov",
     "https://huggingface.co/datasets/espnet/yodas2",
     "https://huggingface.co/datasets/glaiveai/glaive-function-calling-v2",
+    "https://huggingface.co/datasets/google-research-datasets/mbpp",
     "https://huggingface.co/datasets/harborframework/terminal-bench-2.0",
     "https://huggingface.co/datasets/huggingface/badges",
     "https://huggingface.co/datasets/m-a-p/Matrix",
@@ -881,12 +882,6 @@
   "recent": [
     {
       "date": "2026-10-13",
-      "subcat": "Show & Ask HN",
-      "title": "Merry Christmas Everyone",
-      "url": "https://news.ycombinator.com/item?id=42506577"
-    },
-    {
-      "date": "2026-10-13",
       "subcat": "AI & Machine Learning",
       "title": "FalkorDB/FalkorDB",
       "url": "https://github.com/FalkorDB/FalkorDB"
@@ -938,6 +933,12 @@
       "subcat": "Rust",
       "title": "The Performance Cost of RwLock in Our Read-Heavy Worklo",
       "url": "https://lobste.rs/s/pioj21/performance_cost_rwlock_our_read_heavy"
+    },
+    {
+      "date": "2026-10-13",
+      "subcat": "Models & Datasets",
+      "title": "google-research-datasets/mbpp",
+      "url": "https://huggingface.co/datasets/google-research-datasets/mbpp"
     }
   ]
 }

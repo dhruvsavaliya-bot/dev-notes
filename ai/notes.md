@@ -1022,6 +1022,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/m-a-p/Matrix
 
+**Added 2026-10-13**
+
+### [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp)
+- **Stats:** 265 likes | 240,219 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2022-03-02
+- **Tags:** code-generation
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/google-research-datasets/mbpp
+
 
 ## Research Papers
 
