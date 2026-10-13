@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**850 entries and counting** · Last updated: 2026-10-13
+**851 entries and counting** · Last updated: 2026-10-13
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 215 |
+| [Trending Projects](trending-projects/projects.md) | 216 |
 | [AI / LLM Notes](ai/notes.md) | 138 |
 | [Reading List](articles/reading-list.md) | 193 |
 | [Coding Tips](coding-tips/tips.md) | 186 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-13** · *Web & Frontend* — [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile)
 - **2026-10-13** · *Hacker News Picks* — [Google proposes changes to Chromium which would disable](https://news.ycombinator.com/item?id=18973477)
 - **2026-10-13** · *Show & Ask HN* — [Show HN: Twitch Installs Arch Linux  A cooperative text](https://news.ycombinator.com/item?id=10477721)
 - **2026-10-13** · *Models & Datasets* — [FermionResearch/Phonon-2](https://huggingface.co/FermionResearch/Phonon-2)
 - **2026-10-13** · *Models & Datasets* — [McAuley-Lab/Amazon-Reviews-2023](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)
-- **2026-10-13** · *Rust* — [C for Rust Programmers](https://lobste.rs/s/lgdxtw/c_for_rust_programmers)
 
 ## How it works
 

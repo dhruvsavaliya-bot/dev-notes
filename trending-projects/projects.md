@@ -1980,6 +1980,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/vikejs/vike
 
+**Added 2026-10-13**
+
+### [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile)
+- **Stats:** 3,055 stars | 1,687 forks | 1,911 open issues
+- **Language:** TypeScript | **Created:** 2018-07-18 | **License:** NOASSERTION
+- **Topics:** android, dapps-browser, ios, javascript, metamask, react-native
+- **What it is:** Mobile web browser providing access to websites that use the Ethereum blockchain
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/MetaMask/metamask-mobile
+
 
 ## Developer Tools
 
