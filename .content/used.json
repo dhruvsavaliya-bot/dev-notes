@@ -457,6 +457,7 @@
     "https://huggingface.co/datasets/monology/pile-uncopyrighted",
     "https://huggingface.co/datasets/nvidia/Open-SWE-Traces",
     "https://huggingface.co/datasets/nvidia/OpenH-RF",
+    "https://huggingface.co/datasets/open-r1/codeforces-cots",
     "https://huggingface.co/datasets/openai/gdpval",
     "https://huggingface.co/datasets/openai/healthbench",
     "https://huggingface.co/datasets/openbmb/RLHF-V-Dataset",
@@ -888,12 +889,6 @@
     {
       "date": "2026-10-13",
       "subcat": "Models & Datasets",
-      "title": "ACERobotics/ACE-Data-0",
-      "url": "https://huggingface.co/datasets/ACERobotics/ACE-Data-0"
-    },
-    {
-      "date": "2026-10-13",
-      "subcat": "Models & Datasets",
       "title": "m-a-p/Matrix",
       "url": "https://huggingface.co/datasets/m-a-p/Matrix"
     },
@@ -944,6 +939,12 @@
       "subcat": "SQL & Databases",
       "title": "Show HN: We open sourced our entire text-to-SQL product",
       "url": "https://news.ycombinator.com/item?id=40456236"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "Models & Datasets",
+      "title": "open-r1/codeforces-cots",
+      "url": "https://huggingface.co/datasets/open-r1/codeforces-cots"
     }
   ]
 }

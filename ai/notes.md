@@ -1040,6 +1040,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/fka/prompts.chat
 
+**Added 2026-10-14**
+
+### [open-r1/codeforces-cots](https://huggingface.co/datasets/open-r1/codeforces-cots)
+- **Stats:** 230 likes | 4,988 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2025-02-27
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/open-r1/codeforces-cots
+
 
 ## Research Papers
 
