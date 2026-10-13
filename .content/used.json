@@ -248,6 +248,7 @@
     "https://github.com/Zeejay0/gathered-scenes-zine-skill",
     "https://github.com/ZzzLc0405/photo-abstract-editorial",
     "https://github.com/aden-hive/hive",
+    "https://github.com/agno-agi/agno",
     "https://github.com/ai-sucks-butt/ai-sucks-butt",
     "https://github.com/aliyun/ai-agent-handbook",
     "https://github.com/amagine-ai/Amagine3D",
@@ -865,12 +866,6 @@
   "recent": [
     {
       "date": "2026-10-13",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: Why Is Everything Declining?",
-      "url": "https://news.ycombinator.com/item?id=34560255"
-    },
-    {
-      "date": "2026-10-13",
       "subcat": "Rust",
       "title": "C for Rust Programmers",
       "url": "https://lobste.rs/s/lgdxtw/c_for_rust_programmers"
@@ -922,6 +917,12 @@
       "subcat": "Hacker News Picks",
       "title": "Electron is flash for the desktop (2016)",
       "url": "https://news.ycombinator.com/item?id=14087381"
+    },
+    {
+      "date": "2026-10-13",
+      "subcat": "AI & Machine Learning",
+      "title": "agno-agi/agno",
+      "url": "https://github.com/agno-agi/agno"
     }
   ]
 }

@@ -964,6 +964,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~115 stars/day since launch.
 - **Link:** https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills
 
+**Added 2026-10-13**
+
+### [agno-agi/agno](https://github.com/agno-agi/agno)
+- **Stats:** 42,692 stars | 6,123 forks | 1,893 open issues
+- **Language:** Python | **Created:** 2022-05-04 | **License:** Apache-2.0
+- **Topics:** agents, ai, ai-agents, developer-tools, python
+- **What it is:** Build, run, and manage agent platforms.
+- **Growth:** averaging ~26 stars/day since launch.
+- **Link:** https://github.com/agno-agi/agno
+
 
 ## Other Cool Projects
 
