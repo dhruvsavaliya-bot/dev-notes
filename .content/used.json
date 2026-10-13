@@ -115,6 +115,7 @@
     "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
     "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
     "https://dev.to/nikolas_dimitroulakis_d23/we-described-our-api-twice-once-for-humans-once-for-agents-4e4g",
+    "https://dev.to/nyaomaru/how-do-we-extract-the-why-from-a-pr-into-a-changelog-with-jev-52pk",
     "https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b",
     "https://dev.to/nyaomaru/learn-number-of-islands-invert-binary-tree-and-course-schedule-with-step-by-step-visualization-in-5947",
     "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
@@ -876,12 +877,6 @@
   "recent": [
     {
       "date": "2026-10-13",
-      "subcat": "Kotlin",
-      "title": "Flow-Tube/Flow",
-      "url": "https://github.com/Flow-Tube/Flow"
-    },
-    {
-      "date": "2026-10-13",
       "subcat": "Go",
       "title": "How To Learn Go Fast: A Practical Roadmap For Senior Ba",
       "url": "https://dev.to/nazar-boyko/how-to-learn-go-fast-a-practical-roadmap-for-senior-backend-developers-18l5"
@@ -933,6 +928,12 @@
       "subcat": "Lobsters Picks",
       "title": "Finding a $90,000 Remote Code Execution Vulnerability i",
       "url": "https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution"
+    },
+    {
+      "date": "2026-10-13",
+      "subcat": "TypeScript",
+      "title": "How Do We Extract the Why from a PR into a CHANGELOG wi",
+      "url": "https://dev.to/nyaomaru/how-do-we-extract-the-why-from-a-pr-into-a-changelog-with-jev-52pk"
     }
   ]
 }

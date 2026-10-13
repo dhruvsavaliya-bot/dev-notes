@@ -378,6 +378,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~24 stars/day since launch.
 - **Link:** https://github.com/srizzon/git-city
 
+**Added 2026-10-13**
+
+### [How Do We Extract the “Why” from a PR into a CHANGELOG with Jev? 🤔](https://dev.to/nyaomaru/how-do-we-extract-the-why-from-a-pr-into-a-changelog-with-jev-52pk)
+- **Author:** nyaomaru | **Published:** Oct 10 | **Read time:** 6 min
+- **Community:** 89 reactions, 43 comments -- a top post in #typescript
+- **Tags:** opensource, githubactions, ai, typescript
+- **Summary:** Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer currently building an AI-assisted CHANGELOG generator...
+- **Link:** https://dev.to/nyaomaru/how-do-we-extract-the-why-from-a-pr-into-a-changelog-with-jev-52pk
+
 
 ## Python
 
