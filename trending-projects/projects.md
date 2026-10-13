@@ -974,6 +974,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~26 stars/day since launch.
 - **Link:** https://github.com/agno-agi/agno
 
+**Added 2026-10-13**
+
+### [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB)
+- **Stats:** 9,418 stars | 552 forks | 1,004 open issues
+- **Language:** Rust | **Created:** 2023-07-20 | **License:** NOASSERTION
+- **Topics:** cloud-database, database, database-as-a-service, developer-tools, devtools, graph-database
+- **What it is:** A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).
+- **Growth:** averaging ~7 stars/day since launch.
+- **Link:** https://github.com/FalkorDB/FalkorDB
+
 
 ## Other Cool Projects
 

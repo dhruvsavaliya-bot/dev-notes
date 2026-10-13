@@ -178,6 +178,7 @@
     "https://github.com/Dingo-Shenanigans/ReSkate",
     "https://github.com/Draculabo/AntigravityManager",
     "https://github.com/EvoMap/AutoResearch",
+    "https://github.com/FalkorDB/FalkorDB",
     "https://github.com/FareedKhan-dev/kimi-k3-in-c",
     "https://github.com/Fei-Away/Codex-Dream-Skin",
     "https://github.com/FlashML-org/FreeVideo",
@@ -872,12 +873,6 @@
   "recent": [
     {
       "date": "2026-10-13",
-      "subcat": "Models & Datasets",
-      "title": "Qwen/Qwen3-0.6B",
-      "url": "https://huggingface.co/Qwen/Qwen3-0.6B"
-    },
-    {
-      "date": "2026-10-13",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Free, in-browser PDF editor",
       "url": "https://news.ycombinator.com/item?id=43880962"
@@ -929,6 +924,12 @@
       "subcat": "Show & Ask HN",
       "title": "Merry Christmas Everyone",
       "url": "https://news.ycombinator.com/item?id=42506577"
+    },
+    {
+      "date": "2026-10-13",
+      "subcat": "AI & Machine Learning",
+      "title": "FalkorDB/FalkorDB",
+      "url": "https://github.com/FalkorDB/FalkorDB"
     }
   ]
 }
