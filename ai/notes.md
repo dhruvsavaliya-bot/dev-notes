@@ -995,6 +995,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/meta-math/MetaMathQA
 
+**Added 2026-10-13**
+
+### [glaiveai/glaive-function-calling-v2](https://huggingface.co/datasets/glaiveai/glaive-function-calling-v2)
+- **Stats:** 535 likes | 37,078 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2023-08-15
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/glaiveai/glaive-function-calling-v2
+
 
 ## Research Papers
 

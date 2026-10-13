@@ -442,6 +442,7 @@
     "https://huggingface.co/datasets/argilla/magpie-ultra-v0.1",
     "https://huggingface.co/datasets/eidon-ai/tracker-pov",
     "https://huggingface.co/datasets/espnet/yodas2",
+    "https://huggingface.co/datasets/glaiveai/glaive-function-calling-v2",
     "https://huggingface.co/datasets/harborframework/terminal-bench-2.0",
     "https://huggingface.co/datasets/huggingface/badges",
     "https://huggingface.co/datasets/markov-ai/computer-use-large",
@@ -873,12 +874,6 @@
   "recent": [
     {
       "date": "2026-10-13",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Free, in-browser PDF editor",
-      "url": "https://news.ycombinator.com/item?id=43880962"
-    },
-    {
-      "date": "2026-10-13",
       "subcat": "Hacker News Picks",
       "title": "Electron is flash for the desktop (2016)",
       "url": "https://news.ycombinator.com/item?id=14087381"
@@ -930,6 +925,12 @@
       "subcat": "AI & Machine Learning",
       "title": "FalkorDB/FalkorDB",
       "url": "https://github.com/FalkorDB/FalkorDB"
+    },
+    {
+      "date": "2026-10-13",
+      "subcat": "Models & Datasets",
+      "title": "glaiveai/glaive-function-calling-v2",
+      "url": "https://huggingface.co/datasets/glaiveai/glaive-function-calling-v2"
     }
   ]
 }

@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**862 entries and counting** · Last updated: 2026-10-13
+**863 entries and counting** · Last updated: 2026-10-13
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 218 |
-| [AI / LLM Notes](ai/notes.md) | 141 |
+| [AI / LLM Notes](ai/notes.md) | 142 |
 | [Reading List](articles/reading-list.md) | 194 |
 | [Coding Tips](coding-tips/tips.md) | 189 |
 | [Language Notes](languages/notes.md) | 120 |
 
 ## Latest additions
 
+- **2026-10-13** · *Models & Datasets* — [glaiveai/glaive-function-calling-v2](https://huggingface.co/datasets/glaiveai/glaive-function-calling-v2)
 - **2026-10-13** · *AI & Machine Learning* — [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB)
 - **2026-10-13** · *Show & Ask HN* — [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577)
 - **2026-10-13** · *Models & Datasets* — [meta-math/MetaMathQA](https://huggingface.co/datasets/meta-math/MetaMathQA)
 - **2026-10-13** · *Lobsters Picks* — [French supermarket chains say cyberattack forced refrig](https://lobste.rs/s/u4vlin/french_supermarket_chains_say)
-- **2026-10-13** · *Models & Datasets* — [openai/gdpval](https://huggingface.co/datasets/openai/gdpval)
 
 ## How it works
 
