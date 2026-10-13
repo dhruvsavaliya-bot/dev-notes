@@ -548,6 +548,7 @@
     "https://news.ycombinator.com/item?id=17449810",
     "https://news.ycombinator.com/item?id=17875944",
     "https://news.ycombinator.com/item?id=18407173",
+    "https://news.ycombinator.com/item?id=18973477",
     "https://news.ycombinator.com/item?id=19209957",
     "https://news.ycombinator.com/item?id=20854214",
     "https://news.ycombinator.com/item?id=21611677",
@@ -860,12 +861,6 @@
   "recent": [
     {
       "date": "2026-10-13",
-      "subcat": "AI & Machine Learning",
-      "title": "Ryze-AI-Adgent/open-seo-mcp-skills",
-      "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills"
-    },
-    {
-      "date": "2026-10-13",
       "subcat": "Research Papers",
       "title": "XRepoSkill: Learning Transferable Skills for Software E",
       "url": "http://arxiv.org/abs/2609.36807v1"
@@ -917,6 +912,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Twitch Installs Arch Linux  A cooperative text",
       "url": "https://news.ycombinator.com/item?id=10477721"
+    },
+    {
+      "date": "2026-10-13",
+      "subcat": "Hacker News Picks",
+      "title": "Google proposes changes to Chromium which would disable",
+      "url": "https://news.ycombinator.com/item?id=18973477"
     }
   ]
 }

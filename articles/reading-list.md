@@ -1505,6 +1505,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=48843923
 - **Link:** https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/
 
+**Added 2026-10-13**
+
+### [Google proposes changes to Chromium which would disable uBlock Origin](https://bugs.chromium.org/p/chromium/issues/detail?id=896897&desc=2#c23)
+- **Source:** bugs.chromium.org | **Posted:** 2019-01-22 | **By:** Apylon777
+- **Community:** 1527 points, 739 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=18973477
+- **Link:** https://bugs.chromium.org/p/chromium/issues/detail?id=896897&desc=2#c23
+
 
 ## DevOps & Cloud
 
