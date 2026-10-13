@@ -594,6 +594,7 @@
     "https://news.ycombinator.com/item?id=41586031",
     "https://news.ycombinator.com/item?id=4166183",
     "https://news.ycombinator.com/item?id=42284412",
+    "https://news.ycombinator.com/item?id=42506577",
     "https://news.ycombinator.com/item?id=43186406",
     "https://news.ycombinator.com/item?id=43332830",
     "https://news.ycombinator.com/item?id=43454915",
@@ -871,12 +872,6 @@
   "recent": [
     {
       "date": "2026-10-13",
-      "subcat": "Web & Frontend",
-      "title": "MetaMask/metamask-mobile",
-      "url": "https://github.com/MetaMask/metamask-mobile"
-    },
-    {
-      "date": "2026-10-13",
       "subcat": "Models & Datasets",
       "title": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B"
@@ -928,6 +923,12 @@
       "subcat": "Models & Datasets",
       "title": "meta-math/MetaMathQA",
       "url": "https://huggingface.co/datasets/meta-math/MetaMathQA"
+    },
+    {
+      "date": "2026-10-13",
+      "subcat": "Show & Ask HN",
+      "title": "Merry Christmas Everyone",
+      "url": "https://news.ycombinator.com/item?id=42506577"
     }
   ]
 }

@@ -1597,6 +1597,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=43880962
 - **Link:** https://breezepdf.com
 
+**Added 2026-10-13**
+
+### [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577)
+- **Source:** news.ycombinator.com | **Posted:** 2024-12-25 | **By:** joshestroud
+- **Community:** 1503 points, 383 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=42506577
+- **Link:** https://news.ycombinator.com/item?id=42506577
+
 
 ## Git & Workflow
 
@@ -1717,10 +1726,14 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Source:** www.afp.com | **Posted:** 2026-10-12 | **By:** aldantanneo
 - **Community:** 21 score, 13 comments on Lobsters
 - **Tags:** security
-- **Summary:** This popped up and reminded me strangely of a story post a month ago here:
-
-https://lobste.rs/s/ygjo0g/i_think_military_commissary_freezers
-
+- **Summary:** This popped up and reminded me strangely of a story post a month ago here:
+
+
+
+https://lobste.rs/s/ygjo0g/i_think_military_commissary_freezers
+
+
+
 And, lo and behold, the very same controller supplier is mentioned in both the earlier US article and the one covering this by [french newspaper Le Monde](https://www.lemonde.fr/economie/article/2026/10/12/plusieurs-centaines-de-supermarches-intermarche-e...
 - **Discussion:** https://lobste.rs/s/u4vlin/french_supermarket_chains_say
 - **Link:** https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown
