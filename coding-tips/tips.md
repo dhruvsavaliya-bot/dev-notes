@@ -1737,3 +1737,13 @@ https://lobste.rs/s/ygjo0g/i_think_military_commissary_freezers
 And, lo and behold, the very same controller supplier is mentioned in both the earlier US article and the one covering this by [french newspaper Le Monde](https://www.lemonde.fr/economie/article/2026/10/12/plusieurs-centaines-de-supermarches-intermarche-e...
 - **Discussion:** https://lobste.rs/s/u4vlin/french_supermarket_chains_say
 - **Link:** https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown
+
+**Added 2026-10-13**
+
+### [Finding a $90,000 Remote Code Execution Vulnerability in Google](https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce)
+- **Source:** simonkoeck.com | **Posted:** 2026-10-12 | **By:** hoistbypetard
+- **Community:** 38 score, 1 comments on Lobsters
+- **Tags:** security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution
+- **Link:** https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce

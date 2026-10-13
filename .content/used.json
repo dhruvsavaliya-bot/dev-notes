@@ -514,6 +514,7 @@
     "https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think",
     "https://lobste.rs/s/lgdxtw/c_for_rust_programmers",
     "https://lobste.rs/s/lxo74i/introducing_microlighter",
+    "https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution",
     "https://lobste.rs/s/nxspz6/no_man_is_island",
     "https://lobste.rs/s/o8xo9z/importance_communities_around_software",
     "https://lobste.rs/s/odrfgk/how_speed_up_rust_compiler_september_2026",
@@ -875,12 +876,6 @@
   "recent": [
     {
       "date": "2026-10-13",
-      "subcat": "AI & Machine Learning",
-      "title": "agno-agi/agno",
-      "url": "https://github.com/agno-agi/agno"
-    },
-    {
-      "date": "2026-10-13",
       "subcat": "Kotlin",
       "title": "Flow-Tube/Flow",
       "url": "https://github.com/Flow-Tube/Flow"
@@ -932,6 +927,12 @@
       "subcat": "Kotlin",
       "title": "1812z/HyperIsland",
       "url": "https://github.com/1812z/HyperIsland"
+    },
+    {
+      "date": "2026-10-13",
+      "subcat": "Lobsters Picks",
+      "title": "Finding a $90,000 Remote Code Execution Vulnerability i",
+      "url": "https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution"
     }
   ]
 }
