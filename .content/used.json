@@ -604,6 +604,7 @@
     "https://news.ycombinator.com/item?id=38733968",
     "https://news.ycombinator.com/item?id=39783223",
     "https://news.ycombinator.com/item?id=4029427",
+    "https://news.ycombinator.com/item?id=40456236",
     "https://news.ycombinator.com/item?id=40457229",
     "https://news.ycombinator.com/item?id=41586031",
     "https://news.ycombinator.com/item?id=4166183",
@@ -886,12 +887,6 @@
   "recent": [
     {
       "date": "2026-10-13",
-      "subcat": "TypeScript",
-      "title": "How Do We Extract the Why from a PR into a CHANGELOG wi",
-      "url": "https://dev.to/nyaomaru/how-do-we-extract-the-why-from-a-pr-into-a-changelog-with-jev-52pk"
-    },
-    {
-      "date": "2026-10-13",
       "subcat": "Models & Datasets",
       "title": "ACERobotics/ACE-Data-0",
       "url": "https://huggingface.co/datasets/ACERobotics/ACE-Data-0"
@@ -943,6 +938,12 @@
       "subcat": "Lobsters Picks",
       "title": "Did Ente Locker copy my code without attribution?",
       "url": "https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "SQL & Databases",
+      "title": "Show HN: We open sourced our entire text-to-SQL product",
+      "url": "https://news.ycombinator.com/item?id=40456236"
     }
   ]
 }

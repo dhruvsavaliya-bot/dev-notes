@@ -1196,6 +1196,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=34505603
 - **Link:** https://news.ycombinator.com/item?id=34505603
 
+**Added 2026-10-14**
+
+### [Show HN: We open sourced our entire text-to-SQL product](https://github.com/Dataherald/dataherald)
+- **Source:** github.com | **Posted:** 2024-05-23 | **By:** aazo11
+- **Community:** 464 points, 144 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=40456236
+- **Link:** https://github.com/Dataherald/dataherald
+
+
 ## Kotlin
 
 **Added 2026-10-11**
