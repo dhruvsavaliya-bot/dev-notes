@@ -511,6 +511,7 @@
     "https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th",
     "https://lobste.rs/s/9wcfld/how_big_is_git_commit",
     "https://lobste.rs/s/9yyxpk/let_s_make_worst_htmx_ever",
+    "https://lobste.rs/s/aasanp/reverts_will_continue_until_morale",
     "https://lobste.rs/s/and6ld/freebsd_status_report_2023_q2",
     "https://lobste.rs/s/ap9w8i/when_str_lower_is_security_vulnerability",
     "https://lobste.rs/s/bag41j/hanami_why_introductions",
@@ -911,12 +912,6 @@
   "recent": [
     {
       "date": "2026-10-14",
-      "subcat": "Elixir",
-      "title": "Type inference of all constructs and the next 15 months",
-      "url": "https://lobste.rs/s/dzvt0w/type_inference_all_constructs_next_15"
-    },
-    {
-      "date": "2026-10-14",
       "subcat": "AI Engineering",
       "title": "Where we're going, we don't need chatbots: introducing",
       "url": "https://dev.to/googleai/where-were-going-we-dont-need-chatbots-introducing-the-antigravity-ide-2c3k"
@@ -968,6 +963,12 @@
       "subcat": "Models & Datasets",
       "title": "Maxwell-Jia/AIME_2024",
       "url": "https://huggingface.co/datasets/Maxwell-Jia/AIME_2024"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "Lobsters Picks",
+      "title": "The reverts will continue until morale improves",
+      "url": "https://lobste.rs/s/aasanp/reverts_will_continue_until_morale"
     }
   ]
 }

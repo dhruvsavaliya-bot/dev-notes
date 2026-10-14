@@ -1796,6 +1796,16 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://lobste.rs/s/zziknb/arena_allocators_c
 - **Link:** https://eliasebner.com/blog/guides/arena-allocators-in-c/
 
+**Added 2026-10-14**
+
+### [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
+- **Source:** peter.eisentraut.org | **Posted:** 2026-10-13 | **By:** kngl
+- **Community:** 61 score, 9 comments on Lobsters
+- **Tags:** databases
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/aasanp/reverts_will_continue_until_morale
+- **Link:** http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves
+
 
 ## Performance
 
