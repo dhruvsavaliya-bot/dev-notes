@@ -1389,3 +1389,13 @@ Lessons from building with LLMs.
 - **Abstract:** Computer-use agents (CUAs), while capable of completing computer tasks in everyday and professional workflows, can cause unintended harm even under benign instructions and environments. However, detecting such harm remains challenging. First, it requires careful, task-specific reasoning: verifiers guided only by general safety criteria often overlook many important but subtle harmful behaviors. Second, it requires active investigation: past trajectory screenshots show what the agent did but not ...
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.36201v1
+
+**Added 2026-10-14**
+
+### [Validating direct solvers for Newton's gravitational N-body problem, and the systematic comparison between IEEE floating point and Posits](http://arxiv.org/abs/2608.17032v1)
+- **Authors:** Simon Portegies Zwart
+- **Published:** 2026-08-17 | **Primary category:** cs.PL
+- **Categories:** physics.comp-ph, astro-ph.IM, cs.PL, nlin.CD
+- **Abstract:** We present a systematic comparison between arbitrary precise arithmetic and integration, IEEE-754 compliant floating point arithmetic (fp16, bfp16, fp32, double precision fp64, and quadruple precision fp128), and two implementations of Posits (type III unum) for solving Newton's chaotic N-body problem. Each implementation is benchmarked with arbitrary precise calculations to objectively evaluate their performance in precision as well as speed. We rely on hardware and compiler implementations for...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2608.17032v1

@@ -7,6 +7,7 @@
   ],
   "ids": [
     "http://arxiv.org/abs/2607.24854v1",
+    "http://arxiv.org/abs/2608.17032v1",
     "http://arxiv.org/abs/2609.07667v1",
     "http://arxiv.org/abs/2609.09270v1",
     "http://arxiv.org/abs/2609.28608v1",
@@ -899,12 +900,6 @@
   "recent": [
     {
       "date": "2026-10-14",
-      "subcat": "Hacker News Picks",
-      "title": "A $20k American-made electric pickup with no paint, no",
-      "url": "https://news.ycombinator.com/item?id=43794284"
-    },
-    {
-      "date": "2026-10-14",
       "subcat": "Other Cool Projects",
       "title": "EpicGames/lore",
       "url": "https://github.com/EpicGames/lore"
@@ -956,6 +951,12 @@
       "subcat": "Elixir",
       "title": "How do I write Elixir tests?",
       "url": "https://lobste.rs/s/4xgljh/how_do_i_write_elixir_tests"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "Research Papers",
+      "title": "Validating direct solvers for Newton's gravitational N-",
+      "url": "http://arxiv.org/abs/2608.17032v1"
     }
   ]
 }
