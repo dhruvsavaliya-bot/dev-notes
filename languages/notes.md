@@ -1120,6 +1120,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/wq1csk/elixir_v1_20_released_now_gradually_typed
 - **Link:** https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/
 
+**Added 2026-10-14**
+
+### [How do I write Elixir tests?](https://hauleth.dev/post/writing-tests/)
+- **Source:** hauleth.dev | **Posted:** 2026-05-14 | **By:** hauleth
+- **Community:** 16 score, 1 comments on Lobsters
+- **Tags:** elixir, testing
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/4xgljh/how_do_i_write_elixir_tests
+- **Link:** https://hauleth.dev/post/writing-tests/
+
 
 ## C#
 
