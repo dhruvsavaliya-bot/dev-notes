@@ -557,6 +557,7 @@
     "https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live",
     "https://lobste.rs/s/paryb7/rails_is_done",
     "https://lobste.rs/s/pioj21/performance_cost_rwlock_our_read_heavy",
+    "https://lobste.rs/s/plbei0/openfatigue_open_is_new_closed",
     "https://lobste.rs/s/qi1bxu/tinygo_0_42_recover_is_real",
     "https://lobste.rs/s/qn61ip/open_source_clean_room_reimplementation",
     "https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy",
@@ -924,12 +925,6 @@
   "recent": [
     {
       "date": "2026-10-14",
-      "subcat": "Elixir",
-      "title": "Guards! Guards",
-      "url": "https://lobste.rs/s/b2emi7/guards_guards"
-    },
-    {
-      "date": "2026-10-14",
       "subcat": "Models & Datasets",
       "title": "unsloth/Qwen3.8-27B-GGUF",
       "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF"
@@ -981,6 +976,12 @@
       "subcat": "Models & Datasets",
       "title": "stabilityai/stable-diffusion-xl-base-1.0",
       "url": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0"
+    },
+    {
+      "date": "2026-10-15",
+      "subcat": "Lobsters Picks",
+      "title": "OpenFatigue  Open is the new closed",
+      "url": "https://lobste.rs/s/plbei0/openfatigue_open_is_new_closed"
     }
   ]
 }

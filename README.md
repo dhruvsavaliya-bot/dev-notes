@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**913 entries and counting** · Last updated: 2026-10-15
+**914 entries and counting** · Last updated: 2026-10-15
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 221 |
 | [AI / LLM Notes](ai/notes.md) | 159 |
 | [Reading List](articles/reading-list.md) | 198 |
-| [Coding Tips](coding-tips/tips.md) | 196 |
+| [Coding Tips](coding-tips/tips.md) | 197 |
 | [Language Notes](languages/notes.md) | 139 |
 
 ## Latest additions
 
+- **2026-10-15** · *Lobsters Picks* — [OpenFatigue  Open is the new closed](https://lobste.rs/s/plbei0/openfatigue_open_is_new_closed)
 - **2026-10-15** · *Models & Datasets* — [stabilityai/stable-diffusion-xl-base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)
 - **2026-10-15** · *C++* — [Cling: An Interactive C++ interpreter](https://news.ycombinator.com/item?id=11748147)
 - **2026-10-15** · *Research Papers* — [How Low Can You Go: Fine-Tuning LLMs with Bayesian Opti](http://arxiv.org/abs/2610.18504v1)
 - **2026-10-15** · *JavaScript* — [Two Tiny Utils for the Result Pattern](https://lobste.rs/s/8csfoa/two_tiny_utils_for_result_pattern)
-- **2026-10-14** · *Elixir* — [Atom Exhaustion Is Not a Footgun. It's One Third of Our](https://lobste.rs/s/lfusbg/atom_exhaustion_is_not_footgun_it_s_one)
 
 ## How it works
 

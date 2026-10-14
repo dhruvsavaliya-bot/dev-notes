@@ -1804,3 +1804,13 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/1zpy4w/sqlite_db_simple_process_reliable_fast
 - **Link:** https://binaryigor.com/sqlite-db-simple-in-process-reliable-fast.html
+
+**Added 2026-10-15**
+
+### [OpenFatigue™ — Open is the new closed](https://openfatigue.ai/)
+- **Source:** openfatigue.ai | **Posted:** 2026-10-14 | **By:** kngl
+- **Community:** 20 score, 2 comments on Lobsters
+- **Tags:** ai, satire, vibecoding
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/plbei0/openfatigue_open_is_new_closed
+- **Link:** https://openfatigue.ai/
