@@ -1485,3 +1485,13 @@ Lessons from building with LLMs.
 - **Abstract:** Recently, Morris et al. introduced TinyLoRA, a strategy for LLM fine-tuning which introduces arbitrarily few parameters, and demonstrated accuracy improvements using less than $10$ parameters rather than the ${\gtrsim 10,000}$ typically demanded by LoRA-based methods. However, that study continued to use gradient-based local search methods of the kind deployed for training multi-billion parameter LLMs in the first place. This article is predicated on the observation that, in the low dimensional ...
 - **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.18504v1
+
+**Added 2026-10-15**
+
+### [A Case Study in Assuring AI-Written Software](http://arxiv.org/abs/2610.08651v1)
+- **Authors:** Lindsey Ferris, Sierra Bonilla
+- **Published:** 2026-10-06 | **Primary category:** cs.SE
+- **Categories:** cs.SE, cs.AI, cs.MA
+- **Abstract:** Software-engineering agents can enable people without formal software training to build systems they could not otherwise implement and simultaneously can produce more code than even experts can meaningfully inspect. In both cases, exhaustive code review is not reliable as the sole basis for human control. We report a case study of a production healthcare platform built through coding agents and governed by an operator without formal software-engineering training. Over time, its workflow grew int...
+- **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.08651v1
