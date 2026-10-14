@@ -281,6 +281,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=26344358
 - **Link:** https://help.duckduckgo.com/duckduckgo-help-pages/features/non-javascript/
 
+**Added 2026-10-14**
+
+### [Kotlin vs. Java](https://www.kotlinvsjava.com)
+- **Source:** www.kotlinvsjava.com | **Posted:** 2019-12-16 | **By:** driver733
+- **Community:** 305 points, 321 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=21807233
+- **Link:** https://www.kotlinvsjava.com
+
 
 ## TypeScript
 

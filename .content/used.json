@@ -590,6 +590,7 @@
     "https://news.ycombinator.com/item?id=19209957",
     "https://news.ycombinator.com/item?id=20854214",
     "https://news.ycombinator.com/item?id=21611677",
+    "https://news.ycombinator.com/item?id=21807233",
     "https://news.ycombinator.com/item?id=22279051",
     "https://news.ycombinator.com/item?id=23361987",
     "https://news.ycombinator.com/item?id=23658721",
@@ -908,12 +909,6 @@
   "recent": [
     {
       "date": "2026-10-14",
-      "subcat": "Elixir",
-      "title": "How do I write Elixir tests?",
-      "url": "https://lobste.rs/s/4xgljh/how_do_i_write_elixir_tests"
-    },
-    {
-      "date": "2026-10-14",
       "subcat": "Research Papers",
       "title": "Validating direct solvers for Newton's gravitational N-",
       "url": "http://arxiv.org/abs/2608.17032v1"
@@ -965,6 +960,12 @@
       "subcat": "Research Papers",
       "title": "Characterizing Overconfident Failure in LLM-Based Code",
       "url": "http://arxiv.org/abs/2610.11300v1"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "Java",
+      "title": "Kotlin vs. Java",
+      "url": "https://news.ycombinator.com/item?id=21807233"
     }
   ]
 }
