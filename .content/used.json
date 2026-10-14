@@ -227,6 +227,7 @@
     "https://github.com/Nanako0129/sepia",
     "https://github.com/NandhaKishorM/laya",
     "https://github.com/Niko1221/Strata",
+    "https://github.com/NomaDamas/k-skill",
     "https://github.com/OpenNHP/opennhp",
     "https://github.com/Optiscaler-Client/Optiscaler-Client",
     "https://github.com/Player-YN/BrowserKitten",
@@ -909,12 +910,6 @@
   "recent": [
     {
       "date": "2026-10-14",
-      "subcat": "Research Papers",
-      "title": "Validating direct solvers for Newton's gravitational N-",
-      "url": "http://arxiv.org/abs/2608.17032v1"
-    },
-    {
-      "date": "2026-10-14",
       "subcat": "C++",
       "title": "0xShug0/audio.cpp",
       "url": "https://github.com/0xShug0/audio.cpp"
@@ -966,6 +961,12 @@
       "subcat": "Java",
       "title": "Kotlin vs. Java",
       "url": "https://news.ycombinator.com/item?id=21807233"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "JavaScript",
+      "title": "NomaDamas/k-skill",
+      "url": "https://github.com/NomaDamas/k-skill"
     }
   ]
 }

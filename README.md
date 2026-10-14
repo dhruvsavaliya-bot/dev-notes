@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**898 entries and counting** · Last updated: 2026-10-14
+**899 entries and counting** · Last updated: 2026-10-14
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 154 |
 | [Reading List](articles/reading-list.md) | 196 |
 | [Coding Tips](coding-tips/tips.md) | 195 |
-| [Language Notes](languages/notes.md) | 133 |
+| [Language Notes](languages/notes.md) | 134 |
 
 ## Latest additions
 
+- **2026-10-14** · *JavaScript* — [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill)
 - **2026-10-14** · *Java* — [Kotlin vs. Java](https://news.ycombinator.com/item?id=21807233)
 - **2026-10-14** · *Research Papers* — [Characterizing Overconfident Failure in LLM-Based Code](http://arxiv.org/abs/2610.11300v1)
 - **2026-10-14** · *Research Papers* — [SolBehave: Evaluating the Behavioural Correctness of LL](http://arxiv.org/abs/2610.18745v1)
 - **2026-10-14** · *Ruby* — [Living in the Weimar era of Ruby](https://lobste.rs/s/lfen2h/living_weimar_era_ruby)
-- **2026-10-14** · *Research Papers* — [GAMW: Generation-Aware Mel-Domain Watermarking for TTS](http://arxiv.org/abs/2610.15082v1)
 
 ## How it works
 

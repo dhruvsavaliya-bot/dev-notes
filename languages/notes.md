@@ -290,6 +290,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=21807233
 - **Link:** https://www.kotlinvsjava.com
 
+**Added 2026-10-14**
+
+### [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill)
+- **Stats:** 7,913 stars | 967 forks | 62 open issues
+- **Language:** JavaScript | **Created:** 2026-03-24 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로
+- **Growth:** averaging ~38 stars/day since launch.
+- **Link:** https://github.com/NomaDamas/k-skill
+
 
 ## TypeScript
 
