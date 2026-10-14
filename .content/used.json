@@ -511,6 +511,7 @@
     "https://lobste.rs/s/6syfar/what_if_my_git_host_were_static_site",
     "https://lobste.rs/s/6vjx1k/how_shredding_json_is_giving_logfire",
     "https://lobste.rs/s/7faqgg/claude_says",
+    "https://lobste.rs/s/8csfoa/two_tiny_utils_for_result_pattern",
     "https://lobste.rs/s/98zvnf/tests_for_pdf",
     "https://lobste.rs/s/9ipypq/updates_full_disk_access_macos",
     "https://lobste.rs/s/9qtgrm/margaret_hamilton_computing_pioneer_who",
@@ -920,12 +921,6 @@
   "recent": [
     {
       "date": "2026-10-14",
-      "subcat": "Models & Datasets",
-      "title": "Maxwell-Jia/AIME_2024",
-      "url": "https://huggingface.co/datasets/Maxwell-Jia/AIME_2024"
-    },
-    {
-      "date": "2026-10-14",
       "subcat": "Lobsters Picks",
       "title": "The reverts will continue until morale improves",
       "url": "https://lobste.rs/s/aasanp/reverts_will_continue_until_morale"
@@ -977,6 +972,12 @@
       "subcat": "Elixir",
       "title": "Atom Exhaustion Is Not a Footgun. It's One Third of Our",
       "url": "https://lobste.rs/s/lfusbg/atom_exhaustion_is_not_footgun_it_s_one"
+    },
+    {
+      "date": "2026-10-15",
+      "subcat": "JavaScript",
+      "title": "Two Tiny Utils for the Result Pattern",
+      "url": "https://lobste.rs/s/8csfoa/two_tiny_utils_for_result_pattern"
     }
   ]
 }

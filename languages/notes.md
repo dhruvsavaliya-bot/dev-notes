@@ -300,6 +300,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~38 stars/day since launch.
 - **Link:** https://github.com/NomaDamas/k-skill
 
+**Added 2026-10-15**
+
+### [Two Tiny Utils for the Result Pattern](https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern)
+- **Source:** daviddalbusco.com | **Posted:** 2026-09-07 | **By:** confusedalex
+- **Community:** 17 score, 11 comments on Lobsters
+- **Tags:** javascript
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/8csfoa/two_tiny_utils_for_result_pattern
+- **Link:** https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern
+
 
 ## TypeScript
 
