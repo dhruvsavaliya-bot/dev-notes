@@ -1418,3 +1418,13 @@ Lessons from building with LLMs.
 - **Abstract:** As text-to-speech (TTS) systems continue to advance, provenance tracking and security verification of synthesized speech have become increasingly important. Audio watermarking provides active provenance by embedding imperceptible, machine-recoverable information into speech. However, existing post-hoc methods typically modify the waveform after synthesis, leaving the watermark vulnerable to compound perturbations. To address this limitation, we propose GAMW, a watermark injection framework integ...
 - **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.15082v1
+
+**Added 2026-10-14**
+
+### [SolBehave: Evaluating the Behavioural Correctness of LLM-Generated Smart Contracts](http://arxiv.org/abs/2610.18745v1)
+- **Authors:** Giovanni Pio Delvecchio, Stefano Fantazzini, Giacomo Frisoni, Gianluca Moro et al.
+- **Published:** 2026-10-13 | **Primary category:** cs.AI
+- **Categories:** cs.SE, cs.AI
+- **Abstract:** Large language models increasingly generate Solidity smart contracts that, once deployed, can never be patched, making a single latent fault permanent and exploitable. Yet current evaluations mostly ask only whether generated code compiles. We introduce SolBehave, a benchmark for evaluating the correctness of model-generated contracts at scale, moving beyond ad hoc unit tests. Across 250 real, reproducible Ethereum contracts, we apply three complementary tests of behavioural fidelity: differenti...
+- **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.18745v1

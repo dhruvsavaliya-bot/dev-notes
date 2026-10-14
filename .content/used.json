@@ -40,6 +40,7 @@
     "http://arxiv.org/abs/2610.13300v1",
     "http://arxiv.org/abs/2610.13407v1",
     "http://arxiv.org/abs/2610.15082v1",
+    "http://arxiv.org/abs/2610.18745v1",
     "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
     "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
     "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag",
@@ -906,12 +907,6 @@
   "recent": [
     {
       "date": "2026-10-14",
-      "subcat": "Models & Datasets",
-      "title": "lmsys/chatbot_arena_conversations",
-      "url": "https://huggingface.co/datasets/lmsys/chatbot_arena_conversations"
-    },
-    {
-      "date": "2026-10-14",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: What is your ChatGPT customization prompt?",
       "url": "https://news.ycombinator.com/item?id=40474716"
@@ -963,6 +958,12 @@
       "subcat": "Ruby",
       "title": "Living in the Weimar era of Ruby",
       "url": "https://lobste.rs/s/lfen2h/living_weimar_era_ruby"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "Research Papers",
+      "title": "SolBehave: Evaluating the Behavioural Correctness of LL",
+      "url": "http://arxiv.org/abs/2610.18745v1"
     }
   ]
 }
