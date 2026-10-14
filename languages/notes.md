@@ -1067,6 +1067,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/pioj21/performance_cost_rwlock_our_read_heavy
 - **Link:** https://pranitha.dev/posts/rwlock-vs-lockfree/
 
+**Added 2026-10-14**
+
+### [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome)
+- **Source:** developer.chrome.com | **Posted:** 2026-10-07 | **By:** videah
+- **Community:** 30 score, 14 comments on Lobsters
+- **Tags:** browsers, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/hccdqa/shipping_jpeg_xl_chrome
+- **Link:** https://developer.chrome.com/blog/jpeg-xl-in-chrome
+
 
 ## Elixir
 

@@ -512,6 +512,7 @@
     "https://lobste.rs/s/eesu8d/bun_1_4",
     "https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow",
     "https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait",
+    "https://lobste.rs/s/hccdqa/shipping_jpeg_xl_chrome",
     "https://lobste.rs/s/iii8sl/micro_language_implementation_calcium",
     "https://lobste.rs/s/ily7as/programming_isn_t_special",
     "https://lobste.rs/s/imdwmj/pandas_should_go_extinct",
@@ -892,12 +893,6 @@
   "recent": [
     {
       "date": "2026-10-13",
-      "subcat": "Go",
-      "title": "Don't couple your Go code to GitHub",
-      "url": "https://lobste.rs/s/e5vf6k/don_t_couple_your_go_code_github"
-    },
-    {
-      "date": "2026-10-13",
       "subcat": "Java",
       "title": "DuckDuckGo  two non-JavaScript versions of search resul",
       "url": "https://news.ycombinator.com/item?id=26344358"
@@ -949,6 +944,12 @@
       "subcat": "SQL & Databases",
       "title": "CryptDB  A database system that can process SQL queries",
       "url": "https://news.ycombinator.com/item?id=10225438"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "Rust",
+      "title": "Shipping JPEG XL in Chrome",
+      "url": "https://lobste.rs/s/hccdqa/shipping_jpeg_xl_chrome"
     }
   ]
 }
