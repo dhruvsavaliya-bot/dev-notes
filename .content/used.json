@@ -514,6 +514,7 @@
     "https://lobste.rs/s/ceuque/debian_code_search_fast_turbopfor_with_go",
     "https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit",
     "https://lobste.rs/s/dpfpr3/goroutine_leak_profiles",
+    "https://lobste.rs/s/dzvt0w/type_inference_all_constructs_next_15",
     "https://lobste.rs/s/e5vf6k/don_t_couple_your_go_code_github",
     "https://lobste.rs/s/ecxril/lineageos_24_0_released",
     "https://lobste.rs/s/eesu8d/bun_1_4",
@@ -901,12 +902,6 @@
   "recent": [
     {
       "date": "2026-10-14",
-      "subcat": "SQL & Databases",
-      "title": "CryptDB  A database system that can process SQL queries",
-      "url": "https://news.ycombinator.com/item?id=10225438"
-    },
-    {
-      "date": "2026-10-14",
       "subcat": "Rust",
       "title": "Shipping JPEG XL in Chrome",
       "url": "https://lobste.rs/s/hccdqa/shipping_jpeg_xl_chrome"
@@ -958,6 +953,12 @@
       "subcat": "C++",
       "title": "0xShug0/audio.cpp",
       "url": "https://github.com/0xShug0/audio.cpp"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "Elixir",
+      "title": "Type inference of all constructs and the next 15 months",
+      "url": "https://lobste.rs/s/dzvt0w/type_inference_all_constructs_next_15"
     }
   ]
 }

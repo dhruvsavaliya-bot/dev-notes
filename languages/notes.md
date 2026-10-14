@@ -1130,6 +1130,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/4xgljh/how_do_i_write_elixir_tests
 - **Link:** https://hauleth.dev/post/writing-tests/
 
+**Added 2026-10-14**
+
+### [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/)
+- **Source:** elixir-lang.org | **Posted:** 2026-01-10 | **By:** adaszko
+- **Community:** 24 score, 3 comments on Lobsters
+- **Tags:** elixir
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/dzvt0w/type_inference_all_constructs_next_15
+- **Link:** https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/
+
 
 ## C#
 
