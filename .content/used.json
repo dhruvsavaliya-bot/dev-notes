@@ -248,6 +248,7 @@
     "https://github.com/TencentCloud/CubeSandbox",
     "https://github.com/TheoLeeCJ/SemIf",
     "https://github.com/TheoLeeCJ/SemIf-OpenJev",
+    "https://github.com/Tianyu199509/DeskBox",
     "https://github.com/TianyuCodings/NanoJev",
     "https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6",
     "https://github.com/ToolJet/ToolJet",
@@ -912,12 +913,6 @@
   "recent": [
     {
       "date": "2026-10-14",
-      "subcat": "AI Engineering",
-      "title": "Where we're going, we don't need chatbots: introducing",
-      "url": "https://dev.to/googleai/where-were-going-we-dont-need-chatbots-introducing-the-antigravity-ide-2c3k"
-    },
-    {
-      "date": "2026-10-14",
       "subcat": "Hacker News Picks",
       "title": "MIT class project turns into an FDA-cleared treatment f",
       "url": "https://news.ycombinator.com/item?id=50061659"
@@ -969,6 +964,12 @@
       "subcat": "Lobsters Picks",
       "title": "The reverts will continue until morale improves",
       "url": "https://lobste.rs/s/aasanp/reverts_will_continue_until_morale"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "C#",
+      "title": "Tianyu199509/DeskBox",
+      "url": "https://github.com/Tianyu199509/DeskBox"
     }
   ]
 }

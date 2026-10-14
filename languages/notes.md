@@ -1202,6 +1202,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~4 stars/day since launch.
 - **Link:** https://github.com/MikuLeaks/MikuSB
 
+**Added 2026-10-14**
+
+### [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox)
+- **Stats:** 6,894 stars | 362 forks | 86 open issues
+- **Language:** C# | **Created:** 2026-06-11 | **License:** GPL-3.0
+- **Topics:** desktop-cleanup, desktop-organizer, desktop-widget, desktop-widgets, dotnet10, file-management
+- **What it is:** A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
+- **Growth:** averaging ~55 stars/day since launch.
+- **Link:** https://github.com/Tianyu199509/DeskBox
+
 
 ## C++
 
