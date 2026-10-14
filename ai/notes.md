@@ -411,6 +411,15 @@ Lessons from building with LLMs.
 - **Summary:** I built a synthetic multi-agent loan crew on Amazon Bedrock and made Traccia hard-block a runaway agent, redact applicant PII across every sub-agent, and export EU AI Act audit evidence. Two of my three governance policies blocked nothing - and not because I misconfigured them. Why is the useful part.
 - **Link:** https://dev.to/aws-builders/ai-agent-governance-on-aws-block-agents-prove-eu-ai-act-compliance-1829
 
+**Added 2026-10-14**
+
+### [Where we're going, we don't need chatbots: introducing the Antigravity IDE 🚀](https://dev.to/googleai/where-were-going-we-dont-need-chatbots-introducing-the-antigravity-ide-2c3k)
+- **Author:** Paige Bailey | **Published:** Dec 23 '25 | **Read time:** 3 min
+- **Community:** 58 reactions, 13 comments -- a top post in #ai
+- **Tags:** programming, ai, productivity, webdev
+- **Summary:** Lately, I’ve been living in a new world—specifically, a world called Antigravity. It’s the...
+- **Link:** https://dev.to/googleai/where-were-going-we-dont-need-chatbots-introducing-the-antigravity-ide-2c3k
+
 
 ## LLMs
 

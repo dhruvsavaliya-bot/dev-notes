@@ -71,6 +71,7 @@
     "https://dev.to/francistrdev/networking-is-hard-but-easy-to-think-about-dc1",
     "https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd",
     "https://dev.to/georgekobaidze/vibe-coding-isnt-the-problem-calling-it-engineering-is-lm1",
+    "https://dev.to/googleai/where-were-going-we-dont-need-chatbots-introducing-the-antigravity-ide-2c3k",
     "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i",
     "https://dev.to/gramli/api-performance-testing-how-to-design-realistic-tests-59gn",
     "https://dev.to/gramli/how-ai-endpoints-change-the-traditional-api-flow-3773",
@@ -902,12 +903,6 @@
   "recent": [
     {
       "date": "2026-10-14",
-      "subcat": "Rust",
-      "title": "Shipping JPEG XL in Chrome",
-      "url": "https://lobste.rs/s/hccdqa/shipping_jpeg_xl_chrome"
-    },
-    {
-      "date": "2026-10-14",
       "subcat": "Models & Datasets",
       "title": "cross-encoder/ms-marco-MiniLM-L12-v2",
       "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L12-v2"
@@ -959,6 +954,12 @@
       "subcat": "Elixir",
       "title": "Type inference of all constructs and the next 15 months",
       "url": "https://lobste.rs/s/dzvt0w/type_inference_all_constructs_next_15"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "AI Engineering",
+      "title": "Where we're going, we don't need chatbots: introducing",
+      "url": "https://dev.to/googleai/where-were-going-we-dont-need-chatbots-introducing-the-antigravity-ide-2c3k"
     }
   ]
 }
