@@ -615,6 +615,7 @@
     "https://news.ycombinator.com/item?id=4029427",
     "https://news.ycombinator.com/item?id=40456236",
     "https://news.ycombinator.com/item?id=40457229",
+    "https://news.ycombinator.com/item?id=40474716",
     "https://news.ycombinator.com/item?id=41586031",
     "https://news.ycombinator.com/item?id=4166183",
     "https://news.ycombinator.com/item?id=42284412",
@@ -897,12 +898,6 @@
   "recent": [
     {
       "date": "2026-10-14",
-      "subcat": "Models & Datasets",
-      "title": "open-r1/codeforces-cots",
-      "url": "https://huggingface.co/datasets/open-r1/codeforces-cots"
-    },
-    {
-      "date": "2026-10-14",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: What's the best resource for learning modern x6",
       "url": "https://news.ycombinator.com/item?id=22279051"
@@ -954,6 +949,12 @@
       "subcat": "Models & Datasets",
       "title": "lmsys/chatbot_arena_conversations",
       "url": "https://huggingface.co/datasets/lmsys/chatbot_arena_conversations"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: What is your ChatGPT customization prompt?",
+      "url": "https://news.ycombinator.com/item?id=40474716"
     }
   ]
 }

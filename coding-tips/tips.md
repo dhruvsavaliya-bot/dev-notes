@@ -1624,6 +1624,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=22279051
 - **Link:** https://news.ycombinator.com/item?id=22279051
 
+**Added 2026-10-14**
+
+### [Ask HN: What is your ChatGPT customization prompt?](https://news.ycombinator.com/item?id=40474716)
+- **Source:** news.ycombinator.com | **Posted:** 2024-05-25 | **By:** dinkleberg
+- **Community:** 694 points, 293 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=40474716
+- **Link:** https://news.ycombinator.com/item?id=40474716
+
 
 ## Git & Workflow
 
