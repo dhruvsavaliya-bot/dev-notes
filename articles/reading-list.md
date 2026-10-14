@@ -1532,6 +1532,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=43794284
 - **Link:** https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos
 
+**Added 2026-10-14**
+
+### [MIT class project turns into an FDA-cleared treatment for tremors](https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002)
+- **Source:** news.mit.edu | **Posted:** 2026-10-12 | **By:** zdw
+- **Community:** 195 points, 39 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50061659
+- **Link:** https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002
+
 
 ## DevOps & Cloud
 

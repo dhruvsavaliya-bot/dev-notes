@@ -895,18 +895,13 @@
     "https://news.ycombinator.com/item?id=50000488",
     "https://news.ycombinator.com/item?id=50006832",
     "https://news.ycombinator.com/item?id=50009295",
+    "https://news.ycombinator.com/item?id=50061659",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6821576",
     "https://news.ycombinator.com/item?id=7185024",
     "https://news.ycombinator.com/item?id=9962185"
   ],
   "recent": [
-    {
-      "date": "2026-10-14",
-      "subcat": "Models & Datasets",
-      "title": "cross-encoder/ms-marco-MiniLM-L12-v2",
-      "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L12-v2"
-    },
     {
       "date": "2026-10-14",
       "subcat": "Lobsters Picks",
@@ -960,6 +955,12 @@
       "subcat": "AI Engineering",
       "title": "Where we're going, we don't need chatbots: introducing",
       "url": "https://dev.to/googleai/where-were-going-we-dont-need-chatbots-introducing-the-antigravity-ide-2c3k"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "Hacker News Picks",
+      "title": "MIT class project turns into an FDA-cleared treatment f",
+      "url": "https://news.ycombinator.com/item?id=50061659"
     }
   ]
 }
