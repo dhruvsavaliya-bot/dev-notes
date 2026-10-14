@@ -2215,3 +2215,13 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - **Growth:** averaging ~4 stars/day since launch.
 - **Link:** https://github.com/trinodb/trino
+
+**Added 2026-10-14**
+
+### [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
+- **Stats:** 2,067 stars | 187 forks | 33 open issues
+- **Language:** Go | **Created:** 2019-05-16 | **License:** Apache-2.0
+- **Topics:** cloud-computing, embedded, golang, hacktoberfest, iot, linux
+- **What it is:** :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
+- **Growth:** averaging ~0 stars/day since launch.
+- **Link:** https://github.com/shellhub-io/shellhub
