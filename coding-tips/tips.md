@@ -1775,3 +1775,13 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without
 - **Link:** https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/
+
+**Added 2026-10-14**
+
+### [FreeBSD Status Report 2023 Q2](https://www.freebsd.org/status/report-2023-04-2023-06/)
+- **Source:** www.freebsd.org | **Posted:** 2023-07-27 | **By:** vermaden
+- **Community:** 20 score, 1 comments on Lobsters
+- **Tags:** freebsd
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/and6ld/freebsd_status_report_2023_q2
+- **Link:** https://www.freebsd.org/status/report-2023-04-2023-06/

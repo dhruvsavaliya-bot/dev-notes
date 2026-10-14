@@ -500,6 +500,7 @@
     "https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th",
     "https://lobste.rs/s/9wcfld/how_big_is_git_commit",
     "https://lobste.rs/s/9yyxpk/let_s_make_worst_htmx_ever",
+    "https://lobste.rs/s/and6ld/freebsd_status_report_2023_q2",
     "https://lobste.rs/s/ap9w8i/when_str_lower_is_security_vulnerability",
     "https://lobste.rs/s/bag41j/hanami_why_introductions",
     "https://lobste.rs/s/bcfzer/hacking_nameof",
@@ -894,12 +895,6 @@
   "recent": [
     {
       "date": "2026-10-14",
-      "subcat": "Models & Datasets",
-      "title": "fka/prompts.chat",
-      "url": "https://huggingface.co/datasets/fka/prompts.chat"
-    },
-    {
-      "date": "2026-10-14",
       "subcat": "Lobsters Picks",
       "title": "Did Ente Locker copy my code without attribution?",
       "url": "https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without"
@@ -951,6 +946,12 @@
       "subcat": "Models & Datasets",
       "title": "cross-encoder/ms-marco-MiniLM-L12-v2",
       "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L12-v2"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "Lobsters Picks",
+      "title": "FreeBSD Status Report 2023 Q2",
+      "url": "https://lobste.rs/s/and6ld/freebsd_status_report_2023_q2"
     }
   ]
 }

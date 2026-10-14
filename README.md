@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**883 entries and counting** · Last updated: 2026-10-14
+**884 entries and counting** · Last updated: 2026-10-14
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 219 |
 | [AI / LLM Notes](ai/notes.md) | 148 |
 | [Reading List](articles/reading-list.md) | 195 |
-| [Coding Tips](coding-tips/tips.md) | 193 |
+| [Coding Tips](coding-tips/tips.md) | 194 |
 | [Language Notes](languages/notes.md) | 128 |
 
 ## Latest additions
 
+- **2026-10-14** · *Lobsters Picks* — [FreeBSD Status Report 2023 Q2](https://lobste.rs/s/and6ld/freebsd_status_report_2023_q2)
 - **2026-10-14** · *Models & Datasets* — [cross-encoder/ms-marco-MiniLM-L12-v2](https://huggingface.co/cross-encoder/ms-marco-MiniLM-L12-v2)
 - **2026-10-14** · *Rust* — [Shipping JPEG XL in Chrome](https://lobste.rs/s/hccdqa/shipping_jpeg_xl_chrome)
 - **2026-10-14** · *SQL & Databases* — [CryptDB  A database system that can process SQL queries](https://news.ycombinator.com/item?id=10225438)
 - **2026-10-14** · *Other Cool Projects* — [EpicGames/lore](https://github.com/EpicGames/lore)
-- **2026-10-14** · *Hacker News Picks* — [A $20k American-made electric pickup with no paint, no](https://news.ycombinator.com/item?id=43794284)
 
 ## How it works
 
