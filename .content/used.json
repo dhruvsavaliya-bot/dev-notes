@@ -35,6 +35,7 @@
     "http://arxiv.org/abs/2610.08077v2",
     "http://arxiv.org/abs/2610.09825v1",
     "http://arxiv.org/abs/2610.10150v1",
+    "http://arxiv.org/abs/2610.11300v1",
     "http://arxiv.org/abs/2610.11875v1",
     "http://arxiv.org/abs/2610.13298v1",
     "http://arxiv.org/abs/2610.13300v1",
@@ -907,12 +908,6 @@
   "recent": [
     {
       "date": "2026-10-14",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: What is your ChatGPT customization prompt?",
-      "url": "https://news.ycombinator.com/item?id=40474716"
-    },
-    {
-      "date": "2026-10-14",
       "subcat": "Elixir",
       "title": "How do I write Elixir tests?",
       "url": "https://lobste.rs/s/4xgljh/how_do_i_write_elixir_tests"
@@ -964,6 +959,12 @@
       "subcat": "Research Papers",
       "title": "SolBehave: Evaluating the Behavioural Correctness of LL",
       "url": "http://arxiv.org/abs/2610.18745v1"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "Research Papers",
+      "title": "Characterizing Overconfident Failure in LLM-Based Code",
+      "url": "http://arxiv.org/abs/2610.11300v1"
     }
   ]
 }

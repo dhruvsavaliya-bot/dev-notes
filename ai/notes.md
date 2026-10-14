@@ -1428,3 +1428,13 @@ Lessons from building with LLMs.
 - **Abstract:** Large language models increasingly generate Solidity smart contracts that, once deployed, can never be patched, making a single latent fault permanent and exploitable. Yet current evaluations mostly ask only whether generated code compiles. We introduce SolBehave, a benchmark for evaluating the correctness of model-generated contracts at scale, moving beyond ad hoc unit tests. Across 250 real, reproducible Ethereum contracts, we apply three complementary tests of behavioural fidelity: differenti...
 - **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.18745v1
+
+**Added 2026-10-14**
+
+### [Characterizing Overconfident Failure in LLM-Based Code Generation](http://arxiv.org/abs/2610.11300v1)
+- **Authors:** Ravishka Rathnasuriya, Wei Yang
+- **Published:** 2026-10-08 | **Primary category:** cs.SE
+- **Categories:** cs.SE, cs.AI
+- **Abstract:** Large language models (LLMs) are increasingly used for automated code generation, but generated programs can appear syntactically plausible while still failing execution-based correctness checks. Existing validation methods, such as testing and program analysis, remain essential but are often incomplete, costly, or applied only after generation. Model-derived uncertainty is therefore a natural early reliability signal. This paper studies the dilemma of overconfidence in code LLMs where incorrect...
+- **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.11300v1
