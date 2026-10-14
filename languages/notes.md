@@ -1285,6 +1285,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~31 stars/day since launch.
 - **Link:** https://github.com/0xShug0/audio.cpp
 
+**Added 2026-10-15**
+
+### [Cling: An Interactive C++ interpreter](https://root.cern.ch/cling)
+- **Source:** root.cern.ch | **Posted:** 2016-05-22 | **By:** indatawetrust
+- **Community:** 202 points, 50 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=11748147
+- **Link:** https://root.cern.ch/cling
+
 
 ## SQL & Databases
 

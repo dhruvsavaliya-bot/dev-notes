@@ -584,6 +584,7 @@
     "https://news.ycombinator.com/item?id=10477721",
     "https://news.ycombinator.com/item?id=11068902",
     "https://news.ycombinator.com/item?id=11076390",
+    "https://news.ycombinator.com/item?id=11748147",
     "https://news.ycombinator.com/item?id=13426896",
     "https://news.ycombinator.com/item?id=13764728",
     "https://news.ycombinator.com/item?id=13849430",
@@ -922,12 +923,6 @@
   "recent": [
     {
       "date": "2026-10-14",
-      "subcat": "C#",
-      "title": "Tianyu199509/DeskBox",
-      "url": "https://github.com/Tianyu199509/DeskBox"
-    },
-    {
-      "date": "2026-10-14",
       "subcat": "Research Papers",
       "title": "Auditing Failure Attribution: Label Predictability and",
       "url": "http://arxiv.org/abs/2610.17747v1"
@@ -979,6 +974,12 @@
       "subcat": "Research Papers",
       "title": "How Low Can You Go: Fine-Tuning LLMs with Bayesian Opti",
       "url": "http://arxiv.org/abs/2610.18504v1"
+    },
+    {
+      "date": "2026-10-15",
+      "subcat": "C++",
+      "title": "Cling: An Interactive C++ interpreter",
+      "url": "https://news.ycombinator.com/item?id=11748147"
     }
   ]
 }
