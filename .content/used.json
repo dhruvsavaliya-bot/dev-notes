@@ -453,6 +453,7 @@
     "https://huggingface.co/datasets/google-research-datasets/mbpp",
     "https://huggingface.co/datasets/harborframework/terminal-bench-2.0",
     "https://huggingface.co/datasets/huggingface/badges",
+    "https://huggingface.co/datasets/lmsys/chatbot_arena_conversations",
     "https://huggingface.co/datasets/m-a-p/Matrix",
     "https://huggingface.co/datasets/markov-ai/computer-use-large",
     "https://huggingface.co/datasets/meta-math/MetaMathQA",
@@ -896,12 +897,6 @@
   "recent": [
     {
       "date": "2026-10-14",
-      "subcat": "SQL & Databases",
-      "title": "Show HN: We open sourced our entire text-to-SQL product",
-      "url": "https://news.ycombinator.com/item?id=40456236"
-    },
-    {
-      "date": "2026-10-14",
       "subcat": "Models & Datasets",
       "title": "open-r1/codeforces-cots",
       "url": "https://huggingface.co/datasets/open-r1/codeforces-cots"
@@ -953,6 +948,12 @@
       "subcat": "Developer Tools",
       "title": "ZigEmbeddedGroup/microzig",
       "url": "https://github.com/ZigEmbeddedGroup/microzig"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "Models & Datasets",
+      "title": "lmsys/chatbot_arena_conversations",
+      "url": "https://huggingface.co/datasets/lmsys/chatbot_arena_conversations"
     }
   ]
 }

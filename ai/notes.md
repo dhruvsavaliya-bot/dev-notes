@@ -1058,6 +1058,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/cross-encoder/ms-marco-MiniLM-L12-v2
 
+**Added 2026-10-14**
+
+### [lmsys/chatbot_arena_conversations](https://huggingface.co/datasets/lmsys/chatbot_arena_conversations)
+- **Stats:** 496 likes | 1,729 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2023-07-18
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/lmsys/chatbot_arena_conversations
+
 
 ## Research Papers
 
