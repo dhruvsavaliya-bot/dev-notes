@@ -531,6 +531,7 @@
     "https://lobste.rs/s/jlja1a/jdk_27_has_been_released",
     "https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this",
     "https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think",
+    "https://lobste.rs/s/lfen2h/living_weimar_era_ruby",
     "https://lobste.rs/s/lgdxtw/c_for_rust_programmers",
     "https://lobste.rs/s/lxo74i/introducing_microlighter",
     "https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution",
@@ -905,12 +906,6 @@
   "recent": [
     {
       "date": "2026-10-14",
-      "subcat": "Developer Tools",
-      "title": "ZigEmbeddedGroup/microzig",
-      "url": "https://github.com/ZigEmbeddedGroup/microzig"
-    },
-    {
-      "date": "2026-10-14",
       "subcat": "Models & Datasets",
       "title": "lmsys/chatbot_arena_conversations",
       "url": "https://huggingface.co/datasets/lmsys/chatbot_arena_conversations"
@@ -962,6 +957,12 @@
       "subcat": "Research Papers",
       "title": "GAMW: Generation-Aware Mel-Domain Watermarking for TTS",
       "url": "http://arxiv.org/abs/2610.15082v1"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "Ruby",
+      "title": "Living in the Weimar era of Ruby",
+      "url": "https://lobste.rs/s/lfen2h/living_weimar_era_ruby"
     }
   ]
 }

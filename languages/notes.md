@@ -905,6 +905,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=6821576
 - **Link:** http://learn-rails.com/download-offer.html
 
+**Added 2026-10-14**
+
+### [Living in the Weimar era of Ruby](https://blog.julik.nl/2026/10/the-weimar-of-ruby)
+- **Source:** blog.julik.nl | **Posted:** 2026-10-12 | **By:** julik
+- **Community:** 58 score, 34 comments on Lobsters
+- **Tags:** ruby, vibecoding
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/lfen2h/living_weimar_era_ruby
+- **Link:** https://blog.julik.nl/2026/10/the-weimar-of-ruby
+
 
 ## Swift
 
