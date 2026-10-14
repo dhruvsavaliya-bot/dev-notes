@@ -1887,6 +1887,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~61 stars/day since launch.
 - **Link:** https://github.com/EpicGames/lore
 
+**Added 2026-10-15**
+
+### [AndroidCSIDE/ACSIDE](https://github.com/AndroidCSIDE/ACSIDE)
+- **Stats:** 318 stars | 14 forks | 14 open issues
+- **Language:** Kotlin | **Created:** 2026-03-15 | **License:** None
+- **Topics:** android, android-app, android-application, android-ide, android-studio, development
+- **What it is:** AndroidCS IDE is a full-featured development environment designed for creating and managing all types of Android projects directly on-device or on lightweight systems. It provides a powerful yet efficient workflow for developers who want a complete Android development experience without the heavy requirements of traditional IDEs.
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/AndroidCSIDE/ACSIDE
+
 
 ## Web & Frontend
 
