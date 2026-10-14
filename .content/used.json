@@ -494,6 +494,7 @@
     "https://huggingface.co/tencent/Hunyuan3D-2.1",
     "https://huggingface.co/tencent/Hy3",
     "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
+    "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
     "https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base",
     "https://huggingface.co/zai-org/GLM-5.3-Flash",
     "https://huggingface.co/zai-org/chatglm3-6b",
@@ -915,12 +916,6 @@
   "recent": [
     {
       "date": "2026-10-14",
-      "subcat": "Ruby",
-      "title": "Living in the Weimar era of Ruby",
-      "url": "https://lobste.rs/s/lfen2h/living_weimar_era_ruby"
-    },
-    {
-      "date": "2026-10-14",
       "subcat": "Research Papers",
       "title": "SolBehave: Evaluating the Behavioural Correctness of LL",
       "url": "http://arxiv.org/abs/2610.18745v1"
@@ -972,6 +967,12 @@
       "subcat": "Elixir",
       "title": "Guards! Guards",
       "url": "https://lobste.rs/s/b2emi7/guards_guards"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "Models & Datasets",
+      "title": "unsloth/Qwen3.8-27B-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF"
     }
   ]
 }

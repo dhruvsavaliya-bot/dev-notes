@@ -1085,6 +1085,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/Maxwell-Jia/AIME_2024
 
+**Added 2026-10-14**
+
+### [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)
+- **Stats:** 5,085 likes | 6,634,241 downloads
+- **Kind:** Hugging Face model | **Task:** n/a | **Created:** 2026-08-13
+- **Tags:** gguf, qwen3_5, unsloth, endpoints_compatible, imatrix, conversational
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/unsloth/Qwen3.8-27B-GGUF
+
 
 ## Research Papers
 
