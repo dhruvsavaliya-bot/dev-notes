@@ -436,6 +436,7 @@
     "https://huggingface.co/Qwen/Qwen3.6-27B",
     "https://huggingface.co/almanach/camembert-base",
     "https://huggingface.co/bytedance-research/Lance",
+    "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L12-v2",
     "https://huggingface.co/datasets/ACERobotics/ACE-Data-0",
     "https://huggingface.co/datasets/Anthropic/claude-protein-binder-design",
     "https://huggingface.co/datasets/FlyRank/internship-warehouse",
@@ -892,12 +893,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-13",
-      "subcat": "Java",
-      "title": "DuckDuckGo  two non-JavaScript versions of search resul",
-      "url": "https://news.ycombinator.com/item?id=26344358"
-    },
-    {
       "date": "2026-10-14",
       "subcat": "Models & Datasets",
       "title": "fka/prompts.chat",
@@ -950,6 +945,12 @@
       "subcat": "Rust",
       "title": "Shipping JPEG XL in Chrome",
       "url": "https://lobste.rs/s/hccdqa/shipping_jpeg_xl_chrome"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "Models & Datasets",
+      "title": "cross-encoder/ms-marco-MiniLM-L12-v2",
+      "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L12-v2"
     }
   ]
 }

@@ -1049,6 +1049,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/open-r1/codeforces-cots
 
+**Added 2026-10-14**
+
+### [cross-encoder/ms-marco-MiniLM-L12-v2](https://huggingface.co/cross-encoder/ms-marco-MiniLM-L12-v2)
+- **Stats:** 119 likes | 2,077,388 downloads
+- **Kind:** Hugging Face model | **Task:** text-ranking | **Created:** 2022-03-02
+- **Tags:** sentence-transformers, pytorch, jax, onnx, safetensors, openvino
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/cross-encoder/ms-marco-MiniLM-L12-v2
+
 
 ## Research Papers
 
