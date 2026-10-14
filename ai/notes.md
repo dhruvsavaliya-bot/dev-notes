@@ -1466,3 +1466,13 @@ Lessons from building with LLMs.
 - **Abstract:** Failure-attribution benchmarks ask an LLM judge which step or agent caused a failure. A high score should mean the judge checked the faulty step against the run (a cross-step check). However, spurious signals (surface cues) that predict the annotation can produce a high score. In this paper, we propose four tests to separate checking from cue use. Input restriction asks whether partial input predicts the annotation. Cue following checks whether moved cues change answers. Residual accuracy scores...
 - **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.17747v1
+
+**Added 2026-10-15**
+
+### [How Low Can You Go: Fine-Tuning LLMs with Bayesian Optimization (LlMBO)](http://arxiv.org/abs/2610.18504v1)
+- **Authors:** Aditya Kulkarni, Davide Sartor, Carlos Soto, Nathan Wycoff
+- **Published:** 2026-10-13 | **Primary category:** cs.LG
+- **Categories:** stat.ML, cs.LG, stat.ME
+- **Abstract:** Recently, Morris et al. introduced TinyLoRA, a strategy for LLM fine-tuning which introduces arbitrarily few parameters, and demonstrated accuracy improvements using less than $10$ parameters rather than the ${\gtrsim 10,000}$ typically demanded by LoRA-based methods. However, that study continued to use gradient-based local search methods of the kind deployed for training multi-billion parameter LLMs in the first place. This article is predicated on the observation that, in the low dimensional ...
+- **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.18504v1

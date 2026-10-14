@@ -42,6 +42,7 @@
     "http://arxiv.org/abs/2610.13407v1",
     "http://arxiv.org/abs/2610.15082v1",
     "http://arxiv.org/abs/2610.17747v1",
+    "http://arxiv.org/abs/2610.18504v1",
     "http://arxiv.org/abs/2610.18745v1",
     "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
     "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
@@ -921,12 +922,6 @@
   "recent": [
     {
       "date": "2026-10-14",
-      "subcat": "Lobsters Picks",
-      "title": "The reverts will continue until morale improves",
-      "url": "https://lobste.rs/s/aasanp/reverts_will_continue_until_morale"
-    },
-    {
-      "date": "2026-10-14",
       "subcat": "C#",
       "title": "Tianyu199509/DeskBox",
       "url": "https://github.com/Tianyu199509/DeskBox"
@@ -978,6 +973,12 @@
       "subcat": "JavaScript",
       "title": "Two Tiny Utils for the Result Pattern",
       "url": "https://lobste.rs/s/8csfoa/two_tiny_utils_for_result_pattern"
+    },
+    {
+      "date": "2026-10-15",
+      "subcat": "Research Papers",
+      "title": "How Low Can You Go: Fine-Tuning LLMs with Bayesian Opti",
+      "url": "http://arxiv.org/abs/2610.18504v1"
     }
   ]
 }
