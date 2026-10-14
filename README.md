@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**889 entries and counting** · Last updated: 2026-10-14
+**890 entries and counting** · Last updated: 2026-10-14
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 150 |
 | [Reading List](articles/reading-list.md) | 195 |
 | [Coding Tips](coding-tips/tips.md) | 195 |
-| [Language Notes](languages/notes.md) | 129 |
+| [Language Notes](languages/notes.md) | 130 |
 
 ## Latest additions
 
+- **2026-10-14** · *C++* — [0xShug0/audio.cpp](https://github.com/0xShug0/audio.cpp)
 - **2026-10-14** · *Research Papers* — [Validating direct solvers for Newton's gravitational N-](http://arxiv.org/abs/2608.17032v1)
 - **2026-10-14** · *Elixir* — [How do I write Elixir tests?](https://lobste.rs/s/4xgljh/how_do_i_write_elixir_tests)
 - **2026-10-14** · *Show & Ask HN* — [Ask HN: What is your ChatGPT customization prompt?](https://news.ycombinator.com/item?id=40474716)
 - **2026-10-14** · *Models & Datasets* — [lmsys/chatbot_arena_conversations](https://huggingface.co/datasets/lmsys/chatbot_arena_conversations)
-- **2026-10-14** · *Developer Tools* — [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig)
 
 ## How it works
 

@@ -1196,6 +1196,17 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~94 stars/day since launch.
 - **Link:** https://github.com/Dingo-Shenanigans/ReSkate
 
+**Added 2026-10-14**
+
+### [0xShug0/audio.cpp](https://github.com/0xShug0/audio.cpp)
+- **Stats:** 3,514 stars | 413 forks | 21 open issues
+- **Language:** C++ | **Created:** 2026-06-23 | **License:** NOASSERTION
+- **Topics:** ai, amd-gpu, apple-silicon, asr, audio, cpp
+- **What it is:** An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.
+- **Growth:** averaging ~31 stars/day since launch.
+- **Link:** https://github.com/0xShug0/audio.cpp
+
+
 ## SQL & Databases
 
 **Added 2026-10-10**

@@ -168,6 +168,7 @@
     "https://dev.to/xulingfeng/stratagems-9-lena-and-p-watched-two-ai-suppliers-fight-the-logs-said-neither-was-clean-2pj3",
     "https://dev.to/xulingfeng/two-weeks-in-a-15-year-qa-veteran-back-to-being-the-new-guy-39g3",
     "https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9",
+    "https://github.com/0xShug0/audio.cpp",
     "https://github.com/1812z/HyperIsland",
     "https://github.com/Albert-Weasker/niubigeo",
     "https://github.com/AlephAITech/WorkBuddyGuide",
@@ -900,12 +901,6 @@
   "recent": [
     {
       "date": "2026-10-14",
-      "subcat": "Other Cool Projects",
-      "title": "EpicGames/lore",
-      "url": "https://github.com/EpicGames/lore"
-    },
-    {
-      "date": "2026-10-14",
       "subcat": "SQL & Databases",
       "title": "CryptDB  A database system that can process SQL queries",
       "url": "https://news.ycombinator.com/item?id=10225438"
@@ -957,6 +952,12 @@
       "subcat": "Research Papers",
       "title": "Validating direct solvers for Newton's gravitational N-",
       "url": "http://arxiv.org/abs/2608.17032v1"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "C++",
+      "title": "0xShug0/audio.cpp",
+      "url": "https://github.com/0xShug0/audio.cpp"
     }
   ]
 }
