@@ -1076,6 +1076,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/lmsys/chatbot_arena_conversations
 
+**Added 2026-10-14**
+
+### [Maxwell-Jia/AIME_2024](https://huggingface.co/datasets/Maxwell-Jia/AIME_2024)
+- **Stats:** 92 likes | 64,123 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2024-12-05
+- **Tags:** explanation-generation
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/Maxwell-Jia/AIME_2024
+
 
 ## Research Papers
 

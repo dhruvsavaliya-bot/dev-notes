@@ -448,6 +448,7 @@
     "https://huggingface.co/datasets/ACERobotics/ACE-Data-0",
     "https://huggingface.co/datasets/Anthropic/claude-protein-binder-design",
     "https://huggingface.co/datasets/FlyRank/internship-warehouse",
+    "https://huggingface.co/datasets/Maxwell-Jia/AIME_2024",
     "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023",
     "https://huggingface.co/datasets/OpenGVLab/ShareGPT-4o",
     "https://huggingface.co/datasets/ShadenA/MathNet",
@@ -910,12 +911,6 @@
   "recent": [
     {
       "date": "2026-10-14",
-      "subcat": "C++",
-      "title": "0xShug0/audio.cpp",
-      "url": "https://github.com/0xShug0/audio.cpp"
-    },
-    {
-      "date": "2026-10-14",
       "subcat": "Elixir",
       "title": "Type inference of all constructs and the next 15 months",
       "url": "https://lobste.rs/s/dzvt0w/type_inference_all_constructs_next_15"
@@ -967,6 +962,12 @@
       "subcat": "JavaScript",
       "title": "NomaDamas/k-skill",
       "url": "https://github.com/NomaDamas/k-skill"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "Models & Datasets",
+      "title": "Maxwell-Jia/AIME_2024",
+      "url": "https://huggingface.co/datasets/Maxwell-Jia/AIME_2024"
     }
   ]
 }
