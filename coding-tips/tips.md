@@ -1794,3 +1794,13 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/and6ld/freebsd_status_report_2023_q2
 - **Link:** https://www.freebsd.org/status/report-2023-04-2023-06/
+
+**Added 2026-10-14**
+
+### [SQLite DB: simple, in-process, reliable, fast (2024)](https://binaryigor.com/sqlite-db-simple-in-process-reliable-fast.html)
+- **Source:** binaryigor.com | **Posted:** 2026-04-01 | **By:** BinaryIgor
+- **Community:** 15 score, 2 comments on Lobsters
+- **Tags:** databases
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/1zpy4w/sqlite_db_simple_process_reliable_fast
+- **Link:** https://binaryigor.com/sqlite-db-simple-in-process-reliable-fast.html
