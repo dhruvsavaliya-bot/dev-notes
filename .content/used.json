@@ -544,6 +544,7 @@
     "https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this",
     "https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think",
     "https://lobste.rs/s/lfen2h/living_weimar_era_ruby",
+    "https://lobste.rs/s/lfusbg/atom_exhaustion_is_not_footgun_it_s_one",
     "https://lobste.rs/s/lgdxtw/c_for_rust_programmers",
     "https://lobste.rs/s/lxo74i/introducing_microlighter",
     "https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution",
@@ -919,12 +920,6 @@
   "recent": [
     {
       "date": "2026-10-14",
-      "subcat": "JavaScript",
-      "title": "NomaDamas/k-skill",
-      "url": "https://github.com/NomaDamas/k-skill"
-    },
-    {
-      "date": "2026-10-14",
       "subcat": "Models & Datasets",
       "title": "Maxwell-Jia/AIME_2024",
       "url": "https://huggingface.co/datasets/Maxwell-Jia/AIME_2024"
@@ -976,6 +971,12 @@
       "subcat": "Backend & Infrastructure",
       "title": "shellhub-io/shellhub",
       "url": "https://github.com/shellhub-io/shellhub"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "Elixir",
+      "title": "Atom Exhaustion Is Not a Footgun. It's One Third of Our",
+      "url": "https://lobste.rs/s/lfusbg/atom_exhaustion_is_not_footgun_it_s_one"
     }
   ]
 }

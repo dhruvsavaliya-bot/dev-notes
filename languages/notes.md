@@ -1179,6 +1179,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/b2emi7/guards_guards
 - **Link:** https://hauleth.dev/post/guards-guards/
 
+**Added 2026-10-14**
+
+### [Atom Exhaustion Is Not a Footgun. It's One Third of Our CVEs](https://erlef.org/blog/security/atom-exhaustion)
+- **Source:** erlef.org | **Posted:** 2026-05-27 | **By:** pushcx
+- **Community:** 71 score, 53 comments on Lobsters
+- **Tags:** elixir, erlang, security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/lfusbg/atom_exhaustion_is_not_footgun_it_s_one
+- **Link:** https://erlef.org/blog/security/atom-exhaustion
+
 
 ## C#
 
