@@ -2153,6 +2153,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~102 stars/day since launch.
 - **Link:** https://github.com/jub0t/concat
 
+**Added 2026-10-14**
+
+### [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig)
+- **Stats:** 2,299 stars | 199 forks | 90 open issues
+- **Language:** Zig | **Created:** 2021-03-18 | **License:** Zlib
+- **Topics:** embedded, hal, zig, zig-package, ziglang
+- **What it is:** MicroZig is a toolbox for building embedded applications in Zig.
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/ZigEmbeddedGroup/microzig
+
 
 ## Backend & Infrastructure
 
