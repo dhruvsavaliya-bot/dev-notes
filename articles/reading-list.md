@@ -1806,6 +1806,16 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://lobste.rs/s/aasanp/reverts_will_continue_until_morale
 - **Link:** http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves
 
+**Added 2026-10-14**
+
+### [Who is vfmaddrnd231pd??](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
+- **Source:** purplesyringa.moe | **Posted:** 2026-10-12 | **By:** valdemar
+- **Community:** 81 score, 18 comments on Lobsters
+- **Tags:** assembly
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/2h9opx/who_is_vfmaddrnd231pd
+- **Link:** https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/
+
 
 ## Performance
 

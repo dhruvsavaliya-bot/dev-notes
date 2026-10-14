@@ -501,6 +501,7 @@
     "https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial",
     "https://lobste.rs/s/0gvyif/software_developers_are_not_okay",
     "https://lobste.rs/s/1zpy4w/sqlite_db_simple_process_reliable_fast",
+    "https://lobste.rs/s/2h9opx/who_is_vfmaddrnd231pd",
     "https://lobste.rs/s/2tspe2/beam_metrics_clickhouse",
     "https://lobste.rs/s/4dwrz0/tale_four_theorem_provers_reasonably",
     "https://lobste.rs/s/4xgljh/how_do_i_write_elixir_tests",
@@ -917,12 +918,6 @@
   "recent": [
     {
       "date": "2026-10-14",
-      "subcat": "Research Papers",
-      "title": "Characterizing Overconfident Failure in LLM-Based Code",
-      "url": "http://arxiv.org/abs/2610.11300v1"
-    },
-    {
-      "date": "2026-10-14",
       "subcat": "Java",
       "title": "Kotlin vs. Java",
       "url": "https://news.ycombinator.com/item?id=21807233"
@@ -974,6 +969,12 @@
       "subcat": "Lobsters Picks",
       "title": "SQLite DB: simple, in-process, reliable, fast (2024)",
       "url": "https://lobste.rs/s/1zpy4w/sqlite_db_simple_process_reliable_fast"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "Lobsters Picks",
+      "title": "Who is vfmaddrnd231pd??",
+      "url": "https://lobste.rs/s/2h9opx/who_is_vfmaddrnd231pd"
     }
   ]
 }
