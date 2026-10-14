@@ -1816,6 +1816,16 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://lobste.rs/s/2h9opx/who_is_vfmaddrnd231pd
 - **Link:** https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/
 
+**Added 2026-10-15**
+
+### [Gleam doesn't compile to Erlang source anymore](https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/)
+- **Source:** gleam.run | **Posted:** 2026-10-05 | **By:** novedevo
+- **Community:** 139 score, 19 comments on Lobsters
+- **Tags:** compilers, erlang, gleam
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/2svplr/gleam_doesn_t_compile_erlang_source
+- **Link:** https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/
+
 
 ## Performance
 
