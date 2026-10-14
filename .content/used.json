@@ -516,6 +516,7 @@
     "https://lobste.rs/s/aasanp/reverts_will_continue_until_morale",
     "https://lobste.rs/s/and6ld/freebsd_status_report_2023_q2",
     "https://lobste.rs/s/ap9w8i/when_str_lower_is_security_vulnerability",
+    "https://lobste.rs/s/b2emi7/guards_guards",
     "https://lobste.rs/s/bag41j/hanami_why_introductions",
     "https://lobste.rs/s/bcfzer/hacking_nameof",
     "https://lobste.rs/s/ccnirb/there_are_only_twelve_4x4_sudokus_cool",
@@ -914,12 +915,6 @@
   "recent": [
     {
       "date": "2026-10-14",
-      "subcat": "Research Papers",
-      "title": "GAMW: Generation-Aware Mel-Domain Watermarking for TTS",
-      "url": "http://arxiv.org/abs/2610.15082v1"
-    },
-    {
-      "date": "2026-10-14",
       "subcat": "Ruby",
       "title": "Living in the Weimar era of Ruby",
       "url": "https://lobste.rs/s/lfen2h/living_weimar_era_ruby"
@@ -971,6 +966,12 @@
       "subcat": "Research Papers",
       "title": "Auditing Failure Attribution: Label Predictability and",
       "url": "http://arxiv.org/abs/2610.17747v1"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "Elixir",
+      "title": "Guards! Guards",
+      "url": "https://lobste.rs/s/b2emi7/guards_guards"
     }
   ]
 }

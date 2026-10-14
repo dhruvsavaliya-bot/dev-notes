@@ -1169,6 +1169,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/dzvt0w/type_inference_all_constructs_next_15
 - **Link:** https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/
 
+**Added 2026-10-14**
+
+### [Guards! Guards](https://hauleth.dev/post/guards-guards/)
+- **Source:** hauleth.dev | **Posted:** 2026-06-27 | **By:** hauleth
+- **Community:** 32 score, 19 comments on Lobsters
+- **Tags:** elixir
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/b2emi7/guards_guards
+- **Link:** https://hauleth.dev/post/guards-guards/
+
 
 ## C#
 
