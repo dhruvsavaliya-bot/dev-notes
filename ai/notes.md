@@ -1408,3 +1408,13 @@ Lessons from building with LLMs.
 - **Abstract:** We present a systematic comparison between arbitrary precise arithmetic and integration, IEEE-754 compliant floating point arithmetic (fp16, bfp16, fp32, double precision fp64, and quadruple precision fp128), and two implementations of Posits (type III unum) for solving Newton's chaotic N-body problem. Each implementation is benchmarked with arbitrary precise calculations to objectively evaluate their performance in precision as well as speed. We rely on hardware and compiler implementations for...
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2608.17032v1
+
+**Added 2026-10-14**
+
+### [GAMW: Generation-Aware Mel-Domain Watermarking for TTS Traceability](http://arxiv.org/abs/2610.15082v1)
+- **Authors:** Yihang Zhang, Weicai Yan, Qifei Zhang, Yangyang Wu et al.
+- **Published:** 2026-10-10 | **Primary category:** cs.CR
+- **Categories:** cs.SD, cs.AI, cs.CR
+- **Abstract:** As text-to-speech (TTS) systems continue to advance, provenance tracking and security verification of synthesized speech have become increasingly important. Audio watermarking provides active provenance by embedding imperceptible, machine-recoverable information into speech. However, existing post-hoc methods typically modify the waveform after synthesis, leaving the watermark vulnerable to compound perturbations. To address this limitation, we propose GAMW, a watermark injection framework integ...
+- **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.15082v1
