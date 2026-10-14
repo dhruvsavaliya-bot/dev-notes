@@ -493,6 +493,7 @@
     "https://huggingface.co/openbmb/MiniCPM-V-2_6",
     "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit",
     "https://huggingface.co/prompthero/openjourney",
+    "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0",
     "https://huggingface.co/tencent/Hunyuan3D-2.1",
     "https://huggingface.co/tencent/Hy3",
     "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
@@ -923,12 +924,6 @@
   "recent": [
     {
       "date": "2026-10-14",
-      "subcat": "Research Papers",
-      "title": "Auditing Failure Attribution: Label Predictability and",
-      "url": "http://arxiv.org/abs/2610.17747v1"
-    },
-    {
-      "date": "2026-10-14",
       "subcat": "Elixir",
       "title": "Guards! Guards",
       "url": "https://lobste.rs/s/b2emi7/guards_guards"
@@ -980,6 +975,12 @@
       "subcat": "C++",
       "title": "Cling: An Interactive C++ interpreter",
       "url": "https://news.ycombinator.com/item?id=11748147"
+    },
+    {
+      "date": "2026-10-15",
+      "subcat": "Models & Datasets",
+      "title": "stabilityai/stable-diffusion-xl-base-1.0",
+      "url": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0"
     }
   ]
 }

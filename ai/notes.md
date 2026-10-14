@@ -1094,6 +1094,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/unsloth/Qwen3.8-27B-GGUF
 
+**Added 2026-10-15**
+
+### [stabilityai/stable-diffusion-xl-base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)
+- **Stats:** 8,339 likes | 4,295,405 downloads
+- **Kind:** Hugging Face model | **Task:** text-to-image | **Created:** 2023-07-25
+- **Tags:** diffusers, onnx, safetensors, text-to-image, stable-diffusion, endpoints_compatible
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0
+
 
 ## Research Papers
 
