@@ -41,6 +41,7 @@
     "http://arxiv.org/abs/2610.13300v1",
     "http://arxiv.org/abs/2610.13407v1",
     "http://arxiv.org/abs/2610.15082v1",
+    "http://arxiv.org/abs/2610.17747v1",
     "http://arxiv.org/abs/2610.18745v1",
     "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
     "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
@@ -913,12 +914,6 @@
   "recent": [
     {
       "date": "2026-10-14",
-      "subcat": "Hacker News Picks",
-      "title": "MIT class project turns into an FDA-cleared treatment f",
-      "url": "https://news.ycombinator.com/item?id=50061659"
-    },
-    {
-      "date": "2026-10-14",
       "subcat": "Research Papers",
       "title": "GAMW: Generation-Aware Mel-Domain Watermarking for TTS",
       "url": "http://arxiv.org/abs/2610.15082v1"
@@ -970,6 +965,12 @@
       "subcat": "C#",
       "title": "Tianyu199509/DeskBox",
       "url": "https://github.com/Tianyu199509/DeskBox"
+    },
+    {
+      "date": "2026-10-14",
+      "subcat": "Research Papers",
+      "title": "Auditing Failure Attribution: Label Predictability and",
+      "url": "http://arxiv.org/abs/2610.17747v1"
     }
   ]
 }

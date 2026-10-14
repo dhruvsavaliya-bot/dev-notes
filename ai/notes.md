@@ -1447,3 +1447,13 @@ Lessons from building with LLMs.
 - **Abstract:** Large language models (LLMs) are increasingly used for automated code generation, but generated programs can appear syntactically plausible while still failing execution-based correctness checks. Existing validation methods, such as testing and program analysis, remain essential but are often incomplete, costly, or applied only after generation. Model-derived uncertainty is therefore a natural early reliability signal. This paper studies the dilemma of overconfidence in code LLMs where incorrect...
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.11300v1
+
+**Added 2026-10-14**
+
+### [Auditing Failure Attribution: Label Predictability and Judge Behavior](http://arxiv.org/abs/2610.17747v1)
+- **Authors:** Tianyang Xu, Jing Gao
+- **Published:** 2026-10-13 | **Primary category:** cs.AI
+- **Categories:** cs.CL, cs.AI, cs.LG
+- **Abstract:** Failure-attribution benchmarks ask an LLM judge which step or agent caused a failure. A high score should mean the judge checked the faulty step against the run (a cross-step check). However, spurious signals (surface cues) that predict the annotation can produce a high score. In this paper, we propose four tests to separate checking from cue use. Input restriction asks whether partial input predicts the annotation. Cue following checks whether moved cues change answers. Residual accuracy scores...
+- **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.17747v1
