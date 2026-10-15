@@ -489,6 +489,16 @@ Lessons from building with LLMs.
 - **Summary:** This is a submission for the Kaggle Benchmarking Challenge           What I Benchmarked   A while...
 - **Link:** https://dev.to/dj29/chain-of-thought-faithfulness-toggling-reasoning-mode-made-one-model-5x-more-likely-to-follow-39b3
 
+**Added 2026-10-15**
+
+### [Super-Intelligent Yes-Men: Are We Training AI to Ignore the Truth?](https://dev.to/dannwaneri/super-intelligent-yes-men-are-we-training-ai-to-ignore-the-truth-epp)
+- **Author:** Daniel Nwaneri | **Published:** Oct 9 | **Read time:** 11 min
+- **Community:** 51 reactions, 29 comments -- a top post in #machinelearning
+- **Tags:** devchallenge, kagglechallenge, ai, machinelearning
+- **Summary:** This is a submission for the Kaggle Benchmarking Challenge           What I Benchmarked   A published...
+- **Link:** https://dev.to/dannwaneri/super-intelligent-yes-men-are-we-training-ai-to-ignore-the-truth-epp
+
+
 ## Models & Datasets
 
 **Added 2026-10-04**
