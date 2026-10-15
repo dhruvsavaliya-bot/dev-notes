@@ -156,6 +156,7 @@
     "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
     "https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2",
     "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g",
+    "https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi",
     "https://dev.to/thebitforge/the-architecture-nobody-talks-about-how-i-built-systems-that-actually-scale-and-why-most-dont-3fk5",
     "https://dev.to/therealmrmumba/7-best-ai-project-management-tools-for-software-development-teams-in-2026-fik",
     "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
@@ -950,12 +951,6 @@
   "recent": [
     {
       "date": "2026-10-15",
-      "subcat": "Go",
-      "title": "Better HTTP/1 connection reuse",
-      "url": "https://lobste.rs/s/mkq3x9/better_http_1_connection_reuse"
-    },
-    {
-      "date": "2026-10-15",
       "subcat": "Models & Datasets",
       "title": "audeering/wav2vec2-large-robust-24-ft-age-gender",
       "url": "https://huggingface.co/audeering/wav2vec2-large-robust-24-ft-age-gender"
@@ -1007,6 +1002,12 @@
       "subcat": "Models & Datasets",
       "title": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
       "url": "https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF"
+    },
+    {
+      "date": "2026-10-15",
+      "subcat": "System Design & Architecture",
+      "title": "The Cloud Exit Strategy: How to Run a Production SaaS f",
+      "url": "https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi"
     }
   ]
 }

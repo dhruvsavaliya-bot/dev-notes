@@ -1622,6 +1622,15 @@ Fresh dev articles and blog posts.
 - **Summary:** I used to joke that the history of frontend development could be retraced by following the argument...
 - **Link:** https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk
 
+**Added 2026-10-15**
+
+### [The Cloud Exit Strategy: How to Run a Production SaaS for $5/Month](https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi)
+- **Author:** NorthernDev | **Published:** Jan 15 | **Read time:** 3 min
+- **Community:** 62 reactions, 39 comments -- a top post in #architecture
+- **Tags:** architecture, cloud, devops, saas
+- **Summary:** We have normalized paying $100/month for infrastructure before acquiring a single customer. It is...
+- **Link:** https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi
+
 
 ## Lobsters Picks
 
