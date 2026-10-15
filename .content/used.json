@@ -156,6 +156,7 @@
     "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
     "https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2",
     "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g",
+    "https://dev.to/the_nortern_dev/my-2026-tech-stack-is-boring-as-hell-and-that-is-the-point-20c1",
     "https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi",
     "https://dev.to/thebitforge/the-architecture-nobody-talks-about-how-i-built-systems-that-actually-scale-and-why-most-dont-3fk5",
     "https://dev.to/therealmrmumba/7-best-ai-project-management-tools-for-software-development-teams-in-2026-fik",
@@ -953,12 +954,6 @@
   "recent": [
     {
       "date": "2026-10-15",
-      "subcat": "Python",
-      "title": "Python idioms I wish I'd learned earlier",
-      "url": "https://news.ycombinator.com/item?id=8665820"
-    },
-    {
-      "date": "2026-10-15",
       "subcat": "Machine Learning",
       "title": "Super-Intelligent Yes-Men: Are We Training AI to Ignore",
       "url": "https://dev.to/dannwaneri/super-intelligent-yes-men-are-we-training-ai-to-ignore-the-truth-epp"
@@ -1010,6 +1005,12 @@
       "subcat": "Models & Datasets",
       "title": "Qwen/Qwen3.8-Flash-Next",
       "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next"
+    },
+    {
+      "date": "2026-10-15",
+      "subcat": "System Design & Architecture",
+      "title": "My 2026 Tech Stack is Boring as Hell (And That is the P",
+      "url": "https://dev.to/the_nortern_dev/my-2026-tech-stack-is-boring-as-hell-and-that-is-the-point-20c1"
     }
   ]
 }

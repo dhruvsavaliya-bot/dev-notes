@@ -1631,6 +1631,15 @@ Fresh dev articles and blog posts.
 - **Summary:** We have normalized paying $100/month for infrastructure before acquiring a single customer. It is...
 - **Link:** https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi
 
+**Added 2026-10-15**
+
+### [My 2026 Tech Stack is Boring as Hell (And That is the Point)](https://dev.to/the_nortern_dev/my-2026-tech-stack-is-boring-as-hell-and-that-is-the-point-20c1)
+- **Author:** NorthernDev | **Published:** Jan 2 | **Read time:** 3 min
+- **Community:** 139 reactions, 121 comments -- a top post in #architecture
+- **Tags:** career, architecture, discuss, webdev
+- **Summary:** I spent years chasing the shiny new thing. In 2026, I am betting on the most controversial...
+- **Link:** https://dev.to/the_nortern_dev/my-2026-tech-stack-is-boring-as-hell-and-that-is-the-point-20c1
+
 
 ## Lobsters Picks
 
