@@ -311,6 +311,7 @@
     "https://github.com/cdyforever/how-to-live-better",
     "https://github.com/celldock/celldock-for-mac",
     "https://github.com/cloudflare/security-audit-skill",
+    "https://github.com/common-voice/common-voice",
     "https://github.com/cordiverse/paper",
     "https://github.com/crmne/fastpotify",
     "https://github.com/crmne/spotifast",
@@ -959,12 +960,6 @@
   "recent": [
     {
       "date": "2026-10-15",
-      "subcat": "Models & Datasets",
-      "title": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
-      "url": "https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF"
-    },
-    {
-      "date": "2026-10-15",
       "subcat": "System Design & Architecture",
       "title": "The Cloud Exit Strategy: How to Run a Production SaaS f",
       "url": "https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi"
@@ -1016,6 +1011,12 @@
       "subcat": "Hacker News Picks",
       "title": "Celebrating 70 Years of Fortran",
       "url": "https://news.ycombinator.com/item?id=50104726"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Other Cool Projects",
+      "title": "common-voice/common-voice",
+      "url": "https://github.com/common-voice/common-voice"
     }
   ]
 }

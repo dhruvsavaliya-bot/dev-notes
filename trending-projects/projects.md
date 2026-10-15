@@ -1927,6 +1927,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~3 stars/day since launch.
 - **Link:** https://github.com/xm486/YukiHub
 
+**Added 2026-10-16**
+
+### [common-voice/common-voice](https://github.com/common-voice/common-voice)
+- **Stats:** 3,491 stars | 865 forks | 190 open issues
+- **Language:** TypeScript | **Created:** 2017-05-05 | **License:** MPL-2.0
+- **Topics:** crowdsourcing, internet-freedom, open-data, voice
+- **What it is:** Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/common-voice/common-voice
+
 
 ## Web & Frontend
 
