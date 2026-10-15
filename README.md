@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**952 entries and counting** · Last updated: 2026-10-16
+**953 entries and counting** · Last updated: 2026-10-16
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 172 |
 | [Reading List](articles/reading-list.md) | 203 |
 | [Coding Tips](coding-tips/tips.md) | 199 |
-| [Language Notes](languages/notes.md) | 151 |
+| [Language Notes](languages/notes.md) | 152 |
 
 ## Latest additions
 
+- **2026-10-16** · *C++* — [Cost of a thread in C++ under Linux](https://news.ycombinator.com/item?id=22456642)
 - **2026-10-16** · *Other Cool Projects* — [Alvin9999-newpac/fanqiang](https://github.com/Alvin9999-newpac/fanqiang)
 - **2026-10-16** · *Models & Datasets* — [a686d380/h-corpus-2023](https://huggingface.co/datasets/a686d380/h-corpus-2023)
 - **2026-10-16** · *Rust* — [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
 - **2026-10-16** · *Other Cool Projects* — [common-voice/common-voice](https://github.com/common-voice/common-voice)
-- **2026-10-16** · *Hacker News Picks* — [Celebrating 70 Years of Fortran](https://news.ycombinator.com/item?id=50104726)
 
 ## How it works
 

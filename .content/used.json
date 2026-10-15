@@ -641,6 +641,7 @@
     "https://news.ycombinator.com/item?id=21611677",
     "https://news.ycombinator.com/item?id=21807233",
     "https://news.ycombinator.com/item?id=22279051",
+    "https://news.ycombinator.com/item?id=22456642",
     "https://news.ycombinator.com/item?id=23361987",
     "https://news.ycombinator.com/item?id=23658721",
     "https://news.ycombinator.com/item?id=24372084",
@@ -963,12 +964,6 @@
   "recent": [
     {
       "date": "2026-10-15",
-      "subcat": "System Design & Architecture",
-      "title": "My 2026 Tech Stack is Boring as Hell (And That is the P",
-      "url": "https://dev.to/the_nortern_dev/my-2026-tech-stack-is-boring-as-hell-and-that-is-the-point-20c1"
-    },
-    {
-      "date": "2026-10-15",
       "subcat": "Other Cool Projects",
       "title": "xm486/YukiHub",
       "url": "https://github.com/xm486/YukiHub"
@@ -1020,6 +1015,12 @@
       "subcat": "Other Cool Projects",
       "title": "Alvin9999-newpac/fanqiang",
       "url": "https://github.com/Alvin9999-newpac/fanqiang"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "C++",
+      "title": "Cost of a thread in C++ under Linux",
+      "url": "https://news.ycombinator.com/item?id=22456642"
     }
   ]
 }

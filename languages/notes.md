@@ -1408,6 +1408,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=11748147
 - **Link:** https://root.cern.ch/cling
 
+**Added 2026-10-16**
+
+### [Cost of a thread in C++ under Linux](https://lemire.me/blog/2020/01/30/cost-of-a-thread-in-c-under-linux/)
+- **Source:** lemire.me | **Posted:** 2020-03-01 | **By:** eaguyhn
+- **Community:** 194 points, 133 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=22456642
+- **Link:** https://lemire.me/blog/2020/01/30/cost-of-a-thread-in-c-under-linux/
+
 
 ## SQL & Databases
 
