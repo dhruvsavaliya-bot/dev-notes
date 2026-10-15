@@ -498,6 +498,15 @@ Lessons from building with LLMs.
 - **Summary:** This is a submission for the Kaggle Benchmarking Challenge           What I Benchmarked   A published...
 - **Link:** https://dev.to/dannwaneri/super-intelligent-yes-men-are-we-training-ai-to-ignore-the-truth-epp
 
+**Added 2026-10-16**
+
+### [I Gave 15 AI Models Proof Their Hacking Target Was a Real Company. 73% of the Ones That Noticed Told No One.](https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81)
+- **Author:** Soumyadeep Dey  | **Published:** Oct 2 | **Read time:** 44 min
+- **Community:** 107 reactions, 97 comments -- a top post in #machinelearning
+- **Tags:** devchallenge, kagglechallenge, ai, machinelearning
+- **Summary:** This is a submission for the Kaggle Benchmarking Challenge  I fed 15 AI models a growing pile of...
+- **Link:** https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81
+
 
 ## Models & Datasets
 

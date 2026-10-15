@@ -147,6 +147,7 @@
     "https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n",
     "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
     "https://dev.to/smtahosin/python-thinks-different-what-actually-happens-inside-your-code-visual-guide-241l",
+    "https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81",
     "https://dev.to/stherzada/como-eu-aprendi-a-aprender-e-por-que-a-ia-nao-veio-pra-pensar-por-voce-fhg",
     "https://dev.to/sylwia-lask/10-git-commands-youll-wish-you-knew-earlier-4fcp",
     "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii",
@@ -964,12 +965,6 @@
   "recent": [
     {
       "date": "2026-10-15",
-      "subcat": "Other Cool Projects",
-      "title": "xm486/YukiHub",
-      "url": "https://github.com/xm486/YukiHub"
-    },
-    {
-      "date": "2026-10-15",
       "subcat": "Research Papers",
       "title": "Discriminative Score Function: Turning Pretrained Model",
       "url": "http://arxiv.org/abs/2610.19743v1"
@@ -1021,6 +1016,12 @@
       "subcat": "C++",
       "title": "Cost of a thread in C++ under Linux",
       "url": "https://news.ycombinator.com/item?id=22456642"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Machine Learning",
+      "title": "I Gave 15 AI Models Proof Their Hacking Target Was a Re",
+      "url": "https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81"
     }
   ]
 }
