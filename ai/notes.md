@@ -1121,6 +1121,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/audeering/wav2vec2-large-robust-24-ft-age-gender
 
+**Added 2026-10-15**
+
+### [pixparse/idl-wds](https://huggingface.co/datasets/pixparse/idl-wds)
+- **Stats:** 201 likes | 5,544 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2023-12-14
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/pixparse/idl-wds
+
 
 ## Research Papers
 

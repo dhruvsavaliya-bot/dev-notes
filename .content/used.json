@@ -488,6 +488,7 @@
     "https://huggingface.co/datasets/openai/healthbench",
     "https://huggingface.co/datasets/openbmb/RLHF-V-Dataset",
     "https://huggingface.co/datasets/openbmb/UltraData-Code",
+    "https://huggingface.co/datasets/pixparse/idl-wds",
     "https://huggingface.co/datasets/tau/commonsense_qa",
     "https://huggingface.co/datasets/tiiuae/falcon-refinedweb",
     "https://huggingface.co/datasets/ystemsrx/Erotic_Literature_Collection",
@@ -942,12 +943,6 @@
   "recent": [
     {
       "date": "2026-10-15",
-      "subcat": "Models & Datasets",
-      "title": "allenai/c4",
-      "url": "https://huggingface.co/datasets/allenai/c4"
-    },
-    {
-      "date": "2026-10-15",
       "subcat": "Lobsters Picks",
       "title": "Plasma 6.8 released (KDE's 30th birthday)",
       "url": "https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday"
@@ -999,6 +994,12 @@
       "subcat": "Models & Datasets",
       "title": "audeering/wav2vec2-large-robust-24-ft-age-gender",
       "url": "https://huggingface.co/audeering/wav2vec2-large-robust-24-ft-age-gender"
+    },
+    {
+      "date": "2026-10-15",
+      "subcat": "Models & Datasets",
+      "title": "pixparse/idl-wds",
+      "url": "https://huggingface.co/datasets/pixparse/idl-wds"
     }
   ]
 }
