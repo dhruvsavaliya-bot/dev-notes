@@ -372,6 +372,7 @@
     "https://github.com/openai/symphony",
     "https://github.com/oso95/scroll-world",
     "https://github.com/outsourc-e/hermes-workspace",
+    "https://github.com/panxunying/ai-coding-welfare",
     "https://github.com/pathwaycom/arc-task-gen",
     "https://github.com/penecho/penecho",
     "https://github.com/petergyang/no-ai-slop",
@@ -938,12 +939,6 @@
   "recent": [
     {
       "date": "2026-10-15",
-      "subcat": "Rust",
-      "title": "Rust's derive often implies inline",
-      "url": "https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline"
-    },
-    {
-      "date": "2026-10-15",
       "subcat": "Research Papers",
       "title": "Software Testing Meets Bayesian Workflow: A Literature-",
       "url": "http://arxiv.org/abs/2610.16594v1"
@@ -995,6 +990,12 @@
       "subcat": "C#",
       "title": "New Features in C# 6 (2014)",
       "url": "https://news.ycombinator.com/item?id=8870361"
+    },
+    {
+      "date": "2026-10-15",
+      "subcat": "JavaScript",
+      "title": "panxunying/ai-coding-welfare",
+      "url": "https://github.com/panxunying/ai-coding-welfare"
     }
   ]
 }

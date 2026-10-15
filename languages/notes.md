@@ -319,6 +319,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=7605687
 - **Link:** https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
 
+**Added 2026-10-15**
+
+### [panxunying/ai-coding-welfare](https://github.com/panxunying/ai-coding-welfare)
+- **Stats:** 1,058 stars | 69 forks | 9 open issues
+- **Language:** JavaScript | **Created:** 2026-08-21 | **License:** MIT
+- **Topics:** ai-coding, anthropic, api-proxy, claude-code, codex, free-api
+- **What it is:** AI Coding 福利站导航：免费白嫖 Claude Code / Codex 的中转站与公益站合集，含额度、模型、价格自动更新与一键配置脚本
+- **Growth:** averaging ~19 stars/day since launch.
+- **Link:** https://github.com/panxunying/ai-coding-welfare
+
 
 ## TypeScript
 
