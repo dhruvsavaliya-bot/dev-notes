@@ -1551,3 +1551,13 @@ Lessons from building with LLMs.
 - **Abstract:** Automated testing is an effective software quality assurance method, but it is rarely used for probabilistic models. This is despite the heavy use of probabilistic programming for data analytics in research and engineering, where the consequences of errors are dire. A key obstacle is the specification of testable correctness properties for probabilistic models, known as the oracle problem. Like machine learning, probabilistic programming is used precisely where no analytical specification exists...
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.16594v1
+
+**Added 2026-10-15**
+
+### [Part of the Strassen algorithm can speed up matrix multiplication in a parallel pebbling game](http://arxiv.org/abs/2610.08929v1)
+- **Authors:** Aaron Dayton, Thomas E. Baker
+- **Published:** 2026-10-06 | **Primary category:** cs.DC
+- **Categories:** cs.DC
+- **Abstract:** We present a novel variant of the Strassen algorithm called the Partial Strassen algorithm, which uses a fraction of the Strassen steps to perform matrix multiplication in less time than traditional implementations. The memory footprint required to implement this algorithm is provably small whether used with a single thread or in a multi-threaded context. Data comparing the Partial Strassen algorithm at depths one, two, and three with BLAS matrix multiplication show that the three-level Partial ...
+- **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.08929v1

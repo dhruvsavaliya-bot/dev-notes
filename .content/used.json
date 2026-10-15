@@ -34,6 +34,7 @@
     "http://arxiv.org/abs/2610.07906v1",
     "http://arxiv.org/abs/2610.08077v2",
     "http://arxiv.org/abs/2610.08651v1",
+    "http://arxiv.org/abs/2610.08929v1",
     "http://arxiv.org/abs/2610.09825v1",
     "http://arxiv.org/abs/2610.10150v1",
     "http://arxiv.org/abs/2610.11300v1",
@@ -948,12 +949,6 @@
   "recent": [
     {
       "date": "2026-10-15",
-      "subcat": "JavaScript",
-      "title": "panxunying/ai-coding-welfare",
-      "url": "https://github.com/panxunying/ai-coding-welfare"
-    },
-    {
-      "date": "2026-10-15",
       "subcat": "C#",
       "title": "builtbybel/FluentTweaker",
       "url": "https://github.com/builtbybel/FluentTweaker"
@@ -1005,6 +1000,12 @@
       "subcat": "Python",
       "title": "hugohe3/ppt-master",
       "url": "https://github.com/hugohe3/ppt-master"
+    },
+    {
+      "date": "2026-10-15",
+      "subcat": "Research Papers",
+      "title": "Part of the Strassen algorithm can speed up matrix mult",
+      "url": "http://arxiv.org/abs/2610.08929v1"
     }
   ]
 }
