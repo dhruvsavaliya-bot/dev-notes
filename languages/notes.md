@@ -310,6 +310,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/8csfoa/two_tiny_utils_for_result_pattern
 - **Link:** https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern
 
+**Added 2026-10-15**
+
+### [The Birth and Death of JavaScript [video]](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
+- **Source:** www.destroyallsoftware.com | **Posted:** 2014-04-17 | **By:** gary_bernhardt
+- **Community:** 635 points, 227 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=7605687
+- **Link:** https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
+
 
 ## TypeScript
 

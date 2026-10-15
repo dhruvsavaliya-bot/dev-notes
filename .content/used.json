@@ -925,15 +925,10 @@
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6821576",
     "https://news.ycombinator.com/item?id=7185024",
+    "https://news.ycombinator.com/item?id=7605687",
     "https://news.ycombinator.com/item?id=9962185"
   ],
   "recent": [
-    {
-      "date": "2026-10-15",
-      "subcat": "JavaScript",
-      "title": "Two Tiny Utils for the Result Pattern",
-      "url": "https://lobste.rs/s/8csfoa/two_tiny_utils_for_result_pattern"
-    },
     {
       "date": "2026-10-15",
       "subcat": "Research Papers",
@@ -987,6 +982,12 @@
       "subcat": "Research Papers",
       "title": "Software Testing Meets Bayesian Workflow: A Literature-",
       "url": "http://arxiv.org/abs/2610.16594v1"
+    },
+    {
+      "date": "2026-10-15",
+      "subcat": "JavaScript",
+      "title": "The Birth and Death of JavaScript [video]",
+      "url": "https://news.ycombinator.com/item?id=7605687"
     }
   ]
 }
