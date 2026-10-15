@@ -1140,6 +1140,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/pixparse/idl-wds
 
+**Added 2026-10-15**
+
+### [Qwen/Qwen3-Coder-30B-A3B-Instruct](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct)
+- **Stats:** 1,287 likes | 422,336 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2025-07-31
+- **Tags:** transformers, safetensors, qwen3_moe, text-generation, conversational, endpoints_compatible
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct
+
 
 ## Research Papers
 
