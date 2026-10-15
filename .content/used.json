@@ -937,16 +937,11 @@
     "https://news.ycombinator.com/item?id=6821576",
     "https://news.ycombinator.com/item?id=7185024",
     "https://news.ycombinator.com/item?id=7605687",
+    "https://news.ycombinator.com/item?id=8665820",
     "https://news.ycombinator.com/item?id=8870361",
     "https://news.ycombinator.com/item?id=9962185"
   ],
   "recent": [
-    {
-      "date": "2026-10-15",
-      "subcat": "Lobsters Picks",
-      "title": "Plasma 6.8 released (KDE's 30th birthday)",
-      "url": "https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday"
-    },
     {
       "date": "2026-10-15",
       "subcat": "Web Development",
@@ -1000,6 +995,12 @@
       "subcat": "Models & Datasets",
       "title": "pixparse/idl-wds",
       "url": "https://huggingface.co/datasets/pixparse/idl-wds"
+    },
+    {
+      "date": "2026-10-15",
+      "subcat": "Python",
+      "title": "Python idioms I wish I'd learned earlier",
+      "url": "https://news.ycombinator.com/item?id=8665820"
     }
   ]
 }

@@ -619,6 +619,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=17927200
 - **Link:** https://github.com/benfred/py-spy
 
+**Added 2026-10-15**
+
+### [Python idioms I wish I'd learned earlier](http://prooffreaderplus.blogspot.com/2014/11/top-10-python-idioms-i-wished-id.html)
+- **Source:** prooffreaderplus.blogspot.com | **Posted:** 2014-11-27 | **By:** signa11
+- **Community:** 418 points, 169 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=8665820
+- **Link:** http://prooffreaderplus.blogspot.com/2014/11/top-10-python-idioms-i-wished-id.html
+
 
 ## Go
 
