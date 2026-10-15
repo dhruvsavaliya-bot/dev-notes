@@ -299,6 +299,7 @@
     "https://github.com/bozhouDev/codex-orange-book",
     "https://github.com/browser-use/jev-ultrafast",
     "https://github.com/bryanthaboi/gen1recomp",
+    "https://github.com/builtbybel/FluentTweaker",
     "https://github.com/ccch1mneyyy/dsh-TUI",
     "https://github.com/cdyforever/how-to-live-better",
     "https://github.com/celldock/celldock-for-mac",
@@ -939,12 +940,6 @@
   "recent": [
     {
       "date": "2026-10-15",
-      "subcat": "Research Papers",
-      "title": "Software Testing Meets Bayesian Workflow: A Literature-",
-      "url": "http://arxiv.org/abs/2610.16594v1"
-    },
-    {
-      "date": "2026-10-15",
       "subcat": "JavaScript",
       "title": "The Birth and Death of JavaScript [video]",
       "url": "https://news.ycombinator.com/item?id=7605687"
@@ -996,6 +991,12 @@
       "subcat": "JavaScript",
       "title": "panxunying/ai-coding-welfare",
       "url": "https://github.com/panxunying/ai-coding-welfare"
+    },
+    {
+      "date": "2026-10-15",
+      "subcat": "C#",
+      "title": "builtbybel/FluentTweaker",
+      "url": "https://github.com/builtbybel/FluentTweaker"
     }
   ]
 }

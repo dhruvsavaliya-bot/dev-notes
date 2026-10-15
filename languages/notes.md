@@ -1298,6 +1298,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=8870361
 - **Link:** http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx
 
+**Added 2026-10-15**
+
+### [builtbybel/FluentTweaker](https://github.com/builtbybel/FluentTweaker)
+- **Stats:** 3,514 stars | 135 forks | 19 open issues
+- **Language:** C# | **Created:** 2026-01-08 | **License:** None
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~12 stars/day since launch.
+- **Link:** https://github.com/builtbybel/FluentTweaker
+
 
 ## C++
 
