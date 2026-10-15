@@ -1176,6 +1176,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/zai-org/GLM-4.6
 
+**Added 2026-10-16**
+
+### [a686d380/h-corpus-2023](https://huggingface.co/datasets/a686d380/h-corpus-2023)
+- **Stats:** 215 likes | 124 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2023-10-06
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/a686d380/h-corpus-2023
+
 
 ## Research Papers
 

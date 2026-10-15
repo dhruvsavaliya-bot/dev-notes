@@ -479,6 +479,7 @@
     "https://huggingface.co/datasets/OpenGVLab/ShareGPT-4o",
     "https://huggingface.co/datasets/ShadenA/MathNet",
     "https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro",
+    "https://huggingface.co/datasets/a686d380/h-corpus-2023",
     "https://huggingface.co/datasets/allenai/c4",
     "https://huggingface.co/datasets/argilla/magpie-ultra-v0.1",
     "https://huggingface.co/datasets/eidon-ai/tracker-pov",
@@ -961,12 +962,6 @@
   "recent": [
     {
       "date": "2026-10-15",
-      "subcat": "Other Cool Projects",
-      "title": "LordixDemon/apple_watch_connector",
-      "url": "https://github.com/LordixDemon/apple_watch_connector"
-    },
-    {
-      "date": "2026-10-15",
       "subcat": "Models & Datasets",
       "title": "Qwen/Qwen3.8-Flash-Next",
       "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next"
@@ -1018,6 +1013,12 @@
       "subcat": "Rust",
       "title": "xai-org/x-algorithm",
       "url": "https://github.com/xai-org/x-algorithm"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Models & Datasets",
+      "title": "a686d380/h-corpus-2023",
+      "url": "https://huggingface.co/datasets/a686d380/h-corpus-2023"
     }
   ]
 }

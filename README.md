@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**950 entries and counting** · Last updated: 2026-10-16
+**951 entries and counting** · Last updated: 2026-10-16
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 226 |
-| [AI / LLM Notes](ai/notes.md) | 171 |
+| [AI / LLM Notes](ai/notes.md) | 172 |
 | [Reading List](articles/reading-list.md) | 203 |
 | [Coding Tips](coding-tips/tips.md) | 199 |
 | [Language Notes](languages/notes.md) | 151 |
 
 ## Latest additions
 
+- **2026-10-16** · *Models & Datasets* — [a686d380/h-corpus-2023](https://huggingface.co/datasets/a686d380/h-corpus-2023)
 - **2026-10-16** · *Rust* — [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
 - **2026-10-16** · *Other Cool Projects* — [common-voice/common-voice](https://github.com/common-voice/common-voice)
 - **2026-10-16** · *Hacker News Picks* — [Celebrating 70 Years of Fortran](https://news.ycombinator.com/item?id=50104726)
 - **2026-10-16** · *Show & Ask HN* — [Tell HN: Vim users, `:x` is like `:wq` but writes only](https://news.ycombinator.com/item?id=34287407)
-- **2026-10-16** · *Models & Datasets* — [zai-org/GLM-4.6](https://huggingface.co/zai-org/GLM-4.6)
 
 ## How it works
 
