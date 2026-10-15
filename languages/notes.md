@@ -1279,6 +1279,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~55 stars/day since launch.
 - **Link:** https://github.com/Tianyu199509/DeskBox
 
+**Added 2026-10-15**
+
+### [New Features in C# 6 (2014)](http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx)
+- **Source:** blogs.msdn.com | **Posted:** 2015-01-11 | **By:** chokolad
+- **Community:** 140 points, 79 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=8870361
+- **Link:** http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx
+
 
 ## C++
 

@@ -932,15 +932,10 @@
     "https://news.ycombinator.com/item?id=6821576",
     "https://news.ycombinator.com/item?id=7185024",
     "https://news.ycombinator.com/item?id=7605687",
+    "https://news.ycombinator.com/item?id=8870361",
     "https://news.ycombinator.com/item?id=9962185"
   ],
   "recent": [
-    {
-      "date": "2026-10-15",
-      "subcat": "Research Papers",
-      "title": "A Case Study in Assuring AI-Written Software",
-      "url": "http://arxiv.org/abs/2610.08651v1"
-    },
     {
       "date": "2026-10-15",
       "subcat": "Rust",
@@ -994,6 +989,12 @@
       "subcat": "Python",
       "title": "Show HN: Py-spy  A new sampling profiler for Python pro",
       "url": "https://news.ycombinator.com/item?id=17927200"
+    },
+    {
+      "date": "2026-10-15",
+      "subcat": "C#",
+      "title": "New Features in C# 6 (2014)",
+      "url": "https://news.ycombinator.com/item?id=8870361"
     }
   ]
 }
