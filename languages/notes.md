@@ -1116,6 +1116,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/hccdqa/shipping_jpeg_xl_chrome
 - **Link:** https://developer.chrome.com/blog/jpeg-xl-in-chrome
 
+**Added 2026-10-15**
+
+### [Rust's derive often implies inline](https://yossarian.net/til/post/rust-s-derive-often-implies-inline/)
+- **Source:** yossarian.net | **Posted:** 2026-10-03 | **By:** yossarian
+- **Community:** 78 score, 15 comments on Lobsters
+- **Tags:** rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline
+- **Link:** https://yossarian.net/til/post/rust-s-derive-often-implies-inline/
+
 
 ## Elixir
 
