@@ -434,6 +434,15 @@ Snippets and gotchas across languages.
 - **Summary:** Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer currently building an AI-assisted CHANGELOG generator...
 - **Link:** https://dev.to/nyaomaru/how-do-we-extract-the-why-from-a-pr-into-a-changelog-with-jev-52pk
 
+**Added 2026-10-15**
+
+### [Which OpenAPI Codegen Should You Choose? openapi-typescript vs hey-api vs Orval vs Kubb](https://dev.to/nyaomaru/which-openapi-codegen-should-you-choose-openapi-typescript-vs-hey-api-vs-orval-vs-kubb-100p)
+- **Author:** nyaomaru | **Published:** May 20 | **Read time:** 18 min
+- **Community:** 61 reactions, 15 comments -- a top post in #typescript
+- **Tags:** typescript, openapi, frontend, webdev
+- **Summary:** Hoi hoi!  I'm @nyaomaru, a frontend engineer who thought OpenAPI codegen would make API clients...
+- **Link:** https://dev.to/nyaomaru/which-openapi-codegen-should-you-choose-openapi-typescript-vs-hey-api-vs-orval-vs-kubb-100p
+
 
 ## Python
 

@@ -131,6 +131,7 @@
     "https://dev.to/nyaomaru/learn-valid-parentheses-reverse-linked-list-and-tree-max-depth-with-step-by-step-visualization-in-3o09",
     "https://dev.to/nyaomaru/migrating-a-real-typescript-oss-library-from-tsup-to-tsdown-5b80",
     "https://dev.to/nyaomaru/typescript-compiler-api-preserving-child-node-narrowing-in-reusable-type-guards-4pgh",
+    "https://dev.to/nyaomaru/which-openapi-codegen-should-you-choose-openapi-typescript-vs-hey-api-vs-orval-vs-kubb-100p",
     "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
     "https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk",
     "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9",
@@ -931,12 +932,6 @@
   "recent": [
     {
       "date": "2026-10-15",
-      "subcat": "Research Papers",
-      "title": "How Low Can You Go: Fine-Tuning LLMs with Bayesian Opti",
-      "url": "http://arxiv.org/abs/2610.18504v1"
-    },
-    {
-      "date": "2026-10-15",
       "subcat": "C++",
       "title": "Cling: An Interactive C++ interpreter",
       "url": "https://news.ycombinator.com/item?id=11748147"
@@ -988,6 +983,12 @@
       "subcat": "JavaScript",
       "title": "The Birth and Death of JavaScript [video]",
       "url": "https://news.ycombinator.com/item?id=7605687"
+    },
+    {
+      "date": "2026-10-15",
+      "subcat": "TypeScript",
+      "title": "Which OpenAPI Codegen Should You Choose? openapi-typesc",
+      "url": "https://dev.to/nyaomaru/which-openapi-codegen-should-you-choose-openapi-typescript-vs-hey-api-vs-orval-vs-kubb-100p"
     }
   ]
 }
