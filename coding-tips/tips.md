@@ -1814,3 +1814,13 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/plbei0/openfatigue_open_is_new_closed
 - **Link:** https://openfatigue.ai/
+
+**Added 2026-10-15**
+
+### [Plasma 6.8 released (KDE's 30th birthday)](https://kde.org/announcements/plasma/6/6.8.0/)
+- **Source:** kde.org | **Posted:** 2026-10-14 | **By:** joshsharp
+- **Community:** 66 score, 4 comments on Lobsters
+- **Tags:** linux, release
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday
+- **Link:** https://kde.org/announcements/plasma/6/6.8.0/

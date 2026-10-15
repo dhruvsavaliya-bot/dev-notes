@@ -536,6 +536,7 @@
     "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your",
     "https://lobste.rs/s/ceuque/debian_code_search_fast_turbopfor_with_go",
     "https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit",
+    "https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday",
     "https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline",
     "https://lobste.rs/s/dpfpr3/goroutine_leak_profiles",
     "https://lobste.rs/s/dzvt0w/type_inference_all_constructs_next_15",
@@ -933,12 +934,6 @@
   "recent": [
     {
       "date": "2026-10-15",
-      "subcat": "Models & Datasets",
-      "title": "stabilityai/stable-diffusion-xl-base-1.0",
-      "url": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0"
-    },
-    {
-      "date": "2026-10-15",
       "subcat": "Lobsters Picks",
       "title": "OpenFatigue  Open is the new closed",
       "url": "https://lobste.rs/s/plbei0/openfatigue_open_is_new_closed"
@@ -990,6 +985,12 @@
       "subcat": "Models & Datasets",
       "title": "allenai/c4",
       "url": "https://huggingface.co/datasets/allenai/c4"
+    },
+    {
+      "date": "2026-10-15",
+      "subcat": "Lobsters Picks",
+      "title": "Plasma 6.8 released (KDE's 30th birthday)",
+      "url": "https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday"
     }
   ]
 }
