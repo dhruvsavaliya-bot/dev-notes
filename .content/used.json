@@ -220,6 +220,7 @@
     "https://github.com/Leonxlnx/unlazy",
     "https://github.com/LiamGvchi/gc-minimal-zine-poster",
     "https://github.com/LightningRAG/LightningRAG",
+    "https://github.com/LordixDemon/apple_watch_connector",
     "https://github.com/Louis-CFM/coucou",
     "https://github.com/MDX-Tom/gpt-5.6-instruct",
     "https://github.com/MIgHTy-alIeN/MEV-Ethereum-Trading-Bot",
@@ -952,12 +953,6 @@
     {
       "date": "2026-10-15",
       "subcat": "Models & Datasets",
-      "title": "audeering/wav2vec2-large-robust-24-ft-age-gender",
-      "url": "https://huggingface.co/audeering/wav2vec2-large-robust-24-ft-age-gender"
-    },
-    {
-      "date": "2026-10-15",
-      "subcat": "Models & Datasets",
       "title": "pixparse/idl-wds",
       "url": "https://huggingface.co/datasets/pixparse/idl-wds"
     },
@@ -1008,6 +1003,12 @@
       "subcat": "System Design & Architecture",
       "title": "The Cloud Exit Strategy: How to Run a Production SaaS f",
       "url": "https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi"
+    },
+    {
+      "date": "2026-10-15",
+      "subcat": "Other Cool Projects",
+      "title": "LordixDemon/apple_watch_connector",
+      "url": "https://github.com/LordixDemon/apple_watch_connector"
     }
   ]
 }

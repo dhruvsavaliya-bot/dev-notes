@@ -1907,6 +1907,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~12 stars/day since launch.
 - **Link:** https://github.com/mchughalex/skate3recomp
 
+**Added 2026-10-15**
+
+### [LordixDemon/apple_watch_connector](https://github.com/LordixDemon/apple_watch_connector)
+- **Stats:** 537 stars | 52 forks | 5 open issues
+- **Language:** Java | **Created:** 2026-10-09 | **License:** None
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~89 stars/day since launch.
+- **Link:** https://github.com/LordixDemon/apple_watch_connector
+
 
 ## Web & Frontend
 
