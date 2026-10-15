@@ -628,6 +628,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=8665820
 - **Link:** http://prooffreaderplus.blogspot.com/2014/11/top-10-python-idioms-i-wished-id.html
 
+**Added 2026-10-15**
+
+### [You’re a Real Python Developer Only If...](https://dev.to/hadil/youre-a-real-python-developer-only-if-94e)
+- **Author:** Hadil Ben Abdallah | **Published:** Oct 12 | **Read time:** 5 min
+- **Community:** 53 reactions, 22 comments -- a top post in #python
+- **Tags:** python, programming, discuss, ruby
+- **Summary:** A few months ago, I published You're a Real JavaScript Developer Only If...  It was supposed to be a...
+- **Link:** https://dev.to/hadil/youre-a-real-python-developer-only-if-94e
+
 
 ## Go
 
