@@ -522,6 +522,7 @@
     "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
     "https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base",
+    "https://huggingface.co/zai-org/GLM-4.6",
     "https://huggingface.co/zai-org/GLM-5.3-Flash",
     "https://huggingface.co/zai-org/chatglm3-6b",
     "https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial",
@@ -956,12 +957,6 @@
   "recent": [
     {
       "date": "2026-10-15",
-      "subcat": "Models & Datasets",
-      "title": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
-      "url": "https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct"
-    },
-    {
-      "date": "2026-10-15",
       "subcat": "Python",
       "title": "hugohe3/ppt-master",
       "url": "https://github.com/hugohe3/ppt-master"
@@ -1013,6 +1008,12 @@
       "subcat": "Research Papers",
       "title": "Discriminative Score Function: Turning Pretrained Model",
       "url": "http://arxiv.org/abs/2610.19743v1"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Models & Datasets",
+      "title": "zai-org/GLM-4.6",
+      "url": "https://huggingface.co/zai-org/GLM-4.6"
     }
   ]
 }

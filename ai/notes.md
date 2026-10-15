@@ -1167,6 +1167,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/Qwen/Qwen3.8-Flash-Next
 
+**Added 2026-10-16**
+
+### [zai-org/GLM-4.6](https://huggingface.co/zai-org/GLM-4.6)
+- **Stats:** 1,239 likes | 19,044 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2025-09-29
+- **Tags:** transformers, safetensors, glm4_moe, text-generation, conversational, en
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/zai-org/GLM-4.6
+
 
 ## Research Papers
 

@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**945 entries and counting** · Last updated: 2026-10-15
+**946 entries and counting** · Last updated: 2026-10-16
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 225 |
-| [AI / LLM Notes](ai/notes.md) | 170 |
+| [AI / LLM Notes](ai/notes.md) | 171 |
 | [Reading List](articles/reading-list.md) | 202 |
 | [Coding Tips](coding-tips/tips.md) | 198 |
 | [Language Notes](languages/notes.md) | 150 |
 
 ## Latest additions
 
+- **2026-10-16** · *Models & Datasets* — [zai-org/GLM-4.6](https://huggingface.co/zai-org/GLM-4.6)
 - **2026-10-15** · *Research Papers* — [Discriminative Score Function: Turning Pretrained Model](http://arxiv.org/abs/2610.19743v1)
 - **2026-10-15** · *Other Cool Projects* — [xm486/YukiHub](https://github.com/xm486/YukiHub)
 - **2026-10-15** · *System Design & Architecture* — [My 2026 Tech Stack is Boring as Hell (And That is the P](https://dev.to/the_nortern_dev/my-2026-tech-stack-is-boring-as-hell-and-that-is-the-point-20c1)
 - **2026-10-15** · *Models & Datasets* — [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)
-- **2026-10-15** · *Other Cool Projects* — [LordixDemon/apple_watch_connector](https://github.com/LordixDemon/apple_watch_connector)
 
 ## How it works
 
