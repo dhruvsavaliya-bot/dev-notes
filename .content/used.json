@@ -431,6 +431,7 @@
     "https://github.com/xai-org/grok-build",
     "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
     "https://github.com/xiaobright/dsh-anchored-standard",
+    "https://github.com/xm486/YukiHub",
     "https://github.com/xuchonglang/investing-for-beginners",
     "https://github.com/yang0/handraw-style",
     "https://github.com/yanliudesign/mono-color-skill",
@@ -954,12 +955,6 @@
   "recent": [
     {
       "date": "2026-10-15",
-      "subcat": "Machine Learning",
-      "title": "Super-Intelligent Yes-Men: Are We Training AI to Ignore",
-      "url": "https://dev.to/dannwaneri/super-intelligent-yes-men-are-we-training-ai-to-ignore-the-truth-epp"
-    },
-    {
-      "date": "2026-10-15",
       "subcat": "Python",
       "title": "Youre a Real Python Developer Only If...",
       "url": "https://dev.to/hadil/youre-a-real-python-developer-only-if-94e"
@@ -1011,6 +1006,12 @@
       "subcat": "System Design & Architecture",
       "title": "My 2026 Tech Stack is Boring as Hell (And That is the P",
       "url": "https://dev.to/the_nortern_dev/my-2026-tech-stack-is-boring-as-hell-and-that-is-the-point-20c1"
+    },
+    {
+      "date": "2026-10-15",
+      "subcat": "Other Cool Projects",
+      "title": "xm486/YukiHub",
+      "url": "https://github.com/xm486/YukiHub"
     }
   ]
 }

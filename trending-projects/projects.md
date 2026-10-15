@@ -1917,6 +1917,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~89 stars/day since launch.
 - **Link:** https://github.com/LordixDemon/apple_watch_connector
 
+**Added 2026-10-15**
+
+### [xm486/YukiHub](https://github.com/xm486/YukiHub)
+- **Stats:** 533 stars | 18 forks | 0 open issues
+- **Language:** Java | **Created:** 2026-05-24 | **License:** GPL-3.0
+- **Topics:** none listed
+- **What it is:** YukiHub is a Galgame management tool for Android that supports synchronization of local games, shortcuts, and play records. The project uses the GPL-3.0 open-source license.
+- **Growth:** averaging ~3 stars/day since launch.
+- **Link:** https://github.com/xm486/YukiHub
+
 
 ## Web & Frontend
 
