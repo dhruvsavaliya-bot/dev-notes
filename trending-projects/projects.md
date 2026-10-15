@@ -1897,6 +1897,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/AndroidCSIDE/ACSIDE
 
+**Added 2026-10-15**
+
+### [mchughalex/skate3recomp](https://github.com/mchughalex/skate3recomp)
+- **Stats:** 1,612 stars | 68 forks | 99 open issues
+- **Language:** C++ | **Created:** 2026-06-04 | **License:** None
+- **Topics:** none listed
+- **What it is:** A native recompilation of Skate 3 for Windows, Linux, and macOS.
+- **Growth:** averaging ~12 stars/day since launch.
+- **Link:** https://github.com/mchughalex/skate3recomp
+
 
 ## Web & Frontend
 

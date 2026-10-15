@@ -352,6 +352,7 @@
     "https://github.com/lnkiai/m3e-canvas",
     "https://github.com/lopopolo/harness-engineering",
     "https://github.com/mayswind/ezbookkeeping",
+    "https://github.com/mchughalex/skate3recomp",
     "https://github.com/mcncarl/jianying-headless",
     "https://github.com/mekos2772/ios-location-spoofer",
     "https://github.com/mesamirh/MovieBox-Tui",
@@ -935,12 +936,6 @@
   "recent": [
     {
       "date": "2026-10-15",
-      "subcat": "Lobsters Picks",
-      "title": "Gleam doesn't compile to Erlang source anymore",
-      "url": "https://lobste.rs/s/2svplr/gleam_doesn_t_compile_erlang_source"
-    },
-    {
-      "date": "2026-10-15",
       "subcat": "Other Cool Projects",
       "title": "AndroidCSIDE/ACSIDE",
       "url": "https://github.com/AndroidCSIDE/ACSIDE"
@@ -992,6 +987,12 @@
       "subcat": "Web Development",
       "title": "The Hard Truth About Learning to Code (That No One Tell",
       "url": "https://dev.to/hadil/the-hard-truth-about-learning-to-code-that-no-one-tells-you-15c1"
+    },
+    {
+      "date": "2026-10-15",
+      "subcat": "Other Cool Projects",
+      "title": "mchughalex/skate3recomp",
+      "url": "https://github.com/mchughalex/skate3recomp"
     }
   ]
 }
