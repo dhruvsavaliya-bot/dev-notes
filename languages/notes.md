@@ -776,6 +776,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/e5vf6k/don_t_couple_your_go_code_github
 - **Link:** https://iain.rocks/blog/dont-couple-your-go-code-to-github
 
+**Added 2026-10-15**
+
+### [Better HTTP/1 connection reuse](https://go.dev/blog/http-connection-reuse)
+- **Source:** go.dev | **Posted:** 2026-10-14 | **By:** donio
+- **Community:** 28 score, 2 comments on Lobsters
+- **Tags:** go
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/mkq3x9/better_http_1_connection_reuse
+- **Link:** https://go.dev/blog/http-connection-reuse
+
 
 ## PHP
 
