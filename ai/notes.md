@@ -1158,6 +1158,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF
 
+**Added 2026-10-15**
+
+### [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)
+- **Stats:** 6,247 likes | 2,290,500 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-08-24
+- **Tags:** transformers, safetensors, qwen4_exp, image-text-to-text, conversational, eval-results
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/Qwen/Qwen3.8-Flash-Next
+
 
 ## Research Papers
 

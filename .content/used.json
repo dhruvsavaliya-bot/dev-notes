@@ -461,6 +461,7 @@
     "https://huggingface.co/Qwen/Qwen3-ASR-1.7B",
     "https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct",
     "https://huggingface.co/Qwen/Qwen3.6-27B",
+    "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
     "https://huggingface.co/almanach/camembert-base",
     "https://huggingface.co/audeering/wav2vec2-large-robust-24-ft-age-gender",
     "https://huggingface.co/bytedance-research/Lance",
@@ -952,12 +953,6 @@
   "recent": [
     {
       "date": "2026-10-15",
-      "subcat": "Models & Datasets",
-      "title": "pixparse/idl-wds",
-      "url": "https://huggingface.co/datasets/pixparse/idl-wds"
-    },
-    {
-      "date": "2026-10-15",
       "subcat": "Python",
       "title": "Python idioms I wish I'd learned earlier",
       "url": "https://news.ycombinator.com/item?id=8665820"
@@ -1009,6 +1004,12 @@
       "subcat": "Other Cool Projects",
       "title": "LordixDemon/apple_watch_connector",
       "url": "https://github.com/LordixDemon/apple_watch_connector"
+    },
+    {
+      "date": "2026-10-15",
+      "subcat": "Models & Datasets",
+      "title": "Qwen/Qwen3.8-Flash-Next",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next"
     }
   ]
 }
