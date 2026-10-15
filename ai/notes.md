@@ -1495,3 +1495,13 @@ Lessons from building with LLMs.
 - **Abstract:** Software-engineering agents can enable people without formal software training to build systems they could not otherwise implement and simultaneously can produce more code than even experts can meaningfully inspect. In both cases, exhaustive code review is not reliable as the sole basis for human control. We report a case study of a production healthcare platform built through coding agents and governed by an operator without formal software-engineering training. Over time, its workflow grew int...
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.08651v1
+
+**Added 2026-10-15**
+
+### [Software Testing Meets Bayesian Workflow: A Literature-Driven Artifact Study of Probabilistic Programs](http://arxiv.org/abs/2610.16594v1)
+- **Authors:** Oleg Jarma, Maja Dall, Raúl Pardo, Mahsa Varshosaz et al.
+- **Published:** 2026-10-12 | **Primary category:** cs.SE
+- **Categories:** cs.SE
+- **Abstract:** Automated testing is an effective software quality assurance method, but it is rarely used for probabilistic models. This is despite the heavy use of probabilistic programming for data analytics in research and engineering, where the consequences of errors are dire. A key obstacle is the specification of testable correctness properties for probabilistic models, known as the oracle problem. Like machine learning, probabilistic programming is used precisely where no analytical specification exists...
+- **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.16594v1

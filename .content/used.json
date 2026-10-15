@@ -42,6 +42,7 @@
     "http://arxiv.org/abs/2610.13300v1",
     "http://arxiv.org/abs/2610.13407v1",
     "http://arxiv.org/abs/2610.15082v1",
+    "http://arxiv.org/abs/2610.16594v1",
     "http://arxiv.org/abs/2610.17747v1",
     "http://arxiv.org/abs/2610.18504v1",
     "http://arxiv.org/abs/2610.18745v1",
@@ -928,12 +929,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-14",
-      "subcat": "Elixir",
-      "title": "Atom Exhaustion Is Not a Footgun. It's One Third of Our",
-      "url": "https://lobste.rs/s/lfusbg/atom_exhaustion_is_not_footgun_it_s_one"
-    },
-    {
       "date": "2026-10-15",
       "subcat": "JavaScript",
       "title": "Two Tiny Utils for the Result Pattern",
@@ -986,6 +981,12 @@
       "subcat": "Rust",
       "title": "Rust's derive often implies inline",
       "url": "https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline"
+    },
+    {
+      "date": "2026-10-15",
+      "subcat": "Research Papers",
+      "title": "Software Testing Meets Bayesian Workflow: A Literature-",
+      "url": "http://arxiv.org/abs/2610.16594v1"
     }
   ]
 }
