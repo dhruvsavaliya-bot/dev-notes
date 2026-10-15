@@ -657,6 +657,7 @@
     "https://news.ycombinator.com/item?id=32630389",
     "https://news.ycombinator.com/item?id=33484185",
     "https://news.ycombinator.com/item?id=33512338",
+    "https://news.ycombinator.com/item?id=34287407",
     "https://news.ycombinator.com/item?id=34505603",
     "https://news.ycombinator.com/item?id=34560255",
     "https://news.ycombinator.com/item?id=35299071",
@@ -957,12 +958,6 @@
   "recent": [
     {
       "date": "2026-10-15",
-      "subcat": "Python",
-      "title": "hugohe3/ppt-master",
-      "url": "https://github.com/hugohe3/ppt-master"
-    },
-    {
-      "date": "2026-10-15",
       "subcat": "Research Papers",
       "title": "Part of the Strassen algorithm can speed up matrix mult",
       "url": "http://arxiv.org/abs/2610.08929v1"
@@ -1014,6 +1009,12 @@
       "subcat": "Models & Datasets",
       "title": "zai-org/GLM-4.6",
       "url": "https://huggingface.co/zai-org/GLM-4.6"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Show & Ask HN",
+      "title": "Tell HN: Vim users, `:x` is like `:wq` but writes only",
+      "url": "https://news.ycombinator.com/item?id=34287407"
     }
   ]
 }
