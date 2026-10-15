@@ -431,6 +431,7 @@
     "https://github.com/x4gKing/3x-ui",
     "https://github.com/x4gKing/X4G",
     "https://github.com/xai-org/grok-build",
+    "https://github.com/xai-org/x-algorithm",
     "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
     "https://github.com/xiaobright/dsh-anchored-standard",
     "https://github.com/xm486/YukiHub",
@@ -960,12 +961,6 @@
   "recent": [
     {
       "date": "2026-10-15",
-      "subcat": "System Design & Architecture",
-      "title": "The Cloud Exit Strategy: How to Run a Production SaaS f",
-      "url": "https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi"
-    },
-    {
-      "date": "2026-10-15",
       "subcat": "Other Cool Projects",
       "title": "LordixDemon/apple_watch_connector",
       "url": "https://github.com/LordixDemon/apple_watch_connector"
@@ -1017,6 +1012,12 @@
       "subcat": "Other Cool Projects",
       "title": "common-voice/common-voice",
       "url": "https://github.com/common-voice/common-voice"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Rust",
+      "title": "xai-org/x-algorithm",
+      "url": "https://github.com/xai-org/x-algorithm"
     }
   ]
 }

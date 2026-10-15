@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**949 entries and counting** · Last updated: 2026-10-16
+**950 entries and counting** · Last updated: 2026-10-16
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 171 |
 | [Reading List](articles/reading-list.md) | 203 |
 | [Coding Tips](coding-tips/tips.md) | 199 |
-| [Language Notes](languages/notes.md) | 150 |
+| [Language Notes](languages/notes.md) | 151 |
 
 ## Latest additions
 
+- **2026-10-16** · *Rust* — [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
 - **2026-10-16** · *Other Cool Projects* — [common-voice/common-voice](https://github.com/common-voice/common-voice)
 - **2026-10-16** · *Hacker News Picks* — [Celebrating 70 Years of Fortran](https://news.ycombinator.com/item?id=50104726)
 - **2026-10-16** · *Show & Ask HN* — [Tell HN: Vim users, `:x` is like `:wq` but writes only](https://news.ycombinator.com/item?id=34287407)
 - **2026-10-16** · *Models & Datasets* — [zai-org/GLM-4.6](https://huggingface.co/zai-org/GLM-4.6)
-- **2026-10-15** · *Research Papers* — [Discriminative Score Function: Turning Pretrained Model](http://arxiv.org/abs/2610.19743v1)
 
 ## How it works
 

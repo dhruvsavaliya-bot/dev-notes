@@ -1201,6 +1201,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline
 - **Link:** https://yossarian.net/til/post/rust-s-derive-often-implies-inline/
 
+**Added 2026-10-16**
+
+### [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
+- **Stats:** 33,643 stars | 5,447 forks | 143 open issues
+- **Language:** Rust | **Created:** 2026-01-19 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** Algorithm powering the For You feed on X
+- **Growth:** averaging ~124 stars/day since launch.
+- **Link:** https://github.com/xai-org/x-algorithm
+
 
 ## Elixir
 
