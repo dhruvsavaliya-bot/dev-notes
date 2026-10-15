@@ -461,6 +461,7 @@
     "https://huggingface.co/datasets/OpenGVLab/ShareGPT-4o",
     "https://huggingface.co/datasets/ShadenA/MathNet",
     "https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro",
+    "https://huggingface.co/datasets/allenai/c4",
     "https://huggingface.co/datasets/argilla/magpie-ultra-v0.1",
     "https://huggingface.co/datasets/eidon-ai/tracker-pov",
     "https://huggingface.co/datasets/espnet/yodas2",
@@ -932,12 +933,6 @@
   "recent": [
     {
       "date": "2026-10-15",
-      "subcat": "C++",
-      "title": "Cling: An Interactive C++ interpreter",
-      "url": "https://news.ycombinator.com/item?id=11748147"
-    },
-    {
-      "date": "2026-10-15",
       "subcat": "Models & Datasets",
       "title": "stabilityai/stable-diffusion-xl-base-1.0",
       "url": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0"
@@ -989,6 +984,12 @@
       "subcat": "TypeScript",
       "title": "Which OpenAPI Codegen Should You Choose? openapi-typesc",
       "url": "https://dev.to/nyaomaru/which-openapi-codegen-should-you-choose-openapi-typescript-vs-hey-api-vs-orval-vs-kubb-100p"
+    },
+    {
+      "date": "2026-10-15",
+      "subcat": "Models & Datasets",
+      "title": "allenai/c4",
+      "url": "https://huggingface.co/datasets/allenai/c4"
     }
   ]
 }

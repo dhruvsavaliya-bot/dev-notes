@@ -1103,6 +1103,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0
 
+**Added 2026-10-15**
+
+### [allenai/c4](https://huggingface.co/datasets/allenai/c4)
+- **Stats:** 686 likes | 816,574 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2022-03-02
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/allenai/c4
+
 
 ## Research Papers
 
