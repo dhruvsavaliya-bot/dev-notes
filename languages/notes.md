@@ -600,6 +600,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=11076390
 - **Link:** http://bokeh.pydata.org/en/latest/
 
+**Added 2026-10-15**
+
+### [Show HN: Py-spy – A new sampling profiler for Python programs](https://github.com/benfred/py-spy)
+- **Source:** github.com | **Posted:** 2018-09-06 | **By:** benfrederickson
+- **Community:** 286 points, 43 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=17927200
+- **Link:** https://github.com/benfred/py-spy
+
 
 ## Go
 
