@@ -1550,6 +1550,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50061659
 - **Link:** https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002
 
+**Added 2026-10-16**
+
+### [Celebrating 70 Years of Fortran](https://fortran-lang.org/news/2026/09-15-Fortran-birthday/)
+- **Source:** fortran-lang.org | **Posted:** 2026-10-15 | **By:** rbanffy
+- **Community:** 167 points, 67 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50104726
+- **Link:** https://fortran-lang.org/news/2026/09-15-Fortran-birthday/
+
 
 ## DevOps & Cloud
 

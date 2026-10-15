@@ -947,6 +947,7 @@
     "https://news.ycombinator.com/item?id=50006832",
     "https://news.ycombinator.com/item?id=50009295",
     "https://news.ycombinator.com/item?id=50061659",
+    "https://news.ycombinator.com/item?id=50104726",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6821576",
     "https://news.ycombinator.com/item?id=7185024",
@@ -956,12 +957,6 @@
     "https://news.ycombinator.com/item?id=9962185"
   ],
   "recent": [
-    {
-      "date": "2026-10-15",
-      "subcat": "Research Papers",
-      "title": "Part of the Strassen algorithm can speed up matrix mult",
-      "url": "http://arxiv.org/abs/2610.08929v1"
-    },
     {
       "date": "2026-10-15",
       "subcat": "Models & Datasets",
@@ -1015,6 +1010,12 @@
       "subcat": "Show & Ask HN",
       "title": "Tell HN: Vim users, `:x` is like `:wq` but writes only",
       "url": "https://news.ycombinator.com/item?id=34287407"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Hacker News Picks",
+      "title": "Celebrating 70 Years of Fortran",
+      "url": "https://news.ycombinator.com/item?id=50104726"
     }
   ]
 }
