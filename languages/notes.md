@@ -637,6 +637,16 @@ Snippets and gotchas across languages.
 - **Summary:** A few months ago, I published You're a Real JavaScript Developer Only If...  It was supposed to be a...
 - **Link:** https://dev.to/hadil/youre-a-real-python-developer-only-if-94e
 
+**Added 2026-10-15**
+
+### [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)
+- **Stats:** 62,329 stars | 4,945 forks | 1 open issues
+- **Language:** Python | **Created:** 2025-12-10 | **License:** MIT
+- **Topics:** ai-agent, aippt, office, powerpoint, powerpoint-generation, ppt
+- **What it is:** AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
+- **Growth:** averaging ~201 stars/day since launch.
+- **Link:** https://github.com/hugohe3/ppt-master
+
 
 ## Go
 

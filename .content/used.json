@@ -334,6 +334,7 @@
     "https://github.com/harris21/laravel-fuse",
     "https://github.com/herdrdev/herdr",
     "https://github.com/hoainho/img2threejs",
+    "https://github.com/hugohe3/ppt-master",
     "https://github.com/img2threejs/img2threejs",
     "https://github.com/imsai-sh/zhuzhiliao",
     "https://github.com/isjiamu/gzh-design-skill",
@@ -947,12 +948,6 @@
   "recent": [
     {
       "date": "2026-10-15",
-      "subcat": "C#",
-      "title": "New Features in C# 6 (2014)",
-      "url": "https://news.ycombinator.com/item?id=8870361"
-    },
-    {
-      "date": "2026-10-15",
       "subcat": "JavaScript",
       "title": "panxunying/ai-coding-welfare",
       "url": "https://github.com/panxunying/ai-coding-welfare"
@@ -1004,6 +999,12 @@
       "subcat": "Models & Datasets",
       "title": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct"
+    },
+    {
+      "date": "2026-10-15",
+      "subcat": "Python",
+      "title": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master"
     }
   ]
 }
