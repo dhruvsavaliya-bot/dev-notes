@@ -1937,6 +1937,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/common-voice/common-voice
 
+**Added 2026-10-16**
+
+### [Alvin9999-newpac/fanqiang](https://github.com/Alvin9999-newpac/fanqiang)
+- **Stats:** 3,033 stars | 357 forks | 2 open issues
+- **Language:** Shell | **Created:** 2025-12-19 | **License:** None
+- **Topics:** clash, fanqiang, hysteria2, kexueshangwang, reality, sing-box
+- **What it is:** 免费翻墙、免费科学上网、翻墙翻墙、科学上网、Mac/iOS/安卓翻墙、翻墙翻墙、自由上网、 一键翻墙浏览器、免费shadowsocks/ss/ssr/v2ray/hysteria/hysteria2/vmess/vless/reality/goflyway账号/节点、fanqiang、翻墙翻墙、科学上网、翻墙翻墙翻墙翻墙翻墙翻墙翻墙、 翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网 翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网 翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网 翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网 翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙翻墙翻墙翻墙
+- **Growth:** averaging ~10 stars/day since launch.
+- **Link:** https://github.com/Alvin9999-newpac/fanqiang
+
 
 ## Web & Frontend
 
