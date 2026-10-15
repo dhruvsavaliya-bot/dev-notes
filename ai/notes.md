@@ -1112,6 +1112,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/allenai/c4
 
+**Added 2026-10-15**
+
+### [audeering/wav2vec2-large-robust-24-ft-age-gender](https://huggingface.co/audeering/wav2vec2-large-robust-24-ft-age-gender)
+- **Stats:** 79 likes | 2,297,676 downloads
+- **Kind:** Hugging Face model | **Task:** audio-classification | **Created:** 2023-09-04
+- **Tags:** transformers, pytorch, safetensors, wav2vec2, speech, audio
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/audeering/wav2vec2-large-robust-24-ft-age-gender
+
 
 ## Research Papers
 
