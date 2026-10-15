@@ -85,6 +85,7 @@
     "https://dev.to/gramli/how-i-smashed-a-bug-in-a-shared-authentication-library-33fm",
     "https://dev.to/hadil/angular-datagrid-a-free-open-source-ag-grid-alternative-built-for-scale-5gkm",
     "https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b",
+    "https://dev.to/hadil/the-hard-truth-about-learning-to-code-that-no-one-tells-you-15c1",
     "https://dev.to/harsh2644/you-dont-have-an-ai-problem-you-have-a-thinking-problem-5f07",
     "https://dev.to/he4rt/1a-vez-trabalhando-com-git-com-time-tudo-que-voce-precisa-saber-19il",
     "https://dev.to/he4rt/claude-e-obsidian-como-uma-qa-utiliza-essas-ferramentas-no-dia-a-dia-51jc",
@@ -935,12 +936,6 @@
     {
       "date": "2026-10-15",
       "subcat": "Lobsters Picks",
-      "title": "OpenFatigue  Open is the new closed",
-      "url": "https://lobste.rs/s/plbei0/openfatigue_open_is_new_closed"
-    },
-    {
-      "date": "2026-10-15",
-      "subcat": "Lobsters Picks",
       "title": "Gleam doesn't compile to Erlang source anymore",
       "url": "https://lobste.rs/s/2svplr/gleam_doesn_t_compile_erlang_source"
     },
@@ -991,6 +986,12 @@
       "subcat": "Lobsters Picks",
       "title": "Plasma 6.8 released (KDE's 30th birthday)",
       "url": "https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday"
+    },
+    {
+      "date": "2026-10-15",
+      "subcat": "Web Development",
+      "title": "The Hard Truth About Learning to Code (That No One Tell",
+      "url": "https://dev.to/hadil/the-hard-truth-about-learning-to-code-that-no-one-tells-you-15c1"
     }
   ]
 }

@@ -161,6 +161,15 @@ Fresh dev articles and blog posts.
 - **Summary:** The config migration was small. Preserving the package contract was the interesting part.   Hoi hoi!...
 - **Link:** https://dev.to/nyaomaru/migrating-a-real-typescript-oss-library-from-tsup-to-tsdown-5b80
 
+**Added 2026-10-15**
+
+### [The Hard Truth About Learning to Code (That No One Tells You)](https://dev.to/hadil/the-hard-truth-about-learning-to-code-that-no-one-tells-you-15c1)
+- **Author:** Hadil Ben Abdallah | **Published:** Nov 13 '25 | **Read time:** 3 min
+- **Community:** 187 reactions, 83 comments -- a top post in #webdev
+- **Tags:** webdev, programming, productivity, learning
+- **Summary:** Everyone says learning to code is fun. They talk about “building cool projects,” “landing your first...
+- **Link:** https://dev.to/hadil/the-hard-truth-about-learning-to-code-that-no-one-tells-you-15c1
+
 
 ## Hacker News Picks
 
