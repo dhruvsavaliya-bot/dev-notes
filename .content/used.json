@@ -47,6 +47,7 @@
     "http://arxiv.org/abs/2610.17747v1",
     "http://arxiv.org/abs/2610.18504v1",
     "http://arxiv.org/abs/2610.18745v1",
+    "http://arxiv.org/abs/2610.19743v1",
     "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
     "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
     "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag",
@@ -955,12 +956,6 @@
   "recent": [
     {
       "date": "2026-10-15",
-      "subcat": "Python",
-      "title": "Youre a Real Python Developer Only If...",
-      "url": "https://dev.to/hadil/youre-a-real-python-developer-only-if-94e"
-    },
-    {
-      "date": "2026-10-15",
       "subcat": "Models & Datasets",
       "title": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct"
@@ -1012,6 +1007,12 @@
       "subcat": "Other Cool Projects",
       "title": "xm486/YukiHub",
       "url": "https://github.com/xm486/YukiHub"
+    },
+    {
+      "date": "2026-10-15",
+      "subcat": "Research Papers",
+      "title": "Discriminative Score Function: Turning Pretrained Model",
+      "url": "http://arxiv.org/abs/2610.19743v1"
     }
   ]
 }

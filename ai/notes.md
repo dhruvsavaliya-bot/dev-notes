@@ -1579,3 +1579,13 @@ Lessons from building with LLMs.
 - **Abstract:** We present a novel variant of the Strassen algorithm called the Partial Strassen algorithm, which uses a fraction of the Strassen steps to perform matrix multiplication in less time than traditional implementations. The memory footprint required to implement this algorithm is provably small whether used with a single thread or in a multi-threaded context. Data comparing the Partial Strassen algorithm at depths one, two, and three with BLAS matrix multiplication show that the three-level Partial ...
 - **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.08929v1
+
+**Added 2026-10-15**
+
+### [Discriminative Score Function: Turning Pretrained Models into Functional Generative Priors](http://arxiv.org/abs/2610.19743v1)
+- **Authors:** Junhoo Lee, Hyeonjin Kim, Sangbum Han, Nojun Kwak
+- **Published:** 2026-10-14 | **Primary category:** cs.LG
+- **Categories:** cs.CV, cs.LG
+- **Abstract:** Discriminative models are trained with task-specific objectives such as classification, detection, or representation learning, yet their practical utility depends on generalizing beyond the training task to unseen samples from the same domain. This suggests that a discriminative model may retain an implicit trace of the data manifold beyond its task labels. We ask whether this trace can be exposed as a generative signal without task-specific guidance. We introduce the Discriminative Score Functi...
+- **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.19743v1
