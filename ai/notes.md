@@ -1149,6 +1149,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct
 
+**Added 2026-10-15**
+
+### [huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF](https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF)
+- **Stats:** 1,332 likes | 2,329,638 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-08-16
+- **Tags:** transformers, gguf, abliterated, uncensored, huihui, qwen3
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF
+
 
 ## Research Papers
 

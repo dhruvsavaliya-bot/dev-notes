@@ -500,6 +500,7 @@
     "https://huggingface.co/datasets/zgcagi/ZGCM-1-Data",
     "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
     "https://huggingface.co/google/siglip-base-patch16-224",
+    "https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
     "https://huggingface.co/jaredpalmer/kev-4b",
     "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
     "https://huggingface.co/meta-llama/Llama-3.1-8B",
@@ -949,12 +950,6 @@
   "recent": [
     {
       "date": "2026-10-15",
-      "subcat": "C#",
-      "title": "builtbybel/FluentTweaker",
-      "url": "https://github.com/builtbybel/FluentTweaker"
-    },
-    {
-      "date": "2026-10-15",
       "subcat": "Go",
       "title": "Better HTTP/1 connection reuse",
       "url": "https://lobste.rs/s/mkq3x9/better_http_1_connection_reuse"
@@ -1006,6 +1001,12 @@
       "subcat": "Research Papers",
       "title": "Part of the Strassen algorithm can speed up matrix mult",
       "url": "http://arxiv.org/abs/2610.08929v1"
+    },
+    {
+      "date": "2026-10-15",
+      "subcat": "Models & Datasets",
+      "title": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "url": "https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF"
     }
   ]
 }
