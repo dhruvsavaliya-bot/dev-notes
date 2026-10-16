@@ -470,6 +470,7 @@
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
     "https://huggingface.co/Qwen/Qwen2.5-32B-Instruct-AWQ",
     "https://huggingface.co/Qwen/Qwen3-0.6B",
+    "https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507",
     "https://huggingface.co/Qwen/Qwen3-ASR-1.7B",
     "https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct",
     "https://huggingface.co/Qwen/Qwen3.6-27B",
@@ -977,12 +978,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: A visual guide to the most popular CSS propert",
-      "url": "https://news.ycombinator.com/item?id=13031492"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Open Source",
       "title": "People Are Vibe-Coding Clones of Every Paid App. What A",
       "url": "https://dev.to/james_anderson_h/people-are-vibe-coding-clones-of-every-paid-app-what-actually-survives-38ak"
@@ -1034,6 +1029,12 @@
       "subcat": "Web & Frontend",
       "title": "AstrBotDevs/AstrBot-desktop",
       "url": "https://github.com/AstrBotDevs/AstrBot-desktop"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Models & Datasets",
+      "title": "Qwen/Qwen3-4B-Instruct-2507",
+      "url": "https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507"
     }
   ]
 }

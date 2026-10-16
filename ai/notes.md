@@ -1203,6 +1203,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/Alibaba-NLP/gte-large-en-v1.5
 
+**Added 2026-10-16**
+
+### [Qwen/Qwen3-4B-Instruct-2507](https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507)
+- **Stats:** 1,014 likes | 3,178,283 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2025-08-05
+- **Tags:** transformers, safetensors, qwen3, text-generation, conversational, eval-results
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507
+
 
 ## Research Papers
 

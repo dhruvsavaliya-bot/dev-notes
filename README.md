@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**966 entries and counting** · Last updated: 2026-10-16
+**967 entries and counting** · Last updated: 2026-10-16
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 229 |
-| [AI / LLM Notes](ai/notes.md) | 174 |
+| [AI / LLM Notes](ai/notes.md) | 175 |
 | [Reading List](articles/reading-list.md) | 206 |
 | [Coding Tips](coding-tips/tips.md) | 202 |
 | [Language Notes](languages/notes.md) | 155 |
 
 ## Latest additions
 
+- **2026-10-16** · *Models & Datasets* — [Qwen/Qwen3-4B-Instruct-2507](https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507)
 - **2026-10-16** · *Web & Frontend* — [AstrBotDevs/AstrBot-desktop](https://github.com/AstrBotDevs/AstrBot-desktop)
 - **2026-10-16** · *Lobsters Picks* — [Haxy.net is live!  HAXY (git forge) devlog](https://lobste.rs/s/o0ixth/haxy_net_is_live_haxy_git_forge_devlog)
 - **2026-10-16** · *Show & Ask HN* — [Show HN: hue.tools  open-source toolbox for colors](https://news.ycombinator.com/item?id=30362112)
 - **2026-10-16** · *C++* — [You've just inherited a legacy C++ codebase, now what?](https://news.ycombinator.com/item?id=39549486)
-- **2026-10-16** · *AI & Machine Learning* — [cocojojo5213/Dev-Janitor](https://github.com/cocojojo5213/Dev-Janitor)
 
 ## How it works
 
