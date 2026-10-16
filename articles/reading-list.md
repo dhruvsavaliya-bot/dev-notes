@@ -1902,6 +1902,16 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn
 - **Link:** https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html
 
+**Added 2026-10-16**
+
+### [The road to iroh 1.0](https://www.iroh.computer/blog/the-road-to-iroh-1-0)
+- **Source:** www.iroh.computer | **Posted:** 2026-10-16 | **By:** Frando
+- **Community:** 19 score, 3 comments on Lobsters
+- **Tags:** networking
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/6laoto/road_iroh_1_0
+- **Link:** https://www.iroh.computer/blog/the-road-to-iroh-1-0
+
 
 ## Performance
 
