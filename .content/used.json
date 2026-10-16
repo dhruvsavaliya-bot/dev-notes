@@ -193,6 +193,7 @@
     "https://github.com/Alvin9999-newpac/fanqiang",
     "https://github.com/AndroidCSIDE/ACSIDE",
     "https://github.com/ApodexAI/FrontierAgent",
+    "https://github.com/AstrBotDevs/AstrBot-desktop",
     "https://github.com/Blimp-Labs/claude-usage-bar",
     "https://github.com/CluvexStudio/Aether",
     "https://github.com/Contrastive-LM/CLM",
@@ -976,12 +977,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Models & Datasets",
-      "title": "Alibaba-NLP/gte-large-en-v1.5",
-      "url": "https://huggingface.co/Alibaba-NLP/gte-large-en-v1.5"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Show & Ask HN",
       "title": "Show HN: A visual guide to the most popular CSS propert",
       "url": "https://news.ycombinator.com/item?id=13031492"
@@ -1033,6 +1028,12 @@
       "subcat": "Lobsters Picks",
       "title": "Haxy.net is live!  HAXY (git forge) devlog",
       "url": "https://lobste.rs/s/o0ixth/haxy_net_is_live_haxy_git_forge_devlog"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Web & Frontend",
+      "title": "AstrBotDevs/AstrBot-desktop",
+      "url": "https://github.com/AstrBotDevs/AstrBot-desktop"
     }
   ]
 }

@@ -2090,6 +2090,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/MetaMask/metamask-mobile
 
+**Added 2026-10-16**
+
+### [AstrBotDevs/AstrBot-desktop](https://github.com/AstrBotDevs/AstrBot-desktop)
+- **Stats:** 871 stars | 45 forks | 5 open issues
+- **Language:** Rust | **Created:** 2026-02-19 | **License:** AGPL-3.0
+- **Topics:** none listed
+- **What it is:** The desktop edition of AstrBot, designed for fast local installation and convenient access to ChatUI and plugins.
+- **Growth:** averaging ~3 stars/day since launch.
+- **Link:** https://github.com/AstrBotDevs/AstrBot-desktop
+
 
 ## Developer Tools
 
