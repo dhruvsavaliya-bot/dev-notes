@@ -1967,6 +1967,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~10 stars/day since launch.
 - **Link:** https://github.com/Alvin9999-newpac/fanqiang
 
+**Added 2026-10-16**
+
+### [arjunskumar/Robotics_CPP_Notes](https://github.com/arjunskumar/Robotics_CPP_Notes)
+- **Stats:** 353 stars | 38 forks | 0 open issues
+- **Language:** C++ | **Created:** 2026-04-16 | **License:** None
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/arjunskumar/Robotics_CPP_Notes
+
 
 ## Web & Frontend
 

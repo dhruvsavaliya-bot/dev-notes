@@ -300,6 +300,7 @@
     "https://github.com/anywhere-labs/dsh-desktop",
     "https://github.com/apache/ossie",
     "https://github.com/ardatan/graphql-tools",
+    "https://github.com/arjunskumar/Robotics_CPP_Notes",
     "https://github.com/arvids-unavailable/openGym",
     "https://github.com/ashemag/human-atlas",
     "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
@@ -993,12 +994,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Research Papers",
-      "title": "ShiftQAT: Quantization-Aware Training for the Numerical",
-      "url": "http://arxiv.org/abs/2610.21695v1"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Productivity",
       "title": "Cool Effects, TTS, and Fun Animations (AI Avatar v15: V",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec"
@@ -1050,6 +1045,12 @@
       "subcat": "Lobsters Picks",
       "title": "The road to iroh 1.0",
       "url": "https://lobste.rs/s/6laoto/road_iroh_1_0"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Other Cool Projects",
+      "title": "arjunskumar/Robotics_CPP_Notes",
+      "url": "https://github.com/arjunskumar/Robotics_CPP_Notes"
     }
   ]
 }

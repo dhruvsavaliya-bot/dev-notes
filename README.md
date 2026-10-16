@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**982 entries and counting** · Last updated: 2026-10-16
+**983 entries and counting** · Last updated: 2026-10-16
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 230 |
+| [Trending Projects](trending-projects/projects.md) | 231 |
 | [AI / LLM Notes](ai/notes.md) | 179 |
 | [Reading List](articles/reading-list.md) | 209 |
 | [Coding Tips](coding-tips/tips.md) | 204 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-16** · *Other Cool Projects* — [arjunskumar/Robotics_CPP_Notes](https://github.com/arjunskumar/Robotics_CPP_Notes)
 - **2026-10-16** · *Lobsters Picks* — [The road to iroh 1.0](https://lobste.rs/s/6laoto/road_iroh_1_0)
 - **2026-10-16** · *Show & Ask HN* — [Show HN: TensorFire](https://news.ycombinator.com/item?id=14894653)
 - **2026-10-16** · *Models & Datasets* — [HumynLabs/airline-customersupport-Hinglish-audio](https://huggingface.co/datasets/HumynLabs/airline-customersupport-Hinglish-audio)
 - **2026-10-16** · *Ruby* — [mattprusak/autoresearch-genealogy](https://github.com/mattprusak/autoresearch-genealogy)
-- **2026-10-16** · *Kotlin* — [Miuzarte/ScrcpyForAndroid](https://github.com/Miuzarte/ScrcpyForAndroid)
 
 ## How it works
 
