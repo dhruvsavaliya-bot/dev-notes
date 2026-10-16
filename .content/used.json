@@ -413,6 +413,7 @@
     "https://github.com/shihabal3amri/DiPlay",
     "https://github.com/slvDev/esp32-ai",
     "https://github.com/srizzon/git-city",
+    "https://github.com/storytold/vectorcraft",
     "https://github.com/sunny-glow/Auto-BenchMax",
     "https://github.com/synthetic-sciences/openscience",
     "https://github.com/tamaratran/fast-jev-compaction",
@@ -985,12 +986,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Lobsters Picks",
-      "title": "Haxy.net is live!  HAXY (git forge) devlog",
-      "url": "https://lobste.rs/s/o0ixth/haxy_net_is_live_haxy_git_forge_devlog"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Web & Frontend",
       "title": "AstrBotDevs/AstrBot-desktop",
       "url": "https://github.com/AstrBotDevs/AstrBot-desktop"
@@ -1042,6 +1037,12 @@
       "subcat": "Productivity",
       "title": "Cool Effects, TTS, and Fun Animations (AI Avatar v15: V",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Rust",
+      "title": "storytold/vectorcraft",
+      "url": "https://github.com/storytold/vectorcraft"
     }
   ]
 }

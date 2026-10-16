@@ -1220,6 +1220,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~124 stars/day since launch.
 - **Link:** https://github.com/xai-org/x-algorithm
 
+**Added 2026-10-16**
+
+### [storytold/vectorcraft](https://github.com/storytold/vectorcraft)
+- **Stats:** 9,327 stars | 4,502 forks | 470 open issues
+- **Language:** Rust | **Created:** 2026-09-30 | **License:** Apache-2.0
+- **Topics:** art, rust, rust-lang, svg, svg-editor, vector-graphics
+- **What it is:** VectorCraft: An open-source, vector art tool written by scratch in pure Rust
+- **Growth:** averaging ~582 stars/day since launch.
+- **Link:** https://github.com/storytold/vectorcraft
+
 
 ## Elixir
 
