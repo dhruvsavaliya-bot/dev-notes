@@ -503,6 +503,7 @@
     "https://huggingface.co/datasets/espnet/yodas",
     "https://huggingface.co/datasets/espnet/yodas2",
     "https://huggingface.co/datasets/fka/prompts.chat",
+    "https://huggingface.co/datasets/garage-bAInd/Open-Platypus",
     "https://huggingface.co/datasets/glaiveai/glaive-function-calling-v2",
     "https://huggingface.co/datasets/google-research-datasets/mbpp",
     "https://huggingface.co/datasets/harborframework/terminal-bench-2.0",
@@ -995,12 +996,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Rust",
-      "title": "storytold/vectorcraft",
-      "url": "https://github.com/storytold/vectorcraft"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Models & Datasets",
       "title": "espnet/yodas",
       "url": "https://huggingface.co/datasets/espnet/yodas"
@@ -1052,6 +1047,12 @@
       "subcat": "Ruby",
       "title": "0din-ai/ai-scanner",
       "url": "https://github.com/0din-ai/ai-scanner"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Models & Datasets",
+      "title": "garage-bAInd/Open-Platypus",
+      "url": "https://huggingface.co/datasets/garage-bAInd/Open-Platypus"
     }
   ]
 }

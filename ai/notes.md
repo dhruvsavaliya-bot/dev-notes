@@ -1239,6 +1239,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/HumynLabs/airline-customersupport-Hinglish-audio
 
+**Added 2026-10-16**
+
+### [garage-bAInd/Open-Platypus](https://huggingface.co/datasets/garage-bAInd/Open-Platypus)
+- **Stats:** 428 likes | 13,857 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2023-08-03
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/garage-bAInd/Open-Platypus
+
 
 ## Research Papers
 
