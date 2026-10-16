@@ -526,6 +526,7 @@
     "https://huggingface.co/datasets/openbmb/RLHF-V-Dataset",
     "https://huggingface.co/datasets/openbmb/UltraData-Code",
     "https://huggingface.co/datasets/pixparse/idl-wds",
+    "https://huggingface.co/datasets/shibing624/medical",
     "https://huggingface.co/datasets/tau/commonsense_qa",
     "https://huggingface.co/datasets/tiiuae/falcon-refinedweb",
     "https://huggingface.co/datasets/ystemsrx/Erotic_Literature_Collection",
@@ -1003,12 +1004,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Other Cool Projects",
-      "title": "arjunskumar/Robotics_CPP_Notes",
-      "url": "https://github.com/arjunskumar/Robotics_CPP_Notes"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Ruby",
       "title": "0din-ai/ai-scanner",
       "url": "https://github.com/0din-ai/ai-scanner"
@@ -1060,6 +1055,12 @@
       "subcat": "Java",
       "title": "amak-tech/port-buddy",
       "url": "https://github.com/amak-tech/port-buddy"
+    },
+    {
+      "date": "2026-10-17",
+      "subcat": "Models & Datasets",
+      "title": "shibing624/medical",
+      "url": "https://huggingface.co/datasets/shibing624/medical"
     }
   ]
 }

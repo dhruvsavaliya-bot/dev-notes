@@ -1266,6 +1266,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/bigcode/the-stack-v2
 
+**Added 2026-10-17**
+
+### [shibing624/medical](https://huggingface.co/datasets/shibing624/medical)
+- **Stats:** 449 likes | 2,385 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2023-05-22
+- **Tags:** text-generation
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/shibing624/medical
+
 
 ## Research Papers
 
