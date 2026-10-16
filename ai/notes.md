@@ -1643,3 +1643,13 @@ Lessons from building with LLMs.
 - **Abstract:** Discriminative models are trained with task-specific objectives such as classification, detection, or representation learning, yet their practical utility depends on generalizing beyond the training task to unseen samples from the same domain. This suggests that a discriminative model may retain an implicit trace of the data manifold beyond its task labels. We ask whether this trace can be exposed as a generative signal without task-specific guidance. We introduce the Discriminative Score Functi...
 - **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.19743v1
+
+**Added 2026-10-16**
+
+### [ShiftQAT: Quantization-Aware Training for the Numerical Contract of a Fixed-Function Edge CNN Accelerator](http://arxiv.org/abs/2610.21695v1)
+- **Authors:** Oguzhan Buyuksolak, Osman Erman Okman, Mehmet Gorkem Ulkar
+- **Published:** 2026-10-15 | **Primary category:** cs.LG
+- **Categories:** cs.LG
+- **Abstract:** Fixed-function CNN accelerators make edge inference fast and energy-efficient, but they execute only networks that obey a precise numerical contract. On the MAX7800x family, this contract requires power-of-two, per-tensor, symmetric scales, 8-bit activations and biases, integer-only arithmetic, and one statically configured shift per layer. We present ShiftQAT, the quantization-aware training (QAT) flow we developed for this family, which produces networks satisfying the contract by construction...
+- **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.21695v1

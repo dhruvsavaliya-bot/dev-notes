@@ -48,6 +48,7 @@
     "http://arxiv.org/abs/2610.18504v1",
     "http://arxiv.org/abs/2610.18745v1",
     "http://arxiv.org/abs/2610.19743v1",
+    "http://arxiv.org/abs/2610.21695v1",
     "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
     "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
     "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag",
@@ -983,12 +984,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "C++",
-      "title": "You've just inherited a legacy C++ codebase, now what?",
-      "url": "https://news.ycombinator.com/item?id=39549486"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Show & Ask HN",
       "title": "Show HN: hue.tools  open-source toolbox for colors",
       "url": "https://news.ycombinator.com/item?id=30362112"
@@ -1040,6 +1035,12 @@
       "subcat": "AI & Machine Learning",
       "title": "openobserve/openobserve",
       "url": "https://github.com/openobserve/openobserve"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Research Papers",
+      "title": "ShiftQAT: Quantization-Aware Training for the Numerical",
+      "url": "http://arxiv.org/abs/2610.21695v1"
     }
   ]
 }
