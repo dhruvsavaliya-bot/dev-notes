@@ -661,6 +661,7 @@
     "https://news.ycombinator.com/item?id=28203654",
     "https://news.ycombinator.com/item?id=2886187",
     "https://news.ycombinator.com/item?id=30219984",
+    "https://news.ycombinator.com/item?id=30362112",
     "https://news.ycombinator.com/item?id=30467919",
     "https://news.ycombinator.com/item?id=30513030",
     "https://news.ycombinator.com/item?id=31335904",
@@ -974,12 +975,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Machine Learning",
-      "title": "I Gave 15 AI Models Proof Their Hacking Target Was a Re",
-      "url": "https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Kotlin",
       "title": "dqev/reicon",
       "url": "https://github.com/dqev/reicon"
@@ -1031,6 +1026,12 @@
       "subcat": "C++",
       "title": "You've just inherited a legacy C++ codebase, now what?",
       "url": "https://news.ycombinator.com/item?id=39549486"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: hue.tools  open-source toolbox for colors",
+      "url": "https://news.ycombinator.com/item?id=30362112"
     }
   ]
 }
