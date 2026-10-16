@@ -994,6 +994,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~3 stars/day since launch.
 - **Link:** https://github.com/cocojojo5213/Dev-Janitor
 
+**Added 2026-10-16**
+
+### [openobserve/openobserve](https://github.com/openobserve/openobserve)
+- **Stats:** 22,391 stars | 1,138 forks | 569 open issues
+- **Language:** TypeScript | **Created:** 2023-02-02 | **License:** AGPL-3.0
+- **Topics:** analytics, apm, datadog, elasticsearch, grafana, jaeger
+- **What it is:** Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
+- **Growth:** averaging ~16 stars/day since launch.
+- **Link:** https://github.com/openobserve/openobserve
+
 
 ## Other Cool Projects
 

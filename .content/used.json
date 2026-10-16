@@ -386,6 +386,7 @@
     "https://github.com/openTrinity/mycontext",
     "https://github.com/openai/codex-security",
     "https://github.com/openai/symphony",
+    "https://github.com/openobserve/openobserve",
     "https://github.com/oso95/scroll-world",
     "https://github.com/outsourc-e/hermes-workspace",
     "https://github.com/panxunying/ai-coding-welfare",
@@ -982,12 +983,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "AI & Machine Learning",
-      "title": "cocojojo5213/Dev-Janitor",
-      "url": "https://github.com/cocojojo5213/Dev-Janitor"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "C++",
       "title": "You've just inherited a legacy C++ codebase, now what?",
       "url": "https://news.ycombinator.com/item?id=39549486"
@@ -1039,6 +1034,12 @@
       "subcat": "Lobsters Picks",
       "title": "End-to-end encrypted relays for OCapN",
       "url": "https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "AI & Machine Learning",
+      "title": "openobserve/openobserve",
+      "url": "https://github.com/openobserve/openobserve"
     }
   ]
 }
