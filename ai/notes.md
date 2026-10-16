@@ -1248,6 +1248,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/garage-bAInd/Open-Platypus
 
+**Added 2026-10-16**
+
+### [bigcode/the-stack-v2](https://huggingface.co/datasets/bigcode/the-stack-v2)
+- **Stats:** 652 likes | 6,155 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2024-02-26
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/bigcode/the-stack-v2
+
 
 ## Research Papers
 

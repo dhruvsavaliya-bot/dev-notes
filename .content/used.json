@@ -499,6 +499,7 @@
     "https://huggingface.co/datasets/a686d380/h-corpus-2023",
     "https://huggingface.co/datasets/allenai/c4",
     "https://huggingface.co/datasets/argilla/magpie-ultra-v0.1",
+    "https://huggingface.co/datasets/bigcode/the-stack-v2",
     "https://huggingface.co/datasets/eidon-ai/tracker-pov",
     "https://huggingface.co/datasets/espnet/yodas",
     "https://huggingface.co/datasets/espnet/yodas2",
@@ -997,12 +998,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Java",
-      "title": "The (Petty) Reason We Didn't End Up Using jj",
-      "url": "https://lobste.rs/s/27dxjg/petty_reason_we_didn_t_end_up_using_jj"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Kotlin",
       "title": "Miuzarte/ScrcpyForAndroid",
       "url": "https://github.com/Miuzarte/ScrcpyForAndroid"
@@ -1054,6 +1049,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: I built a sub-500ms latency voice agent from s",
       "url": "https://news.ycombinator.com/item?id=47224295"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Models & Datasets",
+      "title": "bigcode/the-stack-v2",
+      "url": "https://huggingface.co/datasets/bigcode/the-stack-v2"
     }
   ]
 }
