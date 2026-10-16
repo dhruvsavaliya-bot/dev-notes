@@ -241,6 +241,7 @@
     "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
     "https://github.com/MikuLeaks/MikuSB",
     "https://github.com/MiniMax-AI/MiniMax-H3",
+    "https://github.com/Miuzarte/ScrcpyForAndroid",
     "https://github.com/MoonshotAI/Kimi-K3",
     "https://github.com/NVIDIA/cuml",
     "https://github.com/NVlabs/SoL-Pi",
@@ -988,12 +989,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Lobsters Picks",
-      "title": "Introducing Firefox Enterprise",
-      "url": "https://lobste.rs/s/7xg9rm/introducing_firefox_enterprise"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Swift",
       "title": "Show HN: Simple Pascal interpreter written in Swift",
       "url": "https://news.ycombinator.com/item?id=16138990"
@@ -1045,6 +1040,12 @@
       "subcat": "Java",
       "title": "The (Petty) Reason We Didn't End Up Using jj",
       "url": "https://lobste.rs/s/27dxjg/petty_reason_we_didn_t_end_up_using_jj"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Kotlin",
+      "title": "Miuzarte/ScrcpyForAndroid",
+      "url": "https://github.com/Miuzarte/ScrcpyForAndroid"
     }
   ]
 }

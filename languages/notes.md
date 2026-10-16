@@ -1555,3 +1555,13 @@ Snippets and gotchas across languages.
 - **What it is:** Reicon - Open-Source Icon Library for Designers & Developers
 - **Growth:** averaging ~10 stars/day since launch.
 - **Link:** https://github.com/dqev/reicon
+
+**Added 2026-10-16**
+
+### [Miuzarte/ScrcpyForAndroid](https://github.com/Miuzarte/ScrcpyForAndroid)
+- **Stats:** 646 stars | 59 forks | 1 open issues
+- **Language:** Kotlin | **Created:** 2026-03-18 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** scrcpy android client (unofficial)
+- **Growth:** averaging ~3 stars/day since launch.
+- **Link:** https://github.com/Miuzarte/ScrcpyForAndroid
