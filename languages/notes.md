@@ -1426,6 +1426,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=21469295
 - **Link:** https://parallel-rust-cpp.github.io/introduction.html
 
+**Added 2026-10-16**
+
+### [You've just inherited a legacy C++ codebase, now what?](https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html)
+- **Source:** gaultier.github.io | **Posted:** 2024-02-29 | **By:** broken_broken_
+- **Community:** 380 points, 347 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=39549486
+- **Link:** https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html
+
 
 ## SQL & Databases
 

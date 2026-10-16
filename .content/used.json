@@ -680,6 +680,7 @@
     "https://news.ycombinator.com/item?id=37149349",
     "https://news.ycombinator.com/item?id=38532914",
     "https://news.ycombinator.com/item?id=38733968",
+    "https://news.ycombinator.com/item?id=39549486",
     "https://news.ycombinator.com/item?id=39783223",
     "https://news.ycombinator.com/item?id=4029427",
     "https://news.ycombinator.com/item?id=40456236",
@@ -973,12 +974,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "C++",
-      "title": "Cost of a thread in C++ under Linux",
-      "url": "https://news.ycombinator.com/item?id=22456642"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Machine Learning",
       "title": "I Gave 15 AI Models Proof Their Hacking Target Was a Re",
       "url": "https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81"
@@ -1030,6 +1025,12 @@
       "subcat": "AI & Machine Learning",
       "title": "cocojojo5213/Dev-Janitor",
       "url": "https://github.com/cocojojo5213/Dev-Janitor"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "C++",
+      "title": "You've just inherited a legacy C++ codebase, now what?",
+      "url": "https://news.ycombinator.com/item?id=39549486"
     }
   ]
 }
