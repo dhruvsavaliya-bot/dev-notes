@@ -329,6 +329,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~19 stars/day since launch.
 - **Link:** https://github.com/panxunying/ai-coding-welfare
 
+**Added 2026-10-16**
+
+### [The (Petty) Reason We Didn't End Up Using jj](https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle)
+- **Source:** blog.gradle.org | **Posted:** 2026-07-06 | **By:** eatonphil
+- **Community:** 39 score, 31 comments on Lobsters
+- **Tags:** java, windows
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/27dxjg/petty_reason_we_didn_t_end_up_using_jj
+- **Link:** https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle
+
 
 ## TypeScript
 
