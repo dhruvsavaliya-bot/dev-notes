@@ -1651,6 +1651,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=13031492
 - **Link:** http://cssreference.io/#hn
 
+**Added 2026-10-16**
+
+### [Show HN: I built a website for sharing drum patterns](http://drumpatterns.onether.com)
+- **Source:** drumpatterns.onether.com | **Posted:** 2025-03-23 | **By:** wesz
+- **Community:** 495 points, 189 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=43452629
+- **Link:** http://drumpatterns.onether.com
+
 
 ## Git & Workflow
 

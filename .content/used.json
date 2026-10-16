@@ -689,6 +689,7 @@
     "https://news.ycombinator.com/item?id=42506577",
     "https://news.ycombinator.com/item?id=43186406",
     "https://news.ycombinator.com/item?id=43332830",
+    "https://news.ycombinator.com/item?id=43452629",
     "https://news.ycombinator.com/item?id=43454915",
     "https://news.ycombinator.com/item?id=43794284",
     "https://news.ycombinator.com/item?id=43880962",
@@ -970,12 +971,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Rust",
-      "title": "xai-org/x-algorithm",
-      "url": "https://github.com/xai-org/x-algorithm"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Models & Datasets",
       "title": "a686d380/h-corpus-2023",
       "url": "https://huggingface.co/datasets/a686d380/h-corpus-2023"
@@ -1027,6 +1022,12 @@
       "subcat": "C++",
       "title": "Comparing Parallel Rust and C++",
       "url": "https://news.ycombinator.com/item?id=21469295"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: I built a website for sharing drum patterns",
+      "url": "https://news.ycombinator.com/item?id=43452629"
     }
   ]
 }
