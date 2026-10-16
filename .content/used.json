@@ -171,6 +171,7 @@
     "https://dev.to/varshithvhegde/i-built-a-chat-app-that-rewrites-its-own-ui-in-real-time-21m5",
     "https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd",
     "https://dev.to/webdeveloperhyper/ai-avatar-v20-cursor-avatar-notification-avatar-voxel-avatar-4dd2",
+    "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
     "https://dev.to/webdeveloperhyper/let-superheroes-cheer-you-up-ai-avatar-v6-chrome-extension-vs-code-extension-2ak7",
     "https://dev.to/wiseai/i-built-a-version-bump-tool-in-rust-that-is-10000x-faster-than-its-python-counterparts-i6b",
     "https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0",
@@ -984,12 +985,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: hue.tools  open-source toolbox for colors",
-      "url": "https://news.ycombinator.com/item?id=30362112"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Lobsters Picks",
       "title": "Haxy.net is live!  HAXY (git forge) devlog",
       "url": "https://lobste.rs/s/o0ixth/haxy_net_is_live_haxy_git_forge_devlog"
@@ -1041,6 +1036,12 @@
       "subcat": "Research Papers",
       "title": "ShiftQAT: Quantization-Aware Training for the Numerical",
       "url": "http://arxiv.org/abs/2610.21695v1"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Productivity",
+      "title": "Cool Effects, TTS, and Fun Animations (AI Avatar v15: V",
+      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec"
     }
   ]
 }

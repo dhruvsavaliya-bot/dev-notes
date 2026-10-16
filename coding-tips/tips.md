@@ -175,6 +175,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** I've always loved the idea of reusing old hardware, especially when it's still more than capable of...
 - **Link:** https://dev.to/mikachu/i-write-on-a-2006-imac-and-code-on-a-200-laptop-9n4
 
+**Added 2026-10-16**
+
+### [✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)](https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec)
+- **Author:** Web Developer Hyper | **Published:** Jul 8 | **Read time:** 6 min
+- **Community:** 73 reactions, 46 comments -- a top post in #productivity
+- **Tags:** ai, webdev, discuss, productivity
+- **Summary:** Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...
+- **Link:** https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec
+
 
 ## Hacker News Picks
 
