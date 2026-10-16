@@ -495,6 +495,7 @@
     "https://huggingface.co/datasets/allenai/c4",
     "https://huggingface.co/datasets/argilla/magpie-ultra-v0.1",
     "https://huggingface.co/datasets/eidon-ai/tracker-pov",
+    "https://huggingface.co/datasets/espnet/yodas",
     "https://huggingface.co/datasets/espnet/yodas2",
     "https://huggingface.co/datasets/fka/prompts.chat",
     "https://huggingface.co/datasets/glaiveai/glaive-function-calling-v2",
@@ -986,12 +987,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Web & Frontend",
-      "title": "AstrBotDevs/AstrBot-desktop",
-      "url": "https://github.com/AstrBotDevs/AstrBot-desktop"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Models & Datasets",
       "title": "Qwen/Qwen3-4B-Instruct-2507",
       "url": "https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507"
@@ -1043,6 +1038,12 @@
       "subcat": "Rust",
       "title": "storytold/vectorcraft",
       "url": "https://github.com/storytold/vectorcraft"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Models & Datasets",
+      "title": "espnet/yodas",
+      "url": "https://huggingface.co/datasets/espnet/yodas"
     }
   ]
 }

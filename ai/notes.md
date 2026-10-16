@@ -1221,6 +1221,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-russian
 
+**Added 2026-10-16**
+
+### [espnet/yodas](https://huggingface.co/datasets/espnet/yodas)
+- **Stats:** 159 likes | 78,169 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2024-02-10
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/espnet/yodas
+
 
 ## Research Papers
 
