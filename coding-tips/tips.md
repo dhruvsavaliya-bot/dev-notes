@@ -1696,6 +1696,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=47224295
 - **Link:** https://www.ntik.me/posts/voice-agent
 
+**Added 2026-10-16**
+
+### [Tell HN: Brother printers now locking out non-OEM paraphernalia](https://news.ycombinator.com/item?id=31860131)
+- **Source:** news.ycombinator.com | **Posted:** 2022-06-24 | **By:** b112
+- **Community:** 500 points, 294 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=31860131
+- **Link:** https://news.ycombinator.com/item?id=31860131
+
 
 ## Git & Workflow
 

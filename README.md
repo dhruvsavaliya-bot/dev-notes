@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**987 entries and counting** · Last updated: 2026-10-16
+**988 entries and counting** · Last updated: 2026-10-16
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 231 |
 | [AI / LLM Notes](ai/notes.md) | 181 |
 | [Reading List](articles/reading-list.md) | 209 |
-| [Coding Tips](coding-tips/tips.md) | 205 |
+| [Coding Tips](coding-tips/tips.md) | 206 |
 | [Language Notes](languages/notes.md) | 161 |
 
 ## Latest additions
 
+- **2026-10-16** · *Show & Ask HN* — [Tell HN: Brother printers now locking out non-OEM parap](https://news.ycombinator.com/item?id=31860131)
 - **2026-10-16** · *Models & Datasets* — [bigcode/the-stack-v2](https://huggingface.co/datasets/bigcode/the-stack-v2)
 - **2026-10-16** · *Show & Ask HN* — [Show HN: I built a sub-500ms latency voice agent from s](https://news.ycombinator.com/item?id=47224295)
 - **2026-10-16** · *Models & Datasets* — [garage-bAInd/Open-Platypus](https://huggingface.co/datasets/garage-bAInd/Open-Platypus)
 - **2026-10-16** · *Ruby* — [0din-ai/ai-scanner](https://github.com/0din-ai/ai-scanner)
-- **2026-10-16** · *Other Cool Projects* — [arjunskumar/Robotics_CPP_Notes](https://github.com/arjunskumar/Robotics_CPP_Notes)
 
 ## How it works
 
