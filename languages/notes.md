@@ -339,6 +339,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/27dxjg/petty_reason_we_didn_t_end_up_using_jj
 - **Link:** https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle
 
+**Added 2026-10-17**
+
+### [amak-tech/port-buddy](https://github.com/amak-tech/port-buddy)
+- **Stats:** 537 stars | 46 forks | 2 open issues
+- **Language:** Java | **Created:** 2025-11-07 | **License:** Apache-2.0
+- **Topics:** localhost-tunnel, ngrok-alternative, port-forwarding, port-forwarding-tcp, port-forwarding-udp, reverse-proxy
+- **What it is:** Expose local ports to the internet in seconds
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/amak-tech/port-buddy
+
 
 ## TypeScript
 

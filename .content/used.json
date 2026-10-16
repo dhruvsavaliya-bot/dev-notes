@@ -290,6 +290,7 @@
     "https://github.com/ai-sucks-butt/ai-sucks-butt",
     "https://github.com/aliyun/ai-agent-handbook",
     "https://github.com/amagine-ai/Amagine3D",
+    "https://github.com/amak-tech/port-buddy",
     "https://github.com/amirh00sain/SpiderPanel",
     "https://github.com/amosblomqvist/learn",
     "https://github.com/andrewyng/openworker",
@@ -1002,12 +1003,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Lobsters Picks",
-      "title": "The road to iroh 1.0",
-      "url": "https://lobste.rs/s/6laoto/road_iroh_1_0"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Other Cool Projects",
       "title": "arjunskumar/Robotics_CPP_Notes",
       "url": "https://github.com/arjunskumar/Robotics_CPP_Notes"
@@ -1059,6 +1054,12 @@
       "subcat": "C++",
       "title": "chasmlol/SkyCraft",
       "url": "https://github.com/chasmlol/SkyCraft"
+    },
+    {
+      "date": "2026-10-17",
+      "subcat": "Java",
+      "title": "amak-tech/port-buddy",
+      "url": "https://github.com/amak-tech/port-buddy"
     }
   ]
 }
