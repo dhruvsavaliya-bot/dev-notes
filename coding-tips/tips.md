@@ -1678,6 +1678,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=30362112
 - **Link:** https://hue.tools
 
+**Added 2026-10-16**
+
+### [Show HN: TensorFire](https://tenso.rs/demos/fast-neural-style/)
+- **Source:** tenso.rs | **Posted:** 2017-07-31 | **By:** antimatter15
+- **Community:** 564 points, 83 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=14894653
+- **Link:** https://tenso.rs/demos/fast-neural-style/
+
 
 ## Git & Workflow
 
