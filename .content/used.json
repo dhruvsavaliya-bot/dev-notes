@@ -320,6 +320,7 @@
     "https://github.com/ccch1mneyyy/dsh-TUI",
     "https://github.com/cdyforever/how-to-live-better",
     "https://github.com/celldock/celldock-for-mac",
+    "https://github.com/chasmlol/SkyCraft",
     "https://github.com/cloudflare/security-audit-skill",
     "https://github.com/cocojojo5213/Dev-Janitor",
     "https://github.com/common-voice/common-voice",
@@ -1001,12 +1002,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: TensorFire",
-      "url": "https://news.ycombinator.com/item?id=14894653"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Lobsters Picks",
       "title": "The road to iroh 1.0",
       "url": "https://lobste.rs/s/6laoto/road_iroh_1_0"
@@ -1058,6 +1053,12 @@
       "subcat": "Show & Ask HN",
       "title": "Shopify says remove Stripe billing or get booted from t",
       "url": "https://news.ycombinator.com/item?id=26260174"
+    },
+    {
+      "date": "2026-10-17",
+      "subcat": "C++",
+      "title": "chasmlol/SkyCraft",
+      "url": "https://github.com/chasmlol/SkyCraft"
     }
   ]
 }

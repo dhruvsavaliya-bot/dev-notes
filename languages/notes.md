@@ -1484,6 +1484,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=39549486
 - **Link:** https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html
 
+**Added 2026-10-17**
+
+### [chasmlol/SkyCraft](https://github.com/chasmlol/SkyCraft)
+- **Stats:** 1,224 stars | 96 forks | 42 open issues
+- **Language:** C++ | **Created:** 2026-09-30 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).
+- **Growth:** averaging ~72 stars/day since launch.
+- **Link:** https://github.com/chasmlol/SkyCraft
+
 
 ## SQL & Databases
 
