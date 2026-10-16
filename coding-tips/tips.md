@@ -1642,6 +1642,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=34287407
 - **Link:** https://news.ycombinator.com/item?id=34287407
 
+**Added 2026-10-16**
+
+### [Show HN: A visual guide to the most popular CSS properties](http://cssreference.io/#hn)
+- **Source:** cssreference.io | **Posted:** 2016-11-24 | **By:** bbx
+- **Community:** 1117 points, 122 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=13031492
+- **Link:** http://cssreference.io/#hn
+
 
 ## Git & Workflow
 
