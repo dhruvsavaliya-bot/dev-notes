@@ -1705,6 +1705,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=31860131
 - **Link:** https://news.ycombinator.com/item?id=31860131
 
+**Added 2026-10-17**
+
+### [Shopify says remove Stripe billing or get booted from their app store](https://news.ycombinator.com/item?id=26260174)
+- **Source:** news.ycombinator.com | **Posted:** 2021-02-25 | **By:** ponny
+- **Community:** 624 points, 225 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=26260174
+- **Link:** https://news.ycombinator.com/item?id=26260174
+
 
 ## Git & Workflow
 

@@ -677,6 +677,7 @@
     "https://news.ycombinator.com/item?id=23658721",
     "https://news.ycombinator.com/item?id=24372084",
     "https://news.ycombinator.com/item?id=24808207",
+    "https://news.ycombinator.com/item?id=26260174",
     "https://news.ycombinator.com/item?id=26344358",
     "https://news.ycombinator.com/item?id=26825468",
     "https://news.ycombinator.com/item?id=26862318",
@@ -1000,12 +1001,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Models & Datasets",
-      "title": "HumynLabs/airline-customersupport-Hinglish-audio",
-      "url": "https://huggingface.co/datasets/HumynLabs/airline-customersupport-Hinglish-audio"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Show & Ask HN",
       "title": "Show HN: TensorFire",
       "url": "https://news.ycombinator.com/item?id=14894653"
@@ -1057,6 +1052,12 @@
       "subcat": "AI Engineering",
       "title": "Can a local LLM replace Claude Code? The benchmark ever",
       "url": "https://dev.to/rudratosh/can-a-local-llm-replace-claude-code-the-benchmark-everyone-quotes-is-the-wrong-one-2kna"
+    },
+    {
+      "date": "2026-10-17",
+      "subcat": "Show & Ask HN",
+      "title": "Shopify says remove Stripe billing or get booted from t",
+      "url": "https://news.ycombinator.com/item?id=26260174"
     }
   ]
 }
