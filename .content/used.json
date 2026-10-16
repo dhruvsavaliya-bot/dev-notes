@@ -589,6 +589,7 @@
     "https://lobste.rs/s/mkq3x9/better_http_1_connection_reuse",
     "https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution",
     "https://lobste.rs/s/nxspz6/no_man_is_island",
+    "https://lobste.rs/s/o0ixth/haxy_net_is_live_haxy_git_forge_devlog",
     "https://lobste.rs/s/o8xo9z/importance_communities_around_software",
     "https://lobste.rs/s/odrfgk/how_speed_up_rust_compiler_september_2026",
     "https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live",
@@ -975,12 +976,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Kotlin",
-      "title": "dqev/reicon",
-      "url": "https://github.com/dqev/reicon"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Models & Datasets",
       "title": "Alibaba-NLP/gte-large-en-v1.5",
       "url": "https://huggingface.co/Alibaba-NLP/gte-large-en-v1.5"
@@ -1032,6 +1027,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: hue.tools  open-source toolbox for colors",
       "url": "https://news.ycombinator.com/item?id=30362112"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Lobsters Picks",
+      "title": "Haxy.net is live!  HAXY (git forge) devlog",
+      "url": "https://lobste.rs/s/o0ixth/haxy_net_is_live_haxy_git_forge_devlog"
     }
   ]
 }

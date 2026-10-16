@@ -1872,6 +1872,16 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases
 - **Link:** https://jakearchibald.com/2026/jpeg-xl-vs-avif/
 
+**Added 2026-10-16**
+
+### [Haxy.net is live! — HAXY (git forge) devlog](https://youtu.be/89yAiqYEwKg)
+- **Source:** youtu.be | **Posted:** 2026-10-15 | **By:** jeffective
+- **Community:** 22 score, 4 comments on Lobsters
+- **Tags:** vcs, video
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/o0ixth/haxy_net_is_live_haxy_git_forge_devlog
+- **Link:** https://youtu.be/89yAiqYEwKg
+
 
 ## Performance
 
