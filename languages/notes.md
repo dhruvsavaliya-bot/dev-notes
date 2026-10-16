@@ -1039,6 +1039,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~5 stars/day since launch.
 - **Link:** https://github.com/mattprusak/autoresearch-genealogy
 
+**Added 2026-10-16**
+
+### [0din-ai/ai-scanner](https://github.com/0din-ai/ai-scanner)
+- **Stats:** 676 stars | 112 forks | 4 open issues
+- **Language:** Ruby | **Created:** 2026-03-19 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** AI model safety scanner built on NVIDIA garak
+- **Growth:** averaging ~3 stars/day since launch.
+- **Link:** https://github.com/0din-ai/ai-scanner
+
 
 ## Swift
 
