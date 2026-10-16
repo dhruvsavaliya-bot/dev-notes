@@ -1230,6 +1230,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/espnet/yodas
 
+**Added 2026-10-16**
+
+### [HumynLabs/airline-customersupport-Hinglish-audio](https://huggingface.co/datasets/HumynLabs/airline-customersupport-Hinglish-audio)
+- **Stats:** 433 likes | 72 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2025-07-28
+- **Tags:** speech, emotional-speech, audio-recognition, ai-research, voice-analysis, natural-speech
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/HumynLabs/airline-customersupport-Hinglish-audio
+
 
 ## Research Papers
 

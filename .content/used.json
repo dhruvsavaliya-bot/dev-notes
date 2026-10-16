@@ -488,6 +488,7 @@
     "https://huggingface.co/datasets/ACERobotics/ACE-Data-0",
     "https://huggingface.co/datasets/Anthropic/claude-protein-binder-design",
     "https://huggingface.co/datasets/FlyRank/internship-warehouse",
+    "https://huggingface.co/datasets/HumynLabs/airline-customersupport-Hinglish-audio",
     "https://huggingface.co/datasets/Maxwell-Jia/AIME_2024",
     "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023",
     "https://huggingface.co/datasets/OpenGVLab/ShareGPT-4o",
@@ -990,12 +991,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Models & Datasets",
-      "title": "jonatasgrosman/wav2vec2-large-xlsr-53-russian",
-      "url": "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-russian"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Lobsters Picks",
       "title": "End-to-end encrypted relays for OCapN",
       "url": "https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn"
@@ -1047,6 +1042,12 @@
       "subcat": "Ruby",
       "title": "mattprusak/autoresearch-genealogy",
       "url": "https://github.com/mattprusak/autoresearch-genealogy"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Models & Datasets",
+      "title": "HumynLabs/airline-customersupport-Hinglish-audio",
+      "url": "https://huggingface.co/datasets/HumynLabs/airline-customersupport-Hinglish-audio"
     }
   ]
 }
