@@ -1417,6 +1417,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=22456642
 - **Link:** https://lemire.me/blog/2020/01/30/cost-of-a-thread-in-c-under-linux/
 
+**Added 2026-10-16**
+
+### [Comparing Parallel Rust and C++](https://parallel-rust-cpp.github.io/introduction.html)
+- **Source:** parallel-rust-cpp.github.io | **Posted:** 2019-11-07 | **By:** mmastrac
+- **Community:** 412 points, 179 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=21469295
+- **Link:** https://parallel-rust-cpp.github.io/introduction.html
+
 
 ## SQL & Databases
 
