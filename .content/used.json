@@ -640,6 +640,7 @@
     "https://news.ycombinator.com/item?id=15814907",
     "https://news.ycombinator.com/item?id=15895173",
     "https://news.ycombinator.com/item?id=16052538",
+    "https://news.ycombinator.com/item?id=16138990",
     "https://news.ycombinator.com/item?id=16505244",
     "https://news.ycombinator.com/item?id=16535886",
     "https://news.ycombinator.com/item?id=17449810",
@@ -979,12 +980,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "C++",
-      "title": "Comparing Parallel Rust and C++",
-      "url": "https://news.ycombinator.com/item?id=21469295"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Show & Ask HN",
       "title": "Show HN: I built a website for sharing drum patterns",
       "url": "https://news.ycombinator.com/item?id=43452629"
@@ -1036,6 +1031,12 @@
       "subcat": "Lobsters Picks",
       "title": "Introducing Firefox Enterprise",
       "url": "https://lobste.rs/s/7xg9rm/introducing_firefox_enterprise"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Swift",
+      "title": "Show HN: Simple Pascal interpreter written in Swift",
+      "url": "https://news.ycombinator.com/item?id=16138990"
     }
   ]
 }

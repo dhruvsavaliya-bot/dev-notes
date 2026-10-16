@@ -1099,6 +1099,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=32630389
 - **Link:** https://chsxf.dev/2022/08/28/5-tup-why-i-quit-using-swiftui.html
 
+**Added 2026-10-16**
+
+### [Show HN: Simple Pascal interpreter written in Swift](https://github.com/igorkulman/SwiftPascalInterpreter)
+- **Source:** github.com | **Posted:** 2018-01-13 | **By:** ig0r0
+- **Community:** 103 points, 9 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=16138990
+- **Link:** https://github.com/igorkulman/SwiftPascalInterpreter
+
 
 ## Rust
 
