@@ -1862,6 +1862,16 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://lobste.rs/s/2svplr/gleam_doesn_t_compile_erlang_source
 - **Link:** https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/
 
+**Added 2026-10-16**
+
+### [JPEG XL vs AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
+- **Source:** jakearchibald.com | **Posted:** 2026-10-15 | **By:** jaffathecake
+- **Community:** 57 score, 17 comments on Lobsters
+- **Tags:** compsci, web
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases
+- **Link:** https://jakearchibald.com/2026/jpeg-xl-vs-avif/
+
 
 ## Performance
 

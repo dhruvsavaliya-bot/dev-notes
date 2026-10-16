@@ -607,6 +607,7 @@
     "https://lobste.rs/s/tsfs3w/why_function_arguments_are_not_function",
     "https://lobste.rs/s/u4vlin/french_supermarket_chains_say",
     "https://lobste.rs/s/u9ue6c/what_s_wrong_with_github",
+    "https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases",
     "https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem",
     "https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without",
     "https://lobste.rs/s/ul9krj/hacking_go_compiler_efficiently_map_ipv4",
@@ -971,12 +972,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Models & Datasets",
-      "title": "a686d380/h-corpus-2023",
-      "url": "https://huggingface.co/datasets/a686d380/h-corpus-2023"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Other Cool Projects",
       "title": "Alvin9999-newpac/fanqiang",
       "url": "https://github.com/Alvin9999-newpac/fanqiang"
@@ -1028,6 +1023,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: I built a website for sharing drum patterns",
       "url": "https://news.ycombinator.com/item?id=43452629"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Lobsters Picks",
+      "title": "JPEG XL vs AVIF for web use-cases",
+      "url": "https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases"
     }
   ]
 }
