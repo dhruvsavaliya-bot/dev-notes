@@ -984,6 +984,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~7 stars/day since launch.
 - **Link:** https://github.com/FalkorDB/FalkorDB
 
+**Added 2026-10-16**
+
+### [cocojojo5213/Dev-Janitor](https://github.com/cocojojo5213/Dev-Janitor)
+- **Stats:** 864 stars | 57 forks | 7 open issues
+- **Language:** Rust | **Created:** 2026-01-16 | **License:** MIT
+- **Topics:** ai-tools, cleanup, desktop-app, developer-tools, react, rust
+- **What it is:** Cross-platform desktop app for cleaning development artifacts, managing local developer tools, and checking common environment issues.
+- **Growth:** averaging ~3 stars/day since launch.
+- **Link:** https://github.com/cocojojo5213/Dev-Janitor
+
 
 ## Other Cool Projects
 

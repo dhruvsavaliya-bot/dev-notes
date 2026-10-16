@@ -314,6 +314,7 @@
     "https://github.com/cdyforever/how-to-live-better",
     "https://github.com/celldock/celldock-for-mac",
     "https://github.com/cloudflare/security-audit-skill",
+    "https://github.com/cocojojo5213/Dev-Janitor",
     "https://github.com/common-voice/common-voice",
     "https://github.com/cordiverse/paper",
     "https://github.com/crmne/fastpotify",
@@ -972,12 +973,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Other Cool Projects",
-      "title": "Alvin9999-newpac/fanqiang",
-      "url": "https://github.com/Alvin9999-newpac/fanqiang"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "C++",
       "title": "Cost of a thread in C++ under Linux",
       "url": "https://news.ycombinator.com/item?id=22456642"
@@ -1029,6 +1024,12 @@
       "subcat": "Lobsters Picks",
       "title": "JPEG XL vs AVIF for web use-cases",
       "url": "https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "AI & Machine Learning",
+      "title": "cocojojo5213/Dev-Janitor",
+      "url": "https://github.com/cocojojo5213/Dev-Janitor"
     }
   ]
 }
