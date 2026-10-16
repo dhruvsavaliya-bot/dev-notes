@@ -1275,6 +1275,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/shibing624/medical
 
+**Added 2026-10-17**
+
+### [microsoft/AesCode-8B](https://huggingface.co/microsoft/AesCode-8B)
+- **Stats:** 67 likes | 587 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-09-29
+- **Tags:** transformers, safetensors, qwen3_vl, image-text-to-text, code-generation, html
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/microsoft/AesCode-8B
+
 
 ## Research Papers
 

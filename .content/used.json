@@ -538,6 +538,7 @@
     "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-russian",
     "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
     "https://huggingface.co/meta-llama/Llama-3.1-8B",
+    "https://huggingface.co/microsoft/AesCode-8B",
     "https://huggingface.co/microsoft/Florence-2-base",
     "https://huggingface.co/microsoft/OmniParser-v2.0",
     "https://huggingface.co/microsoft/TRELLIS-image-large",
@@ -1004,12 +1005,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Ruby",
-      "title": "0din-ai/ai-scanner",
-      "url": "https://github.com/0din-ai/ai-scanner"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Models & Datasets",
       "title": "garage-bAInd/Open-Platypus",
       "url": "https://huggingface.co/datasets/garage-bAInd/Open-Platypus"
@@ -1061,6 +1056,12 @@
       "subcat": "Models & Datasets",
       "title": "shibing624/medical",
       "url": "https://huggingface.co/datasets/shibing624/medical"
+    },
+    {
+      "date": "2026-10-17",
+      "subcat": "Models & Datasets",
+      "title": "microsoft/AesCode-8B",
+      "url": "https://huggingface.co/microsoft/AesCode-8B"
     }
   ]
 }
