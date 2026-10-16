@@ -1687,6 +1687,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=14894653
 - **Link:** https://tenso.rs/demos/fast-neural-style/
 
+**Added 2026-10-16**
+
+### [Show HN: I built a sub-500ms latency voice agent from scratch](https://www.ntik.me/posts/voice-agent)
+- **Source:** www.ntik.me | **Posted:** 2026-03-02 | **By:** nicktikhonov
+- **Community:** 570 points, 153 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=47224295
+- **Link:** https://www.ntik.me/posts/voice-agent
+
 
 ## Git & Workflow
 
