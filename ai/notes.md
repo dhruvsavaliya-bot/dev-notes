@@ -1194,6 +1194,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/a686d380/h-corpus-2023
 
+**Added 2026-10-16**
+
+### [Alibaba-NLP/gte-large-en-v1.5](https://huggingface.co/Alibaba-NLP/gte-large-en-v1.5)
+- **Stats:** 247 likes | 1,592,591 downloads
+- **Kind:** Hugging Face model | **Task:** sentence-similarity | **Created:** 2024-04-20
+- **Tags:** transformers, onnx, safetensors, new, feature-extraction, sentence-transformers
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/Alibaba-NLP/gte-large-en-v1.5
+
 
 ## Research Papers
 
