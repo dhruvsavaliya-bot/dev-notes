@@ -622,6 +622,7 @@
     "https://lobste.rs/s/wq1csk/elixir_v1_20_released_now_gradually_typed",
     "https://lobste.rs/s/xpyahx/grubby_static_site_generator_for_git",
     "https://lobste.rs/s/xv6z4r/python_iceberg",
+    "https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn",
     "https://lobste.rs/s/zlhyss/mathocalypse",
     "https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source",
     "https://lobste.rs/s/zziknb/arena_allocators_c",
@@ -981,12 +982,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Lobsters Picks",
-      "title": "JPEG XL vs AVIF for web use-cases",
-      "url": "https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "AI & Machine Learning",
       "title": "cocojojo5213/Dev-Janitor",
       "url": "https://github.com/cocojojo5213/Dev-Janitor"
@@ -1038,6 +1033,12 @@
       "subcat": "Models & Datasets",
       "title": "jonatasgrosman/wav2vec2-large-xlsr-53-russian",
       "url": "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-russian"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Lobsters Picks",
+      "title": "End-to-end encrypted relays for OCapN",
+      "url": "https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn"
     }
   ]
 }

@@ -1892,6 +1892,16 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://lobste.rs/s/7xg9rm/introducing_firefox_enterprise
 - **Link:** https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/
 
+**Added 2026-10-16**
+
+### [End-to-end encrypted relays for OCapN](https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html)
+- **Source:** spritely.institute | **Posted:** 2026-10-15 | **By:** untrusem
+- **Community:** 25 score, 1 comments on Lobsters
+- **Tags:** distributed
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn
+- **Link:** https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html
+
 
 ## Performance
 
