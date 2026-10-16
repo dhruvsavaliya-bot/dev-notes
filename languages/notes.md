@@ -1029,6 +1029,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/lfen2h/living_weimar_era_ruby
 - **Link:** https://blog.julik.nl/2026/10/the-weimar-of-ruby
 
+**Added 2026-10-16**
+
+### [mattprusak/autoresearch-genealogy](https://github.com/mattprusak/autoresearch-genealogy)
+- **Stats:** 1,183 stars | 122 forks | 1 open issues
+- **Language:** Ruby | **Created:** 2026-03-18 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.
+- **Growth:** averaging ~5 stars/day since launch.
+- **Link:** https://github.com/mattprusak/autoresearch-genealogy
+
 
 ## Swift
 

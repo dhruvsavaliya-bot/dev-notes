@@ -370,6 +370,7 @@
     "https://github.com/liangxiegame/QFramework",
     "https://github.com/lnkiai/m3e-canvas",
     "https://github.com/lopopolo/harness-engineering",
+    "https://github.com/mattprusak/autoresearch-genealogy",
     "https://github.com/mayswind/ezbookkeeping",
     "https://github.com/mchughalex/skate3recomp",
     "https://github.com/mcncarl/jianying-headless",
@@ -989,12 +990,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Swift",
-      "title": "Show HN: Simple Pascal interpreter written in Swift",
-      "url": "https://news.ycombinator.com/item?id=16138990"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Models & Datasets",
       "title": "jonatasgrosman/wav2vec2-large-xlsr-53-russian",
       "url": "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-russian"
@@ -1046,6 +1041,12 @@
       "subcat": "Kotlin",
       "title": "Miuzarte/ScrcpyForAndroid",
       "url": "https://github.com/Miuzarte/ScrcpyForAndroid"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Ruby",
+      "title": "mattprusak/autoresearch-genealogy",
+      "url": "https://github.com/mattprusak/autoresearch-genealogy"
     }
   ]
 }
