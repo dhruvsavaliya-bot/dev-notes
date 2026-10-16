@@ -1882,6 +1882,16 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://lobste.rs/s/o0ixth/haxy_net_is_live_haxy_git_forge_devlog
 - **Link:** https://youtu.be/89yAiqYEwKg
 
+**Added 2026-10-16**
+
+### [Introducing Firefox Enterprise](https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/)
+- **Source:** blog.mozilla.org | **Posted:** 2026-10-14 | **By:** viccuad
+- **Community:** 131 score, 35 comments on Lobsters
+- **Tags:** browsers, release, web
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/7xg9rm/introducing_firefox_enterprise
+- **Link:** https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/
+
 
 ## Performance
 
