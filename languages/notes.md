@@ -1498,3 +1498,13 @@ Snippets and gotchas across languages.
 - **What it is:** HyperOS  Dynamic  Island Enhancer
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/1812z/HyperIsland
+
+**Added 2026-10-16**
+
+### [dqev/reicon](https://github.com/dqev/reicon)
+- **Stats:** 1,697 stars | 90 forks | 8 open issues
+- **Language:** Kotlin | **Created:** 2026-05-05 | **License:** MIT
+- **Topics:** animated, design, designer, icons, open-source, react
+- **What it is:** Reicon - Open-Source Icon Library for Designers & Developers
+- **Growth:** averaging ~10 stars/day since launch.
+- **Link:** https://github.com/dqev/reicon

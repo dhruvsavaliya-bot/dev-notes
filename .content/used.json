@@ -324,6 +324,7 @@
     "https://github.com/deepseek-ai/deepseek-harness",
     "https://github.com/digimata/quill",
     "https://github.com/dmmulroy/anti-slop",
+    "https://github.com/dqev/reicon",
     "https://github.com/drumih/turbo-fieldfare",
     "https://github.com/dsh-market/dsh-market",
     "https://github.com/duty1g/x64dbg-mcp-server",
@@ -964,12 +965,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-15",
-      "subcat": "Research Papers",
-      "title": "Discriminative Score Function: Turning Pretrained Model",
-      "url": "http://arxiv.org/abs/2610.19743v1"
-    },
-    {
       "date": "2026-10-16",
       "subcat": "Models & Datasets",
       "title": "zai-org/GLM-4.6",
@@ -1022,6 +1017,12 @@
       "subcat": "Machine Learning",
       "title": "I Gave 15 AI Models Proof Their Hacking Target Was a Re",
       "url": "https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Kotlin",
+      "title": "dqev/reicon",
+      "url": "https://github.com/dqev/reicon"
     }
   ]
 }
