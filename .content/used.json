@@ -146,6 +146,7 @@
     "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk",
     "https://dev.to/robertadam987_/your-ai-coding-agent-can-be-attacked-by-the-repository-it-opens-ie4",
     "https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh",
+    "https://dev.to/rudratosh/can-a-local-llm-replace-claude-code-the-benchmark-everyone-quotes-is-the-wrong-one-2kna",
     "https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n",
     "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
     "https://dev.to/smtahosin/python-thinks-different-what-actually-happens-inside-your-code-visual-guide-241l",
@@ -999,12 +1000,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Ruby",
-      "title": "mattprusak/autoresearch-genealogy",
-      "url": "https://github.com/mattprusak/autoresearch-genealogy"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Models & Datasets",
       "title": "HumynLabs/airline-customersupport-Hinglish-audio",
       "url": "https://huggingface.co/datasets/HumynLabs/airline-customersupport-Hinglish-audio"
@@ -1056,6 +1051,12 @@
       "subcat": "Show & Ask HN",
       "title": "Tell HN: Brother printers now locking out non-OEM parap",
       "url": "https://news.ycombinator.com/item?id=31860131"
+    },
+    {
+      "date": "2026-10-17",
+      "subcat": "AI Engineering",
+      "title": "Can a local LLM replace Claude Code? The benchmark ever",
+      "url": "https://dev.to/rudratosh/can-a-local-llm-replace-claude-code-the-benchmark-everyone-quotes-is-the-wrong-one-2kna"
     }
   ]
 }

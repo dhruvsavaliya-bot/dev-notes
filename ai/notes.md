@@ -420,6 +420,15 @@ Lessons from building with LLMs.
 - **Summary:** Lately, I’ve been living in a new world—specifically, a world called Antigravity. It’s the...
 - **Link:** https://dev.to/googleai/where-were-going-we-dont-need-chatbots-introducing-the-antigravity-ide-2c3k
 
+**Added 2026-10-17**
+
+### [Can a local LLM replace Claude Code? The benchmark everyone quotes is the wrong one.](https://dev.to/rudratosh/can-a-local-llm-replace-claude-code-the-benchmark-everyone-quotes-is-the-wrong-one-2kna)
+- **Author:** Rudratosh Shastri | **Published:** Oct 12 | **Read time:** 11 min
+- **Community:** 54 reactions, 82 comments -- a top post in #ai
+- **Tags:** ai, llm, coding, opensource
+- **Summary:** Every "7 local models that replace Claude Code" list opens the same way: a table of SWE-bench scores,...
+- **Link:** https://dev.to/rudratosh/can-a-local-llm-replace-claude-code-the-benchmark-everyone-quotes-is-the-wrong-one-2kna
+
 
 ## LLMs
 
