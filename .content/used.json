@@ -106,6 +106,7 @@
     "https://dev.to/infoinlet1/i-let-ai-write-100-of-my-code-for-30-days-heres-what-broke-1aa0",
     "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3",
     "https://dev.to/james_anderson_h/most-ai-agents-are-just-if-statements-in-a-trench-coat-3960",
+    "https://dev.to/james_anderson_h/people-are-vibe-coding-clones-of-every-paid-app-what-actually-survives-38ak",
     "https://dev.to/james_anderson_h/prompt-injection-is-the-new-sql-injection-and-were-not-ready-4ea4",
     "https://dev.to/james_anderson_h/the-7-walls-javascript-hits-and-how-webassembly-gets-past-them-3khk",
     "https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g",
@@ -968,12 +969,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Hacker News Picks",
-      "title": "Celebrating 70 Years of Fortran",
-      "url": "https://news.ycombinator.com/item?id=50104726"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Other Cool Projects",
       "title": "common-voice/common-voice",
       "url": "https://github.com/common-voice/common-voice"
@@ -1025,6 +1020,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: A visual guide to the most popular CSS propert",
       "url": "https://news.ycombinator.com/item?id=13031492"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Open Source",
+      "title": "People Are Vibe-Coding Clones of Every Paid App. What A",
+      "url": "https://dev.to/james_anderson_h/people-are-vibe-coding-clones-of-every-paid-app-what-actually-survives-38ak"
     }
   ]
 }

@@ -1873,3 +1873,14 @@ Fresh dev articles and blog posts.
 - **Tags:** webassembly, webdev, javascript, performance
 - **Summary:** Every time Figma renders a complex design instantly, or Google Sheets recalculates a huge spreadsheet...
 - **Link:** https://dev.to/james_anderson_h/the-7-walls-javascript-hits-and-how-webassembly-gets-past-them-3khk
+
+## Open Source
+
+**Added 2026-10-16**
+
+### [People Are Vibe-Coding Clones of Every Paid App. What Actually Survives?](https://dev.to/james_anderson_h/people-are-vibe-coding-clones-of-every-paid-app-what-actually-survives-38ak)
+- **Author:** James Anderson | **Published:** Oct 13 | **Read time:** 8 min
+- **Community:** 53 reactions, 42 comments -- a top post in #opensource
+- **Tags:** ai, opensource, career, discuss
+- **Summary:** Earlier this month, a developer in Atlanta got fed up with Adobe's cancellation fees. So he used...
+- **Link:** https://dev.to/james_anderson_h/people-are-vibe-coding-clones-of-every-paid-app-what-actually-survives-38ak
