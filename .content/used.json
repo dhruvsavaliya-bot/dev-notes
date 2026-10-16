@@ -519,6 +519,7 @@
     "https://huggingface.co/google/siglip-base-patch16-224",
     "https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
     "https://huggingface.co/jaredpalmer/kev-4b",
+    "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-russian",
     "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
     "https://huggingface.co/meta-llama/Llama-3.1-8B",
     "https://huggingface.co/microsoft/Florence-2-base",
@@ -980,12 +981,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: I built a website for sharing drum patterns",
-      "url": "https://news.ycombinator.com/item?id=43452629"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Lobsters Picks",
       "title": "JPEG XL vs AVIF for web use-cases",
       "url": "https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases"
@@ -1037,6 +1032,12 @@
       "subcat": "Swift",
       "title": "Show HN: Simple Pascal interpreter written in Swift",
       "url": "https://news.ycombinator.com/item?id=16138990"
+    },
+    {
+      "date": "2026-10-16",
+      "subcat": "Models & Datasets",
+      "title": "jonatasgrosman/wav2vec2-large-xlsr-53-russian",
+      "url": "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-russian"
     }
   ]
 }

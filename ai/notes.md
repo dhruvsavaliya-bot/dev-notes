@@ -1212,6 +1212,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507
 
+**Added 2026-10-16**
+
+### [jonatasgrosman/wav2vec2-large-xlsr-53-russian](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-russian)
+- **Stats:** 85 likes | 4,205,014 downloads
+- **Kind:** Hugging Face model | **Task:** automatic-speech-recognition | **Created:** 2022-03-02
+- **Tags:** transformers, pytorch, jax, wav2vec2, automatic-speech-recognition, audio
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-russian
+
 
 ## Research Papers
 
