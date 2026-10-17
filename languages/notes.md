@@ -493,6 +493,16 @@ Snippets and gotchas across languages.
 - **Summary:** Hoi hoi!  I'm @nyaomaru, a frontend engineer who thought OpenAPI codegen would make API clients...
 - **Link:** https://dev.to/nyaomaru/which-openapi-codegen-should-you-choose-openapi-typescript-vs-hey-api-vs-orval-vs-kubb-100p
 
+**Added 2026-10-17**
+
+### [vercel-labs/json-render](https://github.com/vercel-labs/json-render)
+- **Stats:** 18,703 stars | 994 forks | 139 open issues
+- **Language:** TypeScript | **Created:** 2026-01-14 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** The Generative UI framework
+- **Growth:** averaging ~67 stars/day since launch.
+- **Link:** https://github.com/vercel-labs/json-render
+
 
 ## Python
 

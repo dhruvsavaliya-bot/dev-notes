@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1006 entries and counting** · Last updated: 2026-10-17
+**1007 entries and counting** · Last updated: 2026-10-17
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 189 |
 | [Reading List](articles/reading-list.md) | 209 |
 | [Coding Tips](coding-tips/tips.md) | 209 |
-| [Language Notes](languages/notes.md) | 168 |
+| [Language Notes](languages/notes.md) | 169 |
 
 ## Latest additions
 
+- **2026-10-17** · *TypeScript* — [vercel-labs/json-render](https://github.com/vercel-labs/json-render)
 - **2026-10-17** · *Models & Datasets* — [simple-world-lab/HiFi-UMI-2K](https://huggingface.co/datasets/simple-world-lab/HiFi-UMI-2K)
 - **2026-10-17** · *Models & Datasets* — [markov-ai/cad-1000-hours](https://huggingface.co/datasets/markov-ai/cad-1000-hours)
 - **2026-10-17** · *Rust* — [QuipNetwork/quip-solver](https://github.com/QuipNetwork/quip-solver)
 - **2026-10-17** · *Python* — [A plea not to use uv-build](https://lobste.rs/s/73ssw1/plea_not_use_uv_build)
-- **2026-10-17** · *Models & Datasets* — [unsloth/Qwen-Image-2.1-GGUF](https://huggingface.co/unsloth/Qwen-Image-2.1-GGUF)
 
 ## How it works
 

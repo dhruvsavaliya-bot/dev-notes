@@ -437,6 +437,7 @@
     "https://github.com/trypostit/trypost",
     "https://github.com/unicity-aos/aos-ce",
     "https://github.com/vercel-labs/fx",
+    "https://github.com/vercel-labs/json-render",
     "https://github.com/vercel-labs/scriptc",
     "https://github.com/vikejs/vike",
     "https://github.com/vinzdg/codenotch",
@@ -1017,12 +1018,6 @@
   "recent": [
     {
       "date": "2026-10-17",
-      "subcat": "Java",
-      "title": "adityatandon15/Spring-Framework-Full-Course",
-      "url": "https://github.com/adityatandon15/Spring-Framework-Full-Course"
-    },
-    {
-      "date": "2026-10-17",
       "subcat": "Lobsters Picks",
       "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
       "url": "https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has"
@@ -1074,6 +1069,12 @@
       "subcat": "Models & Datasets",
       "title": "simple-world-lab/HiFi-UMI-2K",
       "url": "https://huggingface.co/datasets/simple-world-lab/HiFi-UMI-2K"
+    },
+    {
+      "date": "2026-10-17",
+      "subcat": "TypeScript",
+      "title": "vercel-labs/json-render",
+      "url": "https://github.com/vercel-labs/json-render"
     }
   ]
 }
