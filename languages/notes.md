@@ -687,6 +687,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~201 stars/day since launch.
 - **Link:** https://github.com/hugohe3/ppt-master
 
+**Added 2026-10-17**
+
+### [The wild west of polyglot docs sites](https://technicalwriting.dev/blog/2026/10/polyglot/index.html)
+- **Source:** technicalwriting.dev | **Posted:** 2026-10-11 | **By:** kaycebasques
+- **Community:** 17 score, 12 comments on Lobsters
+- **Tags:** c, c++, practices, python, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites
+- **Link:** https://technicalwriting.dev/blog/2026/10/polyglot/index.html
+
 
 ## Go
 

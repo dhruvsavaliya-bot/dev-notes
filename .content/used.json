@@ -645,6 +645,7 @@
     "https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice",
     "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed",
     "https://lobste.rs/s/wq1csk/elixir_v1_20_released_now_gradually_typed",
+    "https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites",
     "https://lobste.rs/s/xpyahx/grubby_static_site_generator_for_git",
     "https://lobste.rs/s/xv6z4r/python_iceberg",
     "https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn",
@@ -1011,12 +1012,6 @@
   "recent": [
     {
       "date": "2026-10-17",
-      "subcat": "C++",
-      "title": "chasmlol/SkyCraft",
-      "url": "https://github.com/chasmlol/SkyCraft"
-    },
-    {
-      "date": "2026-10-17",
       "subcat": "Java",
       "title": "amak-tech/port-buddy",
       "url": "https://github.com/amak-tech/port-buddy"
@@ -1068,6 +1063,12 @@
       "subcat": "Models & Datasets",
       "title": "datasocial/tiktok-5.6B-videos",
       "url": "https://huggingface.co/datasets/datasocial/tiktok-5.6B-videos"
+    },
+    {
+      "date": "2026-10-17",
+      "subcat": "Python",
+      "title": "The wild west of polyglot docs sites",
+      "url": "https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites"
     }
   ]
 }
