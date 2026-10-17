@@ -369,6 +369,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/lcldxn/rustc_codegen_jvm_rust_compiler_backend
 - **Link:** https://github.com/IntegralPilot/rustc_codegen_jvm
 
+**Added 2026-10-18**
+
+### [voxivoid/recipe-lab-sony-pmca](https://github.com/voxivoid/recipe-lab-sony-pmca)
+- **Stats:** 1,016 stars | 58 forks | 9 open issues
+- **Language:** Java | **Created:** 2026-09-08 | **License:** GPL-3.0
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~25 stars/day since launch.
+- **Link:** https://github.com/voxivoid/recipe-lab-sony-pmca
+
 
 ## TypeScript
 

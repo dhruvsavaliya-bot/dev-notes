@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1012 entries and counting** · Last updated: 2026-10-17
+**1013 entries and counting** · Last updated: 2026-10-18
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 191 |
 | [Reading List](articles/reading-list.md) | 210 |
 | [Coding Tips](coding-tips/tips.md) | 210 |
-| [Language Notes](languages/notes.md) | 169 |
+| [Language Notes](languages/notes.md) | 170 |
 
 ## Latest additions
 
+- **2026-10-18** · *Java* — [voxivoid/recipe-lab-sony-pmca](https://github.com/voxivoid/recipe-lab-sony-pmca)
 - **2026-10-17** · *Web & Frontend* — [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
 - **2026-10-17** · *Hacker News Picks* — [JPEG XL vs. AVIF for web use-cases](https://news.ycombinator.com/item?id=50120224)
 - **2026-10-17** · *Show & Ask HN* — [Show HN: movies.io  torrent search like it should be](https://news.ycombinator.com/item?id=4054568)
 - **2026-10-17** · *Models & Datasets* — [yiyanghkust/finbert-tone](https://huggingface.co/yiyanghkust/finbert-tone)
-- **2026-10-17** · *Research Papers* — [Pin It on Anyone: Certified Targeted Displacement of Mu](http://arxiv.org/abs/2610.18359v1)
 
 ## How it works
 
