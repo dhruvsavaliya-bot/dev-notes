@@ -1010,6 +1010,7 @@
     "https://news.ycombinator.com/item?id=50009295",
     "https://news.ycombinator.com/item?id=50061659",
     "https://news.ycombinator.com/item?id=50104726",
+    "https://news.ycombinator.com/item?id=50120224",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6821576",
     "https://news.ycombinator.com/item?id=7185024",
@@ -1019,12 +1020,6 @@
     "https://news.ycombinator.com/item?id=9962185"
   ],
   "recent": [
-    {
-      "date": "2026-10-17",
-      "subcat": "Python",
-      "title": "The wild west of polyglot docs sites",
-      "url": "https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites"
-    },
     {
       "date": "2026-10-17",
       "subcat": "Models & Datasets",
@@ -1078,6 +1073,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: movies.io  torrent search like it should be",
       "url": "https://news.ycombinator.com/item?id=4054568"
+    },
+    {
+      "date": "2026-10-17",
+      "subcat": "Hacker News Picks",
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "url": "https://news.ycombinator.com/item?id=50120224"
     }
   ]
 }

@@ -1559,6 +1559,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50104726
 - **Link:** https://fortran-lang.org/news/2026/09-15-Fortran-birthday/
 
+**Added 2026-10-17**
+
+### [JPEG XL vs. AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
+- **Source:** jakearchibald.com | **Posted:** 2026-10-16 | **By:** farlight
+- **Community:** 304 points, 195 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50120224
+- **Link:** https://jakearchibald.com/2026/jpeg-xl-vs-avif/
+
 
 ## DevOps & Cloud
 
