@@ -1017,17 +1017,12 @@
     "https://news.ycombinator.com/item?id=6821576",
     "https://news.ycombinator.com/item?id=7185024",
     "https://news.ycombinator.com/item?id=7605687",
+    "https://news.ycombinator.com/item?id=8093753",
     "https://news.ycombinator.com/item?id=8665820",
     "https://news.ycombinator.com/item?id=8870361",
     "https://news.ycombinator.com/item?id=9962185"
   ],
   "recent": [
-    {
-      "date": "2026-10-17",
-      "subcat": "Rust",
-      "title": "QuipNetwork/quip-solver",
-      "url": "https://github.com/QuipNetwork/quip-solver"
-    },
     {
       "date": "2026-10-17",
       "subcat": "Models & Datasets",
@@ -1081,6 +1076,12 @@
       "subcat": "Java",
       "title": "voxivoid/recipe-lab-sony-pmca",
       "url": "https://github.com/voxivoid/recipe-lab-sony-pmca"
+    },
+    {
+      "date": "2026-10-18",
+      "subcat": "PHP",
+      "title": "Parsing PHP in Go",
+      "url": "https://news.ycombinator.com/item?id=8093753"
     }
   ]
 }

@@ -999,6 +999,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=15814907
 - **Link:** http://php.net/releases/7_2_0.php
 
+**Added 2026-10-18**
+
+### [Parsing PHP in Go](https://stephensearles.com/?p=288)
+- **Source:** stephensearles.com | **Posted:** 2014-07-27 | **By:** codezero
+- **Community:** 143 points, 38 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=8093753
+- **Link:** https://stephensearles.com/?p=288
+
 
 ## Ruby
 
