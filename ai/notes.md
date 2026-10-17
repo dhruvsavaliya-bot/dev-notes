@@ -1320,6 +1320,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/markov-ai/cad-1000-hours
 
+**Added 2026-10-17**
+
+### [simple-world-lab/HiFi-UMI-2K](https://huggingface.co/datasets/simple-world-lab/HiFi-UMI-2K)
+- **Stats:** 61 likes | 135,232 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-07-19
+- **Tags:** robotics, robot-learning, robot-manipulation, imitation-learning, vision-language-action, world-action-model
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/simple-world-lab/HiFi-UMI-2K
+
 
 ## Research Papers
 

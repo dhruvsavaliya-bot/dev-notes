@@ -532,6 +532,7 @@
     "https://huggingface.co/datasets/openbmb/UltraData-Code",
     "https://huggingface.co/datasets/pixparse/idl-wds",
     "https://huggingface.co/datasets/shibing624/medical",
+    "https://huggingface.co/datasets/simple-world-lab/HiFi-UMI-2K",
     "https://huggingface.co/datasets/tau/commonsense_qa",
     "https://huggingface.co/datasets/tiiuae/falcon-refinedweb",
     "https://huggingface.co/datasets/ystemsrx/Erotic_Literature_Collection",
@@ -1016,12 +1017,6 @@
   "recent": [
     {
       "date": "2026-10-17",
-      "subcat": "Lobsters Picks",
-      "title": "The Decoherence Trap: When AI slop drowns out the signa",
-      "url": "https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out"
-    },
-    {
-      "date": "2026-10-17",
       "subcat": "Java",
       "title": "adityatandon15/Spring-Framework-Full-Course",
       "url": "https://github.com/adityatandon15/Spring-Framework-Full-Course"
@@ -1073,6 +1068,12 @@
       "subcat": "Models & Datasets",
       "title": "markov-ai/cad-1000-hours",
       "url": "https://huggingface.co/datasets/markov-ai/cad-1000-hours"
+    },
+    {
+      "date": "2026-10-17",
+      "subcat": "Models & Datasets",
+      "title": "simple-world-lab/HiFi-UMI-2K",
+      "url": "https://huggingface.co/datasets/simple-world-lab/HiFi-UMI-2K"
     }
   ]
 }
