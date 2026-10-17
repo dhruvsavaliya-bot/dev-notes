@@ -1311,6 +1311,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/unsloth/Qwen-Image-2.1-GGUF
 
+**Added 2026-10-17**
+
+### [markov-ai/cad-1000-hours](https://huggingface.co/datasets/markov-ai/cad-1000-hours)
+- **Stats:** 554 likes | 127,840 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-08-21
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/markov-ai/cad-1000-hours
+
 
 ## Research Papers
 

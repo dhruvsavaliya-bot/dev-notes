@@ -518,6 +518,7 @@
     "https://huggingface.co/datasets/huggingface/badges",
     "https://huggingface.co/datasets/lmsys/chatbot_arena_conversations",
     "https://huggingface.co/datasets/m-a-p/Matrix",
+    "https://huggingface.co/datasets/markov-ai/cad-1000-hours",
     "https://huggingface.co/datasets/markov-ai/computer-use-large",
     "https://huggingface.co/datasets/meta-math/MetaMathQA",
     "https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML",
@@ -1015,12 +1016,6 @@
   "recent": [
     {
       "date": "2026-10-17",
-      "subcat": "Models & Datasets",
-      "title": "HuggingFaceFW/finepdfs",
-      "url": "https://huggingface.co/datasets/HuggingFaceFW/finepdfs"
-    },
-    {
-      "date": "2026-10-17",
       "subcat": "Lobsters Picks",
       "title": "The Decoherence Trap: When AI slop drowns out the signa",
       "url": "https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out"
@@ -1072,6 +1067,12 @@
       "subcat": "Rust",
       "title": "QuipNetwork/quip-solver",
       "url": "https://github.com/QuipNetwork/quip-solver"
+    },
+    {
+      "date": "2026-10-17",
+      "subcat": "Models & Datasets",
+      "title": "markov-ai/cad-1000-hours",
+      "url": "https://huggingface.co/datasets/markov-ai/cad-1000-hours"
     }
   ]
 }
