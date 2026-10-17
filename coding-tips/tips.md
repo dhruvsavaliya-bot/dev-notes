@@ -1723,6 +1723,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=4054568
 - **Link:** http://movies.io/
 
+**Added 2026-10-18**
+
+### [Show HN: Fully-automatic image background removal tool](https://www.remove.bg/)
+- **Source:** www.remove.bg | **Posted:** 2018-12-17 | **By:** groe
+- **Community:** 640 points, 108 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=18697601
+- **Link:** https://www.remove.bg/
+
 
 ## Git & Workflow
 

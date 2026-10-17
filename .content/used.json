@@ -688,6 +688,7 @@
     "https://news.ycombinator.com/item?id=17875944",
     "https://news.ycombinator.com/item?id=17927200",
     "https://news.ycombinator.com/item?id=18407173",
+    "https://news.ycombinator.com/item?id=18697601",
     "https://news.ycombinator.com/item?id=18973477",
     "https://news.ycombinator.com/item?id=19209957",
     "https://news.ycombinator.com/item?id=20854214",
@@ -1028,12 +1029,6 @@
   "recent": [
     {
       "date": "2026-10-17",
-      "subcat": "Research Papers",
-      "title": "Pin It on Anyone: Certified Targeted Displacement of Mu",
-      "url": "http://arxiv.org/abs/2610.18359v1"
-    },
-    {
-      "date": "2026-10-17",
       "subcat": "Models & Datasets",
       "title": "yiyanghkust/finbert-tone",
       "url": "https://huggingface.co/yiyanghkust/finbert-tone"
@@ -1085,6 +1080,12 @@
       "subcat": "Research Papers",
       "title": "Decoding What iOS Location Services Send to Apple: An L",
       "url": "http://arxiv.org/abs/2610.21597v1"
+    },
+    {
+      "date": "2026-10-18",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Fully-automatic image background removal tool",
+      "url": "https://news.ycombinator.com/item?id=18697601"
     }
   ]
 }
