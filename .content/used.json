@@ -286,6 +286,7 @@
     "https://github.com/ZigEmbeddedGroup/microzig",
     "https://github.com/ZzzLc0405/photo-abstract-editorial",
     "https://github.com/aden-hive/hive",
+    "https://github.com/adityatandon15/Spring-Framework-Full-Course",
     "https://github.com/agno-agi/agno",
     "https://github.com/ai-sucks-butt/ai-sucks-butt",
     "https://github.com/aliyun/ai-agent-handbook",
@@ -1007,12 +1008,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Models & Datasets",
-      "title": "bigcode/the-stack-v2",
-      "url": "https://huggingface.co/datasets/bigcode/the-stack-v2"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Show & Ask HN",
       "title": "Tell HN: Brother printers now locking out non-OEM parap",
       "url": "https://news.ycombinator.com/item?id=31860131"
@@ -1064,6 +1059,12 @@
       "subcat": "Lobsters Picks",
       "title": "The Decoherence Trap: When AI slop drowns out the signa",
       "url": "https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out"
+    },
+    {
+      "date": "2026-10-17",
+      "subcat": "Java",
+      "title": "adityatandon15/Spring-Framework-Full-Course",
+      "url": "https://github.com/adityatandon15/Spring-Framework-Full-Course"
     }
   ]
 }

@@ -349,6 +349,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/amak-tech/port-buddy
 
+**Added 2026-10-17**
+
+### [adityatandon15/Spring-Framework-Full-Course](https://github.com/adityatandon15/Spring-Framework-Full-Course)
+- **Stats:** 525 stars | 304 forks | 3 open issues
+- **Language:** Java | **Created:** 2026-06-15 | **License:** None
+- **Topics:** none listed
+- **What it is:** All Notes & Code of Spring Framework series at Coder Army
+- **Growth:** averaging ~4 stars/day since launch.
+- **Link:** https://github.com/adityatandon15/Spring-Framework-Full-Course
+
 
 ## TypeScript
 
