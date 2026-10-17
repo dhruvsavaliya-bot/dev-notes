@@ -572,6 +572,7 @@
     "https://lobste.rs/s/6laoto/road_iroh_1_0",
     "https://lobste.rs/s/6syfar/what_if_my_git_host_were_static_site",
     "https://lobste.rs/s/6vjx1k/how_shredding_json_is_giving_logfire",
+    "https://lobste.rs/s/73ssw1/plea_not_use_uv_build",
     "https://lobste.rs/s/7faqgg/claude_says",
     "https://lobste.rs/s/7xg9rm/introducing_firefox_enterprise",
     "https://lobste.rs/s/8csfoa/two_tiny_utils_for_result_pattern",
@@ -1014,12 +1015,6 @@
     {
       "date": "2026-10-17",
       "subcat": "Models & Datasets",
-      "title": "shibing624/medical",
-      "url": "https://huggingface.co/datasets/shibing624/medical"
-    },
-    {
-      "date": "2026-10-17",
-      "subcat": "Models & Datasets",
       "title": "microsoft/AesCode-8B",
       "url": "https://huggingface.co/microsoft/AesCode-8B"
     },
@@ -1070,6 +1065,12 @@
       "subcat": "Models & Datasets",
       "title": "unsloth/Qwen-Image-2.1-GGUF",
       "url": "https://huggingface.co/unsloth/Qwen-Image-2.1-GGUF"
+    },
+    {
+      "date": "2026-10-17",
+      "subcat": "Python",
+      "title": "A plea not to use uv-build",
+      "url": "https://lobste.rs/s/73ssw1/plea_not_use_uv_build"
     }
   ]
 }

@@ -697,6 +697,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites
 - **Link:** https://technicalwriting.dev/blog/2026/10/polyglot/index.html
 
+**Added 2026-10-17**
+
+### [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
+- **Source:** blogs.gentoo.org | **Posted:** 2026-10-13 | **By:** lim
+- **Community:** 96 score, 78 comments on Lobsters
+- **Tags:** devops, python
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/73ssw1/plea_not_use_uv_build
+- **Link:** https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/
+
 
 ## Go
 
