@@ -1905,3 +1905,13 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday
 - **Link:** https://kde.org/announcements/plasma/6/6.8.0/
+
+**Added 2026-10-17**
+
+### [The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise](https://maevyn.codes/decoherence)
+- **Source:** maevyn.codes | **Posted:** 2026-10-16 | **By:** maevyn
+- **Community:** 15 score, 6 comments on Lobsters
+- **Tags:** vibecoding
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out
+- **Link:** https://maevyn.codes/decoherence
