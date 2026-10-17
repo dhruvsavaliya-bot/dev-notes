@@ -513,6 +513,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~67 stars/day since launch.
 - **Link:** https://github.com/vercel-labs/json-render
 
+**Added 2026-10-18**
+
+### [Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI](https://machine0.io)
+- **Source:** machine0.io | **Posted:** 2026-08-18 | **By:** bwm
+- **Community:** 83 points, 44 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49348136
+- **Link:** https://machine0.io
+
 
 ## Python
 

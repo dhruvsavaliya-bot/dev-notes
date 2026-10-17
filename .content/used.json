@@ -871,6 +871,7 @@
     "https://news.ycombinator.com/item?id=49336304",
     "https://news.ycombinator.com/item?id=49336573",
     "https://news.ycombinator.com/item?id=49338328",
+    "https://news.ycombinator.com/item?id=49348136",
     "https://news.ycombinator.com/item?id=49351802",
     "https://news.ycombinator.com/item?id=49355105",
     "https://news.ycombinator.com/item?id=49359425",
@@ -1026,12 +1027,6 @@
     {
       "date": "2026-10-17",
       "subcat": "Models & Datasets",
-      "title": "markov-ai/cad-1000-hours",
-      "url": "https://huggingface.co/datasets/markov-ai/cad-1000-hours"
-    },
-    {
-      "date": "2026-10-17",
-      "subcat": "Models & Datasets",
       "title": "simple-world-lab/HiFi-UMI-2K",
       "url": "https://huggingface.co/datasets/simple-world-lab/HiFi-UMI-2K"
     },
@@ -1082,6 +1077,12 @@
       "subcat": "PHP",
       "title": "Parsing PHP in Go",
       "url": "https://news.ycombinator.com/item?id=8093753"
+    },
+    {
+      "date": "2026-10-18",
+      "subcat": "TypeScript",
+      "title": "Launch HN: machine0 (YC S26)  Persistent CPU and GPU VM",
+      "url": "https://news.ycombinator.com/item?id=49348136"
     }
   ]
 }
