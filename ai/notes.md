@@ -1302,6 +1302,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/datasocial/tiktok-5.6B-videos
 
+**Added 2026-10-17**
+
+### [unsloth/Qwen-Image-2.1-GGUF](https://huggingface.co/unsloth/Qwen-Image-2.1-GGUF)
+- **Stats:** 406 likes | 1,262,277 downloads
+- **Kind:** Hugging Face model | **Task:** text-to-image | **Created:** 2026-09-21
+- **Tags:** gguf, quantized, unsloth, qwen, image-generation, text-to-image
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/unsloth/Qwen-Image-2.1-GGUF
+
 
 ## Research Papers
 

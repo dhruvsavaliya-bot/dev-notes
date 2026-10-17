@@ -551,6 +551,7 @@
     "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0",
     "https://huggingface.co/tencent/Hunyuan3D-2.1",
     "https://huggingface.co/tencent/Hy3",
+    "https://huggingface.co/unsloth/Qwen-Image-2.1-GGUF",
     "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
     "https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base",
@@ -1012,12 +1013,6 @@
   "recent": [
     {
       "date": "2026-10-17",
-      "subcat": "Java",
-      "title": "amak-tech/port-buddy",
-      "url": "https://github.com/amak-tech/port-buddy"
-    },
-    {
-      "date": "2026-10-17",
       "subcat": "Models & Datasets",
       "title": "shibing624/medical",
       "url": "https://huggingface.co/datasets/shibing624/medical"
@@ -1069,6 +1064,12 @@
       "subcat": "Python",
       "title": "The wild west of polyglot docs sites",
       "url": "https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites"
+    },
+    {
+      "date": "2026-10-17",
+      "subcat": "Models & Datasets",
+      "title": "unsloth/Qwen-Image-2.1-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen-Image-2.1-GGUF"
     }
   ]
 }
