@@ -49,6 +49,7 @@
     "http://arxiv.org/abs/2610.18504v1",
     "http://arxiv.org/abs/2610.18745v1",
     "http://arxiv.org/abs/2610.19743v1",
+    "http://arxiv.org/abs/2610.21597v1",
     "http://arxiv.org/abs/2610.21695v1",
     "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
     "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
@@ -1027,12 +1028,6 @@
   "recent": [
     {
       "date": "2026-10-17",
-      "subcat": "TypeScript",
-      "title": "vercel-labs/json-render",
-      "url": "https://github.com/vercel-labs/json-render"
-    },
-    {
-      "date": "2026-10-17",
       "subcat": "Research Papers",
       "title": "Pin It on Anyone: Certified Targeted Displacement of Mu",
       "url": "http://arxiv.org/abs/2610.18359v1"
@@ -1084,6 +1079,12 @@
       "subcat": "Models & Datasets",
       "title": "nvidia/OpenMathInstruct-2",
       "url": "https://huggingface.co/datasets/nvidia/OpenMathInstruct-2"
+    },
+    {
+      "date": "2026-10-18",
+      "subcat": "Research Papers",
+      "title": "Decoding What iOS Location Services Send to Apple: An L",
+      "url": "http://arxiv.org/abs/2610.21597v1"
     }
   ]
 }
