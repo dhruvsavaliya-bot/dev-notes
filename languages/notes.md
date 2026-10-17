@@ -359,6 +359,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~4 stars/day since launch.
 - **Link:** https://github.com/adityatandon15/Spring-Framework-Full-Course
 
+**Added 2026-10-17**
+
+### [rustc_codegen_jvm: Rust compiler backend to emit JVM bytecode](https://github.com/IntegralPilot/rustc_codegen_jvm)
+- **Source:** github.com | **Posted:** 2026-06-02 | **By:** vi_mi
+- **Community:** 23 score, 0 comments on Lobsters
+- **Tags:** java, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/lcldxn/rustc_codegen_jvm_rust_compiler_backend
+- **Link:** https://github.com/IntegralPilot/rustc_codegen_jvm
+
 
 ## TypeScript
 

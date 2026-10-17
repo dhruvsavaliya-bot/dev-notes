@@ -608,6 +608,7 @@
     "https://lobste.rs/s/jlja1a/jdk_27_has_been_released",
     "https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this",
     "https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think",
+    "https://lobste.rs/s/lcldxn/rustc_codegen_jvm_rust_compiler_backend",
     "https://lobste.rs/s/lfen2h/living_weimar_era_ruby",
     "https://lobste.rs/s/lfusbg/atom_exhaustion_is_not_footgun_it_s_one",
     "https://lobste.rs/s/lgdxtw/c_for_rust_programmers",
@@ -1009,12 +1010,6 @@
   "recent": [
     {
       "date": "2026-10-17",
-      "subcat": "AI Engineering",
-      "title": "Can a local LLM replace Claude Code? The benchmark ever",
-      "url": "https://dev.to/rudratosh/can-a-local-llm-replace-claude-code-the-benchmark-everyone-quotes-is-the-wrong-one-2kna"
-    },
-    {
-      "date": "2026-10-17",
       "subcat": "Show & Ask HN",
       "title": "Shopify says remove Stripe billing or get booted from t",
       "url": "https://news.ycombinator.com/item?id=26260174"
@@ -1066,6 +1061,12 @@
       "subcat": "Lobsters Picks",
       "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
       "url": "https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has"
+    },
+    {
+      "date": "2026-10-17",
+      "subcat": "Java",
+      "title": "rustc_codegen_jvm: Rust compiler backend to emit JVM by",
+      "url": "https://lobste.rs/s/lcldxn/rustc_codegen_jvm_rust_compiler_backend"
     }
   ]
 }
