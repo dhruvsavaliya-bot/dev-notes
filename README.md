@@ -18,17 +18,19 @@ the Hugging Face Hub.
 
 ## Latest additions
 
-- **2026-10-18** · *Ruby* — [palkan/layered-rails-skills](https://github.com/palkan/layered-rails-skills)
-- **2026-10-18** · *Java* — [Java Is Underhyped](https://news.ycombinator.com/item?id=26827766)
-- **2026-10-18** · *Other Cool Projects* — [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate)
-- **2026-10-18** · *Career & Craft* — [8 Posts by Women on DEV That Deserve More Than a Once-a](https://dev.to/sheships/8-posts-by-women-on-dev-that-deserve-more-than-a-once-a-year-spotlight-27dc)
-- **2026-10-18** · *Research Papers* — [Auditing Escalation Reliability in Healthcare LLM Agent](http://arxiv.org/abs/2610.21270v1)
+- **2026-10-17** · *Models & Datasets* — [simple-world-lab/HiFi-UMI-2K](https://huggingface.co/datasets/simple-world-lab/HiFi-UMI-2K)
+- **2026-10-17** · *Models & Datasets* — [markov-ai/cad-1000-hours](https://huggingface.co/datasets/markov-ai/cad-1000-hours)
+- **2026-10-17** · *Rust* — [QuipNetwork/quip-solver](https://github.com/QuipNetwork/quip-solver)
+- **2026-10-17** · *Python* — [A plea not to use uv-build](https://lobste.rs/s/73ssw1/plea_not_use_uv_build)
+- **2026-10-17** · *Models & Datasets* — [unsloth/Qwen-Image-2.1-GGUF](https://huggingface.co/unsloth/Qwen-Image-2.1-GGUF)
 
 ## How it works
 
 A Python script runs on a schedule — in GitHub Actions around the clock,
 with a local Task Scheduler job as backup. Each run pulls the
-highest-signal new dev content from six sources (quality-filtered by
-stars, points, reactions and likes), files each item under a topic
-headline, and commits it here — one commit per entry. No duplicates:
-every item is tracked. Long sections rotate into `archive/`.
+highest-signal new dev content from six sources — filtered both for
+quality (stars, points, reactions, likes) and for age, so a popularity
+ranking cannot pass a year-old item off as new — files each one under a
+topic headline, and commits it here: one commit per entry. No
+duplicates, counting an article and its discussion thread as the same
+item. Long sections rotate into `archive/`.

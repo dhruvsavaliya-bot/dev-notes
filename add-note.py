@@ -25,6 +25,7 @@ import gzip
 import json
 import os
 import random
+import re
 import subprocess
 import sys
 import urllib.parse
@@ -73,13 +74,47 @@ MIN_STARS = 200           # GitHub: minimum stars for brand-new repos
 MIN_HN_POINTS = 100       # Hacker News: minimum upvotes
 MIN_LOBSTERS_SCORE = 15   # Lobsters: minimum score
 MIN_HF_LIKES = 50         # Hugging Face: minimum likes
-TREND_WINDOW_DAYS = 30    # GitHub: "brand new" window
 # -------------------------------------------------------------------
+
+# ---------------- recency windows (days; tune anytime) ----------------
+# "Fresh content" is the one thing this repo promises, and most sources will
+# happily serve their all-time greatest hits instead: a popularity sort reaches
+# back years, and paging deep into a points-filtered archive lands in 2017.
+# Every source that ranks by popularity gets an age bound here.
+GH_NEW_DAYS = envint("DEVNOTES_GH_NEW_DAYS", 30)        # "brand new" repos
+GH_RISING_DAYS = envint("DEVNOTES_GH_RISING_DAYS", 90)  # young, with traction
+GH_ACTIVE_DAYS = envint("DEVNOTES_GH_ACTIVE_DAYS", 180)  # pushed lately, not ancient
+GH_TOPIC_DAYS = envint("DEVNOTES_GH_TOPIC_DAYS", 365)   # topic sweep: had no bound
+GH_LANG_DAYS = envint("DEVNOTES_GH_LANG_DAYS", 180)     # language sweep
+HN_STORY_DAYS = envint("DEVNOTES_HN_DAYS", 30)          # deep/show/ask paging
+HF_MAX_AGE_DAYS = envint("DEVNOTES_HF_DAYS", 180)       # Hugging Face models/datasets
+# ----------------------------------------------------------------------
 
 
 def bar(value, relax):
     """A threshold, halved for each relaxation round. Never drops below 1."""
     return max(1, int(value * (0.5 ** relax)))
+
+
+def window(days, relax):
+    """A recency window in days, doubled for each relaxation round.
+
+    The mirror image of bar(): where a quality threshold comes down when the
+    fresh pool is short, a date window opens up. Both exist so that a run which
+    cannot fill itself from this week's content widens its reach rather than
+    returning nothing -- the daily target is the thing that must not slip.
+    """
+    return max(1, days * (2 ** relax))
+
+
+def since(days, relax):
+    """ISO date for a GitHub `created:>` / `pushed:>` bound."""
+    return (date.today() - timedelta(days=window(days, relax))).isoformat()
+
+
+def epoch_since(days, relax):
+    """Unix timestamp for a Hacker News `created_at_i>` numeric filter."""
+    return int((datetime.now() - timedelta(days=window(days, relax))).timestamp())
 
 
 FILES = {
@@ -275,29 +310,37 @@ def gh_search(query, sort="stars"):
 
 
 def src_gh_new(relax):
-    since = (date.today() - timedelta(days=TREND_WINDOW_DAYS)).isoformat()
-    return gh_search(f"created:>{since} stars:>{bar(MIN_STARS, relax)}")
+    return gh_search(
+        f"created:>{since(GH_NEW_DAYS, relax)} stars:>{bar(MIN_STARS, relax)}")
 
 
 def src_gh_rising(relax):
-    since = (date.today() - timedelta(days=90)).isoformat()
-    return gh_search(f"created:>{since} stars:>{bar(500, relax)}")
+    return gh_search(
+        f"created:>{since(GH_RISING_DAYS, relax)} stars:>{bar(500, relax)}")
 
 
 def src_gh_active(relax):
-    since = (date.today() - timedelta(days=7)).isoformat()
-    return gh_search(f"pushed:>{since} stars:>{bar(2000, relax)}", sort="updated")
+    # `pushed:` alone matches every maintained repo on GitHub, which is how
+    # decade-old projects ended up filed under "Trending Projects". Pair it with
+    # a creation bound so this stays "young repo still moving", not "repo alive".
+    pushed = (date.today() - timedelta(days=7)).isoformat()
+    return gh_search(
+        f"pushed:>{pushed} created:>{since(GH_ACTIVE_DAYS, relax)}"
+        f" stars:>{bar(2000, relax)}", sort="updated")
 
 
 def src_gh_topic(relax):
     topic = random.choice(GH_TOPICS)
-    return gh_search(f"topic:{topic} stars:>{bar(300, relax)}")
+    return gh_search(
+        f"topic:{topic} created:>{since(GH_TOPIC_DAYS, relax)}"
+        f" stars:>{bar(300, relax)}")
 
 
 def src_gh_lang(relax):
     lang = random.choice(GH_LANGS)
-    since = (date.today() - timedelta(days=365)).isoformat()
-    return gh_search(f"language:{lang} created:>{since} stars:>{bar(300, relax)}")
+    return gh_search(
+        f"language:{lang} created:>{since(GH_LANG_DAYS, relax)}"
+        f" stars:>{bar(300, relax)}")
 
 
 def hn_block(h, subcat):
@@ -319,10 +362,27 @@ def hn_block(h, subcat):
     return (hn_link, subcat, block)
 
 
-def hn_search(query, min_points, subcat):
-    url = f"https://hn.algolia.com/api/v1/search?{query}"
+def hn_page(query, page):
+    return get_json(f"https://hn.algolia.com/api/v1/search?{query}&page={page}")
+
+
+def hn_search(query, min_points, subcat, deep=0):
+    """Page 0, plus one random deeper page that actually exists.
+
+    The trap gh_items() documents applies here too: a blind page number
+    returns nothing whenever the result set is smaller than the guess. Bounding
+    these searches by story age shrank every result set -- "Show HN above 60
+    points in the last month" is a couple of pages deep, not twelve -- so the
+    reply's nbPages decides how far the paging may reach.
+    """
+    first = hn_page(query, 0)
+    hits = list(first.get("hits", []))
+    pages = max(1, int(first.get("nbPages") or 1))
+    if deep and pages > 1:
+        hits += hn_page(query, random.randint(1, min(pages - 1, deep))).get("hits", [])
+
     out = []
-    for h in get_json(url).get("hits", []):
+    for h in hits:
         if not (h.get("title") or h.get("story_title")):
             continue
         if (h.get("points") or 0) < min_points:
@@ -332,33 +392,41 @@ def hn_search(query, min_points, subcat):
 
 
 def src_hn_front(relax):
+    # The live front page is one page long and inherently fresh: no paging, no
+    # age bound -- whatever is on it right now is the point.
     return hn_search("tags=front_page&hitsPerPage=50", bar(MIN_HN_POINTS, relax), "Hacker News Picks")
 
 
+# Paging deep into a points-filtered search walks backwards through the whole
+# archive -- page 24 of "stories over 100 points" is years old. created_at_i
+# keeps the paging inside the recency window instead of inside all of history.
 def src_hn_deep(relax):
     pts = bar(MIN_HN_POINTS, relax)
-    page = random.randint(0, 24)
     return hn_search(
-        f"tags=story&numericFilters=points>{pts}&hitsPerPage=50&page={page}",
-        pts, "Hacker News Picks",
+        f"tags=story&numericFilters=points>{pts},"
+        f"created_at_i>{epoch_since(HN_STORY_DAYS, relax)}"
+        f"&hitsPerPage=50",
+        pts, "Hacker News Picks", deep=24,
     )
 
 
 def src_hn_show(relax):
     pts = bar(60, relax)
-    page = random.randint(0, 12)
     return hn_search(
-        f"tags=show_hn&numericFilters=points>{pts}&hitsPerPage=50&page={page}",
-        pts, "Show & Ask HN",
+        f"tags=show_hn&numericFilters=points>{pts},"
+        f"created_at_i>{epoch_since(HN_STORY_DAYS, relax)}"
+        f"&hitsPerPage=50",
+        pts, "Show & Ask HN", deep=12,
     )
 
 
 def src_hn_ask(relax):
     pts = bar(60, relax)
-    page = random.randint(0, 12)
     return hn_search(
-        f"tags=ask_hn&numericFilters=points>{pts}&hitsPerPage=50&page={page}",
-        pts, "Show & Ask HN",
+        f"tags=ask_hn&numericFilters=points>{pts},"
+        f"created_at_i>{epoch_since(HN_STORY_DAYS, relax)}"
+        f"&hitsPerPage=50",
+        pts, "Show & Ask HN", deep=12,
     )
 
 
@@ -450,8 +518,8 @@ def src_gh_lang_notes(relax):
     """GitHub repos filed under the language's own headline."""
     choices = [(n, gh) for n, (gh, _) in LANG_QUERIES.items() if gh]
     name, lang = random.choice(choices)
-    since = (date.today() - timedelta(days=365)).isoformat()
-    query = f'language:"{lang}" created:>{since} stars:>{bar(400, relax)}'
+    query = (f'language:"{lang}" created:>{since(GH_LANG_DAYS, relax)}'
+             f' stars:>{bar(400, relax)}')
     return [(r["html_url"], name, repo_block(r)) for r in gh_items(query)]
 
 
@@ -459,11 +527,12 @@ def src_hn_lang(relax):
     """Hacker News stories about one language, filed under its headline."""
     name, (_, term) = random.choice(list(LANG_QUERIES.items()))
     pts = bar(80, relax)
-    page = random.randint(0, 8)
     return hn_search(
         f"query={urllib.parse.quote(term)}&tags=story"
-        f"&numericFilters=points>{pts}&hitsPerPage=50&page={page}",
-        pts, name,
+        f"&numericFilters=points>{pts},"
+        f"created_at_i>{epoch_since(HN_STORY_DAYS, relax)}"
+        f"&hitsPerPage=50",
+        pts, name, deep=8,
     )
 
 
@@ -525,13 +594,27 @@ def hf_block(item, kind):
     return (url, "Models & Datasets", block)
 
 
-def hf_fetch(endpoint, kind, min_likes):
-    sort = random.choice(["likes", "downloads", "trendingScore"])
-    skip = random.randint(0, 400)
+def hf_fetch(endpoint, kind, min_likes, relax):
+    """Models/datasets with community pull that are also actually new.
+
+    `likes` and `downloads` are all-time totals, so sorting by either returns
+    the Hub's greatest hits -- which is how year-old models got filed under a
+    "fresh content" banner. trendingScore is Hugging Face's own recency-weighted
+    ranking, so it leads the rotation, and every candidate is held to the age
+    window regardless of which sort produced it.
+    """
+    sort = random.choice(["trendingScore", "trendingScore", "likes", "downloads"])
+    # Popularity sorts need the deep skip to stay varied; trendingScore is short
+    # and ordered by recency already, so reaching past it only finds stale rows.
+    skip = random.randint(0, 100 if sort == "trendingScore" else 400)
     url = f"https://huggingface.co/api/{endpoint}?sort={sort}&direction=-1&limit=50&skip={skip}"
+    cutoff = since(HF_MAX_AGE_DAYS, relax)
     out = []
     for item in get_json(url):
         if (item.get("likes") or 0) < min_likes:
+            continue
+        # A missing createdAt cannot be shown to be fresh, so it does not pass.
+        if (item.get("createdAt") or "")[:10] < cutoff:
             continue
         triple = hf_block(item, kind)
         if triple:
@@ -540,11 +623,11 @@ def hf_fetch(endpoint, kind, min_likes):
 
 
 def src_hf_models(relax):
-    return hf_fetch("models", "model", bar(MIN_HF_LIKES, relax))
+    return hf_fetch("models", "model", bar(MIN_HF_LIKES, relax), relax)
 
 
 def src_hf_datasets(relax):
-    return hf_fetch("datasets", "dataset", bar(MIN_HF_LIKES, relax))
+    return hf_fetch("datasets", "dataset", bar(MIN_HF_LIKES, relax), relax)
 
 
 def devto_source(category):
@@ -689,10 +772,12 @@ def update_readme(recent):
         "## How it works\n\n"
         "A Python script runs on a schedule — in GitHub Actions around the clock,\n"
         "with a local Task Scheduler job as backup. Each run pulls the\n"
-        "highest-signal new dev content from six sources (quality-filtered by\n"
-        "stars, points, reactions and likes), files each item under a topic\n"
-        "headline, and commits it here — one commit per entry. No duplicates:\n"
-        "every item is tracked. Long sections rotate into `archive/`.\n"
+        "highest-signal new dev content from six sources — filtered both for\n"
+        "quality (stars, points, reactions, likes) and for age, so a popularity\n"
+        "ranking cannot pass a year-old item off as new — files each one under a\n"
+        "topic headline, and commits it here: one commit per entry. No\n"
+        "duplicates, counting an article and its discussion thread as the same\n"
+        "item. Long sections rotate into `archive/`.\n"
     )
     (REPO / "README.md").write_text(readme, encoding="utf-8")
 
@@ -940,12 +1025,31 @@ def heartbeat():
 # candidate gathering
 # ======================================================================
 
-def sweep(pool, used_ids, relax):
+def entry_uids(uid, block):
+    """Every URL that identifies one item.
+
+    A story posted to both Hacker News and Lobsters arrives twice under two
+    different uids -- the HN item link and the Lobsters comments link -- with
+    the same article URL inside. Matching on the uid alone files the second
+    copy as new, so the target link counts as identity too. Every block ends
+    in a `- **Link:**` line, which is where that URL comes from.
+    """
+    uids = {uid}
+    match = re.search(r"\n- \*\*Link:\*\* (\S+)", block)
+    if match:
+        uids.add(match.group(1))
+    return uids
+
+
+def sweep(pool, used_ids, relax, claimed):
     """One pass: pull from a random source in EVERY category.
 
     Sweeping by category rather than draining sources one at a time is what
     keeps a run varied -- a single source can return 50 items, and draining it
     first would hand spread() nothing but arXiv papers to choose from.
+
+    `claimed` carries every url the pool already covers, under all of an
+    entry's identities, so the same article cannot enter twice via two sources.
     """
     categories = list(SOURCES)
     random.shuffle(categories)
@@ -957,17 +1061,20 @@ def sweep(pool, used_ids, relax):
             print(f"  ({category}/{source.__name__} unavailable: {e})")
             continue
         for uid, subcat, block in items:
-            if uid in used_ids or uid in pool:
+            uids = entry_uids(uid, block)
+            if uids & used_ids or uids & claimed:
                 continue
+            claimed |= uids
             pool[uid] = (category, uid, subcat, block)
 
 
 def gather(need, used_ids):
     """Collect fresh candidates, relaxing thresholds only if we come up short."""
     pool = {}
+    claimed = set()
     for relax in (0, 1, 2):
         for _ in range(2):
-            sweep(pool, used_ids, relax)
+            sweep(pool, used_ids, relax, claimed)
             spread_ok = len({v[0] for v in pool.values()}) >= min(3, len(SOURCES))
             if len(pool) >= need and spread_ok:
                 return list(pool.values())
@@ -1054,9 +1161,46 @@ def entry_title(block, fallback):
 
 # ======================================================================
 
+def backfill_links():
+    """Teach used.json the article URLs of entries filed before entry_uids().
+
+    Until the target link counted as identity, only the uid was tracked -- so a
+    story already filed from Hacker News could be filed again from Lobsters.
+    This walks every note file (active and archived), collects the url out of
+    each entry's `- **Link:**` line, and folds them into `ids`. Additive and
+    idempotent: it only ever widens the set, and commits nothing.
+    """
+    used = json.loads(USED.read_text(encoding="utf-8")) if USED.exists() else {}
+    ids = set(used.get("ids", []))
+    before = len(ids)
+
+    paths = list(FILES.values())
+    if ARCHIVE.exists():
+        paths += sorted(ARCHIVE.glob("*.md"))
+    for path in paths:
+        if not path.exists():
+            continue
+        for line in path.read_text(encoding="utf-8").splitlines():
+            if line.startswith("- **Link:** "):
+                url = line[len("- **Link:** "):].strip()
+                if url:
+                    ids.add(url)
+
+    used["ids"] = sorted(ids)
+    USED.parent.mkdir(parents=True, exist_ok=True)
+    USED.write_text(json.dumps(used, indent=2), encoding="utf-8")
+    print(f"backfill: {before} -> {len(ids)} tracked ids "
+          f"(+{len(ids) - before} article urls); nothing committed")
+
+
 def main():
     argv = sys.argv[1:]
     dry_run = "--dry-run" in argv
+
+    if "--backfill-links" in argv:
+        backfill_links()
+        return
+
     forced = None
     if "--count" in argv:
         try:
@@ -1113,7 +1257,7 @@ def main():
             "url": uid,
         })
         used["recent"] = recent[-RECENT_KEEP:]
-        used_ids.add(uid)
+        used_ids.update(entry_uids(uid, block))
         used["ids"] = sorted(used_ids)
         USED.write_text(json.dumps(used, indent=2), encoding="utf-8")
 
