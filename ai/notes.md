@@ -1284,6 +1284,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/microsoft/AesCode-8B
 
+**Added 2026-10-17**
+
+### [HuggingFaceFW/finepdfs](https://huggingface.co/datasets/HuggingFaceFW/finepdfs)
+- **Stats:** 955 likes | 69,981 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2025-09-05
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/HuggingFaceFW/finepdfs
+
 
 ## Research Papers
 

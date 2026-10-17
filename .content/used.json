@@ -493,6 +493,7 @@
     "https://huggingface.co/datasets/ACERobotics/ACE-Data-0",
     "https://huggingface.co/datasets/Anthropic/claude-protein-binder-design",
     "https://huggingface.co/datasets/FlyRank/internship-warehouse",
+    "https://huggingface.co/datasets/HuggingFaceFW/finepdfs",
     "https://huggingface.co/datasets/HumynLabs/airline-customersupport-Hinglish-audio",
     "https://huggingface.co/datasets/Maxwell-Jia/AIME_2024",
     "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023",
@@ -1005,12 +1006,6 @@
   "recent": [
     {
       "date": "2026-10-16",
-      "subcat": "Models & Datasets",
-      "title": "garage-bAInd/Open-Platypus",
-      "url": "https://huggingface.co/datasets/garage-bAInd/Open-Platypus"
-    },
-    {
-      "date": "2026-10-16",
       "subcat": "Show & Ask HN",
       "title": "Show HN: I built a sub-500ms latency voice agent from s",
       "url": "https://news.ycombinator.com/item?id=47224295"
@@ -1062,6 +1057,12 @@
       "subcat": "Models & Datasets",
       "title": "microsoft/AesCode-8B",
       "url": "https://huggingface.co/microsoft/AesCode-8B"
+    },
+    {
+      "date": "2026-10-17",
+      "subcat": "Models & Datasets",
+      "title": "HuggingFaceFW/finepdfs",
+      "url": "https://huggingface.co/datasets/HuggingFaceFW/finepdfs"
     }
   ]
 }
