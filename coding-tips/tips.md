@@ -1714,6 +1714,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=26260174
 - **Link:** https://news.ycombinator.com/item?id=26260174
 
+**Added 2026-10-17**
+
+### [Show HN: movies.io — torrent search like it should be](http://movies.io/)
+- **Source:** movies.io | **Posted:** 2012-06-01 | **By:** nddrylliog
+- **Community:** 550 points, 487 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=4054568
+- **Link:** http://movies.io/
+
 
 ## Git & Workflow
 
