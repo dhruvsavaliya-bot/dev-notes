@@ -1338,6 +1338,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/yiyanghkust/finbert-tone
 
+**Added 2026-10-18**
+
+### [nvidia/OpenMathInstruct-2](https://huggingface.co/datasets/nvidia/OpenMathInstruct-2)
+- **Stats:** 263 likes | 97,118 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2024-09-28
+- **Tags:** math, nvidia
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/nvidia/OpenMathInstruct-2
+
 
 ## Research Papers
 

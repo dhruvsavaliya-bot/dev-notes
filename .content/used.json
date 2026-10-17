@@ -529,6 +529,7 @@
     "https://huggingface.co/datasets/monology/pile-uncopyrighted",
     "https://huggingface.co/datasets/nvidia/Open-SWE-Traces",
     "https://huggingface.co/datasets/nvidia/OpenH-RF",
+    "https://huggingface.co/datasets/nvidia/OpenMathInstruct-2",
     "https://huggingface.co/datasets/open-r1/codeforces-cots",
     "https://huggingface.co/datasets/openai/gdpval",
     "https://huggingface.co/datasets/openai/healthbench",
@@ -1026,12 +1027,6 @@
   "recent": [
     {
       "date": "2026-10-17",
-      "subcat": "Models & Datasets",
-      "title": "simple-world-lab/HiFi-UMI-2K",
-      "url": "https://huggingface.co/datasets/simple-world-lab/HiFi-UMI-2K"
-    },
-    {
-      "date": "2026-10-17",
       "subcat": "TypeScript",
       "title": "vercel-labs/json-render",
       "url": "https://github.com/vercel-labs/json-render"
@@ -1083,6 +1078,12 @@
       "subcat": "TypeScript",
       "title": "Launch HN: machine0 (YC S26)  Persistent CPU and GPU VM",
       "url": "https://news.ycombinator.com/item?id=49348136"
+    },
+    {
+      "date": "2026-10-18",
+      "subcat": "Models & Datasets",
+      "title": "nvidia/OpenMathInstruct-2",
+      "url": "https://huggingface.co/datasets/nvidia/OpenMathInstruct-2"
     }
   ]
 }
