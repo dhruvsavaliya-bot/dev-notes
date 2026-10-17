@@ -1915,3 +1915,13 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out
 - **Link:** https://maevyn.codes/decoherence
+
+**Added 2026-10-17**
+
+### [The NIST Elliptic Curves Seeds Bounty Has Been Claimed](https://words.filippo.io/seeds-solved/)
+- **Source:** words.filippo.io | **Posted:** 2026-10-16 | **By:** FiloSottile
+- **Community:** 58 score, 10 comments on Lobsters
+- **Tags:** cryptography
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has
+- **Link:** https://words.filippo.io/seeds-solved/

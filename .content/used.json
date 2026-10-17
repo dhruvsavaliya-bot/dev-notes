@@ -590,6 +590,7 @@
     "https://lobste.rs/s/ceuque/debian_code_search_fast_turbopfor_with_go",
     "https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit",
     "https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday",
+    "https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has",
     "https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline",
     "https://lobste.rs/s/dpfpr3/goroutine_leak_profiles",
     "https://lobste.rs/s/dzvt0w/type_inference_all_constructs_next_15",
@@ -1007,12 +1008,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-16",
-      "subcat": "Show & Ask HN",
-      "title": "Tell HN: Brother printers now locking out non-OEM parap",
-      "url": "https://news.ycombinator.com/item?id=31860131"
-    },
-    {
       "date": "2026-10-17",
       "subcat": "AI Engineering",
       "title": "Can a local LLM replace Claude Code? The benchmark ever",
@@ -1065,6 +1060,12 @@
       "subcat": "Java",
       "title": "adityatandon15/Spring-Framework-Full-Course",
       "url": "https://github.com/adityatandon15/Spring-Framework-Full-Course"
+    },
+    {
+      "date": "2026-10-17",
+      "subcat": "Lobsters Picks",
+      "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+      "url": "https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has"
     }
   ]
 }
