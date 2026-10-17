@@ -255,6 +255,7 @@
     "https://github.com/Optiscaler-Client/Optiscaler-Client",
     "https://github.com/Player-YN/BrowserKitten",
     "https://github.com/Player-YN/PawWork_ZhuaZhua",
+    "https://github.com/QuipNetwork/quip-solver",
     "https://github.com/QwenLM/Qwen-MM-Plugins",
     "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
     "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
@@ -1015,12 +1016,6 @@
     {
       "date": "2026-10-17",
       "subcat": "Models & Datasets",
-      "title": "microsoft/AesCode-8B",
-      "url": "https://huggingface.co/microsoft/AesCode-8B"
-    },
-    {
-      "date": "2026-10-17",
-      "subcat": "Models & Datasets",
       "title": "HuggingFaceFW/finepdfs",
       "url": "https://huggingface.co/datasets/HuggingFaceFW/finepdfs"
     },
@@ -1071,6 +1066,12 @@
       "subcat": "Python",
       "title": "A plea not to use uv-build",
       "url": "https://lobste.rs/s/73ssw1/plea_not_use_uv_build"
+    },
+    {
+      "date": "2026-10-17",
+      "subcat": "Rust",
+      "title": "QuipNetwork/quip-solver",
+      "url": "https://github.com/QuipNetwork/quip-solver"
     }
   ]
 }

@@ -1310,6 +1310,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~582 stars/day since launch.
 - **Link:** https://github.com/storytold/vectorcraft
 
+**Added 2026-10-17**
+
+### [QuipNetwork/quip-solver](https://github.com/QuipNetwork/quip-solver)
+- **Stats:** 11,592 stars | 164 forks | 6 open issues
+- **Language:** Rust | **Created:** 2026-01-16 | **License:** AGPL-3.0
+- **Topics:** cryptocurrency, ising, ising-model, ising-spin-models, mining, quantum
+- **What it is:** The quip network mining stack. This includes a coordinator and links all of the official quip network miners.
+- **Growth:** averaging ~42 stars/day since launch.
+- **Link:** https://github.com/QuipNetwork/quip-solver
+
 
 ## Elixir
 
