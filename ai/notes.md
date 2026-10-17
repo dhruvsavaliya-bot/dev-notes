@@ -1329,6 +1329,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/simple-world-lab/HiFi-UMI-2K
 
+**Added 2026-10-17**
+
+### [yiyanghkust/finbert-tone](https://huggingface.co/yiyanghkust/finbert-tone)
+- **Stats:** 232 likes | 965,130 downloads
+- **Kind:** Hugging Face model | **Task:** text-classification | **Created:** 2022-03-02
+- **Tags:** transformers, pytorch, tf, text-classification, financial-sentiment-analysis, sentiment-analysis
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/yiyanghkust/finbert-tone
+
 
 ## Research Papers
 

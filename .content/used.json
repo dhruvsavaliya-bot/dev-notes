@@ -560,6 +560,7 @@
     "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
     "https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base",
+    "https://huggingface.co/yiyanghkust/finbert-tone",
     "https://huggingface.co/zai-org/GLM-4.6",
     "https://huggingface.co/zai-org/GLM-5.3-Flash",
     "https://huggingface.co/zai-org/chatglm3-6b",
@@ -1019,12 +1020,6 @@
   "recent": [
     {
       "date": "2026-10-17",
-      "subcat": "Java",
-      "title": "rustc_codegen_jvm: Rust compiler backend to emit JVM by",
-      "url": "https://lobste.rs/s/lcldxn/rustc_codegen_jvm_rust_compiler_backend"
-    },
-    {
-      "date": "2026-10-17",
       "subcat": "Models & Datasets",
       "title": "datasocial/tiktok-5.6B-videos",
       "url": "https://huggingface.co/datasets/datasocial/tiktok-5.6B-videos"
@@ -1076,6 +1071,12 @@
       "subcat": "Research Papers",
       "title": "Pin It on Anyone: Certified Targeted Displacement of Mu",
       "url": "http://arxiv.org/abs/2610.18359v1"
+    },
+    {
+      "date": "2026-10-17",
+      "subcat": "Models & Datasets",
+      "title": "yiyanghkust/finbert-tone",
+      "url": "https://huggingface.co/yiyanghkust/finbert-tone"
     }
   ]
 }
