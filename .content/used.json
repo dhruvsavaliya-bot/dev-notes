@@ -505,6 +505,7 @@
     "https://huggingface.co/datasets/allenai/c4",
     "https://huggingface.co/datasets/argilla/magpie-ultra-v0.1",
     "https://huggingface.co/datasets/bigcode/the-stack-v2",
+    "https://huggingface.co/datasets/datasocial/tiktok-5.6B-videos",
     "https://huggingface.co/datasets/eidon-ai/tracker-pov",
     "https://huggingface.co/datasets/espnet/yodas",
     "https://huggingface.co/datasets/espnet/yodas2",
@@ -1010,12 +1011,6 @@
   "recent": [
     {
       "date": "2026-10-17",
-      "subcat": "Show & Ask HN",
-      "title": "Shopify says remove Stripe billing or get booted from t",
-      "url": "https://news.ycombinator.com/item?id=26260174"
-    },
-    {
-      "date": "2026-10-17",
       "subcat": "C++",
       "title": "chasmlol/SkyCraft",
       "url": "https://github.com/chasmlol/SkyCraft"
@@ -1067,6 +1062,12 @@
       "subcat": "Java",
       "title": "rustc_codegen_jvm: Rust compiler backend to emit JVM by",
       "url": "https://lobste.rs/s/lcldxn/rustc_codegen_jvm_rust_compiler_backend"
+    },
+    {
+      "date": "2026-10-17",
+      "subcat": "Models & Datasets",
+      "title": "datasocial/tiktok-5.6B-videos",
+      "url": "https://huggingface.co/datasets/datasocial/tiktok-5.6B-videos"
     }
   ]
 }

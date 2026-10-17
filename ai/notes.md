@@ -1293,6 +1293,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/HuggingFaceFW/finepdfs
 
+**Added 2026-10-17**
+
+### [datasocial/tiktok-5.6B-videos](https://huggingface.co/datasets/datasocial/tiktok-5.6B-videos)
+- **Stats:** 330 likes | 20,232 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-10-03
+- **Tags:** tiktok, social-media, short-video, creators
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/datasocial/tiktok-5.6B-videos
+
 
 ## Research Papers
 
