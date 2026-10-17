@@ -1761,3 +1761,13 @@ Lessons from building with LLMs.
 - **Abstract:** Fixed-function CNN accelerators make edge inference fast and energy-efficient, but they execute only networks that obey a precise numerical contract. On the MAX7800x family, this contract requires power-of-two, per-tensor, symmetric scales, 8-bit activations and biases, integer-only arithmetic, and one statically configured shift per layer. We present ShiftQAT, the quantization-aware training (QAT) flow we developed for this family, which produces networks satisfying the contract by construction...
 - **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.21695v1
+
+**Added 2026-10-17**
+
+### [Pin It on Anyone: Certified Targeted Displacement of Multi-Bit LLM Watermarks Without the Key](http://arxiv.org/abs/2610.18359v1)
+- **Authors:** Paweł Batorski, Przemysław Spurek, Paul Swoboda
+- **Published:** 2026-10-13 | **Primary category:** cs.CR
+- **Categories:** cs.CR, cs.CL
+- **Abstract:** Multi-bit watermarking embeds a message, typically an account identifier, into LLM output so that harmful text can be traced to its origin. We show an attack technique that allows to alter the watermarking message. This allows to, for example, exchange the embedded account ID to an arbitrary different one. The attacker mainly needs access to a few accounts for generating LLM output and model logits, but crucially not the secret key used to watermark. The attacker then rewrites the text, keeping ...
+- **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.18359v1

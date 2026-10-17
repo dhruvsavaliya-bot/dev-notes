@@ -45,6 +45,7 @@
     "http://arxiv.org/abs/2610.15082v1",
     "http://arxiv.org/abs/2610.16594v1",
     "http://arxiv.org/abs/2610.17747v1",
+    "http://arxiv.org/abs/2610.18359v1",
     "http://arxiv.org/abs/2610.18504v1",
     "http://arxiv.org/abs/2610.18745v1",
     "http://arxiv.org/abs/2610.19743v1",
@@ -1018,12 +1019,6 @@
   "recent": [
     {
       "date": "2026-10-17",
-      "subcat": "Lobsters Picks",
-      "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
-      "url": "https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has"
-    },
-    {
-      "date": "2026-10-17",
       "subcat": "Java",
       "title": "rustc_codegen_jvm: Rust compiler backend to emit JVM by",
       "url": "https://lobste.rs/s/lcldxn/rustc_codegen_jvm_rust_compiler_backend"
@@ -1075,6 +1070,12 @@
       "subcat": "TypeScript",
       "title": "vercel-labs/json-render",
       "url": "https://github.com/vercel-labs/json-render"
+    },
+    {
+      "date": "2026-10-17",
+      "subcat": "Research Papers",
+      "title": "Pin It on Anyone: Certified Targeted Displacement of Mu",
+      "url": "http://arxiv.org/abs/2610.18359v1"
     }
   ]
 }
