@@ -412,6 +412,7 @@
     "https://github.com/remorses/playwriter",
     "https://github.com/remoteinterview/zero",
     "https://github.com/repoprompt/repoprompt-ce",
+    "https://github.com/rjsf-team/react-jsonschema-form",
     "https://github.com/robbietilton/Compositor",
     "https://github.com/s1dashu/ip-as-logo-skill",
     "https://github.com/safijari/openpuck",
@@ -1022,12 +1023,6 @@
   "recent": [
     {
       "date": "2026-10-17",
-      "subcat": "Models & Datasets",
-      "title": "unsloth/Qwen-Image-2.1-GGUF",
-      "url": "https://huggingface.co/unsloth/Qwen-Image-2.1-GGUF"
-    },
-    {
-      "date": "2026-10-17",
       "subcat": "Python",
       "title": "A plea not to use uv-build",
       "url": "https://lobste.rs/s/73ssw1/plea_not_use_uv_build"
@@ -1079,6 +1074,12 @@
       "subcat": "Hacker News Picks",
       "title": "JPEG XL vs. AVIF for web use-cases",
       "url": "https://news.ycombinator.com/item?id=50120224"
+    },
+    {
+      "date": "2026-10-17",
+      "subcat": "Web & Frontend",
+      "title": "rjsf-team/react-jsonschema-form",
+      "url": "https://github.com/rjsf-team/react-jsonschema-form"
     }
   ]
 }

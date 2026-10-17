@@ -2120,6 +2120,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~3 stars/day since launch.
 - **Link:** https://github.com/AstrBotDevs/AstrBot-desktop
 
+**Added 2026-10-17**
+
+### [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
+- **Stats:** 15,920 stars | 2,348 forks | 166 open issues
+- **Language:** TypeScript | **Created:** 2015-12-16 | **License:** Apache-2.0
+- **Topics:** data-validation, forms, json, json-schema, react, ui
+- **What it is:** A React component for building Web forms from JSON Schema.
+- **Growth:** averaging ~4 stars/day since launch.
+- **Link:** https://github.com/rjsf-team/react-jsonschema-form
+
 
 ## Developer Tools
 
