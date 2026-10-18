@@ -1531,6 +1531,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~12 stars/day since launch.
 - **Link:** https://github.com/builtbybel/FluentTweaker
 
+**Added 2026-10-18**
+
+### [Fervent-Tempo/AF-Media-Bar](https://github.com/Fervent-Tempo/AF-Media-Bar)
+- **Stats:** 979 stars | 41 forks | 33 open issues
+- **Language:** C# | **Created:** 2026-08-06 | **License:** MIT
+- **Topics:** audio-visualizer, csharp, csharp-app, desktop-app, desktop-customization, media-controls
+- **What it is:** Windows 10/11 桌面上的媒体控制与轻度美化软件。     Media control and minor beautification software for Windows 10/11 desktops.
+- **Growth:** averaging ~13 stars/day since launch.
+- **Link:** https://github.com/Fervent-Tempo/AF-Media-Bar
+
 
 ## C++
 

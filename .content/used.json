@@ -347,6 +347,7 @@
     "https://github.com/FalkorDB/FalkorDB",
     "https://github.com/FareedKhan-dev/kimi-k3-in-c",
     "https://github.com/Fei-Away/Codex-Dream-Skin",
+    "https://github.com/Fervent-Tempo/AF-Media-Bar",
     "https://github.com/FlashML-org/FreeVideo",
     "https://github.com/Flow-Tube/Flow",
     "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
@@ -1454,12 +1455,6 @@
   "recent": [
     {
       "date": "2026-10-17",
-      "subcat": "Java",
-      "title": "adityatandon15/Spring-Framework-Full-Course",
-      "url": "https://github.com/adityatandon15/Spring-Framework-Full-Course"
-    },
-    {
-      "date": "2026-10-17",
       "subcat": "Lobsters Picks",
       "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
       "url": "https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has"
@@ -1511,6 +1506,12 @@
       "subcat": "Models & Datasets",
       "title": "simple-world-lab/HiFi-UMI-2K",
       "url": "https://huggingface.co/datasets/simple-world-lab/HiFi-UMI-2K"
+    },
+    {
+      "date": "2026-10-18",
+      "subcat": "C#",
+      "title": "Fervent-Tempo/AF-Media-Bar",
+      "url": "https://github.com/Fervent-Tempo/AF-Media-Bar"
     }
   ]
 }
