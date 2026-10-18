@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1042 entries and counting** · Last updated: 2026-10-19
+**1043 entries and counting** · Last updated: 2026-10-19
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 236 |
-| [AI / LLM Notes](ai/notes.md) | 199 |
+| [AI / LLM Notes](ai/notes.md) | 200 |
 | [Reading List](articles/reading-list.md) | 212 |
 | [Coding Tips](coding-tips/tips.md) | 215 |
 | [Language Notes](languages/notes.md) | 180 |
 
 ## Latest additions
 
+- **2026-10-19** · *Models & Datasets* — [agents-last-exam/agents-last-exam](https://huggingface.co/datasets/agents-last-exam/agents-last-exam)
 - **2026-10-19** · *Developer Tools* — [Amansingh-afk/milli.nvim](https://github.com/Amansingh-afk/milli.nvim)
 - **2026-10-19** · *Lobsters Picks* — [ARP! Tell your network to explain itself](https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself)
 - **2026-10-19** · *Models & Datasets* — [secemp9/arxiv-complete](https://huggingface.co/datasets/secemp9/arxiv-complete)
 - **2026-10-19** · *Java* — [Swayingleaves/novanova-studio](https://github.com/Swayingleaves/novanova-studio)
-- **2026-10-18** · *Show & Ask HN* — [Ask HN: Do you want a router that has DD-WRT pre-instal](https://news.ycombinator.com/item?id=50039291)
 
 ## How it works
 

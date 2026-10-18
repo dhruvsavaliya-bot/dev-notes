@@ -1392,6 +1392,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/secemp9/arxiv-complete
 
+**Added 2026-10-19**
+
+### [agents-last-exam/agents-last-exam](https://huggingface.co/datasets/agents-last-exam/agents-last-exam)
+- **Stats:** 226 likes | 5,254 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-05-07
+- **Tags:** computer-use-agents, agent-benchmark, benchmark, evaluation
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/agents-last-exam/agents-last-exam
+
 
 ## Research Papers
 

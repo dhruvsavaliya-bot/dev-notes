@@ -704,6 +704,7 @@
     "https://huggingface.co/datasets/ShadenA/MathNet",
     "https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro",
     "https://huggingface.co/datasets/a686d380/h-corpus-2023",
+    "https://huggingface.co/datasets/agents-last-exam/agents-last-exam",
     "https://huggingface.co/datasets/allenai/c4",
     "https://huggingface.co/datasets/argilla/magpie-ultra-v0.1",
     "https://huggingface.co/datasets/bigcode/the-stack-v2",
@@ -1471,12 +1472,6 @@
   "recent": [
     {
       "date": "2026-10-18",
-      "subcat": "Show & Ask HN",
-      "title": "Tell HN: Codex Is Down [fixed]",
-      "url": "https://news.ycombinator.com/item?id=49851032"
-    },
-    {
-      "date": "2026-10-18",
       "subcat": "AI & Machine Learning",
       "title": "jonwiggins/optio",
       "url": "https://github.com/jonwiggins/optio"
@@ -1528,6 +1523,12 @@
       "subcat": "Developer Tools",
       "title": "Amansingh-afk/milli.nvim",
       "url": "https://github.com/Amansingh-afk/milli.nvim"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Models & Datasets",
+      "title": "agents-last-exam/agents-last-exam",
+      "url": "https://huggingface.co/datasets/agents-last-exam/agents-last-exam"
     }
   ]
 }
