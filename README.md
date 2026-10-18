@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1030 entries and counting** · Last updated: 2026-10-18
+**1031 entries and counting** · Last updated: 2026-10-18
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 196 |
 | [Reading List](articles/reading-list.md) | 211 |
 | [Coding Tips](coding-tips/tips.md) | 212 |
-| [Language Notes](languages/notes.md) | 178 |
+| [Language Notes](languages/notes.md) | 179 |
 
 ## Latest additions
 
+- **2026-10-18** · *Swift* — [zeusinsight/FinderSearch](https://github.com/zeusinsight/FinderSearch)
 - **2026-10-18** · *Models & Datasets* — [inclusionAI/OpenAoE-2000h](https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h)
 - **2026-10-18** · *Go* — [usewhale/Whale](https://github.com/usewhale/Whale)
 - **2026-10-18** · *Java* — [OpenYSM/OpenYSM](https://github.com/OpenYSM/OpenYSM)
 - **2026-10-18** · *C#* — [Fervent-Tempo/AF-Media-Bar](https://github.com/Fervent-Tempo/AF-Media-Bar)
-- **2026-10-17** · *Models & Datasets* — [simple-world-lab/HiFi-UMI-2K](https://huggingface.co/datasets/simple-world-lab/HiFi-UMI-2K)
 
 ## How it works
 

@@ -638,6 +638,7 @@
     "https://github.com/zai-org/Open-AutoGLM",
     "https://github.com/zai-org/ZCode",
     "https://github.com/zerx-lab/FluxDown",
+    "https://github.com/zeusinsight/FinderSearch",
     "https://github.com/zhu1090093659/dsh-web",
     "https://github.com/zhu1090093659/dsh-web-ui",
     "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
@@ -1458,12 +1459,6 @@
   "recent": [
     {
       "date": "2026-10-17",
-      "subcat": "Python",
-      "title": "The wild west of polyglot docs sites",
-      "url": "https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites"
-    },
-    {
-      "date": "2026-10-17",
       "subcat": "Models & Datasets",
       "title": "unsloth/Qwen-Image-2.1-GGUF",
       "url": "https://huggingface.co/unsloth/Qwen-Image-2.1-GGUF"
@@ -1515,6 +1510,12 @@
       "subcat": "Models & Datasets",
       "title": "inclusionAI/OpenAoE-2000h",
       "url": "https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h"
+    },
+    {
+      "date": "2026-10-18",
+      "subcat": "Swift",
+      "title": "zeusinsight/FinderSearch",
+      "url": "https://github.com/zeusinsight/FinderSearch"
     }
   ]
 }

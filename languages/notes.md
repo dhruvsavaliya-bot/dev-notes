@@ -1274,6 +1274,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=16138990
 - **Link:** https://github.com/igorkulman/SwiftPascalInterpreter
 
+**Added 2026-10-18**
+
+### [zeusinsight/FinderSearch](https://github.com/zeusinsight/FinderSearch)
+- **Stats:** 677 stars | 21 forks | 19 open issues
+- **Language:** Swift | **Created:** 2026-10-09 | **License:** MIT
+- **Topics:** appkit, file-manager, macos, search, swift
+- **What it is:** A native macOS file browser with fast fuzzy filename search, powered by fsearch.
+- **Growth:** averaging ~75 stars/day since launch.
+- **Link:** https://github.com/zeusinsight/FinderSearch
+
 
 ## Rust
 
