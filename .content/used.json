@@ -182,6 +182,7 @@
     "https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p",
     "https://dev.to/francistrdev/networking-is-hard-but-easy-to-think-about-dc1",
     "https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd",
+    "https://dev.to/georgekobaidze/georgian-language-benchmark-two-biggest-ai-labs-clash-in-a-language-that-doesnt-play-by-anyones-5b22",
     "https://dev.to/georgekobaidze/vibe-coding-isnt-the-problem-calling-it-engineering-is-lm1",
     "https://dev.to/googleai/where-were-going-we-dont-need-chatbots-introducing-the-antigravity-ide-2c3k",
     "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i",
@@ -1463,12 +1464,6 @@
     {
       "date": "2026-10-17",
       "subcat": "Models & Datasets",
-      "title": "markov-ai/cad-1000-hours",
-      "url": "https://huggingface.co/datasets/markov-ai/cad-1000-hours"
-    },
-    {
-      "date": "2026-10-17",
-      "subcat": "Models & Datasets",
       "title": "simple-world-lab/HiFi-UMI-2K",
       "url": "https://huggingface.co/datasets/simple-world-lab/HiFi-UMI-2K"
     },
@@ -1519,6 +1514,12 @@
       "subcat": "AI & Machine Learning",
       "title": "jonwiggins/optio",
       "url": "https://github.com/jonwiggins/optio"
+    },
+    {
+      "date": "2026-10-18",
+      "subcat": "Machine Learning",
+      "title": "Georgian Language Benchmark: Two Biggest AI Labs Clash",
+      "url": "https://dev.to/georgekobaidze/georgian-language-benchmark-two-biggest-ai-labs-clash-in-a-language-that-doesnt-play-by-anyones-5b22"
     }
   ]
 }

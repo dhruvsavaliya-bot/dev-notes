@@ -525,6 +525,15 @@ Lessons from building with LLMs.
 - **Summary:** This is a submission for the Kaggle Benchmarking Challenge  Those who read my articles know that a...
 - **Link:** https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l
 
+**Added 2026-10-18**
+
+### [Georgian Language Benchmark: Two Biggest AI Labs Clash in a Language That Doesn't Play by Anyone's Rules](https://dev.to/georgekobaidze/georgian-language-benchmark-two-biggest-ai-labs-clash-in-a-language-that-doesnt-play-by-anyones-5b22)
+- **Author:** Giorgi Kobaidze | **Published:** Oct 11 | **Read time:** 20 min
+- **Community:** 72 reactions, 36 comments -- a top post in #machinelearning
+- **Tags:** devchallenge, kagglechallenge, ai, machinelearning
+- **Summary:** This is a submission for the Kaggle Benchmarking Challenge           Table of Contents    One Eye,...
+- **Link:** https://dev.to/georgekobaidze/georgian-language-benchmark-two-biggest-ai-labs-clash-in-a-language-that-doesnt-play-by-anyones-5b22
+
 
 ## Models & Datasets
 
