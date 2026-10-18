@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1023 entries and counting** · Last updated: 2026-10-18
+**1024 entries and counting** · Last updated: 2026-10-18
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 232 |
+| [Trending Projects](trending-projects/projects.md) | 233 |
 | [AI / LLM Notes](ai/notes.md) | 195 |
 | [Reading List](articles/reading-list.md) | 211 |
 | [Coding Tips](coding-tips/tips.md) | 212 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-18** · *Other Cool Projects* — [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate)
 - **2026-10-18** · *Career & Craft* — [8 Posts by Women on DEV That Deserve More Than a Once-a](https://dev.to/sheships/8-posts-by-women-on-dev-that-deserve-more-than-a-once-a-year-spotlight-27dc)
 - **2026-10-18** · *Research Papers* — [Auditing Escalation Reliability in Healthcare LLM Agent](http://arxiv.org/abs/2610.21270v1)
 - **2026-10-18** · *Java* — [JavaScript right on the hardware](https://news.ycombinator.com/item?id=6214553)
 - **2026-10-18** · *Hacker News Picks* — [Launching in 2015: A Certificate Authority to Encrypt t](https://news.ycombinator.com/item?id=8624160)
-- **2026-10-18** · *Models & Datasets* — [Helsinki-NLP/opus-100](https://huggingface.co/datasets/Helsinki-NLP/opus-100)
 
 ## How it works
 

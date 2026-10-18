@@ -282,6 +282,7 @@
     "https://github.com/ToolJet/ToolJet",
     "https://github.com/Vincentwei1021/video-shotcraft",
     "https://github.com/Waishnav/devspace",
+    "https://github.com/WeblateOrg/weblate",
     "https://github.com/XiaoDuoYa/codex-with-chatgpt",
     "https://github.com/XxxXTeam/business2api",
     "https://github.com/Yeachan-Heo/oh-my-codex",
@@ -1034,12 +1035,6 @@
   "recent": [
     {
       "date": "2026-10-18",
-      "subcat": "PHP",
-      "title": "Parsing PHP in Go",
-      "url": "https://news.ycombinator.com/item?id=8093753"
-    },
-    {
-      "date": "2026-10-18",
       "subcat": "TypeScript",
       "title": "Launch HN: machine0 (YC S26)  Persistent CPU and GPU VM",
       "url": "https://news.ycombinator.com/item?id=49348136"
@@ -1091,6 +1086,12 @@
       "subcat": "Career & Craft",
       "title": "8 Posts by Women on DEV That Deserve More Than a Once-a",
       "url": "https://dev.to/sheships/8-posts-by-women-on-dev-that-deserve-more-than-a-once-a-year-spotlight-27dc"
+    },
+    {
+      "date": "2026-10-18",
+      "subcat": "Other Cool Projects",
+      "title": "WeblateOrg/weblate",
+      "url": "https://github.com/WeblateOrg/weblate"
     }
   ]
 }

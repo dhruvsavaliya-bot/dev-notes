@@ -1977,6 +1977,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/arjunskumar/Robotics_CPP_Notes
 
+**Added 2026-10-18**
+
+### [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate)
+- **Stats:** 6,111 stars | 1,372 forks | 449 open issues
+- **Language:** Python | **Created:** 2012-02-27 | **License:** GPL-3.0
+- **Topics:** continuous-localization, crowdsourcing, dcode-2025, django, gettext, hacktoberfest
+- **What it is:** Web based localization tool with tight version control integration.
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/WeblateOrg/weblate
+
 
 ## Web & Frontend
 
