@@ -557,6 +557,7 @@
     "https://github.com/nestrilabs/virtio-nvgpu",
     "https://github.com/newliver666/apk-reverse",
     "https://github.com/nyblnet/bento",
+    "https://github.com/nykooi1/vibe-wise",
     "https://github.com/omacom/try-omarchy",
     "https://github.com/omdsh-dev/DSH-better-sidebar",
     "https://github.com/onyx-dot-app/onyx",
@@ -1474,12 +1475,6 @@
   "recent": [
     {
       "date": "2026-10-18",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: CAD for wood working with LLM support?",
-      "url": "https://news.ycombinator.com/item?id=50067325"
-    },
-    {
-      "date": "2026-10-18",
       "subcat": "AI & Machine Learning",
       "title": "kelos-dev/kelos",
       "url": "https://github.com/kelos-dev/kelos"
@@ -1531,6 +1526,12 @@
       "subcat": "Lobsters Picks",
       "title": "It's enough - vibecoding tag crossed from useless to ha",
       "url": "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "AI & Machine Learning",
+      "title": "nykooi1/vibe-wise",
+      "url": "https://github.com/nykooi1/vibe-wise"
     }
   ]
 }

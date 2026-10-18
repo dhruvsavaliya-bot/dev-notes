@@ -1024,6 +1024,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/kelos-dev/kelos
 
+**Added 2026-10-19**
+
+### [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise)
+- **Stats:** 3,755 stars | 147 forks | 24 open issues
+- **Language:** Python | **Created:** 2026-09-29 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.
+- **Growth:** averaging ~187 stars/day since launch.
+- **Link:** https://github.com/nykooi1/vibe-wise
+
 
 ## Other Cool Projects
 
