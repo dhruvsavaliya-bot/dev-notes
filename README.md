@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1032 entries and counting** · Last updated: 2026-10-18
+**1033 entries and counting** · Last updated: 2026-10-18
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 233 |
 | [AI / LLM Notes](ai/notes.md) | 197 |
 | [Reading List](articles/reading-list.md) | 211 |
-| [Coding Tips](coding-tips/tips.md) | 212 |
+| [Coding Tips](coding-tips/tips.md) | 213 |
 | [Language Notes](languages/notes.md) | 179 |
 
 ## Latest additions
 
+- **2026-10-18** · *Show & Ask HN* — [Tell HN: Codex Is Down [fixed]](https://news.ycombinator.com/item?id=49851032)
 - **2026-10-18** · *Machine Learning* — [To Retry or Not to Retry? That Is the Question.](https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l)
 - **2026-10-18** · *Swift* — [zeusinsight/FinderSearch](https://github.com/zeusinsight/FinderSearch)
 - **2026-10-18** · *Models & Datasets* — [inclusionAI/OpenAoE-2000h](https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h)
 - **2026-10-18** · *Go* — [usewhale/Whale](https://github.com/usewhale/Whale)
-- **2026-10-18** · *Java* — [OpenYSM/OpenYSM](https://github.com/OpenYSM/OpenYSM)
 
 ## How it works
 

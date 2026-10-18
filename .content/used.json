@@ -1224,6 +1224,7 @@
     "https://news.ycombinator.com/item?id=49824864",
     "https://news.ycombinator.com/item?id=49831968",
     "https://news.ycombinator.com/item?id=49844663",
+    "https://news.ycombinator.com/item?id=49851032",
     "https://news.ycombinator.com/item?id=49853137",
     "https://news.ycombinator.com/item?id=49855059",
     "https://news.ycombinator.com/item?id=49866515",
@@ -1460,12 +1461,6 @@
   "recent": [
     {
       "date": "2026-10-17",
-      "subcat": "Python",
-      "title": "A plea not to use uv-build",
-      "url": "https://lobste.rs/s/73ssw1/plea_not_use_uv_build"
-    },
-    {
-      "date": "2026-10-17",
       "subcat": "Rust",
       "title": "QuipNetwork/quip-solver",
       "url": "https://github.com/QuipNetwork/quip-solver"
@@ -1517,6 +1512,12 @@
       "subcat": "Machine Learning",
       "title": "To Retry or Not to Retry? That Is the Question.",
       "url": "https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l"
+    },
+    {
+      "date": "2026-10-18",
+      "subcat": "Show & Ask HN",
+      "title": "Tell HN: Codex Is Down [fixed]",
+      "url": "https://news.ycombinator.com/item?id=49851032"
     }
   ]
 }

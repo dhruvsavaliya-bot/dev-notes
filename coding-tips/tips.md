@@ -1732,6 +1732,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=18697601
 - **Link:** https://www.remove.bg/
 
+**Added 2026-10-18**
+
+### [Tell HN: Codex Is Down [fixed]](https://news.ycombinator.com/item?id=49851032)
+- **Source:** news.ycombinator.com | **Posted:** 2026-09-25 | **By:** minimaxir
+- **Community:** 65 points, 73 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49851032
+- **Link:** https://news.ycombinator.com/item?id=49851032
+
 
 ## Git & Workflow
 
