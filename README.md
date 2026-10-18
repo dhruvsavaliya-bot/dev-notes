@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1044 entries and counting** · Last updated: 2026-10-19
+**1045 entries and counting** · Last updated: 2026-10-19
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 236 |
 | [AI / LLM Notes](ai/notes.md) | 200 |
 | [Reading List](articles/reading-list.md) | 213 |
-| [Coding Tips](coding-tips/tips.md) | 215 |
+| [Coding Tips](coding-tips/tips.md) | 216 |
 | [Language Notes](languages/notes.md) | 180 |
 
 ## Latest additions
 
+- **2026-10-19** · *Lobsters Picks* — [It's enough - vibecoding tag crossed from useless to ha](https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from)
 - **2026-10-19** · *System Design & Architecture* — [Building a Production-Grade AI Web App in 2026: Archite](https://dev.to/antfarm-tech/building-a-production-grade-ai-web-app-in-2026-architecture-trade-offs-and-hard-won-lessons-4llg)
 - **2026-10-19** · *Models & Datasets* — [agents-last-exam/agents-last-exam](https://huggingface.co/datasets/agents-last-exam/agents-last-exam)
 - **2026-10-19** · *Developer Tools* — [Amansingh-afk/milli.nvim](https://github.com/Amansingh-afk/milli.nvim)
 - **2026-10-19** · *Lobsters Picks* — [ARP! Tell your network to explain itself](https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself)
-- **2026-10-19** · *Models & Datasets* — [secemp9/arxiv-complete](https://huggingface.co/datasets/secemp9/arxiv-complete)
 
 ## How it works
 

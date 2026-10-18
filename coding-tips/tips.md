@@ -1971,6 +1971,17 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has
 - **Link:** https://words.filippo.io/seeds-solved/
 
+**Added 2026-10-19**
+
+### [It's enough - vibecoding tag crossed from useless to harmful](https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from)
+- **Source:** lobste.rs | **Posted:** 2026-10-18 | **By:** viraptor
+- **Community:** 232 score, 239 comments on Lobsters
+- **Tags:** meta, vibecoding
+- **Summary:** The vibecoding tag has been getting more and more useless for a while now. It lost the original meaning as the culture of software engineering with LLMs matured a bit. It got silly when posts talking about LLMs in general got tagged. It got useless when posts even mentioning some project created with LLMs in passing got tagged. Now it actually got harmful to the community when tagging posts turns ...
+- **Discussion:** https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from
+- **Link:** https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from
+
+
 ## Career & Craft
 
 **Added 2026-10-18**

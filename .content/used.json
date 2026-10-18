@@ -835,6 +835,7 @@
     "https://lobste.rs/s/e5vf6k/don_t_couple_your_go_code_github",
     "https://lobste.rs/s/ecxril/lineageos_24_0_released",
     "https://lobste.rs/s/eesu8d/bun_1_4",
+    "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from",
     "https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow",
     "https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait",
     "https://lobste.rs/s/hccdqa/shipping_jpeg_xl_chrome",
@@ -1473,12 +1474,6 @@
   "recent": [
     {
       "date": "2026-10-18",
-      "subcat": "Machine Learning",
-      "title": "Georgian Language Benchmark: Two Biggest AI Labs Clash",
-      "url": "https://dev.to/georgekobaidze/georgian-language-benchmark-two-biggest-ai-labs-clash-in-a-language-that-doesnt-play-by-anyones-5b22"
-    },
-    {
-      "date": "2026-10-18",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: CAD for wood working with LLM support?",
       "url": "https://news.ycombinator.com/item?id=50067325"
@@ -1530,6 +1525,12 @@
       "subcat": "System Design & Architecture",
       "title": "Building a Production-Grade AI Web App in 2026: Archite",
       "url": "https://dev.to/antfarm-tech/building-a-production-grade-ai-web-app-in-2026-architecture-trade-offs-and-hard-won-lessons-4llg"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Lobsters Picks",
+      "title": "It's enough - vibecoding tag crossed from useless to ha",
+      "url": "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from"
     }
   ]
 }
