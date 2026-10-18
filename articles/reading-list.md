@@ -1930,6 +1930,16 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://lobste.rs/s/6laoto/road_iroh_1_0
 - **Link:** https://www.iroh.computer/blog/the-road-to-iroh-1-0
 
+**Added 2026-10-19**
+
+### [ARP! Tell your network to explain itself](https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/)
+- **Source:** benjcal.space | **Posted:** 2026-10-18 | **By:** benj
+- **Community:** 22 score, 11 comments on Lobsters
+- **Tags:** networking
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself
+- **Link:** https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/
+
 
 ## Performance
 

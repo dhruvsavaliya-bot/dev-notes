@@ -95,6 +95,7 @@
     "https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/",
     "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
     "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+    "https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/",
     "https://bento.page/slides/",
     "https://binaryigor.com/sqlite-db-simple-in-process-reliable-fast.html",
     "https://blog.cloudflare.com/kitesurf/",
@@ -849,6 +850,7 @@
     "https://lobste.rs/s/lxo74i/introducing_microlighter",
     "https://lobste.rs/s/mkq3x9/better_http_1_connection_reuse",
     "https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution",
+    "https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself",
     "https://lobste.rs/s/nxspz6/no_man_is_island",
     "https://lobste.rs/s/o0ixth/haxy_net_is_live_haxy_git_forge_devlog",
     "https://lobste.rs/s/o8xo9z/importance_communities_around_software",
@@ -1468,12 +1470,6 @@
   "recent": [
     {
       "date": "2026-10-18",
-      "subcat": "Swift",
-      "title": "zeusinsight/FinderSearch",
-      "url": "https://github.com/zeusinsight/FinderSearch"
-    },
-    {
-      "date": "2026-10-18",
       "subcat": "Machine Learning",
       "title": "To Retry or Not to Retry? That Is the Question.",
       "url": "https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l"
@@ -1525,6 +1521,12 @@
       "subcat": "Models & Datasets",
       "title": "secemp9/arxiv-complete",
       "url": "https://huggingface.co/datasets/secemp9/arxiv-complete"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Lobsters Picks",
+      "title": "ARP! Tell your network to explain itself",
+      "url": "https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself"
     }
   ]
 }
