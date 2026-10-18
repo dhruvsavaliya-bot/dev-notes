@@ -708,6 +708,7 @@
     "https://news.ycombinator.com/item?id=26260174",
     "https://news.ycombinator.com/item?id=26344358",
     "https://news.ycombinator.com/item?id=26825468",
+    "https://news.ycombinator.com/item?id=26827766",
     "https://news.ycombinator.com/item?id=26862318",
     "https://news.ycombinator.com/item?id=27447206",
     "https://news.ycombinator.com/item?id=28203654",
@@ -1035,12 +1036,6 @@
   "recent": [
     {
       "date": "2026-10-18",
-      "subcat": "TypeScript",
-      "title": "Launch HN: machine0 (YC S26)  Persistent CPU and GPU VM",
-      "url": "https://news.ycombinator.com/item?id=49348136"
-    },
-    {
-      "date": "2026-10-18",
       "subcat": "Models & Datasets",
       "title": "nvidia/OpenMathInstruct-2",
       "url": "https://huggingface.co/datasets/nvidia/OpenMathInstruct-2"
@@ -1092,6 +1087,12 @@
       "subcat": "Other Cool Projects",
       "title": "WeblateOrg/weblate",
       "url": "https://github.com/WeblateOrg/weblate"
+    },
+    {
+      "date": "2026-10-18",
+      "subcat": "Java",
+      "title": "Java Is Underhyped",
+      "url": "https://news.ycombinator.com/item?id=26827766"
     }
   ]
 }

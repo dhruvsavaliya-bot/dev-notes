@@ -388,6 +388,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=6214553
 - **Link:** http://technical.io/
 
+**Added 2026-10-18**
+
+### [Java Is Underhyped](https://jackson.sh/posts/2021-04-java-underrated/)
+- **Source:** jackson.sh | **Posted:** 2021-04-16 | **By:** Jaxkr
+- **Community:** 362 points, 786 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=26827766
+- **Link:** https://jackson.sh/posts/2021-04-java-underrated/
+
 
 ## TypeScript
 
