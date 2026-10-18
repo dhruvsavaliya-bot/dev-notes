@@ -405,6 +405,7 @@
     "https://github.com/openobserve/openobserve",
     "https://github.com/oso95/scroll-world",
     "https://github.com/outsourc-e/hermes-workspace",
+    "https://github.com/palkan/layered-rails-skills",
     "https://github.com/panxunying/ai-coding-welfare",
     "https://github.com/pathwaycom/arc-task-gen",
     "https://github.com/penecho/penecho",
@@ -1036,12 +1037,6 @@
   "recent": [
     {
       "date": "2026-10-18",
-      "subcat": "Models & Datasets",
-      "title": "nvidia/OpenMathInstruct-2",
-      "url": "https://huggingface.co/datasets/nvidia/OpenMathInstruct-2"
-    },
-    {
-      "date": "2026-10-18",
       "subcat": "Research Papers",
       "title": "Decoding What iOS Location Services Send to Apple: An L",
       "url": "http://arxiv.org/abs/2610.21597v1"
@@ -1093,6 +1088,12 @@
       "subcat": "Java",
       "title": "Java Is Underhyped",
       "url": "https://news.ycombinator.com/item?id=26827766"
+    },
+    {
+      "date": "2026-10-18",
+      "subcat": "Ruby",
+      "title": "palkan/layered-rails-skills",
+      "url": "https://github.com/palkan/layered-rails-skills"
     }
   ]
 }

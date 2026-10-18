@@ -1155,6 +1155,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~3 stars/day since launch.
 - **Link:** https://github.com/0din-ai/ai-scanner
 
+**Added 2026-10-18**
+
+### [palkan/layered-rails-skills](https://github.com/palkan/layered-rails-skills)
+- **Stats:** 471 stars | 17 forks | 1 open issues
+- **Language:** Ruby | **Created:** 2026-02-05 | **License:** None
+- **Topics:** rails, skills
+- **What it is:** Skills based on the Layered Rails book and beyond
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/palkan/layered-rails-skills
+
 
 ## Swift
 
