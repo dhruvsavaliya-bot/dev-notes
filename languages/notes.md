@@ -397,6 +397,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=26827766
 - **Link:** https://jackson.sh/posts/2021-04-java-underrated/
 
+**Added 2026-10-18**
+
+### [OpenYSM/OpenYSM](https://github.com/OpenYSM/OpenYSM)
+- **Stats:** 439 stars | 77 forks | 31 open issues
+- **Language:** Java | **Created:** 2026-05-06 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Yes-Steve-Model idea ready.
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/OpenYSM/OpenYSM
+
 
 ## TypeScript
 

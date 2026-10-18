@@ -392,6 +392,7 @@
     "https://github.com/Niko1221/Strata",
     "https://github.com/NomaDamas/k-skill",
     "https://github.com/OpenNHP/opennhp",
+    "https://github.com/OpenYSM/OpenYSM",
     "https://github.com/Optiscaler-Client/Optiscaler-Client",
     "https://github.com/Player-YN/BrowserKitten",
     "https://github.com/Player-YN/PawWork_ZhuaZhua",
@@ -1455,12 +1456,6 @@
   "recent": [
     {
       "date": "2026-10-17",
-      "subcat": "Lobsters Picks",
-      "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
-      "url": "https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has"
-    },
-    {
-      "date": "2026-10-17",
       "subcat": "Java",
       "title": "rustc_codegen_jvm: Rust compiler backend to emit JVM by",
       "url": "https://lobste.rs/s/lcldxn/rustc_codegen_jvm_rust_compiler_backend"
@@ -1512,6 +1507,12 @@
       "subcat": "C#",
       "title": "Fervent-Tempo/AF-Media-Bar",
       "url": "https://github.com/Fervent-Tempo/AF-Media-Bar"
+    },
+    {
+      "date": "2026-10-18",
+      "subcat": "Java",
+      "title": "OpenYSM/OpenYSM",
+      "url": "https://github.com/OpenYSM/OpenYSM"
     }
   ]
 }
