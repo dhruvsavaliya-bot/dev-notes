@@ -1568,6 +1568,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50120224
 - **Link:** https://jakearchibald.com/2026/jpeg-xl-vs-avif/
 
+**Added 2026-10-18**
+
+### [Launching in 2015: A Certificate Authority to Encrypt the Entire Web](https://www.eff.org/deeplinks/2014/11/certificate-authority-encrypt-entire-web)
+- **Source:** www.eff.org | **Posted:** 2014-11-18 | **By:** mariusz79
+- **Community:** 2019 points, 461 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=8624160
+- **Link:** https://www.eff.org/deeplinks/2014/11/certificate-authority-encrypt-entire-web
+
 
 ## DevOps & Cloud
 
