@@ -49,6 +49,7 @@
     "http://arxiv.org/abs/2610.18504v1",
     "http://arxiv.org/abs/2610.18745v1",
     "http://arxiv.org/abs/2610.19743v1",
+    "http://arxiv.org/abs/2610.21270v1",
     "http://arxiv.org/abs/2610.21597v1",
     "http://arxiv.org/abs/2610.21695v1",
     "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
@@ -1031,12 +1032,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-17",
-      "subcat": "Web & Frontend",
-      "title": "rjsf-team/react-jsonschema-form",
-      "url": "https://github.com/rjsf-team/react-jsonschema-form"
-    },
-    {
       "date": "2026-10-18",
       "subcat": "Java",
       "title": "voxivoid/recipe-lab-sony-pmca",
@@ -1089,6 +1084,12 @@
       "subcat": "Java",
       "title": "JavaScript right on the hardware",
       "url": "https://news.ycombinator.com/item?id=6214553"
+    },
+    {
+      "date": "2026-10-18",
+      "subcat": "Research Papers",
+      "title": "Auditing Escalation Reliability in Healthcare LLM Agent",
+      "url": "http://arxiv.org/abs/2610.21270v1"
     }
   ]
 }

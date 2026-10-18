@@ -1808,3 +1808,13 @@ Lessons from building with LLMs.
 - **Abstract:** Reverse engineering the data formats used by mobile software is skilled and slow, and using AI to assist with it is attractive. We evaluate this for the protobuf messages that an iPhone sends to Apple's location services. Working from Apple's binaries, we use two frontier models (Claude Opus 4.8, Codex GPT Sol 5.6) to reconstruct the schemas of protobufs observed in network traffic. The great majority of the schemas contain substantial errors, and these are hard to detect because the schemas are...
 - **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.21597v1
+
+**Added 2026-10-18**
+
+### [Auditing Escalation Reliability in Healthcare LLM Agents: A Perturbation-Controlled Benchmark of Workflow-State Failures](http://arxiv.org/abs/2610.21270v1)
+- **Authors:** Zihao Zheng, Junyi Yao, Baichuan Li, Jiayu Long
+- **Published:** 2026-10-15 | **Primary category:** cs.CL
+- **Categories:** cs.AI, cs.CL
+- **Abstract:** Trustworthy biomedical AI requires reliable action selection when evidence is missing, stale, conflicting, or late, not only accurate answers on static inputs. We instantiate an episode-level evaluation protocol as 400 synthetic healthcare workflow episodes: 40 hand-authored semantic seeds across four task classes, two surface parameterizations, and five controlled variants, scored on ANSWER/ASK CLARIFICATION/ABSTAIN/ESCALATE under a pre-declared 5:1 missed-versus-unnecessary escalation cost. Re...
+- **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.21270v1
