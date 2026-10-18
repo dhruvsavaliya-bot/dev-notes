@@ -2303,6 +2303,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/ZigEmbeddedGroup/microzig
 
+**Added 2026-10-19**
+
+### [Amansingh-afk/milli.nvim](https://github.com/Amansingh-afk/milli.nvim)
+- **Stats:** 320 stars | 4 forks | 0 open issues
+- **Language:** Lua | **Created:** 2026-04-24 | **License:** MIT
+- **Topics:** alpha-nvim, ascii, ascii-art, dashboard-nvim, lua, mini-starter
+- **What it is:** Animated ASCII splash screens for Neovim. 29 bundled splashes + bring your own via the   milli CLI / web playground.
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/Amansingh-afk/milli.nvim
+
 
 ## Backend & Infrastructure
 

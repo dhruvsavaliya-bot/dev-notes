@@ -332,6 +332,7 @@
     "https://github.com/Albert-Weasker/niubigeo",
     "https://github.com/AlephAITech/WorkBuddyGuide",
     "https://github.com/Alvin9999-newpac/fanqiang",
+    "https://github.com/Amansingh-afk/milli.nvim",
     "https://github.com/AndroidCSIDE/ACSIDE",
     "https://github.com/ApodexAI/FrontierAgent",
     "https://github.com/AstrBotDevs/AstrBot-desktop",
@@ -1470,12 +1471,6 @@
   "recent": [
     {
       "date": "2026-10-18",
-      "subcat": "Machine Learning",
-      "title": "To Retry or Not to Retry? That Is the Question.",
-      "url": "https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l"
-    },
-    {
-      "date": "2026-10-18",
       "subcat": "Show & Ask HN",
       "title": "Tell HN: Codex Is Down [fixed]",
       "url": "https://news.ycombinator.com/item?id=49851032"
@@ -1527,6 +1522,12 @@
       "subcat": "Lobsters Picks",
       "title": "ARP! Tell your network to explain itself",
       "url": "https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Developer Tools",
+      "title": "Amansingh-afk/milli.nvim",
+      "url": "https://github.com/Amansingh-afk/milli.nvim"
     }
   ]
 }
