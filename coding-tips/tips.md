@@ -1981,6 +1981,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from
 - **Link:** https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from
 
+**Added 2026-10-19**
+
+### [The Brain Sandwich](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/)
+- **Source:** terriblesoftware.org | **Posted:** 2026-10-17 | **By:** ani
+- **Community:** 38 score, 14 comments on Lobsters
+- **Tags:** vibecoding
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/k5omum/brain_sandwich
+- **Link:** https://terriblesoftware.org/2026/10/02/the-brain-sandwich/
+
 
 ## Career & Craft
 

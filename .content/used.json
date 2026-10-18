@@ -848,6 +848,7 @@
     "https://lobste.rs/s/jlja1a/jdk_27_has_been_released",
     "https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this",
     "https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think",
+    "https://lobste.rs/s/k5omum/brain_sandwich",
     "https://lobste.rs/s/lcldxn/rustc_codegen_jvm_rust_compiler_backend",
     "https://lobste.rs/s/lfen2h/living_weimar_era_ruby",
     "https://lobste.rs/s/lfusbg/atom_exhaustion_is_not_footgun_it_s_one",
@@ -1361,6 +1362,7 @@
     "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
     "https://technicalwriting.dev/blog/2026/10/polyglot/index.html",
     "https://tenso.rs/demos/fast-neural-style/",
+    "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
     "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
     "https://theremin.bizibah.com/",
     "https://thill.me/2026/09/11/what-i-did-at-rc.html",
@@ -1475,12 +1477,6 @@
   "recent": [
     {
       "date": "2026-10-18",
-      "subcat": "AI & Machine Learning",
-      "title": "kelos-dev/kelos",
-      "url": "https://github.com/kelos-dev/kelos"
-    },
-    {
-      "date": "2026-10-18",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Do you want a router that has DD-WRT pre-instal",
       "url": "https://news.ycombinator.com/item?id=50039291"
@@ -1532,6 +1528,12 @@
       "subcat": "AI & Machine Learning",
       "title": "nykooi1/vibe-wise",
       "url": "https://github.com/nykooi1/vibe-wise"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Lobsters Picks",
+      "title": "The Brain Sandwich",
+      "url": "https://lobste.rs/s/k5omum/brain_sandwich"
     }
   ]
 }
