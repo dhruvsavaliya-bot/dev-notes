@@ -188,6 +188,7 @@
     "https://dev.to/gramli/api-performance-testing-how-to-design-realistic-tests-59gn",
     "https://dev.to/gramli/how-ai-endpoints-change-the-traditional-api-flow-3773",
     "https://dev.to/gramli/how-i-smashed-a-bug-in-a-shared-authentication-library-33fm",
+    "https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l",
     "https://dev.to/hadil/angular-datagrid-a-free-open-source-ag-grid-alternative-built-for-scale-5gkm",
     "https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b",
     "https://dev.to/hadil/the-hard-truth-about-learning-to-code-that-no-one-tells-you-15c1",
@@ -1459,12 +1460,6 @@
   "recent": [
     {
       "date": "2026-10-17",
-      "subcat": "Models & Datasets",
-      "title": "unsloth/Qwen-Image-2.1-GGUF",
-      "url": "https://huggingface.co/unsloth/Qwen-Image-2.1-GGUF"
-    },
-    {
-      "date": "2026-10-17",
       "subcat": "Python",
       "title": "A plea not to use uv-build",
       "url": "https://lobste.rs/s/73ssw1/plea_not_use_uv_build"
@@ -1516,6 +1511,12 @@
       "subcat": "Swift",
       "title": "zeusinsight/FinderSearch",
       "url": "https://github.com/zeusinsight/FinderSearch"
+    },
+    {
+      "date": "2026-10-18",
+      "subcat": "Machine Learning",
+      "title": "To Retry or Not to Retry? That Is the Question.",
+      "url": "https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l"
     }
   ]
 }

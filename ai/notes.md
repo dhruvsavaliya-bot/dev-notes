@@ -516,6 +516,15 @@ Lessons from building with LLMs.
 - **Summary:** This is a submission for the Kaggle Benchmarking Challenge  I fed 15 AI models a growing pile of...
 - **Link:** https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81
 
+**Added 2026-10-18**
+
+### [To Retry or Not to Retry? That Is the Question.](https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l)
+- **Author:** Daniel Balcarek | **Published:** Oct 8 | **Read time:** 9 min
+- **Community:** 94 reactions, 99 comments -- a top post in #machinelearning
+- **Tags:** devchallenge, kagglechallenge, ai, machinelearning
+- **Summary:** This is a submission for the Kaggle Benchmarking Challenge  Those who read my articles know that a...
+- **Link:** https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l
+
 
 ## Models & Datasets
 
