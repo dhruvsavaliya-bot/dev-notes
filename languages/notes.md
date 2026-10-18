@@ -407,6 +407,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/OpenYSM/OpenYSM
 
+**Added 2026-10-19**
+
+### [Swayingleaves/novanova-studio](https://github.com/Swayingleaves/novanova-studio)
+- **Stats:** 446 stars | 53 forks | 0 open issues
+- **Language:** Java | **Created:** 2026-07-22 | **License:** GPL-3.0
+- **Topics:** agent, agentscope-java, image-generation-ai, infinite-canvas, open-source, springboot
+- **What it is:** NovaNova Studio 是一个 Agent 驱动的 AI 创作工作台，集图片生成、视频生成、无限画布与多模型 API 、漫剧短剧生成于一体，为独立创作者和视觉团队打造更智能、更高效的创作体验。
+- **Growth:** averaging ~5 stars/day since launch.
+- **Link:** https://github.com/Swayingleaves/novanova-studio
+
 
 ## TypeScript
 

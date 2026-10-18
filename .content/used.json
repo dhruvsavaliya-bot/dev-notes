@@ -409,6 +409,7 @@
     "https://github.com/ShishirPatil/gorilla",
     "https://github.com/Shpigford/knockoff",
     "https://github.com/SonicloudTech/sonicloud_opensdk",
+    "https://github.com/Swayingleaves/novanova-studio",
     "https://github.com/Taichu-AI/ZDTaichu5.0-9B",
     "https://github.com/TauricResearch/TradingAgents",
     "https://github.com/Tencent-Hunyuan/HY-Motion-1.0",
@@ -1466,12 +1467,6 @@
   "recent": [
     {
       "date": "2026-10-18",
-      "subcat": "Go",
-      "title": "usewhale/Whale",
-      "url": "https://github.com/usewhale/Whale"
-    },
-    {
-      "date": "2026-10-18",
       "subcat": "Models & Datasets",
       "title": "inclusionAI/OpenAoE-2000h",
       "url": "https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h"
@@ -1523,6 +1518,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Do you want a router that has DD-WRT pre-instal",
       "url": "https://news.ycombinator.com/item?id=50039291"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Java",
+      "title": "Swayingleaves/novanova-studio",
+      "url": "https://github.com/Swayingleaves/novanova-studio"
     }
   ]
 }
