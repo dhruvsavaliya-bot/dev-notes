@@ -1383,6 +1383,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h
 
+**Added 2026-10-19**
+
+### [secemp9/arxiv-complete](https://huggingface.co/datasets/secemp9/arxiv-complete)
+- **Stats:** 697 likes | 235,187 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-09-10
+- **Tags:** arxiv, scientific-papers, latex, preprints, full-text
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/secemp9/arxiv-complete
+
 
 ## Research Papers
 

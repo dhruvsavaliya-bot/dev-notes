@@ -732,6 +732,7 @@
     "https://huggingface.co/datasets/openbmb/RLHF-V-Dataset",
     "https://huggingface.co/datasets/openbmb/UltraData-Code",
     "https://huggingface.co/datasets/pixparse/idl-wds",
+    "https://huggingface.co/datasets/secemp9/arxiv-complete",
     "https://huggingface.co/datasets/shibing624/medical",
     "https://huggingface.co/datasets/simple-world-lab/HiFi-UMI-2K",
     "https://huggingface.co/datasets/tau/commonsense_qa",
@@ -1467,12 +1468,6 @@
   "recent": [
     {
       "date": "2026-10-18",
-      "subcat": "Models & Datasets",
-      "title": "inclusionAI/OpenAoE-2000h",
-      "url": "https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h"
-    },
-    {
-      "date": "2026-10-18",
       "subcat": "Swift",
       "title": "zeusinsight/FinderSearch",
       "url": "https://github.com/zeusinsight/FinderSearch"
@@ -1524,6 +1519,12 @@
       "subcat": "Java",
       "title": "Swayingleaves/novanova-studio",
       "url": "https://github.com/Swayingleaves/novanova-studio"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Models & Datasets",
+      "title": "secemp9/arxiv-complete",
+      "url": "https://huggingface.co/datasets/secemp9/arxiv-complete"
     }
   ]
 }
