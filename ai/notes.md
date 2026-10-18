@@ -1347,6 +1347,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/nvidia/OpenMathInstruct-2
 
+**Added 2026-10-18**
+
+### [Helsinki-NLP/opus-100](https://huggingface.co/datasets/Helsinki-NLP/opus-100)
+- **Stats:** 253 likes | 24,890 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2022-03-02
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/Helsinki-NLP/opus-100
+
 
 ## Research Papers
 

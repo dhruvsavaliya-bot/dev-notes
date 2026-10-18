@@ -500,6 +500,7 @@
     "https://huggingface.co/datasets/ACERobotics/ACE-Data-0",
     "https://huggingface.co/datasets/Anthropic/claude-protein-binder-design",
     "https://huggingface.co/datasets/FlyRank/internship-warehouse",
+    "https://huggingface.co/datasets/Helsinki-NLP/opus-100",
     "https://huggingface.co/datasets/HuggingFaceFW/finepdfs",
     "https://huggingface.co/datasets/HumynLabs/airline-customersupport-Hinglish-audio",
     "https://huggingface.co/datasets/Maxwell-Jia/AIME_2024",
@@ -1029,12 +1030,6 @@
   "recent": [
     {
       "date": "2026-10-17",
-      "subcat": "Models & Datasets",
-      "title": "yiyanghkust/finbert-tone",
-      "url": "https://huggingface.co/yiyanghkust/finbert-tone"
-    },
-    {
-      "date": "2026-10-17",
       "subcat": "Show & Ask HN",
       "title": "Show HN: movies.io  torrent search like it should be",
       "url": "https://news.ycombinator.com/item?id=4054568"
@@ -1086,6 +1081,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Fully-automatic image background removal tool",
       "url": "https://news.ycombinator.com/item?id=18697601"
+    },
+    {
+      "date": "2026-10-18",
+      "subcat": "Models & Datasets",
+      "title": "Helsinki-NLP/opus-100",
+      "url": "https://huggingface.co/datasets/Helsinki-NLP/opus-100"
     }
   ]
 }
