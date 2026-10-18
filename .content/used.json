@@ -601,6 +601,7 @@
     "https://github.com/trycompai/crm",
     "https://github.com/trypostit/trypost",
     "https://github.com/unicity-aos/aos-ce",
+    "https://github.com/usewhale/Whale",
     "https://github.com/vercel-labs/fx",
     "https://github.com/vercel-labs/json-render",
     "https://github.com/vercel-labs/scriptc",
@@ -1456,12 +1457,6 @@
   "recent": [
     {
       "date": "2026-10-17",
-      "subcat": "Java",
-      "title": "rustc_codegen_jvm: Rust compiler backend to emit JVM by",
-      "url": "https://lobste.rs/s/lcldxn/rustc_codegen_jvm_rust_compiler_backend"
-    },
-    {
-      "date": "2026-10-17",
       "subcat": "Models & Datasets",
       "title": "datasocial/tiktok-5.6B-videos",
       "url": "https://huggingface.co/datasets/datasocial/tiktok-5.6B-videos"
@@ -1513,6 +1508,12 @@
       "subcat": "Java",
       "title": "OpenYSM/OpenYSM",
       "url": "https://github.com/OpenYSM/OpenYSM"
+    },
+    {
+      "date": "2026-10-18",
+      "subcat": "Go",
+      "title": "usewhale/Whale",
+      "url": "https://github.com/usewhale/Whale"
     }
   ]
 }

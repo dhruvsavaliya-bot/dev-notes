@@ -931,6 +931,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/mkq3x9/better_http_1_connection_reuse
 - **Link:** https://go.dev/blog/http-connection-reuse
 
+**Added 2026-10-18**
+
+### [usewhale/Whale](https://github.com/usewhale/Whale)
+- **Stats:** 934 stars | 83 forks | 21 open issues
+- **Language:** Go | **Created:** 2026-05-06 | **License:** MIT
+- **Topics:** coding-agent, deepseek, deepseek-agent, deepseek-cli, deepseek-coding-agent, go
+- **What it is:** Whale — blazingly fast, terminal-first AI coding agent for DeepSeek. ~98% prompt cache hit rate, 1M context, MCP tools, dynamic workflows.
+- **Growth:** averaging ~5 stars/day since launch.
+- **Link:** https://github.com/usewhale/Whale
+
 
 ## PHP
 
