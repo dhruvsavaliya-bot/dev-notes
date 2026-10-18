@@ -1667,6 +1667,15 @@ Fresh dev articles and blog posts.
 - **Summary:** I spent years chasing the shiny new thing. In 2026, I am betting on the most controversial...
 - **Link:** https://dev.to/the_nortern_dev/my-2026-tech-stack-is-boring-as-hell-and-that-is-the-point-20c1
 
+**Added 2026-10-19**
+
+### [Building a Production-Grade AI Web App in 2026: Architecture, Trade-offs, and Hard-Won Lessons](https://dev.to/antfarm-tech/building-a-production-grade-ai-web-app-in-2026-architecture-trade-offs-and-hard-won-lessons-4llg)
+- **Author:** Art light | **Published:** Jan 13 | **Read time:** 3 min
+- **Community:** 77 reactions, 16 comments -- a top post in #architecture
+- **Tags:** discuss, ai, programming, architecture
+- **Summary:** “Anyone can build a demo. Shipping AI to production is a completely different sport.”   AI-powered...
+- **Link:** https://dev.to/antfarm-tech/building-a-production-grade-ai-web-app-in-2026-architecture-trade-offs-and-hard-won-lessons-4llg
+
 
 ## Lobsters Picks
 

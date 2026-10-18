@@ -160,6 +160,7 @@
     "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
     "https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635",
     "https://dev.to/annavi11arrea1/sharing-dev-followers-count-on-github-profile-bj3",
+    "https://dev.to/antfarm-tech/building-a-production-grade-ai-web-app-in-2026-architecture-trade-offs-and-hard-won-lessons-4llg",
     "https://dev.to/astro-official/scraping-predictions-for-2026-agentic-workflow-and-ai-350m",
     "https://dev.to/aws-builders/ai-agent-governance-on-aws-block-agents-prove-eu-ai-act-compliance-1829",
     "https://dev.to/aws-builders/per-agent-cost-tracking-for-multi-agent-ai-on-aws-10eg",
@@ -1472,12 +1473,6 @@
   "recent": [
     {
       "date": "2026-10-18",
-      "subcat": "AI & Machine Learning",
-      "title": "jonwiggins/optio",
-      "url": "https://github.com/jonwiggins/optio"
-    },
-    {
-      "date": "2026-10-18",
       "subcat": "Machine Learning",
       "title": "Georgian Language Benchmark: Two Biggest AI Labs Clash",
       "url": "https://dev.to/georgekobaidze/georgian-language-benchmark-two-biggest-ai-labs-clash-in-a-language-that-doesnt-play-by-anyones-5b22"
@@ -1529,6 +1524,12 @@
       "subcat": "Models & Datasets",
       "title": "agents-last-exam/agents-last-exam",
       "url": "https://huggingface.co/datasets/agents-last-exam/agents-last-exam"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "System Design & Architecture",
+      "title": "Building a Production-Grade AI Web App in 2026: Archite",
+      "url": "https://dev.to/antfarm-tech/building-a-production-grade-ai-web-app-in-2026-architecture-trade-offs-and-hard-won-lessons-4llg"
     }
   ]
 }
