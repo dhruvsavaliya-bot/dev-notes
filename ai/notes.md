@@ -1356,6 +1356,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/Helsinki-NLP/opus-100
 
+**Added 2026-10-18**
+
+### [inclusionAI/OpenAoE-2000h](https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h)
+- **Stats:** 50 likes | 307,362 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-07-07
+- **Tags:** egocentric, manipulation, mano, hand-pose, atomic-actions
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h
+
 
 ## Research Papers
 

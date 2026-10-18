@@ -709,6 +709,7 @@
     "https://huggingface.co/datasets/google-research-datasets/mbpp",
     "https://huggingface.co/datasets/harborframework/terminal-bench-2.0",
     "https://huggingface.co/datasets/huggingface/badges",
+    "https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h",
     "https://huggingface.co/datasets/lmsys/chatbot_arena_conversations",
     "https://huggingface.co/datasets/m-a-p/Matrix",
     "https://huggingface.co/datasets/markov-ai/cad-1000-hours",
@@ -1457,12 +1458,6 @@
   "recent": [
     {
       "date": "2026-10-17",
-      "subcat": "Models & Datasets",
-      "title": "datasocial/tiktok-5.6B-videos",
-      "url": "https://huggingface.co/datasets/datasocial/tiktok-5.6B-videos"
-    },
-    {
-      "date": "2026-10-17",
       "subcat": "Python",
       "title": "The wild west of polyglot docs sites",
       "url": "https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites"
@@ -1514,6 +1509,12 @@
       "subcat": "Go",
       "title": "usewhale/Whale",
       "url": "https://github.com/usewhale/Whale"
+    },
+    {
+      "date": "2026-10-18",
+      "subcat": "Models & Datasets",
+      "title": "inclusionAI/OpenAoE-2000h",
+      "url": "https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h"
     }
   ]
 }
