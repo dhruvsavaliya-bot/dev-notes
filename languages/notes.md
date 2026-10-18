@@ -379,6 +379,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~25 stars/day since launch.
 - **Link:** https://github.com/voxivoid/recipe-lab-sony-pmca
 
+**Added 2026-10-18**
+
+### [JavaScript right on the hardware](http://technical.io/)
+- **Source:** technical.io | **Posted:** 2013-08-14 | **By:** chinchang
+- **Community:** 346 points, 313 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=6214553
+- **Link:** http://technical.io/
+
 
 ## TypeScript
 

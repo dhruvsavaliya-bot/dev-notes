@@ -1019,6 +1019,7 @@
     "https://news.ycombinator.com/item?id=50104726",
     "https://news.ycombinator.com/item?id=50120224",
     "https://news.ycombinator.com/item?id=5673032",
+    "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
     "https://news.ycombinator.com/item?id=7185024",
     "https://news.ycombinator.com/item?id=7605687",
@@ -1029,12 +1030,6 @@
     "https://news.ycombinator.com/item?id=9962185"
   ],
   "recent": [
-    {
-      "date": "2026-10-17",
-      "subcat": "Hacker News Picks",
-      "title": "JPEG XL vs. AVIF for web use-cases",
-      "url": "https://news.ycombinator.com/item?id=50120224"
-    },
     {
       "date": "2026-10-17",
       "subcat": "Web & Frontend",
@@ -1088,6 +1083,12 @@
       "subcat": "Hacker News Picks",
       "title": "Launching in 2015: A Certificate Authority to Encrypt t",
       "url": "https://news.ycombinator.com/item?id=8624160"
+    },
+    {
+      "date": "2026-10-18",
+      "subcat": "Java",
+      "title": "JavaScript right on the hardware",
+      "url": "https://news.ycombinator.com/item?id=6214553"
     }
   ]
 }
