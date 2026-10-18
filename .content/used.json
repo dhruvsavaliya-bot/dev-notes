@@ -1258,6 +1258,7 @@
     "https://news.ycombinator.com/item?id=50006832",
     "https://news.ycombinator.com/item?id=50009295",
     "https://news.ycombinator.com/item?id=50061659",
+    "https://news.ycombinator.com/item?id=50067325",
     "https://news.ycombinator.com/item?id=50104726",
     "https://news.ycombinator.com/item?id=50120224",
     "https://news.ycombinator.com/item?id=5673032",
@@ -1462,12 +1463,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-17",
-      "subcat": "Models & Datasets",
-      "title": "simple-world-lab/HiFi-UMI-2K",
-      "url": "https://huggingface.co/datasets/simple-world-lab/HiFi-UMI-2K"
-    },
-    {
       "date": "2026-10-18",
       "subcat": "C#",
       "title": "Fervent-Tempo/AF-Media-Bar",
@@ -1520,6 +1515,12 @@
       "subcat": "Machine Learning",
       "title": "Georgian Language Benchmark: Two Biggest AI Labs Clash",
       "url": "https://dev.to/georgekobaidze/georgian-language-benchmark-two-biggest-ai-labs-clash-in-a-language-that-doesnt-play-by-anyones-5b22"
+    },
+    {
+      "date": "2026-10-18",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: CAD for wood working with LLM support?",
+      "url": "https://news.ycombinator.com/item?id=50067325"
     }
   ]
 }

@@ -1741,6 +1741,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49851032
 - **Link:** https://news.ycombinator.com/item?id=49851032
 
+**Added 2026-10-18**
+
+### [Ask HN: CAD for wood working with LLM support?](https://news.ycombinator.com/item?id=50067325)
+- **Source:** news.ycombinator.com | **Posted:** 2026-10-13 | **By:** reacharavindh
+- **Community:** 127 points, 127 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50067325
+- **Link:** https://news.ycombinator.com/item?id=50067325
+
 
 ## Git & Workflow
 
