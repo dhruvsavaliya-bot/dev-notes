@@ -520,6 +520,7 @@
     "https://github.com/jbranchaud/til",
     "https://github.com/jeffhajewski/latticedb",
     "https://github.com/jev-chat/jev-chat-jarvis",
+    "https://github.com/jonwiggins/optio",
     "https://github.com/jpochyla/psst",
     "https://github.com/jub0t/Concat",
     "https://github.com/jub0t/concat",
@@ -1461,12 +1462,6 @@
   "recent": [
     {
       "date": "2026-10-17",
-      "subcat": "Rust",
-      "title": "QuipNetwork/quip-solver",
-      "url": "https://github.com/QuipNetwork/quip-solver"
-    },
-    {
-      "date": "2026-10-17",
       "subcat": "Models & Datasets",
       "title": "markov-ai/cad-1000-hours",
       "url": "https://huggingface.co/datasets/markov-ai/cad-1000-hours"
@@ -1518,6 +1513,12 @@
       "subcat": "Show & Ask HN",
       "title": "Tell HN: Codex Is Down [fixed]",
       "url": "https://news.ycombinator.com/item?id=49851032"
+    },
+    {
+      "date": "2026-10-18",
+      "subcat": "AI & Machine Learning",
+      "title": "jonwiggins/optio",
+      "url": "https://github.com/jonwiggins/optio"
     }
   ]
 }

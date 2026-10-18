@@ -1004,6 +1004,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~16 stars/day since launch.
 - **Link:** https://github.com/openobserve/openobserve
 
+**Added 2026-10-18**
+
+### [jonwiggins/optio](https://github.com/jonwiggins/optio)
+- **Stats:** 1,066 stars | 121 forks | 9 open issues
+- **Language:** TypeScript | **Created:** 2026-03-19 | **License:** MIT
+- **Topics:** agent, agents, ai, claude-code, codex, copilot
+- **What it is:** Workflow orchestration for AI agent swarms.
+- **Growth:** averaging ~5 stars/day since launch.
+- **Link:** https://github.com/jonwiggins/optio
+
 
 ## Other Cool Projects
 
