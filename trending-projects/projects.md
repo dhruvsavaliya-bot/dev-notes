@@ -1014,6 +1014,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~5 stars/day since launch.
 - **Link:** https://github.com/jonwiggins/optio
 
+**Added 2026-10-18**
+
+### [kelos-dev/kelos](https://github.com/kelos-dev/kelos)
+- **Stats:** 344 stars | 45 forks | 165 open issues
+- **Language:** Go | **Created:** 2026-02-01 | **License:** Apache-2.0
+- **Topics:** agentic-ai, agentic-coding, ai, ai-agents, ci-cd, claude
+- **What it is:** Kelos - The Kubernetes-native framework for orchestrating autonomous AI coding agents.
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/kelos-dev/kelos
+
 
 ## Other Cool Projects
 

@@ -527,6 +527,7 @@
     "https://github.com/jub0t/concat",
     "https://github.com/jwilk/python-syntax-errors",
     "https://github.com/kacperkapusciak/goldie",
+    "https://github.com/kelos-dev/kelos",
     "https://github.com/kirodotdev/KiroCrew",
     "https://github.com/komi-store/komi-store",
     "https://github.com/kryvora-network/kryvora-node",
@@ -1464,12 +1465,6 @@
   "recent": [
     {
       "date": "2026-10-18",
-      "subcat": "C#",
-      "title": "Fervent-Tempo/AF-Media-Bar",
-      "url": "https://github.com/Fervent-Tempo/AF-Media-Bar"
-    },
-    {
-      "date": "2026-10-18",
       "subcat": "Java",
       "title": "OpenYSM/OpenYSM",
       "url": "https://github.com/OpenYSM/OpenYSM"
@@ -1521,6 +1516,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: CAD for wood working with LLM support?",
       "url": "https://news.ycombinator.com/item?id=50067325"
+    },
+    {
+      "date": "2026-10-18",
+      "subcat": "AI & Machine Learning",
+      "title": "kelos-dev/kelos",
+      "url": "https://github.com/kelos-dev/kelos"
     }
   ]
 }

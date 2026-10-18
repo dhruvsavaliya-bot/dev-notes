@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1036 entries and counting** · Last updated: 2026-10-18
+**1037 entries and counting** · Last updated: 2026-10-18
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 234 |
+| [Trending Projects](trending-projects/projects.md) | 235 |
 | [AI / LLM Notes](ai/notes.md) | 198 |
 | [Reading List](articles/reading-list.md) | 211 |
 | [Coding Tips](coding-tips/tips.md) | 214 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-18** · *AI & Machine Learning* — [kelos-dev/kelos](https://github.com/kelos-dev/kelos)
 - **2026-10-18** · *Show & Ask HN* — [Ask HN: CAD for wood working with LLM support?](https://news.ycombinator.com/item?id=50067325)
 - **2026-10-18** · *Machine Learning* — [Georgian Language Benchmark: Two Biggest AI Labs Clash](https://dev.to/georgekobaidze/georgian-language-benchmark-two-biggest-ai-labs-clash-in-a-language-that-doesnt-play-by-anyones-5b22)
 - **2026-10-18** · *AI & Machine Learning* — [jonwiggins/optio](https://github.com/jonwiggins/optio)
 - **2026-10-18** · *Show & Ask HN* — [Tell HN: Codex Is Down [fixed]](https://news.ycombinator.com/item?id=49851032)
-- **2026-10-18** · *Machine Learning* — [To Retry or Not to Retry? That Is the Question.](https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l)
 
 ## How it works
 
