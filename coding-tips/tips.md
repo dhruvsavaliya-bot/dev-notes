@@ -1750,6 +1750,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50067325
 - **Link:** https://news.ycombinator.com/item?id=50067325
 
+**Added 2026-10-18**
+
+### [Ask HN: Do you want a router that has DD-WRT pre-installed?](https://news.ycombinator.com/item?id=50039291)
+- **Source:** news.ycombinator.com | **Posted:** 2026-10-11 | **By:** Ixander
+- **Community:** 161 points, 151 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50039291
+- **Link:** https://news.ycombinator.com/item?id=50039291
+
 
 ## Git & Workflow
 

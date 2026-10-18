@@ -1258,6 +1258,7 @@
     "https://news.ycombinator.com/item?id=50000488",
     "https://news.ycombinator.com/item?id=50006832",
     "https://news.ycombinator.com/item?id=50009295",
+    "https://news.ycombinator.com/item?id=50039291",
     "https://news.ycombinator.com/item?id=50061659",
     "https://news.ycombinator.com/item?id=50067325",
     "https://news.ycombinator.com/item?id=50104726",
@@ -1465,12 +1466,6 @@
   "recent": [
     {
       "date": "2026-10-18",
-      "subcat": "Java",
-      "title": "OpenYSM/OpenYSM",
-      "url": "https://github.com/OpenYSM/OpenYSM"
-    },
-    {
-      "date": "2026-10-18",
       "subcat": "Go",
       "title": "usewhale/Whale",
       "url": "https://github.com/usewhale/Whale"
@@ -1522,6 +1517,12 @@
       "subcat": "AI & Machine Learning",
       "title": "kelos-dev/kelos",
       "url": "https://github.com/kelos-dev/kelos"
+    },
+    {
+      "date": "2026-10-18",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: Do you want a router that has DD-WRT pre-instal",
+      "url": "https://news.ycombinator.com/item?id=50039291"
     }
   ]
 }
