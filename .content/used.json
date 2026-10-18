@@ -151,6 +151,7 @@
     "https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh",
     "https://dev.to/rudratosh/can-a-local-llm-replace-claude-code-the-benchmark-everyone-quotes-is-the-wrong-one-2kna",
     "https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n",
+    "https://dev.to/sheships/8-posts-by-women-on-dev-that-deserve-more-than-a-once-a-year-spotlight-27dc",
     "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
     "https://dev.to/smtahosin/python-thinks-different-what-actually-happens-inside-your-code-visual-guide-241l",
     "https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81",
@@ -1033,12 +1034,6 @@
   "recent": [
     {
       "date": "2026-10-18",
-      "subcat": "Java",
-      "title": "voxivoid/recipe-lab-sony-pmca",
-      "url": "https://github.com/voxivoid/recipe-lab-sony-pmca"
-    },
-    {
-      "date": "2026-10-18",
       "subcat": "PHP",
       "title": "Parsing PHP in Go",
       "url": "https://news.ycombinator.com/item?id=8093753"
@@ -1090,6 +1085,12 @@
       "subcat": "Research Papers",
       "title": "Auditing Escalation Reliability in Healthcare LLM Agent",
       "url": "http://arxiv.org/abs/2610.21270v1"
+    },
+    {
+      "date": "2026-10-18",
+      "subcat": "Career & Craft",
+      "title": "8 Posts by Women on DEV That Deserve More Than a Once-a",
+      "url": "https://dev.to/sheships/8-posts-by-women-on-dev-that-deserve-more-than-a-once-a-year-spotlight-27dc"
     }
   ]
 }

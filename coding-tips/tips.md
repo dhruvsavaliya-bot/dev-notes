@@ -1943,3 +1943,14 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has
 - **Link:** https://words.filippo.io/seeds-solved/
+
+## Career & Craft
+
+**Added 2026-10-18**
+
+### [8 Posts by Women on DEV That Deserve More Than a Once-a-Year Spotlight](https://dev.to/sheships/8-posts-by-women-on-dev-that-deserve-more-than-a-once-a-year-spotlight-27dc)
+- **Author:** Mika Flowers | **Published:** Sep 25 | **Read time:** 4 min
+- **Community:** 75 reactions, 32 comments -- a top post in #career
+- **Tags:** wecoded, womenintech, showdev, career
+- **Summary:** We went looking for good posts by women on DEV. Not "inspirational," not "diverse" but just genuinely...
+- **Link:** https://dev.to/sheships/8-posts-by-women-on-dev-that-deserve-more-than-a-once-a-year-spotlight-27dc
