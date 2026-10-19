@@ -1999,6 +1999,16 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://lobste.rs/s/1skdhv/pick_os_is_living_fossil_computer_history
 - **Link:** https://csixty4.medium.com/pick-is-a-living-fossil-of-computer-history-36d74408d557
 
+**Added 2026-10-20**
+
+### [A New Way to Think About Borrow Checking (In Reverse)](https://verdagon.dev/blog/reverse-borrow-checking)
+- **Source:** verdagon.dev | **Posted:** 2026-10-18 | **By:** Verdagon
+- **Community:** 43 score, 8 comments on Lobsters
+- **Tags:** compilers
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/vwgrix/new_way_think_about_borrow_checking
+- **Link:** https://verdagon.dev/blog/reverse-borrow-checking
+
 
 ## Performance
 

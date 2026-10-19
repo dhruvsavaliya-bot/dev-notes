@@ -913,6 +913,7 @@
     "https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without",
     "https://lobste.rs/s/ul9krj/hacking_go_compiler_efficiently_map_ipv4",
     "https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out",
+    "https://lobste.rs/s/vwgrix/new_way_think_about_borrow_checking",
     "https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice",
     "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed",
     "https://lobste.rs/s/wn293o/interactive_refactoring_gopls",
@@ -1419,6 +1420,7 @@
     "https://unim.press/#dataisbeautiful",
     "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
     "https://uvbirds.com/",
+    "https://verdagon.dev/blog/reverse-borrow-checking",
     "https://verdagon.dev/blog/valen-group-borrowing",
     "https://vester.si/bodily-oddities/",
     "https://vincent.bernat.ch/en/blog/2026-go-netip-addrto6",
@@ -1521,12 +1523,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Models & Datasets",
-      "title": "r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation",
-      "url": "https://huggingface.co/datasets/r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "C#",
       "title": "CircuitLord/CircuitLordVRModInstaller",
       "url": "https://github.com/CircuitLord/CircuitLordVRModInstaller"
@@ -1578,6 +1574,12 @@
       "subcat": "Models & Datasets",
       "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB",
       "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "Lobsters Picks",
+      "title": "A New Way to Think About Borrow Checking (In Reverse)",
+      "url": "https://lobste.rs/s/vwgrix/new_way_think_about_borrow_checking"
     }
   ]
 }
