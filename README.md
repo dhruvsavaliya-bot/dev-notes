@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1052 entries and counting** · Last updated: 2026-10-19
+**1053 entries and counting** · Last updated: 2026-10-19
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 237 |
-| [AI / LLM Notes](ai/notes.md) | 201 |
+| [AI / LLM Notes](ai/notes.md) | 202 |
 | [Reading List](articles/reading-list.md) | 213 |
 | [Coding Tips](coding-tips/tips.md) | 218 |
 | [Language Notes](languages/notes.md) | 183 |
 
 ## Latest additions
 
+- **2026-10-19** · *Models & Datasets* — [datacurve/deep-swe](https://huggingface.co/datasets/datacurve/deep-swe)
 - **2026-10-19** · *TypeScript* — [Port of the TypeScript compiler, checker and lsp to Rus](https://news.ycombinator.com/item?id=50000676)
 - **2026-10-19** · *Kotlin* — [SIGSALY: Churchill's top secret hotline to the presiden](https://news.ycombinator.com/item?id=50096110)
 - **2026-10-19** · *Show & Ask HN* — [Anthropic Console overcharged my card 100x due to inter](https://news.ycombinator.com/item?id=50121562)
 - **2026-10-19** · *Models & Datasets* — [stanford-vision-lab/gpic](https://huggingface.co/datasets/stanford-vision-lab/gpic)
-- **2026-10-19** · *TypeScript* — [Native apps written in TypeScript and CSS](https://news.ycombinator.com/item?id=49807021)
 
 ## How it works
 

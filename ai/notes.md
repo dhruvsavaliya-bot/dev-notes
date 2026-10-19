@@ -1410,6 +1410,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/stanford-vision-lab/gpic
 
+**Added 2026-10-19**
+
+### [datacurve/deep-swe](https://huggingface.co/datasets/datacurve/deep-swe)
+- **Stats:** 89 likes | 1,250 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-06-01
+- **Tags:** code, software-engineering, coding-agents, benchmark, long-horizon, harbor
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/datacurve/deep-swe
+
 
 ## Research Papers
 
