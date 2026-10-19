@@ -1768,6 +1768,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50121562
 - **Link:** https://news.ycombinator.com/item?id=50121562
 
+**Added 2026-10-19**
+
+### [Show HN: NanoMuse – An open-source AI agent for your phone and computer](https://github.com/nano-muse/nanoMuse)
+- **Source:** github.com | **Posted:** 2026-10-07 | **By:** ilreb
+- **Community:** 68 points, 21 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49987765
+- **Link:** https://github.com/nano-muse/nanoMuse
+
 
 ## Git & Workflow
 

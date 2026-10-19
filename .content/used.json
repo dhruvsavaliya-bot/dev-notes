@@ -557,6 +557,7 @@
     "https://github.com/mizorewww/laya-mlx",
     "https://github.com/mlc-ai/web-llm",
     "https://github.com/mshumer/Claude-of-Duty",
+    "https://github.com/nano-muse/nanoMuse",
     "https://github.com/nateherkai/scroll-craft",
     "https://github.com/nbedos/termtosvg",
     "https://github.com/nestrilabs/virtio-nvgpu",
@@ -1280,6 +1281,7 @@
     "https://news.ycombinator.com/item?id=49970667",
     "https://news.ycombinator.com/item?id=49971230",
     "https://news.ycombinator.com/item?id=49977588",
+    "https://news.ycombinator.com/item?id=49987765",
     "https://news.ycombinator.com/item?id=49998992",
     "https://news.ycombinator.com/item?id=50000488",
     "https://news.ycombinator.com/item?id=50000676",
@@ -1500,12 +1502,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Lobsters Picks",
-      "title": "Outside the Scope of Our Support",
-      "url": "https://lobste.rs/s/brrnpm/outside_scope_our_support"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "Go",
       "title": "Interactive refactoring in gopls",
       "url": "https://lobste.rs/s/wn293o/interactive_refactoring_gopls"
@@ -1557,6 +1553,12 @@
       "subcat": "PHP",
       "title": "azerioid/azerioid-stack-manager",
       "url": "https://github.com/azerioid/azerioid-stack-manager"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: NanoMuse  An open-source AI agent for your pho",
+      "url": "https://news.ycombinator.com/item?id=49987765"
     }
   ]
 }
