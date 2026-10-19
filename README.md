@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1073 entries and counting** · Last updated: 2026-10-19
+**1074 entries and counting** · Last updated: 2026-10-19
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 237 |
 | [AI / LLM Notes](ai/notes.md) | 211 |
-| [Reading List](articles/reading-list.md) | 216 |
+| [Reading List](articles/reading-list.md) | 217 |
 | [Coding Tips](coding-tips/tips.md) | 219 |
 | [Language Notes](languages/notes.md) | 190 |
 
 ## Latest additions
 
+- **2026-10-19** · *Lobsters Picks* — [Two Kinds of SQL Query Builders](https://lobste.rs/s/zknqct/two_kinds_sql_query_builders)
 - **2026-10-19** · *Models & Datasets* — [nvidia/Open-H-RF](https://huggingface.co/datasets/nvidia/Open-H-RF)
 - **2026-10-19** · *C#* — [CircuitLord/CircuitLordVRModInstaller](https://github.com/CircuitLord/CircuitLordVRModInstaller)
 - **2026-10-19** · *Models & Datasets* — [r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation](https://huggingface.co/datasets/r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation)
 - **2026-10-19** · *Python* — [OpenMili/aimili-vpngate](https://github.com/OpenMili/aimili-vpngate)
-- **2026-10-19** · *Models & Datasets* — [inclusionAI/ConceptEdit-12M](https://huggingface.co/datasets/inclusionAI/ConceptEdit-12M)
 
 ## How it works
 

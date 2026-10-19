@@ -1979,6 +1979,16 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://lobste.rs/s/sqftld/next_gen_borrow_checker_drop_replacement
 - **Link:** https://gist.github.com/FlameyosSnowy/a49a35ba006238be55d8c3e410c31061
 
+**Added 2026-10-19**
+
+### [Two Kinds of SQL Query Builders](https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders)
+- **Source:** mechanicalrabbit.github.io | **Posted:** 2026-09-29 | **By:** pushcx
+- **Community:** 40 score, 32 comments on Lobsters
+- **Tags:** databases
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/zknqct/two_kinds_sql_query_builders
+- **Link:** https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders
+
 
 ## Performance
 

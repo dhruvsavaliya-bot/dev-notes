@@ -916,6 +916,7 @@
     "https://lobste.rs/s/xpyahx/grubby_static_site_generator_for_git",
     "https://lobste.rs/s/xv6z4r/python_iceberg",
     "https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn",
+    "https://lobste.rs/s/zknqct/two_kinds_sql_query_builders",
     "https://lobste.rs/s/zlhyss/mathocalypse",
     "https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source",
     "https://lobste.rs/s/zziknb/arena_allocators_c",
@@ -930,6 +931,7 @@
     "https://marimo.io/blog/pycharm",
     "https://martypc.net/",
     "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+    "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders",
     "https://memories.gallery/",
     "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
     "https://mynoise.net/vlog.php?ep=20260803",
@@ -1512,12 +1514,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: NanoMuse  An open-source AI agent for your pho",
-      "url": "https://news.ycombinator.com/item?id=49987765"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "Models & Datasets",
       "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
       "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF"
@@ -1569,6 +1565,12 @@
       "subcat": "Models & Datasets",
       "title": "nvidia/Open-H-RF",
       "url": "https://huggingface.co/datasets/nvidia/Open-H-RF"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Lobsters Picks",
+      "title": "Two Kinds of SQL Query Builders",
+      "url": "https://lobste.rs/s/zknqct/two_kinds_sql_query_builders"
     }
   ]
 }
