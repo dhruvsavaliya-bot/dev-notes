@@ -326,6 +326,7 @@
     "https://gabrieloc.com/2026/09/15/perspective.html",
     "https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html",
     "https://gegell.github.io/posts/factorio-rng/",
+    "https://gist.github.com/FlameyosSnowy/a49a35ba006238be55d8c3e410c31061",
     "https://gist.github.com/simi/349d881d16d3d86947945615a47c60ca",
     "https://git.btxx.org/grubby",
     "https://github.com/0din-ai/ai-scanner",
@@ -889,6 +890,7 @@
     "https://lobste.rs/s/rucvky/go_concurrency_distilled",
     "https://lobste.rs/s/rwdufq/anti_patterns_software_blogging",
     "https://lobste.rs/s/sfdf3h/platform_independent_simd_go",
+    "https://lobste.rs/s/sqftld/next_gen_borrow_checker_drop_replacement",
     "https://lobste.rs/s/tfjoxv/actual_budget",
     "https://lobste.rs/s/tmr7jp/extend_lua_with_zig_1_hello_world",
     "https://lobste.rs/s/tsfs3w/why_function_arguments_are_not_function",
@@ -1503,12 +1505,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Models & Datasets",
-      "title": "HoneyDataV2/Honey-Data-V2",
-      "url": "https://huggingface.co/datasets/HoneyDataV2/Honey-Data-V2"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "Swift",
       "title": "Phreak.ing  Internet Phone Switch",
       "url": "https://news.ycombinator.com/item?id=50063417"
@@ -1560,6 +1556,12 @@
       "subcat": "Models & Datasets",
       "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
       "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Lobsters Picks",
+      "title": "The next-gen borrow checker, a drop-in replacement for",
+      "url": "https://lobste.rs/s/sqftld/next_gen_borrow_checker_drop_replacement"
     }
   ]
 }

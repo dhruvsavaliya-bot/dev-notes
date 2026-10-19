@@ -1969,6 +1969,16 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://lobste.rs/s/nbxnh7/inside_intel_8087_chip_floating_point
 - **Link:** https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html
 
+**Added 2026-10-19**
+
+### [The next-gen borrow checker, a drop-in replacement for Rust borrow checking](https://gist.github.com/FlameyosSnowy/a49a35ba006238be55d8c3e410c31061)
+- **Source:** gist.github.com | **Posted:** 2026-10-11 | **By:** wofo
+- **Community:** 16 score, 0 comments on Lobsters
+- **Tags:** compilers, plt, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/sqftld/next_gen_borrow_checker_drop_replacement
+- **Link:** https://gist.github.com/FlameyosSnowy/a49a35ba006238be55d8c3e410c31061
+
 
 ## Performance
 
