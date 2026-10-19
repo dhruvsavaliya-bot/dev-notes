@@ -1949,6 +1949,16 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself
 - **Link:** https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/
 
+**Added 2026-10-19**
+
+### [Outside the Scope of Our Support](https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/)
+- **Source:** fireborn.mataroa.blog | **Posted:** 2026-10-18 | **By:** 7tehdt3cnw6kir6o
+- **Community:** 25 score, 0 comments on Lobsters
+- **Tags:** a11y, android
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/brrnpm/outside_scope_our_support
+- **Link:** https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/
+
 
 ## Performance
 

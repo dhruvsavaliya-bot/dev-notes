@@ -313,6 +313,7 @@
     "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
     "https://fabiensanglard.net/quake_shareware_cd/index.html",
     "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
+    "https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/",
     "https://fireworks.ai/blog/ember-1",
     "https://flattensf.com/",
     "https://flet.dev/",
@@ -828,6 +829,7 @@
     "https://lobste.rs/s/b2emi7/guards_guards",
     "https://lobste.rs/s/bag41j/hanami_why_introductions",
     "https://lobste.rs/s/bcfzer/hacking_nameof",
+    "https://lobste.rs/s/brrnpm/outside_scope_our_support",
     "https://lobste.rs/s/ccnirb/there_are_only_twelve_4x4_sudokus_cool",
     "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your",
     "https://lobste.rs/s/ceuque/debian_code_search_fast_turbopfor_with_go",
@@ -1486,12 +1488,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "System Design & Architecture",
-      "title": "Building a Production-Grade AI Web App in 2026: Archite",
-      "url": "https://dev.to/antfarm-tech/building-a-production-grade-ai-web-app-in-2026-architecture-trade-offs-and-hard-won-lessons-4llg"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "Lobsters Picks",
       "title": "It's enough - vibecoding tag crossed from useless to ha",
       "url": "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from"
@@ -1543,6 +1539,12 @@
       "subcat": "Models & Datasets",
       "title": "datacurve/deep-swe",
       "url": "https://huggingface.co/datasets/datacurve/deep-swe"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Lobsters Picks",
+      "title": "Outside the Scope of Our Support",
+      "url": "https://lobste.rs/s/brrnpm/outside_scope_our_support"
     }
   ]
 }
