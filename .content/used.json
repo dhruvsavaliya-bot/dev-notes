@@ -576,6 +576,7 @@
     "https://github.com/penecho/penecho",
     "https://github.com/petergyang/no-ai-slop",
     "https://github.com/pingdotgg/t3code",
+    "https://github.com/pingdotgg/ts-rust",
     "https://github.com/privastead/privastead",
     "https://github.com/qingjian-team/qingjian",
     "https://github.com/rakanki911/DLSS5-Swapper",
@@ -1269,6 +1270,7 @@
     "https://news.ycombinator.com/item?id=49977588",
     "https://news.ycombinator.com/item?id=49998992",
     "https://news.ycombinator.com/item?id=50000488",
+    "https://news.ycombinator.com/item?id=50000676",
     "https://news.ycombinator.com/item?id=50006832",
     "https://news.ycombinator.com/item?id=50009295",
     "https://news.ycombinator.com/item?id=50039291",
@@ -1483,12 +1485,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Developer Tools",
-      "title": "Amansingh-afk/milli.nvim",
-      "url": "https://github.com/Amansingh-afk/milli.nvim"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "Models & Datasets",
       "title": "agents-last-exam/agents-last-exam",
       "url": "https://huggingface.co/datasets/agents-last-exam/agents-last-exam"
@@ -1540,6 +1536,12 @@
       "subcat": "Kotlin",
       "title": "SIGSALY: Churchill's top secret hotline to the presiden",
       "url": "https://news.ycombinator.com/item?id=50096110"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "TypeScript",
+      "title": "Port of the TypeScript compiler, checker and lsp to Rus",
+      "url": "https://news.ycombinator.com/item?id=50000676"
     }
   ]
 }

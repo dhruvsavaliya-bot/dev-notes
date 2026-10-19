@@ -569,6 +569,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=49807021
 - **Link:** https://github.com/geastack/examples
 
+**Added 2026-10-19**
+
+### [Port of the TypeScript compiler, checker and lsp to Rust, by LLM](https://github.com/pingdotgg/ts-rust)
+- **Source:** github.com | **Posted:** 2026-10-08 | **By:** jcbhmr
+- **Community:** 119 points, 224 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50000676
+- **Link:** https://github.com/pingdotgg/ts-rust
+
 
 ## Python
 
