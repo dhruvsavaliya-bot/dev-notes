@@ -733,6 +733,7 @@
     "https://huggingface.co/datasets/google-research-datasets/mbpp",
     "https://huggingface.co/datasets/harborframework/terminal-bench-2.0",
     "https://huggingface.co/datasets/huggingface/badges",
+    "https://huggingface.co/datasets/inclusionAI/ConceptEdit-12M",
     "https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h",
     "https://huggingface.co/datasets/lmsys/chatbot_arena_conversations",
     "https://huggingface.co/datasets/m-a-p/Matrix",
@@ -1507,12 +1508,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Lobsters Picks",
-      "title": "Inside the Intel 8087 chip: floating-point addition and",
-      "url": "https://lobste.rs/s/nbxnh7/inside_intel_8087_chip_floating_point"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "Models & Datasets",
       "title": "orcarouter/OrcaCyber-Nano-1.0",
       "url": "https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0"
@@ -1564,6 +1559,12 @@
       "subcat": "Research Papers",
       "title": "SkillScreen: High-Recall Screening of Malicious Agent S",
       "url": "http://arxiv.org/abs/2610.17727v2"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Models & Datasets",
+      "title": "inclusionAI/ConceptEdit-12M",
+      "url": "https://huggingface.co/datasets/inclusionAI/ConceptEdit-12M"
     }
   ]
 }

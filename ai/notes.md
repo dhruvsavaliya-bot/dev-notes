@@ -1455,6 +1455,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF
 
+**Added 2026-10-19**
+
+### [inclusionAI/ConceptEdit-12M](https://huggingface.co/datasets/inclusionAI/ConceptEdit-12M)
+- **Stats:** 56 likes | 23,648 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-08-17
+- **Tags:** image-editing, instruction-based-editing, multimodal, computer-vision, image-generation, t2i
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/inclusionAI/ConceptEdit-12M
+
 
 ## Research Papers
 
