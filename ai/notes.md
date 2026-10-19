@@ -1419,6 +1419,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/datacurve/deep-swe
 
+**Added 2026-10-19**
+
+### [HoneyDataV2/Honey-Data-V2](https://huggingface.co/datasets/HoneyDataV2/Honey-Data-V2)
+- **Stats:** 76 likes | 84,401 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-09-21
+- **Tags:** multimodal, vision-language, instruction-tuning, chain-of-thought, sft, ocr
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/HoneyDataV2/Honey-Data-V2
+
 
 ## Research Papers
 
