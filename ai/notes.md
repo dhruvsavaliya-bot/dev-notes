@@ -1491,6 +1491,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB
 
+**Added 2026-10-20**
+
+### [LocalLLaMA/typed-decisions](https://huggingface.co/datasets/LocalLLaMA/typed-decisions)
+- **Stats:** 213 likes | 50,733 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-09-16
+- **Tags:** structured-decisions, calibration, probabilistic-classification, system-one, workflow-evaluation, synthetic
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/LocalLLaMA/typed-decisions
+
 
 ## Research Papers
 

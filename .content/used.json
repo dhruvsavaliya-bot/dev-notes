@@ -718,6 +718,7 @@
     "https://huggingface.co/datasets/HoneyDataV2/Honey-Data-V2",
     "https://huggingface.co/datasets/HuggingFaceFW/finepdfs",
     "https://huggingface.co/datasets/HumynLabs/airline-customersupport-Hinglish-audio",
+    "https://huggingface.co/datasets/LocalLLaMA/typed-decisions",
     "https://huggingface.co/datasets/Maxwell-Jia/AIME_2024",
     "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023",
     "https://huggingface.co/datasets/OpenGVLab/ShareGPT-4o",
@@ -1524,12 +1525,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Models & Datasets",
-      "title": "nvidia/Open-H-RF",
-      "url": "https://huggingface.co/datasets/nvidia/Open-H-RF"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "Lobsters Picks",
       "title": "Two Kinds of SQL Query Builders",
       "url": "https://lobste.rs/s/zknqct/two_kinds_sql_query_builders"
@@ -1581,6 +1576,12 @@
       "subcat": "Productivity",
       "title": "Thank you DEV community: the Thinking Engineer Toolkit",
       "url": "https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "Models & Datasets",
+      "title": "LocalLLaMA/typed-decisions",
+      "url": "https://huggingface.co/datasets/LocalLLaMA/typed-decisions"
     }
   ]
 }
