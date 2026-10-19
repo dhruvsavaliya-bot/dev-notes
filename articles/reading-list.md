@@ -2019,6 +2019,16 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0
 - **Link:** https://futhark-lang.org/blog/2026-10-14-defining-division.html
 
+**Added 2026-10-20**
+
+### [Zeroization, part 1: Wiping can make things worse](https://00f.net/2026/10/06/zeroization-1/)
+- **Source:** 00f.net | **Posted:** 2026-10-07 | **By:** olliej
+- **Community:** 23 score, 13 comments on Lobsters
+- **Tags:** compilers, security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/4hxxad/zeroization_part_1_wiping_can_make_things
+- **Link:** https://00f.net/2026/10/06/zeroization-1/
+
 
 ## Performance
 
