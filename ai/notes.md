@@ -1464,6 +1464,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/inclusionAI/ConceptEdit-12M
 
+**Added 2026-10-19**
+
+### [r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation](https://huggingface.co/datasets/r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation)
+- **Stats:** 272 likes | 3,446 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-07-26
+- **Tags:** distillation, sft, reasoning, tool-use, multi-turn, multi-teacher
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation
+
 
 ## Research Papers
 

@@ -752,6 +752,7 @@
     "https://huggingface.co/datasets/openbmb/RLHF-V-Dataset",
     "https://huggingface.co/datasets/openbmb/UltraData-Code",
     "https://huggingface.co/datasets/pixparse/idl-wds",
+    "https://huggingface.co/datasets/r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation",
     "https://huggingface.co/datasets/secemp9/arxiv-complete",
     "https://huggingface.co/datasets/shibing624/medical",
     "https://huggingface.co/datasets/simple-world-lab/HiFi-UMI-2K",
@@ -1509,12 +1510,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Research Papers",
-      "title": "QuickerChick",
-      "url": "http://arxiv.org/abs/2609.16079v1"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "TypeScript",
       "title": "0xnyn/airship",
       "url": "https://github.com/0xnyn/airship"
@@ -1566,6 +1561,12 @@
       "subcat": "Python",
       "title": "OpenMili/aimili-vpngate",
       "url": "https://github.com/OpenMili/aimili-vpngate"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Models & Datasets",
+      "title": "r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation",
+      "url": "https://huggingface.co/datasets/r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation"
     }
   ]
 }
