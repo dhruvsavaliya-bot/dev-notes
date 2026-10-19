@@ -1959,6 +1959,16 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://lobste.rs/s/brrnpm/outside_scope_our_support
 - **Link:** https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/
 
+**Added 2026-10-19**
+
+### [Inside the Intel 8087 chip: floating-point addition and subtraction](https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html)
+- **Source:** www.righto.com | **Posted:** 2026-10-18 | **By:** asteroid
+- **Community:** 15 score, 0 comments on Lobsters
+- **Tags:** hardware
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/nbxnh7/inside_intel_8087_chip_floating_point
+- **Link:** https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html
+
 
 ## Performance
 

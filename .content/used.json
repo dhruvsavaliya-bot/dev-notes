@@ -866,6 +866,7 @@
     "https://lobste.rs/s/mkq3x9/better_http_1_connection_reuse",
     "https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution",
     "https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself",
+    "https://lobste.rs/s/nbxnh7/inside_intel_8087_chip_floating_point",
     "https://lobste.rs/s/nxspz6/no_man_is_island",
     "https://lobste.rs/s/o0ixth/haxy_net_is_live_haxy_git_forge_devlog",
     "https://lobste.rs/s/o8xo9z/importance_communities_around_software",
@@ -1460,6 +1461,7 @@
     "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
     "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
     "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+    "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
     "https://www.robbielyman.com/blog/extend-lua-with-zig-1/",
     "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
     "https://www.rubyhack.ai/",
@@ -1492,12 +1494,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-10-19",
-      "subcat": "Models & Datasets",
-      "title": "stanford-vision-lab/gpic",
-      "url": "https://huggingface.co/datasets/stanford-vision-lab/gpic"
-    },
     {
       "date": "2026-10-19",
       "subcat": "Show & Ask HN",
@@ -1551,6 +1547,12 @@
       "subcat": "Models & Datasets",
       "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
       "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Lobsters Picks",
+      "title": "Inside the Intel 8087 chip: floating-point addition and",
+      "url": "https://lobste.rs/s/nbxnh7/inside_intel_8087_chip_floating_point"
     }
   ]
 }

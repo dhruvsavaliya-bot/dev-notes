@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1058 entries and counting** · Last updated: 2026-10-19
+**1059 entries and counting** · Last updated: 2026-10-19
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 237 |
 | [AI / LLM Notes](ai/notes.md) | 204 |
-| [Reading List](articles/reading-list.md) | 214 |
+| [Reading List](articles/reading-list.md) | 215 |
 | [Coding Tips](coding-tips/tips.md) | 218 |
 | [Language Notes](languages/notes.md) | 185 |
 
 ## Latest additions
 
+- **2026-10-19** · *Lobsters Picks* — [Inside the Intel 8087 chip: floating-point addition and](https://lobste.rs/s/nbxnh7/inside_intel_8087_chip_floating_point)
 - **2026-10-19** · *Models & Datasets* — [orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX)
 - **2026-10-19** · *Swift* — [Phreak.ing  Internet Phone Switch](https://news.ycombinator.com/item?id=50063417)
 - **2026-10-19** · *Models & Datasets* — [HoneyDataV2/Honey-Data-V2](https://huggingface.co/datasets/HoneyDataV2/Honey-Data-V2)
 - **2026-10-19** · *Go* — [Interactive refactoring in gopls](https://lobste.rs/s/wn293o/interactive_refactoring_gopls)
-- **2026-10-19** · *Lobsters Picks* — [Outside the Scope of Our Support](https://lobste.rs/s/brrnpm/outside_scope_our_support)
 
 ## How it works
 
