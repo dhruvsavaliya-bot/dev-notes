@@ -1473,6 +1473,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation
 
+**Added 2026-10-19**
+
+### [nvidia/Open-H-RF](https://huggingface.co/datasets/nvidia/Open-H-RF)
+- **Stats:** 78 likes | 64,966 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-08-06
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/nvidia/Open-H-RF
+
 
 ## Research Papers
 

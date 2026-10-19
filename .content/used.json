@@ -744,6 +744,7 @@
     "https://huggingface.co/datasets/meta-math/MetaMathQA",
     "https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML",
     "https://huggingface.co/datasets/monology/pile-uncopyrighted",
+    "https://huggingface.co/datasets/nvidia/Open-H-RF",
     "https://huggingface.co/datasets/nvidia/Open-SWE-Traces",
     "https://huggingface.co/datasets/nvidia/OpenH-RF",
     "https://huggingface.co/datasets/nvidia/OpenMathInstruct-2",
@@ -1511,12 +1512,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "PHP",
-      "title": "azerioid/azerioid-stack-manager",
-      "url": "https://github.com/azerioid/azerioid-stack-manager"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "Show & Ask HN",
       "title": "Show HN: NanoMuse  An open-source AI agent for your pho",
       "url": "https://news.ycombinator.com/item?id=49987765"
@@ -1568,6 +1563,12 @@
       "subcat": "C#",
       "title": "CircuitLord/CircuitLordVRModInstaller",
       "url": "https://github.com/CircuitLord/CircuitLordVRModInstaller"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Models & Datasets",
+      "title": "nvidia/Open-H-RF",
+      "url": "https://huggingface.co/datasets/nvidia/Open-H-RF"
     }
   ]
 }
