@@ -614,6 +614,7 @@
     "https://github.com/shihabal3amri/DiPlay",
     "https://github.com/slvDev/esp32-ai",
     "https://github.com/srizzon/git-city",
+    "https://github.com/storytold/figcraft",
     "https://github.com/storytold/photocraft",
     "https://github.com/storytold/vectorcraft",
     "https://github.com/sunny-glow/Auto-BenchMax",
@@ -1531,12 +1532,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Lobsters Picks",
-      "title": "Pick OS is a Living Fossil of Computer History",
-      "url": "https://lobste.rs/s/1skdhv/pick_os_is_living_fossil_computer_history"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "Show & Ask HN",
       "title": "Tell HN: GitHub refuses to remove cracked copies of my",
       "url": "https://news.ycombinator.com/item?id=49982498"
@@ -1588,6 +1583,12 @@
       "subcat": "Lobsters Picks",
       "title": "Zeroization, part 1: Wiping can make things worse",
       "url": "https://lobste.rs/s/4hxxad/zeroization_part_1_wiping_can_make_things"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "Other Cool Projects",
+      "title": "storytold/figcraft",
+      "url": "https://github.com/storytold/figcraft"
     }
   ]
 }

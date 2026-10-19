@@ -2037,6 +2037,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/WeblateOrg/weblate
 
+**Added 2026-10-20**
+
+### [storytold/figcraft](https://github.com/storytold/figcraft)
+- **Stats:** 2,822 stars | 1,081 forks | 145 open issues
+- **Language:** Rust | **Created:** 2026-10-09 | **License:** Apache-2.0
+- **Topics:** design, rust, tools
+- **What it is:** FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust
+- **Growth:** averaging ~256 stars/day since launch.
+- **Link:** https://github.com/storytold/figcraft
+
 
 ## Web & Frontend
 
