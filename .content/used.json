@@ -219,6 +219,7 @@
     "https://dev.to/james_anderson_h/prompt-injection-is-the-new-sql-injection-and-were-not-ready-4ea4",
     "https://dev.to/james_anderson_h/the-7-walls-javascript-hits-and-how-webassembly-gets-past-them-3khk",
     "https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g",
+    "https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762",
     "https://dev.to/kenielzep97/tell-me-about-you-1hi4",
     "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm",
     "https://dev.to/kenwalger/the-verification-bottleneck-in-ai-generated-software-3p7l",
@@ -1523,12 +1524,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "C#",
-      "title": "CircuitLord/CircuitLordVRModInstaller",
-      "url": "https://github.com/CircuitLord/CircuitLordVRModInstaller"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "Models & Datasets",
       "title": "nvidia/Open-H-RF",
       "url": "https://huggingface.co/datasets/nvidia/Open-H-RF"
@@ -1580,6 +1575,12 @@
       "subcat": "Lobsters Picks",
       "title": "A New Way to Think About Borrow Checking (In Reverse)",
       "url": "https://lobste.rs/s/vwgrix/new_way_think_about_borrow_checking"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "Productivity",
+      "title": "Thank you DEV community: the Thinking Engineer Toolkit",
+      "url": "https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762"
     }
   ]
 }

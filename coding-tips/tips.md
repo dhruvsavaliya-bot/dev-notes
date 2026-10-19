@@ -184,6 +184,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...
 - **Link:** https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec
 
+**Added 2026-10-20**
+
+### [Thank you DEV community: the Thinking Engineer Toolkit is live](https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762)
+- **Author:** Julien Avezou | **Published:** Jun 25 | **Read time:** 5 min
+- **Community:** 60 reactions, 22 comments -- a top post in #productivity
+- **Tags:** ai, softwareengineering, developer, productivity
+- **Summary:** Over the past weeks, I’ve been sharing a series of posts that gravitate around one question:  How do...
+- **Link:** https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762
+
 
 ## Hacker News Picks
 
