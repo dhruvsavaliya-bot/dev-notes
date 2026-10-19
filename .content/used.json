@@ -1297,6 +1297,7 @@
     "https://news.ycombinator.com/item?id=49970667",
     "https://news.ycombinator.com/item?id=49971230",
     "https://news.ycombinator.com/item?id=49977588",
+    "https://news.ycombinator.com/item?id=49982498",
     "https://news.ycombinator.com/item?id=49987765",
     "https://news.ycombinator.com/item?id=49998992",
     "https://news.ycombinator.com/item?id=50000488",
@@ -1519,12 +1520,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Models & Datasets",
-      "title": "inclusionAI/ConceptEdit-12M",
-      "url": "https://huggingface.co/datasets/inclusionAI/ConceptEdit-12M"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "Python",
       "title": "OpenMili/aimili-vpngate",
       "url": "https://github.com/OpenMili/aimili-vpngate"
@@ -1576,6 +1571,12 @@
       "subcat": "Lobsters Picks",
       "title": "Pick OS is a Living Fossil of Computer History",
       "url": "https://lobste.rs/s/1skdhv/pick_os_is_living_fossil_computer_history"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Show & Ask HN",
+      "title": "Tell HN: GitHub refuses to remove cracked copies of my",
+      "url": "https://news.ycombinator.com/item?id=49982498"
     }
   ]
 }
