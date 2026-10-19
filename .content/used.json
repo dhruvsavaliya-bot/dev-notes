@@ -778,6 +778,7 @@
     "https://huggingface.co/unsloth/Qwen-Image-2.1-GGUF",
     "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+    "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
     "https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base",
     "https://huggingface.co/yiyanghkust/finbert-tone",
     "https://huggingface.co/zai-org/GLM-4.6",
@@ -1502,12 +1503,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Go",
-      "title": "Interactive refactoring in gopls",
-      "url": "https://lobste.rs/s/wn293o/interactive_refactoring_gopls"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "Models & Datasets",
       "title": "HoneyDataV2/Honey-Data-V2",
       "url": "https://huggingface.co/datasets/HoneyDataV2/Honey-Data-V2"
@@ -1559,6 +1554,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: NanoMuse  An open-source AI agent for your pho",
       "url": "https://news.ycombinator.com/item?id=49987765"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Models & Datasets",
+      "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF"
     }
   ]
 }

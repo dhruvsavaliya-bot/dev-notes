@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1064 entries and counting** · Last updated: 2026-10-19
+**1065 entries and counting** · Last updated: 2026-10-19
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 237 |
-| [AI / LLM Notes](ai/notes.md) | 206 |
+| [AI / LLM Notes](ai/notes.md) | 207 |
 | [Reading List](articles/reading-list.md) | 215 |
 | [Coding Tips](coding-tips/tips.md) | 219 |
 | [Language Notes](languages/notes.md) | 187 |
 
 ## Latest additions
 
+- **2026-10-19** · *Models & Datasets* — [unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF)
 - **2026-10-19** · *Show & Ask HN* — [Show HN: NanoMuse  An open-source AI agent for your pho](https://news.ycombinator.com/item?id=49987765)
 - **2026-10-19** · *PHP* — [azerioid/azerioid-stack-manager](https://github.com/azerioid/azerioid-stack-manager)
 - **2026-10-19** · *TypeScript* — [0xnyn/airship](https://github.com/0xnyn/airship)
 - **2026-10-19** · *Research Papers* — [QuickerChick](http://arxiv.org/abs/2609.16079v1)
-- **2026-10-19** · *Models & Datasets* — [orcarouter/OrcaCyber-Nano-1.0](https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0)
 
 ## How it works
 

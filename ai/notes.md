@@ -1446,6 +1446,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0
 
+**Added 2026-10-19**
+
+### [unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF)
+- **Stats:** 1,230 likes | 1,125,184 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-08-26
+- **Tags:** gguf, unsloth, image-text-to-text, endpoints_compatible, conversational
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF
+
 
 ## Research Papers
 
