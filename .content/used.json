@@ -330,6 +330,7 @@
     "https://git.btxx.org/grubby",
     "https://github.com/0din-ai/ai-scanner",
     "https://github.com/0xShug0/audio.cpp",
+    "https://github.com/0xnyn/airship",
     "https://github.com/1812z/HyperIsland",
     "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
     "https://github.com/Albert-Weasker/niubigeo",
@@ -1498,12 +1499,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "TypeScript",
-      "title": "Port of the TypeScript compiler, checker and lsp to Rus",
-      "url": "https://news.ycombinator.com/item?id=50000676"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "Models & Datasets",
       "title": "datacurve/deep-swe",
       "url": "https://huggingface.co/datasets/datacurve/deep-swe"
@@ -1555,6 +1550,12 @@
       "subcat": "Research Papers",
       "title": "QuickerChick",
       "url": "http://arxiv.org/abs/2609.16079v1"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "TypeScript",
+      "title": "0xnyn/airship",
+      "url": "https://github.com/0xnyn/airship"
     }
   ]
 }

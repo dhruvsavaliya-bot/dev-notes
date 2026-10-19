@@ -578,6 +578,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50000676
 - **Link:** https://github.com/pingdotgg/ts-rust
 
+**Added 2026-10-19**
+
+### [0xnyn/airship](https://github.com/0xnyn/airship)
+- **Stats:** 722 stars | 81 forks | 11 open issues
+- **Language:** TypeScript | **Created:** 2026-08-10 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Figma like visual editor built for Claude Code, Codex and OpenCode
+- **Growth:** averaging ~10 stars/day since launch.
+- **Link:** https://github.com/0xnyn/airship
+
 
 ## Python
 
