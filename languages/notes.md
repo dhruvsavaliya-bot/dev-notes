@@ -1668,6 +1668,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~18 stars/day since launch.
 - **Link:** https://github.com/CircuitLord/CircuitLordVRModInstaller
 
+**Added 2026-10-19**
+
+### [huaotem-bot/gezi-quark-downloader](https://github.com/huaotem-bot/gezi-quark-downloader)
+- **Stats:** 448 stars | 46 forks | 9 open issues
+- **Language:** C# | **Created:** 2026-10-04 | **License:** GPL-3.0
+- **Topics:** none listed
+- **What it is:** 鸽子下载Windows 桌面端的完全免费支持免转存的夸克网盘下载器,妈妈再也不害怕网盘容量不够了
+- **Growth:** averaging ~29 stars/day since launch.
+- **Link:** https://github.com/huaotem-bot/gezi-quark-downloader
+
 
 ## C++
 

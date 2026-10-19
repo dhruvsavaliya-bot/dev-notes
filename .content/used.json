@@ -522,6 +522,7 @@
     "https://github.com/harris21/laravel-fuse",
     "https://github.com/herdrdev/herdr",
     "https://github.com/hoainho/img2threejs",
+    "https://github.com/huaotem-bot/gezi-quark-downloader",
     "https://github.com/hugohe3/ppt-master",
     "https://github.com/igorkulman/SwiftPascalInterpreter",
     "https://github.com/img2threejs/img2threejs",
@@ -1516,12 +1517,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Go",
-      "title": "mizorewww/x_gift_bot",
-      "url": "https://github.com/mizorewww/x_gift_bot"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "Research Papers",
       "title": "SkillScreen: High-Recall Screening of Malicious Agent S",
       "url": "http://arxiv.org/abs/2610.17727v2"
@@ -1573,6 +1568,12 @@
       "subcat": "AI & Machine Learning",
       "title": "AndrewDryga/emisar",
       "url": "https://github.com/AndrewDryga/emisar"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "C#",
+      "title": "huaotem-bot/gezi-quark-downloader",
+      "url": "https://github.com/huaotem-bot/gezi-quark-downloader"
     }
   ]
 }
