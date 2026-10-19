@@ -462,6 +462,7 @@
     "https://github.com/ashemag/human-atlas",
     "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
     "https://github.com/ayghri/i-have-adhd",
+    "https://github.com/azerioid/azerioid-stack-manager",
     "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
     "https://github.com/baairon/torlink",
     "https://github.com/baidu/Unlimited-OCR",
@@ -1499,12 +1500,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Models & Datasets",
-      "title": "datacurve/deep-swe",
-      "url": "https://huggingface.co/datasets/datacurve/deep-swe"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "Lobsters Picks",
       "title": "Outside the Scope of Our Support",
       "url": "https://lobste.rs/s/brrnpm/outside_scope_our_support"
@@ -1556,6 +1551,12 @@
       "subcat": "TypeScript",
       "title": "0xnyn/airship",
       "url": "https://github.com/0xnyn/airship"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "PHP",
+      "title": "azerioid/azerioid-stack-manager",
+      "url": "https://github.com/azerioid/azerioid-stack-manager"
     }
   ]
 }

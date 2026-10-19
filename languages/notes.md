@@ -1103,6 +1103,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=8093753
 - **Link:** https://stephensearles.com/?p=288
 
+**Added 2026-10-19**
+
+### [azerioid/azerioid-stack-manager](https://github.com/azerioid/azerioid-stack-manager)
+- **Stats:** 710 stars | 3 forks | 0 open issues
+- **Language:** PHP | **Created:** 2026-09-01 | **License:** None
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~14 stars/day since launch.
+- **Link:** https://github.com/azerioid/azerioid-stack-manager
+
 
 ## Ruby
 
