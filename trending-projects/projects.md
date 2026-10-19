@@ -1034,6 +1034,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~187 stars/day since launch.
 - **Link:** https://github.com/nykooi1/vibe-wise
 
+**Added 2026-10-19**
+
+### [AndrewDryga/emisar](https://github.com/AndrewDryga/emisar)
+- **Stats:** 339 stars | 33 forks | 10 open issues
+- **Language:** Elixir | **Created:** 2026-05-19 | **License:** NOASSERTION
+- **Topics:** ai, ai-agents, devops, devsecops, elixir, go
+- **What it is:** Let AI agents investigate and operate infrastructure through declared actions, bounded by policy and host-side checks. Approvals when required, with an audit trail. By Protectorate.
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/AndrewDryga/emisar
+
 
 ## Other Cool Projects
 

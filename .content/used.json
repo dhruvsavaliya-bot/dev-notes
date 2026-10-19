@@ -339,6 +339,7 @@
     "https://github.com/AlephAITech/WorkBuddyGuide",
     "https://github.com/Alvin9999-newpac/fanqiang",
     "https://github.com/Amansingh-afk/milli.nvim",
+    "https://github.com/AndrewDryga/emisar",
     "https://github.com/AndroidCSIDE/ACSIDE",
     "https://github.com/ApodexAI/FrontierAgent",
     "https://github.com/AstrBotDevs/AstrBot-desktop",
@@ -1515,12 +1516,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Lobsters Picks",
-      "title": "The next-gen borrow checker, a drop-in replacement for",
-      "url": "https://lobste.rs/s/sqftld/next_gen_borrow_checker_drop_replacement"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "Go",
       "title": "mizorewww/x_gift_bot",
       "url": "https://github.com/mizorewww/x_gift_bot"
@@ -1572,6 +1567,12 @@
       "subcat": "Show & Ask HN",
       "title": "Tell HN: Remember to migrate away from .name domain",
       "url": "https://news.ycombinator.com/item?id=50089577"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "AI & Machine Learning",
+      "title": "AndrewDryga/emisar",
+      "url": "https://github.com/AndrewDryga/emisar"
     }
   ]
 }
