@@ -1044,6 +1044,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/AndrewDryga/emisar
 
+**Added 2026-10-20**
+
+### [noonghunna/club-3090](https://github.com/noonghunna/club-3090)
+- **Stats:** 2,416 stars | 165 forks | 76 open issues
+- **Language:** Python | **Created:** 2026-04-28 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, sglang, llama.cpp and other custom engines) and model-agnostic. Currently shipping Qwen3.8-27B Qwen3.6 35B Gemma 4 26B Gemma 4 31B configs for 1×/2×/4x/8x cards.
+- **Growth:** averaging ~13 stars/day since launch.
+- **Link:** https://github.com/noonghunna/club-3090
+
 
 ## Other Cool Projects
 

@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1085 entries and counting** · Last updated: 2026-10-20
+**1086 entries and counting** · Last updated: 2026-10-20
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 238 |
+| [Trending Projects](trending-projects/projects.md) | 239 |
 | [AI / LLM Notes](ai/notes.md) | 213 |
 | [Reading List](articles/reading-list.md) | 220 |
 | [Coding Tips](coding-tips/tips.md) | 223 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-20** · *AI & Machine Learning* — [noonghunna/club-3090](https://github.com/noonghunna/club-3090)
 - **2026-10-20** · *Productivity* — [Dependency Injection: How Some People Quietly Program T](https://dev.to/khalisollis/dependency-injection-how-some-people-quietly-program-themselves-into-your-identity-51j8)
 - **2026-10-20** · *Lobsters Picks* — [Making all divisions slower to fix a bug in 0.000000000](https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0)
 - **2026-10-20** · *Models & Datasets* — [LocalLLaMA/typed-decisions](https://huggingface.co/datasets/LocalLLaMA/typed-decisions)
 - **2026-10-20** · *Productivity* — [Thank you DEV community: the Thinking Engineer Toolkit](https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762)
-- **2026-10-20** · *Lobsters Picks* — [A New Way to Think About Borrow Checking (In Reverse)](https://lobste.rs/s/vwgrix/new_way_think_about_borrow_checking)
 
 ## How it works
 

@@ -573,6 +573,7 @@
     "https://github.com/nbedos/termtosvg",
     "https://github.com/nestrilabs/virtio-nvgpu",
     "https://github.com/newliver666/apk-reverse",
+    "https://github.com/noonghunna/club-3090",
     "https://github.com/nyblnet/bento",
     "https://github.com/nykooi1/vibe-wise",
     "https://github.com/omacom/try-omarchy",
@@ -1528,12 +1529,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "AI & Machine Learning",
-      "title": "AndrewDryga/emisar",
-      "url": "https://github.com/AndrewDryga/emisar"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "C#",
       "title": "huaotem-bot/gezi-quark-downloader",
       "url": "https://github.com/huaotem-bot/gezi-quark-downloader"
@@ -1585,6 +1580,12 @@
       "subcat": "Productivity",
       "title": "Dependency Injection: How Some People Quietly Program T",
       "url": "https://dev.to/khalisollis/dependency-injection-how-some-people-quietly-program-themselves-into-your-identity-51j8"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "AI & Machine Learning",
+      "title": "noonghunna/club-3090",
+      "url": "https://github.com/noonghunna/club-3090"
     }
   ]
 }
