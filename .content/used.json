@@ -778,6 +778,7 @@
     "https://huggingface.co/microsoft/OmniParser-v2.0",
     "https://huggingface.co/microsoft/TRELLIS-image-large",
     "https://huggingface.co/moonshotai/Kimi-K3",
+    "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB",
     "https://huggingface.co/openbmb/MiniCPM-V-2_6",
     "https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0",
     "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
@@ -1520,12 +1521,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Python",
-      "title": "OpenMili/aimili-vpngate",
-      "url": "https://github.com/OpenMili/aimili-vpngate"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "Models & Datasets",
       "title": "r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation",
       "url": "https://huggingface.co/datasets/r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation"
@@ -1577,6 +1572,12 @@
       "subcat": "Show & Ask HN",
       "title": "Tell HN: GitHub refuses to remove cracked copies of my",
       "url": "https://news.ycombinator.com/item?id=49982498"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "Models & Datasets",
+      "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB"
     }
   ]
 }

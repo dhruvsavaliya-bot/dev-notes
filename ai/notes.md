@@ -1482,6 +1482,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/nvidia/Open-H-RF
 
+**Added 2026-10-20**
+
+### [nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB)
+- **Stats:** 129 likes | 6,060 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-10-07
+- **Tags:** transformers, safetensors, nemotron_h_omni, image-text-to-text, nvidia, pytorch
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB
+
 
 ## Research Papers
 
