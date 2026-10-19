@@ -1401,6 +1401,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/agents-last-exam/agents-last-exam
 
+**Added 2026-10-19**
+
+### [stanford-vision-lab/gpic](https://huggingface.co/datasets/stanford-vision-lab/gpic)
+- **Stats:** 163 likes | 109,067 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-05-03
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/stanford-vision-lab/gpic
+
 
 ## Research Papers
 

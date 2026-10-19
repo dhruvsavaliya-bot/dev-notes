@@ -741,6 +741,7 @@
     "https://huggingface.co/datasets/secemp9/arxiv-complete",
     "https://huggingface.co/datasets/shibing624/medical",
     "https://huggingface.co/datasets/simple-world-lab/HiFi-UMI-2K",
+    "https://huggingface.co/datasets/stanford-vision-lab/gpic",
     "https://huggingface.co/datasets/tau/commonsense_qa",
     "https://huggingface.co/datasets/tiiuae/falcon-refinedweb",
     "https://huggingface.co/datasets/ystemsrx/Erotic_Literature_Collection",
@@ -1479,12 +1480,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Java",
-      "title": "Swayingleaves/novanova-studio",
-      "url": "https://github.com/Swayingleaves/novanova-studio"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "Models & Datasets",
       "title": "secemp9/arxiv-complete",
       "url": "https://huggingface.co/datasets/secemp9/arxiv-complete"
@@ -1536,6 +1531,12 @@
       "subcat": "TypeScript",
       "title": "Native apps written in TypeScript and CSS",
       "url": "https://news.ycombinator.com/item?id=49807021"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Models & Datasets",
+      "title": "stanford-vision-lab/gpic",
+      "url": "https://huggingface.co/datasets/stanford-vision-lab/gpic"
     }
   ]
 }
