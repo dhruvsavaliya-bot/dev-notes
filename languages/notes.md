@@ -989,6 +989,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/wn293o/interactive_refactoring_gopls
 - **Link:** https://go.dev/blog/interactive-refactoring
 
+**Added 2026-10-19**
+
+### [mizorewww/x_gift_bot](https://github.com/mizorewww/x_gift_bot)
+- **Stats:** 1,253 stars | 390 forks | 2 open issues
+- **Language:** Go | **Created:** 2026-10-02 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** X Premium gift CLI and redemption site
+- **Growth:** averaging ~73 stars/day since launch.
+- **Link:** https://github.com/mizorewww/x_gift_bot
+
 
 ## PHP
 
