@@ -1276,6 +1276,7 @@
     "https://news.ycombinator.com/item?id=50067325",
     "https://news.ycombinator.com/item?id=50104726",
     "https://news.ycombinator.com/item?id=50120224",
+    "https://news.ycombinator.com/item?id=50121562",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -1480,12 +1481,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Models & Datasets",
-      "title": "secemp9/arxiv-complete",
-      "url": "https://huggingface.co/datasets/secemp9/arxiv-complete"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "Lobsters Picks",
       "title": "ARP! Tell your network to explain itself",
       "url": "https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself"
@@ -1537,6 +1532,12 @@
       "subcat": "Models & Datasets",
       "title": "stanford-vision-lab/gpic",
       "url": "https://huggingface.co/datasets/stanford-vision-lab/gpic"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Show & Ask HN",
+      "title": "Anthropic Console overcharged my card 100x due to inter",
+      "url": "https://news.ycombinator.com/item?id=50121562"
     }
   ]
 }

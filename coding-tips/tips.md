@@ -1759,6 +1759,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50039291
 - **Link:** https://news.ycombinator.com/item?id=50039291
 
+**Added 2026-10-19**
+
+### [Anthropic Console overcharged my card 100x due to internationalization input bug](https://news.ycombinator.com/item?id=50121562)
+- **Source:** news.ycombinator.com | **Posted:** 2026-10-16 | **By:** rsorto
+- **Community:** 88 points, 36 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50121562
+- **Link:** https://news.ycombinator.com/item?id=50121562
+
 
 ## Git & Workflow
 
