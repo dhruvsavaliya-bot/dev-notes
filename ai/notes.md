@@ -1927,3 +1927,13 @@ Lessons from building with LLMs.
 - **Abstract:** Property-based testing (PBT) with QuickChick relies on extracting Rocq programs to OCaml. However, this extraction mechanism, while crucial for QuickChick to function, has significant performance implications. In this work, we describe how we optimized QuickChick, exploiting various opportunities offered by program extraction to significantly improve each test's extraction, compilation, and running time. We also evaluate these improvements using the ETNA benchmarking platform for PBT to assess h...
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.16079v1
+
+**Added 2026-10-19**
+
+### [SkillScreen: High-Recall Screening of Malicious Agent Skills with Decision Models](http://arxiv.org/abs/2610.17727v2)
+- **Authors:** Jerrold Huang, Junwei Quan, Saiyue Lyu, Zihan Guo et al.
+- **Published:** 2026-10-13 | **Primary category:** cs.CR
+- **Categories:** cs.CR, cs.AI, cs.CL
+- **Abstract:** Agent skills turn natural-language instructions into actions, creating a security challenge: legitimate automation and malicious behaviour can look deceptively similar. A practical screen must catch nearly every attack while keeping the review load manageable. We present SkillScreen, a compact decision model trained to score skill maliciousness directly from SKILL$.$md in a single forward pass. On MaliciousSkillBench, SkillScreen flags 20-25% of benign skills at 99% recall on unseen attack famil...
+- **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.17727v2

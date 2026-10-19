@@ -45,6 +45,7 @@
     "http://arxiv.org/abs/2610.13407v1",
     "http://arxiv.org/abs/2610.15082v1",
     "http://arxiv.org/abs/2610.16594v1",
+    "http://arxiv.org/abs/2610.17727v2",
     "http://arxiv.org/abs/2610.17747v1",
     "http://arxiv.org/abs/2610.18359v1",
     "http://arxiv.org/abs/2610.18504v1",
@@ -1506,12 +1507,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Models & Datasets",
-      "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-      "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "Lobsters Picks",
       "title": "Inside the Intel 8087 chip: floating-point addition and",
       "url": "https://lobste.rs/s/nbxnh7/inside_intel_8087_chip_floating_point"
@@ -1563,6 +1558,12 @@
       "subcat": "Go",
       "title": "mizorewww/x_gift_bot",
       "url": "https://github.com/mizorewww/x_gift_bot"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Research Papers",
+      "title": "SkillScreen: High-Recall Screening of Malicious Agent S",
+      "url": "http://arxiv.org/abs/2610.17727v2"
     }
   ]
 }
