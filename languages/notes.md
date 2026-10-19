@@ -560,6 +560,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=49348136
 - **Link:** https://machine0.io
 
+**Added 2026-10-19**
+
+### [Native apps written in TypeScript and CSS](https://github.com/geastack/examples)
+- **Source:** github.com | **Posted:** 2026-09-22 | **By:** arbayi
+- **Community:** 131 points, 54 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49807021
+- **Link:** https://github.com/geastack/examples
+
 
 ## Python
 

@@ -503,6 +503,7 @@
     "https://github.com/foxhui/WebAI2API",
     "https://github.com/fuxicodex/Fuxi",
     "https://github.com/garnix-io/garnix-ci",
+    "https://github.com/geastack/examples",
     "https://github.com/genspark-ai/genoffice",
     "https://github.com/getmydia/mydia",
     "https://github.com/golang/go/issues/45624",
@@ -1231,6 +1232,7 @@
     "https://news.ycombinator.com/item?id=49799855",
     "https://news.ycombinator.com/item?id=49805344",
     "https://news.ycombinator.com/item?id=49807003",
+    "https://news.ycombinator.com/item?id=49807021",
     "https://news.ycombinator.com/item?id=49808023",
     "https://news.ycombinator.com/item?id=49823582",
     "https://news.ycombinator.com/item?id=49824268",
@@ -1476,12 +1478,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-18",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: Do you want a router that has DD-WRT pre-instal",
-      "url": "https://news.ycombinator.com/item?id=50039291"
-    },
-    {
       "date": "2026-10-19",
       "subcat": "Java",
       "title": "Swayingleaves/novanova-studio",
@@ -1534,6 +1530,12 @@
       "subcat": "Lobsters Picks",
       "title": "The Brain Sandwich",
       "url": "https://lobste.rs/s/k5omum/brain_sandwich"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "TypeScript",
+      "title": "Native apps written in TypeScript and CSS",
+      "url": "https://news.ycombinator.com/item?id=49807021"
     }
   ]
 }
