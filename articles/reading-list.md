@@ -2009,6 +2009,16 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://lobste.rs/s/vwgrix/new_way_think_about_borrow_checking
 - **Link:** https://verdagon.dev/blog/reverse-borrow-checking
 
+**Added 2026-10-20**
+
+### [Making all divisions slower to fix a bug in 0.000000000000000000542% of cases](https://futhark-lang.org/blog/2026-10-14-defining-division.html)
+- **Source:** futhark-lang.org | **Posted:** 2026-10-19 | **By:** NoahTheDuke
+- **Community:** 23 score, 2 comments on Lobsters
+- **Tags:** c, compilers
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0
+- **Link:** https://futhark-lang.org/blog/2026-10-14-defining-division.html
+
 
 ## Performance
 
