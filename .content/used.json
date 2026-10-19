@@ -343,6 +343,7 @@
     "https://github.com/ApodexAI/FrontierAgent",
     "https://github.com/AstrBotDevs/AstrBot-desktop",
     "https://github.com/Blimp-Labs/claude-usage-bar",
+    "https://github.com/CircuitLord/CircuitLordVRModInstaller",
     "https://github.com/CluvexStudio/Aether",
     "https://github.com/Contrastive-LM/CLM",
     "https://github.com/CopilotKit/OpenBot",
@@ -1510,12 +1511,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "TypeScript",
-      "title": "0xnyn/airship",
-      "url": "https://github.com/0xnyn/airship"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "PHP",
       "title": "azerioid/azerioid-stack-manager",
       "url": "https://github.com/azerioid/azerioid-stack-manager"
@@ -1567,6 +1562,12 @@
       "subcat": "Models & Datasets",
       "title": "r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation",
       "url": "https://huggingface.co/datasets/r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "C#",
+      "title": "CircuitLord/CircuitLordVRModInstaller",
+      "url": "https://github.com/CircuitLord/CircuitLordVRModInstaller"
     }
   ]
 }

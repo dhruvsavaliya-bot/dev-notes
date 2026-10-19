@@ -1658,6 +1658,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~13 stars/day since launch.
 - **Link:** https://github.com/Fervent-Tempo/AF-Media-Bar
 
+**Added 2026-10-19**
+
+### [CircuitLord/CircuitLordVRModInstaller](https://github.com/CircuitLord/CircuitLordVRModInstaller)
+- **Stats:** 1,357 stars | 25 forks | 82 open issues
+- **Language:** C# | **Created:** 2026-08-06 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** One-click installer for Big Walk VR and Titanfall 2 VR
+- **Growth:** averaging ~18 stars/day since launch.
+- **Link:** https://github.com/CircuitLord/CircuitLordVRModInstaller
+
 
 ## C++
 

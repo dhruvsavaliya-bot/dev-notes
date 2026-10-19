@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1071 entries and counting** · Last updated: 2026-10-19
+**1072 entries and counting** · Last updated: 2026-10-19
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 210 |
 | [Reading List](articles/reading-list.md) | 216 |
 | [Coding Tips](coding-tips/tips.md) | 219 |
-| [Language Notes](languages/notes.md) | 189 |
+| [Language Notes](languages/notes.md) | 190 |
 
 ## Latest additions
 
+- **2026-10-19** · *C#* — [CircuitLord/CircuitLordVRModInstaller](https://github.com/CircuitLord/CircuitLordVRModInstaller)
 - **2026-10-19** · *Models & Datasets* — [r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation](https://huggingface.co/datasets/r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation)
 - **2026-10-19** · *Python* — [OpenMili/aimili-vpngate](https://github.com/OpenMili/aimili-vpngate)
 - **2026-10-19** · *Models & Datasets* — [inclusionAI/ConceptEdit-12M](https://huggingface.co/datasets/inclusionAI/ConceptEdit-12M)
 - **2026-10-19** · *Research Papers* — [SkillScreen: High-Recall Screening of Malicious Agent S](http://arxiv.org/abs/2610.17727v2)
-- **2026-10-19** · *Go* — [mizorewww/x_gift_bot](https://github.com/mizorewww/x_gift_bot)
 
 ## How it works
 
