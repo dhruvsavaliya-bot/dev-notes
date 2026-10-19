@@ -1777,6 +1777,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49987765
 - **Link:** https://github.com/nano-muse/nanoMuse
 
+**Added 2026-10-19**
+
+### [Tell HN: Remember to migrate away from .name domain](https://news.ycombinator.com/item?id=50089577)
+- **Source:** news.ycombinator.com | **Posted:** 2026-10-14 | **By:** nikanj
+- **Community:** 165 points, 114 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50089577
+- **Link:** https://news.ycombinator.com/item?id=50089577
+
 
 ## Git & Workflow
 

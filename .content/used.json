@@ -1303,6 +1303,7 @@
     "https://news.ycombinator.com/item?id=50061659",
     "https://news.ycombinator.com/item?id=50063417",
     "https://news.ycombinator.com/item?id=50067325",
+    "https://news.ycombinator.com/item?id=50089577",
     "https://news.ycombinator.com/item?id=50096110",
     "https://news.ycombinator.com/item?id=50104726",
     "https://news.ycombinator.com/item?id=50120224",
@@ -1514,12 +1515,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Models & Datasets",
-      "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
-      "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "Lobsters Picks",
       "title": "The next-gen borrow checker, a drop-in replacement for",
       "url": "https://lobste.rs/s/sqftld/next_gen_borrow_checker_drop_replacement"
@@ -1571,6 +1566,12 @@
       "subcat": "Lobsters Picks",
       "title": "Two Kinds of SQL Query Builders",
       "url": "https://lobste.rs/s/zknqct/two_kinds_sql_query_builders"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Show & Ask HN",
+      "title": "Tell HN: Remember to migrate away from .name domain",
+      "url": "https://news.ycombinator.com/item?id=50089577"
     }
   ]
 }
