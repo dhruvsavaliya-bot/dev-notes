@@ -802,6 +802,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/73ssw1/plea_not_use_uv_build
 - **Link:** https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/
 
+**Added 2026-10-19**
+
+### [OpenMili/aimili-vpngate](https://github.com/OpenMili/aimili-vpngate)
+- **Stats:** 2,011 stars | 600 forks | 24 open issues
+- **Language:** Python | **Created:** 2026-05-25 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。
+- **Growth:** averaging ~13 stars/day since launch.
+- **Link:** https://github.com/OpenMili/aimili-vpngate
+
 
 ## Go
 

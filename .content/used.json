@@ -401,6 +401,7 @@
     "https://github.com/NickTikhonov/snap-ql",
     "https://github.com/Niko1221/Strata",
     "https://github.com/NomaDamas/k-skill",
+    "https://github.com/OpenMili/aimili-vpngate",
     "https://github.com/OpenNHP/opennhp",
     "https://github.com/OpenYSM/OpenYSM",
     "https://github.com/Optiscaler-Client/Optiscaler-Client",
@@ -1508,12 +1509,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Models & Datasets",
-      "title": "orcarouter/OrcaCyber-Nano-1.0",
-      "url": "https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "Research Papers",
       "title": "QuickerChick",
       "url": "http://arxiv.org/abs/2609.16079v1"
@@ -1565,6 +1560,12 @@
       "subcat": "Models & Datasets",
       "title": "inclusionAI/ConceptEdit-12M",
       "url": "https://huggingface.co/datasets/inclusionAI/ConceptEdit-12M"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Python",
+      "title": "OpenMili/aimili-vpngate",
+      "url": "https://github.com/OpenMili/aimili-vpngate"
     }
   ]
 }
