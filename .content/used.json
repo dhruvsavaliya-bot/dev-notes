@@ -1274,6 +1274,7 @@
     "https://news.ycombinator.com/item?id=50039291",
     "https://news.ycombinator.com/item?id=50061659",
     "https://news.ycombinator.com/item?id=50067325",
+    "https://news.ycombinator.com/item?id=50096110",
     "https://news.ycombinator.com/item?id=50104726",
     "https://news.ycombinator.com/item?id=50120224",
     "https://news.ycombinator.com/item?id=50121562",
@@ -1425,6 +1426,7 @@
     "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
     "https://www.iroh.computer/blog/the-road-to-iroh-1-0",
     "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+    "https://www.iwm.org.uk/history/iwm/cwr/telephone",
     "https://www.kotlinvsjava.com",
     "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
     "https://www.meta.com/vr-glasses/",
@@ -1481,12 +1483,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Lobsters Picks",
-      "title": "ARP! Tell your network to explain itself",
-      "url": "https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "Developer Tools",
       "title": "Amansingh-afk/milli.nvim",
       "url": "https://github.com/Amansingh-afk/milli.nvim"
@@ -1538,6 +1534,12 @@
       "subcat": "Show & Ask HN",
       "title": "Anthropic Console overcharged my card 100x due to inter",
       "url": "https://news.ycombinator.com/item?id=50121562"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Kotlin",
+      "title": "SIGSALY: Churchill's top secret hotline to the presiden",
+      "url": "https://news.ycombinator.com/item?id=50096110"
     }
   ]
 }

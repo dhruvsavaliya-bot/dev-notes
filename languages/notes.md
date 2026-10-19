@@ -1780,3 +1780,12 @@ Snippets and gotchas across languages.
 - **What it is:** scrcpy android client (unofficial)
 - **Growth:** averaging ~3 stars/day since launch.
 - **Link:** https://github.com/Miuzarte/ScrcpyForAndroid
+
+**Added 2026-10-19**
+
+### [SIGSALY: Churchill's top secret hotline to the president](https://www.iwm.org.uk/history/iwm/cwr/telephone)
+- **Source:** www.iwm.org.uk | **Posted:** 2026-10-14 | **By:** stmw
+- **Community:** 112 points, 39 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50096110
+- **Link:** https://www.iwm.org.uk/history/iwm/cwr/telephone
