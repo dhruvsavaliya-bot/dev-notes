@@ -1437,6 +1437,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX
 
+**Added 2026-10-19**
+
+### [orcarouter/OrcaCyber-Nano-1.0](https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0)
+- **Stats:** 85 likes | 0 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-10-16
+- **Tags:** gguf, cybersecurity, security, reverse-engineering, vision-language, reasoning
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0
+
 
 ## Research Papers
 

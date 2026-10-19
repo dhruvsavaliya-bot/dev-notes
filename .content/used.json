@@ -764,6 +764,7 @@
     "https://huggingface.co/microsoft/TRELLIS-image-large",
     "https://huggingface.co/moonshotai/Kimi-K3",
     "https://huggingface.co/openbmb/MiniCPM-V-2_6",
+    "https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0",
     "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
     "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit",
     "https://huggingface.co/prompthero/openjourney",
@@ -1496,12 +1497,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Show & Ask HN",
-      "title": "Anthropic Console overcharged my card 100x due to inter",
-      "url": "https://news.ycombinator.com/item?id=50121562"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "Kotlin",
       "title": "SIGSALY: Churchill's top secret hotline to the presiden",
       "url": "https://news.ycombinator.com/item?id=50096110"
@@ -1553,6 +1548,12 @@
       "subcat": "Lobsters Picks",
       "title": "Inside the Intel 8087 chip: floating-point addition and",
       "url": "https://lobste.rs/s/nbxnh7/inside_intel_8087_chip_floating_point"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Models & Datasets",
+      "title": "orcarouter/OrcaCyber-Nano-1.0",
+      "url": "https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0"
     }
   ]
 }
