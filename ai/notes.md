@@ -1428,6 +1428,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/HoneyDataV2/Honey-Data-V2
 
+**Added 2026-10-19**
+
+### [orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX)
+- **Stats:** 1,576 likes | 67,778 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-08-17
+- **Tags:** mlx, safetensors, qwen3_5, abliterated, qwen3.8, uncensored
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX
+
 
 ## Research Papers
 

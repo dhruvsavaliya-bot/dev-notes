@@ -764,6 +764,7 @@
     "https://huggingface.co/microsoft/TRELLIS-image-large",
     "https://huggingface.co/moonshotai/Kimi-K3",
     "https://huggingface.co/openbmb/MiniCPM-V-2_6",
+    "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
     "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit",
     "https://huggingface.co/prompthero/openjourney",
     "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0",
@@ -1493,12 +1494,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "TypeScript",
-      "title": "Native apps written in TypeScript and CSS",
-      "url": "https://news.ycombinator.com/item?id=49807021"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "Models & Datasets",
       "title": "stanford-vision-lab/gpic",
       "url": "https://huggingface.co/datasets/stanford-vision-lab/gpic"
@@ -1550,6 +1545,12 @@
       "subcat": "Swift",
       "title": "Phreak.ing  Internet Phone Switch",
       "url": "https://news.ycombinator.com/item?id=50063417"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Models & Datasets",
+      "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+      "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX"
     }
   ]
 }
