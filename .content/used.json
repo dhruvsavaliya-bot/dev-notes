@@ -658,6 +658,7 @@
     "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
     "https://go.dev/blog/goroutine-leak-profiles",
     "https://go.dev/blog/http-connection-reuse",
+    "https://go.dev/blog/interactive-refactoring",
     "https://go.dev/blog/simd-experiment",
     "https://goliath32.com/blog/z80.html",
     "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
@@ -891,6 +892,7 @@
     "https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out",
     "https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice",
     "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed",
+    "https://lobste.rs/s/wn293o/interactive_refactoring_gopls",
     "https://lobste.rs/s/wq1csk/elixir_v1_20_released_now_gradually_typed",
     "https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites",
     "https://lobste.rs/s/xpyahx/grubby_static_site_generator_for_git",
@@ -1488,12 +1490,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Lobsters Picks",
-      "title": "It's enough - vibecoding tag crossed from useless to ha",
-      "url": "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "AI & Machine Learning",
       "title": "nykooi1/vibe-wise",
       "url": "https://github.com/nykooi1/vibe-wise"
@@ -1545,6 +1541,12 @@
       "subcat": "Lobsters Picks",
       "title": "Outside the Scope of Our Support",
       "url": "https://lobste.rs/s/brrnpm/outside_scope_our_support"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Go",
+      "title": "Interactive refactoring in gopls",
+      "url": "https://lobste.rs/s/wn293o/interactive_refactoring_gopls"
     }
   ]
 }

@@ -969,6 +969,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~5 stars/day since launch.
 - **Link:** https://github.com/usewhale/Whale
 
+**Added 2026-10-19**
+
+### [Interactive refactoring in gopls](https://go.dev/blog/interactive-refactoring)
+- **Source:** go.dev | **Posted:** 2026-10-16 | **By:** carlana
+- **Community:** 35 score, 10 comments on Lobsters
+- **Tags:** editors, go
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/wn293o/interactive_refactoring_gopls
+- **Link:** https://go.dev/blog/interactive-refactoring
+
 
 ## PHP
 
