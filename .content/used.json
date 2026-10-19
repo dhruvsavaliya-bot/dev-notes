@@ -142,6 +142,7 @@
     "https://code.intellios.ai/cwbrowser/",
     "https://committing-crimes.com/articles/2026-08-04-java-nameof",
     "https://comonad.com/reader/2026/turbo-haskell/",
+    "https://csixty4.medium.com/pick-is-a-living-fossil-of-computer-history-36d74408d557",
     "https://cursor.com/blog/agent-swarm-model-economics",
     "https://datacolada.org/138",
     "https://datagubbe.se/crt/",
@@ -820,6 +821,7 @@
     "https://llama.app",
     "https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial",
     "https://lobste.rs/s/0gvyif/software_developers_are_not_okay",
+    "https://lobste.rs/s/1skdhv/pick_os_is_living_fossil_computer_history",
     "https://lobste.rs/s/1zpy4w/sqlite_db_simple_process_reliable_fast",
     "https://lobste.rs/s/27dxjg/petty_reason_we_didn_t_end_up_using_jj",
     "https://lobste.rs/s/2h9opx/who_is_vfmaddrnd231pd",
@@ -1517,12 +1519,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Research Papers",
-      "title": "SkillScreen: High-Recall Screening of Malicious Agent S",
-      "url": "http://arxiv.org/abs/2610.17727v2"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "Models & Datasets",
       "title": "inclusionAI/ConceptEdit-12M",
       "url": "https://huggingface.co/datasets/inclusionAI/ConceptEdit-12M"
@@ -1574,6 +1570,12 @@
       "subcat": "C#",
       "title": "huaotem-bot/gezi-quark-downloader",
       "url": "https://github.com/huaotem-bot/gezi-quark-downloader"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Lobsters Picks",
+      "title": "Pick OS is a Living Fossil of Computer History",
+      "url": "https://lobste.rs/s/1skdhv/pick_os_is_living_fossil_computer_history"
     }
   ]
 }

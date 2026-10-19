@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1077 entries and counting** · Last updated: 2026-10-19
+**1078 entries and counting** · Last updated: 2026-10-19
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 238 |
 | [AI / LLM Notes](ai/notes.md) | 211 |
-| [Reading List](articles/reading-list.md) | 217 |
+| [Reading List](articles/reading-list.md) | 218 |
 | [Coding Tips](coding-tips/tips.md) | 220 |
 | [Language Notes](languages/notes.md) | 191 |
 
 ## Latest additions
 
+- **2026-10-19** · *Lobsters Picks* — [Pick OS is a Living Fossil of Computer History](https://lobste.rs/s/1skdhv/pick_os_is_living_fossil_computer_history)
 - **2026-10-19** · *C#* — [huaotem-bot/gezi-quark-downloader](https://github.com/huaotem-bot/gezi-quark-downloader)
 - **2026-10-19** · *AI & Machine Learning* — [AndrewDryga/emisar](https://github.com/AndrewDryga/emisar)
 - **2026-10-19** · *Show & Ask HN* — [Tell HN: Remember to migrate away from .name domain](https://news.ycombinator.com/item?id=50089577)
 - **2026-10-19** · *Lobsters Picks* — [Two Kinds of SQL Query Builders](https://lobste.rs/s/zknqct/two_kinds_sql_query_builders)
-- **2026-10-19** · *Models & Datasets* — [nvidia/Open-H-RF](https://huggingface.co/datasets/nvidia/Open-H-RF)
 
 ## How it works
 

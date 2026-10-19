@@ -1989,6 +1989,16 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://lobste.rs/s/zknqct/two_kinds_sql_query_builders
 - **Link:** https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders
 
+**Added 2026-10-19**
+
+### [Pick OS is a Living Fossil of Computer History](https://csixty4.medium.com/pick-is-a-living-fossil-of-computer-history-36d74408d557)
+- **Source:** csixty4.medium.com | **Posted:** 2026-09-24 | **By:** veqq
+- **Community:** 27 score, 7 comments on Lobsters
+- **Tags:** databases, historical, osdev
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/1skdhv/pick_os_is_living_fossil_computer_history
+- **Link:** https://csixty4.medium.com/pick-is-a-living-fossil-of-computer-history-36d74408d557
+
 
 ## Performance
 
