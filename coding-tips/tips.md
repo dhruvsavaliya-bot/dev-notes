@@ -193,6 +193,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** Over the past weeks, I’ve been sharing a series of posts that gravitate around one question:  How do...
 - **Link:** https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762
 
+**Added 2026-10-20**
+
+### [Dependency Injection: How Some People Quietly Program Themselves Into Your Identity](https://dev.to/khalisollis/dependency-injection-how-some-people-quietly-program-themselves-into-your-identity-51j8)
+- **Author:** Khali Sollis | **Published:** Sep 25 | **Read time:** 5 min
+- **Community:** 85 reactions, 23 comments -- a top post in #productivity
+- **Tags:** career, productivity, discuss, mentalhealth
+- **Summary:** How emotional dependency becomes embedded inside self-concept, why certain relationships begin...
+- **Link:** https://dev.to/khalisollis/dependency-injection-how-some-people-quietly-program-themselves-into-your-identity-51j8
+
 
 ## Hacker News Picks
 

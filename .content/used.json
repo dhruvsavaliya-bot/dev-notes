@@ -223,6 +223,7 @@
     "https://dev.to/kenielzep97/tell-me-about-you-1hi4",
     "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm",
     "https://dev.to/kenwalger/the-verification-bottleneck-in-ai-generated-software-3p7l",
+    "https://dev.to/khalisollis/dependency-injection-how-some-people-quietly-program-themselves-into-your-identity-51j8",
     "https://dev.to/konark_13/vibe-coding-endgame-3bbn",
     "https://dev.to/lovestaco/cheap-rag-in-go-with-gemini-file-search-no-vector-db-two-calls-one-hosted-store-4kb5",
     "https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d",
@@ -1527,12 +1528,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Show & Ask HN",
-      "title": "Tell HN: Remember to migrate away from .name domain",
-      "url": "https://news.ycombinator.com/item?id=50089577"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "AI & Machine Learning",
       "title": "AndrewDryga/emisar",
       "url": "https://github.com/AndrewDryga/emisar"
@@ -1584,6 +1579,12 @@
       "subcat": "Lobsters Picks",
       "title": "Making all divisions slower to fix a bug in 0.000000000",
       "url": "https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "Productivity",
+      "title": "Dependency Injection: How Some People Quietly Program T",
+      "url": "https://dev.to/khalisollis/dependency-injection-how-some-people-quietly-program-themselves-into-your-identity-51j8"
     }
   ]
 }
