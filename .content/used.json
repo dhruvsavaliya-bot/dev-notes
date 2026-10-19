@@ -10,6 +10,7 @@
     "http://arxiv.org/abs/2608.17032v1",
     "http://arxiv.org/abs/2609.07667v1",
     "http://arxiv.org/abs/2609.09270v1",
+    "http://arxiv.org/abs/2609.16079v1",
     "http://arxiv.org/abs/2609.28608v1",
     "http://arxiv.org/abs/2609.30629v1",
     "http://arxiv.org/abs/2609.31250v1",
@@ -1497,12 +1498,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Kotlin",
-      "title": "SIGSALY: Churchill's top secret hotline to the presiden",
-      "url": "https://news.ycombinator.com/item?id=50096110"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "TypeScript",
       "title": "Port of the TypeScript compiler, checker and lsp to Rus",
       "url": "https://news.ycombinator.com/item?id=50000676"
@@ -1554,6 +1549,12 @@
       "subcat": "Models & Datasets",
       "title": "orcarouter/OrcaCyber-Nano-1.0",
       "url": "https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Research Papers",
+      "title": "QuickerChick",
+      "url": "http://arxiv.org/abs/2609.16079v1"
     }
   ]
 }

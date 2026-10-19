@@ -1908,3 +1908,13 @@ Lessons from building with LLMs.
 - **Abstract:** Trustworthy biomedical AI requires reliable action selection when evidence is missing, stale, conflicting, or late, not only accurate answers on static inputs. We instantiate an episode-level evaluation protocol as 400 synthetic healthcare workflow episodes: 40 hand-authored semantic seeds across four task classes, two surface parameterizations, and five controlled variants, scored on ANSWER/ASK CLARIFICATION/ABSTAIN/ESCALATE under a pre-declared 5:1 missed-versus-unnecessary escalation cost. Re...
 - **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.21270v1
+
+**Added 2026-10-19**
+
+### [QuickerChick](http://arxiv.org/abs/2609.16079v1)
+- **Authors:** Ivan Mladenov, Alperen Keles, Leonidas Lampropoulos
+- **Published:** 2026-09-13 | **Primary category:** cs.PL
+- **Categories:** cs.PL
+- **Abstract:** Property-based testing (PBT) with QuickChick relies on extracting Rocq programs to OCaml. However, this extraction mechanism, while crucial for QuickChick to function, has significant performance implications. In this work, we describe how we optimized QuickChick, exploiting various opportunities offered by program extraction to significantly improve each test's extraction, compilation, and running time. We also evaluate these improvements using the ETNA benchmarking platform for PBT to assess h...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.16079v1

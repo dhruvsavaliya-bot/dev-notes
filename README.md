@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1060 entries and counting** · Last updated: 2026-10-19
+**1061 entries and counting** · Last updated: 2026-10-19
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 237 |
-| [AI / LLM Notes](ai/notes.md) | 205 |
+| [AI / LLM Notes](ai/notes.md) | 206 |
 | [Reading List](articles/reading-list.md) | 215 |
 | [Coding Tips](coding-tips/tips.md) | 218 |
 | [Language Notes](languages/notes.md) | 185 |
 
 ## Latest additions
 
+- **2026-10-19** · *Research Papers* — [QuickerChick](http://arxiv.org/abs/2609.16079v1)
 - **2026-10-19** · *Models & Datasets* — [orcarouter/OrcaCyber-Nano-1.0](https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0)
 - **2026-10-19** · *Lobsters Picks* — [Inside the Intel 8087 chip: floating-point addition and](https://lobste.rs/s/nbxnh7/inside_intel_8087_chip_floating_point)
 - **2026-10-19** · *Models & Datasets* — [orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX)
 - **2026-10-19** · *Swift* — [Phreak.ing  Internet Phone Switch](https://news.ycombinator.com/item?id=50063417)
-- **2026-10-19** · *Models & Datasets* — [HoneyDataV2/Honey-Data-V2](https://huggingface.co/datasets/HoneyDataV2/Honey-Data-V2)
 
 ## How it works
 
