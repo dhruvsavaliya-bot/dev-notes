@@ -1281,6 +1281,7 @@
     "https://news.ycombinator.com/item?id=50009295",
     "https://news.ycombinator.com/item?id=50039291",
     "https://news.ycombinator.com/item?id=50061659",
+    "https://news.ycombinator.com/item?id=50063417",
     "https://news.ycombinator.com/item?id=50067325",
     "https://news.ycombinator.com/item?id=50096110",
     "https://news.ycombinator.com/item?id=50104726",
@@ -1317,6 +1318,7 @@
     "https://ornith.ai/ornith_1_5.html",
     "https://parallel-rust-cpp.github.io/introduction.html",
     "https://phptherightway.com/",
+    "https://phreak.ing/",
     "https://phunky.cafe/my-homelab-got-hacked/",
     "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
     "https://picomq.com/",
@@ -1491,12 +1493,6 @@
   "recent": [
     {
       "date": "2026-10-19",
-      "subcat": "Lobsters Picks",
-      "title": "The Brain Sandwich",
-      "url": "https://lobste.rs/s/k5omum/brain_sandwich"
-    },
-    {
-      "date": "2026-10-19",
       "subcat": "TypeScript",
       "title": "Native apps written in TypeScript and CSS",
       "url": "https://news.ycombinator.com/item?id=49807021"
@@ -1548,6 +1544,12 @@
       "subcat": "Models & Datasets",
       "title": "HoneyDataV2/Honey-Data-V2",
       "url": "https://huggingface.co/datasets/HoneyDataV2/Honey-Data-V2"
+    },
+    {
+      "date": "2026-10-19",
+      "subcat": "Swift",
+      "title": "Phreak.ing  Internet Phone Switch",
+      "url": "https://news.ycombinator.com/item?id=50063417"
     }
   ]
 }

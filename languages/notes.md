@@ -1322,6 +1322,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~75 stars/day since launch.
 - **Link:** https://github.com/zeusinsight/FinderSearch
 
+**Added 2026-10-19**
+
+### [Phreak.ing – Internet Phone Switch](https://phreak.ing/)
+- **Source:** phreak.ing | **Posted:** 2026-10-12 | **By:** rickcarlino
+- **Community:** 152 points, 34 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50063417
+- **Link:** https://phreak.ing/
+
 
 ## Rust
 

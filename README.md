@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1056 entries and counting** · Last updated: 2026-10-19
+**1057 entries and counting** · Last updated: 2026-10-19
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 203 |
 | [Reading List](articles/reading-list.md) | 214 |
 | [Coding Tips](coding-tips/tips.md) | 218 |
-| [Language Notes](languages/notes.md) | 184 |
+| [Language Notes](languages/notes.md) | 185 |
 
 ## Latest additions
 
+- **2026-10-19** · *Swift* — [Phreak.ing  Internet Phone Switch](https://news.ycombinator.com/item?id=50063417)
 - **2026-10-19** · *Models & Datasets* — [HoneyDataV2/Honey-Data-V2](https://huggingface.co/datasets/HoneyDataV2/Honey-Data-V2)
 - **2026-10-19** · *Go* — [Interactive refactoring in gopls](https://lobste.rs/s/wn293o/interactive_refactoring_gopls)
 - **2026-10-19** · *Lobsters Picks* — [Outside the Scope of Our Support](https://lobste.rs/s/brrnpm/outside_scope_our_support)
 - **2026-10-19** · *Models & Datasets* — [datacurve/deep-swe](https://huggingface.co/datasets/datacurve/deep-swe)
-- **2026-10-19** · *TypeScript* — [Port of the TypeScript compiler, checker and lsp to Rus](https://news.ycombinator.com/item?id=50000676)
 
 ## How it works
 
