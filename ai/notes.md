@@ -1500,6 +1500,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/LocalLLaMA/typed-decisions
 
+**Added 2026-10-20**
+
+### [CMRobot/MotionDecode](https://huggingface.co/datasets/CMRobot/MotionDecode)
+- **Stats:** 89 likes | 131,166 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-06-11
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/CMRobot/MotionDecode
+
 
 ## Research Papers
 

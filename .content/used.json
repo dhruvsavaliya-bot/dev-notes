@@ -728,6 +728,7 @@
     "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L12-v2",
     "https://huggingface.co/datasets/ACERobotics/ACE-Data-0",
     "https://huggingface.co/datasets/Anthropic/claude-protein-binder-design",
+    "https://huggingface.co/datasets/CMRobot/MotionDecode",
     "https://huggingface.co/datasets/FlyRank/internship-warehouse",
     "https://huggingface.co/datasets/Helsinki-NLP/opus-100",
     "https://huggingface.co/datasets/HoneyDataV2/Honey-Data-V2",
@@ -1555,12 +1556,6 @@
   "recent": [
     {
       "date": "2026-10-20",
-      "subcat": "AI & Machine Learning",
-      "title": "software-mansion-labs/goldie",
-      "url": "https://github.com/software-mansion-labs/goldie"
-    },
-    {
-      "date": "2026-10-20",
       "subcat": "PHP",
       "title": "Returning from vacation? The government can search your",
       "url": "https://news.ycombinator.com/item?id=49920234"
@@ -1612,6 +1607,12 @@
       "subcat": "PHP",
       "title": "Ptero-ai/Ptero",
       "url": "https://github.com/Ptero-ai/Ptero"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "Models & Datasets",
+      "title": "CMRobot/MotionDecode",
+      "url": "https://huggingface.co/datasets/CMRobot/MotionDecode"
     }
   ]
 }
