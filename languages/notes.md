@@ -1397,6 +1397,17 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~42 stars/day since launch.
 - **Link:** https://github.com/QuipNetwork/quip-solver
 
+**Added 2026-10-20**
+
+### [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
+- **Source:** bevy.org | **Posted:** 2026-10-08 | **By:** BD103
+- **Community:** 67 score, 2 comments on Lobsters
+- **Tags:** games, release, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/3gikyb/bevy_0_20
+- **Link:** https://bevy.org/news/bevy-0-20/
+
+
 ## Elixir
 
 **Added 2026-10-05**
