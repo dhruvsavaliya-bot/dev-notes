@@ -170,6 +170,15 @@ Fresh dev articles and blog posts.
 - **Summary:** Everyone says learning to code is fun. They talk about “building cool projects,” “landing your first...
 - **Link:** https://dev.to/hadil/the-hard-truth-about-learning-to-code-that-no-one-tells-you-15c1
 
+**Added 2026-10-21**
+
+### [JavaScript Frameworks - Heading into 2026](https://dev.to/playfulprogramming/javascript-frameworks-heading-into-2026-2hel)
+- **Author:** Ryan Carniato | **Published:** Jan 5 | **Read time:** 8 min
+- **Community:** 108 reactions, 28 comments -- a top post in #webdev
+- **Tags:** webdev, javascript, webperf, frameworks
+- **Summary:** I suppose after three years, we can consider my review of JavaScript Frameworks an annual event now....
+- **Link:** https://dev.to/playfulprogramming/javascript-frameworks-heading-into-2026-2hel
+
 
 ## Hacker News Picks
 
@@ -2071,8 +2080,10 @@ Fresh dev articles and blog posts.
 - **Source:** lobste.rs | **Posted:** 2026-10-19 | **By:** caius
 - **Community:** 25 score, 43 comments on Lobsters
 - **Tags:** ask, programming
-- **Summary:** What are you doing this week? Feel free to share!
-
+- **Summary:** What are you doing this week? Feel free to share!
+
+
+
 Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/vyfegx/what_are_you_doing_this_week
 - **Link:** https://lobste.rs/s/vyfegx/what_are_you_doing_this_week

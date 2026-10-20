@@ -261,6 +261,7 @@
     "https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk",
     "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9",
     "https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o",
+    "https://dev.to/playfulprogramming/javascript-frameworks-heading-into-2026-2hel",
     "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk",
     "https://dev.to/robertadam987_/your-ai-coding-agent-can-be-attacked-by-the-repository-it-opens-ie4",
     "https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh",
@@ -1572,12 +1573,6 @@
   "recent": [
     {
       "date": "2026-10-20",
-      "subcat": "LLMs",
-      "title": "How I Stopped Rewriting My Code Every Time I Switched L",
-      "url": "https://dev.to/chief_yaml_officer/how-i-stopped-rewriting-my-code-every-time-i-switched-llm-providers-4gjh"
-    },
-    {
-      "date": "2026-10-20",
       "subcat": "Lobsters Picks",
       "title": "What are you doing this week?",
       "url": "https://lobste.rs/s/vyfegx/what_are_you_doing_this_week"
@@ -1629,6 +1624,12 @@
       "subcat": "Research Papers",
       "title": "ACorD: Adaptive Correspondence Discovery for Medical...",
       "url": "http://arxiv.org/abs/2610.25638v1"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Web Development",
+      "title": "JavaScript Frameworks - Heading into 2026",
+      "url": "https://dev.to/playfulprogramming/javascript-frameworks-heading-into-2026-2hel"
     }
   ]
 }
