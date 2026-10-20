@@ -1341,6 +1341,7 @@
     "https://news.ycombinator.com/item?id=50140584",
     "https://news.ycombinator.com/item?id=50152307",
     "https://news.ycombinator.com/item?id=50154540",
+    "https://news.ycombinator.com/item?id=50160494",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -1507,6 +1508,7 @@
     "https://www.ntik.me/posts/voice-agent",
     "https://www.nytimes.com/2019/02/20/us/politics/civil-asset-forfeiture-supreme-court.html",
     "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+    "https://www.openbsd.org/80.html",
     "https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/",
     "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
     "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
@@ -1550,12 +1552,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-10-20",
-      "subcat": "Hacker News Picks",
-      "title": "Weball: Play Katamari on Websites",
-      "url": "https://news.ycombinator.com/item?id=50140584"
-    },
     {
       "date": "2026-10-20",
       "subcat": "Show & Ask HN",
@@ -1609,6 +1605,12 @@
       "subcat": "AI & Machine Learning",
       "title": "dzhng/jevgrep",
       "url": "https://github.com/dzhng/jevgrep"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "Hacker News Picks",
+      "title": "OpenBSD 8.0",
+      "url": "https://news.ycombinator.com/item?id=50160494"
     }
   ]
 }

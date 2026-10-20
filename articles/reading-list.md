@@ -1604,6 +1604,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50152307
 - **Link:** https://marc.info/?l=openbsd-ports&m=179236125692175
 
+**Added 2026-10-20**
+
+### [OpenBSD 8.0](https://www.openbsd.org/80.html)
+- **Source:** www.openbsd.org | **Posted:** 2026-10-20 | **By:** privong
+- **Community:** 256 points, 73 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50160494
+- **Link:** https://www.openbsd.org/80.html
+
 
 ## DevOps & Cloud
 
