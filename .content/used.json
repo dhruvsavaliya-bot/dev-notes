@@ -936,6 +936,7 @@
     "https://lobste.rs/s/ul9krj/hacking_go_compiler_efficiently_map_ipv4",
     "https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out",
     "https://lobste.rs/s/vwgrix/new_way_think_about_borrow_checking",
+    "https://lobste.rs/s/vyfegx/what_are_you_doing_this_week",
     "https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice",
     "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed",
     "https://lobste.rs/s/whzj8z/jep_544_ahead_time_code_compilation",
@@ -1560,12 +1561,6 @@
   "recent": [
     {
       "date": "2026-10-20",
-      "subcat": "Swift",
-      "title": "lingyired/status-trio",
-      "url": "https://github.com/lingyired/status-trio"
-    },
-    {
-      "date": "2026-10-20",
       "subcat": "Research Papers",
       "title": "AutoSec-RAN: Specification-Grounded LLM Fine-Tuning for",
       "url": "http://arxiv.org/abs/2610.15995v1"
@@ -1617,6 +1612,12 @@
       "subcat": "LLMs",
       "title": "How I Stopped Rewriting My Code Every Time I Switched L",
       "url": "https://dev.to/chief_yaml_officer/how-i-stopped-rewriting-my-code-every-time-i-switched-llm-providers-4gjh"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "Lobsters Picks",
+      "title": "What are you doing this week?",
+      "url": "https://lobste.rs/s/vyfegx/what_are_you_doing_this_week"
     }
   ]
 }

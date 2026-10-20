@@ -2065,6 +2065,18 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://lobste.rs/s/4hxxad/zeroization_part_1_wiping_can_make_things
 - **Link:** https://00f.net/2026/10/06/zeroization-1/
 
+**Added 2026-10-20**
+
+### [What are you doing this week?](https://lobste.rs/s/vyfegx/what_are_you_doing_this_week)
+- **Source:** lobste.rs | **Posted:** 2026-10-19 | **By:** caius
+- **Community:** 25 score, 43 comments on Lobsters
+- **Tags:** ask, programming
+- **Summary:** What are you doing this week? Feel free to share!
+
+Keep in mind it’s OK to do nothing at all, too.
+- **Discussion:** https://lobste.rs/s/vyfegx/what_are_you_doing_this_week
+- **Link:** https://lobste.rs/s/vyfegx/what_are_you_doing_this_week
+
 
 ## Performance
 
