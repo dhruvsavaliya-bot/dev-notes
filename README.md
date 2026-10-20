@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1102 entries and counting** · Last updated: 2026-10-20
+**1103 entries and counting** · Last updated: 2026-10-20
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 215 |
 | [Reading List](articles/reading-list.md) | 225 |
 | [Coding Tips](coding-tips/tips.md) | 225 |
-| [Language Notes](languages/notes.md) | 194 |
+| [Language Notes](languages/notes.md) | 195 |
 
 ## Latest additions
 
+- **2026-10-20** · *PHP* — [Ptero-ai/Ptero](https://github.com/Ptero-ai/Ptero)
 - **2026-10-20** · *Hacker News Picks* — [OpenBSD 8.0](https://news.ycombinator.com/item?id=50160494)
 - **2026-10-20** · *AI & Machine Learning* — [dzhng/jevgrep](https://github.com/dzhng/jevgrep)
 - **2026-10-20** · *Hacker News Picks* — [Wine ported to OpenBSD](https://news.ycombinator.com/item?id=50152307)
 - **2026-10-20** · *Research Papers* — [AutoSec-RAN: Specification-Grounded LLM Fine-Tuning for](http://arxiv.org/abs/2610.15995v1)
-- **2026-10-20** · *Swift* — [lingyired/status-trio](https://github.com/lingyired/status-trio)
 
 ## How it works
 

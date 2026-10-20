@@ -1142,6 +1142,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=49920234
 - **Link:** https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/
 
+**Added 2026-10-20**
+
+### [Ptero-ai/Ptero](https://github.com/Ptero-ai/Ptero)
+- **Stats:** 1,505 stars | 21 forks | 0 open issues
+- **Language:** PHP | **Created:** 2026-08-18 | **License:** Apache-2.0
+- **Topics:** ai, ai-chat, ai-platform, developer-tools, free-ai, javascript
+- **What it is:** AI Chat with powerful models for free
+- **Growth:** averaging ~23 stars/day since launch.
+- **Link:** https://github.com/Ptero-ai/Ptero
+
 
 ## Ruby
 

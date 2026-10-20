@@ -418,6 +418,7 @@
     "https://github.com/Optiscaler-Client/Optiscaler-Client",
     "https://github.com/Player-YN/BrowserKitten",
     "https://github.com/Player-YN/PawWork_ZhuaZhua",
+    "https://github.com/Ptero-ai/Ptero",
     "https://github.com/QuipNetwork/quip-solver",
     "https://github.com/QwenLM/Qwen-MM-Plugins",
     "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
@@ -1554,12 +1555,6 @@
   "recent": [
     {
       "date": "2026-10-20",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Whiteboard (YC W26)  An open-source IDE for th",
-      "url": "https://news.ycombinator.com/item?id=49833867"
-    },
-    {
-      "date": "2026-10-20",
       "subcat": "AI & Machine Learning",
       "title": "software-mansion-labs/goldie",
       "url": "https://github.com/software-mansion-labs/goldie"
@@ -1611,6 +1606,12 @@
       "subcat": "Hacker News Picks",
       "title": "OpenBSD 8.0",
       "url": "https://news.ycombinator.com/item?id=50160494"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "PHP",
+      "title": "Ptero-ai/Ptero",
+      "url": "https://github.com/Ptero-ai/Ptero"
     }
   ]
 }
