@@ -833,6 +833,7 @@
     "https://josephg.com/blog/electron-is-flash-for-the-desktop/",
     "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
     "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+    "https://kaba.cx/posts/20261020_Tor/",
     "https://kde.org/announcements/plasma/6/6.8.0/",
     "https://keepthescore.co/blog/posts/costs-of-running-webapp/",
     "https://knownagents.com/insights",
@@ -1361,6 +1362,7 @@
     "https://news.ycombinator.com/item?id=50152307",
     "https://news.ycombinator.com/item?id=50154540",
     "https://news.ycombinator.com/item?id=50160494",
+    "https://news.ycombinator.com/item?id=50166257",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -1576,12 +1578,6 @@
   "recent": [
     {
       "date": "2026-10-20",
-      "subcat": "Java",
-      "title": "Thank You, Deno",
-      "url": "https://news.ycombinator.com/item?id=50112331"
-    },
-    {
-      "date": "2026-10-20",
       "subcat": "Models & Datasets",
       "title": "ornith-ai/Ornith-1.0-35B",
       "url": "https://huggingface.co/ornith-ai/Ornith-1.0-35B"
@@ -1633,6 +1629,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Lossless-memory  a personal AI memory that...",
       "url": "https://news.ycombinator.com/item?id=49786419"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Hacker News Picks",
+      "title": "How I got over 300 Tor exit nodes removed",
+      "url": "https://news.ycombinator.com/item?id=50166257"
     }
   ]
 }

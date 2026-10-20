@@ -1622,6 +1622,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50160494
 - **Link:** https://www.openbsd.org/80.html
 
+**Added 2026-10-21**
+
+### [How I got over 300 Tor exit nodes removed](https://kaba.cx/posts/20261020_Tor/)
+- **Source:** kaba.cx | **Posted:** 2026-10-20 | **By:** kabakabakaba
+- **Community:** 281 points, 69 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50166257
+- **Link:** https://kaba.cx/posts/20261020_Tor/
+
 
 ## DevOps & Cloud
 
