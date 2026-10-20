@@ -44,6 +44,7 @@
     "http://arxiv.org/abs/2610.13300v1",
     "http://arxiv.org/abs/2610.13407v1",
     "http://arxiv.org/abs/2610.15082v1",
+    "http://arxiv.org/abs/2610.15995v1",
     "http://arxiv.org/abs/2610.16594v1",
     "http://arxiv.org/abs/2610.17727v2",
     "http://arxiv.org/abs/2610.17747v1",
@@ -1548,12 +1549,6 @@
   "recent": [
     {
       "date": "2026-10-20",
-      "subcat": "Hacker News Picks",
-      "title": "MiniMax M3.1 Flash",
-      "url": "https://news.ycombinator.com/item?id=50154540"
-    },
-    {
-      "date": "2026-10-20",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Apogee: Rebuilding Mozilla's Orbit, fully loca",
       "url": "https://news.ycombinator.com/item?id=50017301"
@@ -1605,6 +1600,12 @@
       "subcat": "Swift",
       "title": "lingyired/status-trio",
       "url": "https://github.com/lingyired/status-trio"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "Research Papers",
+      "title": "AutoSec-RAN: Specification-Grounded LLM Fine-Tuning for",
+      "url": "http://arxiv.org/abs/2610.15995v1"
     }
   ]
 }
