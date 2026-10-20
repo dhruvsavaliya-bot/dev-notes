@@ -616,6 +616,7 @@
     "https://github.com/shellhub-io/shellhub",
     "https://github.com/shihabal3amri/DiPlay",
     "https://github.com/slvDev/esp32-ai",
+    "https://github.com/software-mansion-labs/goldie",
     "https://github.com/srizzon/git-city",
     "https://github.com/storytold/figcraft",
     "https://github.com/storytold/photocraft",
@@ -1541,12 +1542,6 @@
   "recent": [
     {
       "date": "2026-10-20",
-      "subcat": "Lobsters Picks",
-      "title": "Making all divisions slower to fix a bug in 0.000000000",
-      "url": "https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0"
-    },
-    {
-      "date": "2026-10-20",
       "subcat": "Productivity",
       "title": "Dependency Injection: How Some People Quietly Program T",
       "url": "https://dev.to/khalisollis/dependency-injection-how-some-people-quietly-program-themselves-into-your-identity-51j8"
@@ -1598,6 +1593,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Whiteboard (YC W26)  An open-source IDE for th",
       "url": "https://news.ycombinator.com/item?id=49833867"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "AI & Machine Learning",
+      "title": "software-mansion-labs/goldie",
+      "url": "https://github.com/software-mansion-labs/goldie"
     }
   ]
 }

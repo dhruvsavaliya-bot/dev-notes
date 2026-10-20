@@ -1064,6 +1064,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~156 stars/day since launch.
 - **Link:** https://github.com/LAMDA-NeSy/Research-Starter-Kit
 
+**Added 2026-10-20**
+
+### [software-mansion-labs/goldie](https://github.com/software-mansion-labs/goldie)
+- **Stats:** 2,514 stars | 227 forks | 4 open issues
+- **Language:** TypeScript | **Created:** 2026-08-24 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** ✨ agentic app store previews and screenshots
+- **Growth:** averaging ~44 stars/day since launch.
+- **Link:** https://github.com/software-mansion-labs/goldie
+
 
 ## Other Cool Projects
 
