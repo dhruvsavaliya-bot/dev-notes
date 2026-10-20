@@ -1586,6 +1586,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50154540
 - **Link:** https://www.minimax.io/blog/minimax-m31f
 
+**Added 2026-10-20**
+
+### [Weball: Play Katamari on Websites](https://www.funwithcomputervision.com/weball/)
+- **Source:** www.funwithcomputervision.com | **Posted:** 2026-10-18 | **By:** croes
+- **Community:** 100 points, 7 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50140584
+- **Link:** https://www.funwithcomputervision.com/weball/
+
 
 ## DevOps & Cloud
 

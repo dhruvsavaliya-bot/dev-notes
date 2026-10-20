@@ -1327,6 +1327,7 @@
     "https://news.ycombinator.com/item?id=50104726",
     "https://news.ycombinator.com/item?id=50120224",
     "https://news.ycombinator.com/item?id=50121562",
+    "https://news.ycombinator.com/item?id=50140584",
     "https://news.ycombinator.com/item?id=50154540",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
@@ -1473,6 +1474,7 @@
     "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
     "https://www.freebsd.org/status/report-2023-04-2023-06/",
     "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "https://www.funwithcomputervision.com/weball/",
     "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
     "https://www.gnu.org/philosophy/whats-wrong-with-github.html",
     "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
@@ -1537,12 +1539,6 @@
   "recent": [
     {
       "date": "2026-10-20",
-      "subcat": "Productivity",
-      "title": "Thank you DEV community: the Thinking Engineer Toolkit",
-      "url": "https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762"
-    },
-    {
-      "date": "2026-10-20",
       "subcat": "Models & Datasets",
       "title": "LocalLLaMA/typed-decisions",
       "url": "https://huggingface.co/datasets/LocalLLaMA/typed-decisions"
@@ -1594,6 +1590,12 @@
       "subcat": "AI & Machine Learning",
       "title": "LAMDA-NeSy/Research-Starter-Kit",
       "url": "https://github.com/LAMDA-NeSy/Research-Starter-Kit"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "Hacker News Picks",
+      "title": "Weball: Play Katamari on Websites",
+      "url": "https://news.ycombinator.com/item?id=50140584"
     }
   ]
 }
