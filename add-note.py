@@ -28,6 +28,7 @@ import random
 import re
 import subprocess
 import sys
+import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -523,17 +524,27 @@ def src_gh_lang_notes(relax):
     return [(r["html_url"], name, repo_block(r)) for r in gh_items(query)]
 
 
+# Searching "java" on Hacker News returns JavaScript stories, and Algolia has no
+# term exclusion to say otherwise -- so the headline screens its own false
+# positives. Five of the first twenty "Java" entries were JavaScript posts.
+LANG_REJECT = {"Java": re.compile(r"javascript|\.js\b", re.I)}
+
+
 def src_hn_lang(relax):
     """Hacker News stories about one language, filed under its headline."""
     name, (_, term) = random.choice(list(LANG_QUERIES.items()))
     pts = bar(80, relax)
-    return hn_search(
+    hits = hn_search(
         f"query={urllib.parse.quote(term)}&tags=story"
         f"&numericFilters=points>{pts},"
         f"created_at_i>{epoch_since(HN_STORY_DAYS, relax)}"
         f"&hitsPerPage=50",
         pts, name, deep=8,
     )
+    reject = LANG_REJECT.get(name)
+    if reject:
+        hits = [h for h in hits if not reject.search(h[2].split("](")[0])]
+    return hits
 
 
 ARXIV_CATS = ["cs.LG", "cs.CL", "cs.AI", "cs.SE", "cs.CR", "cs.DC", "cs.PL"]
@@ -545,7 +556,7 @@ def src_arxiv(relax):
     # arXiv has no quality bar to relax -- reach deeper into the backlog instead
     start = random.randint(0, 300 * (relax + 1))
     url = (
-        "http://export.arxiv.org/api/query?search_query=cat:" + cat
+        "https://export.arxiv.org/api/query?search_query=cat:" + cat
         + f"&sortBy=submittedDate&sortOrder=descending&start={start}&max_results=40"
     )
     root = ET.fromstring(http_get(url))
@@ -711,10 +722,15 @@ def insert_under_headline(path, title_block, subcat, entry):
     stamped = f"\n**Added {date.today().isoformat()}**\n\n{entry}\n"
     headline = f"## {subcat}"
 
-    if headline in text:
+    # Match the headline as a WHOLE LINE. A plain substring test puts every
+    # "## Java" entry at the end of the "## JavaScript" section and never
+    # creates a Java section at all -- which is exactly what it did, for twenty
+    # entries, before this was anchored. The same trap waits for any headline
+    # that is a prefix of another ("Backend" / "Backend & Infrastructure").
+    found = re.search(rf"^{re.escape(headline)}[ \t]*$", text, re.M)
+    if found:
         # insert at the end of this section (before next '## ' or EOF)
-        start = text.index(headline)
-        nxt = text.find("\n## ", start + len(headline))
+        nxt = text.find("\n## ", found.end())
         if nxt == -1:
             text = text.rstrip() + "\n" + stamped
         else:
@@ -920,15 +936,41 @@ def resolve_bookkeeping():
     return False
 
 
+# A pull that dies because the network blinked is neither a conflict nor a
+# reason to lose the run -- six runs in the log went to "Could not resolve
+# host" alone. Retry those; fail fast on everything else.
+NETWORK_HINTS = (
+    "could not resolve host", "failed to connect", "connection reset",
+    "connection timed out", "operation timed out", "temporary failure",
+    "network is unreachable", "unexpected disconnect", "early eof",
+    "the remote end hung up", "rpc failed",
+)
+
+
 def pull_rebase():
     """git pull --rebase, auto-resolving the bookkeeping-only conflicts.
 
     Returns (ok, detail). On a real conflict the rebase is aborted first, so
     the tree is always left clean either way.
     """
-    code, out = run_ok("git", "pull", "--rebase", "origin", "main")
-    if code == 0:
-        return True, out
+    for attempt in range(3):
+        code, out = run_ok("git", "pull", "--rebase", "origin", "main")
+        if code == 0:
+            return True, out
+        if not any(h in out.lower() for h in NETWORK_HINTS):
+            break
+        if attempt == 2:
+            return False, out
+        delay = 15 * (attempt + 1)
+        print(f"  (pull failed on a network error, attempt {attempt + 1}/3;"
+              f" retrying in {delay}s: {out.strip()[:120]})")
+        time.sleep(delay)
+
+    # Anything that is not a halted rebase -- a dirty tree, a bad token, a
+    # protected branch -- has no conflict to resolve, and trying would stage the
+    # whole tree and then blame the rebase for refusing to continue.
+    if not rebase_in_progress():
+        return False, out
     print("  (pull stopped on a conflict; trying to resolve bookkeeping files)")
     if resolve_bookkeeping():
         print("  (resolved; rebase completed)")
@@ -1153,9 +1195,23 @@ def allowance(done):
     return min(MAX_PER_RUN, max(0, min(earned, target) - done))
 
 
+TITLE_MAX = 55
+
+
 def entry_title(block, fallback):
+    """The entry title, trimmed to fit a one-line commit subject.
+
+    Cut at a word boundary: a hard slice ends subjects mid-word ("worth
+    keepin", "Every Time I Switched L"), which reads like a truncated log line
+    instead of a title.
+    """
     title = block.split("](")[0].replace("### [", "")
-    title = title.encode("ascii", "ignore").decode().strip()[:55].strip()
+    title = title.encode("ascii", "ignore").decode().strip()
+    if len(title) > TITLE_MAX:
+        cut = title[:TITLE_MAX].rstrip()
+        if " " in cut[TITLE_MAX // 2:]:
+            cut = cut[:cut.rindex(" ")]
+        title = cut.rstrip(" ,.;:-") + "..."
     return title or fallback
 
 
@@ -1193,8 +1249,23 @@ def backfill_links():
           f"(+{len(ids) - before} article urls); nothing committed")
 
 
+USAGE = "usage: add-note.py [--count N] [--dry-run] [--backfill-links]"
+FLAGS = {"--count", "--dry-run", "--backfill-links", "--help", "-h"}
+
+
 def main():
     argv = sys.argv[1:]
+    # A mistyped flag used to run for real: "--dryrun" is not "--dry-run", the
+    # membership tests simply did not see it, and a check became 8 commits.
+    unknown = [a for i, a in enumerate(argv)
+               if (a.startswith("-") and a not in FLAGS)
+               or (not a.startswith("-") and (i == 0 or argv[i - 1] != "--count"))]
+    if "--help" in argv or "-h" in argv:
+        print(USAGE)
+        return
+    if unknown:
+        fail("args", f"unknown argument(s): {' '.join(unknown)} -- {USAGE}")
+
     dry_run = "--dry-run" in argv
 
     if "--backfill-links" in argv:
