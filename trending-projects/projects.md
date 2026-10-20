@@ -2087,6 +2087,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~256 stars/day since launch.
 - **Link:** https://github.com/storytold/figcraft
 
+**Added 2026-10-21**
+
+### [UNDERdecoded/Gen2Recomped](https://github.com/UNDERdecoded/Gen2Recomped)
+- **Stats:** 401 stars | 28 forks | 33 open issues
+- **Language:** Lua | **Created:** 2026-08-08 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** Generation 2 Pokemon Recomp forked from Gen1Recomp and modified
+- **Growth:** averaging ~5 stars/day since launch.
+- **Link:** https://github.com/UNDERdecoded/Gen2Recomped
+
 
 ## Web & Frontend
 

@@ -448,6 +448,7 @@
     "https://github.com/TianyuCodings/NanoJev",
     "https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6",
     "https://github.com/ToolJet/ToolJet",
+    "https://github.com/UNDERdecoded/Gen2Recomped",
     "https://github.com/Vincentwei1021/video-shotcraft",
     "https://github.com/Waishnav/devspace",
     "https://github.com/WeblateOrg/weblate",
@@ -1578,12 +1579,6 @@
   "recent": [
     {
       "date": "2026-10-20",
-      "subcat": "Models & Datasets",
-      "title": "ornith-ai/Ornith-1.0-35B",
-      "url": "https://huggingface.co/ornith-ai/Ornith-1.0-35B"
-    },
-    {
-      "date": "2026-10-20",
       "subcat": "Lobsters Picks",
       "title": "The Netherlands is building its own Linux OS to break...",
       "url": "https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os"
@@ -1635,6 +1630,12 @@
       "subcat": "Hacker News Picks",
       "title": "How I got over 300 Tor exit nodes removed",
       "url": "https://news.ycombinator.com/item?id=50166257"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Other Cool Projects",
+      "title": "UNDERdecoded/Gen2Recomped",
+      "url": "https://github.com/UNDERdecoded/Gen2Recomped"
     }
   ]
 }
