@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1095 entries and counting** · Last updated: 2026-10-20
+**1096 entries and counting** · Last updated: 2026-10-20
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 242 |
-| [AI / LLM Notes](ai/notes.md) | 213 |
+| [AI / LLM Notes](ai/notes.md) | 214 |
 | [Reading List](articles/reading-list.md) | 223 |
 | [Coding Tips](coding-tips/tips.md) | 225 |
 | [Language Notes](languages/notes.md) | 192 |
 
 ## Latest additions
 
+- **2026-10-20** · *Research Papers* — [EpiLens: Lightweight RAG for Epidemiological Knowledge](http://arxiv.org/abs/2610.26730v1)
 - **2026-10-20** · *PHP* — [Returning from vacation? The government can search your](https://news.ycombinator.com/item?id=49920234)
 - **2026-10-20** · *AI & Machine Learning* — [software-mansion-labs/goldie](https://github.com/software-mansion-labs/goldie)
 - **2026-10-20** · *Show & Ask HN* — [Show HN: Whiteboard (YC W26)  An open-source IDE for th](https://news.ycombinator.com/item?id=49833867)
 - **2026-10-20** · *Hacker News Picks* — [Weball: Play Katamari on Websites](https://news.ycombinator.com/item?id=50140584)
-- **2026-10-20** · *AI & Machine Learning* — [LAMDA-NeSy/Research-Starter-Kit](https://github.com/LAMDA-NeSy/Research-Starter-Kit)
 
 ## How it works
 

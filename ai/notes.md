@@ -1982,3 +1982,13 @@ Lessons from building with LLMs.
 - **Abstract:** Agent skills turn natural-language instructions into actions, creating a security challenge: legitimate automation and malicious behaviour can look deceptively similar. A practical screen must catch nearly every attack while keeping the review load manageable. We present SkillScreen, a compact decision model trained to score skill maliciousness directly from SKILL$.$md in a single forward pass. On MaliciousSkillBench, SkillScreen flags 20-25% of benign skills at 99% recall on unseen attack famil...
 - **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.17727v2
+
+**Added 2026-10-20**
+
+### [EpiLens: Lightweight RAG for Epidemiological Knowledge Acquisition](http://arxiv.org/abs/2610.26730v1)
+- **Authors:** Vincenzo Perri, Ciro Cattuto, Daniela Paolotti
+- **Published:** 2026-10-19 | **Primary category:** cs.CL
+- **Categories:** cs.CL, cs.DL, physics.soc-ph
+- **Abstract:** To prepare for future outbreaks, researchers need to know what studies have been done and what data they use. Mapping a large literature by hand is slow, while large language models alone can misstate or conflate sources. We present EpiLens, a lightweight, open-source retrieval-augmented generation package that applies a fixed retrieval template and output schema to every paper in a corpus and links outputs to source passages. We build a corpus of 2,297 papers from the sources of a multi-pathoge...
+- **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.26730v1

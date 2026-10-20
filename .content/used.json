@@ -54,6 +54,7 @@
     "http://arxiv.org/abs/2610.21270v1",
     "http://arxiv.org/abs/2610.21597v1",
     "http://arxiv.org/abs/2610.21695v1",
+    "http://arxiv.org/abs/2610.26730v1",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
     "http://boglin.iwarp.com/",
     "http://bokeh.pydata.org/en/latest/",
@@ -1544,12 +1545,6 @@
   "recent": [
     {
       "date": "2026-10-20",
-      "subcat": "AI & Machine Learning",
-      "title": "noonghunna/club-3090",
-      "url": "https://github.com/noonghunna/club-3090"
-    },
-    {
-      "date": "2026-10-20",
       "subcat": "Lobsters Picks",
       "title": "Zeroization, part 1: Wiping can make things worse",
       "url": "https://lobste.rs/s/4hxxad/zeroization_part_1_wiping_can_make_things"
@@ -1601,6 +1596,12 @@
       "subcat": "PHP",
       "title": "Returning from vacation? The government can search your",
       "url": "https://news.ycombinator.com/item?id=49920234"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "Research Papers",
+      "title": "EpiLens: Lightweight RAG for Epidemiological Knowledge",
+      "url": "http://arxiv.org/abs/2610.26730v1"
     }
   ]
 }
