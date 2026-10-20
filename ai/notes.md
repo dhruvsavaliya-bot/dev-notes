@@ -2048,3 +2048,13 @@ Lessons from building with LLMs.
 - **Abstract:** LLM planning research has traditionally focused on discrete-state domains, where actions form a finite, enumerable set. Existing LLM planning frameworks largely assume actions are enumerable, modeling planning as a search process over candidate actions. However, in continuous-state domains, where actions form a continuum and cannot be enumerated, this assumption breaks down. We find a remedy in Newell and Simon's Means-Ends Analysis (MEA), a general problem-solving technique rooted in heuristics...
 - **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.24928v1
+
+**Added 2026-10-21**
+
+### [ACorD: Adaptive Correspondence Discovery for Medical Image Registration](http://arxiv.org/abs/2610.25638v1)
+- **Authors:** Arghavan Rezvani, Kun Han, Xiaohui Xie
+- **Published:** 2026-10-19 | **Primary category:** cs.AI
+- **Categories:** cs.CV, cs.AI
+- **Abstract:** Medical image registration is a fundamental task for aligning anatomical structures across images. Exhaustively searching for point-wise correspondences is prohibitively expensive in both computation and memory, particularly for high-resolution 3D medical images. Most recent learning-based methods directly predict correspondences in a coarse-to-fine manner, but often propagate intermediate estimates across scales without explicitly weighting correspondence evidence, which can allow coarse-scale ...
+- **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.25638v1
