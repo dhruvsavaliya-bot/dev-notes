@@ -2072,6 +2072,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/k5omum/brain_sandwich
 - **Link:** https://terriblesoftware.org/2026/10/02/the-brain-sandwich/
 
+**Added 2026-10-20**
+
+### [The Netherlands is building its own Linux OS to break free from Microsoft](https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html)
+- **Source:** www.techspot.com | **Posted:** 2026-10-19 | **By:** pocket_walrus
+- **Community:** 50 score, 8 comments on Lobsters
+- **Tags:** linux, windows
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os
+- **Link:** https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html
+
 
 ## Career & Craft
 

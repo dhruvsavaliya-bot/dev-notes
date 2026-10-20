@@ -909,6 +909,7 @@
     "https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution",
     "https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself",
     "https://lobste.rs/s/nbxnh7/inside_intel_8087_chip_floating_point",
+    "https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os",
     "https://lobste.rs/s/nxspz6/no_man_is_island",
     "https://lobste.rs/s/o0ixth/haxy_net_is_live_haxy_git_forge_devlog",
     "https://lobste.rs/s/o8xo9z/importance_communities_around_software",
@@ -1541,6 +1542,7 @@
     "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies",
     "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
     "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+    "https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html",
     "https://www.theatlantic.com/magazine/archive/2017/06/lolas-story/524490/?single_page=true",
     "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
     "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
@@ -1563,12 +1565,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-10-20",
-      "subcat": "Hacker News Picks",
-      "title": "OpenBSD 8.0",
-      "url": "https://news.ycombinator.com/item?id=50160494"
-    },
     {
       "date": "2026-10-20",
       "subcat": "PHP",
@@ -1622,6 +1618,12 @@
       "subcat": "Models & Datasets",
       "title": "ornith-ai/Ornith-1.0-35B",
       "url": "https://huggingface.co/ornith-ai/Ornith-1.0-35B"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "Lobsters Picks",
+      "title": "The Netherlands is building its own Linux OS to break...",
+      "url": "https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os"
     }
   ]
 }
