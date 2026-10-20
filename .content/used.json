@@ -497,6 +497,7 @@
     "https://github.com/crmne/fastpotify",
     "https://github.com/crmne/spotifast",
     "https://github.com/d11wtq/boris",
+    "https://github.com/darshi1337/apogee",
     "https://github.com/dataelement/dsh-desktop",
     "https://github.com/davidondrej/skills",
     "https://github.com/deeplethe/utopia",
@@ -1315,6 +1316,7 @@
     "https://news.ycombinator.com/item?id=50000676",
     "https://news.ycombinator.com/item?id=50006832",
     "https://news.ycombinator.com/item?id=50009295",
+    "https://news.ycombinator.com/item?id=50017301",
     "https://news.ycombinator.com/item?id=50039291",
     "https://news.ycombinator.com/item?id=50061659",
     "https://news.ycombinator.com/item?id=50063417",
@@ -1534,12 +1536,6 @@
   "recent": [
     {
       "date": "2026-10-20",
-      "subcat": "Models & Datasets",
-      "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB",
-      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB"
-    },
-    {
-      "date": "2026-10-20",
       "subcat": "Lobsters Picks",
       "title": "A New Way to Think About Borrow Checking (In Reverse)",
       "url": "https://lobste.rs/s/vwgrix/new_way_think_about_borrow_checking"
@@ -1591,6 +1587,12 @@
       "subcat": "Hacker News Picks",
       "title": "MiniMax M3.1 Flash",
       "url": "https://news.ycombinator.com/item?id=50154540"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Apogee: Rebuilding Mozilla's Orbit, fully loca",
+      "url": "https://news.ycombinator.com/item?id=50017301"
     }
   ]
 }

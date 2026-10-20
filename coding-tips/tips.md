@@ -1813,6 +1813,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49982498
 - **Link:** https://news.ycombinator.com/item?id=49982498
 
+**Added 2026-10-20**
+
+### [Show HN: Apogee: Rebuilding Mozilla's Orbit, fully local and private](https://github.com/darshi1337/apogee)
+- **Source:** github.com | **Posted:** 2026-10-09 | **By:** zxdc7896
+- **Community:** 66 points, 3 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50017301
+- **Link:** https://github.com/darshi1337/apogee
+
 
 ## Git & Workflow
 
