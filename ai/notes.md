@@ -477,6 +477,15 @@ Lessons from building with LLMs.
 - **Summary:** What are AI agents for scraping Agentic AI are autonomous systems based on large language models...
 - **Link:** https://dev.to/astro-official/scraping-predictions-for-2026-agentic-workflow-and-ai-350m
 
+**Added 2026-10-20**
+
+### [How I Stopped Rewriting My Code Every Time I Switched LLM Providers](https://dev.to/chief_yaml_officer/how-i-stopped-rewriting-my-code-every-time-i-switched-llm-providers-4gjh)
+- **Author:** Chief YAML Officer | **Published:** Feb 6 | **Read time:** 9 min
+- **Community:** 133 reactions, 4 comments -- a top post in #llm
+- **Tags:** python, llm, devops, openai
+- **Summary:** You know that feeling when you've just finished migrating your entire codebase from GPT-4 to Claude —...
+- **Link:** https://dev.to/chief_yaml_officer/how-i-stopped-rewriting-my-code-every-time-i-switched-llm-providers-4gjh
+
 
 ## Machine Learning
 

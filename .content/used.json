@@ -173,6 +173,7 @@
     "https://dev.to/aws-builders/ai-agent-governance-on-aws-block-agents-prove-eu-ai-act-compliance-1829",
     "https://dev.to/aws-builders/per-agent-cost-tracking-for-multi-agent-ai-on-aws-10eg",
     "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
+    "https://dev.to/chief_yaml_officer/how-i-stopped-rewriting-my-code-every-time-i-switched-llm-providers-4gjh",
     "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh",
     "https://dev.to/danielhe4rt/youre-not-an-impostor-you-just-started-from-a-different-line-2lph",
     "https://dev.to/dannwaneri/super-intelligent-yes-men-are-we-training-ai-to-ignore-the-truth-epp",
@@ -1560,12 +1561,6 @@
     {
       "date": "2026-10-20",
       "subcat": "Swift",
-      "title": "Show HN: I turned my iPhone and a $20 smart plug into a",
-      "url": "https://news.ycombinator.com/item?id=49978595"
-    },
-    {
-      "date": "2026-10-20",
-      "subcat": "Swift",
       "title": "lingyired/status-trio",
       "url": "https://github.com/lingyired/status-trio"
     },
@@ -1616,6 +1611,12 @@
       "subcat": "Research Papers",
       "title": "Means-Ends Analysis Helps LLMs Plan in Continuous-State",
       "url": "http://arxiv.org/abs/2610.24928v1"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "LLMs",
+      "title": "How I Stopped Rewriting My Code Every Time I Switched L",
+      "url": "https://dev.to/chief_yaml_officer/how-i-stopped-rewriting-my-code-every-time-i-switched-llm-providers-4gjh"
     }
   ]
 }
