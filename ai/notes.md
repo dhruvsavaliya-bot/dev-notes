@@ -2058,3 +2058,13 @@ Lessons from building with LLMs.
 - **Abstract:** Medical image registration is a fundamental task for aligning anatomical structures across images. Exhaustively searching for point-wise correspondences is prohibitively expensive in both computation and memory, particularly for high-resolution 3D medical images. Most recent learning-based methods directly predict correspondences in a coarse-to-fine manner, but often propagate intermediate estimates across scales without explicitly weighting correspondence evidence, which can allow coarse-scale ...
 - **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.25638v1
+
+**Added 2026-10-21**
+
+### [Design Docs Are All You Need: An AI-native Machine-Learning Performance Tool](http://arxiv.org/abs/2609.05364v1)
+- **Authors:** Samuel Kushnir, Kimia Noorbakhsh, Kavya Sreedhar, Liqun Cheng et al.
+- **Published:** 2026-09-04 | **Primary category:** cs.PL
+- **Categories:** cs.PL, cs.AI
+- **Abstract:** Machine-learning performance modeling is a uniquely hostile terrain for long-lived software: the assumptions baked into today's abstractions are invalidated by tomorrow's models and systems, forcing perpetual refactoring of performance-modeling frameworks. Meanwhile, AI coding agents have become fast and capable enough that regenerating an entire library is cheaper than paying down the tech debt of incrementally patching it. We describe SMART, a rigorous symbolic performance-modeling library for...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.05364v1

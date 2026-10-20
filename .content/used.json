@@ -8,6 +8,7 @@
   "ids": [
     "http://arxiv.org/abs/2607.24854v1",
     "http://arxiv.org/abs/2608.17032v1",
+    "http://arxiv.org/abs/2609.05364v1",
     "http://arxiv.org/abs/2609.07667v1",
     "http://arxiv.org/abs/2609.09270v1",
     "http://arxiv.org/abs/2609.16079v1",
@@ -1573,12 +1574,6 @@
   "recent": [
     {
       "date": "2026-10-20",
-      "subcat": "Lobsters Picks",
-      "title": "What are you doing this week?",
-      "url": "https://lobste.rs/s/vyfegx/what_are_you_doing_this_week"
-    },
-    {
-      "date": "2026-10-20",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: What do you run on a $5 VPS that's worth keepin",
       "url": "https://news.ycombinator.com/item?id=49985548"
@@ -1630,6 +1625,12 @@
       "subcat": "Web Development",
       "title": "JavaScript Frameworks - Heading into 2026",
       "url": "https://dev.to/playfulprogramming/javascript-frameworks-heading-into-2026-2hel"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Research Papers",
+      "title": "Design Docs Are All You Need: An AI-native...",
+      "url": "http://arxiv.org/abs/2609.05364v1"
     }
   ]
 }
