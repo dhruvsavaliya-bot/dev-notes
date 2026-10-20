@@ -91,6 +91,7 @@
     "https://arcprize.org/results/deepseek-v4-flash-0731",
     "https://aresluna.org/the-hardest-working-font-in-manhattan/",
     "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+    "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
     "https://arxiv.org/abs/2608.00146",
     "https://arxiv.org/abs/2608.13759",
     "https://arxiv.org/abs/2608.23691",
@@ -1304,6 +1305,7 @@
     "https://news.ycombinator.com/item?id=49912792",
     "https://news.ycombinator.com/item?id=49913571",
     "https://news.ycombinator.com/item?id=49917900",
+    "https://news.ycombinator.com/item?id=49920234",
     "https://news.ycombinator.com/item?id=49922568",
     "https://news.ycombinator.com/item?id=49922674",
     "https://news.ycombinator.com/item?id=49945933",
@@ -1542,12 +1544,6 @@
   "recent": [
     {
       "date": "2026-10-20",
-      "subcat": "Productivity",
-      "title": "Dependency Injection: How Some People Quietly Program T",
-      "url": "https://dev.to/khalisollis/dependency-injection-how-some-people-quietly-program-themselves-into-your-identity-51j8"
-    },
-    {
-      "date": "2026-10-20",
       "subcat": "AI & Machine Learning",
       "title": "noonghunna/club-3090",
       "url": "https://github.com/noonghunna/club-3090"
@@ -1599,6 +1595,12 @@
       "subcat": "AI & Machine Learning",
       "title": "software-mansion-labs/goldie",
       "url": "https://github.com/software-mansion-labs/goldie"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "PHP",
+      "title": "Returning from vacation? The government can search your",
+      "url": "https://news.ycombinator.com/item?id=49920234"
     }
   ]
 }

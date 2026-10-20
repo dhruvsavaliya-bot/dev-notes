@@ -1133,6 +1133,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~14 stars/day since launch.
 - **Link:** https://github.com/azerioid/azerioid-stack-manager
 
+**Added 2026-10-20**
+
+### [Returning from vacation? The government can search your phone without a warrant](https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/)
+- **Source:** arstechnica.com | **Posted:** 2026-10-01 | **By:** rbanffy
+- **Community:** 417 points, 380 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49920234
+- **Link:** https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/
+
 
 ## Ruby
 
