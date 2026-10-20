@@ -1389,6 +1389,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=49978595
 - **Link:** https://peterszentkiralyi.eu/darkplug/
 
+**Added 2026-10-20**
+
+### [lingyired/status-trio](https://github.com/lingyired/status-trio)
+- **Stats:** 741 stars | 46 forks | 11 open issues
+- **Language:** Swift | **Created:** 2026-09-12 | **License:** Apache-2.0
+- **Topics:** appkit, battery, dock, duobar, iphone-duo, macos
+- **What it is:** Status Trio — a native macOS app that combines Wi-Fi, battery, and volume into one compact, configurable status icon for the menu bar, the Dock, or both, inspired by the iPhone Duo combined status bar.
+- **Growth:** averaging ~19 stars/day since launch.
+- **Link:** https://github.com/lingyired/status-trio
+
 
 ## Rust
 
