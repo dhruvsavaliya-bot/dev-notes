@@ -1849,6 +1849,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49786419
 - **Link:** https://github.com/aru-labs/lossless-memory
 
+**Added 2026-10-21**
+
+### [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com)
+- **Source:** bastardica.mitpit.com | **Posted:** 2026-09-23 | **By:** MitPitt
+- **Community:** 862 points, 126 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49823738
+- **Link:** https://bastardica.mitpit.com
+
 
 ## Git & Workflow
 
