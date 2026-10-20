@@ -1595,6 +1595,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50140584
 - **Link:** https://www.funwithcomputervision.com/weball/
 
+**Added 2026-10-20**
+
+### [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
+- **Source:** marc.info | **Posted:** 2026-10-19 | **By:** iamnothere
+- **Community:** 548 points, 183 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50152307
+- **Link:** https://marc.info/?l=openbsd-ports&m=179236125692175
+
 
 ## DevOps & Cloud
 
