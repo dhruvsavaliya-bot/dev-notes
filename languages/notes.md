@@ -81,16 +81,6 @@ Snippets and gotchas across languages.
 
 **Added 2026-10-05**
 
-### [JDK 27 has been released](https://openjdk.org/projects/jdk/27/)
-- **Source:** openjdk.org | **Posted:** 2026-09-15 | **By:** rajtilakjee
-- **Community:** 38 score, 5 comments on Lobsters
-- **Tags:** java, release
-- **Summary:** No summary provided.
-- **Discussion:** https://lobste.rs/s/jlja1a/jdk_27_has_been_released
-- **Link:** https://openjdk.org/projects/jdk/27/
-
-**Added 2026-10-05**
-
 ### [foxhui/WebAI2API](https://github.com/foxhui/WebAI2API)
 - **Stats:** 1,380 stars | 358 forks | 41 open issues
 - **Language:** JavaScript | **Created:** 2025-11-23 | **License:** MIT
@@ -98,26 +88,6 @@ Snippets and gotchas across languages.
 - **What it is:** WebAI2API: 基于 Camoufox 的网页 AI 转 API 工具，支持 LMArena/Gemini等，多窗口并发与账号隔离。 | Web AI to OpenAI API via Camoufox. Supports LMArena/Gemini and more, multi-window concurrency & account isolation.
 - **Growth:** averaging ~4 stars/day since launch.
 - **Link:** https://github.com/foxhui/WebAI2API
-
-**Added 2026-10-06**
-
-### [Hacking in the 'nameOf'](https://committing-crimes.com/articles/2026-08-04-java-nameof)
-- **Source:** committing-crimes.com | **Posted:** 2026-08-12 | **By:** abnercoimbre
-- **Community:** 15 score, 2 comments on Lobsters
-- **Tags:** java, programming
-- **Summary:** No summary provided.
-- **Discussion:** https://lobste.rs/s/bcfzer/hacking_nameof
-- **Link:** https://committing-crimes.com/articles/2026-08-04-java-nameof
-
-**Added 2026-10-06**
-
-### [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui)
-- **Stats:** 6,794 stars | 668 forks | 528 open issues
-- **Language:** Java | **Created:** 2025-11-20 | **License:** MIT
-- **Topics:** none listed
-- **What it is:** Jetbrains Claude Code and Codex GUI Plugin
-- **Growth:** averaging ~21 stars/day since launch.
-- **Link:** https://github.com/zhukunpenglinyutong/jetbrains-cc-gui
 
 **Added 2026-10-06**
 
@@ -188,16 +158,6 @@ Snippets and gotchas across languages.
 
 **Added 2026-10-09**
 
-### [Turbo Haskell](https://comonad.com/reader/2026/turbo-haskell/)
-- **Source:** comonad.com | **Posted:** 2026-09-30 | **By:** carbolymer
-- **Community:** 33 score, 5 comments on Lobsters
-- **Tags:** haskell, java, programming, vibecoding
-- **Summary:** No summary provided.
-- **Discussion:** https://lobste.rs/s/j7kltq/turbo_haskell
-- **Link:** https://comonad.com/reader/2026/turbo-haskell/
-
-**Added 2026-10-09**
-
 ### [Actual Budget](https://actualbudget.org/)
 - **Source:** actualbudget.org | **Posted:** 2026-08-17 | **By:** pyfisch
 - **Community:** 17 score, 8 comments on Lobsters
@@ -246,15 +206,6 @@ Snippets and gotchas across languages.
 
 **Added 2026-10-12**
 
-### [Java’s new garbage collector promises low pause times on multi-terabyte heaps](https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/)
-- **Source:** www.opsian.com | **Posted:** 2018-08-30 | **By:** ScottWRobinson
-- **Community:** 372 points, 234 comments on Hacker News
-- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
-- **Discussion:** https://news.ycombinator.com/item?id=17875944
-- **Link:** https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/
-
-**Added 2026-10-12**
-
 ### [ARM chips have an instruction with JavaScript in the name](https://stackoverflow.com/questions/50966676/why-do-arm-chips-have-an-instruction-with-javascript-in-the-name-fjcvtzs)
 - **Source:** stackoverflow.com | **Posted:** 2020-10-17 | **By:** kdeldycke
 - **Community:** 406 points, 299 comments on Hacker News
@@ -280,15 +231,6 @@ Snippets and gotchas across languages.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=26344358
 - **Link:** https://help.duckduckgo.com/duckduckgo-help-pages/features/non-javascript/
-
-**Added 2026-10-14**
-
-### [Kotlin vs. Java](https://www.kotlinvsjava.com)
-- **Source:** www.kotlinvsjava.com | **Posted:** 2019-12-16 | **By:** driver733
-- **Community:** 305 points, 321 comments on Hacker News
-- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
-- **Discussion:** https://news.ycombinator.com/item?id=21807233
-- **Link:** https://www.kotlinvsjava.com
 
 **Added 2026-10-14**
 
@@ -329,56 +271,6 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~19 stars/day since launch.
 - **Link:** https://github.com/panxunying/ai-coding-welfare
 
-**Added 2026-10-16**
-
-### [The (Petty) Reason We Didn't End Up Using jj](https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle)
-- **Source:** blog.gradle.org | **Posted:** 2026-07-06 | **By:** eatonphil
-- **Community:** 39 score, 31 comments on Lobsters
-- **Tags:** java, windows
-- **Summary:** No summary provided.
-- **Discussion:** https://lobste.rs/s/27dxjg/petty_reason_we_didn_t_end_up_using_jj
-- **Link:** https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle
-
-**Added 2026-10-17**
-
-### [amak-tech/port-buddy](https://github.com/amak-tech/port-buddy)
-- **Stats:** 537 stars | 46 forks | 2 open issues
-- **Language:** Java | **Created:** 2025-11-07 | **License:** Apache-2.0
-- **Topics:** localhost-tunnel, ngrok-alternative, port-forwarding, port-forwarding-tcp, port-forwarding-udp, reverse-proxy
-- **What it is:** Expose local ports to the internet in seconds
-- **Growth:** averaging ~1 stars/day since launch.
-- **Link:** https://github.com/amak-tech/port-buddy
-
-**Added 2026-10-17**
-
-### [adityatandon15/Spring-Framework-Full-Course](https://github.com/adityatandon15/Spring-Framework-Full-Course)
-- **Stats:** 525 stars | 304 forks | 3 open issues
-- **Language:** Java | **Created:** 2026-06-15 | **License:** None
-- **Topics:** none listed
-- **What it is:** All Notes & Code of Spring Framework series at Coder Army
-- **Growth:** averaging ~4 stars/day since launch.
-- **Link:** https://github.com/adityatandon15/Spring-Framework-Full-Course
-
-**Added 2026-10-17**
-
-### [rustc_codegen_jvm: Rust compiler backend to emit JVM bytecode](https://github.com/IntegralPilot/rustc_codegen_jvm)
-- **Source:** github.com | **Posted:** 2026-06-02 | **By:** vi_mi
-- **Community:** 23 score, 0 comments on Lobsters
-- **Tags:** java, rust
-- **Summary:** No summary provided.
-- **Discussion:** https://lobste.rs/s/lcldxn/rustc_codegen_jvm_rust_compiler_backend
-- **Link:** https://github.com/IntegralPilot/rustc_codegen_jvm
-
-**Added 2026-10-18**
-
-### [voxivoid/recipe-lab-sony-pmca](https://github.com/voxivoid/recipe-lab-sony-pmca)
-- **Stats:** 1,016 stars | 58 forks | 9 open issues
-- **Language:** Java | **Created:** 2026-09-08 | **License:** GPL-3.0
-- **Topics:** none listed
-- **What it is:** No description provided.
-- **Growth:** averaging ~25 stars/day since launch.
-- **Link:** https://github.com/voxivoid/recipe-lab-sony-pmca
-
 **Added 2026-10-18**
 
 ### [JavaScript right on the hardware](http://technical.io/)
@@ -387,46 +279,6 @@ Snippets and gotchas across languages.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=6214553
 - **Link:** http://technical.io/
-
-**Added 2026-10-18**
-
-### [Java Is Underhyped](https://jackson.sh/posts/2021-04-java-underrated/)
-- **Source:** jackson.sh | **Posted:** 2021-04-16 | **By:** Jaxkr
-- **Community:** 362 points, 786 comments on Hacker News
-- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
-- **Discussion:** https://news.ycombinator.com/item?id=26827766
-- **Link:** https://jackson.sh/posts/2021-04-java-underrated/
-
-**Added 2026-10-18**
-
-### [OpenYSM/OpenYSM](https://github.com/OpenYSM/OpenYSM)
-- **Stats:** 439 stars | 77 forks | 31 open issues
-- **Language:** Java | **Created:** 2026-05-06 | **License:** MIT
-- **Topics:** none listed
-- **What it is:** Yes-Steve-Model idea ready.
-- **Growth:** averaging ~2 stars/day since launch.
-- **Link:** https://github.com/OpenYSM/OpenYSM
-
-**Added 2026-10-19**
-
-### [Swayingleaves/novanova-studio](https://github.com/Swayingleaves/novanova-studio)
-- **Stats:** 446 stars | 53 forks | 0 open issues
-- **Language:** Java | **Created:** 2026-07-22 | **License:** GPL-3.0
-- **Topics:** agent, agentscope-java, image-generation-ai, infinite-canvas, open-source, springboot
-- **What it is:** NovaNova Studio 是一个 Agent 驱动的 AI 创作工作台，集图片生成、视频生成、无限画布与多模型 API 、漫剧短剧生成于一体，为独立创作者和视觉团队打造更智能、更高效的创作体验。
-- **Growth:** averaging ~5 stars/day since launch.
-- **Link:** https://github.com/Swayingleaves/novanova-studio
-
-**Added 2026-10-20**
-
-### [JEP 544: Ahead-of-Time Code Compilation](https://openjdk.org/jeps/544)
-- **Source:** openjdk.org | **Posted:** 2026-09-10 | **By:** robinheghan
-- **Community:** 19 score, 8 comments on Lobsters
-- **Tags:** java
-- **Summary:** No summary provided.
-- **Discussion:** https://lobste.rs/s/whzj8z/jep_544_ahead_time_code_compilation
-- **Link:** https://openjdk.org/jeps/544
-
 
 ## TypeScript
 
@@ -597,7 +449,6 @@ Snippets and gotchas across languages.
 - **What it is:** Figma like visual editor built for Claude Code, Codex and OpenCode
 - **Growth:** averaging ~10 stars/day since launch.
 - **Link:** https://github.com/0xnyn/airship
-
 
 ## Python
 
@@ -822,7 +673,6 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~13 stars/day since launch.
 - **Link:** https://github.com/OpenMili/aimili-vpngate
 
-
 ## Go
 
 **Added 2026-09-28**
@@ -1019,7 +869,6 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~73 stars/day since launch.
 - **Link:** https://github.com/mizorewww/x_gift_bot
 
-
 ## PHP
 
 **Added 2026-10-04**
@@ -1162,7 +1011,6 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~23 stars/day since launch.
 - **Link:** https://github.com/Ptero-ai/Ptero
 
-
 ## Ruby
 
 **Added 2026-10-05**
@@ -1292,7 +1140,6 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/palkan/layered-rails-skills
 
-
 ## Swift
 
 **Added 2026-10-05**
@@ -1418,7 +1265,6 @@ Snippets and gotchas across languages.
 - **What it is:** Status Trio — a native macOS app that combines Wi-Fi, battery, and volume into one compact, configurable status icon for the menu bar, the Dock, or both, inspired by the iPhone Duo combined status bar.
 - **Growth:** averaging ~19 stars/day since launch.
 - **Link:** https://github.com/lingyired/status-trio
-
 
 ## Rust
 
@@ -1551,7 +1397,6 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~42 stars/day since launch.
 - **Link:** https://github.com/QuipNetwork/quip-solver
 
-
 ## Elixir
 
 **Added 2026-10-05**
@@ -1633,7 +1478,6 @@ Snippets and gotchas across languages.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/lfusbg/atom_exhaustion_is_not_footgun_it_s_one
 - **Link:** https://erlef.org/blog/security/atom-exhaustion
-
 
 ## C#
 
@@ -1726,7 +1570,6 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~29 stars/day since launch.
 - **Link:** https://github.com/huaotem-bot/gezi-quark-downloader
 
-
 ## C++
 
 **Added 2026-10-06**
@@ -1815,7 +1658,6 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~72 stars/day since launch.
 - **Link:** https://github.com/chasmlol/SkyCraft
 
-
 ## SQL & Databases
 
 **Added 2026-10-10**
@@ -1853,7 +1695,6 @@ Snippets and gotchas across languages.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=10225438
 - **Link:** https://github.com/CryptDB/cryptdb
-
 
 ## Kotlin
 
@@ -1925,3 +1766,152 @@ Snippets and gotchas across languages.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=50096110
 - **Link:** https://www.iwm.org.uk/history/iwm/cwr/telephone
+
+## Java
+
+**Added 2026-10-05**
+
+### [JDK 27 has been released](https://openjdk.org/projects/jdk/27/)
+- **Source:** openjdk.org | **Posted:** 2026-09-15 | **By:** rajtilakjee
+- **Community:** 38 score, 5 comments on Lobsters
+- **Tags:** java, release
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/jlja1a/jdk_27_has_been_released
+- **Link:** https://openjdk.org/projects/jdk/27/
+
+**Added 2026-10-06**
+
+### [Hacking in the 'nameOf'](https://committing-crimes.com/articles/2026-08-04-java-nameof)
+- **Source:** committing-crimes.com | **Posted:** 2026-08-12 | **By:** abnercoimbre
+- **Community:** 15 score, 2 comments on Lobsters
+- **Tags:** java, programming
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/bcfzer/hacking_nameof
+- **Link:** https://committing-crimes.com/articles/2026-08-04-java-nameof
+
+**Added 2026-10-06**
+
+### [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui)
+- **Stats:** 6,794 stars | 668 forks | 528 open issues
+- **Language:** Java | **Created:** 2025-11-20 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Jetbrains Claude Code and Codex GUI Plugin
+- **Growth:** averaging ~21 stars/day since launch.
+- **Link:** https://github.com/zhukunpenglinyutong/jetbrains-cc-gui
+
+**Added 2026-10-09**
+
+### [Turbo Haskell](https://comonad.com/reader/2026/turbo-haskell/)
+- **Source:** comonad.com | **Posted:** 2026-09-30 | **By:** carbolymer
+- **Community:** 33 score, 5 comments on Lobsters
+- **Tags:** haskell, java, programming, vibecoding
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/j7kltq/turbo_haskell
+- **Link:** https://comonad.com/reader/2026/turbo-haskell/
+
+**Added 2026-10-12**
+
+### [Java’s new garbage collector promises low pause times on multi-terabyte heaps](https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/)
+- **Source:** www.opsian.com | **Posted:** 2018-08-30 | **By:** ScottWRobinson
+- **Community:** 372 points, 234 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=17875944
+- **Link:** https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/
+
+**Added 2026-10-14**
+
+### [Kotlin vs. Java](https://www.kotlinvsjava.com)
+- **Source:** www.kotlinvsjava.com | **Posted:** 2019-12-16 | **By:** driver733
+- **Community:** 305 points, 321 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=21807233
+- **Link:** https://www.kotlinvsjava.com
+
+**Added 2026-10-16**
+
+### [The (Petty) Reason We Didn't End Up Using jj](https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle)
+- **Source:** blog.gradle.org | **Posted:** 2026-07-06 | **By:** eatonphil
+- **Community:** 39 score, 31 comments on Lobsters
+- **Tags:** java, windows
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/27dxjg/petty_reason_we_didn_t_end_up_using_jj
+- **Link:** https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle
+
+**Added 2026-10-17**
+
+### [amak-tech/port-buddy](https://github.com/amak-tech/port-buddy)
+- **Stats:** 537 stars | 46 forks | 2 open issues
+- **Language:** Java | **Created:** 2025-11-07 | **License:** Apache-2.0
+- **Topics:** localhost-tunnel, ngrok-alternative, port-forwarding, port-forwarding-tcp, port-forwarding-udp, reverse-proxy
+- **What it is:** Expose local ports to the internet in seconds
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/amak-tech/port-buddy
+
+**Added 2026-10-17**
+
+### [adityatandon15/Spring-Framework-Full-Course](https://github.com/adityatandon15/Spring-Framework-Full-Course)
+- **Stats:** 525 stars | 304 forks | 3 open issues
+- **Language:** Java | **Created:** 2026-06-15 | **License:** None
+- **Topics:** none listed
+- **What it is:** All Notes & Code of Spring Framework series at Coder Army
+- **Growth:** averaging ~4 stars/day since launch.
+- **Link:** https://github.com/adityatandon15/Spring-Framework-Full-Course
+
+**Added 2026-10-17**
+
+### [rustc_codegen_jvm: Rust compiler backend to emit JVM bytecode](https://github.com/IntegralPilot/rustc_codegen_jvm)
+- **Source:** github.com | **Posted:** 2026-06-02 | **By:** vi_mi
+- **Community:** 23 score, 0 comments on Lobsters
+- **Tags:** java, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/lcldxn/rustc_codegen_jvm_rust_compiler_backend
+- **Link:** https://github.com/IntegralPilot/rustc_codegen_jvm
+
+**Added 2026-10-18**
+
+### [voxivoid/recipe-lab-sony-pmca](https://github.com/voxivoid/recipe-lab-sony-pmca)
+- **Stats:** 1,016 stars | 58 forks | 9 open issues
+- **Language:** Java | **Created:** 2026-09-08 | **License:** GPL-3.0
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~25 stars/day since launch.
+- **Link:** https://github.com/voxivoid/recipe-lab-sony-pmca
+
+**Added 2026-10-18**
+
+### [Java Is Underhyped](https://jackson.sh/posts/2021-04-java-underrated/)
+- **Source:** jackson.sh | **Posted:** 2021-04-16 | **By:** Jaxkr
+- **Community:** 362 points, 786 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=26827766
+- **Link:** https://jackson.sh/posts/2021-04-java-underrated/
+
+**Added 2026-10-18**
+
+### [OpenYSM/OpenYSM](https://github.com/OpenYSM/OpenYSM)
+- **Stats:** 439 stars | 77 forks | 31 open issues
+- **Language:** Java | **Created:** 2026-05-06 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Yes-Steve-Model idea ready.
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/OpenYSM/OpenYSM
+
+**Added 2026-10-19**
+
+### [Swayingleaves/novanova-studio](https://github.com/Swayingleaves/novanova-studio)
+- **Stats:** 446 stars | 53 forks | 0 open issues
+- **Language:** Java | **Created:** 2026-07-22 | **License:** GPL-3.0
+- **Topics:** agent, agentscope-java, image-generation-ai, infinite-canvas, open-source, springboot
+- **What it is:** NovaNova Studio 是一个 Agent 驱动的 AI 创作工作台，集图片生成、视频生成、无限画布与多模型 API 、漫剧短剧生成于一体，为独立创作者和视觉团队打造更智能、更高效的创作体验。
+- **Growth:** averaging ~5 stars/day since launch.
+- **Link:** https://github.com/Swayingleaves/novanova-studio
+
+**Added 2026-10-20**
+
+### [JEP 544: Ahead-of-Time Code Compilation](https://openjdk.org/jeps/544)
+- **Source:** openjdk.org | **Posted:** 2026-09-10 | **By:** robinheghan
+- **Community:** 19 score, 8 comments on Lobsters
+- **Tags:** java
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/whzj8z/jep_544_ahead_time_code_compilation
+- **Link:** https://openjdk.org/jeps/544
