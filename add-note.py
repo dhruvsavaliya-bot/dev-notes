@@ -817,6 +817,17 @@ def notify(msg):
         pass
 
 
+def die(detail):
+    """A usage error: the user is right here, at a prompt, watching.
+
+    Not fail() -- that pops a desktop alert and sends the reader to the run
+    log, which is the right call for an unattended run that broke and the
+    wrong one for a typed flag whose error is already on screen.
+    """
+    print(detail)
+    sys.exit(2)
+
+
 def fail(context, detail):
     print(f"FAILED at {context}: {detail}")
     notify(f"dev-notes failed at {context}. Check .content/auto-log.txt")
@@ -1264,7 +1275,7 @@ def main():
         print(USAGE)
         return
     if unknown:
-        fail("args", f"unknown argument(s): {' '.join(unknown)} -- {USAGE}")
+        die(f"unknown argument(s): {' '.join(unknown)}\n{USAGE}")
 
     dry_run = "--dry-run" in argv
 
@@ -1277,7 +1288,7 @@ def main():
         try:
             forced = int(argv[argv.index("--count") + 1])
         except (IndexError, ValueError):
-            fail("args", "--count needs a number")
+            die(f"--count needs a number\n{USAGE}")
 
     # sync first so edits made elsewhere (other runner, GitHub web) never break the push.
     # A dry run must leave the repo exactly as it found it -- sync() stashes a dirty
