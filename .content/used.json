@@ -381,6 +381,7 @@
     "https://github.com/KKKKhazix/human-writing",
     "https://github.com/KittenML/KittenTTS",
     "https://github.com/Krishnagangwal/CS-Fundamentals",
+    "https://github.com/LAMDA-NeSy/Research-Starter-Kit",
     "https://github.com/LaoFeng-mouse/flyingmouse-format",
     "https://github.com/LegadoTeam/legado",
     "https://github.com/Leonxlnx/unlazy",
@@ -1536,12 +1537,6 @@
   "recent": [
     {
       "date": "2026-10-20",
-      "subcat": "Lobsters Picks",
-      "title": "A New Way to Think About Borrow Checking (In Reverse)",
-      "url": "https://lobste.rs/s/vwgrix/new_way_think_about_borrow_checking"
-    },
-    {
-      "date": "2026-10-20",
       "subcat": "Productivity",
       "title": "Thank you DEV community: the Thinking Engineer Toolkit",
       "url": "https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762"
@@ -1593,6 +1588,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Apogee: Rebuilding Mozilla's Orbit, fully loca",
       "url": "https://news.ycombinator.com/item?id=50017301"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "AI & Machine Learning",
+      "title": "LAMDA-NeSy/Research-Starter-Kit",
+      "url": "https://github.com/LAMDA-NeSy/Research-Starter-Kit"
     }
   ]
 }

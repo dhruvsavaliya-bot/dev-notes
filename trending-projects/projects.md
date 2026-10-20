@@ -1054,6 +1054,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~13 stars/day since launch.
 - **Link:** https://github.com/noonghunna/club-3090
 
+**Added 2026-10-20**
+
+### [LAMDA-NeSy/Research-Starter-Kit](https://github.com/LAMDA-NeSy/Research-Starter-Kit)
+- **Stats:** 8,128 stars | 304 forks | 2 open issues
+- **Language:** N/A | **Created:** 2026-08-29 | **License:** None
+- **Topics:** ai-research, awesome, awesome-list, phd, phd-research, research-assistant
+- **What it is:** 从0开始，掌握做科研、写论文的基本流程。
+- **Growth:** averaging ~156 stars/day since launch.
+- **Link:** https://github.com/LAMDA-NeSy/Research-Starter-Kit
+
 
 ## Other Cool Projects
 
