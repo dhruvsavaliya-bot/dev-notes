@@ -1343,6 +1343,7 @@
     "https://news.ycombinator.com/item?id=50089577",
     "https://news.ycombinator.com/item?id=50096110",
     "https://news.ycombinator.com/item?id=50104726",
+    "https://news.ycombinator.com/item?id=50112331",
     "https://news.ycombinator.com/item?id=50120224",
     "https://news.ycombinator.com/item?id=50121562",
     "https://news.ycombinator.com/item?id=50140584",
@@ -1549,6 +1550,7 @@
     "https://www.unison-lang.org/blog/unison-cloud-open-source/",
     "https://www.unitree.com/As2-W/",
     "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+    "https://www.vlt.io/blog/competition-keeps-javascript-moving",
     "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
     "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
@@ -1560,12 +1562,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-10-20",
-      "subcat": "Hacker News Picks",
-      "title": "Wine ported to OpenBSD",
-      "url": "https://news.ycombinator.com/item?id=50152307"
-    },
     {
       "date": "2026-10-20",
       "subcat": "AI & Machine Learning",
@@ -1619,6 +1615,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: What do you run on a $5 VPS that's worth keepin",
       "url": "https://news.ycombinator.com/item?id=49985548"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "Java",
+      "title": "Thank You, Deno",
+      "url": "https://news.ycombinator.com/item?id=50112331"
     }
   ]
 }

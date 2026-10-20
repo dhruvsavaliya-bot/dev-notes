@@ -1915,3 +1915,12 @@ Snippets and gotchas across languages.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/whzj8z/jep_544_ahead_time_code_compilation
 - **Link:** https://openjdk.org/jeps/544
+
+**Added 2026-10-20**
+
+### [Thank You, Deno](https://www.vlt.io/blog/competition-keeps-javascript-moving)
+- **Source:** www.vlt.io | **Posted:** 2026-10-16 | **By:** jcbhmr
+- **Community:** 131 points, 33 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50112331
+- **Link:** https://www.vlt.io/blog/competition-keeps-javascript-moving
