@@ -1324,6 +1324,7 @@
     "https://news.ycombinator.com/item?id=50104726",
     "https://news.ycombinator.com/item?id=50120224",
     "https://news.ycombinator.com/item?id=50121562",
+    "https://news.ycombinator.com/item?id=50154540",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -1478,6 +1479,7 @@
     "https://www.kotlinvsjava.com",
     "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
     "https://www.meta.com/vr-glasses/",
+    "https://www.minimax.io/blog/minimax-m31f",
     "https://www.mixedbread.com/blog/toast-1",
     "https://www.mixfont.com/experiments/decoy-font",
     "https://www.nasa.gov/press-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon",
@@ -1531,12 +1533,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-19",
-      "subcat": "Show & Ask HN",
-      "title": "Tell HN: GitHub refuses to remove cracked copies of my",
-      "url": "https://news.ycombinator.com/item?id=49982498"
-    },
-    {
       "date": "2026-10-20",
       "subcat": "Models & Datasets",
       "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB",
@@ -1589,6 +1585,12 @@
       "subcat": "Other Cool Projects",
       "title": "storytold/figcraft",
       "url": "https://github.com/storytold/figcraft"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "Hacker News Picks",
+      "title": "MiniMax M3.1 Flash",
+      "url": "https://news.ycombinator.com/item?id=50154540"
     }
   ]
 }

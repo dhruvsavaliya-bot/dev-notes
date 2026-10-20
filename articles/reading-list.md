@@ -1577,6 +1577,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=8624160
 - **Link:** https://www.eff.org/deeplinks/2014/11/certificate-authority-encrypt-entire-web
 
+**Added 2026-10-20**
+
+### [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
+- **Source:** www.minimax.io | **Posted:** 2026-10-19 | **By:** jtg
+- **Community:** 403 points, 173 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50154540
+- **Link:** https://www.minimax.io/blog/minimax-m31f
+
 
 ## DevOps & Cloud
 
