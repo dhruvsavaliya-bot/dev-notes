@@ -1380,6 +1380,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50063417
 - **Link:** https://phreak.ing/
 
+**Added 2026-10-20**
+
+### [Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer](https://peterszentkiralyi.eu/darkplug/)
+- **Source:** peterszentkiralyi.eu | **Posted:** 2026-10-06 | **By:** pentakkusu
+- **Community:** 87 points, 39 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49978595
+- **Link:** https://peterszentkiralyi.eu/darkplug/
+
 
 ## Rust
 

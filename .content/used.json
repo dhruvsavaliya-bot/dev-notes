@@ -1316,6 +1316,7 @@
     "https://news.ycombinator.com/item?id=49970667",
     "https://news.ycombinator.com/item?id=49971230",
     "https://news.ycombinator.com/item?id=49977588",
+    "https://news.ycombinator.com/item?id=49978595",
     "https://news.ycombinator.com/item?id=49982498",
     "https://news.ycombinator.com/item?id=49987765",
     "https://news.ycombinator.com/item?id=49998992",
@@ -1365,6 +1366,7 @@
     "https://orionbrowser.com/",
     "https://ornith.ai/ornith_1_5.html",
     "https://parallel-rust-cpp.github.io/introduction.html",
+    "https://peterszentkiralyi.eu/darkplug/",
     "https://phptherightway.com/",
     "https://phreak.ing/",
     "https://phunky.cafe/my-homelab-got-hacked/",
@@ -1545,12 +1547,6 @@
   "recent": [
     {
       "date": "2026-10-20",
-      "subcat": "Lobsters Picks",
-      "title": "Zeroization, part 1: Wiping can make things worse",
-      "url": "https://lobste.rs/s/4hxxad/zeroization_part_1_wiping_can_make_things"
-    },
-    {
-      "date": "2026-10-20",
       "subcat": "Other Cool Projects",
       "title": "storytold/figcraft",
       "url": "https://github.com/storytold/figcraft"
@@ -1602,6 +1598,12 @@
       "subcat": "Research Papers",
       "title": "EpiLens: Lightweight RAG for Epidemiological Knowledge",
       "url": "http://arxiv.org/abs/2610.26730v1"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "Swift",
+      "title": "Show HN: I turned my iPhone and a $20 smart plug into a",
+      "url": "https://news.ycombinator.com/item?id=49978595"
     }
   ]
 }
