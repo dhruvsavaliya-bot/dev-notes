@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1112 entries and counting** · Last updated: 2026-10-20
+**1113 entries and counting** · Last updated: 2026-10-20
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 243 |
+| [Trending Projects](trending-projects/projects.md) | 244 |
 | [AI / LLM Notes](ai/notes.md) | 219 |
 | [Reading List](articles/reading-list.md) | 226 |
 | [Coding Tips](coding-tips/tips.md) | 227 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-20** · *AI & Machine Learning* — [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance)
 - **2026-10-20** · *Lobsters Picks* — [The Netherlands is building its own Linux OS to break...](https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os)
 - **2026-10-20** · *Models & Datasets* — [ornith-ai/Ornith-1.0-35B](https://huggingface.co/ornith-ai/Ornith-1.0-35B)
 - **2026-10-20** · *Java* — [Thank You, Deno](https://news.ycombinator.com/item?id=50112331)
 - **2026-10-20** · *Show & Ask HN* — [Ask HN: What do you run on a $5 VPS that's worth keepin](https://news.ycombinator.com/item?id=49985548)
-- **2026-10-20** · *Lobsters Picks* — [What are you doing this week?](https://lobste.rs/s/vyfegx/what_are_you_doing_this_week)
 
 ## How it works
 

@@ -393,6 +393,7 @@
     "https://github.com/LiamGvchi/gc-minimal-zine-poster",
     "https://github.com/LightningRAG/LightningRAG",
     "https://github.com/LordixDemon/apple_watch_connector",
+    "https://github.com/LosaLosSantos/aurelio-finance",
     "https://github.com/Louis-CFM/coucou",
     "https://github.com/MDX-Tom/gpt-5.6-instruct",
     "https://github.com/MIgHTy-alIeN/MEV-Ethereum-Trading-Bot",
@@ -1567,12 +1568,6 @@
   "recent": [
     {
       "date": "2026-10-20",
-      "subcat": "PHP",
-      "title": "Ptero-ai/Ptero",
-      "url": "https://github.com/Ptero-ai/Ptero"
-    },
-    {
-      "date": "2026-10-20",
       "subcat": "Models & Datasets",
       "title": "CMRobot/MotionDecode",
       "url": "https://huggingface.co/datasets/CMRobot/MotionDecode"
@@ -1624,6 +1619,12 @@
       "subcat": "Lobsters Picks",
       "title": "The Netherlands is building its own Linux OS to break...",
       "url": "https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "AI & Machine Learning",
+      "title": "LosaLosSantos/aurelio-finance",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance"
     }
   ]
 }

@@ -1084,6 +1084,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~117 stars/day since launch.
 - **Link:** https://github.com/dzhng/jevgrep
 
+**Added 2026-10-20**
+
+### [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance)
+- **Stats:** 3,977 stars | 502 forks | 0 open issues
+- **Language:** Python | **Created:** 2026-10-06 | **License:** MIT
+- **Topics:** ai, dividends, etf, finance, financial-planning, fintech
+- **What it is:** Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.
+- **Growth:** averaging ~284 stars/day since launch.
+- **Link:** https://github.com/LosaLosSantos/aurelio-finance
+
 
 ## Other Cool Projects
 
