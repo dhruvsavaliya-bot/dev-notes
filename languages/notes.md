@@ -417,6 +417,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~5 stars/day since launch.
 - **Link:** https://github.com/Swayingleaves/novanova-studio
 
+**Added 2026-10-20**
+
+### [JEP 544: Ahead-of-Time Code Compilation](https://openjdk.org/jeps/544)
+- **Source:** openjdk.org | **Posted:** 2026-09-10 | **By:** robinheghan
+- **Community:** 19 score, 8 comments on Lobsters
+- **Tags:** java
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/whzj8z/jep_544_ahead_time_code_compilation
+- **Link:** https://openjdk.org/jeps/544
+
 
 ## TypeScript
 

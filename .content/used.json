@@ -936,6 +936,7 @@
     "https://lobste.rs/s/vwgrix/new_way_think_about_borrow_checking",
     "https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice",
     "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed",
+    "https://lobste.rs/s/whzj8z/jep_544_ahead_time_code_compilation",
     "https://lobste.rs/s/wn293o/interactive_refactoring_gopls",
     "https://lobste.rs/s/wq1csk/elixir_v1_20_released_now_gradually_typed",
     "https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites",
@@ -1367,6 +1368,7 @@
     "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
     "https://openchamber.dev/",
     "https://openfatigue.ai/",
+    "https://openjdk.org/jeps/544",
     "https://openjdk.org/projects/jdk/27/",
     "https://openjev.com/",
     "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
@@ -1556,12 +1558,6 @@
   "recent": [
     {
       "date": "2026-10-20",
-      "subcat": "PHP",
-      "title": "Returning from vacation? The government can search your",
-      "url": "https://news.ycombinator.com/item?id=49920234"
-    },
-    {
-      "date": "2026-10-20",
       "subcat": "Research Papers",
       "title": "EpiLens: Lightweight RAG for Epidemiological Knowledge",
       "url": "http://arxiv.org/abs/2610.26730v1"
@@ -1613,6 +1609,12 @@
       "subcat": "Models & Datasets",
       "title": "CMRobot/MotionDecode",
       "url": "https://huggingface.co/datasets/CMRobot/MotionDecode"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "Java",
+      "title": "JEP 544: Ahead-of-Time Code Compilation",
+      "url": "https://lobste.rs/s/whzj8z/jep_544_ahead_time_code_compilation"
     }
   ]
 }
