@@ -802,6 +802,7 @@
     "https://huggingface.co/openbmb/MiniCPM-V-2_6",
     "https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0",
     "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+    "https://huggingface.co/ornith-ai/Ornith-1.0-35B",
     "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit",
     "https://huggingface.co/prompthero/openjourney",
     "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0",
@@ -1564,12 +1565,6 @@
   "recent": [
     {
       "date": "2026-10-20",
-      "subcat": "AI & Machine Learning",
-      "title": "dzhng/jevgrep",
-      "url": "https://github.com/dzhng/jevgrep"
-    },
-    {
-      "date": "2026-10-20",
       "subcat": "Hacker News Picks",
       "title": "OpenBSD 8.0",
       "url": "https://news.ycombinator.com/item?id=50160494"
@@ -1621,6 +1616,12 @@
       "subcat": "Java",
       "title": "Thank You, Deno",
       "url": "https://news.ycombinator.com/item?id=50112331"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "Models & Datasets",
+      "title": "ornith-ai/Ornith-1.0-35B",
+      "url": "https://huggingface.co/ornith-ai/Ornith-1.0-35B"
     }
   ]
 }

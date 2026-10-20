@@ -1518,6 +1518,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/CMRobot/MotionDecode
 
+**Added 2026-10-20**
+
+### [ornith-ai/Ornith-1.0-35B](https://huggingface.co/ornith-ai/Ornith-1.0-35B)
+- **Stats:** 517 likes | 1,365,252 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-06-21
+- **Tags:** transformers, safetensors, qwen3_5_moe, image-text-to-text, text-generation, conversational
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/ornith-ai/Ornith-1.0-35B
+
 
 ## Research Papers
 
