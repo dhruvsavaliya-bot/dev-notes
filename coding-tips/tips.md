@@ -1831,6 +1831,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49833867
 - **Link:** https://github.com/devdotfast/whiteboard
 
+**Added 2026-10-20**
+
+### [Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?](https://news.ycombinator.com/item?id=49985548)
+- **Source:** news.ycombinator.com | **Posted:** 2026-10-06 | **By:** mariocesar
+- **Community:** 435 points, 675 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49985548
+- **Link:** https://news.ycombinator.com/item?id=49985548
+
 
 ## Git & Workflow
 

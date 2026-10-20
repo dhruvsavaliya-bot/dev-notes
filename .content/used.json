@@ -1328,6 +1328,7 @@
     "https://news.ycombinator.com/item?id=49977588",
     "https://news.ycombinator.com/item?id=49978595",
     "https://news.ycombinator.com/item?id=49982498",
+    "https://news.ycombinator.com/item?id=49985548",
     "https://news.ycombinator.com/item?id=49987765",
     "https://news.ycombinator.com/item?id=49998992",
     "https://news.ycombinator.com/item?id=50000488",
@@ -1561,12 +1562,6 @@
   "recent": [
     {
       "date": "2026-10-20",
-      "subcat": "Research Papers",
-      "title": "AutoSec-RAN: Specification-Grounded LLM Fine-Tuning for",
-      "url": "http://arxiv.org/abs/2610.15995v1"
-    },
-    {
-      "date": "2026-10-20",
       "subcat": "Hacker News Picks",
       "title": "Wine ported to OpenBSD",
       "url": "https://news.ycombinator.com/item?id=50152307"
@@ -1618,6 +1613,12 @@
       "subcat": "Lobsters Picks",
       "title": "What are you doing this week?",
       "url": "https://lobste.rs/s/vyfegx/what_are_you_doing_this_week"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: What do you run on a $5 VPS that's worth keepin",
+      "url": "https://news.ycombinator.com/item?id=49985548"
     }
   ]
 }
