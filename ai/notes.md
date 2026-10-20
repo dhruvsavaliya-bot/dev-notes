@@ -2011,3 +2011,13 @@ Lessons from building with LLMs.
 - **Abstract:** This paper presents AutoSec-RAN, a specification-grounded large language model (LLM) framework for automated security triage of Open Radio Access Network (O-RAN) testing. Unlike approaches relying on static rule sets or privileged access to raw packet captures, AutoSec-RAN fine-tunes Mistral-7B-Instruct through two Low-Rank Adaptation (LoRA) stages over a curated corpus of 69 O-RAN, 3GPP, and adjacent standards documents, then selectively augments inference with retrieval-augmented generation (R...
 - **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.15995v1
+
+**Added 2026-10-20**
+
+### [Means-Ends Analysis Helps LLMs Plan in Continuous-State Domains](http://arxiv.org/abs/2610.24928v1)
+- **Authors:** Jiayi Li, Carl Kingsford
+- **Published:** 2026-10-18 | **Primary category:** cs.LG
+- **Categories:** cs.AI, cs.LG
+- **Abstract:** LLM planning research has traditionally focused on discrete-state domains, where actions form a finite, enumerable set. Existing LLM planning frameworks largely assume actions are enumerable, modeling planning as a search process over candidate actions. However, in continuous-state domains, where actions form a continuum and cannot be enumerated, this assumption breaks down. We find a remedy in Newell and Simon's Means-Ends Analysis (MEA), a general problem-solving technique rooted in heuristics...
+- **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.24928v1
