@@ -1074,6 +1074,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~44 stars/day since launch.
 - **Link:** https://github.com/software-mansion-labs/goldie
 
+**Added 2026-10-20**
+
+### [dzhng/jevgrep](https://github.com/dzhng/jevgrep)
+- **Stats:** 2,825 stars | 214 forks | 7 open issues
+- **Language:** TypeScript | **Created:** 2026-09-26 | **License:** MIT
+- **Topics:** ai-sdk, claude-code, cli, code-search, codex, coding-agents
+- **What it is:** Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.
+- **Growth:** averaging ~117 stars/day since launch.
+- **Link:** https://github.com/dzhng/jevgrep
+
 
 ## Other Cool Projects
 

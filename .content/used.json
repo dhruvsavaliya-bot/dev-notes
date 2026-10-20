@@ -515,6 +515,7 @@
     "https://github.com/drumih/turbo-fieldfare",
     "https://github.com/dsh-market/dsh-market",
     "https://github.com/duty1g/x64dbg-mcp-server",
+    "https://github.com/dzhng/jevgrep",
     "https://github.com/elder-plinius/T3MP3ST",
     "https://github.com/elyosh/OpenTIE/",
     "https://github.com/eternity4719/HowToLiveBetter",
@@ -1551,12 +1552,6 @@
   "recent": [
     {
       "date": "2026-10-20",
-      "subcat": "AI & Machine Learning",
-      "title": "LAMDA-NeSy/Research-Starter-Kit",
-      "url": "https://github.com/LAMDA-NeSy/Research-Starter-Kit"
-    },
-    {
-      "date": "2026-10-20",
       "subcat": "Hacker News Picks",
       "title": "Weball: Play Katamari on Websites",
       "url": "https://news.ycombinator.com/item?id=50140584"
@@ -1608,6 +1603,12 @@
       "subcat": "Hacker News Picks",
       "title": "Wine ported to OpenBSD",
       "url": "https://news.ycombinator.com/item?id=50152307"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "AI & Machine Learning",
+      "title": "dzhng/jevgrep",
+      "url": "https://github.com/dzhng/jevgrep"
     }
   ]
 }
