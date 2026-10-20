@@ -9,6 +9,7 @@
     "http://arxiv.org/abs/2607.24854v1",
     "http://arxiv.org/abs/2608.17032v1",
     "http://arxiv.org/abs/2609.05364v1",
+    "http://arxiv.org/abs/2609.06743v1",
     "http://arxiv.org/abs/2609.07667v1",
     "http://arxiv.org/abs/2609.09270v1",
     "http://arxiv.org/abs/2609.16079v1",
@@ -1579,12 +1580,6 @@
   "recent": [
     {
       "date": "2026-10-20",
-      "subcat": "Lobsters Picks",
-      "title": "The Netherlands is building its own Linux OS to break...",
-      "url": "https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os"
-    },
-    {
-      "date": "2026-10-20",
       "subcat": "AI & Machine Learning",
       "title": "LosaLosSantos/aurelio-finance",
       "url": "https://github.com/LosaLosSantos/aurelio-finance"
@@ -1636,6 +1631,12 @@
       "subcat": "Other Cool Projects",
       "title": "UNDERdecoded/Gen2Recomped",
       "url": "https://github.com/UNDERdecoded/Gen2Recomped"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Research Papers",
+      "title": "Staged Hybrid Quantum-Classical Programming",
+      "url": "http://arxiv.org/abs/2609.06743v1"
     }
   ]
 }

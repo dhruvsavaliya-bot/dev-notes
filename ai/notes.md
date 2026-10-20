@@ -2068,3 +2068,13 @@ Lessons from building with LLMs.
 - **Abstract:** Machine-learning performance modeling is a uniquely hostile terrain for long-lived software: the assumptions baked into today's abstractions are invalidated by tomorrow's models and systems, forcing perpetual refactoring of performance-modeling frameworks. Meanwhile, AI coding agents have become fast and capable enough that regenerating an entire library is cheaper than paying down the tech debt of incrementally patching it. We describe SMART, a rigorous symbolic performance-modeling library for...
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.05364v1
+
+**Added 2026-10-21**
+
+### [Staged Hybrid Quantum-Classical Programming](http://arxiv.org/abs/2609.06743v1)
+- **Authors:** Chuta Sano, Peng Fu, Ryan Kavanagh, Jennifer Paykin et al.
+- **Published:** 2026-09-06 | **Primary category:** cs.PL
+- **Categories:** cs.PL, cs.LO
+- **Abstract:** Hybrid quantum-classical computing systems consist of a classical control system that sends quantum circuits and receives measurement results from a quantum co-processor. Such systems allow us to model algorithms that require the classical control system to generate quantum circuits on the fly, potentially based on prior measurement results. This is challenging, as the classical control system must generate quantum circuits that manipulate live quantum states. In this setting, the classical cont...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.06743v1

@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1121 entries and counting** · Last updated: 2026-10-21
+**1122 entries and counting** · Last updated: 2026-10-21
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 245 |
-| [AI / LLM Notes](ai/notes.md) | 222 |
+| [AI / LLM Notes](ai/notes.md) | 223 |
 | [Reading List](articles/reading-list.md) | 228 |
 | [Coding Tips](coding-tips/tips.md) | 228 |
 | [Language Notes](languages/notes.md) | 198 |
 
 ## Latest additions
 
+- **2026-10-21** · *Research Papers* — [Staged Hybrid Quantum-Classical Programming](http://arxiv.org/abs/2609.06743v1)
 - **2026-10-21** · *Other Cool Projects* — [UNDERdecoded/Gen2Recomped](https://github.com/UNDERdecoded/Gen2Recomped)
 - **2026-10-21** · *Hacker News Picks* — [How I got over 300 Tor exit nodes removed](https://news.ycombinator.com/item?id=50166257)
 - **2026-10-21** · *Show & Ask HN* — [Show HN: Lossless-memory  a personal AI memory that...](https://news.ycombinator.com/item?id=49786419)
 - **2026-10-21** · *Research Papers* — [Design Docs Are All You Need: An AI-native...](http://arxiv.org/abs/2609.05364v1)
-- **2026-10-21** · *Web Development* — [JavaScript Frameworks - Heading into 2026](https://dev.to/playfulprogramming/javascript-frameworks-heading-into-2026-2hel)
 
 ## How it works
 
