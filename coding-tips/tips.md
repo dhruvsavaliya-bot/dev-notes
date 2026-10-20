@@ -1822,6 +1822,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50017301
 - **Link:** https://github.com/darshi1337/apogee
 
+**Added 2026-10-20**
+
+### [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)
+- **Source:** github.com | **Posted:** 2026-09-24 | **By:** sidharthkmenon
+- **Community:** 424 points, 143 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49833867
+- **Link:** https://github.com/devdotfast/whiteboard
+
 
 ## Git & Workflow
 

@@ -505,6 +505,7 @@
     "https://github.com/deepseek-ai/DeepSpec",
     "https://github.com/deepseek-ai/deepseek-harness",
     "https://github.com/denoland/celld",
+    "https://github.com/devdotfast/whiteboard",
     "https://github.com/digimata/quill",
     "https://github.com/dmmulroy/anti-slop",
     "https://github.com/dqev/reicon",
@@ -1282,6 +1283,7 @@
     "https://news.ycombinator.com/item?id=49824268",
     "https://news.ycombinator.com/item?id=49824864",
     "https://news.ycombinator.com/item?id=49831968",
+    "https://news.ycombinator.com/item?id=49833867",
     "https://news.ycombinator.com/item?id=49844663",
     "https://news.ycombinator.com/item?id=49851032",
     "https://news.ycombinator.com/item?id=49853137",
@@ -1539,12 +1541,6 @@
   "recent": [
     {
       "date": "2026-10-20",
-      "subcat": "Models & Datasets",
-      "title": "LocalLLaMA/typed-decisions",
-      "url": "https://huggingface.co/datasets/LocalLLaMA/typed-decisions"
-    },
-    {
-      "date": "2026-10-20",
       "subcat": "Lobsters Picks",
       "title": "Making all divisions slower to fix a bug in 0.000000000",
       "url": "https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0"
@@ -1596,6 +1592,12 @@
       "subcat": "Hacker News Picks",
       "title": "Weball: Play Katamari on Websites",
       "url": "https://news.ycombinator.com/item?id=50140584"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Whiteboard (YC W26)  An open-source IDE for th",
+      "url": "https://news.ycombinator.com/item?id=49833867"
     }
   ]
 }

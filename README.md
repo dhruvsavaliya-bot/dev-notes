@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1092 entries and counting** · Last updated: 2026-10-20
+**1093 entries and counting** · Last updated: 2026-10-20
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 241 |
 | [AI / LLM Notes](ai/notes.md) | 213 |
 | [Reading List](articles/reading-list.md) | 223 |
-| [Coding Tips](coding-tips/tips.md) | 224 |
+| [Coding Tips](coding-tips/tips.md) | 225 |
 | [Language Notes](languages/notes.md) | 191 |
 
 ## Latest additions
 
+- **2026-10-20** · *Show & Ask HN* — [Show HN: Whiteboard (YC W26)  An open-source IDE for th](https://news.ycombinator.com/item?id=49833867)
 - **2026-10-20** · *Hacker News Picks* — [Weball: Play Katamari on Websites](https://news.ycombinator.com/item?id=50140584)
 - **2026-10-20** · *AI & Machine Learning* — [LAMDA-NeSy/Research-Starter-Kit](https://github.com/LAMDA-NeSy/Research-Starter-Kit)
 - **2026-10-20** · *Show & Ask HN* — [Show HN: Apogee: Rebuilding Mozilla's Orbit, fully loca](https://news.ycombinator.com/item?id=50017301)
 - **2026-10-20** · *Hacker News Picks* — [MiniMax M3.1 Flash](https://news.ycombinator.com/item?id=50154540)
-- **2026-10-20** · *Other Cool Projects* — [storytold/figcraft](https://github.com/storytold/figcraft)
 
 ## How it works
 
