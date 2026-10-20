@@ -1527,6 +1527,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/ornith-ai/Ornith-1.0-35B
 
+**Added 2026-10-20**
+
+### [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)
+- **Stats:** 1,803 likes | 1,328,986 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-09-06
+- **Tags:** transformers, safetensors, llama, text-generation, minicpm, minicpm5
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/openbmb/MiniCPM5-2B
+
 
 ## Research Papers
 

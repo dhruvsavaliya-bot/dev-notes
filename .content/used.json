@@ -802,6 +802,7 @@
     "https://huggingface.co/moonshotai/Kimi-K3",
     "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB",
     "https://huggingface.co/openbmb/MiniCPM-V-2_6",
+    "https://huggingface.co/openbmb/MiniCPM5-2B",
     "https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0",
     "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
     "https://huggingface.co/ornith-ai/Ornith-1.0-35B",
@@ -1570,12 +1571,6 @@
   "recent": [
     {
       "date": "2026-10-20",
-      "subcat": "Java",
-      "title": "JEP 544: Ahead-of-Time Code Compilation",
-      "url": "https://lobste.rs/s/whzj8z/jep_544_ahead_time_code_compilation"
-    },
-    {
-      "date": "2026-10-20",
       "subcat": "Research Papers",
       "title": "Means-Ends Analysis Helps LLMs Plan in Continuous-State",
       "url": "http://arxiv.org/abs/2610.24928v1"
@@ -1627,6 +1622,12 @@
       "subcat": "Rust",
       "title": "Bevy 0.20",
       "url": "https://lobste.rs/s/3gikyb/bevy_0_20"
+    },
+    {
+      "date": "2026-10-20",
+      "subcat": "Models & Datasets",
+      "title": "openbmb/MiniCPM5-2B",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-2B"
     }
   ]
 }
