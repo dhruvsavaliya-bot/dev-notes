@@ -480,6 +480,7 @@
     "https://github.com/apache/ossie",
     "https://github.com/ardatan/graphql-tools",
     "https://github.com/arjunskumar/Robotics_CPP_Notes",
+    "https://github.com/aru-labs/lossless-memory",
     "https://github.com/arvids-unavailable/openGym",
     "https://github.com/ashemag/human-atlas",
     "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
@@ -1292,6 +1293,7 @@
     "https://news.ycombinator.com/item?id=49777467",
     "https://news.ycombinator.com/item?id=49778022",
     "https://news.ycombinator.com/item?id=49783999",
+    "https://news.ycombinator.com/item?id=49786419",
     "https://news.ycombinator.com/item?id=49787759",
     "https://news.ycombinator.com/item?id=49791939",
     "https://news.ycombinator.com/item?id=49794330",
@@ -1574,12 +1576,6 @@
   "recent": [
     {
       "date": "2026-10-20",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: What do you run on a $5 VPS that's worth keepin",
-      "url": "https://news.ycombinator.com/item?id=49985548"
-    },
-    {
-      "date": "2026-10-20",
       "subcat": "Java",
       "title": "Thank You, Deno",
       "url": "https://news.ycombinator.com/item?id=50112331"
@@ -1631,6 +1627,12 @@
       "subcat": "Research Papers",
       "title": "Design Docs Are All You Need: An AI-native...",
       "url": "http://arxiv.org/abs/2609.05364v1"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Lossless-memory  a personal AI memory that...",
+      "url": "https://news.ycombinator.com/item?id=49786419"
     }
   ]
 }

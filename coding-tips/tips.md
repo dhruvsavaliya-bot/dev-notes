@@ -1840,6 +1840,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49985548
 - **Link:** https://news.ycombinator.com/item?id=49985548
 
+**Added 2026-10-21**
+
+### [Show HN: Lossless-memory – a personal AI memory that never summarizes](https://github.com/aru-labs/lossless-memory)
+- **Source:** github.com | **Posted:** 2026-09-21 | **By:** aru-labs
+- **Community:** 67 points, 34 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49786419
+- **Link:** https://github.com/aru-labs/lossless-memory
+
 
 ## Git & Workflow
 
