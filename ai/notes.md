@@ -1536,6 +1536,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/openbmb/MiniCPM5-2B
 
+**Added 2026-10-21**
+
+### [ZefanCai/Open-Jev](https://huggingface.co/datasets/ZefanCai/Open-Jev)
+- **Stats:** 110 likes | 7,795 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-09-20
+- **Tags:** open-jev, synthetic, typed-decisions, probability-estimation, control
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/ZefanCai/Open-Jev
+
 
 ## Research Papers
 
