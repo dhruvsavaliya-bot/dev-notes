@@ -2105,3 +2105,13 @@ Lessons from building with LLMs.
 - **Abstract:** Hybrid quantum-classical computing systems consist of a classical control system that sends quantum circuits and receives measurement results from a quantum co-processor. Such systems allow us to model algorithms that require the classical control system to generate quantum circuits on the fly, potentially based on prior measurement results. This is challenging, as the classical control system must generate quantum circuits that manipulate live quantum states. In this setting, the classical cont...
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.06743v1
+
+**Added 2026-10-21**
+
+### [Exploration via Activation-Space Steering for Reinforcement Learning with Verifiable Rewards](http://arxiv.org/abs/2610.27012v1)
+- **Authors:** Yunan Zeng, Jinhao Jing, Xi Cheng, Yuwang Wang
+- **Published:** 2026-10-19 | **Primary category:** cs.LG
+- **Categories:** cs.LG, cs.AI
+- **Abstract:** Reinforcement learning with verifiable rewards (RLVR) trains a language model by sampling responses, scoring them with an automatic verifier, and updating the policy from the resulting rewards. The policy therefore receives direct learning signals only from trajectories that appear in its rollouts. Yet repeated sampling from the same policy can concentrate on similar reasoning paths, leaving useful alternatives unexplored under a fixed rollout budget. We introduce Activation-Space Exploration (A...
+- **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.27012v1
