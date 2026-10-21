@@ -280,6 +280,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=6214553
 - **Link:** http://technical.io/
 
+**Added 2026-10-22**
+
+### [Yet another way to invoke functions in JavaScript without parentheses](https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/)
+- **Source:** blog.ikaes.de | **Posted:** 2026-10-13 | **By:** aragonite
+- **Community:** 270 points, 106 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50077225
+- **Link:** https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/
+
+
 ## TypeScript
 
 **Added 2026-08-07**

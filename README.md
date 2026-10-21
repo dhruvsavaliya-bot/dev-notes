@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1160 entries and counting** · Last updated: 2026-10-22
+**1161 entries and counting** · Last updated: 2026-10-22
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 233 |
 | [Reading List](articles/reading-list.md) | 235 |
 | [Coding Tips](coding-tips/tips.md) | 236 |
-| [Language Notes](languages/notes.md) | 207 |
+| [Language Notes](languages/notes.md) | 208 |
 
 ## Latest additions
 
+- **2026-10-22** · *JavaScript* — [Yet another way to invoke functions in JavaScript...](https://news.ycombinator.com/item?id=50077225)
 - **2026-10-22** · *Java* — [Why 0xCAFEBABE?](https://lobste.rs/s/2ym3yg/why_0xcafebabe)
 - **2026-10-21** · *Developer Tools* — [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build)
 - **2026-10-21** · *Show & Ask HN* — [Show HN: Making a flexible "neon" t-shirt with LED...](https://news.ycombinator.com/item?id=50008047)
 - **2026-10-21** · *Research Papers* — [Under the Skin: Backdoor Infection in Multimodal...](http://arxiv.org/abs/2610.24058v1)
-- **2026-10-21** · *Java* — [Launch HN: Agent37 (YC F26)  Low-cost agent sandboxes...](https://news.ycombinator.com/item?id=50059096)
 
 ## How it works
 
