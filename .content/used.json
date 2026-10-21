@@ -807,6 +807,7 @@
     "https://huggingface.co/datasets/tiiuae/falcon-refinedweb",
     "https://huggingface.co/datasets/ystemsrx/Erotic_Literature_Collection",
     "https://huggingface.co/datasets/zgcagi/ZGCM-1-Data",
+    "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
     "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
     "https://huggingface.co/google/siglip-base-patch16-224",
     "https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
@@ -1614,12 +1615,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Lobsters Picks",
-      "title": "Jepsen: Orkes Conductor 5.3.2",
-      "url": "https://lobste.rs/s/42zgmq/jepsen_orkes_conductor_5_3_2"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Research Papers",
       "title": "Exploration via Activation-Space Steering for...",
       "url": "http://arxiv.org/abs/2610.27012v1"
@@ -1671,6 +1666,12 @@
       "subcat": "Hacker News Picks",
       "title": "Muse exposes users' personal and business secrets...",
       "url": "https://news.ycombinator.com/item?id=50174687"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Models & Datasets",
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731"
     }
   ]
 }

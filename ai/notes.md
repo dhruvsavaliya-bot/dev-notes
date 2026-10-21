@@ -1581,6 +1581,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/MiniMaxAI/MiniMax-Music3
 
+**Added 2026-10-21**
+
+### [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)
+- **Stats:** 4,083 likes | 4,241,430 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-07-31
+- **Tags:** transformers, safetensors, deepseek_v4, text-generation, eval-results, endpoints_compatible
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731
+
 
 ## Research Papers
 
