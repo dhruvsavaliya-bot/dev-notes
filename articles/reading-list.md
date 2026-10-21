@@ -1649,6 +1649,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50175070
 - **Link:** https://www.joshwcomeau.com/css/interop-2027/
 
+**Added 2026-10-21**
+
+### [RJ Mitte has died](https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332)
+- **Source:** news.sky.com | **Posted:** 2026-10-12 | **By:** austinallegro
+- **Community:** 213 points, 74 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50063831
+- **Link:** https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332
+
 
 ## DevOps & Cloud
 

@@ -1007,6 +1007,7 @@
     "https://neil.fraser.name/news/2026/09/03/",
     "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
     "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
+    "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332",
     "https://news.ycombinator.com/item?id=10225438",
     "https://news.ycombinator.com/item?id=10477721",
     "https://news.ycombinator.com/item?id=11068902",
@@ -1376,6 +1377,7 @@
     "https://news.ycombinator.com/item?id=50039291",
     "https://news.ycombinator.com/item?id=50061659",
     "https://news.ycombinator.com/item?id=50063417",
+    "https://news.ycombinator.com/item?id=50063831",
     "https://news.ycombinator.com/item?id=50067325",
     "https://news.ycombinator.com/item?id=50069337",
     "https://news.ycombinator.com/item?id=50089577",
@@ -1609,12 +1611,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Rust",
-      "title": "2026 is an exciting year for the Rust compiler (and me)",
-      "url": "https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Show & Ask HN",
       "title": "OpenAI Codex agents go rogue and consumes USD 78,000...",
       "url": "https://news.ycombinator.com/item?id=49861047"
@@ -1666,6 +1662,12 @@
       "subcat": "Models & Datasets",
       "title": "MiniMaxAI/MiniMax-Music3",
       "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Hacker News Picks",
+      "title": "RJ Mitte has died",
+      "url": "https://news.ycombinator.com/item?id=50063831"
     }
   ]
 }
