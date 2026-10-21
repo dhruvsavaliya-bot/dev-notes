@@ -1352,6 +1352,7 @@
     "https://news.ycombinator.com/item?id=49982498",
     "https://news.ycombinator.com/item?id=49985548",
     "https://news.ycombinator.com/item?id=49987765",
+    "https://news.ycombinator.com/item?id=49995495",
     "https://news.ycombinator.com/item?id=49998992",
     "https://news.ycombinator.com/item?id=50000488",
     "https://news.ycombinator.com/item?id=50000676",
@@ -1514,6 +1515,7 @@
     "https://www.cringebot3000.com/",
     "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
     "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+    "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
     "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
     "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
     "https://www.docker.com/products/docker-sandboxes/",
@@ -1590,12 +1592,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Hacker News Picks",
-      "title": "How I got over 300 Tor exit nodes removed",
-      "url": "https://news.ycombinator.com/item?id=50166257"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Other Cool Projects",
       "title": "UNDERdecoded/Gen2Recomped",
       "url": "https://github.com/UNDERdecoded/Gen2Recomped"
@@ -1647,6 +1643,12 @@
       "subcat": "Models & Datasets",
       "title": "openbmb/UltraData-SFT-Agent-2609",
       "url": "https://huggingface.co/datasets/openbmb/UltraData-SFT-Agent-2609"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Hacker News Picks",
+      "title": "Man discovers his parents' coffee machine used 1TB of...",
+      "url": "https://news.ycombinator.com/item?id=49995495"
     }
   ]
 }

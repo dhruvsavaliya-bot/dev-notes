@@ -1631,6 +1631,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50166257
 - **Link:** https://kaba.cx/posts/20261020_Tor/
 
+**Added 2026-10-21**
+
+### [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/)
+- **Source:** www.dexerto.com | **Posted:** 2026-10-07 | **By:** ck2
+- **Community:** 962 points, 575 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49995495
+- **Link:** https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/
+
 
 ## DevOps & Cloud
 

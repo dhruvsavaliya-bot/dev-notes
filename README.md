@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1129 entries and counting** · Last updated: 2026-10-21
+**1130 entries and counting** · Last updated: 2026-10-21
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 246 |
 | [AI / LLM Notes](ai/notes.md) | 226 |
-| [Reading List](articles/reading-list.md) | 229 |
+| [Reading List](articles/reading-list.md) | 230 |
 | [Coding Tips](coding-tips/tips.md) | 230 |
 | [Language Notes](languages/notes.md) | 198 |
 
 ## Latest additions
 
+- **2026-10-21** · *Hacker News Picks* — [Man discovers his parents' coffee machine used 1TB of...](https://news.ycombinator.com/item?id=49995495)
 - **2026-10-21** · *Models & Datasets* — [openbmb/UltraData-SFT-Agent-2609](https://huggingface.co/datasets/openbmb/UltraData-SFT-Agent-2609)
 - **2026-10-21** · *Models & Datasets* — [ornith-ai/Ornith-1.5-35B-A3B-NVFP4](https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-NVFP4)
 - **2026-10-21** · *Other Cool Projects* — [illegalstudio/elephc](https://github.com/illegalstudio/elephc)
 - **2026-10-21** · *Show & Ask HN* — [Show HN: Use your OpenAI subscription to create...](https://news.ycombinator.com/item?id=50069337)
-- **2026-10-21** · *Lobsters Picks* — [Protecting Firefox users following the compromise of...](https://lobste.rs/s/gqyvn5/protecting_firefox_users_following)
 
 ## How it works
 
