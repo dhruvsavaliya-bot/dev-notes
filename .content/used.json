@@ -573,6 +573,7 @@
     "https://github.com/komi-store/komi-store",
     "https://github.com/kryvora-network/kryvora-node",
     "https://github.com/kvcache-ai/AgentENV",
+    "https://github.com/kvoltmer/Audionaut",
     "https://github.com/langchain-ai/openwiki",
     "https://github.com/laramint/laravel-brain",
     "https://github.com/liangxiegame/QFramework",
@@ -1341,6 +1342,7 @@
     "https://news.ycombinator.com/item?id=49920234",
     "https://news.ycombinator.com/item?id=49922568",
     "https://news.ycombinator.com/item?id=49922674",
+    "https://news.ycombinator.com/item?id=49931031",
     "https://news.ycombinator.com/item?id=49945933",
     "https://news.ycombinator.com/item?id=49946895",
     "https://news.ycombinator.com/item?id=49947631",
@@ -1592,12 +1594,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Other Cool Projects",
-      "title": "UNDERdecoded/Gen2Recomped",
-      "url": "https://github.com/UNDERdecoded/Gen2Recomped"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Research Papers",
       "title": "Staged Hybrid Quantum-Classical Programming",
       "url": "http://arxiv.org/abs/2609.06743v1"
@@ -1649,6 +1645,12 @@
       "subcat": "Hacker News Picks",
       "title": "Man discovers his parents' coffee machine used 1TB of...",
       "url": "https://news.ycombinator.com/item?id=49995495"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Audionaut  an open-source cross-platform...",
+      "url": "https://news.ycombinator.com/item?id=49931031"
     }
   ]
 }

@@ -1867,6 +1867,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50069337
 - **Link:** https://pdftomp3.com/connect-ai/
 
+**Added 2026-10-21**
+
+### [Show HN: Audionaut – an open-source cross-platform multitrack audio editor](https://github.com/kvoltmer/Audionaut)
+- **Source:** github.com | **Posted:** 2026-10-02 | **By:** vltmrkls
+- **Community:** 155 points, 47 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49931031
+- **Link:** https://github.com/kvoltmer/Audionaut
+
 
 ## Git & Workflow
 
