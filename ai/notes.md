@@ -2152,3 +2152,13 @@ Lessons from building with LLMs.
 - **Abstract:** Adaptive computation aims to improve language-model inference by tailoring execution to each input. For layer programs, oracle evaluations use known answers to estimate the potential gain from this flexibility, before a practical selector is available. However, a gain from selection does not by itself explain why the chosen programs help. This study examines this distinction using 32 layer-skipping and repetition programs on two models and 4,413 multiple-choice items. The analysis compares their...
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.10368v1
+
+**Added 2026-10-21**
+
+### [Recording-Aware Evaluation of Multimodal OT Intrusion Detection](http://arxiv.org/abs/2610.24128v1)
+- **Authors:** Mustafa Umut Ozbek, Khalil El-Khatib, Li Yang
+- **Published:** 2026-10-16 | **Primary category:** cs.CR
+- **Categories:** cs.CR, cs.LG
+- **Abstract:** Machine-learning-based intrusion detection systems (IDSs) for operational technology (OT) are commonly evaluated on benchmark datasets in which normal and attack data are collected in separate recordings. In such settings, high performance may reflect recording-associated differences as well as attack behavior. We introduce a recording-aware evaluation procedure that compares attack windows with background from the same recording, uses prior data for model fitting and calibration, tests temporal...
+- **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.24128v1

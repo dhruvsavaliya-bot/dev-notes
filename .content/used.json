@@ -58,6 +58,7 @@
     "http://arxiv.org/abs/2610.21270v1",
     "http://arxiv.org/abs/2610.21597v1",
     "http://arxiv.org/abs/2610.21695v1",
+    "http://arxiv.org/abs/2610.24128v1",
     "http://arxiv.org/abs/2610.24928v1",
     "http://arxiv.org/abs/2610.25638v1",
     "http://arxiv.org/abs/2610.26730v1",
@@ -1625,12 +1626,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Hacker News Picks",
-      "title": "RJ Mitte has died",
-      "url": "https://news.ycombinator.com/item?id=50063831"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
       "url": "https://news.ycombinator.com/item?id=49786609"
@@ -1682,6 +1677,12 @@
       "subcat": "Java",
       "title": "Japan moves to tighten rules for foreigners",
       "url": "https://news.ycombinator.com/item?id=49858810"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Research Papers",
+      "title": "Recording-Aware Evaluation of Multimodal OT Intrusion...",
+      "url": "http://arxiv.org/abs/2610.24128v1"
     }
   ]
 }
