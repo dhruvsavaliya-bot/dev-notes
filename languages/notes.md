@@ -1828,6 +1828,17 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50096110
 - **Link:** https://www.iwm.org.uk/history/iwm/cwr/telephone
 
+**Added 2026-10-21**
+
+### [wangzhishou/OneBox](https://github.com/wangzhishou/OneBox)
+- **Stats:** 834 stars | 141 forks | 8 open issues
+- **Language:** Kotlin | **Created:** 2026-08-08 | **License:** Apache-2.0
+- **Topics:** ai, ai-agent, ai-agents, ai-assistants, ai-tools, android
+- **What it is:** A free AI agent & toolbox for Android | 一站式安卓 AI 智能体 & 工具箱
+- **Growth:** averaging ~11 stars/day since launch.
+- **Link:** https://github.com/wangzhishou/OneBox
+
+
 ## Java
 
 **Added 2026-10-05**

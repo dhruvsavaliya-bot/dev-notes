@@ -672,6 +672,7 @@
     "https://github.com/voxivoid/recipe-lab-sony-pmca",
     "https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases",
     "https://github.com/wang2122/sprix-sage-router",
+    "https://github.com/wangzhishou/OneBox",
     "https://github.com/web-platform-tests/wpt",
     "https://github.com/wide-trace/open-higgsfield",
     "https://github.com/wie-project/kakehashi",
@@ -1622,12 +1623,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Swift",
-      "title": "Why I Built an SSH Config and Tunnel Manager for macOS",
-      "url": "https://dev.to/malusev998/why-i-built-an-ssh-config-and-tunnel-manager-for-macos-58n8"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Models & Datasets",
       "title": "MiniMaxAI/MiniMax-Music3",
       "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3"
@@ -1679,6 +1674,12 @@
       "subcat": "C++",
       "title": "C++26: The New Debugging Header",
       "url": "https://news.ycombinator.com/item?id=50122736"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Kotlin",
+      "title": "wangzhishou/OneBox",
+      "url": "https://github.com/wangzhishou/OneBox"
     }
   ]
 }
