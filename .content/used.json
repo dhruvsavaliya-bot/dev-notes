@@ -98,6 +98,7 @@
     "https://arcprize.org/results/deepseek-v4-flash-0731",
     "https://aresluna.org/the-hardest-working-font-in-manhattan/",
     "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+    "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
     "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
     "https://arxiv.org/abs/2608.00146",
     "https://arxiv.org/abs/2608.13759",
@@ -1392,6 +1393,7 @@
     "https://news.ycombinator.com/item?id=50154540",
     "https://news.ycombinator.com/item?id=50160494",
     "https://news.ycombinator.com/item?id=50166257",
+    "https://news.ycombinator.com/item?id=50174687",
     "https://news.ycombinator.com/item?id=50175070",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
@@ -1612,12 +1614,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Hacker News Picks",
-      "title": "The Future of CSS",
-      "url": "https://news.ycombinator.com/item?id=50175070"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Lobsters Picks",
       "title": "Jepsen: Orkes Conductor 5.3.2",
       "url": "https://lobste.rs/s/42zgmq/jepsen_orkes_conductor_5_3_2"
@@ -1669,6 +1665,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
       "url": "https://news.ycombinator.com/item?id=49786609"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Hacker News Picks",
+      "title": "Muse exposes users' personal and business secrets...",
+      "url": "https://news.ycombinator.com/item?id=50174687"
     }
   ]
 }

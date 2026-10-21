@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1144 entries and counting** · Last updated: 2026-10-21
+**1145 entries and counting** · Last updated: 2026-10-21
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 247 |
 | [AI / LLM Notes](ai/notes.md) | 229 |
-| [Reading List](articles/reading-list.md) | 233 |
+| [Reading List](articles/reading-list.md) | 234 |
 | [Coding Tips](coding-tips/tips.md) | 234 |
 | [Language Notes](languages/notes.md) | 201 |
 
 ## Latest additions
 
+- **2026-10-21** · *Hacker News Picks* — [Muse exposes users' personal and business secrets...](https://news.ycombinator.com/item?id=50174687)
 - **2026-10-21** · *Show & Ask HN* — [Ask HN: Is it impossible to disable Siri on macOS 27?](https://news.ycombinator.com/item?id=49786609)
 - **2026-10-21** · *Hacker News Picks* — [RJ Mitte has died](https://news.ycombinator.com/item?id=50063831)
 - **2026-10-21** · *Models & Datasets* — [MiniMaxAI/MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3)
 - **2026-10-21** · *Swift* — [Why I Built an SSH Config and Tunnel Manager for macOS](https://dev.to/malusev998/why-i-built-an-ssh-config-and-tunnel-manager-for-macos-58n8)
-- **2026-10-21** · *Go* — [Bifrost: The Fastest LLM Gateway for Production-Ready...](https://dev.to/hadil/bifrost-the-fastest-llm-gateway-for-production-ready-ai-systems-40x-faster-than-litellm-2i51)
 
 ## How it works
 

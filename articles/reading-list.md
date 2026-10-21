@@ -1658,6 +1658,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50063831
 - **Link:** https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332
 
+**Added 2026-10-21**
+
+### [Muse exposes users' personal and business secrets when they share conversations](https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/)
+- **Source:** arstechnica.com | **Posted:** 2026-10-21 | **By:** gumby
+- **Community:** 184 points, 86 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50174687
+- **Link:** https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/
+
 
 ## DevOps & Cloud
 
