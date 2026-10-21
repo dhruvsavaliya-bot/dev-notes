@@ -1409,6 +1409,7 @@
     "https://news.ycombinator.com/item?id=50121562",
     "https://news.ycombinator.com/item?id=50122736",
     "https://news.ycombinator.com/item?id=50140584",
+    "https://news.ycombinator.com/item?id=50151036",
     "https://news.ycombinator.com/item?id=50152307",
     "https://news.ycombinator.com/item?id=50154540",
     "https://news.ycombinator.com/item?id=50160494",
@@ -1641,12 +1642,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Ledge.sh  Runnable Markdown Notes",
-      "url": "https://news.ycombinator.com/item?id=49902382"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Other Cool Projects",
       "title": "jhaizhou-ops/d2r-mobile",
       "url": "https://github.com/jhaizhou-ops/d2r-mobile"
@@ -1698,6 +1693,12 @@
       "subcat": "Hacker News Picks",
       "title": "Patch the Planet: global response coordination as...",
       "url": "https://news.ycombinator.com/item?id=50181175"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: How to deal with shipping AI-written code you...",
+      "url": "https://news.ycombinator.com/item?id=50151036"
     }
   ]
 }

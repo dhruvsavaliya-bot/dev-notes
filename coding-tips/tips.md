@@ -1912,6 +1912,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50008047
 - **Link:** http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html
 
+**Added 2026-10-22**
+
+### [Ask HN: How to deal with shipping AI-written code you don't understand?](https://news.ycombinator.com/item?id=50151036)
+- **Source:** news.ycombinator.com | **Posted:** 2026-10-19 | **By:** rzk
+- **Community:** 602 points, 731 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50151036
+- **Link:** https://news.ycombinator.com/item?id=50151036
+
 
 ## Git & Workflow
 
