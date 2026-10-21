@@ -2127,6 +2127,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os
 - **Link:** https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html
 
+**Added 2026-10-21**
+
+### [Jepsen: Orkes Conductor 5.3.2](https://jepsen.io/analyses/orkes-conductor-5.3.2)
+- **Source:** jepsen.io | **Posted:** 2026-10-20 | **By:** aphyr
+- **Community:** 27 score, 1 comments on Lobsters
+- **Tags:** databases, distributed, testing
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/42zgmq/jepsen_orkes_conductor_5_3_2
+- **Link:** https://jepsen.io/analyses/orkes-conductor-5.3.2
+
 
 ## Career & Craft
 

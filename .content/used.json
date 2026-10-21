@@ -839,6 +839,7 @@
     "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
     "https://jelly-ui.com/",
     "https://jellyfin.org/posts/jellyfin-release-12.0/",
+    "https://jepsen.io/analyses/orkes-conductor-5.3.2",
     "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
     "https://josephg.com/blog/electron-is-flash-for-the-desktop/",
     "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
@@ -868,6 +869,7 @@
     "https://lobste.rs/s/2svplr/gleam_doesn_t_compile_erlang_source",
     "https://lobste.rs/s/2tspe2/beam_metrics_clickhouse",
     "https://lobste.rs/s/3gikyb/bevy_0_20",
+    "https://lobste.rs/s/42zgmq/jepsen_orkes_conductor_5_3_2",
     "https://lobste.rs/s/4dwrz0/tale_four_theorem_provers_reasonably",
     "https://lobste.rs/s/4hxxad/zeroization_part_1_wiping_can_make_things",
     "https://lobste.rs/s/4xgljh/how_do_i_write_elixir_tests",
@@ -1600,12 +1602,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Use your OpenAI subscription to create...",
-      "url": "https://news.ycombinator.com/item?id=50069337"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Other Cool Projects",
       "title": "illegalstudio/elephc",
       "url": "https://github.com/illegalstudio/elephc"
@@ -1657,6 +1653,12 @@
       "subcat": "Hacker News Picks",
       "title": "The Future of CSS",
       "url": "https://news.ycombinator.com/item?id=50175070"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Lobsters Picks",
+      "title": "Jepsen: Orkes Conductor 5.3.2",
+      "url": "https://lobste.rs/s/42zgmq/jepsen_orkes_conductor_5_3_2"
     }
   ]
 }
