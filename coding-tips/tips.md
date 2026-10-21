@@ -1858,6 +1858,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49823738
 - **Link:** https://bastardica.mitpit.com
 
+**Added 2026-10-21**
+
+### [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/)
+- **Source:** pdftomp3.com | **Posted:** 2026-10-13 | **By:** janpmz
+- **Community:** 174 points, 91 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50069337
+- **Link:** https://pdftomp3.com/connect-ai/
+
 
 ## Git & Workflow
 

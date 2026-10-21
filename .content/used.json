@@ -1359,6 +1359,7 @@
     "https://news.ycombinator.com/item?id=50061659",
     "https://news.ycombinator.com/item?id=50063417",
     "https://news.ycombinator.com/item?id=50067325",
+    "https://news.ycombinator.com/item?id=50069337",
     "https://news.ycombinator.com/item?id=50089577",
     "https://news.ycombinator.com/item?id=50096110",
     "https://news.ycombinator.com/item?id=50104726",
@@ -1401,6 +1402,7 @@
     "https://orionbrowser.com/",
     "https://ornith.ai/ornith_1_5.html",
     "https://parallel-rust-cpp.github.io/introduction.html",
+    "https://pdftomp3.com/connect-ai/",
     "https://peterszentkiralyi.eu/darkplug/",
     "https://phptherightway.com/",
     "https://phreak.ing/",
@@ -1585,12 +1587,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Research Papers",
-      "title": "ACorD: Adaptive Correspondence Discovery for Medical...",
-      "url": "http://arxiv.org/abs/2610.25638v1"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Web Development",
       "title": "JavaScript Frameworks - Heading into 2026",
       "url": "https://dev.to/playfulprogramming/javascript-frameworks-heading-into-2026-2hel"
@@ -1642,6 +1638,12 @@
       "subcat": "Lobsters Picks",
       "title": "Protecting Firefox users following the compromise of...",
       "url": "https://lobste.rs/s/gqyvn5/protecting_firefox_users_following"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Use your OpenAI subscription to create...",
+      "url": "https://news.ycombinator.com/item?id=50069337"
     }
   ]
 }

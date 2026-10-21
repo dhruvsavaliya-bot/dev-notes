@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1125 entries and counting** · Last updated: 2026-10-21
+**1126 entries and counting** · Last updated: 2026-10-21
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 245 |
 | [AI / LLM Notes](ai/notes.md) | 224 |
 | [Reading List](articles/reading-list.md) | 229 |
-| [Coding Tips](coding-tips/tips.md) | 229 |
+| [Coding Tips](coding-tips/tips.md) | 230 |
 | [Language Notes](languages/notes.md) | 198 |
 
 ## Latest additions
 
+- **2026-10-21** · *Show & Ask HN* — [Show HN: Use your OpenAI subscription to create...](https://news.ycombinator.com/item?id=50069337)
 - **2026-10-21** · *Lobsters Picks* — [Protecting Firefox users following the compromise of...](https://lobste.rs/s/gqyvn5/protecting_firefox_users_following)
 - **2026-10-21** · *Models & Datasets* — [ZefanCai/Open-Jev](https://huggingface.co/datasets/ZefanCai/Open-Jev)
 - **2026-10-21** · *Show & Ask HN* — [Show HN: Make cursed fonts like Times New Bastard](https://news.ycombinator.com/item?id=49823738)
 - **2026-10-21** · *Research Papers* — [Staged Hybrid Quantum-Classical Programming](http://arxiv.org/abs/2609.06743v1)
-- **2026-10-21** · *Other Cool Projects* — [UNDERdecoded/Gen2Recomped](https://github.com/UNDERdecoded/Gen2Recomped)
 
 ## How it works
 
