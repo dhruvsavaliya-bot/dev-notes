@@ -2117,6 +2117,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~3 stars/day since launch.
 - **Link:** https://github.com/illegalstudio/elephc
 
+**Added 2026-10-21**
+
+### [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile)
+- **Stats:** 4,301 stars | 1,179 forks | 43 open issues
+- **Language:** C | **Created:** 2026-10-12 | **License:** MIT
+- **Topics:** compatibility-layer, diablo-2-resurrected, diablo2, game-port, ios, ipad
+- **What it is:** Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层
+- **Growth:** averaging ~477 stars/day since launch.
+- **Link:** https://github.com/jhaizhou-ops/d2r-mobile
+
 
 ## Web & Frontend
 

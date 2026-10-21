@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1154 entries and counting** · Last updated: 2026-10-21
+**1155 entries and counting** · Last updated: 2026-10-21
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 247 |
+| [Trending Projects](trending-projects/projects.md) | 248 |
 | [AI / LLM Notes](ai/notes.md) | 232 |
 | [Reading List](articles/reading-list.md) | 235 |
 | [Coding Tips](coding-tips/tips.md) | 235 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-21** · *Other Cool Projects* — [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile)
 - **2026-10-21** · *Show & Ask HN* — [Show HN: Ledge.sh  Runnable Markdown Notes](https://news.ycombinator.com/item?id=49902382)
 - **2026-10-21** · *Research Papers* — [Recording-Aware Evaluation of Multimodal OT Intrusion...](http://arxiv.org/abs/2610.24128v1)
 - **2026-10-21** · *Java* — [Japan moves to tighten rules for foreigners](https://news.ycombinator.com/item?id=49858810)
 - **2026-10-21** · *Kotlin* — [wangzhishou/OneBox](https://github.com/wangzhishou/OneBox)
-- **2026-10-21** · *C++* — [C++26: The New Debugging Header](https://news.ycombinator.com/item?id=50122736)
 
 ## How it works
 

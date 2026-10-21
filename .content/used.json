@@ -571,6 +571,7 @@
     "https://github.com/jbranchaud/til",
     "https://github.com/jeffhajewski/latticedb",
     "https://github.com/jev-chat/jev-chat-jarvis",
+    "https://github.com/jhaizhou-ops/d2r-mobile",
     "https://github.com/jonwiggins/optio",
     "https://github.com/jpochyla/psst",
     "https://github.com/jub0t/Concat",
@@ -1628,12 +1629,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Hacker News Picks",
-      "title": "Muse exposes users' personal and business secrets...",
-      "url": "https://news.ycombinator.com/item?id=50174687"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Models & Datasets",
       "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731"
@@ -1685,6 +1680,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Ledge.sh  Runnable Markdown Notes",
       "url": "https://news.ycombinator.com/item?id=49902382"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Other Cool Projects",
+      "title": "jhaizhou-ops/d2r-mobile",
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile"
     }
   ]
 }
