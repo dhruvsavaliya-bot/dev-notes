@@ -1885,6 +1885,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49861047
 - **Link:** https://news.ycombinator.com/item?id=49861047
 
+**Added 2026-10-21**
+
+### [Ask HN: Is it impossible to disable Siri on macOS 27?](https://news.ycombinator.com/item?id=49786609)
+- **Source:** news.ycombinator.com | **Posted:** 2026-09-21 | **By:** semidror
+- **Community:** 154 points, 88 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49786609
+- **Link:** https://news.ycombinator.com/item?id=49786609
+
 
 ## Git & Workflow
 
