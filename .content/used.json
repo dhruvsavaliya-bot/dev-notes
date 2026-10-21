@@ -550,6 +550,7 @@
     "https://github.com/huaotem-bot/gezi-quark-downloader",
     "https://github.com/hugohe3/ppt-master",
     "https://github.com/igorkulman/SwiftPascalInterpreter",
+    "https://github.com/illegalstudio/elephc",
     "https://github.com/img2threejs/img2threejs",
     "https://github.com/imsai-sh/zhuzhiliao",
     "https://github.com/isjiamu/gzh-design-skill",
@@ -1587,12 +1588,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Web Development",
-      "title": "JavaScript Frameworks - Heading into 2026",
-      "url": "https://dev.to/playfulprogramming/javascript-frameworks-heading-into-2026-2hel"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Research Papers",
       "title": "Design Docs Are All You Need: An AI-native...",
       "url": "http://arxiv.org/abs/2609.05364v1"
@@ -1644,6 +1639,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Use your OpenAI subscription to create...",
       "url": "https://news.ycombinator.com/item?id=50069337"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Other Cool Projects",
+      "title": "illegalstudio/elephc",
+      "url": "https://github.com/illegalstudio/elephc"
     }
   ]
 }

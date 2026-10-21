@@ -2097,6 +2097,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~5 stars/day since launch.
 - **Link:** https://github.com/UNDERdecoded/Gen2Recomped
 
+**Added 2026-10-21**
+
+### [illegalstudio/elephc](https://github.com/illegalstudio/elephc)
+- **Stats:** 663 stars | 33 forks | 560 open issues
+- **Language:** Rust | **Created:** 2026-03-21 | **License:** MIT
+- **Topics:** assembly, compiler, elephc, linux, macos, php
+- **What it is:** A PHP-to-native compiler. Takes a subset of PHP - including eval() - and compiles it directly to native assembly, producing standalone binaries for macOS ARM64, Linux ARM64, and Linux x86_64. No VM, no external runtime, no dependencies: dynamic eval falls back to an optional statically linked interpreter.
+- **Growth:** averaging ~3 stars/day since launch.
+- **Link:** https://github.com/illegalstudio/elephc
+
 
 ## Web & Frontend
 
