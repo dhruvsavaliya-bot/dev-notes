@@ -1640,6 +1640,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49995495
 - **Link:** https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/
 
+**Added 2026-10-21**
+
+### [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
+- **Source:** www.joshwcomeau.com | **Posted:** 2026-10-21 | **By:** soheilpro
+- **Community:** 150 points, 49 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50175070
+- **Link:** https://www.joshwcomeau.com/css/interop-2027/
+
 
 ## DevOps & Cloud
 

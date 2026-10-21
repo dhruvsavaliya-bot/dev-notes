@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1134 entries and counting** · Last updated: 2026-10-21
+**1135 entries and counting** · Last updated: 2026-10-21
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 247 |
 | [AI / LLM Notes](ai/notes.md) | 226 |
-| [Reading List](articles/reading-list.md) | 230 |
+| [Reading List](articles/reading-list.md) | 231 |
 | [Coding Tips](coding-tips/tips.md) | 232 |
 | [Language Notes](languages/notes.md) | 199 |
 
 ## Latest additions
 
+- **2026-10-21** · *Hacker News Picks* — [The Future of CSS](https://news.ycombinator.com/item?id=50175070)
 - **2026-10-21** · *Show & Ask HN* — [OpenAI Codex agents go rogue and consumes USD 78,000...](https://news.ycombinator.com/item?id=49861047)
 - **2026-10-21** · *Rust* — [2026 is an exciting year for the Rust compiler (and me)](https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me)
 - **2026-10-21** · *AI & Machine Learning* — [Kuddev/pebrel](https://github.com/Kuddev/pebrel)
 - **2026-10-21** · *Show & Ask HN* — [Show HN: Audionaut  an open-source cross-platform...](https://news.ycombinator.com/item?id=49931031)
-- **2026-10-21** · *Hacker News Picks* — [Man discovers his parents' coffee machine used 1TB of...](https://news.ycombinator.com/item?id=49995495)
 
 ## How it works
 

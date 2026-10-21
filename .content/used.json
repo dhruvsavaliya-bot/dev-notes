@@ -1380,6 +1380,7 @@
     "https://news.ycombinator.com/item?id=50154540",
     "https://news.ycombinator.com/item?id=50160494",
     "https://news.ycombinator.com/item?id=50166257",
+    "https://news.ycombinator.com/item?id=50175070",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -1536,6 +1537,7 @@
     "https://www.iroh.computer/blog/the-road-to-iroh-1-0",
     "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
     "https://www.iwm.org.uk/history/iwm/cwr/telephone",
+    "https://www.joshwcomeau.com/css/interop-2027/",
     "https://www.kotlinvsjava.com",
     "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
     "https://www.meta.com/vr-glasses/",
@@ -1598,12 +1600,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Lobsters Picks",
-      "title": "Protecting Firefox users following the compromise of...",
-      "url": "https://lobste.rs/s/gqyvn5/protecting_firefox_users_following"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Use your OpenAI subscription to create...",
       "url": "https://news.ycombinator.com/item?id=50069337"
@@ -1655,6 +1651,12 @@
       "subcat": "Show & Ask HN",
       "title": "OpenAI Codex agents go rogue and consumes USD 78,000...",
       "url": "https://news.ycombinator.com/item?id=49861047"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Hacker News Picks",
+      "title": "The Future of CSS",
+      "url": "https://news.ycombinator.com/item?id=50175070"
     }
   ]
 }
