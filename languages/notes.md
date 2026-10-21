@@ -2034,3 +2034,12 @@ Snippets and gotchas across languages.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/2ym3yg/why_0xcafebabe
 - **Link:** https://www.artima.com/insidejvm/whyCAFEBABE.html
+
+**Added 2026-10-22**
+
+### [Nobel Peace Prize for 2026 to Navanethem Pillay](https://www.nobelprize.org/prizes/peace/2026/press-release/)
+- **Source:** www.nobelprize.org | **Posted:** 2026-10-09 | **By:** Anon84
+- **Community:** 493 points, 254 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50018420
+- **Link:** https://www.nobelprize.org/prizes/peace/2026/press-release/

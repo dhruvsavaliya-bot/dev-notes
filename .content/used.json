@@ -1393,6 +1393,7 @@
     "https://news.ycombinator.com/item?id=50008047",
     "https://news.ycombinator.com/item?id=50009295",
     "https://news.ycombinator.com/item?id=50017301",
+    "https://news.ycombinator.com/item?id=50018420",
     "https://news.ycombinator.com/item?id=50039291",
     "https://news.ycombinator.com/item?id=50059096",
     "https://news.ycombinator.com/item?id=50061659",
@@ -1589,6 +1590,7 @@
     "https://www.nature.com/articles/d41586-023-02585-7",
     "https://www.nebulasans.com",
     "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
+    "https://www.nobelprize.org/prizes/peace/2026/press-release/",
     "https://www.ntik.me/posts/voice-agent",
     "https://www.nytimes.com/2019/02/20/us/politics/civil-asset-forfeiture-supreme-court.html",
     "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
@@ -1642,12 +1644,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Other Cool Projects",
-      "title": "jhaizhou-ops/d2r-mobile",
-      "url": "https://github.com/jhaizhou-ops/d2r-mobile"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Java",
       "title": "Launch HN: Agent37 (YC F26)  Low-cost agent sandboxes...",
       "url": "https://news.ycombinator.com/item?id=50059096"
@@ -1699,6 +1695,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: How to deal with shipping AI-written code you...",
       "url": "https://news.ycombinator.com/item?id=50151036"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Java",
+      "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
+      "url": "https://news.ycombinator.com/item?id=50018420"
     }
   ]
 }
