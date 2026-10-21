@@ -393,6 +393,7 @@
     "https://github.com/KKKKhazix/human-writing",
     "https://github.com/KittenML/KittenTTS",
     "https://github.com/Krishnagangwal/CS-Fundamentals",
+    "https://github.com/Kuddev/pebrel",
     "https://github.com/LAMDA-NeSy/Research-Starter-Kit",
     "https://github.com/LaoFeng-mouse/flyingmouse-format",
     "https://github.com/LegadoTeam/legado",
@@ -1594,12 +1595,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Research Papers",
-      "title": "Staged Hybrid Quantum-Classical Programming",
-      "url": "http://arxiv.org/abs/2609.06743v1"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Make cursed fonts like Times New Bastard",
       "url": "https://news.ycombinator.com/item?id=49823738"
@@ -1651,6 +1646,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Audionaut  an open-source cross-platform...",
       "url": "https://news.ycombinator.com/item?id=49931031"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "AI & Machine Learning",
+      "title": "Kuddev/pebrel",
+      "url": "https://github.com/Kuddev/pebrel"
     }
   ]
 }

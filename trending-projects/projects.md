@@ -1094,6 +1094,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~284 stars/day since launch.
 - **Link:** https://github.com/LosaLosSantos/aurelio-finance
 
+**Added 2026-10-21**
+
+### [Kuddev/pebrel](https://github.com/Kuddev/pebrel)
+- **Stats:** 3,541 stars | 197 forks | 191 open issues
+- **Language:** Rust | **Created:** 2026-07-05 | **License:** GPL-3.0
+- **Topics:** ai-cli, ai-terminal, claude-code, codex, conpty, developer-tools
+- **What it is:** AI-native, GPU-accelerated terminal emulator for Windows with SSH, persistent sessions, split panes, and first-class AI CLI workflows.
+- **Growth:** averaging ~32 stars/day since launch.
+- **Link:** https://github.com/Kuddev/pebrel
+
 
 ## Other Cool Projects
 
