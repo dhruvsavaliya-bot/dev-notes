@@ -1545,6 +1545,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/ZefanCai/Open-Jev
 
+**Added 2026-10-21**
+
+### [ornith-ai/Ornith-1.5-35B-A3B-NVFP4](https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-NVFP4)
+- **Stats:** 64 likes | 1,112,990 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-08-18
+- **Tags:** transformers, safetensors, qwen3_5_moe, image-text-to-text, text-generation, conversational
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-NVFP4
+
 
 ## Research Papers
 

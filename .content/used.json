@@ -816,6 +816,7 @@
     "https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0",
     "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
     "https://huggingface.co/ornith-ai/Ornith-1.0-35B",
+    "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-NVFP4",
     "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit",
     "https://huggingface.co/prompthero/openjourney",
     "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0",
@@ -1588,12 +1589,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Research Papers",
-      "title": "Design Docs Are All You Need: An AI-native...",
-      "url": "http://arxiv.org/abs/2609.05364v1"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Lossless-memory  a personal AI memory that...",
       "url": "https://news.ycombinator.com/item?id=49786419"
@@ -1645,6 +1640,12 @@
       "subcat": "Other Cool Projects",
       "title": "illegalstudio/elephc",
       "url": "https://github.com/illegalstudio/elephc"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Models & Datasets",
+      "title": "ornith-ai/Ornith-1.5-35B-A3B-NVFP4",
+      "url": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-NVFP4"
     }
   ]
 }
