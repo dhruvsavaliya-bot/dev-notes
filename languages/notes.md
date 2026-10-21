@@ -2014,3 +2014,13 @@ Snippets and gotchas across languages.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=50059096
 - **Link:** https://news.ycombinator.com/item?id=50059096
+
+**Added 2026-10-22**
+
+### [Why 0xCAFEBABE?](https://www.artima.com/insidejvm/whyCAFEBABE.html)
+- **Source:** www.artima.com | **Posted:** 2026-09-21 | **By:** connorboyle
+- **Community:** 44 score, 14 comments on Lobsters
+- **Tags:** historical, java
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/2ym3yg/why_0xcafebabe
+- **Link:** https://www.artima.com/insidejvm/whyCAFEBABE.html
