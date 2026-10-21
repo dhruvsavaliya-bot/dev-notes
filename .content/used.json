@@ -58,6 +58,7 @@
     "http://arxiv.org/abs/2610.21270v1",
     "http://arxiv.org/abs/2610.21597v1",
     "http://arxiv.org/abs/2610.21695v1",
+    "http://arxiv.org/abs/2610.24058v1",
     "http://arxiv.org/abs/2610.24128v1",
     "http://arxiv.org/abs/2610.24928v1",
     "http://arxiv.org/abs/2610.25638v1",
@@ -1630,12 +1631,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Hacker News Picks",
-      "title": "Voxtral 3",
-      "url": "https://news.ycombinator.com/item?id=50168396"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "TypeScript",
       "title": "Tsrs: A Port of TypeScript to Rust",
       "url": "https://news.ycombinator.com/item?id=50165953"
@@ -1687,6 +1682,12 @@
       "subcat": "Java",
       "title": "Launch HN: Agent37 (YC F26)  Low-cost agent sandboxes...",
       "url": "https://news.ycombinator.com/item?id=50059096"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Research Papers",
+      "title": "Under the Skin: Backdoor Infection in Multimodal...",
+      "url": "http://arxiv.org/abs/2610.24058v1"
     }
   ]
 }

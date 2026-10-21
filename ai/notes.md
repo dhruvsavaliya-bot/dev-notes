@@ -2162,3 +2162,13 @@ Lessons from building with LLMs.
 - **Abstract:** Machine-learning-based intrusion detection systems (IDSs) for operational technology (OT) are commonly evaluated on benchmark datasets in which normal and attack data are collected in separate recordings. In such settings, high performance may reflect recording-associated differences as well as attack behavior. We introduce a recording-aware evaluation procedure that compares attack windows with background from the same recording, uses prior data for model fitting and calibration, tests temporal...
 - **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.24128v1
+
+**Added 2026-10-21**
+
+### [Under the Skin: Backdoor Infection in Multimodal Large Language Models](http://arxiv.org/abs/2610.24058v1)
+- **Authors:** Jiawen Wang, Ruo Yang, Haoran Dai, Binghui Wang et al.
+- **Published:** 2026-10-16 | **Primary category:** cs.CR
+- **Categories:** cs.CR
+- **Abstract:** Multimodal Large Language Models (MLLMs) have achieved impressive performance in generating text conditioned on inputs from different modalities. In this work, we introduce backdoor infection, a cross-modal attack framework targeting MLLMs. Starting from a model already injected with a backdoor in one modality, our attack constructs a corresponding trigger in another modality, called the infected modality. Exploiting the model's shared latent space, the trigger in the infected modality reliably ...
+- **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.24058v1
