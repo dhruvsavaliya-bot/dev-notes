@@ -40,6 +40,7 @@
     "http://arxiv.org/abs/2610.08929v1",
     "http://arxiv.org/abs/2610.09825v1",
     "http://arxiv.org/abs/2610.10150v1",
+    "http://arxiv.org/abs/2610.10368v1",
     "http://arxiv.org/abs/2610.11300v1",
     "http://arxiv.org/abs/2610.11875v1",
     "http://arxiv.org/abs/2610.13298v1",
@@ -1619,12 +1620,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "AI Engineering",
-      "title": "After a long journey, I've reached a deep burnout",
-      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Go",
       "title": "Bifrost: The Fastest LLM Gateway for Production-Ready...",
       "url": "https://dev.to/hadil/bifrost-the-fastest-llm-gateway-for-production-ready-ai-systems-40x-faster-than-litellm-2i51"
@@ -1676,6 +1671,12 @@
       "subcat": "TypeScript",
       "title": "Tsrs: A Port of TypeScript to Rust",
       "url": "https://news.ycombinator.com/item?id=50165953"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Research Papers",
+      "title": "Input-Blind Controls Produce Substantial Oracle...",
+      "url": "http://arxiv.org/abs/2610.10368v1"
     }
   ]
 }

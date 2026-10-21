@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1148 entries and counting** · Last updated: 2026-10-21
+**1149 entries and counting** · Last updated: 2026-10-21
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 247 |
-| [AI / LLM Notes](ai/notes.md) | 230 |
+| [AI / LLM Notes](ai/notes.md) | 231 |
 | [Reading List](articles/reading-list.md) | 235 |
 | [Coding Tips](coding-tips/tips.md) | 234 |
 | [Language Notes](languages/notes.md) | 202 |
 
 ## Latest additions
 
+- **2026-10-21** · *Research Papers* — [Input-Blind Controls Produce Substantial Oracle...](http://arxiv.org/abs/2610.10368v1)
 - **2026-10-21** · *TypeScript* — [Tsrs: A Port of TypeScript to Rust](https://news.ycombinator.com/item?id=50165953)
 - **2026-10-21** · *Hacker News Picks* — [Voxtral 3](https://news.ycombinator.com/item?id=50168396)
 - **2026-10-21** · *Models & Datasets* — [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)
 - **2026-10-21** · *Hacker News Picks* — [Muse exposes users' personal and business secrets...](https://news.ycombinator.com/item?id=50174687)
-- **2026-10-21** · *Show & Ask HN* — [Ask HN: Is it impossible to disable Siri on macOS 27?](https://news.ycombinator.com/item?id=49786609)
 
 ## How it works
 
