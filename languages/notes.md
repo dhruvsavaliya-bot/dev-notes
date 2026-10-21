@@ -1996,3 +1996,12 @@ Snippets and gotchas across languages.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=50112331
 - **Link:** https://www.vlt.io/blog/competition-keeps-javascript-moving
+
+**Added 2026-10-21**
+
+### [Japan moves to tighten rules for foreigners](https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt)
+- **Source:** www.aljazeera.com | **Posted:** 2026-09-26 | **By:** mikhael
+- **Community:** 206 points, 626 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49858810
+- **Link:** https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt
