@@ -122,6 +122,7 @@
     "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
     "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
     "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
+    "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
     "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
     "https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/",
     "https://blog.roboflow.com/openai-gpt-5-6/",
@@ -902,6 +903,7 @@
     "https://lobste.rs/s/eesu8d/bun_1_4",
     "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from",
     "https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow",
+    "https://lobste.rs/s/gqyvn5/protecting_firefox_users_following",
     "https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait",
     "https://lobste.rs/s/hccdqa/shipping_jpeg_xl_chrome",
     "https://lobste.rs/s/iii8sl/micro_language_implementation_calcium",
@@ -1582,12 +1584,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-20",
-      "subcat": "Models & Datasets",
-      "title": "openbmb/MiniCPM5-2B",
-      "url": "https://huggingface.co/openbmb/MiniCPM5-2B"
-    },
-    {
       "date": "2026-10-21",
       "subcat": "Research Papers",
       "title": "ACorD: Adaptive Correspondence Discovery for Medical...",
@@ -1640,6 +1636,12 @@
       "subcat": "Models & Datasets",
       "title": "ZefanCai/Open-Jev",
       "url": "https://huggingface.co/datasets/ZefanCai/Open-Jev"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Lobsters Picks",
+      "title": "Protecting Firefox users following the compromise of...",
+      "url": "https://lobste.rs/s/gqyvn5/protecting_firefox_users_following"
     }
   ]
 }

@@ -2097,6 +2097,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/vyfegx/what_are_you_doing_this_week
 - **Link:** https://lobste.rs/s/vyfegx/what_are_you_doing_this_week
 
+**Added 2026-10-21**
+
+### [Protecting Firefox users following the compromise of eMudhra intermediate certificates](https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/)
+- **Source:** blog.mozilla.org | **Posted:** 2026-10-20 | **By:** freddyb
+- **Community:** 121 score, 45 comments on Lobsters
+- **Tags:** security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/gqyvn5/protecting_firefox_users_following
+- **Link:** https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/
+
 
 ## Performance
 
