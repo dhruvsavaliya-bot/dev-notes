@@ -863,6 +863,7 @@
     "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
     "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
     "https://lapcatsoftware.com/articles/2026/9/1.html",
+    "https://ledge.sh",
     "https://lemire.me/blog/2020/01/30/cost-of-a-thread-in-c-under-linux/",
     "https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/",
     "https://liao.gg/blog/agents-dont-need-memory",
@@ -1356,6 +1357,7 @@
     "https://news.ycombinator.com/item?id=49883471",
     "https://news.ycombinator.com/item?id=49893157",
     "https://news.ycombinator.com/item?id=49899090",
+    "https://news.ycombinator.com/item?id=49902382",
     "https://news.ycombinator.com/item?id=49908394",
     "https://news.ycombinator.com/item?id=49909056",
     "https://news.ycombinator.com/item?id=49912792",
@@ -1626,12 +1628,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
-      "url": "https://news.ycombinator.com/item?id=49786609"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Hacker News Picks",
       "title": "Muse exposes users' personal and business secrets...",
       "url": "https://news.ycombinator.com/item?id=50174687"
@@ -1683,6 +1679,12 @@
       "subcat": "Research Papers",
       "title": "Recording-Aware Evaluation of Multimodal OT Intrusion...",
       "url": "http://arxiv.org/abs/2610.24128v1"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Ledge.sh  Runnable Markdown Notes",
+      "url": "https://news.ycombinator.com/item?id=49902382"
     }
   ]
 }
