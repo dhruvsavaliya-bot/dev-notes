@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1132 entries and counting** · Last updated: 2026-10-21
+**1133 entries and counting** · Last updated: 2026-10-21
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 226 |
 | [Reading List](articles/reading-list.md) | 230 |
 | [Coding Tips](coding-tips/tips.md) | 231 |
-| [Language Notes](languages/notes.md) | 198 |
+| [Language Notes](languages/notes.md) | 199 |
 
 ## Latest additions
 
+- **2026-10-21** · *Rust* — [2026 is an exciting year for the Rust compiler (and me)](https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me)
 - **2026-10-21** · *AI & Machine Learning* — [Kuddev/pebrel](https://github.com/Kuddev/pebrel)
 - **2026-10-21** · *Show & Ask HN* — [Show HN: Audionaut  an open-source cross-platform...](https://news.ycombinator.com/item?id=49931031)
 - **2026-10-21** · *Hacker News Picks* — [Man discovers his parents' coffee machine used 1TB of...](https://news.ycombinator.com/item?id=49995495)
 - **2026-10-21** · *Models & Datasets* — [openbmb/UltraData-SFT-Agent-2609](https://huggingface.co/datasets/openbmb/UltraData-SFT-Agent-2609)
-- **2026-10-21** · *Models & Datasets* — [ornith-ai/Ornith-1.5-35B-A3B-NVFP4](https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-NVFP4)
 
 ## How it works
 

@@ -894,6 +894,7 @@
     "https://lobste.rs/s/bag41j/hanami_why_introductions",
     "https://lobste.rs/s/bcfzer/hacking_nameof",
     "https://lobste.rs/s/brrnpm/outside_scope_our_support",
+    "https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me",
     "https://lobste.rs/s/ccnirb/there_are_only_twelve_4x4_sudokus_cool",
     "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your",
     "https://lobste.rs/s/ceuque/debian_code_search_fast_turbopfor_with_go",
@@ -1588,17 +1589,12 @@
     "https://xcancel.com/__alpoge__/status/2079028340955197566",
     "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
     "https://youtu.be/89yAiqYEwKg",
+    "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
     "https://z.ai/blog/glm-5.3",
     "https://ziglang.org/devlog/2026/#2026-08-27",
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-10-21",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Make cursed fonts like Times New Bastard",
-      "url": "https://news.ycombinator.com/item?id=49823738"
-    },
     {
       "date": "2026-10-21",
       "subcat": "Models & Datasets",
@@ -1652,6 +1648,12 @@
       "subcat": "AI & Machine Learning",
       "title": "Kuddev/pebrel",
       "url": "https://github.com/Kuddev/pebrel"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Rust",
+      "title": "2026 is an exciting year for the Rust compiler (and me)",
+      "url": "https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me"
     }
   ]
 }

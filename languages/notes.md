@@ -1407,6 +1407,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/3gikyb/bevy_0_20
 - **Link:** https://bevy.org/news/bevy-0-20/
 
+**Added 2026-10-21**
+
+### [2026 is an exciting year for the Rust compiler (and me)](https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/)
+- **Source:** yoyo-code.com | **Posted:** 2026-10-19 | **By:** novedevo
+- **Community:** 61 score, 6 comments on Lobsters
+- **Tags:** compilers, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me
+- **Link:** https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/
+
 
 ## Elixir
 
