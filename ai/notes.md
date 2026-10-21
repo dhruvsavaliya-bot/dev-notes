@@ -1572,6 +1572,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/openbmb/UltraData-SFT-Agent-2609
 
+**Added 2026-10-21**
+
+### [MiniMaxAI/MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3)
+- **Stats:** 1,465 likes | 6,158 downloads
+- **Kind:** Hugging Face model | **Task:** text-to-audio | **Created:** 2026-08-07
+- **Tags:** diffusers, safetensors, minimax_music3, music-generation, text-to-music, pytorch
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/MiniMaxAI/MiniMax-Music3
+
 
 ## Research Papers
 

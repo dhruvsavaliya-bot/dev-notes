@@ -732,6 +732,7 @@
     "https://huggingface.co/FermionResearch/Phonon-2",
     "https://huggingface.co/FrancisRing/Prism",
     "https://huggingface.co/HuggingFaceH4/zephyr-7b-beta",
+    "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
     "https://huggingface.co/Qwen/Qwen2.5-32B-Instruct-AWQ",
     "https://huggingface.co/Qwen/Qwen3-0.6B",
@@ -1608,12 +1609,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "AI & Machine Learning",
-      "title": "Kuddev/pebrel",
-      "url": "https://github.com/Kuddev/pebrel"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Rust",
       "title": "2026 is an exciting year for the Rust compiler (and me)",
       "url": "https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me"
@@ -1665,6 +1660,12 @@
       "subcat": "Swift",
       "title": "Why I Built an SSH Config and Tunnel Manager for macOS",
       "url": "https://dev.to/malusev998/why-i-built-an-ssh-config-and-tunnel-manager-for-macos-58n8"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Models & Datasets",
+      "title": "MiniMaxAI/MiniMax-Music3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3"
     }
   ]
 }
