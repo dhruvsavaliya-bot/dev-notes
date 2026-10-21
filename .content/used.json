@@ -113,6 +113,7 @@
     "https://bevy.org/news/bevy-0-20/",
     "https://binaryigor.com/sqlite-db-simple-in-process-reliable-fast.html",
     "https://blog.cloudflare.com/kitesurf/",
+    "https://blog.cloudflare.com/typescript-rust-port/",
     "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
     "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
     "https://blog.glyph.im/2026/10/programming-isnt-special.html",
@@ -1394,6 +1395,7 @@
     "https://news.ycombinator.com/item?id=50152307",
     "https://news.ycombinator.com/item?id=50154540",
     "https://news.ycombinator.com/item?id=50160494",
+    "https://news.ycombinator.com/item?id=50165953",
     "https://news.ycombinator.com/item?id=50166257",
     "https://news.ycombinator.com/item?id=50168396",
     "https://news.ycombinator.com/item?id=50174687",
@@ -1617,12 +1619,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Lobsters Picks",
-      "title": "Linus Torvalds on AI-assisted kernel contributions",
-      "url": "https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "AI Engineering",
       "title": "After a long journey, I've reached a deep burnout",
       "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b"
@@ -1674,6 +1670,12 @@
       "subcat": "Hacker News Picks",
       "title": "Voxtral 3",
       "url": "https://news.ycombinator.com/item?id=50168396"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "TypeScript",
+      "title": "Tsrs: A Port of TypeScript to Rust",
+      "url": "https://news.ycombinator.com/item?id=50165953"
     }
   ]
 }

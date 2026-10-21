@@ -450,6 +450,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~10 stars/day since launch.
 - **Link:** https://github.com/0xnyn/airship
 
+**Added 2026-10-21**
+
+### [Tsrs: A Port of TypeScript to Rust](https://blog.cloudflare.com/typescript-rust-port/)
+- **Source:** blog.cloudflare.com | **Posted:** 2026-10-20 | **By:** hnisjafx40
+- **Community:** 421 points, 206 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50165953
+- **Link:** https://blog.cloudflare.com/typescript-rust-port/
+
+
 ## Python
 
 **Added 2026-09-07**
