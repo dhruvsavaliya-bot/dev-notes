@@ -1417,6 +1417,7 @@
     "https://news.ycombinator.com/item?id=50168396",
     "https://news.ycombinator.com/item?id=50174687",
     "https://news.ycombinator.com/item?id=50175070",
+    "https://news.ycombinator.com/item?id=50181175",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -1436,6 +1437,7 @@
     "https://obscura.com/#faq-technical",
     "https://ohhfishal.net/Posts/claude",
     "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+    "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
     "https://openai.com/index/navier-stokes-solution/",
     "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
     "https://openchamber.dev/",
@@ -1639,12 +1641,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Research Papers",
-      "title": "Recording-Aware Evaluation of Multimodal OT Intrusion...",
-      "url": "http://arxiv.org/abs/2610.24128v1"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Ledge.sh  Runnable Markdown Notes",
       "url": "https://news.ycombinator.com/item?id=49902382"
@@ -1696,6 +1692,12 @@
       "subcat": "Models & Datasets",
       "title": "briaai/Fibo-2.0-dev",
       "url": "https://huggingface.co/briaai/Fibo-2.0-dev"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Hacker News Picks",
+      "title": "Patch the Planet: global response coordination as...",
+      "url": "https://news.ycombinator.com/item?id=50181175"
     }
   ]
 }

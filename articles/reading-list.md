@@ -1676,6 +1676,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50168396
 - **Link:** https://mistral.ai/news/voxtral-3/
 
+**Added 2026-10-22**
+
+### [Patch the Planet: global response coordination as agents uncover vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)
+- **Source:** openai.com | **Posted:** 2026-10-21 | **By:** nr378
+- **Community:** 192 points, 128 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50181175
+- **Link:** https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/
+
 
 ## DevOps & Cloud
 
