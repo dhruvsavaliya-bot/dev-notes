@@ -788,6 +788,7 @@
     "https://huggingface.co/datasets/openai/healthbench",
     "https://huggingface.co/datasets/openbmb/RLHF-V-Dataset",
     "https://huggingface.co/datasets/openbmb/UltraData-Code",
+    "https://huggingface.co/datasets/openbmb/UltraData-SFT-Agent-2609",
     "https://huggingface.co/datasets/pixparse/idl-wds",
     "https://huggingface.co/datasets/r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation",
     "https://huggingface.co/datasets/secemp9/arxiv-complete",
@@ -1589,12 +1590,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Lossless-memory  a personal AI memory that...",
-      "url": "https://news.ycombinator.com/item?id=49786419"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Hacker News Picks",
       "title": "How I got over 300 Tor exit nodes removed",
       "url": "https://news.ycombinator.com/item?id=50166257"
@@ -1646,6 +1641,12 @@
       "subcat": "Models & Datasets",
       "title": "ornith-ai/Ornith-1.5-35B-A3B-NVFP4",
       "url": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-NVFP4"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Models & Datasets",
+      "title": "openbmb/UltraData-SFT-Agent-2609",
+      "url": "https://huggingface.co/datasets/openbmb/UltraData-SFT-Agent-2609"
     }
   ]
 }

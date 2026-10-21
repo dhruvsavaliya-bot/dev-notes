@@ -1554,6 +1554,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-NVFP4
 
+**Added 2026-10-21**
+
+### [openbmb/UltraData-SFT-Agent-2609](https://huggingface.co/datasets/openbmb/UltraData-SFT-Agent-2609)
+- **Stats:** 315 likes | 21,461 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-08-31
+- **Tags:** llm, sft, supervised-fine-tuning, post-training, agent, tool-use
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/openbmb/UltraData-SFT-Agent-2609
+
 
 ## Research Papers
 
