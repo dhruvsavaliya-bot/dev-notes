@@ -1326,6 +1326,7 @@
     "https://news.ycombinator.com/item?id=49851032",
     "https://news.ycombinator.com/item?id=49853137",
     "https://news.ycombinator.com/item?id=49855059",
+    "https://news.ycombinator.com/item?id=49861047",
     "https://news.ycombinator.com/item?id=49866515",
     "https://news.ycombinator.com/item?id=49868830",
     "https://news.ycombinator.com/item?id=49869574",
@@ -1597,12 +1598,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Models & Datasets",
-      "title": "ZefanCai/Open-Jev",
-      "url": "https://huggingface.co/datasets/ZefanCai/Open-Jev"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Lobsters Picks",
       "title": "Protecting Firefox users following the compromise of...",
       "url": "https://lobste.rs/s/gqyvn5/protecting_firefox_users_following"
@@ -1654,6 +1649,12 @@
       "subcat": "Rust",
       "title": "2026 is an exciting year for the Rust compiler (and me)",
       "url": "https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Show & Ask HN",
+      "title": "OpenAI Codex agents go rogue and consumes USD 78,000...",
+      "url": "https://news.ycombinator.com/item?id=49861047"
     }
   ]
 }

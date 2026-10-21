@@ -1876,6 +1876,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49931031
 - **Link:** https://github.com/kvoltmer/Audionaut
 
+**Added 2026-10-21**
+
+### [OpenAI Codex agents go rogue and consumes USD 78,000 without authorization](https://news.ycombinator.com/item?id=49861047)
+- **Source:** news.ycombinator.com | **Posted:** 2026-09-26 | **By:** lorenzomassaro
+- **Community:** 84 points, 36 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49861047
+- **Link:** https://news.ycombinator.com/item?id=49861047
+
 
 ## Git & Workflow
 
