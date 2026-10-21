@@ -1667,6 +1667,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50174687
 - **Link:** https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/
 
+**Added 2026-10-21**
+
+### [Voxtral 3](https://mistral.ai/news/voxtral-3/)
+- **Source:** mistral.ai | **Posted:** 2026-10-20 | **By:** ilreb
+- **Community:** 697 points, 172 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50168396
+- **Link:** https://mistral.ai/news/voxtral-3/
+
 
 ## DevOps & Cloud
 

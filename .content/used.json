@@ -999,6 +999,7 @@
     "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders",
     "https://memories.gallery/",
     "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
+    "https://mistral.ai/news/voxtral-3/",
     "https://mynoise.net/vlog.php?ep=20260803",
     "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
     "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
@@ -1394,6 +1395,7 @@
     "https://news.ycombinator.com/item?id=50154540",
     "https://news.ycombinator.com/item?id=50160494",
     "https://news.ycombinator.com/item?id=50166257",
+    "https://news.ycombinator.com/item?id=50168396",
     "https://news.ycombinator.com/item?id=50174687",
     "https://news.ycombinator.com/item?id=50175070",
     "https://news.ycombinator.com/item?id=5673032",
@@ -1615,12 +1617,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Research Papers",
-      "title": "Exploration via Activation-Space Steering for...",
-      "url": "http://arxiv.org/abs/2610.27012v1"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Lobsters Picks",
       "title": "Linus Torvalds on AI-assisted kernel contributions",
       "url": "https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel"
@@ -1672,6 +1668,12 @@
       "subcat": "Models & Datasets",
       "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Hacker News Picks",
+      "title": "Voxtral 3",
+      "url": "https://news.ycombinator.com/item?id=50168396"
     }
   ]
 }
