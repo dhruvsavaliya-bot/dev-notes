@@ -76,6 +76,7 @@
     "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
     "http://php.net/releases/7_2_0.php",
     "http://prooffreaderplus.blogspot.com/2014/11/top-10-python-idioms-i-wished-id.html",
+    "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
     "http://spotthedrowningchild.com",
     "http://www.ianlandsman.com/2012/02/22/laravel",
     "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
@@ -1385,6 +1386,7 @@
     "https://news.ycombinator.com/item?id=50000488",
     "https://news.ycombinator.com/item?id=50000676",
     "https://news.ycombinator.com/item?id=50006832",
+    "https://news.ycombinator.com/item?id=50008047",
     "https://news.ycombinator.com/item?id=50009295",
     "https://news.ycombinator.com/item?id=50017301",
     "https://news.ycombinator.com/item?id=50039291",
@@ -1631,12 +1633,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "TypeScript",
-      "title": "Tsrs: A Port of TypeScript to Rust",
-      "url": "https://news.ycombinator.com/item?id=50165953"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Research Papers",
       "title": "Input-Blind Controls Produce Substantial Oracle...",
       "url": "http://arxiv.org/abs/2610.10368v1"
@@ -1688,6 +1684,12 @@
       "subcat": "Research Papers",
       "title": "Under the Skin: Backdoor Infection in Multimodal...",
       "url": "http://arxiv.org/abs/2610.24058v1"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Making a flexible \"neon\" t-shirt with LED...",
+      "url": "https://news.ycombinator.com/item?id=50008047"
     }
   ]
 }

@@ -1903,6 +1903,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49902382
 - **Link:** https://ledge.sh
 
+**Added 2026-10-21**
+
+### [Show HN: Making a flexible "neon" t-shirt with LED filaments](http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html)
+- **Source:** scottbezek.blogspot.com | **Posted:** 2026-10-08 | **By:** scottbez1
+- **Community:** 222 points, 37 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50008047
+- **Link:** http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html
+
 
 ## Git & Workflow
 
