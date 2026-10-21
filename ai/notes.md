@@ -429,6 +429,15 @@ Lessons from building with LLMs.
 - **Summary:** Every "7 local models that replace Claude Code" list opens the same way: a table of SWE-bench scores,...
 - **Link:** https://dev.to/rudratosh/can-a-local-llm-replace-claude-code-the-benchmark-everyone-quotes-is-the-wrong-one-2kna
 
+**Added 2026-10-21**
+
+### [After a long journey, I've reached a deep burnout](https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b)
+- **Author:** EmberNoGlow | **Published:** Jun 28 | **Read time:** 3 min
+- **Community:** 63 reactions, 31 comments -- a top post in #ai
+- **Tags:** discuss, ai, learning, productivity
+- **Summary:** Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...
+- **Link:** https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b
+
 
 ## LLMs
 

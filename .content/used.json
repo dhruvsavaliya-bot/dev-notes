@@ -194,6 +194,7 @@
     "https://dev.to/dj29/hacktoberfest-is-coming-to-nadiad-gujarat-official-mlh-meetup-at-ddu-15-oct-1dc4",
     "https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2",
     "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib",
+    "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
     "https://dev.to/erikch/are-frontend-developers-cooked-is-frontend-design-safe-nn8",
     "https://dev.to/francistrdev/choose-your-burden-4dgl",
     "https://dev.to/francistrdev/git-gud-4e6g",
@@ -1605,12 +1606,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Models & Datasets",
-      "title": "openbmb/UltraData-SFT-Agent-2609",
-      "url": "https://huggingface.co/datasets/openbmb/UltraData-SFT-Agent-2609"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Hacker News Picks",
       "title": "Man discovers his parents' coffee machine used 1TB of...",
       "url": "https://news.ycombinator.com/item?id=49995495"
@@ -1662,6 +1657,12 @@
       "subcat": "Lobsters Picks",
       "title": "Linus Torvalds on AI-assisted kernel contributions",
       "url": "https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "AI Engineering",
+      "title": "After a long journey, I've reached a deep burnout",
+      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b"
     }
   ]
 }
