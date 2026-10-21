@@ -1387,6 +1387,7 @@
     "https://news.ycombinator.com/item?id=50009295",
     "https://news.ycombinator.com/item?id=50017301",
     "https://news.ycombinator.com/item?id=50039291",
+    "https://news.ycombinator.com/item?id=50059096",
     "https://news.ycombinator.com/item?id=50061659",
     "https://news.ycombinator.com/item?id=50063417",
     "https://news.ycombinator.com/item?id=50063831",
@@ -1629,12 +1630,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Models & Datasets",
-      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Hacker News Picks",
       "title": "Voxtral 3",
       "url": "https://news.ycombinator.com/item?id=50168396"
@@ -1686,6 +1681,12 @@
       "subcat": "Other Cool Projects",
       "title": "jhaizhou-ops/d2r-mobile",
       "url": "https://github.com/jhaizhou-ops/d2r-mobile"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Java",
+      "title": "Launch HN: Agent37 (YC F26)  Low-cost agent sandboxes...",
+      "url": "https://news.ycombinator.com/item?id=50059096"
     }
   ]
 }

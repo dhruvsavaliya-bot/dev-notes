@@ -2005,3 +2005,12 @@ Snippets and gotchas across languages.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=49858810
 - **Link:** https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt
+
+**Added 2026-10-21**
+
+### [Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents](https://news.ycombinator.com/item?id=50059096)
+- **Source:** news.ycombinator.com | **Posted:** 2026-10-12 | **By:** vishnukool
+- **Community:** 163 points, 135 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50059096
+- **Link:** https://news.ycombinator.com/item?id=50059096

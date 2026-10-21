@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1155 entries and counting** · Last updated: 2026-10-21
+**1156 entries and counting** · Last updated: 2026-10-21
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 232 |
 | [Reading List](articles/reading-list.md) | 235 |
 | [Coding Tips](coding-tips/tips.md) | 235 |
-| [Language Notes](languages/notes.md) | 205 |
+| [Language Notes](languages/notes.md) | 206 |
 
 ## Latest additions
 
+- **2026-10-21** · *Java* — [Launch HN: Agent37 (YC F26)  Low-cost agent sandboxes...](https://news.ycombinator.com/item?id=50059096)
 - **2026-10-21** · *Other Cool Projects* — [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile)
 - **2026-10-21** · *Show & Ask HN* — [Show HN: Ledge.sh  Runnable Markdown Notes](https://news.ycombinator.com/item?id=49902382)
 - **2026-10-21** · *Research Papers* — [Recording-Aware Evaluation of Multimodal OT Intrusion...](http://arxiv.org/abs/2610.24128v1)
 - **2026-10-21** · *Java* — [Japan moves to tighten rules for foreigners](https://news.ycombinator.com/item?id=49858810)
-- **2026-10-21** · *Kotlin* — [wangzhishou/OneBox](https://github.com/wangzhishou/OneBox)
 
 ## How it works
 
