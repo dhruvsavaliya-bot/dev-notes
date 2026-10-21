@@ -2181,3 +2181,13 @@ Lessons from building with LLMs.
 - **Abstract:** Multimodal Large Language Models (MLLMs) have achieved impressive performance in generating text conditioned on inputs from different modalities. In this work, we introduce backdoor infection, a cross-modal attack framework targeting MLLMs. Starting from a model already injected with a backdoor in one modality, our attack constructs a corresponding trigger in another modality, called the infected modality. Exploiting the model's shared latent space, the trigger in the infected modality reliably ...
 - **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.24058v1
+
+**Added 2026-10-22**
+
+### [Same Operation, Different Permission: Evaluating Whether Guardrails Honor Authorization](http://arxiv.org/abs/2610.16838v1)
+- **Authors:** Huihao Jing, Shaojin Chen, Wenbin Hu, Yuxuan Liu et al.
+- **Published:** 2026-10-12 | **Primary category:** cs.SE
+- **Categories:** cs.AI, cs.SE
+- **Abstract:** As language-model agents write code, move money and change records on behalf of users, deciding whether an action is authorized has become a central safety problem. Guardrails are often placed in front of these actions, yet few evaluations ask whether their decisions follow authorization: blocking unauthorized actions while still allowing the same actions under valid permission. We introduce \bench{}, a benchmark that contrasts authorization evidence for the same operation in its language track....
+- **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.16838v1
