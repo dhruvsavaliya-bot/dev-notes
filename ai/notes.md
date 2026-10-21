@@ -1590,6 +1590,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731
 
+**Added 2026-10-22**
+
+### [briaai/Fibo-2.0-dev](https://huggingface.co/briaai/Fibo-2.0-dev)
+- **Stats:** 100 likes | 396 downloads
+- **Kind:** Hugging Face model | **Task:** text-to-image | **Created:** 2026-10-18
+- **Tags:** diffusers, safetensors, image-editing, text-to-image, image-to-image, inpainting
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/briaai/Fibo-2.0-dev
+
 
 ## Research Papers
 

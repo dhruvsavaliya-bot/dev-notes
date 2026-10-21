@@ -754,6 +754,7 @@
     "https://huggingface.co/almanach/camembert-base",
     "https://huggingface.co/audeering/wav2vec2-large-robust-24-ft-age-gender",
     "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "https://huggingface.co/briaai/Fibo-2.0-dev",
     "https://huggingface.co/bytedance-research/Lance",
     "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L12-v2",
     "https://huggingface.co/datasets/ACERobotics/ACE-Data-0",
@@ -1638,12 +1639,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Java",
-      "title": "Japan moves to tighten rules for foreigners",
-      "url": "https://news.ycombinator.com/item?id=49858810"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Research Papers",
       "title": "Recording-Aware Evaluation of Multimodal OT Intrusion...",
       "url": "http://arxiv.org/abs/2610.24128v1"
@@ -1695,6 +1690,12 @@
       "subcat": "JavaScript",
       "title": "Yet another way to invoke functions in JavaScript...",
       "url": "https://news.ycombinator.com/item?id=50077225"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Models & Datasets",
+      "title": "briaai/Fibo-2.0-dev",
+      "url": "https://huggingface.co/briaai/Fibo-2.0-dev"
     }
   ]
 }
