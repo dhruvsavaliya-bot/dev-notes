@@ -2433,6 +2433,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/Amansingh-afk/milli.nvim
 
+**Added 2026-10-21**
+
+### [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build)
+- **Stats:** 376 stars | 125 forks | 1 open issues
+- **Language:** Python | **Created:** 2026-10-12 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared game archive.
+- **Growth:** averaging ~41 stars/day since launch.
+- **Link:** https://github.com/jiayx/d2r-mobile-build
+
 
 ## Backend & Infrastructure
 

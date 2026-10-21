@@ -574,6 +574,7 @@
     "https://github.com/jeffhajewski/latticedb",
     "https://github.com/jev-chat/jev-chat-jarvis",
     "https://github.com/jhaizhou-ops/d2r-mobile",
+    "https://github.com/jiayx/d2r-mobile-build",
     "https://github.com/jonwiggins/optio",
     "https://github.com/jpochyla/psst",
     "https://github.com/jub0t/Concat",
@@ -1633,12 +1634,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Research Papers",
-      "title": "Input-Blind Controls Produce Substantial Oracle...",
-      "url": "http://arxiv.org/abs/2610.10368v1"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "C++",
       "title": "C++26: The New Debugging Header",
       "url": "https://news.ycombinator.com/item?id=50122736"
@@ -1690,6 +1685,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Making a flexible \"neon\" t-shirt with LED...",
       "url": "https://news.ycombinator.com/item?id=50008047"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Developer Tools",
+      "title": "jiayx/d2r-mobile-build",
+      "url": "https://github.com/jiayx/d2r-mobile-build"
     }
   ]
 }
