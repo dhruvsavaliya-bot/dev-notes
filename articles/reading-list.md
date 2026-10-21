@@ -2125,6 +2125,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/gqyvn5/protecting_firefox_users_following
 - **Link:** https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/
 
+**Added 2026-10-21**
+
+### [Linus Torvalds on AI-assisted kernel contributions](https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/)
+- **Source:** lore.kernel.org | **Posted:** 2026-10-15 | **By:** thang
+- **Community:** 89 score, 159 comments on Lobsters
+- **Tags:** linux, vibecoding
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel
+- **Link:** https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/
+
 
 ## Performance
 

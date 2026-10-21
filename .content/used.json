@@ -969,6 +969,7 @@
     "https://lobste.rs/s/wn293o/interactive_refactoring_gopls",
     "https://lobste.rs/s/wq1csk/elixir_v1_20_released_now_gradually_typed",
     "https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites",
+    "https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel",
     "https://lobste.rs/s/xpyahx/grubby_static_site_generator_for_git",
     "https://lobste.rs/s/xv6z4r/python_iceberg",
     "https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn",
@@ -977,6 +978,7 @@
     "https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source",
     "https://lobste.rs/s/zziknb/arena_allocators_c",
     "https://loficities.com/",
+    "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
     "https://lovable.dev/blog/series-c",
     "https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/",
     "https://lumi.codeberg.page/blog/software-community.html",
@@ -1604,12 +1606,6 @@
     {
       "date": "2026-10-21",
       "subcat": "Models & Datasets",
-      "title": "ornith-ai/Ornith-1.5-35B-A3B-NVFP4",
-      "url": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-NVFP4"
-    },
-    {
-      "date": "2026-10-21",
-      "subcat": "Models & Datasets",
       "title": "openbmb/UltraData-SFT-Agent-2609",
       "url": "https://huggingface.co/datasets/openbmb/UltraData-SFT-Agent-2609"
     },
@@ -1660,6 +1656,12 @@
       "subcat": "Research Papers",
       "title": "Exploration via Activation-Space Steering for...",
       "url": "http://arxiv.org/abs/2610.27012v1"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Lobsters Picks",
+      "title": "Linus Torvalds on AI-assisted kernel contributions",
+      "url": "https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel"
     }
   ]
 }
