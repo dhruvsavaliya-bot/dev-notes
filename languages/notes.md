@@ -1709,6 +1709,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~72 stars/day since launch.
 - **Link:** https://github.com/chasmlol/SkyCraft
 
+**Added 2026-10-21**
+
+### [C++26: The New Debugging Header](https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging)
+- **Source:** www.sandordargo.com | **Posted:** 2026-10-16 | **By:** jandeboevrie
+- **Community:** 113 points, 28 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50122736
+- **Link:** https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging
+
+
 ## SQL & Databases
 
 **Added 2026-10-10**
