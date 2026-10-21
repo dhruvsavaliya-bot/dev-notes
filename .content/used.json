@@ -210,6 +210,7 @@
     "https://dev.to/gramli/how-i-smashed-a-bug-in-a-shared-authentication-library-33fm",
     "https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l",
     "https://dev.to/hadil/angular-datagrid-a-free-open-source-ag-grid-alternative-built-for-scale-5gkm",
+    "https://dev.to/hadil/bifrost-the-fastest-llm-gateway-for-production-ready-ai-systems-40x-faster-than-litellm-2i51",
     "https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b",
     "https://dev.to/hadil/the-hard-truth-about-learning-to-code-that-no-one-tells-you-15c1",
     "https://dev.to/hadil/youre-a-real-python-developer-only-if-94e",
@@ -1606,12 +1607,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Hacker News Picks",
-      "title": "Man discovers his parents' coffee machine used 1TB of...",
-      "url": "https://news.ycombinator.com/item?id=49995495"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Audionaut  an open-source cross-platform...",
       "url": "https://news.ycombinator.com/item?id=49931031"
@@ -1663,6 +1658,12 @@
       "subcat": "AI Engineering",
       "title": "After a long journey, I've reached a deep burnout",
       "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Go",
+      "title": "Bifrost: The Fastest LLM Gateway for Production-Ready...",
+      "url": "https://dev.to/hadil/bifrost-the-fastest-llm-gateway-for-production-ready-ai-systems-40x-faster-than-litellm-2i51"
     }
   ]
 }

@@ -869,6 +869,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~73 stars/day since launch.
 - **Link:** https://github.com/mizorewww/x_gift_bot
 
+**Added 2026-10-21**
+
+### [Bifrost: The Fastest LLM Gateway for Production-Ready AI Systems (40x Faster Than LiteLLM)](https://dev.to/hadil/bifrost-the-fastest-llm-gateway-for-production-ready-ai-systems-40x-faster-than-litellm-2i51)
+- **Author:** Hadil Ben Abdallah | **Published:** Jan 13 | **Read time:** 6 min
+- **Community:** 115 reactions, 11 comments -- a top post in #go
+- **Tags:** ai, llm, opensource, go
+- **Summary:** If you’ve ever scaled an LLM-powered application beyond a demo, you’ve probably felt it.  Everything...
+- **Link:** https://dev.to/hadil/bifrost-the-fastest-llm-gateway-for-production-ready-ai-systems-40x-faster-than-litellm-2i51
+
+
 ## PHP
 
 **Added 2026-10-04**
