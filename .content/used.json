@@ -244,6 +244,7 @@
     "https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d",
     "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
     "https://dev.to/maame-codes/devops-from-scratch-a-students-diary-entry-00-5b71",
+    "https://dev.to/malusev998/why-i-built-an-ssh-config-and-tunnel-manager-for-macos-58n8",
     "https://dev.to/metal3d/git-worktree-like-a-boss-2j1b",
     "https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd",
     "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd",
@@ -1607,12 +1608,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Audionaut  an open-source cross-platform...",
-      "url": "https://news.ycombinator.com/item?id=49931031"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "AI & Machine Learning",
       "title": "Kuddev/pebrel",
       "url": "https://github.com/Kuddev/pebrel"
@@ -1664,6 +1659,12 @@
       "subcat": "Go",
       "title": "Bifrost: The Fastest LLM Gateway for Production-Ready...",
       "url": "https://dev.to/hadil/bifrost-the-fastest-llm-gateway-for-production-ready-ai-systems-40x-faster-than-litellm-2i51"
+    },
+    {
+      "date": "2026-10-21",
+      "subcat": "Swift",
+      "title": "Why I Built an SSH Config and Tunnel Manager for macOS",
+      "url": "https://dev.to/malusev998/why-i-built-an-ssh-config-and-tunnel-manager-for-macos-58n8"
     }
   ]
 }

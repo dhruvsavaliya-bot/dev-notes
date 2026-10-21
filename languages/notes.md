@@ -1276,6 +1276,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~19 stars/day since launch.
 - **Link:** https://github.com/lingyired/status-trio
 
+**Added 2026-10-21**
+
+### [Why I Built an SSH Config and Tunnel Manager for macOS](https://dev.to/malusev998/why-i-built-an-ssh-config-and-tunnel-manager-for-macos-58n8)
+- **Author:** Dusan Malusev | **Published:** Aug 26 | **Read time:** 6 min
+- **Community:** 72 reactions, 8 comments -- a top post in #swift
+- **Tags:** ssh, macos, swift, tunneling
+- **Summary:** Every internal tool I need sits behind SSH. Grafana, Prometheus, the staging clusters, internal AI...
+- **Link:** https://dev.to/malusev998/why-i-built-an-ssh-config-and-tunnel-manager-for-macos-58n8
+
+
 ## Rust
 
 **Added 2026-10-05**
