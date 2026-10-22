@@ -967,6 +967,7 @@
     "https://lobste.rs/s/gqyvn5/protecting_firefox_users_following",
     "https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait",
     "https://lobste.rs/s/hccdqa/shipping_jpeg_xl_chrome",
+    "https://lobste.rs/s/hplfis/examining_macos_gcc_binary",
     "https://lobste.rs/s/iii8sl/micro_language_implementation_calcium",
     "https://lobste.rs/s/ily7as/programming_isn_t_special",
     "https://lobste.rs/s/imdwmj/pandas_should_go_extinct",
@@ -1697,15 +1698,10 @@
     "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
     "https://z.ai/blog/glm-5.3",
     "https://ziglang.org/devlog/2026/#2026-08-27",
+    "https://zoey-on-github.github.io/blog/macgcc.html",
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-10-22",
-      "subcat": "Models & Datasets",
-      "title": "autotrust/AutoTrust-JEV-27B-v1.1",
-      "url": "https://huggingface.co/autotrust/AutoTrust-JEV-27B-v1.1"
-    },
     {
       "date": "2026-10-22",
       "subcat": "Lobsters Picks",
@@ -1759,6 +1755,12 @@
       "subcat": "JavaScript",
       "title": "JohnHeibel/ClaudeAnimationBase",
       "url": "https://github.com/JohnHeibel/ClaudeAnimationBase"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "Lobsters Picks",
+      "title": "examining the macOS gcc binary",
+      "url": "https://lobste.rs/s/hplfis/examining_macos_gcc_binary"
     }
   ]
 }

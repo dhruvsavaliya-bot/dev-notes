@@ -2231,6 +2231,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/wno4h3/understanding_nix_flakes
 - **Link:** https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/
 
+**Added 2026-10-23**
+
+### [examining the macOS gcc binary](https://zoey-on-github.github.io/blog/macgcc.html)
+- **Source:** zoey-on-github.github.io | **Posted:** 2026-10-22 | **By:** juliethefoxcoon
+- **Community:** 54 score, 16 comments on Lobsters
+- **Tags:** mac, reversing
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/hplfis/examining_macos_gcc_binary
+- **Link:** https://zoey-on-github.github.io/blog/macgcc.html
+
 
 ## Career & Craft
 
