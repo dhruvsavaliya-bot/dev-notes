@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1177 entries and counting** · Last updated: 2026-10-22
+**1178 entries and counting** · Last updated: 2026-10-22
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 250 |
 | [AI / LLM Notes](ai/notes.md) | 237 |
 | [Reading List](articles/reading-list.md) | 239 |
-| [Coding Tips](coding-tips/tips.md) | 239 |
+| [Coding Tips](coding-tips/tips.md) | 240 |
 | [Language Notes](languages/notes.md) | 212 |
 
 ## Latest additions
 
+- **2026-10-22** · *Show & Ask HN* — [Show HN: BetterWispr  Free, open-source dictation for...](https://news.ycombinator.com/item?id=50042333)
 - **2026-10-22** · *Research Papers* — [Design and Tuning of Multi-Agent Systems Using...](http://arxiv.org/abs/2610.29276v1)
 - **2026-10-22** · *JavaScript* — [zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)
 - **2026-10-22** · *Lobsters Picks* — [Flow Typing, A New Lens on Linearity](https://lobste.rs/s/cquwex/flow_typing_new_lens_on_linearity)
 - **2026-10-22** · *Hacker News Picks* — [GitLab Critical Patch Release](https://news.ycombinator.com/item?id=50185869)
-- **2026-10-22** · *Models & Datasets* — [lightx2v/Minimax-h3-Turbo](https://huggingface.co/lightx2v/Minimax-h3-Turbo)
 
 ## How it works
 

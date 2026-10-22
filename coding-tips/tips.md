@@ -1921,6 +1921,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50151036
 - **Link:** https://news.ycombinator.com/item?id=50151036
 
+**Added 2026-10-22**
+
+### [Show HN: BetterWispr – Free, open-source dictation for Mac](https://betterwispr.com/)
+- **Source:** betterwispr.com | **Posted:** 2026-10-11 | **By:** kartik017
+- **Community:** 220 points, 128 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50042333
+- **Link:** https://betterwispr.com/
+
 
 ## Git & Workflow
 

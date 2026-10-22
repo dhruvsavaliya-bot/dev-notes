@@ -117,6 +117,7 @@
     "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
     "https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/",
     "https://bento.page/slides/",
+    "https://betterwispr.com/",
     "https://bevy.org/news/bevy-0-20/",
     "https://binaryigor.com/sqlite-db-simple-in-process-reliable-fast.html",
     "https://blog.cloudflare.com/kitesurf/",
@@ -1408,6 +1409,7 @@
     "https://news.ycombinator.com/item?id=50017301",
     "https://news.ycombinator.com/item?id=50018420",
     "https://news.ycombinator.com/item?id=50039291",
+    "https://news.ycombinator.com/item?id=50042333",
     "https://news.ycombinator.com/item?id=50059096",
     "https://news.ycombinator.com/item?id=50061659",
     "https://news.ycombinator.com/item?id=50063417",
@@ -1662,12 +1664,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "Career & Craft",
-      "title": "I Didnt Stop Building. I Just Left My Laptop.",
-      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "AI & Machine Learning",
       "title": "vinvcn/mattpocock-skills-zh-CN",
       "url": "https://github.com/vinvcn/mattpocock-skills-zh-CN"
@@ -1719,6 +1715,12 @@
       "subcat": "Research Papers",
       "title": "Design and Tuning of Multi-Agent Systems Using...",
       "url": "http://arxiv.org/abs/2610.29276v1"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: BetterWispr  Free, open-source dictation for...",
+      "url": "https://news.ycombinator.com/item?id=50042333"
     }
   ]
 }
