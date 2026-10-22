@@ -1653,6 +1653,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/autotrust/AutoTrust-JEV-27B-v1.1
 
+**Added 2026-10-22**
+
+### [unsloth/LFM2.5-24B-A2B-GGUF](https://huggingface.co/unsloth/LFM2.5-24B-A2B-GGUF)
+- **Stats:** 106 likes | 63,032 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-10-13
+- **Tags:** transformers, gguf, liquid, lfm2.5, edge, moe
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/unsloth/LFM2.5-24B-A2B-GGUF
+
 
 ## Research Papers
 

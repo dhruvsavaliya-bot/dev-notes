@@ -866,6 +866,7 @@
     "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0",
     "https://huggingface.co/tencent/Hunyuan3D-2.1",
     "https://huggingface.co/tencent/Hy3",
+    "https://huggingface.co/unsloth/LFM2.5-24B-A2B-GGUF",
     "https://huggingface.co/unsloth/Qwen-Image-2.1-GGUF",
     "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
@@ -1695,12 +1696,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "Security",
-      "title": "I Stopped Trusting AI Agents With Tools. So I Built a...",
-      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "JavaScript",
       "title": "Show HN: Koi.rest  watch some fish and regain your...",
       "url": "https://news.ycombinator.com/item?id=49837006"
@@ -1752,6 +1747,12 @@
       "subcat": "Rust",
       "title": "A5 v1.0",
       "url": "https://lobste.rs/s/wtthju/a5_v1_0"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Models & Datasets",
+      "title": "unsloth/LFM2.5-24B-A2B-GGUF",
+      "url": "https://huggingface.co/unsloth/LFM2.5-24B-A2B-GGUF"
     }
   ]
 }
