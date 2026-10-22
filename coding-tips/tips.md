@@ -2184,3 +2184,12 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Tags:** wecoded, womenintech, showdev, career
 - **Summary:** We went looking for good posts by women on DEV. Not "inspirational," not "diverse" but just genuinely...
 - **Link:** https://dev.to/sheships/8-posts-by-women-on-dev-that-deserve-more-than-a-once-a-year-spotlight-27dc
+
+**Added 2026-10-22**
+
+### [I Didn’t Stop Building. I Just Left My Laptop.](https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da)
+- **Author:** Aryan Choudhary | **Published:** May 6 | **Read time:** 4 min
+- **Community:** 124 reactions, 56 comments -- a top post in #career
+- **Tags:** career, learning, development, workplace
+- **Summary:** Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...
+- **Link:** https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da

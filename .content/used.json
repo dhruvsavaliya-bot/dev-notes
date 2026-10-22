@@ -236,6 +236,7 @@
     "https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al",
     "https://dev.to/hemapriya_kanagala/what-would-you-tell-someone-early-in-their-career-1k76",
     "https://dev.to/infoinlet1/i-let-ai-write-100-of-my-code-for-30-days-heres-what-broke-1aa0",
+    "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da",
     "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3",
     "https://dev.to/james_anderson_h/most-ai-agents-are-just-if-statements-in-a-trench-coat-3960",
     "https://dev.to/james_anderson_h/people-are-vibe-coding-clones-of-every-paid-app-what-actually-survives-38ak",
@@ -1647,12 +1648,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Making a flexible \"neon\" t-shirt with LED...",
-      "url": "https://news.ycombinator.com/item?id=50008047"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Developer Tools",
       "title": "jiayx/d2r-mobile-build",
       "url": "https://github.com/jiayx/d2r-mobile-build"
@@ -1704,6 +1699,12 @@
       "subcat": "Hacker News Picks",
       "title": "California farmers are struggling to sell grapes as...",
       "url": "https://news.ycombinator.com/item?id=49883539"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Career & Craft",
+      "title": "I Didnt Stop Building. I Just Left My Laptop.",
+      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
     }
   ]
 }
