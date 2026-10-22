@@ -1644,6 +1644,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train
 
+**Added 2026-10-22**
+
+### [autotrust/AutoTrust-JEV-27B-v1.1](https://huggingface.co/autotrust/AutoTrust-JEV-27B-v1.1)
+- **Stats:** 141 likes | 27,292 downloads
+- **Kind:** Hugging Face model | **Task:** text-classification | **Created:** 2026-10-17
+- **Tags:** vllm, safetensors, qwen3_5, text-classification, decision-model, classification
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/autotrust/AutoTrust-JEV-27B-v1.1
+
 
 ## Research Papers
 

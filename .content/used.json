@@ -769,6 +769,7 @@
     "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
     "https://huggingface.co/almanach/camembert-base",
     "https://huggingface.co/audeering/wav2vec2-large-robust-24-ft-age-gender",
+    "https://huggingface.co/autotrust/AutoTrust-JEV-27B-v1.1",
     "https://huggingface.co/blog/agent-intrusion-technical-timeline",
     "https://huggingface.co/briaai/Fibo-2.0-dev",
     "https://huggingface.co/bytedance-research/Lance",
@@ -1687,12 +1688,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "Swift",
-      "title": "laogou717/dogsc",
-      "url": "https://github.com/laogou717/dogsc"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "Models & Datasets",
       "title": "Qwen/Qwen-Image-2.1",
       "url": "https://huggingface.co/Qwen/Qwen-Image-2.1"
@@ -1744,6 +1739,12 @@
       "subcat": "Rust",
       "title": "Highlights from \"I spent 6 years developing a game in...",
       "url": "https://lobste.rs/s/dodzdb/highlights_from_i_spent_6_years"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Models & Datasets",
+      "title": "autotrust/AutoTrust-JEV-27B-v1.1",
+      "url": "https://huggingface.co/autotrust/AutoTrust-JEV-27B-v1.1"
     }
   ]
 }
