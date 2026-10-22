@@ -1354,6 +1354,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=49935038
 - **Link:** https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos
 
+**Added 2026-10-22**
+
+### [laogou717/dogsc](https://github.com/laogou717/dogsc)
+- **Stats:** 593 stars | 78 forks | 8 open issues
+- **Language:** Swift | **Created:** 2026-08-23 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** DogSC — Smooth screen capture and lightweight editing for macOS.
+- **Growth:** averaging ~9 stars/day since launch.
+- **Link:** https://github.com/laogou717/dogsc
+
 
 ## Rust
 

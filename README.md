@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1183 entries and counting** · Last updated: 2026-10-22
+**1184 entries and counting** · Last updated: 2026-10-22
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 239 |
 | [Reading List](articles/reading-list.md) | 240 |
 | [Coding Tips](coding-tips/tips.md) | 240 |
-| [Language Notes](languages/notes.md) | 214 |
+| [Language Notes](languages/notes.md) | 215 |
 
 ## Latest additions
 
+- **2026-10-22** · *Swift* — [laogou717/dogsc](https://github.com/laogou717/dogsc)
 - **2026-10-22** · *PHP* — [karatektus/pl_mail](https://github.com/karatektus/pl_mail)
 - **2026-10-22** · *Hacker News Picks* — [OpenAI models are coming to Google Cloud](https://news.ycombinator.com/item?id=50180079)
 - **2026-10-22** · *Models & Datasets* — [ornith-ai/Ornith-1.5-9B-GGUF](https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF)
 - **2026-10-22** · *Models & Datasets* — [genrobot2025/Gen-HumanEgo](https://huggingface.co/datasets/genrobot2025/Gen-HumanEgo)
-- **2026-10-22** · *Swift* — [Magic Switch: Share Apple Magic...](https://news.ycombinator.com/item?id=49935038)
 
 ## How it works
 
