@@ -1712,6 +1712,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50185869
 - **Link:** https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/
 
+**Added 2026-10-22**
+
+### [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud/)
+- **Source:** openai.com | **Posted:** 2026-10-21 | **By:** armcat
+- **Community:** 283 points, 117 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50180079
+- **Link:** https://openai.com/index/openai-models-google-cloud/
+
 
 ## DevOps & Cloud
 

@@ -1439,6 +1439,7 @@
     "https://news.ycombinator.com/item?id=50168396",
     "https://news.ycombinator.com/item?id=50174687",
     "https://news.ycombinator.com/item?id=50175070",
+    "https://news.ycombinator.com/item?id=50180079",
     "https://news.ycombinator.com/item?id=50181175",
     "https://news.ycombinator.com/item?id=50182526",
     "https://news.ycombinator.com/item?id=50185869",
@@ -1463,6 +1464,7 @@
     "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
     "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
     "https://openai.com/index/navier-stokes-solution/",
+    "https://openai.com/index/openai-models-google-cloud/",
     "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
     "https://openchamber.dev/",
     "https://openfatigue.ai/",
@@ -1668,12 +1670,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "Swift",
-      "title": "A minimal kernel in Swift, running in QEMU",
-      "url": "https://news.ycombinator.com/item?id=49977351"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "Models & Datasets",
       "title": "lightx2v/Minimax-h3-Turbo",
       "url": "https://huggingface.co/lightx2v/Minimax-h3-Turbo"
@@ -1725,6 +1721,12 @@
       "subcat": "Models & Datasets",
       "title": "ornith-ai/Ornith-1.5-9B-GGUF",
       "url": "https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Hacker News Picks",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://news.ycombinator.com/item?id=50180079"
     }
   ]
 }
