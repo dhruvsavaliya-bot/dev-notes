@@ -153,6 +153,7 @@
     "https://cactuscompute.com/needle",
     "https://cakehonolulu.github.io/linux-on-32x/",
     "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+    "https://carette.xyz/posts/minimal_swift_kernel_on_qemu/",
     "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
     "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
     "https://cheapfoodmap.com/",
@@ -1385,6 +1386,7 @@
     "https://news.ycombinator.com/item?id=49965308",
     "https://news.ycombinator.com/item?id=49970667",
     "https://news.ycombinator.com/item?id=49971230",
+    "https://news.ycombinator.com/item?id=49977351",
     "https://news.ycombinator.com/item?id=49977588",
     "https://news.ycombinator.com/item?id=49978595",
     "https://news.ycombinator.com/item?id=49982498",
@@ -1653,12 +1655,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "Models & Datasets",
-      "title": "briaai/Fibo-2.0-dev",
-      "url": "https://huggingface.co/briaai/Fibo-2.0-dev"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "Hacker News Picks",
       "title": "Patch the Planet: global response coordination as...",
       "url": "https://news.ycombinator.com/item?id=50181175"
@@ -1710,6 +1706,12 @@
       "subcat": "Hacker News Picks",
       "title": "Oregon lawmakers approve money to buy an iconic...",
       "url": "https://news.ycombinator.com/item?id=50182526"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Swift",
+      "title": "A minimal kernel in Swift, running in QEMU",
+      "url": "https://news.ycombinator.com/item?id=49977351"
     }
   ]
 }

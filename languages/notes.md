@@ -1315,6 +1315,15 @@ Snippets and gotchas across languages.
 - **Summary:** Every internal tool I need sits behind SSH. Grafana, Prometheus, the staging clusters, internal AI...
 - **Link:** https://dev.to/malusev998/why-i-built-an-ssh-config-and-tunnel-manager-for-macos-58n8
 
+**Added 2026-10-22**
+
+### [A minimal kernel in Swift, running in QEMU](https://carette.xyz/posts/minimal_swift_kernel_on_qemu/)
+- **Source:** carette.xyz | **Posted:** 2026-10-06 | **By:** surprisetalk
+- **Community:** 109 points, 27 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49977351
+- **Link:** https://carette.xyz/posts/minimal_swift_kernel_on_qemu/
+
 
 ## Rust
 
