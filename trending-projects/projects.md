@@ -1114,6 +1114,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~29 stars/day since launch.
 - **Link:** https://github.com/vinvcn/mattpocock-skills-zh-CN
 
+**Added 2026-10-23**
+
+### [QoderAI/better-harness](https://github.com/QoderAI/better-harness)
+- **Stats:** 2,400 stars | 199 forks | 11 open issues
+- **Language:** JavaScript | **Created:** 2026-07-21 | **License:** MIT
+- **Topics:** agent-plugin, claude-code, codex, cursor, harness-design, harness-engineering
+- **What it is:** An open-source Harness Engineering platform for coding agents—define harnesses as code, run controlled experiments, inspect evidence, and compare outcomes. Turn task evidence into actionable team and organization insights.
+- **Growth:** averaging ~25 stars/day since launch.
+- **Link:** https://github.com/QoderAI/better-harness
+
 
 ## Other Cool Projects
 

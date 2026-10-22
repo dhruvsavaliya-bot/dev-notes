@@ -456,6 +456,7 @@
     "https://github.com/Player-YN/BrowserKitten",
     "https://github.com/Player-YN/PawWork_ZhuaZhua",
     "https://github.com/Ptero-ai/Ptero",
+    "https://github.com/QoderAI/better-harness",
     "https://github.com/QuipNetwork/quip-solver",
     "https://github.com/QwenLM/Qwen-MM-Plugins",
     "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
@@ -1706,12 +1707,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "Hacker News Picks",
-      "title": "What Is Gridifcation",
-      "url": "https://news.ycombinator.com/item?id=50150163"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "Other Cool Projects",
       "title": "obsidianmd/pele",
       "url": "https://github.com/obsidianmd/pele"
@@ -1763,6 +1758,12 @@
       "subcat": "Hacker News Picks",
       "title": "Getting ready to operate GNU Taler in Germany",
       "url": "https://news.ycombinator.com/item?id=50197404"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "AI & Machine Learning",
+      "title": "QoderAI/better-harness",
+      "url": "https://github.com/QoderAI/better-harness"
     }
   ]
 }
