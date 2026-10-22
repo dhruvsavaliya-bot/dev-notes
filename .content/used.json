@@ -160,6 +160,7 @@
     "https://cakehonolulu.github.io/linux-on-32x/",
     "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
     "https://carette.xyz/posts/minimal_swift_kernel_on_qemu/",
+    "https://carrierexplode.com/",
     "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
     "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
     "https://cheapfoodmap.com/",
@@ -1438,6 +1439,7 @@
     "https://news.ycombinator.com/item?id=50009295",
     "https://news.ycombinator.com/item?id=50017301",
     "https://news.ycombinator.com/item?id=50018420",
+    "https://news.ycombinator.com/item?id=50024499",
     "https://news.ycombinator.com/item?id=50039291",
     "https://news.ycombinator.com/item?id=50042333",
     "https://news.ycombinator.com/item?id=50059096",
@@ -1699,12 +1701,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "Hacker News Picks",
-      "title": "Bill Draper has died",
-      "url": "https://news.ycombinator.com/item?id=49953288"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "Rust",
       "title": "Highlights from \"I spent 6 years developing a game in...",
       "url": "https://lobste.rs/s/dodzdb/highlights_from_i_spent_6_years"
@@ -1756,6 +1752,12 @@
       "subcat": "PHP",
       "title": "savvyagents/larasend",
       "url": "https://github.com/savvyagents/larasend"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy...",
+      "url": "https://news.ycombinator.com/item?id=50024499"
     }
   ]
 }

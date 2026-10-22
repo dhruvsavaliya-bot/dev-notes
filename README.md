@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1201 entries and counting** · Last updated: 2026-10-23
+**1202 entries and counting** · Last updated: 2026-10-23
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 251 |
 | [AI / LLM Notes](ai/notes.md) | 243 |
 | [Reading List](articles/reading-list.md) | 244 |
-| [Coding Tips](coding-tips/tips.md) | 243 |
+| [Coding Tips](coding-tips/tips.md) | 244 |
 | [Language Notes](languages/notes.md) | 220 |
 
 ## Latest additions
 
+- **2026-10-23** · *Show & Ask HN* — [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy...](https://news.ycombinator.com/item?id=50024499)
 - **2026-10-23** · *PHP* — [savvyagents/larasend](https://github.com/savvyagents/larasend)
 - **2026-10-22** · *Lobsters Picks* — [Understanding Nix flakes](https://lobste.rs/s/wno4h3/understanding_nix_flakes)
 - **2026-10-22** · *Models & Datasets* — [unsloth/LFM2.5-24B-A2B-GGUF](https://huggingface.co/unsloth/LFM2.5-24B-A2B-GGUF)
 - **2026-10-22** · *Rust* — [A5 v1.0](https://lobste.rs/s/wtthju/a5_v1_0)
-- **2026-10-22** · *Other Cool Projects* — [obsidianmd/pele](https://github.com/obsidianmd/pele)
 
 ## How it works
 

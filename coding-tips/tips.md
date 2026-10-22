@@ -1930,6 +1930,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50042333
 - **Link:** https://betterwispr.com/
 
+**Added 2026-10-23**
+
+### [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/)
+- **Source:** carrierexplode.com | **Posted:** 2026-10-09 | **By:** simplyalec
+- **Community:** 433 points, 55 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50024499
+- **Link:** https://carrierexplode.com/
+
 
 ## Git & Workflow
 
