@@ -1739,6 +1739,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50150163
 - **Link:** https://musicalform.substack.com/p/what-is-gridifcation
 
+**Added 2026-10-23**
+
+### [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html)
+- **Source:** www.taler.net | **Posted:** 2026-10-22 | **By:** dewey
+- **Community:** 183 points, 61 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50197404
+- **Link:** https://www.taler.net/en/news/2026-13.html
+
 
 ## DevOps & Cloud
 

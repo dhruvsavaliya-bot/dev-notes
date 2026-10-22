@@ -1474,6 +1474,7 @@
     "https://news.ycombinator.com/item?id=50181175",
     "https://news.ycombinator.com/item?id=50182526",
     "https://news.ycombinator.com/item?id=50185869",
+    "https://news.ycombinator.com/item?id=50197404",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -1675,6 +1676,7 @@
     "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
     "https://www.statichost.eu/",
     "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies",
+    "https://www.taler.net/en/news/2026-13.html",
     "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
     "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
     "https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html",
@@ -1702,12 +1704,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-10-22",
-      "subcat": "Lobsters Picks",
-      "title": "Railway Security Disclosure: Wednesday October 21st",
-      "url": "https://lobste.rs/s/wi4nnl/railway_security_disclosure_wednesday"
-    },
     {
       "date": "2026-10-22",
       "subcat": "Hacker News Picks",
@@ -1761,6 +1757,12 @@
       "subcat": "Lobsters Picks",
       "title": "examining the macOS gcc binary",
       "url": "https://lobste.rs/s/hplfis/examining_macos_gcc_binary"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "Hacker News Picks",
+      "title": "Getting ready to operate GNU Taler in Germany",
+      "url": "https://news.ycombinator.com/item?id=50197404"
     }
   ]
 }
