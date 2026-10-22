@@ -198,6 +198,7 @@
     "https://dev.to/danielhe4rt/youre-not-an-impostor-you-just-started-from-a-different-line-2lph",
     "https://dev.to/dannwaneri/super-intelligent-yes-men-are-we-training-ai-to-ignore-the-truth-epp",
     "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1",
+    "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
     "https://dev.to/dev_kiran/shift-left-code-review-how-qodo-turns-your-coding-agent-into-its-own-first-reviewer-58fc",
     "https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9",
     "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
@@ -1678,12 +1679,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "Swift",
-      "title": "Magic Switch: Share Apple Magic...",
-      "url": "https://news.ycombinator.com/item?id=49935038"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "Models & Datasets",
       "title": "genrobot2025/Gen-HumanEgo",
       "url": "https://huggingface.co/datasets/genrobot2025/Gen-HumanEgo"
@@ -1735,6 +1730,12 @@
       "subcat": "Lobsters Picks",
       "title": "What requirements don't you have?",
       "url": "https://lobste.rs/s/nuepys/what_requirements_don_t_you_have"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Security",
+      "title": "I Stopped Trusting AI Agents With Tools. So I Built a...",
+      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb"
     }
   ]
 }

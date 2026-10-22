@@ -1772,6 +1772,15 @@ Fresh dev articles and blog posts.
 - **Summary:** In March 2026, a financial services company discovered that their customer-facing AI agent had been...
 - **Link:** https://dev.to/james_anderson_h/prompt-injection-is-the-new-sql-injection-and-were-not-ready-4ea4
 
+**Added 2026-10-22**
+
+### [I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.](https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb)
+- **Author:** Debashish Ghosal | **Published:** Aug 13 | **Read time:** 14 min
+- **Community:** 54 reactions, 61 comments -- a top post in #security
+- **Tags:** ai, agents, security, gatekeeper
+- **Summary:** Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...
+- **Link:** https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb
+
 
 ## System Design & Architecture
 
