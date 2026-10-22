@@ -2202,6 +2202,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/nuepys/what_requirements_don_t_you_have
 - **Link:** https://www.seangoedecke.com/what-requirements-dont-you-have/
 
+**Added 2026-10-22**
+
+### [Railway Security Disclosure: Wednesday October 21st](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
+- **Source:** blog.railway.com | **Posted:** 2026-10-21 | **By:** veverkap
+- **Community:** 19 score, 8 comments on Lobsters
+- **Tags:** devops, security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/wi4nnl/railway_security_disclosure_wednesday
+- **Link:** https://blog.railway.com/p/security-disclosure-wednesday-october-21st
+
 
 ## Career & Craft
 

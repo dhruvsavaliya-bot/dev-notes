@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1194 entries and counting** · Last updated: 2026-10-22
+**1195 entries and counting** · Last updated: 2026-10-22
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 250 |
 | [AI / LLM Notes](ai/notes.md) | 242 |
 | [Reading List](articles/reading-list.md) | 243 |
-| [Coding Tips](coding-tips/tips.md) | 241 |
+| [Coding Tips](coding-tips/tips.md) | 242 |
 | [Language Notes](languages/notes.md) | 218 |
 
 ## Latest additions
 
+- **2026-10-22** · *Lobsters Picks* — [Railway Security Disclosure: Wednesday October 21st](https://lobste.rs/s/wi4nnl/railway_security_disclosure_wednesday)
 - **2026-10-22** · *Models & Datasets* — [autotrust/AutoTrust-JEV-27B-v1.1](https://huggingface.co/autotrust/AutoTrust-JEV-27B-v1.1)
 - **2026-10-22** · *Rust* — [Highlights from "I spent 6 years developing a game in...](https://lobste.rs/s/dodzdb/highlights_from_i_spent_6_years)
 - **2026-10-22** · *Hacker News Picks* — [Bill Draper has died](https://news.ycombinator.com/item?id=49953288)
 - **2026-10-22** · *Ruby* — [Hanami, Why?: Model Citizens](https://lobste.rs/s/ygp18d/hanami_why_model_citizens)
-- **2026-10-22** · *JavaScript* — [Show HN: Koi.rest  watch some fish and regain your...](https://news.ycombinator.com/item?id=49837006)
 
 ## How it works
 
