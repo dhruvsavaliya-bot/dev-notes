@@ -2212,6 +2212,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/wi4nnl/railway_security_disclosure_wednesday
 - **Link:** https://blog.railway.com/p/security-disclosure-wednesday-october-21st
 
+**Added 2026-10-22**
+
+### [Understanding Nix flakes](https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/)
+- **Source:** lwn.net | **Posted:** 2026-10-21 | **By:** vinipsmaker
+- **Community:** 25 score, 0 comments on Lobsters
+- **Tags:** nix
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/wno4h3/understanding_nix_flakes
+- **Link:** https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/
+
 
 ## Career & Craft
 

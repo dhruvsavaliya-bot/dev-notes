@@ -1018,6 +1018,7 @@
     "https://lobste.rs/s/whzj8z/jep_544_ahead_time_code_compilation",
     "https://lobste.rs/s/wi4nnl/railway_security_disclosure_wednesday",
     "https://lobste.rs/s/wn293o/interactive_refactoring_gopls",
+    "https://lobste.rs/s/wno4h3/understanding_nix_flakes",
     "https://lobste.rs/s/wq1csk/elixir_v1_20_released_now_gradually_typed",
     "https://lobste.rs/s/wtthju/a5_v1_0",
     "https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites",
@@ -1036,6 +1037,7 @@
     "https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/",
     "https://lumi.codeberg.page/blog/software-community.html",
     "https://lwn.net/Articles/1086041/",
+    "https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/",
     "https://maevyn.codes/decoherence",
     "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
     "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
@@ -1696,12 +1698,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "JavaScript",
-      "title": "Show HN: Koi.rest  watch some fish and regain your...",
-      "url": "https://news.ycombinator.com/item?id=49837006"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "Ruby",
       "title": "Hanami, Why?: Model Citizens",
       "url": "https://lobste.rs/s/ygp18d/hanami_why_model_citizens"
@@ -1753,6 +1749,12 @@
       "subcat": "Models & Datasets",
       "title": "unsloth/LFM2.5-24B-A2B-GGUF",
       "url": "https://huggingface.co/unsloth/LFM2.5-24B-A2B-GGUF"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Lobsters Picks",
+      "title": "Understanding Nix flakes",
+      "url": "https://lobste.rs/s/wno4h3/understanding_nix_flakes"
     }
   ]
 }
