@@ -2192,6 +2192,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/cquwex/flow_typing_new_lens_on_linearity
 - **Link:** https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/
 
+**Added 2026-10-22**
+
+### [What requirements don't you have?](https://www.seangoedecke.com/what-requirements-dont-you-have/)
+- **Source:** www.seangoedecke.com | **Posted:** 2026-10-18 | **By:** nolan
+- **Community:** 22 score, 5 comments on Lobsters
+- **Tags:** ai-tooling, practices
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/nuepys/what_requirements_don_t_you_have
+- **Link:** https://www.seangoedecke.com/what-requirements-dont-you-have/
+
 
 ## Career & Craft
 

@@ -973,6 +973,7 @@
     "https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself",
     "https://lobste.rs/s/nbxnh7/inside_intel_8087_chip_floating_point",
     "https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os",
+    "https://lobste.rs/s/nuepys/what_requirements_don_t_you_have",
     "https://lobste.rs/s/nxspz6/no_man_is_island",
     "https://lobste.rs/s/o0ixth/haxy_net_is_live_haxy_git_forge_devlog",
     "https://lobste.rs/s/o8xo9z/importance_communities_around_software",
@@ -1645,6 +1646,7 @@
     "https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return",
     "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
     "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
+    "https://www.seangoedecke.com/what-requirements-dont-you-have/",
     "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
     "https://www.statichost.eu/",
     "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies",
@@ -1674,12 +1676,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-10-22",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: BetterWispr  Free, open-source dictation for...",
-      "url": "https://news.ycombinator.com/item?id=50042333"
-    },
     {
       "date": "2026-10-22",
       "subcat": "Swift",
@@ -1733,6 +1729,12 @@
       "subcat": "Lobsters Picks",
       "title": "We're sunsetting Codeberg Pages v2",
       "url": "https://lobste.rs/s/e7rvsp/we_re_sunsetting_codeberg_pages_v2"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Lobsters Picks",
+      "title": "What requirements don't you have?",
+      "url": "https://lobste.rs/s/nuepys/what_requirements_don_t_you_have"
     }
   ]
 }
