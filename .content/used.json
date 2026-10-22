@@ -1043,6 +1043,7 @@
     "https://memories.gallery/",
     "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
     "https://mistral.ai/news/voxtral-3/",
+    "https://musicalform.substack.com/p/what-is-gridifcation",
     "https://mynoise.net/vlog.php?ep=20260803",
     "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
     "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
@@ -1447,6 +1448,7 @@
     "https://news.ycombinator.com/item?id=50121562",
     "https://news.ycombinator.com/item?id=50122736",
     "https://news.ycombinator.com/item?id=50140584",
+    "https://news.ycombinator.com/item?id=50150163",
     "https://news.ycombinator.com/item?id=50151036",
     "https://news.ycombinator.com/item?id=50152307",
     "https://news.ycombinator.com/item?id=50154518",
@@ -1690,12 +1692,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "Models & Datasets",
-      "title": "HuggingFaceCode/stack-v3-train",
-      "url": "https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "Lobsters Picks",
       "title": "We're sunsetting Codeberg Pages v2",
       "url": "https://lobste.rs/s/e7rvsp/we_re_sunsetting_codeberg_pages_v2"
@@ -1747,6 +1743,12 @@
       "subcat": "Lobsters Picks",
       "title": "Railway Security Disclosure: Wednesday October 21st",
       "url": "https://lobste.rs/s/wi4nnl/railway_security_disclosure_wednesday"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Hacker News Picks",
+      "title": "What Is Gridifcation",
+      "url": "https://news.ycombinator.com/item?id=50150163"
     }
   ]
 }
