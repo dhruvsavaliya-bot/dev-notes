@@ -1608,6 +1608,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/lightx2v/Minimax-h3-Turbo
 
+**Added 2026-10-22**
+
+### [genrobot2025/Gen-HumanEgo](https://huggingface.co/datasets/genrobot2025/Gen-HumanEgo)
+- **Stats:** 80 likes | 551,813 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-07-13
+- **Tags:** embodied-ai, robotics, egocentric, hand-tracking, trajectory, slam
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/genrobot2025/Gen-HumanEgo
+
 
 ## Research Papers
 

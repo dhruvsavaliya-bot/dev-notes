@@ -793,6 +793,7 @@
     "https://huggingface.co/datasets/espnet/yodas2",
     "https://huggingface.co/datasets/fka/prompts.chat",
     "https://huggingface.co/datasets/garage-bAInd/Open-Platypus",
+    "https://huggingface.co/datasets/genrobot2025/Gen-HumanEgo",
     "https://huggingface.co/datasets/glaiveai/glaive-function-calling-v2",
     "https://huggingface.co/datasets/google-research-datasets/mbpp",
     "https://huggingface.co/datasets/harborframework/terminal-bench-2.0",
@@ -1666,12 +1667,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "Ruby",
-      "title": "I no longer care to work on any Ruby gems so I've...",
-      "url": "https://news.ycombinator.com/item?id=50154518"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "Hacker News Picks",
       "title": "Oregon lawmakers approve money to buy an iconic...",
       "url": "https://news.ycombinator.com/item?id=50182526"
@@ -1723,6 +1718,12 @@
       "subcat": "Swift",
       "title": "Magic Switch: Share Apple Magic...",
       "url": "https://news.ycombinator.com/item?id=49935038"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Models & Datasets",
+      "title": "genrobot2025/Gen-HumanEgo",
+      "url": "https://huggingface.co/datasets/genrobot2025/Gen-HumanEgo"
     }
   ]
 }
