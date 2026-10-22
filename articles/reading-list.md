@@ -2207,6 +2207,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel
 - **Link:** https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/
 
+**Added 2026-10-22**
+
+### [We're sunsetting Codeberg Pages v2](https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html)
+- **Source:** blog.codeberg.org | **Posted:** 2026-10-16 | **By:** FedericoSchonborn
+- **Community:** 37 score, 1 comments on Lobsters
+- **Tags:** web
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/e7rvsp/we_re_sunsetting_codeberg_pages_v2
+- **Link:** https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html
+
 
 ## Performance
 

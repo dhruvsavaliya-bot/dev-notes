@@ -122,6 +122,7 @@
     "https://binaryigor.com/sqlite-db-simple-in-process-reliable-fast.html",
     "https://blog.cloudflare.com/kitesurf/",
     "https://blog.cloudflare.com/typescript-rust-port/",
+    "https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html",
     "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
     "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
     "https://blog.glyph.im/2026/10/programming-isnt-special.html",
@@ -945,6 +946,7 @@
     "https://lobste.rs/s/dpfpr3/goroutine_leak_profiles",
     "https://lobste.rs/s/dzvt0w/type_inference_all_constructs_next_15",
     "https://lobste.rs/s/e5vf6k/don_t_couple_your_go_code_github",
+    "https://lobste.rs/s/e7rvsp/we_re_sunsetting_codeberg_pages_v2",
     "https://lobste.rs/s/ecxril/lineageos_24_0_released",
     "https://lobste.rs/s/eesu8d/bun_1_4",
     "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from",
@@ -1674,12 +1676,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "Research Papers",
-      "title": "Design and Tuning of Multi-Agent Systems Using...",
-      "url": "http://arxiv.org/abs/2610.29276v1"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "Show & Ask HN",
       "title": "Show HN: BetterWispr  Free, open-source dictation for...",
       "url": "https://news.ycombinator.com/item?id=50042333"
@@ -1731,6 +1727,12 @@
       "subcat": "Models & Datasets",
       "title": "HuggingFaceCode/stack-v3-train",
       "url": "https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Lobsters Picks",
+      "title": "We're sunsetting Codeberg Pages v2",
+      "url": "https://lobste.rs/s/e7rvsp/we_re_sunsetting_codeberg_pages_v2"
     }
   ]
 }
