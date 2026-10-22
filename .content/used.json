@@ -413,6 +413,7 @@
     "https://github.com/IntegralPilot/rustc_codegen_jvm",
     "https://github.com/JetBrains/kotlin-toolchain",
     "https://github.com/Jia-Ethan/codex-keysmith",
+    "https://github.com/JohnHeibel/ClaudeAnimationBase",
     "https://github.com/JustVugg/colibri",
     "https://github.com/KKKKhazix/AIHOT",
     "https://github.com/KKKKhazix/human-writing",
@@ -1701,12 +1702,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "Rust",
-      "title": "Highlights from \"I spent 6 years developing a game in...",
-      "url": "https://lobste.rs/s/dodzdb/highlights_from_i_spent_6_years"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "Models & Datasets",
       "title": "autotrust/AutoTrust-JEV-27B-v1.1",
       "url": "https://huggingface.co/autotrust/AutoTrust-JEV-27B-v1.1"
@@ -1758,6 +1753,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy...",
       "url": "https://news.ycombinator.com/item?id=50024499"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "JavaScript",
+      "title": "JohnHeibel/ClaudeAnimationBase",
+      "url": "https://github.com/JohnHeibel/ClaudeAnimationBase"
     }
   ]
 }

@@ -308,6 +308,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=49837006
 - **Link:** https://koi.rest
 
+**Added 2026-10-23**
+
+### [JohnHeibel/ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase)
+- **Stats:** 1,566 stars | 153 forks | 7 open issues
+- **Language:** JavaScript | **Created:** 2026-09-23 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model
+- **Growth:** averaging ~52 stars/day since launch.
+- **Link:** https://github.com/JohnHeibel/ClaudeAnimationBase
+
 
 ## TypeScript
 
