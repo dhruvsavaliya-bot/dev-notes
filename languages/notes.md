@@ -1535,6 +1535,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me
 - **Link:** https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/
 
+**Added 2026-10-22**
+
+### [Highlights from "I spent 6 years developing a game in Rust and it just shipped, AMA" (2024)](https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust)
+- **Source:** gamesbymason.com | **Posted:** 2026-10-11 | **By:** PuercoPop
+- **Community:** 24 score, 8 comments on Lobsters
+- **Tags:** games, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/dodzdb/highlights_from_i_spent_6_years
+- **Link:** https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust
+
 
 ## Elixir
 

@@ -363,6 +363,7 @@
     "https://frantic.im/mirage/",
     "https://futhark-lang.org/blog/2026-10-14-defining-division.html",
     "https://gabrieloc.com/2026/09/15/perspective.html",
+    "https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust",
     "https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html",
     "https://gegell.github.io/posts/factorio-rng/",
     "https://gist.github.com/FlameyosSnowy/a49a35ba006238be55d8c3e410c31061",
@@ -946,6 +947,7 @@
     "https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday",
     "https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has",
     "https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline",
+    "https://lobste.rs/s/dodzdb/highlights_from_i_spent_6_years",
     "https://lobste.rs/s/dpfpr3/goroutine_leak_profiles",
     "https://lobste.rs/s/dzvt0w/type_inference_all_constructs_next_15",
     "https://lobste.rs/s/e5vf6k/don_t_couple_your_go_code_github",
@@ -1685,12 +1687,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "PHP",
-      "title": "karatektus/pl_mail",
-      "url": "https://github.com/karatektus/pl_mail"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "Swift",
       "title": "laogou717/dogsc",
       "url": "https://github.com/laogou717/dogsc"
@@ -1742,6 +1738,12 @@
       "subcat": "Hacker News Picks",
       "title": "Bill Draper has died",
       "url": "https://news.ycombinator.com/item?id=49953288"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Rust",
+      "title": "Highlights from \"I spent 6 years developing a game in...",
+      "url": "https://lobste.rs/s/dodzdb/highlights_from_i_spent_6_years"
     }
   ]
 }
