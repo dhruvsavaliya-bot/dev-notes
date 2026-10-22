@@ -1209,6 +1209,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50154518
 - **Link:** https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository
 
+**Added 2026-10-22**
+
+### [Hanami, Why?: Model Citizens](https://aaronmallen.me/writing/hanami-why-model-citizens)
+- **Source:** aaronmallen.me | **Posted:** 2026-10-19 | **By:** aaronmallen
+- **Community:** 20 score, 0 comments on Lobsters
+- **Tags:** ruby
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/ygp18d/hanami_why_model_citizens
+- **Link:** https://aaronmallen.me/writing/hanami-why-model-citizens
+
 
 ## Swift
 
