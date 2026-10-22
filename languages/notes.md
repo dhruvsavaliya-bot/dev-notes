@@ -1545,6 +1545,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/dodzdb/highlights_from_i_spent_6_years
 - **Link:** https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust
 
+**Added 2026-10-22**
+
+### [A5 v1.0](https://a5geo.org/blog/2026/10/14/a5-v1)
+- **Source:** a5geo.org | **Posted:** 2026-10-19 | **By:** pheelicks
+- **Community:** 28 score, 13 comments on Lobsters
+- **Tags:** compsci, math, rust, visualization
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/wtthju/a5_v1_0
+- **Link:** https://a5geo.org/blog/2026/10/14/a5-v1
+
 
 ## Elixir
 

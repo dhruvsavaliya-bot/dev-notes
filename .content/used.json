@@ -83,6 +83,7 @@
     "http://www.ianlandsman.com/2012/02/22/laravel",
     "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
     "https://00f.net/2026/10/06/zeroization-1/",
+    "https://a5geo.org/blog/2026/10/14/a5-v1",
     "https://aaronmallen.me/writing/hanami-why-introductions",
     "https://aaronmallen.me/writing/hanami-why-model-citizens",
     "https://acceptmarkdown.com/",
@@ -1017,6 +1018,7 @@
     "https://lobste.rs/s/wi4nnl/railway_security_disclosure_wednesday",
     "https://lobste.rs/s/wn293o/interactive_refactoring_gopls",
     "https://lobste.rs/s/wq1csk/elixir_v1_20_released_now_gradually_typed",
+    "https://lobste.rs/s/wtthju/a5_v1_0",
     "https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites",
     "https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel",
     "https://lobste.rs/s/xpyahx/grubby_static_site_generator_for_git",
@@ -1693,12 +1695,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "Lobsters Picks",
-      "title": "What requirements don't you have?",
-      "url": "https://lobste.rs/s/nuepys/what_requirements_don_t_you_have"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "Security",
       "title": "I Stopped Trusting AI Agents With Tools. So I Built a...",
       "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb"
@@ -1750,6 +1746,12 @@
       "subcat": "Other Cool Projects",
       "title": "obsidianmd/pele",
       "url": "https://github.com/obsidianmd/pele"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Rust",
+      "title": "A5 v1.0",
+      "url": "https://lobste.rs/s/wtthju/a5_v1_0"
     }
   ]
 }

@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1197 entries and counting** · Last updated: 2026-10-22
+**1198 entries and counting** · Last updated: 2026-10-22
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 242 |
 | [Reading List](articles/reading-list.md) | 244 |
 | [Coding Tips](coding-tips/tips.md) | 242 |
-| [Language Notes](languages/notes.md) | 218 |
+| [Language Notes](languages/notes.md) | 219 |
 
 ## Latest additions
 
+- **2026-10-22** · *Rust* — [A5 v1.0](https://lobste.rs/s/wtthju/a5_v1_0)
 - **2026-10-22** · *Other Cool Projects* — [obsidianmd/pele](https://github.com/obsidianmd/pele)
 - **2026-10-22** · *Hacker News Picks* — [What Is Gridifcation](https://news.ycombinator.com/item?id=50150163)
 - **2026-10-22** · *Lobsters Picks* — [Railway Security Disclosure: Wednesday October 21st](https://lobste.rs/s/wi4nnl/railway_security_disclosure_wednesday)
 - **2026-10-22** · *Models & Datasets* — [autotrust/AutoTrust-JEV-27B-v1.1](https://huggingface.co/autotrust/AutoTrust-JEV-27B-v1.1)
-- **2026-10-22** · *Rust* — [Highlights from "I spent 6 years developing a game in...](https://lobste.rs/s/dodzdb/highlights_from_i_spent_6_years)
 
 ## How it works
 
