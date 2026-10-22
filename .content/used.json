@@ -589,6 +589,7 @@
     "https://github.com/jub0t/concat",
     "https://github.com/jwilk/python-syntax-errors",
     "https://github.com/kacperkapusciak/goldie",
+    "https://github.com/karatektus/pl_mail",
     "https://github.com/kelos-dev/kelos",
     "https://github.com/kirodotdev/KiroCrew",
     "https://github.com/komi-store/komi-store",
@@ -1670,12 +1671,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "Models & Datasets",
-      "title": "lightx2v/Minimax-h3-Turbo",
-      "url": "https://huggingface.co/lightx2v/Minimax-h3-Turbo"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "Hacker News Picks",
       "title": "GitLab Critical Patch Release",
       "url": "https://news.ycombinator.com/item?id=50185869"
@@ -1727,6 +1722,12 @@
       "subcat": "Hacker News Picks",
       "title": "OpenAI models are coming to Google Cloud",
       "url": "https://news.ycombinator.com/item?id=50180079"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "PHP",
+      "title": "karatektus/pl_mail",
+      "url": "https://github.com/karatektus/pl_mail"
     }
   ]
 }

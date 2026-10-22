@@ -1051,6 +1051,17 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~23 stars/day since launch.
 - **Link:** https://github.com/Ptero-ai/Ptero
 
+**Added 2026-10-22**
+
+### [karatektus/pl_mail](https://github.com/karatektus/pl_mail)
+- **Stats:** 406 stars | 34 forks | 61 open issues
+- **Language:** PHP | **Created:** 2026-07-02 | **License:** AGPL-3.0
+- **Topics:** none listed
+- **What it is:** Self-hosted, Gmail-style mail client. Multi-account IMAP, threaded conversations, real-time push via IMAP IDLE + Mercure. Built with Symfony, FrankenPHP, Hotwire Turbo. Clone and docker compose up.
+- **Growth:** averaging ~3 stars/day since launch.
+- **Link:** https://github.com/karatektus/pl_mail
+
+
 ## Ruby
 
 **Added 2026-10-05**
