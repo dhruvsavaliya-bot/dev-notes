@@ -848,6 +848,7 @@
     "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
     "https://huggingface.co/ornith-ai/Ornith-1.0-35B",
     "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-NVFP4",
+    "https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF",
     "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit",
     "https://huggingface.co/prompthero/openjourney",
     "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0",
@@ -1667,12 +1668,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "Hacker News Picks",
-      "title": "Oregon lawmakers approve money to buy an iconic...",
-      "url": "https://news.ycombinator.com/item?id=50182526"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "Swift",
       "title": "A minimal kernel in Swift, running in QEMU",
       "url": "https://news.ycombinator.com/item?id=49977351"
@@ -1724,6 +1719,12 @@
       "subcat": "Models & Datasets",
       "title": "genrobot2025/Gen-HumanEgo",
       "url": "https://huggingface.co/datasets/genrobot2025/Gen-HumanEgo"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Models & Datasets",
+      "title": "ornith-ai/Ornith-1.5-9B-GGUF",
+      "url": "https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF"
     }
   ]
 }

@@ -1617,6 +1617,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/genrobot2025/Gen-HumanEgo
 
+**Added 2026-10-22**
+
+### [ornith-ai/Ornith-1.5-9B-GGUF](https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF)
+- **Stats:** 573 likes | 5,040,182 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-08-19
+- **Tags:** transformers, gguf, text-generation, endpoints_compatible, conversational
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF
+
 
 ## Research Papers
 
