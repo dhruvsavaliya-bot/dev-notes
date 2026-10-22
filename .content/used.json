@@ -628,6 +628,7 @@
     "https://github.com/noonghunna/club-3090",
     "https://github.com/nyblnet/bento",
     "https://github.com/nykooi1/vibe-wise",
+    "https://github.com/obsidianmd/pele",
     "https://github.com/omacom/try-omarchy",
     "https://github.com/omdsh-dev/DSH-better-sidebar",
     "https://github.com/onyx-dot-app/onyx",
@@ -1693,12 +1694,6 @@
     {
       "date": "2026-10-22",
       "subcat": "Lobsters Picks",
-      "title": "We're sunsetting Codeberg Pages v2",
-      "url": "https://lobste.rs/s/e7rvsp/we_re_sunsetting_codeberg_pages_v2"
-    },
-    {
-      "date": "2026-10-22",
-      "subcat": "Lobsters Picks",
       "title": "What requirements don't you have?",
       "url": "https://lobste.rs/s/nuepys/what_requirements_don_t_you_have"
     },
@@ -1749,6 +1744,12 @@
       "subcat": "Hacker News Picks",
       "title": "What Is Gridifcation",
       "url": "https://news.ycombinator.com/item?id=50150163"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Other Cool Projects",
+      "title": "obsidianmd/pele",
+      "url": "https://github.com/obsidianmd/pele"
     }
   ]
 }

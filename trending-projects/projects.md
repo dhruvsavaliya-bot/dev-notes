@@ -2137,6 +2137,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~477 stars/day since launch.
 - **Link:** https://github.com/jhaizhou-ops/d2r-mobile
 
+**Added 2026-10-22**
+
+### [obsidianmd/pele](https://github.com/obsidianmd/pele)
+- **Stats:** 2,993 stars | 86 forks | 27 open issues
+- **Language:** TypeScript | **Created:** 2026-10-05 | **License:** NOASSERTION
+- **Topics:** charts, diagramming, diagrams, mermaid, mermaid-diagrams, mermaidjs
+- **What it is:** Renders Mermaid diagrams faster than you'd run from a volcano! 🌋
+- **Growth:** averaging ~176 stars/day since launch.
+- **Link:** https://github.com/obsidianmd/pele
+
 
 ## Web & Frontend
 
