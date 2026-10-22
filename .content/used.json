@@ -96,6 +96,7 @@
     "https://antonz.org/go-concurrency-distilled/",
     "https://anycrap.shop/",
     "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+    "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
     "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
     "https://arachnoid.com/lutusp/sailbook.html",
     "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
@@ -1425,6 +1426,7 @@
     "https://news.ycombinator.com/item?id=50174687",
     "https://news.ycombinator.com/item?id=50175070",
     "https://news.ycombinator.com/item?id=50181175",
+    "https://news.ycombinator.com/item?id=50182526",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -1651,12 +1653,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "JavaScript",
-      "title": "Yet another way to invoke functions in JavaScript...",
-      "url": "https://news.ycombinator.com/item?id=50077225"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "Models & Datasets",
       "title": "briaai/Fibo-2.0-dev",
       "url": "https://huggingface.co/briaai/Fibo-2.0-dev"
@@ -1708,6 +1704,12 @@
       "subcat": "Ruby",
       "title": "I no longer care to work on any Ruby gems so I've...",
       "url": "https://news.ycombinator.com/item?id=50154518"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Hacker News Picks",
+      "title": "Oregon lawmakers approve money to buy an iconic...",
+      "url": "https://news.ycombinator.com/item?id=50182526"
     }
   ]
 }

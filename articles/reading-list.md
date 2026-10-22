@@ -1694,6 +1694,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49883539
 - **Link:** https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops
 
+**Added 2026-10-22**
+
+### [Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin](https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488)
+- **Source:** apnews.com | **Posted:** 2026-10-21 | **By:** surprisetalk
+- **Community:** 169 points, 82 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50182526
+- **Link:** https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488
+
 
 ## DevOps & Cloud
 
