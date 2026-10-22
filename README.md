@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1189 entries and counting** · Last updated: 2026-10-22
+**1190 entries and counting** · Last updated: 2026-10-22
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 241 |
 | [Reading List](articles/reading-list.md) | 242 |
 | [Coding Tips](coding-tips/tips.md) | 241 |
-| [Language Notes](languages/notes.md) | 215 |
+| [Language Notes](languages/notes.md) | 216 |
 
 ## Latest additions
 
+- **2026-10-22** · *JavaScript* — [Show HN: Koi.rest  watch some fish and regain your...](https://news.ycombinator.com/item?id=49837006)
 - **2026-10-22** · *Security* — [I Stopped Trusting AI Agents With Tools. So I Built a...](https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb)
 - **2026-10-22** · *Lobsters Picks* — [What requirements don't you have?](https://lobste.rs/s/nuepys/what_requirements_don_t_you_have)
 - **2026-10-22** · *Lobsters Picks* — [We're sunsetting Codeberg Pages v2](https://lobste.rs/s/e7rvsp/we_re_sunsetting_codeberg_pages_v2)
 - **2026-10-22** · *Models & Datasets* — [HuggingFaceCode/stack-v3-train](https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train)
-- **2026-10-22** · *Models & Datasets* — [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1)
 
 ## How it works
 

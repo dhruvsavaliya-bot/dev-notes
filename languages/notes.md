@@ -299,6 +299,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~47 stars/day since launch.
 - **Link:** https://github.com/zhongerxin/Cowart
 
+**Added 2026-10-22**
+
+### [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest)
+- **Source:** koi.rest | **Posted:** 2026-09-24 | **By:** hxii
+- **Community:** 228 points, 65 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49837006
+- **Link:** https://koi.rest
+
 
 ## TypeScript
 
