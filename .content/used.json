@@ -775,6 +775,7 @@
     "https://huggingface.co/datasets/FlyRank/internship-warehouse",
     "https://huggingface.co/datasets/Helsinki-NLP/opus-100",
     "https://huggingface.co/datasets/HoneyDataV2/Honey-Data-V2",
+    "https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train",
     "https://huggingface.co/datasets/HuggingFaceFW/finepdfs",
     "https://huggingface.co/datasets/HumynLabs/airline-customersupport-Hinglish-audio",
     "https://huggingface.co/datasets/LocalLLaMA/typed-decisions",
@@ -1673,12 +1674,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "JavaScript",
-      "title": "zhongerxin/Cowart",
-      "url": "https://github.com/zhongerxin/Cowart"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "Research Papers",
       "title": "Design and Tuning of Multi-Agent Systems Using...",
       "url": "http://arxiv.org/abs/2610.29276v1"
@@ -1730,6 +1725,12 @@
       "subcat": "Models & Datasets",
       "title": "Qwen/Qwen-Image-2.1",
       "url": "https://huggingface.co/Qwen/Qwen-Image-2.1"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Models & Datasets",
+      "title": "HuggingFaceCode/stack-v3-train",
+      "url": "https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train"
     }
   ]
 }

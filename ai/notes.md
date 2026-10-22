@@ -1635,6 +1635,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/Qwen/Qwen-Image-2.1
 
+**Added 2026-10-22**
+
+### [HuggingFaceCode/stack-v3-train](https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train)
+- **Stats:** 392 likes | 140,687 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-07-23
+- **Tags:** code
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train
+
 
 ## Research Papers
 
