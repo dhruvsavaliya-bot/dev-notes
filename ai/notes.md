@@ -1626,6 +1626,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF
 
+**Added 2026-10-22**
+
+### [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1)
+- **Stats:** 3,415 likes | 176,590 downloads
+- **Kind:** Hugging Face model | **Task:** text-to-image | **Created:** 2026-09-14
+- **Tags:** diffusers, safetensors, qwen, image-generation, image-editing, rgba
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/Qwen/Qwen-Image-2.1
+
 
 ## Research Papers
 

@@ -755,6 +755,7 @@
     "https://huggingface.co/HuggingFaceH4/zephyr-7b-beta",
     "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+    "https://huggingface.co/Qwen/Qwen-Image-2.1",
     "https://huggingface.co/Qwen/Qwen2.5-32B-Instruct-AWQ",
     "https://huggingface.co/Qwen/Qwen3-0.6B",
     "https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507",
@@ -1672,12 +1673,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "Lobsters Picks",
-      "title": "Flow Typing, A New Lens on Linearity",
-      "url": "https://lobste.rs/s/cquwex/flow_typing_new_lens_on_linearity"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "JavaScript",
       "title": "zhongerxin/Cowart",
       "url": "https://github.com/zhongerxin/Cowart"
@@ -1729,6 +1724,12 @@
       "subcat": "Swift",
       "title": "laogou717/dogsc",
       "url": "https://github.com/laogou717/dogsc"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Models & Datasets",
+      "title": "Qwen/Qwen-Image-2.1",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1"
     }
   ]
 }
