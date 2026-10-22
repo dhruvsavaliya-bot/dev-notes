@@ -927,6 +927,15 @@ Snippets and gotchas across languages.
 - **Summary:** If you’ve ever scaled an LLM-powered application beyond a demo, you’ve probably felt it.  Everything...
 - **Link:** https://dev.to/hadil/bifrost-the-fastest-llm-gateway-for-production-ready-ai-systems-40x-faster-than-litellm-2i51
 
+**Added 2026-10-23**
+
+### [Go will reject certificate chains containing eight distrusted SPKIs](https://github.com/golang/go/issues/82345)
+- **Source:** github.com | **Posted:** 2026-10-20 | **By:** mendym
+- **Community:** 138 points, 79 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50160877
+- **Link:** https://github.com/golang/go/issues/82345
+
 
 ## PHP
 

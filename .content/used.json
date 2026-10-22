@@ -569,6 +569,7 @@
     "https://github.com/genspark-ai/genoffice",
     "https://github.com/getmydia/mydia",
     "https://github.com/golang/go/issues/45624",
+    "https://github.com/golang/go/issues/82345",
     "https://github.com/google-research/tabfm",
     "https://github.com/guillaumemeyer/watermarks-remover",
     "https://github.com/gvzdv/claudish-to-english",
@@ -1466,6 +1467,7 @@
     "https://news.ycombinator.com/item?id=50154518",
     "https://news.ycombinator.com/item?id=50154540",
     "https://news.ycombinator.com/item?id=50160494",
+    "https://news.ycombinator.com/item?id=50160877",
     "https://news.ycombinator.com/item?id=50165953",
     "https://news.ycombinator.com/item?id=50166257",
     "https://news.ycombinator.com/item?id=50168396",
@@ -1707,12 +1709,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "Other Cool Projects",
-      "title": "obsidianmd/pele",
-      "url": "https://github.com/obsidianmd/pele"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "Rust",
       "title": "A5 v1.0",
       "url": "https://lobste.rs/s/wtthju/a5_v1_0"
@@ -1764,6 +1760,12 @@
       "subcat": "AI & Machine Learning",
       "title": "QoderAI/better-harness",
       "url": "https://github.com/QoderAI/better-harness"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "Go",
+      "title": "Go will reject certificate chains containing eight...",
+      "url": "https://news.ycombinator.com/item?id=50160877"
     }
   ]
 }
