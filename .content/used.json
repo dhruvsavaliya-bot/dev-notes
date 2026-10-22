@@ -1406,6 +1406,7 @@
     "https://news.ycombinator.com/item?id=49945933",
     "https://news.ycombinator.com/item?id=49946895",
     "https://news.ycombinator.com/item?id=49947631",
+    "https://news.ycombinator.com/item?id=49953288",
     "https://news.ycombinator.com/item?id=49965308",
     "https://news.ycombinator.com/item?id=49970667",
     "https://news.ycombinator.com/item?id=49971230",
@@ -1632,6 +1633,7 @@
     "https://www.ntik.me/posts/voice-agent",
     "https://www.nytimes.com/2019/02/20/us/politics/civil-asset-forfeiture-supreme-court.html",
     "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+    "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
     "https://www.openbsd.org/80.html",
     "https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/",
     "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
@@ -1681,12 +1683,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-10-22",
-      "subcat": "Hacker News Picks",
-      "title": "OpenAI models are coming to Google Cloud",
-      "url": "https://news.ycombinator.com/item?id=50180079"
-    },
     {
       "date": "2026-10-22",
       "subcat": "PHP",
@@ -1740,6 +1736,12 @@
       "subcat": "Ruby",
       "title": "Hanami, Why?: Model Citizens",
       "url": "https://lobste.rs/s/ygp18d/hanami_why_model_citizens"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Hacker News Picks",
+      "title": "Bill Draper has died",
+      "url": "https://news.ycombinator.com/item?id=49953288"
     }
   ]
 }
