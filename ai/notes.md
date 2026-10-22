@@ -1599,6 +1599,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/briaai/Fibo-2.0-dev
 
+**Added 2026-10-22**
+
+### [lightx2v/Minimax-h3-Turbo](https://huggingface.co/lightx2v/Minimax-h3-Turbo)
+- **Stats:** 1,120 likes | 1,502,520 downloads
+- **Kind:** Hugging Face model | **Task:** n/a | **Created:** 2026-08-07
+- **Tags:** minimax-h3, video-generation, audio-video-generation, distillation, lora, lightx2v
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/lightx2v/Minimax-h3-Turbo
+
 
 ## Research Papers
 

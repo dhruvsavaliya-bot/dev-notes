@@ -829,6 +829,7 @@
     "https://huggingface.co/jaredpalmer/kev-4b",
     "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-russian",
     "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+    "https://huggingface.co/lightx2v/Minimax-h3-Turbo",
     "https://huggingface.co/meta-llama/Llama-3.1-8B",
     "https://huggingface.co/microsoft/AesCode-8B",
     "https://huggingface.co/microsoft/Florence-2-base",
@@ -1655,12 +1656,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "Hacker News Picks",
-      "title": "Patch the Planet: global response coordination as...",
-      "url": "https://news.ycombinator.com/item?id=50181175"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: How to deal with shipping AI-written code you...",
       "url": "https://news.ycombinator.com/item?id=50151036"
@@ -1712,6 +1707,12 @@
       "subcat": "Swift",
       "title": "A minimal kernel in Swift, running in QEMU",
       "url": "https://news.ycombinator.com/item?id=49977351"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Models & Datasets",
+      "title": "lightx2v/Minimax-h3-Turbo",
+      "url": "https://huggingface.co/lightx2v/Minimax-h3-Turbo"
     }
   ]
 }
