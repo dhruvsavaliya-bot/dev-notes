@@ -65,6 +65,7 @@
     "http://arxiv.org/abs/2610.25638v1",
     "http://arxiv.org/abs/2610.26730v1",
     "http://arxiv.org/abs/2610.27012v1",
+    "http://arxiv.org/abs/2610.29276v1",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
     "http://boglin.iwarp.com/",
     "http://bokeh.pydata.org/en/latest/",
@@ -1661,12 +1662,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "Hacker News Picks",
-      "title": "California farmers are struggling to sell grapes as...",
-      "url": "https://news.ycombinator.com/item?id=49883539"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "Career & Craft",
       "title": "I Didnt Stop Building. I Just Left My Laptop.",
       "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
@@ -1718,6 +1713,12 @@
       "subcat": "JavaScript",
       "title": "zhongerxin/Cowart",
       "url": "https://github.com/zhongerxin/Cowart"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Research Papers",
+      "title": "Design and Tuning of Multi-Agent Systems Using...",
+      "url": "http://arxiv.org/abs/2610.29276v1"
     }
   ]
 }

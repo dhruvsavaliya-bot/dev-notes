@@ -2200,3 +2200,13 @@ Lessons from building with LLMs.
 - **Abstract:** As language-model agents write code, move money and change records on behalf of users, deciding whether an action is authorized has become a central safety problem. Guardrails are often placed in front of these actions, yet few evaluations ask whether their decisions follow authorization: blocking unauthorized actions while still allowing the same actions under valid permission. We introduce \bench{}, a benchmark that contrasts authorization evidence for the same operation in its language track....
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.16838v1
+
+**Added 2026-10-22**
+
+### [Design and Tuning of Multi-Agent Systems Using Bayesian Evolutionary Optimization](http://arxiv.org/abs/2610.29276v1)
+- **Authors:** Dominik Jehle, Tom Zehle
+- **Published:** 2026-10-21 | **Primary category:** cs.LG
+- **Categories:** cs.LG, cs.MA
+- **Abstract:** Designing effective multi-agent systems (MAS) remains a challenging and resource-intensive task. We propose a Bayesian Evolutionary Optimization framework for automatically discovering task-specific MAS topologies. The approach combines evolutionary operators to generate diverse workflow graphs with Bayesian optimization to focus cost intensive evaluations on promising candidates. In contrast to LLM-based candidate selection, our approach uses a graph-aware Gaussian Process and Expected Improvem...
+- **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.29276v1
