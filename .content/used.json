@@ -861,6 +861,7 @@
     "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
     "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
     "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+    "https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/",
     "https://jelly-ui.com/",
     "https://jellyfin.org/posts/jellyfin-release-12.0/",
     "https://jepsen.io/analyses/orkes-conductor-5.3.2",
@@ -927,6 +928,7 @@
     "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your",
     "https://lobste.rs/s/ceuque/debian_code_search_fast_turbopfor_with_go",
     "https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit",
+    "https://lobste.rs/s/cquwex/flow_typing_new_lens_on_linearity",
     "https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday",
     "https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has",
     "https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline",
@@ -1658,12 +1660,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "Java",
-      "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
-      "url": "https://news.ycombinator.com/item?id=50018420"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "Research Papers",
       "title": "Same Operation, Different Permission: Evaluating...",
       "url": "http://arxiv.org/abs/2610.16838v1"
@@ -1715,6 +1711,12 @@
       "subcat": "Hacker News Picks",
       "title": "GitLab Critical Patch Release",
       "url": "https://news.ycombinator.com/item?id=50185869"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Lobsters Picks",
+      "title": "Flow Typing, A New Lens on Linearity",
+      "url": "https://lobste.rs/s/cquwex/flow_typing_new_lens_on_linearity"
     }
   ]
 }

@@ -2173,6 +2173,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/42zgmq/jepsen_orkes_conductor_5_3_2
 - **Link:** https://jepsen.io/analyses/orkes-conductor-5.3.2
 
+**Added 2026-10-22**
+
+### [Flow Typing, A New Lens on Linearity](https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/)
+- **Source:** jaredforsyth.com | **Posted:** 2026-10-21 | **By:** azhenley
+- **Community:** 16 score, 1 comments on Lobsters
+- **Tags:** plt
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/cquwex/flow_typing_new_lens_on_linearity
+- **Link:** https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/
+
 
 ## Career & Craft
 
