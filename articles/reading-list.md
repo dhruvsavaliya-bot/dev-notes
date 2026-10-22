@@ -1685,6 +1685,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50181175
 - **Link:** https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/
 
+**Added 2026-10-22**
+
+### [California farmers are struggling to sell grapes as demand for wine drops](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops)
+- **Source:** www.kqed.org | **Posted:** 2026-09-28 | **By:** randycupertino
+- **Community:** 390 points, 991 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49883539
+- **Link:** https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops
+
 
 ## DevOps & Cloud
 

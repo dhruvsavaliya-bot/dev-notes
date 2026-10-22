@@ -1363,6 +1363,7 @@
     "https://news.ycombinator.com/item?id=49879401",
     "https://news.ycombinator.com/item?id=49879883",
     "https://news.ycombinator.com/item?id=49883471",
+    "https://news.ycombinator.com/item?id=49883539",
     "https://news.ycombinator.com/item?id=49893157",
     "https://news.ycombinator.com/item?id=49899090",
     "https://news.ycombinator.com/item?id=49902382",
@@ -1582,6 +1583,7 @@
     "https://www.iwm.org.uk/history/iwm/cwr/telephone",
     "https://www.joshwcomeau.com/css/interop-2027/",
     "https://www.kotlinvsjava.com",
+    "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
     "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
     "https://www.meta.com/vr-glasses/",
     "https://www.minimax.io/blog/minimax-m31f",
@@ -1645,12 +1647,6 @@
   "recent": [
     {
       "date": "2026-10-21",
-      "subcat": "Research Papers",
-      "title": "Under the Skin: Backdoor Infection in Multimodal...",
-      "url": "http://arxiv.org/abs/2610.24058v1"
-    },
-    {
-      "date": "2026-10-21",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Making a flexible \"neon\" t-shirt with LED...",
       "url": "https://news.ycombinator.com/item?id=50008047"
@@ -1702,6 +1698,12 @@
       "subcat": "Research Papers",
       "title": "Same Operation, Different Permission: Evaluating...",
       "url": "http://arxiv.org/abs/2610.16838v1"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Hacker News Picks",
+      "title": "California farmers are struggling to sell grapes as...",
+      "url": "https://news.ycombinator.com/item?id=49883539"
     }
   ]
 }
