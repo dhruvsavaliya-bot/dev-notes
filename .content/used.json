@@ -1416,6 +1416,7 @@
     "https://news.ycombinator.com/item?id=50140584",
     "https://news.ycombinator.com/item?id=50151036",
     "https://news.ycombinator.com/item?id=50152307",
+    "https://news.ycombinator.com/item?id=50154518",
     "https://news.ycombinator.com/item?id=50154540",
     "https://news.ycombinator.com/item?id=50160494",
     "https://news.ycombinator.com/item?id=50165953",
@@ -1465,6 +1466,7 @@
     "https://picomq.com/",
     "https://pkg.go.dev/golang.org/x/tools/go/analysis",
     "https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice",
+    "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
     "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
     "https://pranitha.dev/posts/rwlock-vs-lockfree/",
     "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
@@ -1649,12 +1651,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "Java",
-      "title": "Why 0xCAFEBABE?",
-      "url": "https://lobste.rs/s/2ym3yg/why_0xcafebabe"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "JavaScript",
       "title": "Yet another way to invoke functions in JavaScript...",
       "url": "https://news.ycombinator.com/item?id=50077225"
@@ -1706,6 +1702,12 @@
       "subcat": "AI & Machine Learning",
       "title": "vinvcn/mattpocock-skills-zh-CN",
       "url": "https://github.com/vinvcn/mattpocock-skills-zh-CN"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Ruby",
+      "title": "I no longer care to work on any Ruby gems so I've...",
+      "url": "https://news.ycombinator.com/item?id=50154518"
     }
   ]
 }

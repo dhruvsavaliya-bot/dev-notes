@@ -1170,6 +1170,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/palkan/layered-rails-skills
 
+**Added 2026-10-22**
+
+### [I no longer care to work on any Ruby gems so I've archived all my repositories](https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository)
+- **Source:** po-ru.com | **Posted:** 2026-10-19 | **By:** phoronixrly
+- **Community:** 518 points, 510 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50154518
+- **Link:** https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository
+
+
 ## Swift
 
 **Added 2026-10-05**
