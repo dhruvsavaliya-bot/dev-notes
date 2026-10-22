@@ -714,6 +714,7 @@
     "https://github.com/zai-org/ZCode",
     "https://github.com/zerx-lab/FluxDown",
     "https://github.com/zeusinsight/FinderSearch",
+    "https://github.com/zhongerxin/Cowart",
     "https://github.com/zhu1090093659/dsh-web",
     "https://github.com/zhu1090093659/dsh-web-ui",
     "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
@@ -1660,12 +1661,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "Research Papers",
-      "title": "Same Operation, Different Permission: Evaluating...",
-      "url": "http://arxiv.org/abs/2610.16838v1"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "Hacker News Picks",
       "title": "California farmers are struggling to sell grapes as...",
       "url": "https://news.ycombinator.com/item?id=49883539"
@@ -1717,6 +1712,12 @@
       "subcat": "Lobsters Picks",
       "title": "Flow Typing, A New Lens on Linearity",
       "url": "https://lobste.rs/s/cquwex/flow_typing_new_lens_on_linearity"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "JavaScript",
+      "title": "zhongerxin/Cowart",
+      "url": "https://github.com/zhongerxin/Cowart"
     }
   ]
 }

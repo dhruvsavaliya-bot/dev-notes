@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1175 entries and counting** · Last updated: 2026-10-22
+**1176 entries and counting** · Last updated: 2026-10-22
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 236 |
 | [Reading List](articles/reading-list.md) | 239 |
 | [Coding Tips](coding-tips/tips.md) | 239 |
-| [Language Notes](languages/notes.md) | 211 |
+| [Language Notes](languages/notes.md) | 212 |
 
 ## Latest additions
 
+- **2026-10-22** · *JavaScript* — [zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)
 - **2026-10-22** · *Lobsters Picks* — [Flow Typing, A New Lens on Linearity](https://lobste.rs/s/cquwex/flow_typing_new_lens_on_linearity)
 - **2026-10-22** · *Hacker News Picks* — [GitLab Critical Patch Release](https://news.ycombinator.com/item?id=50185869)
 - **2026-10-22** · *Models & Datasets* — [lightx2v/Minimax-h3-Turbo](https://huggingface.co/lightx2v/Minimax-h3-Turbo)
 - **2026-10-22** · *Swift* — [A minimal kernel in Swift, running in QEMU](https://news.ycombinator.com/item?id=49977351)
-- **2026-10-22** · *Hacker News Picks* — [Oregon lawmakers approve money to buy an iconic...](https://news.ycombinator.com/item?id=50182526)
 
 ## How it works
 

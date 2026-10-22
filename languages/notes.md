@@ -289,6 +289,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50077225
 - **Link:** https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/
 
+**Added 2026-10-22**
+
+### [zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)
+- **Stats:** 6,034 stars | 453 forks | 22 open issues
+- **Language:** JavaScript | **Created:** 2026-06-18 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~47 stars/day since launch.
+- **Link:** https://github.com/zhongerxin/Cowart
+
 
 ## TypeScript
 
