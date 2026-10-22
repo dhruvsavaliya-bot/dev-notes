@@ -660,6 +660,7 @@
     "https://github.com/s1dashu/ip-as-logo-skill",
     "https://github.com/safijari/openpuck",
     "https://github.com/sapientinc/PRAXIST",
+    "https://github.com/savvyagents/larasend",
     "https://github.com/screenpipe/screenpipe",
     "https://github.com/sdli1995/dlssg_for_sm86",
     "https://github.com/shadcn-ui/lint",
@@ -1698,12 +1699,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "Ruby",
-      "title": "Hanami, Why?: Model Citizens",
-      "url": "https://lobste.rs/s/ygp18d/hanami_why_model_citizens"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "Hacker News Picks",
       "title": "Bill Draper has died",
       "url": "https://news.ycombinator.com/item?id=49953288"
@@ -1755,6 +1750,12 @@
       "subcat": "Lobsters Picks",
       "title": "Understanding Nix flakes",
       "url": "https://lobste.rs/s/wno4h3/understanding_nix_flakes"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "PHP",
+      "title": "savvyagents/larasend",
+      "url": "https://github.com/savvyagents/larasend"
     }
   ]
 }

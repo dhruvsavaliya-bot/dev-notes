@@ -1070,6 +1070,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~3 stars/day since launch.
 - **Link:** https://github.com/karatektus/pl_mail
 
+**Added 2026-10-23**
+
+### [savvyagents/larasend](https://github.com/savvyagents/larasend)
+- **Stats:** 492 stars | 60 forks | 6 open issues
+- **Language:** PHP | **Created:** 2026-05-11 | **License:** MIT
+- **Topics:** amazon-ses, docker, email, inertiajs, laravel, open-source
+- **What it is:** Self-hosted transactional email platform — send through your own AWS SES account, keep the dashboard, API keys, delivery logs, and webhooks on your own infrastructure.
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/savvyagents/larasend
+
 
 ## Ruby
 
