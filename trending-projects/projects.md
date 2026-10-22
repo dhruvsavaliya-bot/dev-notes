@@ -1104,6 +1104,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~32 stars/day since launch.
 - **Link:** https://github.com/Kuddev/pebrel
 
+**Added 2026-10-22**
+
+### [vinvcn/mattpocock-skills-zh-CN](https://github.com/vinvcn/mattpocock-skills-zh-CN)
+- **Stats:** 5,163 stars | 410 forks | 0 open issues
+- **Language:** JavaScript | **Created:** 2026-04-28 | **License:** MIT
+- **Topics:** ai-agent, chinese, developer-skills, productivity, prompt-engineering, skills
+- **What it is:** Matt Pocock skills 的简体中文本地化：人工审核每一次更新，定期同步上游，支持 Claude、Codex 和 DSH 插件。
+- **Growth:** averaging ~29 stars/day since launch.
+- **Link:** https://github.com/vinvcn/mattpocock-skills-zh-CN
+
 
 ## Other Cool Projects
 

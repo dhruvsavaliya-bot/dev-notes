@@ -676,6 +676,7 @@
     "https://github.com/vercel-labs/json-render",
     "https://github.com/vercel-labs/scriptc",
     "https://github.com/vikejs/vike",
+    "https://github.com/vinvcn/mattpocock-skills-zh-CN",
     "https://github.com/vinzdg/codenotch",
     "https://github.com/voxivoid/recipe-lab-sony-pmca",
     "https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases",
@@ -1647,12 +1648,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-21",
-      "subcat": "Developer Tools",
-      "title": "jiayx/d2r-mobile-build",
-      "url": "https://github.com/jiayx/d2r-mobile-build"
-    },
-    {
       "date": "2026-10-22",
       "subcat": "Java",
       "title": "Why 0xCAFEBABE?",
@@ -1705,6 +1700,12 @@
       "subcat": "Career & Craft",
       "title": "I Didnt Stop Building. I Just Left My Laptop.",
       "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "AI & Machine Learning",
+      "title": "vinvcn/mattpocock-skills-zh-CN",
+      "url": "https://github.com/vinvcn/mattpocock-skills-zh-CN"
     }
   ]
 }
