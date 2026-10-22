@@ -870,6 +870,7 @@
     "https://jepsen.io/analyses/orkes-conductor-5.3.2",
     "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
     "https://josephg.com/blog/electron-is-flash-for-the-desktop/",
+    "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos",
     "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
     "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
     "https://kaba.cx/posts/20261020_Tor/",
@@ -1387,6 +1388,7 @@
     "https://news.ycombinator.com/item?id=49922568",
     "https://news.ycombinator.com/item?id=49922674",
     "https://news.ycombinator.com/item?id=49931031",
+    "https://news.ycombinator.com/item?id=49935038",
     "https://news.ycombinator.com/item?id=49945933",
     "https://news.ycombinator.com/item?id=49946895",
     "https://news.ycombinator.com/item?id=49947631",
@@ -1664,12 +1666,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "AI & Machine Learning",
-      "title": "vinvcn/mattpocock-skills-zh-CN",
-      "url": "https://github.com/vinvcn/mattpocock-skills-zh-CN"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "Ruby",
       "title": "I no longer care to work on any Ruby gems so I've...",
       "url": "https://news.ycombinator.com/item?id=50154518"
@@ -1721,6 +1717,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: BetterWispr  Free, open-source dictation for...",
       "url": "https://news.ycombinator.com/item?id=50042333"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Swift",
+      "title": "Magic Switch: Share Apple Magic...",
+      "url": "https://news.ycombinator.com/item?id=49935038"
     }
   ]
 }

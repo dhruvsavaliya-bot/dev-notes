@@ -1334,6 +1334,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=49977351
 - **Link:** https://carette.xyz/posts/minimal_swift_kernel_on_qemu/
 
+**Added 2026-10-22**
+
+### [Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs](https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos)
+- **Source:** joshua.hu | **Posted:** 2026-10-02 | **By:** chanux
+- **Community:** 90 points, 45 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49935038
+- **Link:** https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos
+
 
 ## Rust
 
