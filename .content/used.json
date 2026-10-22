@@ -332,6 +332,7 @@
     "https://developer.apple.com/news/?id=1ptvdtcm",
     "https://developer.apple.com/news/?id=p6zjojqw",
     "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+    "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
     "https://doeken.org/blog/coroutines-in-php",
     "https://dontwordle.com/",
     "https://dylancastillo.co/posts/pelicanmaxxing.html",
@@ -1430,6 +1431,7 @@
     "https://news.ycombinator.com/item?id=50175070",
     "https://news.ycombinator.com/item?id=50181175",
     "https://news.ycombinator.com/item?id=50182526",
+    "https://news.ycombinator.com/item?id=50185869",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -1656,12 +1658,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: How to deal with shipping AI-written code you...",
-      "url": "https://news.ycombinator.com/item?id=50151036"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "Java",
       "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
       "url": "https://news.ycombinator.com/item?id=50018420"
@@ -1713,6 +1709,12 @@
       "subcat": "Models & Datasets",
       "title": "lightx2v/Minimax-h3-Turbo",
       "url": "https://huggingface.co/lightx2v/Minimax-h3-Turbo"
+    },
+    {
+      "date": "2026-10-22",
+      "subcat": "Hacker News Picks",
+      "title": "GitLab Critical Patch Release",
+      "url": "https://news.ycombinator.com/item?id=50185869"
     }
   ]
 }

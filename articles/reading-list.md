@@ -1703,6 +1703,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50182526
 - **Link:** https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488
 
+**Added 2026-10-22**
+
+### [GitLab Critical Patch Release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
+- **Source:** docs.gitlab.com | **Posted:** 2026-10-21 | **By:** artooro
+- **Community:** 264 points, 65 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50185869
+- **Link:** https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/
+
 
 ## DevOps & Cloud
 
