@@ -946,6 +946,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50160877
 - **Link:** https://github.com/golang/go/issues/82345
 
+**Added 2026-10-23**
+
+### [N4darae/shrt](https://github.com/N4darae/shrt)
+- **Stats:** 1,357 stars | 93 forks | 6 open issues
+- **Language:** Go | **Created:** 2026-09-03 | **License:** None
+- **Topics:** none listed
+- **What it is:** A contract-driven gRPC regression harness for AI coding agents, with human-approved baselines. Snapshot the valid call chains of an API so an agent can look one up instead of tracing for it. gRPC today, OpenAPI next
+- **Growth:** averaging ~27 stars/day since launch.
+- **Link:** https://github.com/N4darae/shrt
+
 
 ## PHP
 

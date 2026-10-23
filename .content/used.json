@@ -444,6 +444,7 @@
     "https://github.com/MiniMax-AI/MiniMax-H3",
     "https://github.com/Miuzarte/ScrcpyForAndroid",
     "https://github.com/MoonshotAI/Kimi-K3",
+    "https://github.com/N4darae/shrt",
     "https://github.com/NVIDIA/cuml",
     "https://github.com/NVlabs/SoL-Pi",
     "https://github.com/Nanako0129/sepia",
@@ -1719,12 +1720,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "Hacker News Picks",
-      "title": "Getting ready to operate GNU Taler in Germany",
-      "url": "https://news.ycombinator.com/item?id=50197404"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "AI & Machine Learning",
       "title": "QoderAI/better-harness",
       "url": "https://github.com/QoderAI/better-harness"
@@ -1776,6 +1771,12 @@
       "subcat": "Show & Ask HN",
       "title": "Tell HN: I've been paying for a rural Tanzanian's...",
       "url": "https://news.ycombinator.com/item?id=50006366"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "Go",
+      "title": "N4darae/shrt",
+      "url": "https://github.com/N4darae/shrt"
     }
   ]
 }
