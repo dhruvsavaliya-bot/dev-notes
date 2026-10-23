@@ -2272,6 +2272,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision
 - **Link:** https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me
 
+**Added 2026-10-23**
+
+### [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
+- **Source:** codeandcake.dev | **Posted:** 2026-10-22 | **By:** nick4
+- **Community:** 41 score, 11 comments on Lobsters
+- **Tags:** programming
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/xsz9sc/docker_is_weird
+- **Link:** https://codeandcake.dev/posts/2026-10-22-docker-is-weird
+
 
 ## Performance
 

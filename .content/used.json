@@ -169,6 +169,7 @@
     "https://claude.com/blog/auto-mode-default-in-claude-code",
     "https://coca11272000.wixsite.com/manabukosaka",
     "https://code.intellios.ai/cwbrowser/",
+    "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
     "https://committing-crimes.com/articles/2026-08-04-java-nameof",
     "https://comonad.com/reader/2026/turbo-haskell/",
     "https://csixty4.medium.com/pick-is-a-living-fossil-of-computer-history-36d74408d557",
@@ -1042,6 +1043,7 @@
     "https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites",
     "https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel",
     "https://lobste.rs/s/xpyahx/grubby_static_site_generator_for_git",
+    "https://lobste.rs/s/xsz9sc/docker_is_weird",
     "https://lobste.rs/s/xv6z4r/python_iceberg",
     "https://lobste.rs/s/ygp18d/hanami_why_model_citizens",
     "https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn",
@@ -1726,12 +1728,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "Lobsters Picks",
-      "title": "jailbreaking the switch 2",
-      "url": "https://lobste.rs/s/me75ey/jailbreaking_switch_2"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "C#",
       "title": "BlackLabelHQ/SymphonyRecomp",
       "url": "https://github.com/BlackLabelHQ/SymphonyRecomp"
@@ -1783,6 +1779,12 @@
       "subcat": "Ruby",
       "title": "28% of job postings on company career sites have been...",
       "url": "https://news.ycombinator.com/item?id=49818698"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "Lobsters Picks",
+      "title": "Docker is weird",
+      "url": "https://lobste.rs/s/xsz9sc/docker_is_weird"
     }
   ]
 }
