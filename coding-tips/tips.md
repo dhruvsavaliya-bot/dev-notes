@@ -2241,6 +2241,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/hplfis/examining_macos_gcc_binary
 - **Link:** https://zoey-on-github.github.io/blog/macgcc.html
 
+**Added 2026-10-23**
+
+### [jailbreaking the switch 2](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/)
+- **Source:** pepsipu.com | **Posted:** 2026-10-22 | **By:** kwas
+- **Community:** 39 score, 6 comments on Lobsters
+- **Tags:** ai-tooling, hardware, reversing, security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/me75ey/jailbreaking_switch_2
+- **Link:** https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/
+
 
 ## Career & Craft
 

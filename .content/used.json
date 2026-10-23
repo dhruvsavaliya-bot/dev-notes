@@ -986,6 +986,7 @@
     "https://lobste.rs/s/lfusbg/atom_exhaustion_is_not_footgun_it_s_one",
     "https://lobste.rs/s/lgdxtw/c_for_rust_programmers",
     "https://lobste.rs/s/lxo74i/introducing_microlighter",
+    "https://lobste.rs/s/me75ey/jailbreaking_switch_2",
     "https://lobste.rs/s/mkq3x9/better_http_1_connection_reuse",
     "https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution",
     "https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself",
@@ -1515,6 +1516,7 @@
     "https://ornith.ai/ornith_1_5.html",
     "https://parallel-rust-cpp.github.io/introduction.html",
     "https://pdftomp3.com/connect-ai/",
+    "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
     "https://peterszentkiralyi.eu/darkplug/",
     "https://phptherightway.com/",
     "https://phreak.ing/",
@@ -1711,12 +1713,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-22",
-      "subcat": "Lobsters Picks",
-      "title": "Understanding Nix flakes",
-      "url": "https://lobste.rs/s/wno4h3/understanding_nix_flakes"
-    },
-    {
       "date": "2026-10-23",
       "subcat": "PHP",
       "title": "savvyagents/larasend",
@@ -1769,6 +1765,12 @@
       "subcat": "Models & Datasets",
       "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "url": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "Lobsters Picks",
+      "title": "jailbreaking the switch 2",
+      "url": "https://lobste.rs/s/me75ey/jailbreaking_switch_2"
     }
   ]
 }
