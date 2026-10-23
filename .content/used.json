@@ -727,6 +727,7 @@
     "https://github.com/xiaobright/dsh-anchored-standard",
     "https://github.com/xm486/YukiHub",
     "https://github.com/xuchonglang/investing-for-beginners",
+    "https://github.com/xweiba/location-spoofer",
     "https://github.com/yang0/handraw-style",
     "https://github.com/yanliudesign/mono-color-skill",
     "https://github.com/yc-software/qm",
@@ -1746,12 +1747,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "TypeScript",
-      "title": "Ikaleio/lm-detector",
-      "url": "https://github.com/Ikaleio/lm-detector"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "Show & Ask HN",
       "title": "Show HN: KiviDB, a faster Redis-compatible memory...",
       "url": "https://news.ycombinator.com/item?id=50152541"
@@ -1803,6 +1798,12 @@
       "subcat": "Developer Tools",
       "title": "vercel-labs/native",
       "url": "https://github.com/vercel-labs/native"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "Swift",
+      "title": "xweiba/location-spoofer",
+      "url": "https://github.com/xweiba/location-spoofer"
     }
   ]
 }

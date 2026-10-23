@@ -1492,6 +1492,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~6 stars/day since launch.
 - **Link:** https://github.com/nodes-app/swift-markdown-engine
 
+**Added 2026-10-23**
+
+### [xweiba/location-spoofer](https://github.com/xweiba/location-spoofer)
+- **Stats:** 998 stars | 216 forks | 2 open issues
+- **Language:** Swift | **Created:** 2026-08-03 | **License:** AGPL-3.0
+- **Topics:** none listed
+- **What it is:** 面向 iOS 定位服务行为研究和开发测试的虚拟定位工具，支持地图选点、本地与第三方代理、WGS-84 / GCJ-02 双坐标、环境检测和问题诊断。
+- **Growth:** averaging ~12 stars/day since launch.
+- **Link:** https://github.com/xweiba/location-spoofer
+
 
 ## Rust
 
