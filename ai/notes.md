@@ -2318,3 +2318,13 @@ Lessons from building with LLMs.
 - **Abstract:** Designing effective multi-agent systems (MAS) remains a challenging and resource-intensive task. We propose a Bayesian Evolutionary Optimization framework for automatically discovering task-specific MAS topologies. The approach combines evolutionary operators to generate diverse workflow graphs with Bayesian optimization to focus cost intensive evaluations on promising candidates. In contrast to LLM-based candidate selection, our approach uses a graph-aware Gaussian Process and Expected Improvem...
 - **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.29276v1
+
+**Added 2026-10-24**
+
+### [Capturing a Moving Target on Star Graphs by Two Communicating Mobile Agents](http://arxiv.org/abs/2610.11955v2)
+- **Authors:** Khaled Jawhar, Evangelos Kranakis
+- **Published:** 2026-10-08 | **Primary category:** cs.DC
+- **Categories:** cs.DC
+- **Abstract:** We study a problem of searching for a mobile target in an $m$-ray star graph, a natural generalization of linear search to multiple directions. The target is placed adversarially on one of the rays and may move with constant speed. We investigate a two-robot setting, where cooperation and communication play a central role. We study two communication models: the Face-to-Face (F2F) model, where robots communicate only upon meeting, and the Sender-Receiver (S/R) model, where communication is asymme...
+- **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.11955v2

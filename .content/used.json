@@ -43,6 +43,7 @@
     "http://arxiv.org/abs/2610.10368v1",
     "http://arxiv.org/abs/2610.11300v1",
     "http://arxiv.org/abs/2610.11875v1",
+    "http://arxiv.org/abs/2610.11955v2",
     "http://arxiv.org/abs/2610.13298v1",
     "http://arxiv.org/abs/2610.13300v1",
     "http://arxiv.org/abs/2610.13407v1",
@@ -1755,12 +1756,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "Show & Ask HN",
-      "title": "eMudhra to Exit Global SSL/TLS Certificate Business;",
-      "url": "https://news.ycombinator.com/item?id=50194909"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "Swift",
       "title": "nodes-app/swift-markdown-engine",
       "url": "https://github.com/nodes-app/swift-markdown-engine"
@@ -1812,6 +1807,12 @@
       "subcat": "Lobsters Picks",
       "title": "Software is slow because of bad design, not slow...",
       "url": "https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not"
+    },
+    {
+      "date": "2026-10-24",
+      "subcat": "Research Papers",
+      "title": "Capturing a Moving Target on Star Graphs by Two...",
+      "url": "http://arxiv.org/abs/2610.11955v2"
     }
   ]
 }
