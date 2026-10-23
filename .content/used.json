@@ -610,6 +610,7 @@
     "https://github.com/karatektus/pl_mail",
     "https://github.com/kelos-dev/kelos",
     "https://github.com/kirodotdev/KiroCrew",
+    "https://github.com/kividbio/kividb",
     "https://github.com/komi-store/komi-store",
     "https://github.com/kryvora-network/kryvora-node",
     "https://github.com/kvcache-ai/AgentENV",
@@ -1485,6 +1486,7 @@
     "https://news.ycombinator.com/item?id=50150163",
     "https://news.ycombinator.com/item?id=50151036",
     "https://news.ycombinator.com/item?id=50152307",
+    "https://news.ycombinator.com/item?id=50152541",
     "https://news.ycombinator.com/item?id=50154518",
     "https://news.ycombinator.com/item?id=50154540",
     "https://news.ycombinator.com/item?id=50160494",
@@ -1732,12 +1734,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "Go",
-      "title": "N4darae/shrt",
-      "url": "https://github.com/N4darae/shrt"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "Models & Datasets",
       "title": "vllm-sr/d3",
       "url": "https://huggingface.co/vllm-sr/d3"
@@ -1789,6 +1785,12 @@
       "subcat": "TypeScript",
       "title": "Ikaleio/lm-detector",
       "url": "https://github.com/Ikaleio/lm-detector"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: KiviDB, a faster Redis-compatible memory...",
+      "url": "https://news.ycombinator.com/item?id=50152541"
     }
   ]
 }

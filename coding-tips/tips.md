@@ -1948,6 +1948,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50006366
 - **Link:** https://news.ycombinator.com/item?id=50006366
 
+**Added 2026-10-23**
+
+### [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb)
+- **Source:** github.com | **Posted:** 2026-10-19 | **By:** murtazayusuf
+- **Community:** 69 points, 42 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50152541
+- **Link:** https://github.com/kividbio/kividb
+
 
 ## Git & Workflow
 
