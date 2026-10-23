@@ -1482,6 +1482,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~9 stars/day since launch.
 - **Link:** https://github.com/laogou717/dogsc
 
+**Added 2026-10-23**
+
+### [nodes-app/swift-markdown-engine](https://github.com/nodes-app/swift-markdown-engine)
+- **Stats:** 1,230 stars | 132 forks | 52 open issues
+- **Language:** Swift | **Created:** 2026-04-28 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** A native AppKit Markdown editor for macOS, built on TextKit 2 and bridged to SwiftUI.
+- **Growth:** averaging ~6 stars/day since launch.
+- **Link:** https://github.com/nodes-app/swift-markdown-engine
+
 
 ## Rust
 

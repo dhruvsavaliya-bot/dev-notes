@@ -640,6 +640,7 @@
     "https://github.com/nbedos/termtosvg",
     "https://github.com/nestrilabs/virtio-nvgpu",
     "https://github.com/newliver666/apk-reverse",
+    "https://github.com/nodes-app/swift-markdown-engine",
     "https://github.com/noonghunna/club-3090",
     "https://github.com/nyblnet/bento",
     "https://github.com/nykooi1/vibe-wise",
@@ -1740,12 +1741,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "Lobsters Picks",
-      "title": "Docker is weird",
-      "url": "https://lobste.rs/s/xsz9sc/docker_is_weird"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "PHP",
       "title": "coollabsio/shoutrrr",
       "url": "https://github.com/coollabsio/shoutrrr"
@@ -1797,6 +1792,12 @@
       "subcat": "Show & Ask HN",
       "title": "eMudhra to Exit Global SSL/TLS Certificate Business;",
       "url": "https://news.ycombinator.com/item?id=50194909"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "Swift",
+      "title": "nodes-app/swift-markdown-engine",
+      "url": "https://github.com/nodes-app/swift-markdown-engine"
     }
   ]
 }
