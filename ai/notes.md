@@ -1671,6 +1671,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF
 
+**Added 2026-10-23**
+
+### [aidigestorg/ai-village](https://huggingface.co/datasets/aidigestorg/ai-village)
+- **Stats:** 147 likes | 1,981 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-06-05
+- **Tags:** agents, llm-agents, computer-use, ai-safety, agentic-behavior
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/aidigestorg/ai-village
+
 
 ## Research Papers
 

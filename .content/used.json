@@ -802,6 +802,7 @@
     "https://huggingface.co/datasets/ZefanCai/Open-Jev",
     "https://huggingface.co/datasets/a686d380/h-corpus-2023",
     "https://huggingface.co/datasets/agents-last-exam/agents-last-exam",
+    "https://huggingface.co/datasets/aidigestorg/ai-village",
     "https://huggingface.co/datasets/allenai/c4",
     "https://huggingface.co/datasets/argilla/magpie-ultra-v0.1",
     "https://huggingface.co/datasets/bigcode/the-stack-v2",
@@ -1715,12 +1716,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy...",
-      "url": "https://news.ycombinator.com/item?id=50024499"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "JavaScript",
       "title": "JohnHeibel/ClaudeAnimationBase",
       "url": "https://github.com/JohnHeibel/ClaudeAnimationBase"
@@ -1772,6 +1767,12 @@
       "subcat": "C#",
       "title": "BlackLabelHQ/SymphonyRecomp",
       "url": "https://github.com/BlackLabelHQ/SymphonyRecomp"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "Models & Datasets",
+      "title": "aidigestorg/ai-village",
+      "url": "https://huggingface.co/datasets/aidigestorg/ai-village"
     }
   ]
 }
