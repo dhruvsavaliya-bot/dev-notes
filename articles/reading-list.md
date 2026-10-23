@@ -1766,6 +1766,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50177911
 - **Link:** https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/
 
+**Added 2026-10-23**
+
+### [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
+- **Source:** teddysvoronos.com | **Posted:** 2026-10-20 | **By:** evanb
+- **Community:** 605 points, 296 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50165208
+- **Link:** https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/
+
 
 ## DevOps & Cloud
 

@@ -1500,6 +1500,7 @@
     "https://news.ycombinator.com/item?id=50154540",
     "https://news.ycombinator.com/item?id=50160494",
     "https://news.ycombinator.com/item?id=50160877",
+    "https://news.ycombinator.com/item?id=50165208",
     "https://news.ycombinator.com/item?id=50165953",
     "https://news.ycombinator.com/item?id=50166257",
     "https://news.ycombinator.com/item?id=50168396",
@@ -1608,6 +1609,7 @@
     "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
     "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
     "https://technicalwriting.dev/blog/2026/10/polyglot/index.html",
+    "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
     "https://tenso.rs/demos/fast-neural-style/",
     "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
     "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
@@ -1747,12 +1749,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: KiviDB, a faster Redis-compatible memory...",
-      "url": "https://news.ycombinator.com/item?id=50152541"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "Java",
       "title": "IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence...",
       "url": "https://lobste.rs/s/culsub/intellij_idea_goes_lsp_java_kotlin"
@@ -1804,6 +1800,12 @@
       "subcat": "Swift",
       "title": "xweiba/location-spoofer",
       "url": "https://github.com/xweiba/location-spoofer"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "Hacker News Picks",
+      "title": "Apple broke an essential presentation feature of iPads",
+      "url": "https://news.ycombinator.com/item?id=50165208"
     }
   ]
 }
