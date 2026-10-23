@@ -1398,6 +1398,7 @@
     "https://news.ycombinator.com/item?id=49807003",
     "https://news.ycombinator.com/item?id=49807021",
     "https://news.ycombinator.com/item?id=49808023",
+    "https://news.ycombinator.com/item?id=49818698",
     "https://news.ycombinator.com/item?id=49823582",
     "https://news.ycombinator.com/item?id=49823738",
     "https://news.ycombinator.com/item?id=49824268",
@@ -1602,6 +1603,7 @@
     "https://twitter.com/paulg/status/2091544343589060625",
     "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
     "https://unim.press/#dataisbeautiful",
+    "https://unlisted.careers/ghost-jobs/report/2026-09",
     "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
     "https://uvbirds.com/",
     "https://verdagon.dev/blog/reverse-borrow-checking",
@@ -1724,12 +1726,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "Models & Datasets",
-      "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "url": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "Lobsters Picks",
       "title": "jailbreaking the switch 2",
       "url": "https://lobste.rs/s/me75ey/jailbreaking_switch_2"
@@ -1781,6 +1777,12 @@
       "subcat": "Hacker News Picks",
       "title": "Fifteen years later, the Apple Cards origin story",
       "url": "https://news.ycombinator.com/item?id=49854693"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "Ruby",
+      "title": "28% of job postings on company career sites have been...",
+      "url": "https://news.ycombinator.com/item?id=49818698"
     }
   ]
 }

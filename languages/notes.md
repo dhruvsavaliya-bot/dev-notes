@@ -1268,6 +1268,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/ygp18d/hanami_why_model_citizens
 - **Link:** https://aaronmallen.me/writing/hanami-why-model-citizens
 
+**Added 2026-10-23**
+
+### [28% of job postings on company career sites have been open over 90 days](https://unlisted.careers/ghost-jobs/report/2026-09)
+- **Source:** unlisted.careers | **Posted:** 2026-09-23 | **By:** rubatrejo
+- **Community:** 302 points, 364 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49818698
+- **Link:** https://unlisted.careers/ghost-jobs/report/2026-09
+
 
 ## Swift
 
