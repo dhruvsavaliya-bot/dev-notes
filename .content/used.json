@@ -775,6 +775,7 @@
     "https://huggingface.co/Alibaba-NLP/gte-large-en-v1.5",
     "https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap",
     "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
+    "https://huggingface.co/Cloudflare/clef",
     "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged",
     "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
     "https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
@@ -1758,12 +1759,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "Hacker News Picks",
-      "title": "The 1.5C goal of the Paris Agreement is no longer...",
-      "url": "https://news.ycombinator.com/item?id=50177911"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "Lobsters Picks",
       "title": "We have Traits at Home",
       "url": "https://lobste.rs/s/05xrj8/we_have_traits_at_home"
@@ -1815,6 +1810,12 @@
       "subcat": "Lobsters Picks",
       "title": "ChatGPT now knows what you do on other websites via...",
       "url": "https://lobste.rs/s/jbnmj9/chatgpt_now_knows_what_you_do_on_other"
+    },
+    {
+      "date": "2026-10-24",
+      "subcat": "Models & Datasets",
+      "title": "Cloudflare/clef",
+      "url": "https://huggingface.co/Cloudflare/clef"
     }
   ]
 }

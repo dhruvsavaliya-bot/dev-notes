@@ -1716,6 +1716,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/mudler/locate-anything.cpp-gguf
 
+**Added 2026-10-24**
+
+### [Cloudflare/clef](https://huggingface.co/Cloudflare/clef)
+- **Stats:** 2,263 likes | 23,570 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-09-30
+- **Tags:** transformers, safetensors, qwen3_5, image-text-to-text, clef, cloudflare
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/Cloudflare/clef
+
 
 ## Research Papers
 
