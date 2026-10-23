@@ -1757,6 +1757,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49854693
 - **Link:** https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story
 
+**Added 2026-10-23**
+
+### [The 1.5°C goal of the Paris Agreement is no longer viable](https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/)
+- **Source:** unric.org | **Posted:** 2026-10-21 | **By:** velo_aprx
+- **Community:** 654 points, 821 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50177911
+- **Link:** https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/
+
 
 ## DevOps & Cloud
 

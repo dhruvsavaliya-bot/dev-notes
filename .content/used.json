@@ -1502,6 +1502,7 @@
     "https://news.ycombinator.com/item?id=50168396",
     "https://news.ycombinator.com/item?id=50174687",
     "https://news.ycombinator.com/item?id=50175070",
+    "https://news.ycombinator.com/item?id=50177911",
     "https://news.ycombinator.com/item?id=50180079",
     "https://news.ycombinator.com/item?id=50181175",
     "https://news.ycombinator.com/item?id=50182526",
@@ -1619,6 +1620,7 @@
     "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
     "https://unim.press/#dataisbeautiful",
     "https://unlisted.careers/ghost-jobs/report/2026-09",
+    "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
     "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
     "https://uvbirds.com/",
     "https://verdagon.dev/blog/reverse-borrow-checking",
@@ -1741,12 +1743,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "PHP",
-      "title": "coollabsio/shoutrrr",
-      "url": "https://github.com/coollabsio/shoutrrr"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "AI Engineering",
       "title": "Demystifying AI Agents with Turtle & Gemma",
       "url": "https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj"
@@ -1798,6 +1794,12 @@
       "subcat": "Swift",
       "title": "nodes-app/swift-markdown-engine",
       "url": "https://github.com/nodes-app/swift-markdown-engine"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "Hacker News Picks",
+      "title": "The 1.5C goal of the Paris Agreement is no longer...",
+      "url": "https://news.ycombinator.com/item?id=50177911"
     }
   ]
 }
