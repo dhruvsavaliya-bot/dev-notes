@@ -127,6 +127,7 @@
     "https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html",
     "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
     "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
+    "https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/",
     "https://blog.glyph.im/2026/10/programming-isnt-special.html",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
     "https://blog.google/security/chrome-stronger-with-every-update/",
@@ -987,6 +988,7 @@
     "https://lobste.rs/s/e7rvsp/we_re_sunsetting_codeberg_pages_v2",
     "https://lobste.rs/s/ecxril/lineageos_24_0_released",
     "https://lobste.rs/s/eesu8d/bun_1_4",
+    "https://lobste.rs/s/gajtrm/debunking_faster_than_rust_malicious",
     "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from",
     "https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow",
     "https://lobste.rs/s/gqyvn5/protecting_firefox_users_following",
@@ -1749,12 +1751,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "Java",
-      "title": "IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence...",
-      "url": "https://lobste.rs/s/culsub/intellij_idea_goes_lsp_java_kotlin"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "Models & Datasets",
       "title": "mudler/locate-anything.cpp-gguf",
       "url": "https://huggingface.co/mudler/locate-anything.cpp-gguf"
@@ -1806,6 +1802,12 @@
       "subcat": "Hacker News Picks",
       "title": "Apple broke an essential presentation feature of iPads",
       "url": "https://news.ycombinator.com/item?id=50165208"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "Lobsters Picks",
+      "title": "Debunking \"Faster than Rust\": Malicious Benchmarks in...",
+      "url": "https://lobste.rs/s/gajtrm/debunking_faster_than_rust_malicious"
     }
   ]
 }

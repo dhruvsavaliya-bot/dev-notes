@@ -2288,6 +2288,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/05xrj8/we_have_traits_at_home
 - **Link:** https://www.axelmagn.com/blog/202610-zig-traits/
 
+**Added 2026-10-23**
+
+### [Debunking "Faster than Rust": Malicious Benchmarks in Tov](https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/)
+- **Source:** blog.fyralabs.com | **Posted:** 2026-10-23 | **By:** ettolrach
+- **Community:** 21 score, 16 comments on Lobsters
+- **Tags:** performance
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/gajtrm/debunking_faster_than_rust_malicious
+- **Link:** https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/
+
 
 ## Career & Craft
 
