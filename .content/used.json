@@ -1005,6 +1005,7 @@
     "https://lobste.rs/s/iotaty/state_simd_rust_2026",
     "https://lobste.rs/s/iufma5/parsing_json_at_tens_gigabytes_per_second",
     "https://lobste.rs/s/j7kltq/turbo_haskell",
+    "https://lobste.rs/s/jbnmj9/chatgpt_now_knows_what_you_do_on_other",
     "https://lobste.rs/s/jlja1a/jdk_27_has_been_released",
     "https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this",
     "https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think",
@@ -1661,6 +1662,7 @@
     "https://www.bbc.com/news/articles/c8xnwqe00v1o",
     "https://www.blackmagicdesign.com/media/release/20260908-03",
     "https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke",
+    "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
     "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
     "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
     "https://www.claymath.org/news/navier-stokes-announcement/",
@@ -1756,12 +1758,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "Swift",
-      "title": "nodes-app/swift-markdown-engine",
-      "url": "https://github.com/nodes-app/swift-markdown-engine"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "Hacker News Picks",
       "title": "The 1.5C goal of the Paris Agreement is no longer...",
       "url": "https://news.ycombinator.com/item?id=50177911"
@@ -1813,6 +1809,12 @@
       "subcat": "Research Papers",
       "title": "Capturing a Moving Target on Star Graphs by Two...",
       "url": "http://arxiv.org/abs/2610.11955v2"
+    },
+    {
+      "date": "2026-10-24",
+      "subcat": "Lobsters Picks",
+      "title": "ChatGPT now knows what you do on other websites via...",
+      "url": "https://lobste.rs/s/jbnmj9/chatgpt_now_knows_what_you_do_on_other"
     }
   ]
 }

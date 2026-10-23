@@ -2310,6 +2310,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/8rkyrl/objects_attributes_maps_oh_my
 - **Link:** https://bernsteinbear.com/blog/object-shapes/
 
+**Added 2026-10-24**
+
+### [ChatGPT now knows what you do on other websites via ad collector](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/)
+- **Source:** www.buchodi.com | **Posted:** 2026-09-20 | **By:** jrgtt
+- **Community:** 60 score, 7 comments on Lobsters
+- **Tags:** ai, privacy
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/jbnmj9/chatgpt_now_knows_what_you_do_on_other
+- **Link:** https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/
+
 
 ## Performance
 
