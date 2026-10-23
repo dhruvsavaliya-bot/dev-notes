@@ -742,6 +742,17 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~13 stars/day since launch.
 - **Link:** https://github.com/OpenMili/aimili-vpngate
 
+**Added 2026-10-23**
+
+### [Parsing JSON at tens of gigabytes per second… in Python](https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/)
+- **Source:** lemire.me | **Posted:** 2026-10-12 | **By:** raymii
+- **Community:** 19 score, 16 comments on Lobsters
+- **Tags:** python
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/iufma5/parsing_json_at_tens_gigabytes_per_second
+- **Link:** https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/
+
+
 ## Go
 
 **Added 2026-09-28**

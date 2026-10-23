@@ -921,6 +921,7 @@
     "https://ledge.sh",
     "https://lemire.me/blog/2020/01/30/cost-of-a-thread-in-c-under-linux/",
     "https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/",
+    "https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/",
     "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
     "https://liao.gg/blog/agents-dont-need-memory",
     "https://lightbulbcomputer.com/",
@@ -992,6 +993,7 @@
     "https://lobste.rs/s/ily7as/programming_isn_t_special",
     "https://lobste.rs/s/imdwmj/pandas_should_go_extinct",
     "https://lobste.rs/s/iotaty/state_simd_rust_2026",
+    "https://lobste.rs/s/iufma5/parsing_json_at_tens_gigabytes_per_second",
     "https://lobste.rs/s/j7kltq/turbo_haskell",
     "https://lobste.rs/s/jlja1a/jdk_27_has_been_released",
     "https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this",
@@ -1737,12 +1739,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "Hacker News Picks",
-      "title": "Fifteen years later, the Apple Cards origin story",
-      "url": "https://news.ycombinator.com/item?id=49854693"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "Ruby",
       "title": "28% of job postings on company career sites have been...",
       "url": "https://news.ycombinator.com/item?id=49818698"
@@ -1794,6 +1790,12 @@
       "subcat": "Models & Datasets",
       "title": "mudler/locate-anything.cpp-gguf",
       "url": "https://huggingface.co/mudler/locate-anything.cpp-gguf"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "Python",
+      "title": "Parsing JSON at tens of gigabytes per second in Python",
+      "url": "https://lobste.rs/s/iufma5/parsing_json_at_tens_gigabytes_per_second"
     }
   ]
 }
