@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1208 entries and counting** · Last updated: 2026-10-23
+**1209 entries and counting** · Last updated: 2026-10-23
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 252 |
-| [AI / LLM Notes](ai/notes.md) | 243 |
+| [AI / LLM Notes](ai/notes.md) | 244 |
 | [Reading List](articles/reading-list.md) | 245 |
 | [Coding Tips](coding-tips/tips.md) | 245 |
 | [Language Notes](languages/notes.md) | 223 |
 
 ## Latest additions
 
+- **2026-10-23** · *Models & Datasets* — [JonathanColetti/Qwen3.8-27B-Uncensored-GGUF](https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF)
 - **2026-10-23** · *JavaScript* — [Inline rendering with document.currentScript](https://lobste.rs/s/ogp1wf/inline_rendering_with_document)
 - **2026-10-23** · *Go* — [Go will reject certificate chains containing eight...](https://news.ycombinator.com/item?id=50160877)
 - **2026-10-23** · *AI & Machine Learning* — [QoderAI/better-harness](https://github.com/QoderAI/better-harness)
 - **2026-10-23** · *Hacker News Picks* — [Getting ready to operate GNU Taler in Germany](https://news.ycombinator.com/item?id=50197404)
-- **2026-10-23** · *Lobsters Picks* — [examining the macOS gcc binary](https://lobste.rs/s/hplfis/examining_macos_gcc_binary)
 
 ## How it works
 

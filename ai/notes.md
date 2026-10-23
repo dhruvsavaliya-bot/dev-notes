@@ -1662,6 +1662,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/unsloth/LFM2.5-24B-A2B-GGUF
 
+**Added 2026-10-23**
+
+### [JonathanColetti/Qwen3.8-27B-Uncensored-GGUF](https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF)
+- **Stats:** 1,691 likes | 2,467,774 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-08-14
+- **Tags:** llama.cpp, gguf, uncensored, qwen3.8, mtp, speculative-decoding
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF
+
 
 ## Research Papers
 
