@@ -871,6 +871,7 @@
     "https://huggingface.co/microsoft/OmniParser-v2.0",
     "https://huggingface.co/microsoft/TRELLIS-image-large",
     "https://huggingface.co/moonshotai/Kimi-K3",
+    "https://huggingface.co/mudler/locate-anything.cpp-gguf",
     "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB",
     "https://huggingface.co/openbmb/MiniCPM-V-2_6",
     "https://huggingface.co/openbmb/MiniCPM5-2B",
@@ -1736,12 +1737,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "Models & Datasets",
-      "title": "autotrust/GEV-26B-Decide",
-      "url": "https://huggingface.co/autotrust/GEV-26B-Decide"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "Hacker News Picks",
       "title": "Fifteen years later, the Apple Cards origin story",
       "url": "https://news.ycombinator.com/item?id=49854693"
@@ -1793,6 +1788,12 @@
       "subcat": "Java",
       "title": "IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence...",
       "url": "https://lobste.rs/s/culsub/intellij_idea_goes_lsp_java_kotlin"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "Models & Datasets",
+      "title": "mudler/locate-anything.cpp-gguf",
+      "url": "https://huggingface.co/mudler/locate-anything.cpp-gguf"
     }
   ]
 }

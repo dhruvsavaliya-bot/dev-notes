@@ -1707,6 +1707,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/autotrust/GEV-26B-Decide
 
+**Added 2026-10-23**
+
+### [mudler/locate-anything.cpp-gguf](https://huggingface.co/mudler/locate-anything.cpp-gguf)
+- **Stats:** 66 likes | 8,323,312 downloads
+- **Kind:** Hugging Face model | **Task:** object-detection | **Created:** 2026-06-11
+- **Tags:** gguf, locate-anything.cpp, ggml, object-detection, open-vocabulary-detection, visual-grounding
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/mudler/locate-anything.cpp-gguf
+
 
 ## Research Papers
 

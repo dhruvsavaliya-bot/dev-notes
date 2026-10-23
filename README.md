@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1226 entries and counting** · Last updated: 2026-10-23
+**1227 entries and counting** · Last updated: 2026-10-23
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 252 |
-| [AI / LLM Notes](ai/notes.md) | 248 |
+| [AI / LLM Notes](ai/notes.md) | 249 |
 | [Reading List](articles/reading-list.md) | 248 |
 | [Coding Tips](coding-tips/tips.md) | 248 |
 | [Language Notes](languages/notes.md) | 230 |
 
 ## Latest additions
 
+- **2026-10-23** · *Models & Datasets* — [mudler/locate-anything.cpp-gguf](https://huggingface.co/mudler/locate-anything.cpp-gguf)
 - **2026-10-23** · *Java* — [IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence...](https://lobste.rs/s/culsub/intellij_idea_goes_lsp_java_kotlin)
 - **2026-10-23** · *Show & Ask HN* — [Show HN: KiviDB, a faster Redis-compatible memory...](https://news.ycombinator.com/item?id=50152541)
 - **2026-10-23** · *TypeScript* — [Ikaleio/lm-detector](https://github.com/Ikaleio/lm-detector)
 - **2026-10-23** · *PHP* — [dev-null-sh/dev-null.sh](https://github.com/dev-null-sh/dev-null.sh)
-- **2026-10-23** · *AI Engineering* — [Demystifying AI Agents with Turtle & Gemma](https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj)
 
 ## How it works
 
