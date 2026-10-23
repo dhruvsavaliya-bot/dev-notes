@@ -222,6 +222,7 @@
     "https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd",
     "https://dev.to/georgekobaidze/georgian-language-benchmark-two-biggest-ai-labs-clash-in-a-language-that-doesnt-play-by-anyones-5b22",
     "https://dev.to/georgekobaidze/vibe-coding-isnt-the-problem-calling-it-engineering-is-lm1",
+    "https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj",
     "https://dev.to/googleai/where-were-going-we-dont-need-chatbots-introducing-the-antigravity-ide-2c3k",
     "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i",
     "https://dev.to/gramli/api-performance-testing-how-to-design-realistic-tests-59gn",
@@ -1729,12 +1730,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "Models & Datasets",
-      "title": "aidigestorg/ai-village",
-      "url": "https://huggingface.co/datasets/aidigestorg/ai-village"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "Lobsters Picks",
       "title": "I Built Non-Autoregressive Decision Models a Year...",
       "url": "https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision"
@@ -1786,6 +1781,12 @@
       "subcat": "PHP",
       "title": "coollabsio/shoutrrr",
       "url": "https://github.com/coollabsio/shoutrrr"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "AI Engineering",
+      "title": "Demystifying AI Agents with Turtle & Gemma",
+      "url": "https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj"
     }
   ]
 }

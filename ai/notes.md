@@ -438,6 +438,15 @@ Lessons from building with LLMs.
 - **Summary:** Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...
 - **Link:** https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b
 
+**Added 2026-10-23**
+
+### [Demystifying AI Agents with Turtle & Gemma](https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj)
+- **Author:** bebechien | **Published:** May 19 | **Read time:** 3 min
+- **Community:** 64 reactions, 26 comments -- a top post in #ai
+- **Tags:** turtle, gemma, ai, agents
+- **Summary:** 🐢 Speaking into Canvas   If you're anything like me, your very first taste of "programming"...
+- **Link:** https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj
+
 
 ## LLMs
 
