@@ -1680,6 +1680,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/aidigestorg/ai-village
 
+**Added 2026-10-23**
+
+### [vllm-sr/d3](https://huggingface.co/vllm-sr/d3)
+- **Stats:** 264 likes | 6,267 downloads
+- **Kind:** Hugging Face model | **Task:** zero-shot-classification | **Created:** 2026-10-10
+- **Tags:** transformers, safetensors, qwen3_5, feature-extraction, zero-shot-classification, decision-model
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/vllm-sr/d3
+
 
 ## Research Papers
 

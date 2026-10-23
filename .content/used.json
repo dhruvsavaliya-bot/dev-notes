@@ -881,6 +881,7 @@
     "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
     "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+    "https://huggingface.co/vllm-sr/d3",
     "https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base",
     "https://huggingface.co/yiyanghkust/finbert-tone",
     "https://huggingface.co/zai-org/GLM-4.6",
@@ -1720,12 +1721,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "AI & Machine Learning",
-      "title": "QoderAI/better-harness",
-      "url": "https://github.com/QoderAI/better-harness"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "Go",
       "title": "Go will reject certificate chains containing eight...",
       "url": "https://news.ycombinator.com/item?id=50160877"
@@ -1777,6 +1772,12 @@
       "subcat": "Go",
       "title": "N4darae/shrt",
       "url": "https://github.com/N4darae/shrt"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "Models & Datasets",
+      "title": "vllm-sr/d3",
+      "url": "https://huggingface.co/vllm-sr/d3"
     }
   ]
 }
