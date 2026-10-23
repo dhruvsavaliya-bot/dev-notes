@@ -414,6 +414,7 @@
     "https://github.com/Hisn00w/ASu-skills",
     "https://github.com/Human-Agent-Society/reef",
     "https://github.com/IBM/mcp-context-forge",
+    "https://github.com/Ikaleio/lm-detector",
     "https://github.com/IntegralPilot/rustc_codegen_jvm",
     "https://github.com/JetBrains/kotlin-toolchain",
     "https://github.com/Jia-Ethan/codex-keysmith",
@@ -1731,12 +1732,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "Show & Ask HN",
-      "title": "Tell HN: I've been paying for a rural Tanzanian's...",
-      "url": "https://news.ycombinator.com/item?id=50006366"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "Go",
       "title": "N4darae/shrt",
       "url": "https://github.com/N4darae/shrt"
@@ -1788,6 +1783,12 @@
       "subcat": "PHP",
       "title": "dev-null-sh/dev-null.sh",
       "url": "https://github.com/dev-null-sh/dev-null.sh"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "TypeScript",
+      "title": "Ikaleio/lm-detector",
+      "url": "https://github.com/Ikaleio/lm-detector"
     }
   ]
 }

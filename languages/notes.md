@@ -508,6 +508,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50165953
 - **Link:** https://blog.cloudflare.com/typescript-rust-port/
 
+**Added 2026-10-23**
+
+### [Ikaleio/lm-detector](https://github.com/Ikaleio/lm-detector)
+- **Stats:** 842 stars | 23 forks | 6 open issues
+- **Language:** TypeScript | **Created:** 2026-09-13 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Model fingerprint detection with a shared Web and Bun CLI reference bank
+- **Growth:** averaging ~21 stars/day since launch.
+- **Link:** https://github.com/Ikaleio/lm-detector
+
 
 ## Python
 
