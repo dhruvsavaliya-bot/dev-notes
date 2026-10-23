@@ -1689,6 +1689,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/vllm-sr/d3
 
+**Added 2026-10-23**
+
+### [autotrust/GEV-26B-Decide](https://huggingface.co/autotrust/GEV-26B-Decide)
+- **Stats:** 291 likes | 1,155,426 downloads
+- **Kind:** Hugging Face model | **Task:** text-classification | **Created:** 2026-10-02
+- **Tags:** transformers, safetensors, gemma4, image-text-to-text, system-one, system-two
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/autotrust/GEV-26B-Decide
+
 
 ## Research Papers
 

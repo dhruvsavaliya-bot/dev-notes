@@ -782,6 +782,7 @@
     "https://huggingface.co/almanach/camembert-base",
     "https://huggingface.co/audeering/wav2vec2-large-robust-24-ft-age-gender",
     "https://huggingface.co/autotrust/AutoTrust-JEV-27B-v1.1",
+    "https://huggingface.co/autotrust/GEV-26B-Decide",
     "https://huggingface.co/blog/agent-intrusion-technical-timeline",
     "https://huggingface.co/briaai/Fibo-2.0-dev",
     "https://huggingface.co/bytedance-research/Lance",
@@ -1721,12 +1722,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "Go",
-      "title": "Go will reject certificate chains containing eight...",
-      "url": "https://news.ycombinator.com/item?id=50160877"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "JavaScript",
       "title": "Inline rendering with document.currentScript",
       "url": "https://lobste.rs/s/ogp1wf/inline_rendering_with_document"
@@ -1778,6 +1773,12 @@
       "subcat": "Models & Datasets",
       "title": "vllm-sr/d3",
       "url": "https://huggingface.co/vllm-sr/d3"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "Models & Datasets",
+      "title": "autotrust/GEV-26B-Decide",
+      "url": "https://huggingface.co/autotrust/GEV-26B-Decide"
     }
   ]
 }
