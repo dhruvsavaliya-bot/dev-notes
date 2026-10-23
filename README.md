@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1220 entries and counting** · Last updated: 2026-10-23
+**1221 entries and counting** · Last updated: 2026-10-23
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 247 |
 | [Reading List](articles/reading-list.md) | 248 |
 | [Coding Tips](coding-tips/tips.md) | 247 |
-| [Language Notes](languages/notes.md) | 226 |
+| [Language Notes](languages/notes.md) | 227 |
 
 ## Latest additions
 
+- **2026-10-23** · *PHP* — [coollabsio/shoutrrr](https://github.com/coollabsio/shoutrrr)
 - **2026-10-23** · *Lobsters Picks* — [Docker is weird](https://lobste.rs/s/xsz9sc/docker_is_weird)
 - **2026-10-23** · *Ruby* — [28% of job postings on company career sites have been...](https://news.ycombinator.com/item?id=49818698)
 - **2026-10-23** · *Hacker News Picks* — [Fifteen years later, the Apple Cards origin story](https://news.ycombinator.com/item?id=49854693)
 - **2026-10-23** · *Models & Datasets* — [autotrust/GEV-26B-Decide](https://huggingface.co/autotrust/GEV-26B-Decide)
-- **2026-10-23** · *Models & Datasets* — [vllm-sr/d3](https://huggingface.co/vllm-sr/d3)
 
 ## How it works
 

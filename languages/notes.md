@@ -1119,6 +1119,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/savvyagents/larasend
 
+**Added 2026-10-23**
+
+### [coollabsio/shoutrrr](https://github.com/coollabsio/shoutrrr)
+- **Stats:** 451 stars | 62 forks | 18 open issues
+- **Language:** PHP | **Created:** 2026-06-12 | **License:** Apache-2.0
+- **Topics:** coollabs, scheduler, scheduling, social, social-media
+- **What it is:** An open-source alternative to Buffer, Typefully, and Hootsuite. Write once and schedule everywhere.
+- **Growth:** averaging ~3 stars/day since launch.
+- **Link:** https://github.com/coollabsio/shoutrrr
+
 
 ## Ruby
 
