@@ -704,6 +704,7 @@
     "https://github.com/usewhale/Whale",
     "https://github.com/vercel-labs/fx",
     "https://github.com/vercel-labs/json-render",
+    "https://github.com/vercel-labs/native",
     "https://github.com/vercel-labs/scriptc",
     "https://github.com/vikejs/vike",
     "https://github.com/vinvcn/mattpocock-skills-zh-CN",
@@ -1745,12 +1746,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "PHP",
-      "title": "dev-null-sh/dev-null.sh",
-      "url": "https://github.com/dev-null-sh/dev-null.sh"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "TypeScript",
       "title": "Ikaleio/lm-detector",
       "url": "https://github.com/Ikaleio/lm-detector"
@@ -1802,6 +1797,12 @@
       "subcat": "Lobsters Picks",
       "title": "We have Traits at Home",
       "url": "https://lobste.rs/s/05xrj8/we_have_traits_at_home"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "Developer Tools",
+      "title": "vercel-labs/native",
+      "url": "https://github.com/vercel-labs/native"
     }
   ]
 }

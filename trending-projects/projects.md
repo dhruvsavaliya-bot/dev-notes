@@ -2473,6 +2473,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~41 stars/day since launch.
 - **Link:** https://github.com/jiayx/d2r-mobile-build
 
+**Added 2026-10-23**
+
+### [vercel-labs/native](https://github.com/vercel-labs/native)
+- **Stats:** 7,808 stars | 329 forks | 180 open issues
+- **Language:** Zig | **Created:** 2026-05-08 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** Toolkit for building native desktop apps
+- **Growth:** averaging ~46 stars/day since launch.
+- **Link:** https://github.com/vercel-labs/native
+
 
 ## Backend & Infrastructure
 
