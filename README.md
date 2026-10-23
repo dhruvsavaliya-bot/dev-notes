@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1210 entries and counting** · Last updated: 2026-10-23
+**1211 entries and counting** · Last updated: 2026-10-23
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 244 |
 | [Reading List](articles/reading-list.md) | 245 |
 | [Coding Tips](coding-tips/tips.md) | 246 |
-| [Language Notes](languages/notes.md) | 223 |
+| [Language Notes](languages/notes.md) | 224 |
 
 ## Latest additions
 
+- **2026-10-23** · *C#* — [BlackLabelHQ/SymphonyRecomp](https://github.com/BlackLabelHQ/SymphonyRecomp)
 - **2026-10-23** · *Lobsters Picks* — [jailbreaking the switch 2](https://lobste.rs/s/me75ey/jailbreaking_switch_2)
 - **2026-10-23** · *Models & Datasets* — [JonathanColetti/Qwen3.8-27B-Uncensored-GGUF](https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF)
 - **2026-10-23** · *JavaScript* — [Inline rendering with document.currentScript](https://lobste.rs/s/ogp1wf/inline_rendering_with_document)
 - **2026-10-23** · *Go* — [Go will reject certificate chains containing eight...](https://news.ycombinator.com/item?id=50160877)
-- **2026-10-23** · *AI & Machine Learning* — [QoderAI/better-harness](https://github.com/QoderAI/better-harness)
 
 ## How it works
 

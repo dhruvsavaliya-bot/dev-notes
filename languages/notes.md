@@ -1768,6 +1768,17 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~29 stars/day since launch.
 - **Link:** https://github.com/huaotem-bot/gezi-quark-downloader
 
+**Added 2026-10-23**
+
+### [BlackLabelHQ/SymphonyRecomp](https://github.com/BlackLabelHQ/SymphonyRecomp)
+- **Stats:** 951 stars | 41 forks | 16 open issues
+- **Language:** C# | **Created:** 2026-07-03 | **License:** None
+- **Topics:** none listed
+- **What it is:** Recompilation project for Castlevania: Symphony of the Night
+- **Growth:** averaging ~8 stars/day since launch.
+- **Link:** https://github.com/BlackLabelHQ/SymphonyRecomp
+
+
 ## C++
 
 **Added 2026-10-06**

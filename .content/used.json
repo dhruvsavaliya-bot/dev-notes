@@ -385,6 +385,7 @@
     "https://github.com/AndroidCSIDE/ACSIDE",
     "https://github.com/ApodexAI/FrontierAgent",
     "https://github.com/AstrBotDevs/AstrBot-desktop",
+    "https://github.com/BlackLabelHQ/SymphonyRecomp",
     "https://github.com/Blimp-Labs/claude-usage-bar",
     "https://github.com/CircuitLord/CircuitLordVRModInstaller",
     "https://github.com/CluvexStudio/Aether",
@@ -1714,12 +1715,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "PHP",
-      "title": "savvyagents/larasend",
-      "url": "https://github.com/savvyagents/larasend"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy...",
       "url": "https://news.ycombinator.com/item?id=50024499"
@@ -1771,6 +1766,12 @@
       "subcat": "Lobsters Picks",
       "title": "jailbreaking the switch 2",
       "url": "https://lobste.rs/s/me75ey/jailbreaking_switch_2"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "C#",
+      "title": "BlackLabelHQ/SymphonyRecomp",
+      "url": "https://github.com/BlackLabelHQ/SymphonyRecomp"
     }
   ]
 }
