@@ -2300,6 +2300,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/xsz9sc/docker_is_weird
 - **Link:** https://codeandcake.dev/posts/2026-10-22-docker-is-weird
 
+**Added 2026-10-24**
+
+### [Objects, attributes, maps, oh my](https://bernsteinbear.com/blog/object-shapes/)
+- **Source:** bernsteinbear.com | **Posted:** 2026-10-22 | **By:** priime
+- **Community:** 27 score, 5 comments on Lobsters
+- **Tags:** compilers
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/8rkyrl/objects_attributes_maps_oh_my
+- **Link:** https://bernsteinbear.com/blog/object-shapes/
+
 
 ## Performance
 

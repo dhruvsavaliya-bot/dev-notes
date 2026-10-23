@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1236 entries and counting** · Last updated: 2026-10-23
+**1237 entries and counting** · Last updated: 2026-10-24
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 253 |
 | [AI / LLM Notes](ai/notes.md) | 249 |
-| [Reading List](articles/reading-list.md) | 250 |
+| [Reading List](articles/reading-list.md) | 251 |
 | [Coding Tips](coding-tips/tips.md) | 251 |
 | [Language Notes](languages/notes.md) | 233 |
 
 ## Latest additions
 
+- **2026-10-24** · *Lobsters Picks* — [Objects, attributes, maps, oh my](https://lobste.rs/s/8rkyrl/objects_attributes_maps_oh_my)
 - **2026-10-23** · *Lobsters Picks* — [Debunking "Faster than Rust": Malicious Benchmarks in...](https://lobste.rs/s/gajtrm/debunking_faster_than_rust_malicious)
 - **2026-10-23** · *Hacker News Picks* — [Apple broke an essential presentation feature of iPads](https://news.ycombinator.com/item?id=50165208)
 - **2026-10-23** · *Swift* — [xweiba/location-spoofer](https://github.com/xweiba/location-spoofer)
 - **2026-10-23** · *Developer Tools* — [vercel-labs/native](https://github.com/vercel-labs/native)
-- **2026-10-23** · *Lobsters Picks* — [We have Traits at Home](https://lobste.rs/s/05xrj8/we_have_traits_at_home)
 
 ## How it works
 
