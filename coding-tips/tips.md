@@ -1939,6 +1939,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50024499
 - **Link:** https://carrierexplode.com/
 
+**Added 2026-10-23**
+
+### [Tell HN: I've been paying for a rural Tanzanian's education for 10 years](https://news.ycombinator.com/item?id=50006366)
+- **Source:** news.ycombinator.com | **Posted:** 2026-10-08 | **By:** lukehandcool
+- **Community:** 778 points, 245 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50006366
+- **Link:** https://news.ycombinator.com/item?id=50006366
+
 
 ## Git & Workflow
 

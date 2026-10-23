@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1213 entries and counting** · Last updated: 2026-10-23
+**1214 entries and counting** · Last updated: 2026-10-23
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 252 |
 | [AI / LLM Notes](ai/notes.md) | 245 |
 | [Reading List](articles/reading-list.md) | 246 |
-| [Coding Tips](coding-tips/tips.md) | 246 |
+| [Coding Tips](coding-tips/tips.md) | 247 |
 | [Language Notes](languages/notes.md) | 224 |
 
 ## Latest additions
 
+- **2026-10-23** · *Show & Ask HN* — [Tell HN: I've been paying for a rural Tanzanian's...](https://news.ycombinator.com/item?id=50006366)
 - **2026-10-23** · *Lobsters Picks* — [I Built Non-Autoregressive Decision Models a Year...](https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision)
 - **2026-10-23** · *Models & Datasets* — [aidigestorg/ai-village](https://huggingface.co/datasets/aidigestorg/ai-village)
 - **2026-10-23** · *C#* — [BlackLabelHQ/SymphonyRecomp](https://github.com/BlackLabelHQ/SymphonyRecomp)
 - **2026-10-23** · *Lobsters Picks* — [jailbreaking the switch 2](https://lobste.rs/s/me75ey/jailbreaking_switch_2)
-- **2026-10-23** · *Models & Datasets* — [JonathanColetti/Qwen3.8-27B-Uncensored-GGUF](https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF)
 
 ## How it works
 

@@ -1446,6 +1446,7 @@
     "https://news.ycombinator.com/item?id=49998992",
     "https://news.ycombinator.com/item?id=50000488",
     "https://news.ycombinator.com/item?id=50000676",
+    "https://news.ycombinator.com/item?id=50006366",
     "https://news.ycombinator.com/item?id=50006832",
     "https://news.ycombinator.com/item?id=50008047",
     "https://news.ycombinator.com/item?id=50009295",
@@ -1718,12 +1719,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "Lobsters Picks",
-      "title": "examining the macOS gcc binary",
-      "url": "https://lobste.rs/s/hplfis/examining_macos_gcc_binary"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "Hacker News Picks",
       "title": "Getting ready to operate GNU Taler in Germany",
       "url": "https://news.ycombinator.com/item?id=50197404"
@@ -1775,6 +1770,12 @@
       "subcat": "Lobsters Picks",
       "title": "I Built Non-Autoregressive Decision Models a Year...",
       "url": "https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "Show & Ask HN",
+      "title": "Tell HN: I've been paying for a rural Tanzanian's...",
+      "url": "https://news.ycombinator.com/item?id=50006366"
     }
   ]
 }
