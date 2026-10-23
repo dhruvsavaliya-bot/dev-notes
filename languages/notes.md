@@ -318,6 +318,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~52 stars/day since launch.
 - **Link:** https://github.com/JohnHeibel/ClaudeAnimationBase
 
+**Added 2026-10-23**
+
+### [Inline rendering with document.currentScript](https://leanrada.com/notes/inline-rendering-currentscript/)
+- **Source:** leanrada.com | **Posted:** 2026-10-18 | **By:** carlana
+- **Community:** 30 score, 5 comments on Lobsters
+- **Tags:** javascript
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/ogp1wf/inline_rendering_with_document
+- **Link:** https://leanrada.com/notes/inline-rendering-currentscript/
+
 
 ## TypeScript
 

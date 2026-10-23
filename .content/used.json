@@ -902,6 +902,7 @@
     "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
     "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
     "https://lapcatsoftware.com/articles/2026/9/1.html",
+    "https://leanrada.com/notes/inline-rendering-currentscript/",
     "https://ledge.sh",
     "https://lemire.me/blog/2020/01/30/cost-of-a-thread-in-c-under-linux/",
     "https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/",
@@ -994,6 +995,7 @@
     "https://lobste.rs/s/o0ixth/haxy_net_is_live_haxy_git_forge_devlog",
     "https://lobste.rs/s/o8xo9z/importance_communities_around_software",
     "https://lobste.rs/s/odrfgk/how_speed_up_rust_compiler_september_2026",
+    "https://lobste.rs/s/ogp1wf/inline_rendering_with_document",
     "https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live",
     "https://lobste.rs/s/paryb7/rails_is_done",
     "https://lobste.rs/s/pioj21/performance_cost_rwlock_our_read_heavy",
@@ -1709,12 +1711,6 @@
   "recent": [
     {
       "date": "2026-10-22",
-      "subcat": "Rust",
-      "title": "A5 v1.0",
-      "url": "https://lobste.rs/s/wtthju/a5_v1_0"
-    },
-    {
-      "date": "2026-10-22",
       "subcat": "Models & Datasets",
       "title": "unsloth/LFM2.5-24B-A2B-GGUF",
       "url": "https://huggingface.co/unsloth/LFM2.5-24B-A2B-GGUF"
@@ -1766,6 +1762,12 @@
       "subcat": "Go",
       "title": "Go will reject certificate chains containing eight...",
       "url": "https://news.ycombinator.com/item?id=50160877"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "JavaScript",
+      "title": "Inline rendering with document.currentScript",
+      "url": "https://lobste.rs/s/ogp1wf/inline_rendering_with_document"
     }
   ]
 }
