@@ -2298,6 +2298,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/gajtrm/debunking_faster_than_rust_malicious
 - **Link:** https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/
 
+**Added 2026-10-24**
+
+### [Software is slow because of bad design, not slow languages](https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/)
+- **Source:** www.seangoedecke.com | **Posted:** 2026-10-23 | **By:** nrposner
+- **Community:** 27 score, 30 comments on Lobsters
+- **Tags:** performance
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not
+- **Link:** https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/
+
 
 ## Career & Craft
 

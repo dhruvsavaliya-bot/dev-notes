@@ -996,6 +996,7 @@
     "https://lobste.rs/s/gqyvn5/protecting_firefox_users_following",
     "https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait",
     "https://lobste.rs/s/hccdqa/shipping_jpeg_xl_chrome",
+    "https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not",
     "https://lobste.rs/s/hplfis/examining_macos_gcc_binary",
     "https://lobste.rs/s/iii8sl/micro_language_implementation_calcium",
     "https://lobste.rs/s/ily7as/programming_isn_t_special",
@@ -1719,6 +1720,7 @@
     "https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return",
     "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
     "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
+    "https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/",
     "https://www.seangoedecke.com/what-requirements-dont-you-have/",
     "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
     "https://www.statichost.eu/",
@@ -1751,12 +1753,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-10-23",
-      "subcat": "Python",
-      "title": "Parsing JSON at tens of gigabytes per second in Python",
-      "url": "https://lobste.rs/s/iufma5/parsing_json_at_tens_gigabytes_per_second"
-    },
     {
       "date": "2026-10-23",
       "subcat": "Show & Ask HN",
@@ -1810,6 +1806,12 @@
       "subcat": "Lobsters Picks",
       "title": "Objects, attributes, maps, oh my",
       "url": "https://lobste.rs/s/8rkyrl/objects_attributes_maps_oh_my"
+    },
+    {
+      "date": "2026-10-24",
+      "subcat": "Lobsters Picks",
+      "title": "Software is slow because of bad design, not slow...",
+      "url": "https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not"
     }
   ]
 }
