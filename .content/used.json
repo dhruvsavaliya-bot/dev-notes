@@ -269,6 +269,7 @@
     "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd",
     "https://dev.to/mikachu/i-write-on-a-2006-imac-and-code-on-a-200-laptop-9n4",
     "https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h",
+    "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
     "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
     "https://dev.to/nazar-boyko/has-ai-made-you-a-lazier-developer-be-honest-5ack",
     "https://dev.to/nazar-boyko/how-to-learn-go-fast-a-practical-roadmap-for-senior-backend-developers-18l5",
@@ -983,6 +984,7 @@
     "https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this",
     "https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think",
     "https://lobste.rs/s/k5omum/brain_sandwich",
+    "https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision",
     "https://lobste.rs/s/lcldxn/rustc_codegen_jvm_rust_compiler_backend",
     "https://lobste.rs/s/lfen2h/living_weimar_era_ruby",
     "https://lobste.rs/s/lfusbg/atom_exhaustion_is_not_footgun_it_s_one",
@@ -1716,12 +1718,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "JavaScript",
-      "title": "JohnHeibel/ClaudeAnimationBase",
-      "url": "https://github.com/JohnHeibel/ClaudeAnimationBase"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "Lobsters Picks",
       "title": "examining the macOS gcc binary",
       "url": "https://lobste.rs/s/hplfis/examining_macos_gcc_binary"
@@ -1773,6 +1769,12 @@
       "subcat": "Models & Datasets",
       "title": "aidigestorg/ai-village",
       "url": "https://huggingface.co/datasets/aidigestorg/ai-village"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "Lobsters Picks",
+      "title": "I Built Non-Autoregressive Decision Models a Year...",
+      "url": "https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision"
     }
   ]
 }

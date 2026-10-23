@@ -2253,6 +2253,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/e7rvsp/we_re_sunsetting_codeberg_pages_v2
 - **Link:** https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html
 
+**Added 2026-10-23**
+
+### [I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a "Breakthrough"](https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me)
+- **Source:** dev.to | **Posted:** 2026-09-19 | **By:** Yogthos
+- **Community:** 61 score, 6 comments on Lobsters
+- **Tags:** ai
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision
+- **Link:** https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me
+
 
 ## Performance
 
