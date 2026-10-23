@@ -1505,6 +1505,7 @@
     "https://news.ycombinator.com/item?id=50181175",
     "https://news.ycombinator.com/item?id=50182526",
     "https://news.ycombinator.com/item?id=50185869",
+    "https://news.ycombinator.com/item?id=50194909",
     "https://news.ycombinator.com/item?id=50197404",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
@@ -1739,12 +1740,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "Ruby",
-      "title": "28% of job postings on company career sites have been...",
-      "url": "https://news.ycombinator.com/item?id=49818698"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "Lobsters Picks",
       "title": "Docker is weird",
       "url": "https://lobste.rs/s/xsz9sc/docker_is_weird"
@@ -1796,6 +1791,12 @@
       "subcat": "Python",
       "title": "Parsing JSON at tens of gigabytes per second in Python",
       "url": "https://lobste.rs/s/iufma5/parsing_json_at_tens_gigabytes_per_second"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "Show & Ask HN",
+      "title": "eMudhra to Exit Global SSL/TLS Certificate Business;",
+      "url": "https://news.ycombinator.com/item?id=50194909"
     }
   ]
 }

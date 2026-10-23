@@ -1957,6 +1957,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50152541
 - **Link:** https://github.com/kividbio/kividb
 
+**Added 2026-10-23**
+
+### [eMudhra to Exit Global SSL/TLS Certificate Business;](https://news.ycombinator.com/item?id=50194909)
+- **Source:** news.ycombinator.com | **Posted:** 2026-10-22 | **By:** parimm
+- **Community:** 105 points, 2 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50194909
+- **Link:** https://news.ycombinator.com/item?id=50194909
+
 
 ## Git & Workflow
 
