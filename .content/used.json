@@ -930,6 +930,7 @@
     "https://lineageos.org/Changelog-32/",
     "https://linus.dev/posts/kiesel-devlog-15/",
     "https://llama.app",
+    "https://lobste.rs/s/05xrj8/we_have_traits_at_home",
     "https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial",
     "https://lobste.rs/s/0gvyif/software_developers_are_not_okay",
     "https://lobste.rs/s/1skdhv/pick_os_is_living_fossil_computer_history",
@@ -1643,6 +1644,7 @@
     "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
     "https://www.apple.com/shop/iphone/iphone-upgrade-program",
     "https://www.artima.com/insidejvm/whyCAFEBABE.html",
+    "https://www.axelmagn.com/blog/202610-zig-traits/",
     "https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/",
     "https://www.bbc.com/news/articles/c1l1r1zne1ro",
     "https://www.bbc.com/news/articles/c8ly49w9g1edo",
@@ -1743,12 +1745,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "AI Engineering",
-      "title": "Demystifying AI Agents with Turtle & Gemma",
-      "url": "https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "PHP",
       "title": "dev-null-sh/dev-null.sh",
       "url": "https://github.com/dev-null-sh/dev-null.sh"
@@ -1800,6 +1796,12 @@
       "subcat": "Hacker News Picks",
       "title": "The 1.5C goal of the Paris Agreement is no longer...",
       "url": "https://news.ycombinator.com/item?id=50177911"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "Lobsters Picks",
+      "title": "We have Traits at Home",
+      "url": "https://lobste.rs/s/05xrj8/we_have_traits_at_home"
     }
   ]
 }

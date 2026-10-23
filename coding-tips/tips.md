@@ -2278,6 +2278,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/me75ey/jailbreaking_switch_2
 - **Link:** https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/
 
+**Added 2026-10-23**
+
+### [We have Traits at Home](https://www.axelmagn.com/blog/202610-zig-traits/)
+- **Source:** www.axelmagn.com | **Posted:** 2026-10-22 | **By:** Defelo
+- **Community:** 40 score, 11 comments on Lobsters
+- **Tags:** zig
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/05xrj8/we_have_traits_at_home
+- **Link:** https://www.axelmagn.com/blog/202610-zig-traits/
+
 
 ## Career & Craft
 
