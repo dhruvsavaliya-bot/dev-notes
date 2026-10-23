@@ -1748,6 +1748,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50197404
 - **Link:** https://www.taler.net/en/news/2026-13.html
 
+**Added 2026-10-23**
+
+### [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)
+- **Source:** lexontech.org | **Posted:** 2026-09-26 | **By:** ksec
+- **Community:** 437 points, 120 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49854693
+- **Link:** https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story
+
 
 ## DevOps & Cloud
 

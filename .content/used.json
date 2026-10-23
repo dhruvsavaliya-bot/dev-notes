@@ -913,6 +913,7 @@
     "https://ledge.sh",
     "https://lemire.me/blog/2020/01/30/cost-of-a-thread-in-c-under-linux/",
     "https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/",
+    "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
     "https://liao.gg/blog/agents-dont-need-memory",
     "https://lightbulbcomputer.com/",
     "https://lilianweng.github.io/posts/2026-07-04-harness/",
@@ -1407,6 +1408,7 @@
     "https://news.ycombinator.com/item?id=49844663",
     "https://news.ycombinator.com/item?id=49851032",
     "https://news.ycombinator.com/item?id=49853137",
+    "https://news.ycombinator.com/item?id=49854693",
     "https://news.ycombinator.com/item?id=49855059",
     "https://news.ycombinator.com/item?id=49858810",
     "https://news.ycombinator.com/item?id=49861047",
@@ -1722,12 +1724,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "JavaScript",
-      "title": "Inline rendering with document.currentScript",
-      "url": "https://lobste.rs/s/ogp1wf/inline_rendering_with_document"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "Models & Datasets",
       "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "url": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF"
@@ -1779,6 +1775,12 @@
       "subcat": "Models & Datasets",
       "title": "autotrust/GEV-26B-Decide",
       "url": "https://huggingface.co/autotrust/GEV-26B-Decide"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "Hacker News Picks",
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "url": "https://news.ycombinator.com/item?id=49854693"
     }
   ]
 }
