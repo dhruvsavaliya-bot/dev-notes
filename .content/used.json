@@ -133,6 +133,7 @@
     "https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle",
     "https://blog.haskell.org/foldl-and-foldr/",
     "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
+    "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/",
     "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
     "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
     "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
@@ -969,6 +970,7 @@
     "https://lobste.rs/s/ceuque/debian_code_search_fast_turbopfor_with_go",
     "https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit",
     "https://lobste.rs/s/cquwex/flow_typing_new_lens_on_linearity",
+    "https://lobste.rs/s/culsub/intellij_idea_goes_lsp_java_kotlin",
     "https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday",
     "https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has",
     "https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline",
@@ -1735,12 +1737,6 @@
     {
       "date": "2026-10-23",
       "subcat": "Models & Datasets",
-      "title": "vllm-sr/d3",
-      "url": "https://huggingface.co/vllm-sr/d3"
-    },
-    {
-      "date": "2026-10-23",
-      "subcat": "Models & Datasets",
       "title": "autotrust/GEV-26B-Decide",
       "url": "https://huggingface.co/autotrust/GEV-26B-Decide"
     },
@@ -1791,6 +1787,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: KiviDB, a faster Redis-compatible memory...",
       "url": "https://news.ycombinator.com/item?id=50152541"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "Java",
+      "title": "IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence...",
+      "url": "https://lobste.rs/s/culsub/intellij_idea_goes_lsp_java_kotlin"
     }
   ]
 }

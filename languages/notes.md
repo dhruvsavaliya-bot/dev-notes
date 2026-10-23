@@ -2240,3 +2240,13 @@ Snippets and gotchas across languages.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=50018420
 - **Link:** https://www.nobelprize.org/prizes/peace/2026/press-release/
+
+**Added 2026-10-23**
+
+### [IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence Comes to VS Code, Cursor, and Agentic Flows](https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/)
+- **Source:** blog.jetbrains.com | **Posted:** 2026-08-04 | **By:** cgrinds
+- **Community:** 21 score, 21 comments on Lobsters
+- **Tags:** java, kotlin, vibecoding, vscode
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/culsub/intellij_idea_goes_lsp_java_kotlin
+- **Link:** https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/
