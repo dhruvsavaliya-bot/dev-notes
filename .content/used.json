@@ -555,6 +555,7 @@
     "https://github.com/deepseek-ai/DeepSpec",
     "https://github.com/deepseek-ai/deepseek-harness",
     "https://github.com/denoland/celld",
+    "https://github.com/dev-null-sh/dev-null.sh",
     "https://github.com/devdotfast/whiteboard",
     "https://github.com/digimata/quill",
     "https://github.com/dmmulroy/anti-slop",
@@ -1730,12 +1731,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "Lobsters Picks",
-      "title": "I Built Non-Autoregressive Decision Models a Year...",
-      "url": "https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "Show & Ask HN",
       "title": "Tell HN: I've been paying for a rural Tanzanian's...",
       "url": "https://news.ycombinator.com/item?id=50006366"
@@ -1787,6 +1782,12 @@
       "subcat": "AI Engineering",
       "title": "Demystifying AI Agents with Turtle & Gemma",
       "url": "https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj"
+    },
+    {
+      "date": "2026-10-23",
+      "subcat": "PHP",
+      "title": "dev-null-sh/dev-null.sh",
+      "url": "https://github.com/dev-null-sh/dev-null.sh"
     }
   ]
 }

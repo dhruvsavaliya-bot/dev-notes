@@ -1129,6 +1129,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~3 stars/day since launch.
 - **Link:** https://github.com/coollabsio/shoutrrr
 
+**Added 2026-10-23**
+
+### [dev-null-sh/dev-null.sh](https://github.com/dev-null-sh/dev-null.sh)
+- **Stats:** 520 stars | 216 forks | 386 open issues
+- **Language:** PHP | **Created:** 2026-10-15 | **License:** None
+- **Topics:** none listed
+- **What it is:** a social media for devs
+- **Growth:** averaging ~65 stars/day since launch.
+- **Link:** https://github.com/dev-null-sh/dev-null.sh
+
 
 ## Ruby
 
