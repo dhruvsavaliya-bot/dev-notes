@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1243 entries and counting** · Last updated: 2026-10-24
+**1244 entries and counting** · Last updated: 2026-10-24
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 252 |
 | [Reading List](articles/reading-list.md) | 252 |
 | [Coding Tips](coding-tips/tips.md) | 252 |
-| [Language Notes](languages/notes.md) | 234 |
+| [Language Notes](languages/notes.md) | 235 |
 
 ## Latest additions
 
+- **2026-10-24** · *Rust* — [Launch HN: Magnitude (YC S25)  Self-optimizing...](https://news.ycombinator.com/item?id=49911995)
 - **2026-10-24** · *AI Engineering* — [Don't Be a Proxy Between Me and Your AI](https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn)
 - **2026-10-24** · *JavaScript* — [BuilderIO/skills](https://github.com/BuilderIO/skills)
 - **2026-10-24** · *Models & Datasets* — [Cloudflare/clef](https://huggingface.co/Cloudflare/clef)
 - **2026-10-24** · *Lobsters Picks* — [ChatGPT now knows what you do on other websites via...](https://lobste.rs/s/jbnmj9/chatgpt_now_knows_what_you_do_on_other)
-- **2026-10-24** · *Research Papers* — [Capturing a Moving Target on Star Graphs by Two...](http://arxiv.org/abs/2610.11955v2)
 
 ## How it works
 

@@ -628,6 +628,7 @@
     "https://github.com/lingyired/status-trio",
     "https://github.com/lnkiai/m3e-canvas",
     "https://github.com/lopopolo/harness-engineering",
+    "https://github.com/magnitudedev/magnitude",
     "https://github.com/mattprusak/autoresearch-genealogy",
     "https://github.com/mayswind/ezbookkeeping",
     "https://github.com/mchughalex/skate3recomp",
@@ -1453,6 +1454,7 @@
     "https://news.ycombinator.com/item?id=49902382",
     "https://news.ycombinator.com/item?id=49908394",
     "https://news.ycombinator.com/item?id=49909056",
+    "https://news.ycombinator.com/item?id=49911995",
     "https://news.ycombinator.com/item?id=49912792",
     "https://news.ycombinator.com/item?id=49913571",
     "https://news.ycombinator.com/item?id=49917900",
@@ -1761,12 +1763,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "Swift",
-      "title": "xweiba/location-spoofer",
-      "url": "https://github.com/xweiba/location-spoofer"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "Hacker News Picks",
       "title": "Apple broke an essential presentation feature of iPads",
       "url": "https://news.ycombinator.com/item?id=50165208"
@@ -1818,6 +1814,12 @@
       "subcat": "AI Engineering",
       "title": "Don't Be a Proxy Between Me and Your AI",
       "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn"
+    },
+    {
+      "date": "2026-10-24",
+      "subcat": "Rust",
+      "title": "Launch HN: Magnitude (YC S25)  Self-optimizing...",
+      "url": "https://news.ycombinator.com/item?id=49911995"
     }
   ]
 }

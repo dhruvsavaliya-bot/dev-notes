@@ -1684,6 +1684,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/wtthju/a5_v1_0
 - **Link:** https://a5geo.org/blog/2026/10/14/a5-v1
 
+**Added 2026-10-24**
+
+### [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude)
+- **Source:** github.com | **Posted:** 2026-09-30 | **By:** anerli
+- **Community:** 194 points, 96 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49911995
+- **Link:** https://github.com/magnitudedev/magnitude
+
 
 ## Elixir
 
