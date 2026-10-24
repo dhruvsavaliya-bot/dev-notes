@@ -762,6 +762,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/iufma5/parsing_json_at_tens_gigabytes_per_second
 - **Link:** https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/
 
+**Added 2026-10-24**
+
+### [Soft-deprecating re.match()](https://hugovk.dev/blog/2026/soft-deprecating-re.match/)
+- **Source:** hugovk.dev | **Posted:** 2026-09-10 | **By:** ubernostrum
+- **Community:** 69 score, 9 comments on Lobsters
+- **Tags:** python
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/u7dr96/soft_deprecating_re_match
+- **Link:** https://hugovk.dev/blog/2026/soft-deprecating-re.match/
+
 
 ## Go
 

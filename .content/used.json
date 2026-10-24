@@ -907,6 +907,7 @@
     "https://huggingface.co/zai-org/GLM-4.6",
     "https://huggingface.co/zai-org/GLM-5.3-Flash",
     "https://huggingface.co/zai-org/chatglm3-6b",
+    "https://hugovk.dev/blog/2026/soft-deprecating-re.match/",
     "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
     "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
     "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
@@ -1052,6 +1053,7 @@
     "https://lobste.rs/s/tmr7jp/extend_lua_with_zig_1_hello_world",
     "https://lobste.rs/s/tsfs3w/why_function_arguments_are_not_function",
     "https://lobste.rs/s/u4vlin/french_supermarket_chains_say",
+    "https://lobste.rs/s/u7dr96/soft_deprecating_re_match",
     "https://lobste.rs/s/u9ue6c/what_s_wrong_with_github",
     "https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases",
     "https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem",
@@ -1769,12 +1771,6 @@
   "recent": [
     {
       "date": "2026-10-24",
-      "subcat": "Lobsters Picks",
-      "title": "Software is slow because of bad design, not slow...",
-      "url": "https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not"
-    },
-    {
-      "date": "2026-10-24",
       "subcat": "Research Papers",
       "title": "Capturing a Moving Target on Star Graphs by Two...",
       "url": "http://arxiv.org/abs/2610.11955v2"
@@ -1826,6 +1822,12 @@
       "subcat": "Lobsters Picks",
       "title": "a neat trick i found for reusing physical memory",
       "url": "https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical"
+    },
+    {
+      "date": "2026-10-24",
+      "subcat": "Python",
+      "title": "Soft-deprecating re.match()",
+      "url": "https://lobste.rs/s/u7dr96/soft_deprecating_re_match"
     }
   ]
 }
