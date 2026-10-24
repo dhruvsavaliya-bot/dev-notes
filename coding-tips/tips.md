@@ -1975,6 +1975,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49922569
 - **Link:** https://news.ycombinator.com/item?id=49922569
 
+**Added 2026-10-24**
+
+### [Show HN: Proton Drive for Linux](https://oss.lsantos.dev/proton-drive-linux-fs/)
+- **Source:** oss.lsantos.dev | **Posted:** 2026-10-08 | **By:** khaosdoctor
+- **Community:** 122 points, 46 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50003545
+- **Link:** https://oss.lsantos.dev/proton-drive-linux-fs/
+
 
 ## Git & Workflow
 

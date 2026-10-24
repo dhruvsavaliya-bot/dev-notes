@@ -1492,6 +1492,7 @@
     "https://news.ycombinator.com/item?id=49998992",
     "https://news.ycombinator.com/item?id=50000488",
     "https://news.ycombinator.com/item?id=50000676",
+    "https://news.ycombinator.com/item?id=50003545",
     "https://news.ycombinator.com/item?id=50006366",
     "https://news.ycombinator.com/item?id=50006832",
     "https://news.ycombinator.com/item?id=50008047",
@@ -1571,6 +1572,7 @@
     "https://ordinaryabundance.com/",
     "https://orionbrowser.com/",
     "https://ornith.ai/ornith_1_5.html",
+    "https://oss.lsantos.dev/proton-drive-linux-fs/",
     "https://parallel-rust-cpp.github.io/introduction.html",
     "https://pdftomp3.com/connect-ai/",
     "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
@@ -1780,12 +1782,6 @@
   "recent": [
     {
       "date": "2026-10-24",
-      "subcat": "Swift",
-      "title": "Show HN: Death Plan Switch, a self-hosted dead man's...",
-      "url": "https://news.ycombinator.com/item?id=50161408"
-    },
-    {
-      "date": "2026-10-24",
       "subcat": "Lobsters Picks",
       "title": "a neat trick i found for reusing physical memory",
       "url": "https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical"
@@ -1837,6 +1833,12 @@
       "subcat": "Other Cool Projects",
       "title": "noahdunnagan/mcopt",
       "url": "https://github.com/noahdunnagan/mcopt"
+    },
+    {
+      "date": "2026-10-24",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Proton Drive for Linux",
+      "url": "https://news.ycombinator.com/item?id=50003545"
     }
   ]
 }
