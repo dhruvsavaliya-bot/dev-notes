@@ -49,6 +49,7 @@
     "http://arxiv.org/abs/2610.13407v1",
     "http://arxiv.org/abs/2610.15082v1",
     "http://arxiv.org/abs/2610.15995v1",
+    "http://arxiv.org/abs/2610.16592v1",
     "http://arxiv.org/abs/2610.16594v1",
     "http://arxiv.org/abs/2610.16838v1",
     "http://arxiv.org/abs/2610.17727v2",
@@ -1776,12 +1777,6 @@
   "recent": [
     {
       "date": "2026-10-24",
-      "subcat": "AI Engineering",
-      "title": "Don't Be a Proxy Between Me and Your AI",
-      "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn"
-    },
-    {
-      "date": "2026-10-24",
       "subcat": "Rust",
       "title": "Launch HN: Magnitude (YC S25)  Self-optimizing...",
       "url": "https://news.ycombinator.com/item?id=49911995"
@@ -1833,6 +1828,12 @@
       "subcat": "Python",
       "title": "Python 3.15.0",
       "url": "https://lobste.rs/s/rpiwtb/python_3_15_0"
+    },
+    {
+      "date": "2026-10-24",
+      "subcat": "Research Papers",
+      "title": "Prorsa: Unleashing the Potential of Prefill-Decode...",
+      "url": "http://arxiv.org/abs/2610.16592v1"
     }
   ]
 }

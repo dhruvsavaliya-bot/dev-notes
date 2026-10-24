@@ -2356,3 +2356,13 @@ Lessons from building with LLMs.
 - **Abstract:** Perimeter triage faces a latency/semantics trade-off: signature engines are fast and format-safe but blind to unseen attacks, while generative models are semantic but slow and produce unparseable output. In late 2026 a class of commercial System One decision models (TypeSafe Jev; Microsoft-Decision-1) began selling typed decision primitives - binary gates, closed-set choices, ordinal scores - as product APIs, with no academic treatment. We present VX-One: a small multi-head network (100K-10M par...
 - **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.30090v1
+
+**Added 2026-10-24**
+
+### [Prorsa: Unleashing the Potential of Prefill-Decode Disaggregation in Agentic Reinforcement Learning](http://arxiv.org/abs/2610.16592v1)
+- **Authors:** Chiheng Lou, Xiangwei Deng, Bangjun Xiao, Xiaodong Ji et al.
+- **Published:** 2026-10-12 | **Primary category:** cs.DC
+- **Categories:** cs.DC, cs.LG
+- **Abstract:** Agentic reinforcement learning (RL) is commonly used to enhance the capabilities of large language models (LLMs) in solving complex multi-turn tasks. During rollout, agentic RL exhibits a workload pattern distinct from that of traditional RL: multi-turn interactions repeatedly introduce prefill requests, causing prefill and decode workloads to coexist throughout rollout. This workload makes prefill-decode (PD) disaggregation, a design widely used for online LLM serving, promising for speeding up...
+- **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.16592v1
