@@ -1784,6 +1784,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50180873
 - **Link:** https://github.com/php/php-src/releases/tag/php-8.2.35
 
+**Added 2026-10-25**
+
+### [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
+- **Source:** huggingface.co | **Posted:** 2026-10-17 | **By:** theykk
+- **Community:** 959 points, 725 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50129045
+- **Link:** https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
 
 ## DevOps & Cloud
 

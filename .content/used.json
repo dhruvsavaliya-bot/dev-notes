@@ -876,6 +876,7 @@
     "https://huggingface.co/datasets/ystemsrx/Erotic_Literature_Collection",
     "https://huggingface.co/datasets/zgcagi/ZGCM-1-Data",
     "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+    "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
     "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
     "https://huggingface.co/google/siglip-base-patch16-224",
     "https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
@@ -1519,6 +1520,7 @@
     "https://news.ycombinator.com/item?id=50120224",
     "https://news.ycombinator.com/item?id=50121562",
     "https://news.ycombinator.com/item?id=50122736",
+    "https://news.ycombinator.com/item?id=50129045",
     "https://news.ycombinator.com/item?id=50140584",
     "https://news.ycombinator.com/item?id=50150163",
     "https://news.ycombinator.com/item?id=50151036",
@@ -1785,12 +1787,6 @@
   "recent": [
     {
       "date": "2026-10-24",
-      "subcat": "Research Papers",
-      "title": "VX-One: Typed, Calibrated Decision Heads for...",
-      "url": "http://arxiv.org/abs/2610.30090v1"
-    },
-    {
-      "date": "2026-10-24",
       "subcat": "Other Cool Projects",
       "title": "shaobeichen/dsh-pocket",
       "url": "https://github.com/shaobeichen/dsh-pocket"
@@ -1842,6 +1838,12 @@
       "subcat": "Rust",
       "title": "Wanted to download an ISO, ended up writing a kernel...",
       "url": "https://news.ycombinator.com/item?id=50070625"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "Hacker News Picks",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://news.ycombinator.com/item?id=50129045"
     }
   ]
 }
