@@ -1467,6 +1467,7 @@
     "https://news.ycombinator.com/item?id=49917900",
     "https://news.ycombinator.com/item?id=49920234",
     "https://news.ycombinator.com/item?id=49922568",
+    "https://news.ycombinator.com/item?id=49922569",
     "https://news.ycombinator.com/item?id=49922674",
     "https://news.ycombinator.com/item?id=49931031",
     "https://news.ycombinator.com/item?id=49935038",
@@ -1773,12 +1774,6 @@
   "recent": [
     {
       "date": "2026-10-24",
-      "subcat": "Models & Datasets",
-      "title": "Cloudflare/clef",
-      "url": "https://huggingface.co/Cloudflare/clef"
-    },
-    {
-      "date": "2026-10-24",
       "subcat": "JavaScript",
       "title": "BuilderIO/skills",
       "url": "https://github.com/BuilderIO/skills"
@@ -1830,6 +1825,12 @@
       "subcat": "Other Cool Projects",
       "title": "shaobeichen/dsh-pocket",
       "url": "https://github.com/shaobeichen/dsh-pocket"
+    },
+    {
+      "date": "2026-10-24",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: Who is hiring? (October 2026)",
+      "url": "https://news.ycombinator.com/item?id=49922569"
     }
   ]
 }

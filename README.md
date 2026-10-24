@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1250 entries and counting** · Last updated: 2026-10-24
+**1251 entries and counting** · Last updated: 2026-10-24
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 254 |
 | [AI / LLM Notes](ai/notes.md) | 253 |
 | [Reading List](articles/reading-list.md) | 253 |
-| [Coding Tips](coding-tips/tips.md) | 253 |
+| [Coding Tips](coding-tips/tips.md) | 254 |
 | [Language Notes](languages/notes.md) | 237 |
 
 ## Latest additions
 
+- **2026-10-24** · *Show & Ask HN* — [Ask HN: Who is hiring? (October 2026)](https://news.ycombinator.com/item?id=49922569)
 - **2026-10-24** · *Other Cool Projects* — [shaobeichen/dsh-pocket](https://github.com/shaobeichen/dsh-pocket)
 - **2026-10-24** · *Research Papers* — [VX-One: Typed, Calibrated Decision Heads for...](http://arxiv.org/abs/2610.30090v1)
 - **2026-10-24** · *Python* — [Soft-deprecating re.match()](https://lobste.rs/s/u7dr96/soft_deprecating_re_match)
 - **2026-10-24** · *Lobsters Picks* — [a neat trick i found for reusing physical memory](https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical)
-- **2026-10-24** · *Swift* — [Show HN: Death Plan Switch, a self-hosted dead man's...](https://news.ycombinator.com/item?id=50161408)
 
 ## How it works
 
