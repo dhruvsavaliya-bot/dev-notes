@@ -649,6 +649,7 @@
     "https://github.com/nbedos/termtosvg",
     "https://github.com/nestrilabs/virtio-nvgpu",
     "https://github.com/newliver666/apk-reverse",
+    "https://github.com/noahdunnagan/mcopt",
     "https://github.com/nodes-app/swift-markdown-engine",
     "https://github.com/noonghunna/club-3090",
     "https://github.com/nyblnet/bento",
@@ -1779,12 +1780,6 @@
   "recent": [
     {
       "date": "2026-10-24",
-      "subcat": "Lobsters Picks",
-      "title": "a hacky fucked up way to portably access errno from...",
-      "url": "https://lobste.rs/s/jgull9/hacky_fucked_up_way_portably_access_errno"
-    },
-    {
-      "date": "2026-10-24",
       "subcat": "Swift",
       "title": "Show HN: Death Plan Switch, a self-hosted dead man's...",
       "url": "https://news.ycombinator.com/item?id=50161408"
@@ -1836,6 +1831,12 @@
       "subcat": "Hacker News Picks",
       "title": "PHP 8.2.35",
       "url": "https://news.ycombinator.com/item?id=50180873"
+    },
+    {
+      "date": "2026-10-24",
+      "subcat": "Other Cool Projects",
+      "title": "noahdunnagan/mcopt",
+      "url": "https://github.com/noahdunnagan/mcopt"
     }
   ]
 }

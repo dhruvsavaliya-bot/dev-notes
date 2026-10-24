@@ -2167,6 +2167,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~33 stars/day since launch.
 - **Link:** https://github.com/shaobeichen/dsh-pocket
 
+**Added 2026-10-24**
+
+### [noahdunnagan/mcopt](https://github.com/noahdunnagan/mcopt)
+- **Stats:** 499 stars | 27 forks | 23 open issues
+- **Language:** Java | **Created:** 2026-10-04 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** mcopt, a Minecraft mod: a native Metal renderer for Minecraft: Java Edition on Apple Silicon Macs (alpha)
+- **Growth:** averaging ~24 stars/day since launch.
+- **Link:** https://github.com/noahdunnagan/mcopt
+
 
 ## Web & Frontend
 
