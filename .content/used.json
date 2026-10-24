@@ -978,6 +978,7 @@
     "https://lobste.rs/s/b2emi7/guards_guards",
     "https://lobste.rs/s/bag41j/hanami_why_introductions",
     "https://lobste.rs/s/bcfzer/hacking_nameof",
+    "https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical",
     "https://lobste.rs/s/brrnpm/outside_scope_our_support",
     "https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me",
     "https://lobste.rs/s/ccnirb/there_are_only_twelve_4x4_sudokus_cool",
@@ -1591,6 +1592,7 @@
     "https://scottaaronson.blog/?p=10169",
     "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
     "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+    "https://sebsite.pw/w/20260728-cow.html",
     "https://sebsite.pw/w/20260925-errno.html",
     "https://sebsite.pw/w/20261009-strtod.html",
     "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
@@ -1768,12 +1770,6 @@
     {
       "date": "2026-10-24",
       "subcat": "Lobsters Picks",
-      "title": "Objects, attributes, maps, oh my",
-      "url": "https://lobste.rs/s/8rkyrl/objects_attributes_maps_oh_my"
-    },
-    {
-      "date": "2026-10-24",
-      "subcat": "Lobsters Picks",
       "title": "Software is slow because of bad design, not slow...",
       "url": "https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not"
     },
@@ -1824,6 +1820,12 @@
       "subcat": "Swift",
       "title": "Show HN: Death Plan Switch, a self-hosted dead man's...",
       "url": "https://news.ycombinator.com/item?id=50161408"
+    },
+    {
+      "date": "2026-10-24",
+      "subcat": "Lobsters Picks",
+      "title": "a neat trick i found for reusing physical memory",
+      "url": "https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical"
     }
   ]
 }
