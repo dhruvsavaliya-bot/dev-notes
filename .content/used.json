@@ -1010,6 +1010,7 @@
     "https://lobste.rs/s/iufma5/parsing_json_at_tens_gigabytes_per_second",
     "https://lobste.rs/s/j7kltq/turbo_haskell",
     "https://lobste.rs/s/jbnmj9/chatgpt_now_knows_what_you_do_on_other",
+    "https://lobste.rs/s/jgull9/hacky_fucked_up_way_portably_access_errno",
     "https://lobste.rs/s/jlja1a/jdk_27_has_been_released",
     "https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this",
     "https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think",
@@ -1588,6 +1589,7 @@
     "https://scottaaronson.blog/?p=10169",
     "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
     "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+    "https://sebsite.pw/w/20260925-errno.html",
     "https://sebsite.pw/w/20261009-strtod.html",
     "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
     "https://sf.thijs.gg/",
@@ -1763,12 +1765,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "Hacker News Picks",
-      "title": "Apple broke an essential presentation feature of iPads",
-      "url": "https://news.ycombinator.com/item?id=50165208"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "Lobsters Picks",
       "title": "Debunking \"Faster than Rust\": Malicious Benchmarks in...",
       "url": "https://lobste.rs/s/gajtrm/debunking_faster_than_rust_malicious"
@@ -1820,6 +1816,12 @@
       "subcat": "Rust",
       "title": "Launch HN: Magnitude (YC S25)  Self-optimizing...",
       "url": "https://news.ycombinator.com/item?id=49911995"
+    },
+    {
+      "date": "2026-10-24",
+      "subcat": "Lobsters Picks",
+      "title": "a hacky fucked up way to portably access errno from...",
+      "url": "https://lobste.rs/s/jgull9/hacky_fucked_up_way_portably_access_errno"
     }
   ]
 }

@@ -2320,6 +2320,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/jbnmj9/chatgpt_now_knows_what_you_do_on_other
 - **Link:** https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/
 
+**Added 2026-10-24**
+
+### [a hacky fucked up way to portably access errno from outside of c](https://sebsite.pw/w/20260925-errno.html)
+- **Source:** sebsite.pw | **Posted:** 2026-10-22 | **By:** seb
+- **Community:** 29 score, 24 comments on Lobsters
+- **Tags:** c
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/jgull9/hacky_fucked_up_way_portably_access_errno
+- **Link:** https://sebsite.pw/w/20260925-errno.html
+
 
 ## Performance
 
