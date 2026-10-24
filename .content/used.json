@@ -924,6 +924,7 @@
     "https://jellyfin.org/posts/jellyfin-release-12.0/",
     "https://jepsen.io/analyses/orkes-conductor-5.3.2",
     "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
+    "https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/",
     "https://josephg.com/blog/electron-is-flash-for-the-desktop/",
     "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos",
     "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
@@ -1084,6 +1085,7 @@
     "https://lobste.rs/s/xpyahx/grubby_static_site_generator_for_git",
     "https://lobste.rs/s/xsz9sc/docker_is_weird",
     "https://lobste.rs/s/xv6z4r/python_iceberg",
+    "https://lobste.rs/s/yczems/emacs_finally_folds_my_liking",
     "https://lobste.rs/s/ygp18d/hanami_why_model_citizens",
     "https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn",
     "https://lobste.rs/s/zknqct/two_kinds_sql_query_builders",
@@ -1787,12 +1789,6 @@
   "recent": [
     {
       "date": "2026-10-24",
-      "subcat": "Other Cool Projects",
-      "title": "shaobeichen/dsh-pocket",
-      "url": "https://github.com/shaobeichen/dsh-pocket"
-    },
-    {
-      "date": "2026-10-24",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Who is hiring? (October 2026)",
       "url": "https://news.ycombinator.com/item?id=49922569"
@@ -1844,6 +1840,12 @@
       "subcat": "Hacker News Picks",
       "title": "DeepSeek-v4.1-Flash-1017",
       "url": "https://news.ycombinator.com/item?id=50129045"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "Lobsters Picks",
+      "title": "Emacs finally folds to my liking",
+      "url": "https://lobste.rs/s/yczems/emacs_finally_folds_my_liking"
     }
   ]
 }

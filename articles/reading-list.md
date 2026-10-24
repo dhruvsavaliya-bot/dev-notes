@@ -2348,6 +2348,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/jgull9/hacky_fucked_up_way_portably_access_errno
 - **Link:** https://sebsite.pw/w/20260925-errno.html
 
+**Added 2026-10-25**
+
+### [Emacs finally folds to my liking](https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/)
+- **Source:** jointhefreeworld.org | **Posted:** 2026-10-24 | **By:** ehamberg
+- **Community:** 24 score, 1 comments on Lobsters
+- **Tags:** emacs
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/yczems/emacs_finally_folds_my_liking
+- **Link:** https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/
+
 
 ## Performance
 
