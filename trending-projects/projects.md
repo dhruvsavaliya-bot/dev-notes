@@ -1124,6 +1124,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~25 stars/day since launch.
 - **Link:** https://github.com/QoderAI/better-harness
 
+**Added 2026-10-25**
+
+### [ultracontext/ultracontext](https://github.com/ultracontext/ultracontext)
+- **Stats:** 425 stars | 36 forks | 3 open issues
+- **Language:** JavaScript | **Created:** 2026-01-07 | **License:** Apache-2.0
+- **Topics:** agent, agents, ai, ai-agents, api, context
+- **What it is:** Open Source Context infrastructure for AI agents. Auto-capture and share your agents' context everywhere.
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/ultracontext/ultracontext
+
 
 ## Other Cool Projects
 

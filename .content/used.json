@@ -715,6 +715,7 @@
     "https://github.com/trinodb/trino",
     "https://github.com/trycompai/crm",
     "https://github.com/trypostit/trypost",
+    "https://github.com/ultracontext/ultracontext",
     "https://github.com/unicity-aos/aos-ce",
     "https://github.com/usewhale/Whale",
     "https://github.com/vercel-labs/fx",
@@ -1790,12 +1791,6 @@
   "recent": [
     {
       "date": "2026-10-24",
-      "subcat": "Python",
-      "title": "Python 3.15.0",
-      "url": "https://lobste.rs/s/rpiwtb/python_3_15_0"
-    },
-    {
-      "date": "2026-10-24",
       "subcat": "Research Papers",
       "title": "Prorsa: Unleashing the Potential of Prefill-Decode...",
       "url": "http://arxiv.org/abs/2610.16592v1"
@@ -1847,6 +1842,12 @@
       "subcat": "Java",
       "title": "Go vs Java: The Minimalist vs The Enterprise Veteran",
       "url": "https://dev.to/adamthedeveloper/go-vs-java-the-minimalist-vs-the-enterprise-veteran-1gg3"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "AI & Machine Learning",
+      "title": "ultracontext/ultracontext",
+      "url": "https://github.com/ultracontext/ultracontext"
     }
   ]
 }
