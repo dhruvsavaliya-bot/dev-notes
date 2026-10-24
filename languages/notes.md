@@ -328,6 +328,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/ogp1wf/inline_rendering_with_document
 - **Link:** https://leanrada.com/notes/inline-rendering-currentscript/
 
+**Added 2026-10-24**
+
+### [BuilderIO/skills](https://github.com/BuilderIO/skills)
+- **Stats:** 4,611 stars | 233 forks | 7 open issues
+- **Language:** JavaScript | **Created:** 2026-06-10 | **License:** MIT
+- **Topics:** skills
+- **What it is:** Skills for agents
+- **Growth:** averaging ~33 stars/day since launch.
+- **Link:** https://github.com/BuilderIO/skills
+
 
 ## TypeScript
 

@@ -394,6 +394,7 @@
     "https://github.com/AstrBotDevs/AstrBot-desktop",
     "https://github.com/BlackLabelHQ/SymphonyRecomp",
     "https://github.com/Blimp-Labs/claude-usage-bar",
+    "https://github.com/BuilderIO/skills",
     "https://github.com/CircuitLord/CircuitLordVRModInstaller",
     "https://github.com/CluvexStudio/Aether",
     "https://github.com/Contrastive-LM/CLM",
@@ -1759,12 +1760,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "Lobsters Picks",
-      "title": "We have Traits at Home",
-      "url": "https://lobste.rs/s/05xrj8/we_have_traits_at_home"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "Developer Tools",
       "title": "vercel-labs/native",
       "url": "https://github.com/vercel-labs/native"
@@ -1816,6 +1811,12 @@
       "subcat": "Models & Datasets",
       "title": "Cloudflare/clef",
       "url": "https://huggingface.co/Cloudflare/clef"
+    },
+    {
+      "date": "2026-10-24",
+      "subcat": "JavaScript",
+      "title": "BuilderIO/skills",
+      "url": "https://github.com/BuilderIO/skills"
     }
   ]
 }
