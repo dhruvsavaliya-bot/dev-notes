@@ -67,6 +67,7 @@
     "http://arxiv.org/abs/2610.25638v1",
     "http://arxiv.org/abs/2610.26730v1",
     "http://arxiv.org/abs/2610.27012v1",
+    "http://arxiv.org/abs/2610.28212v1",
     "http://arxiv.org/abs/2610.29276v1",
     "http://arxiv.org/abs/2610.30090v1",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
@@ -1782,12 +1783,6 @@
   "recent": [
     {
       "date": "2026-10-24",
-      "subcat": "Lobsters Picks",
-      "title": "a neat trick i found for reusing physical memory",
-      "url": "https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical"
-    },
-    {
-      "date": "2026-10-24",
       "subcat": "Python",
       "title": "Soft-deprecating re.match()",
       "url": "https://lobste.rs/s/u7dr96/soft_deprecating_re_match"
@@ -1839,6 +1834,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Proton Drive for Linux",
       "url": "https://news.ycombinator.com/item?id=50003545"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "Research Papers",
+      "title": "ExeBench-FHD: Addressing Fidelity Issues in...",
+      "url": "http://arxiv.org/abs/2610.28212v1"
     }
   ]
 }

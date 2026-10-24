@@ -2366,3 +2366,13 @@ Lessons from building with LLMs.
 - **Abstract:** Agentic reinforcement learning (RL) is commonly used to enhance the capabilities of large language models (LLMs) in solving complex multi-turn tasks. During rollout, agentic RL exhibits a workload pattern distinct from that of traditional RL: multi-turn interactions repeatedly introduce prefill requests, causing prefill and decode workloads to coexist throughout rollout. This workload makes prefill-decode (PD) disaggregation, a design widely used for online LLM serving, promising for speeding up...
 - **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.16592v1
+
+**Added 2026-10-25**
+
+### [ExeBench-FHD: Addressing Fidelity Issues in Decompiler Evaluation](http://arxiv.org/abs/2610.28212v1)
+- **Authors:** Akarsh Ashok, Dinil Mon Divakaran, Vivek Balachandran
+- **Published:** 2026-10-20 | **Primary category:** cs.PL
+- **Categories:** cs.SE, cs.LG, cs.PL
+- **Abstract:** ExeBench is one of the most widely used benchmarks for evaluating LLM-based decompilers. We analyze ExeBench and identify nine issues that affect how faithfully a test measures a decompiler. Three of them prevent LLM decompilers from recovering C code from ExeBench's function. These are ambiguous parameter order when integer and floating-point types are mixed, unused parameters that optimized assembly may drop, and constants stored outside the function's assembly code. Six more affect test valid...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.28212v1
