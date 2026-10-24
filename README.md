@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1245 entries and counting** · Last updated: 2026-10-24
+**1246 entries and counting** · Last updated: 2026-10-24
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 252 |
 | [Reading List](articles/reading-list.md) | 253 |
 | [Coding Tips](coding-tips/tips.md) | 252 |
-| [Language Notes](languages/notes.md) | 235 |
+| [Language Notes](languages/notes.md) | 236 |
 
 ## Latest additions
 
+- **2026-10-24** · *Swift* — [Show HN: Death Plan Switch, a self-hosted dead man's...](https://news.ycombinator.com/item?id=50161408)
 - **2026-10-24** · *Lobsters Picks* — [a hacky fucked up way to portably access errno from...](https://lobste.rs/s/jgull9/hacky_fucked_up_way_portably_access_errno)
 - **2026-10-24** · *Rust* — [Launch HN: Magnitude (YC S25)  Self-optimizing...](https://news.ycombinator.com/item?id=49911995)
 - **2026-10-24** · *AI Engineering* — [Don't Be a Proxy Between Me and Your AI](https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn)
 - **2026-10-24** · *JavaScript* — [BuilderIO/skills](https://github.com/BuilderIO/skills)
-- **2026-10-24** · *Models & Datasets* — [Cloudflare/clef](https://huggingface.co/Cloudflare/clef)
 
 ## How it works
 

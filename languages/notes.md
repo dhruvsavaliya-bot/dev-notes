@@ -1512,6 +1512,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~12 stars/day since launch.
 - **Link:** https://github.com/xweiba/location-spoofer
 
+**Added 2026-10-24**
+
+### [Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs](https://deathplanswitch.com/)
+- **Source:** deathplanswitch.com | **Posted:** 2026-10-20 | **By:** romeo19361
+- **Community:** 110 points, 66 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50161408
+- **Link:** https://deathplanswitch.com/
+
 
 ## Rust
 
