@@ -1775,6 +1775,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50165208
 - **Link:** https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/
 
+**Added 2026-10-24**
+
+### [PHP 8.2.35](https://github.com/php/php-src/releases/tag/php-8.2.35)
+- **Source:** github.com | **Posted:** 2026-10-21 | **By:** tuyuri
+- **Community:** 1101 points, 577 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50180873
+- **Link:** https://github.com/php/php-src/releases/tag/php-8.2.35
+
 
 ## DevOps & Cloud
 

@@ -670,6 +670,7 @@
     "https://github.com/pathwaycom/arc-task-gen",
     "https://github.com/penecho/penecho",
     "https://github.com/petergyang/no-ai-slop",
+    "https://github.com/php/php-src/releases/tag/php-8.2.35",
     "https://github.com/pingdotgg/t3code",
     "https://github.com/pingdotgg/ts-rust",
     "https://github.com/privastead/privastead",
@@ -1531,6 +1532,7 @@
     "https://news.ycombinator.com/item?id=50175070",
     "https://news.ycombinator.com/item?id=50177911",
     "https://news.ycombinator.com/item?id=50180079",
+    "https://news.ycombinator.com/item?id=50180873",
     "https://news.ycombinator.com/item?id=50181175",
     "https://news.ycombinator.com/item?id=50182526",
     "https://news.ycombinator.com/item?id=50185869",
@@ -1777,12 +1779,6 @@
   "recent": [
     {
       "date": "2026-10-24",
-      "subcat": "Rust",
-      "title": "Launch HN: Magnitude (YC S25)  Self-optimizing...",
-      "url": "https://news.ycombinator.com/item?id=49911995"
-    },
-    {
-      "date": "2026-10-24",
       "subcat": "Lobsters Picks",
       "title": "a hacky fucked up way to portably access errno from...",
       "url": "https://lobste.rs/s/jgull9/hacky_fucked_up_way_portably_access_errno"
@@ -1834,6 +1830,12 @@
       "subcat": "Research Papers",
       "title": "Prorsa: Unleashing the Potential of Prefill-Decode...",
       "url": "http://arxiv.org/abs/2610.16592v1"
+    },
+    {
+      "date": "2026-10-24",
+      "subcat": "Hacker News Picks",
+      "title": "PHP 8.2.35",
+      "url": "https://news.ycombinator.com/item?id=50180873"
     }
   ]
 }
