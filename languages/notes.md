@@ -772,6 +772,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/u7dr96/soft_deprecating_re_match
 - **Link:** https://hugovk.dev/blog/2026/soft-deprecating-re.match/
 
+**Added 2026-10-24**
+
+### [Python 3.15.0](https://www.python.org/downloads/release/python-3150/)
+- **Source:** www.python.org | **Posted:** 2026-10-09 | **By:** kaycebasques
+- **Community:** 76 score, 5 comments on Lobsters
+- **Tags:** python, release
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/rpiwtb/python_3_15_0
+- **Link:** https://www.python.org/downloads/release/python-3150/
+
 
 ## Go
 

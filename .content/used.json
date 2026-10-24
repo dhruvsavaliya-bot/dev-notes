@@ -1046,6 +1046,7 @@
     "https://lobste.rs/s/qn61ip/open_source_clean_room_reimplementation",
     "https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy",
     "https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably",
+    "https://lobste.rs/s/rpiwtb/python_3_15_0",
     "https://lobste.rs/s/rtcnc8/javascript_pun_tagged_template_literal",
     "https://lobste.rs/s/rucvky/go_concurrency_distilled",
     "https://lobste.rs/s/rwdufq/anti_patterns_software_blogging",
@@ -1725,6 +1726,7 @@
     "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
     "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
     "https://www.primeintellect.ai/blog/prime-agent",
+    "https://www.python.org/downloads/release/python-3150/",
     "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
     "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
     "https://www.raptitude.com/2026/07/how-to-exist/",
@@ -1772,12 +1774,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-10-24",
-      "subcat": "JavaScript",
-      "title": "BuilderIO/skills",
-      "url": "https://github.com/BuilderIO/skills"
-    },
     {
       "date": "2026-10-24",
       "subcat": "AI Engineering",
@@ -1831,6 +1827,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Who is hiring? (October 2026)",
       "url": "https://news.ycombinator.com/item?id=49922569"
+    },
+    {
+      "date": "2026-10-24",
+      "subcat": "Python",
+      "title": "Python 3.15.0",
+      "url": "https://lobste.rs/s/rpiwtb/python_3_15_0"
     }
   ]
 }
