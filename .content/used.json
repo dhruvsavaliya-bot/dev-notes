@@ -131,6 +131,7 @@
     "https://blog.cloudflare.com/typescript-rust-port/",
     "https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html",
     "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+    "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
     "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
     "https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/",
     "https://blog.glyph.im/2026/10/programming-isnt-special.html",
@@ -1509,6 +1510,7 @@
     "https://news.ycombinator.com/item?id=50063831",
     "https://news.ycombinator.com/item?id=50067325",
     "https://news.ycombinator.com/item?id=50069337",
+    "https://news.ycombinator.com/item?id=50070625",
     "https://news.ycombinator.com/item?id=50077225",
     "https://news.ycombinator.com/item?id=50089577",
     "https://news.ycombinator.com/item?id=50096110",
@@ -1783,12 +1785,6 @@
   "recent": [
     {
       "date": "2026-10-24",
-      "subcat": "Python",
-      "title": "Soft-deprecating re.match()",
-      "url": "https://lobste.rs/s/u7dr96/soft_deprecating_re_match"
-    },
-    {
-      "date": "2026-10-24",
       "subcat": "Research Papers",
       "title": "VX-One: Typed, Calibrated Decision Heads for...",
       "url": "http://arxiv.org/abs/2610.30090v1"
@@ -1840,6 +1836,12 @@
       "subcat": "Research Papers",
       "title": "ExeBench-FHD: Addressing Fidelity Issues in...",
       "url": "http://arxiv.org/abs/2610.28212v1"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "Rust",
+      "title": "Wanted to download an ISO, ended up writing a kernel...",
+      "url": "https://news.ycombinator.com/item?id=50070625"
     }
   ]
 }

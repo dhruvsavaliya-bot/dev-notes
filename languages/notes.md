@@ -1722,6 +1722,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=49911995
 - **Link:** https://github.com/magnitudedev/magnitude
 
+**Added 2026-10-25**
+
+### [Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/)
+- **Source:** blog.dfb.sh | **Posted:** 2026-10-13 | **By:** 0xdeafbeef
+- **Community:** 370 points, 191 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50070625
+- **Link:** https://blog.dfb.sh/blog/eap770-root-for-two-zeros/
+
 
 ## Elixir
 
