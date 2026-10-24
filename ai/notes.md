@@ -2346,3 +2346,13 @@ Lessons from building with LLMs.
 - **Abstract:** We study a problem of searching for a mobile target in an $m$-ray star graph, a natural generalization of linear search to multiple directions. The target is placed adversarially on one of the rays and may move with constant speed. We investigate a two-robot setting, where cooperation and communication play a central role. We study two communication models: the Face-to-Face (F2F) model, where robots communicate only upon meeting, and the Sender-Receiver (S/R) model, where communication is asymme...
 - **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.11955v2
+
+**Added 2026-10-24**
+
+### [VX-One: Typed, Calibrated Decision Heads for Real-Time Perimeter Triage - An empirical study of unknown-attack honesty, cascade gray zones, and calibration under drift](http://arxiv.org/abs/2610.30090v1)
+- **Authors:** Juan S. Santillana
+- **Published:** 2026-10-21 | **Primary category:** cs.CR
+- **Categories:** cs.CR, cs.CL, cs.LG, cs.NI
+- **Abstract:** Perimeter triage faces a latency/semantics trade-off: signature engines are fast and format-safe but blind to unseen attacks, while generative models are semantic but slow and produce unparseable output. In late 2026 a class of commercial System One decision models (TypeSafe Jev; Microsoft-Decision-1) began selling typed decision primitives - binary gates, closed-set choices, ordinal scores - as product APIs, with no academic treatment. We present VX-One: a small multi-head network (100K-10M par...
+- **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.30090v1

@@ -67,6 +67,7 @@
     "http://arxiv.org/abs/2610.26730v1",
     "http://arxiv.org/abs/2610.27012v1",
     "http://arxiv.org/abs/2610.29276v1",
+    "http://arxiv.org/abs/2610.30090v1",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
     "http://boglin.iwarp.com/",
     "http://bokeh.pydata.org/en/latest/",
@@ -1771,12 +1772,6 @@
   "recent": [
     {
       "date": "2026-10-24",
-      "subcat": "Research Papers",
-      "title": "Capturing a Moving Target on Star Graphs by Two...",
-      "url": "http://arxiv.org/abs/2610.11955v2"
-    },
-    {
-      "date": "2026-10-24",
       "subcat": "Lobsters Picks",
       "title": "ChatGPT now knows what you do on other websites via...",
       "url": "https://lobste.rs/s/jbnmj9/chatgpt_now_knows_what_you_do_on_other"
@@ -1828,6 +1823,12 @@
       "subcat": "Python",
       "title": "Soft-deprecating re.match()",
       "url": "https://lobste.rs/s/u7dr96/soft_deprecating_re_match"
+    },
+    {
+      "date": "2026-10-24",
+      "subcat": "Research Papers",
+      "title": "VX-One: Typed, Calibrated Decision Heads for...",
+      "url": "http://arxiv.org/abs/2610.30090v1"
     }
   ]
 }
