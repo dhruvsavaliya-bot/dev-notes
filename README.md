@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1249 entries and counting** · Last updated: 2026-10-24
+**1250 entries and counting** · Last updated: 2026-10-24
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 253 |
+| [Trending Projects](trending-projects/projects.md) | 254 |
 | [AI / LLM Notes](ai/notes.md) | 253 |
 | [Reading List](articles/reading-list.md) | 253 |
 | [Coding Tips](coding-tips/tips.md) | 253 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-24** · *Other Cool Projects* — [shaobeichen/dsh-pocket](https://github.com/shaobeichen/dsh-pocket)
 - **2026-10-24** · *Research Papers* — [VX-One: Typed, Calibrated Decision Heads for...](http://arxiv.org/abs/2610.30090v1)
 - **2026-10-24** · *Python* — [Soft-deprecating re.match()](https://lobste.rs/s/u7dr96/soft_deprecating_re_match)
 - **2026-10-24** · *Lobsters Picks* — [a neat trick i found for reusing physical memory](https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical)
 - **2026-10-24** · *Swift* — [Show HN: Death Plan Switch, a self-hosted dead man's...](https://news.ycombinator.com/item?id=50161408)
-- **2026-10-24** · *Lobsters Picks* — [a hacky fucked up way to portably access errno from...](https://lobste.rs/s/jgull9/hacky_fucked_up_way_portably_access_errno)
 
 ## How it works
 

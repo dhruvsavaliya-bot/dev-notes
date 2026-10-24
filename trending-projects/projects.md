@@ -2157,6 +2157,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~176 stars/day since launch.
 - **Link:** https://github.com/obsidianmd/pele
 
+**Added 2026-10-24**
+
+### [shaobeichen/dsh-pocket](https://github.com/shaobeichen/dsh-pocket)
+- **Stats:** 2,322 stars | 100 forks | 7 open issues
+- **Language:** JavaScript | **Created:** 2026-08-15 | **License:** GPL-2.0
+- **Topics:** deepseek, deepseek-harness, deepseek-harness-plugin, dsh, dsh-plugin, dsh-plugin-market
+- **What it is:** 把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）Put DeepSeek Harness in your pocket: run dsh web on your computer and access it synchronously by scanning a QR code on your phone (LAN + public network, real‑time screen mirroring)
+- **Growth:** averaging ~33 stars/day since launch.
+- **Link:** https://github.com/shaobeichen/dsh-pocket
+
 
 ## Web & Frontend
 
