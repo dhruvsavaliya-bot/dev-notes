@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1242 entries and counting** · Last updated: 2026-10-24
+**1243 entries and counting** · Last updated: 2026-10-24
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 253 |
-| [AI / LLM Notes](ai/notes.md) | 251 |
+| [AI / LLM Notes](ai/notes.md) | 252 |
 | [Reading List](articles/reading-list.md) | 252 |
 | [Coding Tips](coding-tips/tips.md) | 252 |
 | [Language Notes](languages/notes.md) | 234 |
 
 ## Latest additions
 
+- **2026-10-24** · *AI Engineering* — [Don't Be a Proxy Between Me and Your AI](https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn)
 - **2026-10-24** · *JavaScript* — [BuilderIO/skills](https://github.com/BuilderIO/skills)
 - **2026-10-24** · *Models & Datasets* — [Cloudflare/clef](https://huggingface.co/Cloudflare/clef)
 - **2026-10-24** · *Lobsters Picks* — [ChatGPT now knows what you do on other websites via...](https://lobste.rs/s/jbnmj9/chatgpt_now_knows_what_you_do_on_other)
 - **2026-10-24** · *Research Papers* — [Capturing a Moving Target on Star Graphs by Two...](http://arxiv.org/abs/2610.11955v2)
-- **2026-10-24** · *Lobsters Picks* — [Software is slow because of bad design, not slow...](https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not)
 
 ## How it works
 

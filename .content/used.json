@@ -188,6 +188,7 @@
     "https://deepmind.google/science/weathernext/",
     "https://deepseek.com/harness/en/",
     "https://desktopdocs.com/?v=2025",
+    "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
     "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
     "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
     "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag",
@@ -1760,12 +1761,6 @@
   "recent": [
     {
       "date": "2026-10-23",
-      "subcat": "Developer Tools",
-      "title": "vercel-labs/native",
-      "url": "https://github.com/vercel-labs/native"
-    },
-    {
-      "date": "2026-10-23",
       "subcat": "Swift",
       "title": "xweiba/location-spoofer",
       "url": "https://github.com/xweiba/location-spoofer"
@@ -1817,6 +1812,12 @@
       "subcat": "JavaScript",
       "title": "BuilderIO/skills",
       "url": "https://github.com/BuilderIO/skills"
+    },
+    {
+      "date": "2026-10-24",
+      "subcat": "AI Engineering",
+      "title": "Don't Be a Proxy Between Me and Your AI",
+      "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn"
     }
   ]
 }

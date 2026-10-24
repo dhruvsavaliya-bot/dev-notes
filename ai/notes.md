@@ -447,6 +447,15 @@ Lessons from building with LLMs.
 - **Summary:** 🐢 Speaking into Canvas   If you're anything like me, your very first taste of "programming"...
 - **Link:** https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj
 
+**Added 2026-10-24**
+
+### [Don't Be a Proxy Between Me and Your AI](https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn)
+- **Author:** Adam - The Developer ✨ | **Published:** Oct 22 | **Read time:** 7 min
+- **Community:** 66 reactions, 39 comments -- a top post in #ai
+- **Tags:** ai, discuss, career, programming
+- **Summary:** I've had this conversation more times than I'd like to admit.  I raise a technical question in a...
+- **Link:** https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn
+
 
 ## LLMs
 
