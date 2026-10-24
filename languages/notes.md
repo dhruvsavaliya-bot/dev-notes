@@ -2338,3 +2338,12 @@ Snippets and gotchas across languages.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/culsub/intellij_idea_goes_lsp_java_kotlin
 - **Link:** https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/
+
+**Added 2026-10-25**
+
+### [⚔️ Go vs Java: The Minimalist vs The Enterprise Veteran](https://dev.to/adamthedeveloper/go-vs-java-the-minimalist-vs-the-enterprise-veteran-1gg3)
+- **Author:** Adam - The Developer ✨ | **Published:** May 11 | **Read time:** 12 min
+- **Community:** 64 reactions, 20 comments -- a top post in #java
+- **Tags:** programming, java, go, productivity
+- **Summary:** No sides. No agenda. Just two languages walking into a bar and us watching what happens.             ...
+- **Link:** https://dev.to/adamthedeveloper/go-vs-java-the-minimalist-vs-the-enterprise-veteran-1gg3

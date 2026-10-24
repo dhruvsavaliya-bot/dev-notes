@@ -194,6 +194,7 @@
     "https://deepseek.com/harness/en/",
     "https://desktopdocs.com/?v=2025",
     "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
+    "https://dev.to/adamthedeveloper/go-vs-java-the-minimalist-vs-the-enterprise-veteran-1gg3",
     "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
     "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
     "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag",
@@ -1789,12 +1790,6 @@
   "recent": [
     {
       "date": "2026-10-24",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: Who is hiring? (October 2026)",
-      "url": "https://news.ycombinator.com/item?id=49922569"
-    },
-    {
-      "date": "2026-10-24",
       "subcat": "Python",
       "title": "Python 3.15.0",
       "url": "https://lobste.rs/s/rpiwtb/python_3_15_0"
@@ -1846,6 +1841,12 @@
       "subcat": "Lobsters Picks",
       "title": "Emacs finally folds to my liking",
       "url": "https://lobste.rs/s/yczems/emacs_finally_folds_my_liking"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "Java",
+      "title": "Go vs Java: The Minimalist vs The Enterprise Veteran",
+      "url": "https://dev.to/adamthedeveloper/go-vs-java-the-minimalist-vs-the-enterprise-veteran-1gg3"
     }
   ]
 }
