@@ -282,6 +282,7 @@
     "https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d",
     "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
     "https://dev.to/maame-codes/devops-from-scratch-a-students-diary-entry-00-5b71",
+    "https://dev.to/maame-codes/i-fixed-the-bug-then-my-pipeline-refused-to-run-4c7i",
     "https://dev.to/malusev998/why-i-built-an-ssh-config-and-tunnel-manager-for-macos-58n8",
     "https://dev.to/metal3d/git-worktree-like-a-boss-2j1b",
     "https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd",
@@ -1821,12 +1822,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "AI & Machine Learning",
-      "title": "ashhart/TensorFold",
-      "url": "https://github.com/ashhart/TensorFold"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "Models & Datasets",
       "title": "meta-models/Muse-Glimmer-30B",
       "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B"
@@ -1878,6 +1873,12 @@
       "subcat": "Swift",
       "title": "I switched to Brave",
       "url": "https://news.ycombinator.com/item?id=49878759"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "DevOps & Cloud",
+      "title": "I Fixed The Bug. Then My Pipeline Refused to Run.",
+      "url": "https://dev.to/maame-codes/i-fixed-the-bug-then-my-pipeline-refused-to-run-4c7i"
     }
   ]
 }

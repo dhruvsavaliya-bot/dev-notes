@@ -1832,6 +1832,15 @@ Fresh dev articles and blog posts.
 - **Summary:** I needed a VPS to run CyberPanel. Simple enough: 1 vCPU, 1 GB RAM, 10 GB SSD, IPv6 only. CyberPanel...
 - **Link:** https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o
 
+**Added 2026-10-26**
+
+### [I Fixed The Bug. Then My Pipeline Refused to Run.](https://dev.to/maame-codes/i-fixed-the-bug-then-my-pipeline-refused-to-run-4c7i)
+- **Author:** Maame Afua A. P. Fordjour  | **Published:** Oct 19 | **Read time:** 4 min
+- **Community:** 105 reactions, 17 comments -- a top post in #devops
+- **Tags:** devops, gitlab, cicd, beginners
+- **Summary:** Every engineer knows the feeling. You finally fix the bug that's been blocking your ticket, you push...
+- **Link:** https://dev.to/maame-codes/i-fixed-the-bug-then-my-pipeline-refused-to-run-4c7i
+
 
 ## Security
 
