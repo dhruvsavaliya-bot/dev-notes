@@ -2400,6 +2400,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~4 stars/day since launch.
 - **Link:** https://github.com/rjsf-team/react-jsonschema-form
 
+**Added 2026-10-26**
+
+### [peach-mitao/peach](https://github.com/peach-mitao/peach)
+- **Stats:** 11,654 stars | 1,388 forks | 80 open issues
+- **Language:** Python | **Created:** 2026-08-19 | **License:** AGPL-3.0
+- **Topics:** jav, local-first, media-library, media-manager, python, react
+- **What it is:** Peach 蜜桃：单用户、本地优先的个人媒体系统 · Single-user, local-first personal media system
+- **Growth:** averaging ~171 stars/day since launch.
+- **Link:** https://github.com/peach-mitao/peach
+
 
 ## Developer Tools
 

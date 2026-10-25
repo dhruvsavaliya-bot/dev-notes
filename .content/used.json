@@ -688,6 +688,7 @@
     "https://github.com/palkan/layered-rails-skills",
     "https://github.com/panxunying/ai-coding-welfare",
     "https://github.com/pathwaycom/arc-task-gen",
+    "https://github.com/peach-mitao/peach",
     "https://github.com/penecho/penecho",
     "https://github.com/petergyang/no-ai-slop",
     "https://github.com/php/php-src/releases/tag/php-8.2.35",
@@ -1830,12 +1831,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-25",
-      "subcat": "Other Cool Projects",
-      "title": "dsh-tauri/deepseek-harness-desktop",
-      "url": "https://github.com/dsh-tauri/deepseek-harness-desktop"
-    },
-    {
       "date": "2026-10-26",
       "subcat": "Swift",
       "title": "I switched to Brave",
@@ -1888,6 +1883,12 @@
       "subcat": "Beginner",
       "title": "Junior Devs Aren't DisappearingThey're Just Getting...",
       "url": "https://dev.to/tlorent/junior-devs-arent-disappearing-theyre-just-getting-started-5fob"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Web & Frontend",
+      "title": "peach-mitao/peach",
+      "url": "https://github.com/peach-mitao/peach"
     }
   ]
 }
