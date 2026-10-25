@@ -2237,6 +2237,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~45 stars/day since launch.
 - **Link:** https://github.com/dsh-tauri/deepseek-harness-desktop
 
+**Added 2026-10-26**
+
+### [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)
+- **Stats:** 8,949 stars | 989 forks | 43 open issues
+- **Language:** Python | **Created:** 2026-09-30 | **License:** MIT
+- **Topics:** age-of-empires, claude-code, claude-code-plugin, fal, game-assets, game-modding
+- **What it is:** Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.
+- **Growth:** averaging ~344 stars/day since launch.
+- **Link:** https://github.com/rehan-remade/universal-modder
+
 
 ## Web & Frontend
 

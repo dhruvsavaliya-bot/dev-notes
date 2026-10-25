@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1286 entries and counting** · Last updated: 2026-10-26
+**1287 entries and counting** · Last updated: 2026-10-26
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 261 |
+| [Trending Projects](trending-projects/projects.md) | 262 |
 | [AI / LLM Notes](ai/notes.md) | 261 |
 | [Reading List](articles/reading-list.md) | 261 |
 | [Coding Tips](coding-tips/tips.md) | 260 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-26** · *Other Cool Projects* — [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)
 - **2026-10-26** · *Models & Datasets* — [MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x](https://huggingface.co/datasets/MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x)
 - **2026-10-26** · *JavaScript* — [mmparko/dsh-purge](https://github.com/mmparko/dsh-purge)
 - **2026-10-26** · *DevOps & Cloud* — [I Fixed The Bug. Then My Pipeline Refused to Run.](https://dev.to/maame-codes/i-fixed-the-bug-then-my-pipeline-refused-to-run-4c7i)
 - **2026-10-26** · *Swift* — [I switched to Brave](https://news.ycombinator.com/item?id=49878759)
-- **2026-10-25** · *Other Cool Projects* — [dsh-tauri/deepseek-harness-desktop](https://github.com/dsh-tauri/deepseek-harness-desktop)
 
 ## How it works
 

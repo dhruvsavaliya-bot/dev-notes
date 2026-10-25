@@ -695,6 +695,7 @@
     "https://github.com/qingjian-team/qingjian",
     "https://github.com/rakanki911/DLSS5-Swapper",
     "https://github.com/ravindu644/Droidspaces-OSS",
+    "https://github.com/rehan-remade/universal-modder",
     "https://github.com/remorses/playwriter",
     "https://github.com/remoteinterview/zero",
     "https://github.com/repoprompt/repoprompt-ce",
@@ -1824,12 +1825,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "Lobsters Picks",
-      "title": "Chasing a -O2 pessimization in antcc",
-      "url": "https://lobste.rs/s/g2ktrq/chasing_o2_pessimization_antcc"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "AI & Machine Learning",
       "title": "strelov1/freehire",
       "url": "https://github.com/strelov1/freehire"
@@ -1881,6 +1876,12 @@
       "subcat": "Models & Datasets",
       "title": "MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x",
       "url": "https://huggingface.co/datasets/MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Other Cool Projects",
+      "title": "rehan-remade/universal-modder",
+      "url": "https://github.com/rehan-remade/universal-modder"
     }
   ]
 }
