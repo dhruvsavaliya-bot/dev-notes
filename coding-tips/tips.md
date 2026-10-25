@@ -2356,6 +2356,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/dfieqa/bringing_uv_ty_together
 - **Link:** https://astral.sh/blog/uv-ty-integration
 
+**Added 2026-10-25**
+
+### [Wild version 0.11.0 released](https://github.com/wild-linker/wild/releases/tag/0.11.0)
+- **Source:** github.com | **Posted:** 2026-10-24 | **By:** patchunwrap
+- **Community:** 33 score, 7 comments on Lobsters
+- **Tags:** mac, release, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/vulvk7/wild_version_0_11_0_released
+- **Link:** https://github.com/wild-linker/wild/releases/tag/0.11.0
+
 
 ## Career & Craft
 
