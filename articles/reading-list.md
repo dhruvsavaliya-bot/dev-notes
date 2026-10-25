@@ -1802,6 +1802,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50222133
 - **Link:** https://freedns.afraid.org/
 
+**Added 2026-10-25**
+
+### [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
+- **Source:** danluu.com | **Posted:** 2026-10-24 | **By:** ltratt
+- **Community:** 412 points, 357 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50225695
+- **Link:** https://danluu.com/ambitious/
+
 
 ## DevOps & Cloud
 

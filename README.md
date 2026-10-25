@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1272 entries and counting** · Last updated: 2026-10-25
+**1273 entries and counting** · Last updated: 2026-10-25
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 258 |
 | [AI / LLM Notes](ai/notes.md) | 258 |
-| [Reading List](articles/reading-list.md) | 257 |
+| [Reading List](articles/reading-list.md) | 258 |
 | [Coding Tips](coding-tips/tips.md) | 258 |
 | [Language Notes](languages/notes.md) | 241 |
 
 ## Latest additions
 
+- **2026-10-25** · *Hacker News Picks* — [We should be more ambitious with the software we build](https://news.ycombinator.com/item?id=50225695)
 - **2026-10-25** · *Lobsters Picks* — [Wild version 0.11.0 released](https://lobste.rs/s/vulvk7/wild_version_0_11_0_released)
 - **2026-10-25** · *AI & Machine Learning* — [Javis603/token-monitor](https://github.com/Javis603/token-monitor)
 - **2026-10-25** · *Models & Datasets* — [XiaomiMiMo/MiMo-V2.6-RL-oss](https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss)
 - **2026-10-25** · *Lobsters Picks* — [Bringing uv and ty together](https://lobste.rs/s/dfieqa/bringing_uv_ty_together)
-- **2026-10-25** · *JavaScript* — [browser-use/browser-use-pi](https://github.com/browser-use/browser-use-pi)
 
 ## How it works
 

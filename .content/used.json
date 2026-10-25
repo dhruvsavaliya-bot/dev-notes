@@ -183,6 +183,7 @@
     "https://comonad.com/reader/2026/turbo-haskell/",
     "https://csixty4.medium.com/pick-is-a-living-fossil-of-computer-history-36d74408d557",
     "https://cursor.com/blog/agent-swarm-model-economics",
+    "https://danluu.com/ambitious/",
     "https://datacolada.org/138",
     "https://datagubbe.se/crt/",
     "https://daverupert.com/2026/08/microlighter/",
@@ -1562,6 +1563,7 @@
     "https://news.ycombinator.com/item?id=50194909",
     "https://news.ycombinator.com/item?id=50197404",
     "https://news.ycombinator.com/item?id=50222133",
+    "https://news.ycombinator.com/item?id=50225695",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -1804,12 +1806,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "Git & Workflow",
-      "title": "The 15 Git Commands Every Software Engineer Uses (And...",
-      "url": "https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "Models & Datasets",
       "title": "BodyMaps/CancerVerse",
       "url": "https://huggingface.co/datasets/BodyMaps/CancerVerse"
@@ -1861,6 +1857,12 @@
       "subcat": "Lobsters Picks",
       "title": "Wild version 0.11.0 released",
       "url": "https://lobste.rs/s/vulvk7/wild_version_0_11_0_released"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "Hacker News Picks",
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://news.ycombinator.com/item?id=50225695"
     }
   ]
 }
