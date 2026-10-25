@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1268 entries and counting** · Last updated: 2026-10-25
+**1269 entries and counting** · Last updated: 2026-10-25
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 257 |
 | [AI / LLM Notes](ai/notes.md) | 257 |
 | [Reading List](articles/reading-list.md) | 257 |
-| [Coding Tips](coding-tips/tips.md) | 256 |
+| [Coding Tips](coding-tips/tips.md) | 257 |
 | [Language Notes](languages/notes.md) | 241 |
 
 ## Latest additions
 
+- **2026-10-25** · *Lobsters Picks* — [Bringing uv and ty together](https://lobste.rs/s/dfieqa/bringing_uv_ty_together)
 - **2026-10-25** · *JavaScript* — [browser-use/browser-use-pi](https://github.com/browser-use/browser-use-pi)
 - **2026-10-25** · *Hacker News Picks* — [FreeDNS](https://news.ycombinator.com/item?id=50222133)
 - **2026-10-25** · *Models & Datasets* — [inclusionAI/Ming-3.0-audio-flash](https://huggingface.co/inclusionAI/Ming-3.0-audio-flash)
 - **2026-10-25** · *AI & Machine Learning* — [vojtaholik/good-css](https://github.com/vojtaholik/good-css)
-- **2026-10-25** · *Models & Datasets* — [BodyMaps/CancerVerse](https://huggingface.co/datasets/BodyMaps/CancerVerse)
 
 ## How it works
 

@@ -2346,6 +2346,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical
 - **Link:** https://sebsite.pw/w/20260728-cow.html
 
+**Added 2026-10-25**
+
+### [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
+- **Source:** astral.sh | **Posted:** 2026-10-24 | **By:** uds
+- **Community:** 36 score, 0 comments on Lobsters
+- **Tags:** python
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/dfieqa/bringing_uv_ty_together
+- **Link:** https://astral.sh/blog/uv-ty-integration
+
 
 ## Career & Craft
 
