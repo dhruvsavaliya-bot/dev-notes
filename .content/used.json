@@ -1083,6 +1083,7 @@
     "https://lobste.rs/s/qn61ip/open_source_clean_room_reimplementation",
     "https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy",
     "https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably",
+    "https://lobste.rs/s/rlrfew/balloting_has_completed_for_c_26",
     "https://lobste.rs/s/rpiwtb/python_3_15_0",
     "https://lobste.rs/s/rtcnc8/javascript_pun_tagged_template_literal",
     "https://lobste.rs/s/rucvky/go_concurrency_distilled",
@@ -1757,6 +1758,7 @@
     "https://www.kotlinvsjava.com",
     "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
     "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
+    "https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL",
     "https://www.meta.com/vr-glasses/",
     "https://www.minimax.io/blog/minimax-m31f",
     "https://www.mixedbread.com/blog/toast-1",
@@ -1825,12 +1827,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "AI & Machine Learning",
-      "title": "strelov1/freehire",
-      "url": "https://github.com/strelov1/freehire"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "Research Papers",
       "title": "Mitigating Query Shortcuts in Chain-of-Thought with...",
       "url": "http://arxiv.org/abs/2610.29518v1"
@@ -1882,6 +1878,12 @@
       "subcat": "Other Cool Projects",
       "title": "rehan-remade/universal-modder",
       "url": "https://github.com/rehan-remade/universal-modder"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Lobsters Picks",
+      "title": "Balloting has completed for C++26. Unfortunately it...",
+      "url": "https://lobste.rs/s/rlrfew/balloting_has_completed_for_c_26"
     }
   ]
 }

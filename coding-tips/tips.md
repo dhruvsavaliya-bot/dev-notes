@@ -2384,6 +2384,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/vulvk7/wild_version_0_11_0_released
 - **Link:** https://github.com/wild-linker/wild/releases/tag/0.11.0
 
+**Added 2026-10-26**
+
+### [Balloting has completed for C++26. Unfortunately it was Disapproved](https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL)
+- **Source:** www.linkedin.com | **Posted:** 2026-10-24 | **By:** mond
+- **Community:** 48 score, 26 comments on Lobsters
+- **Tags:** c++
+- **Summary:** tl;dr: it looks like C++ 26 got turned down by the national bodies (afaik unprecedented)
+- **Discussion:** https://lobste.rs/s/rlrfew/balloting_has_completed_for_c_26
+- **Link:** https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL
+
 
 ## Career & Craft
 
