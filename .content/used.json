@@ -1582,6 +1582,7 @@
     "https://news.ycombinator.com/item?id=50185869",
     "https://news.ycombinator.com/item?id=50194909",
     "https://news.ycombinator.com/item?id=50197404",
+    "https://news.ycombinator.com/item?id=50212065",
     "https://news.ycombinator.com/item?id=50222133",
     "https://news.ycombinator.com/item?id=50225695",
     "https://news.ycombinator.com/item?id=5673032",
@@ -1755,6 +1756,7 @@
     "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
     "https://www.iwm.org.uk/history/iwm/cwr/telephone",
     "https://www.joshwcomeau.com/css/interop-2027/",
+    "https://www.kimi.ai/blog/kimi-k3-1-pro",
     "https://www.kotlinvsjava.com",
     "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
     "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
@@ -1827,12 +1829,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "Research Papers",
-      "title": "Mitigating Query Shortcuts in Chain-of-Thought with...",
-      "url": "http://arxiv.org/abs/2610.29518v1"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Nightwatch  a Mac menu-bar app that tells...",
       "url": "https://news.ycombinator.com/item?id=49952148"
@@ -1884,6 +1880,12 @@
       "subcat": "Lobsters Picks",
       "title": "Balloting has completed for C++26. Unfortunately it...",
       "url": "https://lobste.rs/s/rlrfew/balloting_has_completed_for_c_26"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Hacker News Picks",
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "url": "https://news.ycombinator.com/item?id=50212065"
     }
   ]
 }

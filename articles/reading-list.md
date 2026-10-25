@@ -1811,6 +1811,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50225695
 - **Link:** https://danluu.com/ambitious/
 
+**Added 2026-10-26**
+
+### [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
+- **Source:** www.kimi.ai | **Posted:** 2026-10-23 | **By:** Jowsey
+- **Community:** 1079 points, 670 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50212065
+- **Link:** https://www.kimi.ai/blog/kimi-k3-1-pro
+
 
 ## DevOps & Cloud
 
