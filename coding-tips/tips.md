@@ -1996,6 +1996,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** If there’s one Git tool that few people know about, it’s “worktree.” Once you’ve mastered this tool,...
 - **Link:** https://dev.to/metal3d/git-worktree-like-a-boss-2j1b
 
+**Added 2026-10-25**
+
+### [The 15 Git Commands Every Software Engineer Uses (And Why They Matter More Than You Think)](https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51)
+- **Author:** Hadil Ben Abdallah | **Published:** Jan 20 | **Read time:** 6 min
+- **Community:** 168 reactions, 52 comments -- a top post in #git
+- **Tags:** programming, git, productivity, codenewbie
+- **Summary:** For a long time, I thought Git was just something I had to survive.  Type a command. Hope nothing...
+- **Link:** https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51
+
+
 ## Lobsters Picks
 
 **Added 2026-10-08**

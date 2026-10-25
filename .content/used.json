@@ -243,6 +243,7 @@
     "https://dev.to/hadil/angular-datagrid-a-free-open-source-ag-grid-alternative-built-for-scale-5gkm",
     "https://dev.to/hadil/bifrost-the-fastest-llm-gateway-for-production-ready-ai-systems-40x-faster-than-litellm-2i51",
     "https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b",
+    "https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51",
     "https://dev.to/hadil/the-hard-truth-about-learning-to-code-that-no-one-tells-you-15c1",
     "https://dev.to/hadil/youre-a-real-python-developer-only-if-94e",
     "https://dev.to/harsh2644/you-dont-have-an-ai-problem-you-have-a-thinking-problem-5f07",
@@ -1791,12 +1792,6 @@
   "recent": [
     {
       "date": "2026-10-24",
-      "subcat": "Research Papers",
-      "title": "Prorsa: Unleashing the Potential of Prefill-Decode...",
-      "url": "http://arxiv.org/abs/2610.16592v1"
-    },
-    {
-      "date": "2026-10-24",
       "subcat": "Hacker News Picks",
       "title": "PHP 8.2.35",
       "url": "https://news.ycombinator.com/item?id=50180873"
@@ -1848,6 +1843,12 @@
       "subcat": "AI & Machine Learning",
       "title": "ultracontext/ultracontext",
       "url": "https://github.com/ultracontext/ultracontext"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "Git & Workflow",
+      "title": "The 15 Git Commands Every Software Engineer Uses (And...",
+      "url": "https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51"
     }
   ]
 }
