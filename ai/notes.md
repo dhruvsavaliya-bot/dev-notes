@@ -2412,3 +2412,13 @@ Lessons from building with LLMs.
 - **Abstract:** ExeBench is one of the most widely used benchmarks for evaluating LLM-based decompilers. We analyze ExeBench and identify nine issues that affect how faithfully a test measures a decompiler. Three of them prevent LLM decompilers from recovering C code from ExeBench's function. These are ambiguous parameter order when integer and floating-point types are mixed, unused parameters that optimized assembly may drop, and constants stored outside the function's assembly code. Six more affect test valid...
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.28212v1
+
+**Added 2026-10-25**
+
+### [Mitigating Query Shortcuts in Chain-of-Thought with Context-Aware Decoding](http://arxiv.org/abs/2610.29518v1)
+- **Authors:** Shin'ya Yamaguchi
+- **Published:** 2026-10-21 | **Primary category:** cs.CL
+- **Categories:** cs.CL, cs.AI, cs.LG
+- **Abstract:** While Chain-of-Thought (CoT) prompting improves the reasoning performance of large language models (LLMs), recent studies have shown that final answers do not always depend on the generated rationales. In particular, LLMs may rely on query-specific shortcuts rather than the information provided by their reasoning steps. In this paper, we investigate whether context-aware decoding (CAD), an existing contrastive decoding method, can mitigate such shortcut behavior when applied to CoT reasoning. We...
+- **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.29518v1

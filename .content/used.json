@@ -69,6 +69,7 @@
     "http://arxiv.org/abs/2610.27012v1",
     "http://arxiv.org/abs/2610.28212v1",
     "http://arxiv.org/abs/2610.29276v1",
+    "http://arxiv.org/abs/2610.29518v1",
     "http://arxiv.org/abs/2610.30090v1",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
     "http://boglin.iwarp.com/",
@@ -1813,12 +1814,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "Lobsters Picks",
-      "title": "Bringing uv and ty together",
-      "url": "https://lobste.rs/s/dfieqa/bringing_uv_ty_together"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "Models & Datasets",
       "title": "XiaomiMiMo/MiMo-V2.6-RL-oss",
       "url": "https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss"
@@ -1870,6 +1865,12 @@
       "subcat": "AI & Machine Learning",
       "title": "strelov1/freehire",
       "url": "https://github.com/strelov1/freehire"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "Research Papers",
+      "title": "Mitigating Query Shortcuts in Chain-of-Thought with...",
+      "url": "http://arxiv.org/abs/2610.29518v1"
     }
   ]
 }
