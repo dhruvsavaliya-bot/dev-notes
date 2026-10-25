@@ -845,6 +845,7 @@
     "https://huggingface.co/datasets/LocalLLaMA/typed-decisions",
     "https://huggingface.co/datasets/Maxwell-Jia/AIME_2024",
     "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023",
+    "https://huggingface.co/datasets/MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x",
     "https://huggingface.co/datasets/OpenGVLab/ShareGPT-4o",
     "https://huggingface.co/datasets/ShadenA/MathNet",
     "https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro",
@@ -1823,12 +1824,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Janus  Go binary that runs GGUF models via...",
-      "url": "https://news.ycombinator.com/item?id=49926773"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "Lobsters Picks",
       "title": "Chasing a -O2 pessimization in antcc",
       "url": "https://lobste.rs/s/g2ktrq/chasing_o2_pessimization_antcc"
@@ -1880,6 +1875,12 @@
       "subcat": "JavaScript",
       "title": "mmparko/dsh-purge",
       "url": "https://github.com/mmparko/dsh-purge"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Models & Datasets",
+      "title": "MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x",
+      "url": "https://huggingface.co/datasets/MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x"
     }
   ]
 }

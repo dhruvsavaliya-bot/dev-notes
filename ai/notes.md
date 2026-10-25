@@ -1770,6 +1770,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/meta-models/Muse-Glimmer-30B
 
+**Added 2026-10-26**
+
+### [MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x](https://huggingface.co/datasets/MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x)
+- **Stats:** 395 likes | 5,056 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-09-02
+- **Tags:** fable 5.1, coding, synthetic, thinking, think, reason
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x
+
 
 ## Research Papers
 
