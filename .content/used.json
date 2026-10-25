@@ -835,6 +835,7 @@
     "https://huggingface.co/datasets/OpenGVLab/ShareGPT-4o",
     "https://huggingface.co/datasets/ShadenA/MathNet",
     "https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro",
+    "https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss",
     "https://huggingface.co/datasets/ZefanCai/Open-Jev",
     "https://huggingface.co/datasets/a686d380/h-corpus-2023",
     "https://huggingface.co/datasets/agents-last-exam/agents-last-exam",
@@ -1800,12 +1801,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "Lobsters Picks",
-      "title": "Emacs finally folds to my liking",
-      "url": "https://lobste.rs/s/yczems/emacs_finally_folds_my_liking"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "Java",
       "title": "Go vs Java: The Minimalist vs The Enterprise Veteran",
       "url": "https://dev.to/adamthedeveloper/go-vs-java-the-minimalist-vs-the-enterprise-veteran-1gg3"
@@ -1857,6 +1852,12 @@
       "subcat": "Lobsters Picks",
       "title": "Bringing uv and ty together",
       "url": "https://lobste.rs/s/dfieqa/bringing_uv_ty_together"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "Models & Datasets",
+      "title": "XiaomiMiMo/MiMo-V2.6-RL-oss",
+      "url": "https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss"
     }
   ]
 }

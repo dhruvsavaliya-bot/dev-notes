@@ -1752,6 +1752,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/inclusionAI/Ming-3.0-audio-flash
 
+**Added 2026-10-25**
+
+### [XiaomiMiMo/MiMo-V2.6-RL-oss](https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss)
+- **Stats:** 1,003 likes | 224,621 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-09-25
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss
+
 
 ## Research Papers
 
