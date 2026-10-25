@@ -1144,6 +1144,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~16 stars/day since launch.
 - **Link:** https://github.com/vojtaholik/good-css
 
+**Added 2026-10-25**
+
+### [Javis603/token-monitor](https://github.com/Javis603/token-monitor)
+- **Stats:** 3,337 stars | 318 forks | 143 open issues
+- **Language:** JavaScript | **Created:** 2026-05-19 | **License:** MIT
+- **Topics:** ai, ai-tools, antigravity, claude-code, codex, cursor
+- **What it is:** Local-first desktop widget for tracking token usage, costs, limits, and session activity across 46+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device sync.
+- **Growth:** averaging ~20 stars/day since launch.
+- **Link:** https://github.com/Javis603/token-monitor
+
 
 ## Other Cool Projects
 

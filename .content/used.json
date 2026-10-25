@@ -431,6 +431,7 @@
     "https://github.com/IBM/mcp-context-forge",
     "https://github.com/Ikaleio/lm-detector",
     "https://github.com/IntegralPilot/rustc_codegen_jvm",
+    "https://github.com/Javis603/token-monitor",
     "https://github.com/JetBrains/kotlin-toolchain",
     "https://github.com/Jia-Ethan/codex-keysmith",
     "https://github.com/JohnHeibel/ClaudeAnimationBase",
@@ -1801,12 +1802,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "Java",
-      "title": "Go vs Java: The Minimalist vs The Enterprise Veteran",
-      "url": "https://dev.to/adamthedeveloper/go-vs-java-the-minimalist-vs-the-enterprise-veteran-1gg3"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "AI & Machine Learning",
       "title": "ultracontext/ultracontext",
       "url": "https://github.com/ultracontext/ultracontext"
@@ -1858,6 +1853,12 @@
       "subcat": "Models & Datasets",
       "title": "XiaomiMiMo/MiMo-V2.6-RL-oss",
       "url": "https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "AI & Machine Learning",
+      "title": "Javis603/token-monitor",
+      "url": "https://github.com/Javis603/token-monitor"
     }
   ]
 }
