@@ -547,6 +547,7 @@
     "https://github.com/bizspring-open/BizSpring-Java-Mall",
     "https://github.com/bojieli/ai-infra-book",
     "https://github.com/bozhouDev/codex-orange-book",
+    "https://github.com/browser-use/browser-use-pi",
     "https://github.com/browser-use/jev-ultrafast",
     "https://github.com/bryanthaboi/gen1recomp",
     "https://github.com/builtbybel/FluentTweaker",
@@ -1797,12 +1798,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "Rust",
-      "title": "Wanted to download an ISO, ended up writing a kernel...",
-      "url": "https://news.ycombinator.com/item?id=50070625"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "Hacker News Picks",
       "title": "DeepSeek-v4.1-Flash-1017",
       "url": "https://news.ycombinator.com/item?id=50129045"
@@ -1854,6 +1849,12 @@
       "subcat": "Hacker News Picks",
       "title": "FreeDNS",
       "url": "https://news.ycombinator.com/item?id=50222133"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "JavaScript",
+      "title": "browser-use/browser-use-pi",
+      "url": "https://github.com/browser-use/browser-use-pi"
     }
   ]
 }

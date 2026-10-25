@@ -338,6 +338,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~33 stars/day since launch.
 - **Link:** https://github.com/BuilderIO/skills
 
+**Added 2026-10-25**
+
+### [browser-use/browser-use-pi](https://github.com/browser-use/browser-use-pi)
+- **Stats:** 437 stars | 24 forks | 6 open issues
+- **Language:** JavaScript | **Created:** 2026-09-05 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** A tiny TypeScript web agent, hill climbed on real browser evals.
+- **Growth:** averaging ~8 stars/day since launch.
+- **Link:** https://github.com/browser-use/browser-use-pi
+
 
 ## TypeScript
 
