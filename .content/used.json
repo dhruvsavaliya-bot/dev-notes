@@ -336,6 +336,7 @@
     "https://dev.to/therealmrmumba/7-best-ai-project-management-tools-for-software-development-teams-in-2026-fik",
     "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
     "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
+    "https://dev.to/tlorent/junior-devs-arent-disappearing-theyre-just-getting-started-5fob",
     "https://dev.to/tooljet/how-to-integrate-tooljet-with-servicenow-for-enhanced-operations-1h1j",
     "https://dev.to/valyuai/how-to-use-jev-a-practical-guide-to-typesafes-system-one-model-g5e",
     "https://dev.to/varshithvhegde/i-built-a-chat-app-that-rewrites-its-own-ui-in-real-time-21m5",
@@ -1830,12 +1831,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "Lobsters Picks",
-      "title": "Branches in branch-free code",
-      "url": "https://lobste.rs/s/dsbt5a/branches_branch_free_code"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "Other Cool Projects",
       "title": "dsh-tauri/deepseek-harness-desktop",
       "url": "https://github.com/dsh-tauri/deepseek-harness-desktop"
@@ -1887,6 +1882,12 @@
       "subcat": "Research Papers",
       "title": "LLMSeg: Training-Free Text-Prompted Image...",
       "url": "http://arxiv.org/abs/2610.29409v1"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Beginner",
+      "title": "Junior Devs Aren't DisappearingThey're Just Getting...",
+      "url": "https://dev.to/tlorent/junior-devs-arent-disappearing-theyre-just-getting-started-5fob"
     }
   ]
 }

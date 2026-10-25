@@ -1297,6 +1297,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** Why I'm stopping the "Tutorial Hell" and starting a journey to 2027 🚀  Hello, world! 🌍  I’m currently...
 - **Link:** https://dev.to/maame-codes/devops-from-scratch-a-students-diary-entry-00-5b71
 
+**Added 2026-10-26**
+
+### [🚀 Junior Devs Aren't Disappearing—They're Just Getting Started](https://dev.to/tlorent/junior-devs-arent-disappearing-theyre-just-getting-started-5fob)
+- **Author:** Tim Lorent | **Published:** Nov 17 '25 | **Read time:** 4 min
+- **Community:** 61 reactions, 20 comments -- a top post in #beginners
+- **Tags:** beginners, career, learning, webdev
+- **Summary:** I refresh LinkedIn and see another post: "Junior roles are dead." Another thread on Reddit: "AI is...
+- **Link:** https://dev.to/tlorent/junior-devs-arent-disappearing-theyre-just-getting-started-5fob
+
 
 ## Show & Ask HN
 
