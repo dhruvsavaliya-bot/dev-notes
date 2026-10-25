@@ -726,6 +726,7 @@
     "https://github.com/vikejs/vike",
     "https://github.com/vinvcn/mattpocock-skills-zh-CN",
     "https://github.com/vinzdg/codenotch",
+    "https://github.com/vojtaholik/good-css",
     "https://github.com/voxivoid/recipe-lab-sony-pmca",
     "https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases",
     "https://github.com/wang2122/sprix-sage-router",
@@ -1793,12 +1794,6 @@
   "recent": [
     {
       "date": "2026-10-24",
-      "subcat": "Other Cool Projects",
-      "title": "noahdunnagan/mcopt",
-      "url": "https://github.com/noahdunnagan/mcopt"
-    },
-    {
-      "date": "2026-10-24",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Proton Drive for Linux",
       "url": "https://news.ycombinator.com/item?id=50003545"
@@ -1850,6 +1845,12 @@
       "subcat": "Models & Datasets",
       "title": "BodyMaps/CancerVerse",
       "url": "https://huggingface.co/datasets/BodyMaps/CancerVerse"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "AI & Machine Learning",
+      "title": "vojtaholik/good-css",
+      "url": "https://github.com/vojtaholik/good-css"
     }
   ]
 }

@@ -1134,6 +1134,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/ultracontext/ultracontext
 
+**Added 2026-10-25**
+
+### [vojtaholik/good-css](https://github.com/vojtaholik/good-css)
+- **Stats:** 390 stars | 7 forks | 0 open issues
+- **Language:** HTML | **Created:** 2026-10-01 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Opinionated modern CSS techniques, packaged as an agent skill, each with a live specimen.
+- **Growth:** averaging ~16 stars/day since launch.
+- **Link:** https://github.com/vojtaholik/good-css
+
 
 ## Other Cool Projects
 
