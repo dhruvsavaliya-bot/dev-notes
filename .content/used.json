@@ -69,6 +69,7 @@
     "http://arxiv.org/abs/2610.27012v1",
     "http://arxiv.org/abs/2610.28212v1",
     "http://arxiv.org/abs/2610.29276v1",
+    "http://arxiv.org/abs/2610.29409v1",
     "http://arxiv.org/abs/2610.29518v1",
     "http://arxiv.org/abs/2610.30090v1",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
@@ -1829,12 +1830,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Nightwatch  a Mac menu-bar app that tells...",
-      "url": "https://news.ycombinator.com/item?id=49952148"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "Lobsters Picks",
       "title": "Branches in branch-free code",
       "url": "https://lobste.rs/s/dsbt5a/branches_branch_free_code"
@@ -1886,6 +1881,12 @@
       "subcat": "Hacker News Picks",
       "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
       "url": "https://news.ycombinator.com/item?id=50212065"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Research Papers",
+      "title": "LLMSeg: Training-Free Text-Prompted Image...",
+      "url": "http://arxiv.org/abs/2610.29409v1"
     }
   ]
 }

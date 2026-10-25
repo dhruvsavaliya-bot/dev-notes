@@ -2431,3 +2431,13 @@ Lessons from building with LLMs.
 - **Abstract:** While Chain-of-Thought (CoT) prompting improves the reasoning performance of large language models (LLMs), recent studies have shown that final answers do not always depend on the generated rationales. In particular, LLMs may rely on query-specific shortcuts rather than the information provided by their reasoning steps. In this paper, we investigate whether context-aware decoding (CAD), an existing contrastive decoding method, can mitigate such shortcut behavior when applied to CoT reasoning. We...
 - **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.29518v1
+
+**Added 2026-10-26**
+
+### [LLMSeg: Training-Free Text-Prompted Image Segmentation with B-Splines](http://arxiv.org/abs/2610.29409v1)
+- **Authors:** Abdullah Hamdi
+- **Published:** 2026-10-21 | **Primary category:** cs.AI
+- **Categories:** cs.CV, cs.AI
+- **Abstract:** Promptable segmentation models such as SAM 3 achieve remarkable open-vocabulary performance but require dedicated architectures, large-scale annotation engines, and task-specific training. We ask a different question: can a general-purpose multimodal large language model (MLLM) segment images directly, without an added segmentation head, mask decoder, or training? We present LLMSeg, a training-free pipeline that turns a vision-capable LLM into a text-prompted image segmenter. LLMSeg decomposes s...
+- **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.29409v1
