@@ -348,6 +348,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~8 stars/day since launch.
 - **Link:** https://github.com/browser-use/browser-use-pi
 
+**Added 2026-10-26**
+
+### [mmparko/dsh-purge](https://github.com/mmparko/dsh-purge)
+- **Stats:** 2,341 stars | 2,853 forks | 4 open issues
+- **Language:** JavaScript | **Created:** 2026-10-13 | **License:** MIT
+- **Topics:** archive, deepseek, deepseek-harness, dsh-plugin, dsh-plugins, harness-jailbreak
+- **What it is:** DeepSeek Harness 破甲 (mirror of YuJunZhiXue/dsh-purge) — 上游即将删库，此为本仓库全量镜像：含全部分支/73 个 tag/完整提交历史。原作者署名与二开要求见 README 署名章节。
+- **Growth:** averaging ~180 stars/day since launch.
+- **Link:** https://github.com/mmparko/dsh-purge
+
 
 ## TypeScript
 
