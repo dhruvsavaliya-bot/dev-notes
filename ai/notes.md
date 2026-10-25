@@ -1743,6 +1743,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/BodyMaps/CancerVerse
 
+**Added 2026-10-25**
+
+### [inclusionAI/Ming-3.0-audio-flash](https://huggingface.co/inclusionAI/Ming-3.0-audio-flash)
+- **Stats:** 62 likes | 515 downloads
+- **Kind:** Hugging Face model | **Task:** text-to-speech | **Created:** 2026-09-03
+- **Tags:** transformers, onnx, safetensors, bailing_moe_v3_audio, feature-extraction, audio
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/inclusionAI/Ming-3.0-audio-flash
+
 
 ## Research Papers
 

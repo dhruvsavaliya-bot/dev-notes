@@ -885,6 +885,7 @@
     "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
     "https://huggingface.co/google/siglip-base-patch16-224",
     "https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+    "https://huggingface.co/inclusionAI/Ming-3.0-audio-flash",
     "https://huggingface.co/jaredpalmer/kev-4b",
     "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-russian",
     "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
@@ -1793,12 +1794,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-24",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Proton Drive for Linux",
-      "url": "https://news.ycombinator.com/item?id=50003545"
-    },
-    {
       "date": "2026-10-25",
       "subcat": "Research Papers",
       "title": "ExeBench-FHD: Addressing Fidelity Issues in...",
@@ -1851,6 +1846,12 @@
       "subcat": "AI & Machine Learning",
       "title": "vojtaholik/good-css",
       "url": "https://github.com/vojtaholik/good-css"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "Models & Datasets",
+      "title": "inclusionAI/Ming-3.0-audio-flash",
+      "url": "https://huggingface.co/inclusionAI/Ming-3.0-audio-flash"
     }
   ]
 }
