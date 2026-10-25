@@ -1551,6 +1551,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50161408
 - **Link:** https://deathplanswitch.com/
 
+**Added 2026-10-26**
+
+### [I switched to Brave](https://kevquirk.com/i-switched-to-brave-browser)
+- **Source:** kevquirk.com | **Posted:** 2026-09-28 | **By:** mindracer
+- **Community:** 125 points, 246 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49878759
+- **Link:** https://kevquirk.com/i-switched-to-brave-browser
+
 
 ## Rust
 
