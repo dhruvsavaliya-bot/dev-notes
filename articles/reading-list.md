@@ -2376,6 +2376,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/yczems/emacs_finally_folds_my_liking
 - **Link:** https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/
 
+**Added 2026-10-25**
+
+### [Chasing a -O2 pessimization in antcc](https://386s.org/w/lua-antcc-pessimization/)
+- **Source:** 386s.org | **Posted:** 2026-10-13 | **By:** lemon
+- **Community:** 18 score, 0 comments on Lobsters
+- **Tags:** c, compilers
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/g2ktrq/chasing_o2_pessimization_antcc
+- **Link:** https://386s.org/w/lua-antcc-pessimization/
+
 
 ## Performance
 

@@ -87,6 +87,7 @@
     "http://www.ianlandsman.com/2012/02/22/laravel",
     "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
     "https://00f.net/2026/10/06/zeroization-1/",
+    "https://386s.org/w/lua-antcc-pessimization/",
     "https://a5geo.org/blog/2026/10/14/a5-v1",
     "https://aaronmallen.me/writing/hanami-why-introductions",
     "https://aaronmallen.me/writing/hanami-why-model-citizens",
@@ -1024,6 +1025,7 @@
     "https://lobste.rs/s/e7rvsp/we_re_sunsetting_codeberg_pages_v2",
     "https://lobste.rs/s/ecxril/lineageos_24_0_released",
     "https://lobste.rs/s/eesu8d/bun_1_4",
+    "https://lobste.rs/s/g2ktrq/chasing_o2_pessimization_antcc",
     "https://lobste.rs/s/gajtrm/debunking_faster_than_rust_malicious",
     "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from",
     "https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow",
@@ -1810,12 +1812,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "Hacker News Picks",
-      "title": "FreeDNS",
-      "url": "https://news.ycombinator.com/item?id=50222133"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "JavaScript",
       "title": "browser-use/browser-use-pi",
       "url": "https://github.com/browser-use/browser-use-pi"
@@ -1867,6 +1863,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Janus  Go binary that runs GGUF models via...",
       "url": "https://news.ycombinator.com/item?id=49926773"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "Lobsters Picks",
+      "title": "Chasing a -O2 pessimization in antcc",
+      "url": "https://lobste.rs/s/g2ktrq/chasing_o2_pessimization_antcc"
     }
   ]
 }
