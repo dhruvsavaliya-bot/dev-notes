@@ -538,6 +538,7 @@
     "https://github.com/aru-labs/lossless-memory",
     "https://github.com/arvids-unavailable/openGym",
     "https://github.com/ashemag/human-atlas",
+    "https://github.com/ashhart/TensorFold",
     "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
     "https://github.com/ayghri/i-have-adhd",
     "https://github.com/azerioid/azerioid-stack-manager",
@@ -1806,12 +1807,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "Models & Datasets",
-      "title": "BodyMaps/CancerVerse",
-      "url": "https://huggingface.co/datasets/BodyMaps/CancerVerse"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "AI & Machine Learning",
       "title": "vojtaholik/good-css",
       "url": "https://github.com/vojtaholik/good-css"
@@ -1863,6 +1858,12 @@
       "subcat": "Hacker News Picks",
       "title": "We should be more ambitious with the software we build",
       "url": "https://news.ycombinator.com/item?id=50225695"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "AI & Machine Learning",
+      "title": "ashhart/TensorFold",
+      "url": "https://github.com/ashhart/TensorFold"
     }
   ]
 }

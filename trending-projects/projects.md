@@ -1154,6 +1154,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~20 stars/day since launch.
 - **Link:** https://github.com/Javis603/token-monitor
 
+**Added 2026-10-25**
+
+### [ashhart/TensorFold](https://github.com/ashhart/TensorFold)
+- **Stats:** 1,471 stars | 296 forks | 91 open issues
+- **Language:** Zig | **Created:** 2026-06-19 | **License:** Apache-2.0
+- **Topics:** ai, ai-tools, llm, llm-inference, llm-tools
+- **What it is:** LLM Inference Engine for Metal and CUDA.
+- **Growth:** averaging ~11 stars/day since launch.
+- **Link:** https://github.com/ashhart/TensorFold
+
 
 ## Other Cool Projects
 

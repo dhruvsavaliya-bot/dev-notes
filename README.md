@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1273 entries and counting** · Last updated: 2026-10-25
+**1274 entries and counting** · Last updated: 2026-10-25
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 258 |
+| [Trending Projects](trending-projects/projects.md) | 259 |
 | [AI / LLM Notes](ai/notes.md) | 258 |
 | [Reading List](articles/reading-list.md) | 258 |
 | [Coding Tips](coding-tips/tips.md) | 258 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-25** · *AI & Machine Learning* — [ashhart/TensorFold](https://github.com/ashhart/TensorFold)
 - **2026-10-25** · *Hacker News Picks* — [We should be more ambitious with the software we build](https://news.ycombinator.com/item?id=50225695)
 - **2026-10-25** · *Lobsters Picks* — [Wild version 0.11.0 released](https://lobste.rs/s/vulvk7/wild_version_0_11_0_released)
 - **2026-10-25** · *AI & Machine Learning* — [Javis603/token-monitor](https://github.com/Javis603/token-monitor)
 - **2026-10-25** · *Models & Datasets* — [XiaomiMiMo/MiMo-V2.6-RL-oss](https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss)
-- **2026-10-25** · *Lobsters Picks* — [Bringing uv and ty together](https://lobste.rs/s/dfieqa/bringing_uv_ty_together)
 
 ## How it works
 
