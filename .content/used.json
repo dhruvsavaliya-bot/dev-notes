@@ -503,6 +503,7 @@
     "https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6",
     "https://github.com/ToolJet/ToolJet",
     "https://github.com/UNDERdecoded/Gen2Recomped",
+    "https://github.com/Vibra-Ingenn/Janus",
     "https://github.com/Vincentwei1021/video-shotcraft",
     "https://github.com/Waishnav/devspace",
     "https://github.com/WeblateOrg/weblate",
@@ -1495,6 +1496,7 @@
     "https://news.ycombinator.com/item?id=49922568",
     "https://news.ycombinator.com/item?id=49922569",
     "https://news.ycombinator.com/item?id=49922674",
+    "https://news.ycombinator.com/item?id=49926773",
     "https://news.ycombinator.com/item?id=49931031",
     "https://news.ycombinator.com/item?id=49935038",
     "https://news.ycombinator.com/item?id=49945933",
@@ -1808,12 +1810,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "Models & Datasets",
-      "title": "inclusionAI/Ming-3.0-audio-flash",
-      "url": "https://huggingface.co/inclusionAI/Ming-3.0-audio-flash"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "Hacker News Picks",
       "title": "FreeDNS",
       "url": "https://news.ycombinator.com/item?id=50222133"
@@ -1865,6 +1861,12 @@
       "subcat": "Models & Datasets",
       "title": "meta-models/Muse-Glimmer-30B",
       "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Janus  Go binary that runs GGUF models via...",
+      "url": "https://news.ycombinator.com/item?id=49926773"
     }
   ]
 }

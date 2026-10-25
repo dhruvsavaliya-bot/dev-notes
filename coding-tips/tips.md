@@ -1984,6 +1984,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50003545
 - **Link:** https://oss.lsantos.dev/proton-drive-linux-fs/
 
+**Added 2026-10-25**
+
+### [Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia](https://github.com/Vibra-Ingenn/Janus)
+- **Source:** github.com | **Posted:** 2026-10-01 | **By:** Maverick617
+- **Community:** 106 points, 18 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49926773
+- **Link:** https://github.com/Vibra-Ingenn/Janus
+
 
 ## Git & Workflow
 

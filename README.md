@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1275 entries and counting** · Last updated: 2026-10-25
+**1276 entries and counting** · Last updated: 2026-10-25
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 259 |
 | [AI / LLM Notes](ai/notes.md) | 259 |
 | [Reading List](articles/reading-list.md) | 258 |
-| [Coding Tips](coding-tips/tips.md) | 258 |
+| [Coding Tips](coding-tips/tips.md) | 259 |
 | [Language Notes](languages/notes.md) | 241 |
 
 ## Latest additions
 
+- **2026-10-25** · *Show & Ask HN* — [Show HN: Janus  Go binary that runs GGUF models via...](https://news.ycombinator.com/item?id=49926773)
 - **2026-10-25** · *Models & Datasets* — [meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B)
 - **2026-10-25** · *AI & Machine Learning* — [ashhart/TensorFold](https://github.com/ashhart/TensorFold)
 - **2026-10-25** · *Hacker News Picks* — [We should be more ambitious with the software we build](https://news.ycombinator.com/item?id=50225695)
 - **2026-10-25** · *Lobsters Picks* — [Wild version 0.11.0 released](https://lobste.rs/s/vulvk7/wild_version_0_11_0_released)
-- **2026-10-25** · *AI & Machine Learning* — [Javis603/token-monitor](https://github.com/Javis603/token-monitor)
 
 ## How it works
 
