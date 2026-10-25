@@ -1046,6 +1046,7 @@
     "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from",
     "https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow",
     "https://lobste.rs/s/gqyvn5/protecting_firefox_users_following",
+    "https://lobste.rs/s/gu7bow/node_js_wednesday_october_21_2026",
     "https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait",
     "https://lobste.rs/s/hccdqa/shipping_jpeg_xl_chrome",
     "https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not",
@@ -1607,6 +1608,7 @@
     "https://nikolays.github.io/PGSimCity/",
     "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
     "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
+    "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
     "https://nullpt.rs/reverse-engineering-adhd-test",
     "https://numpad.io/",
     "https://obscura.com/#faq-technical",
@@ -1836,64 +1838,64 @@
   ],
   "recent": [
     {
-      "date": "2026-10-26",
-      "subcat": "Models & Datasets",
-      "title": "MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x",
-      "url": "https://huggingface.co/datasets/MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x"
-    },
-    {
-      "date": "2026-10-26",
-      "subcat": "Other Cool Projects",
-      "title": "rehan-remade/universal-modder",
-      "url": "https://github.com/rehan-remade/universal-modder"
-    },
-    {
-      "date": "2026-10-26",
-      "subcat": "Lobsters Picks",
-      "title": "Balloting has completed for C++26. Unfortunately it...",
-      "url": "https://lobste.rs/s/rlrfew/balloting_has_completed_for_c_26"
-    },
-    {
-      "date": "2026-10-26",
+      "date": "2026-10-25",
       "subcat": "Hacker News Picks",
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "url": "https://news.ycombinator.com/item?id=50212065"
+      "title": "FreeDNS",
+      "url": "https://news.ycombinator.com/item?id=50222133"
     },
     {
-      "date": "2026-10-26",
-      "subcat": "Research Papers",
-      "title": "LLMSeg: Training-Free Text-Prompted Image...",
-      "url": "http://arxiv.org/abs/2610.29409v1"
+      "date": "2026-10-25",
+      "subcat": "JavaScript",
+      "title": "browser-use/browser-use-pi",
+      "url": "https://github.com/browser-use/browser-use-pi"
     },
     {
-      "date": "2026-10-26",
-      "subcat": "Beginner",
-      "title": "Junior Devs Aren't DisappearingThey're Just Getting...",
-      "url": "https://dev.to/tlorent/junior-devs-arent-disappearing-theyre-just-getting-started-5fob"
+      "date": "2026-10-25",
+      "subcat": "Lobsters Picks",
+      "title": "Bringing uv and ty together",
+      "url": "https://lobste.rs/s/dfieqa/bringing_uv_ty_together"
     },
     {
-      "date": "2026-10-26",
-      "subcat": "Web & Frontend",
-      "title": "peach-mitao/peach",
-      "url": "https://github.com/peach-mitao/peach"
-    },
-    {
-      "date": "2026-10-26",
-      "subcat": "C#",
-      "title": "C vs. C#: racing VLC's Gaussian blur",
-      "url": "https://news.ycombinator.com/item?id=50176544"
-    },
-    {
-      "date": "2026-10-26",
+      "date": "2026-10-25",
       "subcat": "Models & Datasets",
-      "title": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
-      "url": "https://huggingface.co/orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF"
+      "title": "XiaomiMiMo/MiMo-V2.6-RL-oss",
+      "url": "https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss"
     },
     {
-      "date": "2026-10-26",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
-      "url": "https://news.ycombinator.com/item?id=50052251"
+      "date": "2026-10-25",
+      "subcat": "AI & Machine Learning",
+      "title": "Javis603/token-monitor",
+      "url": "https://github.com/Javis603/token-monitor"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "Lobsters Picks",
+      "title": "Wild version 0.11.0 released",
+      "url": "https://lobste.rs/s/vulvk7/wild_version_0_11_0_released"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "Hacker News Picks",
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://news.ycombinator.com/item?id=50225695"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "AI & Machine Learning",
+      "title": "ashhart/TensorFold",
+      "url": "https://github.com/ashhart/TensorFold"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "Models & Datasets",
+      "title": "meta-models/Muse-Glimmer-30B",
+      "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "JavaScript",
+      "title": "Node.js  Wednesday, October 21, 2026 Security Releases",
+      "url": "https://lobste.rs/s/gu7bow/node_js_wednesday_october_21_2026"
     }
   ]
 }

@@ -357,6 +357,15 @@ Snippets and gotchas across languages.
 - **What it is:** DeepSeek Harness 破甲 (mirror of YuJunZhiXue/dsh-purge) — 上游即将删库，此为本仓库全量镜像：含全部分支/73 个 tag/完整提交历史。原作者署名与二开要求见 README 署名章节。
 - **Growth:** averaging ~180 stars/day since launch.
 - **Link:** https://github.com/mmparko/dsh-purge
+**Added 2026-10-25**
+
+### [Node.js — Wednesday, October 21, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/october-2026-security-releases)
+- **Source:** nodejs.org | **Posted:** 2026-10-21 | **By:** easrng
+- **Community:** 16 score, 1 comments on Lobsters
+- **Tags:** javascript, nodejs, security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/gu7bow/node_js_wednesday_october_21_2026
+- **Link:** https://nodejs.org/en/blog/vulnerability/october-2026-security-releases
 
 
 ## TypeScript

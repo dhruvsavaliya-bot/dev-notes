@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1295 entries and counting** · Last updated: 2026-10-26
+**1296 entries and counting** · Last updated: 2026-10-26
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 263 |
 | [Reading List](articles/reading-list.md) | 262 |
 | [Coding Tips](coding-tips/tips.md) | 263 |
-| [Language Notes](languages/notes.md) | 244 |
+| [Language Notes](languages/notes.md) | 245 |
 
 ## Latest additions
 
-- **2026-10-26** · *Show & Ask HN* — [Show HN: PS2 games statically recompiled to WebAssembly](https://news.ycombinator.com/item?id=50052251)
-- **2026-10-26** · *Models & Datasets* — [orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF](https://huggingface.co/orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF)
-- **2026-10-26** · *C#* — [C vs. C#: racing VLC's Gaussian blur](https://news.ycombinator.com/item?id=50176544)
-- **2026-10-26** · *Web & Frontend* — [peach-mitao/peach](https://github.com/peach-mitao/peach)
-- **2026-10-26** · *Beginner* — [Junior Devs Aren't DisappearingThey're Just Getting...](https://dev.to/tlorent/junior-devs-arent-disappearing-theyre-just-getting-started-5fob)
+- **2026-10-25** · *JavaScript* — [Node.js  Wednesday, October 21, 2026 Security Releases](https://lobste.rs/s/gu7bow/node_js_wednesday_october_21_2026)
+- **2026-10-25** · *Models & Datasets* — [meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B)
+- **2026-10-25** · *AI & Machine Learning* — [ashhart/TensorFold](https://github.com/ashhart/TensorFold)
+- **2026-10-25** · *Hacker News Picks* — [We should be more ambitious with the software we build](https://news.ycombinator.com/item?id=50225695)
+- **2026-10-25** · *Lobsters Picks* — [Wild version 0.11.0 released](https://lobste.rs/s/vulvk7/wild_version_0_11_0_released)
 
 ## How it works
 
