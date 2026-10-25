@@ -1761,6 +1761,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss
 
+**Added 2026-10-25**
+
+### [meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B)
+- **Stats:** 2,085 likes | 205,081 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-08-09
+- **Tags:** transformers, safetensors, muse_glimmer, image-text-to-text, conversational, eval-results
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/meta-models/Muse-Glimmer-30B
+
 
 ## Research Papers
 
