@@ -1734,6 +1734,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/Cloudflare/clef
 
+**Added 2026-10-25**
+
+### [BodyMaps/CancerVerse](https://huggingface.co/datasets/BodyMaps/CancerVerse)
+- **Stats:** 57 likes | 72,887 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-06-16
+- **Tags:** medical-imaging, computed-tomography, oncology, cancer, radiology-reports, longitudinal
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/BodyMaps/CancerVerse
+
 
 ## Research Papers
 

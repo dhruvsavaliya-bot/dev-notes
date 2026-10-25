@@ -817,6 +817,7 @@
     "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L12-v2",
     "https://huggingface.co/datasets/ACERobotics/ACE-Data-0",
     "https://huggingface.co/datasets/Anthropic/claude-protein-binder-design",
+    "https://huggingface.co/datasets/BodyMaps/CancerVerse",
     "https://huggingface.co/datasets/CMRobot/MotionDecode",
     "https://huggingface.co/datasets/FlyRank/internship-warehouse",
     "https://huggingface.co/datasets/Helsinki-NLP/opus-100",
@@ -1792,12 +1793,6 @@
   "recent": [
     {
       "date": "2026-10-24",
-      "subcat": "Hacker News Picks",
-      "title": "PHP 8.2.35",
-      "url": "https://news.ycombinator.com/item?id=50180873"
-    },
-    {
-      "date": "2026-10-24",
       "subcat": "Other Cool Projects",
       "title": "noahdunnagan/mcopt",
       "url": "https://github.com/noahdunnagan/mcopt"
@@ -1849,6 +1844,12 @@
       "subcat": "Git & Workflow",
       "title": "The 15 Git Commands Every Software Engineer Uses (And...",
       "url": "https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "Models & Datasets",
+      "title": "BodyMaps/CancerVerse",
+      "url": "https://huggingface.co/datasets/BodyMaps/CancerVerse"
     }
   ]
 }
