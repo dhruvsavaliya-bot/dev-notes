@@ -1793,6 +1793,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50129045
 - **Link:** https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017
 
+**Added 2026-10-25**
+
+### [FreeDNS](https://freedns.afraid.org/)
+- **Source:** freedns.afraid.org | **Posted:** 2026-10-24 | **By:** esher
+- **Community:** 263 points, 66 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50222133
+- **Link:** https://freedns.afraid.org/
+
 
 ## DevOps & Cloud
 

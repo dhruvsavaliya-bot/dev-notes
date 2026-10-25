@@ -379,6 +379,7 @@
     "https://foxscript.org/",
     "https://frankwiles.com/posts/i-got-targeted/",
     "https://frantic.im/mirage/",
+    "https://freedns.afraid.org/",
     "https://futhark-lang.org/blog/2026-10-14-defining-division.html",
     "https://gabrieloc.com/2026/09/15/perspective.html",
     "https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust",
@@ -1553,6 +1554,7 @@
     "https://news.ycombinator.com/item?id=50185869",
     "https://news.ycombinator.com/item?id=50194909",
     "https://news.ycombinator.com/item?id=50197404",
+    "https://news.ycombinator.com/item?id=50222133",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -1795,12 +1797,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "Research Papers",
-      "title": "ExeBench-FHD: Addressing Fidelity Issues in...",
-      "url": "http://arxiv.org/abs/2610.28212v1"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "Rust",
       "title": "Wanted to download an ISO, ended up writing a kernel...",
       "url": "https://news.ycombinator.com/item?id=50070625"
@@ -1852,6 +1848,12 @@
       "subcat": "Models & Datasets",
       "title": "inclusionAI/Ming-3.0-audio-flash",
       "url": "https://huggingface.co/inclusionAI/Ming-3.0-audio-flash"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "Hacker News Picks",
+      "title": "FreeDNS",
+      "url": "https://news.ycombinator.com/item?id=50222133"
     }
   ]
 }
