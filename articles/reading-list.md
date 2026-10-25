@@ -2386,6 +2386,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/g2ktrq/chasing_o2_pessimization_antcc
 - **Link:** https://386s.org/w/lua-antcc-pessimization/
 
+**Added 2026-10-25**
+
+### [Branches in branch-free code](https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/)
+- **Source:** 00f.net | **Posted:** 2026-10-09 | **By:** rrampage
+- **Community:** 29 score, 0 comments on Lobsters
+- **Tags:** assembly, c, compilers, rust, zig
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/dsbt5a/branches_branch_free_code
+- **Link:** https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/
+
 
 ## Performance
 

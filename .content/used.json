@@ -88,6 +88,7 @@
     "http://www.ianlandsman.com/2012/02/22/laravel",
     "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
     "https://00f.net/2026/10/06/zeroization-1/",
+    "https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/",
     "https://386s.org/w/lua-antcc-pessimization/",
     "https://a5geo.org/blog/2026/10/14/a5-v1",
     "https://aaronmallen.me/writing/hanami-why-introductions",
@@ -1023,6 +1024,7 @@
     "https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline",
     "https://lobste.rs/s/dodzdb/highlights_from_i_spent_6_years",
     "https://lobste.rs/s/dpfpr3/goroutine_leak_profiles",
+    "https://lobste.rs/s/dsbt5a/branches_branch_free_code",
     "https://lobste.rs/s/dzvt0w/type_inference_all_constructs_next_15",
     "https://lobste.rs/s/e5vf6k/don_t_couple_your_go_code_github",
     "https://lobste.rs/s/e7rvsp/we_re_sunsetting_codeberg_pages_v2",
@@ -1816,12 +1818,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "AI & Machine Learning",
-      "title": "Javis603/token-monitor",
-      "url": "https://github.com/Javis603/token-monitor"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "Lobsters Picks",
       "title": "Wild version 0.11.0 released",
       "url": "https://lobste.rs/s/vulvk7/wild_version_0_11_0_released"
@@ -1873,6 +1869,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Nightwatch  a Mac menu-bar app that tells...",
       "url": "https://news.ycombinator.com/item?id=49952148"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "Lobsters Picks",
+      "title": "Branches in branch-free code",
+      "url": "https://lobste.rs/s/dsbt5a/branches_branch_free_code"
     }
   ]
 }
