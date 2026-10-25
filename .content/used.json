@@ -586,6 +586,7 @@
     "https://github.com/dqev/reicon",
     "https://github.com/drumih/turbo-fieldfare",
     "https://github.com/dsh-market/dsh-market",
+    "https://github.com/dsh-tauri/deepseek-harness-desktop",
     "https://github.com/duty1g/x64dbg-mcp-server",
     "https://github.com/dzhng/jevgrep",
     "https://github.com/elder-plinius/T3MP3ST",
@@ -1818,12 +1819,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "Lobsters Picks",
-      "title": "Wild version 0.11.0 released",
-      "url": "https://lobste.rs/s/vulvk7/wild_version_0_11_0_released"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "Hacker News Picks",
       "title": "We should be more ambitious with the software we build",
       "url": "https://news.ycombinator.com/item?id=50225695"
@@ -1875,6 +1870,12 @@
       "subcat": "Lobsters Picks",
       "title": "Branches in branch-free code",
       "url": "https://lobste.rs/s/dsbt5a/branches_branch_free_code"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "Other Cool Projects",
+      "title": "dsh-tauri/deepseek-harness-desktop",
+      "url": "https://github.com/dsh-tauri/deepseek-harness-desktop"
     }
   ]
 }

@@ -2227,6 +2227,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~24 stars/day since launch.
 - **Link:** https://github.com/noahdunnagan/mcopt
 
+**Added 2026-10-25**
+
+### [dsh-tauri/deepseek-harness-desktop](https://github.com/dsh-tauri/deepseek-harness-desktop)
+- **Stats:** 3,269 stars | 213 forks | 47 open issues
+- **Language:** TypeScript | **Created:** 2026-08-14 | **License:** MIT
+- **Topics:** deepseek, deepseek-harness, desktop, dsh, dsh-desktop, dsh-plugin
+- **What it is:** DeepSeek Harness Tauri 桌面版 | Only 8mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.
+- **Growth:** averaging ~45 stars/day since launch.
+- **Link:** https://github.com/dsh-tauri/deepseek-harness-desktop
+
 
 ## Web & Frontend
 
