@@ -711,6 +711,7 @@
     "https://github.com/storytold/figcraft",
     "https://github.com/storytold/photocraft",
     "https://github.com/storytold/vectorcraft",
+    "https://github.com/strelov1/freehire",
     "https://github.com/sunny-glow/Auto-BenchMax",
     "https://github.com/synthetic-sciences/openscience",
     "https://github.com/tamaratran/fast-jev-compaction",
@@ -1812,12 +1813,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "JavaScript",
-      "title": "browser-use/browser-use-pi",
-      "url": "https://github.com/browser-use/browser-use-pi"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "Lobsters Picks",
       "title": "Bringing uv and ty together",
       "url": "https://lobste.rs/s/dfieqa/bringing_uv_ty_together"
@@ -1869,6 +1864,12 @@
       "subcat": "Lobsters Picks",
       "title": "Chasing a -O2 pessimization in antcc",
       "url": "https://lobste.rs/s/g2ktrq/chasing_o2_pessimization_antcc"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "AI & Machine Learning",
+      "title": "strelov1/freehire",
+      "url": "https://github.com/strelov1/freehire"
     }
   ]
 }

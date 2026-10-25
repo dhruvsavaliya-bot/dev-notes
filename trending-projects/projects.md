@@ -1164,6 +1164,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~11 stars/day since launch.
 - **Link:** https://github.com/ashhart/TensorFold
 
+**Added 2026-10-25**
+
+### [strelov1/freehire](https://github.com/strelov1/freehire)
+- **Stats:** 3,020 stars | 301 forks | 6 open issues
+- **Language:** Go | **Created:** 2026-06-07 | **License:** MIT
+- **Topics:** ats, career, careers, golang, hiring, job-aggregator
+- **What it is:** freehire — the open-source search engine for job seekers
+- **Growth:** averaging ~21 stars/day since launch.
+- **Link:** https://github.com/strelov1/freehire
+
 
 ## Other Cool Projects
 
