@@ -696,6 +696,7 @@
     "https://github.com/repoprompt/repoprompt-ce",
     "https://github.com/rjsf-team/react-jsonschema-form",
     "https://github.com/robbietilton/Compositor",
+    "https://github.com/rsutcliffe/nightwatch",
     "https://github.com/s1dashu/ip-as-logo-skill",
     "https://github.com/safijari/openpuck",
     "https://github.com/sapientinc/PRAXIST",
@@ -1506,6 +1507,7 @@
     "https://news.ycombinator.com/item?id=49945933",
     "https://news.ycombinator.com/item?id=49946895",
     "https://news.ycombinator.com/item?id=49947631",
+    "https://news.ycombinator.com/item?id=49952148",
     "https://news.ycombinator.com/item?id=49953288",
     "https://news.ycombinator.com/item?id=49965308",
     "https://news.ycombinator.com/item?id=49970667",
@@ -1814,12 +1816,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "Models & Datasets",
-      "title": "XiaomiMiMo/MiMo-V2.6-RL-oss",
-      "url": "https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "AI & Machine Learning",
       "title": "Javis603/token-monitor",
       "url": "https://github.com/Javis603/token-monitor"
@@ -1871,6 +1867,12 @@
       "subcat": "Research Papers",
       "title": "Mitigating Query Shortcuts in Chain-of-Thought with...",
       "url": "http://arxiv.org/abs/2610.29518v1"
+    },
+    {
+      "date": "2026-10-25",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Nightwatch  a Mac menu-bar app that tells...",
+      "url": "https://news.ycombinator.com/item?id=49952148"
     }
   ]
 }

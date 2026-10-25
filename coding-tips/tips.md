@@ -1993,6 +1993,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49926773
 - **Link:** https://github.com/Vibra-Ingenn/Janus
 
+**Added 2026-10-25**
+
+### [Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear](https://github.com/rsutcliffe/nightwatch)
+- **Source:** github.com | **Posted:** 2026-10-04 | **By:** delphidolphin
+- **Community:** 89 points, 28 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49952148
+- **Link:** https://github.com/rsutcliffe/nightwatch
+
 
 ## Git & Workflow
 
