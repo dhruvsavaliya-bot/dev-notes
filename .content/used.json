@@ -531,6 +531,7 @@
     "https://github.com/adityatandon15/Spring-Framework-Full-Course",
     "https://github.com/adonis-singh/re4",
     "https://github.com/agno-agi/agno",
+    "https://github.com/ahmetomerv/photoc",
     "https://github.com/ai-sucks-butt/ai-sucks-butt",
     "https://github.com/aliyun/ai-agent-handbook",
     "https://github.com/amagine-ai/Amagine3D",
@@ -1537,6 +1538,7 @@
     "https://news.ycombinator.com/item?id=49926773",
     "https://news.ycombinator.com/item?id=49931031",
     "https://news.ycombinator.com/item?id=49935038",
+    "https://news.ycombinator.com/item?id=49944196",
     "https://news.ycombinator.com/item?id=49945933",
     "https://news.ycombinator.com/item?id=49946895",
     "https://news.ycombinator.com/item?id=49947631",
@@ -1862,12 +1864,6 @@
   "recent": [
     {
       "date": "2026-10-26",
-      "subcat": "Models & Datasets",
-      "title": "drowzeys/keys-DeepSeek-V4.1-Flash-1017-Abliterated",
-      "url": "https://huggingface.co/drowzeys/keys-DeepSeek-V4.1-Flash-1017-Abliterated"
-    },
-    {
-      "date": "2026-10-26",
       "subcat": "Hacker News Picks",
       "title": "An ad-free Android TV",
       "url": "https://news.ycombinator.com/item?id=50158942"
@@ -1919,6 +1915,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: PaperMono, e-ink fridge magnet shopping list...",
       "url": "https://news.ycombinator.com/item?id=49875801"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Photoc  Command-line tools for photographers",
+      "url": "https://news.ycombinator.com/item?id=49944196"
     }
   ]
 }
