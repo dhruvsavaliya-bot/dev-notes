@@ -2440,6 +2440,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~171 stars/day since launch.
 - **Link:** https://github.com/peach-mitao/peach
 
+**Added 2026-10-26**
+
+### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
+- **Stats:** 10,687 stars | 1,332 forks | 3,472 open issues
+- **Language:** Rust | **Created:** 2026-10-07 | **License:** Apache-2.0
+- **Topics:** 3d-modeling, brep, cad, egui, mcp, parametric-cad
+- **What it is:** SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
+- **Growth:** averaging ~562 stars/day since launch.
+- **Link:** https://github.com/tangency-labs/solidcraft
+
 
 ## Developer Tools
 

@@ -743,6 +743,7 @@
     "https://github.com/synthetic-sciences/openscience",
     "https://github.com/tamaratran/fast-jev-compaction",
     "https://github.com/tamnd/kage",
+    "https://github.com/tangency-labs/solidcraft",
     "https://github.com/tester-army/e2e",
     "https://github.com/tfrce/thedaywefightback.js",
     "https://github.com/thebuggeddev/anatomy",
@@ -1872,12 +1873,6 @@
   "recent": [
     {
       "date": "2026-10-26",
-      "subcat": "Hacker News Picks",
-      "title": "Dolly Parton's Imagination Library",
-      "url": "https://news.ycombinator.com/item?id=50234474"
-    },
-    {
-      "date": "2026-10-26",
       "subcat": "AI Engineering",
       "title": "The Gatekeeping Panic: What AI Actually Threatens in...",
       "url": "https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l"
@@ -1929,6 +1924,12 @@
       "subcat": "C#",
       "title": "Rewriting My First NUnit API Tests: Cleaner, Faster...",
       "url": "https://dev.to/m4rri4nne/rewriting-my-first-nunit-api-tests-cleaner-faster-better-24fa"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Web & Frontend",
+      "title": "tangency-labs/solidcraft",
+      "url": "https://github.com/tangency-labs/solidcraft"
     }
   ]
 }

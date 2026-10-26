@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1318 entries and counting** · Last updated: 2026-10-26
+**1319 entries and counting** · Last updated: 2026-10-26
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 266 |
+| [Trending Projects](trending-projects/projects.md) | 267 |
 | [AI / LLM Notes](ai/notes.md) | 267 |
 | [Reading List](articles/reading-list.md) | 267 |
 | [Coding Tips](coding-tips/tips.md) | 267 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-26** · *Web & Frontend* — [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
 - **2026-10-26** · *C#* — [Rewriting My First NUnit API Tests: Cleaner, Faster...](https://dev.to/m4rri4nne/rewriting-my-first-nunit-api-tests-cleaner-faster-better-24fa)
 - **2026-10-26** · *PHP* — [Show HN: Omnara  Open-source alternative to Claude...](https://news.ycombinator.com/item?id=50183892)
 - **2026-10-26** · *Research Papers* — [Clean-label Poisoning Attack and Defense Game for...](http://arxiv.org/abs/2610.32765v1)
 - **2026-10-26** · *Rust* — [I built a garbage collector for Rust (2023)](https://lobste.rs/s/ju4q1u/i_built_garbage_collector_for_rust_2023)
-- **2026-10-26** · *Lobsters Picks* — [Simple NetBSD webserver](https://lobste.rs/s/hzrmwz/simple_netbsd_webserver)
 
 ## How it works
 
