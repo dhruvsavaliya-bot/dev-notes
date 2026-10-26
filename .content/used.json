@@ -716,6 +716,7 @@
     "https://github.com/shellhub-io/shellhub",
     "https://github.com/shihabal3amri/DiPlay",
     "https://github.com/slvDev/esp32-ai",
+    "https://github.com/snuri00/ps2-web-recomp",
     "https://github.com/software-mansion-labs/goldie",
     "https://github.com/srizzon/git-city",
     "https://github.com/storytold/figcraft",
@@ -1547,6 +1548,7 @@
     "https://news.ycombinator.com/item?id=50024499",
     "https://news.ycombinator.com/item?id=50039291",
     "https://news.ycombinator.com/item?id=50042333",
+    "https://news.ycombinator.com/item?id=50052251",
     "https://news.ycombinator.com/item?id=50059096",
     "https://news.ycombinator.com/item?id=50061659",
     "https://news.ycombinator.com/item?id=50063417",
@@ -1835,12 +1837,6 @@
   "recent": [
     {
       "date": "2026-10-26",
-      "subcat": "JavaScript",
-      "title": "mmparko/dsh-purge",
-      "url": "https://github.com/mmparko/dsh-purge"
-    },
-    {
-      "date": "2026-10-26",
       "subcat": "Models & Datasets",
       "title": "MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x",
       "url": "https://huggingface.co/datasets/MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x"
@@ -1892,6 +1888,12 @@
       "subcat": "Models & Datasets",
       "title": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
       "url": "https://huggingface.co/orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+      "url": "https://news.ycombinator.com/item?id=50052251"
     }
   ]
 }

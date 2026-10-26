@@ -2011,6 +2011,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49952148
 - **Link:** https://github.com/rsutcliffe/nightwatch
 
+**Added 2026-10-26**
+
+### [Show HN: PS2 games statically recompiled to WebAssembly](https://github.com/snuri00/ps2-web-recomp)
+- **Source:** github.com | **Posted:** 2026-10-12 | **By:** deadxwarrior
+- **Community:** 316 points, 159 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50052251
+- **Link:** https://github.com/snuri00/ps2-web-recomp
+
 
 ## Git & Workflow
 
