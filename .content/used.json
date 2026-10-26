@@ -1632,6 +1632,7 @@
     "https://news.ycombinator.com/item?id=50234474",
     "https://news.ycombinator.com/item?id=50236102",
     "https://news.ycombinator.com/item?id=50241664",
+    "https://news.ycombinator.com/item?id=50242939",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -1845,6 +1846,7 @@
     "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
     "https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/",
     "https://www.seangoedecke.com/what-requirements-dont-you-have/",
+    "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
     "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
     "https://www.statichost.eu/",
     "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies",
@@ -1877,12 +1879,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-10-26",
-      "subcat": "Rust",
-      "title": "I built a garbage collector for Rust (2023)",
-      "url": "https://lobste.rs/s/ju4q1u/i_built_garbage_collector_for_rust_2023"
-    },
     {
       "date": "2026-10-26",
       "subcat": "Research Papers",
@@ -1936,6 +1932,12 @@
       "subcat": "Show & Ask HN",
       "title": "Median product \"lifespan\" has fallen from ~4y down to...",
       "url": "https://news.ycombinator.com/item?id=50204125"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Hacker News Picks",
+      "title": "Anthropic S-1",
+      "url": "https://news.ycombinator.com/item?id=50242939"
     }
   ]
 }

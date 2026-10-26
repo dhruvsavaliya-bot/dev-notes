@@ -1865,6 +1865,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50241664
 - **Link:** https://brennenputh.me/blog/printable-websites/
 
+**Added 2026-10-26**
+
+### [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)
+- **Source:** www.sec.gov | **Posted:** 2026-10-26 | **By:** SiNTEx
+- **Community:** 479 points, 387 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50242939
+- **Link:** https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm
+
 
 ## DevOps & Cloud
 
