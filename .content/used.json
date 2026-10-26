@@ -907,6 +907,7 @@
     "https://huggingface.co/datasets/meta-math/MetaMathQA",
     "https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML",
     "https://huggingface.co/datasets/monology/pile-uncopyrighted",
+    "https://huggingface.co/datasets/nisten/opus5-5-doctor-patient-conversations-all-human-diseases",
     "https://huggingface.co/datasets/nvidia/Open-H-RF",
     "https://huggingface.co/datasets/nvidia/Open-SWE-Traces",
     "https://huggingface.co/datasets/nvidia/OpenH-RF",
@@ -1889,12 +1890,6 @@
   "recent": [
     {
       "date": "2026-10-26",
-      "subcat": "C#",
-      "title": "The Stack Nobody Picks Might Be the One That Picks You",
-      "url": "https://dev.to/dj29/the-stack-nobody-picks-might-be-the-one-that-picks-you-473c"
-    },
-    {
-      "date": "2026-10-26",
       "subcat": "AI & Machine Learning",
       "title": "wheresryan22/anatomy",
       "url": "https://github.com/wheresryan22/anatomy"
@@ -1946,6 +1941,12 @@
       "subcat": "AI & Machine Learning",
       "title": "49-Agents/49-IDE",
       "url": "https://github.com/49-Agents/49-IDE"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "Models & Datasets",
+      "title": "nisten/opus5-5-doctor-patient-conversations-all-human-d...",
+      "url": "https://huggingface.co/datasets/nisten/opus5-5-doctor-patient-conversations-all-human-diseases"
     }
   ]
 }

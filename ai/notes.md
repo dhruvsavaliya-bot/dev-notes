@@ -1824,6 +1824,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/LightwheelAI/EgoPro
 
+**Added 2026-10-27**
+
+### [nisten/opus5-5-doctor-patient-conversations-all-human-diseases](https://huggingface.co/datasets/nisten/opus5-5-doctor-patient-conversations-all-human-diseases)
+- **Stats:** 340 likes | 5,371 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-09-26
+- **Tags:** medical, healthcare, clinical, synthetic, doctor-patient, chatml
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/nisten/opus5-5-doctor-patient-conversations-all-human-diseases
+
 
 ## Research Papers
 
