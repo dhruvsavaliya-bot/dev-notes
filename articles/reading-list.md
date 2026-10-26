@@ -1847,6 +1847,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50158942
 - **Link:** https://cretezy.com/2026/ad-free-android-tv
 
+**Added 2026-10-26**
+
+### [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
+- **Source:** imaginationlibrary.com | **Posted:** 2026-10-25 | **By:** jumploops
+- **Community:** 527 points, 90 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50234474
+- **Link:** https://imaginationlibrary.com/
+
 
 ## DevOps & Cloud
 
