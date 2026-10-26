@@ -2047,6 +2047,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49944196
 - **Link:** https://github.com/ahmetomerv/photoc
 
+**Added 2026-10-26**
+
+### [Tell HN: 2x PHP RCE CVEs with CVSS 10.0 Incoming](https://news.ycombinator.com/item?id=50167754)
+- **Source:** news.ycombinator.com | **Posted:** 2026-10-20 | **By:** petecooper
+- **Community:** 304 points, 62 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50167754
+- **Link:** https://news.ycombinator.com/item?id=50167754
+
 
 ## Git & Workflow
 

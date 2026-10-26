@@ -1607,6 +1607,7 @@
     "https://news.ycombinator.com/item?id=50165208",
     "https://news.ycombinator.com/item?id=50165953",
     "https://news.ycombinator.com/item?id=50166257",
+    "https://news.ycombinator.com/item?id=50167754",
     "https://news.ycombinator.com/item?id=50168396",
     "https://news.ycombinator.com/item?id=50174687",
     "https://news.ycombinator.com/item?id=50175070",
@@ -1873,12 +1874,6 @@
   "recent": [
     {
       "date": "2026-10-26",
-      "subcat": "AI Engineering",
-      "title": "The Gatekeeping Panic: What AI Actually Threatens in...",
-      "url": "https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l"
-    },
-    {
-      "date": "2026-10-26",
       "subcat": "Research Papers",
       "title": "Byzantine-linearizable Single-Writer Multi-Reader...",
       "url": "http://arxiv.org/abs/2610.14543v1"
@@ -1930,6 +1925,12 @@
       "subcat": "Web & Frontend",
       "title": "tangency-labs/solidcraft",
       "url": "https://github.com/tangency-labs/solidcraft"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Show & Ask HN",
+      "title": "Tell HN: 2x PHP RCE CVEs with CVSS 10.0 Incoming",
+      "url": "https://news.ycombinator.com/item?id=50167754"
     }
   ]
 }
