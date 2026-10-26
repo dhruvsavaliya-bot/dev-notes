@@ -557,6 +557,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~21 stars/day since launch.
 - **Link:** https://github.com/Ikaleio/lm-detector
 
+**Added 2026-10-26**
+
+### [internet-court/internet-court-skill](https://github.com/internet-court/internet-court-skill)
+- **Stats:** 7,017 stars | 125 forks | 32 open issues
+- **Language:** TypeScript | **Created:** 2026-06-16 | **License:** NOASSERTION
+- **Topics:** a2a, adjudication, agent-payments, agent-skills, agentic-commerce, ai-agents
+- **What it is:** The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute resolution as one open, catch-all Agent Skill / Claude Code plugin.
+- **Growth:** averaging ~53 stars/day since launch.
+- **Link:** https://github.com/internet-court/internet-court-skill
+
 
 ## Python
 

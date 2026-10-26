@@ -620,6 +620,7 @@
     "https://github.com/illegalstudio/elephc",
     "https://github.com/img2threejs/img2threejs",
     "https://github.com/imsai-sh/zhuzhiliao",
+    "https://github.com/internet-court/internet-court-skill",
     "https://github.com/isjiamu/gzh-design-skill",
     "https://github.com/jakubkrehel/skills",
     "https://github.com/jamesob/local-llm",
@@ -1851,12 +1852,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "Models & Datasets",
-      "title": "meta-models/Muse-Glimmer-30B",
-      "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "JavaScript",
       "title": "Node.js  Wednesday, October 21, 2026 Security Releases",
       "url": "https://lobste.rs/s/gu7bow/node_js_wednesday_october_21_2026"
@@ -1908,6 +1903,12 @@
       "subcat": "Hacker News Picks",
       "title": "An ad-free Android TV",
       "url": "https://news.ycombinator.com/item?id=50158942"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "TypeScript",
+      "title": "internet-court/internet-court-skill",
+      "url": "https://github.com/internet-court/internet-court-skill"
     }
   ]
 }
