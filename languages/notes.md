@@ -1779,6 +1779,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/6tbd2o/creusot_0_14_0_release_contracts_for_rust
 - **Link:** https://devlog.creusot.rs/v0-14-0/
 
+**Added 2026-10-26**
+
+### [Axolotl-Launcher/Axolotl](https://github.com/Axolotl-Launcher/Axolotl)
+- **Stats:** 706 stars | 92 forks | 148 open issues
+- **Language:** Rust | **Created:** 2026-07-13 | **License:** NOASSERTION
+- **Topics:** minecraft, minecraft-launcher, rust, tauri, vue
+- **What it is:** 开源，跨平台的下一代启动器
+- **Growth:** averaging ~6 stars/day since launch.
+- **Link:** https://github.com/Axolotl-Launcher/Axolotl
+
 
 ## Elixir
 

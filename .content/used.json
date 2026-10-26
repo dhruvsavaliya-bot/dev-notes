@@ -410,6 +410,7 @@
     "https://github.com/AndroidCSIDE/ACSIDE",
     "https://github.com/ApodexAI/FrontierAgent",
     "https://github.com/AstrBotDevs/AstrBot-desktop",
+    "https://github.com/Axolotl-Launcher/Axolotl",
     "https://github.com/BlackLabelHQ/SymphonyRecomp",
     "https://github.com/Blimp-Labs/claude-usage-bar",
     "https://github.com/BuilderIO/skills",
@@ -1847,12 +1848,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "Lobsters Picks",
-      "title": "Wild version 0.11.0 released",
-      "url": "https://lobste.rs/s/vulvk7/wild_version_0_11_0_released"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "Hacker News Picks",
       "title": "We should be more ambitious with the software we build",
       "url": "https://news.ycombinator.com/item?id=50225695"
@@ -1904,6 +1899,12 @@
       "subcat": "Rust",
       "title": "Creusot 0.14.0 release - Contracts for Rust, formally...",
       "url": "https://lobste.rs/s/6tbd2o/creusot_0_14_0_release_contracts_for_rust"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Rust",
+      "title": "Axolotl-Launcher/Axolotl",
+      "url": "https://github.com/Axolotl-Launcher/Axolotl"
     }
   ]
 }

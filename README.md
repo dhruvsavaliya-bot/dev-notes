@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1301 entries and counting** · Last updated: 2026-10-26
+**1302 entries and counting** · Last updated: 2026-10-26
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 263 |
 | [Reading List](articles/reading-list.md) | 264 |
 | [Coding Tips](coding-tips/tips.md) | 264 |
-| [Language Notes](languages/notes.md) | 246 |
+| [Language Notes](languages/notes.md) | 247 |
 
 ## Latest additions
 
+- **2026-10-26** · *Rust* — [Axolotl-Launcher/Axolotl](https://github.com/Axolotl-Launcher/Axolotl)
 - **2026-10-26** · *Rust* — [Creusot 0.14.0 release - Contracts for Rust, formally...](https://lobste.rs/s/6tbd2o/creusot_0_14_0_release_contracts_for_rust)
 - **2026-10-26** · *Hacker News Picks* — [OpenAI and Anthropic cut their LLM prices by up to...](https://news.ycombinator.com/item?id=50236102)
 - **2026-10-26** · *Show & Ask HN* — [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438)
 - **2026-10-26** · *Other Cool Projects* — [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)
-- **2026-10-26** · *Hacker News Picks* — [I refuse to accept a censored Internet. Join Me at...](https://news.ycombinator.com/item?id=50233929)
 
 ## How it works
 
