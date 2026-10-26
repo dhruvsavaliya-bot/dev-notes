@@ -2247,6 +2247,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~344 stars/day since launch.
 - **Link:** https://github.com/rehan-remade/universal-modder
 
+**Added 2026-10-26**
+
+### [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)
+- **Stats:** 5,184 stars | 420 forks | 256 open issues
+- **Language:** Kotlin | **Created:** 2026-10-20 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
+- **Growth:** averaging ~864 stars/day since launch.
+- **Link:** https://github.com/pengchujin/aerial-tv
+
 
 ## Web & Frontend
 

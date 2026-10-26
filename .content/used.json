@@ -690,6 +690,7 @@
     "https://github.com/pathwaycom/arc-task-gen",
     "https://github.com/peach-mitao/peach",
     "https://github.com/penecho/penecho",
+    "https://github.com/pengchujin/aerial-tv",
     "https://github.com/petergyang/no-ai-slop",
     "https://github.com/php/php-src/releases/tag/php-8.2.35",
     "https://github.com/pingdotgg/t3code",
@@ -1841,12 +1842,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "JavaScript",
-      "title": "browser-use/browser-use-pi",
-      "url": "https://github.com/browser-use/browser-use-pi"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "Lobsters Picks",
       "title": "Bringing uv and ty together",
       "url": "https://lobste.rs/s/dfieqa/bringing_uv_ty_together"
@@ -1898,6 +1893,12 @@
       "subcat": "Hacker News Picks",
       "title": "I refuse to accept a censored Internet. Join Me at...",
       "url": "https://news.ycombinator.com/item?id=50233929"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Other Cool Projects",
+      "title": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv"
     }
   ]
 }
