@@ -518,6 +518,7 @@
     "https://github.com/WeblateOrg/weblate",
     "https://github.com/XiaoDuoYa/codex-with-chatgpt",
     "https://github.com/XxxXTeam/business2api",
+    "https://github.com/YanamiNeko/NekoSportsWorldTool",
     "https://github.com/Yeachan-Heo/oh-my-codex",
     "https://github.com/Younesfdj/gitfut",
     "https://github.com/Yu9191/wloc",
@@ -1851,12 +1852,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-25",
-      "subcat": "JavaScript",
-      "title": "Node.js  Wednesday, October 21, 2026 Security Releases",
-      "url": "https://lobste.rs/s/gu7bow/node_js_wednesday_october_21_2026"
-    },
-    {
       "date": "2026-10-26",
       "subcat": "Hacker News Picks",
       "title": "I refuse to accept a censored Internet. Join Me at...",
@@ -1909,6 +1904,12 @@
       "subcat": "TypeScript",
       "title": "internet-court/internet-court-skill",
       "url": "https://github.com/internet-court/internet-court-skill"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Other Cool Projects",
+      "title": "YanamiNeko/NekoSportsWorldTool",
+      "url": "https://github.com/YanamiNeko/NekoSportsWorldTool"
     }
   ]
 }

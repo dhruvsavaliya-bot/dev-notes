@@ -2257,6 +2257,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~864 stars/day since launch.
 - **Link:** https://github.com/pengchujin/aerial-tv
 
+**Added 2026-10-26**
+
+### [YanamiNeko/NekoSportsWorldTool](https://github.com/YanamiNeko/NekoSportsWorldTool)
+- **Stats:** 447 stars | 89 forks | 72 open issues
+- **Language:** Rust | **Created:** 2026-09-09 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** 基于运动世界v7.3.70协议实现的纯自动化神秘工具
+- **Growth:** averaging ~9 stars/day since launch.
+- **Link:** https://github.com/YanamiNeko/NekoSportsWorldTool
+
 
 ## Web & Frontend
 
