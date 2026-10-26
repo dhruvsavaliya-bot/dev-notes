@@ -2029,6 +2029,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49949438
 - **Link:** https://news.ycombinator.com/item?id=49949438
 
+**Added 2026-10-26**
+
+### [Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page](https://github.com/seamusc/papermono-shopping-list)
+- **Source:** github.com | **Posted:** 2026-09-28 | **By:** seamus_c
+- **Community:** 152 points, 62 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49875801
+- **Link:** https://github.com/seamusc/papermono-shopping-list
+
 
 ## Git & Workflow
 
