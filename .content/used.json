@@ -653,6 +653,7 @@
     "https://github.com/liangxiegame/QFramework",
     "https://github.com/lingyired/status-trio",
     "https://github.com/lnkiai/m3e-canvas",
+    "https://github.com/loopx-project/loopx",
     "https://github.com/lopopolo/harness-engineering",
     "https://github.com/magnitudedev/magnitude",
     "https://github.com/mattprusak/autoresearch-genealogy",
@@ -1855,12 +1856,6 @@
   "recent": [
     {
       "date": "2026-10-26",
-      "subcat": "Other Cool Projects",
-      "title": "pengchujin/aerial-tv",
-      "url": "https://github.com/pengchujin/aerial-tv"
-    },
-    {
-      "date": "2026-10-26",
       "subcat": "Show & Ask HN",
       "title": "Tell HN: Bob Cringely has died",
       "url": "https://news.ycombinator.com/item?id=49949438"
@@ -1912,6 +1907,12 @@
       "subcat": "Lobsters Picks",
       "title": "Partial Order Precedence",
       "url": "https://lobste.rs/s/kiivg2/partial_order_precedence"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "AI & Machine Learning",
+      "title": "loopx-project/loopx",
+      "url": "https://github.com/loopx-project/loopx"
     }
   ]
 }

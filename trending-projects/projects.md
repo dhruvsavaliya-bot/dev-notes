@@ -1174,6 +1174,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~21 stars/day since launch.
 - **Link:** https://github.com/strelov1/freehire
 
+**Added 2026-10-26**
+
+### [loopx-project/loopx](https://github.com/loopx-project/loopx)
+- **Stats:** 6,429 stars | 612 forks | 155 open issues
+- **Language:** Python | **Created:** 2026-05-31 | **License:** Apache-2.0
+- **Topics:** agent-control-plane, agent-harness, agentic-software, ai-agents, auto-research, claude-code
+- **What it is:** Turn long-horizon goals into verifiable results. A local-first semantic control plane and research workbench for long-running agent teams, across sessions and runtimes.
+- **Growth:** averaging ~43 stars/day since launch.
+- **Link:** https://github.com/loopx-project/loopx
+
 
 ## Other Cool Projects
 
