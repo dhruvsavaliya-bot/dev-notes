@@ -47,6 +47,7 @@
     "http://arxiv.org/abs/2610.13298v1",
     "http://arxiv.org/abs/2610.13300v1",
     "http://arxiv.org/abs/2610.13407v1",
+    "http://arxiv.org/abs/2610.14543v1",
     "http://arxiv.org/abs/2610.15082v1",
     "http://arxiv.org/abs/2610.15995v1",
     "http://arxiv.org/abs/2610.16592v1",
@@ -1860,12 +1861,6 @@
     {
       "date": "2026-10-26",
       "subcat": "Rust",
-      "title": "Creusot 0.14.0 release - Contracts for Rust, formally...",
-      "url": "https://lobste.rs/s/6tbd2o/creusot_0_14_0_release_contracts_for_rust"
-    },
-    {
-      "date": "2026-10-26",
-      "subcat": "Rust",
       "title": "Axolotl-Launcher/Axolotl",
       "url": "https://github.com/Axolotl-Launcher/Axolotl"
     },
@@ -1916,6 +1911,12 @@
       "subcat": "AI Engineering",
       "title": "The Gatekeeping Panic: What AI Actually Threatens in...",
       "url": "https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Research Papers",
+      "title": "Byzantine-linearizable Single-Writer Multi-Reader...",
+      "url": "http://arxiv.org/abs/2610.14543v1"
     }
   ]
 }

@@ -2468,3 +2468,13 @@ Lessons from building with LLMs.
 - **Abstract:** Promptable segmentation models such as SAM 3 achieve remarkable open-vocabulary performance but require dedicated architectures, large-scale annotation engines, and task-specific training. We ask a different question: can a general-purpose multimodal large language model (MLLM) segment images directly, without an added segmentation head, mask decoder, or training? We present LLMSeg, a training-free pipeline that turns a vision-capable LLM into a text-prompted image segmenter. LLMSeg decomposes s...
 - **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.29409v1
+
+**Added 2026-10-26**
+
+### [Byzantine-linearizable Single-Writer Multi-Reader Register in the GPU-Inspired Shared Memory Model](http://arxiv.org/abs/2610.14543v1)
+- **Authors:** Chryssis Georgiou, Sathya Peri, Manaswani Piduguralla, Yashi Rastogi
+- **Published:** 2026-10-10 | **Primary category:** cs.DC
+- **Categories:** cs.DC
+- **Abstract:** The construction of fault-tolerant atomic registers is a fundamental problem in distributed computing. GPUs, widely used in scientific computing and machine learning, face Byzantine thread behaviour, while their shared memory lacks access control, allowing any thread to modify shared objects. This raises the question of whether atomic register semantics can be maintained when any thread, including the designated writer, may behave Byzantine. We study this problem in the GPU-inspired shared-memor...
+- **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.14543v1
