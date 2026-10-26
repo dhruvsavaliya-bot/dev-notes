@@ -1799,6 +1799,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~6 stars/day since launch.
 - **Link:** https://github.com/Axolotl-Launcher/Axolotl
 
+**Added 2026-10-26**
+
+### [I built a garbage collector for Rust (2023)](https://claytonwramsey.com/blog/dumpster/)
+- **Source:** claytonwramsey.com | **Posted:** 2026-10-22 | **By:** abhin4v
+- **Community:** 23 score, 9 comments on Lobsters
+- **Tags:** rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/ju4q1u/i_built_garbage_collector_for_rust_2023
+- **Link:** https://claytonwramsey.com/blog/dumpster/
+
 
 ## Elixir
 

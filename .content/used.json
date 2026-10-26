@@ -182,6 +182,7 @@
     "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
     "https://chsxf.dev/2022/08/28/5-tup-why-i-quit-using-swiftui.html",
     "https://claude.com/blog/auto-mode-default-in-claude-code",
+    "https://claytonwramsey.com/blog/dumpster/",
     "https://coca11272000.wixsite.com/manabukosaka",
     "https://code.intellios.ai/cwbrowser/",
     "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
@@ -1076,6 +1077,7 @@
     "https://lobste.rs/s/jbnmj9/chatgpt_now_knows_what_you_do_on_other",
     "https://lobste.rs/s/jgull9/hacky_fucked_up_way_portably_access_errno",
     "https://lobste.rs/s/jlja1a/jdk_27_has_been_released",
+    "https://lobste.rs/s/ju4q1u/i_built_garbage_collector_for_rust_2023",
     "https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this",
     "https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think",
     "https://lobste.rs/s/k5omum/brain_sandwich",
@@ -1866,12 +1868,6 @@
   "recent": [
     {
       "date": "2026-10-26",
-      "subcat": "TypeScript",
-      "title": "internet-court/internet-court-skill",
-      "url": "https://github.com/internet-court/internet-court-skill"
-    },
-    {
-      "date": "2026-10-26",
       "subcat": "Other Cool Projects",
       "title": "YanamiNeko/NekoSportsWorldTool",
       "url": "https://github.com/YanamiNeko/NekoSportsWorldTool"
@@ -1923,6 +1919,12 @@
       "subcat": "Lobsters Picks",
       "title": "Simple NetBSD webserver",
       "url": "https://lobste.rs/s/hzrmwz/simple_netbsd_webserver"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Rust",
+      "title": "I built a garbage collector for Rust (2023)",
+      "url": "https://lobste.rs/s/ju4q1u/i_built_garbage_collector_for_rust_2023"
     }
   ]
 }
