@@ -2020,6 +2020,15 @@ Snippets and gotchas across languages.
 - **Summary:** Have you ever caught yourself thinking: “What am I even doing?” Well, that’s exactly how I feel right...
 - **Link:** https://dev.to/m4rri4nne/rewriting-my-first-nunit-api-tests-cleaner-faster-better-24fa
 
+**Added 2026-10-26**
+
+### [The Stack Nobody Picks Might Be the One That Picks You](https://dev.to/dj29/the-stack-nobody-picks-might-be-the-one-that-picks-you-473c)
+- **Author:** Dhruv Jani | **Published:** Sep 1 | **Read time:** 5 min
+- **Community:** 77 reactions, 66 comments -- a top post in #csharp
+- **Tags:** discuss, csharp, devjournal, career
+- **Summary:** Nobody chooses .NET.  Not as a student, at least. You hear "backend" and the room splits into Spring...
+- **Link:** https://dev.to/dj29/the-stack-nobody-picks-might-be-the-one-that-picks-you-473c
+
 
 ## C++
 

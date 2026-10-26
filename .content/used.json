@@ -235,6 +235,7 @@
     "https://dev.to/dj29/ai-didnt-remove-the-engineering-work-it-just-made-it-easier-to-pretend-you-did-42m9",
     "https://dev.to/dj29/chain-of-thought-faithfulness-toggling-reasoning-mode-made-one-model-5x-more-likely-to-follow-39b3",
     "https://dev.to/dj29/hacktoberfest-is-coming-to-nadiad-gujarat-official-mlh-meetup-at-ddu-15-oct-1dc4",
+    "https://dev.to/dj29/the-stack-nobody-picks-might-be-the-one-that-picks-you-473c",
     "https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2",
     "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib",
     "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
@@ -1877,12 +1878,6 @@
     {
       "date": "2026-10-26",
       "subcat": "Show & Ask HN",
-      "title": "Show HN: PaperMono, e-ink fridge magnet shopping list...",
-      "url": "https://news.ycombinator.com/item?id=49875801"
-    },
-    {
-      "date": "2026-10-26",
-      "subcat": "Show & Ask HN",
       "title": "Show HN: Photoc  Command-line tools for photographers",
       "url": "https://news.ycombinator.com/item?id=49944196"
     },
@@ -1933,6 +1928,12 @@
       "subcat": "Hacker News Picks",
       "title": "Websites Should Be Printable",
       "url": "https://news.ycombinator.com/item?id=50241664"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "C#",
+      "title": "The Stack Nobody Picks Might Be the One That Picks You",
+      "url": "https://dev.to/dj29/the-stack-nobody-picks-might-be-the-one-that-picks-you-473c"
     }
   ]
 }

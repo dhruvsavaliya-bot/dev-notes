@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1321 entries and counting** · Last updated: 2026-10-26
+**1322 entries and counting** · Last updated: 2026-10-26
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 267 |
 | [Reading List](articles/reading-list.md) | 268 |
 | [Coding Tips](coding-tips/tips.md) | 268 |
-| [Language Notes](languages/notes.md) | 251 |
+| [Language Notes](languages/notes.md) | 252 |
 
 ## Latest additions
 
+- **2026-10-26** · *C#* — [The Stack Nobody Picks Might Be the One That Picks You](https://dev.to/dj29/the-stack-nobody-picks-might-be-the-one-that-picks-you-473c)
 - **2026-10-26** · *Hacker News Picks* — [Websites Should Be Printable](https://news.ycombinator.com/item?id=50241664)
 - **2026-10-26** · *Show & Ask HN* — [Tell HN: 2x PHP RCE CVEs with CVSS 10.0 Incoming](https://news.ycombinator.com/item?id=50167754)
 - **2026-10-26** · *Web & Frontend* — [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
 - **2026-10-26** · *C#* — [Rewriting My First NUnit API Tests: Cleaner, Faster...](https://dev.to/m4rri4nne/rewriting-my-first-nunit-api-tests-cleaner-faster-better-24fa)
-- **2026-10-26** · *PHP* — [Show HN: Omnara  Open-source alternative to Claude...](https://news.ycombinator.com/item?id=50183892)
 
 ## How it works
 
