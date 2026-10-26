@@ -1149,6 +1149,7 @@
     "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders",
     "https://memories.gallery/",
     "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
+    "https://minimaxir.com/2026/10/cheap-llms/",
     "https://mistral.ai/news/voxtral-3/",
     "https://musicalform.substack.com/p/what-is-gridifcation",
     "https://mynoise.net/vlog.php?ep=20260803",
@@ -1597,6 +1598,7 @@
     "https://news.ycombinator.com/item?id=50222133",
     "https://news.ycombinator.com/item?id=50225695",
     "https://news.ycombinator.com/item?id=50233929",
+    "https://news.ycombinator.com/item?id=50236102",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -1843,12 +1845,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "Models & Datasets",
-      "title": "XiaomiMiMo/MiMo-V2.6-RL-oss",
-      "url": "https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "AI & Machine Learning",
       "title": "Javis603/token-monitor",
       "url": "https://github.com/Javis603/token-monitor"
@@ -1900,6 +1896,12 @@
       "subcat": "Show & Ask HN",
       "title": "Tell HN: Bob Cringely has died",
       "url": "https://news.ycombinator.com/item?id=49949438"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Hacker News Picks",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to...",
+      "url": "https://news.ycombinator.com/item?id=50236102"
     }
   ]
 }

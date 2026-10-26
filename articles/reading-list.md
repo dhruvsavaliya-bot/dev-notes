@@ -1829,6 +1829,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50233929
 - **Link:** https://talkweb.eu/openweb/4558/
 
+**Added 2026-10-26**
+
+### [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/)
+- **Source:** minimaxir.com | **Posted:** 2026-10-25 | **By:** minimaxir
+- **Community:** 194 points, 217 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50236102
+- **Link:** https://minimaxir.com/2026/10/cheap-llms/
+
 
 ## DevOps & Cloud
 
