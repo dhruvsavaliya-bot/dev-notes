@@ -868,6 +868,7 @@
     "https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train",
     "https://huggingface.co/datasets/HuggingFaceFW/finepdfs",
     "https://huggingface.co/datasets/HumynLabs/airline-customersupport-Hinglish-audio",
+    "https://huggingface.co/datasets/LightwheelAI/EgoPro",
     "https://huggingface.co/datasets/LocalLLaMA/typed-decisions",
     "https://huggingface.co/datasets/Maxwell-Jia/AIME_2024",
     "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023",
@@ -1885,12 +1886,6 @@
   "recent": [
     {
       "date": "2026-10-26",
-      "subcat": "Web & Frontend",
-      "title": "tangency-labs/solidcraft",
-      "url": "https://github.com/tangency-labs/solidcraft"
-    },
-    {
-      "date": "2026-10-26",
       "subcat": "Show & Ask HN",
       "title": "Tell HN: 2x PHP RCE CVEs with CVSS 10.0 Incoming",
       "url": "https://news.ycombinator.com/item?id=50167754"
@@ -1942,6 +1937,12 @@
       "subcat": "AI & Machine Learning",
       "title": "GMGNAI/gmgn-skills",
       "url": "https://github.com/GMGNAI/gmgn-skills"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "Models & Datasets",
+      "title": "LightwheelAI/EgoPro",
+      "url": "https://huggingface.co/datasets/LightwheelAI/EgoPro"
     }
   ]
 }

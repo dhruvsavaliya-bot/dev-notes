@@ -1815,6 +1815,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/Sharpa-Robotics/SharpaDex-v1.0
 
+**Added 2026-10-27**
+
+### [LightwheelAI/EgoPro](https://huggingface.co/datasets/LightwheelAI/EgoPro)
+- **Stats:** 343 likes | 877 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-08-07
+- **Tags:** video, egocentric-video, embodied-ai, human-demonstration, human-pose, hand-pose
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/LightwheelAI/EgoPro
+
 
 ## Research Papers
 
