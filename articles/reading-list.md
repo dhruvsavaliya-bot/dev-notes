@@ -2450,6 +2450,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/dsbt5a/branches_branch_free_code
 - **Link:** https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/
 
+**Added 2026-10-26**
+
+### [Simple NetBSD webserver](https://bsandro.tech/posts/simple-netbsd-webserver/)
+- **Source:** bsandro.tech | **Posted:** 2026-10-25 | **By:** bsandro
+- **Community:** 31 score, 6 comments on Lobsters
+- **Tags:** netbsd
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/hzrmwz/simple_netbsd_webserver
+- **Link:** https://bsandro.tech/posts/simple-netbsd-webserver/
+
 
 ## Performance
 

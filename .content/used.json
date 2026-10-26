@@ -164,6 +164,7 @@
     "https://borretti.me/article/no-man-is-an-island",
     "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
     "https://breezepdf.com",
+    "https://bsandro.tech/posts/simple-netbsd-webserver/",
     "https://buf.build/blog/protobuf-lsp",
     "https://bugs.chromium.org/p/chromium/issues/detail?id=896897&desc=2#c23",
     "https://bun.com/blog/bun-v1.4",
@@ -1065,6 +1066,7 @@
     "https://lobste.rs/s/hccdqa/shipping_jpeg_xl_chrome",
     "https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not",
     "https://lobste.rs/s/hplfis/examining_macos_gcc_binary",
+    "https://lobste.rs/s/hzrmwz/simple_netbsd_webserver",
     "https://lobste.rs/s/iii8sl/micro_language_implementation_calcium",
     "https://lobste.rs/s/ily7as/programming_isn_t_special",
     "https://lobste.rs/s/imdwmj/pandas_should_go_extinct",
@@ -1864,12 +1866,6 @@
   "recent": [
     {
       "date": "2026-10-26",
-      "subcat": "Hacker News Picks",
-      "title": "An ad-free Android TV",
-      "url": "https://news.ycombinator.com/item?id=50158942"
-    },
-    {
-      "date": "2026-10-26",
       "subcat": "TypeScript",
       "title": "internet-court/internet-court-skill",
       "url": "https://github.com/internet-court/internet-court-skill"
@@ -1921,6 +1917,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Photoc  Command-line tools for photographers",
       "url": "https://news.ycombinator.com/item?id=49944196"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Lobsters Picks",
+      "title": "Simple NetBSD webserver",
+      "url": "https://lobste.rs/s/hzrmwz/simple_netbsd_webserver"
     }
   ]
 }
