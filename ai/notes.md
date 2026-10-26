@@ -1806,6 +1806,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/drowzeys/keys-DeepSeek-V4.1-Flash-1017-Abliterated
 
+**Added 2026-10-27**
+
+### [Sharpa-Robotics/SharpaDex-v1.0](https://huggingface.co/datasets/Sharpa-Robotics/SharpaDex-v1.0)
+- **Stats:** 52 likes | 116,351 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-09-28
+- **Tags:** robotics, lerobot, imitation-learning, visuomotor-learning, tactile-sensing, dexterous-manipulation
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/Sharpa-Robotics/SharpaDex-v1.0
+
 
 ## Research Papers
 
