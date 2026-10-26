@@ -1769,6 +1769,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50070625
 - **Link:** https://blog.dfb.sh/blog/eap770-root-for-two-zeros/
 
+**Added 2026-10-26**
+
+### [Creusot 0.14.0 release - Contracts for Rust, formally proved](https://devlog.creusot.rs/v0-14-0/)
+- **Source:** devlog.creusot.rs | **Posted:** 2026-10-13 | **By:** lyxia
+- **Community:** 23 score, 6 comments on Lobsters
+- **Tags:** formalmethods, release, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/6tbd2o/creusot_0_14_0_release_contracts_for_rust
+- **Link:** https://devlog.creusot.rs/v0-14-0/
+
 
 ## Elixir
 
