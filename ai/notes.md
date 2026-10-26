@@ -456,6 +456,15 @@ Lessons from building with LLMs.
 - **Summary:** I've had this conversation more times than I'd like to admit.  I raise a technical question in a...
 - **Link:** https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn
 
+**Added 2026-10-26**
+
+### [The Gatekeeping Panic: What AI Actually Threatens in Software Development](https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l)
+- **Author:** Daniel Nwaneri | **Published:** Feb 15 | **Read time:** 4 min
+- **Community:** 112 reactions, 118 comments -- a top post in #ai
+- **Tags:** ai, career, productivity, codenewbie
+- **Summary:** "If you use AI, you're not a real developer."  Same energy as every gatekeeping panic before it:...
+- **Link:** https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l
+
 
 ## LLMs
 
