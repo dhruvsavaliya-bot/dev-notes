@@ -1214,6 +1214,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/49-Agents/49-IDE
 
+**Added 2026-10-27**
+
+### [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
+- **Stats:** 10,329 stars | 7,681 forks | 22 open issues
+- **Language:** Rust | **Created:** 2026-03-31 | **License:** GPL-3.0
+- **Topics:** claude, claude-code, claurst, cli, codex, gemini
+- **What it is:** Agentic Coding for Builders who Ship
+- **Growth:** averaging ~49 stars/day since launch.
+- **Link:** https://github.com/Kuberwastaken/claurst
+
 
 ## Other Cool Projects
 

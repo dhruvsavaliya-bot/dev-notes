@@ -460,6 +460,7 @@
     "https://github.com/KKKKhazix/human-writing",
     "https://github.com/KittenML/KittenTTS",
     "https://github.com/Krishnagangwal/CS-Fundamentals",
+    "https://github.com/Kuberwastaken/claurst",
     "https://github.com/Kuddev/pebrel",
     "https://github.com/LAMDA-NeSy/Research-Starter-Kit",
     "https://github.com/LaoFeng-mouse/flyingmouse-format",
@@ -1892,12 +1893,6 @@
   "recent": [
     {
       "date": "2026-10-26",
-      "subcat": "Show & Ask HN",
-      "title": "Median product \"lifespan\" has fallen from ~4y down to...",
-      "url": "https://news.ycombinator.com/item?id=50204125"
-    },
-    {
-      "date": "2026-10-26",
       "subcat": "Hacker News Picks",
       "title": "Anthropic S-1",
       "url": "https://news.ycombinator.com/item?id=50242939"
@@ -1949,6 +1944,12 @@
       "subcat": "Hacker News Picks",
       "title": "DeepInfer: High-performance inference framework for...",
       "url": "https://news.ycombinator.com/item?id=50163277"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "AI & Machine Learning",
+      "title": "Kuberwastaken/claurst",
+      "url": "https://github.com/Kuberwastaken/claurst"
     }
   ]
 }
