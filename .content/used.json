@@ -441,6 +441,7 @@
     "https://github.com/Fervent-Tempo/AF-Media-Bar",
     "https://github.com/FlashML-org/FreeVideo",
     "https://github.com/Flow-Tube/Flow",
+    "https://github.com/GMGNAI/gmgn-skills",
     "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
     "https://github.com/HKUDS/CLI-Anything",
     "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
@@ -1884,12 +1885,6 @@
   "recent": [
     {
       "date": "2026-10-26",
-      "subcat": "C#",
-      "title": "Rewriting My First NUnit API Tests: Cleaner, Faster...",
-      "url": "https://dev.to/m4rri4nne/rewriting-my-first-nunit-api-tests-cleaner-faster-better-24fa"
-    },
-    {
-      "date": "2026-10-26",
       "subcat": "Web & Frontend",
       "title": "tangency-labs/solidcraft",
       "url": "https://github.com/tangency-labs/solidcraft"
@@ -1941,6 +1936,12 @@
       "subcat": "Models & Datasets",
       "title": "Sharpa-Robotics/SharpaDex-v1.0",
       "url": "https://huggingface.co/datasets/Sharpa-Robotics/SharpaDex-v1.0"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "AI & Machine Learning",
+      "title": "GMGNAI/gmgn-skills",
+      "url": "https://github.com/GMGNAI/gmgn-skills"
     }
   ]
 }

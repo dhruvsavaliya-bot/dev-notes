@@ -1194,6 +1194,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1,162 stars/day since launch.
 - **Link:** https://github.com/wheresryan22/anatomy
 
+**Added 2026-10-27**
+
+### [GMGNAI/gmgn-skills](https://github.com/GMGNAI/gmgn-skills)
+- **Stats:** 628 stars | 109 forks | 42 open issues
+- **Language:** Python | **Created:** 2026-03-12 | **License:** MIT
+- **Topics:** ai-agents, api, cli-tool, crypto, gmgn, memecoin
+- **What it is:** GMGN OpenAPI skills for AI Agent — query tokens, wallets, and market data, and execute on-chain trades across Solana, BSC, and Base.
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/GMGNAI/gmgn-skills
+
 
 ## Other Cool Projects
 
