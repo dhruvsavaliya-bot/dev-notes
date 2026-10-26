@@ -2478,3 +2478,13 @@ Lessons from building with LLMs.
 - **Abstract:** The construction of fault-tolerant atomic registers is a fundamental problem in distributed computing. GPUs, widely used in scientific computing and machine learning, face Byzantine thread behaviour, while their shared memory lacks access control, allowing any thread to modify shared objects. This raises the question of whether atomic register semantics can be maintained when any thread, including the designated writer, may behave Byzantine. We study this problem in the GPU-inspired shared-memor...
 - **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.14543v1
+
+**Added 2026-10-26**
+
+### [Clean-label Poisoning Attack and Defense Game for Federated Learning in Vehicular Networks](http://arxiv.org/abs/2610.32765v1)
+- **Authors:** Yalin E. Sagduyu, Tugba Erpek, Nathan Stephenson, Mengran Xue
+- **Published:** 2026-10-23 | **Primary category:** cs.AI
+- **Categories:** cs.NI, cs.AI, cs.DC, cs.LG, eess.SP
+- **Abstract:** This paper studies interactions between clean-label poisoning attack and defense in vehicular networks using federated learning (FL). Basic Safety Message (BSM) classification for anomaly detection is modeled as a distributed learning problem over a vehicular network with dynamic topology. As a critical threat to FL, a feature-space clean-label attack is introduced, wherein benign samples are perturbed toward malicious feature extremes, degrading class separability while preserving labels. To co...
+- **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.32765v1

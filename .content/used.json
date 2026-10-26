@@ -73,6 +73,7 @@
     "http://arxiv.org/abs/2610.29409v1",
     "http://arxiv.org/abs/2610.29518v1",
     "http://arxiv.org/abs/2610.30090v1",
+    "http://arxiv.org/abs/2610.32765v1",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
     "http://boglin.iwarp.com/",
     "http://bokeh.pydata.org/en/latest/",
@@ -1868,12 +1869,6 @@
   "recent": [
     {
       "date": "2026-10-26",
-      "subcat": "Other Cool Projects",
-      "title": "YanamiNeko/NekoSportsWorldTool",
-      "url": "https://github.com/YanamiNeko/NekoSportsWorldTool"
-    },
-    {
-      "date": "2026-10-26",
       "subcat": "Lobsters Picks",
       "title": "Partial Order Precedence",
       "url": "https://lobste.rs/s/kiivg2/partial_order_precedence"
@@ -1925,6 +1920,12 @@
       "subcat": "Rust",
       "title": "I built a garbage collector for Rust (2023)",
       "url": "https://lobste.rs/s/ju4q1u/i_built_garbage_collector_for_rust_2023"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Research Papers",
+      "title": "Clean-label Poisoning Attack and Defense Game for...",
+      "url": "http://arxiv.org/abs/2610.32765v1"
     }
   ]
 }
