@@ -2421,6 +2421,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/rlrfew/balloting_has_completed_for_c_26
 - **Link:** https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL
 
+**Added 2026-10-26**
+
+### [Partial Order Precedence](https://ziglang.org/devlog/2026/#2026-10-24)
+- **Source:** ziglang.org | **Posted:** 2026-10-25 | **By:** liberty
+- **Community:** 44 score, 14 comments on Lobsters
+- **Tags:** zig
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/kiivg2/partial_order_precedence
+- **Link:** https://ziglang.org/devlog/2026/#2026-10-24
+
 
 ## Career & Craft
 

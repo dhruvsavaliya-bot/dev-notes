@@ -1072,6 +1072,7 @@
     "https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think",
     "https://lobste.rs/s/k5omum/brain_sandwich",
     "https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision",
+    "https://lobste.rs/s/kiivg2/partial_order_precedence",
     "https://lobste.rs/s/lcldxn/rustc_codegen_jvm_rust_compiler_backend",
     "https://lobste.rs/s/lfen2h/living_weimar_era_ruby",
     "https://lobste.rs/s/lfusbg/atom_exhaustion_is_not_footgun_it_s_one",
@@ -1847,16 +1848,11 @@
     "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
     "https://z.ai/blog/glm-5.3",
     "https://ziglang.org/devlog/2026/#2026-08-27",
+    "https://ziglang.org/devlog/2026/#2026-10-24",
     "https://zoey-on-github.github.io/blog/macgcc.html",
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-10-26",
-      "subcat": "Hacker News Picks",
-      "title": "I refuse to accept a censored Internet. Join Me at...",
-      "url": "https://news.ycombinator.com/item?id=50233929"
-    },
     {
       "date": "2026-10-26",
       "subcat": "Other Cool Projects",
@@ -1910,6 +1906,12 @@
       "subcat": "Other Cool Projects",
       "title": "YanamiNeko/NekoSportsWorldTool",
       "url": "https://github.com/YanamiNeko/NekoSportsWorldTool"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Lobsters Picks",
+      "title": "Partial Order Precedence",
+      "url": "https://lobste.rs/s/kiivg2/partial_order_precedence"
     }
   ]
 }
