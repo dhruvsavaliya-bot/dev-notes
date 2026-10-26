@@ -1594,6 +1594,7 @@
     "https://news.ycombinator.com/item?id=50212065",
     "https://news.ycombinator.com/item?id=50222133",
     "https://news.ycombinator.com/item?id=50225695",
+    "https://news.ycombinator.com/item?id=50233929",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -1692,6 +1693,7 @@
     "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
     "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
     "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+    "https://talkweb.eu/openweb/4558/",
     "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
     "https://technicalwriting.dev/blog/2026/10/polyglot/index.html",
     "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
@@ -1839,12 +1841,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "Hacker News Picks",
-      "title": "FreeDNS",
-      "url": "https://news.ycombinator.com/item?id=50222133"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "JavaScript",
       "title": "browser-use/browser-use-pi",
       "url": "https://github.com/browser-use/browser-use-pi"
@@ -1896,6 +1892,12 @@
       "subcat": "JavaScript",
       "title": "Node.js  Wednesday, October 21, 2026 Security Releases",
       "url": "https://lobste.rs/s/gu7bow/node_js_wednesday_october_21_2026"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Hacker News Picks",
+      "title": "I refuse to accept a censored Internet. Join Me at...",
+      "url": "https://news.ycombinator.com/item?id=50233929"
     }
   ]
 }

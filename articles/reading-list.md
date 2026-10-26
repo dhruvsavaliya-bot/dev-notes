@@ -1820,6 +1820,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50212065
 - **Link:** https://www.kimi.ai/blog/kimi-k3-1-pro
 
+**Added 2026-10-26**
+
+### [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)
+- **Source:** talkweb.eu | **Posted:** 2026-10-25 | **By:** Tomte
+- **Community:** 419 points, 207 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50233929
+- **Link:** https://talkweb.eu/openweb/4558/
+
 
 ## DevOps & Cloud
 
