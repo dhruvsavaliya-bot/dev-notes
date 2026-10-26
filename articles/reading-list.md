@@ -1838,6 +1838,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50236102
 - **Link:** https://minimaxir.com/2026/10/cheap-llms/
 
+**Added 2026-10-26**
+
+### [An ad-free Android TV](https://cretezy.com/2026/ad-free-android-tv)
+- **Source:** cretezy.com | **Posted:** 2026-10-19 | **By:** CraftThatBlock
+- **Community:** 443 points, 198 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50158942
+- **Link:** https://cretezy.com/2026/ad-free-android-tv
+
 
 ## DevOps & Cloud
 

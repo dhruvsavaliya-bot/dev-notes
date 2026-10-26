@@ -185,6 +185,7 @@
     "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
     "https://committing-crimes.com/articles/2026-08-04-java-nameof",
     "https://comonad.com/reader/2026/turbo-haskell/",
+    "https://cretezy.com/2026/ad-free-android-tv",
     "https://csixty4.medium.com/pick-is-a-living-fossil-of-computer-history-36d74408d557",
     "https://cursor.com/blog/agent-swarm-model-economics",
     "https://danluu.com/ambitious/",
@@ -1580,6 +1581,7 @@
     "https://news.ycombinator.com/item?id=50152541",
     "https://news.ycombinator.com/item?id=50154518",
     "https://news.ycombinator.com/item?id=50154540",
+    "https://news.ycombinator.com/item?id=50158942",
     "https://news.ycombinator.com/item?id=50160494",
     "https://news.ycombinator.com/item?id=50160877",
     "https://news.ycombinator.com/item?id=50161408",
@@ -1849,12 +1851,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "AI & Machine Learning",
-      "title": "ashhart/TensorFold",
-      "url": "https://github.com/ashhart/TensorFold"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "Models & Datasets",
       "title": "meta-models/Muse-Glimmer-30B",
       "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B"
@@ -1906,6 +1902,12 @@
       "subcat": "Models & Datasets",
       "title": "drowzeys/keys-DeepSeek-V4.1-Flash-1017-Abliterated",
       "url": "https://huggingface.co/drowzeys/keys-DeepSeek-V4.1-Flash-1017-Abliterated"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Hacker News Picks",
+      "title": "An ad-free Android TV",
+      "url": "https://news.ycombinator.com/item?id=50158942"
     }
   ]
 }
