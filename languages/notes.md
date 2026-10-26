@@ -1818,6 +1818,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/ju4q1u/i_built_garbage_collector_for_rust_2023
 - **Link:** https://claytonwramsey.com/blog/dumpster/
 
+**Added 2026-10-27**
+
+### [The Missing Piece in Rust Error Handling](https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/)
+- **Source:** mcmah309.github.io | **Posted:** 2026-10-08 | **By:** snej
+- **Community:** 79 score, 24 comments on Lobsters
+- **Tags:** rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/3vfu09/missing_piece_rust_error_handling
+- **Link:** https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/
+
 
 ## Elixir
 
