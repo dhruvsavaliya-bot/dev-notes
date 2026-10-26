@@ -1139,6 +1139,7 @@
     "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
     "https://marc.info/?l=openbsd-ports&m=179236125692175",
     "https://marimo.io/blog/pycharm",
+    "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
     "https://martypc.net/",
     "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
     "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders",
@@ -1577,6 +1578,7 @@
     "https://news.ycombinator.com/item?id=50168396",
     "https://news.ycombinator.com/item?id=50174687",
     "https://news.ycombinator.com/item?id=50175070",
+    "https://news.ycombinator.com/item?id=50176544",
     "https://news.ycombinator.com/item?id=50177911",
     "https://news.ycombinator.com/item?id=50180079",
     "https://news.ycombinator.com/item?id=50180873",
@@ -1832,12 +1834,6 @@
   "recent": [
     {
       "date": "2026-10-26",
-      "subcat": "Swift",
-      "title": "I switched to Brave",
-      "url": "https://news.ycombinator.com/item?id=49878759"
-    },
-    {
-      "date": "2026-10-26",
       "subcat": "DevOps & Cloud",
       "title": "I Fixed The Bug. Then My Pipeline Refused to Run.",
       "url": "https://dev.to/maame-codes/i-fixed-the-bug-then-my-pipeline-refused-to-run-4c7i"
@@ -1889,6 +1885,12 @@
       "subcat": "Web & Frontend",
       "title": "peach-mitao/peach",
       "url": "https://github.com/peach-mitao/peach"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "C#",
+      "title": "C vs. C#: racing VLC's Gaussian blur",
+      "url": "https://news.ycombinator.com/item?id=50176544"
     }
   ]
 }

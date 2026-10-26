@@ -1944,6 +1944,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~8 stars/day since launch.
 - **Link:** https://github.com/BlackLabelHQ/SymphonyRecomp
 
+**Added 2026-10-26**
+
+### [C vs. C#: racing VLC's Gaussian blur](https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/)
+- **Source:** martinfinkel.com | **Posted:** 2026-10-21 | **By:** martz
+- **Community:** 132 points, 50 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50176544
+- **Link:** https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/
+
 
 ## C++
 
