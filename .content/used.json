@@ -594,6 +594,7 @@
     "https://github.com/dataelement/dsh-desktop",
     "https://github.com/davidondrej/skills",
     "https://github.com/deeplethe/utopia",
+    "https://github.com/deepseek-ai/DeepInfer",
     "https://github.com/deepseek-ai/DeepSpec",
     "https://github.com/deepseek-ai/deepseek-harness",
     "https://github.com/denoland/celld",
@@ -1615,6 +1616,7 @@
     "https://news.ycombinator.com/item?id=50160494",
     "https://news.ycombinator.com/item?id=50160877",
     "https://news.ycombinator.com/item?id=50161408",
+    "https://news.ycombinator.com/item?id=50163277",
     "https://news.ycombinator.com/item?id=50165208",
     "https://news.ycombinator.com/item?id=50165953",
     "https://news.ycombinator.com/item?id=50166257",
@@ -1890,12 +1892,6 @@
   "recent": [
     {
       "date": "2026-10-26",
-      "subcat": "AI & Machine Learning",
-      "title": "wheresryan22/anatomy",
-      "url": "https://github.com/wheresryan22/anatomy"
-    },
-    {
-      "date": "2026-10-26",
       "subcat": "Show & Ask HN",
       "title": "Median product \"lifespan\" has fallen from ~4y down to...",
       "url": "https://news.ycombinator.com/item?id=50204125"
@@ -1947,6 +1943,12 @@
       "subcat": "Models & Datasets",
       "title": "nisten/opus5-5-doctor-patient-conversations-all-human-d...",
       "url": "https://huggingface.co/datasets/nisten/opus5-5-doctor-patient-conversations-all-human-diseases"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "Hacker News Picks",
+      "title": "DeepInfer: High-performance inference framework for...",
+      "url": "https://news.ycombinator.com/item?id=50163277"
     }
   ]
 }

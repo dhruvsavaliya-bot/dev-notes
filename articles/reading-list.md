@@ -1883,6 +1883,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49987076
 - **Link:** https://strandsagents.com/blog/introducing-strands-decider/
 
+**Added 2026-10-27**
+
+### [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer)
+- **Source:** github.com | **Posted:** 2026-10-20 | **By:** ggcr
+- **Community:** 2351 points, 892 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50163277
+- **Link:** https://github.com/deepseek-ai/DeepInfer
+
 
 ## DevOps & Cloud
 
