@@ -410,6 +410,7 @@
     "https://github.com/0xShug0/audio.cpp",
     "https://github.com/0xnyn/airship",
     "https://github.com/1812z/HyperIsland",
+    "https://github.com/49-Agents/49-IDE",
     "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
     "https://github.com/Albert-Weasker/niubigeo",
     "https://github.com/AlephAITech/WorkBuddyGuide",
@@ -1888,12 +1889,6 @@
   "recent": [
     {
       "date": "2026-10-26",
-      "subcat": "Hacker News Picks",
-      "title": "Websites Should Be Printable",
-      "url": "https://news.ycombinator.com/item?id=50241664"
-    },
-    {
-      "date": "2026-10-26",
       "subcat": "C#",
       "title": "The Stack Nobody Picks Might Be the One That Picks You",
       "url": "https://dev.to/dj29/the-stack-nobody-picks-might-be-the-one-that-picks-you-473c"
@@ -1945,6 +1940,12 @@
       "subcat": "Hacker News Picks",
       "title": "Strands Decider 2B: a small, open-source, decision...",
       "url": "https://news.ycombinator.com/item?id=49987076"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "AI & Machine Learning",
+      "title": "49-Agents/49-IDE",
+      "url": "https://github.com/49-Agents/49-IDE"
     }
   ]
 }

@@ -1204,6 +1204,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/GMGNAI/gmgn-skills
 
+**Added 2026-10-27**
+
+### [49-Agents/49-IDE](https://github.com/49-Agents/49-IDE)
+- **Stats:** 619 stars | 65 forks | 16 open issues
+- **Language:** JavaScript | **Created:** 2026-02-27 | **License:** NOASSERTION
+- **Topics:** claude-code, cli, codex, ide, terminal-based, vibecoding
+- **What it is:** Open-source 2D IDE for managing AI agents in native CLIs, terminal, gits, beads issues, and files across multiple projects and machines. Self-host on a single machine via localhost OR host on a cluster via Tailscale OR connect to app.49agents.com (coming soon)
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/49-Agents/49-IDE
+
 
 ## Other Cool Projects
 
