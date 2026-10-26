@@ -771,6 +771,7 @@
     "https://github.com/wang2122/sprix-sage-router",
     "https://github.com/wangzhishou/OneBox",
     "https://github.com/web-platform-tests/wpt",
+    "https://github.com/wheresryan22/anatomy",
     "https://github.com/wide-trace/open-higgsfield",
     "https://github.com/wie-project/kakehashi",
     "https://github.com/wild-linker/wild",
@@ -1877,12 +1878,6 @@
   "recent": [
     {
       "date": "2026-10-26",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Photoc  Command-line tools for photographers",
-      "url": "https://news.ycombinator.com/item?id=49944196"
-    },
-    {
-      "date": "2026-10-26",
       "subcat": "Lobsters Picks",
       "title": "Simple NetBSD webserver",
       "url": "https://lobste.rs/s/hzrmwz/simple_netbsd_webserver"
@@ -1934,6 +1929,12 @@
       "subcat": "C#",
       "title": "The Stack Nobody Picks Might Be the One That Picks You",
       "url": "https://dev.to/dj29/the-stack-nobody-picks-might-be-the-one-that-picks-you-473c"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "AI & Machine Learning",
+      "title": "wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy"
     }
   ]
 }

@@ -1184,6 +1184,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~43 stars/day since launch.
 - **Link:** https://github.com/loopx-project/loopx
 
+**Added 2026-10-26**
+
+### [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)
+- **Stats:** 20,923 stars | 1,676 forks | 67 open issues
+- **Language:** JavaScript | **Created:** 2026-10-08 | **License:** MIT
+- **Topics:** agent-skill, open-source, svg, vizualization
+- **What it is:** An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
+- **Growth:** averaging ~1,162 stars/day since launch.
+- **Link:** https://github.com/wheresryan22/anatomy
+
 
 ## Other Cool Projects
 

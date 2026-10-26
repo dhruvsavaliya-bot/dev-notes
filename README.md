@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1322 entries and counting** · Last updated: 2026-10-26
+**1323 entries and counting** · Last updated: 2026-10-26
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 267 |
+| [Trending Projects](trending-projects/projects.md) | 268 |
 | [AI / LLM Notes](ai/notes.md) | 267 |
 | [Reading List](articles/reading-list.md) | 268 |
 | [Coding Tips](coding-tips/tips.md) | 268 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-26** · *AI & Machine Learning* — [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)
 - **2026-10-26** · *C#* — [The Stack Nobody Picks Might Be the One That Picks You](https://dev.to/dj29/the-stack-nobody-picks-might-be-the-one-that-picks-you-473c)
 - **2026-10-26** · *Hacker News Picks* — [Websites Should Be Printable](https://news.ycombinator.com/item?id=50241664)
 - **2026-10-26** · *Show & Ask HN* — [Tell HN: 2x PHP RCE CVEs with CVSS 10.0 Incoming](https://news.ycombinator.com/item?id=50167754)
 - **2026-10-26** · *Web & Frontend* — [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-- **2026-10-26** · *C#* — [Rewriting My First NUnit API Tests: Cleaner, Faster...](https://dev.to/m4rri4nne/rewriting-my-first-nunit-api-tests-cleaner-faster-better-24fa)
 
 ## How it works
 
