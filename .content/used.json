@@ -871,6 +871,7 @@
     "https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train",
     "https://huggingface.co/datasets/HuggingFaceFW/finepdfs",
     "https://huggingface.co/datasets/HumynLabs/airline-customersupport-Hinglish-audio",
+    "https://huggingface.co/datasets/LightwheelAI/EgoDemo",
     "https://huggingface.co/datasets/LightwheelAI/EgoPro",
     "https://huggingface.co/datasets/LocalLLaMA/typed-decisions",
     "https://huggingface.co/datasets/Maxwell-Jia/AIME_2024",
@@ -1892,12 +1893,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-26",
-      "subcat": "Hacker News Picks",
-      "title": "Anthropic S-1",
-      "url": "https://news.ycombinator.com/item?id=50242939"
-    },
-    {
       "date": "2026-10-27",
       "subcat": "Rust",
       "title": "The Missing Piece in Rust Error Handling",
@@ -1950,6 +1945,12 @@
       "subcat": "AI & Machine Learning",
       "title": "Kuberwastaken/claurst",
       "url": "https://github.com/Kuberwastaken/claurst"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "Models & Datasets",
+      "title": "LightwheelAI/EgoDemo",
+      "url": "https://huggingface.co/datasets/LightwheelAI/EgoDemo"
     }
   ]
 }

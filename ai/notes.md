@@ -1833,6 +1833,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/nisten/opus5-5-doctor-patient-conversations-all-human-diseases
 
+**Added 2026-10-27**
+
+### [LightwheelAI/EgoDemo](https://huggingface.co/datasets/LightwheelAI/EgoDemo)
+- **Stats:** 338 likes | 28,238 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-08-07
+- **Tags:** video, egocentric-video, embodied-ai, human-demonstration, public-demo, provenance
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/LightwheelAI/EgoDemo
+
 
 ## Research Papers
 
