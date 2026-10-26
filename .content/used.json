@@ -288,6 +288,7 @@
     "https://dev.to/lovestaco/cheap-rag-in-go-with-gemini-file-search-no-vector-db-two-calls-one-hosted-store-4kb5",
     "https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d",
     "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
+    "https://dev.to/m4rri4nne/rewriting-my-first-nunit-api-tests-cleaner-faster-better-24fa",
     "https://dev.to/maame-codes/devops-from-scratch-a-students-diary-entry-00-5b71",
     "https://dev.to/maame-codes/i-fixed-the-bug-then-my-pipeline-refused-to-run-4c7i",
     "https://dev.to/malusev998/why-i-built-an-ssh-config-and-tunnel-manager-for-macos-58n8",
@@ -1871,12 +1872,6 @@
   "recent": [
     {
       "date": "2026-10-26",
-      "subcat": "AI & Machine Learning",
-      "title": "loopx-project/loopx",
-      "url": "https://github.com/loopx-project/loopx"
-    },
-    {
-      "date": "2026-10-26",
       "subcat": "Hacker News Picks",
       "title": "Dolly Parton's Imagination Library",
       "url": "https://news.ycombinator.com/item?id=50234474"
@@ -1928,6 +1923,12 @@
       "subcat": "PHP",
       "title": "Show HN: Omnara  Open-source alternative to Claude...",
       "url": "https://news.ycombinator.com/item?id=50183892"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "C#",
+      "title": "Rewriting My First NUnit API Tests: Cleaner, Faster...",
+      "url": "https://dev.to/m4rri4nne/rewriting-my-first-nunit-api-tests-cleaner-faster-better-24fa"
     }
   ]
 }

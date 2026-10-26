@@ -2011,6 +2011,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50176544
 - **Link:** https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/
 
+**Added 2026-10-26**
+
+### [Rewriting My First NUnit API Tests: Cleaner, Faster, Better](https://dev.to/m4rri4nne/rewriting-my-first-nunit-api-tests-cleaner-faster-better-24fa)
+- **Author:** Alicia Marianne Gonçalves | **Published:** Jan 26 | **Read time:** 8 min
+- **Community:** 60 reactions, 10 comments -- a top post in #csharp
+- **Tags:** api, csharp, automation, testing
+- **Summary:** Have you ever caught yourself thinking: “What am I even doing?” Well, that’s exactly how I feel right...
+- **Link:** https://dev.to/m4rri4nne/rewriting-my-first-nunit-api-tests-cleaner-faster-better-24fa
+
 
 ## C++
 
