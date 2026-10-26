@@ -1874,6 +1874,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50242939
 - **Link:** https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm
 
+**Added 2026-10-27**
+
+### [Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/)
+- **Source:** strandsagents.com | **Posted:** 2026-10-07 | **By:** gmays
+- **Community:** 286 points, 76 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49987076
+- **Link:** https://strandsagents.com/blog/introducing-strands-decider/
+
 
 ## DevOps & Cloud
 

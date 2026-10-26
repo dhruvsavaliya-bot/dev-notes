@@ -1569,6 +1569,7 @@
     "https://news.ycombinator.com/item?id=49978595",
     "https://news.ycombinator.com/item?id=49982498",
     "https://news.ycombinator.com/item?id=49985548",
+    "https://news.ycombinator.com/item?id=49987076",
     "https://news.ycombinator.com/item?id=49987765",
     "https://news.ycombinator.com/item?id=49995495",
     "https://news.ycombinator.com/item?id=49998992",
@@ -1729,6 +1730,7 @@
     "https://stackoverflow.com/questions/50966676/why-do-arm-chips-have-an-instruction-with-javascript-in-the-name-fjcvtzs",
     "https://stitcher.io/blog/new-in-php-85",
     "https://stitcher.io/blog/php-in-2021",
+    "https://strandsagents.com/blog/introducing-strands-decider/",
     "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
     "https://stripeacross.com/posts/poisson-disk-sampling/",
     "https://sujithjay.com/inventing-work",
@@ -1886,12 +1888,6 @@
   "recent": [
     {
       "date": "2026-10-26",
-      "subcat": "Show & Ask HN",
-      "title": "Tell HN: 2x PHP RCE CVEs with CVSS 10.0 Incoming",
-      "url": "https://news.ycombinator.com/item?id=50167754"
-    },
-    {
-      "date": "2026-10-26",
       "subcat": "Hacker News Picks",
       "title": "Websites Should Be Printable",
       "url": "https://news.ycombinator.com/item?id=50241664"
@@ -1943,6 +1939,12 @@
       "subcat": "Models & Datasets",
       "title": "LightwheelAI/EgoPro",
       "url": "https://huggingface.co/datasets/LightwheelAI/EgoPro"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "Hacker News Picks",
+      "title": "Strands Decider 2B: a small, open-source, decision...",
+      "url": "https://news.ycombinator.com/item?id=49987076"
     }
   ]
 }
