@@ -925,6 +925,7 @@
     "https://huggingface.co/openbmb/MiniCPM5-2B",
     "https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0",
     "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+    "https://huggingface.co/orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
     "https://huggingface.co/ornith-ai/Ornith-1.0-35B",
     "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-NVFP4",
     "https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF",
@@ -1834,12 +1835,6 @@
   "recent": [
     {
       "date": "2026-10-26",
-      "subcat": "DevOps & Cloud",
-      "title": "I Fixed The Bug. Then My Pipeline Refused to Run.",
-      "url": "https://dev.to/maame-codes/i-fixed-the-bug-then-my-pipeline-refused-to-run-4c7i"
-    },
-    {
-      "date": "2026-10-26",
       "subcat": "JavaScript",
       "title": "mmparko/dsh-purge",
       "url": "https://github.com/mmparko/dsh-purge"
@@ -1891,6 +1886,12 @@
       "subcat": "C#",
       "title": "C vs. C#: racing VLC's Gaussian blur",
       "url": "https://news.ycombinator.com/item?id=50176544"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Models & Datasets",
+      "title": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
+      "url": "https://huggingface.co/orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF"
     }
   ]
 }

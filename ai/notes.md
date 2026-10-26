@@ -1779,6 +1779,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x
 
+**Added 2026-10-26**
+
+### [orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF](https://huggingface.co/orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF)
+- **Stats:** 1,121 likes | 1,016,935 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-08-26
+- **Tags:** gguf, abliterated, uncensored, qwen, qwen3.8, qwen4
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF
+
 
 ## Research Papers
 
