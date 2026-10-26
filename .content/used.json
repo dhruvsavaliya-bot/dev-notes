@@ -909,6 +909,7 @@
     "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
     "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
     "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
+    "https://huggingface.co/drowzeys/keys-DeepSeek-V4.1-Flash-1017-Abliterated",
     "https://huggingface.co/google/siglip-base-patch16-224",
     "https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
     "https://huggingface.co/inclusionAI/Ming-3.0-audio-flash",
@@ -1848,12 +1849,6 @@
   "recent": [
     {
       "date": "2026-10-25",
-      "subcat": "Hacker News Picks",
-      "title": "We should be more ambitious with the software we build",
-      "url": "https://news.ycombinator.com/item?id=50225695"
-    },
-    {
-      "date": "2026-10-25",
       "subcat": "AI & Machine Learning",
       "title": "ashhart/TensorFold",
       "url": "https://github.com/ashhart/TensorFold"
@@ -1905,6 +1900,12 @@
       "subcat": "Rust",
       "title": "Axolotl-Launcher/Axolotl",
       "url": "https://github.com/Axolotl-Launcher/Axolotl"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Models & Datasets",
+      "title": "drowzeys/keys-DeepSeek-V4.1-Flash-1017-Abliterated",
+      "url": "https://huggingface.co/drowzeys/keys-DeepSeek-V4.1-Flash-1017-Abliterated"
     }
   ]
 }

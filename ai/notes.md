@@ -1788,6 +1788,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF
 
+**Added 2026-10-26**
+
+### [drowzeys/keys-DeepSeek-V4.1-Flash-1017-Abliterated](https://huggingface.co/drowzeys/keys-DeepSeek-V4.1-Flash-1017-Abliterated)
+- **Stats:** 100 likes | 0 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-10-18
+- **Tags:** transformers, deepseek, deepseek-v4.1, deepseek-v4.1-flash, deepseek-v4.1-flash-1017, abliterated
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/drowzeys/keys-DeepSeek-V4.1-Flash-1017-Abliterated
+
 
 ## Research Papers
 
