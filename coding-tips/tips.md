@@ -2020,6 +2020,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50052251
 - **Link:** https://github.com/snuri00/ps2-web-recomp
 
+**Added 2026-10-26**
+
+### [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438)
+- **Source:** news.ycombinator.com | **Posted:** 2026-10-04 | **By:** paveworld
+- **Community:** 947 points, 222 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49949438
+- **Link:** https://news.ycombinator.com/item?id=49949438
+
 
 ## Git & Workflow
 

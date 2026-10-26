@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1298 entries and counting** · Last updated: 2026-10-26
+**1299 entries and counting** · Last updated: 2026-10-26
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 264 |
 | [AI / LLM Notes](ai/notes.md) | 263 |
 | [Reading List](articles/reading-list.md) | 263 |
-| [Coding Tips](coding-tips/tips.md) | 263 |
+| [Coding Tips](coding-tips/tips.md) | 264 |
 | [Language Notes](languages/notes.md) | 245 |
 
 ## Latest additions
 
+- **2026-10-26** · *Show & Ask HN* — [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438)
 - **2026-10-26** · *Other Cool Projects* — [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)
 - **2026-10-26** · *Hacker News Picks* — [I refuse to accept a censored Internet. Join Me at...](https://news.ycombinator.com/item?id=50233929)
 - **2026-10-25** · *JavaScript* — [Node.js  Wednesday, October 21, 2026 Security Releases](https://lobste.rs/s/gu7bow/node_js_wednesday_october_21_2026)
 - **2026-10-25** · *Models & Datasets* — [meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B)
-- **2026-10-25** · *AI & Machine Learning* — [ashhart/TensorFold](https://github.com/ashhart/TensorFold)
 
 ## How it works
 
