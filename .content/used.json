@@ -165,6 +165,7 @@
     "https://borretti.me/article/no-man-is-an-island",
     "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
     "https://breezepdf.com",
+    "https://brennenputh.me/blog/printable-websites/",
     "https://bsandro.tech/posts/simple-netbsd-webserver/",
     "https://buf.build/blog/protobuf-lsp",
     "https://bugs.chromium.org/p/chromium/issues/detail?id=896897&desc=2#c23",
@@ -1627,6 +1628,7 @@
     "https://news.ycombinator.com/item?id=50233929",
     "https://news.ycombinator.com/item?id=50234474",
     "https://news.ycombinator.com/item?id=50236102",
+    "https://news.ycombinator.com/item?id=50241664",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -1874,12 +1876,6 @@
   "recent": [
     {
       "date": "2026-10-26",
-      "subcat": "Research Papers",
-      "title": "Byzantine-linearizable Single-Writer Multi-Reader...",
-      "url": "http://arxiv.org/abs/2610.14543v1"
-    },
-    {
-      "date": "2026-10-26",
       "subcat": "Show & Ask HN",
       "title": "Show HN: PaperMono, e-ink fridge magnet shopping list...",
       "url": "https://news.ycombinator.com/item?id=49875801"
@@ -1931,6 +1927,12 @@
       "subcat": "Show & Ask HN",
       "title": "Tell HN: 2x PHP RCE CVEs with CVSS 10.0 Incoming",
       "url": "https://news.ycombinator.com/item?id=50167754"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Hacker News Picks",
+      "title": "Websites Should Be Printable",
+      "url": "https://news.ycombinator.com/item?id=50241664"
     }
   ]
 }

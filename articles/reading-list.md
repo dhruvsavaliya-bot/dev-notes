@@ -1856,6 +1856,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50234474
 - **Link:** https://imaginationlibrary.com/
 
+**Added 2026-10-26**
+
+### [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
+- **Source:** brennenputh.me | **Posted:** 2026-10-26 | **By:** bagatelle
+- **Community:** 111 points, 103 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50241664
+- **Link:** https://brennenputh.me/blog/printable-websites/
+
 
 ## DevOps & Cloud
 
