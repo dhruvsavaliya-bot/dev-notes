@@ -688,6 +688,7 @@
     "https://github.com/obsidianmd/pele",
     "https://github.com/omacom/try-omarchy",
     "https://github.com/omdsh-dev/DSH-better-sidebar",
+    "https://github.com/omnara-ai/omnara",
     "https://github.com/onyx-dot-app/onyx",
     "https://github.com/oomol-lab/open-connector",
     "https://github.com/openTrinity/mycontext",
@@ -1613,6 +1614,7 @@
     "https://news.ycombinator.com/item?id=50180873",
     "https://news.ycombinator.com/item?id=50181175",
     "https://news.ycombinator.com/item?id=50182526",
+    "https://news.ycombinator.com/item?id=50183892",
     "https://news.ycombinator.com/item?id=50185869",
     "https://news.ycombinator.com/item?id=50194909",
     "https://news.ycombinator.com/item?id=50197404",
@@ -1869,12 +1871,6 @@
   "recent": [
     {
       "date": "2026-10-26",
-      "subcat": "Lobsters Picks",
-      "title": "Partial Order Precedence",
-      "url": "https://lobste.rs/s/kiivg2/partial_order_precedence"
-    },
-    {
-      "date": "2026-10-26",
       "subcat": "AI & Machine Learning",
       "title": "loopx-project/loopx",
       "url": "https://github.com/loopx-project/loopx"
@@ -1926,6 +1922,12 @@
       "subcat": "Research Papers",
       "title": "Clean-label Poisoning Attack and Defense Game for...",
       "url": "http://arxiv.org/abs/2610.32765v1"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "PHP",
+      "title": "Show HN: Omnara  Open-source alternative to Claude...",
+      "url": "https://news.ycombinator.com/item?id=50183892"
     }
   ]
 }

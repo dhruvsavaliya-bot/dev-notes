@@ -1229,6 +1229,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~65 stars/day since launch.
 - **Link:** https://github.com/dev-null-sh/dev-null.sh
 
+**Added 2026-10-26**
+
+### [Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara)
+- **Source:** github.com | **Posted:** 2026-10-21 | **By:** kmansm27
+- **Community:** 114 points, 34 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50183892
+- **Link:** https://github.com/omnara-ai/omnara
+
 
 ## Ruby
 

@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1316 entries and counting** · Last updated: 2026-10-26
+**1317 entries and counting** · Last updated: 2026-10-26
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 267 |
 | [Reading List](articles/reading-list.md) | 267 |
 | [Coding Tips](coding-tips/tips.md) | 267 |
-| [Language Notes](languages/notes.md) | 249 |
+| [Language Notes](languages/notes.md) | 250 |
 
 ## Latest additions
 
+- **2026-10-26** · *PHP* — [Show HN: Omnara  Open-source alternative to Claude...](https://news.ycombinator.com/item?id=50183892)
 - **2026-10-26** · *Research Papers* — [Clean-label Poisoning Attack and Defense Game for...](http://arxiv.org/abs/2610.32765v1)
 - **2026-10-26** · *Rust* — [I built a garbage collector for Rust (2023)](https://lobste.rs/s/ju4q1u/i_built_garbage_collector_for_rust_2023)
 - **2026-10-26** · *Lobsters Picks* — [Simple NetBSD webserver](https://lobste.rs/s/hzrmwz/simple_netbsd_webserver)
 - **2026-10-26** · *Show & Ask HN* — [Show HN: Photoc  Command-line tools for photographers](https://news.ycombinator.com/item?id=49944196)
-- **2026-10-26** · *Show & Ask HN* — [Show HN: PaperMono, e-ink fridge magnet shopping list...](https://news.ycombinator.com/item?id=49875801)
 
 ## How it works
 
