@@ -2056,6 +2056,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50167754
 - **Link:** https://news.ycombinator.com/item?id=50167754
 
+**Added 2026-10-26**
+
+### [Median product "lifespan" has fallen from ~4y down to ~1.5y](https://news.ycombinator.com/item?id=50204125)
+- **Source:** news.ycombinator.com | **Posted:** 2026-10-23 | **By:** stanislavb
+- **Community:** 86 points, 32 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50204125
+- **Link:** https://news.ycombinator.com/item?id=50204125
+
 
 ## Git & Workflow
 

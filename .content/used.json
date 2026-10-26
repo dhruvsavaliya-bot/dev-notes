@@ -1624,6 +1624,7 @@
     "https://news.ycombinator.com/item?id=50185869",
     "https://news.ycombinator.com/item?id=50194909",
     "https://news.ycombinator.com/item?id=50197404",
+    "https://news.ycombinator.com/item?id=50204125",
     "https://news.ycombinator.com/item?id=50212065",
     "https://news.ycombinator.com/item?id=50222133",
     "https://news.ycombinator.com/item?id=50225695",
@@ -1878,12 +1879,6 @@
   "recent": [
     {
       "date": "2026-10-26",
-      "subcat": "Lobsters Picks",
-      "title": "Simple NetBSD webserver",
-      "url": "https://lobste.rs/s/hzrmwz/simple_netbsd_webserver"
-    },
-    {
-      "date": "2026-10-26",
       "subcat": "Rust",
       "title": "I built a garbage collector for Rust (2023)",
       "url": "https://lobste.rs/s/ju4q1u/i_built_garbage_collector_for_rust_2023"
@@ -1935,6 +1930,12 @@
       "subcat": "AI & Machine Learning",
       "title": "wheresryan22/anatomy",
       "url": "https://github.com/wheresryan22/anatomy"
+    },
+    {
+      "date": "2026-10-26",
+      "subcat": "Show & Ask HN",
+      "title": "Median product \"lifespan\" has fallen from ~4y down to...",
+      "url": "https://news.ycombinator.com/item?id=50204125"
     }
   ]
 }
