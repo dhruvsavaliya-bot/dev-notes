@@ -2528,6 +2528,16 @@ Additional Notes: https://punkto.org/blog/small_web
 - **Discussion:** https://lobste.rs/s/ysyqnt/small_web_is_huge
 - **Link:** https://archive.org/download/small_web/11787-48384.mp4
 
+**Added 2026-10-27**
+
+### [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/)
+- **Source:** aleph-alpha.com | **Posted:** 2026-10-04 | **By:** miro
+- **Community:** 37 score, 5 comments on Lobsters
+- **Tags:** ai
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/qcgjpu/kolibri_sovereign_open_weight_model
+- **Link:** https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/
+
 
 ## Performance
 

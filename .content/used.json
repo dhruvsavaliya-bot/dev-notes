@@ -100,6 +100,7 @@
     "https://actualbudget.org/",
     "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
     "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
+    "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
     "https://aleyan.com/projects/python-iceberg/",
     "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
     "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
@@ -1143,6 +1144,7 @@
     "https://lobste.rs/s/paryb7/rails_is_done",
     "https://lobste.rs/s/pioj21/performance_cost_rwlock_our_read_heavy",
     "https://lobste.rs/s/plbei0/openfatigue_open_is_new_closed",
+    "https://lobste.rs/s/qcgjpu/kolibri_sovereign_open_weight_model",
     "https://lobste.rs/s/qi1bxu/tinygo_0_42_recover_is_real",
     "https://lobste.rs/s/qn61ip/open_source_clean_room_reimplementation",
     "https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy",
@@ -1927,12 +1929,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "System Design & Architecture",
-      "title": "Your Microservices Arent Scalable. Your Database Is...",
-      "url": "https://dev.to/antfarm-tech/your-microservices-arent-scalable-your-database-is-just-crying-mbd"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "Show & Ask HN",
       "title": "Tell HN: Uceprotect is extorting website owners",
       "url": "https://news.ycombinator.com/item?id=49964045"
@@ -1984,6 +1980,12 @@
       "subcat": "Rust",
       "title": "Demoting i686 Windows targets to std-only",
       "url": "https://lobste.rs/s/kfla2w/demoting_i686_windows_targets_std_only"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "Lobsters Picks",
+      "title": "Kolibri: A Sovereign Open-Weight Model",
+      "url": "https://lobste.rs/s/qcgjpu/kolibri_sovereign_open_weight_model"
     }
   ]
 }
