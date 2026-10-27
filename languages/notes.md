@@ -1075,6 +1075,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~27 stars/day since launch.
 - **Link:** https://github.com/N4darae/shrt
 
+**Added 2026-10-27**
+
+### [Our Response To The eMudhra Key Disclosure Incident](https://go.dev/blog/emudhra-incident)
+- **Source:** go.dev | **Posted:** 2026-10-26 | **By:** cgrinds
+- **Community:** 16 score, 6 comments on Lobsters
+- **Tags:** go
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/cxdpiu/our_response_emudhra_key_disclosure
+- **Link:** https://go.dev/blog/emudhra-incident
+
 
 ## PHP
 

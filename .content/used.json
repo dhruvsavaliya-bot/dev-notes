@@ -831,6 +831,7 @@
     "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
     "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
     "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+    "https://go.dev/blog/emudhra-incident",
     "https://go.dev/blog/goroutine-leak-profiles",
     "https://go.dev/blog/http-connection-reuse",
     "https://go.dev/blog/interactive-refactoring",
@@ -1087,6 +1088,7 @@
     "https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit",
     "https://lobste.rs/s/cquwex/flow_typing_new_lens_on_linearity",
     "https://lobste.rs/s/culsub/intellij_idea_goes_lsp_java_kotlin",
+    "https://lobste.rs/s/cxdpiu/our_response_emudhra_key_disclosure",
     "https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday",
     "https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has",
     "https://lobste.rs/s/dfieqa/bringing_uv_ty_together",
@@ -1937,12 +1939,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "Kotlin",
-      "title": "wasi-master/wmkeyboard",
-      "url": "https://github.com/wasi-master/wmkeyboard"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "Python",
       "title": "Show HN: Made an open-source Lego AI generator",
       "url": "https://news.ycombinator.com/item?id=49937916"
@@ -1994,6 +1990,12 @@
       "subcat": "Testing",
       "title": "I'm Not on the DEV Team. I Still Debugged Their...",
       "url": "https://dev.to/dj29/im-not-on-the-dev-team-i-still-debugged-their-missing-badges-from-public-code-and-my-first-test-18oo"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "Go",
+      "title": "Our Response To The eMudhra Key Disclosure Incident",
+      "url": "https://lobste.rs/s/cxdpiu/our_response_emudhra_key_disclosure"
     }
   ]
 }
