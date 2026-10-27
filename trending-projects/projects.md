@@ -2317,6 +2317,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~9 stars/day since launch.
 - **Link:** https://github.com/YanamiNeko/NekoSportsWorldTool
 
+**Added 2026-10-27**
+
+### [BlueHeisenberg/SCSKiller](https://github.com/BlueHeisenberg/SCSKiller)
+- **Stats:** 3,535 stars | 88 forks | 123 open issues
+- **Language:** C# | **Created:** 2026-09-29 | **License:** GPL-3.0
+- **Topics:** amd, directx12, nvidia, pc-gaming, shader-compilation, stutter
+- **What it is:** Kill shader compilation stutter before you play. Compiles your games' shaders into the GPU driver's cache ahead of time. Windows, NVIDIA and AMD.
+- **Growth:** averaging ~126 stars/day since launch.
+- **Link:** https://github.com/BlueHeisenberg/SCSKiller
+
 
 ## Web & Frontend
 
