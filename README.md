@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1369 entries and counting** · Last updated: 2026-10-28
+**1370 entries and counting** · Last updated: 2026-10-28
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 275 |
 | [Reading List](articles/reading-list.md) | 277 |
 | [Coding Tips](coding-tips/tips.md) | 278 |
-| [Language Notes](languages/notes.md) | 263 |
+| [Language Notes](languages/notes.md) | 264 |
 
 ## Latest additions
 
+- **2026-10-28** · *Python* — [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive)
 - **2026-10-28** · *Lobsters Picks* — [A fast and secure tar parser for the Rust ecosystem](https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem)
 - **2026-10-28** · *Lobsters Picks* — [Goodbye Google](https://lobste.rs/s/sxlf4a/goodbye_google)
 - **2026-10-28** · *Python* — [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust)
 - **2026-10-27** · *Models & Datasets* — [SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF](https://huggingface.co/SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF)
-- **2026-10-27** · *Go* — [Our Response To The eMudhra Key Disclosure Incident](https://lobste.rs/s/cxdpiu/our_response_emudhra_key_disclosure)
 
 ## How it works
 

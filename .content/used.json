@@ -520,6 +520,7 @@
     "https://github.com/SWE-agent/SWE-agent",
     "https://github.com/Sahir619/fable-method",
     "https://github.com/ScottPlot/ScottPlot",
+    "https://github.com/SenteLabsAI/OpenExecutive",
     "https://github.com/ShenSeanChen/waku-agent",
     "https://github.com/ShishirPatil/gorilla",
     "https://github.com/Shpigford/knockoff",
@@ -1945,12 +1946,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "Testing",
-      "title": "From Genin to Kage - Understanding the Test Pyramid...",
-      "url": "https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "Rust",
       "title": "Superoptimizing an FPU emulator",
       "url": "https://lobste.rs/s/1s3dve/superoptimizing_fpu_emulator"
@@ -2002,6 +1997,12 @@
       "subcat": "Lobsters Picks",
       "title": "A fast and secure tar parser for the Rust ecosystem",
       "url": "https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Python",
+      "title": "SenteLabsAI/OpenExecutive",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive"
     }
   ]
 }

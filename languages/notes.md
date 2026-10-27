@@ -860,6 +860,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~260 stars/day since launch.
 - **Link:** https://github.com/morganlinton/BeautifulRust
 
+**Added 2026-10-28**
+
+### [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive)
+- **Stats:** 5,676 stars | 617 forks | 7 open issues
+- **Language:** Python | **Created:** 2026-06-11 | **License:** Apache-2.0
+- **Topics:** ai, anthropic, claude, fastapi, llm, multi-agent
+- **What it is:** AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js).
+- **Growth:** averaging ~40 stars/day since launch.
+- **Link:** https://github.com/SenteLabsAI/OpenExecutive
+
 
 ## Go
 
