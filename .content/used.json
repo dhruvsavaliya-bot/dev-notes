@@ -1166,6 +1166,7 @@
     "https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on",
     "https://lobste.rs/s/sfdf3h/platform_independent_simd_go",
     "https://lobste.rs/s/sqftld/next_gen_borrow_checker_drop_replacement",
+    "https://lobste.rs/s/sxlf4a/goodbye_google",
     "https://lobste.rs/s/ta2ojd/letter_from_machine_learning_engineer",
     "https://lobste.rs/s/tfjoxv/actual_budget",
     "https://lobste.rs/s/tmr7jp/extend_lua_with_zig_1_hello_world",
@@ -1746,6 +1747,7 @@
     "https://ratfactor.com/cards/git-commit-size",
     "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
     "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+    "https://robert.ocallahan.org/2026/09/goodbye-google.html",
     "https://root.cern.ch/cling",
     "https://runarcn.no/android-to-linux/",
     "https://sandstorm.org/news/2023-12-05-osm-on-sandstorm",
@@ -1941,12 +1943,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "Lobsters Picks",
-      "title": "Kolibri: A Sovereign Open-Weight Model",
-      "url": "https://lobste.rs/s/qcgjpu/kolibri_sovereign_open_weight_model"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "AI & Machine Learning",
       "title": "rlaope/oh-my-hermes",
       "url": "https://github.com/rlaope/oh-my-hermes"
@@ -1998,6 +1994,12 @@
       "subcat": "Python",
       "title": "morganlinton/BeautifulRust",
       "url": "https://github.com/morganlinton/BeautifulRust"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Lobsters Picks",
+      "title": "Goodbye Google",
+      "url": "https://lobste.rs/s/sxlf4a/goodbye_google"
     }
   ]
 }

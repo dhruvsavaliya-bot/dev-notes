@@ -2548,6 +2548,16 @@ Additional Notes: https://punkto.org/blog/small_web
 - **Discussion:** https://lobste.rs/s/ta2ojd/letter_from_machine_learning_engineer
 - **Link:** https://nemin.hu/llm-letter/index.html
 
+**Added 2026-10-28**
+
+### [Goodbye Google](https://robert.ocallahan.org/2026/09/goodbye-google.html)
+- **Source:** robert.ocallahan.org | **Posted:** 2026-09-25 | **By:** classichasclass
+- **Community:** 108 score, 31 comments on Lobsters
+- **Tags:** ai, person
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/sxlf4a/goodbye_google
+- **Link:** https://robert.ocallahan.org/2026/09/goodbye-google.html
+
 
 ## Performance
 
