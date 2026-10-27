@@ -220,6 +220,7 @@
     "https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635",
     "https://dev.to/annavi11arrea1/sharing-dev-followers-count-on-github-profile-bj3",
     "https://dev.to/antfarm-tech/building-a-production-grade-ai-web-app-in-2026-architecture-trade-offs-and-hard-won-lessons-4llg",
+    "https://dev.to/antfarm-tech/your-microservices-arent-scalable-your-database-is-just-crying-mbd",
     "https://dev.to/astro-official/scraping-predictions-for-2026-agentic-workflow-and-ai-350m",
     "https://dev.to/aws-builders/ai-agent-governance-on-aws-block-agents-prove-eu-ai-act-compliance-1829",
     "https://dev.to/aws-builders/per-agent-cost-tracking-for-multi-agent-ai-on-aws-10eg",
@@ -1912,12 +1913,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "Other Cool Projects",
-      "title": "BlueHeisenberg/SCSKiller",
-      "url": "https://github.com/BlueHeisenberg/SCSKiller"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "Lobsters Picks",
       "title": "The Small Web Is Huge",
       "url": "https://lobste.rs/s/ysyqnt/small_web_is_huge"
@@ -1969,6 +1964,12 @@
       "subcat": "Java",
       "title": "MorpheApp/PotHelper",
       "url": "https://github.com/MorpheApp/PotHelper"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "System Design & Architecture",
+      "title": "Your Microservices Arent Scalable. Your Database Is...",
+      "url": "https://dev.to/antfarm-tech/your-microservices-arent-scalable-your-database-is-just-crying-mbd"
     }
   ]
 }

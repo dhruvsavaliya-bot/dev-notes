@@ -2009,6 +2009,15 @@ Fresh dev articles and blog posts.
 - **Summary:** “Anyone can build a demo. Shipping AI to production is a completely different sport.”   AI-powered...
 - **Link:** https://dev.to/antfarm-tech/building-a-production-grade-ai-web-app-in-2026-architecture-trade-offs-and-hard-won-lessons-4llg
 
+**Added 2026-10-27**
+
+### [Your Microservices Aren’t Scalable. Your Database Is Just Crying.](https://dev.to/antfarm-tech/your-microservices-arent-scalable-your-database-is-just-crying-mbd)
+- **Author:** Art light | **Published:** Feb 4 | **Read time:** 4 min
+- **Community:** 91 reactions, 15 comments -- a top post in #architecture
+- **Tags:** microservices, database, architecture, webdev
+- **Summary:** When we first split our monolith into microservices, it felt like a victory.  Smaller services....
+- **Link:** https://dev.to/antfarm-tech/your-microservices-arent-scalable-your-database-is-just-crying-mbd
+
 
 ## Lobsters Picks
 
@@ -2502,8 +2511,10 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Source:** archive.org | **Posted:** 2026-10-26 | **By:** mhm
 - **Community:** 30 score, 4 comments on Lobsters
 - **Tags:** culture, video
-- **Summary:** Speaker Page: https://pretalx.seagl.org/2026/talk/GQZEUY/
-
+- **Summary:** Speaker Page: https://pretalx.seagl.org/2026/talk/GQZEUY/
+
+
+
 Additional Notes: https://punkto.org/blog/small_web
 - **Discussion:** https://lobste.rs/s/ysyqnt/small_web_is_huge
 - **Link:** https://archive.org/download/small_web/11787-48384.mp4
