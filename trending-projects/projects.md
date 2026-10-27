@@ -1224,6 +1224,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~49 stars/day since launch.
 - **Link:** https://github.com/Kuberwastaken/claurst
 
+**Added 2026-10-27**
+
+### [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee)
+- **Stats:** 13,542 stars | 874 forks | 104 open issues
+- **Language:** C# | **Created:** 2026-09-29 | **License:** MIT
+- **Topics:** audio-converter, avalonia, batch-conversion, converter, csharp, document-converter
+- **What it is:** Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.
+- **Growth:** averaging ~483 stars/day since launch.
+- **Link:** https://github.com/KnifeLemon/Filee
+
 
 ## Other Cool Projects
 

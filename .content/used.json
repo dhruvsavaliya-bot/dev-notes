@@ -463,6 +463,7 @@
     "https://github.com/KKKKhazix/AIHOT",
     "https://github.com/KKKKhazix/human-writing",
     "https://github.com/KittenML/KittenTTS",
+    "https://github.com/KnifeLemon/Filee",
     "https://github.com/Krishnagangwal/CS-Fundamentals",
     "https://github.com/Kuberwastaken/claurst",
     "https://github.com/Kuddev/pebrel",
@@ -1903,12 +1904,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "AI & Machine Learning",
-      "title": "49-Agents/49-IDE",
-      "url": "https://github.com/49-Agents/49-IDE"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "Models & Datasets",
       "title": "nisten/opus5-5-doctor-patient-conversations-all-human-d...",
       "url": "https://huggingface.co/datasets/nisten/opus5-5-doctor-patient-conversations-all-human-diseases"
@@ -1960,6 +1955,12 @@
       "subcat": "Lobsters Picks",
       "title": "A faster way to compute signed 64-bit floor division...",
       "url": "https://lobste.rs/s/o5to4p/faster_way_compute_signed_64_bit_floor"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "AI & Machine Learning",
+      "title": "KnifeLemon/Filee",
+      "url": "https://github.com/KnifeLemon/Filee"
     }
   ]
 }
