@@ -870,6 +870,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~40 stars/day since launch.
 - **Link:** https://github.com/SenteLabsAI/OpenExecutive
 
+**Added 2026-10-28**
+
+### [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus)
+- **Stats:** 94,556 stars | 1,781 forks | 1,567 open issues
+- **Language:** Python | **Created:** 2026-05-31 | **License:** AGPL-3.0
+- **Topics:** none listed
+- **What it is:** Self-hosted AI workspace.
+- **Growth:** averaging ~630 stars/day since launch.
+- **Link:** https://github.com/odysseus-dev/odysseus
+
 
 ## Go
 

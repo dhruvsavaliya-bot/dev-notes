@@ -712,6 +712,7 @@
     "https://github.com/nyblnet/bento",
     "https://github.com/nykooi1/vibe-wise",
     "https://github.com/obsidianmd/pele",
+    "https://github.com/odysseus-dev/odysseus",
     "https://github.com/omacom/try-omarchy",
     "https://github.com/omdsh-dev/DSH-better-sidebar",
     "https://github.com/omnara-ai/omnara",
@@ -1948,12 +1949,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "Lobsters Picks",
-      "title": "A Letter from a Machine Learning Engineer",
-      "url": "https://lobste.rs/s/ta2ojd/letter_from_machine_learning_engineer"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "Other Cool Projects",
       "title": "storytold/wordcraft",
       "url": "https://github.com/storytold/wordcraft"
@@ -2005,6 +2000,12 @@
       "subcat": "Lobsters Picks",
       "title": "Compile-Time Dependent Types",
       "url": "https://lobste.rs/s/d09iy3/compile_time_dependent_types"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Python",
+      "title": "odysseus-dev/odysseus",
+      "url": "https://github.com/odysseus-dev/odysseus"
     }
   ]
 }
