@@ -1867,6 +1867,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/kfla2w/demoting_i686_windows_targets_std_only
 - **Link:** https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/
 
+**Added 2026-10-27**
+
+### [Superoptimizing an FPU emulator](https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/)
+- **Source:** purplesyringa.moe | **Posted:** 2026-10-18 | **By:** herabit
+- **Community:** 38 score, 7 comments on Lobsters
+- **Tags:** performance, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/1s3dve/superoptimizing_fpu_emulator
+- **Link:** https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/
+
 
 ## Elixir
 

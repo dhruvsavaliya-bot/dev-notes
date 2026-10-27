@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1360 entries and counting** · Last updated: 2026-10-27
+**1361 entries and counting** · Last updated: 2026-10-27
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 274 |
 | [Reading List](articles/reading-list.md) | 275 |
 | [Coding Tips](coding-tips/tips.md) | 276 |
-| [Language Notes](languages/notes.md) | 260 |
+| [Language Notes](languages/notes.md) | 261 |
 
 ## Latest additions
 
+- **2026-10-27** · *Rust* — [Superoptimizing an FPU emulator](https://lobste.rs/s/1s3dve/superoptimizing_fpu_emulator)
 - **2026-10-27** · *Testing* — [From Genin to Kage - Understanding the Test Pyramid...](https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk)
 - **2026-10-27** · *AI & Machine Learning* — [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)
 - **2026-10-27** · *Lobsters Picks* — [Kolibri: A Sovereign Open-Weight Model](https://lobste.rs/s/qcgjpu/kolibri_sovereign_open_weight_model)
 - **2026-10-27** · *Rust* — [Demoting i686 Windows targets to std-only](https://lobste.rs/s/kfla2w/demoting_i686_windows_targets_std_only)
-- **2026-10-27** · *Python* — [Show HN: Made an open-source Lego AI generator](https://news.ycombinator.com/item?id=49937916)
 
 ## How it works
 
