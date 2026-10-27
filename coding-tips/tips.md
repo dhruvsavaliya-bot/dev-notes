@@ -2525,6 +2525,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner
 - **Link:** https://css-tricks.com/css-tricks-has-a-new-owner/
 
+**Added 2026-10-28**
+
+### [A fast and secure tar parser for the Rust ecosystem](https://astral.sh/blog/tar-codec)
+- **Source:** astral.sh | **Posted:** 2026-10-27 | **By:** yossarian
+- **Community:** 26 score, 5 comments on Lobsters
+- **Tags:** python, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem
+- **Link:** https://astral.sh/blog/tar-codec
+
 
 ## Career & Craft
 

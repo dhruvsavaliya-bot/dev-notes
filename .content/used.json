@@ -125,6 +125,7 @@
     "https://arxiv.org/abs/2608.13759",
     "https://arxiv.org/abs/2608.23691",
     "https://arxiv.org/abs/2609.18842",
+    "https://astral.sh/blog/tar-codec",
     "https://astral.sh/blog/uv-ty-integration",
     "https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/",
     "https://bastardica.mitpit.com",
@@ -1153,6 +1154,7 @@
     "https://lobste.rs/s/paryb7/rails_is_done",
     "https://lobste.rs/s/pioj21/performance_cost_rwlock_our_read_heavy",
     "https://lobste.rs/s/plbei0/openfatigue_open_is_new_closed",
+    "https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem",
     "https://lobste.rs/s/qcgjpu/kolibri_sovereign_open_weight_model",
     "https://lobste.rs/s/qi1bxu/tinygo_0_42_recover_is_real",
     "https://lobste.rs/s/qn61ip/open_source_clean_room_reimplementation",
@@ -1943,12 +1945,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "AI & Machine Learning",
-      "title": "rlaope/oh-my-hermes",
-      "url": "https://github.com/rlaope/oh-my-hermes"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "Testing",
       "title": "From Genin to Kage - Understanding the Test Pyramid...",
       "url": "https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk"
@@ -2000,6 +1996,12 @@
       "subcat": "Lobsters Picks",
       "title": "Goodbye Google",
       "url": "https://lobste.rs/s/sxlf4a/goodbye_google"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Lobsters Picks",
+      "title": "A fast and secure tar parser for the Rust ecosystem",
+      "url": "https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem"
     }
   ]
 }
