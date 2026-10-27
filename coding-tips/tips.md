@@ -2556,3 +2556,12 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Tags:** testing, beginners, basic, automation
 - **Summary:** It has been a long time since I last wrote an article, and in order to break this hiatus, I decided...
 - **Link:** https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk
+
+**Added 2026-10-27**
+
+### [I'm Not on the DEV Team. I Still Debugged Their Missing Badges From Public Code. (And My First Test Was Wrong.)](https://dev.to/dj29/im-not-on-the-dev-team-i-still-debugged-their-missing-badges-from-public-code-and-my-first-test-18oo)
+- **Author:** Dhruv Jani | **Published:** Oct 24 | **Read time:** 6 min
+- **Community:** 89 reactions, 37 comments -- a top post in #testing
+- **Tags:** opensource, ruby, rails, testing
+- **Summary:** I’m not on the DEV team. I don’t have an admin panel, production database access, or internal Slack....
+- **Link:** https://dev.to/dj29/im-not-on-the-dev-team-i-still-debugged-their-missing-badges-from-public-code-and-my-first-test-18oo

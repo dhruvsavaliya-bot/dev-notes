@@ -242,6 +242,7 @@
     "https://dev.to/dj29/ai-didnt-remove-the-engineering-work-it-just-made-it-easier-to-pretend-you-did-42m9",
     "https://dev.to/dj29/chain-of-thought-faithfulness-toggling-reasoning-mode-made-one-model-5x-more-likely-to-follow-39b3",
     "https://dev.to/dj29/hacktoberfest-is-coming-to-nadiad-gujarat-official-mlh-meetup-at-ddu-15-oct-1dc4",
+    "https://dev.to/dj29/im-not-on-the-dev-team-i-still-debugged-their-missing-badges-from-public-code-and-my-first-test-18oo",
     "https://dev.to/dj29/the-stack-nobody-picks-might-be-the-one-that-picks-you-473c",
     "https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2",
     "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib",
@@ -1936,12 +1937,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "Java",
-      "title": "Building Java ME Apps with Modern Tooling",
-      "url": "https://lobste.rs/s/ekwolo/building_java_me_apps_with_modern_tooling"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "Kotlin",
       "title": "wasi-master/wmkeyboard",
       "url": "https://github.com/wasi-master/wmkeyboard"
@@ -1993,6 +1988,12 @@
       "subcat": "Other Cool Projects",
       "title": "storytold/wordcraft",
       "url": "https://github.com/storytold/wordcraft"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "Testing",
+      "title": "I'm Not on the DEV Team. I Still Debugged Their...",
+      "url": "https://dev.to/dj29/im-not-on-the-dev-team-i-still-debugged-their-missing-badges-from-public-code-and-my-first-test-18oo"
     }
   ]
 }
