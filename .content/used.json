@@ -959,6 +959,7 @@
     "https://huggingface.co/moonshotai/Kimi-K3",
     "https://huggingface.co/mudler/locate-anything.cpp-gguf",
     "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB",
+    "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4",
     "https://huggingface.co/openbmb/MiniCPM-V-2_6",
     "https://huggingface.co/openbmb/MiniCPM5-2B",
     "https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0",
@@ -1908,12 +1909,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "Models & Datasets",
-      "title": "LightwheelAI/EgoDemo",
-      "url": "https://huggingface.co/datasets/LightwheelAI/EgoDemo"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "JavaScript",
       "title": "Beginning of the Ende (a community Deno fork)",
       "url": "https://lobste.rs/s/8ejwsp/beginning_ende_community_deno_fork"
@@ -1965,6 +1960,12 @@
       "subcat": "Python",
       "title": "air-embodied-brain/Zetta-Embodiment",
       "url": "https://github.com/air-embodied-brain/Zetta-Embodiment"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "Models & Datasets",
+      "title": "nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4"
     }
   ]
 }

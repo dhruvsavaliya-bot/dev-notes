@@ -1851,6 +1851,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8
 
+**Added 2026-10-27**
+
+### [nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4)
+- **Stats:** 234 likes | 18,407 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-10-12
+- **Tags:** transformers, safetensors, nemotron_h_omni, image-text-to-text, nvidia, pytorch
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4
+
 
 ## Research Papers
 
