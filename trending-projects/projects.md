@@ -1244,6 +1244,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~30 stars/day since launch.
 - **Link:** https://github.com/diffusionstudio/editor
 
+**Added 2026-10-27**
+
+### [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)
+- **Stats:** 4,351 stars | 327 forks | 15 open issues
+- **Language:** Python | **Created:** 2026-06-03 | **License:** MIT
+- **Topics:** agent, ai, ai-agent, ai-tools, claude-code, codex
+- **What it is:** ⚚ The coding agent with Hermes Agent, Just type 'dag-ulw'
+- **Growth:** averaging ~29 stars/day since launch.
+- **Link:** https://github.com/rlaope/oh-my-hermes
+
 
 ## Other Cool Projects
 

@@ -738,6 +738,7 @@
     "https://github.com/remoteinterview/zero",
     "https://github.com/repoprompt/repoprompt-ce",
     "https://github.com/rjsf-team/react-jsonschema-form",
+    "https://github.com/rlaope/oh-my-hermes",
     "https://github.com/robbietilton/Compositor",
     "https://github.com/rsutcliffe/nightwatch",
     "https://github.com/s1dashu/ip-as-logo-skill",
@@ -1929,12 +1930,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "Show & Ask HN",
-      "title": "Tell HN: Uceprotect is extorting website owners",
-      "url": "https://news.ycombinator.com/item?id=49964045"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "AI & Machine Learning",
       "title": "diffusionstudio/editor",
       "url": "https://github.com/diffusionstudio/editor"
@@ -1986,6 +1981,12 @@
       "subcat": "Lobsters Picks",
       "title": "Kolibri: A Sovereign Open-Weight Model",
       "url": "https://lobste.rs/s/qcgjpu/kolibri_sovereign_open_weight_model"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "AI & Machine Learning",
+      "title": "rlaope/oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes"
     }
   ]
 }

@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1358 entries and counting** · Last updated: 2026-10-27
+**1359 entries and counting** · Last updated: 2026-10-27
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 274 |
+| [Trending Projects](trending-projects/projects.md) | 275 |
 | [AI / LLM Notes](ai/notes.md) | 274 |
 | [Reading List](articles/reading-list.md) | 275 |
 | [Coding Tips](coding-tips/tips.md) | 275 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-27** · *AI & Machine Learning* — [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)
 - **2026-10-27** · *Lobsters Picks* — [Kolibri: A Sovereign Open-Weight Model](https://lobste.rs/s/qcgjpu/kolibri_sovereign_open_weight_model)
 - **2026-10-27** · *Rust* — [Demoting i686 Windows targets to std-only](https://lobste.rs/s/kfla2w/demoting_i686_windows_targets_std_only)
 - **2026-10-27** · *Python* — [Show HN: Made an open-source Lego AI generator](https://news.ycombinator.com/item?id=49937916)
 - **2026-10-27** · *Kotlin* — [wasi-master/wmkeyboard](https://github.com/wasi-master/wmkeyboard)
-- **2026-10-27** · *Java* — [Building Java ME Apps with Modern Tooling](https://lobste.rs/s/ekwolo/building_java_me_apps_with_modern_tooling)
 
 ## How it works
 
