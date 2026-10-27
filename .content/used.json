@@ -1118,6 +1118,7 @@
     "https://lobste.rs/s/nuepys/what_requirements_don_t_you_have",
     "https://lobste.rs/s/nxspz6/no_man_is_island",
     "https://lobste.rs/s/o0ixth/haxy_net_is_live_haxy_git_forge_devlog",
+    "https://lobste.rs/s/o5to4p/faster_way_compute_signed_64_bit_floor",
     "https://lobste.rs/s/o8xo9z/importance_communities_around_software",
     "https://lobste.rs/s/odrfgk/how_speed_up_rust_compiler_september_2026",
     "https://lobste.rs/s/ogp1wf/inline_rendering_with_document",
@@ -1798,6 +1799,7 @@
     "https://www.bbc.com/news/articles/c1l1r1zne1ro",
     "https://www.bbc.com/news/articles/c8ly49w9g1edo",
     "https://www.bbc.com/news/articles/c8xnwqe00v1o",
+    "https://www.benjoffe.com/fast-floordiv",
     "https://www.blackmagicdesign.com/media/release/20260908-03",
     "https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke",
     "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
@@ -1901,12 +1903,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "Hacker News Picks",
-      "title": "Strands Decider 2B: a small, open-source, decision...",
-      "url": "https://news.ycombinator.com/item?id=49987076"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "AI & Machine Learning",
       "title": "49-Agents/49-IDE",
       "url": "https://github.com/49-Agents/49-IDE"
@@ -1958,6 +1954,12 @@
       "subcat": "Lobsters Picks",
       "title": "The Small Web Is Huge",
       "url": "https://lobste.rs/s/ysyqnt/small_web_is_huge"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "Lobsters Picks",
+      "title": "A faster way to compute signed 64-bit floor division...",
+      "url": "https://lobste.rs/s/o5to4p/faster_way_compute_signed_64_bit_floor"
     }
   ]
 }

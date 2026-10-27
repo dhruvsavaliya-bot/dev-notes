@@ -2477,6 +2477,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on
 - **Link:** https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/
 
+**Added 2026-10-27**
+
+### [A faster way to compute signed 64-bit floor division by constants](https://www.benjoffe.com/fast-floordiv)
+- **Source:** www.benjoffe.com | **Posted:** 2026-10-26 | **By:** benjoffe
+- **Community:** 23 score, 4 comments on Lobsters
+- **Tags:** c++, performance
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/o5to4p/faster_way_compute_signed_64_bit_floor
+- **Link:** https://www.benjoffe.com/fast-floordiv
+
 
 ## Career & Craft
 
