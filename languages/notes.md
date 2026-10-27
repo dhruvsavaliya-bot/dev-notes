@@ -841,6 +841,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~18 stars/day since launch.
 - **Link:** https://github.com/air-embodied-brain/Zetta-Embodiment
 
+**Added 2026-10-27**
+
+### [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova)
+- **Source:** github.com | **Posted:** 2026-10-02 | **By:** antelocnova
+- **Community:** 170 points, 52 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49937916
+- **Link:** https://github.com/anteloc/ldraw-nova
+
 
 ## Go
 
