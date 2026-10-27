@@ -697,6 +697,7 @@
     "https://github.com/mizorewww/x_gift_bot",
     "https://github.com/mlc-ai/web-llm",
     "https://github.com/mmparko/dsh-purge",
+    "https://github.com/morganlinton/BeautifulRust",
     "https://github.com/mshumer/Claude-of-Duty",
     "https://github.com/nano-muse/nanoMuse",
     "https://github.com/nateherkai/scroll-craft",
@@ -1940,12 +1941,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "Rust",
-      "title": "Demoting i686 Windows targets to std-only",
-      "url": "https://lobste.rs/s/kfla2w/demoting_i686_windows_targets_std_only"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "Lobsters Picks",
       "title": "Kolibri: A Sovereign Open-Weight Model",
       "url": "https://lobste.rs/s/qcgjpu/kolibri_sovereign_open_weight_model"
@@ -1997,6 +1992,12 @@
       "subcat": "Models & Datasets",
       "title": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
       "url": "https://huggingface.co/SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Python",
+      "title": "morganlinton/BeautifulRust",
+      "url": "https://github.com/morganlinton/BeautifulRust"
     }
   ]
 }

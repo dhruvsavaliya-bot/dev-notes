@@ -850,6 +850,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=49937916
 - **Link:** https://github.com/anteloc/ldraw-nova
 
+**Added 2026-10-28**
+
+### [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust)
+- **Stats:** 1,301 stars | 57 forks | 3 open issues
+- **Language:** Python | **Created:** 2026-10-23 | **License:** MIT
+- **Topics:** agent-skills, claude-code, claude-plugin, claude-skills, clippy, code-review
+- **What it is:** Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.
+- **Growth:** averaging ~260 stars/day since launch.
+- **Link:** https://github.com/morganlinton/BeautifulRust
+
 
 ## Go
 
