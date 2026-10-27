@@ -1618,6 +1618,7 @@
     "https://news.ycombinator.com/item?id=50070625",
     "https://news.ycombinator.com/item?id=50077225",
     "https://news.ycombinator.com/item?id=50089577",
+    "https://news.ycombinator.com/item?id=50094694",
     "https://news.ycombinator.com/item?id=50096110",
     "https://news.ycombinator.com/item?id=50104726",
     "https://news.ycombinator.com/item?id=50112331",
@@ -1760,6 +1761,7 @@
     "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
     "https://stripeacross.com/posts/poisson-disk-sampling/",
     "https://sujithjay.com/inventing-work",
+    "https://sunshowers.io/posts/anthropic-mononoke/",
     "https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en",
     "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
     "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
@@ -1915,12 +1917,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "AI & Machine Learning",
-      "title": "KnifeLemon/Filee",
-      "url": "https://github.com/KnifeLemon/Filee"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "Show & Ask HN",
       "title": "Show HN: OnKey  I'm a bad singer, so I built an app...",
       "url": "https://news.ycombinator.com/item?id=50195488"
@@ -1972,6 +1968,12 @@
       "subcat": "AI & Machine Learning",
       "title": "diffusionstudio/editor",
       "url": "https://github.com/diffusionstudio/editor"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "Hacker News Picks",
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "url": "https://news.ycombinator.com/item?id=50094694"
     }
   ]
 }

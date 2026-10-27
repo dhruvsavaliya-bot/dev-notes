@@ -1892,6 +1892,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50163277
 - **Link:** https://github.com/deepseek-ai/DeepInfer
 
+**Added 2026-10-27**
+
+### [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
+- **Source:** sunshowers.io | **Posted:** 2026-10-14 | **By:** sunshowers
+- **Community:** 430 points, 162 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50094694
+- **Link:** https://sunshowers.io/posts/anthropic-mononoke/
+
 
 ## DevOps & Cloud
 
