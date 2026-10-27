@@ -2501,3 +2501,13 @@ Snippets and gotchas across languages.
 - **What it is:** A simple PoToken minter written in Java
 - **Growth:** averaging ~8 stars/day since launch.
 - **Link:** https://github.com/MorpheApp/PotHelper
+
+**Added 2026-10-27**
+
+### [Building Java ME Apps with Modern Tooling](https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/)
+- **Source:** voxelmanip.se | **Posted:** 2026-10-25 | **By:** mhd
+- **Community:** 16 score, 3 comments on Lobsters
+- **Tags:** java, retrocomputing
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/ekwolo/building_java_me_apps_with_modern_tooling
+- **Link:** https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/
