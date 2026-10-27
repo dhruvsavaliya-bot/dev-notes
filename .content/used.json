@@ -1024,6 +1024,7 @@
     "https://lobste.rs/s/05xrj8/we_have_traits_at_home",
     "https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial",
     "https://lobste.rs/s/0gvyif/software_developers_are_not_okay",
+    "https://lobste.rs/s/1h5kuj/pharo_14_released",
     "https://lobste.rs/s/1skdhv/pick_os_is_living_fossil_computer_history",
     "https://lobste.rs/s/1zpy4w/sqlite_db_simple_process_reliable_fast",
     "https://lobste.rs/s/27dxjg/petty_reason_we_didn_t_end_up_using_jj",
@@ -1697,6 +1698,7 @@
     "https://pdftomp3.com/connect-ai/",
     "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
     "https://peterszentkiralyi.eu/darkplug/",
+    "https://pharo.org/news/2026-10-26-Pharo14Release.html",
     "https://phptherightway.com/",
     "https://phreak.ing/",
     "https://phunky.cafe/my-homelab-got-hacked/",
@@ -1909,12 +1911,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "JavaScript",
-      "title": "Beginning of the Ende (a community Deno fork)",
-      "url": "https://lobste.rs/s/8ejwsp/beginning_ende_community_deno_fork"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "Lobsters Picks",
       "title": "Oldest GUI application that still runs on Windows 11",
       "url": "https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on"
@@ -1966,6 +1962,12 @@
       "subcat": "Models & Datasets",
       "title": "nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4",
       "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "Lobsters Picks",
+      "title": "Pharo 14 Released",
+      "url": "https://lobste.rs/s/1h5kuj/pharo_14_released"
     }
   ]
 }

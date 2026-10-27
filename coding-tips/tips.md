@@ -2496,6 +2496,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/o5to4p/faster_way_compute_signed_64_bit_floor
 - **Link:** https://www.benjoffe.com/fast-floordiv
 
+**Added 2026-10-27**
+
+### [Pharo 14 Released](https://pharo.org/news/2026-10-26-Pharo14Release.html)
+- **Source:** pharo.org | **Posted:** 2026-10-26 | **By:** fanf
+- **Community:** 17 score, 2 comments on Lobsters
+- **Tags:** release
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/1h5kuj/pharo_14_released
+- **Link:** https://pharo.org/news/2026-10-26-Pharo14Release.html
+
 
 ## Career & Craft
 
