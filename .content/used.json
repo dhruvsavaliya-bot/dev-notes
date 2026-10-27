@@ -1160,6 +1160,7 @@
     "https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on",
     "https://lobste.rs/s/sfdf3h/platform_independent_simd_go",
     "https://lobste.rs/s/sqftld/next_gen_borrow_checker_drop_replacement",
+    "https://lobste.rs/s/ta2ojd/letter_from_machine_learning_engineer",
     "https://lobste.rs/s/tfjoxv/actual_budget",
     "https://lobste.rs/s/tmr7jp/extend_lua_with_zig_1_hello_world",
     "https://lobste.rs/s/tsfs3w/why_function_arguments_are_not_function",
@@ -1225,6 +1226,7 @@
     "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
     "https://nedbatchelder.com/blog/202608/micro_language_implementation_calcium",
     "https://neil.fraser.name/news/2026/09/03/",
+    "https://nemin.hu/llm-letter/index.html",
     "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
     "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
     "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332",
@@ -1933,12 +1935,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "Models & Datasets",
-      "title": "nvidia/simready-assets",
-      "url": "https://huggingface.co/datasets/nvidia/simready-assets"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "Lobsters Picks",
       "title": "CSS-Tricks has a new owner",
       "url": "https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner"
@@ -1990,6 +1986,12 @@
       "subcat": "Rust",
       "title": "Superoptimizing an FPU emulator",
       "url": "https://lobste.rs/s/1s3dve/superoptimizing_fpu_emulator"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "Lobsters Picks",
+      "title": "A Letter from a Machine Learning Engineer",
+      "url": "https://lobste.rs/s/ta2ojd/letter_from_machine_learning_engineer"
     }
   ]
 }

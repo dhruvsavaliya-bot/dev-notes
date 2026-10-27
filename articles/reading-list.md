@@ -2538,6 +2538,16 @@ Additional Notes: https://punkto.org/blog/small_web
 - **Discussion:** https://lobste.rs/s/qcgjpu/kolibri_sovereign_open_weight_model
 - **Link:** https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/
 
+**Added 2026-10-27**
+
+### [A Letter from a Machine Learning Engineer](https://nemin.hu/llm-letter/index.html)
+- **Source:** nemin.hu | **Posted:** 2026-09-14 | **By:** nemin
+- **Community:** 27 score, 14 comments on Lobsters
+- **Tags:** ai
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/ta2ojd/letter_from_machine_learning_engineer
+- **Link:** https://nemin.hu/llm-letter/index.html
+
 
 ## Performance
 
