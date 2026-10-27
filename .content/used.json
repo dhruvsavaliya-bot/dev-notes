@@ -297,6 +297,7 @@
     "https://dev.to/lovestaco/cheap-rag-in-go-with-gemini-file-search-no-vector-db-two-calls-one-hosted-store-4kb5",
     "https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d",
     "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
+    "https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk",
     "https://dev.to/m4rri4nne/rewriting-my-first-nunit-api-tests-cleaner-faster-better-24fa",
     "https://dev.to/maame-codes/devops-from-scratch-a-students-diary-entry-00-5b71",
     "https://dev.to/maame-codes/i-fixed-the-bug-then-my-pipeline-refused-to-run-4c7i",
@@ -1930,12 +1931,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "AI & Machine Learning",
-      "title": "diffusionstudio/editor",
-      "url": "https://github.com/diffusionstudio/editor"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "Hacker News Picks",
       "title": "Anthropic's Scion is heavily inspired by Mononoke",
       "url": "https://news.ycombinator.com/item?id=50094694"
@@ -1987,6 +1982,12 @@
       "subcat": "AI & Machine Learning",
       "title": "rlaope/oh-my-hermes",
       "url": "https://github.com/rlaope/oh-my-hermes"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "Testing",
+      "title": "From Genin to Kage - Understanding the Test Pyramid...",
+      "url": "https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk"
     }
   ]
 }

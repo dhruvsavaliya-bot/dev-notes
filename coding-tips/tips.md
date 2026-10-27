@@ -2545,3 +2545,14 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Tags:** career, learning, development, workplace
 - **Summary:** Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...
 - **Link:** https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da
+
+## Testing
+
+**Added 2026-10-27**
+
+### [From Genin to Kage - Understanding the Test Pyramid with Naruto](https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk)
+- **Author:** Alicia Marianne Gonçalves | **Published:** Dec 23 '25 | **Read time:** 4 min
+- **Community:** 78 reactions, 5 comments -- a top post in #testing
+- **Tags:** testing, beginners, basic, automation
+- **Summary:** It has been a long time since I last wrote an article, and in order to break this hiatus, I decided...
+- **Link:** https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk
