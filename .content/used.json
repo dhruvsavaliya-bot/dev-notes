@@ -925,6 +925,7 @@
     "https://huggingface.co/datasets/nvidia/Open-SWE-Traces",
     "https://huggingface.co/datasets/nvidia/OpenH-RF",
     "https://huggingface.co/datasets/nvidia/OpenMathInstruct-2",
+    "https://huggingface.co/datasets/nvidia/simready-assets",
     "https://huggingface.co/datasets/open-r1/codeforces-cots",
     "https://huggingface.co/datasets/openai/gdpval",
     "https://huggingface.co/datasets/openai/healthbench",
@@ -1917,12 +1918,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: OnKey  I'm a bad singer, so I built an app...",
-      "url": "https://news.ycombinator.com/item?id=50195488"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "Models & Datasets",
       "title": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
       "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8"
@@ -1974,6 +1969,12 @@
       "subcat": "Hacker News Picks",
       "title": "Anthropic's Scion is heavily inspired by Mononoke",
       "url": "https://news.ycombinator.com/item?id=50094694"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "Models & Datasets",
+      "title": "nvidia/simready-assets",
+      "url": "https://huggingface.co/datasets/nvidia/simready-assets"
     }
   ]
 }

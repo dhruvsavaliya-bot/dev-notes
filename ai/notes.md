@@ -1860,6 +1860,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4
 
+**Added 2026-10-27**
+
+### [nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets)
+- **Stats:** 580 likes | 393,196 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-06-29
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/nvidia/simready-assets
+
 
 ## Research Papers
 
