@@ -2357,6 +2357,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~126 stars/day since launch.
 - **Link:** https://github.com/BlueHeisenberg/SCSKiller
 
+**Added 2026-10-27**
+
+### [storytold/wordcraft](https://github.com/storytold/wordcraft)
+- **Stats:** 16,330 stars | 4,461 forks | 1,951 open issues
+- **Language:** Rust | **Created:** 2026-10-07 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** An open-source, clean-room reimplementation of Microsoft Word in pure Rust
+- **Growth:** averaging ~816 stars/day since launch.
+- **Link:** https://github.com/storytold/wordcraft
+
 
 ## Web & Frontend
 

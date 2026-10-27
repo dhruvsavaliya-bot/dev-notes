@@ -760,6 +760,7 @@
     "https://github.com/storytold/figcraft",
     "https://github.com/storytold/photocraft",
     "https://github.com/storytold/vectorcraft",
+    "https://github.com/storytold/wordcraft",
     "https://github.com/strelov1/freehire",
     "https://github.com/sunny-glow/Auto-BenchMax",
     "https://github.com/synthetic-sciences/openscience",
@@ -1935,12 +1936,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "Lobsters Picks",
-      "title": "CSS-Tricks has a new owner",
-      "url": "https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "Java",
       "title": "Building Java ME Apps with Modern Tooling",
       "url": "https://lobste.rs/s/ekwolo/building_java_me_apps_with_modern_tooling"
@@ -1992,6 +1987,12 @@
       "subcat": "Lobsters Picks",
       "title": "A Letter from a Machine Learning Engineer",
       "url": "https://lobste.rs/s/ta2ojd/letter_from_machine_learning_engineer"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "Other Cool Projects",
+      "title": "storytold/wordcraft",
+      "url": "https://github.com/storytold/wordcraft"
     }
   ]
 }
