@@ -1234,6 +1234,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~483 stars/day since launch.
 - **Link:** https://github.com/KnifeLemon/Filee
 
+**Added 2026-10-27**
+
+### [diffusionstudio/editor](https://github.com/diffusionstudio/editor)
+- **Stats:** 3,411 stars | 317 forks | 42 open issues
+- **Language:** TypeScript | **Created:** 2026-07-07 | **License:** MPL-2.0
+- **Topics:** none listed
+- **What it is:** The VS Code of video editing, built for agents.
+- **Growth:** averaging ~30 stars/day since launch.
+- **Link:** https://github.com/diffusionstudio/editor
+
 
 ## Other Cool Projects
 

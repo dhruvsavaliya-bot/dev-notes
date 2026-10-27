@@ -609,6 +609,7 @@
     "https://github.com/denoland/celld",
     "https://github.com/dev-null-sh/dev-null.sh",
     "https://github.com/devdotfast/whiteboard",
+    "https://github.com/diffusionstudio/editor",
     "https://github.com/digimata/quill",
     "https://github.com/dmmulroy/anti-slop",
     "https://github.com/dqev/reicon",
@@ -1914,12 +1915,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "Lobsters Picks",
-      "title": "A faster way to compute signed 64-bit floor division...",
-      "url": "https://lobste.rs/s/o5to4p/faster_way_compute_signed_64_bit_floor"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "AI & Machine Learning",
       "title": "KnifeLemon/Filee",
       "url": "https://github.com/KnifeLemon/Filee"
@@ -1971,6 +1966,12 @@
       "subcat": "Show & Ask HN",
       "title": "Tell HN: Uceprotect is extorting website owners",
       "url": "https://news.ycombinator.com/item?id=49964045"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "AI & Machine Learning",
+      "title": "diffusionstudio/editor",
+      "url": "https://github.com/diffusionstudio/editor"
     }
   ]
 }

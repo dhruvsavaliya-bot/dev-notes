@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1349 entries and counting** · Last updated: 2026-10-27
+**1350 entries and counting** · Last updated: 2026-10-27
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 273 |
+| [Trending Projects](trending-projects/projects.md) | 274 |
 | [AI / LLM Notes](ai/notes.md) | 273 |
 | [Reading List](articles/reading-list.md) | 273 |
 | [Coding Tips](coding-tips/tips.md) | 274 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-27** · *AI & Machine Learning* — [diffusionstudio/editor](https://github.com/diffusionstudio/editor)
 - **2026-10-27** · *Show & Ask HN* — [Tell HN: Uceprotect is extorting website owners](https://news.ycombinator.com/item?id=49964045)
 - **2026-10-27** · *System Design & Architecture* — [Your Microservices Arent Scalable. Your Database Is...](https://dev.to/antfarm-tech/your-microservices-arent-scalable-your-database-is-just-crying-mbd)
 - **2026-10-27** · *Java* — [MorpheApp/PotHelper](https://github.com/MorpheApp/PotHelper)
 - **2026-10-27** · *Lobsters Picks* — [Pharo 14 Released](https://lobste.rs/s/1h5kuj/pharo_14_released)
-- **2026-10-27** · *Models & Datasets* — [nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4)
 
 ## How it works
 
