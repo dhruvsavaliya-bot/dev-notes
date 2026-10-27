@@ -785,6 +785,7 @@
     "https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases",
     "https://github.com/wang2122/sprix-sage-router",
     "https://github.com/wangzhishou/OneBox",
+    "https://github.com/wasi-master/wmkeyboard",
     "https://github.com/web-platform-tests/wpt",
     "https://github.com/wheresryan22/anatomy",
     "https://github.com/wide-trace/open-higgsfield",
@@ -1922,12 +1923,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "Models & Datasets",
-      "title": "nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4",
-      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "Lobsters Picks",
       "title": "Pharo 14 Released",
       "url": "https://lobste.rs/s/1h5kuj/pharo_14_released"
@@ -1979,6 +1974,12 @@
       "subcat": "Java",
       "title": "Building Java ME Apps with Modern Tooling",
       "url": "https://lobste.rs/s/ekwolo/building_java_me_apps_with_modern_tooling"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "Kotlin",
+      "title": "wasi-master/wmkeyboard",
+      "url": "https://github.com/wasi-master/wmkeyboard"
     }
   ]
 }

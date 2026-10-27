@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1354 entries and counting** · Last updated: 2026-10-27
+**1355 entries and counting** · Last updated: 2026-10-27
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 274 |
 | [Reading List](articles/reading-list.md) | 274 |
 | [Coding Tips](coding-tips/tips.md) | 275 |
-| [Language Notes](languages/notes.md) | 257 |
+| [Language Notes](languages/notes.md) | 258 |
 
 ## Latest additions
 
+- **2026-10-27** · *Kotlin* — [wasi-master/wmkeyboard](https://github.com/wasi-master/wmkeyboard)
 - **2026-10-27** · *Java* — [Building Java ME Apps with Modern Tooling](https://lobste.rs/s/ekwolo/building_java_me_apps_with_modern_tooling)
 - **2026-10-27** · *Lobsters Picks* — [CSS-Tricks has a new owner](https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner)
 - **2026-10-27** · *Models & Datasets* — [nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets)
 - **2026-10-27** · *Hacker News Picks* — [Anthropic's Scion is heavily inspired by Mononoke](https://news.ycombinator.com/item?id=50094694)
-- **2026-10-27** · *AI & Machine Learning* — [diffusionstudio/editor](https://github.com/diffusionstudio/editor)
 
 ## How it works
 

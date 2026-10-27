@@ -2277,6 +2277,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~11 stars/day since launch.
 - **Link:** https://github.com/wangzhishou/OneBox
 
+**Added 2026-10-27**
+
+### [wasi-master/wmkeyboard](https://github.com/wasi-master/wmkeyboard)
+- **Stats:** 640 stars | 36 forks | 18 open issues
+- **Language:** Kotlin | **Created:** 2026-08-10 | **License:** MIT
+- **Topics:** android, bengali, ime, input-method, jetpack-compose, keyboard
+- **What it is:** A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and an addon ecosystem.
+- **Growth:** averaging ~8 stars/day since launch.
+- **Link:** https://github.com/wasi-master/wmkeyboard
+
 
 ## Java
 
