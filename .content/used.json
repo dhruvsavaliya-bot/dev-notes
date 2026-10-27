@@ -159,6 +159,7 @@
     "https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/",
     "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
     "https://blog.roboflow.com/openai-gpt-5-6/",
+    "https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/",
     "https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5",
     "https://blog.webb.page/WM-105",
     "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
@@ -1118,6 +1119,7 @@
     "https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think",
     "https://lobste.rs/s/k5omum/brain_sandwich",
     "https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision",
+    "https://lobste.rs/s/kfla2w/demoting_i686_windows_targets_std_only",
     "https://lobste.rs/s/kiivg2/partial_order_precedence",
     "https://lobste.rs/s/lcldxn/rustc_codegen_jvm_rust_compiler_backend",
     "https://lobste.rs/s/lfen2h/living_weimar_era_ruby",
@@ -1925,12 +1927,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "Java",
-      "title": "MorpheApp/PotHelper",
-      "url": "https://github.com/MorpheApp/PotHelper"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "System Design & Architecture",
       "title": "Your Microservices Arent Scalable. Your Database Is...",
       "url": "https://dev.to/antfarm-tech/your-microservices-arent-scalable-your-database-is-just-crying-mbd"
@@ -1982,6 +1978,12 @@
       "subcat": "Python",
       "title": "Show HN: Made an open-source Lego AI generator",
       "url": "https://news.ycombinator.com/item?id=49937916"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "Rust",
+      "title": "Demoting i686 Windows targets to std-only",
+      "url": "https://lobste.rs/s/kfla2w/demoting_i686_windows_targets_std_only"
     }
   ]
 }

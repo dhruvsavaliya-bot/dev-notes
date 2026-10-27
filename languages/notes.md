@@ -1857,6 +1857,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/3vfu09/missing_piece_rust_error_handling
 - **Link:** https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/
 
+**Added 2026-10-27**
+
+### [Demoting i686 Windows targets to std-only](https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/)
+- **Source:** blog.rust-lang.org | **Posted:** 2026-10-08 | **By:** madsmtm
+- **Community:** 17 score, 5 comments on Lobsters
+- **Tags:** rust, windows
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/kfla2w/demoting_i686_windows_targets_std_only
+- **Link:** https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/
+
 
 ## Elixir
 
