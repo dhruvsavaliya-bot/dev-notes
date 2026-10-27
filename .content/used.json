@@ -113,6 +113,7 @@
     "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
     "https://arachnoid.com/lutusp/sailbook.html",
     "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+    "https://archive.org/download/small_web/11787-48384.mp4",
     "https://arcprize.org/leaderboard",
     "https://arcprize.org/results/deepseek-v4-flash-0731",
     "https://aresluna.org/the-hardest-working-font-in-manhattan/",
@@ -1165,6 +1166,7 @@
     "https://lobste.rs/s/xv6z4r/python_iceberg",
     "https://lobste.rs/s/yczems/emacs_finally_folds_my_liking",
     "https://lobste.rs/s/ygp18d/hanami_why_model_citizens",
+    "https://lobste.rs/s/ysyqnt/small_web_is_huge",
     "https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn",
     "https://lobste.rs/s/zknqct/two_kinds_sql_query_builders",
     "https://lobste.rs/s/zlhyss/mathocalypse",
@@ -1899,12 +1901,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "Models & Datasets",
-      "title": "LightwheelAI/EgoPro",
-      "url": "https://huggingface.co/datasets/LightwheelAI/EgoPro"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "Hacker News Picks",
       "title": "Strands Decider 2B: a small, open-source, decision...",
       "url": "https://news.ycombinator.com/item?id=49987076"
@@ -1956,6 +1952,12 @@
       "subcat": "Other Cool Projects",
       "title": "BlueHeisenberg/SCSKiller",
       "url": "https://github.com/BlueHeisenberg/SCSKiller"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "Lobsters Picks",
+      "title": "The Small Web Is Huge",
+      "url": "https://lobste.rs/s/ysyqnt/small_web_is_huge"
     }
   ]
 }

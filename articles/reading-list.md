@@ -2496,6 +2496,18 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/hzrmwz/simple_netbsd_webserver
 - **Link:** https://bsandro.tech/posts/simple-netbsd-webserver/
 
+**Added 2026-10-27**
+
+### [The Small Web Is Huge](https://archive.org/download/small_web/11787-48384.mp4)
+- **Source:** archive.org | **Posted:** 2026-10-26 | **By:** mhm
+- **Community:** 30 score, 4 comments on Lobsters
+- **Tags:** culture, video
+- **Summary:** Speaker Page: https://pretalx.seagl.org/2026/talk/GQZEUY/
+
+Additional Notes: https://punkto.org/blog/small_web
+- **Discussion:** https://lobste.rs/s/ysyqnt/small_web_is_huge
+- **Link:** https://archive.org/download/small_web/11787-48384.mp4
+
 
 ## Performance
 
