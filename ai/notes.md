@@ -1869,6 +1869,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/nvidia/simready-assets
 
+**Added 2026-10-27**
+
+### [SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF](https://huggingface.co/SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF)
+- **Stats:** 469 likes | 2,786,304 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-10-02
+- **Tags:** gguf, llama-cpp, abliterated, uncensored, quantization, tensor-transplant
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF
+
 
 ## Research Papers
 

@@ -873,6 +873,7 @@
     "https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct",
     "https://huggingface.co/Qwen/Qwen3.6-27B",
     "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+    "https://huggingface.co/SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
     "https://huggingface.co/almanach/camembert-base",
     "https://huggingface.co/audeering/wav2vec2-large-robust-24-ft-age-gender",
     "https://huggingface.co/autotrust/AutoTrust-JEV-27B-v1.1",
@@ -1939,12 +1940,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "Python",
-      "title": "Show HN: Made an open-source Lego AI generator",
-      "url": "https://news.ycombinator.com/item?id=49937916"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "Rust",
       "title": "Demoting i686 Windows targets to std-only",
       "url": "https://lobste.rs/s/kfla2w/demoting_i686_windows_targets_std_only"
@@ -1996,6 +1991,12 @@
       "subcat": "Go",
       "title": "Our Response To The eMudhra Key Disclosure Incident",
       "url": "https://lobste.rs/s/cxdpiu/our_response_emudhra_key_disclosure"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "Models & Datasets",
+      "title": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
+      "url": "https://huggingface.co/SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF"
     }
   ]
 }

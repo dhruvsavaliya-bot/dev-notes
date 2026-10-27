@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1365 entries and counting** · Last updated: 2026-10-27
+**1366 entries and counting** · Last updated: 2026-10-27
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 276 |
-| [AI / LLM Notes](ai/notes.md) | 274 |
+| [AI / LLM Notes](ai/notes.md) | 275 |
 | [Reading List](articles/reading-list.md) | 276 |
 | [Coding Tips](coding-tips/tips.md) | 277 |
 | [Language Notes](languages/notes.md) | 262 |
 
 ## Latest additions
 
+- **2026-10-27** · *Models & Datasets* — [SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF](https://huggingface.co/SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF)
 - **2026-10-27** · *Go* — [Our Response To The eMudhra Key Disclosure Incident](https://lobste.rs/s/cxdpiu/our_response_emudhra_key_disclosure)
 - **2026-10-27** · *Testing* — [I'm Not on the DEV Team. I Still Debugged Their...](https://dev.to/dj29/im-not-on-the-dev-team-i-still-debugged-their-missing-badges-from-public-code-and-my-first-test-18oo)
 - **2026-10-27** · *Other Cool Projects* — [storytold/wordcraft](https://github.com/storytold/wordcraft)
 - **2026-10-27** · *Lobsters Picks* — [A Letter from a Machine Learning Engineer](https://lobste.rs/s/ta2ojd/letter_from_machine_learning_engineer)
-- **2026-10-27** · *Rust* — [Superoptimizing an FPU emulator](https://lobste.rs/s/1s3dve/superoptimizing_fpu_emulator)
 
 ## How it works
 
