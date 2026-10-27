@@ -547,6 +547,7 @@
     "https://github.com/agno-agi/agno",
     "https://github.com/ahmetomerv/photoc",
     "https://github.com/ai-sucks-butt/ai-sucks-butt",
+    "https://github.com/air-embodied-brain/Zetta-Embodiment",
     "https://github.com/aliyun/ai-agent-handbook",
     "https://github.com/amagine-ai/Amagine3D",
     "https://github.com/amak-tech/port-buddy",
@@ -1907,12 +1908,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "AI & Machine Learning",
-      "title": "Kuberwastaken/claurst",
-      "url": "https://github.com/Kuberwastaken/claurst"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "Models & Datasets",
       "title": "LightwheelAI/EgoDemo",
       "url": "https://huggingface.co/datasets/LightwheelAI/EgoDemo"
@@ -1964,6 +1959,12 @@
       "subcat": "Models & Datasets",
       "title": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
       "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "Python",
+      "title": "air-embodied-brain/Zetta-Embodiment",
+      "url": "https://github.com/air-embodied-brain/Zetta-Embodiment"
     }
   ]
 }

@@ -831,6 +831,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/rpiwtb/python_3_15_0
 - **Link:** https://www.python.org/downloads/release/python-3150/
 
+**Added 2026-10-27**
+
+### [air-embodied-brain/Zetta-Embodiment](https://github.com/air-embodied-brain/Zetta-Embodiment)
+- **Stats:** 1,307 stars | 85 forks | 9 open issues
+- **Language:** Python | **Created:** 2026-08-18 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** Zetta is an efficient closed-loop embodied harness for self-evolving physical intelligence. It evolves code-based runtime critics and recovery skills online while keeping the base policy frozen. Project Page: https://air-embodied-brain.github.io/zetta/
+- **Growth:** averaging ~18 stars/day since launch.
+- **Link:** https://github.com/air-embodied-brain/Zetta-Embodiment
+
 
 ## Go
 
