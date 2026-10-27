@@ -367,6 +367,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/gu7bow/node_js_wednesday_october_21_2026
 - **Link:** https://nodejs.org/en/blog/vulnerability/october-2026-security-releases
 
+**Added 2026-10-27**
+
+### [Beginning of the Ende (a community Deno fork)](https://blog.webb.page/WM-105)
+- **Source:** blog.webb.page | **Posted:** 2026-10-19 | **By:** hongminhee
+- **Community:** 41 score, 25 comments on Lobsters
+- **Tags:** javascript
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/8ejwsp/beginning_ende_community_deno_fork
+- **Link:** https://blog.webb.page/WM-105
+
 
 ## TypeScript
 

@@ -158,6 +158,7 @@
     "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
     "https://blog.roboflow.com/openai-gpt-5-6/",
     "https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5",
+    "https://blog.webb.page/WM-105",
     "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
     "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
     "https://blueberrywren.dev/blog/primes/",
@@ -1038,6 +1039,7 @@
     "https://lobste.rs/s/7faqgg/claude_says",
     "https://lobste.rs/s/7xg9rm/introducing_firefox_enterprise",
     "https://lobste.rs/s/8csfoa/two_tiny_utils_for_result_pattern",
+    "https://lobste.rs/s/8ejwsp/beginning_ende_community_deno_fork",
     "https://lobste.rs/s/8rkyrl/objects_attributes_maps_oh_my",
     "https://lobste.rs/s/98zvnf/tests_for_pdf",
     "https://lobste.rs/s/9ipypq/updates_full_disk_access_macos",
@@ -1894,12 +1896,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "Rust",
-      "title": "The Missing Piece in Rust Error Handling",
-      "url": "https://lobste.rs/s/3vfu09/missing_piece_rust_error_handling"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "Models & Datasets",
       "title": "Sharpa-Robotics/SharpaDex-v1.0",
       "url": "https://huggingface.co/datasets/Sharpa-Robotics/SharpaDex-v1.0"
@@ -1951,6 +1947,12 @@
       "subcat": "Models & Datasets",
       "title": "LightwheelAI/EgoDemo",
       "url": "https://huggingface.co/datasets/LightwheelAI/EgoDemo"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "JavaScript",
+      "title": "Beginning of the Ende (a community Deno fork)",
+      "url": "https://lobste.rs/s/8ejwsp/beginning_ende_community_deno_fork"
     }
   ]
 }
