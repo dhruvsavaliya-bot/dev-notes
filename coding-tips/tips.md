@@ -2515,6 +2515,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/1h5kuj/pharo_14_released
 - **Link:** https://pharo.org/news/2026-10-26-Pharo14Release.html
 
+**Added 2026-10-27**
+
+### [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
+- **Source:** css-tricks.com | **Posted:** 2026-10-26 | **By:** seb
+- **Community:** 72 score, 2 comments on Lobsters
+- **Tags:** web
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner
+- **Link:** https://css-tricks.com/css-tricks-has-a-new-owner/
+
 
 ## Career & Craft
 
