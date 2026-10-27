@@ -489,6 +489,7 @@
     "https://github.com/MiniMax-AI/MiniMax-H3",
     "https://github.com/Miuzarte/ScrcpyForAndroid",
     "https://github.com/MoonshotAI/Kimi-K3",
+    "https://github.com/MorpheApp/PotHelper",
     "https://github.com/N4darae/shrt",
     "https://github.com/NVIDIA/cuml",
     "https://github.com/NVlabs/SoL-Pi",
@@ -1911,12 +1912,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "Lobsters Picks",
-      "title": "Oldest GUI application that still runs on Windows 11",
-      "url": "https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "Other Cool Projects",
       "title": "BlueHeisenberg/SCSKiller",
       "url": "https://github.com/BlueHeisenberg/SCSKiller"
@@ -1968,6 +1963,12 @@
       "subcat": "Lobsters Picks",
       "title": "Pharo 14 Released",
       "url": "https://lobste.rs/s/1h5kuj/pharo_14_released"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "Java",
+      "title": "MorpheApp/PotHelper",
+      "url": "https://github.com/MorpheApp/PotHelper"
     }
   ]
 }

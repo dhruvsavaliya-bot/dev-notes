@@ -2491,3 +2491,13 @@ Snippets and gotchas across languages.
 - **Tags:** programming, java, go, productivity
 - **Summary:** No sides. No agenda. Just two languages walking into a bar and us watching what happens.             ...
 - **Link:** https://dev.to/adamthedeveloper/go-vs-java-the-minimalist-vs-the-enterprise-veteran-1gg3
+
+**Added 2026-10-27**
+
+### [MorpheApp/PotHelper](https://github.com/MorpheApp/PotHelper)
+- **Stats:** 525 stars | 5 forks | 1 open issues
+- **Language:** Java | **Created:** 2026-08-27 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** A simple PoToken minter written in Java
+- **Growth:** averaging ~8 stars/day since launch.
+- **Link:** https://github.com/MorpheApp/PotHelper
