@@ -2535,6 +2535,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem
 - **Link:** https://astral.sh/blog/tar-codec
 
+**Added 2026-10-28**
+
+### [Compile-Time Dependent Types](https://thenumb.at/Syl-Intro/)
+- **Source:** thenumb.at | **Posted:** 2026-10-27 | **By:** polywolf
+- **Community:** 15 score, 1 comments on Lobsters
+- **Tags:** ml, plt
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/d09iy3/compile_time_dependent_types
+- **Link:** https://thenumb.at/Syl-Intro/
+
 
 ## Career & Craft
 

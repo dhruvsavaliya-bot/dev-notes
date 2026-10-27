@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1370 entries and counting** · Last updated: 2026-10-28
+**1371 entries and counting** · Last updated: 2026-10-28
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 276 |
 | [AI / LLM Notes](ai/notes.md) | 275 |
 | [Reading List](articles/reading-list.md) | 277 |
-| [Coding Tips](coding-tips/tips.md) | 278 |
+| [Coding Tips](coding-tips/tips.md) | 279 |
 | [Language Notes](languages/notes.md) | 264 |
 
 ## Latest additions
 
+- **2026-10-28** · *Lobsters Picks* — [Compile-Time Dependent Types](https://lobste.rs/s/d09iy3/compile_time_dependent_types)
 - **2026-10-28** · *Python* — [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive)
 - **2026-10-28** · *Lobsters Picks* — [A fast and secure tar parser for the Rust ecosystem](https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem)
 - **2026-10-28** · *Lobsters Picks* — [Goodbye Google](https://lobste.rs/s/sxlf4a/goodbye_google)
 - **2026-10-28** · *Python* — [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust)
-- **2026-10-27** · *Models & Datasets* — [SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF](https://huggingface.co/SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF)
 
 ## How it works
 

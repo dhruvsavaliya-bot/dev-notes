@@ -1093,6 +1093,7 @@
     "https://lobste.rs/s/cquwex/flow_typing_new_lens_on_linearity",
     "https://lobste.rs/s/culsub/intellij_idea_goes_lsp_java_kotlin",
     "https://lobste.rs/s/cxdpiu/our_response_emudhra_key_disclosure",
+    "https://lobste.rs/s/d09iy3/compile_time_dependent_types",
     "https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday",
     "https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has",
     "https://lobste.rs/s/dfieqa/bringing_uv_ty_together",
@@ -1801,6 +1802,7 @@
     "https://tenso.rs/demos/fast-neural-style/",
     "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
     "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+    "https://thenumb.at/Syl-Intro/",
     "https://theremin.bizibah.com/",
     "https://thill.me/2026/09/11/what-i-did-at-rc.html",
     "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
@@ -1946,12 +1948,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "Rust",
-      "title": "Superoptimizing an FPU emulator",
-      "url": "https://lobste.rs/s/1s3dve/superoptimizing_fpu_emulator"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "Lobsters Picks",
       "title": "A Letter from a Machine Learning Engineer",
       "url": "https://lobste.rs/s/ta2ojd/letter_from_machine_learning_engineer"
@@ -2003,6 +1999,12 @@
       "subcat": "Python",
       "title": "SenteLabsAI/OpenExecutive",
       "url": "https://github.com/SenteLabsAI/OpenExecutive"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Lobsters Picks",
+      "title": "Compile-Time Dependent Types",
+      "url": "https://lobste.rs/s/d09iy3/compile_time_dependent_types"
     }
   ]
 }
