@@ -2065,6 +2065,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50204125
 - **Link:** https://news.ycombinator.com/item?id=50204125
 
+**Added 2026-10-27**
+
+### [Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key](https://github.com/dsmurrell/onkey)
+- **Source:** github.com | **Posted:** 2026-10-22 | **By:** dsmurrell
+- **Community:** 235 points, 94 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50195488
+- **Link:** https://github.com/dsmurrell/onkey
+
 
 ## Git & Workflow
 

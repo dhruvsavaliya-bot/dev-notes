@@ -612,6 +612,7 @@
     "https://github.com/drumih/turbo-fieldfare",
     "https://github.com/dsh-market/dsh-market",
     "https://github.com/dsh-tauri/deepseek-harness-desktop",
+    "https://github.com/dsmurrell/onkey",
     "https://github.com/duty1g/x64dbg-mcp-server",
     "https://github.com/dzhng/jevgrep",
     "https://github.com/elder-plinius/T3MP3ST",
@@ -1644,6 +1645,7 @@
     "https://news.ycombinator.com/item?id=50183892",
     "https://news.ycombinator.com/item?id=50185869",
     "https://news.ycombinator.com/item?id=50194909",
+    "https://news.ycombinator.com/item?id=50195488",
     "https://news.ycombinator.com/item?id=50197404",
     "https://news.ycombinator.com/item?id=50204125",
     "https://news.ycombinator.com/item?id=50212065",
@@ -1904,12 +1906,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "Models & Datasets",
-      "title": "nisten/opus5-5-doctor-patient-conversations-all-human-d...",
-      "url": "https://huggingface.co/datasets/nisten/opus5-5-doctor-patient-conversations-all-human-diseases"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "Hacker News Picks",
       "title": "DeepInfer: High-performance inference framework for...",
       "url": "https://news.ycombinator.com/item?id=50163277"
@@ -1961,6 +1957,12 @@
       "subcat": "AI & Machine Learning",
       "title": "KnifeLemon/Filee",
       "url": "https://github.com/KnifeLemon/Filee"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: OnKey  I'm a bad singer, so I built an app...",
+      "url": "https://news.ycombinator.com/item?id=50195488"
     }
   ]
 }
