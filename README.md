@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1336 entries and counting** · Last updated: 2026-10-27
+**1337 entries and counting** · Last updated: 2026-10-27
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 271 |
 | [AI / LLM Notes](ai/notes.md) | 271 |
 | [Reading List](articles/reading-list.md) | 271 |
-| [Coding Tips](coding-tips/tips.md) | 269 |
+| [Coding Tips](coding-tips/tips.md) | 270 |
 | [Language Notes](languages/notes.md) | 254 |
 
 ## Latest additions
 
+- **2026-10-27** · *Lobsters Picks* — [Oldest GUI application that still runs on Windows 11](https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on)
 - **2026-10-27** · *JavaScript* — [Beginning of the Ende (a community Deno fork)](https://lobste.rs/s/8ejwsp/beginning_ende_community_deno_fork)
 - **2026-10-27** · *Models & Datasets* — [LightwheelAI/EgoDemo](https://huggingface.co/datasets/LightwheelAI/EgoDemo)
 - **2026-10-27** · *AI & Machine Learning* — [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
 - **2026-10-27** · *Hacker News Picks* — [DeepInfer: High-performance inference framework for...](https://news.ycombinator.com/item?id=50163277)
-- **2026-10-27** · *Models & Datasets* — [nisten/opus5-5-doctor-patient-conversations-all-human-d...](https://huggingface.co/datasets/nisten/opus5-5-doctor-patient-conversations-all-human-diseases)
 
 ## How it works
 
