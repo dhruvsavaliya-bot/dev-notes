@@ -937,6 +937,7 @@
     "https://huggingface.co/datasets/tiiuae/falcon-refinedweb",
     "https://huggingface.co/datasets/ystemsrx/Erotic_Literature_Collection",
     "https://huggingface.co/datasets/zgcagi/ZGCM-1-Data",
+    "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
     "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
     "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
     "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
@@ -1906,12 +1907,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "Hacker News Picks",
-      "title": "DeepInfer: High-performance inference framework for...",
-      "url": "https://news.ycombinator.com/item?id=50163277"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "AI & Machine Learning",
       "title": "Kuberwastaken/claurst",
       "url": "https://github.com/Kuberwastaken/claurst"
@@ -1963,6 +1958,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: OnKey  I'm a bad singer, so I built an app...",
       "url": "https://news.ycombinator.com/item?id=50195488"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "Models & Datasets",
+      "title": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
+      "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8"
     }
   ]
 }

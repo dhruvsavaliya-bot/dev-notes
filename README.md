@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1342 entries and counting** · Last updated: 2026-10-27
+**1343 entries and counting** · Last updated: 2026-10-27
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 273 |
-| [AI / LLM Notes](ai/notes.md) | 271 |
+| [AI / LLM Notes](ai/notes.md) | 272 |
 | [Reading List](articles/reading-list.md) | 272 |
 | [Coding Tips](coding-tips/tips.md) | 272 |
 | [Language Notes](languages/notes.md) | 254 |
 
 ## Latest additions
 
+- **2026-10-27** · *Models & Datasets* — [dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8](https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8)
 - **2026-10-27** · *Show & Ask HN* — [Show HN: OnKey  I'm a bad singer, so I built an app...](https://news.ycombinator.com/item?id=50195488)
 - **2026-10-27** · *AI & Machine Learning* — [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee)
 - **2026-10-27** · *Lobsters Picks* — [A faster way to compute signed 64-bit floor division...](https://lobste.rs/s/o5to4p/faster_way_compute_signed_64_bit_floor)
 - **2026-10-27** · *Lobsters Picks* — [The Small Web Is Huge](https://lobste.rs/s/ysyqnt/small_web_is_huge)
-- **2026-10-27** · *Other Cool Projects* — [BlueHeisenberg/SCSKiller](https://github.com/BlueHeisenberg/SCSKiller)
 
 ## How it works
 
