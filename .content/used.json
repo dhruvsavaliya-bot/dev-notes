@@ -1582,6 +1582,7 @@
     "https://news.ycombinator.com/item?id=49949438",
     "https://news.ycombinator.com/item?id=49952148",
     "https://news.ycombinator.com/item?id=49953288",
+    "https://news.ycombinator.com/item?id=49964045",
     "https://news.ycombinator.com/item?id=49965308",
     "https://news.ycombinator.com/item?id=49970667",
     "https://news.ycombinator.com/item?id=49971230",
@@ -1914,12 +1915,6 @@
     {
       "date": "2026-10-27",
       "subcat": "Lobsters Picks",
-      "title": "The Small Web Is Huge",
-      "url": "https://lobste.rs/s/ysyqnt/small_web_is_huge"
-    },
-    {
-      "date": "2026-10-27",
-      "subcat": "Lobsters Picks",
       "title": "A faster way to compute signed 64-bit floor division...",
       "url": "https://lobste.rs/s/o5to4p/faster_way_compute_signed_64_bit_floor"
     },
@@ -1970,6 +1965,12 @@
       "subcat": "System Design & Architecture",
       "title": "Your Microservices Arent Scalable. Your Database Is...",
       "url": "https://dev.to/antfarm-tech/your-microservices-arent-scalable-your-database-is-just-crying-mbd"
+    },
+    {
+      "date": "2026-10-27",
+      "subcat": "Show & Ask HN",
+      "title": "Tell HN: Uceprotect is extorting website owners",
+      "url": "https://news.ycombinator.com/item?id=49964045"
     }
   ]
 }

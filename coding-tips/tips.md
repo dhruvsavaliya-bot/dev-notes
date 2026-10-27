@@ -2074,6 +2074,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50195488
 - **Link:** https://github.com/dsmurrell/onkey
 
+**Added 2026-10-27**
+
+### [Tell HN: Uceprotect is extorting website owners](https://news.ycombinator.com/item?id=49964045)
+- **Source:** news.ycombinator.com | **Posted:** 2026-10-05 | **By:** goldenmember
+- **Community:** 102 points, 60 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49964045
+- **Link:** https://news.ycombinator.com/item?id=49964045
+
 
 ## Git & Workflow
 
