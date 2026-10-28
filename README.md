@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1373 entries and counting** · Last updated: 2026-10-28
+**1374 entries and counting** · Last updated: 2026-10-28
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 277 |
 | [AI / LLM Notes](ai/notes.md) | 275 |
-| [Reading List](articles/reading-list.md) | 277 |
+| [Reading List](articles/reading-list.md) | 278 |
 | [Coding Tips](coding-tips/tips.md) | 279 |
 | [Language Notes](languages/notes.md) | 265 |
 
 ## Latest additions
 
+- **2026-10-28** · *System Design & Architecture* — [How AI Documentation Tools Cut Onboarding Time by 80%](https://dev.to/entelligenceai/how-ai-documentation-tools-cut-onboarding-time-by-80-15k5)
 - **2026-10-28** · *AI & Machine Learning* — [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research)
 - **2026-10-28** · *Python* — [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus)
 - **2026-10-28** · *Lobsters Picks* — [Compile-Time Dependent Types](https://lobste.rs/s/d09iy3/compile_time_dependent_types)
 - **2026-10-28** · *Python* — [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive)
-- **2026-10-28** · *Lobsters Picks* — [A fast and secure tar parser for the Rust ecosystem](https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem)
 
 ## How it works
 

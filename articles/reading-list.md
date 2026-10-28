@@ -2027,6 +2027,15 @@ Fresh dev articles and blog posts.
 - **Summary:** When we first split our monolith into microservices, it felt like a victory.  Smaller services....
 - **Link:** https://dev.to/antfarm-tech/your-microservices-arent-scalable-your-database-is-just-crying-mbd
 
+**Added 2026-10-28**
+
+### [How AI Documentation Tools Cut Onboarding Time by 80%](https://dev.to/entelligenceai/how-ai-documentation-tools-cut-onboarding-time-by-80-15k5)
+- **Author:** Jay Saadana | **Published:** Dec 9 '25 | **Read time:** 4 min
+- **Community:** 78 reactions, 20 comments -- a top post in #architecture
+- **Tags:** documentation, ai, architecture, programming
+- **Summary:** Developer onboarding is one of the most expensive bottlenecks in engineering organizations. The...
+- **Link:** https://dev.to/entelligenceai/how-ai-documentation-tools-cut-onboarding-time-by-80-15k5
+
 
 ## Lobsters Picks
 
