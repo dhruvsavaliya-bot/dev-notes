@@ -1077,6 +1077,7 @@
     "https://lobste.rs/s/6vjx1k/how_shredding_json_is_giving_logfire",
     "https://lobste.rs/s/73ssw1/plea_not_use_uv_build",
     "https://lobste.rs/s/7faqgg/claude_says",
+    "https://lobste.rs/s/7me8wm/how_close_can_pure_fp_get_c",
     "https://lobste.rs/s/7xg9rm/introducing_firefox_enterprise",
     "https://lobste.rs/s/8csfoa/two_tiny_utils_for_result_pattern",
     "https://lobste.rs/s/8ejwsp/beginning_ende_community_deno_fork",
@@ -1770,6 +1771,7 @@
     "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
     "https://robert.ocallahan.org/2026/09/goodbye-google.html",
     "https://root.cern.ch/cling",
+    "https://rtfeldman.com/fp-vs-c",
     "https://runarcn.no/android-to-linux/",
     "https://sandstorm.org/news/2023-12-05-osm-on-sandstorm",
     "https://savedotorg.org/",
@@ -1968,12 +1970,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "AI & Machine Learning",
-      "title": "decodingai-magazine/building-a-coding-agent-from-scratc...",
-      "url": "https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Lobsters Picks",
       "title": "Filian, Fil-C binaries on Debian",
       "url": "https://lobste.rs/s/rs6ce2/filian_fil_c_binaries_on_debian"
@@ -2025,6 +2021,12 @@
       "subcat": "Research Papers",
       "title": "Targeted Deep Regression - Initial Applications in...",
       "url": "http://arxiv.org/abs/2610.35339v1"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Lobsters Picks",
+      "title": "How close can pure FP get to C?",
+      "url": "https://lobste.rs/s/7me8wm/how_close_can_pure_fp_get_c"
     }
   ]
 }

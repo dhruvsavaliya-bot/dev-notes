@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1385 entries and counting** · Last updated: 2026-10-28
+**1386 entries and counting** · Last updated: 2026-10-28
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 280 |
 | [AI / LLM Notes](ai/notes.md) | 277 |
-| [Reading List](articles/reading-list.md) | 279 |
+| [Reading List](articles/reading-list.md) | 280 |
 | [Coding Tips](coding-tips/tips.md) | 282 |
 | [Language Notes](languages/notes.md) | 267 |
 
 ## Latest additions
 
+- **2026-10-28** · *Lobsters Picks* — [How close can pure FP get to C?](https://lobste.rs/s/7me8wm/how_close_can_pure_fp_get_c)
 - **2026-10-28** · *Research Papers* — [Targeted Deep Regression - Initial Applications in...](http://arxiv.org/abs/2610.35339v1)
 - **2026-10-28** · *Show & Ask HN* — [Show HN: UI micro interactions prompts for AI](https://news.ycombinator.com/item?id=50199290)
 - **2026-10-28** · *AI & Machine Learning* — [xerj-org/xerj](https://github.com/xerj-org/xerj)
 - **2026-10-28** · *Lobsters Picks* — [Stalwart v1.0: The Fastest Mail Server on the Planet](https://lobste.rs/s/c0yniy/stalwart_v1_0_fastest_mail_server_on)
-- **2026-10-28** · *Python* — [UUIDv7 doesn't have the properties you think it does](https://lobste.rs/s/kcyzco/uuidv7_doesn_t_have_properties_you_think)
 
 ## How it works
 

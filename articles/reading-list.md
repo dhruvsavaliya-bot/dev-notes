@@ -2577,6 +2577,16 @@ Additional Notes: https://punkto.org/blog/small_web
 - **Discussion:** https://lobste.rs/s/c0yniy/stalwart_v1_0_fastest_mail_server_on
 - **Link:** https://stalw.art/blog/stalwart-1-0/
 
+**Added 2026-10-28**
+
+### [How close can pure FP get to C?](https://rtfeldman.com/fp-vs-c)
+- **Source:** rtfeldman.com | **Posted:** 2026-10-23 | **By:** pyfisch
+- **Community:** 54 score, 22 comments on Lobsters
+- **Tags:** performance, programming
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/7me8wm/how_close_can_pure_fp_get_c
+- **Link:** https://rtfeldman.com/fp-vs-c
+
 
 ## Performance
 
