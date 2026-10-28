@@ -1274,6 +1274,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~7 stars/day since launch.
 - **Link:** https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course
 
+**Added 2026-10-28**
+
+### [xerj-org/xerj](https://github.com/xerj-org/xerj)
+- **Stats:** 17,154 stars | 1,249 forks | 91 open issues
+- **Language:** Rust | **Created:** 2026-06-30 | **License:** Apache-2.0
+- **Topics:** agent-memory, ai-agents, bm25, claude-code, cli, code-search
+- **What it is:** AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.
+- **Growth:** averaging ~142 stars/day since launch.
+- **Link:** https://github.com/xerj-org/xerj
+
 
 ## Other Cool Projects
 

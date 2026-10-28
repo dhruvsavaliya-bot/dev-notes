@@ -817,6 +817,7 @@
     "https://github.com/xai-org/grok-build",
     "https://github.com/xai-org/x-algorithm",
     "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+    "https://github.com/xerj-org/xerj",
     "https://github.com/xiaobright/dsh-anchored-standard",
     "https://github.com/xm486/YukiHub",
     "https://github.com/xuchonglang/investing-for-beginners",
@@ -1964,12 +1965,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "AI & Machine Learning",
-      "title": "DenisSergeevitch/ex-ussr-kinship-research",
-      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "System Design & Architecture",
       "title": "How AI Documentation Tools Cut Onboarding Time by 80%",
       "url": "https://dev.to/entelligenceai/how-ai-documentation-tools-cut-onboarding-time-by-80-15k5"
@@ -2021,6 +2016,12 @@
       "subcat": "Lobsters Picks",
       "title": "Stalwart v1.0: The Fastest Mail Server on the Planet",
       "url": "https://lobste.rs/s/c0yniy/stalwart_v1_0_fastest_mail_server_on"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "AI & Machine Learning",
+      "title": "xerj-org/xerj",
+      "url": "https://github.com/xerj-org/xerj"
     }
   ]
 }

@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1382 entries and counting** · Last updated: 2026-10-28
+**1383 entries and counting** · Last updated: 2026-10-28
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 279 |
+| [Trending Projects](trending-projects/projects.md) | 280 |
 | [AI / LLM Notes](ai/notes.md) | 276 |
 | [Reading List](articles/reading-list.md) | 279 |
 | [Coding Tips](coding-tips/tips.md) | 281 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-28** · *AI & Machine Learning* — [xerj-org/xerj](https://github.com/xerj-org/xerj)
 - **2026-10-28** · *Lobsters Picks* — [Stalwart v1.0: The Fastest Mail Server on the Planet](https://lobste.rs/s/c0yniy/stalwart_v1_0_fastest_mail_server_on)
 - **2026-10-28** · *Python* — [UUIDv7 doesn't have the properties you think it does](https://lobste.rs/s/kcyzco/uuidv7_doesn_t_have_properties_you_think)
 - **2026-10-28** · *Models & Datasets* — [bakrianoo/jabarti-llm-dataset](https://huggingface.co/datasets/bakrianoo/jabarti-llm-dataset)
 - **2026-10-28** · *Java* — [OpenLDK: Bringing the Java World into Common Lisp](https://lobste.rs/s/cf8mdy/openldk_bringing_java_world_into_common)
-- **2026-10-28** · *Other Cool Projects* — [kasothaphie/GenRecon](https://github.com/kasothaphie/GenRecon)
 
 ## How it works
 
