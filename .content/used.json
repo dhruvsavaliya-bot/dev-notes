@@ -74,6 +74,7 @@
     "http://arxiv.org/abs/2610.29518v1",
     "http://arxiv.org/abs/2610.30090v1",
     "http://arxiv.org/abs/2610.32765v1",
+    "http://arxiv.org/abs/2610.35339v1",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
     "http://boglin.iwarp.com/",
     "http://bokeh.pydata.org/en/latest/",
@@ -1967,12 +1968,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Lobsters Picks",
-      "title": "A stackless floodfill automation (2023)",
-      "url": "https://lobste.rs/s/tp0zlk/stackless_floodfill_automation_2023"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "AI & Machine Learning",
       "title": "decodingai-magazine/building-a-coding-agent-from-scratc...",
       "url": "https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course"
@@ -2024,6 +2019,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: UI micro interactions prompts for AI",
       "url": "https://news.ycombinator.com/item?id=50199290"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Research Papers",
+      "title": "Targeted Deep Regression - Initial Applications in...",
+      "url": "http://arxiv.org/abs/2610.35339v1"
     }
   ]
 }

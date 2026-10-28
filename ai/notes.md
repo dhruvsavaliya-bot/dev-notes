@@ -2569,3 +2569,13 @@ Lessons from building with LLMs.
 - **Abstract:** This paper studies interactions between clean-label poisoning attack and defense in vehicular networks using federated learning (FL). Basic Safety Message (BSM) classification for anomaly detection is modeled as a distributed learning problem over a vehicular network with dynamic topology. As a critical threat to FL, a feature-space clean-label attack is introduced, wherein benign samples are perturbed toward malicious feature extremes, degrading class separability while preserving labels. To co...
 - **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.32765v1
+
+**Added 2026-10-28**
+
+### [Targeted Deep Regression - Initial Applications in Whole-Body Water-Fat MRI in UK Biobank](http://arxiv.org/abs/2610.35339v1)
+- **Authors:** Filip Marttala, Taro Langner, Johan Öfverstedt, Nouman Ahmad et al.
+- **Published:** 2026-10-26 | **Primary category:** cs.LG
+- **Categories:** cs.CV, cs.LG
+- **Abstract:** UK Biobank is a British clinical study which, in addition to large amounts of medical data collected, plans to include detailed Magnetic Resonance Imaging (MRI) examina- tions from 100,000 participants. The image data can be analyzed for example by auto- mated analysis with neural networks for image segmentation or classification to expand the collection of image-derived phenotypes for medical research. In this work, we pro- pose, present and evaluate a methodology that uses image-based regressi...
+- **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.35339v1
