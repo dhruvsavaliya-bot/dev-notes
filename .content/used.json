@@ -675,6 +675,7 @@
     "https://github.com/jwilk/python-syntax-errors",
     "https://github.com/kacperkapusciak/goldie",
     "https://github.com/karatektus/pl_mail",
+    "https://github.com/kasothaphie/GenRecon",
     "https://github.com/kelos-dev/kelos",
     "https://github.com/kirodotdev/KiroCrew",
     "https://github.com/kividbio/kividb",
@@ -1957,12 +1958,6 @@
     {
       "date": "2026-10-28",
       "subcat": "Lobsters Picks",
-      "title": "Goodbye Google",
-      "url": "https://lobste.rs/s/sxlf4a/goodbye_google"
-    },
-    {
-      "date": "2026-10-28",
-      "subcat": "Lobsters Picks",
       "title": "A fast and secure tar parser for the Rust ecosystem",
       "url": "https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem"
     },
@@ -2013,6 +2008,12 @@
       "subcat": "Lobsters Picks",
       "title": "Filian, Fil-C binaries on Debian",
       "url": "https://lobste.rs/s/rs6ce2/filian_fil_c_binaries_on_debian"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Other Cool Projects",
+      "title": "kasothaphie/GenRecon",
+      "url": "https://github.com/kasothaphie/GenRecon"
     }
   ]
 }

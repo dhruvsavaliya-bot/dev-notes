@@ -2387,6 +2387,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~816 stars/day since launch.
 - **Link:** https://github.com/storytold/wordcraft
 
+**Added 2026-10-28**
+
+### [kasothaphie/GenRecon](https://github.com/kasothaphie/GenRecon)
+- **Stats:** 1,056 stars | 101 forks | 6 open issues
+- **Language:** Python | **Created:** 2026-05-21 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~6 stars/day since launch.
+- **Link:** https://github.com/kasothaphie/GenRecon
+
 
 ## Web & Frontend
 
