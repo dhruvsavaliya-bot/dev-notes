@@ -432,6 +432,7 @@
     "https://github.com/49-Agents/49-IDE",
     "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
     "https://github.com/AFK-surf/Comma",
+    "https://github.com/AhmadHassan-BTed/Noria",
     "https://github.com/Albert-Weasker/niubigeo",
     "https://github.com/AlephAITech/WorkBuddyGuide",
     "https://github.com/AlexandrosGounis/pdfx",
@@ -1991,12 +1992,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Models & Datasets",
-      "title": "GokuScraper/seedance-2-prompts-datasets",
-      "url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Other Cool Projects",
       "title": "shilapi/xcertplay",
       "url": "https://github.com/shilapi/xcertplay"
@@ -2048,6 +2043,12 @@
       "subcat": "Show & Ask HN",
       "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I...",
       "url": "https://news.ycombinator.com/item?id=50193416"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "JavaScript",
+      "title": "AhmadHassan-BTed/Noria",
+      "url": "https://github.com/AhmadHassan-BTed/Noria"
     }
   ]
 }

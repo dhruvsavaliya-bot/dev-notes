@@ -377,6 +377,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/8ejwsp/beginning_ende_community_deno_fork
 - **Link:** https://blog.webb.page/WM-105
 
+**Added 2026-10-28**
+
+### [AhmadHassan-BTed/Noria](https://github.com/AhmadHassan-BTed/Noria)
+- **Stats:** 3,694 stars | 3 forks | 7 open issues
+- **Language:** JavaScript | **Created:** 2026-05-31 | **License:** MIT
+- **Topics:** ai-agent, automation, data-extraction, event-driven-architecture, gemini-api, jina-ai
+- **What it is:** An agentic extractor for messaging platforms. Noria receives messages & URLs via chat; scrapes web data to evaluate the content against custom scoring matrices (e.g., jobs, scholarships); and sends a structured summary with a calculated match score directly to the assigned messenger number.
+- **Growth:** averaging ~24 stars/day since launch.
+- **Link:** https://github.com/AhmadHassan-BTed/Noria
+
 
 ## TypeScript
 
