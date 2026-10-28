@@ -2845,3 +2845,13 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - **Growth:** averaging ~0 stars/day since launch.
 - **Link:** https://github.com/shellhub-io/shellhub
+
+**Added 2026-10-28**
+
+### [palemoky/chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api)
+- **Stats:** 3,586 stars | 471 forks | 8 open issues
+- **Language:** Go | **Created:** 2025-12-08 | **License:** GPL-3.0
+- **Topics:** api, chinese, graphql, poetry
+- **What it is:** 📜 诗泉：高性能中国古诗词 API 服务
+- **Growth:** averaging ~11 stars/day since launch.
+- **Link:** https://github.com/palemoky/chinese-poetry-api

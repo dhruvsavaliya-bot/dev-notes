@@ -743,6 +743,7 @@
     "https://github.com/openobserve/openobserve",
     "https://github.com/oso95/scroll-world",
     "https://github.com/outsourc-e/hermes-workspace",
+    "https://github.com/palemoky/chinese-poetry-api",
     "https://github.com/palkan/layered-rails-skills",
     "https://github.com/panxunying/ai-coding-welfare",
     "https://github.com/pathwaycom/arc-task-gen",
@@ -1992,12 +1993,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Other Cool Projects",
-      "title": "shilapi/xcertplay",
-      "url": "https://github.com/shilapi/xcertplay"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "TypeScript",
       "title": "basketikun/infinite-canvas",
       "url": "https://github.com/basketikun/infinite-canvas"
@@ -2049,6 +2044,12 @@
       "subcat": "JavaScript",
       "title": "AhmadHassan-BTed/Noria",
       "url": "https://github.com/AhmadHassan-BTed/Noria"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Backend & Infrastructure",
+      "title": "palemoky/chinese-poetry-api",
+      "url": "https://github.com/palemoky/chinese-poetry-api"
     }
   ]
 }
