@@ -1177,6 +1177,7 @@
     "https://lobste.rs/s/ta2ojd/letter_from_machine_learning_engineer",
     "https://lobste.rs/s/tfjoxv/actual_budget",
     "https://lobste.rs/s/tmr7jp/extend_lua_with_zig_1_hello_world",
+    "https://lobste.rs/s/tp0zlk/stackless_floodfill_automation_2023",
     "https://lobste.rs/s/tsfs3w/why_function_arguments_are_not_function",
     "https://lobste.rs/s/u4vlin/french_supermarket_chains_say",
     "https://lobste.rs/s/u7dr96/soft_deprecating_re_match",
@@ -1797,6 +1798,7 @@
     "https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en",
     "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
     "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+    "https://t3x.org/files/floodfill.pdf",
     "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
     "https://talkweb.eu/openweb/4558/",
     "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
@@ -1951,12 +1953,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "Go",
-      "title": "Our Response To The eMudhra Key Disclosure Incident",
-      "url": "https://lobste.rs/s/cxdpiu/our_response_emudhra_key_disclosure"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "Models & Datasets",
       "title": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
       "url": "https://huggingface.co/SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF"
@@ -2008,6 +2004,12 @@
       "subcat": "System Design & Architecture",
       "title": "How AI Documentation Tools Cut Onboarding Time by 80%",
       "url": "https://dev.to/entelligenceai/how-ai-documentation-tools-cut-onboarding-time-by-80-15k5"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Lobsters Picks",
+      "title": "A stackless floodfill automation (2023)",
+      "url": "https://lobste.rs/s/tp0zlk/stackless_floodfill_automation_2023"
     }
   ]
 }

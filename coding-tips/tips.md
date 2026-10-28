@@ -2545,6 +2545,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/d09iy3/compile_time_dependent_types
 - **Link:** https://thenumb.at/Syl-Intro/
 
+**Added 2026-10-28**
+
+### [A stackless floodfill automation (2023)](https://t3x.org/files/floodfill.pdf)
+- **Source:** t3x.org | **Posted:** 2026-10-27 | **By:** pushcx
+- **Community:** 22 score, 2 comments on Lobsters
+- **Tags:** compsci, pdf
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/tp0zlk/stackless_floodfill_automation_2023
+- **Link:** https://t3x.org/files/floodfill.pdf
+
 
 ## Career & Craft
 
