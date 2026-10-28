@@ -1901,6 +1901,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50094694
 - **Link:** https://sunshowers.io/posts/anthropic-mononoke/
 
+**Added 2026-10-28**
+
+### [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
+- **Source:** www.brangus.io | **Posted:** 2026-10-27 | **By:** Luc
+- **Community:** 408 points, 155 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50264853
+- **Link:** https://www.brangus.io/survival-llm
+
 
 ## DevOps & Cloud
 

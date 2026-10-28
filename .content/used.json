@@ -1727,6 +1727,7 @@
     "https://news.ycombinator.com/item?id=50236102",
     "https://news.ycombinator.com/item?id=50241664",
     "https://news.ycombinator.com/item?id=50242939",
+    "https://news.ycombinator.com/item?id=50264853",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -1886,6 +1887,7 @@
     "https://www.benjoffe.com/fast-floordiv",
     "https://www.blackmagicdesign.com/media/release/20260908-03",
     "https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke",
+    "https://www.brangus.io/survival-llm",
     "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
     "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
     "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
@@ -1988,12 +1990,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Kotlin",
-      "title": "rushiranpise/morphe-patches",
-      "url": "https://github.com/rushiranpise/morphe-patches"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "AI & Machine Learning",
       "title": "AFK-surf/Comma",
       "url": "https://github.com/AFK-surf/Comma"
@@ -2045,6 +2041,12 @@
       "subcat": "Web & Frontend",
       "title": "AlexandrosGounis/pdfx",
       "url": "https://github.com/AlexandrosGounis/pdfx"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Hacker News Picks",
+      "title": "Survival LLM: AI assistant and emergency library that...",
+      "url": "https://news.ycombinator.com/item?id=50264853"
     }
   ]
 }

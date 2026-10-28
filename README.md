@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1401 entries and counting** · Last updated: 2026-10-28
+**1402 entries and counting** · Last updated: 2026-10-28
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 283 |
 | [AI / LLM Notes](ai/notes.md) | 282 |
-| [Reading List](articles/reading-list.md) | 282 |
+| [Reading List](articles/reading-list.md) | 283 |
 | [Coding Tips](coding-tips/tips.md) | 283 |
 | [Language Notes](languages/notes.md) | 271 |
 
 ## Latest additions
 
+- **2026-10-28** · *Hacker News Picks* — [Survival LLM: AI assistant and emergency library that...](https://news.ycombinator.com/item?id=50264853)
 - **2026-10-28** · *Web & Frontend* — [AlexandrosGounis/pdfx](https://github.com/AlexandrosGounis/pdfx)
 - **2026-10-28** · *Models & Datasets* — [CodeDevX/Vibe-Coding-Instruct](https://huggingface.co/datasets/CodeDevX/Vibe-Coding-Instruct)
 - **2026-10-28** · *Show & Ask HN* — [Show HN: Glashtte Trash Clock  A 30-minute pendulum...](https://news.ycombinator.com/item?id=49930439)
 - **2026-10-28** · *Lobsters Picks* — [awesome-tunneling: List of tunneling software and...](https://lobste.rs/s/myuake/awesome_tunneling_list_tunneling)
-- **2026-10-28** · *AI Engineering* — [I Made 866 Commits in 5 Weeks. My Understanding...](https://dev.to/mikachu/i-made-866-commits-in-5-weeks-my-understanding-didnt-keep-up-cmo)
 
 ## How it works
 
