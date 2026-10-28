@@ -1264,6 +1264,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~352 stars/day since launch.
 - **Link:** https://github.com/DenisSergeevitch/ex-ussr-kinship-research
 
+**Added 2026-10-28**
+
+### [decodingai-magazine/building-a-coding-agent-from-scratch-course](https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course)
+- **Stats:** 996 stars | 234 forks | 3 open issues
+- **Language:** Python | **Created:** 2026-06-19 | **License:** Apache-2.0
+- **Topics:** ai-agent, ai-coding-assistant, claude-code, coding-agent, course, curated-list
+- **What it is:** Learn harness engineering by building Claude Code from scratch. Free, open-source course: 8 articles, 6 videos, 1 codebase.
+- **Growth:** averaging ~7 stars/day since launch.
+- **Link:** https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course
+
 
 ## Other Cool Projects
 

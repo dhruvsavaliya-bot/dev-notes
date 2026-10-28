@@ -612,6 +612,7 @@
     "https://github.com/darshi1337/apogee",
     "https://github.com/dataelement/dsh-desktop",
     "https://github.com/davidondrej/skills",
+    "https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course",
     "https://github.com/deeplethe/utopia",
     "https://github.com/deepseek-ai/DeepInfer",
     "https://github.com/deepseek-ai/DeepSpec",
@@ -1952,12 +1953,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-27",
-      "subcat": "Models & Datasets",
-      "title": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
-      "url": "https://huggingface.co/SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF"
-    },
-    {
       "date": "2026-10-28",
       "subcat": "Python",
       "title": "morganlinton/BeautifulRust",
@@ -2010,6 +2005,12 @@
       "subcat": "Lobsters Picks",
       "title": "A stackless floodfill automation (2023)",
       "url": "https://lobste.rs/s/tp0zlk/stackless_floodfill_automation_2023"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "AI & Machine Learning",
+      "title": "decodingai-magazine/building-a-coding-agent-from-scratc...",
+      "url": "https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course"
     }
   ]
 }
