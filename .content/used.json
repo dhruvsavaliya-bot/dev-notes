@@ -749,6 +749,7 @@
     "https://github.com/openobserve/openobserve",
     "https://github.com/oso95/scroll-world",
     "https://github.com/outsourc-e/hermes-workspace",
+    "https://github.com/p1neappleXpress/OpenFlux",
     "https://github.com/palemoky/chinese-poetry-api",
     "https://github.com/palkan/layered-rails-skills",
     "https://github.com/panxunying/ai-coding-welfare",
@@ -2004,12 +2005,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "JavaScript",
-      "title": "AhmadHassan-BTed/Noria",
-      "url": "https://github.com/AhmadHassan-BTed/Noria"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Backend & Infrastructure",
       "title": "palemoky/chinese-poetry-api",
       "url": "https://github.com/palemoky/chinese-poetry-api"
@@ -2061,6 +2056,12 @@
       "subcat": "Research Papers",
       "title": "Balanced State Subspaces for Mamba-2 State Compression",
       "url": "http://arxiv.org/abs/2610.36617v1"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Go",
+      "title": "p1neappleXpress/OpenFlux",
+      "url": "https://github.com/p1neappleXpress/OpenFlux"
     }
   ]
 }

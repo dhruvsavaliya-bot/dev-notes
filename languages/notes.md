@@ -1155,6 +1155,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/cxdpiu/our_response_emudhra_key_disclosure
 - **Link:** https://go.dev/blog/emudhra-incident
 
+**Added 2026-10-29**
+
+### [p1neappleXpress/OpenFlux](https://github.com/p1neappleXpress/OpenFlux)
+- **Stats:** 2,298 stars | 197 forks | 113 open issues
+- **Language:** Go | **Created:** 2026-06-21 | **License:** GPL-3.0
+- **Topics:** none listed
+- **What it is:** Network stack research tool. TCP tunnel with pluggable transports.
+- **Growth:** averaging ~17 stars/day since launch.
+- **Link:** https://github.com/p1neappleXpress/OpenFlux
+
 
 ## PHP
 
