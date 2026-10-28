@@ -2590,3 +2590,13 @@ Snippets and gotchas across languages.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/ekwolo/building_java_me_apps_with_modern_tooling
 - **Link:** https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/
+
+**Added 2026-10-28**
+
+### [OpenLDK: Bringing the Java World into Common Lisp](https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/)
+- **Source:** atgreen.github.io | **Posted:** 2026-10-26 | **By:** veqq
+- **Community:** 18 score, 1 comments on Lobsters
+- **Tags:** java, lisp
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/cf8mdy/openldk_bringing_java_world_into_common
+- **Link:** https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/

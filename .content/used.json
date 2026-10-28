@@ -127,6 +127,7 @@
     "https://arxiv.org/abs/2609.18842",
     "https://astral.sh/blog/tar-codec",
     "https://astral.sh/blog/uv-ty-integration",
+    "https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/",
     "https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/",
     "https://bastardica.mitpit.com",
     "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
@@ -1095,6 +1096,7 @@
     "https://lobste.rs/s/ccnirb/there_are_only_twelve_4x4_sudokus_cool",
     "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your",
     "https://lobste.rs/s/ceuque/debian_code_search_fast_turbopfor_with_go",
+    "https://lobste.rs/s/cf8mdy/openldk_bringing_java_world_into_common",
     "https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit",
     "https://lobste.rs/s/cquwex/flow_typing_new_lens_on_linearity",
     "https://lobste.rs/s/culsub/intellij_idea_goes_lsp_java_kotlin",
@@ -1957,12 +1959,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Lobsters Picks",
-      "title": "A fast and secure tar parser for the Rust ecosystem",
-      "url": "https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Python",
       "title": "SenteLabsAI/OpenExecutive",
       "url": "https://github.com/SenteLabsAI/OpenExecutive"
@@ -2014,6 +2010,12 @@
       "subcat": "Other Cool Projects",
       "title": "kasothaphie/GenRecon",
       "url": "https://github.com/kasothaphie/GenRecon"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Java",
+      "title": "OpenLDK: Bringing the Java World into Common Lisp",
+      "url": "https://lobste.rs/s/cf8mdy/openldk_bringing_java_world_into_common"
     }
   ]
 }
