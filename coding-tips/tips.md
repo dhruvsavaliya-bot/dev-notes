@@ -2101,6 +2101,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49930439
 - **Link:** https://niklasroy.com/gtc/
 
+**Added 2026-10-28**
+
+### [Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry](https://news.ycombinator.com/item?id=50193416)
+- **Source:** news.ycombinator.com | **Posted:** 2026-10-22 | **By:** petecooper
+- **Community:** 753 points, 269 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50193416
+- **Link:** https://news.ycombinator.com/item?id=50193416
+
 
 ## Git & Workflow
 
