@@ -2447,6 +2447,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~61 stars/day since launch.
 - **Link:** https://github.com/kkk-bot/HowToGetAlong
 
+**Added 2026-10-29**
+
+### [talivia-group/talivia](https://github.com/talivia-group/talivia)
+- **Stats:** 2,346 stars | 134 forks | 3 open issues
+- **Language:** TypeScript | **Created:** 2026-07-29 | **License:** MIT
+- **Topics:** analytics, bing, datafast, dodopayments, google-search, lemonsqueezy
+- **What it is:** Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative
+- **Growth:** averaging ~25 stars/day since launch.
+- **Link:** https://github.com/talivia-group/talivia
+
 
 ## Web & Frontend
 

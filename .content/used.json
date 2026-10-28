@@ -799,6 +799,7 @@
     "https://github.com/strelov1/freehire",
     "https://github.com/sunny-glow/Auto-BenchMax",
     "https://github.com/synthetic-sciences/openscience",
+    "https://github.com/talivia-group/talivia",
     "https://github.com/tamaratran/fast-jev-compaction",
     "https://github.com/tamnd/kage",
     "https://github.com/tangency-labs/solidcraft",
@@ -2012,12 +2013,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-28",
-      "subcat": "Career & Craft",
-      "title": "'Localhost' is a Lie: Everything Uni Missed About...",
-      "url": "https://dev.to/maame-codes/localhost-is-a-lie-everything-uni-missed-about-real-world-tech-66n"
-    },
-    {
       "date": "2026-10-29",
       "subcat": "Swift",
       "title": "Apple's new 'Switch to Safari' campaign details why...",
@@ -2070,6 +2065,12 @@
       "subcat": "Lobsters Picks",
       "title": "Billion-query-per-second lookup tables in C++",
       "url": "https://lobste.rs/s/d3ubhd/billion_query_per_second_lookup_tables_c"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Other Cool Projects",
+      "title": "talivia-group/talivia",
+      "url": "https://github.com/talivia-group/talivia"
     }
   ]
 }
