@@ -2600,6 +2600,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~562 stars/day since launch.
 - **Link:** https://github.com/tangency-labs/solidcraft
 
+**Added 2026-10-28**
+
+### [AlexandrosGounis/pdfx](https://github.com/AlexandrosGounis/pdfx)
+- **Stats:** 1,084 stars | 126 forks | 3 open issues
+- **Language:** TypeScript | **Created:** 2026-06-24 | **License:** MIT
+- **Topics:** electron, electron-app, electronjs, liquid-glass, macos-app, open-source
+- **What it is:** A free-floating 2D Canvas for processing multiple PDF files simultaneously
+- **Growth:** averaging ~8 stars/day since launch.
+- **Link:** https://github.com/AlexandrosGounis/pdfx
+
 
 ## Developer Tools
 

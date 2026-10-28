@@ -434,6 +434,7 @@
     "https://github.com/AFK-surf/Comma",
     "https://github.com/Albert-Weasker/niubigeo",
     "https://github.com/AlephAITech/WorkBuddyGuide",
+    "https://github.com/AlexandrosGounis/pdfx",
     "https://github.com/Alvin9999-newpac/fanqiang",
     "https://github.com/Amansingh-afk/milli.nvim",
     "https://github.com/AndrewDryga/emisar",
@@ -1987,12 +1988,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Java",
-      "title": "Iron Age salt-mining complex found beneath Hallstatt...",
-      "url": "https://news.ycombinator.com/item?id=50200957"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Kotlin",
       "title": "rushiranpise/morphe-patches",
       "url": "https://github.com/rushiranpise/morphe-patches"
@@ -2044,6 +2039,12 @@
       "subcat": "Models & Datasets",
       "title": "CodeDevX/Vibe-Coding-Instruct",
       "url": "https://huggingface.co/datasets/CodeDevX/Vibe-Coding-Instruct"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Web & Frontend",
+      "title": "AlexandrosGounis/pdfx",
+      "url": "https://github.com/AlexandrosGounis/pdfx"
     }
   ]
 }
