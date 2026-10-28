@@ -1630,6 +1630,7 @@
     "https://news.ycombinator.com/item?id=49922569",
     "https://news.ycombinator.com/item?id=49922674",
     "https://news.ycombinator.com/item?id=49926773",
+    "https://news.ycombinator.com/item?id=49930439",
     "https://news.ycombinator.com/item?id=49931031",
     "https://news.ycombinator.com/item?id=49935038",
     "https://news.ycombinator.com/item?id=49937916",
@@ -1735,6 +1736,7 @@
     "https://news.ycombinator.com/item?id=8870361",
     "https://news.ycombinator.com/item?id=9962185",
     "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+    "https://niklasroy.com/gtc/",
     "https://nikolays.github.io/PGSimCity/",
     "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
     "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
@@ -1984,12 +1986,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Research Papers",
-      "title": "Typechecking without Minimum Types: Finite Bases and...",
-      "url": "http://arxiv.org/abs/2610.20356v1"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Swift",
       "title": "bjarneo/flux",
       "url": "https://github.com/bjarneo/flux"
@@ -2041,6 +2037,12 @@
       "subcat": "Lobsters Picks",
       "title": "awesome-tunneling: List of tunneling software and...",
       "url": "https://lobste.rs/s/myuake/awesome_tunneling_list_tunneling"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Glashtte Trash Clock  A 30-minute pendulum...",
+      "url": "https://news.ycombinator.com/item?id=49930439"
     }
   ]
 }

@@ -2092,6 +2092,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50199290
 - **Link:** https://www.typeui.sh/micro-interactions
 
+**Added 2026-10-28**
+
+### [Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash](https://niklasroy.com/gtc/)
+- **Source:** niklasroy.com | **Posted:** 2026-10-02 | **By:** r0r0
+- **Community:** 236 points, 48 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49930439
+- **Link:** https://niklasroy.com/gtc/
+
 
 ## Git & Workflow
 
