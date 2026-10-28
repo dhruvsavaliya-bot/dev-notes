@@ -1887,6 +1887,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/bakrianoo/jabarti-llm-dataset
 
+**Added 2026-10-28**
+
+### [OliviaRossi/Minimax-h3_Singularity-x-10Eros-Max_PRISM](https://huggingface.co/OliviaRossi/Minimax-h3_Singularity-x-10Eros-Max_PRISM)
+- **Stats:** 87 likes | 17,415 downloads
+- **Kind:** Hugging Face model | **Task:** n/a | **Created:** 2026-10-24
+- **Tags:** minimax-h3, merge, ref2va
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/OliviaRossi/Minimax-h3_Singularity-x-10Eros-Max_PRISM
+
 
 ## Research Papers
 
