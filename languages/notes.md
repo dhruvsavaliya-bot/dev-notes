@@ -387,6 +387,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~24 stars/day since launch.
 - **Link:** https://github.com/AhmadHassan-BTed/Noria
 
+**Added 2026-10-28**
+
+### [Chlience/yt-dlp-tauri](https://github.com/Chlience/yt-dlp-tauri)
+- **Stats:** 422 stars | 26 forks | 8 open issues
+- **Language:** JavaScript | **Created:** 2026-05-26 | **License:** GPL-3.0
+- **Topics:** none listed
+- **What it is:** A minimal Windows desktop downloader powered by yt-dlp and Tauri 2. / 基于 yt-dlp 和 Tauri 2 的轻量 Windows 桌面下载器。
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/Chlience/yt-dlp-tauri
+
 
 ## TypeScript
 

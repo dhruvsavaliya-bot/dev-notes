@@ -448,6 +448,7 @@
     "https://github.com/Blimp-Labs/claude-usage-bar",
     "https://github.com/BlueHeisenberg/SCSKiller",
     "https://github.com/BuilderIO/skills",
+    "https://github.com/Chlience/yt-dlp-tauri",
     "https://github.com/CircuitLord/CircuitLordVRModInstaller",
     "https://github.com/CluvexStudio/Aether",
     "https://github.com/Contrastive-LM/CLM",
@@ -1996,12 +1997,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Lobsters Picks",
-      "title": "awesome-tunneling: List of tunneling software and...",
-      "url": "https://lobste.rs/s/myuake/awesome_tunneling_list_tunneling"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Glashtte Trash Clock  A 30-minute pendulum...",
       "url": "https://news.ycombinator.com/item?id=49930439"
@@ -2053,6 +2048,12 @@
       "subcat": "Career & Craft",
       "title": "Unboxable in Tech: The Evidence Locker",
       "url": "https://dev.to/pascal_cescato_692b7a8a20/unboxable-in-tech-the-evidence-locker-20n4"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "JavaScript",
+      "title": "Chlience/yt-dlp-tauri",
+      "url": "https://github.com/Chlience/yt-dlp-tauri"
     }
   ]
 }
