@@ -2620,3 +2620,12 @@ Snippets and gotchas across languages.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/cf8mdy/openldk_bringing_java_world_into_common
 - **Link:** https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/
+
+**Added 2026-10-28**
+
+### [Iron Age salt-mining complex found beneath Hallstatt in Austria](https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/)
+- **Source:** archaeologymag.com | **Posted:** 2026-10-22 | **By:** janandonly
+- **Community:** 143 points, 63 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50200957
+- **Link:** https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/

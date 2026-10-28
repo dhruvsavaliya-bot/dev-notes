@@ -117,6 +117,7 @@
     "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
     "https://arachnoid.com/lutusp/sailbook.html",
     "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+    "https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/",
     "https://archive.org/download/small_web/11787-48384.mp4",
     "https://arcprize.org/leaderboard",
     "https://arcprize.org/results/deepseek-v4-flash-0731",
@@ -1705,6 +1706,7 @@
     "https://news.ycombinator.com/item?id=50195488",
     "https://news.ycombinator.com/item?id=50197404",
     "https://news.ycombinator.com/item?id=50199290",
+    "https://news.ycombinator.com/item?id=50200957",
     "https://news.ycombinator.com/item?id=50204125",
     "https://news.ycombinator.com/item?id=50212065",
     "https://news.ycombinator.com/item?id=50222133",
@@ -1974,12 +1976,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Python",
-      "title": "UUIDv7 doesn't have the properties you think it does",
-      "url": "https://lobste.rs/s/kcyzco/uuidv7_doesn_t_have_properties_you_think"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Lobsters Picks",
       "title": "Stalwart v1.0: The Fastest Mail Server on the Planet",
       "url": "https://lobste.rs/s/c0yniy/stalwart_v1_0_fastest_mail_server_on"
@@ -2031,6 +2027,12 @@
       "subcat": "Swift",
       "title": "bjarneo/flux",
       "url": "https://github.com/bjarneo/flux"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Java",
+      "title": "Iron Age salt-mining complex found beneath Hallstatt...",
+      "url": "https://news.ycombinator.com/item?id=50200957"
     }
   ]
 }
