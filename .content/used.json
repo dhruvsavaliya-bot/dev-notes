@@ -313,6 +313,7 @@
     "https://dev.to/malusev998/why-i-built-an-ssh-config-and-tunnel-manager-for-macos-58n8",
     "https://dev.to/metal3d/git-worktree-like-a-boss-2j1b",
     "https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd",
+    "https://dev.to/mikachu/i-made-866-commits-in-5-weeks-my-understanding-didnt-keep-up-cmo",
     "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd",
     "https://dev.to/mikachu/i-write-on-a-2006-imac-and-code-on-a-200-laptop-9n4",
     "https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h",
@@ -1981,12 +1982,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Models & Datasets",
-      "title": "OliviaRossi/Minimax-h3_Singularity-x-10Eros-Max_PRISM",
-      "url": "https://huggingface.co/OliviaRossi/Minimax-h3_Singularity-x-10Eros-Max_PRISM"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Open Source",
       "title": "is-kit Reached 100 Stars  Heres What Changed Since 50",
       "url": "https://dev.to/nyaomaru/is-kit-reached-100-stars-heres-what-changed-since-50-49pf"
@@ -2038,6 +2033,12 @@
       "subcat": "TypeScript",
       "title": "basketikun/infinite-canvas",
       "url": "https://github.com/basketikun/infinite-canvas"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "AI Engineering",
+      "title": "I Made 866 Commits in 5 Weeks. My Understanding...",
+      "url": "https://dev.to/mikachu/i-made-866-commits-in-5-weeks-my-understanding-didnt-keep-up-cmo"
     }
   ]
 }

@@ -465,6 +465,15 @@ Lessons from building with LLMs.
 - **Summary:** "If you use AI, you're not a real developer."  Same energy as every gatekeeping panic before it:...
 - **Link:** https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l
 
+**Added 2026-10-28**
+
+### [I Made 866 Commits in 5 Weeks. My Understanding Didn't Keep Up.](https://dev.to/mikachu/i-made-866-commits-in-5-weeks-my-understanding-didnt-keep-up-cmo)
+- **Author:** Mika Flowers | **Published:** Oct 3 | **Read time:** 7 min
+- **Community:** 63 reactions, 23 comments -- a top post in #ai
+- **Tags:** ai, productivity, programming, beginners
+- **Summary:** AI has made me dramatically faster at building software. You can see it on my GitHub: a sudden surge...
+- **Link:** https://dev.to/mikachu/i-made-866-commits-in-5-weeks-my-understanding-didnt-keep-up-cmo
+
 
 ## LLMs
 
