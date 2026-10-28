@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1393 entries and counting** · Last updated: 2026-10-28
+**1394 entries and counting** · Last updated: 2026-10-28
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 281 |
-| [AI / LLM Notes](ai/notes.md) | 279 |
+| [AI / LLM Notes](ai/notes.md) | 280 |
 | [Reading List](articles/reading-list.md) | 281 |
 | [Coding Tips](coding-tips/tips.md) | 282 |
 | [Language Notes](languages/notes.md) | 270 |
 
 ## Latest additions
 
+- **2026-10-28** · *Models & Datasets* — [GokuScraper/seedance-2-prompts-datasets](https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets)
 - **2026-10-28** · *AI & Machine Learning* — [AFK-surf/Comma](https://github.com/AFK-surf/Comma)
 - **2026-10-28** · *Kotlin* — [rushiranpise/morphe-patches](https://github.com/rushiranpise/morphe-patches)
 - **2026-10-28** · *Java* — [Iron Age salt-mining complex found beneath Hallstatt...](https://news.ycombinator.com/item?id=50200957)
 - **2026-10-28** · *Swift* — [bjarneo/flux](https://github.com/bjarneo/flux)
-- **2026-10-28** · *Research Papers* — [Typechecking without Minimum Types: Finite Bases and...](http://arxiv.org/abs/2610.20356v1)
 
 ## How it works
 

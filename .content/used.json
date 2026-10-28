@@ -907,6 +907,7 @@
     "https://huggingface.co/datasets/BodyMaps/CancerVerse",
     "https://huggingface.co/datasets/CMRobot/MotionDecode",
     "https://huggingface.co/datasets/FlyRank/internship-warehouse",
+    "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
     "https://huggingface.co/datasets/Helsinki-NLP/opus-100",
     "https://huggingface.co/datasets/HoneyDataV2/Honey-Data-V2",
     "https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train",
@@ -1978,12 +1979,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: UI micro interactions prompts for AI",
-      "url": "https://news.ycombinator.com/item?id=50199290"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Research Papers",
       "title": "Targeted Deep Regression - Initial Applications in...",
       "url": "http://arxiv.org/abs/2610.35339v1"
@@ -2035,6 +2030,12 @@
       "subcat": "AI & Machine Learning",
       "title": "AFK-surf/Comma",
       "url": "https://github.com/AFK-surf/Comma"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Models & Datasets",
+      "title": "GokuScraper/seedance-2-prompts-datasets",
+      "url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets"
     }
   ]
 }

@@ -1896,6 +1896,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/OliviaRossi/Minimax-h3_Singularity-x-10Eros-Max_PRISM
 
+**Added 2026-10-28**
+
+### [GokuScraper/seedance-2-prompts-datasets](https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets)
+- **Stats:** 57 likes | 179,719 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-05-02
+- **Tags:** video-prompt, seedance-2, prompt-engineering, prompt-dataset, video-generation
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets
+
 
 ## Research Papers
 
