@@ -1910,6 +1910,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50264853
 - **Link:** https://www.brangus.io/survival-llm
 
+**Added 2026-10-28**
+
+### [Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen](https://www.circuithub.com/post/unveiling-the-grid)
+- **Source:** www.circuithub.com | **Posted:** 2026-10-26 | **By:** seddona
+- **Community:** 174 points, 80 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50243060
+- **Link:** https://www.circuithub.com/post/unveiling-the-grid
+
 
 ## DevOps & Cloud
 

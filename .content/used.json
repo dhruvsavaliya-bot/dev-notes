@@ -1730,6 +1730,7 @@
     "https://news.ycombinator.com/item?id=50236102",
     "https://news.ycombinator.com/item?id=50241664",
     "https://news.ycombinator.com/item?id=50242939",
+    "https://news.ycombinator.com/item?id=50243060",
     "https://news.ycombinator.com/item?id=50264853",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
@@ -1894,6 +1895,7 @@
     "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
     "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
     "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+    "https://www.circuithub.com/post/unveiling-the-grid",
     "https://www.claymath.org/news/navier-stokes-announcement/",
     "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
     "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
@@ -1993,12 +1995,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "TypeScript",
-      "title": "basketikun/infinite-canvas",
-      "url": "https://github.com/basketikun/infinite-canvas"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "AI Engineering",
       "title": "I Made 866 Commits in 5 Weeks. My Understanding...",
       "url": "https://dev.to/mikachu/i-made-866-commits-in-5-weeks-my-understanding-didnt-keep-up-cmo"
@@ -2050,6 +2046,12 @@
       "subcat": "Backend & Infrastructure",
       "title": "palemoky/chinese-poetry-api",
       "url": "https://github.com/palemoky/chinese-poetry-api"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Hacker News Picks",
+      "title": "Unveiling The Grid: PCBs made in America, twice as...",
+      "url": "https://news.ycombinator.com/item?id=50243060"
     }
   ]
 }
