@@ -95,6 +95,7 @@
     "https://00f.net/2026/10/06/zeroization-1/",
     "https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/",
     "https://386s.org/w/lua-antcc-pessimization/",
+    "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
     "https://a5geo.org/blog/2026/10/14/a5-v1",
     "https://aaronmallen.me/writing/hanami-why-introductions",
     "https://aaronmallen.me/writing/hanami-why-model-citizens",
@@ -1682,6 +1683,7 @@
     "https://news.ycombinator.com/item?id=50067325",
     "https://news.ycombinator.com/item?id=50069337",
     "https://news.ycombinator.com/item?id=50070625",
+    "https://news.ycombinator.com/item?id=50072286",
     "https://news.ycombinator.com/item?id=50077225",
     "https://news.ycombinator.com/item?id=50089577",
     "https://news.ycombinator.com/item?id=50094694",
@@ -2001,12 +2003,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Hacker News Picks",
-      "title": "Survival LLM: AI assistant and emergency library that...",
-      "url": "https://news.ycombinator.com/item?id=50264853"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Show & Ask HN",
       "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I...",
       "url": "https://news.ycombinator.com/item?id=50193416"
@@ -2058,6 +2054,12 @@
       "subcat": "Career & Craft",
       "title": "'Localhost' is a Lie: Everything Uni Missed About...",
       "url": "https://dev.to/maame-codes/localhost-is-a-lie-everything-uni-missed-about-real-world-tech-66n"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Swift",
+      "title": "Apple's new 'Switch to Safari' campaign details why...",
+      "url": "https://news.ycombinator.com/item?id=50072286"
     }
   ]
 }

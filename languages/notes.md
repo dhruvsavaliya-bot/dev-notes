@@ -1717,6 +1717,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~18 stars/day since launch.
 - **Link:** https://github.com/bjarneo/flux
 
+**Added 2026-10-29**
+
+### [Apple's new 'Switch to Safari' campaign details why you should ditch Chrome](https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/)
+- **Source:** 9to5mac.com | **Posted:** 2026-10-13 | **By:** ivell
+- **Community:** 294 points, 553 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50072286
+- **Link:** https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/
+
 
 ## Rust
 
