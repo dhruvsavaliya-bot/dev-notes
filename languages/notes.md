@@ -880,6 +880,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~630 stars/day since launch.
 - **Link:** https://github.com/odysseus-dev/odysseus
 
+**Added 2026-10-28**
+
+### [UUIDv7 doesn't have the properties you think it does](https://alexsci.com/blog/uuidv7-is-weird/)
+- **Source:** alexsci.com | **Posted:** 2026-10-22 | **By:** robalex
+- **Community:** 46 score, 12 comments on Lobsters
+- **Tags:** distributed, python
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/kcyzco/uuidv7_doesn_t_have_properties_you_think
+- **Link:** https://alexsci.com/blog/uuidv7-is-weird/
+
 
 ## Go
 

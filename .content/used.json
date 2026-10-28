@@ -101,6 +101,7 @@
     "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
     "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
     "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+    "https://alexsci.com/blog/uuidv7-is-weird/",
     "https://aleyan.com/projects/python-iceberg/",
     "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
     "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
@@ -1141,6 +1142,7 @@
     "https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think",
     "https://lobste.rs/s/k5omum/brain_sandwich",
     "https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision",
+    "https://lobste.rs/s/kcyzco/uuidv7_doesn_t_have_properties_you_think",
     "https://lobste.rs/s/kfla2w/demoting_i686_windows_targets_std_only",
     "https://lobste.rs/s/kiivg2/partial_order_precedence",
     "https://lobste.rs/s/lcldxn/rustc_codegen_jvm_rust_compiler_backend",
@@ -1960,12 +1962,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Lobsters Picks",
-      "title": "Compile-Time Dependent Types",
-      "url": "https://lobste.rs/s/d09iy3/compile_time_dependent_types"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Python",
       "title": "odysseus-dev/odysseus",
       "url": "https://github.com/odysseus-dev/odysseus"
@@ -2017,6 +2013,12 @@
       "subcat": "Models & Datasets",
       "title": "bakrianoo/jabarti-llm-dataset",
       "url": "https://huggingface.co/datasets/bakrianoo/jabarti-llm-dataset"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Python",
+      "title": "UUIDv7 doesn't have the properties you think it does",
+      "url": "https://lobste.rs/s/kcyzco/uuidv7_doesn_t_have_properties_you_think"
     }
   ]
 }
