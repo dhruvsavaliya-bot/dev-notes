@@ -1294,6 +1294,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~12 stars/day since launch.
 - **Link:** https://github.com/AFK-surf/Comma
 
+**Added 2026-10-28**
+
+### [iBUHub/AIStudioToAPI](https://github.com/iBUHub/AIStudioToAPI)
+- **Stats:** 1,851 stars | 295 forks | 47 open issues
+- **Language:** JavaScript | **Created:** 2025-12-12 | **License:** NOASSERTION
+- **Topics:** aistudio, api, gemini
+- **What it is:** A wrapper that exposes Google AI Studio Build as OpenAI, Gemini, and Anthropic compatible APIs.（一个将 Google AI Studio Build 封装为兼容 OpenAI / Gemini / Anthropic 风格 API 的工具）
+- **Growth:** averaging ~5 stars/day since launch.
+- **Link:** https://github.com/iBUHub/AIStudioToAPI
+
 
 ## Other Cool Projects
 

@@ -667,6 +667,7 @@
     "https://github.com/hoainho/img2threejs",
     "https://github.com/huaotem-bot/gezi-quark-downloader",
     "https://github.com/hugohe3/ppt-master",
+    "https://github.com/iBUHub/AIStudioToAPI",
     "https://github.com/igorkulman/SwiftPascalInterpreter",
     "https://github.com/illegalstudio/elephc",
     "https://github.com/img2threejs/img2threejs",
@@ -1997,12 +1998,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Glashtte Trash Clock  A 30-minute pendulum...",
-      "url": "https://news.ycombinator.com/item?id=49930439"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Models & Datasets",
       "title": "CodeDevX/Vibe-Coding-Instruct",
       "url": "https://huggingface.co/datasets/CodeDevX/Vibe-Coding-Instruct"
@@ -2054,6 +2049,12 @@
       "subcat": "JavaScript",
       "title": "Chlience/yt-dlp-tauri",
       "url": "https://github.com/Chlience/yt-dlp-tauri"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "AI & Machine Learning",
+      "title": "iBUHub/AIStudioToAPI",
+      "url": "https://github.com/iBUHub/AIStudioToAPI"
     }
   ]
 }
