@@ -699,6 +699,7 @@
     "https://github.com/kelos-dev/kelos",
     "https://github.com/kirodotdev/KiroCrew",
     "https://github.com/kividbio/kividb",
+    "https://github.com/kkk-bot/HowToGetAlong",
     "https://github.com/komi-store/komi-store",
     "https://github.com/kryvora-network/kryvora-node",
     "https://github.com/kvcache-ai/AgentENV",
@@ -2006,12 +2007,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Hacker News Picks",
-      "title": "Unveiling The Grid: PCBs made in America, twice as...",
-      "url": "https://news.ycombinator.com/item?id=50243060"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Career & Craft",
       "title": "Unboxable in Tech: The Evidence Locker",
       "url": "https://dev.to/pascal_cescato_692b7a8a20/unboxable-in-tech-the-evidence-locker-20n4"
@@ -2063,6 +2058,12 @@
       "subcat": "Research Papers",
       "title": "A Harness Reducing over-Defensive Writing in Agents...",
       "url": "http://arxiv.org/abs/2610.36717v1"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Other Cool Projects",
+      "title": "kkk-bot/HowToGetAlong",
+      "url": "https://github.com/kkk-bot/HowToGetAlong"
     }
   ]
 }

@@ -2437,6 +2437,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~33 stars/day since launch.
 - **Link:** https://github.com/shilapi/xcertplay
 
+**Added 2026-10-29**
+
+### [kkk-bot/HowToGetAlong](https://github.com/kkk-bot/HowToGetAlong)
+- **Stats:** 1,672 stars | 110 forks | 0 open issues
+- **Language:** HTML | **Created:** 2026-10-02 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** 面向大学生和初入职场者，讲清大学课堂里往往没有系统教过的人情世故、沟通技巧与社会规则。遇到合作、求助、拒绝、金钱、礼节和冲突时，帮助你理解事情怎么做、话怎么说，以及一个选择可能付出的代价，少走弯路，更从容地进入社会。
+- **Growth:** averaging ~61 stars/day since launch.
+- **Link:** https://github.com/kkk-bot/HowToGetAlong
+
 
 ## Web & Frontend
 
