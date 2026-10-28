@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1387 entries and counting** · Last updated: 2026-10-28
+**1388 entries and counting** · Last updated: 2026-10-28
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 280 |
 | [AI / LLM Notes](ai/notes.md) | 278 |
-| [Reading List](articles/reading-list.md) | 280 |
+| [Reading List](articles/reading-list.md) | 281 |
 | [Coding Tips](coding-tips/tips.md) | 282 |
 | [Language Notes](languages/notes.md) | 267 |
 
 ## Latest additions
 
+- **2026-10-28** · *Open Source* — [is-kit Reached 100 Stars  Heres What Changed Since 50](https://dev.to/nyaomaru/is-kit-reached-100-stars-heres-what-changed-since-50-49pf)
 - **2026-10-28** · *Models & Datasets* — [OliviaRossi/Minimax-h3_Singularity-x-10Eros-Max_PRISM](https://huggingface.co/OliviaRossi/Minimax-h3_Singularity-x-10Eros-Max_PRISM)
 - **2026-10-28** · *Lobsters Picks* — [How close can pure FP get to C?](https://lobste.rs/s/7me8wm/how_close_can_pure_fp_get_c)
 - **2026-10-28** · *Research Papers* — [Targeted Deep Regression - Initial Applications in...](http://arxiv.org/abs/2610.35339v1)
 - **2026-10-28** · *Show & Ask HN* — [Show HN: UI micro interactions prompts for AI](https://news.ycombinator.com/item?id=50199290)
-- **2026-10-28** · *AI & Machine Learning* — [xerj-org/xerj](https://github.com/xerj-org/xerj)
 
 ## How it works
 

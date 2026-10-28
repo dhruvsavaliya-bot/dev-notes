@@ -2609,3 +2609,12 @@ Additional Notes: https://punkto.org/blog/small_web
 - **Tags:** ai, opensource, career, discuss
 - **Summary:** Earlier this month, a developer in Atlanta got fed up with Adobe's cancellation fees. So he used...
 - **Link:** https://dev.to/james_anderson_h/people-are-vibe-coding-clones-of-every-paid-app-what-actually-survives-38ak
+
+**Added 2026-10-28**
+
+### [is-kit Reached 100 Stars ⭐🎉 Here’s What Changed Since 50](https://dev.to/nyaomaru/is-kit-reached-100-stars-heres-what-changed-since-50-49pf)
+- **Author:** nyaomaru | **Published:** Oct 21 | **Read time:** 7 min
+- **Community:** 122 reactions, 35 comments -- a top post in #opensource
+- **Tags:** typescript, opensource, webdev, frontend
+- **Summary:** Hoi hoi!  YAY! is-kit just reached 100 GitHub stars⭐ 🎉🎉🎉  When it reached 50 stars, I wrote about how...
+- **Link:** https://dev.to/nyaomaru/is-kit-reached-100-stars-heres-what-changed-since-50-49pf

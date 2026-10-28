@@ -323,6 +323,7 @@
     "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
     "https://dev.to/nikolas_dimitroulakis_d23/we-described-our-api-twice-once-for-humans-once-for-agents-4e4g",
     "https://dev.to/nyaomaru/how-do-we-extract-the-why-from-a-pr-into-a-changelog-with-jev-52pk",
+    "https://dev.to/nyaomaru/is-kit-reached-100-stars-heres-what-changed-since-50-49pf",
     "https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b",
     "https://dev.to/nyaomaru/learn-number-of-islands-invert-binary-tree-and-course-schedule-with-step-by-step-visualization-in-5947",
     "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
@@ -1971,12 +1972,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Other Cool Projects",
-      "title": "kasothaphie/GenRecon",
-      "url": "https://github.com/kasothaphie/GenRecon"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Java",
       "title": "OpenLDK: Bringing the Java World into Common Lisp",
       "url": "https://lobste.rs/s/cf8mdy/openldk_bringing_java_world_into_common"
@@ -2028,6 +2023,12 @@
       "subcat": "Models & Datasets",
       "title": "OliviaRossi/Minimax-h3_Singularity-x-10Eros-Max_PRISM",
       "url": "https://huggingface.co/OliviaRossi/Minimax-h3_Singularity-x-10Eros-Max_PRISM"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Open Source",
+      "title": "is-kit Reached 100 Stars  Heres What Changed Since 50",
+      "url": "https://dev.to/nyaomaru/is-kit-reached-100-stars-heres-what-changed-since-50-49pf"
     }
   ]
 }
