@@ -1919,6 +1919,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50243060
 - **Link:** https://www.circuithub.com/post/unveiling-the-grid
 
+**Added 2026-10-28**
+
+### [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
+- **Source:** tailscale.com | **Posted:** 2026-10-27 | **By:** figmert
+- **Community:** 336 points, 176 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50264857
+- **Link:** https://tailscale.com/ssh-investigation-update
+
 
 ## DevOps & Cloud
 

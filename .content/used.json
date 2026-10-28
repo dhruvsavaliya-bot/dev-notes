@@ -1735,6 +1735,7 @@
     "https://news.ycombinator.com/item?id=50242939",
     "https://news.ycombinator.com/item?id=50243060",
     "https://news.ycombinator.com/item?id=50264853",
+    "https://news.ycombinator.com/item?id=50264857",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -1841,6 +1842,7 @@
     "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
     "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
     "https://t3x.org/files/floodfill.pdf",
+    "https://tailscale.com/ssh-investigation-update",
     "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
     "https://talkweb.eu/openweb/4558/",
     "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
@@ -1998,12 +2000,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Models & Datasets",
-      "title": "CodeDevX/Vibe-Coding-Instruct",
-      "url": "https://huggingface.co/datasets/CodeDevX/Vibe-Coding-Instruct"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Web & Frontend",
       "title": "AlexandrosGounis/pdfx",
       "url": "https://github.com/AlexandrosGounis/pdfx"
@@ -2055,6 +2051,12 @@
       "subcat": "AI & Machine Learning",
       "title": "iBUHub/AIStudioToAPI",
       "url": "https://github.com/iBUHub/AIStudioToAPI"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Hacker News Picks",
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "url": "https://news.ycombinator.com/item?id=50264857"
     }
   ]
 }

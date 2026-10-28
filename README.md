@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1409 entries and counting** · Last updated: 2026-10-28
+**1410 entries and counting** · Last updated: 2026-10-28
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 285 |
 | [AI / LLM Notes](ai/notes.md) | 282 |
-| [Reading List](articles/reading-list.md) | 284 |
+| [Reading List](articles/reading-list.md) | 285 |
 | [Coding Tips](coding-tips/tips.md) | 285 |
 | [Language Notes](languages/notes.md) | 273 |
 
 ## Latest additions
 
+- **2026-10-28** · *Hacker News Picks* — [Tailscale SSH: Investigation and remediation update](https://news.ycombinator.com/item?id=50264857)
 - **2026-10-28** · *AI & Machine Learning* — [iBUHub/AIStudioToAPI](https://github.com/iBUHub/AIStudioToAPI)
 - **2026-10-28** · *JavaScript* — [Chlience/yt-dlp-tauri](https://github.com/Chlience/yt-dlp-tauri)
 - **2026-10-28** · *Career & Craft* — [Unboxable in Tech: The Evidence Locker](https://dev.to/pascal_cescato_692b7a8a20/unboxable-in-tech-the-evidence-locker-20n4)
 - **2026-10-28** · *Hacker News Picks* — [Unveiling The Grid: PCBs made in America, twice as...](https://news.ycombinator.com/item?id=50243060)
-- **2026-10-28** · *Backend & Infrastructure* — [palemoky/chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api)
 
 ## How it works
 
