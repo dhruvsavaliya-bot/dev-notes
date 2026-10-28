@@ -595,6 +595,7 @@
     "https://github.com/baairon/torlink",
     "https://github.com/baidu/Unlimited-OCR",
     "https://github.com/bashalarmistalt/decimen-optical-transfer",
+    "https://github.com/basketikun/infinite-canvas",
     "https://github.com/benfred/py-spy",
     "https://github.com/bikini/exploitarium",
     "https://github.com/bizspring-open/BizSpring-Java-Mall",
@@ -1980,12 +1981,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Lobsters Picks",
-      "title": "How close can pure FP get to C?",
-      "url": "https://lobste.rs/s/7me8wm/how_close_can_pure_fp_get_c"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Models & Datasets",
       "title": "OliviaRossi/Minimax-h3_Singularity-x-10Eros-Max_PRISM",
       "url": "https://huggingface.co/OliviaRossi/Minimax-h3_Singularity-x-10Eros-Max_PRISM"
@@ -2037,6 +2032,12 @@
       "subcat": "Other Cool Projects",
       "title": "shilapi/xcertplay",
       "url": "https://github.com/shilapi/xcertplay"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "TypeScript",
+      "title": "basketikun/infinite-canvas",
+      "url": "https://github.com/basketikun/infinite-canvas"
     }
   ]
 }

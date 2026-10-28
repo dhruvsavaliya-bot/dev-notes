@@ -577,6 +577,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~53 stars/day since launch.
 - **Link:** https://github.com/internet-court/internet-court-skill
 
+**Added 2026-10-28**
+
+### [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas)
+- **Stats:** 9,305 stars | 2,179 forks | 20 open issues
+- **Language:** TypeScript | **Created:** 2026-05-18 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** 面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。
+- **Growth:** averaging ~57 stars/day since launch.
+- **Link:** https://github.com/basketikun/infinite-canvas
+
 
 ## Python
 
