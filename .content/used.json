@@ -759,6 +759,7 @@
     "https://github.com/rlaope/oh-my-hermes",
     "https://github.com/robbietilton/Compositor",
     "https://github.com/rsutcliffe/nightwatch",
+    "https://github.com/rushiranpise/morphe-patches",
     "https://github.com/s1dashu/ip-as-logo-skill",
     "https://github.com/safijari/openpuck",
     "https://github.com/sapientinc/PRAXIST",
@@ -1976,12 +1977,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Lobsters Picks",
-      "title": "Stalwart v1.0: The Fastest Mail Server on the Planet",
-      "url": "https://lobste.rs/s/c0yniy/stalwart_v1_0_fastest_mail_server_on"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "AI & Machine Learning",
       "title": "xerj-org/xerj",
       "url": "https://github.com/xerj-org/xerj"
@@ -2033,6 +2028,12 @@
       "subcat": "Java",
       "title": "Iron Age salt-mining complex found beneath Hallstatt...",
       "url": "https://news.ycombinator.com/item?id=50200957"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Kotlin",
+      "title": "rushiranpise/morphe-patches",
+      "url": "https://github.com/rushiranpise/morphe-patches"
     }
   ]
 }

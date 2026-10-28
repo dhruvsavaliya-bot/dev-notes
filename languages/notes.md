@@ -2376,6 +2376,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~8 stars/day since launch.
 - **Link:** https://github.com/wasi-master/wmkeyboard
 
+**Added 2026-10-28**
+
+### [rushiranpise/morphe-patches](https://github.com/rushiranpise/morphe-patches)
+- **Stats:** 957 stars | 65 forks | 186 open issues
+- **Language:** Kotlin | **Created:** 2026-06-01 | **License:** GPL-3.0
+- **Topics:** none listed
+- **What it is:** New mask, same task.                                                                 All patches answer to Doom.
+- **Growth:** averaging ~6 stars/day since launch.
+- **Link:** https://github.com/rushiranpise/morphe-patches
+
 
 ## Java
 
