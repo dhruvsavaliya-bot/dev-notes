@@ -1928,6 +1928,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50264857
 - **Link:** https://tailscale.com/ssh-investigation-update
 
+**Added 2026-10-29**
+
+### [Kentucky man becomes the first humanist granted religious exemption from AI](https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/)
+- **Source:** religionnews.com | **Posted:** 2026-10-28 | **By:** danso
+- **Community:** 406 points, 449 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50273396
+- **Link:** https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/
+
 
 ## DevOps & Cloud
 

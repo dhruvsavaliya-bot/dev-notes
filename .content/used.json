@@ -1745,6 +1745,7 @@
     "https://news.ycombinator.com/item?id=50243060",
     "https://news.ycombinator.com/item?id=50264853",
     "https://news.ycombinator.com/item?id=50264857",
+    "https://news.ycombinator.com/item?id=50273396",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -1804,6 +1805,7 @@
     "https://queue.acm.org/detail.cfm?id=3807963",
     "https://ratfactor.com/cards/git-commit-size",
     "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+    "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
     "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
     "https://robert.ocallahan.org/2026/09/goodbye-google.html",
     "https://root.cern.ch/cling",
@@ -2009,12 +2011,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "AI & Machine Learning",
-      "title": "iBUHub/AIStudioToAPI",
-      "url": "https://github.com/iBUHub/AIStudioToAPI"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Hacker News Picks",
       "title": "Tailscale SSH: Investigation and remediation update",
       "url": "https://news.ycombinator.com/item?id=50264857"
@@ -2066,6 +2062,12 @@
       "subcat": "Models & Datasets",
       "title": "datalab-to/surya-ocr-2",
       "url": "https://huggingface.co/datalab-to/surya-ocr-2"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Hacker News Picks",
+      "title": "Kentucky man becomes the first humanist granted...",
+      "url": "https://news.ycombinator.com/item?id=50273396"
     }
   ]
 }
