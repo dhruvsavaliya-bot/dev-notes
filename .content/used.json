@@ -1698,6 +1698,7 @@
     "https://news.ycombinator.com/item?id=50194909",
     "https://news.ycombinator.com/item?id=50195488",
     "https://news.ycombinator.com/item?id=50197404",
+    "https://news.ycombinator.com/item?id=50199290",
     "https://news.ycombinator.com/item?id=50204125",
     "https://news.ycombinator.com/item?id=50212065",
     "https://news.ycombinator.com/item?id=50222133",
@@ -1944,6 +1945,7 @@
     "https://www.theranos.world/",
     "https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos",
     "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+    "https://www.typeui.sh/micro-interactions",
     "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
     "https://www.unison-lang.org/blog/unison-cloud-open-source/",
     "https://www.unitree.com/As2-W/",
@@ -1963,12 +1965,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-10-28",
-      "subcat": "System Design & Architecture",
-      "title": "How AI Documentation Tools Cut Onboarding Time by 80%",
-      "url": "https://dev.to/entelligenceai/how-ai-documentation-tools-cut-onboarding-time-by-80-15k5"
-    },
     {
       "date": "2026-10-28",
       "subcat": "Lobsters Picks",
@@ -2022,6 +2018,12 @@
       "subcat": "AI & Machine Learning",
       "title": "xerj-org/xerj",
       "url": "https://github.com/xerj-org/xerj"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: UI micro interactions prompts for AI",
+      "url": "https://news.ycombinator.com/item?id=50199290"
     }
   ]
 }

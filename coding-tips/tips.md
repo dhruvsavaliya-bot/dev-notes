@@ -2083,6 +2083,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49964045
 - **Link:** https://news.ycombinator.com/item?id=49964045
 
+**Added 2026-10-28**
+
+### [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions)
+- **Source:** www.typeui.sh | **Posted:** 2026-10-22 | **By:** elwingo1
+- **Community:** 80 points, 46 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50199290
+- **Link:** https://www.typeui.sh/micro-interactions
+
 
 ## Git & Workflow
 
