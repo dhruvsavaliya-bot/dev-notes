@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1412 entries and counting** · Last updated: 2026-10-29
+**1413 entries and counting** · Last updated: 2026-10-29
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 285 |
-| [AI / LLM Notes](ai/notes.md) | 282 |
+| [AI / LLM Notes](ai/notes.md) | 283 |
 | [Reading List](articles/reading-list.md) | 285 |
 | [Coding Tips](coding-tips/tips.md) | 286 |
 | [Language Notes](languages/notes.md) | 274 |
 
 ## Latest additions
 
+- **2026-10-29** · *Research Papers* — [Balanced State Subspaces for Mamba-2 State Compression](http://arxiv.org/abs/2610.36617v1)
 - **2026-10-29** · *Swift* — [Apple's new 'Switch to Safari' campaign details why...](https://news.ycombinator.com/item?id=50072286)
 - **2026-10-28** · *Career & Craft* — ['Localhost' is a Lie: Everything Uni Missed About...](https://dev.to/maame-codes/localhost-is-a-lie-everything-uni-missed-about-real-world-tech-66n)
 - **2026-10-28** · *Hacker News Picks* — [Tailscale SSH: Investigation and remediation update](https://news.ycombinator.com/item?id=50264857)
 - **2026-10-28** · *AI & Machine Learning* — [iBUHub/AIStudioToAPI](https://github.com/iBUHub/AIStudioToAPI)
-- **2026-10-28** · *JavaScript* — [Chlience/yt-dlp-tauri](https://github.com/Chlience/yt-dlp-tauri)
 
 ## How it works
 

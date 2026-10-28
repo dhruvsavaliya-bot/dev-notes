@@ -76,6 +76,7 @@
     "http://arxiv.org/abs/2610.30090v1",
     "http://arxiv.org/abs/2610.32765v1",
     "http://arxiv.org/abs/2610.35339v1",
+    "http://arxiv.org/abs/2610.36617v1",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
     "http://boglin.iwarp.com/",
     "http://bokeh.pydata.org/en/latest/",
@@ -2003,12 +2004,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Show & Ask HN",
-      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I...",
-      "url": "https://news.ycombinator.com/item?id=50193416"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "JavaScript",
       "title": "AhmadHassan-BTed/Noria",
       "url": "https://github.com/AhmadHassan-BTed/Noria"
@@ -2060,6 +2055,12 @@
       "subcat": "Swift",
       "title": "Apple's new 'Switch to Safari' campaign details why...",
       "url": "https://news.ycombinator.com/item?id=50072286"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Research Papers",
+      "title": "Balanced State Subspaces for Mamba-2 State Compression",
+      "url": "http://arxiv.org/abs/2610.36617v1"
     }
   ]
 }

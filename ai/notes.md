@@ -2625,3 +2625,13 @@ Lessons from building with LLMs.
 - **Abstract:** System $F_{<:}^{\top}$ has decidable subtyping but lacks minimum types. We prove that typechecking is decidable for arbitrary explicitly annotated terms with unrestricted subsumption. The difficulty is that type abstraction uses a variable's declared bound to type its body, while quantified subtyping forgets that bound. We construct finite covers that preserve all required subtype comparisons across this change of context. These covers yield a compositional finite typing basis and a decision pro...
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.20356v1
+
+**Added 2026-10-29**
+
+### [Balanced State Subspaces for Mamba-2 State Compression](http://arxiv.org/abs/2610.36617v1)
+- **Authors:** Shang Tingyu, Cao Wenfei
+- **Published:** 2026-10-27 | **Primary category:** cs.AI
+- **Categories:** cs.LG, cs.AI, cs.CL, stat.AP, stat.ME
+- **Abstract:** Mamba-2 compresses all context into a fixed-size recurrent state that dominates decoding memory and bandwidth. Existing compressors quantize state values or prune state coordinates, scoring each channel independently in the native basis. We examine trained Mamba-2 states and find that energy is almost rank-one, but the output does not read the energetic directions: energy concentrates in a bias-like direction accumulated by the recurrence, while the content the output reads lives in a low-dimens...
+- **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.36617v1
