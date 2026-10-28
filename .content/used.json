@@ -847,6 +847,7 @@
     "https://github.com/xweiba/location-spoofer",
     "https://github.com/yang0/handraw-style",
     "https://github.com/yanliudesign/mono-color-skill",
+    "https://github.com/yappologistic/Spun",
     "https://github.com/yc-software/qm",
     "https://github.com/yetone/cumora",
     "https://github.com/yetone/magpie",
@@ -2007,12 +2008,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Career & Craft",
-      "title": "Unboxable in Tech: The Evidence Locker",
-      "url": "https://dev.to/pascal_cescato_692b7a8a20/unboxable-in-tech-the-evidence-locker-20n4"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "JavaScript",
       "title": "Chlience/yt-dlp-tauri",
       "url": "https://github.com/Chlience/yt-dlp-tauri"
@@ -2064,6 +2059,12 @@
       "subcat": "Other Cool Projects",
       "title": "kkk-bot/HowToGetAlong",
       "url": "https://github.com/kkk-bot/HowToGetAlong"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "C++",
+      "title": "yappologistic/Spun",
+      "url": "https://github.com/yappologistic/Spun"
     }
   ]
 }

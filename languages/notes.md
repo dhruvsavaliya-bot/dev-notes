@@ -2295,6 +2295,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50122736
 - **Link:** https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging
 
+**Added 2026-10-29**
+
+### [yappologistic/Spun](https://github.com/yappologistic/Spun)
+- **Stats:** 462 stars | 20 forks | 22 open issues
+- **Language:** C++ | **Created:** 2026-09-07 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** A CD-shaped music player for Linux, with local playback and Cider integration.
+- **Growth:** averaging ~8 stars/day since launch.
+- **Link:** https://github.com/yappologistic/Spun
+
 
 ## SQL & Databases
 

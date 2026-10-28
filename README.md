@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1416 entries and counting** · Last updated: 2026-10-29
+**1417 entries and counting** · Last updated: 2026-10-29
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 284 |
 | [Reading List](articles/reading-list.md) | 285 |
 | [Coding Tips](coding-tips/tips.md) | 286 |
-| [Language Notes](languages/notes.md) | 275 |
+| [Language Notes](languages/notes.md) | 276 |
 
 ## Latest additions
 
+- **2026-10-29** · *C++* — [yappologistic/Spun](https://github.com/yappologistic/Spun)
 - **2026-10-29** · *Other Cool Projects* — [kkk-bot/HowToGetAlong](https://github.com/kkk-bot/HowToGetAlong)
 - **2026-10-29** · *Research Papers* — [A Harness Reducing over-Defensive Writing in Agents...](http://arxiv.org/abs/2610.36717v1)
 - **2026-10-29** · *Go* — [p1neappleXpress/OpenFlux](https://github.com/p1neappleXpress/OpenFlux)
 - **2026-10-29** · *Research Papers* — [Balanced State Subspaces for Mamba-2 State Compression](http://arxiv.org/abs/2610.36617v1)
-- **2026-10-29** · *Swift* — [Apple's new 'Switch to Safari' campaign details why...](https://news.ycombinator.com/item?id=50072286)
 
 ## How it works
 
