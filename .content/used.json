@@ -59,6 +59,7 @@
     "http://arxiv.org/abs/2610.18504v1",
     "http://arxiv.org/abs/2610.18745v1",
     "http://arxiv.org/abs/2610.19743v1",
+    "http://arxiv.org/abs/2610.20356v1",
     "http://arxiv.org/abs/2610.21270v1",
     "http://arxiv.org/abs/2610.21597v1",
     "http://arxiv.org/abs/2610.21695v1",
@@ -1972,12 +1973,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Java",
-      "title": "OpenLDK: Bringing the Java World into Common Lisp",
-      "url": "https://lobste.rs/s/cf8mdy/openldk_bringing_java_world_into_common"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Models & Datasets",
       "title": "bakrianoo/jabarti-llm-dataset",
       "url": "https://huggingface.co/datasets/bakrianoo/jabarti-llm-dataset"
@@ -2029,6 +2024,12 @@
       "subcat": "Open Source",
       "title": "is-kit Reached 100 Stars  Heres What Changed Since 50",
       "url": "https://dev.to/nyaomaru/is-kit-reached-100-stars-heres-what-changed-since-50-49pf"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Research Papers",
+      "title": "Typechecking without Minimum Types: Finite Bases and...",
+      "url": "http://arxiv.org/abs/2610.20356v1"
     }
   ]
 }

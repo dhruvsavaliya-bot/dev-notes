@@ -2588,3 +2588,13 @@ Lessons from building with LLMs.
 - **Abstract:** UK Biobank is a British clinical study which, in addition to large amounts of medical data collected, plans to include detailed Magnetic Resonance Imaging (MRI) examina- tions from 100,000 participants. The image data can be analyzed for example by auto- mated analysis with neural networks for image segmentation or classification to expand the collection of image-derived phenotypes for medical research. In this work, we pro- pose, present and evaluate a methodology that uses image-based regressi...
 - **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.35339v1
+
+**Added 2026-10-28**
+
+### [Typechecking without Minimum Types: Finite Bases and Backward Checking for $F_{<:}^{\top}$](http://arxiv.org/abs/2610.20356v1)
+- **Authors:** Mingkun Xiao, Yixuan Sun
+- **Published:** 2026-10-14 | **Primary category:** cs.PL
+- **Categories:** cs.PL
+- **Abstract:** System $F_{<:}^{\top}$ has decidable subtyping but lacks minimum types. We prove that typechecking is decidable for arbitrary explicitly annotated terms with unrestricted subsumption. The difficulty is that type abstraction uses a variable's declared bound to type its body, while quantified subtyping forgets that bound. We construct finite covers that preserve all required subtype comparisons across this change of context. These covers yield a compositional finite typing basis and a decision pro...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.20356v1
