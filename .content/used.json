@@ -1094,6 +1094,7 @@
     "https://lobste.rs/s/bcfzer/hacking_nameof",
     "https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical",
     "https://lobste.rs/s/brrnpm/outside_scope_our_support",
+    "https://lobste.rs/s/c0yniy/stalwart_v1_0_fastest_mail_server_on",
     "https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me",
     "https://lobste.rs/s/ccnirb/there_are_only_twelve_4x4_sudokus_cool",
     "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your",
@@ -1797,6 +1798,7 @@
     "https://squeak.org/release_notes/6.1/",
     "https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/",
     "https://stackoverflow.com/questions/50966676/why-do-arm-chips-have-an-instruction-with-javascript-in-the-name-fjcvtzs",
+    "https://stalw.art/blog/stalwart-1-0/",
     "https://stitcher.io/blog/new-in-php-85",
     "https://stitcher.io/blog/php-in-2021",
     "https://strandsagents.com/blog/introducing-strands-decider/",
@@ -1962,12 +1964,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Python",
-      "title": "odysseus-dev/odysseus",
-      "url": "https://github.com/odysseus-dev/odysseus"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "AI & Machine Learning",
       "title": "DenisSergeevitch/ex-ussr-kinship-research",
       "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research"
@@ -2019,6 +2015,12 @@
       "subcat": "Python",
       "title": "UUIDv7 doesn't have the properties you think it does",
       "url": "https://lobste.rs/s/kcyzco/uuidv7_doesn_t_have_properties_you_think"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Lobsters Picks",
+      "title": "Stalwart v1.0: The Fastest Mail Server on the Planet",
+      "url": "https://lobste.rs/s/c0yniy/stalwart_v1_0_fastest_mail_server_on"
     }
   ]
 }

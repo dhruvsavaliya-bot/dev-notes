@@ -2567,6 +2567,16 @@ Additional Notes: https://punkto.org/blog/small_web
 - **Discussion:** https://lobste.rs/s/sxlf4a/goodbye_google
 - **Link:** https://robert.ocallahan.org/2026/09/goodbye-google.html
 
+**Added 2026-10-28**
+
+### [Stalwart v1.0: The Fastest Mail Server on the Planet](https://stalw.art/blog/stalwart-1-0/)
+- **Source:** stalw.art | **Posted:** 2026-10-26 | **By:** ejri
+- **Community:** 40 score, 19 comments on Lobsters
+- **Tags:** email
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/c0yniy/stalwart_v1_0_fastest_mail_server_on
+- **Link:** https://stalw.art/blog/stalwart-1-0/
+
 
 ## Performance
 
