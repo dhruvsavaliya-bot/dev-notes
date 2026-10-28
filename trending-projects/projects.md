@@ -1284,6 +1284,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~142 stars/day since launch.
 - **Link:** https://github.com/xerj-org/xerj
 
+**Added 2026-10-28**
+
+### [AFK-surf/Comma](https://github.com/AFK-surf/Comma)
+- **Stats:** 347 stars | 22 forks | 1 open issues
+- **Language:** Elixir | **Created:** 2026-09-30 | **License:** AGPL-3.0
+- **Topics:** agent, elixir-lang, golang, personal-ai
+- **What it is:** Best free & open source AI personal assistant. Always-on, proactive, sessionless. Browser, computer use, files, remote control. Compatible with ChatGPT/codex and claude code. Selfhost your open source alternative to Muse, Dots, Instinct and Town. Built with Go/Elixir/Lean.
+- **Growth:** averaging ~12 stars/day since launch.
+- **Link:** https://github.com/AFK-surf/Comma
+
 
 ## Other Cool Projects
 

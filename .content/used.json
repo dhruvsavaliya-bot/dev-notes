@@ -430,6 +430,7 @@
     "https://github.com/1812z/HyperIsland",
     "https://github.com/49-Agents/49-IDE",
     "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
+    "https://github.com/AFK-surf/Comma",
     "https://github.com/Albert-Weasker/niubigeo",
     "https://github.com/AlephAITech/WorkBuddyGuide",
     "https://github.com/Alvin9999-newpac/fanqiang",
@@ -1977,12 +1978,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "AI & Machine Learning",
-      "title": "xerj-org/xerj",
-      "url": "https://github.com/xerj-org/xerj"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Show & Ask HN",
       "title": "Show HN: UI micro interactions prompts for AI",
       "url": "https://news.ycombinator.com/item?id=50199290"
@@ -2034,6 +2029,12 @@
       "subcat": "Kotlin",
       "title": "rushiranpise/morphe-patches",
       "url": "https://github.com/rushiranpise/morphe-patches"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "AI & Machine Learning",
+      "title": "AFK-surf/Comma",
+      "url": "https://github.com/AFK-surf/Comma"
     }
   ]
 }
