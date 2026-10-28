@@ -2587,6 +2587,16 @@ Additional Notes: https://punkto.org/blog/small_web
 - **Discussion:** https://lobste.rs/s/7me8wm/how_close_can_pure_fp_get_c
 - **Link:** https://rtfeldman.com/fp-vs-c
 
+**Added 2026-10-28**
+
+### [awesome-tunneling: List of tunneling software and services](https://github.com/anderspitman/awesome-tunneling)
+- **Source:** github.com | **Posted:** 2026-09-18 | **By:** vaultdmn
+- **Community:** 16 score, 0 comments on Lobsters
+- **Tags:** devops, networking
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/myuake/awesome_tunneling_list_tunneling
+- **Link:** https://github.com/anderspitman/awesome-tunneling
+
 
 ## Performance
 

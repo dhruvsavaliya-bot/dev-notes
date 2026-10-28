@@ -573,6 +573,7 @@
     "https://github.com/amak-tech/port-buddy",
     "https://github.com/amirh00sain/SpiderPanel",
     "https://github.com/amosblomqvist/learn",
+    "https://github.com/anderspitman/awesome-tunneling",
     "https://github.com/andrewyng/openworker",
     "https://github.com/angusdevgo/IDM_Pro_Tool",
     "https://github.com/angusdevgo/Seep-Reverse-Lab",
@@ -1169,6 +1170,7 @@
     "https://lobste.rs/s/mkq3x9/better_http_1_connection_reuse",
     "https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution",
     "https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself",
+    "https://lobste.rs/s/myuake/awesome_tunneling_list_tunneling",
     "https://lobste.rs/s/nbxnh7/inside_intel_8087_chip_floating_point",
     "https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os",
     "https://lobste.rs/s/nuepys/what_requirements_don_t_you_have",
@@ -1982,12 +1984,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Open Source",
-      "title": "is-kit Reached 100 Stars  Heres What Changed Since 50",
-      "url": "https://dev.to/nyaomaru/is-kit-reached-100-stars-heres-what-changed-since-50-49pf"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Research Papers",
       "title": "Typechecking without Minimum Types: Finite Bases and...",
       "url": "http://arxiv.org/abs/2610.20356v1"
@@ -2039,6 +2035,12 @@
       "subcat": "AI Engineering",
       "title": "I Made 866 Commits in 5 Weeks. My Understanding...",
       "url": "https://dev.to/mikachu/i-made-866-commits-in-5-weeks-my-understanding-didnt-keep-up-cmo"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Lobsters Picks",
+      "title": "awesome-tunneling: List of tunneling software and...",
+      "url": "https://lobste.rs/s/myuake/awesome_tunneling_list_tunneling"
     }
   ]
 }
