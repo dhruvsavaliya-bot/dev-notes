@@ -1677,6 +1677,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=49878759
 - **Link:** https://kevquirk.com/i-switched-to-brave-browser
 
+**Added 2026-10-28**
+
+### [bjarneo/flux](https://github.com/bjarneo/flux)
+- **Stats:** 609 stars | 52 forks | 33 open issues
+- **Language:** Swift | **Created:** 2026-09-25 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Connect an Omarchy computer to your phone: files, clipboard, notifications, media, camera, and more
+- **Growth:** averaging ~18 stars/day since launch.
+- **Link:** https://github.com/bjarneo/flux
+
 
 ## Rust
 

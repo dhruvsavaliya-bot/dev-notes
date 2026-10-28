@@ -596,6 +596,7 @@
     "https://github.com/benfred/py-spy",
     "https://github.com/bikini/exploitarium",
     "https://github.com/bizspring-open/BizSpring-Java-Mall",
+    "https://github.com/bjarneo/flux",
     "https://github.com/bojieli/ai-infra-book",
     "https://github.com/bozhouDev/codex-orange-book",
     "https://github.com/browser-use/browser-use-pi",
@@ -1973,12 +1974,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Models & Datasets",
-      "title": "bakrianoo/jabarti-llm-dataset",
-      "url": "https://huggingface.co/datasets/bakrianoo/jabarti-llm-dataset"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Python",
       "title": "UUIDv7 doesn't have the properties you think it does",
       "url": "https://lobste.rs/s/kcyzco/uuidv7_doesn_t_have_properties_you_think"
@@ -2030,6 +2025,12 @@
       "subcat": "Research Papers",
       "title": "Typechecking without Minimum Types: Finite Bases and...",
       "url": "http://arxiv.org/abs/2610.20356v1"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Swift",
+      "title": "bjarneo/flux",
+      "url": "https://github.com/bjarneo/flux"
     }
   ]
 }
