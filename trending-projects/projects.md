@@ -1254,6 +1254,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~29 stars/day since launch.
 - **Link:** https://github.com/rlaope/oh-my-hermes
 
+**Added 2026-10-28**
+
+### [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research)
+- **Stats:** 1,056 stars | 105 forks | 1 open issues
+- **Language:** Python | **Created:** 2026-10-25 | **License:** MIT
+- **Topics:** agent-skills, archives, claude-code, codex, family-history, familysearch
+- **What it is:** Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.
+- **Growth:** averaging ~352 stars/day since launch.
+- **Link:** https://github.com/DenisSergeevitch/ex-ussr-kinship-research
+
 
 ## Other Cool Projects
 

@@ -443,6 +443,7 @@
     "https://github.com/CryptDB/cryptdb",
     "https://github.com/Dataherald/dataherald",
     "https://github.com/DavidHDev/canvas-ui",
+    "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
     "https://github.com/Dingo-Shenanigans/ReSkate",
     "https://github.com/Draculabo/AntigravityManager",
     "https://github.com/EpicGames/lore",
@@ -1949,12 +1950,6 @@
   "recent": [
     {
       "date": "2026-10-27",
-      "subcat": "Other Cool Projects",
-      "title": "storytold/wordcraft",
-      "url": "https://github.com/storytold/wordcraft"
-    },
-    {
-      "date": "2026-10-27",
       "subcat": "Testing",
       "title": "I'm Not on the DEV Team. I Still Debugged Their...",
       "url": "https://dev.to/dj29/im-not-on-the-dev-team-i-still-debugged-their-missing-badges-from-public-code-and-my-first-test-18oo"
@@ -2006,6 +2001,12 @@
       "subcat": "Python",
       "title": "odysseus-dev/odysseus",
       "url": "https://github.com/odysseus-dev/odysseus"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "AI & Machine Learning",
+      "title": "DenisSergeevitch/ex-ussr-kinship-research",
+      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research"
     }
   ]
 }
