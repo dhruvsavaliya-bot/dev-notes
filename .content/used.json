@@ -919,6 +919,7 @@
     "https://huggingface.co/briaai/Fibo-2.0-dev",
     "https://huggingface.co/bytedance-research/Lance",
     "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L12-v2",
+    "https://huggingface.co/datalab-to/surya-ocr-2",
     "https://huggingface.co/datasets/ACERobotics/ACE-Data-0",
     "https://huggingface.co/datasets/Anthropic/claude-protein-binder-design",
     "https://huggingface.co/datasets/BodyMaps/CancerVerse",
@@ -2008,12 +2009,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "JavaScript",
-      "title": "Chlience/yt-dlp-tauri",
-      "url": "https://github.com/Chlience/yt-dlp-tauri"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "AI & Machine Learning",
       "title": "iBUHub/AIStudioToAPI",
       "url": "https://github.com/iBUHub/AIStudioToAPI"
@@ -2065,6 +2060,12 @@
       "subcat": "C++",
       "title": "yappologistic/Spun",
       "url": "https://github.com/yappologistic/Spun"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Models & Datasets",
+      "title": "datalab-to/surya-ocr-2",
+      "url": "https://huggingface.co/datalab-to/surya-ocr-2"
     }
   ]
 }

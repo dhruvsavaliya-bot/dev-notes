@@ -1923,6 +1923,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/CodeDevX/Vibe-Coding-Instruct
 
+**Added 2026-10-29**
+
+### [datalab-to/surya-ocr-2](https://huggingface.co/datalab-to/surya-ocr-2)
+- **Stats:** 142 likes | 1,313,172 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-05-14
+- **Tags:** transformers, safetensors, qwen3_5, image-text-to-text, ocr, pdf
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datalab-to/surya-ocr-2
+
 
 ## Research Papers
 
