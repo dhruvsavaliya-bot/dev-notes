@@ -1878,6 +1878,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF
 
+**Added 2026-10-28**
+
+### [bakrianoo/jabarti-llm-dataset](https://huggingface.co/datasets/bakrianoo/jabarti-llm-dataset)
+- **Stats:** 117 likes | 4,035 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-08-04
+- **Tags:** arabic, egyptian-history, bilingual, llm-training, from-scratch, wikipedia
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/bakrianoo/jabarti-llm-dataset
+
 
 ## Research Papers
 

@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1379 entries and counting** · Last updated: 2026-10-28
+**1380 entries and counting** · Last updated: 2026-10-28
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 279 |
-| [AI / LLM Notes](ai/notes.md) | 275 |
+| [AI / LLM Notes](ai/notes.md) | 276 |
 | [Reading List](articles/reading-list.md) | 278 |
 | [Coding Tips](coding-tips/tips.md) | 281 |
 | [Language Notes](languages/notes.md) | 266 |
 
 ## Latest additions
 
+- **2026-10-28** · *Models & Datasets* — [bakrianoo/jabarti-llm-dataset](https://huggingface.co/datasets/bakrianoo/jabarti-llm-dataset)
 - **2026-10-28** · *Java* — [OpenLDK: Bringing the Java World into Common Lisp](https://lobste.rs/s/cf8mdy/openldk_bringing_java_world_into_common)
 - **2026-10-28** · *Other Cool Projects* — [kasothaphie/GenRecon](https://github.com/kasothaphie/GenRecon)
 - **2026-10-28** · *Lobsters Picks* — [Filian, Fil-C binaries on Debian](https://lobste.rs/s/rs6ce2/filian_fil_c_binaries_on_debian)
 - **2026-10-28** · *AI & Machine Learning* — [decodingai-magazine/building-a-coding-agent-from-scratc...](https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course)
-- **2026-10-28** · *Lobsters Picks* — [A stackless floodfill automation (2023)](https://lobste.rs/s/tp0zlk/stackless_floodfill_automation_2023)
 
 ## How it works
 

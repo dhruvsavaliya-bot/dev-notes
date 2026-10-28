@@ -919,6 +919,7 @@
     "https://huggingface.co/datasets/aidigestorg/ai-village",
     "https://huggingface.co/datasets/allenai/c4",
     "https://huggingface.co/datasets/argilla/magpie-ultra-v0.1",
+    "https://huggingface.co/datasets/bakrianoo/jabarti-llm-dataset",
     "https://huggingface.co/datasets/bigcode/the-stack-v2",
     "https://huggingface.co/datasets/datacurve/deep-swe",
     "https://huggingface.co/datasets/datasocial/tiktok-5.6B-videos",
@@ -1959,12 +1960,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Python",
-      "title": "SenteLabsAI/OpenExecutive",
-      "url": "https://github.com/SenteLabsAI/OpenExecutive"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Lobsters Picks",
       "title": "Compile-Time Dependent Types",
       "url": "https://lobste.rs/s/d09iy3/compile_time_dependent_types"
@@ -2016,6 +2011,12 @@
       "subcat": "Java",
       "title": "OpenLDK: Bringing the Java World into Common Lisp",
       "url": "https://lobste.rs/s/cf8mdy/openldk_bringing_java_world_into_common"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Models & Datasets",
+      "title": "bakrianoo/jabarti-llm-dataset",
+      "url": "https://huggingface.co/datasets/bakrianoo/jabarti-llm-dataset"
     }
   ]
 }
