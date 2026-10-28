@@ -1914,6 +1914,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets
 
+**Added 2026-10-28**
+
+### [CodeDevX/Vibe-Coding-Instruct](https://huggingface.co/datasets/CodeDevX/Vibe-Coding-Instruct)
+- **Stats:** 191 likes | 208 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-06-12
+- **Tags:** custom, vibecodinginstruct
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/CodeDevX/Vibe-Coding-Instruct
+
 
 ## Research Papers
 

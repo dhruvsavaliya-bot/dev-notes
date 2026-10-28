@@ -910,6 +910,7 @@
     "https://huggingface.co/datasets/Anthropic/claude-protein-binder-design",
     "https://huggingface.co/datasets/BodyMaps/CancerVerse",
     "https://huggingface.co/datasets/CMRobot/MotionDecode",
+    "https://huggingface.co/datasets/CodeDevX/Vibe-Coding-Instruct",
     "https://huggingface.co/datasets/FlyRank/internship-warehouse",
     "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
     "https://huggingface.co/datasets/Helsinki-NLP/opus-100",
@@ -1986,12 +1987,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Swift",
-      "title": "bjarneo/flux",
-      "url": "https://github.com/bjarneo/flux"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Java",
       "title": "Iron Age salt-mining complex found beneath Hallstatt...",
       "url": "https://news.ycombinator.com/item?id=50200957"
@@ -2043,6 +2038,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Glashtte Trash Clock  A 30-minute pendulum...",
       "url": "https://news.ycombinator.com/item?id=49930439"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Models & Datasets",
+      "title": "CodeDevX/Vibe-Coding-Instruct",
+      "url": "https://huggingface.co/datasets/CodeDevX/Vibe-Coding-Instruct"
     }
   ]
 }
