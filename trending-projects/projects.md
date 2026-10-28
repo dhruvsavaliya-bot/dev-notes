@@ -2417,6 +2417,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~6 stars/day since launch.
 - **Link:** https://github.com/kasothaphie/GenRecon
 
+**Added 2026-10-28**
+
+### [shilapi/xcertplay](https://github.com/shilapi/xcertplay)
+- **Stats:** 1,538 stars | 231 forks | 23 open issues
+- **Language:** Kotlin | **Created:** 2026-09-12 | **License:** GPL-3.0
+- **Topics:** carplay, headunit
+- **What it is:** Carplay on Android head unit using onboard mfi chip or via CH341.
+- **Growth:** averaging ~33 stars/day since launch.
+- **Link:** https://github.com/shilapi/xcertplay
+
 
 ## Web & Frontend
 
