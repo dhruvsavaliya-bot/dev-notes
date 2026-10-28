@@ -1070,6 +1070,7 @@
     "https://lemire.me/blog/2020/01/30/cost-of-a-thread-in-c-under-linux/",
     "https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/",
     "https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/",
+    "https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/",
     "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
     "https://liao.gg/blog/agents-dont-need-memory",
     "https://lightbulbcomputer.com/",
@@ -1136,6 +1137,7 @@
     "https://lobste.rs/s/cxdpiu/our_response_emudhra_key_disclosure",
     "https://lobste.rs/s/d09iy3/compile_time_dependent_types",
     "https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday",
+    "https://lobste.rs/s/d3ubhd/billion_query_per_second_lookup_tables_c",
     "https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has",
     "https://lobste.rs/s/dfieqa/bringing_uv_ty_together",
     "https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline",
@@ -2011,12 +2013,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Hacker News Picks",
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "url": "https://news.ycombinator.com/item?id=50264857"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Career & Craft",
       "title": "'Localhost' is a Lie: Everything Uni Missed About...",
       "url": "https://dev.to/maame-codes/localhost-is-a-lie-everything-uni-missed-about-real-world-tech-66n"
@@ -2068,6 +2064,12 @@
       "subcat": "Hacker News Picks",
       "title": "Kentucky man becomes the first humanist granted...",
       "url": "https://news.ycombinator.com/item?id=50273396"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Lobsters Picks",
+      "title": "Billion-query-per-second lookup tables in C++",
+      "url": "https://lobste.rs/s/d3ubhd/billion_query_per_second_lookup_tables_c"
     }
   ]
 }

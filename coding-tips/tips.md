@@ -2592,6 +2592,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/rs6ce2/filian_fil_c_binaries_on_debian
 - **Link:** https://cr.yp.to/2025/fil-c.html
 
+**Added 2026-10-29**
+
+### [Billion-query-per-second lookup tables in C++](https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/)
+- **Source:** lemire.me | **Posted:** 2026-10-28 | **By:** signal-11
+- **Community:** 19 score, 7 comments on Lobsters
+- **Tags:** c++, programming
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/d3ubhd/billion_query_per_second_lookup_tables_c
+- **Link:** https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/
+
 
 ## Career & Craft
 
