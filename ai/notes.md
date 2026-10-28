@@ -2635,3 +2635,13 @@ Lessons from building with LLMs.
 - **Abstract:** Mamba-2 compresses all context into a fixed-size recurrent state that dominates decoding memory and bandwidth. Existing compressors quantize state values or prune state coordinates, scoring each channel independently in the native basis. We examine trained Mamba-2 states and find that energy is almost rank-one, but the output does not read the energetic directions: energy concentrates in a bias-like direction accumulated by the recurrence, while the content the output reads lives in a low-dimens...
 - **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.36617v1
+
+**Added 2026-10-29**
+
+### [A Harness Reducing over-Defensive Writing in Agents by Isolating Objections](http://arxiv.org/abs/2610.36717v1)
+- **Authors:** Xiaochen Chang
+- **Published:** 2026-10-27 | **Primary category:** cs.CL
+- **Categories:** cs.CL
+- **Abstract:** When expanding a report, writing with agents may introduce a stronger claim than the article makes and then disclaim it. This is called over-defensive writing. We assume that this is because the agent is writing for responding to an adversarial AI reviewer, instead of a human reader. The defensive context may also influnce the consequent when we simply ban defensive writing in the output through prompts. In order to reduce over-defensive writing, we produce a harness that separates the reviewer,...
+- **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.36717v1
