@@ -337,6 +337,7 @@
     "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
     "https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk",
     "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9",
+    "https://dev.to/pascal_cescato_692b7a8a20/unboxable-in-tech-the-evidence-locker-20n4",
     "https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o",
     "https://dev.to/playfulprogramming/javascript-frameworks-heading-into-2026-2hel",
     "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk",
@@ -1995,12 +1996,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "AI Engineering",
-      "title": "I Made 866 Commits in 5 Weeks. My Understanding...",
-      "url": "https://dev.to/mikachu/i-made-866-commits-in-5-weeks-my-understanding-didnt-keep-up-cmo"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Lobsters Picks",
       "title": "awesome-tunneling: List of tunneling software and...",
       "url": "https://lobste.rs/s/myuake/awesome_tunneling_list_tunneling"
@@ -2052,6 +2047,12 @@
       "subcat": "Hacker News Picks",
       "title": "Unveiling The Grid: PCBs made in America, twice as...",
       "url": "https://news.ycombinator.com/item?id=50243060"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Career & Craft",
+      "title": "Unboxable in Tech: The Evidence Locker",
+      "url": "https://dev.to/pascal_cescato_692b7a8a20/unboxable-in-tech-the-evidence-locker-20n4"
     }
   ]
 }

@@ -2613,6 +2613,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Summary:** Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...
 - **Link:** https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da
 
+**Added 2026-10-28**
+
+### [Unboxable in Tech: The Evidence Locker](https://dev.to/pascal_cescato_692b7a8a20/unboxable-in-tech-the-evidence-locker-20n4)
+- **Author:** Pascal CESCATO | **Published:** Jul 9 | **Read time:** 9 min
+- **Community:** 76 reactions, 108 comments -- a top post in #career
+- **Tags:** career, discuss, webdev, showdev
+- **Summary:** Eleven exhibits, last time. A career that kept refusing to fit inside a single box — trainer,...
+- **Link:** https://dev.to/pascal_cescato_692b7a8a20/unboxable-in-tech-the-evidence-locker-20n4
+
+
 ## Testing
 
 **Added 2026-10-27**
