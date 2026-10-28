@@ -2555,6 +2555,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/tp0zlk/stackless_floodfill_automation_2023
 - **Link:** https://t3x.org/files/floodfill.pdf
 
+**Added 2026-10-28**
+
+### [Filian, Fil-C binaries on Debian](https://cr.yp.to/2025/fil-c.html)
+- **Source:** cr.yp.to | **Posted:** 2026-10-27 | **By:** lollipopman
+- **Community:** 16 score, 1 comments on Lobsters
+- **Tags:** c, linux
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/rs6ce2/filian_fil_c_binaries_on_debian
+- **Link:** https://cr.yp.to/2025/fil-c.html
+
 
 ## Career & Craft
 

@@ -196,6 +196,7 @@
     "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
     "https://committing-crimes.com/articles/2026-08-04-java-nameof",
     "https://comonad.com/reader/2026/turbo-haskell/",
+    "https://cr.yp.to/2025/fil-c.html",
     "https://cretezy.com/2026/ad-free-android-tv",
     "https://csixty4.medium.com/pick-is-a-living-fossil-of-computer-history-36d74408d557",
     "https://css-tricks.com/css-tricks-has-a-new-owner/",
@@ -1168,6 +1169,7 @@
     "https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably",
     "https://lobste.rs/s/rlrfew/balloting_has_completed_for_c_26",
     "https://lobste.rs/s/rpiwtb/python_3_15_0",
+    "https://lobste.rs/s/rs6ce2/filian_fil_c_binaries_on_debian",
     "https://lobste.rs/s/rtcnc8/javascript_pun_tagged_template_literal",
     "https://lobste.rs/s/rucvky/go_concurrency_distilled",
     "https://lobste.rs/s/rwdufq/anti_patterns_software_blogging",
@@ -1954,12 +1956,6 @@
   "recent": [
     {
       "date": "2026-10-28",
-      "subcat": "Python",
-      "title": "morganlinton/BeautifulRust",
-      "url": "https://github.com/morganlinton/BeautifulRust"
-    },
-    {
-      "date": "2026-10-28",
       "subcat": "Lobsters Picks",
       "title": "Goodbye Google",
       "url": "https://lobste.rs/s/sxlf4a/goodbye_google"
@@ -2011,6 +2007,12 @@
       "subcat": "AI & Machine Learning",
       "title": "decodingai-magazine/building-a-coding-agent-from-scratc...",
       "url": "https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course"
+    },
+    {
+      "date": "2026-10-28",
+      "subcat": "Lobsters Picks",
+      "title": "Filian, Fil-C binaries on Debian",
+      "url": "https://lobste.rs/s/rs6ce2/filian_fil_c_binaries_on_debian"
     }
   ]
 }
