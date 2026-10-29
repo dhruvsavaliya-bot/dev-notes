@@ -2630,6 +2630,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/ansfvi/forging_microsoft_edge_full_chain_with
 - **Link:** https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/
 
+**Added 2026-10-29**
+
+### [EMACS turns 50](https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/)
+- **Source:** www.technologyreview.com | **Posted:** 2026-10-28 | **By:** facundoolano
+- **Community:** 45 score, 2 comments on Lobsters
+- **Tags:** emacs, historical
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/uimyck/emacs_turns_50
+- **Link:** https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/
+
 
 ## Career & Craft
 

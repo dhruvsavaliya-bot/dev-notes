@@ -1247,6 +1247,7 @@
     "https://lobste.rs/s/u9ue6c/what_s_wrong_with_github",
     "https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases",
     "https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem",
+    "https://lobste.rs/s/uimyck/emacs_turns_50",
     "https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without",
     "https://lobste.rs/s/ul9krj/hacking_go_compiler_efficiently_map_ipv4",
     "https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out",
@@ -2008,6 +2009,7 @@
     "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies",
     "https://www.taler.net/en/news/2026-13.html",
     "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
+    "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
     "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
     "https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html",
     "https://www.theatlantic.com/magazine/archive/2017/06/lolas-story/524490/?single_page=true",
@@ -2036,12 +2038,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-10-29",
-      "subcat": "Models & Datasets",
-      "title": "openbmb/Ultra-FineWeb-L1",
-      "url": "https://huggingface.co/datasets/openbmb/Ultra-FineWeb-L1"
-    },
     {
       "date": "2026-10-29",
       "subcat": "Other Cool Projects",
@@ -2095,6 +2091,12 @@
       "subcat": "Other Cool Projects",
       "title": "Star-Pie/StarPie",
       "url": "https://github.com/Star-Pie/StarPie"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Lobsters Picks",
+      "title": "EMACS turns 50",
+      "url": "https://lobste.rs/s/uimyck/emacs_turns_50"
     }
   ]
 }
