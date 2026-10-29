@@ -930,6 +930,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/kcyzco/uuidv7_doesn_t_have_properties_you_think
 - **Link:** https://alexsci.com/blog/uuidv7-is-weird/
 
+**Added 2026-10-29**
+
+### [nv-tlabs/PiD](https://github.com/nv-tlabs/PiD)
+- **Stats:** 1,084 stars | 63 forks | 12 open issues
+- **Language:** Python | **Created:** 2026-05-21 | **License:** NOASSERTION
+- **Topics:** diffusion-decoder, pixel-diffusion
+- **What it is:** [NeurIPS 2026] PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion
+- **Growth:** averaging ~6 stars/day since launch.
+- **Link:** https://github.com/nv-tlabs/PiD
+
 
 ## Go
 

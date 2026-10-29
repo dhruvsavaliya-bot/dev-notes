@@ -745,6 +745,7 @@
     "https://github.com/noahdunnagan/mcopt",
     "https://github.com/nodes-app/swift-markdown-engine",
     "https://github.com/noonghunna/club-3090",
+    "https://github.com/nv-tlabs/PiD",
     "https://github.com/nyblnet/bento",
     "https://github.com/nykooi1/vibe-wise",
     "https://github.com/obsidianmd/pele",
@@ -2040,12 +2041,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "Other Cool Projects",
-      "title": "seedds/nxnative",
-      "url": "https://github.com/seedds/nxnative"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "JavaScript",
       "title": "achrefelouafi/LinearAbiltyCastingThreeJS",
       "url": "https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS"
@@ -2097,6 +2092,12 @@
       "subcat": "Lobsters Picks",
       "title": "EMACS turns 50",
       "url": "https://lobste.rs/s/uimyck/emacs_turns_50"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Python",
+      "title": "nv-tlabs/PiD",
+      "url": "https://github.com/nv-tlabs/PiD"
     }
   ]
 }
