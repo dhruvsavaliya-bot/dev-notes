@@ -1977,6 +1977,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/nvidia/simready-central-library
 
+**Added 2026-10-29**
+
+### [LiquidAI/LFM3-Omni-2B](https://huggingface.co/LiquidAI/LFM3-Omni-2B)
+- **Stats:** 187 likes | 1,814 downloads
+- **Kind:** Hugging Face model | **Task:** any-to-any | **Created:** 2026-10-21
+- **Tags:** transformers, safetensors, lfm3_omni, image-text-to-text, liquid, lfm3
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/LiquidAI/LFM3-Omni-2B
+
 
 ## Research Papers
 
