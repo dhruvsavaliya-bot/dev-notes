@@ -2642,6 +2642,16 @@ Additional Notes: https://punkto.org/blog/small_web
 - **Discussion:** https://lobste.rs/s/myuake/awesome_tunneling_list_tunneling
 - **Link:** https://github.com/anderspitman/awesome-tunneling
 
+**Added 2026-10-29**
+
+### [Why Is This Fingerprinting Script Creating Bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
+- **Source:** nullpt.rs | **Posted:** 2026-10-28 | **By:** haze
+- **Community:** 33 score, 0 comments on Lobsters
+- **Tags:** ai, reversing
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/gvy5gz/why_is_this_fingerprinting_script
+- **Link:** https://nullpt.rs/fingerprinting-bioweapons
+
 
 ## Performance
 

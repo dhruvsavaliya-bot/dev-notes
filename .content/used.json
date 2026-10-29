@@ -1163,6 +1163,7 @@
     "https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow",
     "https://lobste.rs/s/gqyvn5/protecting_firefox_users_following",
     "https://lobste.rs/s/gu7bow/node_js_wednesday_october_21_2026",
+    "https://lobste.rs/s/gvy5gz/why_is_this_fingerprinting_script",
     "https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait",
     "https://lobste.rs/s/hccdqa/shipping_jpeg_xl_chrome",
     "https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not",
@@ -1773,6 +1774,7 @@
     "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
     "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
     "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+    "https://nullpt.rs/fingerprinting-bioweapons",
     "https://nullpt.rs/reverse-engineering-adhd-test",
     "https://numpad.io/",
     "https://obscura.com/#faq-technical",
@@ -2023,12 +2025,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "Hacker News Picks",
-      "title": "Kentucky man becomes the first humanist granted...",
-      "url": "https://news.ycombinator.com/item?id=50273396"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "Lobsters Picks",
       "title": "Billion-query-per-second lookup tables in C++",
       "url": "https://lobste.rs/s/d3ubhd/billion_query_per_second_lookup_tables_c"
@@ -2080,6 +2076,12 @@
       "subcat": "Research Papers",
       "title": "Mechanistic Failure Modes of Weight Pruning in...",
       "url": "http://arxiv.org/abs/2610.37126v1"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Lobsters Picks",
+      "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
+      "url": "https://lobste.rs/s/gvy5gz/why_is_this_fingerprinting_script"
     }
   ]
 }
