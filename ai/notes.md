@@ -1968,6 +1968,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/nvidia/Nemotron-Personas-Germany
 
+**Added 2026-10-29**
+
+### [nvidia/simready-central-library](https://huggingface.co/datasets/nvidia/simready-central-library)
+- **Stats:** 74 likes | 251 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-09-29
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/nvidia/simready-central-library
+
 
 ## Research Papers
 

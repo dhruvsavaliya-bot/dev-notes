@@ -997,6 +997,7 @@
     "https://huggingface.co/datasets/nvidia/OpenH-RF",
     "https://huggingface.co/datasets/nvidia/OpenMathInstruct-2",
     "https://huggingface.co/datasets/nvidia/simready-assets",
+    "https://huggingface.co/datasets/nvidia/simready-central-library",
     "https://huggingface.co/datasets/open-r1/codeforces-cots",
     "https://huggingface.co/datasets/openai/gdpval",
     "https://huggingface.co/datasets/openai/healthbench",
@@ -2045,12 +2046,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "PHP",
-      "title": "Faizpi/bank-sampah",
-      "url": "https://github.com/Faizpi/bank-sampah"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
       "url": "https://news.ycombinator.com/item?id=49928566"
@@ -2102,6 +2097,12 @@
       "subcat": "Hacker News Picks",
       "title": "Apple's git still trusts the compromised eMudhra...",
       "url": "https://news.ycombinator.com/item?id=50271640"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Models & Datasets",
+      "title": "nvidia/simready-central-library",
+      "url": "https://huggingface.co/datasets/nvidia/simready-central-library"
     }
   ]
 }
