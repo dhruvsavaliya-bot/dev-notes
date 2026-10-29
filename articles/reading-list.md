@@ -2673,3 +2673,12 @@ Additional Notes: https://punkto.org/blog/small_web
 - **Tags:** typescript, opensource, webdev, frontend
 - **Summary:** Hoi hoi!  YAY! is-kit just reached 100 GitHub stars⭐ 🎉🎉🎉  When it reached 50 stars, I wrote about how...
 - **Link:** https://dev.to/nyaomaru/is-kit-reached-100-stars-heres-what-changed-since-50-49pf
+
+**Added 2026-10-29**
+
+### [ROIC.ai Complete Guide - Financial Data API, Pricing, Endpoints, and the 36-Tool MCP Server](https://dev.to/roic/roicai-complete-guide-financial-data-api-pricing-endpoints-and-the-36-tool-mcp-server-6fl)
+- **Author:** TheBitForge | **Published:** Oct 24 | **Read time:** 13 min
+- **Community:** 50 reactions, 0 comments -- a top post in #opensource
+- **Tags:** ai, api, opensource, programming
+- **Summary:** ROIC.ai is a financial data API covering stock prices, financial statements, earnings call...
+- **Link:** https://dev.to/roic/roicai-complete-guide-financial-data-api-pricing-endpoints-and-the-36-tool-mcp-server-6fl

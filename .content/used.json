@@ -347,6 +347,7 @@
     "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk",
     "https://dev.to/robertadam987_/your-ai-coding-agent-can-be-attacked-by-the-repository-it-opens-ie4",
     "https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh",
+    "https://dev.to/roic/roicai-complete-guide-financial-data-api-pricing-endpoints-and-the-36-tool-mcp-server-6fl",
     "https://dev.to/rudratosh/can-a-local-llm-replace-claude-code-the-benchmark-everyone-quotes-is-the-wrong-one-2kna",
     "https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n",
     "https://dev.to/sheships/8-posts-by-women-on-dev-that-deserve-more-than-a-once-a-year-spotlight-27dc",
@@ -2018,12 +2019,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "Research Papers",
-      "title": "A Harness Reducing over-Defensive Writing in Agents...",
-      "url": "http://arxiv.org/abs/2610.36717v1"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "Other Cool Projects",
       "title": "kkk-bot/HowToGetAlong",
       "url": "https://github.com/kkk-bot/HowToGetAlong"
@@ -2075,6 +2070,12 @@
       "subcat": "Models & Datasets",
       "title": "armand0e/claude-fable-5-claude-code",
       "url": "https://huggingface.co/datasets/armand0e/claude-fable-5-claude-code"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Open Source",
+      "title": "ROIC.ai Complete Guide - Financial Data API, Pricing...",
+      "url": "https://dev.to/roic/roicai-complete-guide-financial-data-api-pricing-endpoints-and-the-36-tool-mcp-server-6fl"
     }
   ]
 }
