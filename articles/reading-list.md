@@ -1937,6 +1937,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50273396
 - **Link:** https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/
 
+**Added 2026-10-29**
+
+### [How Amazon pushes up prices all across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
+- **Source:** www.not-ship.com | **Posted:** 2026-10-14 | **By:** sighborg
+- **Community:** 954 points, 767 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50084757
+- **Link:** https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/
+
 
 ## DevOps & Cloud
 

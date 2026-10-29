@@ -1695,6 +1695,7 @@
     "https://news.ycombinator.com/item?id=50070625",
     "https://news.ycombinator.com/item?id=50072286",
     "https://news.ycombinator.com/item?id=50077225",
+    "https://news.ycombinator.com/item?id=50084757",
     "https://news.ycombinator.com/item?id=50089577",
     "https://news.ycombinator.com/item?id=50094694",
     "https://news.ycombinator.com/item?id=50096110",
@@ -1953,6 +1954,7 @@
     "https://www.nebulasans.com",
     "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
     "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+    "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
     "https://www.ntik.me/posts/voice-agent",
     "https://www.nytimes.com/2019/02/20/us/politics/civil-asset-forfeiture-supreme-court.html",
     "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
@@ -2015,12 +2017,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "Research Papers",
-      "title": "Balanced State Subspaces for Mamba-2 State Compression",
-      "url": "http://arxiv.org/abs/2610.36617v1"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "Go",
       "title": "p1neappleXpress/OpenFlux",
       "url": "https://github.com/p1neappleXpress/OpenFlux"
@@ -2072,6 +2068,12 @@
       "subcat": "Ruby",
       "title": "Pair-coding Lobste.rs feat",
       "url": "https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Hacker News Picks",
+      "title": "How Amazon pushes up prices all across the Internet",
+      "url": "https://news.ycombinator.com/item?id=50084757"
     }
   ]
 }
