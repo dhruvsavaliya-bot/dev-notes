@@ -2663,3 +2663,13 @@ Lessons from building with LLMs.
 - **Abstract:** When expanding a report, writing with agents may introduce a stronger claim than the article makes and then disclaim it. This is called over-defensive writing. We assume that this is because the agent is writing for responding to an adversarial AI reviewer, instead of a human reader. The defensive context may also influnce the consequent when we simply ban defensive writing in the output through prompts. In order to reduce over-defensive writing, we produce a harness that separates the reviewer,...
 - **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.36717v1
+
+**Added 2026-10-29**
+
+### [Mechanistic Failure Modes of Weight Pruning in Transformer Language Models](http://arxiv.org/abs/2610.37126v1)
+- **Authors:** Nabeelah Faumi, Deshan Sumanathilaka
+- **Published:** 2026-10-27 | **Primary category:** cs.LG
+- **Categories:** cs.LG, cs.CL
+- **Abstract:** Pruned language models are judged almost entirely by accuracy and perplexity, which assumes that preserved output behaviour implies preserved internal computation. We test this assumption with a factorial pruning study on GPT-2, crossing two importance criteria (magnitude, random), two component types (attention heads, MLP neurons) and three sparsity levels (3%, 50%, 70%). Using the fully characterised indirect object identification (IOI) circuit as ground truth, we measure circuit integrity wit...
+- **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.37126v1

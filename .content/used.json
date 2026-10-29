@@ -78,6 +78,7 @@
     "http://arxiv.org/abs/2610.35339v1",
     "http://arxiv.org/abs/2610.36617v1",
     "http://arxiv.org/abs/2610.36717v1",
+    "http://arxiv.org/abs/2610.37126v1",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
     "http://boglin.iwarp.com/",
     "http://bokeh.pydata.org/en/latest/",
@@ -2022,12 +2023,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "Models & Datasets",
-      "title": "datalab-to/surya-ocr-2",
-      "url": "https://huggingface.co/datalab-to/surya-ocr-2"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "Hacker News Picks",
       "title": "Kentucky man becomes the first humanist granted...",
       "url": "https://news.ycombinator.com/item?id=50273396"
@@ -2079,6 +2074,12 @@
       "subcat": "Other Cool Projects",
       "title": "storytold/gridcraft",
       "url": "https://github.com/storytold/gridcraft"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Research Papers",
+      "title": "Mechanistic Failure Modes of Weight Pruning in...",
+      "url": "http://arxiv.org/abs/2610.37126v1"
     }
   ]
 }
