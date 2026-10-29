@@ -1946,6 +1946,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50084757
 - **Link:** https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/
 
+**Added 2026-10-29**
+
+### [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
+- **Source:** emudhra.we-have-a-problem.com | **Posted:** 2026-10-28 | **By:** galadran
+- **Community:** 1160 points, 400 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50271640
+- **Link:** https://emudhra.we-have-a-problem.com/apple.html
+
 
 ## DevOps & Cloud
 
