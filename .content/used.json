@@ -573,6 +573,7 @@
     "https://github.com/Zeejay0/gathered-scenes-zine-skill",
     "https://github.com/ZigEmbeddedGroup/microzig",
     "https://github.com/ZzzLc0405/photo-abstract-editorial",
+    "https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS",
     "https://github.com/aden-hive/hive",
     "https://github.com/adityatandon15/Spring-Framework-Full-Course",
     "https://github.com/adonis-singh/re4",
@@ -2028,12 +2029,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "Hacker News Picks",
-      "title": "How Amazon pushes up prices all across the Internet",
-      "url": "https://news.ycombinator.com/item?id=50084757"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "Models & Datasets",
       "title": "armand0e/claude-fable-5-claude-code",
       "url": "https://huggingface.co/datasets/armand0e/claude-fable-5-claude-code"
@@ -2085,6 +2080,12 @@
       "subcat": "Other Cool Projects",
       "title": "seedds/nxnative",
       "url": "https://github.com/seedds/nxnative"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "JavaScript",
+      "title": "achrefelouafi/LinearAbiltyCastingThreeJS",
+      "url": "https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS"
     }
   ]
 }

@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1432 entries and counting** · Last updated: 2026-10-29
+**1433 entries and counting** · Last updated: 2026-10-29
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 288 |
 | [Reading List](articles/reading-list.md) | 289 |
 | [Coding Tips](coding-tips/tips.md) | 289 |
-| [Language Notes](languages/notes.md) | 277 |
+| [Language Notes](languages/notes.md) | 278 |
 
 ## Latest additions
 
+- **2026-10-29** · *JavaScript* — [achrefelouafi/LinearAbiltyCastingThreeJS](https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS)
 - **2026-10-29** · *Other Cool Projects* — [seedds/nxnative](https://github.com/seedds/nxnative)
 - **2026-10-29** · *Models & Datasets* — [openbmb/Ultra-FineWeb-L1](https://huggingface.co/datasets/openbmb/Ultra-FineWeb-L1)
 - **2026-10-29** · *Productivity* — ["Build in Public" Is Everywhere. Does It Actually Get...](https://dev.to/startupcafe/build-in-public-is-everywhere-does-it-actually-get-you-customers-2hlh)
 - **2026-10-29** · *Lobsters Picks* — [Why Is This Fingerprinting Script Creating Bioweapons?](https://lobste.rs/s/gvy5gz/why_is_this_fingerprinting_script)
-- **2026-10-29** · *Research Papers* — [Mechanistic Failure Modes of Weight Pruning in...](http://arxiv.org/abs/2610.37126v1)
 
 ## How it works
 

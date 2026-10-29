@@ -397,6 +397,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/Chlience/yt-dlp-tauri
 
+**Added 2026-10-29**
+
+### [achrefelouafi/LinearAbiltyCastingThreeJS](https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS)
+- **Stats:** 1,046 stars | 211 forks | 9 open issues
+- **Language:** JavaScript | **Created:** 2026-08-06 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~12 stars/day since launch.
+- **Link:** https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS
+
 
 ## TypeScript
 
