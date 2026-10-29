@@ -757,6 +757,7 @@
     "https://github.com/omacom/try-omarchy",
     "https://github.com/omdsh-dev/DSH-better-sidebar",
     "https://github.com/omnara-ai/omnara",
+    "https://github.com/onehumanbeing/esp32-iphone-agent",
     "https://github.com/onyx-dot-app/onyx",
     "https://github.com/oomol-lab/open-connector",
     "https://github.com/openTrinity/mycontext",
@@ -2048,12 +2049,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "LLMs",
-      "title": "An LLM API call, in 4 GIFs",
-      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "Other Cool Projects",
       "title": "boykopovar/AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5"
@@ -2105,6 +2100,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
       "url": "https://news.ycombinator.com/item?id=50151928"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "AI & Machine Learning",
+      "title": "onehumanbeing/esp32-iphone-agent",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
     }
   ]
 }

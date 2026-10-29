@@ -1304,6 +1304,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~5 stars/day since launch.
 - **Link:** https://github.com/iBUHub/AIStudioToAPI
 
+**Added 2026-10-29**
+
+### [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)
+- **Stats:** 4,084 stars | 540 forks | 14 open issues
+- **Language:** C | **Created:** 2026-10-11 | **License:** MIT
+- **Topics:** ai-agent, airplay, automation, computer-use, esp32, esp32-s3
+- **What it is:** Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
+- **Growth:** averaging ~226 stars/day since launch.
+- **Link:** https://github.com/onehumanbeing/esp32-iphone-agent
+
 
 ## Other Cool Projects
 
