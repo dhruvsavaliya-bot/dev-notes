@@ -2128,6 +2128,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49928566
 - **Link:** https://stillwet.art/
 
+**Added 2026-10-29**
+
+### [Show HN: Qwen3-4B with the AI writing tics trained out](https://100toolkit.com/blog/deslop-model/)
+- **Source:** 100toolkit.com | **Posted:** 2026-10-19 | **By:** erikkannike
+- **Community:** 158 points, 113 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50151928
+- **Link:** https://100toolkit.com/blog/deslop-model/
+
 
 ## Git & Workflow
 
