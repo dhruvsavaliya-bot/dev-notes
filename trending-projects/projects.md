@@ -1314,6 +1314,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~226 stars/day since launch.
 - **Link:** https://github.com/onehumanbeing/esp32-iphone-agent
 
+**Added 2026-10-29**
+
+### [winstonkoh87/Athena-Public](https://github.com/winstonkoh87/Athena-Public)
+- **Stats:** 621 stars | 84 forks | 0 open issues
+- **Language:** Python | **Created:** 2025-12-18 | **License:** MIT
+- **Topics:** ai, ai-agents, ai-assistant, automation, chatgpt, developer-tools
+- **What it is:** Local-first memory, decision engine, and governance harness for AI agents — portable across IDEs. Own the state. Rent the intelligence.
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/winstonkoh87/Athena-Public
+
 
 ## Other Cool Projects
 

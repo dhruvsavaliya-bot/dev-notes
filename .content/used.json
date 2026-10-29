@@ -852,6 +852,7 @@
     "https://github.com/wie-project/kakehashi",
     "https://github.com/wild-linker/wild",
     "https://github.com/wild-linker/wild/releases/tag/0.11.0",
+    "https://github.com/winstonkoh87/Athena-Public",
     "https://github.com/withmarbleapp/os-taxonomy",
     "https://github.com/wuyi2121/SCAN-Planner",
     "https://github.com/x4gKing/3x-ui",
@@ -2052,12 +2053,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "Lobsters Picks",
-      "title": "EMACS turns 50",
-      "url": "https://lobste.rs/s/uimyck/emacs_turns_50"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "Python",
       "title": "nv-tlabs/PiD",
       "url": "https://github.com/nv-tlabs/PiD"
@@ -2109,6 +2104,12 @@
       "subcat": "Models & Datasets",
       "title": "LiquidAI/LFM3-Omni-2B",
       "url": "https://huggingface.co/LiquidAI/LFM3-Omni-2B"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "AI & Machine Learning",
+      "title": "winstonkoh87/Athena-Public",
+      "url": "https://github.com/winstonkoh87/Athena-Public"
     }
   ]
 }
