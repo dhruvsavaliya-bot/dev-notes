@@ -2487,6 +2487,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~567 stars/day since launch.
 - **Link:** https://github.com/boykopovar/AnyPS5
 
+**Added 2026-10-29**
+
+### [Star-Pie/StarPie](https://github.com/Star-Pie/StarPie)
+- **Stats:** 1,286 stars | 42 forks | 12 open issues
+- **Language:** C# | **Created:** 2026-08-23 | **License:** MIT
+- **Topics:** lightweight, local-first, offline-first, pie, windows-10-11, wpf-application
+- **What it is:** StarPie 现代化 Windows 鼠标轮盘手势系统
+- **Growth:** averaging ~19 stars/day since launch.
+- **Link:** https://github.com/Star-Pie/StarPie
+
 
 ## Web & Frontend
 

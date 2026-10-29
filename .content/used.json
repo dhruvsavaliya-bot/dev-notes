@@ -551,6 +551,7 @@
     "https://github.com/ShishirPatil/gorilla",
     "https://github.com/Shpigford/knockoff",
     "https://github.com/SonicloudTech/sonicloud_opensdk",
+    "https://github.com/Star-Pie/StarPie",
     "https://github.com/Swayingleaves/novanova-studio",
     "https://github.com/Taichu-AI/ZDTaichu5.0-9B",
     "https://github.com/TauricResearch/TradingAgents",
@@ -2037,12 +2038,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "Productivity",
-      "title": "\"Build in Public\" Is Everywhere. Does It Actually Get...",
-      "url": "https://dev.to/startupcafe/build-in-public-is-everywhere-does-it-actually-get-you-customers-2hlh"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "Models & Datasets",
       "title": "openbmb/Ultra-FineWeb-L1",
       "url": "https://huggingface.co/datasets/openbmb/Ultra-FineWeb-L1"
@@ -2094,6 +2089,12 @@
       "subcat": "Other Cool Projects",
       "title": "boykopovar/AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Other Cool Projects",
+      "title": "Star-Pie/StarPie",
+      "url": "https://github.com/Star-Pie/StarPie"
     }
   ]
 }
