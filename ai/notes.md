@@ -1932,6 +1932,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datalab-to/surya-ocr-2
 
+**Added 2026-10-29**
+
+### [armand0e/claude-fable-5-claude-code](https://huggingface.co/datasets/armand0e/claude-fable-5-claude-code)
+- **Stats:** 407 likes | 4,610 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-06-11
+- **Tags:** agent-traces, claude, distillation, claude-fable-5, teich
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/armand0e/claude-fable-5-claude-code
+
 
 ## Research Papers
 

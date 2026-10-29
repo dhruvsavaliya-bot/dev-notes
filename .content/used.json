@@ -950,6 +950,7 @@
     "https://huggingface.co/datasets/aidigestorg/ai-village",
     "https://huggingface.co/datasets/allenai/c4",
     "https://huggingface.co/datasets/argilla/magpie-ultra-v0.1",
+    "https://huggingface.co/datasets/armand0e/claude-fable-5-claude-code",
     "https://huggingface.co/datasets/bakrianoo/jabarti-llm-dataset",
     "https://huggingface.co/datasets/bigcode/the-stack-v2",
     "https://huggingface.co/datasets/datacurve/deep-swe",
@@ -2017,12 +2018,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "Go",
-      "title": "p1neappleXpress/OpenFlux",
-      "url": "https://github.com/p1neappleXpress/OpenFlux"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "Research Papers",
       "title": "A Harness Reducing over-Defensive Writing in Agents...",
       "url": "http://arxiv.org/abs/2610.36717v1"
@@ -2074,6 +2069,12 @@
       "subcat": "Hacker News Picks",
       "title": "How Amazon pushes up prices all across the Internet",
       "url": "https://news.ycombinator.com/item?id=50084757"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Models & Datasets",
+      "title": "armand0e/claude-fable-5-claude-code",
+      "url": "https://huggingface.co/datasets/armand0e/claude-fable-5-claude-code"
     }
   ]
 }
