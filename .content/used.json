@@ -303,6 +303,7 @@
     "https://dev.to/james_anderson_h/prompt-injection-is-the-new-sql-injection-and-were-not-ready-4ea4",
     "https://dev.to/james_anderson_h/the-7-walls-javascript-hits-and-how-webassembly-gets-past-them-3khk",
     "https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g",
+    "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
     "https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762",
     "https://dev.to/kenielzep97/tell-me-about-you-1hi4",
     "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm",
@@ -2035,12 +2036,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "Research Papers",
-      "title": "Mechanistic Failure Modes of Weight Pruning in...",
-      "url": "http://arxiv.org/abs/2610.37126v1"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "Lobsters Picks",
       "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
       "url": "https://lobste.rs/s/gvy5gz/why_is_this_fingerprinting_script"
@@ -2092,6 +2087,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
       "url": "https://news.ycombinator.com/item?id=49928566"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "LLMs",
+      "title": "An LLM API call, in 4 GIFs",
+      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"
     }
   ]
 }

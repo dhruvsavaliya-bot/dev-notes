@@ -531,6 +531,15 @@ Lessons from building with LLMs.
 - **Summary:** You know that feeling when you've just finished migrating your entire codebase from GPT-4 to Claude —...
 - **Link:** https://dev.to/chief_yaml_officer/how-i-stopped-rewriting-my-code-every-time-i-switched-llm-providers-4gjh
 
+**Added 2026-10-29**
+
+### [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1)
+- **Author:** Jasmin Virdi | **Published:** May 26 | **Read time:** 4 min
+- **Community:** 112 reactions, 66 comments -- a top post in #llm
+- **Tags:** llm, javascript, ai, beginners
+- **Summary:** This is the first post of series Building TinyAgent where we are going to build a small agent from...
+- **Link:** https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1
+
 
 ## Machine Learning
 

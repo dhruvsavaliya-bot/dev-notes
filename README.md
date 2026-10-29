@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1437 entries and counting** · Last updated: 2026-10-29
+**1438 entries and counting** · Last updated: 2026-10-29
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 289 |
-| [AI / LLM Notes](ai/notes.md) | 289 |
+| [AI / LLM Notes](ai/notes.md) | 290 |
 | [Reading List](articles/reading-list.md) | 290 |
 | [Coding Tips](coding-tips/tips.md) | 290 |
 | [Language Notes](languages/notes.md) | 279 |
 
 ## Latest additions
 
+- **2026-10-29** · *LLMs* — [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1)
 - **2026-10-29** · *Show & Ask HN* — [Show HN: Giving Opus 5.5 a simulated paint canvas](https://news.ycombinator.com/item?id=49928566)
 - **2026-10-29** · *PHP* — [Faizpi/bank-sampah](https://github.com/Faizpi/bank-sampah)
 - **2026-10-29** · *Lobsters Picks* — [GitLab security incident: attempted exploitation of...](https://lobste.rs/s/2zsjwt/gitlab_security_incident_attempted)
 - **2026-10-29** · *Models & Datasets* — [nvidia/Nemotron-Personas-Germany](https://huggingface.co/datasets/nvidia/Nemotron-Personas-Germany)
-- **2026-10-29** · *JavaScript* — [achrefelouafi/LinearAbiltyCastingThreeJS](https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS)
 
 ## How it works
 
