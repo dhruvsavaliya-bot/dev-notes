@@ -723,6 +723,7 @@
     "https://github.com/langchain-ai/openwiki",
     "https://github.com/laogou717/dogsc",
     "https://github.com/laramint/laravel-brain",
+    "https://github.com/lgse/strata",
     "https://github.com/liangxiegame/QFramework",
     "https://github.com/lingyired/status-trio",
     "https://github.com/lnkiai/m3e-canvas",
@@ -2065,12 +2066,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "AI & Machine Learning",
-      "title": "winstonkoh87/Athena-Public",
-      "url": "https://github.com/winstonkoh87/Athena-Public"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "Lobsters Picks",
       "title": "The Future Trait Has A Missing State",
       "url": "https://lobste.rs/s/jmbjlu/future_trait_has_missing_state"
@@ -2122,6 +2117,12 @@
       "subcat": "Lobsters Picks",
       "title": "AlpineBSD",
       "url": "https://lobste.rs/s/yxuvie/alpinebsd"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Other Cool Projects",
+      "title": "lgse/strata",
+      "url": "https://github.com/lgse/strata"
     }
   ]
 }

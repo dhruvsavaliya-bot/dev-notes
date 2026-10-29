@@ -2537,6 +2537,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~168 stars/day since launch.
 - **Link:** https://github.com/nullmoth/nvidia-macos-driver
 
+**Added 2026-10-30**
+
+### [lgse/strata](https://github.com/lgse/strata)
+- **Stats:** 1,505 stars | 120 forks | 70 open issues
+- **Language:** Rust | **Created:** 2026-08-28 | **License:** MIT
+- **Topics:** file-manager, gtk4, hyprland, linux, rust, wayland
+- **What it is:** The best file manager on Linux
+- **Growth:** averaging ~23 stars/day since launch.
+- **Link:** https://github.com/lgse/strata
+
 
 ## Web & Frontend
 
