@@ -2702,6 +2702,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/xxdda9/what_are_you_doing_this_week
 - **Link:** https://lobste.rs/s/xxdda9/what_are_you_doing_this_week
 
+**Added 2026-10-30**
+
+### [AlpineBSD](https://wiki.alpinebsd.org/)
+- **Source:** wiki.alpinebsd.org | **Posted:** 2026-10-28 | **By:** FedericoSchonborn
+- **Community:** 78 score, 26 comments on Lobsters
+- **Tags:** netbsd
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/yxuvie/alpinebsd
+- **Link:** https://wiki.alpinebsd.org/
+
 
 ## Performance
 

@@ -1289,6 +1289,7 @@
     "https://lobste.rs/s/ygp18d/hanami_why_model_citizens",
     "https://lobste.rs/s/ysyqnt/small_web_is_huge",
     "https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn",
+    "https://lobste.rs/s/yxuvie/alpinebsd",
     "https://lobste.rs/s/zknqct/two_kinds_sql_query_builders",
     "https://lobste.rs/s/zlhyss/mathocalypse",
     "https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source",
@@ -1935,6 +1936,7 @@
     "https://wasmer.io/posts/running-php-blazingly-fast-at-the-edge-with-wasm",
     "https://weirdgloop.org/blog/google-jail",
     "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+    "https://wiki.alpinebsd.org/",
     "https://words.filippo.io/seeds-solved/",
     "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
     "https://www.abortretry.fail/p/matrox",
@@ -2063,12 +2065,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "Models & Datasets",
-      "title": "LiquidAI/LFM3-Omni-2B",
-      "url": "https://huggingface.co/LiquidAI/LFM3-Omni-2B"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "AI & Machine Learning",
       "title": "winstonkoh87/Athena-Public",
       "url": "https://github.com/winstonkoh87/Athena-Public"
@@ -2120,6 +2116,12 @@
       "subcat": "Other Cool Projects",
       "title": "nullmoth/nvidia-macos-driver",
       "url": "https://github.com/nullmoth/nvidia-macos-driver"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Lobsters Picks",
+      "title": "AlpineBSD",
+      "url": "https://lobste.rs/s/yxuvie/alpinebsd"
     }
   ]
 }
