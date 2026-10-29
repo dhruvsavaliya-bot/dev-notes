@@ -2457,6 +2457,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~25 stars/day since launch.
 - **Link:** https://github.com/talivia-group/talivia
 
+**Added 2026-10-29**
+
+### [storytold/gridcraft](https://github.com/storytold/gridcraft)
+- **Stats:** 6,745 stars | 3,121 forks | 1,441 open issues
+- **Language:** Rust | **Created:** 2026-10-07 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.
+- **Growth:** averaging ~306 stars/day since launch.
+- **Link:** https://github.com/storytold/gridcraft
+
 
 ## Web & Frontend
 

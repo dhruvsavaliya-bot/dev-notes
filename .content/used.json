@@ -795,6 +795,7 @@
     "https://github.com/software-mansion-labs/goldie",
     "https://github.com/srizzon/git-city",
     "https://github.com/storytold/figcraft",
+    "https://github.com/storytold/gridcraft",
     "https://github.com/storytold/photocraft",
     "https://github.com/storytold/vectorcraft",
     "https://github.com/storytold/wordcraft",
@@ -2021,12 +2022,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "C++",
-      "title": "yappologistic/Spun",
-      "url": "https://github.com/yappologistic/Spun"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "Models & Datasets",
       "title": "datalab-to/surya-ocr-2",
       "url": "https://huggingface.co/datalab-to/surya-ocr-2"
@@ -2078,6 +2073,12 @@
       "subcat": "Lobsters Picks",
       "title": "Forging a Microsoft Edge Full Chain with Logic Bugs...",
       "url": "https://lobste.rs/s/ansfvi/forging_microsoft_edge_full_chain_with"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Other Cool Projects",
+      "title": "storytold/gridcraft",
+      "url": "https://github.com/storytold/gridcraft"
     }
   ]
 }
