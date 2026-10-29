@@ -1159,6 +1159,7 @@
     "https://lobste.rs/s/bag41j/hanami_why_introductions",
     "https://lobste.rs/s/bcfzer/hacking_nameof",
     "https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical",
+    "https://lobste.rs/s/brdwr2/redox_ring_buffers_project_summary",
     "https://lobste.rs/s/brrnpm/outside_scope_our_support",
     "https://lobste.rs/s/c0yniy/stalwart_v1_0_fastest_mail_server_on",
     "https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me",
@@ -2016,6 +2017,7 @@
     "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
     "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
     "https://www.raptitude.com/2026/07/how-to-exist/",
+    "https://www.redox-os.org/news/nlnet-rb-summary/",
     "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
     "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
     "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
@@ -2065,12 +2067,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-10-29",
-      "subcat": "Lobsters Picks",
-      "title": "What are you doing this week?",
-      "url": "https://lobste.rs/s/xxdda9/what_are_you_doing_this_week"
-    },
     {
       "date": "2026-10-29",
       "subcat": "Models & Datasets",
@@ -2124,6 +2120,12 @@
       "subcat": "Research Papers",
       "title": "Atomic Security Concerns: Towards a Foundational...",
       "url": "http://arxiv.org/abs/2610.35782v1"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Lobsters Picks",
+      "title": "Redox Ring Buffers Project Summary",
+      "url": "https://lobste.rs/s/brdwr2/redox_ring_buffers_project_summary"
     }
   ]
 }

@@ -2712,6 +2712,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/yxuvie/alpinebsd
 - **Link:** https://wiki.alpinebsd.org/
 
+**Added 2026-10-30**
+
+### [Redox Ring Buffers Project Summary](https://www.redox-os.org/news/nlnet-rb-summary/)
+- **Source:** www.redox-os.org | **Posted:** 2026-10-28 | **By:** rslabbert
+- **Community:** 21 score, 1 comments on Lobsters
+- **Tags:** osdev
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/brdwr2/redox_ring_buffers_project_summary
+- **Link:** https://www.redox-os.org/news/nlnet-rb-summary/
+
 
 ## Performance
 
