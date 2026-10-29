@@ -471,6 +471,7 @@
     "https://github.com/Draculabo/AntigravityManager",
     "https://github.com/EpicGames/lore",
     "https://github.com/EvoMap/AutoResearch",
+    "https://github.com/Faizpi/bank-sampah",
     "https://github.com/FalkorDB/FalkorDB",
     "https://github.com/FareedKhan-dev/kimi-k3-in-c",
     "https://github.com/Fei-Away/Codex-Dream-Skin",
@@ -2032,12 +2033,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "Lobsters Picks",
-      "title": "Forging a Microsoft Edge Full Chain with Logic Bugs...",
-      "url": "https://lobste.rs/s/ansfvi/forging_microsoft_edge_full_chain_with"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "Other Cool Projects",
       "title": "storytold/gridcraft",
       "url": "https://github.com/storytold/gridcraft"
@@ -2089,6 +2084,12 @@
       "subcat": "Lobsters Picks",
       "title": "GitLab security incident: attempted exploitation of...",
       "url": "https://lobste.rs/s/2zsjwt/gitlab_security_incident_attempted"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "PHP",
+      "title": "Faizpi/bank-sampah",
+      "url": "https://github.com/Faizpi/bank-sampah"
     }
   ]
 }
