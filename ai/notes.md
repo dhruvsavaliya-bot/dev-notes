@@ -1941,6 +1941,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/armand0e/claude-fable-5-claude-code
 
+**Added 2026-10-29**
+
+### [openbmb/Ultra-FineWeb-L1](https://huggingface.co/datasets/openbmb/Ultra-FineWeb-L1)
+- **Stats:** 203 likes | 14,382 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-08-14
+- **Tags:** llm, pretraining, web-corpus, common-crawl, data-filtering, deduplication
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/openbmb/Ultra-FineWeb-L1
+
 
 ## Research Papers
 

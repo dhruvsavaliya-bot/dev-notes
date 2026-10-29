@@ -989,6 +989,7 @@
     "https://huggingface.co/datasets/openai/gdpval",
     "https://huggingface.co/datasets/openai/healthbench",
     "https://huggingface.co/datasets/openbmb/RLHF-V-Dataset",
+    "https://huggingface.co/datasets/openbmb/Ultra-FineWeb-L1",
     "https://huggingface.co/datasets/openbmb/UltraData-Code",
     "https://huggingface.co/datasets/openbmb/UltraData-SFT-Agent-2609",
     "https://huggingface.co/datasets/pixparse/idl-wds",
@@ -2026,12 +2027,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "Other Cool Projects",
-      "title": "talivia-group/talivia",
-      "url": "https://github.com/talivia-group/talivia"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "Ruby",
       "title": "Pair-coding Lobste.rs feat",
       "url": "https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat"
@@ -2083,6 +2078,12 @@
       "subcat": "Productivity",
       "title": "\"Build in Public\" Is Everywhere. Does It Actually Get...",
       "url": "https://dev.to/startupcafe/build-in-public-is-everywhere-does-it-actually-get-you-customers-2hlh"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Models & Datasets",
+      "title": "openbmb/Ultra-FineWeb-L1",
+      "url": "https://huggingface.co/datasets/openbmb/Ultra-FineWeb-L1"
     }
   ]
 }
