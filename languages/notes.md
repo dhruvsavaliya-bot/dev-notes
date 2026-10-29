@@ -1515,6 +1515,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=49818698
 - **Link:** https://unlisted.careers/ghost-jobs/report/2026-09
 
+**Added 2026-10-29**
+
+### [Pair-coding Lobste.rs feat](https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat)
+- **Source:** lobste.rs | **Posted:** 2026-10-28 | **By:** rebeca
+- **Community:** 19 score, 2 comments on Lobsters
+- **Tags:** ask, meta, ruby
+- **Summary:** There is a long standing [issue](https://github.com/lobsters/lobsters/issues/1165) I'm [working at](https://github.com/lobsters/lobsters/pull/2229) that turned out to have some interesting refactoring suggested by the [admins](https://github.com/orgs/lobsters/people). Does anybody want to pair-code this feat with me? (I also mentioned it in irc). I believe discussing the codebase would be incredib...
+- **Discussion:** https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat
+- **Link:** https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat
+
 
 ## Swift
 

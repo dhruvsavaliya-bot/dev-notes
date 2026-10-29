@@ -1185,6 +1185,7 @@
     "https://lobste.rs/s/lgdxtw/c_for_rust_programmers",
     "https://lobste.rs/s/lxo74i/introducing_microlighter",
     "https://lobste.rs/s/me75ey/jailbreaking_switch_2",
+    "https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat",
     "https://lobste.rs/s/mkq3x9/better_http_1_connection_reuse",
     "https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution",
     "https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself",
@@ -2014,12 +2015,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "Swift",
-      "title": "Apple's new 'Switch to Safari' campaign details why...",
-      "url": "https://news.ycombinator.com/item?id=50072286"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "Research Papers",
       "title": "Balanced State Subspaces for Mamba-2 State Compression",
       "url": "http://arxiv.org/abs/2610.36617v1"
@@ -2071,6 +2066,12 @@
       "subcat": "Other Cool Projects",
       "title": "talivia-group/talivia",
       "url": "https://github.com/talivia-group/talivia"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Ruby",
+      "title": "Pair-coding Lobste.rs feat",
+      "url": "https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat"
     }
   ]
 }
