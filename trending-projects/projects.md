@@ -2467,6 +2467,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~306 stars/day since launch.
 - **Link:** https://github.com/storytold/gridcraft
 
+**Added 2026-10-29**
+
+### [seedds/nxnative](https://github.com/seedds/nxnative)
+- **Stats:** 9,166 stars | 1,464 forks | 223 open issues
+- **Language:** Python | **Created:** 2026-10-13 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)
+- **Growth:** averaging ~572 stars/day since launch.
+- **Link:** https://github.com/seedds/nxnative
+
 
 ## Web & Frontend
 
