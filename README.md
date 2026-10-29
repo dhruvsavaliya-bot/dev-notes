@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1443 entries and counting** · Last updated: 2026-10-29
+**1444 entries and counting** · Last updated: 2026-10-29
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 291 |
 | [Reading List](articles/reading-list.md) | 290 |
 | [Coding Tips](coding-tips/tips.md) | 291 |
-| [Language Notes](languages/notes.md) | 280 |
+| [Language Notes](languages/notes.md) | 281 |
 
 ## Latest additions
 
+- **2026-10-29** · *JavaScript* — [MiaAI-Lab/sparkDash](https://github.com/MiaAI-Lab/sparkDash)
 - **2026-10-29** · *Research Papers* — [A Deterministic Security Runtime for LLM Agents on...](http://arxiv.org/abs/2610.33318v1)
 - **2026-10-29** · *Python* — [nv-tlabs/PiD](https://github.com/nv-tlabs/PiD)
 - **2026-10-29** · *Lobsters Picks* — [EMACS turns 50](https://lobste.rs/s/uimyck/emacs_turns_50)
 - **2026-10-29** · *Other Cool Projects* — [Star-Pie/StarPie](https://github.com/Star-Pie/StarPie)
-- **2026-10-29** · *Other Cool Projects* — [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
 
 ## How it works
 

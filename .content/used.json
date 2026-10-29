@@ -519,6 +519,7 @@
     "https://github.com/MengTo/threeui",
     "https://github.com/MetaMask/metamask-mobile",
     "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
+    "https://github.com/MiaAI-Lab/sparkDash",
     "https://github.com/MikuLeaks/MikuSB",
     "https://github.com/MiniMax-AI/MiniMax-H3",
     "https://github.com/Miuzarte/ScrcpyForAndroid",
@@ -2042,12 +2043,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "Models & Datasets",
-      "title": "nvidia/Nemotron-Personas-Germany",
-      "url": "https://huggingface.co/datasets/nvidia/Nemotron-Personas-Germany"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "Lobsters Picks",
       "title": "GitLab security incident: attempted exploitation of...",
       "url": "https://lobste.rs/s/2zsjwt/gitlab_security_incident_attempted"
@@ -2099,6 +2094,12 @@
       "subcat": "Research Papers",
       "title": "A Deterministic Security Runtime for LLM Agents on...",
       "url": "http://arxiv.org/abs/2610.33318v1"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "JavaScript",
+      "title": "MiaAI-Lab/sparkDash",
+      "url": "https://github.com/MiaAI-Lab/sparkDash"
     }
   ]
 }

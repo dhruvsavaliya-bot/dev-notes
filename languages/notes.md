@@ -407,6 +407,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~12 stars/day since launch.
 - **Link:** https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS
 
+**Added 2026-10-29**
+
+### [MiaAI-Lab/sparkDash](https://github.com/MiaAI-Lab/sparkDash)
+- **Stats:** 778 stars | 181 forks | 29 open issues
+- **Language:** JavaScript | **Created:** 2026-07-19 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** sparkDash ⚡ — Multi-DGX Spark Monitoring Dashboard
+- **Growth:** averaging ~7 stars/day since launch.
+- **Link:** https://github.com/MiaAI-Lab/sparkDash
+
 
 ## TypeScript
 
