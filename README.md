@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1425 entries and counting** · Last updated: 2026-10-29
+**1426 entries and counting** · Last updated: 2026-10-29
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 287 |
 | [AI / LLM Notes](ai/notes.md) | 286 |
 | [Reading List](articles/reading-list.md) | 288 |
-| [Coding Tips](coding-tips/tips.md) | 287 |
+| [Coding Tips](coding-tips/tips.md) | 288 |
 | [Language Notes](languages/notes.md) | 277 |
 
 ## Latest additions
 
+- **2026-10-29** · *Lobsters Picks* — [Forging a Microsoft Edge Full Chain with Logic Bugs...](https://lobste.rs/s/ansfvi/forging_microsoft_edge_full_chain_with)
 - **2026-10-29** · *Open Source* — [ROIC.ai Complete Guide - Financial Data API, Pricing...](https://dev.to/roic/roicai-complete-guide-financial-data-api-pricing-endpoints-and-the-36-tool-mcp-server-6fl)
 - **2026-10-29** · *Models & Datasets* — [armand0e/claude-fable-5-claude-code](https://huggingface.co/datasets/armand0e/claude-fable-5-claude-code)
 - **2026-10-29** · *Hacker News Picks* — [How Amazon pushes up prices all across the Internet](https://news.ycombinator.com/item?id=50084757)
 - **2026-10-29** · *Ruby* — [Pair-coding Lobste.rs feat](https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat)
-- **2026-10-29** · *Other Cool Projects* — [talivia-group/talivia](https://github.com/talivia-group/talivia)
 
 ## How it works
 

@@ -166,6 +166,7 @@
     "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
     "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
     "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+    "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
     "https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/",
     "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
     "https://blog.roboflow.com/openai-gpt-5-6/",
@@ -1122,6 +1123,7 @@
     "https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0",
     "https://lobste.rs/s/aasanp/reverts_will_continue_until_morale",
     "https://lobste.rs/s/and6ld/freebsd_status_report_2023_q2",
+    "https://lobste.rs/s/ansfvi/forging_microsoft_edge_full_chain_with",
     "https://lobste.rs/s/ap9w8i/when_str_lower_is_security_vulnerability",
     "https://lobste.rs/s/b2emi7/guards_guards",
     "https://lobste.rs/s/bag41j/hanami_why_introductions",
@@ -2019,12 +2021,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "Other Cool Projects",
-      "title": "kkk-bot/HowToGetAlong",
-      "url": "https://github.com/kkk-bot/HowToGetAlong"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "C++",
       "title": "yappologistic/Spun",
       "url": "https://github.com/yappologistic/Spun"
@@ -2076,6 +2072,12 @@
       "subcat": "Open Source",
       "title": "ROIC.ai Complete Guide - Financial Data API, Pricing...",
       "url": "https://dev.to/roic/roicai-complete-guide-financial-data-api-pricing-endpoints-and-the-36-tool-mcp-server-6fl"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Lobsters Picks",
+      "title": "Forging a Microsoft Edge Full Chain with Logic Bugs...",
+      "url": "https://lobste.rs/s/ansfvi/forging_microsoft_edge_full_chain_with"
     }
   ]
 }

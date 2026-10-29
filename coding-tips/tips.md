@@ -2602,6 +2602,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/d3ubhd/billion_query_per_second_lookup_tables_c
 - **Link:** https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/
 
+**Added 2026-10-29**
+
+### [Forging a Microsoft Edge Full Chain with Logic Bugs Only](https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/)
+- **Source:** blog.orange.tw | **Posted:** 2026-10-28 | **By:** polywolf
+- **Community:** 18 score, 1 comments on Lobsters
+- **Tags:** security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/ansfvi/forging_microsoft_edge_full_chain_with
+- **Link:** https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/
+
 
 ## Career & Craft
 
