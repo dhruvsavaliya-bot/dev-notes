@@ -2649,6 +2649,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/uimyck/emacs_turns_50
 - **Link:** https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/
 
+**Added 2026-10-29**
+
+### [The Future Trait Has A Missing State](https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state)
+- **Source:** blog.yoshuawuyts.com | **Posted:** 2026-10-28 | **By:** fanf
+- **Community:** 17 score, 2 comments on Lobsters
+- **Tags:** rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/jmbjlu/future_trait_has_missing_state
+- **Link:** https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state
+
 
 ## Career & Craft
 

@@ -177,6 +177,7 @@
     "https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/",
     "https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5",
     "https://blog.webb.page/WM-105",
+    "https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state",
     "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
     "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
     "https://blueberrywren.dev/blog/primes/",
@@ -1199,6 +1200,7 @@
     "https://lobste.rs/s/jbnmj9/chatgpt_now_knows_what_you_do_on_other",
     "https://lobste.rs/s/jgull9/hacky_fucked_up_way_portably_access_errno",
     "https://lobste.rs/s/jlja1a/jdk_27_has_been_released",
+    "https://lobste.rs/s/jmbjlu/future_trait_has_missing_state",
     "https://lobste.rs/s/ju4q1u/i_built_garbage_collector_for_rust_2023",
     "https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this",
     "https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think",
@@ -2053,12 +2055,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "Python",
-      "title": "nv-tlabs/PiD",
-      "url": "https://github.com/nv-tlabs/PiD"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "Research Papers",
       "title": "A Deterministic Security Runtime for LLM Agents on...",
       "url": "http://arxiv.org/abs/2610.33318v1"
@@ -2110,6 +2106,12 @@
       "subcat": "AI & Machine Learning",
       "title": "winstonkoh87/Athena-Public",
       "url": "https://github.com/winstonkoh87/Athena-Public"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Lobsters Picks",
+      "title": "The Future Trait Has A Missing State",
+      "url": "https://lobste.rs/s/jmbjlu/future_trait_has_missing_state"
     }
   ]
 }
