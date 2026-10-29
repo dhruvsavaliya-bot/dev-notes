@@ -2477,6 +2477,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~572 stars/day since launch.
 - **Link:** https://github.com/seedds/nxnative
 
+**Added 2026-10-29**
+
+### [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
+- **Stats:** 49,386 stars | 4,671 forks | 1,683 open issues
+- **Language:** C++ | **Created:** 2026-08-03 | **License:** GPL-2.0
+- **Topics:** anyps5, dynamic-library, game-porting, ps5, ps5-tools, spir-v
+- **What it is:** Tool for automatic PS5 executables porting to Linux and Windows
+- **Growth:** averaging ~567 stars/day since launch.
+- **Link:** https://github.com/boykopovar/AnyPS5
+
 
 ## Web & Frontend
 
