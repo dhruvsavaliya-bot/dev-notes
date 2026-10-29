@@ -1790,6 +1790,7 @@
     "https://news.ycombinator.com/item?id=50264857",
     "https://news.ycombinator.com/item?id=50271640",
     "https://news.ycombinator.com/item?id=50273396",
+    "https://news.ycombinator.com/item?id=50290668",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2043,6 +2044,7 @@
     "https://www.unitree.com/As2-W/",
     "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
     "https://www.vlt.io/blog/competition-keeps-javascript-moving",
+    "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
     "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
     "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
@@ -2057,12 +2059,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-10-29",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
-      "url": "https://news.ycombinator.com/item?id=50151928"
-    },
     {
       "date": "2026-10-29",
       "subcat": "AI & Machine Learning",
@@ -2116,6 +2112,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: If the models are so good, why doesn't OpenAI...",
       "url": "https://news.ycombinator.com/item?id=50200997"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Hacker News Picks",
+      "title": "I went to Mexico to test-drive the cars Americans...",
+      "url": "https://news.ycombinator.com/item?id=50290668"
     }
   ]
 }

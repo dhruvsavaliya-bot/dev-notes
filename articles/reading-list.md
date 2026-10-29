@@ -1955,6 +1955,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50271640
 - **Link:** https://emudhra.we-have-a-problem.com/apple.html
 
+**Added 2026-10-30**
+
+### [I went to Mexico to test-drive the cars Americans can’t buy](https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/)
+- **Source:** www.washingtonpost.com | **Posted:** 2026-10-29 | **By:** bookofjoe
+- **Community:** 247 points, 265 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50290668
+- **Link:** https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/
+
 
 ## DevOps & Cloud
 
