@@ -2700,3 +2700,13 @@ Lessons from building with LLMs.
 - **Abstract:** Pruned language models are judged almost entirely by accuracy and perplexity, which assumes that preserved output behaviour implies preserved internal computation. We test this assumption with a factorial pruning study on GPT-2, crossing two importance criteria (magnitude, random), two component types (attention heads, MLP neurons) and three sparsity levels (3%, 50%, 70%). Using the fully characterised indirect object identification (IOI) circuit as ground truth, we measure circuit integrity wit...
 - **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.37126v1
+
+**Added 2026-10-29**
+
+### [A Deterministic Security Runtime for LLM Agents on MPI and Batch-Scheduled HPC Systems: Consensus-Governed, Hardware-Rooted Supervision of Every Rank](http://arxiv.org/abs/2610.33318v1)
+- **Authors:** Alfredo Metere
+- **Published:** 2026-10-23 | **Primary category:** cs.CR
+- **Categories:** cs.CR, cs.AI, cs.DC
+- **Abstract:** Large language model agents launch simulations on high-performance computing (HPC) systems, where one sbatch or mpirun can commit thousands of node-hours and a forged result can cost lives. Of 23 surveyed systems, none supervises the running job, and none holds when the control host is compromised. We fix both. Enclawed, our deterministic security runtime for AI agents, has until now served a single user; this work makes it a distributed runtime for parallel HPC and agent swarms. The Enclaweder,...
+- **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.33318v1

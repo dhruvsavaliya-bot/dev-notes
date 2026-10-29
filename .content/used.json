@@ -75,6 +75,7 @@
     "http://arxiv.org/abs/2610.29518v1",
     "http://arxiv.org/abs/2610.30090v1",
     "http://arxiv.org/abs/2610.32765v1",
+    "http://arxiv.org/abs/2610.33318v1",
     "http://arxiv.org/abs/2610.35339v1",
     "http://arxiv.org/abs/2610.36617v1",
     "http://arxiv.org/abs/2610.36717v1",
@@ -2041,12 +2042,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "JavaScript",
-      "title": "achrefelouafi/LinearAbiltyCastingThreeJS",
-      "url": "https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "Models & Datasets",
       "title": "nvidia/Nemotron-Personas-Germany",
       "url": "https://huggingface.co/datasets/nvidia/Nemotron-Personas-Germany"
@@ -2098,6 +2093,12 @@
       "subcat": "Python",
       "title": "nv-tlabs/PiD",
       "url": "https://github.com/nv-tlabs/PiD"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Research Papers",
+      "title": "A Deterministic Security Runtime for LLM Agents on...",
+      "url": "http://arxiv.org/abs/2610.33318v1"
     }
   ]
 }
