@@ -356,6 +356,7 @@
     "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
     "https://dev.to/smtahosin/python-thinks-different-what-actually-happens-inside-your-code-visual-guide-241l",
     "https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81",
+    "https://dev.to/startupcafe/build-in-public-is-everywhere-does-it-actually-get-you-customers-2hlh",
     "https://dev.to/stherzada/como-eu-aprendi-a-aprender-e-por-que-a-ia-nao-veio-pra-pensar-por-voce-fhg",
     "https://dev.to/sylwia-lask/10-git-commands-youll-wish-you-knew-earlier-4fcp",
     "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii",
@@ -2025,12 +2026,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "Lobsters Picks",
-      "title": "Billion-query-per-second lookup tables in C++",
-      "url": "https://lobste.rs/s/d3ubhd/billion_query_per_second_lookup_tables_c"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "Other Cool Projects",
       "title": "talivia-group/talivia",
       "url": "https://github.com/talivia-group/talivia"
@@ -2082,6 +2077,12 @@
       "subcat": "Lobsters Picks",
       "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
       "url": "https://lobste.rs/s/gvy5gz/why_is_this_fingerprinting_script"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Productivity",
+      "title": "\"Build in Public\" Is Everywhere. Does It Actually Get...",
+      "url": "https://dev.to/startupcafe/build-in-public-is-everywhere-does-it-actually-get-you-customers-2hlh"
     }
   ]
 }

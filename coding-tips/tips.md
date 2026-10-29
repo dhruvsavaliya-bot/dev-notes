@@ -202,6 +202,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** How emotional dependency becomes embedded inside self-concept, why certain relationships begin...
 - **Link:** https://dev.to/khalisollis/dependency-injection-how-some-people-quietly-program-themselves-into-your-identity-51j8
 
+**Added 2026-10-29**
+
+### ["Build in Public" Is Everywhere. Does It Actually Get You Customers? 🤔](https://dev.to/startupcafe/build-in-public-is-everywhere-does-it-actually-get-you-customers-2hlh)
+- **Author:** Hanzla Baig | **Published:** Oct 22 | **Read time:** 9 min
+- **Community:** 54 reactions, 45 comments -- a top post in #productivity
+- **Tags:** ai, webdev, programming, productivity
+- **Summary:** What founders report, what that evidence can't prove, and a four-week experiment you can run on your...
+- **Link:** https://dev.to/startupcafe/build-in-public-is-everywhere-does-it-actually-get-you-customers-2hlh
+
 
 ## Hacker News Picks
 
