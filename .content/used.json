@@ -252,6 +252,7 @@
     "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1",
     "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
     "https://dev.to/dev_kiran/shift-left-code-review-how-qodo-turns-your-coding-agent-into-its-own-first-reviewer-58fc",
+    "https://dev.to/devstackhub/i-compared-11-best-ai-design-to-code-tools-for-my-client-projects-4alo",
     "https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9",
     "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
     "https://dev.to/dj29/5-devto-features-i-wish-existed-3-im-genuinely-relieved-they-dont-3b8n",
@@ -2061,12 +2062,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "AI & Machine Learning",
-      "title": "onehumanbeing/esp32-iphone-agent",
-      "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "Lobsters Picks",
       "title": "How to run a city builder on 16 MHz",
       "url": "https://lobste.rs/s/qzfohf/how_run_city_builder_on_16_mhz"
@@ -2118,6 +2113,12 @@
       "subcat": "Hacker News Picks",
       "title": "I went to Mexico to test-drive the cars Americans...",
       "url": "https://news.ycombinator.com/item?id=50290668"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "AI Engineering",
+      "title": "I Compared 11 Best AI Design-to-Code Tools for My...",
+      "url": "https://dev.to/devstackhub/i-compared-11-best-ai-design-to-code-tools-for-my-client-projects-4alo"
     }
   ]
 }

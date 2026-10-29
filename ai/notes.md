@@ -474,6 +474,15 @@ Lessons from building with LLMs.
 - **Summary:** AI has made me dramatically faster at building software. You can see it on my GitHub: a sudden surge...
 - **Link:** https://dev.to/mikachu/i-made-866-commits-in-5-weeks-my-understanding-didnt-keep-up-cmo
 
+**Added 2026-10-30**
+
+### [I Compared 11 Best AI Design-to-Code Tools for My Client Projects](https://dev.to/devstackhub/i-compared-11-best-ai-design-to-code-tools-for-my-client-projects-4alo)
+- **Author:** Dev Stack Hub | **Published:** Oct 26 | **Read time:** 13 min
+- **Community:** 58 reactions, 28 comments -- a top post in #ai
+- **Tags:** ai, design, nocode, discuss
+- **Summary:** From Figma integrations to AI coding agents, here is how to choose the right tool for turning an...
+- **Link:** https://dev.to/devstackhub/i-compared-11-best-ai-design-to-code-tools-for-my-client-projects-4alo
+
 
 ## LLMs
 
