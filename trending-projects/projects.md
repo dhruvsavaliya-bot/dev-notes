@@ -2527,6 +2527,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~19 stars/day since launch.
 - **Link:** https://github.com/Star-Pie/StarPie
 
+**Added 2026-10-30**
+
+### [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver)
+- **Stats:** 3,880 stars | 378 forks | 253 open issues
+- **Language:** Rust | **Created:** 2026-10-07 | **License:** NOASSERTION
+- **Topics:** kext, macos, metal, nvidia, opencore, vulkan
+- **What it is:** Metal driver for NVIDIA GeForce cards on macOS Sequoia
+- **Growth:** averaging ~168 stars/day since launch.
+- **Link:** https://github.com/nullmoth/nvidia-macos-driver
+
 
 ## Web & Frontend
 
