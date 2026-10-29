@@ -1038,6 +1038,7 @@
     "https://huggingface.co/microsoft/Florence-2-base",
     "https://huggingface.co/microsoft/OmniParser-v2.0",
     "https://huggingface.co/microsoft/TRELLIS-image-large",
+    "https://huggingface.co/mistralai/Timestral-209M",
     "https://huggingface.co/moonshotai/Kimi-K3",
     "https://huggingface.co/mudler/locate-anything.cpp-gguf",
     "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB",
@@ -2056,12 +2057,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "JavaScript",
-      "title": "MiaAI-Lab/sparkDash",
-      "url": "https://github.com/MiaAI-Lab/sparkDash"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "Hacker News Picks",
       "title": "Apple's git still trusts the compromised eMudhra...",
       "url": "https://news.ycombinator.com/item?id=50271640"
@@ -2113,6 +2108,12 @@
       "subcat": "Lobsters Picks",
       "title": "What are you doing this week?",
       "url": "https://lobste.rs/s/xxdda9/what_are_you_doing_this_week"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Models & Datasets",
+      "title": "mistralai/Timestral-209M",
+      "url": "https://huggingface.co/mistralai/Timestral-209M"
     }
   ]
 }

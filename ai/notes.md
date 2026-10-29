@@ -1986,6 +1986,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/LiquidAI/LFM3-Omni-2B
 
+**Added 2026-10-29**
+
+### [mistralai/Timestral-209M](https://huggingface.co/mistralai/Timestral-209M)
+- **Stats:** 442 likes | 14,988 downloads
+- **Kind:** Hugging Face model | **Task:** time-series-forecasting | **Created:** 2026-10-14
+- **Tags:** timestral, safetensors, time-series, forecasting, foundation-model, time-series-forecasting
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/mistralai/Timestral-209M
+
 
 ## Research Papers
 
