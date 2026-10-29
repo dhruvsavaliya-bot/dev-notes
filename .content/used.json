@@ -834,6 +834,7 @@
     "https://github.com/ultracontext/ultracontext",
     "https://github.com/unicity-aos/aos-ce",
     "https://github.com/usewhale/Whale",
+    "https://github.com/vasu-devs/JustHireMe",
     "https://github.com/vercel-labs/fx",
     "https://github.com/vercel-labs/json-render",
     "https://github.com/vercel-labs/native",
@@ -2057,12 +2058,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "Hacker News Picks",
-      "title": "Apple's git still trusts the compromised eMudhra...",
-      "url": "https://news.ycombinator.com/item?id=50271640"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "Models & Datasets",
       "title": "nvidia/simready-central-library",
       "url": "https://huggingface.co/datasets/nvidia/simready-central-library"
@@ -2114,6 +2109,12 @@
       "subcat": "Models & Datasets",
       "title": "mistralai/Timestral-209M",
       "url": "https://huggingface.co/mistralai/Timestral-209M"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "AI & Machine Learning",
+      "title": "vasu-devs/JustHireMe",
+      "url": "https://github.com/vasu-devs/JustHireMe"
     }
   ]
 }

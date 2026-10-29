@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1454 entries and counting** · Last updated: 2026-10-29
+**1455 entries and counting** · Last updated: 2026-10-29
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 293 |
+| [Trending Projects](trending-projects/projects.md) | 294 |
 | [AI / LLM Notes](ai/notes.md) | 294 |
 | [Reading List](articles/reading-list.md) | 293 |
 | [Coding Tips](coding-tips/tips.md) | 293 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-29** · *AI & Machine Learning* — [vasu-devs/JustHireMe](https://github.com/vasu-devs/JustHireMe)
 - **2026-10-29** · *Models & Datasets* — [mistralai/Timestral-209M](https://huggingface.co/mistralai/Timestral-209M)
 - **2026-10-29** · *Lobsters Picks* — [What are you doing this week?](https://lobste.rs/s/xxdda9/what_are_you_doing_this_week)
 - **2026-10-29** · *Lobsters Picks* — [The Future Trait Has A Missing State](https://lobste.rs/s/jmbjlu/future_trait_has_missing_state)
 - **2026-10-29** · *AI & Machine Learning* — [winstonkoh87/Athena-Public](https://github.com/winstonkoh87/Athena-Public)
-- **2026-10-29** · *Models & Datasets* — [LiquidAI/LFM3-Omni-2B](https://huggingface.co/LiquidAI/LFM3-Omni-2B)
 
 ## How it works
 

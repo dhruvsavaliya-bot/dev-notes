@@ -1324,6 +1324,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/winstonkoh87/Athena-Public
 
+**Added 2026-10-29**
+
+### [vasu-devs/JustHireMe](https://github.com/vasu-devs/JustHireMe)
+- **Stats:** 2,265 stars | 365 forks | 38 open issues
+- **Language:** Python | **Created:** 2026-02-28 | **License:** AGPL-3.0
+- **Topics:** agents, ai, hireme, hiring, job, jobs
+- **What it is:** Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials.
+- **Growth:** averaging ~9 stars/day since launch.
+- **Link:** https://github.com/vasu-devs/JustHireMe
+
 
 ## Other Cool Projects
 
