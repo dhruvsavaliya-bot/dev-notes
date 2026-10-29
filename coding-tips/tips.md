@@ -2119,6 +2119,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50193416
 - **Link:** https://news.ycombinator.com/item?id=50193416
 
+**Added 2026-10-29**
+
+### [Show HN: Giving Opus 5.5 a simulated paint canvas](https://stillwet.art/)
+- **Source:** stillwet.art | **Posted:** 2026-10-02 | **By:** alstonite
+- **Community:** 392 points, 114 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49928566
+- **Link:** https://stillwet.art/
+
 
 ## Git & Workflow
 

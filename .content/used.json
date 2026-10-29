@@ -1664,6 +1664,7 @@
     "https://news.ycombinator.com/item?id=49922569",
     "https://news.ycombinator.com/item?id=49922674",
     "https://news.ycombinator.com/item?id=49926773",
+    "https://news.ycombinator.com/item?id=49928566",
     "https://news.ycombinator.com/item?id=49930439",
     "https://news.ycombinator.com/item?id=49931031",
     "https://news.ycombinator.com/item?id=49935038",
@@ -1863,6 +1864,7 @@
     "https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/",
     "https://stackoverflow.com/questions/50966676/why-do-arm-chips-have-an-instruction-with-javascript-in-the-name-fjcvtzs",
     "https://stalw.art/blog/stalwart-1-0/",
+    "https://stillwet.art/",
     "https://stitcher.io/blog/new-in-php-85",
     "https://stitcher.io/blog/php-in-2021",
     "https://strandsagents.com/blog/introducing-strands-decider/",
@@ -2033,12 +2035,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "Other Cool Projects",
-      "title": "storytold/gridcraft",
-      "url": "https://github.com/storytold/gridcraft"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "Research Papers",
       "title": "Mechanistic Failure Modes of Weight Pruning in...",
       "url": "http://arxiv.org/abs/2610.37126v1"
@@ -2090,6 +2086,12 @@
       "subcat": "PHP",
       "title": "Faizpi/bank-sampah",
       "url": "https://github.com/Faizpi/bank-sampah"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "url": "https://news.ycombinator.com/item?id=49928566"
     }
   ]
 }
