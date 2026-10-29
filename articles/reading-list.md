@@ -2681,6 +2681,18 @@ Additional Notes: https://punkto.org/blog/small_web
 - **Discussion:** https://lobste.rs/s/qzfohf/how_run_city_builder_on_16_mhz
 - **Link:** https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/
 
+**Added 2026-10-29**
+
+### [What are you doing this week?](https://lobste.rs/s/xxdda9/what_are_you_doing_this_week)
+- **Source:** lobste.rs | **Posted:** 2026-10-26 | **By:** caius
+- **Community:** 19 score, 38 comments on Lobsters
+- **Tags:** ask, programming
+- **Summary:** What are you doing this week? Feel free to share!
+
+Keep in mind it’s OK to do nothing at all, too.
+- **Discussion:** https://lobste.rs/s/xxdda9/what_are_you_doing_this_week
+- **Link:** https://lobste.rs/s/xxdda9/what_are_you_doing_this_week
+
 
 ## Performance
 

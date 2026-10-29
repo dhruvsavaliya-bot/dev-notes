@@ -1280,6 +1280,7 @@
     "https://lobste.rs/s/xpyahx/grubby_static_site_generator_for_git",
     "https://lobste.rs/s/xsz9sc/docker_is_weird",
     "https://lobste.rs/s/xv6z4r/python_iceberg",
+    "https://lobste.rs/s/xxdda9/what_are_you_doing_this_week",
     "https://lobste.rs/s/yczems/emacs_finally_folds_my_liking",
     "https://lobste.rs/s/ygp18d/hanami_why_model_citizens",
     "https://lobste.rs/s/ysyqnt/small_web_is_huge",
@@ -2055,12 +2056,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "Research Papers",
-      "title": "A Deterministic Security Runtime for LLM Agents on...",
-      "url": "http://arxiv.org/abs/2610.33318v1"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "JavaScript",
       "title": "MiaAI-Lab/sparkDash",
       "url": "https://github.com/MiaAI-Lab/sparkDash"
@@ -2112,6 +2107,12 @@
       "subcat": "Lobsters Picks",
       "title": "The Future Trait Has A Missing State",
       "url": "https://lobste.rs/s/jmbjlu/future_trait_has_missing_state"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Lobsters Picks",
+      "title": "What are you doing this week?",
+      "url": "https://lobste.rs/s/xxdda9/what_are_you_doing_this_week"
     }
   ]
 }
