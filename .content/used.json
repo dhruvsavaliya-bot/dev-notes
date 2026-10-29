@@ -1775,6 +1775,7 @@
     "https://news.ycombinator.com/item?id=50197404",
     "https://news.ycombinator.com/item?id=50199290",
     "https://news.ycombinator.com/item?id=50200957",
+    "https://news.ycombinator.com/item?id=50200997",
     "https://news.ycombinator.com/item?id=50204125",
     "https://news.ycombinator.com/item?id=50212065",
     "https://news.ycombinator.com/item?id=50222133",
@@ -2058,12 +2059,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "Models & Datasets",
-      "title": "nvidia/simready-central-library",
-      "url": "https://huggingface.co/datasets/nvidia/simready-central-library"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
       "url": "https://news.ycombinator.com/item?id=50151928"
@@ -2115,6 +2110,12 @@
       "subcat": "AI & Machine Learning",
       "title": "vasu-devs/JustHireMe",
       "url": "https://github.com/vasu-devs/JustHireMe"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI...",
+      "url": "https://news.ycombinator.com/item?id=50200997"
     }
   ]
 }

@@ -2137,6 +2137,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50151928
 - **Link:** https://100toolkit.com/blog/deslop-model/
 
+**Added 2026-10-30**
+
+### [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](https://news.ycombinator.com/item?id=50200997)
+- **Source:** news.ycombinator.com | **Posted:** 2026-10-22 | **By:** ex-aws-dude
+- **Community:** 680 points, 754 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50200997
+- **Link:** https://news.ycombinator.com/item?id=50200997
+
 
 ## Git & Workflow
 
