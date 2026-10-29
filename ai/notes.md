@@ -2746,3 +2746,13 @@ Lessons from building with LLMs.
 - **Abstract:** Large language model agents launch simulations on high-performance computing (HPC) systems, where one sbatch or mpirun can commit thousands of node-hours and a forged result can cost lives. Of 23 surveyed systems, none supervises the running job, and none holds when the control host is compromised. We fix both. Enclawed, our deterministic security runtime for AI agents, has until now served a single user; this work makes it a distributed runtime for parallel HPC and agent swarms. The Enclaweder,...
 - **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.33318v1
+
+**Added 2026-10-30**
+
+### [Atomic Security Concerns: Towards a Foundational Language for Security Knowledge Representation](http://arxiv.org/abs/2610.35782v1)
+- **Authors:** Hanane Houmani
+- **Published:** 2026-10-26 | **Primary category:** cs.CR
+- **Categories:** cs.CR, cs.CL
+- **Abstract:** Cybersecurity governance, risk management, compliance, and security architecture rely on numerous concepts, including security properties, domains, controls, risks, implementation measures, capabilities, and compliance requirements. Although these concepts are widely used, they are often represented through heterogeneous abstractions and vocabularies, making relationships among them difficult to express consistently and leaving much of the associated reasoning dependent on expert knowledge. This...
+- **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.35782v1

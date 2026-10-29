@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1461 entries and counting** · Last updated: 2026-10-30
+**1462 entries and counting** · Last updated: 2026-10-30
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 296 |
-| [AI / LLM Notes](ai/notes.md) | 295 |
+| [AI / LLM Notes](ai/notes.md) | 296 |
 | [Reading List](articles/reading-list.md) | 295 |
 | [Coding Tips](coding-tips/tips.md) | 294 |
 | [Language Notes](languages/notes.md) | 281 |
 
 ## Latest additions
 
+- **2026-10-30** · *Research Papers* — [Atomic Security Concerns: Towards a Foundational...](http://arxiv.org/abs/2610.35782v1)
 - **2026-10-30** · *Other Cool Projects* — [lgse/strata](https://github.com/lgse/strata)
 - **2026-10-30** · *Lobsters Picks* — [AlpineBSD](https://lobste.rs/s/yxuvie/alpinebsd)
 - **2026-10-30** · *Other Cool Projects* — [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver)
 - **2026-10-30** · *AI Engineering* — [I Compared 11 Best AI Design-to-Code Tools for My...](https://dev.to/devstackhub/i-compared-11-best-ai-design-to-code-tools-for-my-client-projects-4alo)
-- **2026-10-30** · *Hacker News Picks* — [I went to Mexico to test-drive the cars Americans...](https://news.ycombinator.com/item?id=50290668)
 
 ## How it works
 
