@@ -1950,6 +1950,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/openbmb/Ultra-FineWeb-L1
 
+**Added 2026-10-29**
+
+### [nvidia/Nemotron-Personas-Germany](https://huggingface.co/datasets/nvidia/Nemotron-Personas-Germany)
+- **Stats:** 51 likes | 2,459 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-10-19
+- **Tags:** synthetic, personas, NVIDIA, German, datadesigner
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/nvidia/Nemotron-Personas-Germany
+
 
 ## Research Papers
 

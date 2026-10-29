@@ -982,6 +982,7 @@
     "https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML",
     "https://huggingface.co/datasets/monology/pile-uncopyrighted",
     "https://huggingface.co/datasets/nisten/opus5-5-doctor-patient-conversations-all-human-diseases",
+    "https://huggingface.co/datasets/nvidia/Nemotron-Personas-Germany",
     "https://huggingface.co/datasets/nvidia/Open-H-RF",
     "https://huggingface.co/datasets/nvidia/Open-SWE-Traces",
     "https://huggingface.co/datasets/nvidia/OpenH-RF",
@@ -2029,12 +2030,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "Models & Datasets",
-      "title": "armand0e/claude-fable-5-claude-code",
-      "url": "https://huggingface.co/datasets/armand0e/claude-fable-5-claude-code"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "Open Source",
       "title": "ROIC.ai Complete Guide - Financial Data API, Pricing...",
       "url": "https://dev.to/roic/roicai-complete-guide-financial-data-api-pricing-endpoints-and-the-36-tool-mcp-server-6fl"
@@ -2086,6 +2081,12 @@
       "subcat": "JavaScript",
       "title": "achrefelouafi/LinearAbiltyCastingThreeJS",
       "url": "https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Models & Datasets",
+      "title": "nvidia/Nemotron-Personas-Germany",
+      "url": "https://huggingface.co/datasets/nvidia/Nemotron-Personas-Germany"
     }
   ]
 }
