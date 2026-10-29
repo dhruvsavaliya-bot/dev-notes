@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1434 entries and counting** · Last updated: 2026-10-29
+**1435 entries and counting** · Last updated: 2026-10-29
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 289 |
 | [AI / LLM Notes](ai/notes.md) | 289 |
-| [Reading List](articles/reading-list.md) | 289 |
+| [Reading List](articles/reading-list.md) | 290 |
 | [Coding Tips](coding-tips/tips.md) | 289 |
 | [Language Notes](languages/notes.md) | 278 |
 
 ## Latest additions
 
+- **2026-10-29** · *Lobsters Picks* — [GitLab security incident: attempted exploitation of...](https://lobste.rs/s/2zsjwt/gitlab_security_incident_attempted)
 - **2026-10-29** · *Models & Datasets* — [nvidia/Nemotron-Personas-Germany](https://huggingface.co/datasets/nvidia/Nemotron-Personas-Germany)
 - **2026-10-29** · *JavaScript* — [achrefelouafi/LinearAbiltyCastingThreeJS](https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS)
 - **2026-10-29** · *Other Cool Projects* — [seedds/nxnative](https://github.com/seedds/nxnative)
 - **2026-10-29** · *Models & Datasets* — [openbmb/Ultra-FineWeb-L1](https://huggingface.co/datasets/openbmb/Ultra-FineWeb-L1)
-- **2026-10-29** · *Productivity* — ["Build in Public" Is Everywhere. Does It Actually Get...](https://dev.to/startupcafe/build-in-public-is-everywhere-does-it-actually-get-you-customers-2hlh)
 
 ## How it works
 

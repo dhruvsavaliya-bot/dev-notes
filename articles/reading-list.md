@@ -2652,6 +2652,16 @@ Additional Notes: https://punkto.org/blog/small_web
 - **Discussion:** https://lobste.rs/s/gvy5gz/why_is_this_fingerprinting_script
 - **Link:** https://nullpt.rs/fingerprinting-bioweapons
 
+**Added 2026-10-29**
+
+### [GitLab security incident: attempted exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
+- **Source:** alpinelinux.org | **Posted:** 2026-10-28 | **By:** durrendal
+- **Community:** 18 score, 2 comments on Lobsters
+- **Tags:** linux, security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/2zsjwt/gitlab_security_incident_attempted
+- **Link:** https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html
+
 
 ## Performance
 
