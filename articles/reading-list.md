@@ -2671,6 +2671,16 @@ Additional Notes: https://punkto.org/blog/small_web
 - **Discussion:** https://lobste.rs/s/2zsjwt/gitlab_security_incident_attempted
 - **Link:** https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html
 
+**Added 2026-10-29**
+
+### [How to run a city builder on 16 MHz](https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/)
+- **Source:** larstofus.com | **Posted:** 2026-10-24 | **By:** Yogthos
+- **Community:** 26 score, 15 comments on Lobsters
+- **Tags:** programming
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/qzfohf/how_run_city_builder_on_16_mhz
+- **Link:** https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/
+
 
 ## Performance
 

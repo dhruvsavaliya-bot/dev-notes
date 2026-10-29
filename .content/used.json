@@ -1088,6 +1088,7 @@
     "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
     "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
     "https://lapcatsoftware.com/articles/2026/9/1.html",
+    "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
     "https://leanrada.com/notes/inline-rendering-currentscript/",
     "https://ledge.sh",
     "https://lemire.me/blog/2020/01/30/cost-of-a-thread-in-c-under-linux/",
@@ -1233,6 +1234,7 @@
     "https://lobste.rs/s/qi1bxu/tinygo_0_42_recover_is_real",
     "https://lobste.rs/s/qn61ip/open_source_clean_room_reimplementation",
     "https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy",
+    "https://lobste.rs/s/qzfohf/how_run_city_builder_on_16_mhz",
     "https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably",
     "https://lobste.rs/s/rlrfew/balloting_has_completed_for_c_26",
     "https://lobste.rs/s/rpiwtb/python_3_15_0",
@@ -2050,12 +2052,6 @@
     {
       "date": "2026-10-29",
       "subcat": "Other Cool Projects",
-      "title": "boykopovar/AnyPS5",
-      "url": "https://github.com/boykopovar/AnyPS5"
-    },
-    {
-      "date": "2026-10-29",
-      "subcat": "Other Cool Projects",
       "title": "Star-Pie/StarPie",
       "url": "https://github.com/Star-Pie/StarPie"
     },
@@ -2106,6 +2102,12 @@
       "subcat": "AI & Machine Learning",
       "title": "onehumanbeing/esp32-iphone-agent",
       "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
+    },
+    {
+      "date": "2026-10-29",
+      "subcat": "Lobsters Picks",
+      "title": "How to run a city builder on 16 MHz",
+      "url": "https://lobste.rs/s/qzfohf/how_run_city_builder_on_16_mhz"
     }
   ]
 }

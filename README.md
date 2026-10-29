@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1448 entries and counting** · Last updated: 2026-10-29
+**1449 entries and counting** · Last updated: 2026-10-29
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 292 |
 | [AI / LLM Notes](ai/notes.md) | 292 |
-| [Reading List](articles/reading-list.md) | 291 |
+| [Reading List](articles/reading-list.md) | 292 |
 | [Coding Tips](coding-tips/tips.md) | 292 |
 | [Language Notes](languages/notes.md) | 281 |
 
 ## Latest additions
 
+- **2026-10-29** · *Lobsters Picks* — [How to run a city builder on 16 MHz](https://lobste.rs/s/qzfohf/how_run_city_builder_on_16_mhz)
 - **2026-10-29** · *AI & Machine Learning* — [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)
 - **2026-10-29** · *Show & Ask HN* — [Show HN: Qwen3-4B with the AI writing tics trained out](https://news.ycombinator.com/item?id=50151928)
 - **2026-10-29** · *Models & Datasets* — [nvidia/simready-central-library](https://huggingface.co/datasets/nvidia/simready-central-library)
 - **2026-10-29** · *Hacker News Picks* — [Apple's git still trusts the compromised eMudhra...](https://news.ycombinator.com/item?id=50271640)
-- **2026-10-29** · *JavaScript* — [MiaAI-Lab/sparkDash](https://github.com/MiaAI-Lab/sparkDash)
 
 ## How it works
 
