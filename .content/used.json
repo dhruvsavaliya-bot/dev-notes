@@ -585,6 +585,7 @@
     "https://github.com/XiaoDuoYa/codex-with-chatgpt",
     "https://github.com/XxxXTeam/business2api",
     "https://github.com/YanamiNeko/NekoSportsWorldTool",
+    "https://github.com/YeJe-cpu/SeeCut",
     "https://github.com/Yeachan-Heo/oh-my-codex",
     "https://github.com/Younesfdj/gitfut",
     "https://github.com/Yu9191/wloc",
@@ -2093,12 +2094,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Other Cool Projects",
-      "title": "PimpinPumpkin/Vela",
-      "url": "https://github.com/PimpinPumpkin/Vela"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Swift",
       "title": "Switzerland proposes banning profiling-based ads to...",
       "url": "https://news.ycombinator.com/item?id=50087328"
@@ -2150,6 +2145,12 @@
       "subcat": "Other Cool Projects",
       "title": "deepfounder-ai/desigma",
       "url": "https://github.com/deepfounder-ai/desigma"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "JavaScript",
+      "title": "YeJe-cpu/SeeCut",
+      "url": "https://github.com/YeJe-cpu/SeeCut"
     }
   ]
 }

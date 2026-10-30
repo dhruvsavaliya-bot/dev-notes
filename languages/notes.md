@@ -417,6 +417,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~7 stars/day since launch.
 - **Link:** https://github.com/MiaAI-Lab/sparkDash
 
+**Added 2026-10-30**
+
+### [YeJe-cpu/SeeCut](https://github.com/YeJe-cpu/SeeCut)
+- **Stats:** 409 stars | 72 forks | 0 open issues
+- **Language:** JavaScript | **Created:** 2026-09-25 | **License:** NOASSERTION
+- **Topics:** agent-skill, ai-avatar, ai-video, claude-code, gemini, heygen
+- **What it is:** An AI editor that watches its own cut: talking-head / AI-avatar video → auto-edited short video. 网感口播精剪：数字人/真人口播 → AI 自动精剪成网感动效短视频 → 可选剪映分层草稿
+- **Growth:** averaging ~11 stars/day since launch.
+- **Link:** https://github.com/YeJe-cpu/SeeCut
+
 
 ## TypeScript
 
