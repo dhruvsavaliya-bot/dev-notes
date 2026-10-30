@@ -79,6 +79,7 @@
     "http://arxiv.org/abs/2610.33318v1",
     "http://arxiv.org/abs/2610.35339v1",
     "http://arxiv.org/abs/2610.35345v1",
+    "http://arxiv.org/abs/2610.35413v1",
     "http://arxiv.org/abs/2610.35782v1",
     "http://arxiv.org/abs/2610.36617v1",
     "http://arxiv.org/abs/2610.36717v1",
@@ -2111,12 +2112,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Hacker News Picks",
-      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-      "url": "https://news.ycombinator.com/item?id=50211474"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Backend & Infrastructure",
       "title": "sivchari/kumo",
       "url": "https://github.com/sivchari/kumo"
@@ -2168,6 +2163,12 @@
       "subcat": "PHP",
       "title": "Security advisory: Critical remote code execution...",
       "url": "https://news.ycombinator.com/item?id=50172041"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Research Papers",
+      "title": "How Numerical Errors Scale with Hardware",
+      "url": "http://arxiv.org/abs/2610.35413v1"
     }
   ]
 }

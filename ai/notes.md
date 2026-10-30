@@ -2794,3 +2794,13 @@ Lessons from building with LLMs.
 - **Abstract:** Large Language Models (LLMs) can generate UML class diagrams from natural language requirements, but hallucinations may compromise the correctness and completeness of the resulting diagrams. Existing evaluations mostly assess the final diagram, without examining the intermediate traces of reasoning-capable LLMs, which can reveal where these hallucinations arise. We develop an empirical taxonomy of eleven hallucination sub-types organised into three dimensions: Prompt Faithfulness (deviations bet...
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.30946v1
+
+**Added 2026-10-30**
+
+### [How Numerical Errors Scale with Hardware](http://arxiv.org/abs/2610.35413v1)
+- **Authors:** Niklas Baumgarten
+- **Published:** 2026-10-26 | **Primary category:** cs.DC
+- **Categories:** cs.DC
+- **Abstract:** In this short technical note, we outline how to bound numerical errors with respect to computational resources. We consider algorithms with known complexity estimates that can be executed in parallel and combine these estimates with parallelization laws. We suppose that the proposed approach generalizes beyond the presented examples and argue that it provides a straightforward and fair framework for comparing algorithms, hardware systems, and software implementations. This is achieved by imposin...
+- **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.35413v1
