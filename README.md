@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1495 entries and counting** · Last updated: 2026-10-30
+**1496 entries and counting** · Last updated: 2026-10-30
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 301 |
 | [AI / LLM Notes](ai/notes.md) | 301 |
 | [Reading List](articles/reading-list.md) | 301 |
-| [Coding Tips](coding-tips/tips.md) | 300 |
+| [Coding Tips](coding-tips/tips.md) | 301 |
 | [Language Notes](languages/notes.md) | 292 |
 
 ## Latest additions
 
+- **2026-10-30** · *Lobsters Picks* — [Backdoors in Claude Code for VS, Cursor official...](https://lobste.rs/s/ttp7aq/backdoors_claude_code_for_vs_cursor)
 - **2026-10-30** · *Hacker News Picks* — [We ran AI agent swarms in Minecraft and Mindustry](https://news.ycombinator.com/item?id=50296486)
 - **2026-10-30** · *Research Papers* — [How Numerical Errors Scale with Hardware](http://arxiv.org/abs/2610.35413v1)
 - **2026-10-30** · *PHP* — [Security advisory: Critical remote code execution...](https://news.ycombinator.com/item?id=50172041)
 - **2026-10-30** · *AI & Machine Learning* — [comet-ml/opik-openclaw](https://github.com/comet-ml/opik-openclaw)
-- **2026-10-30** · *Beginner* — [Missing My Coworker Jason Today](https://dev.to/antfarm-tech/missing-my-coworker-jason-today-23h3)
 
 ## How it works
 

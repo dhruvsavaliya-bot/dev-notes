@@ -2724,6 +2724,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up
 - **Link:** http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/
 
+**Added 2026-10-30**
+
+### [Backdoors in Claude Code for VS, Cursor official extensions](https://cyberplace.social/@GossiTheDog/117528831681803563)
+- **Source:** cyberplace.social | **Posted:** 2026-10-30 | **By:** dsr
+- **Community:** 90 score, 23 comments on Lobsters
+- **Tags:** security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/ttp7aq/backdoors_claude_code_for_vs_cursor
+- **Link:** https://cyberplace.social/@GossiTheDog/117528831681803563
+
 
 ## Career & Craft
 

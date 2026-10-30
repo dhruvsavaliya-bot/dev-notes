@@ -223,6 +223,7 @@
     "https://csixty4.medium.com/pick-is-a-living-fossil-of-computer-history-36d74408d557",
     "https://css-tricks.com/css-tricks-has-a-new-owner/",
     "https://cursor.com/blog/agent-swarm-model-economics",
+    "https://cyberplace.social/@GossiTheDog/117528831681803563",
     "https://danluu.com/ambitious/",
     "https://datacolada.org/138",
     "https://datagubbe.se/crt/",
@@ -1292,6 +1293,7 @@
     "https://lobste.rs/s/tmr7jp/extend_lua_with_zig_1_hello_world",
     "https://lobste.rs/s/tp0zlk/stackless_floodfill_automation_2023",
     "https://lobste.rs/s/tsfs3w/why_function_arguments_are_not_function",
+    "https://lobste.rs/s/ttp7aq/backdoors_claude_code_for_vs_cursor",
     "https://lobste.rs/s/u4vlin/french_supermarket_chains_say",
     "https://lobste.rs/s/u7dr96/soft_deprecating_re_match",
     "https://lobste.rs/s/u9ue6c/what_s_wrong_with_github",
@@ -2114,12 +2116,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Research Papers",
-      "title": "Tracing Hallucinations in LLM Reasoning for UML Class...",
-      "url": "http://arxiv.org/abs/2610.30946v1"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Lobsters Picks",
       "title": "If you love a website, back it up",
       "url": "https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up"
@@ -2171,6 +2167,12 @@
       "subcat": "Hacker News Picks",
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://news.ycombinator.com/item?id=50296486"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Lobsters Picks",
+      "title": "Backdoors in Claude Code for VS, Cursor official...",
+      "url": "https://lobste.rs/s/ttp7aq/backdoors_claude_code_for_vs_cursor"
     }
   ]
 }
