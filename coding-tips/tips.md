@@ -2164,6 +2164,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50227330
 - **Link:** https://huggingface.co/destined/hurston-1
 
+**Added 2026-10-30**
+
+### [Ask HN: Are you tired too in this AI era?](https://news.ycombinator.com/item?id=50301479)
+- **Source:** news.ycombinator.com | **Posted:** 2026-10-30 | **By:** mellosty
+- **Community:** 97 points, 91 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50301479
+- **Link:** https://news.ycombinator.com/item?id=50301479
+
 
 ## Git & Workflow
 
