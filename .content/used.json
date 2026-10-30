@@ -677,6 +677,7 @@
     "https://github.com/denoland/celld",
     "https://github.com/dev-null-sh/dev-null.sh",
     "https://github.com/devdotfast/whiteboard",
+    "https://github.com/devmikets/hyperliquid-sdk",
     "https://github.com/diffusionstudio/editor",
     "https://github.com/digimata/quill",
     "https://github.com/dmmulroy/anti-slop",
@@ -2124,12 +2125,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "PHP",
-      "title": "Security advisory: Critical remote code execution...",
-      "url": "https://news.ycombinator.com/item?id=50172041"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Research Papers",
       "title": "How Numerical Errors Scale with Hardware",
       "url": "http://arxiv.org/abs/2610.35413v1"
@@ -2181,6 +2176,12 @@
       "subcat": "Hacker News Picks",
       "title": "The $6.3B Binance Hack Was Pulled Off in Just 20...",
       "url": "https://news.ycombinator.com/item?id=50303172"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Backend & Infrastructure",
+      "title": "devmikets/hyperliquid-sdk",
+      "url": "https://github.com/devmikets/hyperliquid-sdk"
     }
   ]
 }

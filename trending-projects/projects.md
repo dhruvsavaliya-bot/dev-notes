@@ -3035,3 +3035,13 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** A lightweight AWS service emulator written in Go
 - **Growth:** averaging ~5 stars/day since launch.
 - **Link:** https://github.com/sivchari/kumo
+
+**Added 2026-10-30**
+
+### [devmikets/hyperliquid-sdk](https://github.com/devmikets/hyperliquid-sdk)
+- **Stats:** 484 stars | 284 forks | 2 open issues
+- **Language:** TypeScript | **Created:** 2026-05-04 | **License:** MIT
+- **Topics:** api, blockchain, crypto, cryptocurrency, dex, exchange
+- **What it is:** hyperliquid sdk | hyperliquid sdk | hyperliquid sdk | hyperliquid sdk | hyperliquid sdk | hyperliquid sdk | hyperliquid sdk | hyperliquid sdk | hyperliquid sdk | hyperliquid sdk | hyperliquid sdk | hyperliquid sdk | hyperliquid sdk | hyperliquid sdk - The Hyperliquid API SDK, written in TypeScript, supports all major JavaScript environments.
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/devmikets/hyperliquid-sdk
