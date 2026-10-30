@@ -1189,6 +1189,7 @@
     "https://lobste.rs/s/dzvt0w/type_inference_all_constructs_next_15",
     "https://lobste.rs/s/e5vf6k/don_t_couple_your_go_code_github",
     "https://lobste.rs/s/e7rvsp/we_re_sunsetting_codeberg_pages_v2",
+    "https://lobste.rs/s/eccbci/shared_password_manager_for_families",
     "https://lobste.rs/s/ecxril/lineageos_24_0_released",
     "https://lobste.rs/s/eesu8d/bun_1_4",
     "https://lobste.rs/s/ekwolo/building_java_me_apps_with_modern_tooling",
@@ -2077,12 +2078,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Lobsters Picks",
-      "title": "AlpineBSD",
-      "url": "https://lobste.rs/s/yxuvie/alpinebsd"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Other Cool Projects",
       "title": "lgse/strata",
       "url": "https://github.com/lgse/strata"
@@ -2134,6 +2129,12 @@
       "subcat": "PHP",
       "title": "Borland Turbo Basic",
       "url": "https://news.ycombinator.com/item?id=49965894"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Lobsters Picks",
+      "title": "Shared password manager for families?",
+      "url": "https://lobste.rs/s/eccbci/shared_password_manager_for_families"
     }
   ]
 }

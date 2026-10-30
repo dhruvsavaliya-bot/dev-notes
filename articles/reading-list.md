@@ -2722,6 +2722,20 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/brdwr2/redox_ring_buffers_project_summary
 - **Link:** https://www.redox-os.org/news/nlnet-rb-summary/
 
+**Added 2026-10-30**
+
+### [Shared password manager for families?](https://lobste.rs/s/eccbci/shared_password_manager_for_families)
+- **Source:** lobste.rs | **Posted:** 2026-10-29 | **By:** icefox
+- **Community:** 27 score, 33 comments on Lobsters
+- **Tags:** ask, security
+- **Summary:** Long story short, I need to have a bunch of shared accounts with family for finance and insurance and stuff, mostly for the sake of family members who are getting old and need help keeping things organized.  So the requirements are:
+
+* Shared over long distances; just having each of us have our own password manager won't work well
+* Usable for non-techie people, so no command line stuff
+* I ca...
+- **Discussion:** https://lobste.rs/s/eccbci/shared_password_manager_for_families
+- **Link:** https://lobste.rs/s/eccbci/shared_password_manager_for_families
+
 
 ## Performance
 
