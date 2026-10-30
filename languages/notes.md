@@ -1815,6 +1815,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~179 stars/day since launch.
 - **Link:** https://github.com/omlahore/RemoveMacAI
 
+**Added 2026-10-30**
+
+### [Switzerland proposes banning profiling-based ads to minors](https://www.admin.ch/en/newnsb/NMn5s24l8NjQ)
+- **Source:** www.admin.ch | **Posted:** 2026-10-14 | **By:** wuemeli
+- **Community:** 242 points, 147 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50087328
+- **Link:** https://www.admin.ch/en/newnsb/NMn5s24l8NjQ
+
 
 ## Rust
 

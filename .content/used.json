@@ -1748,6 +1748,7 @@
     "https://news.ycombinator.com/item?id=50072286",
     "https://news.ycombinator.com/item?id=50077225",
     "https://news.ycombinator.com/item?id=50084757",
+    "https://news.ycombinator.com/item?id=50087328",
     "https://news.ycombinator.com/item?id=50089577",
     "https://news.ycombinator.com/item?id=50094694",
     "https://news.ycombinator.com/item?id=50096110",
@@ -1954,6 +1955,7 @@
     "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
     "https://www.abortretry.fail/p/matrox",
     "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
+    "https://www.admin.ch/en/newnsb/NMn5s24l8NjQ",
     "https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown",
     "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
     "https://www.anthropic.com/claude-fable-and-mythos-5-1",
@@ -2079,12 +2081,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Research Papers",
-      "title": "Atomic Security Concerns: Towards a Foundational...",
-      "url": "http://arxiv.org/abs/2610.35782v1"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Lobsters Picks",
       "title": "Redox Ring Buffers Project Summary",
       "url": "https://lobste.rs/s/brdwr2/redox_ring_buffers_project_summary"
@@ -2136,6 +2132,12 @@
       "subcat": "Other Cool Projects",
       "title": "PimpinPumpkin/Vela",
       "url": "https://github.com/PimpinPumpkin/Vela"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Swift",
+      "title": "Switzerland proposes banning profiling-based ads to...",
+      "url": "https://news.ycombinator.com/item?id=50087328"
     }
   ]
 }
