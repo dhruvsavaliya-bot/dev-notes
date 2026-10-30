@@ -2567,6 +2567,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~16 stars/day since launch.
 - **Link:** https://github.com/PimpinPumpkin/Vela
 
+**Added 2026-10-30**
+
+### [deepfounder-ai/desigma](https://github.com/deepfounder-ai/desigma)
+- **Stats:** 891 stars | 99 forks | 12 open issues
+- **Language:** Rust | **Created:** 2026-10-11 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** Free Figma alternative made on Rust
+- **Growth:** averaging ~46 stars/day since launch.
+- **Link:** https://github.com/deepfounder-ai/desigma
+
 
 ## Web & Frontend
 

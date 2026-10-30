@@ -657,6 +657,7 @@
     "https://github.com/dataelement/dsh-desktop",
     "https://github.com/davidondrej/skills",
     "https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course",
+    "https://github.com/deepfounder-ai/desigma",
     "https://github.com/deeplethe/utopia",
     "https://github.com/deepseek-ai/DeepInfer",
     "https://github.com/deepseek-ai/DeepSpec",
@@ -2092,12 +2093,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Lobsters Picks",
-      "title": "Shared password manager for families?",
-      "url": "https://lobste.rs/s/eccbci/shared_password_manager_for_families"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Other Cool Projects",
       "title": "PimpinPumpkin/Vela",
       "url": "https://github.com/PimpinPumpkin/Vela"
@@ -2149,6 +2144,12 @@
       "subcat": "Go",
       "title": "jasonxu114514/opencode2api",
       "url": "https://github.com/jasonxu114514/opencode2api"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Other Cool Projects",
+      "title": "deepfounder-ai/desigma",
+      "url": "https://github.com/deepfounder-ai/desigma"
     }
   ]
 }
