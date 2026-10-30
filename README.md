@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1472 entries and counting** · Last updated: 2026-10-30
+**1473 entries and counting** · Last updated: 2026-10-30
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 298 |
 | [AI / LLM Notes](ai/notes.md) | 297 |
 | [Reading List](articles/reading-list.md) | 297 |
-| [Coding Tips](coding-tips/tips.md) | 295 |
+| [Coding Tips](coding-tips/tips.md) | 296 |
 | [Language Notes](languages/notes.md) | 285 |
 
 ## Latest additions
 
+- **2026-10-30** · *Show & Ask HN* — [Show HN: Hurston-1 open source TTS that speak...](https://news.ycombinator.com/item?id=50227330)
 - **2026-10-30** · *Swift* — [Switzerland proposes banning profiling-based ads to...](https://news.ycombinator.com/item?id=50087328)
 - **2026-10-30** · *Other Cool Projects* — [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela)
 - **2026-10-30** · *Lobsters Picks* — [Shared password manager for families?](https://lobste.rs/s/eccbci/shared_password_manager_for_families)
 - **2026-10-30** · *PHP* — [Borland Turbo Basic](https://news.ycombinator.com/item?id=49965894)
-- **2026-10-30** · *Swift* — [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI)
 
 ## How it works
 

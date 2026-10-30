@@ -2155,6 +2155,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49608665
 - **Link:** https://asm-editor.specy.app/
 
+**Added 2026-10-30**
+
+### [Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English](https://huggingface.co/destined/hurston-1)
+- **Source:** huggingface.co | **Posted:** 2026-10-25 | **By:** Gcarter08
+- **Community:** 68 points, 27 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50227330
+- **Link:** https://huggingface.co/destined/hurston-1
+
 
 ## Git & Workflow
 

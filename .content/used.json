@@ -1035,6 +1035,7 @@
     "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
     "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
     "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "https://huggingface.co/destined/hurston-1",
     "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
     "https://huggingface.co/drowzeys/keys-DeepSeek-V4.1-Flash-1017-Abliterated",
     "https://huggingface.co/google/siglip-base-patch16-224",
@@ -1797,6 +1798,7 @@
     "https://news.ycombinator.com/item?id=50212065",
     "https://news.ycombinator.com/item?id=50222133",
     "https://news.ycombinator.com/item?id=50225695",
+    "https://news.ycombinator.com/item?id=50227330",
     "https://news.ycombinator.com/item?id=50233929",
     "https://news.ycombinator.com/item?id=50234474",
     "https://news.ycombinator.com/item?id=50236102",
@@ -2081,12 +2083,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Lobsters Picks",
-      "title": "Redox Ring Buffers Project Summary",
-      "url": "https://lobste.rs/s/brdwr2/redox_ring_buffers_project_summary"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Swift",
       "title": "Muesli-HQ/muesli",
       "url": "https://github.com/Muesli-HQ/muesli"
@@ -2138,6 +2134,12 @@
       "subcat": "Swift",
       "title": "Switzerland proposes banning profiling-based ads to...",
       "url": "https://news.ycombinator.com/item?id=50087328"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Hurston-1 open source TTS that speak...",
+      "url": "https://news.ycombinator.com/item?id=50227330"
     }
   ]
 }
