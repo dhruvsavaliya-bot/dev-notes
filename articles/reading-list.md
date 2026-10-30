@@ -2791,6 +2791,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/m6fw0x/netbsd_adds_new_emacs_like_text_editor
 - **Link:** https://mastodon.sdf.org/@netbsd/117518160563539748
 
+**Added 2026-10-31**
+
+### [What the fox say?](https://entropicthoughts.com/what-the-fox-say)
+- **Source:** entropicthoughts.com | **Posted:** 2026-10-29 | **By:** kqr
+- **Community:** 63 score, 13 comments on Lobsters
+- **Tags:** games
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/7qaac6/what_fox_say
+- **Link:** https://entropicthoughts.com/what-the-fox-say
+
 
 ## Performance
 
