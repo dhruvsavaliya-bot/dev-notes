@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1467 entries and counting** · Last updated: 2026-10-30
+**1468 entries and counting** · Last updated: 2026-10-30
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 297 |
 | [Reading List](articles/reading-list.md) | 296 |
 | [Coding Tips](coding-tips/tips.md) | 295 |
-| [Language Notes](languages/notes.md) | 282 |
+| [Language Notes](languages/notes.md) | 283 |
 
 ## Latest additions
 
+- **2026-10-30** · *Swift* — [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI)
 - **2026-10-30** · *Research Papers* — [Should Pseudo-Labels Share Mini-Batches with Labeled...](http://arxiv.org/abs/2610.35345v1)
 - **2026-10-30** · *AI & Machine Learning* — [elstongun/leviathan](https://github.com/elstongun/leviathan)
 - **2026-10-30** · *Show & Ask HN* — [Show HN: A browser IDE for m68000, Z80 assembly (and...](https://news.ycombinator.com/item?id=49608665)
 - **2026-10-30** · *Swift* — [Muesli-HQ/muesli](https://github.com/Muesli-HQ/muesli)
-- **2026-10-30** · *Lobsters Picks* — [Redox Ring Buffers Project Summary](https://lobste.rs/s/brdwr2/redox_ring_buffers_project_summary)
 
 ## How it works
 

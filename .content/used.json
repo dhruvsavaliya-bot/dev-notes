@@ -765,6 +765,7 @@
     "https://github.com/odysseus-dev/odysseus",
     "https://github.com/omacom/try-omarchy",
     "https://github.com/omdsh-dev/DSH-better-sidebar",
+    "https://github.com/omlahore/RemoveMacAI",
     "https://github.com/omnara-ai/omnara",
     "https://github.com/onehumanbeing/esp32-iphone-agent",
     "https://github.com/onyx-dot-app/onyx",
@@ -2074,12 +2075,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "AI Engineering",
-      "title": "I Compared 11 Best AI Design-to-Code Tools for My...",
-      "url": "https://dev.to/devstackhub/i-compared-11-best-ai-design-to-code-tools-for-my-client-projects-4alo"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Other Cool Projects",
       "title": "nullmoth/nvidia-macos-driver",
       "url": "https://github.com/nullmoth/nvidia-macos-driver"
@@ -2131,6 +2126,12 @@
       "subcat": "Research Papers",
       "title": "Should Pseudo-Labels Share Mini-Batches with Labeled...",
       "url": "http://arxiv.org/abs/2610.35345v1"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Swift",
+      "title": "omlahore/RemoveMacAI",
+      "url": "https://github.com/omlahore/RemoveMacAI"
     }
   ]
 }

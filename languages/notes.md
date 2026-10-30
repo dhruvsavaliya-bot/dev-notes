@@ -1796,6 +1796,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~6 stars/day since launch.
 - **Link:** https://github.com/Muesli-HQ/muesli
 
+**Added 2026-10-30**
+
+### [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI)
+- **Stats:** 5,560 stars | 160 forks | 17 open issues
+- **Language:** Swift | **Created:** 2026-09-29 | **License:** MIT
+- **Topics:** ai-blocker, anti-ai, apple-intelligence, cli, debloat, hacktoberfest
+- **What it is:** Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.
+- **Growth:** averaging ~179 stars/day since launch.
+- **Link:** https://github.com/omlahore/RemoveMacAI
+
 
 ## Rust
 
