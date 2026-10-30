@@ -2031,6 +2031,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/XDOF/ABC-130k
 
+**Added 2026-10-30**
+
+### [noitomrobotics/HiPHI](https://huggingface.co/datasets/noitomrobotics/HiPHI)
+- **Stats:** 64 likes | 4,063 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-08-14
+- **Tags:** motion-capture, human-motion, humanoid-robotics, human-object-interaction, whole-body-motion, bvh
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/noitomrobotics/HiPHI
+
 
 ## Research Papers
 

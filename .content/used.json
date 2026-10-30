@@ -1026,6 +1026,7 @@
     "https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML",
     "https://huggingface.co/datasets/monology/pile-uncopyrighted",
     "https://huggingface.co/datasets/nisten/opus5-5-doctor-patient-conversations-all-human-diseases",
+    "https://huggingface.co/datasets/noitomrobotics/HiPHI",
     "https://huggingface.co/datasets/nvidia/Nemotron-Personas-Germany",
     "https://huggingface.co/datasets/nvidia/Open-H-RF",
     "https://huggingface.co/datasets/nvidia/Open-SWE-Traces",
@@ -2121,12 +2122,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Beginner",
-      "title": "Missing My Coworker Jason Today",
-      "url": "https://dev.to/antfarm-tech/missing-my-coworker-jason-today-23h3"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "AI & Machine Learning",
       "title": "comet-ml/opik-openclaw",
       "url": "https://github.com/comet-ml/opik-openclaw"
@@ -2178,6 +2173,12 @@
       "subcat": "Lobsters Picks",
       "title": "London meetup",
       "url": "https://lobste.rs/s/dsrruj/london_meetup"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Models & Datasets",
+      "title": "noitomrobotics/HiPHI",
+      "url": "https://huggingface.co/datasets/noitomrobotics/HiPHI"
     }
   ]
 }
