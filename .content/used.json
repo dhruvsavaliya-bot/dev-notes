@@ -1336,6 +1336,7 @@
     "https://marc.info/?l=openbsd-ports&m=179236125692175",
     "https://marimo.io/blog/pycharm",
     "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
+    "https://martinfowler.com/bliki/LLM-Voice.html",
     "https://martypc.net/",
     "https://mastodon.sdf.org/@netbsd/117518160563539748",
     "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
@@ -1828,6 +1829,7 @@
     "https://news.ycombinator.com/item?id=50264857",
     "https://news.ycombinator.com/item?id=50271640",
     "https://news.ycombinator.com/item?id=50273396",
+    "https://news.ycombinator.com/item?id=50290177",
     "https://news.ycombinator.com/item?id=50290668",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
@@ -2103,12 +2105,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "AI Engineering",
-      "title": "Fine-Tuning Qwen3-8B with Tinker: From 50% to 76%...",
-      "url": "https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Go",
       "title": "jasonxu114514/opencode2api",
       "url": "https://github.com/jasonxu114514/opencode2api"
@@ -2160,6 +2156,12 @@
       "subcat": "Lobsters Picks",
       "title": "If you love a website, back it up",
       "url": "https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Hacker News Picks",
+      "title": "LLM Voice",
+      "url": "https://news.ycombinator.com/item?id=50290177"
     }
   ]
 }

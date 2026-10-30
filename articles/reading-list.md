@@ -1973,6 +1973,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50211474
 - **Link:** https://blog.calif.io/p/iphone
 
+**Added 2026-10-30**
+
+### [LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html)
+- **Source:** martinfowler.com | **Posted:** 2026-10-29 | **By:** ibobev
+- **Community:** 483 points, 255 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50290177
+- **Link:** https://martinfowler.com/bliki/LLM-Voice.html
+
 
 ## DevOps & Cloud
 
