@@ -824,6 +824,7 @@
     "https://github.com/shellhub-io/shellhub",
     "https://github.com/shihabal3amri/DiPlay",
     "https://github.com/shilapi/xcertplay",
+    "https://github.com/sivchari/kumo",
     "https://github.com/slvDev/esp32-ai",
     "https://github.com/snuri00/ps2-web-recomp",
     "https://github.com/software-mansion-labs/goldie",
@@ -2099,12 +2100,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Python",
-      "title": "How fast is Python 3.15?",
-      "url": "https://lobste.rs/s/se6wbx/how_fast_is_python_3_15"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Lobsters Picks",
       "title": "My favourite PowerMac is a Nintendo Wii",
       "url": "https://lobste.rs/s/siebde/my_favourite_powermac_is_nintendo_wii"
@@ -2156,6 +2151,12 @@
       "subcat": "Hacker News Picks",
       "title": "Today, we hacked what we'd set out to hack: the iPhone",
       "url": "https://news.ycombinator.com/item?id=50211474"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Backend & Infrastructure",
+      "title": "sivchari/kumo",
+      "url": "https://github.com/sivchari/kumo"
     }
   ]
 }

@@ -3005,3 +3005,13 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** 📜 诗泉：高性能中国古诗词 API 服务
 - **Growth:** averaging ~11 stars/day since launch.
 - **Link:** https://github.com/palemoky/chinese-poetry-api
+
+**Added 2026-10-30**
+
+### [sivchari/kumo](https://github.com/sivchari/kumo)
+- **Stats:** 1,506 stars | 102 forks | 171 open issues
+- **Language:** Go | **Created:** 2026-02-03 | **License:** MIT
+- **Topics:** aws, cicd, cloud, continuous-integration, developer-tools, go
+- **What it is:** A lightweight AWS service emulator written in Go
+- **Growth:** averaging ~5 stars/day since launch.
+- **Link:** https://github.com/sivchari/kumo
