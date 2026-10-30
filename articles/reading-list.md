@@ -2736,6 +2736,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/eccbci/shared_password_manager_for_families
 - **Link:** https://lobste.rs/s/eccbci/shared_password_manager_for_families
 
+**Added 2026-10-30**
+
+### [NetBSD adds a new Emacs-like text editor called atto](https://mastodon.sdf.org/@netbsd/117518160563539748)
+- **Source:** mastodon.sdf.org | **Posted:** 2026-10-29 | **By:** luke8086
+- **Community:** 45 score, 25 comments on Lobsters
+- **Tags:** editors, netbsd
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/m6fw0x/netbsd_adds_new_emacs_like_text_editor
+- **Link:** https://mastodon.sdf.org/@netbsd/117518160563539748
+
 
 ## Performance
 

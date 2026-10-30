@@ -1232,6 +1232,7 @@
     "https://lobste.rs/s/lfusbg/atom_exhaustion_is_not_footgun_it_s_one",
     "https://lobste.rs/s/lgdxtw/c_for_rust_programmers",
     "https://lobste.rs/s/lxo74i/introducing_microlighter",
+    "https://lobste.rs/s/m6fw0x/netbsd_adds_new_emacs_like_text_editor",
     "https://lobste.rs/s/me75ey/jailbreaking_switch_2",
     "https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat",
     "https://lobste.rs/s/mkq3x9/better_http_1_connection_reuse",
@@ -1324,6 +1325,7 @@
     "https://marimo.io/blog/pycharm",
     "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
     "https://martypc.net/",
+    "https://mastodon.sdf.org/@netbsd/117518160563539748",
     "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
     "https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/",
     "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders",
@@ -2088,12 +2090,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Research Papers",
-      "title": "Should Pseudo-Labels Share Mini-Batches with Labeled...",
-      "url": "http://arxiv.org/abs/2610.35345v1"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Swift",
       "title": "omlahore/RemoveMacAI",
       "url": "https://github.com/omlahore/RemoveMacAI"
@@ -2145,6 +2141,12 @@
       "subcat": "Lobsters Picks",
       "title": "My favourite PowerMac is a Nintendo Wii",
       "url": "https://lobste.rs/s/siebde/my_favourite_powermac_is_nintendo_wii"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Lobsters Picks",
+      "title": "NetBSD adds a new Emacs-like text editor called atto",
+      "url": "https://lobste.rs/s/m6fw0x/netbsd_adds_new_emacs_like_text_editor"
     }
   ]
 }
