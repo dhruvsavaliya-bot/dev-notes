@@ -670,6 +670,7 @@
     "https://github.com/duty1g/x64dbg-mcp-server",
     "https://github.com/dzhng/jevgrep",
     "https://github.com/elder-plinius/T3MP3ST",
+    "https://github.com/elstongun/leviathan",
     "https://github.com/elyosh/OpenTIE/",
     "https://github.com/eternity4719/HowToLiveBetter",
     "https://github.com/eternityspring/shuohao-skills",
@@ -2072,12 +2073,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: If the models are so good, why doesn't OpenAI...",
-      "url": "https://news.ycombinator.com/item?id=50200997"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Hacker News Picks",
       "title": "I went to Mexico to test-drive the cars Americans...",
       "url": "https://news.ycombinator.com/item?id=50290668"
@@ -2129,6 +2124,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: A browser IDE for m68000, Z80 assembly (and...",
       "url": "https://news.ycombinator.com/item?id=49608665"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "AI & Machine Learning",
+      "title": "elstongun/leviathan",
+      "url": "https://github.com/elstongun/leviathan"
     }
   ]
 }

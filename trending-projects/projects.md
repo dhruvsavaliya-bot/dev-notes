@@ -1334,6 +1334,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~9 stars/day since launch.
 - **Link:** https://github.com/vasu-devs/JustHireMe
 
+**Added 2026-10-30**
+
+### [elstongun/leviathan](https://github.com/elstongun/leviathan)
+- **Stats:** 872 stars | 53 forks | 15 open issues
+- **Language:** Rust | **Created:** 2026-10-05 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** Deep memory for agents over large datasets. Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.
+- **Growth:** averaging ~34 stars/day since launch.
+- **Link:** https://github.com/elstongun/leviathan
+
 
 ## Other Cool Projects
 
