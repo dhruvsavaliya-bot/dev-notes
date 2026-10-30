@@ -1786,6 +1786,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50072286
 - **Link:** https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/
 
+**Added 2026-10-30**
+
+### [Muesli-HQ/muesli](https://github.com/Muesli-HQ/muesli)
+- **Stats:** 1,499 stars | 152 forks | 138 open issues
+- **Language:** Swift | **Created:** 2026-03-05 | **License:** MIT
+- **Topics:** agents, apple-silicon, computer-use, dictation, macos, meeting-assistant
+- **What it is:** Muesli: agent-native local meeting transcription + dictation for macOS (Granola + WisprFlow alternative)
+- **Growth:** averaging ~6 stars/day since launch.
+- **Link:** https://github.com/Muesli-HQ/muesli
+
 
 ## Rust
 

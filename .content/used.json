@@ -530,6 +530,7 @@
     "https://github.com/Miuzarte/ScrcpyForAndroid",
     "https://github.com/MoonshotAI/Kimi-K3",
     "https://github.com/MorpheApp/PotHelper",
+    "https://github.com/Muesli-HQ/muesli",
     "https://github.com/N4darae/shrt",
     "https://github.com/NVIDIA/cuml",
     "https://github.com/NVlabs/SoL-Pi",
@@ -2069,12 +2070,6 @@
   "recent": [
     {
       "date": "2026-10-29",
-      "subcat": "Models & Datasets",
-      "title": "mistralai/Timestral-209M",
-      "url": "https://huggingface.co/mistralai/Timestral-209M"
-    },
-    {
-      "date": "2026-10-29",
       "subcat": "AI & Machine Learning",
       "title": "vasu-devs/JustHireMe",
       "url": "https://github.com/vasu-devs/JustHireMe"
@@ -2126,6 +2121,12 @@
       "subcat": "Lobsters Picks",
       "title": "Redox Ring Buffers Project Summary",
       "url": "https://lobste.rs/s/brdwr2/redox_ring_buffers_project_summary"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Swift",
+      "title": "Muesli-HQ/muesli",
+      "url": "https://github.com/Muesli-HQ/muesli"
     }
   ]
 }

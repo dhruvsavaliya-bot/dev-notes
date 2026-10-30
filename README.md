@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1463 entries and counting** · Last updated: 2026-10-30
+**1464 entries and counting** · Last updated: 2026-10-30
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 296 |
 | [Reading List](articles/reading-list.md) | 296 |
 | [Coding Tips](coding-tips/tips.md) | 294 |
-| [Language Notes](languages/notes.md) | 281 |
+| [Language Notes](languages/notes.md) | 282 |
 
 ## Latest additions
 
+- **2026-10-30** · *Swift* — [Muesli-HQ/muesli](https://github.com/Muesli-HQ/muesli)
 - **2026-10-30** · *Lobsters Picks* — [Redox Ring Buffers Project Summary](https://lobste.rs/s/brdwr2/redox_ring_buffers_project_summary)
 - **2026-10-30** · *Research Papers* — [Atomic Security Concerns: Towards a Foundational...](http://arxiv.org/abs/2610.35782v1)
 - **2026-10-30** · *Other Cool Projects* — [lgse/strata](https://github.com/lgse/strata)
 - **2026-10-30** · *Lobsters Picks* — [AlpineBSD](https://lobste.rs/s/yxuvie/alpinebsd)
-- **2026-10-30** · *Other Cool Projects* — [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver)
 
 ## How it works
 
