@@ -1982,6 +1982,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50290177
 - **Link:** https://martinfowler.com/bliki/LLM-Voice.html
 
+**Added 2026-10-30**
+
+### [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
+- **Source:** labs.ycombinator.com | **Posted:** 2026-10-29 | **By:** sandslash
+- **Community:** 336 points, 136 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50296486
+- **Link:** https://labs.ycombinator.com/projects/games/index.html
+
 
 ## DevOps & Cloud
 

@@ -1119,6 +1119,7 @@
     "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
     "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
     "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+    "https://labs.ycombinator.com/projects/games/index.html",
     "https://lapcatsoftware.com/articles/2026/9/1.html",
     "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
     "https://leanrada.com/notes/inline-rendering-currentscript/",
@@ -1836,6 +1837,7 @@
     "https://news.ycombinator.com/item?id=50273396",
     "https://news.ycombinator.com/item?id=50290177",
     "https://news.ycombinator.com/item?id=50290668",
+    "https://news.ycombinator.com/item?id=50296486",
     "https://news.ycombinator.com/item?id=50301479",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
@@ -2112,12 +2114,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Backend & Infrastructure",
-      "title": "sivchari/kumo",
-      "url": "https://github.com/sivchari/kumo"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Research Papers",
       "title": "Tracing Hallucinations in LLM Reasoning for UML Class...",
       "url": "http://arxiv.org/abs/2610.30946v1"
@@ -2169,6 +2165,12 @@
       "subcat": "Research Papers",
       "title": "How Numerical Errors Scale with Hardware",
       "url": "http://arxiv.org/abs/2610.35413v1"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Hacker News Picks",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://news.ycombinator.com/item?id=50296486"
     }
   ]
 }
