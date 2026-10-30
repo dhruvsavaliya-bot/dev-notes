@@ -2000,6 +2000,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50295450
 - **Link:** https://github.com/SheepSeb/tinyworldformer
 
+**Added 2026-10-30**
+
+### [The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)
+- **Source:** www.wired.com | **Posted:** 2026-10-30 | **By:** domhudson
+- **Community:** 149 points, 109 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50303172
+- **Link:** https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/
+
 
 ## DevOps & Cloud
 

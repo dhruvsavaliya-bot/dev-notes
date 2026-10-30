@@ -1847,6 +1847,7 @@
     "https://news.ycombinator.com/item?id=50295450",
     "https://news.ycombinator.com/item?id=50296486",
     "https://news.ycombinator.com/item?id=50301479",
+    "https://news.ycombinator.com/item?id=50303172",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2106,6 +2107,7 @@
     "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
     "https://www.vlt.io/blog/competition-keeps-javascript-moving",
     "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
+    "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
     "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
     "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
@@ -2120,12 +2122,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-10-30",
-      "subcat": "AI & Machine Learning",
-      "title": "comet-ml/opik-openclaw",
-      "url": "https://github.com/comet-ml/opik-openclaw"
-    },
     {
       "date": "2026-10-30",
       "subcat": "PHP",
@@ -2179,6 +2175,12 @@
       "subcat": "Models & Datasets",
       "title": "noitomrobotics/HiPHI",
       "url": "https://huggingface.co/datasets/noitomrobotics/HiPHI"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Hacker News Picks",
+      "title": "The $6.3B Binance Hack Was Pulled Off in Just 20...",
+      "url": "https://news.ycombinator.com/item?id=50303172"
     }
   ]
 }
