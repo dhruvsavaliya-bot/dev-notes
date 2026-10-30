@@ -490,6 +490,7 @@
     "https://github.com/Draculabo/AntigravityManager",
     "https://github.com/EpicGames/lore",
     "https://github.com/EvoMap/AutoResearch",
+    "https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts",
     "https://github.com/Faizpi/bank-sampah",
     "https://github.com/FalkorDB/FalkorDB",
     "https://github.com/FareedKhan-dev/kimi-k3-in-c",
@@ -2119,12 +2120,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Java",
-      "title": "databufflabs/databuff",
-      "url": "https://github.com/databufflabs/databuff"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Are you tired too in this AI era?",
       "url": "https://news.ycombinator.com/item?id=50301479"
@@ -2176,6 +2171,12 @@
       "subcat": "Hacker News Picks",
       "title": "A tiny world model running games on a Raspberry Pi...",
       "url": "https://news.ycombinator.com/item?id=50295450"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "AI & Machine Learning",
+      "title": "Evolink-AI/awesome-gpt-image-2-API-Prompts",
+      "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts"
     }
   ]
 }

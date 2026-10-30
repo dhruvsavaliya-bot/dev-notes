@@ -1354,6 +1354,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~3 stars/day since launch.
 - **Link:** https://github.com/comet-ml/opik-openclaw
 
+**Added 2026-10-30**
+
+### [Evolink-AI/awesome-gpt-image-2-API-Prompts](https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts)
+- **Stats:** 17,364 stars | 1,742 forks | 3 open issues
+- **Language:** Python | **Created:** 2026-04-18 | **License:** CC0-1.0
+- **Topics:** ai-art, api, awesome-list, awesome-lists, chatgpt, creative-tools
+- **What it is:** GPT-Image-2 API and Prompts
+- **Growth:** averaging ~89 stars/day since launch.
+- **Link:** https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts
+
 
 ## Other Cool Projects
 
