@@ -1344,6 +1344,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~34 stars/day since launch.
 - **Link:** https://github.com/elstongun/leviathan
 
+**Added 2026-10-30**
+
+### [comet-ml/opik-openclaw](https://github.com/comet-ml/opik-openclaw)
+- **Stats:** 726 stars | 86 forks | 16 open issues
+- **Language:** TypeScript | **Created:** 2026-03-02 | **License:** Apache-2.0
+- **Topics:** ai-agents, clawdbot, evaluation, llm-observability, moltbot, observability
+- **What it is:** 🦞 Official plugin for OpenClaw that exports agent traces to Opik. See and monitor agent behaviour, cost, tokens, errors and more.
+- **Growth:** averaging ~3 stars/day since launch.
+- **Link:** https://github.com/comet-ml/opik-openclaw
+
 
 ## Other Cool Projects
 

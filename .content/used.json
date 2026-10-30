@@ -653,6 +653,7 @@
     "https://github.com/chasmlol/SkyCraft",
     "https://github.com/cloudflare/security-audit-skill",
     "https://github.com/cocojojo5213/Dev-Janitor",
+    "https://github.com/comet-ml/opik-openclaw",
     "https://github.com/common-voice/common-voice",
     "https://github.com/coollabsio/shoutrrr",
     "https://github.com/cordiverse/paper",
@@ -2108,12 +2109,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "JavaScript",
-      "title": "Best Free APIs for Developers : The Complete...",
-      "url": "https://dev.to/startupcafe/best-free-apis-for-developers-the-complete-categorized-list-27oc"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Python",
       "title": "Python's experimental JIT to be removed",
       "url": "https://lobste.rs/s/cajuq6/python_s_experimental_jit_be_removed"
@@ -2165,6 +2160,12 @@
       "subcat": "Beginner",
       "title": "Missing My Coworker Jason Today",
       "url": "https://dev.to/antfarm-tech/missing-my-coworker-jason-today-23h3"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "AI & Machine Learning",
+      "title": "comet-ml/opik-openclaw",
+      "url": "https://github.com/comet-ml/opik-openclaw"
     }
   ]
 }

@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1491 entries and counting** · Last updated: 2026-10-30
+**1492 entries and counting** · Last updated: 2026-10-30
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 300 |
+| [Trending Projects](trending-projects/projects.md) | 301 |
 | [AI / LLM Notes](ai/notes.md) | 300 |
 | [Reading List](articles/reading-list.md) | 300 |
 | [Coding Tips](coding-tips/tips.md) | 300 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-30** · *AI & Machine Learning* — [comet-ml/opik-openclaw](https://github.com/comet-ml/opik-openclaw)
 - **2026-10-30** · *Beginner* — [Missing My Coworker Jason Today](https://dev.to/antfarm-tech/missing-my-coworker-jason-today-23h3)
 - **2026-10-30** · *Show & Ask HN* — [Ask HN: Are you tired too in this AI era?](https://news.ycombinator.com/item?id=50301479)
 - **2026-10-30** · *Java* — [databufflabs/databuff](https://github.com/databufflabs/databuff)
 - **2026-10-30** · *Hacker News Picks* — [LLM Voice](https://news.ycombinator.com/item?id=50290177)
-- **2026-10-30** · *Lobsters Picks* — [If you love a website, back it up](https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up)
 
 ## How it works
 
