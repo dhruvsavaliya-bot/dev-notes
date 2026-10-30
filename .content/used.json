@@ -824,6 +824,7 @@
     "https://github.com/rlaope/oh-my-hermes",
     "https://github.com/robbietilton/Compositor",
     "https://github.com/rsutcliffe/nightwatch",
+    "https://github.com/rtk-ai/rtk",
     "https://github.com/rushiranpise/morphe-patches",
     "https://github.com/s1dashu/ip-as-logo-skill",
     "https://github.com/safijari/openpuck",
@@ -2131,12 +2132,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Hacker News Picks",
-      "title": "A tiny world model running games on a Raspberry Pi...",
-      "url": "https://news.ycombinator.com/item?id=50295450"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "AI & Machine Learning",
       "title": "Evolink-AI/awesome-gpt-image-2-API-Prompts",
       "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts"
@@ -2188,6 +2183,12 @@
       "subcat": "Productivity",
       "title": "You're Not Lazy  You're Time Blind. Here's How Lock...",
       "url": "https://dev.to/harsh2644/youre-not-lazy-youre-time-blind-heres-how-lock-in-fixes-it-57ej"
+    },
+    {
+      "date": "2026-10-31",
+      "subcat": "AI & Machine Learning",
+      "title": "rtk-ai/rtk",
+      "url": "https://github.com/rtk-ai/rtk"
     }
   ]
 }

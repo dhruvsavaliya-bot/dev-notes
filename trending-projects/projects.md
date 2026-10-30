@@ -1364,6 +1364,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~89 stars/day since launch.
 - **Link:** https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts
 
+**Added 2026-10-31**
+
+### [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+- **Stats:** 85,080 stars | 5,431 forks | 1,643 open issues
+- **Language:** Rust | **Created:** 2026-01-22 | **License:** Apache-2.0
+- **Topics:** agentic-coding, ai-coding, anthropic, claude-code, cli, command-line-tool
+- **What it is:** CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+- **Growth:** averaging ~301 stars/day since launch.
+- **Link:** https://github.com/rtk-ai/rtk
+
 
 ## Other Cool Projects
 
