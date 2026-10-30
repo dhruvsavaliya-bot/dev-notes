@@ -1267,6 +1267,7 @@
     "https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on",
     "https://lobste.rs/s/se6wbx/how_fast_is_python_3_15",
     "https://lobste.rs/s/sfdf3h/platform_independent_simd_go",
+    "https://lobste.rs/s/siebde/my_favourite_powermac_is_nintendo_wii",
     "https://lobste.rs/s/sqftld/next_gen_borrow_checker_drop_replacement",
     "https://lobste.rs/s/sxlf4a/goodbye_google",
     "https://lobste.rs/s/ta2ojd/letter_from_machine_learning_engineer",
@@ -1951,6 +1952,7 @@
     "https://verdagon.dev/blog/valen-group-borrowing",
     "https://vester.si/bodily-oddities/",
     "https://vincent.bernat.ch/en/blog/2026-go-netip-addrto6",
+    "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
     "https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/",
     "https://wasmer.io/posts/running-php-blazingly-fast-at-the-edge-with-wasm",
     "https://weirdgloop.org/blog/google-jail",
@@ -2086,12 +2088,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "AI & Machine Learning",
-      "title": "elstongun/leviathan",
-      "url": "https://github.com/elstongun/leviathan"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Research Papers",
       "title": "Should Pseudo-Labels Share Mini-Batches with Labeled...",
       "url": "http://arxiv.org/abs/2610.35345v1"
@@ -2143,6 +2139,12 @@
       "subcat": "Python",
       "title": "How fast is Python 3.15?",
       "url": "https://lobste.rs/s/se6wbx/how_fast_is_python_3_15"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Lobsters Picks",
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "url": "https://lobste.rs/s/siebde/my_favourite_powermac_is_nintendo_wii"
     }
   ]
 }

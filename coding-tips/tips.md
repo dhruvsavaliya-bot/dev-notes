@@ -2686,6 +2686,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/jmbjlu/future_trait_has_missing_state
 - **Link:** https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state
 
+**Added 2026-10-30**
+
+### [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
+- **Source:** virtuallyfun.com | **Posted:** 2026-10-29 | **By:** ninakali
+- **Community:** 34 score, 1 comments on Lobsters
+- **Tags:** retrocomputing, reversing
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/siebde/my_favourite_powermac_is_nintendo_wii
+- **Link:** https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/
+
 
 ## Career & Craft
 
