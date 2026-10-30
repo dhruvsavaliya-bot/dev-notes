@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1470 entries and counting** · Last updated: 2026-10-30
+**1471 entries and counting** · Last updated: 2026-10-30
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 297 |
+| [Trending Projects](trending-projects/projects.md) | 298 |
 | [AI / LLM Notes](ai/notes.md) | 297 |
 | [Reading List](articles/reading-list.md) | 297 |
 | [Coding Tips](coding-tips/tips.md) | 295 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-30** · *Other Cool Projects* — [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela)
 - **2026-10-30** · *Lobsters Picks* — [Shared password manager for families?](https://lobste.rs/s/eccbci/shared_password_manager_for_families)
 - **2026-10-30** · *PHP* — [Borland Turbo Basic](https://news.ycombinator.com/item?id=49965894)
 - **2026-10-30** · *Swift* — [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI)
 - **2026-10-30** · *Research Papers* — [Should Pseudo-Labels Share Mini-Batches with Labeled...](http://arxiv.org/abs/2610.35345v1)
-- **2026-10-30** · *AI & Machine Learning* — [elstongun/leviathan](https://github.com/elstongun/leviathan)
 
 ## How it works
 

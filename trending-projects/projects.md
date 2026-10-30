@@ -2557,6 +2557,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~23 stars/day since launch.
 - **Link:** https://github.com/lgse/strata
 
+**Added 2026-10-30**
+
+### [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela)
+- **Stats:** 2,282 stars | 117 forks | 84 open issues
+- **Language:** Kotlin | **Created:** 2026-06-15 | **License:** GPL-3.0
+- **Topics:** alpr, android, android-auto, degoogle, degoogled, flock
+- **What it is:** Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras
+- **Growth:** averaging ~16 stars/day since launch.
+- **Link:** https://github.com/PimpinPumpkin/Vela
+
 
 ## Web & Frontend
 
