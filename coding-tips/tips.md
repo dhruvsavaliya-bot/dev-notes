@@ -211,6 +211,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** What founders report, what that evidence can't prove, and a four-week experiment you can run on your...
 - **Link:** https://dev.to/startupcafe/build-in-public-is-everywhere-does-it-actually-get-you-customers-2hlh
 
+**Added 2026-10-31**
+
+### [You're Not Lazy — You're Time Blind. Here's How Lock In Fixes It.](https://dev.to/harsh2644/youre-not-lazy-youre-time-blind-heres-how-lock-in-fixes-it-57ej)
+- **Author:** Harsh  | **Published:** Jul 2 | **Read time:** 5 min
+- **Community:** 55 reactions, 21 comments -- a top post in #productivity
+- **Tags:** productivity, discuss, career, beginners
+- **Summary:** I sat down to work for 2 hours. I actually worked for 45 minutes.  Sound familiar?  You open your...
+- **Link:** https://dev.to/harsh2644/youre-not-lazy-youre-time-blind-heres-how-lock-in-fixes-it-57ej
+
 
 ## Hacker News Picks
 
