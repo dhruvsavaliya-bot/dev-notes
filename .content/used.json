@@ -413,6 +413,7 @@
     "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
     "https://doeken.org/blog/coroutines-in-php",
     "https://dontwordle.com/",
+    "https://dosdays.co.uk/topics/Software/borland_turbo_basic.php",
     "https://dylancastillo.co/posts/pelicanmaxxing.html",
     "https://eaton-works.com/2026/07/27/my-eicher-hack/",
     "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
@@ -1710,6 +1711,7 @@
     "https://news.ycombinator.com/item?id=49953288",
     "https://news.ycombinator.com/item?id=49964045",
     "https://news.ycombinator.com/item?id=49965308",
+    "https://news.ycombinator.com/item?id=49965894",
     "https://news.ycombinator.com/item?id=49970667",
     "https://news.ycombinator.com/item?id=49971230",
     "https://news.ycombinator.com/item?id=49977351",
@@ -2075,12 +2077,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Other Cool Projects",
-      "title": "nullmoth/nvidia-macos-driver",
-      "url": "https://github.com/nullmoth/nvidia-macos-driver"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Lobsters Picks",
       "title": "AlpineBSD",
       "url": "https://lobste.rs/s/yxuvie/alpinebsd"
@@ -2132,6 +2128,12 @@
       "subcat": "Swift",
       "title": "omlahore/RemoveMacAI",
       "url": "https://github.com/omlahore/RemoveMacAI"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "PHP",
+      "title": "Borland Turbo Basic",
+      "url": "https://news.ycombinator.com/item?id=49965894"
     }
   ]
 }

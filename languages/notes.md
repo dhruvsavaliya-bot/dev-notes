@@ -1397,6 +1397,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~9 stars/day since launch.
 - **Link:** https://github.com/Faizpi/bank-sampah
 
+**Added 2026-10-30**
+
+### [Borland Turbo Basic](https://dosdays.co.uk/topics/Software/borland_turbo_basic.php)
+- **Source:** dosdays.co.uk | **Posted:** 2026-10-05 | **By:** sssilver
+- **Community:** 108 points, 63 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49965894
+- **Link:** https://dosdays.co.uk/topics/Software/borland_turbo_basic.php
+
 
 ## Ruby
 
