@@ -1964,6 +1964,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50290668
 - **Link:** https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/
 
+**Added 2026-10-30**
+
+### [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)
+- **Source:** blog.calif.io | **Posted:** 2026-10-23 | **By:** pavel_lishin
+- **Community:** 1123 points, 732 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50211474
+- **Link:** https://blog.calif.io/p/iphone
+
 
 ## DevOps & Cloud
 

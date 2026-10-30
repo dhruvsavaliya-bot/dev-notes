@@ -152,6 +152,7 @@
     "https://betterwispr.com/",
     "https://bevy.org/news/bevy-0-20/",
     "https://binaryigor.com/sqlite-db-simple-in-process-reliable-fast.html",
+    "https://blog.calif.io/p/iphone",
     "https://blog.cloudflare.com/kitesurf/",
     "https://blog.cloudflare.com/typescript-rust-port/",
     "https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html",
@@ -1808,6 +1809,7 @@
     "https://news.ycombinator.com/item?id=50200957",
     "https://news.ycombinator.com/item?id=50200997",
     "https://news.ycombinator.com/item?id=50204125",
+    "https://news.ycombinator.com/item?id=50211474",
     "https://news.ycombinator.com/item?id=50212065",
     "https://news.ycombinator.com/item?id=50222133",
     "https://news.ycombinator.com/item?id=50225695",
@@ -2097,12 +2099,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Models & Datasets",
-      "title": "openbmb/UltraData-RL-2609",
-      "url": "https://huggingface.co/datasets/openbmb/UltraData-RL-2609"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Python",
       "title": "How fast is Python 3.15?",
       "url": "https://lobste.rs/s/se6wbx/how_fast_is_python_3_15"
@@ -2154,6 +2150,12 @@
       "subcat": "Python",
       "title": "Python's experimental JIT to be removed",
       "url": "https://lobste.rs/s/cajuq6/python_s_experimental_jit_be_removed"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Hacker News Picks",
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "url": "https://news.ycombinator.com/item?id=50211474"
     }
   ]
 }

@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1483 entries and counting** · Last updated: 2026-10-30
+**1484 entries and counting** · Last updated: 2026-10-30
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 299 |
 | [AI / LLM Notes](ai/notes.md) | 299 |
-| [Reading List](articles/reading-list.md) | 298 |
+| [Reading List](articles/reading-list.md) | 299 |
 | [Coding Tips](coding-tips/tips.md) | 297 |
 | [Language Notes](languages/notes.md) | 290 |
 
 ## Latest additions
 
+- **2026-10-30** · *Hacker News Picks* — [Today, we hacked what we'd set out to hack: the iPhone](https://news.ycombinator.com/item?id=50211474)
 - **2026-10-30** · *Python* — [Python's experimental JIT to be removed](https://lobste.rs/s/cajuq6/python_s_experimental_jit_be_removed)
 - **2026-10-30** · *JavaScript* — [Best Free APIs for Developers : The Complete...](https://dev.to/startupcafe/best-free-apis-for-developers-the-complete-categorized-list-27oc)
 - **2026-10-30** · *JavaScript* — [YeJe-cpu/SeeCut](https://github.com/YeJe-cpu/SeeCut)
 - **2026-10-30** · *Other Cool Projects* — [deepfounder-ai/desigma](https://github.com/deepfounder-ai/desigma)
-- **2026-10-30** · *Go* — [jasonxu114514/opencode2api](https://github.com/jasonxu114514/opencode2api)
 
 ## How it works
 
