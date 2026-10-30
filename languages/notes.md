@@ -2835,3 +2835,13 @@ Snippets and gotchas across languages.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=50200957
 - **Link:** https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/
+
+**Added 2026-10-30**
+
+### [databufflabs/databuff](https://github.com/databufflabs/databuff)
+- **Stats:** 720 stars | 144 forks | 11 open issues
+- **Language:** Java | **Created:** 2026-06-18 | **License:** AGPL-3.0
+- **Topics:** aiops, apm, application-monitoring, devops, distributed-tracing, ebpf
+- **What it is:** DataBuff is an AI-native APM built on Opentelemetry，with multi-agent troubleshooting out of the box.
+- **Growth:** averaging ~5 stars/day since launch.
+- **Link:** https://github.com/databufflabs/databuff

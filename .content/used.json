@@ -659,6 +659,7 @@
     "https://github.com/crmne/spotifast",
     "https://github.com/d11wtq/boris",
     "https://github.com/darshi1337/apogee",
+    "https://github.com/databufflabs/databuff",
     "https://github.com/dataelement/dsh-desktop",
     "https://github.com/davidondrej/skills",
     "https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course",
@@ -2105,12 +2106,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Go",
-      "title": "jasonxu114514/opencode2api",
-      "url": "https://github.com/jasonxu114514/opencode2api"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Other Cool Projects",
       "title": "deepfounder-ai/desigma",
       "url": "https://github.com/deepfounder-ai/desigma"
@@ -2162,6 +2157,12 @@
       "subcat": "Hacker News Picks",
       "title": "LLM Voice",
       "url": "https://news.ycombinator.com/item?id=50290177"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Java",
+      "title": "databufflabs/databuff",
+      "url": "https://github.com/databufflabs/databuff"
     }
   ]
 }
