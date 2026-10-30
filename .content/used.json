@@ -367,6 +367,7 @@
     "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
     "https://dev.to/smtahosin/python-thinks-different-what-actually-happens-inside-your-code-visual-guide-241l",
     "https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81",
+    "https://dev.to/startupcafe/best-free-apis-for-developers-the-complete-categorized-list-27oc",
     "https://dev.to/startupcafe/build-in-public-is-everywhere-does-it-actually-get-you-customers-2hlh",
     "https://dev.to/stherzada/como-eu-aprendi-a-aprender-e-por-que-a-ia-nao-veio-pra-pensar-por-voce-fhg",
     "https://dev.to/sylwia-lask/10-git-commands-youll-wish-you-knew-earlier-4fcp",
@@ -2094,12 +2095,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Swift",
-      "title": "Switzerland proposes banning profiling-based ads to...",
-      "url": "https://news.ycombinator.com/item?id=50087328"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Hurston-1 open source TTS that speak...",
       "url": "https://news.ycombinator.com/item?id=50227330"
@@ -2151,6 +2146,12 @@
       "subcat": "JavaScript",
       "title": "YeJe-cpu/SeeCut",
       "url": "https://github.com/YeJe-cpu/SeeCut"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "JavaScript",
+      "title": "Best Free APIs for Developers : The Complete...",
+      "url": "https://dev.to/startupcafe/best-free-apis-for-developers-the-complete-categorized-list-27oc"
     }
   ]
 }
