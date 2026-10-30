@@ -1210,6 +1210,7 @@
     "https://lobste.rs/s/dodzdb/highlights_from_i_spent_6_years",
     "https://lobste.rs/s/dpfpr3/goroutine_leak_profiles",
     "https://lobste.rs/s/dsbt5a/branches_branch_free_code",
+    "https://lobste.rs/s/dsrruj/london_meetup",
     "https://lobste.rs/s/dzvt0w/type_inference_all_constructs_next_15",
     "https://lobste.rs/s/e5vf6k/don_t_couple_your_go_code_github",
     "https://lobste.rs/s/e7rvsp/we_re_sunsetting_codeberg_pages_v2",
@@ -2120,12 +2121,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: Are you tired too in this AI era?",
-      "url": "https://news.ycombinator.com/item?id=50301479"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Beginner",
       "title": "Missing My Coworker Jason Today",
       "url": "https://dev.to/antfarm-tech/missing-my-coworker-jason-today-23h3"
@@ -2177,6 +2172,12 @@
       "subcat": "AI & Machine Learning",
       "title": "Evolink-AI/awesome-gpt-image-2-API-Prompts",
       "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Lobsters Picks",
+      "title": "London meetup",
+      "url": "https://lobste.rs/s/dsrruj/london_meetup"
     }
   ]
 }

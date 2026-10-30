@@ -2734,6 +2734,24 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/ttp7aq/backdoors_claude_code_for_vs_cursor
 - **Link:** https://cyberplace.social/@GossiTheDog/117528831681803563
 
+**Added 2026-10-30**
+
+### [London meetup](https://lobste.rs/s/dsrruj/london_meetup)
+- **Source:** lobste.rs | **Posted:** 2026-10-29 | **By:** prole
+- **Community:** 51 score, 39 comments on Lobsters
+- **Tags:** event
+- **Summary:** Hi everyone, 
+
+I recently saw a post about an NYC lobsters meetup, and am wondering how many people here could make it to a London meetup. 
+
+If more than a couple of people here are based in London and can make it, I'll organise one in central London. 
+
+If you could also let me know which day of the week works best for you, that would be great too! 
+
+Cheers!
+- **Discussion:** https://lobste.rs/s/dsrruj/london_meetup
+- **Link:** https://lobste.rs/s/dsrruj/london_meetup
+
 
 ## Career & Craft
 
