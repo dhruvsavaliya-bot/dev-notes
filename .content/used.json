@@ -948,6 +948,7 @@
     "https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap",
     "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
     "https://huggingface.co/Cloudflare/clef",
+    "https://huggingface.co/Comfy-Org/MOSS-Image",
     "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged",
     "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
     "https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
@@ -2132,12 +2133,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "AI & Machine Learning",
-      "title": "Evolink-AI/awesome-gpt-image-2-API-Prompts",
-      "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Lobsters Picks",
       "title": "London meetup",
       "url": "https://lobste.rs/s/dsrruj/london_meetup"
@@ -2189,6 +2184,12 @@
       "subcat": "AI & Machine Learning",
       "title": "rtk-ai/rtk",
       "url": "https://github.com/rtk-ai/rtk"
+    },
+    {
+      "date": "2026-10-31",
+      "subcat": "Models & Datasets",
+      "title": "Comfy-Org/MOSS-Image",
+      "url": "https://huggingface.co/Comfy-Org/MOSS-Image"
     }
   ]
 }

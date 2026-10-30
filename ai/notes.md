@@ -2040,6 +2040,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/noitomrobotics/HiPHI
 
+**Added 2026-10-31**
+
+### [Comfy-Org/MOSS-Image](https://huggingface.co/Comfy-Org/MOSS-Image)
+- **Stats:** 556 likes | 3,702,490 downloads
+- **Kind:** Hugging Face model | **Task:** n/a | **Created:** 2026-10-16
+- **Tags:** diffusion-single-file, comfyui
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/Comfy-Org/MOSS-Image
+
 
 ## Research Papers
 
