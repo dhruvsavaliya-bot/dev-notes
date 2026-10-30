@@ -1455,6 +1455,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=49965894
 - **Link:** https://dosdays.co.uk/topics/Software/borland_turbo_basic.php
 
+**Added 2026-10-30**
+
+### [Security advisory: Critical remote code execution vulnerabilities, update now](https://www.php.net/archive/2026.php#2026-10-21-5)
+- **Source:** www.php.net | **Posted:** 2026-10-20 | **By:** xd
+- **Community:** 1561 points, 659 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50172041
+- **Link:** https://www.php.net/archive/2026.php#2026-10-21-5
+
 
 ## Ruby
 

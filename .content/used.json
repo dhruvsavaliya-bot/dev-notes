@@ -1799,6 +1799,7 @@
     "https://news.ycombinator.com/item?id=50166257",
     "https://news.ycombinator.com/item?id=50167754",
     "https://news.ycombinator.com/item?id=50168396",
+    "https://news.ycombinator.com/item?id=50172041",
     "https://news.ycombinator.com/item?id=50174687",
     "https://news.ycombinator.com/item?id=50175070",
     "https://news.ycombinator.com/item?id=50176544",
@@ -2052,6 +2053,7 @@
     "https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/",
     "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
     "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+    "https://www.php.net/archive/2026.php#2026-10-21-5",
     "https://www.primeintellect.ai/blog/prime-agent",
     "https://www.python.org/downloads/release/python-3150/",
     "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
@@ -2109,12 +2111,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Python",
-      "title": "Python's experimental JIT to be removed",
-      "url": "https://lobste.rs/s/cajuq6/python_s_experimental_jit_be_removed"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Hacker News Picks",
       "title": "Today, we hacked what we'd set out to hack: the iPhone",
       "url": "https://news.ycombinator.com/item?id=50211474"
@@ -2166,6 +2162,12 @@
       "subcat": "AI & Machine Learning",
       "title": "comet-ml/opik-openclaw",
       "url": "https://github.com/comet-ml/opik-openclaw"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "PHP",
+      "title": "Security advisory: Critical remote code execution...",
+      "url": "https://news.ycombinator.com/item?id=50172041"
     }
   ]
 }
