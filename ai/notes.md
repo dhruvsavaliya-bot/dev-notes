@@ -2004,6 +2004,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/mistralai/Timestral-209M
 
+**Added 2026-10-30**
+
+### [openbmb/UltraData-RL-2609](https://huggingface.co/datasets/openbmb/UltraData-RL-2609)
+- **Stats:** 188 likes | 4,878 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-08-31
+- **Tags:** llm, reinforcement-learning, rlvr, verifiable-rewards, post-training, math
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/openbmb/UltraData-RL-2609
+
 
 ## Research Papers
 
