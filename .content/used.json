@@ -419,6 +419,7 @@
     "https://developer.apple.com/news/?id=p6zjojqw",
     "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
     "https://devlog.creusot.rs/v0-14-0/",
+    "https://discourse.imfreedom.org/t/pidgin-3-0-alpha-4-2-98-0-has-been-released/445",
     "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
     "https://doeken.org/blog/coroutines-in-php",
     "https://dontwordle.com/",
@@ -1279,6 +1280,7 @@
     "https://lobste.rs/s/qcgjpu/kolibri_sovereign_open_weight_model",
     "https://lobste.rs/s/qi1bxu/tinygo_0_42_recover_is_real",
     "https://lobste.rs/s/qn61ip/open_source_clean_room_reimplementation",
+    "https://lobste.rs/s/qsvspv/pidgin_3_0_alpha_4_2_98_0_has_been_released",
     "https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy",
     "https://lobste.rs/s/qzfohf/how_run_city_builder_on_16_mhz",
     "https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably",
@@ -2125,12 +2127,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Research Papers",
-      "title": "How Numerical Errors Scale with Hardware",
-      "url": "http://arxiv.org/abs/2610.35413v1"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Hacker News Picks",
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://news.ycombinator.com/item?id=50296486"
@@ -2182,6 +2178,12 @@
       "subcat": "Backend & Infrastructure",
       "title": "devmikets/hyperliquid-sdk",
       "url": "https://github.com/devmikets/hyperliquid-sdk"
+    },
+    {
+      "date": "2026-10-31",
+      "subcat": "Lobsters Picks",
+      "title": "Pidgin 3.0 Alpha 4 2.98.0 has been released",
+      "url": "https://lobste.rs/s/qsvspv/pidgin_3_0_alpha_4_2_98_0_has_been_released"
     }
   ]
 }

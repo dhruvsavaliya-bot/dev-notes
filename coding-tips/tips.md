@@ -2752,6 +2752,16 @@ Cheers!
 - **Discussion:** https://lobste.rs/s/dsrruj/london_meetup
 - **Link:** https://lobste.rs/s/dsrruj/london_meetup
 
+**Added 2026-10-31**
+
+### [Pidgin 3.0 Alpha 4 2.98.0 has been released](https://discourse.imfreedom.org/t/pidgin-3-0-alpha-4-2-98-0-has-been-released/445)
+- **Source:** discourse.imfreedom.org | **Posted:** 2026-10-29 | **By:** grim
+- **Community:** 18 score, 4 comments on Lobsters
+- **Tags:** release
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/qsvspv/pidgin_3_0_alpha_4_2_98_0_has_been_released
+- **Link:** https://discourse.imfreedom.org/t/pidgin-3-0-alpha-4-2-98-0-has-been-released/445
+
 
 ## Career & Craft
 
