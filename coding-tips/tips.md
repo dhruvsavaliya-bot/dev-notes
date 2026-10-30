@@ -1315,6 +1315,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** I refresh LinkedIn and see another post: "Junior roles are dead." Another thread on Reddit: "AI is...
 - **Link:** https://dev.to/tlorent/junior-devs-arent-disappearing-theyre-just-getting-started-5fob
 
+**Added 2026-10-30**
+
+### [Missing My Coworker Jason Today](https://dev.to/antfarm-tech/missing-my-coworker-jason-today-23h3)
+- **Author:** Art light | **Published:** Mar 2 | **Read time:** 4 min
+- **Community:** 111 reactions, 17 comments -- a top post in #beginners
+- **Tags:** career, discuss, webdev, beginners
+- **Summary:** I was going to write something technical this week. Maybe about architecture patterns. Or why most...
+- **Link:** https://dev.to/antfarm-tech/missing-my-coworker-jason-today-23h3
+
 
 ## Show & Ask HN
 

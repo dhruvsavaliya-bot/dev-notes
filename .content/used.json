@@ -246,6 +246,7 @@
     "https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635",
     "https://dev.to/annavi11arrea1/sharing-dev-followers-count-on-github-profile-bj3",
     "https://dev.to/antfarm-tech/building-a-production-grade-ai-web-app-in-2026-architecture-trade-offs-and-hard-won-lessons-4llg",
+    "https://dev.to/antfarm-tech/missing-my-coworker-jason-today-23h3",
     "https://dev.to/antfarm-tech/your-microservices-arent-scalable-your-database-is-just-crying-mbd",
     "https://dev.to/astro-official/scraping-predictions-for-2026-agentic-workflow-and-ai-350m",
     "https://dev.to/aws-builders/ai-agent-governance-on-aws-block-agents-prove-eu-ai-act-compliance-1829",
@@ -2108,12 +2109,6 @@
     {
       "date": "2026-10-30",
       "subcat": "JavaScript",
-      "title": "YeJe-cpu/SeeCut",
-      "url": "https://github.com/YeJe-cpu/SeeCut"
-    },
-    {
-      "date": "2026-10-30",
-      "subcat": "JavaScript",
       "title": "Best Free APIs for Developers : The Complete...",
       "url": "https://dev.to/startupcafe/best-free-apis-for-developers-the-complete-categorized-list-27oc"
     },
@@ -2164,6 +2159,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Are you tired too in this AI era?",
       "url": "https://news.ycombinator.com/item?id=50301479"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Beginner",
+      "title": "Missing My Coworker Jason Today",
+      "url": "https://dev.to/antfarm-tech/missing-my-coworker-jason-today-23h3"
     }
   ]
 }
