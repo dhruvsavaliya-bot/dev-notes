@@ -991,6 +991,7 @@
     "https://huggingface.co/datasets/ShadenA/MathNet",
     "https://huggingface.co/datasets/Sharpa-Robotics/SharpaDex-v1.0",
     "https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro",
+    "https://huggingface.co/datasets/XDOF/ABC-130k",
     "https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss",
     "https://huggingface.co/datasets/ZefanCai/Open-Jev",
     "https://huggingface.co/datasets/a686d380/h-corpus-2023",
@@ -2116,12 +2117,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Lobsters Picks",
-      "title": "If you love a website, back it up",
-      "url": "https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Hacker News Picks",
       "title": "LLM Voice",
       "url": "https://news.ycombinator.com/item?id=50290177"
@@ -2173,6 +2168,12 @@
       "subcat": "Lobsters Picks",
       "title": "Backdoors in Claude Code for VS, Cursor official...",
       "url": "https://lobste.rs/s/ttp7aq/backdoors_claude_code_for_vs_cursor"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Models & Datasets",
+      "title": "XDOF/ABC-130k",
+      "url": "https://huggingface.co/datasets/XDOF/ABC-130k"
     }
   ]
 }

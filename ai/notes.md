@@ -2022,6 +2022,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/openbmb/UltraData-RL-2609
 
+**Added 2026-10-30**
+
+### [XDOF/ABC-130k](https://huggingface.co/datasets/XDOF/ABC-130k)
+- **Stats:** 142 likes | 265,096 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-06-15
+- **Tags:** robotics, manipulation, imitation-learning, bimanual, teleoperation, mcap
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/XDOF/ABC-130k
+
 
 ## Research Papers
 
