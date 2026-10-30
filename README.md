@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1509 entries and counting** · Last updated: 2026-10-31
+**1510 entries and counting** · Last updated: 2026-10-31
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 304 |
 | [AI / LLM Notes](ai/notes.md) | 305 |
-| [Reading List](articles/reading-list.md) | 304 |
+| [Reading List](articles/reading-list.md) | 305 |
 | [Coding Tips](coding-tips/tips.md) | 304 |
 | [Language Notes](languages/notes.md) | 292 |
 
 ## Latest additions
 
+- **2026-10-31** · *Hacker News Picks* — [GitHub Incident with Actions, Pages, and Webhooks](https://news.ycombinator.com/item?id=50307723)
 - **2026-10-31** · *Models & Datasets* — [Comfy-Org/MOSS-Image](https://huggingface.co/Comfy-Org/MOSS-Image)
 - **2026-10-31** · *AI & Machine Learning* — [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
 - **2026-10-31** · *Productivity* — [You're Not Lazy  You're Time Blind. Here's How Lock...](https://dev.to/harsh2644/youre-not-lazy-youre-time-blind-heres-how-lock-in-fixes-it-57ej)
 - **2026-10-31** · *Lobsters Picks* — [What the fox say?](https://lobste.rs/s/7qaac6/what_fox_say)
-- **2026-10-31** · *Computer Vision* — [Can AI Help in Crisis Moments? Building a Real-Time...](https://dev.to/yadav_singh_8b2d910255664/can-ai-help-in-crisis-moments-building-a-real-time-therapy-assistant-3m47)
 
 ## How it works
 
