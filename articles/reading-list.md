@@ -1991,6 +1991,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50296486
 - **Link:** https://labs.ycombinator.com/projects/games/index.html
 
+**Added 2026-10-30**
+
+### [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer)
+- **Source:** github.com | **Posted:** 2026-10-29 | **By:** airinei
+- **Community:** 262 points, 18 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50295450
+- **Link:** https://github.com/SheepSeb/tinyworldformer
+
 
 ## DevOps & Cloud
 
