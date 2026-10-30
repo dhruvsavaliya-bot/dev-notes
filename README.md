@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1504 entries and counting** · Last updated: 2026-10-31
+**1505 entries and counting** · Last updated: 2026-10-31
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 303 |
-| [AI / LLM Notes](ai/notes.md) | 303 |
+| [AI / LLM Notes](ai/notes.md) | 304 |
 | [Reading List](articles/reading-list.md) | 303 |
 | [Coding Tips](coding-tips/tips.md) | 303 |
 | [Language Notes](languages/notes.md) | 292 |
 
 ## Latest additions
 
+- **2026-10-31** · *Computer Vision* — [Can AI Help in Crisis Moments? Building a Real-Time...](https://dev.to/yadav_singh_8b2d910255664/can-ai-help-in-crisis-moments-building-a-real-time-therapy-assistant-3m47)
 - **2026-10-31** · *Lobsters Picks* — [Pidgin 3.0 Alpha 4 2.98.0 has been released](https://lobste.rs/s/qsvspv/pidgin_3_0_alpha_4_2_98_0_has_been_released)
 - **2026-10-30** · *Backend & Infrastructure* — [devmikets/hyperliquid-sdk](https://github.com/devmikets/hyperliquid-sdk)
 - **2026-10-30** · *Hacker News Picks* — [The $6.3B Binance Hack Was Pulled Off in Just 20...](https://news.ycombinator.com/item?id=50303172)
 - **2026-10-30** · *Models & Datasets* — [noitomrobotics/HiPHI](https://huggingface.co/datasets/noitomrobotics/HiPHI)
-- **2026-10-30** · *Lobsters Picks* — [London meetup](https://lobste.rs/s/dsrruj/london_meetup)
 
 ## How it works
 

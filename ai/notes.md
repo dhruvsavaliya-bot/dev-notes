@@ -2822,3 +2822,14 @@ Lessons from building with LLMs.
 - **Abstract:** In this short technical note, we outline how to bound numerical errors with respect to computational resources. We consider algorithms with known complexity estimates that can be executed in parallel and combine these estimates with parallelization laws. We suppose that the proposed approach generalizes beyond the presented examples and argue that it provides a straightforward and fair framework for comparing algorithms, hardware systems, and software implementations. This is achieved by imposin...
 - **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.35413v1
+
+## Computer Vision
+
+**Added 2026-10-31**
+
+### [Can AI Help in Crisis Moments? Building a Real-Time Therapy Assistant](https://dev.to/yadav_singh_8b2d910255664/can-ai-help-in-crisis-moments-building-a-real-time-therapy-assistant-3m47)
+- **Author:** Yadav Singh | **Published:** Mar 4 | **Read time:** 3 min
+- **Community:** 70 reactions, 2 comments -- a top post in #computervision
+- **Tags:** devchallenge, geminireflections, gemini, computervision
+- **Summary:** This is a submission for the Built with Google Gemini: Writing Challenge           What I Built with...
+- **Link:** https://dev.to/yadav_singh_8b2d910255664/can-ai-help-in-crisis-moments-building-a-real-time-therapy-assistant-3m47

@@ -413,6 +413,7 @@
     "https://dev.to/xulingfeng/stratagems-30-lena-signed-the-client-the-ai-didnt-know-it-was-being-audited-3985",
     "https://dev.to/xulingfeng/stratagems-9-lena-and-p-watched-two-ai-suppliers-fight-the-logs-said-neither-was-clean-2pj3",
     "https://dev.to/xulingfeng/two-weeks-in-a-15-year-qa-veteran-back-to-being-the-new-guy-39g3",
+    "https://dev.to/yadav_singh_8b2d910255664/can-ai-help-in-crisis-moments-building-a-real-time-therapy-assistant-3m47",
     "https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9",
     "https://devblogs.microsoft.com/typescript/typescript-native-port/",
     "https://developer.apple.com/news/?id=1ptvdtcm",
@@ -2127,12 +2128,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Hacker News Picks",
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "url": "https://news.ycombinator.com/item?id=50296486"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Lobsters Picks",
       "title": "Backdoors in Claude Code for VS, Cursor official...",
       "url": "https://lobste.rs/s/ttp7aq/backdoors_claude_code_for_vs_cursor"
@@ -2184,6 +2179,12 @@
       "subcat": "Lobsters Picks",
       "title": "Pidgin 3.0 Alpha 4 2.98.0 has been released",
       "url": "https://lobste.rs/s/qsvspv/pidgin_3_0_alpha_4_2_98_0_has_been_released"
+    },
+    {
+      "date": "2026-10-31",
+      "subcat": "Computer Vision",
+      "title": "Can AI Help in Crisis Moments? Building a Real-Time...",
+      "url": "https://dev.to/yadav_singh_8b2d910255664/can-ai-help-in-crisis-moments-building-a-real-time-therapy-assistant-3m47"
     }
   ]
 }
