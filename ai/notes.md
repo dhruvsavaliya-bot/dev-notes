@@ -483,6 +483,15 @@ Lessons from building with LLMs.
 - **Summary:** From Figma integrations to AI coding agents, here is how to choose the right tool for turning an...
 - **Link:** https://dev.to/devstackhub/i-compared-11-best-ai-design-to-code-tools-for-my-client-projects-4alo
 
+**Added 2026-10-30**
+
+### [Fine-Tuning Qwen3-8B with Tinker: From 50% to 76% Accuracy, and Burning Through My Budget](https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh)
+- **Author:** Daniel Balcarek | **Published:** Oct 18 | **Read time:** 10 min
+- **Community:** 99 reactions, 60 comments -- a top post in #ai
+- **Tags:** devchallenge, hf26challenge, ai, machinelearning
+- **Summary:** This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle  Oktoberfest?...
+- **Link:** https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh
+
 
 ## LLMs
 

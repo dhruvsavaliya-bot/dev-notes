@@ -281,6 +281,7 @@
     "https://dev.to/googleai/where-were-going-we-dont-need-chatbots-introducing-the-antigravity-ide-2c3k",
     "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i",
     "https://dev.to/gramli/api-performance-testing-how-to-design-realistic-tests-59gn",
+    "https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh",
     "https://dev.to/gramli/how-ai-endpoints-change-the-traditional-api-flow-3773",
     "https://dev.to/gramli/how-i-smashed-a-bug-in-a-shared-authentication-library-33fm",
     "https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l",
@@ -2090,12 +2091,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Swift",
-      "title": "omlahore/RemoveMacAI",
-      "url": "https://github.com/omlahore/RemoveMacAI"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "PHP",
       "title": "Borland Turbo Basic",
       "url": "https://news.ycombinator.com/item?id=49965894"
@@ -2147,6 +2142,12 @@
       "subcat": "Lobsters Picks",
       "title": "NetBSD adds a new Emacs-like text editor called atto",
       "url": "https://lobste.rs/s/m6fw0x/netbsd_adds_new_emacs_like_text_editor"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "AI Engineering",
+      "title": "Fine-Tuning Qwen3-8B with Tinker: From 50% to 76%...",
+      "url": "https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh"
     }
   ]
 }
