@@ -950,6 +950,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~6 stars/day since launch.
 - **Link:** https://github.com/nv-tlabs/PiD
 
+**Added 2026-10-30**
+
+### [How fast is Python 3.15?](https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15)
+- **Source:** blog.miguelgrinberg.com | **Posted:** 2026-10-06 | **By:** gnyeki
+- **Community:** 22 score, 7 comments on Lobsters
+- **Tags:** performance, python
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/se6wbx/how_fast_is_python_3_15
+- **Link:** https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15
+
 
 ## Go
 

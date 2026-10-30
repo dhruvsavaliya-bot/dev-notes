@@ -169,6 +169,7 @@
     "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/",
     "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
     "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
+    "https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15",
     "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
     "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
     "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
@@ -1264,6 +1265,7 @@
     "https://lobste.rs/s/rucvky/go_concurrency_distilled",
     "https://lobste.rs/s/rwdufq/anti_patterns_software_blogging",
     "https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on",
+    "https://lobste.rs/s/se6wbx/how_fast_is_python_3_15",
     "https://lobste.rs/s/sfdf3h/platform_independent_simd_go",
     "https://lobste.rs/s/sqftld/next_gen_borrow_checker_drop_replacement",
     "https://lobste.rs/s/sxlf4a/goodbye_google",
@@ -2084,12 +2086,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: A browser IDE for m68000, Z80 assembly (and...",
-      "url": "https://news.ycombinator.com/item?id=49608665"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "AI & Machine Learning",
       "title": "elstongun/leviathan",
       "url": "https://github.com/elstongun/leviathan"
@@ -2141,6 +2137,12 @@
       "subcat": "Models & Datasets",
       "title": "openbmb/UltraData-RL-2609",
       "url": "https://huggingface.co/datasets/openbmb/UltraData-RL-2609"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Python",
+      "title": "How fast is Python 3.15?",
+      "url": "https://lobste.rs/s/se6wbx/how_fast_is_python_3_15"
     }
   ]
 }
