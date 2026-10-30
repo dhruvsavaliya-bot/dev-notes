@@ -2146,6 +2146,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50200997
 - **Link:** https://news.ycombinator.com/item?id=50200997
 
+**Added 2026-10-30**
+
+### [Show HN: A browser IDE for m68000, Z80 assembly (and more), with graphics](https://asm-editor.specy.app/)
+- **Source:** asm-editor.specy.app | **Posted:** 2026-09-08 | **By:** specy
+- **Community:** 31 points, 3 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49608665
+- **Link:** https://asm-editor.specy.app/
+
 
 ## Git & Workflow
 

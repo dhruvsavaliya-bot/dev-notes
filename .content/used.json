@@ -137,6 +137,7 @@
     "https://arxiv.org/abs/2608.13759",
     "https://arxiv.org/abs/2608.23691",
     "https://arxiv.org/abs/2609.18842",
+    "https://asm-editor.specy.app/",
     "https://astral.sh/blog/tar-codec",
     "https://astral.sh/blog/uv-ty-integration",
     "https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/",
@@ -1607,6 +1608,7 @@
     "https://news.ycombinator.com/item?id=49587636",
     "https://news.ycombinator.com/item?id=49604861",
     "https://news.ycombinator.com/item?id=49604870",
+    "https://news.ycombinator.com/item?id=49608665",
     "https://news.ycombinator.com/item?id=49610181",
     "https://news.ycombinator.com/item?id=49610631",
     "https://news.ycombinator.com/item?id=49613262",
@@ -2069,12 +2071,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-29",
-      "subcat": "AI & Machine Learning",
-      "title": "vasu-devs/JustHireMe",
-      "url": "https://github.com/vasu-devs/JustHireMe"
-    },
-    {
       "date": "2026-10-30",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: If the models are so good, why doesn't OpenAI...",
@@ -2127,6 +2123,12 @@
       "subcat": "Swift",
       "title": "Muesli-HQ/muesli",
       "url": "https://github.com/Muesli-HQ/muesli"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: A browser IDE for m68000, Z80 assembly (and...",
+      "url": "https://news.ycombinator.com/item?id=49608665"
     }
   ]
 }
