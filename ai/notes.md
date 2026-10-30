@@ -2756,3 +2756,13 @@ Lessons from building with LLMs.
 - **Abstract:** Cybersecurity governance, risk management, compliance, and security architecture rely on numerous concepts, including security properties, domains, controls, risks, implementation measures, capabilities, and compliance requirements. Although these concepts are widely used, they are often represented through heterogeneous abstractions and vocabularies, making relationships among them difficult to express consistently and leaving much of the associated reasoning dependent on expert knowledge. This...
 - **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.35782v1
+
+**Added 2026-10-30**
+
+### [Should Pseudo-Labels Share Mini-Batches with Labeled Examples? Semi-Supervised Continual Active Learning with Limited Training Cost](http://arxiv.org/abs/2610.35345v1)
+- **Authors:** Shiqi Zhang, Tuomas Virtanen
+- **Published:** 2026-10-26 | **Primary category:** cs.LG
+- **Categories:** cs.LG, cs.AI, cs.SD, eess.AS
+- **Abstract:** Active learning (AL) reduces annotation by querying informative examples. Continual active learning (CAL) also cuts the training cost, the total number of gradient steps, by training one model across AL rounds with a fixed number of mini-batch steps per round. Pseudo-labels add supervision without annotation, but they increase training cost. In CAL, where every round trains on a fixed number of mini-batches, whether and how pseudo-labeled examples should share these mini-batches with labeled exa...
+- **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.35345v1

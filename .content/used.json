@@ -77,6 +77,7 @@
     "http://arxiv.org/abs/2610.32765v1",
     "http://arxiv.org/abs/2610.33318v1",
     "http://arxiv.org/abs/2610.35339v1",
+    "http://arxiv.org/abs/2610.35345v1",
     "http://arxiv.org/abs/2610.35782v1",
     "http://arxiv.org/abs/2610.36617v1",
     "http://arxiv.org/abs/2610.36717v1",
@@ -2073,12 +2074,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Hacker News Picks",
-      "title": "I went to Mexico to test-drive the cars Americans...",
-      "url": "https://news.ycombinator.com/item?id=50290668"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "AI Engineering",
       "title": "I Compared 11 Best AI Design-to-Code Tools for My...",
       "url": "https://dev.to/devstackhub/i-compared-11-best-ai-design-to-code-tools-for-my-client-projects-4alo"
@@ -2130,6 +2125,12 @@
       "subcat": "AI & Machine Learning",
       "title": "elstongun/leviathan",
       "url": "https://github.com/elstongun/leviathan"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Research Papers",
+      "title": "Should Pseudo-Labels Share Mini-Batches with Labeled...",
+      "url": "http://arxiv.org/abs/2610.35345v1"
     }
   ]
 }
