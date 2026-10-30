@@ -2784,3 +2784,13 @@ Lessons from building with LLMs.
 - **Abstract:** Active learning (AL) reduces annotation by querying informative examples. Continual active learning (CAL) also cuts the training cost, the total number of gradient steps, by training one model across AL rounds with a fixed number of mini-batch steps per round. Pseudo-labels add supervision without annotation, but they increase training cost. In CAL, where every round trains on a fixed number of mini-batches, whether and how pseudo-labeled examples should share these mini-batches with labeled exa...
 - **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.35345v1
+
+**Added 2026-10-30**
+
+### [Tracing Hallucinations in LLM Reasoning for UML Class Diagram Generation: An Empirical Taxonomy and Mitigation Study](http://arxiv.org/abs/2610.30946v1)
+- **Authors:** Mojdeh Rahmanian, Foutse Khomh, Ashkan Sami, Yanchao Yu
+- **Published:** 2026-10-22 | **Primary category:** cs.SE
+- **Categories:** cs.SE, cs.CL
+- **Abstract:** Large Language Models (LLMs) can generate UML class diagrams from natural language requirements, but hallucinations may compromise the correctness and completeness of the resulting diagrams. Existing evaluations mostly assess the final diagram, without examining the intermediate traces of reasoning-capable LLMs, which can reveal where these hallucinations arise. We develop an empirical taxonomy of eleven hallucination sub-types organised into three dimensions: Prompt Faithfulness (deviations bet...
+- **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.30946v1

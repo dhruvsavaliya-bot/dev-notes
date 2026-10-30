@@ -74,6 +74,7 @@
     "http://arxiv.org/abs/2610.29409v1",
     "http://arxiv.org/abs/2610.29518v1",
     "http://arxiv.org/abs/2610.30090v1",
+    "http://arxiv.org/abs/2610.30946v1",
     "http://arxiv.org/abs/2610.32765v1",
     "http://arxiv.org/abs/2610.33318v1",
     "http://arxiv.org/abs/2610.35339v1",
@@ -2101,12 +2102,6 @@
     {
       "date": "2026-10-30",
       "subcat": "Lobsters Picks",
-      "title": "My favourite PowerMac is a Nintendo Wii",
-      "url": "https://lobste.rs/s/siebde/my_favourite_powermac_is_nintendo_wii"
-    },
-    {
-      "date": "2026-10-30",
-      "subcat": "Lobsters Picks",
       "title": "NetBSD adds a new Emacs-like text editor called atto",
       "url": "https://lobste.rs/s/m6fw0x/netbsd_adds_new_emacs_like_text_editor"
     },
@@ -2157,6 +2152,12 @@
       "subcat": "Backend & Infrastructure",
       "title": "sivchari/kumo",
       "url": "https://github.com/sivchari/kumo"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Research Papers",
+      "title": "Tracing Hallucinations in LLM Reasoning for UML Class...",
+      "url": "http://arxiv.org/abs/2610.30946v1"
     }
   ]
 }
