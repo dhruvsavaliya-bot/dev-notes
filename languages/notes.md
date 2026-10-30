@@ -1205,6 +1205,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~17 stars/day since launch.
 - **Link:** https://github.com/p1neappleXpress/OpenFlux
 
+**Added 2026-10-30**
+
+### [jasonxu114514/opencode2api](https://github.com/jasonxu114514/opencode2api)
+- **Stats:** 1,359 stars | 234 forks | 26 open issues
+- **Language:** Go | **Created:** 2026-08-13 | **License:** GPL-3.0
+- **Topics:** none listed
+- **What it is:** A Go-based OpenCode Zen / Zen Go API proxy with OpenAI & Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI.
+- **Growth:** averaging ~17 stars/day since launch.
+- **Link:** https://github.com/jasonxu114514/opencode2api
+
 
 ## PHP
 

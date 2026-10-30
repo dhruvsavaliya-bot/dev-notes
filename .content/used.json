@@ -708,6 +708,7 @@
     "https://github.com/jaredpalmer/kev",
     "https://github.com/jaredpalmer/kev/tree/main",
     "https://github.com/jarrodwatts/jev-trader",
+    "https://github.com/jasonxu114514/opencode2api",
     "https://github.com/jbranchaud/til",
     "https://github.com/jeffhajewski/latticedb",
     "https://github.com/jev-chat/jev-chat-jarvis",
@@ -2091,12 +2092,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "PHP",
-      "title": "Borland Turbo Basic",
-      "url": "https://news.ycombinator.com/item?id=49965894"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Lobsters Picks",
       "title": "Shared password manager for families?",
       "url": "https://lobste.rs/s/eccbci/shared_password_manager_for_families"
@@ -2148,6 +2143,12 @@
       "subcat": "AI Engineering",
       "title": "Fine-Tuning Qwen3-8B with Tinker: From 50% to 76%...",
       "url": "https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Go",
+      "title": "jasonxu114514/opencode2api",
+      "url": "https://github.com/jasonxu114514/opencode2api"
     }
   ]
 }
