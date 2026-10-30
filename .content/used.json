@@ -1178,6 +1178,7 @@
     "https://lobste.rs/s/brrnpm/outside_scope_our_support",
     "https://lobste.rs/s/c0yniy/stalwart_v1_0_fastest_mail_server_on",
     "https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me",
+    "https://lobste.rs/s/cajuq6/python_s_experimental_jit_be_removed",
     "https://lobste.rs/s/ccnirb/there_are_only_twelve_4x4_sudokus_cool",
     "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your",
     "https://lobste.rs/s/ceuque/debian_code_search_fast_turbopfor_with_go",
@@ -1323,6 +1324,7 @@
     "https://lumi.codeberg.page/blog/software-community.html",
     "https://lwn.net/Articles/1086041/",
     "https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/",
+    "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
     "https://maevyn.codes/decoherence",
     "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
     "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
@@ -2095,12 +2097,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Hurston-1 open source TTS that speak...",
-      "url": "https://news.ycombinator.com/item?id=50227330"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Models & Datasets",
       "title": "openbmb/UltraData-RL-2609",
       "url": "https://huggingface.co/datasets/openbmb/UltraData-RL-2609"
@@ -2152,6 +2148,12 @@
       "subcat": "JavaScript",
       "title": "Best Free APIs for Developers : The Complete...",
       "url": "https://dev.to/startupcafe/best-free-apis-for-developers-the-complete-categorized-list-27oc"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Python",
+      "title": "Python's experimental JIT to be removed",
+      "url": "https://lobste.rs/s/cajuq6/python_s_experimental_jit_be_removed"
     }
   ]
 }

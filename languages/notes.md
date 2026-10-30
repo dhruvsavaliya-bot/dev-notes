@@ -979,6 +979,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/se6wbx/how_fast_is_python_3_15
 - **Link:** https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15
 
+**Added 2026-10-30**
+
+### [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
+- **Source:** lwn.net | **Posted:** 2026-10-27 | **By:** val
+- **Community:** 95 score, 32 comments on Lobsters
+- **Tags:** python
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/cajuq6/python_s_experimental_jit_be_removed
+- **Link:** https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/
+
 
 ## Go
 
