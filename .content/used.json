@@ -83,6 +83,7 @@
     "http://arxiv.org/abs/2610.36617v1",
     "http://arxiv.org/abs/2610.36717v1",
     "http://arxiv.org/abs/2610.37126v1",
+    "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
     "http://boglin.iwarp.com/",
     "http://bokeh.pydata.org/en/latest/",
@@ -1152,6 +1153,7 @@
     "https://lobste.rs/s/67ygvv/new_go_json_api_twice_as_fast_1_5x_slower",
     "https://lobste.rs/s/6laoto/road_iroh_1_0",
     "https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner",
+    "https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up",
     "https://lobste.rs/s/6syfar/what_if_my_git_host_were_static_site",
     "https://lobste.rs/s/6tbd2o/creusot_0_14_0_release_contracts_for_rust",
     "https://lobste.rs/s/6vjx1k/how_shredding_json_is_giving_logfire",
@@ -2101,12 +2103,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Lobsters Picks",
-      "title": "NetBSD adds a new Emacs-like text editor called atto",
-      "url": "https://lobste.rs/s/m6fw0x/netbsd_adds_new_emacs_like_text_editor"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "AI Engineering",
       "title": "Fine-Tuning Qwen3-8B with Tinker: From 50% to 76%...",
       "url": "https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh"
@@ -2158,6 +2154,12 @@
       "subcat": "Research Papers",
       "title": "Tracing Hallucinations in LLM Reasoning for UML Class...",
       "url": "http://arxiv.org/abs/2610.30946v1"
+    },
+    {
+      "date": "2026-10-30",
+      "subcat": "Lobsters Picks",
+      "title": "If you love a website, back it up",
+      "url": "https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up"
     }
   ]
 }

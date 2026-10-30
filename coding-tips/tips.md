@@ -2696,6 +2696,16 @@ And, lo and behold, the very same controller supplier is mentioned in both the e
 - **Discussion:** https://lobste.rs/s/siebde/my_favourite_powermac_is_nintendo_wii
 - **Link:** https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/
 
+**Added 2026-10-30**
+
+### [If you love a website, back it up](http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/)
+- **Source:** blog.mistys-internet.website | **Posted:** 2026-10-29 | **By:** calvin
+- **Community:** 28 score, 10 comments on Lobsters
+- **Tags:** web
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up
+- **Link:** http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/
+
 
 ## Career & Craft
 
