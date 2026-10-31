@@ -2352,6 +2352,15 @@ Snippets and gotchas across languages.
 - **Summary:** Nobody chooses .NET.  Not as a student, at least. You hear "backend" and the room splits into Spring...
 - **Link:** https://dev.to/dj29/the-stack-nobody-picks-might-be-the-one-that-picks-you-473c
 
+**Added 2026-10-31**
+
+### [C# now beats Rust on WASM size](https://github.com/zion-sati/NetWasm)
+- **Source:** github.com | **Posted:** 2026-10-21 | **By:** sumnole
+- **Community:** 161 points, 109 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50175510
+- **Link:** https://github.com/zion-sati/NetWasm
+
 
 ## C++
 

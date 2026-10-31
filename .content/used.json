@@ -922,6 +922,7 @@
     "https://github.com/zhu1090093659/dsh-web",
     "https://github.com/zhu1090093659/dsh-web-ui",
     "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
+    "https://github.com/zion-sati/NetWasm",
     "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
     "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
     "https://go.dev/blog/emudhra-incident",
@@ -1821,6 +1822,7 @@
     "https://news.ycombinator.com/item?id=50172041",
     "https://news.ycombinator.com/item?id=50174687",
     "https://news.ycombinator.com/item?id=50175070",
+    "https://news.ycombinator.com/item?id=50175510",
     "https://news.ycombinator.com/item?id=50176544",
     "https://news.ycombinator.com/item?id=50177911",
     "https://news.ycombinator.com/item?id=50180079",
@@ -2136,12 +2138,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Hacker News Picks",
-      "title": "The $6.3B Binance Hack Was Pulled Off in Just 20...",
-      "url": "https://news.ycombinator.com/item?id=50303172"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Backend & Infrastructure",
       "title": "devmikets/hyperliquid-sdk",
       "url": "https://github.com/devmikets/hyperliquid-sdk"
@@ -2193,6 +2189,12 @@
       "subcat": "Ruby",
       "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
       "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp"
+    },
+    {
+      "date": "2026-10-31",
+      "subcat": "C#",
+      "title": "C# now beats Rust on WASM size",
+      "url": "https://news.ycombinator.com/item?id=50175510"
     }
   ]
 }
