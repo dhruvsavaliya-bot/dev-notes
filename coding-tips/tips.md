@@ -2789,6 +2789,18 @@ Cheers!
 - **Discussion:** https://lobste.rs/s/qsvspv/pidgin_3_0_alpha_4_2_98_0_has_been_released
 - **Link:** https://discourse.imfreedom.org/t/pidgin-3-0-alpha-4-2-98-0-has-been-released/445
 
+**Added 2026-10-31**
+
+### [Rationale for filtering LLM usage links as off-topic](https://lobste.rs/s/spv7tb/rationale_for_filtering_llm_usage_links)
+- **Source:** lobste.rs | **Posted:** 2026-10-30 | **By:** facundoolano
+- **Community:** 16 score, 13 comments on Lobsters
+- **Tags:** ask, meta
+- **Summary:** Hi, I've been following recent moderation changes and the discussion around them. I understand that the vibecoding tag was conflating multiple meanings and uses, and how moving to the building-LLM-tooling makes it more precise for that subset of the discussion. I also see how people may be tired of the LLM discussion and want to completely filter out anything LLM related. 
+
+What I don't quite un...
+- **Discussion:** https://lobste.rs/s/spv7tb/rationale_for_filtering_llm_usage_links
+- **Link:** https://lobste.rs/s/spv7tb/rationale_for_filtering_llm_usage_links
+
 
 ## Career & Craft
 

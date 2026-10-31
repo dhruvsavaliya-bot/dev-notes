@@ -1314,6 +1314,7 @@
     "https://lobste.rs/s/se6wbx/how_fast_is_python_3_15",
     "https://lobste.rs/s/sfdf3h/platform_independent_simd_go",
     "https://lobste.rs/s/siebde/my_favourite_powermac_is_nintendo_wii",
+    "https://lobste.rs/s/spv7tb/rationale_for_filtering_llm_usage_links",
     "https://lobste.rs/s/sqftld/next_gen_borrow_checker_drop_replacement",
     "https://lobste.rs/s/sxlf4a/goodbye_google",
     "https://lobste.rs/s/ta2ojd/letter_from_machine_learning_engineer",
@@ -2160,12 +2161,6 @@
   "recent": [
     {
       "date": "2026-10-31",
-      "subcat": "Swift",
-      "title": "caezium/burrow",
-      "url": "https://github.com/caezium/burrow"
-    },
-    {
-      "date": "2026-10-31",
       "subcat": "Research Papers",
       "title": "Cross-modal Steering Vectors Exist Across Both Image...",
       "url": "http://arxiv.org/abs/2610.36269v1"
@@ -2217,6 +2212,12 @@
       "subcat": "Java",
       "title": "Study: Schoolwide phone bans show no significant...",
       "url": "https://news.ycombinator.com/item?id=50271521"
+    },
+    {
+      "date": "2026-10-31",
+      "subcat": "Lobsters Picks",
+      "title": "Rationale for filtering LLM usage links as off-topic",
+      "url": "https://lobste.rs/s/spv7tb/rationale_for_filtering_llm_usage_links"
     }
   ]
 }
