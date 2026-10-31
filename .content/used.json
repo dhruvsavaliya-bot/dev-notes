@@ -1345,6 +1345,7 @@
     "https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel",
     "https://lobste.rs/s/xpyahx/grubby_static_site_generator_for_git",
     "https://lobste.rs/s/xsz9sc/docker_is_weird",
+    "https://lobste.rs/s/xudbqx/no_npm_estee_is_not_typo_testem",
     "https://lobste.rs/s/xv6z4r/python_iceberg",
     "https://lobste.rs/s/xxdda9/what_are_you_doing_this_week",
     "https://lobste.rs/s/yczems/emacs_finally_folds_my_liking",
@@ -1965,6 +1966,7 @@
     "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
     "https://sjer.red/blog/2024-12-21/",
     "https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/",
+    "https://smoores.dev/post/no_npm_estee_is_not_a_typo/",
     "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
     "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
     "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
@@ -2155,12 +2157,6 @@
   "recent": [
     {
       "date": "2026-10-31",
-      "subcat": "Hacker News Picks",
-      "title": "Sleep framework: A new way for LLMs to retain...",
-      "url": "https://news.ycombinator.com/item?id=50272479"
-    },
-    {
-      "date": "2026-10-31",
       "subcat": "Other Cool Projects",
       "title": "kitsumed/ShizuCallRecorder",
       "url": "https://github.com/kitsumed/ShizuCallRecorder"
@@ -2212,6 +2208,12 @@
       "subcat": "Python",
       "title": "GordenSun/GordenPPTSkill",
       "url": "https://github.com/GordenSun/GordenPPTSkill"
+    },
+    {
+      "date": "2026-10-31",
+      "subcat": "JavaScript",
+      "title": "No, npm, estee is not a typo of testem",
+      "url": "https://lobste.rs/s/xudbqx/no_npm_estee_is_not_typo_testem"
     }
   ]
 }

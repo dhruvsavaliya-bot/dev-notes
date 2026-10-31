@@ -436,6 +436,16 @@ Snippets and gotchas across languages.
 - **Summary:** You do not need a credit card or a big budget to build real software in 2026. This guide rounds up...
 - **Link:** https://dev.to/startupcafe/best-free-apis-for-developers-the-complete-categorized-list-27oc
 
+**Added 2026-10-31**
+
+### [No, npm, “estee” is not a typo of “testem”](https://smoores.dev/post/no_npm_estee_is_not_a_typo/)
+- **Source:** smoores.dev | **Posted:** 2026-10-30 | **By:** smoores
+- **Community:** 33 score, 19 comments on Lobsters
+- **Tags:** javascript
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/xudbqx/no_npm_estee_is_not_typo_testem
+- **Link:** https://smoores.dev/post/no_npm_estee_is_not_a_typo/
+
 
 ## TypeScript
 
