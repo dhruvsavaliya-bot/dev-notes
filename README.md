@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1523 entries and counting** · Last updated: 2026-10-31
+**1524 entries and counting** · Last updated: 2026-10-31
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 306 |
 | [Reading List](articles/reading-list.md) | 307 |
 | [Coding Tips](coding-tips/tips.md) | 306 |
-| [Language Notes](languages/notes.md) | 298 |
+| [Language Notes](languages/notes.md) | 299 |
 
 ## Latest additions
 
+- **2026-10-31** · *Python* — [GordenSun/GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill)
 - **2026-10-31** · *Lobsters Picks* — [Real TIme Garbage Collector](https://lobste.rs/s/w0qpxu/real_time_garbage_collector)
 - **2026-10-31** · *Go* — [noalloc: Tooling and libraries to enforce zero heap...](https://news.ycombinator.com/item?id=50278645)
 - **2026-10-31** · *Show & Ask HN* — [Show HN: I Turned DOOM into a Transformer](https://news.ycombinator.com/item?id=50297697)
 - **2026-10-31** · *TypeScript* — [makecindy/cindy](https://github.com/makecindy/cindy)
-- **2026-10-31** · *Research Papers* — [Cross-modal Steering Vectors Exist Across Both Image...](http://arxiv.org/abs/2610.36269v1)
 
 ## How it works
 

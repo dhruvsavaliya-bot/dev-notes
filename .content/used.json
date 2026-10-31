@@ -507,6 +507,7 @@
     "https://github.com/FlashML-org/FreeVideo",
     "https://github.com/Flow-Tube/Flow",
     "https://github.com/GMGNAI/gmgn-skills",
+    "https://github.com/GordenSun/GordenPPTSkill",
     "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
     "https://github.com/HKUDS/CLI-Anything",
     "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
@@ -2154,12 +2155,6 @@
   "recent": [
     {
       "date": "2026-10-31",
-      "subcat": "Show & Ask HN",
-      "title": "Tell HN: Scribd Breached",
-      "url": "https://news.ycombinator.com/item?id=50312756"
-    },
-    {
-      "date": "2026-10-31",
       "subcat": "Hacker News Picks",
       "title": "Sleep framework: A new way for LLMs to retain...",
       "url": "https://news.ycombinator.com/item?id=50272479"
@@ -2211,6 +2206,12 @@
       "subcat": "Lobsters Picks",
       "title": "Real TIme Garbage Collector",
       "url": "https://lobste.rs/s/w0qpxu/real_time_garbage_collector"
+    },
+    {
+      "date": "2026-10-31",
+      "subcat": "Python",
+      "title": "GordenSun/GordenPPTSkill",
+      "url": "https://github.com/GordenSun/GordenPPTSkill"
     }
   ]
 }

@@ -999,6 +999,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/cajuq6/python_s_experimental_jit_be_removed
 - **Link:** https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/
 
+**Added 2026-10-31**
+
+### [GordenSun/GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill)
+- **Stats:** 3,837 stars | 371 forks | 0 open issues
+- **Language:** Python | **Created:** 2026-05-27 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.
+- **Growth:** averaging ~24 stars/day since launch.
+- **Link:** https://github.com/GordenSun/GordenPPTSkill
+
 
 ## Go
 
