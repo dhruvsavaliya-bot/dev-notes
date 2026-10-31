@@ -510,6 +510,7 @@
     "https://github.com/Flow-Tube/Flow",
     "https://github.com/GMGNAI/gmgn-skills",
     "https://github.com/GordenSun/GordenPPTSkill",
+    "https://github.com/Graphicle-AI/graphicle",
     "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
     "https://github.com/HKUDS/CLI-Anything",
     "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
@@ -2164,12 +2165,6 @@
   "recent": [
     {
       "date": "2026-10-31",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: I Turned DOOM into a Transformer",
-      "url": "https://news.ycombinator.com/item?id=50297697"
-    },
-    {
-      "date": "2026-10-31",
       "subcat": "Go",
       "title": "noalloc: Tooling and libraries to enforce zero heap...",
       "url": "https://news.ycombinator.com/item?id=50278645"
@@ -2221,6 +2216,12 @@
       "subcat": "Lobsters Picks",
       "title": "Switch lowering in GCC",
       "url": "https://lobste.rs/s/ncclwy/switch_lowering_gcc"
+    },
+    {
+      "date": "2026-10-31",
+      "subcat": "AI & Machine Learning",
+      "title": "Graphicle-AI/graphicle",
+      "url": "https://github.com/Graphicle-AI/graphicle"
     }
   ]
 }

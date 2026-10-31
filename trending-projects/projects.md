@@ -1374,6 +1374,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~301 stars/day since launch.
 - **Link:** https://github.com/rtk-ai/rtk
 
+**Added 2026-10-31**
+
+### [Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle)
+- **Stats:** 483 stars | 34 forks | 3 open issues
+- **Language:** Rust | **Created:** 2026-10-14 | **License:** Apache-2.0
+- **Topics:** agent-memory, ai-agents, claude-code, code-analysis, code-graph, code-intelligence
+- **What it is:** Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.
+- **Growth:** averaging ~28 stars/day since launch.
+- **Link:** https://github.com/Graphicle-AI/graphicle
+
 
 ## Other Cool Projects
 
