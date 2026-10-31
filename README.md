@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1532 entries and counting** · Last updated: 2026-11-01
+**1533 entries and counting** · Last updated: 2026-11-01
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 307 |
 | [Reading List](articles/reading-list.md) | 308 |
 | [Coding Tips](coding-tips/tips.md) | 307 |
-| [Language Notes](languages/notes.md) | 302 |
+| [Language Notes](languages/notes.md) | 303 |
 
 ## Latest additions
 
+- **2026-11-01** · *Java* — [How hard is it to check for whitespace?](https://lobste.rs/s/1pmuy7/how_hard_is_it_check_for_whitespace)
 - **2026-11-01** · *TypeScript* — [ling-stack-org/ling-stack](https://github.com/ling-stack-org/ling-stack)
 - **2026-10-31** · *AI & Machine Learning* — [Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle)
 - **2026-10-31** · *Lobsters Picks* — [Switch lowering in GCC](https://lobste.rs/s/ncclwy/switch_lowering_gcc)
 - **2026-10-31** · *Research Papers* — [Revisiting Soundness for Occurrence Typing...](http://arxiv.org/abs/2609.16299v1)
-- **2026-10-31** · *Lobsters Picks* — [Rationale for filtering LLM usage links as off-topic](https://lobste.rs/s/spv7tb/rationale_for_filtering_llm_usage_links)
 
 ## How it works
 

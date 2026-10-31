@@ -2949,3 +2949,13 @@ Snippets and gotchas across languages.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=50271521
 - **Link:** https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855858
+
+**Added 2026-11-01**
+
+### [How hard is it to check for whitespace?](https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace)
+- **Source:** serce.me | **Posted:** 2026-10-30 | **By:** serce
+- **Community:** 41 score, 9 comments on Lobsters
+- **Tags:** java, performance
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/1pmuy7/how_hard_is_it_check_for_whitespace
+- **Link:** https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace
