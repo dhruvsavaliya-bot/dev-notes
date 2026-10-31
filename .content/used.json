@@ -764,6 +764,7 @@
     "https://github.com/laramint/laravel-brain",
     "https://github.com/lgse/strata",
     "https://github.com/liangxiegame/QFramework",
+    "https://github.com/ling-stack-org/ling-stack",
     "https://github.com/lingyired/status-trio",
     "https://github.com/lnkiai/m3e-canvas",
     "https://github.com/loopx-project/loopx",
@@ -2165,12 +2166,6 @@
   "recent": [
     {
       "date": "2026-10-31",
-      "subcat": "Go",
-      "title": "noalloc: Tooling and libraries to enforce zero heap...",
-      "url": "https://news.ycombinator.com/item?id=50278645"
-    },
-    {
-      "date": "2026-10-31",
       "subcat": "Lobsters Picks",
       "title": "Real TIme Garbage Collector",
       "url": "https://lobste.rs/s/w0qpxu/real_time_garbage_collector"
@@ -2222,6 +2217,12 @@
       "subcat": "AI & Machine Learning",
       "title": "Graphicle-AI/graphicle",
       "url": "https://github.com/Graphicle-AI/graphicle"
+    },
+    {
+      "date": "2026-11-01",
+      "subcat": "TypeScript",
+      "title": "ling-stack-org/ling-stack",
+      "url": "https://github.com/ling-stack-org/ling-stack"
     }
   ]
 }

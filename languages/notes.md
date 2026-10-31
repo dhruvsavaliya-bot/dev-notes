@@ -666,6 +666,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~86 stars/day since launch.
 - **Link:** https://github.com/makecindy/cindy
 
+**Added 2026-11-01**
+
+### [ling-stack-org/ling-stack](https://github.com/ling-stack-org/ling-stack)
+- **Stats:** 992 stars | 114 forks | 2 open issues
+- **Language:** TypeScript | **Created:** 2026-05-20 | **License:** MIT
+- **Topics:** agent, agent-orchestration, agent-skills, agentic-ai, ai, ai-agents
+- **What it is:** Local-first AI teammate workspace. Bring your own models and keep project conversations, tool approvals, and results together.
+- **Growth:** averaging ~6 stars/day since launch.
+- **Link:** https://github.com/ling-stack-org/ling-stack
+
 
 ## Python
 
