@@ -2930,3 +2930,12 @@ Snippets and gotchas across languages.
 - **What it is:** DataBuff is an AI-native APM built on Opentelemetry，with multi-agent troubleshooting out of the box.
 - **Growth:** averaging ~5 stars/day since launch.
 - **Link:** https://github.com/databufflabs/databuff
+
+**Added 2026-10-31**
+
+### [Study: Schoolwide phone bans show no significant impact on mental health](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855858)
+- **Source:** jamanetwork.com | **Posted:** 2026-10-28 | **By:** giuliomagnifico
+- **Community:** 81 points, 71 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50271521
+- **Link:** https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855858

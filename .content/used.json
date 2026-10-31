@@ -1125,6 +1125,7 @@
     "https://imaginationlibrary.com/",
     "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
     "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+    "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855858",
     "https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/",
     "https://jelly-ui.com/",
     "https://jellyfin.org/posts/jellyfin-release-12.0/",
@@ -1866,6 +1867,7 @@
     "https://news.ycombinator.com/item?id=50243060",
     "https://news.ycombinator.com/item?id=50264853",
     "https://news.ycombinator.com/item?id=50264857",
+    "https://news.ycombinator.com/item?id=50271521",
     "https://news.ycombinator.com/item?id=50271640",
     "https://news.ycombinator.com/item?id=50272479",
     "https://news.ycombinator.com/item?id=50273396",
@@ -2159,12 +2161,6 @@
     {
       "date": "2026-10-31",
       "subcat": "Swift",
-      "title": "Switzerland. Block by block. At 1:1 scale",
-      "url": "https://news.ycombinator.com/item?id=50240922"
-    },
-    {
-      "date": "2026-10-31",
-      "subcat": "Swift",
       "title": "caezium/burrow",
       "url": "https://github.com/caezium/burrow"
     },
@@ -2215,6 +2211,12 @@
       "subcat": "Other Cool Projects",
       "title": "Droid-Deck/DroidDeck",
       "url": "https://github.com/Droid-Deck/DroidDeck"
+    },
+    {
+      "date": "2026-10-31",
+      "subcat": "Java",
+      "title": "Study: Schoolwide phone bans show no significant...",
+      "url": "https://news.ycombinator.com/item?id=50271521"
     }
   ]
 }
