@@ -1891,6 +1891,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50087328
 - **Link:** https://www.admin.ch/en/newnsb/NMn5s24l8NjQ
 
+**Added 2026-10-31**
+
+### [Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/)
+- **Source:** blocks.manifold3d.ch | **Posted:** 2026-10-26 | **By:** theanonymousone
+- **Community:** 484 points, 221 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50240922
+- **Link:** https://blocks.manifold3d.ch/
+
 
 ## Rust
 

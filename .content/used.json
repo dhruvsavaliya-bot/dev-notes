@@ -155,6 +155,7 @@
     "https://betterwispr.com/",
     "https://bevy.org/news/bevy-0-20/",
     "https://binaryigor.com/sqlite-db-simple-in-process-reliable-fast.html",
+    "https://blocks.manifold3d.ch/",
     "https://blog.calif.io/p/iphone",
     "https://blog.cloudflare.com/kitesurf/",
     "https://blog.cloudflare.com/typescript-rust-port/",
@@ -1849,6 +1850,7 @@
     "https://news.ycombinator.com/item?id=50233929",
     "https://news.ycombinator.com/item?id=50234474",
     "https://news.ycombinator.com/item?id=50236102",
+    "https://news.ycombinator.com/item?id=50240922",
     "https://news.ycombinator.com/item?id=50241664",
     "https://news.ycombinator.com/item?id=50242939",
     "https://news.ycombinator.com/item?id=50243060",
@@ -2143,12 +2145,6 @@
   "recent": [
     {
       "date": "2026-10-31",
-      "subcat": "Productivity",
-      "title": "You're Not Lazy  You're Time Blind. Here's How Lock...",
-      "url": "https://dev.to/harsh2644/youre-not-lazy-youre-time-blind-heres-how-lock-in-fixes-it-57ej"
-    },
-    {
-      "date": "2026-10-31",
       "subcat": "AI & Machine Learning",
       "title": "rtk-ai/rtk",
       "url": "https://github.com/rtk-ai/rtk"
@@ -2200,6 +2196,12 @@
       "subcat": "Other Cool Projects",
       "title": "kitsumed/ShizuCallRecorder",
       "url": "https://github.com/kitsumed/ShizuCallRecorder"
+    },
+    {
+      "date": "2026-10-31",
+      "subcat": "Swift",
+      "title": "Switzerland. Block by block. At 1:1 scale",
+      "url": "https://news.ycombinator.com/item?id=50240922"
     }
   ]
 }
