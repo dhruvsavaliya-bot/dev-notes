@@ -1862,6 +1862,7 @@
     "https://news.ycombinator.com/item?id=50301479",
     "https://news.ycombinator.com/item?id=50303172",
     "https://news.ycombinator.com/item?id=50307723",
+    "https://news.ycombinator.com/item?id=50312756",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2139,12 +2140,6 @@
   "recent": [
     {
       "date": "2026-10-31",
-      "subcat": "Lobsters Picks",
-      "title": "Pidgin 3.0 Alpha 4 2.98.0 has been released",
-      "url": "https://lobste.rs/s/qsvspv/pidgin_3_0_alpha_4_2_98_0_has_been_released"
-    },
-    {
-      "date": "2026-10-31",
       "subcat": "Computer Vision",
       "title": "Can AI Help in Crisis Moments? Building a Real-Time...",
       "url": "https://dev.to/yadav_singh_8b2d910255664/can-ai-help-in-crisis-moments-building-a-real-time-therapy-assistant-3m47"
@@ -2196,6 +2191,12 @@
       "subcat": "Other Cool Projects",
       "title": "agupta07505/SmartIsland",
       "url": "https://github.com/agupta07505/SmartIsland"
+    },
+    {
+      "date": "2026-10-31",
+      "subcat": "Show & Ask HN",
+      "title": "Tell HN: Scribd Breached",
+      "url": "https://news.ycombinator.com/item?id=50312756"
     }
   ]
 }
