@@ -778,6 +778,7 @@
     "https://github.com/mlc-ai/web-llm",
     "https://github.com/mmparko/dsh-purge",
     "https://github.com/morganlinton/BeautifulRust",
+    "https://github.com/mottopanikeiku/doomformer",
     "https://github.com/mshumer/Claude-of-Duty",
     "https://github.com/nano-muse/nanoMuse",
     "https://github.com/nateherkai/scroll-craft",
@@ -1866,6 +1867,7 @@
     "https://news.ycombinator.com/item?id=50290668",
     "https://news.ycombinator.com/item?id=50295450",
     "https://news.ycombinator.com/item?id=50296486",
+    "https://news.ycombinator.com/item?id=50297697",
     "https://news.ycombinator.com/item?id=50301479",
     "https://news.ycombinator.com/item?id=50303172",
     "https://news.ycombinator.com/item?id=50307723",
@@ -2148,12 +2150,6 @@
   "recent": [
     {
       "date": "2026-10-31",
-      "subcat": "Ruby",
-      "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
-      "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp"
-    },
-    {
-      "date": "2026-10-31",
       "subcat": "C#",
       "title": "C# now beats Rust on WASM size",
       "url": "https://news.ycombinator.com/item?id=50175510"
@@ -2205,6 +2201,12 @@
       "subcat": "TypeScript",
       "title": "makecindy/cindy",
       "url": "https://github.com/makecindy/cindy"
+    },
+    {
+      "date": "2026-10-31",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: I Turned DOOM into a Transformer",
+      "url": "https://news.ycombinator.com/item?id=50297697"
     }
   ]
 }

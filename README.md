@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1520 entries and counting** · Last updated: 2026-10-31
+**1521 entries and counting** · Last updated: 2026-10-31
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 306 |
 | [AI / LLM Notes](ai/notes.md) | 306 |
 | [Reading List](articles/reading-list.md) | 306 |
-| [Coding Tips](coding-tips/tips.md) | 305 |
+| [Coding Tips](coding-tips/tips.md) | 306 |
 | [Language Notes](languages/notes.md) | 297 |
 
 ## Latest additions
 
+- **2026-10-31** · *Show & Ask HN* — [Show HN: I Turned DOOM into a Transformer](https://news.ycombinator.com/item?id=50297697)
 - **2026-10-31** · *TypeScript* — [makecindy/cindy](https://github.com/makecindy/cindy)
 - **2026-10-31** · *Research Papers* — [Cross-modal Steering Vectors Exist Across Both Image...](http://arxiv.org/abs/2610.36269v1)
 - **2026-10-31** · *Swift* — [caezium/burrow](https://github.com/caezium/burrow)
 - **2026-10-31** · *Swift* — [Switzerland. Block by block. At 1:1 scale](https://news.ycombinator.com/item?id=50240922)
-- **2026-10-31** · *Other Cool Projects* — [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder)
 
 ## How it works
 

@@ -2200,6 +2200,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50312756
 - **Link:** https://news.ycombinator.com/item?id=50312756
 
+**Added 2026-10-31**
+
+### [Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer)
+- **Source:** github.com | **Posted:** 2026-10-29 | **By:** falperc
+- **Community:** 126 points, 35 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50297697
+- **Link:** https://github.com/mottopanikeiku/doomformer
+
 
 ## Git & Workflow
 
