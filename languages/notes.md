@@ -1900,6 +1900,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50240922
 - **Link:** https://blocks.manifold3d.ch/
 
+**Added 2026-10-31**
+
+### [caezium/burrow](https://github.com/caezium/burrow)
+- **Stats:** 1,616 stars | 181 forks | 103 open issues
+- **Language:** Swift | **Created:** 2026-05-31 | **License:** MIT
+- **Topics:** cleaner, disk-usage, macos, mcp, menubar, mole
+- **What it is:** 🐹 Cleanup, app management, maintenance, disk analysis, and live status in one free, open-source, native Mac app + extensive support for AI agents.
+- **Growth:** averaging ~10 stars/day since launch.
+- **Link:** https://github.com/caezium/burrow
+
 
 ## Rust
 

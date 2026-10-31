@@ -657,6 +657,7 @@
     "https://github.com/browser-use/jev-ultrafast",
     "https://github.com/bryanthaboi/gen1recomp",
     "https://github.com/builtbybel/FluentTweaker",
+    "https://github.com/caezium/burrow",
     "https://github.com/carloslfu/slotstream",
     "https://github.com/ccch1mneyyy/dsh-TUI",
     "https://github.com/cdyforever/how-to-live-better",
@@ -2145,12 +2146,6 @@
   "recent": [
     {
       "date": "2026-10-31",
-      "subcat": "AI & Machine Learning",
-      "title": "rtk-ai/rtk",
-      "url": "https://github.com/rtk-ai/rtk"
-    },
-    {
-      "date": "2026-10-31",
       "subcat": "Models & Datasets",
       "title": "Comfy-Org/MOSS-Image",
       "url": "https://huggingface.co/Comfy-Org/MOSS-Image"
@@ -2202,6 +2197,12 @@
       "subcat": "Swift",
       "title": "Switzerland. Block by block. At 1:1 scale",
       "url": "https://news.ycombinator.com/item?id=50240922"
+    },
+    {
+      "date": "2026-10-31",
+      "subcat": "Swift",
+      "title": "caezium/burrow",
+      "url": "https://github.com/caezium/burrow"
     }
   ]
 }
