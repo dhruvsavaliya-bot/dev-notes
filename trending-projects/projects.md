@@ -2617,6 +2617,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/agupta07505/SmartIsland
 
+**Added 2026-10-31**
+
+### [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder)
+- **Stats:** 1,955 stars | 81 forks | 18 open issues
+- **Language:** Kotlin | **Created:** 2026-05-14 | **License:** GPL-3.0
+- **Topics:** adb, android, call-recorder, call-recording, callrecorder, no-root
+- **What it is:** ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device!
+- **Growth:** averaging ~11 stars/day since launch.
+- **Link:** https://github.com/kitsumed/ShizuCallRecorder
+
 
 ## Web & Frontend
 

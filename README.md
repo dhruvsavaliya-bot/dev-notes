@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1515 entries and counting** · Last updated: 2026-10-31
+**1516 entries and counting** · Last updated: 2026-10-31
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 305 |
+| [Trending Projects](trending-projects/projects.md) | 306 |
 | [AI / LLM Notes](ai/notes.md) | 305 |
 | [Reading List](articles/reading-list.md) | 306 |
 | [Coding Tips](coding-tips/tips.md) | 305 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-10-31** · *Other Cool Projects* — [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder)
 - **2026-10-31** · *Hacker News Picks* — [Sleep framework: A new way for LLMs to retain...](https://news.ycombinator.com/item?id=50272479)
 - **2026-10-31** · *Show & Ask HN* — [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)
 - **2026-10-31** · *Other Cool Projects* — [agupta07505/SmartIsland](https://github.com/agupta07505/SmartIsland)
 - **2026-10-31** · *C#* — [C# now beats Rust on WASM size](https://news.ycombinator.com/item?id=50175510)
-- **2026-10-31** · *Ruby* — [Should RubyGems/Bundler Have a Cooldown Feature?](https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp)
 
 ## How it works
 
