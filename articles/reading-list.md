@@ -2819,6 +2819,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/7qaac6/what_fox_say
 - **Link:** https://entropicthoughts.com/what-the-fox-say
 
+**Added 2026-10-31**
+
+### [Real TIme Garbage Collector](http://realtimegarbagecollector.com/)
+- **Source:** realtimegarbagecollector.com | **Posted:** 2017-02-09 | **By:** varjag
+- **Community:** 19 score, 2 comments on Lobsters
+- **Tags:** compsci, programming
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/w0qpxu/real_time_garbage_collector
+- **Link:** http://realtimegarbagecollector.com/
+
 
 ## Performance
 

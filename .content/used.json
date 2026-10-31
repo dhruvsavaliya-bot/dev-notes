@@ -98,6 +98,7 @@
     "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
     "http://php.net/releases/7_2_0.php",
     "http://prooffreaderplus.blogspot.com/2014/11/top-10-python-idioms-i-wished-id.html",
+    "http://realtimegarbagecollector.com/",
     "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
     "http://spotthedrowningchild.com",
     "http://www.ianlandsman.com/2012/02/22/laravel",
@@ -1330,6 +1331,7 @@
     "https://lobste.rs/s/vulvk7/wild_version_0_11_0_released",
     "https://lobste.rs/s/vwgrix/new_way_think_about_borrow_checking",
     "https://lobste.rs/s/vyfegx/what_are_you_doing_this_week",
+    "https://lobste.rs/s/w0qpxu/real_time_garbage_collector",
     "https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice",
     "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed",
     "https://lobste.rs/s/whzj8z/jep_544_ahead_time_code_compilation",
@@ -2152,12 +2154,6 @@
   "recent": [
     {
       "date": "2026-10-31",
-      "subcat": "Other Cool Projects",
-      "title": "agupta07505/SmartIsland",
-      "url": "https://github.com/agupta07505/SmartIsland"
-    },
-    {
-      "date": "2026-10-31",
       "subcat": "Show & Ask HN",
       "title": "Tell HN: Scribd Breached",
       "url": "https://news.ycombinator.com/item?id=50312756"
@@ -2209,6 +2205,12 @@
       "subcat": "Go",
       "title": "noalloc: Tooling and libraries to enforce zero heap...",
       "url": "https://news.ycombinator.com/item?id=50278645"
+    },
+    {
+      "date": "2026-10-31",
+      "subcat": "Lobsters Picks",
+      "title": "Real TIme Garbage Collector",
+      "url": "https://lobste.rs/s/w0qpxu/real_time_garbage_collector"
     }
   ]
 }
