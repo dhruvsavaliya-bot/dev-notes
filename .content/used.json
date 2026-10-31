@@ -611,6 +611,7 @@
     "https://github.com/adityatandon15/Spring-Framework-Full-Course",
     "https://github.com/adonis-singh/re4",
     "https://github.com/agno-agi/agno",
+    "https://github.com/agupta07505/SmartIsland",
     "https://github.com/ahmetomerv/photoc",
     "https://github.com/ai-sucks-butt/ai-sucks-butt",
     "https://github.com/air-embodied-brain/Zetta-Embodiment",
@@ -2137,12 +2138,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-30",
-      "subcat": "Backend & Infrastructure",
-      "title": "devmikets/hyperliquid-sdk",
-      "url": "https://github.com/devmikets/hyperliquid-sdk"
-    },
-    {
       "date": "2026-10-31",
       "subcat": "Lobsters Picks",
       "title": "Pidgin 3.0 Alpha 4 2.98.0 has been released",
@@ -2195,6 +2190,12 @@
       "subcat": "C#",
       "title": "C# now beats Rust on WASM size",
       "url": "https://news.ycombinator.com/item?id=50175510"
+    },
+    {
+      "date": "2026-10-31",
+      "subcat": "Other Cool Projects",
+      "title": "agupta07505/SmartIsland",
+      "url": "https://github.com/agupta07505/SmartIsland"
     }
   ]
 }

@@ -2607,6 +2607,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~46 stars/day since launch.
 - **Link:** https://github.com/deepfounder-ai/desigma
 
+**Added 2026-10-31**
+
+### [agupta07505/SmartIsland](https://github.com/agupta07505/SmartIsland)
+- **Stats:** 362 stars | 54 forks | 53 open issues
+- **Language:** Kotlin | **Created:** 2026-07-02 | **License:** GPL-3.0
+- **Topics:** android, app-development, dynamic-island, dynamicisland, hyper-island, kotlin
+- **What it is:** Smart Island is a modern, open-source implementation of Android's Dynamic Island experience. It transforms notifications, media playback, incoming calls, timers, charging status, and other live activities into a beautiful floating island with smooth animations and a premium user experience.
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/agupta07505/SmartIsland
+
 
 ## Web & Frontend
 
