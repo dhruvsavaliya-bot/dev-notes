@@ -311,6 +311,7 @@
     "https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh",
     "https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al",
     "https://dev.to/hemapriya_kanagala/what-would-you-tell-someone-early-in-their-career-1k76",
+    "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
     "https://dev.to/infoinlet1/i-let-ai-write-100-of-my-code-for-30-days-heres-what-broke-1aa0",
     "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da",
     "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3",
@@ -2135,12 +2136,6 @@
   "recent": [
     {
       "date": "2026-10-30",
-      "subcat": "Models & Datasets",
-      "title": "noitomrobotics/HiPHI",
-      "url": "https://huggingface.co/datasets/noitomrobotics/HiPHI"
-    },
-    {
-      "date": "2026-10-30",
       "subcat": "Hacker News Picks",
       "title": "The $6.3B Binance Hack Was Pulled Off in Just 20...",
       "url": "https://news.ycombinator.com/item?id=50303172"
@@ -2192,6 +2187,12 @@
       "subcat": "Hacker News Picks",
       "title": "GitHub Incident with Actions, Pages, and Webhooks",
       "url": "https://news.ycombinator.com/item?id=50307723"
+    },
+    {
+      "date": "2026-10-31",
+      "subcat": "Ruby",
+      "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
+      "url": "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp"
     }
   ]
 }

@@ -1632,6 +1632,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat
 - **Link:** https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat
 
+**Added 2026-10-31**
+
+### [Should RubyGems/Bundler Have a Cooldown Feature?](https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp)
+- **Author:** SHIBATA Hiroshi | **Published:** Mar 19 | **Read time:** 4 min
+- **Community:** 50 reactions, 5 comments -- a top post in #ruby
+- **Tags:** ruby, security, supplychainsecurity, packaging
+- **Summary:** I'm Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...
+- **Link:** https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp
+
 
 ## Swift
 

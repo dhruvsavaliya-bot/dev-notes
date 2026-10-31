@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1510 entries and counting** · Last updated: 2026-10-31
+**1511 entries and counting** · Last updated: 2026-10-31
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 305 |
 | [Reading List](articles/reading-list.md) | 305 |
 | [Coding Tips](coding-tips/tips.md) | 304 |
-| [Language Notes](languages/notes.md) | 292 |
+| [Language Notes](languages/notes.md) | 293 |
 
 ## Latest additions
 
+- **2026-10-31** · *Ruby* — [Should RubyGems/Bundler Have a Cooldown Feature?](https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp)
 - **2026-10-31** · *Hacker News Picks* — [GitHub Incident with Actions, Pages, and Webhooks](https://news.ycombinator.com/item?id=50307723)
 - **2026-10-31** · *Models & Datasets* — [Comfy-Org/MOSS-Image](https://huggingface.co/Comfy-Org/MOSS-Image)
 - **2026-10-31** · *AI & Machine Learning* — [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
 - **2026-10-31** · *Productivity* — [You're Not Lazy  You're Time Blind. Here's How Lock...](https://dev.to/harsh2644/youre-not-lazy-youre-time-blind-heres-how-lock-in-fixes-it-57ej)
-- **2026-10-31** · *Lobsters Picks* — [What the fox say?](https://lobste.rs/s/7qaac6/what_fox_say)
 
 ## How it works
 
