@@ -86,6 +86,7 @@
     "http://arxiv.org/abs/2610.36617v1",
     "http://arxiv.org/abs/2610.36717v1",
     "http://arxiv.org/abs/2610.37126v1",
+    "http://arxiv.org/abs/2610.38243v1",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
     "http://boglin.iwarp.com/",
@@ -2168,12 +2169,6 @@
   "recent": [
     {
       "date": "2026-10-31",
-      "subcat": "Python",
-      "title": "GordenSun/GordenPPTSkill",
-      "url": "https://github.com/GordenSun/GordenPPTSkill"
-    },
-    {
-      "date": "2026-10-31",
       "subcat": "JavaScript",
       "title": "No, npm, estee is not a typo of testem",
       "url": "https://lobste.rs/s/xudbqx/no_npm_estee_is_not_typo_testem"
@@ -2225,6 +2220,12 @@
       "subcat": "Java",
       "title": "How hard is it to check for whitespace?",
       "url": "https://lobste.rs/s/1pmuy7/how_hard_is_it_check_for_whitespace"
+    },
+    {
+      "date": "2026-11-01",
+      "subcat": "Research Papers",
+      "title": "Nearly Minimax Optimal Regret for Adversarial Linear...",
+      "url": "http://arxiv.org/abs/2610.38243v1"
     }
   ]
 }

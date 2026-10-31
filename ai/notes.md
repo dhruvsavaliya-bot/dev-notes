@@ -2852,6 +2852,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.16299v1
 
+**Added 2026-11-01**
+
+### [Nearly Minimax Optimal Regret for Adversarial Linear Bandits with Strong Corruptions](http://arxiv.org/abs/2610.38243v1)
+- **Authors:** Qiwei Di, Quanquan Gu
+- **Published:** 2026-10-28 | **Primary category:** cs.LG
+- **Categories:** cs.LG, stat.ML
+- **Abstract:** We study adversarial linear bandits with strong corruption, in which an adaptive adversary chooses the reward vectors and a strong adversary corrupts each observed reward after seeing the learner's action, subject to a known total corruption budget $C$. Strong corruption breaks the importance-weighted reward estimates used by adversarial bandit algorithms: by corrupting only the rounds in which a rarely sampled action is drawn, the adversary amplifies each unit of corruption by the inverse of it...
+- **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.38243v1
+
 
 ## Computer Vision
 
