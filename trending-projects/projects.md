@@ -2627,6 +2627,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~11 stars/day since launch.
 - **Link:** https://github.com/kitsumed/ShizuCallRecorder
 
+**Added 2026-10-31**
+
+### [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck)
+- **Stats:** 16,736 stars | 861 forks | 493 open issues
+- **Language:** Kotlin | **Created:** 2026-09-24 | **License:** GPL-3.0
+- **Topics:** none listed
+- **What it is:** DroidDeck brings the SteamOS experience to Android
+- **Growth:** averaging ~452 stars/day since launch.
+- **Link:** https://github.com/Droid-Deck/DroidDeck
+
 
 ## Web & Frontend
 

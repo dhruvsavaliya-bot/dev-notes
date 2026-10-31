@@ -496,6 +496,7 @@
     "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
     "https://github.com/Dingo-Shenanigans/ReSkate",
     "https://github.com/Draculabo/AntigravityManager",
+    "https://github.com/Droid-Deck/DroidDeck",
     "https://github.com/EpicGames/lore",
     "https://github.com/EvoMap/AutoResearch",
     "https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts",
@@ -2157,12 +2158,6 @@
   "recent": [
     {
       "date": "2026-10-31",
-      "subcat": "Other Cool Projects",
-      "title": "kitsumed/ShizuCallRecorder",
-      "url": "https://github.com/kitsumed/ShizuCallRecorder"
-    },
-    {
-      "date": "2026-10-31",
       "subcat": "Swift",
       "title": "Switzerland. Block by block. At 1:1 scale",
       "url": "https://news.ycombinator.com/item?id=50240922"
@@ -2214,6 +2209,12 @@
       "subcat": "JavaScript",
       "title": "No, npm, estee is not a typo of testem",
       "url": "https://lobste.rs/s/xudbqx/no_npm_estee_is_not_typo_testem"
+    },
+    {
+      "date": "2026-10-31",
+      "subcat": "Other Cool Projects",
+      "title": "Droid-Deck/DroidDeck",
+      "url": "https://github.com/Droid-Deck/DroidDeck"
     }
   ]
 }
