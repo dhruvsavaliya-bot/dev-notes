@@ -115,6 +115,7 @@
     "https://aaronmallen.me/writing/hanami-why-model-citizens",
     "https://acceptmarkdown.com/",
     "https://actualbudget.org/",
+    "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
     "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
     "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
     "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
@@ -1766,6 +1767,7 @@
     "https://news.ycombinator.com/item?id=49928566",
     "https://news.ycombinator.com/item?id=49930439",
     "https://news.ycombinator.com/item?id=49931031",
+    "https://news.ycombinator.com/item?id=49931993",
     "https://news.ycombinator.com/item?id=49935038",
     "https://news.ycombinator.com/item?id=49937916",
     "https://news.ycombinator.com/item?id=49944196",
@@ -2169,12 +2171,6 @@
   "recent": [
     {
       "date": "2026-10-31",
-      "subcat": "JavaScript",
-      "title": "No, npm, estee is not a typo of testem",
-      "url": "https://lobste.rs/s/xudbqx/no_npm_estee_is_not_typo_testem"
-    },
-    {
-      "date": "2026-10-31",
       "subcat": "Other Cool Projects",
       "title": "Droid-Deck/DroidDeck",
       "url": "https://github.com/Droid-Deck/DroidDeck"
@@ -2226,6 +2222,12 @@
       "subcat": "Research Papers",
       "title": "Nearly Minimax Optimal Regret for Adversarial Linear...",
       "url": "http://arxiv.org/abs/2610.38243v1"
+    },
+    {
+      "date": "2026-11-01",
+      "subcat": "Ruby",
+      "title": "Show HN: Our space game has a built-in RISC-V...",
+      "url": "https://news.ycombinator.com/item?id=49931993"
     }
   ]
 }

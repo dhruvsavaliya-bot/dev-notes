@@ -1690,6 +1690,15 @@ Snippets and gotchas across languages.
 - **Summary:** I'm Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...
 - **Link:** https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp
 
+**Added 2026-11-01**
+
+### [Show HN: Our space game has a built-in RISC-V emulator that runs Linux](https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/)
+- **Source:** againstallodds.games | **Posted:** 2026-10-02 | **By:** nor-and-or-not
+- **Community:** 98 points, 37 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49931993
+- **Link:** https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/
+
 
 ## Swift
 
