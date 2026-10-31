@@ -1285,6 +1285,7 @@
     "https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself",
     "https://lobste.rs/s/myuake/awesome_tunneling_list_tunneling",
     "https://lobste.rs/s/nbxnh7/inside_intel_8087_chip_floating_point",
+    "https://lobste.rs/s/ncclwy/switch_lowering_gcc",
     "https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os",
     "https://lobste.rs/s/nuepys/what_requirements_don_t_you_have",
     "https://lobste.rs/s/nxspz6/no_man_is_island",
@@ -2150,6 +2151,7 @@
     "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
     "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
     "https://xcancel.com/__alpoge__/status/2079028340955197566",
+    "https://xoranth.net/gcc-switch/",
     "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
     "https://youtu.be/89yAiqYEwKg",
     "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
@@ -2160,12 +2162,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-10-31",
-      "subcat": "TypeScript",
-      "title": "makecindy/cindy",
-      "url": "https://github.com/makecindy/cindy"
-    },
     {
       "date": "2026-10-31",
       "subcat": "Show & Ask HN",
@@ -2219,6 +2215,12 @@
       "subcat": "Research Papers",
       "title": "Revisiting Soundness for Occurrence Typing...",
       "url": "http://arxiv.org/abs/2609.16299v1"
+    },
+    {
+      "date": "2026-10-31",
+      "subcat": "Lobsters Picks",
+      "title": "Switch lowering in GCC",
+      "url": "https://lobste.rs/s/ncclwy/switch_lowering_gcc"
     }
   ]
 }

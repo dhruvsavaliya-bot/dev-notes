@@ -2829,6 +2829,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/w0qpxu/real_time_garbage_collector
 - **Link:** http://realtimegarbagecollector.com/
 
+**Added 2026-10-31**
+
+### [Switch lowering in GCC](https://xoranth.net/gcc-switch/)
+- **Source:** xoranth.net | **Posted:** 2026-10-30 | **By:** jo3_l
+- **Community:** 25 score, 4 comments on Lobsters
+- **Tags:** compilers, performance
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/ncclwy/switch_lowering_gcc
+- **Link:** https://xoranth.net/gcc-switch/
+
 
 ## Performance
 
