@@ -2842,6 +2842,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.36269v1
 
+**Added 2026-10-31**
+
+### [Revisiting Soundness for Occurrence Typing, Semantically](http://arxiv.org/abs/2609.16299v1)
+- **Authors:** Yuquan Fu, Carlo Angiuli, Sam Tobin-Hochstadt
+- **Published:** 2026-09-14 | **Primary category:** cs.PL
+- **Categories:** cs.PL
+- **Abstract:** Over the past two decades, numerous systems have brought some of the benefits of dependent typing to a wide variety of new programming languages, often by restricting which terms can appear inside types. Such techniques are known as refinement types, occurrence typing, liquid types, and path dependent types, among others. However, the restrictions adopted by these systems often break the substitution property, because they explicitly disallow the ability to substitute arbitrary terms for variabl...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.16299v1
+
 
 ## Computer Vision
 

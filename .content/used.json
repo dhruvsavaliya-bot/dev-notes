@@ -13,6 +13,7 @@
     "http://arxiv.org/abs/2609.07667v1",
     "http://arxiv.org/abs/2609.09270v1",
     "http://arxiv.org/abs/2609.16079v1",
+    "http://arxiv.org/abs/2609.16299v1",
     "http://arxiv.org/abs/2609.28608v1",
     "http://arxiv.org/abs/2609.30629v1",
     "http://arxiv.org/abs/2609.31250v1",
@@ -2161,12 +2162,6 @@
   "recent": [
     {
       "date": "2026-10-31",
-      "subcat": "Research Papers",
-      "title": "Cross-modal Steering Vectors Exist Across Both Image...",
-      "url": "http://arxiv.org/abs/2610.36269v1"
-    },
-    {
-      "date": "2026-10-31",
       "subcat": "TypeScript",
       "title": "makecindy/cindy",
       "url": "https://github.com/makecindy/cindy"
@@ -2218,6 +2213,12 @@
       "subcat": "Lobsters Picks",
       "title": "Rationale for filtering LLM usage links as off-topic",
       "url": "https://lobste.rs/s/spv7tb/rationale_for_filtering_llm_usage_links"
+    },
+    {
+      "date": "2026-10-31",
+      "subcat": "Research Papers",
+      "title": "Revisiting Soundness for Occurrence Typing...",
+      "url": "http://arxiv.org/abs/2609.16299v1"
     }
   ]
 }

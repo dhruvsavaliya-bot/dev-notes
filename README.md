@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1528 entries and counting** · Last updated: 2026-10-31
+**1529 entries and counting** · Last updated: 2026-10-31
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 307 |
-| [AI / LLM Notes](ai/notes.md) | 306 |
+| [AI / LLM Notes](ai/notes.md) | 307 |
 | [Reading List](articles/reading-list.md) | 307 |
 | [Coding Tips](coding-tips/tips.md) | 307 |
 | [Language Notes](languages/notes.md) | 301 |
 
 ## Latest additions
 
+- **2026-10-31** · *Research Papers* — [Revisiting Soundness for Occurrence Typing...](http://arxiv.org/abs/2609.16299v1)
 - **2026-10-31** · *Lobsters Picks* — [Rationale for filtering LLM usage links as off-topic](https://lobste.rs/s/spv7tb/rationale_for_filtering_llm_usage_links)
 - **2026-10-31** · *Java* — [Study: Schoolwide phone bans show no significant...](https://news.ycombinator.com/item?id=50271521)
 - **2026-10-31** · *Other Cool Projects* — [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck)
 - **2026-10-31** · *JavaScript* — [No, npm, estee is not a typo of testem](https://lobste.rs/s/xudbqx/no_npm_estee_is_not_typo_testem)
-- **2026-10-31** · *Python* — [GordenSun/GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill)
 
 ## How it works
 
