@@ -646,6 +646,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~57 stars/day since launch.
 - **Link:** https://github.com/basketikun/infinite-canvas
 
+**Added 2026-10-31**
+
+### [makecindy/cindy](https://github.com/makecindy/cindy)
+- **Stats:** 8,757 stars | 1,041 forks | 2,331 open issues
+- **Language:** TypeScript | **Created:** 2026-07-22 | **License:** Apache-2.0
+- **Topics:** agent, ai-agent, ai-assistant, android, claude-code, codex
+- **What it is:** Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+- **Growth:** averaging ~86 stars/day since launch.
+- **Link:** https://github.com/makecindy/cindy
+
 
 ## Python
 
