@@ -81,6 +81,7 @@
     "http://arxiv.org/abs/2610.35345v1",
     "http://arxiv.org/abs/2610.35413v1",
     "http://arxiv.org/abs/2610.35782v1",
+    "http://arxiv.org/abs/2610.36269v1",
     "http://arxiv.org/abs/2610.36617v1",
     "http://arxiv.org/abs/2610.36717v1",
     "http://arxiv.org/abs/2610.37126v1",
@@ -2146,12 +2147,6 @@
   "recent": [
     {
       "date": "2026-10-31",
-      "subcat": "Models & Datasets",
-      "title": "Comfy-Org/MOSS-Image",
-      "url": "https://huggingface.co/Comfy-Org/MOSS-Image"
-    },
-    {
-      "date": "2026-10-31",
       "subcat": "Hacker News Picks",
       "title": "GitHub Incident with Actions, Pages, and Webhooks",
       "url": "https://news.ycombinator.com/item?id=50307723"
@@ -2203,6 +2198,12 @@
       "subcat": "Swift",
       "title": "caezium/burrow",
       "url": "https://github.com/caezium/burrow"
+    },
+    {
+      "date": "2026-10-31",
+      "subcat": "Research Papers",
+      "title": "Cross-modal Steering Vectors Exist Across Both Image...",
+      "url": "http://arxiv.org/abs/2610.36269v1"
     }
   ]
 }

@@ -2832,6 +2832,17 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.35413v1
 
+**Added 2026-10-31**
+
+### [Cross-modal Steering Vectors Exist Across Both Image and Text Generation](http://arxiv.org/abs/2610.36269v1)
+- **Authors:** Donghao Zeng, Nishant Subramani, Tamar Rott Shaham, Benno Krojer
+- **Published:** 2026-10-26 | **Primary category:** cs.CL
+- **Categories:** cs.CV, cs.CL, cs.LG
+- **Abstract:** Are concepts and mechanisms unified across modalities in current AI models, or instead implemented separately for each one? We operationalize this broad question of modality unification by studying cross-modal steering: 1) finding vectors that successfully steer generation on tokens of one modality, which then 2) transfer zero-shot to steer generation when added to tokens of another modality. Our study goes beyond simple correlational alignment (e.g. representational similarity) because steering...
+- **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.36269v1
+
+
 ## Computer Vision
 
 **Added 2026-10-31**

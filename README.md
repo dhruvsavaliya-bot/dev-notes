@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1518 entries and counting** · Last updated: 2026-10-31
+**1519 entries and counting** · Last updated: 2026-10-31
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 306 |
-| [AI / LLM Notes](ai/notes.md) | 305 |
+| [AI / LLM Notes](ai/notes.md) | 306 |
 | [Reading List](articles/reading-list.md) | 306 |
 | [Coding Tips](coding-tips/tips.md) | 305 |
 | [Language Notes](languages/notes.md) | 296 |
 
 ## Latest additions
 
+- **2026-10-31** · *Research Papers* — [Cross-modal Steering Vectors Exist Across Both Image...](http://arxiv.org/abs/2610.36269v1)
 - **2026-10-31** · *Swift* — [caezium/burrow](https://github.com/caezium/burrow)
 - **2026-10-31** · *Swift* — [Switzerland. Block by block. At 1:1 scale](https://news.ycombinator.com/item?id=50240922)
 - **2026-10-31** · *Other Cool Projects* — [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder)
 - **2026-10-31** · *Hacker News Picks* — [Sleep framework: A new way for LLMs to retain...](https://news.ycombinator.com/item?id=50272479)
-- **2026-10-31** · *Show & Ask HN* — [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)
 
 ## How it works
 
