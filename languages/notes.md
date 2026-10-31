@@ -1254,6 +1254,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~17 stars/day since launch.
 - **Link:** https://github.com/jasonxu114514/opencode2api
 
+**Added 2026-10-31**
+
+### [noalloc: Tooling and libraries to enforce zero heap allocations in Golang](https://github.com/theconsensuslabs/noalloc)
+- **Source:** github.com | **Posted:** 2026-10-28 | **By:** g0xA52A2A
+- **Community:** 81 points, 60 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50278645
+- **Link:** https://github.com/theconsensuslabs/noalloc
+
 
 ## PHP
 

@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1521 entries and counting** · Last updated: 2026-10-31
+**1522 entries and counting** · Last updated: 2026-10-31
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 306 |
 | [Reading List](articles/reading-list.md) | 306 |
 | [Coding Tips](coding-tips/tips.md) | 306 |
-| [Language Notes](languages/notes.md) | 297 |
+| [Language Notes](languages/notes.md) | 298 |
 
 ## Latest additions
 
+- **2026-10-31** · *Go* — [noalloc: Tooling and libraries to enforce zero heap...](https://news.ycombinator.com/item?id=50278645)
 - **2026-10-31** · *Show & Ask HN* — [Show HN: I Turned DOOM into a Transformer](https://news.ycombinator.com/item?id=50297697)
 - **2026-10-31** · *TypeScript* — [makecindy/cindy](https://github.com/makecindy/cindy)
 - **2026-10-31** · *Research Papers* — [Cross-modal Steering Vectors Exist Across Both Image...](http://arxiv.org/abs/2610.36269v1)
 - **2026-10-31** · *Swift* — [caezium/burrow](https://github.com/caezium/burrow)
-- **2026-10-31** · *Swift* — [Switzerland. Block by block. At 1:1 scale](https://news.ycombinator.com/item?id=50240922)
 
 ## How it works
 

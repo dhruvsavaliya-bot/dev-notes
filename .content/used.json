@@ -867,6 +867,7 @@
     "https://github.com/tester-army/e2e",
     "https://github.com/tfrce/thedaywefightback.js",
     "https://github.com/thebuggeddev/anatomy",
+    "https://github.com/theconsensuslabs/noalloc",
     "https://github.com/tldev/dorso",
     "https://github.com/tobi/walgit",
     "https://github.com/totec448-spec/chat-on-steroids",
@@ -1863,6 +1864,7 @@
     "https://news.ycombinator.com/item?id=50271640",
     "https://news.ycombinator.com/item?id=50272479",
     "https://news.ycombinator.com/item?id=50273396",
+    "https://news.ycombinator.com/item?id=50278645",
     "https://news.ycombinator.com/item?id=50290177",
     "https://news.ycombinator.com/item?id=50290668",
     "https://news.ycombinator.com/item?id=50295450",
@@ -2150,12 +2152,6 @@
   "recent": [
     {
       "date": "2026-10-31",
-      "subcat": "C#",
-      "title": "C# now beats Rust on WASM size",
-      "url": "https://news.ycombinator.com/item?id=50175510"
-    },
-    {
-      "date": "2026-10-31",
       "subcat": "Other Cool Projects",
       "title": "agupta07505/SmartIsland",
       "url": "https://github.com/agupta07505/SmartIsland"
@@ -2207,6 +2203,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: I Turned DOOM into a Transformer",
       "url": "https://news.ycombinator.com/item?id=50297697"
+    },
+    {
+      "date": "2026-10-31",
+      "subcat": "Go",
+      "title": "noalloc: Tooling and libraries to enforce zero heap...",
+      "url": "https://news.ycombinator.com/item?id=50278645"
     }
   ]
 }
