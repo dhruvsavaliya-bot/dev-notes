@@ -2058,6 +2058,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/Octen/Octen-WebGR-4B
 
+**Added 2026-11-01**
+
+### [black-forest-labs/flux-3-image-klein](https://huggingface.co/black-forest-labs/flux-3-image-klein)
+- **Stats:** 785 likes | 149,203 downloads
+- **Kind:** Hugging Face model | **Task:** image-to-image | **Created:** 2026-10-13
+- **Tags:** diffusers, safetensors, image-generation, image-editing, flux, flux-3
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/black-forest-labs/flux-3-image-klein
+
 
 ## Research Papers
 
