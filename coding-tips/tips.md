@@ -2209,6 +2209,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50297697
 - **Link:** https://github.com/mottopanikeiku/doomformer
 
+**Added 2026-11-01**
+
+### [Show HN: Corgi, a helpful {agent, terminal} multiplexer](https://corgi.computer/)
+- **Source:** corgi.computer | **Posted:** 2026-10-23 | **By:** eiopa
+- **Community:** 141 points, 47 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50214373
+- **Link:** https://corgi.computer/
+
 
 ## Git & Workflow
 

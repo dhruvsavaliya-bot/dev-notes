@@ -225,6 +225,7 @@
     "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
     "https://committing-crimes.com/articles/2026-08-04-java-nameof",
     "https://comonad.com/reader/2026/turbo-haskell/",
+    "https://corgi.computer/",
     "https://cr.yp.to/2025/fil-c.html",
     "https://cretezy.com/2026/ad-free-android-tv",
     "https://csixty4.medium.com/pick-is-a-living-fossil-of-computer-history-36d74408d557",
@@ -1869,6 +1870,7 @@
     "https://news.ycombinator.com/item?id=50204125",
     "https://news.ycombinator.com/item?id=50211474",
     "https://news.ycombinator.com/item?id=50212065",
+    "https://news.ycombinator.com/item?id=50214373",
     "https://news.ycombinator.com/item?id=50222133",
     "https://news.ycombinator.com/item?id=50225695",
     "https://news.ycombinator.com/item?id=50227330",
@@ -2177,12 +2179,6 @@
   "recent": [
     {
       "date": "2026-10-31",
-      "subcat": "Lobsters Picks",
-      "title": "Switch lowering in GCC",
-      "url": "https://lobste.rs/s/ncclwy/switch_lowering_gcc"
-    },
-    {
-      "date": "2026-10-31",
       "subcat": "AI & Machine Learning",
       "title": "Graphicle-AI/graphicle",
       "url": "https://github.com/Graphicle-AI/graphicle"
@@ -2234,6 +2230,12 @@
       "subcat": "TypeScript",
       "title": "How Do You Validate `unknown` in TypeScript Without a...",
       "url": "https://dev.to/nyaomaru/how-do-you-validate-unknown-in-typescript-without-a-schema-library-1a11"
+    },
+    {
+      "date": "2026-11-01",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "url": "https://news.ycombinator.com/item?id=50214373"
     }
   ]
 }
