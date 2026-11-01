@@ -651,6 +651,7 @@
     "https://github.com/apache/ossie",
     "https://github.com/ardatan/graphql-tools",
     "https://github.com/arjunskumar/Robotics_CPP_Notes",
+    "https://github.com/arnegiacomo/fugleramme",
     "https://github.com/aru-labs/lossless-memory",
     "https://github.com/arvids-unavailable/openGym",
     "https://github.com/ashemag/human-atlas",
@@ -2206,12 +2207,6 @@
   "recent": [
     {
       "date": "2026-11-01",
-      "subcat": "Lobsters Picks",
-      "title": "The Kluever Maneuver",
-      "url": "https://lobste.rs/s/rpiu3w/kluever_maneuver"
-    },
-    {
-      "date": "2026-11-01",
       "subcat": "Swift",
       "title": "vorssaint/vorssaint-utils",
       "url": "https://github.com/vorssaint/vorssaint-utils"
@@ -2263,6 +2258,12 @@
       "subcat": "Research Papers",
       "title": "Understanding and Mitigating Role Spoofing in LLMs",
       "url": "http://arxiv.org/abs/2610.40396v1"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Backend & Infrastructure",
+      "title": "arnegiacomo/fugleramme",
+      "url": "https://github.com/arnegiacomo/fugleramme"
     }
   ]
 }

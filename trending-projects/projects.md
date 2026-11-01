@@ -3145,3 +3145,13 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** hyperliquid sdk | hyperliquid sdk | hyperliquid sdk | hyperliquid sdk | hyperliquid sdk | hyperliquid sdk | hyperliquid sdk | hyperliquid sdk | hyperliquid sdk | hyperliquid sdk | hyperliquid sdk | hyperliquid sdk | hyperliquid sdk | hyperliquid sdk - The Hyperliquid API SDK, written in TypeScript, supports all major JavaScript environments.
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/devmikets/hyperliquid-sdk
+
+**Added 2026-11-02**
+
+### [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme)
+- **Stats:** 3,969 stars | 151 forks | 15 open issues
+- **Language:** Python | **Created:** 2026-07-08 | **License:** MIT
+- **Topics:** bird-detection, birding, birdnet, birdnet-go, birdwatching, docker
+- **What it is:** Bird frame for Raspberry Pi or your homelab - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen.
+- **Growth:** averaging ~33 stars/day since launch.
+- **Link:** https://github.com/arnegiacomo/fugleramme
