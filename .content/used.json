@@ -748,6 +748,7 @@
     "https://github.com/jev-chat/jev-chat-jarvis",
     "https://github.com/jhaizhou-ops/d2r-mobile",
     "https://github.com/jiayx/d2r-mobile-build",
+    "https://github.com/johncassil/dontallow",
     "https://github.com/jonwiggins/optio",
     "https://github.com/jpochyla/psst",
     "https://github.com/jub0t/Concat",
@@ -1895,6 +1896,7 @@
     "https://news.ycombinator.com/item?id=50286987",
     "https://news.ycombinator.com/item?id=50290177",
     "https://news.ycombinator.com/item?id=50290668",
+    "https://news.ycombinator.com/item?id=50294506",
     "https://news.ycombinator.com/item?id=50295450",
     "https://news.ycombinator.com/item?id=50296486",
     "https://news.ycombinator.com/item?id=50297697",
@@ -2183,12 +2185,6 @@
   "recent": [
     {
       "date": "2026-11-01",
-      "subcat": "Research Papers",
-      "title": "Nearly Minimax Optimal Regret for Adversarial Linear...",
-      "url": "http://arxiv.org/abs/2610.38243v1"
-    },
-    {
-      "date": "2026-11-01",
       "subcat": "Ruby",
       "title": "Show HN: Our space game has a built-in RISC-V...",
       "url": "https://news.ycombinator.com/item?id=49931993"
@@ -2240,6 +2236,12 @@
       "subcat": "Models & Datasets",
       "title": "black-forest-labs/flux-3-image-klein",
       "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein"
+    },
+    {
+      "date": "2026-11-01",
+      "subcat": "Swift",
+      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find...",
+      "url": "https://news.ycombinator.com/item?id=50294506"
     }
   ]
 }

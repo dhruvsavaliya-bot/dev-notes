@@ -1986,6 +1986,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~10 stars/day since launch.
 - **Link:** https://github.com/caezium/burrow
 
+**Added 2026-11-01**
+
+### [Show HN: Auto Dismiss Mac OS "Allow <app> to find devices on local networks?"](https://github.com/johncassil/dontallow)
+- **Source:** github.com | **Posted:** 2026-10-29 | **By:** johncassil
+- **Community:** 154 points, 130 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50294506
+- **Link:** https://github.com/johncassil/dontallow
+
 
 ## Rust
 
