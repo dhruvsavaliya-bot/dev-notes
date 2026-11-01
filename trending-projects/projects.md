@@ -1384,6 +1384,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~28 stars/day since launch.
 - **Link:** https://github.com/Graphicle-AI/graphicle
 
+**Added 2026-11-01**
+
+### [syv-ai/HyperQwen](https://github.com/syv-ai/HyperQwen)
+- **Stats:** 2,470 stars | 315 forks | 3 open issues
+- **Language:** Python | **Created:** 2026-08-15 | **License:** Apache-2.0
+- **Topics:** consumer-gpu, cuda, inference-optimization, kv-cache, llm-inference, local-llm
+- **What it is:** Serve large Qwen models fast on the GPUs you actually own. Qwen3.8-27B on a single 24 GB card with vLLM: 127 tok/s single-user (381 when the answer quotes the prompt), ~1,035 tok/s at 64 concurrent, 150k-262k context. vLLM patches, requant pipeline, benchmarks.
+- **Growth:** averaging ~31 stars/day since launch.
+- **Link:** https://github.com/syv-ai/HyperQwen
+
 
 ## Other Cool Projects
 

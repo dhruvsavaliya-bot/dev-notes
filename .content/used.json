@@ -875,6 +875,7 @@
     "https://github.com/strelov1/freehire",
     "https://github.com/sunny-glow/Auto-BenchMax",
     "https://github.com/synthetic-sciences/openscience",
+    "https://github.com/syv-ai/HyperQwen",
     "https://github.com/talivia-group/talivia",
     "https://github.com/tamaratran/fast-jev-compaction",
     "https://github.com/tamnd/kage",
@@ -2188,12 +2189,6 @@
   "recent": [
     {
       "date": "2026-11-01",
-      "subcat": "Developer Tools",
-      "title": "storytold/lightcraft",
-      "url": "https://github.com/storytold/lightcraft"
-    },
-    {
-      "date": "2026-11-01",
       "subcat": "Lobsters Picks",
       "title": "Clojure/Conj 2026",
       "url": "https://lobste.rs/s/wd4ye5/clojure_conj_2026"
@@ -2245,6 +2240,12 @@
       "subcat": "Swift",
       "title": "1lck/Lithe-IDEA",
       "url": "https://github.com/1lck/Lithe-IDEA"
+    },
+    {
+      "date": "2026-11-01",
+      "subcat": "AI & Machine Learning",
+      "title": "syv-ai/HyperQwen",
+      "url": "https://github.com/syv-ai/HyperQwen"
     }
   ]
 }
