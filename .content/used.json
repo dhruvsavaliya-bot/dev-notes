@@ -689,6 +689,7 @@
     "https://github.com/crmne/fastpotify",
     "https://github.com/crmne/spotifast",
     "https://github.com/d11wtq/boris",
+    "https://github.com/danyuchn/asd-ste100-skill",
     "https://github.com/darshi1337/apogee",
     "https://github.com/databufflabs/databuff",
     "https://github.com/dataelement/dsh-desktop",
@@ -2202,12 +2203,6 @@
   "recent": [
     {
       "date": "2026-11-01",
-      "subcat": "Lobsters Picks",
-      "title": "Novellas with groff",
-      "url": "https://lobste.rs/s/54xwm8/novellas_with_groff"
-    },
-    {
-      "date": "2026-11-01",
       "subcat": "Swift",
       "title": "HD838A/remote-mic-app",
       "url": "https://github.com/HD838A/remote-mic-app"
@@ -2259,6 +2254,12 @@
       "subcat": "PHP",
       "title": "swoole/typephp",
       "url": "https://github.com/swoole/typephp"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "AI & Machine Learning",
+      "title": "danyuchn/asd-ste100-skill",
+      "url": "https://github.com/danyuchn/asd-ste100-skill"
     }
   ]
 }

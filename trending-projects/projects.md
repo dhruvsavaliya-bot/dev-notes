@@ -1414,6 +1414,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~80 stars/day since launch.
 - **Link:** https://github.com/elie222/rakazo
 
+**Added 2026-11-02**
+
+### [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill)
+- **Stats:** 5,927 stars | 344 forks | 6 open issues
+- **Language:** Python | **Created:** 2026-07-20 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.
+- **Growth:** averaging ~56 stars/day since launch.
+- **Link:** https://github.com/danyuchn/asd-ste100-skill
+
 
 ## Other Cool Projects
 
