@@ -2045,6 +2045,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50055304
 - **Link:** https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident
 
+**Added 2026-11-02**
+
+### [Mathematics has changed. Let's act like it](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/)
+- **Source:** terrytao.wordpress.com | **Posted:** 2026-11-01 | **By:** smilelamp
+- **Community:** 190 points, 202 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50328251
+- **Link:** https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/
+
 
 ## DevOps & Cloud
 

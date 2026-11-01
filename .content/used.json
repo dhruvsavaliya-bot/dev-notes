@@ -1920,6 +1920,7 @@
     "https://news.ycombinator.com/item?id=50303172",
     "https://news.ycombinator.com/item?id=50307723",
     "https://news.ycombinator.com/item?id=50312756",
+    "https://news.ycombinator.com/item?id=50328251",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2041,6 +2042,7 @@
     "https://tenso.rs/demos/fast-neural-style/",
     "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
     "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+    "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
     "https://thenumb.at/Syl-Intro/",
     "https://theremin.bizibah.com/",
     "https://thill.me/2026/09/11/what-i-did-at-rc.html",
@@ -2203,12 +2205,6 @@
   "recent": [
     {
       "date": "2026-11-01",
-      "subcat": "Swift",
-      "title": "HD838A/remote-mic-app",
-      "url": "https://github.com/HD838A/remote-mic-app"
-    },
-    {
-      "date": "2026-11-01",
       "subcat": "AI & Machine Learning",
       "title": "cbrock84/headcount",
       "url": "https://github.com/cbrock84/headcount"
@@ -2260,6 +2256,12 @@
       "subcat": "AI & Machine Learning",
       "title": "danyuchn/asd-ste100-skill",
       "url": "https://github.com/danyuchn/asd-ste100-skill"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Hacker News Picks",
+      "title": "Mathematics has changed. Let's act like it",
+      "url": "https://news.ycombinator.com/item?id=50328251"
     }
   ]
 }
