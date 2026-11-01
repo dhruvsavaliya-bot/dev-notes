@@ -3003,6 +3003,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~46 stars/day since launch.
 - **Link:** https://github.com/vercel-labs/native
 
+**Added 2026-11-01**
+
+### [storytold/lightcraft](https://github.com/storytold/lightcraft)
+- **Stats:** 15,188 stars | 5,836 forks | 1,354 open issues
+- **Language:** Rust | **Created:** 2026-09-30 | **License:** Apache-2.0
+- **Topics:** art, photography, raw, raw-editor, raw-processing, rust
+- **What it is:** LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust
+- **Growth:** averaging ~474 stars/day since launch.
+- **Link:** https://github.com/storytold/lightcraft
+
 
 ## Backend & Infrastructure
 

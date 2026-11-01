@@ -863,6 +863,7 @@
     "https://github.com/srizzon/git-city",
     "https://github.com/storytold/figcraft",
     "https://github.com/storytold/gridcraft",
+    "https://github.com/storytold/lightcraft",
     "https://github.com/storytold/photocraft",
     "https://github.com/storytold/vectorcraft",
     "https://github.com/storytold/wordcraft",
@@ -2173,12 +2174,6 @@
   "recent": [
     {
       "date": "2026-10-31",
-      "subcat": "Java",
-      "title": "Study: Schoolwide phone bans show no significant...",
-      "url": "https://news.ycombinator.com/item?id=50271521"
-    },
-    {
-      "date": "2026-10-31",
       "subcat": "Lobsters Picks",
       "title": "Rationale for filtering LLM usage links as off-topic",
       "url": "https://lobste.rs/s/spv7tb/rationale_for_filtering_llm_usage_links"
@@ -2230,6 +2225,12 @@
       "subcat": "PHP",
       "title": "Chained PHP2Shell exploit roots 25 servers, including...",
       "url": "https://news.ycombinator.com/item?id=50286987"
+    },
+    {
+      "date": "2026-11-01",
+      "subcat": "Developer Tools",
+      "title": "storytold/lightcraft",
+      "url": "https://github.com/storytold/lightcraft"
     }
   ]
 }
