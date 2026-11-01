@@ -358,6 +358,7 @@
     "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
     "https://dev.to/nikolas_dimitroulakis_d23/we-described-our-api-twice-once-for-humans-once-for-agents-4e4g",
     "https://dev.to/nyaomaru/how-do-we-extract-the-why-from-a-pr-into-a-changelog-with-jev-52pk",
+    "https://dev.to/nyaomaru/how-do-you-validate-unknown-in-typescript-without-a-schema-library-1a11",
     "https://dev.to/nyaomaru/is-kit-reached-100-stars-heres-what-changed-since-50-49pf",
     "https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b",
     "https://dev.to/nyaomaru/learn-number-of-islands-invert-binary-tree-and-course-schedule-with-step-by-step-visualization-in-5947",
@@ -2176,12 +2177,6 @@
   "recent": [
     {
       "date": "2026-10-31",
-      "subcat": "Research Papers",
-      "title": "Revisiting Soundness for Occurrence Typing...",
-      "url": "http://arxiv.org/abs/2609.16299v1"
-    },
-    {
-      "date": "2026-10-31",
       "subcat": "Lobsters Picks",
       "title": "Switch lowering in GCC",
       "url": "https://lobste.rs/s/ncclwy/switch_lowering_gcc"
@@ -2233,6 +2228,12 @@
       "subcat": "Lobsters Picks",
       "title": "Clojure/Conj 2026",
       "url": "https://lobste.rs/s/wd4ye5/clojure_conj_2026"
+    },
+    {
+      "date": "2026-11-01",
+      "subcat": "TypeScript",
+      "title": "How Do You Validate `unknown` in TypeScript Without a...",
+      "url": "https://dev.to/nyaomaru/how-do-you-validate-unknown-in-typescript-without-a-schema-library-1a11"
     }
   ]
 }

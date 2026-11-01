@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1538 entries and counting** · Last updated: 2026-11-01
+**1539 entries and counting** · Last updated: 2026-11-01
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 308 |
 | [Reading List](articles/reading-list.md) | 309 |
 | [Coding Tips](coding-tips/tips.md) | 307 |
-| [Language Notes](languages/notes.md) | 305 |
+| [Language Notes](languages/notes.md) | 306 |
 
 ## Latest additions
 
+- **2026-11-01** · *TypeScript* — [How Do You Validate `unknown` in TypeScript Without a...](https://dev.to/nyaomaru/how-do-you-validate-unknown-in-typescript-without-a-schema-library-1a11)
 - **2026-11-01** · *Lobsters Picks* — [Clojure/Conj 2026](https://lobste.rs/s/wd4ye5/clojure_conj_2026)
 - **2026-11-01** · *Developer Tools* — [storytold/lightcraft](https://github.com/storytold/lightcraft)
 - **2026-11-01** · *PHP* — [Chained PHP2Shell exploit roots 25 servers, including...](https://news.ycombinator.com/item?id=50286987)
 - **2026-11-01** · *Ruby* — [Show HN: Our space game has a built-in RISC-V...](https://news.ycombinator.com/item?id=49931993)
-- **2026-11-01** · *Research Papers* — [Nearly Minimax Optimal Regret for Adversarial Linear...](http://arxiv.org/abs/2610.38243v1)
 
 ## How it works
 

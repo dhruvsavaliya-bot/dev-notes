@@ -676,6 +676,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~6 stars/day since launch.
 - **Link:** https://github.com/ling-stack-org/ling-stack
 
+**Added 2026-11-01**
+
+### [How Do You Validate `unknown` in TypeScript Without a Schema Library? 🛡️](https://dev.to/nyaomaru/how-do-you-validate-unknown-in-typescript-without-a-schema-library-1a11)
+- **Author:** nyaomaru | **Published:** Oct 14 | **Read time:** 5 min
+- **Community:** 80 reactions, 8 comments -- a top post in #typescript
+- **Tags:** typescript, opensource, webdev, programming
+- **Summary:** Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer who is obsessed with gamba. 😸🦐  Recently, I was...
+- **Link:** https://dev.to/nyaomaru/how-do-you-validate-unknown-in-typescript-without-a-schema-library-1a11
+
 
 ## Python
 
