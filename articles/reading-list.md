@@ -2054,6 +2054,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50328251
 - **Link:** https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/
 
+**Added 2026-11-02**
+
+### [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)
+- **Source:** hackerbooks.org | **Posted:** 2026-11-01 | **By:** roansh
+- **Community:** 782 points, 162 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50326821
+- **Link:** https://hackerbooks.org
+
 
 ## DevOps & Cloud
 

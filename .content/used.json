@@ -966,6 +966,7 @@
     "https://go.dev/blog/simd-experiment",
     "https://goliath32.com/blog/z80.html",
     "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
+    "https://hackerbooks.org",
     "https://handwritten.blog/",
     "https://hauleth.dev/post/guards-guards/",
     "https://hauleth.dev/post/writing-tests/",
@@ -1922,6 +1923,7 @@
     "https://news.ycombinator.com/item?id=50303172",
     "https://news.ycombinator.com/item?id=50307723",
     "https://news.ycombinator.com/item?id=50312756",
+    "https://news.ycombinator.com/item?id=50326821",
     "https://news.ycombinator.com/item?id=50328251",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
@@ -2206,12 +2208,6 @@
   ],
   "recent": [
     {
-      "date": "2026-11-01",
-      "subcat": "Swift",
-      "title": "vorssaint/vorssaint-utils",
-      "url": "https://github.com/vorssaint/vorssaint-utils"
-    },
-    {
       "date": "2026-11-02",
       "subcat": "Lobsters Picks",
       "title": "Enlightenment 0.28.0 Release",
@@ -2264,6 +2260,12 @@
       "subcat": "Backend & Infrastructure",
       "title": "arnegiacomo/fugleramme",
       "url": "https://github.com/arnegiacomo/fugleramme"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Hacker News Picks",
+      "title": "Show HN: HackerBooks  HackerTube, but for books...",
+      "url": "https://news.ycombinator.com/item?id=50326821"
     }
   ]
 }
