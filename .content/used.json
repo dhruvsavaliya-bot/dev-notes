@@ -712,6 +712,7 @@
     "https://github.com/duty1g/x64dbg-mcp-server",
     "https://github.com/dzhng/jevgrep",
     "https://github.com/elder-plinius/T3MP3ST",
+    "https://github.com/elie222/rakazo",
     "https://github.com/elstongun/leviathan",
     "https://github.com/elyosh/OpenTIE/",
     "https://github.com/eternity4719/HowToLiveBetter",
@@ -2198,12 +2199,6 @@
   "recent": [
     {
       "date": "2026-11-01",
-      "subcat": "Swift",
-      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find...",
-      "url": "https://news.ycombinator.com/item?id=50294506"
-    },
-    {
-      "date": "2026-11-01",
       "subcat": "Hacker News Picks",
       "title": "Hackers activate automatic defrosting in supermarket...",
       "url": "https://news.ycombinator.com/item?id=50055304"
@@ -2255,6 +2250,12 @@
       "subcat": "Lobsters Picks",
       "title": "Enlightenment 0.28.0 Release",
       "url": "https://lobste.rs/s/fmawla/enlightenment_0_28_0_release"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "AI & Machine Learning",
+      "title": "elie222/rakazo",
+      "url": "https://github.com/elie222/rakazo"
     }
   ]
 }

@@ -1404,6 +1404,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~39 stars/day since launch.
 - **Link:** https://github.com/cbrock84/headcount
 
+**Added 2026-11-02**
+
+### [elie222/rakazo](https://github.com/elie222/rakazo)
+- **Stats:** 6,548 stars | 1,160 forks | 96 open issues
+- **Language:** TypeScript | **Created:** 2026-08-13 | **License:** Apache-2.0
+- **Topics:** ai-agents, chatgpt, docker, electron, expo, grok
+- **What it is:** Open-source Grok Bot alternative. Choose your own model and sandbox.
+- **Growth:** averaging ~80 stars/day since launch.
+- **Link:** https://github.com/elie222/rakazo
+
 
 ## Other Cool Projects
 
