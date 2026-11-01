@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1535 entries and counting** · Last updated: 2026-11-01
+**1536 entries and counting** · Last updated: 2026-11-01
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 308 |
 | [Reading List](articles/reading-list.md) | 308 |
 | [Coding Tips](coding-tips/tips.md) | 307 |
-| [Language Notes](languages/notes.md) | 304 |
+| [Language Notes](languages/notes.md) | 305 |
 
 ## Latest additions
 
+- **2026-11-01** · *PHP* — [Chained PHP2Shell exploit roots 25 servers, including...](https://news.ycombinator.com/item?id=50286987)
 - **2026-11-01** · *Ruby* — [Show HN: Our space game has a built-in RISC-V...](https://news.ycombinator.com/item?id=49931993)
 - **2026-11-01** · *Research Papers* — [Nearly Minimax Optimal Regret for Adversarial Linear...](http://arxiv.org/abs/2610.38243v1)
 - **2026-11-01** · *Java* — [How hard is it to check for whitespace?](https://lobste.rs/s/1pmuy7/how_hard_is_it_check_for_whitespace)
 - **2026-11-01** · *TypeScript* — [ling-stack-org/ling-stack](https://github.com/ling-stack-org/ling-stack)
-- **2026-10-31** · *AI & Machine Learning* — [Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle)
 
 ## How it works
 

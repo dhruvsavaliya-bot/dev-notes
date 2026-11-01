@@ -433,6 +433,7 @@
     "https://doeken.org/blog/coroutines-in-php",
     "https://dontwordle.com/",
     "https://dosdays.co.uk/topics/Software/borland_turbo_basic.php",
+    "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
     "https://dylancastillo.co/posts/pelicanmaxxing.html",
     "https://eaton-works.com/2026/07/27/my-eicher-hack/",
     "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
@@ -1881,6 +1882,7 @@
     "https://news.ycombinator.com/item?id=50272479",
     "https://news.ycombinator.com/item?id=50273396",
     "https://news.ycombinator.com/item?id=50278645",
+    "https://news.ycombinator.com/item?id=50286987",
     "https://news.ycombinator.com/item?id=50290177",
     "https://news.ycombinator.com/item?id=50290668",
     "https://news.ycombinator.com/item?id=50295450",
@@ -2171,12 +2173,6 @@
   "recent": [
     {
       "date": "2026-10-31",
-      "subcat": "Other Cool Projects",
-      "title": "Droid-Deck/DroidDeck",
-      "url": "https://github.com/Droid-Deck/DroidDeck"
-    },
-    {
-      "date": "2026-10-31",
       "subcat": "Java",
       "title": "Study: Schoolwide phone bans show no significant...",
       "url": "https://news.ycombinator.com/item?id=50271521"
@@ -2228,6 +2224,12 @@
       "subcat": "Ruby",
       "title": "Show HN: Our space game has a built-in RISC-V...",
       "url": "https://news.ycombinator.com/item?id=49931993"
+    },
+    {
+      "date": "2026-11-01",
+      "subcat": "PHP",
+      "title": "Chained PHP2Shell exploit roots 25 servers, including...",
+      "url": "https://news.ycombinator.com/item?id=50286987"
     }
   ]
 }

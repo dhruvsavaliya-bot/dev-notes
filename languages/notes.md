@@ -1513,6 +1513,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50172041
 - **Link:** https://www.php.net/archive/2026.php#2026-10-21-5
 
+**Added 2026-11-01**
+
+### [Chained PHP2Shell exploit roots 25 servers, including US Government servers](https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers)
+- **Source:** dreamgroup.com | **Posted:** 2026-10-29 | **By:** 882542F3884314B
+- **Community:** 326 points, 165 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50286987
+- **Link:** https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers
+
 
 ## Ruby
 
