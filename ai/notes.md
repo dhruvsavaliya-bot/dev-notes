@@ -2890,6 +2890,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.40444v1
 
+**Added 2026-11-02**
+
+### [Understanding and Mitigating Role Spoofing in LLMs](http://arxiv.org/abs/2610.40396v1)
+- **Authors:** Ezra Edelman, Benjamin Edelman, Surbhi Goel, Eran Malach
+- **Published:** 2026-10-29 | **Primary category:** cs.AI
+- **Categories:** cs.CR, cs.AI
+- **Abstract:** Despite growing capabilities, LLMs remain susceptible to prompt injections: malicious inputs that can manipulate or hijack models. In particular, it has recently been observed that LLMs can exhibit role confusion (Ye et al., 2026), where models attribute the source of text based on its style instead of its labeled role. Malicious text in tool outputs (for instance, a malicious webpage accessed by an agent) can leverage role confusion to impersonate the user, an attack we call role spoofing}. In ...
+- **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.40396v1
+
 
 ## Computer Vision
 

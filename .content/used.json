@@ -87,6 +87,7 @@
     "http://arxiv.org/abs/2610.36717v1",
     "http://arxiv.org/abs/2610.37126v1",
     "http://arxiv.org/abs/2610.38243v1",
+    "http://arxiv.org/abs/2610.40396v1",
     "http://arxiv.org/abs/2610.40444v1",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
@@ -2205,12 +2206,6 @@
   "recent": [
     {
       "date": "2026-11-01",
-      "subcat": "AI & Machine Learning",
-      "title": "cbrock84/headcount",
-      "url": "https://github.com/cbrock84/headcount"
-    },
-    {
-      "date": "2026-11-01",
       "subcat": "Lobsters Picks",
       "title": "The Kluever Maneuver",
       "url": "https://lobste.rs/s/rpiu3w/kluever_maneuver"
@@ -2262,6 +2257,12 @@
       "subcat": "Hacker News Picks",
       "title": "Mathematics has changed. Let's act like it",
       "url": "https://news.ycombinator.com/item?id=50328251"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Research Papers",
+      "title": "Understanding and Mitigating Role Spoofing in LLMs",
+      "url": "http://arxiv.org/abs/2610.40396v1"
     }
   ]
 }
