@@ -1531,6 +1531,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50286987
 - **Link:** https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers
 
+**Added 2026-11-02**
+
+### [swoole/typephp](https://github.com/swoole/typephp)
+- **Stats:** 1,465 stars | 79 forks | 2 open issues
+- **Language:** PHP | **Created:** 2026-05-11 | **License:** GPL-3.0
+- **Topics:** none listed
+- **What it is:** Compile PHP to Native Binaries
+- **Growth:** averaging ~8 stars/day since launch.
+- **Link:** https://github.com/swoole/typephp
+
 
 ## Ruby
 
