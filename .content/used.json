@@ -104,6 +104,7 @@
     "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
     "http://spotthedrowningchild.com",
     "http://www.ianlandsman.com/2012/02/22/laravel",
+    "http://www.youtube.com/playlist?list=PLAkHRk3lgU_Q",
     "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
     "https://00f.net/2026/10/06/zeroization-1/",
     "https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/",
@@ -1347,6 +1348,7 @@
     "https://lobste.rs/s/w0qpxu/real_time_garbage_collector",
     "https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice",
     "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed",
+    "https://lobste.rs/s/wd4ye5/clojure_conj_2026",
     "https://lobste.rs/s/whzj8z/jep_544_ahead_time_code_compilation",
     "https://lobste.rs/s/wi4nnl/railway_security_disclosure_wednesday",
     "https://lobste.rs/s/wn293o/interactive_refactoring_gopls",
@@ -2174,12 +2176,6 @@
   "recent": [
     {
       "date": "2026-10-31",
-      "subcat": "Lobsters Picks",
-      "title": "Rationale for filtering LLM usage links as off-topic",
-      "url": "https://lobste.rs/s/spv7tb/rationale_for_filtering_llm_usage_links"
-    },
-    {
-      "date": "2026-10-31",
       "subcat": "Research Papers",
       "title": "Revisiting Soundness for Occurrence Typing...",
       "url": "http://arxiv.org/abs/2609.16299v1"
@@ -2231,6 +2227,12 @@
       "subcat": "Developer Tools",
       "title": "storytold/lightcraft",
       "url": "https://github.com/storytold/lightcraft"
+    },
+    {
+      "date": "2026-11-01",
+      "subcat": "Lobsters Picks",
+      "title": "Clojure/Conj 2026",
+      "url": "https://lobste.rs/s/wd4ye5/clojure_conj_2026"
     }
   ]
 }
