@@ -2015,6 +2015,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~22 stars/day since launch.
 - **Link:** https://github.com/HD838A/remote-mic-app
 
+**Added 2026-11-01**
+
+### [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
+- **Stats:** 32,228 stars | 1,554 forks | 1,353 open issues
+- **Language:** Swift | **Created:** 2026-06-12 | **License:** GPL-3.0
+- **Topics:** alt-tab, app-uninstaller, appkit, finder, free, keep-awake
+- **What it is:** Free and open-source macOS menu bar toolkit.
+- **Growth:** averaging ~226 stars/day since launch.
+- **Link:** https://github.com/vorssaint/vorssaint-utils
+
 
 ## Rust
 

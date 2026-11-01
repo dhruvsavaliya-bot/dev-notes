@@ -904,6 +904,7 @@
     "https://github.com/vinvcn/mattpocock-skills-zh-CN",
     "https://github.com/vinzdg/codenotch",
     "https://github.com/vojtaholik/good-css",
+    "https://github.com/vorssaint/vorssaint-utils",
     "https://github.com/voxivoid/recipe-lab-sony-pmca",
     "https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases",
     "https://github.com/wang2122/sprix-sage-router",
@@ -2195,12 +2196,6 @@
   "recent": [
     {
       "date": "2026-11-01",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Indigene  Native plants for where you stand",
-      "url": "https://news.ycombinator.com/item?id=50064470"
-    },
-    {
-      "date": "2026-11-01",
       "subcat": "Models & Datasets",
       "title": "black-forest-labs/flux-3-image-klein",
       "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein"
@@ -2252,6 +2247,12 @@
       "subcat": "Lobsters Picks",
       "title": "The Kluever Maneuver",
       "url": "https://lobste.rs/s/rpiu3w/kluever_maneuver"
+    },
+    {
+      "date": "2026-11-01",
+      "subcat": "Swift",
+      "title": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils"
     }
   ]
 }
