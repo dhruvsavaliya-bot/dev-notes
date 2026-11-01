@@ -2868,6 +2868,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/54xwm8/novellas_with_groff
 - **Link:** https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html
 
+**Added 2026-11-01**
+
+### [The Kluever Maneuver](https://jordi.inversethought.com/blog/the-kluever-maneuver/)
+- **Source:** jordi.inversethought.com | **Posted:** 2026-10-31 | **By:** JordiGH
+- **Community:** 50 score, 28 comments on Lobsters
+- **Tags:** testing
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/rpiu3w/kluever_maneuver
+- **Link:** https://jordi.inversethought.com/blog/the-kluever-maneuver/
+
 
 ## Performance
 

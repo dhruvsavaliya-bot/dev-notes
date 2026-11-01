@@ -1150,6 +1150,7 @@
     "https://jepsen.io/analyses/orkes-conductor-5.3.2",
     "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
     "https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/",
+    "https://jordi.inversethought.com/blog/the-kluever-maneuver/",
     "https://josephg.com/blog/electron-is-flash-for-the-desktop/",
     "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos",
     "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
@@ -1326,6 +1327,7 @@
     "https://lobste.rs/s/qzfohf/how_run_city_builder_on_16_mhz",
     "https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably",
     "https://lobste.rs/s/rlrfew/balloting_has_completed_for_c_26",
+    "https://lobste.rs/s/rpiu3w/kluever_maneuver",
     "https://lobste.rs/s/rpiwtb/python_3_15_0",
     "https://lobste.rs/s/rs6ce2/filian_fil_c_binaries_on_debian",
     "https://lobste.rs/s/rtcnc8/javascript_pun_tagged_template_literal",
@@ -2193,12 +2195,6 @@
   "recent": [
     {
       "date": "2026-11-01",
-      "subcat": "Models & Datasets",
-      "title": "Octen/Octen-WebGR-4B",
-      "url": "https://huggingface.co/Octen/Octen-WebGR-4B"
-    },
-    {
-      "date": "2026-11-01",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Indigene  Native plants for where you stand",
       "url": "https://news.ycombinator.com/item?id=50064470"
@@ -2250,6 +2246,12 @@
       "subcat": "AI & Machine Learning",
       "title": "cbrock84/headcount",
       "url": "https://github.com/cbrock84/headcount"
+    },
+    {
+      "date": "2026-11-01",
+      "subcat": "Lobsters Picks",
+      "title": "The Kluever Maneuver",
+      "url": "https://lobste.rs/s/rpiu3w/kluever_maneuver"
     }
   ]
 }
