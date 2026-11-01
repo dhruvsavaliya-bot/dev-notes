@@ -518,6 +518,7 @@
     "https://github.com/GMGNAI/gmgn-skills",
     "https://github.com/GordenSun/GordenPPTSkill",
     "https://github.com/Graphicle-AI/graphicle",
+    "https://github.com/HD838A/remote-mic-app",
     "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
     "https://github.com/HKUDS/CLI-Anything",
     "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
@@ -2191,12 +2192,6 @@
   "recent": [
     {
       "date": "2026-11-01",
-      "subcat": "TypeScript",
-      "title": "How Do You Validate `unknown` in TypeScript Without a...",
-      "url": "https://dev.to/nyaomaru/how-do-you-validate-unknown-in-typescript-without-a-schema-library-1a11"
-    },
-    {
-      "date": "2026-11-01",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
       "url": "https://news.ycombinator.com/item?id=50214373"
@@ -2248,6 +2243,12 @@
       "subcat": "Lobsters Picks",
       "title": "Novellas with groff",
       "url": "https://lobste.rs/s/54xwm8/novellas_with_groff"
+    },
+    {
+      "date": "2026-11-01",
+      "subcat": "Swift",
+      "title": "HD838A/remote-mic-app",
+      "url": "https://github.com/HD838A/remote-mic-app"
     }
   ]
 }

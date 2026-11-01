@@ -2005,6 +2005,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~26 stars/day since launch.
 - **Link:** https://github.com/1lck/Lithe-IDEA
 
+**Added 2026-11-01**
+
+### [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app)
+- **Stats:** 2,245 stars | 243 forks | 118 open issues
+- **Language:** Swift | **Created:** 2026-07-22 | **License:** GPL-3.0
+- **Topics:** none listed
+- **What it is:** 无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备
+- **Growth:** averaging ~22 stars/day since launch.
+- **Link:** https://github.com/HD838A/remote-mic-app
+
 
 ## Rust
 
