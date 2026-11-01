@@ -1134,6 +1134,7 @@
     "https://hugovk.dev/blog/2026/soft-deprecating-re.match/",
     "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
     "https://imaginationlibrary.com/",
+    "https://indigene.app/",
     "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
     "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
     "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855858",
@@ -1815,6 +1816,7 @@
     "https://news.ycombinator.com/item?id=50061659",
     "https://news.ycombinator.com/item?id=50063417",
     "https://news.ycombinator.com/item?id=50063831",
+    "https://news.ycombinator.com/item?id=50064470",
     "https://news.ycombinator.com/item?id=50067325",
     "https://news.ycombinator.com/item?id=50069337",
     "https://news.ycombinator.com/item?id=50070625",
@@ -2180,12 +2182,6 @@
   "recent": [
     {
       "date": "2026-11-01",
-      "subcat": "TypeScript",
-      "title": "ling-stack-org/ling-stack",
-      "url": "https://github.com/ling-stack-org/ling-stack"
-    },
-    {
-      "date": "2026-11-01",
       "subcat": "Java",
       "title": "How hard is it to check for whitespace?",
       "url": "https://lobste.rs/s/1pmuy7/how_hard_is_it_check_for_whitespace"
@@ -2237,6 +2233,12 @@
       "subcat": "Models & Datasets",
       "title": "Octen/Octen-WebGR-4B",
       "url": "https://huggingface.co/Octen/Octen-WebGR-4B"
+    },
+    {
+      "date": "2026-11-01",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Indigene  Native plants for where you stand",
+      "url": "https://news.ycombinator.com/item?id=50064470"
     }
   ]
 }

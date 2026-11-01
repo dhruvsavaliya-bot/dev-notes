@@ -2218,6 +2218,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50214373
 - **Link:** https://corgi.computer/
 
+**Added 2026-11-01**
+
+### [Show HN: Indigene – Native plants for where you stand](https://indigene.app/)
+- **Source:** indigene.app | **Posted:** 2026-10-12 | **By:** olivierlacan
+- **Community:** 120 points, 52 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50064470
+- **Link:** https://indigene.app/
+
 
 ## Git & Workflow
 
