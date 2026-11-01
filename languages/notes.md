@@ -1727,6 +1727,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=49931993
 - **Link:** https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/
 
+**Added 2026-11-02**
+
+### [New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic](https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs)
+- **Source:** www.oist.jp | **Posted:** 2026-10-21 | **By:** giuliomagnifico
+- **Community:** 132 points, 66 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50183512
+- **Link:** https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs
+
 
 ## Swift
 

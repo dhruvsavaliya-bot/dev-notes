@@ -1882,6 +1882,7 @@
     "https://news.ycombinator.com/item?id=50180873",
     "https://news.ycombinator.com/item?id=50181175",
     "https://news.ycombinator.com/item?id=50182526",
+    "https://news.ycombinator.com/item?id=50183512",
     "https://news.ycombinator.com/item?id=50183892",
     "https://news.ycombinator.com/item?id=50185869",
     "https://news.ycombinator.com/item?id=50193416",
@@ -2144,6 +2145,7 @@
     "https://www.nytimes.com/2019/02/20/us/politics/civil-asset-forfeiture-supreme-court.html",
     "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
     "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
+    "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
     "https://www.openbsd.org/80.html",
     "https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/",
     "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
@@ -2209,12 +2211,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Lobsters Picks",
-      "title": "Enlightenment 0.28.0 Release",
-      "url": "https://lobste.rs/s/fmawla/enlightenment_0_28_0_release"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "AI & Machine Learning",
       "title": "elie222/rakazo",
       "url": "https://github.com/elie222/rakazo"
@@ -2266,6 +2262,12 @@
       "subcat": "Hacker News Picks",
       "title": "Show HN: HackerBooks  HackerTube, but for books...",
       "url": "https://news.ycombinator.com/item?id=50326821"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Ruby",
+      "title": "New plastic pollution discovered: 'Plasticorals'...",
+      "url": "https://news.ycombinator.com/item?id=50183512"
     }
   ]
 }
