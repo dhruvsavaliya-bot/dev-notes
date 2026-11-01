@@ -982,6 +982,7 @@
     "https://huggingface.co/LiquidAI/LFM3-Omni-2B",
     "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+    "https://huggingface.co/Octen/Octen-WebGR-4B",
     "https://huggingface.co/OliviaRossi/Minimax-h3_Singularity-x-10Eros-Max_PRISM",
     "https://huggingface.co/Qwen/Qwen-Image-2.1",
     "https://huggingface.co/Qwen/Qwen2.5-32B-Instruct-AWQ",
@@ -2178,12 +2179,6 @@
   ],
   "recent": [
     {
-      "date": "2026-10-31",
-      "subcat": "AI & Machine Learning",
-      "title": "Graphicle-AI/graphicle",
-      "url": "https://github.com/Graphicle-AI/graphicle"
-    },
-    {
       "date": "2026-11-01",
       "subcat": "TypeScript",
       "title": "ling-stack-org/ling-stack",
@@ -2236,6 +2231,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
       "url": "https://news.ycombinator.com/item?id=50214373"
+    },
+    {
+      "date": "2026-11-01",
+      "subcat": "Models & Datasets",
+      "title": "Octen/Octen-WebGR-4B",
+      "url": "https://huggingface.co/Octen/Octen-WebGR-4B"
     }
   ]
 }

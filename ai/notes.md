@@ -2049,6 +2049,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/Comfy-Org/MOSS-Image
 
+**Added 2026-11-01**
+
+### [Octen/Octen-WebGR-4B](https://huggingface.co/Octen/Octen-WebGR-4B)
+- **Stats:** 58 likes | 561 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-10-26
+- **Tags:** transformers, safetensors, qwen3, text-generation, generative-retrieval, semantic-id
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/Octen/Octen-WebGR-4B
+
 
 ## Research Papers
 
