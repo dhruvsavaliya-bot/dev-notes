@@ -375,6 +375,7 @@
     "https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o",
     "https://dev.to/playfulprogramming/javascript-frameworks-heading-into-2026-2hel",
     "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk",
+    "https://dev.to/pranjal_manhgaye_d94d7a8f/plot-tabpfn-on-real-frost-data-tells-you-to-touch-grass-54k1",
     "https://dev.to/robertadam987_/your-ai-coding-agent-can-be-attacked-by-the-repository-it-opens-ie4",
     "https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh",
     "https://dev.to/roic/roicai-complete-guide-financial-data-api-pricing-endpoints-and-the-36-tool-mcp-server-6fl",
@@ -2199,12 +2200,6 @@
   "recent": [
     {
       "date": "2026-11-01",
-      "subcat": "Hacker News Picks",
-      "title": "Hackers activate automatic defrosting in supermarket...",
-      "url": "https://news.ycombinator.com/item?id=50055304"
-    },
-    {
-      "date": "2026-11-01",
       "subcat": "Swift",
       "title": "1lck/Lithe-IDEA",
       "url": "https://github.com/1lck/Lithe-IDEA"
@@ -2256,6 +2251,12 @@
       "subcat": "AI & Machine Learning",
       "title": "elie222/rakazo",
       "url": "https://github.com/elie222/rakazo"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Web Development",
+      "title": "PLOT  - TabPFN on Real Frost Data Tells You to Touch...",
+      "url": "https://dev.to/pranjal_manhgaye_d94d7a8f/plot-tabpfn-on-real-frost-data-tells-you-to-touch-grass-54k1"
     }
   ]
 }

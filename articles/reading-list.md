@@ -179,6 +179,15 @@ Fresh dev articles and blog posts.
 - **Summary:** I suppose after three years, we can consider my review of JavaScript Frameworks an annual event now....
 - **Link:** https://dev.to/playfulprogramming/javascript-frameworks-heading-into-2026-2hel
 
+**Added 2026-11-02**
+
+### [PLOT 🌿 - TabPFN on Real Frost Data Tells You to Touch Grass](https://dev.to/pranjal_manhgaye_d94d7a8f/plot-tabpfn-on-real-frost-data-tells-you-to-touch-grass-54k1)
+- **Author:** Pranjal Manhgaye | **Published:** Oct 9 | **Read time:** 5 min
+- **Community:** 69 reactions, 11 comments -- a top post in #webdev
+- **Tags:** devchallenge, hf26challenge, productivity, webdev
+- **Summary:** This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass 🌿            ...
+- **Link:** https://dev.to/pranjal_manhgaye_d94d7a8f/plot-tabpfn-on-real-frost-data-tells-you-to-touch-grass-54k1
+
 
 ## Hacker News Picks
 
