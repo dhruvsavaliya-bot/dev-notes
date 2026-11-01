@@ -473,6 +473,7 @@
     "https://github.com/0xShug0/audio.cpp",
     "https://github.com/0xnyn/airship",
     "https://github.com/1812z/HyperIsland",
+    "https://github.com/1lck/Lithe-IDEA",
     "https://github.com/49-Agents/49-IDE",
     "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
     "https://github.com/AFK-surf/Comma",
@@ -2187,12 +2188,6 @@
   "recent": [
     {
       "date": "2026-11-01",
-      "subcat": "PHP",
-      "title": "Chained PHP2Shell exploit roots 25 servers, including...",
-      "url": "https://news.ycombinator.com/item?id=50286987"
-    },
-    {
-      "date": "2026-11-01",
       "subcat": "Developer Tools",
       "title": "storytold/lightcraft",
       "url": "https://github.com/storytold/lightcraft"
@@ -2244,6 +2239,12 @@
       "subcat": "Hacker News Picks",
       "title": "Hackers activate automatic defrosting in supermarket...",
       "url": "https://news.ycombinator.com/item?id=50055304"
+    },
+    {
+      "date": "2026-11-01",
+      "subcat": "Swift",
+      "title": "1lck/Lithe-IDEA",
+      "url": "https://github.com/1lck/Lithe-IDEA"
     }
   ]
 }

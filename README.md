@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1545 entries and counting** · Last updated: 2026-11-01
+**1546 entries and counting** · Last updated: 2026-11-01
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 310 |
 | [Reading List](articles/reading-list.md) | 310 |
 | [Coding Tips](coding-tips/tips.md) | 309 |
-| [Language Notes](languages/notes.md) | 307 |
+| [Language Notes](languages/notes.md) | 308 |
 
 ## Latest additions
 
+- **2026-11-01** · *Swift* — [1lck/Lithe-IDEA](https://github.com/1lck/Lithe-IDEA)
 - **2026-11-01** · *Hacker News Picks* — [Hackers activate automatic defrosting in supermarket...](https://news.ycombinator.com/item?id=50055304)
 - **2026-11-01** · *Swift* — [Show HN: Auto Dismiss Mac OS "Allow <app> to find...](https://news.ycombinator.com/item?id=50294506)
 - **2026-11-01** · *Models & Datasets* — [black-forest-labs/flux-3-image-klein](https://huggingface.co/black-forest-labs/flux-3-image-klein)
 - **2026-11-01** · *Show & Ask HN* — [Show HN: Indigene  Native plants for where you stand](https://news.ycombinator.com/item?id=50064470)
-- **2026-11-01** · *Models & Datasets* — [Octen/Octen-WebGR-4B](https://huggingface.co/Octen/Octen-WebGR-4B)
 
 ## How it works
 

@@ -1995,6 +1995,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50294506
 - **Link:** https://github.com/johncassil/dontallow
 
+**Added 2026-11-01**
+
+### [1lck/Lithe-IDEA](https://github.com/1lck/Lithe-IDEA)
+- **Stats:** 2,423 stars | 213 forks | 79 open issues
+- **Language:** Swift | **Created:** 2026-08-02 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** A lightweight, cross-platform IDE for the AI era, with on-demand tools and services.
+- **Growth:** averaging ~26 stars/day since launch.
+- **Link:** https://github.com/1lck/Lithe-IDEA
+
 
 ## Rust
 
