@@ -87,6 +87,7 @@
     "http://arxiv.org/abs/2610.36717v1",
     "http://arxiv.org/abs/2610.37126v1",
     "http://arxiv.org/abs/2610.38243v1",
+    "http://arxiv.org/abs/2610.40444v1",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
     "http://boglin.iwarp.com/",
@@ -2200,12 +2201,6 @@
   "recent": [
     {
       "date": "2026-11-01",
-      "subcat": "Swift",
-      "title": "1lck/Lithe-IDEA",
-      "url": "https://github.com/1lck/Lithe-IDEA"
-    },
-    {
-      "date": "2026-11-01",
       "subcat": "AI & Machine Learning",
       "title": "syv-ai/HyperQwen",
       "url": "https://github.com/syv-ai/HyperQwen"
@@ -2257,6 +2252,12 @@
       "subcat": "Web Development",
       "title": "PLOT  - TabPFN on Real Frost Data Tells You to Touch...",
       "url": "https://dev.to/pranjal_manhgaye_d94d7a8f/plot-tabpfn-on-real-frost-data-tells-you-to-touch-grass-54k1"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Research Papers",
+      "title": "Prefix Executability: Evaluating Tool-Using Agents...",
+      "url": "http://arxiv.org/abs/2610.40444v1"
     }
   ]
 }

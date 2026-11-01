@@ -2880,6 +2880,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.38243v1
 
+**Added 2026-11-02**
+
+### [Prefix Executability: Evaluating Tool-Using Agents Beyond Final Success](http://arxiv.org/abs/2610.40444v1)
+- **Authors:** Amir H. Rezaeian, Weiyi Sun, Yassine Benajiba, Dan Roth
+- **Published:** 2026-10-29 | **Primary category:** cs.AI
+- **Categories:** cs.AI, cs.CL
+- **Abstract:** Tool-use benchmarks often score agents by final task success, but terminal outcomes can obscure whether the intermediate tool-call trajectory was executable. We propose prefix executability as a trajectory-level evaluation protocol for tool-using agents. The protocol measures whether every prefix of a predicted tool-call sequence remains executable under tool schemas, state preconditions, and data dependencies, and summarizes reliability using Prefix Executability Curves (PEC), First-Error Depth...
+- **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.40444v1
+
 
 ## Computer Vision
 
