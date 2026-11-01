@@ -673,6 +673,7 @@
     "https://github.com/builtbybel/FluentTweaker",
     "https://github.com/caezium/burrow",
     "https://github.com/carloslfu/slotstream",
+    "https://github.com/cbrock84/headcount",
     "https://github.com/ccch1mneyyy/dsh-TUI",
     "https://github.com/cdyforever/how-to-live-better",
     "https://github.com/celldock/celldock-for-mac",
@@ -2192,12 +2193,6 @@
   "recent": [
     {
       "date": "2026-11-01",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-      "url": "https://news.ycombinator.com/item?id=50214373"
-    },
-    {
-      "date": "2026-11-01",
       "subcat": "Models & Datasets",
       "title": "Octen/Octen-WebGR-4B",
       "url": "https://huggingface.co/Octen/Octen-WebGR-4B"
@@ -2249,6 +2244,12 @@
       "subcat": "Swift",
       "title": "HD838A/remote-mic-app",
       "url": "https://github.com/HD838A/remote-mic-app"
+    },
+    {
+      "date": "2026-11-01",
+      "subcat": "AI & Machine Learning",
+      "title": "cbrock84/headcount",
+      "url": "https://github.com/cbrock84/headcount"
     }
   ]
 }

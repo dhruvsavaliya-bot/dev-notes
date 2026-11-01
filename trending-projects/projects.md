@@ -1394,6 +1394,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~31 stars/day since launch.
 - **Link:** https://github.com/syv-ai/HyperQwen
 
+**Added 2026-11-01**
+
+### [cbrock84/headcount](https://github.com/cbrock84/headcount)
+- **Stats:** 2,551 stars | 418 forks | 5 open issues
+- **Language:** Markdown | **Created:** 2026-08-28 | **License:** MIT
+- **Topics:** agent-marketplace, chatgpt-plugin, chatgpt-skills, claude-code, claude-code-plugin, claude-plugin
+- **What it is:** An agent organization structured as a company — 15+ departments, 125+ skills, each independently installable, citing the standards and regulators that settle the question. Runs in Claude Code and ChatGPT.
+- **Growth:** averaging ~39 stars/day since launch.
+- **Link:** https://github.com/cbrock84/headcount
+
 
 ## Other Cool Projects
 
