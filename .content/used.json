@@ -1263,6 +1263,7 @@
     "https://lobste.rs/s/ecxril/lineageos_24_0_released",
     "https://lobste.rs/s/eesu8d/bun_1_4",
     "https://lobste.rs/s/ekwolo/building_java_me_apps_with_modern_tooling",
+    "https://lobste.rs/s/fmawla/enlightenment_0_28_0_release",
     "https://lobste.rs/s/g2ktrq/chasing_o2_pessimization_antcc",
     "https://lobste.rs/s/gajtrm/debunking_faster_than_rust_malicious",
     "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from",
@@ -2099,6 +2100,7 @@
     "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
     "https://www.docker.com/products/docker-sandboxes/",
     "https://www.economist.com/the-economist-explains/2022/02/25/why-the-west-is-reluctant-to-deny-russian-banks-access-to-swift",
+    "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
     "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
     "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
     "https://www.freebsd.org/status/report-2023-04-2023-06/",
@@ -2196,12 +2198,6 @@
   "recent": [
     {
       "date": "2026-11-01",
-      "subcat": "Models & Datasets",
-      "title": "black-forest-labs/flux-3-image-klein",
-      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein"
-    },
-    {
-      "date": "2026-11-01",
       "subcat": "Swift",
       "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find...",
       "url": "https://news.ycombinator.com/item?id=50294506"
@@ -2253,6 +2249,12 @@
       "subcat": "Swift",
       "title": "vorssaint/vorssaint-utils",
       "url": "https://github.com/vorssaint/vorssaint-utils"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Lobsters Picks",
+      "title": "Enlightenment 0.28.0 Release",
+      "url": "https://lobste.rs/s/fmawla/enlightenment_0_28_0_release"
     }
   ]
 }

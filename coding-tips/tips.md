@@ -2819,6 +2819,16 @@ What I don't quite un...
 - **Discussion:** https://lobste.rs/s/spv7tb/rationale_for_filtering_llm_usage_links
 - **Link:** https://lobste.rs/s/spv7tb/rationale_for_filtering_llm_usage_links
 
+**Added 2026-11-02**
+
+### [Enlightenment 0.28.0 Release](https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0)
+- **Source:** www.enlightenment.org | **Posted:** 2026-10-31 | **By:** vinipsmaker
+- **Community:** 20 score, 1 comments on Lobsters
+- **Tags:** linux, release
+- **Summary:** Their alternative to Qt/GTK (EFL) also got a new release: https://www.enlightenment.org/news/2026-10-31-efl-1.29.0
+- **Discussion:** https://lobste.rs/s/fmawla/enlightenment_0_28_0_release
+- **Link:** https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0
+
 
 ## Career & Craft
 
