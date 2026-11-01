@@ -2858,6 +2858,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/wd4ye5/clojure_conj_2026
 - **Link:** http://www.youtube.com/playlist?list=PLAkHRk3lgU_Q
 
+**Added 2026-11-01**
+
+### [Novellas with groff](https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html)
+- **Source:** movq.de | **Posted:** 2026-10-31 | **By:** zk
+- **Community:** 25 score, 4 comments on Lobsters
+- **Tags:** unix
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/54xwm8/novellas_with_groff
+- **Link:** https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html
+
 
 ## Performance
 

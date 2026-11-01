@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1547 entries and counting** · Last updated: 2026-11-01
+**1548 entries and counting** · Last updated: 2026-11-01
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 310 |
 | [AI / LLM Notes](ai/notes.md) | 310 |
-| [Reading List](articles/reading-list.md) | 310 |
+| [Reading List](articles/reading-list.md) | 311 |
 | [Coding Tips](coding-tips/tips.md) | 309 |
 | [Language Notes](languages/notes.md) | 308 |
 
 ## Latest additions
 
+- **2026-11-01** · *Lobsters Picks* — [Novellas with groff](https://lobste.rs/s/54xwm8/novellas_with_groff)
 - **2026-11-01** · *AI & Machine Learning* — [syv-ai/HyperQwen](https://github.com/syv-ai/HyperQwen)
 - **2026-11-01** · *Swift* — [1lck/Lithe-IDEA](https://github.com/1lck/Lithe-IDEA)
 - **2026-11-01** · *Hacker News Picks* — [Hackers activate automatic defrosting in supermarket...](https://news.ycombinator.com/item?id=50055304)
 - **2026-11-01** · *Swift* — [Show HN: Auto Dismiss Mac OS "Allow <app> to find...](https://news.ycombinator.com/item?id=50294506)
-- **2026-11-01** · *Models & Datasets* — [black-forest-labs/flux-3-image-klein](https://huggingface.co/black-forest-labs/flux-3-image-klein)
 
 ## How it works
 
