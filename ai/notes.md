@@ -2121,6 +2121,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/hongzhuyi/VDEBench
 
+**Added 2026-11-03**
+
+### [Qwen/BlenderWorld](https://huggingface.co/datasets/Qwen/BlenderWorld)
+- **Stats:** 72 likes | 11,638 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-10-14
+- **Tags:** benchmark, harbor, blender, 3d-generation, multimodal
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/Qwen/BlenderWorld
+
 
 ## Research Papers
 

@@ -1056,6 +1056,7 @@
     "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023",
     "https://huggingface.co/datasets/MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x",
     "https://huggingface.co/datasets/OpenGVLab/ShareGPT-4o",
+    "https://huggingface.co/datasets/Qwen/BlenderWorld",
     "https://huggingface.co/datasets/ShadenA/MathNet",
     "https://huggingface.co/datasets/Sharpa-Robotics/SharpaDex-v1.0",
     "https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro",
@@ -2265,12 +2266,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Web & Frontend",
-      "title": "AprilNEA/OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Python",
       "title": "simonlin1212/a-stock-data",
       "url": "https://github.com/simonlin1212/a-stock-data"
@@ -2322,6 +2317,12 @@
       "subcat": "Rust",
       "title": "Google's Rust Style Guide",
       "url": "https://lobste.rs/s/9jgl3x/google_s_rust_style_guide"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "Models & Datasets",
+      "title": "Qwen/BlenderWorld",
+      "url": "https://huggingface.co/datasets/Qwen/BlenderWorld"
     }
   ]
 }
