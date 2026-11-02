@@ -521,6 +521,7 @@
     "https://github.com/Fervent-Tempo/AF-Media-Bar",
     "https://github.com/FlashML-org/FreeVideo",
     "https://github.com/Flow-Tube/Flow",
+    "https://github.com/FrigadeHQ/hob",
     "https://github.com/GMGNAI/gmgn-skills",
     "https://github.com/GordenSun/GordenPPTSkill",
     "https://github.com/Graphicle-AI/graphicle",
@@ -1927,6 +1928,7 @@
     "https://news.ycombinator.com/item?id=50241664",
     "https://news.ycombinator.com/item?id=50242939",
     "https://news.ycombinator.com/item?id=50243060",
+    "https://news.ycombinator.com/item?id=50246238",
     "https://news.ycombinator.com/item?id=50264853",
     "https://news.ycombinator.com/item?id=50264857",
     "https://news.ycombinator.com/item?id=50271521",
@@ -2241,12 +2243,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Models & Datasets",
-      "title": "TheAgenticDataCompany/open-yap-1k",
-      "url": "https://huggingface.co/datasets/TheAgenticDataCompany/open-yap-1k"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Java",
       "title": "Show HN: Encarta 95 Web",
       "url": "https://news.ycombinator.com/item?id=50218975"
@@ -2298,6 +2294,12 @@
       "subcat": "Models & Datasets",
       "title": "tencent/Hy-Nomas",
       "url": "https://huggingface.co/tencent/Hy-Nomas"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Hob - Open-source, on device alternative to...",
+      "url": "https://news.ycombinator.com/item?id=50246238"
     }
   ]
 }

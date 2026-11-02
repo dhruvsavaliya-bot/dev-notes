@@ -2254,6 +2254,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50092470
 - **Link:** https://petal.live/
 
+**Added 2026-11-02**
+
+### [Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob)
+- **Source:** github.com | **Posted:** 2026-10-26 | **By:** pancomplex
+- **Community:** 177 points, 43 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50246238
+- **Link:** https://github.com/FrigadeHQ/hob
+
 
 ## Git & Workflow
 
