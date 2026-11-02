@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1563 entries and counting** · Last updated: 2026-11-02
+**1564 entries and counting** · Last updated: 2026-11-02
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 314 |
 | [AI / LLM Notes](ai/notes.md) | 312 |
 | [Reading List](articles/reading-list.md) | 315 |
-| [Coding Tips](coding-tips/tips.md) | 310 |
+| [Coding Tips](coding-tips/tips.md) | 311 |
 | [Language Notes](languages/notes.md) | 312 |
 
 ## Latest additions
 
+- **2026-11-02** · *Show & Ask HN* — [Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896)
 - **2026-11-02** · *Ruby* — [New plastic pollution discovered: 'Plasticorals'...](https://news.ycombinator.com/item?id=50183512)
 - **2026-11-02** · *Hacker News Picks* — [Show HN: HackerBooks  HackerTube, but for books...](https://news.ycombinator.com/item?id=50326821)
 - **2026-11-02** · *Backend & Infrastructure* — [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme)
 - **2026-11-02** · *Research Papers* — [Understanding and Mitigating Role Spoofing in LLMs](http://arxiv.org/abs/2610.40396v1)
-- **2026-11-02** · *Hacker News Picks* — [Mathematics has changed. Let's act like it](https://news.ycombinator.com/item?id=50328251)
 
 ## How it works
 

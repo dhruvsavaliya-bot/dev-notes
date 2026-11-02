@@ -1926,6 +1926,7 @@
     "https://news.ycombinator.com/item?id=50312756",
     "https://news.ycombinator.com/item?id=50326821",
     "https://news.ycombinator.com/item?id=50328251",
+    "https://news.ycombinator.com/item?id=50328896",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2211,12 +2212,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "AI & Machine Learning",
-      "title": "elie222/rakazo",
-      "url": "https://github.com/elie222/rakazo"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Web Development",
       "title": "PLOT  - TabPFN on Real Frost Data Tells You to Touch...",
       "url": "https://dev.to/pranjal_manhgaye_d94d7a8f/plot-tabpfn-on-real-frost-data-tells-you-to-touch-grass-54k1"
@@ -2268,6 +2263,12 @@
       "subcat": "Ruby",
       "title": "New plastic pollution discovered: 'Plasticorals'...",
       "url": "https://news.ycombinator.com/item?id=50183512"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "url": "https://news.ycombinator.com/item?id=50328896"
     }
   ]
 }
