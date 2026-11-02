@@ -3104,3 +3104,12 @@ Snippets and gotchas across languages.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=50218975
 - **Link:** https://benwinding.github.io/encarta_95_web/#/article/Art
+
+**Added 2026-11-02**
+
+### [Ousted Savannah police officer gave ICE agent husband access to Flock system](https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816)
+- **Source:** www.wjcl.com | **Posted:** 2026-10-19 | **By:** DeepLogin
+- **Community:** 650 points, 374 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50150750
+- **Link:** https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816

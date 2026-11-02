@@ -1893,6 +1893,7 @@
     "https://news.ycombinator.com/item?id=50131189",
     "https://news.ycombinator.com/item?id=50140584",
     "https://news.ycombinator.com/item?id=50150163",
+    "https://news.ycombinator.com/item?id=50150750",
     "https://news.ycombinator.com/item?id=50151036",
     "https://news.ycombinator.com/item?id=50151928",
     "https://news.ycombinator.com/item?id=50152307",
@@ -2241,6 +2242,7 @@
     "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
     "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
     "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+    "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
     "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
     "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
     "https://www.youtube.com/watch?v=25x0UuSCKuU",
@@ -2257,12 +2259,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-11-02",
-      "subcat": "Career & Craft",
-      "title": "Stratagems #32: The AI Logged a Withdrawal. P Took It...",
-      "url": "https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2"
-    },
     {
       "date": "2026-11-02",
       "subcat": "AI & Machine Learning",
@@ -2316,6 +2312,12 @@
       "subcat": "Other Cool Projects",
       "title": "trailofbits/CoBRA",
       "url": "https://github.com/trailofbits/CoBRA"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Java",
+      "title": "Ousted Savannah police officer gave ICE agent husband...",
+      "url": "https://news.ycombinator.com/item?id=50150750"
     }
   ]
 }
