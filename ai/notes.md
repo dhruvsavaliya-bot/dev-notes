@@ -2954,6 +2954,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.40396v1
 
+**Added 2026-11-02**
+
+### [Space AI Infrastructure: Where the Edge Meets the Orbital Cloud](http://arxiv.org/abs/2610.16395v1)
+- **Authors:** Zhanwei Wang, Jianhao Huang, Min Sheng, Kaibin Huang
+- **Published:** 2026-10-12 | **Primary category:** cs.DC
+- **Categories:** cs.DC
+- **Abstract:** The fusion of artificial intelligence (AI) and space technologies is extending spaceborne intelligence beyond onboard payloads toward a global infrastructure, here termed Space AI infrastructure (SpaceAI-Infra). Its promise rests on two distinctive advantages of space systems: abundant solar energy in orbit and the global reach of satellite constellations. Realizing this promise hinges on a fundamental systems question: How should satellite constellations be designed and orchestrated to deliver ...
+- **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.16395v1
+
 
 ## Computer Vision
 

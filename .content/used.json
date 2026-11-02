@@ -51,6 +51,7 @@
     "http://arxiv.org/abs/2610.14543v1",
     "http://arxiv.org/abs/2610.15082v1",
     "http://arxiv.org/abs/2610.15995v1",
+    "http://arxiv.org/abs/2610.16395v1",
     "http://arxiv.org/abs/2610.16592v1",
     "http://arxiv.org/abs/2610.16594v1",
     "http://arxiv.org/abs/2610.16838v1",
@@ -2261,12 +2262,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "AI & Machine Learning",
-      "title": "agent-substrate/substrate",
-      "url": "https://github.com/agent-substrate/substrate"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Python",
       "title": "Rizzo-AI-Academy/rizzo-flow",
       "url": "https://github.com/Rizzo-AI-Academy/rizzo-flow"
@@ -2318,6 +2313,12 @@
       "subcat": "Java",
       "title": "Ousted Savannah police officer gave ICE agent husband...",
       "url": "https://news.ycombinator.com/item?id=50150750"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Research Papers",
+      "title": "Space AI Infrastructure: Where the Edge Meets the...",
+      "url": "http://arxiv.org/abs/2610.16395v1"
     }
   ]
 }
