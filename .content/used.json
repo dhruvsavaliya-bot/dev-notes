@@ -1143,6 +1143,7 @@
     "https://huggingface.co/microsoft/Florence-2-base",
     "https://huggingface.co/microsoft/OmniParser-v2.0",
     "https://huggingface.co/microsoft/TRELLIS-image-large",
+    "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
     "https://huggingface.co/mistralai/Timestral-209M",
     "https://huggingface.co/moonshotai/Kimi-K3",
     "https://huggingface.co/mudler/locate-anything.cpp-gguf",
@@ -2272,12 +2273,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Other Cool Projects",
-      "title": "trailofbits/CoBRA",
-      "url": "https://github.com/trailofbits/CoBRA"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Java",
       "title": "Ousted Savannah police officer gave ICE agent husband...",
       "url": "https://news.ycombinator.com/item?id=50150750"
@@ -2329,6 +2324,12 @@
       "subcat": "Rust",
       "title": "Finding panics with Call Graph Analyzer",
       "url": "https://lobste.rs/s/opqtiv/finding_panics_with_call_graph_analyzer"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "Models & Datasets",
+      "title": "mistralai/Mistral-Large-4-1T-A52B",
+      "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
     }
   ]
 }

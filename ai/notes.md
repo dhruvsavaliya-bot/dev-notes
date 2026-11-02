@@ -2130,6 +2130,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/Qwen/BlenderWorld
 
+**Added 2026-11-03**
+
+### [mistralai/Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B)
+- **Stats:** 1,499 likes | 5,500 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-09-30
+- **Tags:** transformers, mistral_large4, image-text-to-text, vLLM, SGLang, llama.cpp
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B
+
 
 ## Research Papers
 
