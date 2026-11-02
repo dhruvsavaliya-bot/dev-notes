@@ -798,6 +798,7 @@
     "https://github.com/mesamirh/MovieBox-Tui",
     "https://github.com/microsoft/skill-recorder",
     "https://github.com/midesoft/rankGap",
+    "https://github.com/mikroverk/esp32sim",
     "https://github.com/mizorewww/laya-mlx",
     "https://github.com/mizorewww/x_gift_bot",
     "https://github.com/mlc-ai/web-llm",
@@ -1865,6 +1866,7 @@
     "https://news.ycombinator.com/item?id=50121562",
     "https://news.ycombinator.com/item?id=50122736",
     "https://news.ycombinator.com/item?id=50129045",
+    "https://news.ycombinator.com/item?id=50131189",
     "https://news.ycombinator.com/item?id=50140584",
     "https://news.ycombinator.com/item?id=50150163",
     "https://news.ycombinator.com/item?id=50151036",
@@ -2229,12 +2231,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Models & Datasets",
-      "title": "atomscott/soccertrack-v2",
-      "url": "https://huggingface.co/datasets/atomscott/soccertrack-v2"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Lobsters Picks",
       "title": "Radicle: Disclosure of Vulnerability in the Network...",
       "url": "https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability"
@@ -2286,6 +2282,12 @@
       "subcat": "Data Science",
       "title": "Best Stock Market APIs for Python Developers in 2026",
       "url": "https://dev.to/thebitforge/best-stock-market-apis-for-python-developers-in-2026-4j15"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Esp32sim  Run ESP32 firmware in the browser",
+      "url": "https://news.ycombinator.com/item?id=50131189"
     }
   ]
 }
