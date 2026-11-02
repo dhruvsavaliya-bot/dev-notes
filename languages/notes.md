@@ -3044,3 +3044,12 @@ Snippets and gotchas across languages.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/1pmuy7/how_hard_is_it_check_for_whitespace
 - **Link:** https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace
+
+**Added 2026-11-02**
+
+### [Show HN: Encarta 95 Web](https://benwinding.github.io/encarta_95_web/#/article/Art)
+- **Source:** benwinding.github.io | **Posted:** 2026-10-24 | **By:** gitgud
+- **Community:** 151 points, 65 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50218975
+- **Link:** https://benwinding.github.io/encarta_95_web/#/article/Art

@@ -159,6 +159,7 @@
     "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
     "https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/",
     "https://bento.page/slides/",
+    "https://benwinding.github.io/encarta_95_web/#/article/Art",
     "https://bernsteinbear.com/blog/object-shapes/",
     "https://betterwispr.com/",
     "https://bevy.org/news/bevy-0-20/",
@@ -1905,6 +1906,7 @@
     "https://news.ycombinator.com/item?id=50211474",
     "https://news.ycombinator.com/item?id=50212065",
     "https://news.ycombinator.com/item?id=50214373",
+    "https://news.ycombinator.com/item?id=50218975",
     "https://news.ycombinator.com/item?id=50222133",
     "https://news.ycombinator.com/item?id=50225695",
     "https://news.ycombinator.com/item?id=50227330",
@@ -2226,12 +2228,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Ruby",
-      "title": "New plastic pollution discovered: 'Plasticorals'...",
-      "url": "https://news.ycombinator.com/item?id=50183512"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Which TV do you recommend for privacy?",
       "url": "https://news.ycombinator.com/item?id=50328896"
@@ -2283,6 +2279,12 @@
       "subcat": "Models & Datasets",
       "title": "TheAgenticDataCompany/open-yap-1k",
       "url": "https://huggingface.co/datasets/TheAgenticDataCompany/open-yap-1k"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Java",
+      "title": "Show HN: Encarta 95 Web",
+      "url": "https://news.ycombinator.com/item?id=50218975"
     }
   ]
 }
