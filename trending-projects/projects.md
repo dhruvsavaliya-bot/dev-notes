@@ -2727,6 +2727,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/trailofbits/CoBRA
 
+**Added 2026-11-03**
+
+### [openai/math](https://github.com/openai/math)
+- **Stats:** 17,272 stars | 1,949 forks | 0 open issues
+- **Language:** Lean | **Created:** 2026-10-06 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~616 stars/day since launch.
+- **Link:** https://github.com/openai/math
+
 
 ## Web & Frontend
 
