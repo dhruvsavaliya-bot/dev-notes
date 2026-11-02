@@ -1259,6 +1259,7 @@
     "https://lobste.rs/s/cf8mdy/openldk_bringing_java_world_into_common",
     "https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit",
     "https://lobste.rs/s/cquwex/flow_typing_new_lens_on_linearity",
+    "https://lobste.rs/s/cqzwwg/london_meetup_nov_2026",
     "https://lobste.rs/s/culsub/intellij_idea_goes_lsp_java_kotlin",
     "https://lobste.rs/s/cxdpiu/our_response_emudhra_key_disclosure",
     "https://lobste.rs/s/d09iy3/compile_time_dependent_types",
@@ -2232,12 +2233,6 @@
     {
       "date": "2026-11-02",
       "subcat": "Lobsters Picks",
-      "title": "Radicle: Disclosure of Vulnerability in the Network...",
-      "url": "https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability"
-    },
-    {
-      "date": "2026-11-02",
-      "subcat": "Lobsters Picks",
       "title": "Iroh global content discovery",
       "url": "https://lobste.rs/s/eoibah/iroh_global_content_discovery"
     },
@@ -2288,6 +2283,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Esp32sim  Run ESP32 firmware in the browser",
       "url": "https://news.ycombinator.com/item?id=50131189"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Lobsters Picks",
+      "title": "London Meetup - Nov 2026",
+      "url": "https://lobste.rs/s/cqzwwg/london_meetup_nov_2026"
     }
   ]
 }

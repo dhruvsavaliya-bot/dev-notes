@@ -2857,6 +2857,24 @@ What I don't quite un...
 - **Discussion:** https://lobste.rs/s/zjjvbo/work_on_gefs_good_enough_file_system_for
 - **Link:** https://www.undeadly.org/cgi?action=article;sid=20261101115637
 
+**Added 2026-11-02**
+
+### [London Meetup - Nov 2026](https://lobste.rs/s/cqzwwg/london_meetup_nov_2026)
+- **Source:** lobste.rs | **Posted:** 2026-11-01 | **By:** prole
+- **Community:** 24 score, 4 comments on Lobsters
+- **Tags:** event
+- **Summary:** Pub Address: The Fellow, 24 York Way, London, N1 9AA.
+
+Date: Sunday, 15/11/2026 1pm
+
+The idea is to just meet and have a chat really. 
+
+I have submitted a request to book a table. Hopefully they approve but if not we can just find an un-booked table. 
+
+I am posting the meetup prior to receiving their approval, so that those of you who live outside London can (hopefully) bag a cheaper train...
+- **Discussion:** https://lobste.rs/s/cqzwwg/london_meetup_nov_2026
+- **Link:** https://lobste.rs/s/cqzwwg/london_meetup_nov_2026
+
 
 ## Career & Craft
 
