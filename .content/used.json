@@ -1863,6 +1863,7 @@
     "https://news.ycombinator.com/item?id=50084757",
     "https://news.ycombinator.com/item?id=50087328",
     "https://news.ycombinator.com/item?id=50089577",
+    "https://news.ycombinator.com/item?id=50092470",
     "https://news.ycombinator.com/item?id=50094694",
     "https://news.ycombinator.com/item?id=50096110",
     "https://news.ycombinator.com/item?id=50104726",
@@ -1985,6 +1986,7 @@
     "https://parallel-rust-cpp.github.io/introduction.html",
     "https://pdftomp3.com/connect-ai/",
     "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+    "https://petal.live/",
     "https://peterszentkiralyi.eu/darkplug/",
     "https://pharo.org/news/2026-10-26-Pharo14Release.html",
     "https://phptherightway.com/",
@@ -2239,12 +2241,6 @@
     {
       "date": "2026-11-02",
       "subcat": "Lobsters Picks",
-      "title": "The federated code forge",
-      "url": "https://lobste.rs/s/ukj8mm/federated_code_forge"
-    },
-    {
-      "date": "2026-11-02",
-      "subcat": "Lobsters Picks",
       "title": "Work on GEFS (the Good Enough File System) for...",
       "url": "https://lobste.rs/s/zjjvbo/work_on_gefs_good_enough_file_system_for"
     },
@@ -2295,6 +2291,12 @@
       "subcat": "Lobsters Picks",
       "title": "Zig: From Beginner to Slightly Less Beginner",
       "url": "https://lobste.rs/s/uhlnqx/zig_from_beginner_slightly_less_beginner"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Petal, open-source CoScreen/ScreenHero...",
+      "url": "https://news.ycombinator.com/item?id=50092470"
     }
   ]
 }

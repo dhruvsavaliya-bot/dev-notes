@@ -2245,6 +2245,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50131189
 - **Link:** https://github.com/mikroverk/esp32sim
 
+**Added 2026-11-02**
+
+### [Show HN: Petal, open-source CoScreen/ScreenHero finally free](https://petal.live/)
+- **Source:** petal.live | **Posted:** 2026-10-14 | **By:** thedracle
+- **Community:** 228 points, 41 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50092470
+- **Link:** https://petal.live/
+
 
 ## Git & Workflow
 
