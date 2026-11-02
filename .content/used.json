@@ -1362,6 +1362,7 @@
     "https://lobste.rs/s/odrfgk/how_speed_up_rust_compiler_september_2026",
     "https://lobste.rs/s/ogp1wf/inline_rendering_with_document",
     "https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live",
+    "https://lobste.rs/s/opqtiv/finding_panics_with_call_graph_analyzer",
     "https://lobste.rs/s/paryb7/rails_is_done",
     "https://lobste.rs/s/pioj21/performance_cost_rwlock_our_read_heavy",
     "https://lobste.rs/s/plbei0/openfatigue_open_is_new_closed",
@@ -2108,6 +2109,7 @@
     "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
     "https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/",
     "https://tucker.wales/writing/bias-towards-action/",
+    "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/",
     "https://twitchinstalls.com",
     "https://twitter.com/lemire/status/2091894299289874926",
     "https://twitter.com/moxie/status/2091218652133732491",
@@ -2270,12 +2272,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Python",
-      "title": "EverMind-AI/Raven",
-      "url": "https://github.com/EverMind-AI/Raven"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Other Cool Projects",
       "title": "trailofbits/CoBRA",
       "url": "https://github.com/trailofbits/CoBRA"
@@ -2327,6 +2323,12 @@
       "subcat": "Other Cool Projects",
       "title": "openai/math",
       "url": "https://github.com/openai/math"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "Rust",
+      "title": "Finding panics with Call Graph Analyzer",
+      "url": "https://lobste.rs/s/opqtiv/finding_panics_with_call_graph_analyzer"
     }
   ]
 }

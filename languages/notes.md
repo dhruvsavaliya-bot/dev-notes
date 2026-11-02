@@ -2344,6 +2344,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/9jgl3x/google_s_rust_style_guide
 - **Link:** https://google.github.io/styleguide/rustguide.html
 
+**Added 2026-11-03**
+
+### [Finding panics with Call Graph Analyzer](https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/)
+- **Source:** tweedegolf.nl | **Posted:** 2026-10-27 | **By:** icefox
+- **Community:** 21 score, 2 comments on Lobsters
+- **Tags:** compilers, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/opqtiv/finding_panics_with_call_graph_analyzer
+- **Link:** https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/
+
 
 ## Elixir
 
