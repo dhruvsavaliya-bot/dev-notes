@@ -717,6 +717,7 @@
     "https://github.com/dev-null-sh/dev-null.sh",
     "https://github.com/devdotfast/whiteboard",
     "https://github.com/devmikets/hyperliquid-sdk",
+    "https://github.com/didriksg/Crisp",
     "https://github.com/diffusionstudio/editor",
     "https://github.com/digimata/quill",
     "https://github.com/dmmulroy/anti-slop",
@@ -2256,12 +2257,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Productivity",
-      "title": "How to make link to SaaS Launch Video system",
-      "url": "https://dev.to/mashraf_aiman/how-to-make-link-to-saas-launch-video-system-5a8k"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Models & Datasets",
       "title": "unsloth/Qwen3.8-27B-NVFP4",
       "url": "https://huggingface.co/unsloth/Qwen3.8-27B-NVFP4"
@@ -2313,6 +2308,12 @@
       "subcat": "Lobsters Picks",
       "title": "Postgres 19 is late, and it's AI's fault",
       "url": "https://lobste.rs/s/0yxkvs/postgres_19_is_late_it_s_ai_s_fault"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Other Cool Projects",
+      "title": "didriksg/Crisp",
+      "url": "https://github.com/didriksg/Crisp"
     }
   ]
 }

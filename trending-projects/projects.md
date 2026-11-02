@@ -2697,6 +2697,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~452 stars/day since launch.
 - **Link:** https://github.com/Droid-Deck/DroidDeck
 
+**Added 2026-11-02**
+
+### [didriksg/Crisp](https://github.com/didriksg/Crisp)
+- **Stats:** 2,291 stars | 100 forks | 16 open issues
+- **Language:** Swift | **Created:** 2026-07-22 | **License:** MIT
+- **Topics:** 4k, apple-silicon, betterdisplay, brightness, brightness-control, ddc
+- **What it is:** Every display control macOS hides, in one menu bar app: sharp HiDPI/Retina scaling (no more blurry or tiny text), DDC brightness and volume, Extra Brightness past 100%, presets, virtual displays. Free and open source, a no-cost alternative to BetterDisplay and Lunar.
+- **Growth:** averaging ~22 stars/day since launch.
+- **Link:** https://github.com/didriksg/Crisp
+
 
 ## Web & Frontend
 
