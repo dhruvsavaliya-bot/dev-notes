@@ -1381,6 +1381,7 @@
     "https://lobste.rs/s/wno4h3/understanding_nix_flakes",
     "https://lobste.rs/s/wq1csk/elixir_v1_20_released_now_gradually_typed",
     "https://lobste.rs/s/wtthju/a5_v1_0",
+    "https://lobste.rs/s/wuiaba/deterministic_concurrency",
     "https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites",
     "https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel",
     "https://lobste.rs/s/xpyahx/grubby_static_site_generator_for_git",
@@ -2203,6 +2204,7 @@
     "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
     "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
+    "https://www.youtube.com/watch?v=25x0UuSCKuU",
     "https://xcancel.com/__alpoge__/status/2079028340955197566",
     "https://xoranth.net/gcc-switch/",
     "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
@@ -2215,12 +2217,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-11-02",
-      "subcat": "AI & Machine Learning",
-      "title": "danyuchn/asd-ste100-skill",
-      "url": "https://github.com/danyuchn/asd-ste100-skill"
-    },
     {
       "date": "2026-11-02",
       "subcat": "Hacker News Picks",
@@ -2274,6 +2270,12 @@
       "subcat": "Lobsters Picks",
       "title": "Iroh global content discovery",
       "url": "https://lobste.rs/s/eoibah/iroh_global_content_discovery"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Lobsters Picks",
+      "title": "Deterministic Concurrency",
+      "url": "https://lobste.rs/s/wuiaba/deterministic_concurrency"
     }
   ]
 }

@@ -2925,6 +2925,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/eoibah/iroh_global_content_discovery
 - **Link:** https://www.iroh.computer/blog/iroh-global-content-discovery
 
+**Added 2026-11-02**
+
+### [Deterministic Concurrency](https://www.youtube.com/watch?v=25x0UuSCKuU)
+- **Source:** www.youtube.com | **Posted:** 2026-09-29 | **By:** tomas
+- **Community:** 19 score, 1 comments on Lobsters
+- **Tags:** distributed, video
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/wuiaba/deterministic_concurrency
+- **Link:** https://www.youtube.com/watch?v=25x0UuSCKuU
+
 
 ## Performance
 
