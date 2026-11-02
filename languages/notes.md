@@ -2334,6 +2334,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/ttcx5k/announcing_rust_1_99_1
 - **Link:** https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/
 
+**Added 2026-11-03**
+
+### [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
+- **Source:** google.github.io | **Posted:** 2026-10-21 | **By:** kaycebasques
+- **Community:** 54 score, 17 comments on Lobsters
+- **Tags:** rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/9jgl3x/google_s_rust_style_guide
+- **Link:** https://google.github.io/styleguide/rustguide.html
+
 
 ## Elixir
 
