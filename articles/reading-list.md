@@ -2905,6 +2905,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/rpiu3w/kluever_maneuver
 - **Link:** https://jordi.inversethought.com/blog/the-kluever-maneuver/
 
+**Added 2026-11-02**
+
+### [Radicle: Disclosure of Vulnerability in the Network Protocol](https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html)
+- **Source:** radicle.dev | **Posted:** 2026-09-23 | **By:** tuxes
+- **Community:** 147 score, 62 comments on Lobsters
+- **Tags:** distributed, security, vcs
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability
+- **Link:** https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html
+
 
 ## Performance
 

@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1565 entries and counting** · Last updated: 2026-11-02
+**1566 entries and counting** · Last updated: 2026-11-02
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 314 |
 | [AI / LLM Notes](ai/notes.md) | 313 |
-| [Reading List](articles/reading-list.md) | 315 |
+| [Reading List](articles/reading-list.md) | 316 |
 | [Coding Tips](coding-tips/tips.md) | 311 |
 | [Language Notes](languages/notes.md) | 312 |
 
 ## Latest additions
 
+- **2026-11-02** · *Lobsters Picks* — [Radicle: Disclosure of Vulnerability in the Network...](https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability)
 - **2026-11-02** · *Models & Datasets* — [atomscott/soccertrack-v2](https://huggingface.co/datasets/atomscott/soccertrack-v2)
 - **2026-11-02** · *Show & Ask HN* — [Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896)
 - **2026-11-02** · *Ruby* — [New plastic pollution discovered: 'Plasticorals'...](https://news.ycombinator.com/item?id=50183512)
 - **2026-11-02** · *Hacker News Picks* — [Show HN: HackerBooks  HackerTube, but for books...](https://news.ycombinator.com/item?id=50326821)
-- **2026-11-02** · *Backend & Infrastructure* — [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme)
 
 ## How it works
 
