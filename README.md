@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1586 entries and counting** · Last updated: 2026-11-02
+**1587 entries and counting** · Last updated: 2026-11-02
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 314 |
 | [AI / LLM Notes](ai/notes.md) | 319 |
 | [Reading List](articles/reading-list.md) | 320 |
-| [Coding Tips](coding-tips/tips.md) | 318 |
+| [Coding Tips](coding-tips/tips.md) | 319 |
 | [Language Notes](languages/notes.md) | 315 |
 
 ## Latest additions
 
+- **2026-11-02** · *Career & Craft* — [Stratagems #32: The AI Logged a Withdrawal. P Took It...](https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2)
 - **2026-11-02** · *Models & Datasets* — [hongzhuyi/VDEBench](https://huggingface.co/datasets/hongzhuyi/VDEBench)
 - **2026-11-02** · *Models & Datasets* — [unsloth/Qwen3.8-27B-NVFP4](https://huggingface.co/unsloth/Qwen3.8-27B-NVFP4)
 - **2026-11-02** · *Productivity* — [How to make link to SaaS Launch Video system](https://dev.to/mashraf_aiman/how-to-make-link-to-saas-launch-video-system-5a8k)
 - **2026-11-02** · *LLMs* — [Are We Using AI at the Wrong Scale?](https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo)
-- **2026-11-02** · *Show & Ask HN* — [Show HN: Hob - Open-source, on device alternative to...](https://news.ycombinator.com/item?id=50246238)
 
 ## How it works
 

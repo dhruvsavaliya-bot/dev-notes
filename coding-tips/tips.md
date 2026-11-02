@@ -2959,6 +2959,15 @@ I am posting the meetup prior to receiving their approval, so that those of you 
 - **Summary:** Every CS student knows the drill. You get an assignment, write your code on your laptop using...
 - **Link:** https://dev.to/maame-codes/localhost-is-a-lie-everything-uni-missed-about-real-world-tech-66n
 
+**Added 2026-11-02**
+
+### [Stratagems #32: The AI Logged a Withdrawal. P Took It as Proof.](https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2)
+- **Author:** xulingfeng | **Published:** Oct 27 | **Read time:** 15 min
+- **Community:** 116 reactions, 85 comments -- a top post in #career
+- **Tags:** ai, discuss, programming, career
+- **Summary:** Make empty what is already empty. Let doubt breed inside doubt. — The 36 Stratagems, The Empty Fort...
+- **Link:** https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2
+
 
 ## Testing
 
