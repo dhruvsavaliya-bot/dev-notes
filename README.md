@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1576 entries and counting** · Last updated: 2026-11-02
+**1577 entries and counting** · Last updated: 2026-11-02
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 315 |
 | [Reading List](articles/reading-list.md) | 320 |
 | [Coding Tips](coding-tips/tips.md) | 314 |
-| [Language Notes](languages/notes.md) | 313 |
+| [Language Notes](languages/notes.md) | 314 |
 
 ## Latest additions
 
+- **2026-11-02** · *Rust* — [Announcing Rust 1.99.1](https://lobste.rs/s/ttcx5k/announcing_rust_1_99_1)
 - **2026-11-02** · *Lobsters Picks* — [London Meetup - Nov 2026](https://lobste.rs/s/cqzwwg/london_meetup_nov_2026)
 - **2026-11-02** · *Show & Ask HN* — [Show HN: Esp32sim  Run ESP32 firmware in the browser](https://news.ycombinator.com/item?id=50131189)
 - **2026-11-02** · *Data Science* — [Best Stock Market APIs for Python Developers in 2026](https://dev.to/thebitforge/best-stock-market-apis-for-python-developers-in-2026-4j15)
 - **2026-11-02** · *Java* — [Show HN: Encarta 95 Web](https://news.ycombinator.com/item?id=50218975)
-- **2026-11-02** · *Models & Datasets* — [TheAgenticDataCompany/open-yap-1k](https://huggingface.co/datasets/TheAgenticDataCompany/open-yap-1k)
 
 ## How it works
 

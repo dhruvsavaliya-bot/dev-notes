@@ -2294,6 +2294,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/1s3dve/superoptimizing_fpu_emulator
 - **Link:** https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/
 
+**Added 2026-11-02**
+
+### [Announcing Rust 1.99.1](https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/)
+- **Source:** blog.rust-lang.org | **Posted:** 2026-10-15 | **By:** BD103
+- **Community:** 33 score, 7 comments on Lobsters
+- **Tags:** release, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/ttcx5k/announcing_rust_1_99_1
+- **Link:** https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/
+
 
 ## Elixir
 

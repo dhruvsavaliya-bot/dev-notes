@@ -193,6 +193,7 @@
     "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
     "https://blog.roboflow.com/openai-gpt-5-6/",
     "https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/",
+    "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
     "https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5",
     "https://blog.webb.page/WM-105",
     "https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state",
@@ -1365,6 +1366,7 @@
     "https://lobste.rs/s/tmr7jp/extend_lua_with_zig_1_hello_world",
     "https://lobste.rs/s/tp0zlk/stackless_floodfill_automation_2023",
     "https://lobste.rs/s/tsfs3w/why_function_arguments_are_not_function",
+    "https://lobste.rs/s/ttcx5k/announcing_rust_1_99_1",
     "https://lobste.rs/s/ttp7aq/backdoors_claude_code_for_vs_cursor",
     "https://lobste.rs/s/u4vlin/french_supermarket_chains_say",
     "https://lobste.rs/s/u7dr96/soft_deprecating_re_match",
@@ -2233,12 +2235,6 @@
     {
       "date": "2026-11-02",
       "subcat": "Lobsters Picks",
-      "title": "Iroh global content discovery",
-      "url": "https://lobste.rs/s/eoibah/iroh_global_content_discovery"
-    },
-    {
-      "date": "2026-11-02",
-      "subcat": "Lobsters Picks",
       "title": "Deterministic Concurrency",
       "url": "https://lobste.rs/s/wuiaba/deterministic_concurrency"
     },
@@ -2289,6 +2285,12 @@
       "subcat": "Lobsters Picks",
       "title": "London Meetup - Nov 2026",
       "url": "https://lobste.rs/s/cqzwwg/london_meetup_nov_2026"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Rust",
+      "title": "Announcing Rust 1.99.1",
+      "url": "https://lobste.rs/s/ttcx5k/announcing_rust_1_99_1"
     }
   ]
 }
