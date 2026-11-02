@@ -881,6 +881,7 @@
     "https://github.com/shellhub-io/shellhub",
     "https://github.com/shihabal3amri/DiPlay",
     "https://github.com/shilapi/xcertplay",
+    "https://github.com/simonlin1212/a-stock-data",
     "https://github.com/sivchari/kumo",
     "https://github.com/slvDev/esp32-ai",
     "https://github.com/snuri00/ps2-web-recomp",
@@ -2253,12 +2254,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Hob - Open-source, on device alternative to...",
-      "url": "https://news.ycombinator.com/item?id=50246238"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "LLMs",
       "title": "Are We Using AI at the Wrong Scale?",
       "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo"
@@ -2310,6 +2305,12 @@
       "subcat": "Web & Frontend",
       "title": "AprilNEA/OpenLogi",
       "url": "https://github.com/AprilNEA/OpenLogi"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Python",
+      "title": "simonlin1212/a-stock-data",
+      "url": "https://github.com/simonlin1212/a-stock-data"
     }
   ]
 }

@@ -1048,6 +1048,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~22 stars/day since launch.
 - **Link:** https://github.com/Rizzo-AI-Academy/rizzo-flow
 
+**Added 2026-11-02**
+
+### [simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data)
+- **Stats:** 11,415 stars | 2,061 forks | 2 open issues
+- **Language:** Python | **Created:** 2026-05-11 | **License:** Apache-2.0
+- **Topics:** a-share, ai-agent, ai-skill, china-stocks, claude-code, financial-data
+- **What it is:** A股全栈数据工具包：行情K线·当日逐笔·研报·信号·资金面·新闻·财务·公告·打板·ETF期权·舆情·宏观利率·期货大宗(含大商所日K)·事件驱动·可转债 | 15层·87端点·34数据源·除iwencai外免Key | A-share data for AI agents: K-lines, ticks, reports, fund flow, news, financials, filings, options, macro, futures, events, convertibles | 15 layers·87 endpoints·34 sources
+- **Growth:** averaging ~65 stars/day since launch.
+- **Link:** https://github.com/simonlin1212/a-stock-data
+
 
 ## Go
 
