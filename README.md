@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1602 entries and counting** · Last updated: 2026-11-03
+**1603 entries and counting** · Last updated: 2026-11-03
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 319 |
 | [AI / LLM Notes](ai/notes.md) | 321 |
 | [Reading List](articles/reading-list.md) | 321 |
-| [Coding Tips](coding-tips/tips.md) | 321 |
+| [Coding Tips](coding-tips/tips.md) | 322 |
 | [Language Notes](languages/notes.md) | 320 |
 
 ## Latest additions
 
+- **2026-11-03** · *Show & Ask HN* — [Show HN: Sumi.css  CSS Framework](https://news.ycombinator.com/item?id=50180039)
 - **2026-11-03** · *Lobsters Picks* — [What are you doing this weekend?](https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend)
 - **2026-11-03** · *Models & Datasets* — [Qwen/BlenderWorld](https://huggingface.co/datasets/Qwen/BlenderWorld)
 - **2026-11-03** · *Rust* — [Google's Rust Style Guide](https://lobste.rs/s/9jgl3x/google_s_rust_style_guide)
 - **2026-11-03** · *AI & Machine Learning* — [heydamir/unslop](https://github.com/heydamir/unslop)
-- **2026-11-02** · *Research Papers* — [Space AI Infrastructure: Where the Edge Meets the...](http://arxiv.org/abs/2610.16395v1)
 
 ## How it works
 

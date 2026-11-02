@@ -929,6 +929,7 @@
     "https://github.com/vikejs/vike",
     "https://github.com/vinvcn/mattpocock-skills-zh-CN",
     "https://github.com/vinzdg/codenotch",
+    "https://github.com/vladocar/Sumi.css",
     "https://github.com/vojtaholik/good-css",
     "https://github.com/vorssaint/vorssaint-utils",
     "https://github.com/voxivoid/recipe-lab-sony-pmca",
@@ -1922,6 +1923,7 @@
     "https://news.ycombinator.com/item?id=50175510",
     "https://news.ycombinator.com/item?id=50176544",
     "https://news.ycombinator.com/item?id=50177911",
+    "https://news.ycombinator.com/item?id=50180039",
     "https://news.ycombinator.com/item?id=50180079",
     "https://news.ycombinator.com/item?id=50180873",
     "https://news.ycombinator.com/item?id=50181175",
@@ -2267,12 +2269,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Lobsters Picks",
-      "title": "Postgres 19 is late, and it's AI's fault",
-      "url": "https://lobste.rs/s/0yxkvs/postgres_19_is_late_it_s_ai_s_fault"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Other Cool Projects",
       "title": "didriksg/Crisp",
       "url": "https://github.com/didriksg/Crisp"
@@ -2324,6 +2320,12 @@
       "subcat": "Lobsters Picks",
       "title": "What are you doing this weekend?",
       "url": "https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Sumi.css  CSS Framework",
+      "url": "https://news.ycombinator.com/item?id=50180039"
     }
   ]
 }
