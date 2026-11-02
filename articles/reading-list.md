@@ -2935,6 +2935,18 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/wuiaba/deterministic_concurrency
 - **Link:** https://www.youtube.com/watch?v=25x0UuSCKuU
 
+**Added 2026-11-02**
+
+### [Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)](https://github.com/dtonon/squalk)
+- **Source:** github.com | **Posted:** 2026-09-21 | **By:** daniele
+- **Community:** 18 score, 8 comments on Lobsters
+- **Tags:** distributed, show, web
+- **Summary:** I miss classic forums: slow, asynchronous threads that stay readable and searchable for years, instead of knowledge dissolving into chat scrollback. Squalk is my attempt to rebuild that on top of Nostr, an open protocol where users hold a keypair, posts are signed events, and interchangeable relays store and serve them, instead of a private database.
+
+The design in short: a forum is a view over ...
+- **Discussion:** https://lobste.rs/s/haq46t/squalk_old_school_forum_engine_built_on
+- **Link:** https://github.com/dtonon/squalk
+
 
 ## Performance
 

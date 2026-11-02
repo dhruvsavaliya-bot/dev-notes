@@ -714,6 +714,7 @@
     "https://github.com/dsh-market/dsh-market",
     "https://github.com/dsh-tauri/deepseek-harness-desktop",
     "https://github.com/dsmurrell/onkey",
+    "https://github.com/dtonon/squalk",
     "https://github.com/duty1g/x64dbg-mcp-server",
     "https://github.com/dzhng/jevgrep",
     "https://github.com/elder-plinius/T3MP3ST",
@@ -1283,6 +1284,7 @@
     "https://lobste.rs/s/gu7bow/node_js_wednesday_october_21_2026",
     "https://lobste.rs/s/gvy5gz/why_is_this_fingerprinting_script",
     "https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait",
+    "https://lobste.rs/s/haq46t/squalk_old_school_forum_engine_built_on",
     "https://lobste.rs/s/hccdqa/shipping_jpeg_xl_chrome",
     "https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not",
     "https://lobste.rs/s/hplfis/examining_macos_gcc_binary",
@@ -2219,12 +2221,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Hacker News Picks",
-      "title": "Mathematics has changed. Let's act like it",
-      "url": "https://news.ycombinator.com/item?id=50328251"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Research Papers",
       "title": "Understanding and Mitigating Role Spoofing in LLMs",
       "url": "http://arxiv.org/abs/2610.40396v1"
@@ -2276,6 +2272,12 @@
       "subcat": "Lobsters Picks",
       "title": "Deterministic Concurrency",
       "url": "https://lobste.rs/s/wuiaba/deterministic_concurrency"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Lobsters Picks",
+      "title": "Squalk: an old-school forum engine built on Nostr...",
+      "url": "https://lobste.rs/s/haq46t/squalk_old_school_forum_engine_built_on"
     }
   ]
 }
