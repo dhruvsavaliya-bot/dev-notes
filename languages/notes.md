@@ -2387,6 +2387,17 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/lfusbg/atom_exhaustion_is_not_footgun_it_s_one
 - **Link:** https://erlef.org/blog/security/atom-exhaustion
 
+**Added 2026-11-02**
+
+### [AtomVM 2025 Year in Review](https://substack.com/home/post/p-186191026)
+- **Source:** substack.com | **Posted:** 2026-01-29 | **By:** adamcstephens
+- **Community:** 7 score, 0 comments on Lobsters
+- **Tags:** elixir, erlang
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/c0xw18/atomvm_2025_year_review
+- **Link:** https://substack.com/home/post/p-186191026
+
+
 ## C#
 
 **Added 2026-10-06**

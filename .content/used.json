@@ -1251,6 +1251,7 @@
     "https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical",
     "https://lobste.rs/s/brdwr2/redox_ring_buffers_project_summary",
     "https://lobste.rs/s/brrnpm/outside_scope_our_support",
+    "https://lobste.rs/s/c0xw18/atomvm_2025_year_review",
     "https://lobste.rs/s/c0yniy/stalwart_v1_0_fastest_mail_server_on",
     "https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me",
     "https://lobste.rs/s/cajuq6/python_s_experimental_jit_be_removed",
@@ -2051,6 +2052,7 @@
     "https://strandsagents.com/blog/introducing-strands-decider/",
     "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
     "https://stripeacross.com/posts/poisson-disk-sampling/",
+    "https://substack.com/home/post/p-186191026",
     "https://sujithjay.com/inventing-work",
     "https://sunshowers.io/posts/anthropic-mononoke/",
     "https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en",
@@ -2235,12 +2237,6 @@
     {
       "date": "2026-11-02",
       "subcat": "Lobsters Picks",
-      "title": "Deterministic Concurrency",
-      "url": "https://lobste.rs/s/wuiaba/deterministic_concurrency"
-    },
-    {
-      "date": "2026-11-02",
-      "subcat": "Lobsters Picks",
       "title": "Squalk: an old-school forum engine built on Nostr...",
       "url": "https://lobste.rs/s/haq46t/squalk_old_school_forum_engine_built_on"
     },
@@ -2291,6 +2287,12 @@
       "subcat": "Rust",
       "title": "Announcing Rust 1.99.1",
       "url": "https://lobste.rs/s/ttcx5k/announcing_rust_1_99_1"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Elixir",
+      "title": "AtomVM 2025 Year in Review",
+      "url": "https://lobste.rs/s/c0xw18/atomvm_2025_year_review"
     }
   ]
 }
