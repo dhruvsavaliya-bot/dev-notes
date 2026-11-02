@@ -349,6 +349,7 @@
     "https://dev.to/maame-codes/i-fixed-the-bug-then-my-pipeline-refused-to-run-4c7i",
     "https://dev.to/maame-codes/localhost-is-a-lie-everything-uni-missed-about-real-world-tech-66n",
     "https://dev.to/malusev998/why-i-built-an-ssh-config-and-tunnel-manager-for-macos-58n8",
+    "https://dev.to/mashraf_aiman/how-to-make-link-to-saas-launch-video-system-5a8k",
     "https://dev.to/metal3d/git-worktree-like-a-boss-2j1b",
     "https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd",
     "https://dev.to/mikachu/i-made-866-commits-in-5-weeks-my-understanding-didnt-keep-up-cmo",
@@ -2244,12 +2245,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Data Science",
-      "title": "Best Stock Market APIs for Python Developers in 2026",
-      "url": "https://dev.to/thebitforge/best-stock-market-apis-for-python-developers-in-2026-4j15"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Esp32sim  Run ESP32 firmware in the browser",
       "url": "https://news.ycombinator.com/item?id=50131189"
@@ -2301,6 +2296,12 @@
       "subcat": "LLMs",
       "title": "Are We Using AI at the Wrong Scale?",
       "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Productivity",
+      "title": "How to make link to SaaS Launch Video system",
+      "url": "https://dev.to/mashraf_aiman/how-to-make-link-to-saas-launch-video-system-5a8k"
     }
   ]
 }

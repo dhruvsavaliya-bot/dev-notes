@@ -220,6 +220,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** I sat down to work for 2 hours. I actually worked for 45 minutes.  Sound familiar?  You open your...
 - **Link:** https://dev.to/harsh2644/youre-not-lazy-youre-time-blind-heres-how-lock-in-fixes-it-57ej
 
+**Added 2026-11-02**
+
+### [How to make link to SaaS Launch Video system](https://dev.to/mashraf_aiman/how-to-make-link-to-saas-launch-video-system-5a8k)
+- **Author:** Mashraf Aiman | **Published:** Nov 2 | **Read time:** 3 min
+- **Community:** 55 reactions, 2 comments -- a top post in #productivity
+- **Tags:** ai, opensource, saas, productivity
+- **Summary:** A screenshot can show what you built. A screen recording can show how it works. But making a short,...
+- **Link:** https://dev.to/mashraf_aiman/how-to-make-link-to-saas-launch-video-system-5a8k
+
 
 ## Hacker News Picks
 
