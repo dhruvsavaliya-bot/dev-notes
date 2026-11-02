@@ -2103,6 +2103,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/tencent/Hy-Nomas
 
+**Added 2026-11-02**
+
+### [unsloth/Qwen3.8-27B-NVFP4](https://huggingface.co/unsloth/Qwen3.8-27B-NVFP4)
+- **Stats:** 531 likes | 1,600,904 downloads
+- **Kind:** Hugging Face model | **Task:** n/a | **Created:** 2026-08-13
+- **Tags:** safetensors, qwen3_5, unsloth, compressed-tensors
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/unsloth/Qwen3.8-27B-NVFP4
+
 
 ## Research Papers
 

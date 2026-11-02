@@ -1150,6 +1150,7 @@
     "https://huggingface.co/unsloth/Qwen-Image-2.1-GGUF",
     "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+    "https://huggingface.co/unsloth/Qwen3.8-27B-NVFP4",
     "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
     "https://huggingface.co/vllm-sr/d3",
     "https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base",
@@ -2245,12 +2246,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Esp32sim  Run ESP32 firmware in the browser",
-      "url": "https://news.ycombinator.com/item?id=50131189"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Lobsters Picks",
       "title": "London Meetup - Nov 2026",
       "url": "https://lobste.rs/s/cqzwwg/london_meetup_nov_2026"
@@ -2302,6 +2297,12 @@
       "subcat": "Productivity",
       "title": "How to make link to SaaS Launch Video system",
       "url": "https://dev.to/mashraf_aiman/how-to-make-link-to-saas-launch-video-system-5a8k"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Models & Datasets",
+      "title": "unsloth/Qwen3.8-27B-NVFP4",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-27B-NVFP4"
     }
   ]
 }
