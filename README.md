@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1592 entries and counting** · Last updated: 2026-11-02
+**1593 entries and counting** · Last updated: 2026-11-02
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 316 |
 | [AI / LLM Notes](ai/notes.md) | 319 |
 | [Reading List](articles/reading-list.md) | 320 |
-| [Coding Tips](coding-tips/tips.md) | 320 |
+| [Coding Tips](coding-tips/tips.md) | 321 |
 | [Language Notes](languages/notes.md) | 317 |
 
 ## Latest additions
 
+- **2026-11-02** · *Lobsters Picks* — [Postgres 19 is late, and it's AI's fault](https://lobste.rs/s/0yxkvs/postgres_19_is_late_it_s_ai_s_fault)
 - **2026-11-02** · *Python* — [simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data)
 - **2026-11-02** · *Web & Frontend* — [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
 - **2026-11-02** · *Lobsters Picks* — [Understanding Org's LaTeX previews](https://lobste.rs/s/yihs7m/understanding_org_s_latex_previews)
 - **2026-11-02** · *Python* — [Rizzo-AI-Academy/rizzo-flow](https://github.com/Rizzo-AI-Academy/rizzo-flow)
-- **2026-11-02** · *AI & Machine Learning* — [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
 
 ## How it works
 

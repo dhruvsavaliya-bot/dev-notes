@@ -103,6 +103,7 @@
     "http://php.net/releases/7_2_0.php",
     "http://prooffreaderplus.blogspot.com/2014/11/top-10-python-idioms-i-wished-id.html",
     "http://realtimegarbagecollector.com/",
+    "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
     "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
     "http://spotthedrowningchild.com",
     "http://www.ianlandsman.com/2012/02/22/laravel",
@@ -1211,6 +1212,7 @@
     "https://lobste.rs/s/05xrj8/we_have_traits_at_home",
     "https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial",
     "https://lobste.rs/s/0gvyif/software_developers_are_not_okay",
+    "https://lobste.rs/s/0yxkvs/postgres_19_is_late_it_s_ai_s_fault",
     "https://lobste.rs/s/1h5kuj/pharo_14_released",
     "https://lobste.rs/s/1pmuy7/how_hard_is_it_check_for_whitespace",
     "https://lobste.rs/s/1s3dve/superoptimizing_fpu_emulator",
@@ -2254,12 +2256,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "LLMs",
-      "title": "Are We Using AI at the Wrong Scale?",
-      "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Productivity",
       "title": "How to make link to SaaS Launch Video system",
       "url": "https://dev.to/mashraf_aiman/how-to-make-link-to-saas-launch-video-system-5a8k"
@@ -2311,6 +2307,12 @@
       "subcat": "Python",
       "title": "simonlin1212/a-stock-data",
       "url": "https://github.com/simonlin1212/a-stock-data"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Lobsters Picks",
+      "title": "Postgres 19 is late, and it's AI's fault",
+      "url": "https://lobste.rs/s/0yxkvs/postgres_19_is_late_it_s_ai_s_fault"
     }
   ]
 }

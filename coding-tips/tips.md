@@ -2930,6 +2930,16 @@ I am posting the meetup prior to receiving their approval, so that those of you 
 - **Discussion:** https://lobste.rs/s/yihs7m/understanding_org_s_latex_previews
 - **Link:** https://karthinks.com/software/understanding-org-latex-preview/
 
+**Added 2026-11-02**
+
+### [Postgres 19 is late, and it's AI's fault](http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html)
+- **Source:** rhaas.blogspot.com | **Posted:** 2026-11-01 | **By:** eduard
+- **Community:** 35 score, 12 comments on Lobsters
+- **Tags:** databases, practices
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/0yxkvs/postgres_19_is_late_it_s_ai_s_fault
+- **Link:** http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html
+
 
 ## Career & Craft
 
