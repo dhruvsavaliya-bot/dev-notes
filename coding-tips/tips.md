@@ -2920,6 +2920,16 @@ I am posting the meetup prior to receiving their approval, so that those of you 
 - **Discussion:** https://lobste.rs/s/uhlnqx/zig_from_beginner_slightly_less_beginner
 - **Link:** https://www.youtube.com/watch?v=jWCQXBVIyrY
 
+**Added 2026-11-02**
+
+### [Understanding Org's LaTeX previews](https://karthinks.com/software/understanding-org-latex-preview/)
+- **Source:** karthinks.com | **Posted:** 2026-11-01 | **By:** ehamberg
+- **Community:** 15 score, 0 comments on Lobsters
+- **Tags:** emacs
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/yihs7m/understanding_org_s_latex_previews
+- **Link:** https://karthinks.com/software/understanding-org-latex-preview/
+
 
 ## Career & Craft
 

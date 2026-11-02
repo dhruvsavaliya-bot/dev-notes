@@ -1181,6 +1181,7 @@
     "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
     "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
     "https://kaba.cx/posts/20261020_Tor/",
+    "https://karthinks.com/software/understanding-org-latex-preview/",
     "https://kde.org/announcements/plasma/6/6.8.0/",
     "https://keepthescore.co/blog/posts/costs-of-running-webapp/",
     "https://kevquirk.com/i-switched-to-brave-browser",
@@ -1412,6 +1413,7 @@
     "https://lobste.rs/s/xxdda9/what_are_you_doing_this_week",
     "https://lobste.rs/s/yczems/emacs_finally_folds_my_liking",
     "https://lobste.rs/s/ygp18d/hanami_why_model_citizens",
+    "https://lobste.rs/s/yihs7m/understanding_org_s_latex_previews",
     "https://lobste.rs/s/ysyqnt/small_web_is_huge",
     "https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn",
     "https://lobste.rs/s/yxuvie/alpinebsd",
@@ -2250,12 +2252,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Petal, open-source CoScreen/ScreenHero...",
-      "url": "https://news.ycombinator.com/item?id=50092470"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Models & Datasets",
       "title": "tencent/Hy-Nomas",
       "url": "https://huggingface.co/tencent/Hy-Nomas"
@@ -2307,6 +2303,12 @@
       "subcat": "Python",
       "title": "Rizzo-AI-Academy/rizzo-flow",
       "url": "https://github.com/Rizzo-AI-Academy/rizzo-flow"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Lobsters Picks",
+      "title": "Understanding Org's LaTeX previews",
+      "url": "https://lobste.rs/s/yihs7m/understanding_org_s_latex_previews"
     }
   ]
 }
