@@ -402,6 +402,7 @@
     "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g",
     "https://dev.to/the_nortern_dev/my-2026-tech-stack-is-boring-as-hell-and-that-is-the-point-20c1",
     "https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi",
+    "https://dev.to/thebitforge/best-stock-market-apis-for-python-developers-in-2026-4j15",
     "https://dev.to/thebitforge/the-architecture-nobody-talks-about-how-i-built-systems-that-actually-scale-and-why-most-dont-3fk5",
     "https://dev.to/therealmrmumba/7-best-ai-project-management-tools-for-software-development-teams-in-2026-fik",
     "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
@@ -2228,12 +2229,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: Which TV do you recommend for privacy?",
-      "url": "https://news.ycombinator.com/item?id=50328896"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Models & Datasets",
       "title": "atomscott/soccertrack-v2",
       "url": "https://huggingface.co/datasets/atomscott/soccertrack-v2"
@@ -2285,6 +2280,12 @@
       "subcat": "Java",
       "title": "Show HN: Encarta 95 Web",
       "url": "https://news.ycombinator.com/item?id=50218975"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Data Science",
+      "title": "Best Stock Market APIs for Python Developers in 2026",
+      "url": "https://dev.to/thebitforge/best-stock-market-apis-for-python-developers-in-2026-4j15"
     }
   ]
 }

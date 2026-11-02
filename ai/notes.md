@@ -2929,3 +2929,14 @@ Lessons from building with LLMs.
 - **Tags:** devchallenge, geminireflections, gemini, computervision
 - **Summary:** This is a submission for the Built with Google Gemini: Writing Challenge           What I Built with...
 - **Link:** https://dev.to/yadav_singh_8b2d910255664/can-ai-help-in-crisis-moments-building-a-real-time-therapy-assistant-3m47
+
+## Data Science
+
+**Added 2026-11-02**
+
+### [Best Stock Market APIs for Python Developers in 2026](https://dev.to/thebitforge/best-stock-market-apis-for-python-developers-in-2026-4j15)
+- **Author:** TheBitForge | **Published:** Oct 28 | **Read time:** 9 min
+- **Community:** 55 reactions, 1 comments -- a top post in #datascience
+- **Tags:** python, api, datascience, ai
+- **Summary:** If your Python project is built on company numbers rather than ticking prices, start with ROIC.ai....
+- **Link:** https://dev.to/thebitforge/best-stock-market-apis-for-python-developers-in-2026-4j15
