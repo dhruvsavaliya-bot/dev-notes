@@ -2880,6 +2880,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~8 stars/day since launch.
 - **Link:** https://github.com/AlexandrosGounis/pdfx
 
+**Added 2026-11-02**
+
+### [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
+- **Stats:** 24,950 stars | 898 forks | 614 open issues
+- **Language:** Rust | **Created:** 2026-05-24 | **License:** Apache-2.0
+- **Topics:** dpi, gpui, hid, hidpp, local-first, logitech
+- **What it is:** ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+- **Growth:** averaging ~154 stars/day since launch.
+- **Link:** https://github.com/AprilNEA/OpenLogi
+
 
 ## Developer Tools
 

@@ -495,6 +495,7 @@
     "https://github.com/AndrewDryga/emisar",
     "https://github.com/AndroidCSIDE/ACSIDE",
     "https://github.com/ApodexAI/FrontierAgent",
+    "https://github.com/AprilNEA/OpenLogi",
     "https://github.com/AstrBotDevs/AstrBot-desktop",
     "https://github.com/Axolotl-Launcher/Axolotl",
     "https://github.com/BlackLabelHQ/SymphonyRecomp",
@@ -2252,12 +2253,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Models & Datasets",
-      "title": "tencent/Hy-Nomas",
-      "url": "https://huggingface.co/tencent/Hy-Nomas"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Hob - Open-source, on device alternative to...",
       "url": "https://news.ycombinator.com/item?id=50246238"
@@ -2309,6 +2304,12 @@
       "subcat": "Lobsters Picks",
       "title": "Understanding Org's LaTeX previews",
       "url": "https://lobste.rs/s/yihs7m/understanding_org_s_latex_previews"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Web & Frontend",
+      "title": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi"
     }
   ]
 }
