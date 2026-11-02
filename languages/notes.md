@@ -1058,6 +1058,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~65 stars/day since launch.
 - **Link:** https://github.com/simonlin1212/a-stock-data
 
+**Added 2026-11-02**
+
+### [EverMind-AI/Raven](https://github.com/EverMind-AI/Raven)
+- **Stats:** 5,966 stars | 230 forks | 68 open issues
+- **Language:** Python | **Created:** 2026-05-21 | **License:** Apache-2.0
+- **Topics:** ai, ai-agents, anthropic, chatgpt, claude, codex
+- **What it is:** The Harness of Harnesses • Super Agent: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collaboration.
+- **Growth:** averaging ~36 stars/day since launch.
+- **Link:** https://github.com/EverMind-AI/Raven
+
 
 ## Go
 
