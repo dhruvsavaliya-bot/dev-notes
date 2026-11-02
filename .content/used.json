@@ -1141,6 +1141,7 @@
     "https://huggingface.co/prompthero/openjourney",
     "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0",
     "https://huggingface.co/tencent/Hunyuan3D-2.1",
+    "https://huggingface.co/tencent/Hy-Nomas",
     "https://huggingface.co/tencent/Hy3",
     "https://huggingface.co/unsloth/LFM2.5-24B-A2B-GGUF",
     "https://huggingface.co/unsloth/Qwen-Image-2.1-GGUF",
@@ -2240,12 +2241,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Lobsters Picks",
-      "title": "Work on GEFS (the Good Enough File System) for...",
-      "url": "https://lobste.rs/s/zjjvbo/work_on_gefs_good_enough_file_system_for"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Models & Datasets",
       "title": "TheAgenticDataCompany/open-yap-1k",
       "url": "https://huggingface.co/datasets/TheAgenticDataCompany/open-yap-1k"
@@ -2297,6 +2292,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Petal, open-source CoScreen/ScreenHero...",
       "url": "https://news.ycombinator.com/item?id=50092470"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Models & Datasets",
+      "title": "tencent/Hy-Nomas",
+      "url": "https://huggingface.co/tencent/Hy-Nomas"
     }
   ]
 }

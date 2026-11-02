@@ -2085,6 +2085,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/TheAgenticDataCompany/open-yap-1k
 
+**Added 2026-11-02**
+
+### [tencent/Hy-Nomas](https://huggingface.co/tencent/Hy-Nomas)
+- **Stats:** 129 likes | 59,480 downloads
+- **Kind:** Hugging Face model | **Task:** n/a | **Created:** 2026-10-21
+- **Tags:** diffusion-single-file, diffusers, safetensors, hy-nomas, world-model, video-generation
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/tencent/Hy-Nomas
+
 
 ## Research Papers
 
