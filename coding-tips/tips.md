@@ -2863,17 +2863,35 @@ What I don't quite un...
 - **Source:** lobste.rs | **Posted:** 2026-11-01 | **By:** prole
 - **Community:** 24 score, 4 comments on Lobsters
 - **Tags:** event
-- **Summary:** Pub Address: The Fellow, 24 York Way, London, N1 9AA.
-
-Date: Sunday, 15/11/2026 1pm
-
-The idea is to just meet and have a chat really. 
-
-I have submitted a request to book a table. Hopefully they approve but if not we can just find an un-booked table. 
-
+- **Summary:** Pub Address: The Fellow, 24 York Way, London, N1 9AA.
+
+
+
+Date: Sunday, 15/11/2026 1pm
+
+
+
+The idea is to just meet and have a chat really. 
+
+
+
+I have submitted a request to book a table. Hopefully they approve but if not we can just find an un-booked table. 
+
+
+
 I am posting the meetup prior to receiving their approval, so that those of you who live outside London can (hopefully) bag a cheaper train...
 - **Discussion:** https://lobste.rs/s/cqzwwg/london_meetup_nov_2026
 - **Link:** https://lobste.rs/s/cqzwwg/london_meetup_nov_2026
+
+**Added 2026-11-02**
+
+### [Zig: From Beginner to Slightly Less Beginner](https://www.youtube.com/watch?v=jWCQXBVIyrY)
+- **Source:** www.youtube.com | **Posted:** 2026-11-01 | **By:** rcalixte
+- **Community:** 15 score, 0 comments on Lobsters
+- **Tags:** video, zig
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/uhlnqx/zig_from_beginner_slightly_less_beginner
+- **Link:** https://www.youtube.com/watch?v=jWCQXBVIyrY
 
 
 ## Career & Craft

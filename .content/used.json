@@ -1374,6 +1374,7 @@
     "https://lobste.rs/s/u9ue6c/what_s_wrong_with_github",
     "https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases",
     "https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem",
+    "https://lobste.rs/s/uhlnqx/zig_from_beginner_slightly_less_beginner",
     "https://lobste.rs/s/uimyck/emacs_turns_50",
     "https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without",
     "https://lobste.rs/s/ukj8mm/federated_code_forge",
@@ -2222,6 +2223,7 @@
     "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
     "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
     "https://www.youtube.com/watch?v=25x0UuSCKuU",
+    "https://www.youtube.com/watch?v=jWCQXBVIyrY",
     "https://xcancel.com/__alpoge__/status/2079028340955197566",
     "https://xoranth.net/gcc-switch/",
     "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
@@ -2234,12 +2236,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-11-02",
-      "subcat": "Lobsters Picks",
-      "title": "Squalk: an old-school forum engine built on Nostr...",
-      "url": "https://lobste.rs/s/haq46t/squalk_old_school_forum_engine_built_on"
-    },
     {
       "date": "2026-11-02",
       "subcat": "Lobsters Picks",
@@ -2293,6 +2289,12 @@
       "subcat": "Elixir",
       "title": "AtomVM 2025 Year in Review",
       "url": "https://lobste.rs/s/c0xw18/atomvm_2025_year_review"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Lobsters Picks",
+      "title": "Zig: From Beginner to Slightly Less Beginner",
+      "url": "https://lobste.rs/s/uhlnqx/zig_from_beginner_slightly_less_beginner"
     }
   ]
 }
