@@ -558,6 +558,15 @@ Lessons from building with LLMs.
 - **Summary:** This is the first post of series Building TinyAgent where we are going to build a small agent from...
 - **Link:** https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1
 
+**Added 2026-11-02**
+
+### [Are We Using AI at the Wrong Scale?](https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo)
+- **Author:** Kernel Pryanic | **Published:** Apr 28 | **Read time:** 5 min
+- **Community:** 68 reactions, 29 comments -- a top post in #llm
+- **Tags:** ai, discuss, llm, software
+- **Summary:** We open our IDE and let a model running somewhere in the cloud read our entire codebase to add a null...
+- **Link:** https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo
+
 
 ## Machine Learning
 

@@ -337,6 +337,7 @@
     "https://dev.to/kenielzep97/tell-me-about-you-1hi4",
     "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm",
     "https://dev.to/kenwalger/the-verification-bottleneck-in-ai-generated-software-3p7l",
+    "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo",
     "https://dev.to/khalisollis/dependency-injection-how-some-people-quietly-program-themselves-into-your-identity-51j8",
     "https://dev.to/konark_13/vibe-coding-endgame-3bbn",
     "https://dev.to/lovestaco/cheap-rag-in-go-with-gemini-file-search-no-vector-db-two-calls-one-hosted-store-4kb5",
@@ -2243,12 +2244,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Java",
-      "title": "Show HN: Encarta 95 Web",
-      "url": "https://news.ycombinator.com/item?id=50218975"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Data Science",
       "title": "Best Stock Market APIs for Python Developers in 2026",
       "url": "https://dev.to/thebitforge/best-stock-market-apis-for-python-developers-in-2026-4j15"
@@ -2300,6 +2295,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Hob - Open-source, on device alternative to...",
       "url": "https://news.ycombinator.com/item?id=50246238"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "LLMs",
+      "title": "Are We Using AI at the Wrong Scale?",
+      "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo"
     }
   ]
 }

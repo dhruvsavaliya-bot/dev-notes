@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1582 entries and counting** · Last updated: 2026-11-02
+**1583 entries and counting** · Last updated: 2026-11-02
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 314 |
-| [AI / LLM Notes](ai/notes.md) | 316 |
+| [AI / LLM Notes](ai/notes.md) | 317 |
 | [Reading List](articles/reading-list.md) | 320 |
 | [Coding Tips](coding-tips/tips.md) | 317 |
 | [Language Notes](languages/notes.md) | 315 |
 
 ## Latest additions
 
+- **2026-11-02** · *LLMs* — [Are We Using AI at the Wrong Scale?](https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo)
 - **2026-11-02** · *Show & Ask HN* — [Show HN: Hob - Open-source, on device alternative to...](https://news.ycombinator.com/item?id=50246238)
 - **2026-11-02** · *Models & Datasets* — [tencent/Hy-Nomas](https://huggingface.co/tencent/Hy-Nomas)
 - **2026-11-02** · *Show & Ask HN* — [Show HN: Petal, open-source CoScreen/ScreenHero...](https://news.ycombinator.com/item?id=50092470)
 - **2026-11-02** · *Lobsters Picks* — [Zig: From Beginner to Slightly Less Beginner](https://lobste.rs/s/uhlnqx/zig_from_beginner_slightly_less_beginner)
-- **2026-11-02** · *Elixir* — [AtomVM 2025 Year in Review](https://lobste.rs/s/c0xw18/atomvm_2025_year_review)
 
 ## How it works
 
