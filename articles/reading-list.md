@@ -2915,6 +2915,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability
 - **Link:** https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html
 
+**Added 2026-11-02**
+
+### [Iroh global content discovery](https://www.iroh.computer/blog/iroh-global-content-discovery)
+- **Source:** www.iroh.computer | **Posted:** 2026-10-04 | **By:** sanqui
+- **Community:** 71 score, 14 comments on Lobsters
+- **Tags:** distributed
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/eoibah/iroh_global_content_discovery
+- **Link:** https://www.iroh.computer/blog/iroh-global-content-discovery
+
 
 ## Performance
 
