@@ -1397,6 +1397,7 @@
     "https://lobste.rs/s/ysyqnt/small_web_is_huge",
     "https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn",
     "https://lobste.rs/s/yxuvie/alpinebsd",
+    "https://lobste.rs/s/zjjvbo/work_on_gefs_good_enough_file_system_for",
     "https://lobste.rs/s/zknqct/two_kinds_sql_query_builders",
     "https://lobste.rs/s/zlhyss/mathocalypse",
     "https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source",
@@ -2199,6 +2200,7 @@
     "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
     "https://www.typeui.sh/micro-interactions",
     "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+    "https://www.undeadly.org/cgi?action=article;sid=20261101115637",
     "https://www.unison-lang.org/blog/unison-cloud-open-source/",
     "https://www.unitree.com/As2-W/",
     "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
@@ -2221,12 +2223,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-11-02",
-      "subcat": "Backend & Infrastructure",
-      "title": "arnegiacomo/fugleramme",
-      "url": "https://github.com/arnegiacomo/fugleramme"
-    },
     {
       "date": "2026-11-02",
       "subcat": "Hacker News Picks",
@@ -2280,6 +2276,12 @@
       "subcat": "Lobsters Picks",
       "title": "The federated code forge",
       "url": "https://lobste.rs/s/ukj8mm/federated_code_forge"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Lobsters Picks",
+      "title": "Work on GEFS (the Good Enough File System) for...",
+      "url": "https://lobste.rs/s/zjjvbo/work_on_gefs_good_enough_file_system_for"
     }
   ]
 }

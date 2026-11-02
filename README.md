@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1570 entries and counting** · Last updated: 2026-11-02
+**1571 entries and counting** · Last updated: 2026-11-02
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 314 |
 | [AI / LLM Notes](ai/notes.md) | 313 |
 | [Reading List](articles/reading-list.md) | 320 |
-| [Coding Tips](coding-tips/tips.md) | 311 |
+| [Coding Tips](coding-tips/tips.md) | 312 |
 | [Language Notes](languages/notes.md) | 312 |
 
 ## Latest additions
 
+- **2026-11-02** · *Lobsters Picks* — [Work on GEFS (the Good Enough File System) for...](https://lobste.rs/s/zjjvbo/work_on_gefs_good_enough_file_system_for)
 - **2026-11-02** · *Lobsters Picks* — [The federated code forge](https://lobste.rs/s/ukj8mm/federated_code_forge)
 - **2026-11-02** · *Lobsters Picks* — [Squalk: an old-school forum engine built on Nostr...](https://lobste.rs/s/haq46t/squalk_old_school_forum_engine_built_on)
 - **2026-11-02** · *Lobsters Picks* — [Deterministic Concurrency](https://lobste.rs/s/wuiaba/deterministic_concurrency)
 - **2026-11-02** · *Lobsters Picks* — [Iroh global content discovery](https://lobste.rs/s/eoibah/iroh_global_content_discovery)
-- **2026-11-02** · *Lobsters Picks* — [Radicle: Disclosure of Vulnerability in the Network...](https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability)
 
 ## How it works
 

@@ -2838,6 +2838,16 @@ What I don't quite un...
 - **Discussion:** https://lobste.rs/s/fmawla/enlightenment_0_28_0_release
 - **Link:** https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0
 
+**Added 2026-11-02**
+
+### [Work on GEFS (the Good Enough File System) for OpenBSD progresses](https://www.undeadly.org/cgi?action=article;sid=20261101115637)
+- **Source:** www.undeadly.org | **Posted:** 2026-11-01 | **By:** jbauer
+- **Community:** 27 score, 1 comments on Lobsters
+- **Tags:** openbsd
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/zjjvbo/work_on_gefs_good_enough_file_system_for
+- **Link:** https://www.undeadly.org/cgi?action=article;sid=20261101115637
+
 
 ## Career & Craft
 
