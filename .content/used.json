@@ -594,6 +594,7 @@
     "https://github.com/QuipNetwork/quip-solver",
     "https://github.com/QwenLM/Qwen-MM-Plugins",
     "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+    "https://github.com/Rizzo-AI-Academy/rizzo-flow",
     "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
     "https://github.com/SWE-agent/SWE-agent",
     "https://github.com/Sahir619/fable-method",
@@ -2249,12 +2250,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Lobsters Picks",
-      "title": "Zig: From Beginner to Slightly Less Beginner",
-      "url": "https://lobste.rs/s/uhlnqx/zig_from_beginner_slightly_less_beginner"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Petal, open-source CoScreen/ScreenHero...",
       "url": "https://news.ycombinator.com/item?id=50092470"
@@ -2306,6 +2301,12 @@
       "subcat": "AI & Machine Learning",
       "title": "agent-substrate/substrate",
       "url": "https://github.com/agent-substrate/substrate"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Python",
+      "title": "Rizzo-AI-Academy/rizzo-flow",
+      "url": "https://github.com/Rizzo-AI-Academy/rizzo-flow"
     }
   ]
 }

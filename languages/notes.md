@@ -1038,6 +1038,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~24 stars/day since launch.
 - **Link:** https://github.com/GordenSun/GordenPPTSkill
 
+**Added 2026-11-02**
+
+### [Rizzo-AI-Academy/rizzo-flow](https://github.com/Rizzo-AI-Academy/rizzo-flow)
+- **Stats:** 953 stars | 62 forks | 23 open issues
+- **Language:** Python | **Created:** 2026-09-21 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** The open, local take on Jev: typed decisions from an LLM, without generating a single token
+- **Growth:** averaging ~22 stars/day since launch.
+- **Link:** https://github.com/Rizzo-AI-Academy/rizzo-flow
+
 
 ## Go
 
