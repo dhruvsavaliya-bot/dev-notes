@@ -1434,6 +1434,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~34 stars/day since launch.
 - **Link:** https://github.com/agent-substrate/substrate
 
+**Added 2026-11-03**
+
+### [heydamir/unslop](https://github.com/heydamir/unslop)
+- **Stats:** 6,218 stars | 322 forks | 1 open issues
+- **Language:** JavaScript | **Created:** 2026-10-29 | **License:** CC-BY-4.0
+- **Topics:** none listed
+- **What it is:** A Claude skill that turns vibecoded, AI-looking UI into a designed interface
+- **Growth:** averaging ~1,243 stars/day since launch.
+- **Link:** https://github.com/heydamir/unslop
+
 
 ## Other Cool Projects
 

@@ -751,6 +751,7 @@
     "https://github.com/gvzdv/claudish-to-english",
     "https://github.com/harris21/laravel-fuse",
     "https://github.com/herdrdev/herdr",
+    "https://github.com/heydamir/unslop",
     "https://github.com/hoainho/img2threejs",
     "https://github.com/huaotem-bot/gezi-quark-downloader",
     "https://github.com/hugohe3/ppt-master",
@@ -2262,12 +2263,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Python",
-      "title": "Rizzo-AI-Academy/rizzo-flow",
-      "url": "https://github.com/Rizzo-AI-Academy/rizzo-flow"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Lobsters Picks",
       "title": "Understanding Org's LaTeX previews",
       "url": "https://lobste.rs/s/yihs7m/understanding_org_s_latex_previews"
@@ -2319,6 +2314,12 @@
       "subcat": "Research Papers",
       "title": "Space AI Infrastructure: Where the Edge Meets the...",
       "url": "http://arxiv.org/abs/2610.16395v1"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "AI & Machine Learning",
+      "title": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop"
     }
   ]
 }

@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1598 entries and counting** · Last updated: 2026-11-02
+**1599 entries and counting** · Last updated: 2026-11-03
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 318 |
+| [Trending Projects](trending-projects/projects.md) | 319 |
 | [AI / LLM Notes](ai/notes.md) | 320 |
 | [Reading List](articles/reading-list.md) | 320 |
 | [Coding Tips](coding-tips/tips.md) | 321 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-03** · *AI & Machine Learning* — [heydamir/unslop](https://github.com/heydamir/unslop)
 - **2026-11-02** · *Research Papers* — [Space AI Infrastructure: Where the Edge Meets the...](http://arxiv.org/abs/2610.16395v1)
 - **2026-11-02** · *Java* — [Ousted Savannah police officer gave ICE agent husband...](https://news.ycombinator.com/item?id=50150750)
 - **2026-11-02** · *Other Cool Projects* — [trailofbits/CoBRA](https://github.com/trailofbits/CoBRA)
 - **2026-11-02** · *Python* — [EverMind-AI/Raven](https://github.com/EverMind-AI/Raven)
-- **2026-11-02** · *Other Cool Projects* — [didriksg/Crisp](https://github.com/didriksg/Crisp)
 
 ## How it works
 
