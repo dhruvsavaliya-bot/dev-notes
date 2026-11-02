@@ -1368,6 +1368,7 @@
     "https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem",
     "https://lobste.rs/s/uimyck/emacs_turns_50",
     "https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without",
+    "https://lobste.rs/s/ukj8mm/federated_code_forge",
     "https://lobste.rs/s/ul9krj/hacking_go_compiler_efficiently_map_ipv4",
     "https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out",
     "https://lobste.rs/s/vulvk7/wild_version_0_11_0_released",
@@ -2049,6 +2050,7 @@
     "https://tailscale.com/ssh-investigation-update",
     "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
     "https://talkweb.eu/openweb/4558/",
+    "https://tangled.org/blog/forge/",
     "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
     "https://technicalwriting.dev/blog/2026/10/polyglot/index.html",
     "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
@@ -2221,12 +2223,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Research Papers",
-      "title": "Understanding and Mitigating Role Spoofing in LLMs",
-      "url": "http://arxiv.org/abs/2610.40396v1"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Backend & Infrastructure",
       "title": "arnegiacomo/fugleramme",
       "url": "https://github.com/arnegiacomo/fugleramme"
@@ -2278,6 +2274,12 @@
       "subcat": "Lobsters Picks",
       "title": "Squalk: an old-school forum engine built on Nostr...",
       "url": "https://lobste.rs/s/haq46t/squalk_old_school_forum_engine_built_on"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Lobsters Picks",
+      "title": "The federated code forge",
+      "url": "https://lobste.rs/s/ukj8mm/federated_code_forge"
     }
   ]
 }

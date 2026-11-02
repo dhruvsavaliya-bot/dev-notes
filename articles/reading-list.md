@@ -2941,11 +2941,23 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Source:** github.com | **Posted:** 2026-09-21 | **By:** daniele
 - **Community:** 18 score, 8 comments on Lobsters
 - **Tags:** distributed, show, web
-- **Summary:** I miss classic forums: slow, asynchronous threads that stay readable and searchable for years, instead of knowledge dissolving into chat scrollback. Squalk is my attempt to rebuild that on top of Nostr, an open protocol where users hold a keypair, posts are signed events, and interchangeable relays store and serve them, instead of a private database.
-
+- **Summary:** I miss classic forums: slow, asynchronous threads that stay readable and searchable for years, instead of knowledge dissolving into chat scrollback. Squalk is my attempt to rebuild that on top of Nostr, an open protocol where users hold a keypair, posts are signed events, and interchangeable relays store and serve them, instead of a private database.
+
+
+
 The design in short: a forum is a view over ...
 - **Discussion:** https://lobste.rs/s/haq46t/squalk_old_school_forum_engine_built_on
 - **Link:** https://github.com/dtonon/squalk
+
+**Added 2026-11-02**
+
+### [The federated code forge](https://tangled.org/blog/forge/)
+- **Source:** tangled.org | **Posted:** 2026-10-30 | **By:** novedevo
+- **Community:** 47 score, 35 comments on Lobsters
+- **Tags:** distributed, vcs
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/ukj8mm/federated_code_forge
+- **Link:** https://tangled.org/blog/forge/
 
 
 ## Performance
