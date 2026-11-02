@@ -2067,6 +2067,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/black-forest-labs/flux-3-image-klein
 
+**Added 2026-11-02**
+
+### [atomscott/soccertrack-v2](https://huggingface.co/datasets/atomscott/soccertrack-v2)
+- **Stats:** 52 likes | 4,743 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-08-31
+- **Tags:** soccer, sports-analytics, multi-object-tracking, game-state-reconstruction, action-spotting
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/atomscott/soccertrack-v2
+
 
 ## Research Papers
 

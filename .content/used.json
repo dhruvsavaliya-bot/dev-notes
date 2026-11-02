@@ -1048,6 +1048,7 @@
     "https://huggingface.co/datasets/allenai/c4",
     "https://huggingface.co/datasets/argilla/magpie-ultra-v0.1",
     "https://huggingface.co/datasets/armand0e/claude-fable-5-claude-code",
+    "https://huggingface.co/datasets/atomscott/soccertrack-v2",
     "https://huggingface.co/datasets/bakrianoo/jabarti-llm-dataset",
     "https://huggingface.co/datasets/bigcode/the-stack-v2",
     "https://huggingface.co/datasets/datacurve/deep-swe",
@@ -2212,12 +2213,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Web Development",
-      "title": "PLOT  - TabPFN on Real Frost Data Tells You to Touch...",
-      "url": "https://dev.to/pranjal_manhgaye_d94d7a8f/plot-tabpfn-on-real-frost-data-tells-you-to-touch-grass-54k1"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Research Papers",
       "title": "Prefix Executability: Evaluating Tool-Using Agents...",
       "url": "http://arxiv.org/abs/2610.40444v1"
@@ -2269,6 +2264,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Which TV do you recommend for privacy?",
       "url": "https://news.ycombinator.com/item?id=50328896"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Models & Datasets",
+      "title": "atomscott/soccertrack-v2",
+      "url": "https://huggingface.co/datasets/atomscott/soccertrack-v2"
     }
   ]
 }
