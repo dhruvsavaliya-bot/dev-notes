@@ -1071,6 +1071,7 @@
     "https://huggingface.co/datasets/glaiveai/glaive-function-calling-v2",
     "https://huggingface.co/datasets/google-research-datasets/mbpp",
     "https://huggingface.co/datasets/harborframework/terminal-bench-2.0",
+    "https://huggingface.co/datasets/hongzhuyi/VDEBench",
     "https://huggingface.co/datasets/huggingface/badges",
     "https://huggingface.co/datasets/inclusionAI/ConceptEdit-12M",
     "https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h",
@@ -2246,12 +2247,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Lobsters Picks",
-      "title": "London Meetup - Nov 2026",
-      "url": "https://lobste.rs/s/cqzwwg/london_meetup_nov_2026"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Rust",
       "title": "Announcing Rust 1.99.1",
       "url": "https://lobste.rs/s/ttcx5k/announcing_rust_1_99_1"
@@ -2303,6 +2298,12 @@
       "subcat": "Models & Datasets",
       "title": "unsloth/Qwen3.8-27B-NVFP4",
       "url": "https://huggingface.co/unsloth/Qwen3.8-27B-NVFP4"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Models & Datasets",
+      "title": "hongzhuyi/VDEBench",
+      "url": "https://huggingface.co/datasets/hongzhuyi/VDEBench"
     }
   ]
 }

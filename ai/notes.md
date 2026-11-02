@@ -2112,6 +2112,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/unsloth/Qwen3.8-27B-NVFP4
 
+**Added 2026-11-02**
+
+### [hongzhuyi/VDEBench](https://huggingface.co/datasets/hongzhuyi/VDEBench)
+- **Stats:** 61 likes | 6,995 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-10-15
+- **Tags:** document-image-editing, benchmark, bilingual, text-editing, table-editing
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/hongzhuyi/VDEBench
+
 
 ## Research Papers
 
