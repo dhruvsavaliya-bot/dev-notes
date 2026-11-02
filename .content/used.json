@@ -912,6 +912,7 @@
     "https://github.com/tldev/dorso",
     "https://github.com/tobi/walgit",
     "https://github.com/totec448-spec/chat-on-steroids",
+    "https://github.com/trailofbits/CoBRA",
     "https://github.com/trinodb/trino",
     "https://github.com/trycompai/crm",
     "https://github.com/trypostit/trypost",
@@ -2258,12 +2259,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Models & Datasets",
-      "title": "hongzhuyi/VDEBench",
-      "url": "https://huggingface.co/datasets/hongzhuyi/VDEBench"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Career & Craft",
       "title": "Stratagems #32: The AI Logged a Withdrawal. P Took It...",
       "url": "https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2"
@@ -2315,6 +2310,12 @@
       "subcat": "Python",
       "title": "EverMind-AI/Raven",
       "url": "https://github.com/EverMind-AI/Raven"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Other Cool Projects",
+      "title": "trailofbits/CoBRA",
+      "url": "https://github.com/trailofbits/CoBRA"
     }
   ]
 }

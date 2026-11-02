@@ -2707,6 +2707,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~22 stars/day since launch.
 - **Link:** https://github.com/didriksg/Crisp
 
+**Added 2026-11-02**
+
+### [trailofbits/CoBRA](https://github.com/trailofbits/CoBRA)
+- **Stats:** 363 stars | 20 forks | 7 open issues
+- **Language:** C++ | **Created:** 2026-03-19 | **License:** Apache-2.0
+- **Topics:** algebraic-simplification, binary-analysis, boolean-algebra, compiler, cpp, deobfuscation
+- **What it is:** Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplifier for deobfuscation
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/trailofbits/CoBRA
+
 
 ## Web & Frontend
 
