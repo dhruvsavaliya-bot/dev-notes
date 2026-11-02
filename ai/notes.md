@@ -2076,6 +2076,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/atomscott/soccertrack-v2
 
+**Added 2026-11-02**
+
+### [TheAgenticDataCompany/open-yap-1k](https://huggingface.co/datasets/TheAgenticDataCompany/open-yap-1k)
+- **Stats:** 177 likes | 3,924 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-09-02
+- **Tags:** speech, audio, full-duplex, conversational
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/TheAgenticDataCompany/open-yap-1k
+
 
 ## Research Papers
 

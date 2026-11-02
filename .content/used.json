@@ -1040,6 +1040,7 @@
     "https://huggingface.co/datasets/ShadenA/MathNet",
     "https://huggingface.co/datasets/Sharpa-Robotics/SharpaDex-v1.0",
     "https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro",
+    "https://huggingface.co/datasets/TheAgenticDataCompany/open-yap-1k",
     "https://huggingface.co/datasets/XDOF/ABC-130k",
     "https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss",
     "https://huggingface.co/datasets/ZefanCai/Open-Jev",
@@ -2225,12 +2226,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Hacker News Picks",
-      "title": "Show HN: HackerBooks  HackerTube, but for books...",
-      "url": "https://news.ycombinator.com/item?id=50326821"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Ruby",
       "title": "New plastic pollution discovered: 'Plasticorals'...",
       "url": "https://news.ycombinator.com/item?id=50183512"
@@ -2282,6 +2277,12 @@
       "subcat": "Lobsters Picks",
       "title": "Work on GEFS (the Good Enough File System) for...",
       "url": "https://lobste.rs/s/zjjvbo/work_on_gefs_good_enough_file_system_for"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "Models & Datasets",
+      "title": "TheAgenticDataCompany/open-yap-1k",
+      "url": "https://huggingface.co/datasets/TheAgenticDataCompany/open-yap-1k"
     }
   ]
 }
