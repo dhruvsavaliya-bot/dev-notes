@@ -635,6 +635,7 @@
     "https://github.com/aden-hive/hive",
     "https://github.com/adityatandon15/Spring-Framework-Full-Course",
     "https://github.com/adonis-singh/re4",
+    "https://github.com/agent-substrate/substrate",
     "https://github.com/agno-agi/agno",
     "https://github.com/agupta07505/SmartIsland",
     "https://github.com/ahmetomerv/photoc",
@@ -2248,12 +2249,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Elixir",
-      "title": "AtomVM 2025 Year in Review",
-      "url": "https://lobste.rs/s/c0xw18/atomvm_2025_year_review"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Lobsters Picks",
       "title": "Zig: From Beginner to Slightly Less Beginner",
       "url": "https://lobste.rs/s/uhlnqx/zig_from_beginner_slightly_less_beginner"
@@ -2305,6 +2300,12 @@
       "subcat": "Career & Craft",
       "title": "Stratagems #32: The AI Logged a Withdrawal. P Took It...",
       "url": "https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2"
+    },
+    {
+      "date": "2026-11-02",
+      "subcat": "AI & Machine Learning",
+      "title": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate"
     }
   ]
 }

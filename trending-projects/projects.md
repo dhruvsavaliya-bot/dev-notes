@@ -1424,6 +1424,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~56 stars/day since launch.
 - **Link:** https://github.com/danyuchn/asd-ste100-skill
 
+**Added 2026-11-02**
+
+### [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
+- **Stats:** 6,024 stars | 665 forks | 1,014 open issues
+- **Language:** Go | **Created:** 2026-05-13 | **License:** Apache-2.0
+- **Topics:** agents, cncf, sandboxing
+- **What it is:** Agent Substrate: the core system
+- **Growth:** averaging ~34 stars/day since launch.
+- **Link:** https://github.com/agent-substrate/substrate
+
 
 ## Other Cool Projects
 
