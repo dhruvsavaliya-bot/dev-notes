@@ -1284,6 +1284,7 @@
     "https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit",
     "https://lobste.rs/s/cquwex/flow_typing_new_lens_on_linearity",
     "https://lobste.rs/s/cqzwwg/london_meetup_nov_2026",
+    "https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend",
     "https://lobste.rs/s/culsub/intellij_idea_goes_lsp_java_kotlin",
     "https://lobste.rs/s/cxdpiu/our_response_emudhra_key_disclosure",
     "https://lobste.rs/s/d09iy3/compile_time_dependent_types",
@@ -2266,12 +2267,6 @@
   "recent": [
     {
       "date": "2026-11-02",
-      "subcat": "Python",
-      "title": "simonlin1212/a-stock-data",
-      "url": "https://github.com/simonlin1212/a-stock-data"
-    },
-    {
-      "date": "2026-11-02",
       "subcat": "Lobsters Picks",
       "title": "Postgres 19 is late, and it's AI's fault",
       "url": "https://lobste.rs/s/0yxkvs/postgres_19_is_late_it_s_ai_s_fault"
@@ -2323,6 +2318,12 @@
       "subcat": "Models & Datasets",
       "title": "Qwen/BlenderWorld",
       "url": "https://huggingface.co/datasets/Qwen/BlenderWorld"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "Lobsters Picks",
+      "title": "What are you doing this weekend?",
+      "url": "https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend"
     }
   ]
 }

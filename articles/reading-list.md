@@ -2959,6 +2959,18 @@ The design in short: a forum is a view over ...
 - **Discussion:** https://lobste.rs/s/ukj8mm/federated_code_forge
 - **Link:** https://tangled.org/blog/forge/
 
+**Added 2026-11-03**
+
+### [What are you doing this weekend?](https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend)
+- **Source:** lobste.rs | **Posted:** 2026-10-23 | **By:** caius
+- **Community:** 25 score, 70 comments on Lobsters
+- **Tags:** ask, programming
+- **Summary:** Feel free to tell what you plan on doing this weekend and even ask for help or feedback.
+
+Please keep in mind it’s more than OK to do nothing at all too!
+- **Discussion:** https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend
+- **Link:** https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend
+
 
 ## Performance
 
