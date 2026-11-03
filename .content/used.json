@@ -90,6 +90,7 @@
     "http://arxiv.org/abs/2610.38243v1",
     "http://arxiv.org/abs/2610.40396v1",
     "http://arxiv.org/abs/2610.40444v1",
+    "http://arxiv.org/abs/2611.02936v1",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
     "http://boglin.iwarp.com/",
@@ -2297,12 +2298,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "Models & Datasets",
-      "title": "mithulaartigala/reasoning-corpus-4K-5M-v1",
-      "url": "https://huggingface.co/datasets/mithulaartigala/reasoning-corpus-4K-5M-v1"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "Beginner",
       "title": "From Fresher to Cloud Architect: How to Start Your...",
       "url": "https://dev.to/aws-builders/from-fresher-to-cloud-architect-how-to-start-your-aws-cloud-journey-1l3i"
@@ -2354,6 +2349,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: SolidCraft  Open-Source Parametric CAD in...",
       "url": "https://news.ycombinator.com/item?id=50064840"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "Research Papers",
+      "title": "Why Tabular Foundation Models Excel on Relational...",
+      "url": "http://arxiv.org/abs/2611.02936v1"
     }
   ]
 }

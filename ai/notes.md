@@ -3009,6 +3009,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.16395v1
 
+**Added 2026-11-03**
+
+### [Why Tabular Foundation Models Excel on Relational Data They Have Never Seen](http://arxiv.org/abs/2611.02936v1)
+- **Authors:** Linjie Xu, Yiqun Hu, Jixiang He, David Wipf
+- **Published:** 2026-11-02 | **Primary category:** cs.LG
+- **Categories:** cs.AI, cs.DB, cs.LG
+- **Abstract:** Given a relational database (RDB) storing heterogeneous tabular information, how can we predict missing (or future) values in some target column of interest? As candidate targets are numerous in enterprise settings, it is preferable to avoid learning a new model from scratch each time there is a new prediction task. Frozen foundation models (FMs) based on in-context learning (ICL) and RDB-specific pre-training provide a viable solution, but the ideal design still remains largely unresolved. Perh...
+- **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.02936v1
+
 
 ## Computer Vision
 
