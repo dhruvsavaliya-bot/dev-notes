@@ -684,6 +684,7 @@
     "https://github.com/bashalarmistalt/decimen-optical-transfer",
     "https://github.com/basketikun/infinite-canvas",
     "https://github.com/benfred/py-spy",
+    "https://github.com/bherbruck/solidcraft",
     "https://github.com/bikini/exploitarium",
     "https://github.com/bizspring-open/BizSpring-Java-Mall",
     "https://github.com/bjarneo/flux",
@@ -1900,6 +1901,7 @@
     "https://news.ycombinator.com/item?id=50063417",
     "https://news.ycombinator.com/item?id=50063831",
     "https://news.ycombinator.com/item?id=50064470",
+    "https://news.ycombinator.com/item?id=50064840",
     "https://news.ycombinator.com/item?id=50067325",
     "https://news.ycombinator.com/item?id=50069337",
     "https://news.ycombinator.com/item?id=50070625",
@@ -2295,12 +2297,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "Hacker News Picks",
-      "title": "Tesla Roadster",
-      "url": "https://news.ycombinator.com/item?id=50112657"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "Models & Datasets",
       "title": "mithulaartigala/reasoning-corpus-4K-5M-v1",
       "url": "https://huggingface.co/datasets/mithulaartigala/reasoning-corpus-4K-5M-v1"
@@ -2352,6 +2348,12 @@
       "subcat": "Swift",
       "title": "ElementaryUI  Swift, in the Browser",
       "url": "https://news.ycombinator.com/item?id=50295821"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: SolidCraft  Open-Source Parametric CAD in...",
+      "url": "https://news.ycombinator.com/item?id=50064840"
     }
   ]
 }

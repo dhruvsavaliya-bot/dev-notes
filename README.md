@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1620 entries and counting** · Last updated: 2026-11-03
+**1621 entries and counting** · Last updated: 2026-11-03
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 322 |
 | [AI / LLM Notes](ai/notes.md) | 325 |
 | [Reading List](articles/reading-list.md) | 325 |
-| [Coding Tips](coding-tips/tips.md) | 325 |
+| [Coding Tips](coding-tips/tips.md) | 326 |
 | [Language Notes](languages/notes.md) | 323 |
 
 ## Latest additions
 
+- **2026-11-03** · *Show & Ask HN* — [Show HN: SolidCraft  Open-Source Parametric CAD in...](https://news.ycombinator.com/item?id=50064840)
 - **2026-11-03** · *Swift* — [ElementaryUI  Swift, in the Browser](https://news.ycombinator.com/item?id=50295821)
 - **2026-11-03** · *Hacker News Picks* — [Intel stock collapse worsens as $3.5T chip rout spreads](https://news.ycombinator.com/item?id=50346153)
 - **2026-11-03** · *Web & Frontend* — [smithersai/claude-p](https://github.com/smithersai/claude-p)
 - **2026-11-03** · *Lobsters Picks* — [A Decade of Kill Bugs](https://lobste.rs/s/wgoato/decade_kill_bugs)
-- **2026-11-03** · *Models & Datasets* — [zai-org/GLM-5.1](https://huggingface.co/zai-org/GLM-5.1)
 
 ## How it works
 

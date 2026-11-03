@@ -2290,6 +2290,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50180039
 - **Link:** https://github.com/vladocar/Sumi.css
 
+**Added 2026-11-03**
+
+### [Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)](https://github.com/bherbruck/solidcraft)
+- **Source:** github.com | **Posted:** 2026-10-13 | **By:** bherbruck
+- **Community:** 146 points, 52 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50064840
+- **Link:** https://github.com/bherbruck/solidcraft
+
 
 ## Git & Workflow
 
