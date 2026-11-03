@@ -848,6 +848,7 @@
     "https://github.com/omdsh-dev/DSH-better-sidebar",
     "https://github.com/omlahore/RemoveMacAI",
     "https://github.com/omnara-ai/omnara",
+    "https://github.com/onecli/onecli",
     "https://github.com/onehumanbeing/esp32-iphone-agent",
     "https://github.com/onyx-dot-app/onyx",
     "https://github.com/oomol-lab/open-connector",
@@ -2304,12 +2305,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "Lobsters Picks",
-      "title": "A Decade of Kill Bugs",
-      "url": "https://lobste.rs/s/wgoato/decade_kill_bugs"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "Web & Frontend",
       "title": "smithersai/claude-p",
       "url": "https://github.com/smithersai/claude-p"
@@ -2361,6 +2356,12 @@
       "subcat": "AI Engineering",
       "title": "Marigold /router - A Private Ofrenda for the Memories...",
       "url": "https://dev.to/kumuda/marigold-router-a-private-ofrenda-for-the-memories-we-refuse-to-lose-2e68"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "AI & Machine Learning",
+      "title": "onecli/onecli",
+      "url": "https://github.com/onecli/onecli"
     }
   ]
 }

@@ -1444,6 +1444,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1,243 stars/day since launch.
 - **Link:** https://github.com/heydamir/unslop
 
+**Added 2026-11-03**
+
+### [onecli/onecli](https://github.com/onecli/onecli)
+- **Stats:** 3,617 stars | 262 forks | 185 open issues
+- **Language:** TypeScript | **Created:** 2026-03-08 | **License:** Apache-2.0
+- **Topics:** ai-agents, cli, mcp, nodejs, postgres, rust
+- **What it is:** Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.
+- **Growth:** averaging ~15 stars/day since launch.
+- **Link:** https://github.com/onecli/onecli
+
 
 ## Other Cool Projects
 
