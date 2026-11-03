@@ -446,6 +446,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/xudbqx/no_npm_estee_is_not_typo_testem
 - **Link:** https://smoores.dev/post/no_npm_estee_is_not_a_typo/
 
+**Added 2026-11-03**
+
+### [The AI cost of JavaScript frameworks](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
+- **Source:** nolanlawson.com | **Posted:** 2026-11-01 | **By:** luu
+- **Community:** 473 points, 389 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50323088
+- **Link:** https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/
+
 
 ## TypeScript
 

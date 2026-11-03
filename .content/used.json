@@ -2004,6 +2004,7 @@
     "https://news.ycombinator.com/item?id=50307723",
     "https://news.ycombinator.com/item?id=50312756",
     "https://news.ycombinator.com/item?id=50317331",
+    "https://news.ycombinator.com/item?id=50323088",
     "https://news.ycombinator.com/item?id=50326821",
     "https://news.ycombinator.com/item?id=50328251",
     "https://news.ycombinator.com/item?id=50328896",
@@ -2024,6 +2025,7 @@
     "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
     "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
     "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+    "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
     "https://nullpt.rs/fingerprinting-bioweapons",
     "https://nullpt.rs/reverse-engineering-adhd-test",
     "https://numpad.io/",
@@ -2305,12 +2307,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "Web & Frontend",
-      "title": "smithersai/claude-p",
-      "url": "https://github.com/smithersai/claude-p"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "Hacker News Picks",
       "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
       "url": "https://news.ycombinator.com/item?id=50346153"
@@ -2362,6 +2358,12 @@
       "subcat": "AI & Machine Learning",
       "title": "onecli/onecli",
       "url": "https://github.com/onecli/onecli"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "JavaScript",
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://news.ycombinator.com/item?id=50323088"
     }
   ]
 }

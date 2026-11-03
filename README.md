@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1627 entries and counting** · Last updated: 2026-11-03
+**1628 entries and counting** · Last updated: 2026-11-03
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 327 |
 | [Reading List](articles/reading-list.md) | 327 |
 | [Coding Tips](coding-tips/tips.md) | 327 |
-| [Language Notes](languages/notes.md) | 323 |
+| [Language Notes](languages/notes.md) | 324 |
 
 ## Latest additions
 
+- **2026-11-03** · *JavaScript* — [The AI cost of JavaScript frameworks](https://news.ycombinator.com/item?id=50323088)
 - **2026-11-03** · *AI & Machine Learning* — [onecli/onecli](https://github.com/onecli/onecli)
 - **2026-11-03** · *AI Engineering* — [Marigold /router - A Private Ofrenda for the Memories...](https://dev.to/kumuda/marigold-router-a-private-ofrenda-for-the-memories-we-refuse-to-lose-2e68)
 - **2026-11-03** · *Hacker News Picks* — [Eight Bits of Trust: eMudhra's CA keys cracked in...](https://news.ycombinator.com/item?id=50177916)
 - **2026-11-03** · *Show & Ask HN* — [Show HN: A USB-C LTE modem that gives my computer a...](https://news.ycombinator.com/item?id=50317331)
-- **2026-11-03** · *Lobsters Picks* — [What are you doing this week?](https://lobste.rs/s/maqsgl/what_are_you_doing_this_week)
 
 ## How it works
 
