@@ -1590,6 +1590,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~8 stars/day since launch.
 - **Link:** https://github.com/swoole/typephp
 
+**Added 2026-11-03**
+
+### [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
+- **Source:** phorion.io | **Posted:** 2026-10-30 | **By:** _chall
+- **Community:** 1008 points, 553 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50300683
+- **Link:** https://phorion.io/blog/offical-claude-code-vsx-compromise/
+
 
 ## Ruby
 
