@@ -1090,6 +1090,7 @@
     "https://huggingface.co/datasets/atomscott/soccertrack-v2",
     "https://huggingface.co/datasets/bakrianoo/jabarti-llm-dataset",
     "https://huggingface.co/datasets/bigcode/the-stack-v2",
+    "https://huggingface.co/datasets/codepawl/simready-glb",
     "https://huggingface.co/datasets/datacurve/deep-swe",
     "https://huggingface.co/datasets/datasocial/tiktok-5.6B-videos",
     "https://huggingface.co/datasets/eidon-ai/tracker-pov",
@@ -2308,12 +2309,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "Swift",
-      "title": "ElementaryUI  Swift, in the Browser",
-      "url": "https://news.ycombinator.com/item?id=50295821"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "Show & Ask HN",
       "title": "Show HN: SolidCraft  Open-Source Parametric CAD in...",
       "url": "https://news.ycombinator.com/item?id=50064840"
@@ -2365,6 +2360,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Who is hiring? (November 2026)",
       "url": "https://news.ycombinator.com/item?id=50338728"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "Models & Datasets",
+      "title": "codepawl/simready-glb",
+      "url": "https://huggingface.co/datasets/codepawl/simready-glb"
     }
   ]
 }
