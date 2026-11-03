@@ -3008,6 +3008,18 @@ Please keep in mind it’s more than OK to do nothing at all too!
 - **Discussion:** https://lobste.rs/s/bmmj1e/let_s_build_brain
 - **Link:** https://aatishb.com/myriad/lets-build-a-brain/
 
+**Added 2026-11-03**
+
+### [What are you doing this week?](https://lobste.rs/s/maqsgl/what_are_you_doing_this_week)
+- **Source:** lobste.rs | **Posted:** 2026-11-02 | **By:** caius
+- **Community:** 18 score, 48 comments on Lobsters
+- **Tags:** ask, programming
+- **Summary:** What are you doing this week? Feel free to share!
+
+Keep in mind it’s OK to do nothing at all, too.
+- **Discussion:** https://lobste.rs/s/maqsgl/what_are_you_doing_this_week
+- **Link:** https://lobste.rs/s/maqsgl/what_are_you_doing_this_week
+
 
 ## Performance
 

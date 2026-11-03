@@ -1362,6 +1362,7 @@
     "https://lobste.rs/s/lgdxtw/c_for_rust_programmers",
     "https://lobste.rs/s/lxo74i/introducing_microlighter",
     "https://lobste.rs/s/m6fw0x/netbsd_adds_new_emacs_like_text_editor",
+    "https://lobste.rs/s/maqsgl/what_are_you_doing_this_week",
     "https://lobste.rs/s/me75ey/jailbreaking_switch_2",
     "https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat",
     "https://lobste.rs/s/mkq3x9/better_http_1_connection_reuse",
@@ -2298,12 +2299,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "Beginner",
-      "title": "From Fresher to Cloud Architect: How to Start Your...",
-      "url": "https://dev.to/aws-builders/from-fresher-to-cloud-architect-how-to-start-your-aws-cloud-journey-1l3i"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "Lobsters Picks",
       "title": "Lets Build a Brain",
       "url": "https://lobste.rs/s/bmmj1e/let_s_build_brain"
@@ -2355,6 +2350,12 @@
       "subcat": "Research Papers",
       "title": "Why Tabular Foundation Models Excel on Relational...",
       "url": "http://arxiv.org/abs/2611.02936v1"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "Lobsters Picks",
+      "title": "What are you doing this week?",
+      "url": "https://lobste.rs/s/maqsgl/what_are_you_doing_this_week"
     }
   ]
 }
