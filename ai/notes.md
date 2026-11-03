@@ -2139,6 +2139,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B
 
+**Added 2026-11-03**
+
+### [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy)
+- **Stats:** 2,359 likes | 1,003,813 downloads
+- **Kind:** Hugging Face model | **Task:** image-to-image | **Created:** 2026-10-14
+- **Tags:** diffusion-single-file, comfyui, image-generation, image-editing, flux, flux-3
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy
+
 
 ## Research Papers
 
