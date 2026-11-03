@@ -457,6 +457,7 @@
     "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
     "https://eddie.codes/posts/pandas-should-go-extinct/",
     "https://eiln.github.io/posts/ane.html",
+    "https://elementary.codes",
     "https://eliasebner.com/blog/guides/arena-allocators-in-c/",
     "https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/",
     "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
@@ -1987,6 +1988,7 @@
     "https://news.ycombinator.com/item?id=50290668",
     "https://news.ycombinator.com/item?id=50294506",
     "https://news.ycombinator.com/item?id=50295450",
+    "https://news.ycombinator.com/item?id=50295821",
     "https://news.ycombinator.com/item?id=50296486",
     "https://news.ycombinator.com/item?id=50297697",
     "https://news.ycombinator.com/item?id=50301479",
@@ -2293,12 +2295,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "Lobsters Picks",
-      "title": "Polyend releases the Tracker firmware source code",
-      "url": "https://lobste.rs/s/gu6yyl/polyend_releases_tracker_firmware"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "Hacker News Picks",
       "title": "Tesla Roadster",
       "url": "https://news.ycombinator.com/item?id=50112657"
@@ -2350,6 +2346,12 @@
       "subcat": "Hacker News Picks",
       "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
       "url": "https://news.ycombinator.com/item?id=50346153"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "Swift",
+      "title": "ElementaryUI  Swift, in the Browser",
+      "url": "https://news.ycombinator.com/item?id=50295821"
     }
   ]
 }

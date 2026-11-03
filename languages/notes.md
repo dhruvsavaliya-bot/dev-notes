@@ -2084,6 +2084,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~226 stars/day since launch.
 - **Link:** https://github.com/vorssaint/vorssaint-utils
 
+**Added 2026-11-03**
+
+### [ElementaryUI – Swift, in the Browser](https://elementary.codes)
+- **Source:** elementary.codes | **Posted:** 2026-10-29 | **By:** frizlab
+- **Community:** 129 points, 37 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50295821
+- **Link:** https://elementary.codes
+
 
 ## Rust
 
