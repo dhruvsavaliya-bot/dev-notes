@@ -1332,6 +1332,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50278645
 - **Link:** https://github.com/theconsensuslabs/noalloc
 
+**Added 2026-11-03**
+
+### [Protecting against CVE-2026-98432](https://groups.google.com/g/golang-announce/c/PCoQcdxoScw)
+- **Source:** groups.google.com | **Posted:** 2026-10-30 | **By:** func25
+- **Community:** 15 score, 1 comments on Lobsters
+- **Tags:** go, security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/mp8yqt/protecting_against_cve_2026_98432
+- **Link:** https://groups.google.com/g/golang-announce/c/PCoQcdxoScw
+
 
 ## PHP
 

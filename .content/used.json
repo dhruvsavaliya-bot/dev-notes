@@ -992,6 +992,7 @@
     "https://goliath32.com/blog/z80.html",
     "https://google.github.io/styleguide/rustguide.html",
     "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
+    "https://groups.google.com/g/golang-announce/c/PCoQcdxoScw",
     "https://hackerbooks.org",
     "https://handwritten.blog/",
     "https://hauleth.dev/post/guards-guards/",
@@ -1359,6 +1360,7 @@
     "https://lobste.rs/s/mkq3x9/better_http_1_connection_reuse",
     "https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution",
     "https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself",
+    "https://lobste.rs/s/mp8yqt/protecting_against_cve_2026_98432",
     "https://lobste.rs/s/myuake/awesome_tunneling_list_tunneling",
     "https://lobste.rs/s/nbxnh7/inside_intel_8087_chip_floating_point",
     "https://lobste.rs/s/ncclwy/switch_lowering_gcc",
@@ -2285,12 +2287,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "Rust",
-      "title": "Finding panics with Call Graph Analyzer",
-      "url": "https://lobste.rs/s/opqtiv/finding_panics_with_call_graph_analyzer"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "Models & Datasets",
       "title": "mistralai/Mistral-Large-4-1T-A52B",
       "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
@@ -2342,6 +2338,12 @@
       "subcat": "Lobsters Picks",
       "title": "Lets Build a Brain",
       "url": "https://lobste.rs/s/bmmj1e/let_s_build_brain"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "Go",
+      "title": "Protecting against CVE-2026-98432",
+      "url": "https://lobste.rs/s/mp8yqt/protecting_against_cve_2026_98432"
     }
   ]
 }
