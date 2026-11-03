@@ -1342,6 +1342,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** I was going to write something technical this week. Maybe about architecture patterns. Or why most...
 - **Link:** https://dev.to/antfarm-tech/missing-my-coworker-jason-today-23h3
 
+**Added 2026-11-03**
+
+### [From Fresher to Cloud Architect: How to Start Your AWS Cloud Journey](https://dev.to/aws-builders/from-fresher-to-cloud-architect-how-to-start-your-aws-cloud-journey-1l3i)
+- **Author:** Sarvar Nadaf | **Published:** Dec 5 '25 | **Read time:** 19 min
+- **Community:** 95 reactions, 22 comments -- a top post in #beginners
+- **Tags:** aws, beginners, career, cloud
+- **Summary:** 👋 Hey there, tech enthusiasts!   I'm Sarvar, a Cloud Architect with a passion for transforming...
+- **Link:** https://dev.to/aws-builders/from-fresher-to-cloud-architect-how-to-start-your-aws-cloud-journey-1l3i
+
 
 ## Show & Ask HN
 
