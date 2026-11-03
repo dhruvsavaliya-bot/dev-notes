@@ -3046,6 +3046,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.02936v1
 
+**Added 2026-11-04**
+
+### [Metamorphic Testing for Evaluating Robustness of Sentiment Analysis Models](http://arxiv.org/abs/2611.02248v1)
+- **Authors:** Sowjanya Karanam, Jayanth Bhargav
+- **Published:** 2026-11-01 | **Primary category:** cs.AI
+- **Categories:** cs.LG, cs.AI, cs.CL
+- **Abstract:** Machine learning systems are challenging to test using traditional software testing methods because their behavior is learned from data rather than explicitly programmed. This challenge is particularly significant in natural language processing (NLP), where small input variations can lead to unexpected model behavior. Conventional evaluation metrics, such as accuracy and F1-score, often fail to capture such inconsistencies. Metamorphic testing addresses this limitation by evaluating expected rel...
+- **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.02248v1
+
 
 ## Computer Vision
 

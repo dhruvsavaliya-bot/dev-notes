@@ -90,6 +90,7 @@
     "http://arxiv.org/abs/2610.38243v1",
     "http://arxiv.org/abs/2610.40396v1",
     "http://arxiv.org/abs/2610.40444v1",
+    "http://arxiv.org/abs/2611.02248v1",
     "http://arxiv.org/abs/2611.02936v1",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
@@ -2319,12 +2320,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "JavaScript",
-      "title": "The AI cost of JavaScript frameworks",
-      "url": "https://news.ycombinator.com/item?id=50323088"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Who is hiring? (November 2026)",
       "url": "https://news.ycombinator.com/item?id=50338728"
@@ -2376,6 +2371,12 @@
       "subcat": "Lobsters Picks",
       "title": "In Context",
       "url": "https://lobste.rs/s/b36ixw/context"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Research Papers",
+      "title": "Metamorphic Testing for Evaluating Robustness of...",
+      "url": "http://arxiv.org/abs/2611.02248v1"
     }
   ]
 }

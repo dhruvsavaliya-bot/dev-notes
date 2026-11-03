@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1637 entries and counting** · Last updated: 2026-11-04
+**1638 entries and counting** · Last updated: 2026-11-04
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 325 |
-| [AI / LLM Notes](ai/notes.md) | 329 |
+| [AI / LLM Notes](ai/notes.md) | 330 |
 | [Reading List](articles/reading-list.md) | 329 |
 | [Coding Tips](coding-tips/tips.md) | 329 |
 | [Language Notes](languages/notes.md) | 325 |
 
 ## Latest additions
 
+- **2026-11-04** · *Research Papers* — [Metamorphic Testing for Evaluating Robustness of...](http://arxiv.org/abs/2611.02248v1)
 - **2026-11-04** · *Lobsters Picks* — [In Context](https://lobste.rs/s/b36ixw/context)
 - **2026-11-04** · *Developer Tools* — [storytold/filmcraft](https://github.com/storytold/filmcraft)
 - **2026-11-03** · *PHP* — [Backdoor in Claude Code for VS Code extension on the...](https://news.ycombinator.com/item?id=50300683)
 - **2026-11-03** · *Models & Datasets* — [venvoo/china-a-share-l2-level2-limit-order-book-tick-da...](https://huggingface.co/datasets/venvoo/china-a-share-l2-level2-limit-order-book-tick-data)
-- **2026-11-03** · *Show & Ask HN* — [WorkOS reports security breach](https://news.ycombinator.com/item?id=50345712)
 
 ## How it works
 
