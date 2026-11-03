@@ -3050,6 +3050,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/b36ixw/context
 - **Link:** https://www.youtube.com/watch?v=P5eO7BNyJao
 
+**Added 2026-11-04**
+
+### [Avoid Public Functions Calling Other Public Functions](https://matklad.github.io/2026/10/29/pub-calls-pub.html)
+- **Source:** matklad.github.io | **Posted:** 2026-10-31 | **By:** telemachus
+- **Community:** 110 score, 22 comments on Lobsters
+- **Tags:** api, programming
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/k508we/avoid_public_functions_calling_other
+- **Link:** https://matklad.github.io/2026/10/29/pub-calls-pub.html
+
 
 ## Performance
 

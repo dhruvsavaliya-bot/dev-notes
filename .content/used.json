@@ -1361,6 +1361,7 @@
     "https://lobste.rs/s/ju4q1u/i_built_garbage_collector_for_rust_2023",
     "https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this",
     "https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think",
+    "https://lobste.rs/s/k508we/avoid_public_functions_calling_other",
     "https://lobste.rs/s/k5omum/brain_sandwich",
     "https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision",
     "https://lobste.rs/s/kcyzco/uuidv7_doesn_t_have_properties_you_think",
@@ -1486,6 +1487,7 @@
     "https://martypc.net/",
     "https://mastodon.sdf.org/@netbsd/117518160563539748",
     "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+    "https://matklad.github.io/2026/10/29/pub-calls-pub.html",
     "https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/",
     "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders",
     "https://memories.gallery/",
@@ -2321,12 +2323,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "Models & Datasets",
-      "title": "codepawl/simready-glb",
-      "url": "https://huggingface.co/datasets/codepawl/simready-glb"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "Hacker News Picks",
       "title": "Sharing AI progress in mathematics",
       "url": "https://news.ycombinator.com/item?id=49984923"
@@ -2378,6 +2374,12 @@
       "subcat": "AI & Machine Learning",
       "title": "sandbox-quantum/switch",
       "url": "https://github.com/sandbox-quantum/switch"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Lobsters Picks",
+      "title": "Avoid Public Functions Calling Other Public Functions",
+      "url": "https://lobste.rs/s/k508we/avoid_public_functions_calling_other"
     }
   ]
 }
