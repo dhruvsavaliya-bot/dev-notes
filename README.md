@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1624 entries and counting** · Last updated: 2026-11-03
+**1625 entries and counting** · Last updated: 2026-11-03
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 322 |
 | [AI / LLM Notes](ai/notes.md) | 326 |
-| [Reading List](articles/reading-list.md) | 326 |
+| [Reading List](articles/reading-list.md) | 327 |
 | [Coding Tips](coding-tips/tips.md) | 327 |
 | [Language Notes](languages/notes.md) | 323 |
 
 ## Latest additions
 
+- **2026-11-03** · *Hacker News Picks* — [Eight Bits of Trust: eMudhra's CA keys cracked in...](https://news.ycombinator.com/item?id=50177916)
 - **2026-11-03** · *Show & Ask HN* — [Show HN: A USB-C LTE modem that gives my computer a...](https://news.ycombinator.com/item?id=50317331)
 - **2026-11-03** · *Lobsters Picks* — [What are you doing this week?](https://lobste.rs/s/maqsgl/what_are_you_doing_this_week)
 - **2026-11-03** · *Research Papers* — [Why Tabular Foundation Models Excel on Relational...](http://arxiv.org/abs/2611.02936v1)
 - **2026-11-03** · *Show & Ask HN* — [Show HN: SolidCraft  Open-Source Parametric CAD in...](https://news.ycombinator.com/item?id=50064840)
-- **2026-11-03** · *Swift* — [ElementaryUI  Swift, in the Browser](https://news.ycombinator.com/item?id=50295821)
 
 ## How it works
 

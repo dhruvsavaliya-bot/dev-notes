@@ -1949,6 +1949,7 @@
     "https://news.ycombinator.com/item?id=50175510",
     "https://news.ycombinator.com/item?id=50176544",
     "https://news.ycombinator.com/item?id=50177911",
+    "https://news.ycombinator.com/item?id=50177916",
     "https://news.ycombinator.com/item?id=50180039",
     "https://news.ycombinator.com/item?id=50180079",
     "https://news.ycombinator.com/item?id=50180873",
@@ -2078,6 +2079,7 @@
     "https://savedotorg.org/",
     "https://science.nasa.gov/mission/roman-space-telescope/",
     "https://scottaaronson.blog/?p=10169",
+    "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
     "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
     "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
     "https://sebsite.pw/w/20260728-cow.html",
@@ -2301,12 +2303,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "Go",
-      "title": "Protecting against CVE-2026-98432",
-      "url": "https://lobste.rs/s/mp8yqt/protecting_against_cve_2026_98432"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "Models & Datasets",
       "title": "zai-org/GLM-5.1",
       "url": "https://huggingface.co/zai-org/GLM-5.1"
@@ -2358,6 +2354,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: A USB-C LTE modem that gives my computer a...",
       "url": "https://news.ycombinator.com/item?id=50317331"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "Hacker News Picks",
+      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in...",
+      "url": "https://news.ycombinator.com/item?id=50177916"
     }
   ]
 }

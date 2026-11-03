@@ -2090,6 +2090,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50346153
 - **Link:** https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html
 
+**Added 2026-11-03**
+
+### [Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
+- **Source:** scotthelme.co.uk | **Posted:** 2026-10-21 | **By:** hkc
+- **Community:** 957 points, 461 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50177916
+- **Link:** https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/
+
 
 ## DevOps & Cloud
 
@@ -3014,8 +3023,10 @@ Please keep in mind it’s more than OK to do nothing at all too!
 - **Source:** lobste.rs | **Posted:** 2026-11-02 | **By:** caius
 - **Community:** 18 score, 48 comments on Lobsters
 - **Tags:** ask, programming
-- **Summary:** What are you doing this week? Feel free to share!
-
+- **Summary:** What are you doing this week? Feel free to share!
+
+
+
 Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/maqsgl/what_are_you_doing_this_week
 - **Link:** https://lobste.rs/s/maqsgl/what_are_you_doing_this_week
