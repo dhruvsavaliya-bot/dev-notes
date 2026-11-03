@@ -2157,6 +2157,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/mithulaartigala/reasoning-corpus-4K-5M-v1
 
+**Added 2026-11-03**
+
+### [zai-org/GLM-5.1](https://huggingface.co/zai-org/GLM-5.1)
+- **Stats:** 1,851 likes | 967,007 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-04-03
+- **Tags:** transformers, safetensors, glm_moe_dsa, text-generation, conversational, en
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/zai-org/GLM-5.1
+
 
 ## Research Papers
 

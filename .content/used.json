@@ -1180,6 +1180,7 @@
     "https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base",
     "https://huggingface.co/yiyanghkust/finbert-tone",
     "https://huggingface.co/zai-org/GLM-4.6",
+    "https://huggingface.co/zai-org/GLM-5.1",
     "https://huggingface.co/zai-org/GLM-5.3-Flash",
     "https://huggingface.co/zai-org/chatglm3-6b",
     "https://hugovk.dev/blog/2026/soft-deprecating-re.match/",
@@ -2287,12 +2288,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "Models & Datasets",
-      "title": "mistralai/Mistral-Large-4-1T-A52B",
-      "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "Other Cool Projects",
       "title": "liangmianya/dsh-synapse",
       "url": "https://github.com/liangmianya/dsh-synapse"
@@ -2344,6 +2339,12 @@
       "subcat": "Go",
       "title": "Protecting against CVE-2026-98432",
       "url": "https://lobste.rs/s/mp8yqt/protecting_against_cve_2026_98432"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "Models & Datasets",
+      "title": "zai-org/GLM-5.1",
+      "url": "https://huggingface.co/zai-org/GLM-5.1"
     }
   ]
 }
