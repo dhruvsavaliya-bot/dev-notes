@@ -1883,6 +1883,7 @@
     "https://news.ycombinator.com/item?id=49977588",
     "https://news.ycombinator.com/item?id=49978595",
     "https://news.ycombinator.com/item?id=49982498",
+    "https://news.ycombinator.com/item?id=49984923",
     "https://news.ycombinator.com/item?id=49985548",
     "https://news.ycombinator.com/item?id=49987076",
     "https://news.ycombinator.com/item?id=49987765",
@@ -2038,6 +2039,7 @@
     "https://openai.com/index/navier-stokes-solution/",
     "https://openai.com/index/openai-models-google-cloud/",
     "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+    "https://openai.com/index/sharing-ai-progress-in-mathematics/",
     "https://openchamber.dev/",
     "https://openfatigue.ai/",
     "https://openjdk.org/jeps/544",
@@ -2309,12 +2311,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: SolidCraft  Open-Source Parametric CAD in...",
-      "url": "https://news.ycombinator.com/item?id=50064840"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "Research Papers",
       "title": "Why Tabular Foundation Models Excel on Relational...",
       "url": "http://arxiv.org/abs/2611.02936v1"
@@ -2366,6 +2362,12 @@
       "subcat": "Models & Datasets",
       "title": "codepawl/simready-glb",
       "url": "https://huggingface.co/datasets/codepawl/simready-glb"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "Hacker News Picks",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://news.ycombinator.com/item?id=49984923"
     }
   ]
 }

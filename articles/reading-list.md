@@ -2099,6 +2099,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50177916
 - **Link:** https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/
 
+**Added 2026-11-03**
+
+### [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)
+- **Source:** openai.com | **Posted:** 2026-10-06 | **By:** OfficialTurkey
+- **Community:** 1363 points, 1539 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49984923
+- **Link:** https://openai.com/index/sharing-ai-progress-in-mathematics/
+
 
 ## DevOps & Cloud
 
