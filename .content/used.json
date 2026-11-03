@@ -557,6 +557,7 @@
     "https://github.com/KKKKhazix/human-writing",
     "https://github.com/KittenML/KittenTTS",
     "https://github.com/KnifeLemon/Filee",
+    "https://github.com/Koppar-AI/koppar-lte-modem",
     "https://github.com/Krishnagangwal/CS-Fundamentals",
     "https://github.com/Kuberwastaken/claurst",
     "https://github.com/Kuddev/pebrel",
@@ -1999,6 +2000,7 @@
     "https://news.ycombinator.com/item?id=50303172",
     "https://news.ycombinator.com/item?id=50307723",
     "https://news.ycombinator.com/item?id=50312756",
+    "https://news.ycombinator.com/item?id=50317331",
     "https://news.ycombinator.com/item?id=50326821",
     "https://news.ycombinator.com/item?id=50328251",
     "https://news.ycombinator.com/item?id=50328896",
@@ -2299,12 +2301,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "Lobsters Picks",
-      "title": "Lets Build a Brain",
-      "url": "https://lobste.rs/s/bmmj1e/let_s_build_brain"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "Go",
       "title": "Protecting against CVE-2026-98432",
       "url": "https://lobste.rs/s/mp8yqt/protecting_against_cve_2026_98432"
@@ -2356,6 +2352,12 @@
       "subcat": "Lobsters Picks",
       "title": "What are you doing this week?",
       "url": "https://lobste.rs/s/maqsgl/what_are_you_doing_this_week"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: A USB-C LTE modem that gives my computer a...",
+      "url": "https://news.ycombinator.com/item?id=50317331"
     }
   ]
 }

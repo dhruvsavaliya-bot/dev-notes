@@ -2299,6 +2299,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50064840
 - **Link:** https://github.com/bherbruck/solidcraft
 
+**Added 2026-11-03**
+
+### [Show HN: A USB-C LTE modem that gives my computer a phone line](https://github.com/Koppar-AI/koppar-lte-modem)
+- **Source:** github.com | **Posted:** 2026-10-31 | **By:** abijahkaj
+- **Community:** 61 points, 43 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50317331
+- **Link:** https://github.com/Koppar-AI/koppar-lte-modem
+
 
 ## Git & Workflow
 
