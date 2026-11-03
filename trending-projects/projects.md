@@ -1454,6 +1454,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~15 stars/day since launch.
 - **Link:** https://github.com/onecli/onecli
 
+**Added 2026-11-03**
+
+### [pipelab-org/pipelock](https://github.com/pipelab-org/pipelock)
+- **Stats:** 981 stars | 113 forks | 3 open issues
+- **Language:** Go | **Created:** 2026-02-08 | **License:** Apache-2.0
+- **Topics:** agent-security, ai-agent-security, ai-agents, ai-firewall, ai-security, dlp
+- **What it is:** Open-source AI agent firewall for MCP security and agent egress. Scans mediated HTTP, MCP, A2A, and WebSocket traffic for exfiltration, SSRF, and prompt injection, and emits mediator-signed action receipts: verifiable audit evidence from outside the agent.
+- **Growth:** averaging ~3 stars/day since launch.
+- **Link:** https://github.com/pipelab-org/pipelock
+
 
 ## Other Cool Projects
 

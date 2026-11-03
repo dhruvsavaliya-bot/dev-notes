@@ -872,6 +872,7 @@
     "https://github.com/php/php-src/releases/tag/php-8.2.35",
     "https://github.com/pingdotgg/t3code",
     "https://github.com/pingdotgg/ts-rust",
+    "https://github.com/pipelab-org/pipelock",
     "https://github.com/privastead/privastead",
     "https://github.com/qingjian-team/qingjian",
     "https://github.com/rakanki911/DLSS5-Swapper",
@@ -2311,12 +2312,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "Research Papers",
-      "title": "Why Tabular Foundation Models Excel on Relational...",
-      "url": "http://arxiv.org/abs/2611.02936v1"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "Lobsters Picks",
       "title": "What are you doing this week?",
       "url": "https://lobste.rs/s/maqsgl/what_are_you_doing_this_week"
@@ -2368,6 +2363,12 @@
       "subcat": "Hacker News Picks",
       "title": "Sharing AI progress in mathematics",
       "url": "https://news.ycombinator.com/item?id=49984923"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "AI & Machine Learning",
+      "title": "pipelab-org/pipelock",
+      "url": "https://github.com/pipelab-org/pipelock"
     }
   ]
 }
