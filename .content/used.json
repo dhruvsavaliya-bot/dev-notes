@@ -1991,6 +1991,7 @@
     "https://news.ycombinator.com/item?id=50236102",
     "https://news.ycombinator.com/item?id=50240922",
     "https://news.ycombinator.com/item?id=50241664",
+    "https://news.ycombinator.com/item?id=50242509",
     "https://news.ycombinator.com/item?id=50242939",
     "https://news.ycombinator.com/item?id=50243060",
     "https://news.ycombinator.com/item?id=50246238",
@@ -2311,6 +2312,7 @@
     "https://www.youtube.com/watch?v=jWCQXBVIyrY",
     "https://xcancel.com/__alpoge__/status/2079028340955197566",
     "https://xoranth.net/gcc-switch/",
+    "https://xpipe.io/blog/java-aot-cache",
     "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
     "https://youtu.be/89yAiqYEwKg",
     "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
@@ -2321,12 +2323,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-11-03",
-      "subcat": "Hacker News Picks",
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://news.ycombinator.com/item?id=49984923"
-    },
     {
       "date": "2026-11-03",
       "subcat": "AI & Machine Learning",
@@ -2380,6 +2376,12 @@
       "subcat": "Lobsters Picks",
       "title": "Avoid Public Functions Calling Other Public Functions",
       "url": "https://lobste.rs/s/k508we/avoid_public_functions_calling_other"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Java",
+      "title": "Java's new AOT cache feature is in a rough state",
+      "url": "https://news.ycombinator.com/item?id=50242509"
     }
   ]
 }

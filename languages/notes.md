@@ -3170,3 +3170,12 @@ Snippets and gotchas across languages.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=50150750
 - **Link:** https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816
+
+**Added 2026-11-04**
+
+### [Java's new AOT cache feature is in a rough state](https://xpipe.io/blog/java-aot-cache)
+- **Source:** xpipe.io | **Posted:** 2026-10-26 | **By:** theanonymousone
+- **Community:** 91 points, 44 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50242509
+- **Link:** https://xpipe.io/blog/java-aot-cache
