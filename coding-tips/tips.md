@@ -2949,6 +2949,16 @@ I am posting the meetup prior to receiving their approval, so that those of you 
 - **Discussion:** https://lobste.rs/s/0yxkvs/postgres_19_is_late_it_s_ai_s_fault
 - **Link:** http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html
 
+**Added 2026-11-03**
+
+### [Polyend releases the Tracker firmware source code](https://backstage.polyend.com/t/tracker-the-biggest-update-yet/25120)
+- **Source:** backstage.polyend.com | **Posted:** 2026-11-02 | **By:** jussi
+- **Community:** 24 score, 6 comments on Lobsters
+- **Tags:** art, release
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/gu6yyl/polyend_releases_tracker_firmware
+- **Link:** https://backstage.polyend.com/t/tracker-the-biggest-update-yet/25120
+
 
 ## Career & Craft
 
