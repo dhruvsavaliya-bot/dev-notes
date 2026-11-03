@@ -2968,6 +2968,16 @@ I am posting the meetup prior to receiving their approval, so that those of you 
 - **Discussion:** https://lobste.rs/s/gu6yyl/polyend_releases_tracker_firmware
 - **Link:** https://backstage.polyend.com/t/tracker-the-biggest-update-yet/25120
 
+**Added 2026-11-03**
+
+### [A Decade of Kill Bugs](https://alangrow.com/blog/a-decade-of-kill-bugs)
+- **Source:** alangrow.com | **Posted:** 2026-11-02 | **By:** acg
+- **Community:** 35 score, 4 comments on Lobsters
+- **Tags:** historical, linux, unix
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/wgoato/decade_kill_bugs
+- **Link:** https://alangrow.com/blog/a-decade-of-kill-bugs
+
 
 ## Career & Craft
 

@@ -124,6 +124,7 @@
     "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
     "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
     "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
+    "https://alangrow.com/blog/a-decade-of-kill-bugs",
     "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
     "https://alexsci.com/blog/uuidv7-is-weird/",
     "https://aleyan.com/projects/python-iceberg/",
@@ -1425,6 +1426,7 @@
     "https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice",
     "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed",
     "https://lobste.rs/s/wd4ye5/clojure_conj_2026",
+    "https://lobste.rs/s/wgoato/decade_kill_bugs",
     "https://lobste.rs/s/whzj8z/jep_544_ahead_time_code_compilation",
     "https://lobste.rs/s/wi4nnl/railway_security_disclosure_wednesday",
     "https://lobste.rs/s/wn293o/interactive_refactoring_gopls",
@@ -2288,12 +2290,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "Other Cool Projects",
-      "title": "liangmianya/dsh-synapse",
-      "url": "https://github.com/liangmianya/dsh-synapse"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "Hacker News Picks",
       "title": "Apple Music 404 Not Found",
       "url": "https://news.ycombinator.com/item?id=50207910"
@@ -2345,6 +2341,12 @@
       "subcat": "Models & Datasets",
       "title": "zai-org/GLM-5.1",
       "url": "https://huggingface.co/zai-org/GLM-5.1"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "Lobsters Picks",
+      "title": "A Decade of Kill Bugs",
+      "url": "https://lobste.rs/s/wgoato/decade_kill_bugs"
     }
   ]
 }
