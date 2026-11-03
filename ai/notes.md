@@ -2184,6 +2184,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/codepawl/simready-glb
 
+**Added 2026-11-03**
+
+### [venvoo/china-a-share-l2-level2-limit-order-book-tick-data](https://huggingface.co/datasets/venvoo/china-a-share-l2-level2-limit-order-book-tick-data)
+- **Stats:** 607 likes | 198,777 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-09-01
+- **Tags:** finance, trading, stock-market, china, a-share, level-2
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/venvoo/china-a-share-l2-level2-limit-order-book-tick-data
+
 
 ## Research Papers
 

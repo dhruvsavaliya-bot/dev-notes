@@ -1140,6 +1140,7 @@
     "https://huggingface.co/datasets/stanford-vision-lab/gpic",
     "https://huggingface.co/datasets/tau/commonsense_qa",
     "https://huggingface.co/datasets/tiiuae/falcon-refinedweb",
+    "https://huggingface.co/datasets/venvoo/china-a-share-l2-level2-limit-order-book-tick-data",
     "https://huggingface.co/datasets/ystemsrx/Erotic_Literature_Collection",
     "https://huggingface.co/datasets/zgcagi/ZGCM-1-Data",
     "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
@@ -2313,12 +2314,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: A USB-C LTE modem that gives my computer a...",
-      "url": "https://news.ycombinator.com/item?id=50317331"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "Hacker News Picks",
       "title": "Eight Bits of Trust: eMudhra's CA keys cracked in...",
       "url": "https://news.ycombinator.com/item?id=50177916"
@@ -2370,6 +2365,12 @@
       "subcat": "Show & Ask HN",
       "title": "WorkOS reports security breach",
       "url": "https://news.ycombinator.com/item?id=50345712"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "Models & Datasets",
+      "title": "venvoo/china-a-share-l2-level2-limit-order-book-tick-da...",
+      "url": "https://huggingface.co/datasets/venvoo/china-a-share-l2-level2-limit-order-book-tick-data"
     }
   ]
 }
