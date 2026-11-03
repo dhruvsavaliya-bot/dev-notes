@@ -492,6 +492,15 @@ Lessons from building with LLMs.
 - **Summary:** This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle  Oktoberfest?...
 - **Link:** https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh
 
+**Added 2026-11-03**
+
+### [Marigold /router - A Private Ofrenda for the Memories We Refuse to Lose](https://dev.to/kumuda/marigold-router-a-private-ofrenda-for-the-memories-we-refuse-to-lose-2e68)
+- **Author:** Kumuda ⚔️ | **Published:** Oct 30 | **Read time:** 7 min
+- **Community:** 63 reactions, 10 comments -- a top post in #ai
+- **Tags:** devchallenge, hf26challenge, ai, gemma
+- **Summary:** This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine    ...
+- **Link:** https://dev.to/kumuda/marigold-router-a-private-ofrenda-for-the-memories-we-refuse-to-lose-2e68
+
 
 ## LLMs
 
