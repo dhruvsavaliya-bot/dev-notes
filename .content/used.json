@@ -466,6 +466,7 @@
     "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
     "https://fabiensanglard.net/quake_shareware_cd/index.html",
     "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
+    "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
     "https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/",
     "https://fireworks.ai/blog/ember-1",
     "https://flattensf.com/",
@@ -1995,6 +1996,7 @@
     "https://news.ycombinator.com/item?id=50326821",
     "https://news.ycombinator.com/item?id=50328251",
     "https://news.ycombinator.com/item?id=50328896",
+    "https://news.ycombinator.com/item?id=50346153",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2291,12 +2293,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "Models & Datasets",
-      "title": "black-forest-labs/flux-3-image-klein-comfy",
-      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "Lobsters Picks",
       "title": "Polyend releases the Tracker firmware source code",
       "url": "https://lobste.rs/s/gu6yyl/polyend_releases_tracker_firmware"
@@ -2348,6 +2344,12 @@
       "subcat": "Web & Frontend",
       "title": "smithersai/claude-p",
       "url": "https://github.com/smithersai/claude-p"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "Hacker News Picks",
+      "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+      "url": "https://news.ycombinator.com/item?id=50346153"
     }
   ]
 }

@@ -2081,6 +2081,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50112657
 - **Link:** https://www.tesla.com/roadster
 
+**Added 2026-11-03**
+
+### [Intel stock collapse worsens as $3.5T chip rout spreads](https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html)
+- **Source:** finance.yahoo.com | **Posted:** 2026-11-03 | **By:** entryleveljobsc
+- **Community:** 190 points, 143 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50346153
+- **Link:** https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html
+
 
 ## DevOps & Cloud
 
