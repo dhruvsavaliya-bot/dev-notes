@@ -2317,6 +2317,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50338728
 - **Link:** https://news.ycombinator.com/item?id=50338728
 
+**Added 2026-11-03**
+
+### [WorkOS reports security breach](https://news.ycombinator.com/item?id=50345712)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-02 | **By:** werrett
+- **Community:** 74 points, 10 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50345712
+- **Link:** https://news.ycombinator.com/item?id=50345712
+
 
 ## Git & Workflow
 

@@ -2012,6 +2012,7 @@
     "https://news.ycombinator.com/item?id=50328251",
     "https://news.ycombinator.com/item?id=50328896",
     "https://news.ycombinator.com/item?id=50338728",
+    "https://news.ycombinator.com/item?id=50345712",
     "https://news.ycombinator.com/item?id=50346153",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
@@ -2312,12 +2313,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "Lobsters Picks",
-      "title": "What are you doing this week?",
-      "url": "https://lobste.rs/s/maqsgl/what_are_you_doing_this_week"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "Show & Ask HN",
       "title": "Show HN: A USB-C LTE modem that gives my computer a...",
       "url": "https://news.ycombinator.com/item?id=50317331"
@@ -2369,6 +2364,12 @@
       "subcat": "AI & Machine Learning",
       "title": "pipelab-org/pipelock",
       "url": "https://github.com/pipelab-org/pipelock"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "Show & Ask HN",
+      "title": "WorkOS reports security breach",
+      "url": "https://news.ycombinator.com/item?id=50345712"
     }
   ]
 }
