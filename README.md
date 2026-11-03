@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1607 entries and counting** · Last updated: 2026-11-03
+**1608 entries and counting** · Last updated: 2026-11-03
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 321 |
 | [AI / LLM Notes](ai/notes.md) | 322 |
-| [Reading List](articles/reading-list.md) | 321 |
+| [Reading List](articles/reading-list.md) | 322 |
 | [Coding Tips](coding-tips/tips.md) | 322 |
 | [Language Notes](languages/notes.md) | 321 |
 
 ## Latest additions
 
+- **2026-11-03** · *Hacker News Picks* — [Apple Music 404 Not Found](https://news.ycombinator.com/item?id=50207910)
 - **2026-11-03** · *Other Cool Projects* — [liangmianya/dsh-synapse](https://github.com/liangmianya/dsh-synapse)
 - **2026-11-03** · *Models & Datasets* — [mistralai/Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B)
 - **2026-11-03** · *Rust* — [Finding panics with Call Graph Analyzer](https://lobste.rs/s/opqtiv/finding_panics_with_call_graph_analyzer)
 - **2026-11-03** · *Other Cool Projects* — [openai/math](https://github.com/openai/math)
-- **2026-11-03** · *Show & Ask HN* — [Show HN: Sumi.css  CSS Framework](https://news.ycombinator.com/item?id=50180039)
 
 ## How it works
 

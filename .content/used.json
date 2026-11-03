@@ -1465,6 +1465,7 @@
     "https://minimaxir.com/2026/10/cheap-llms/",
     "https://mistral.ai/news/voxtral-3/",
     "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+    "https://music.apple.com/this-url-doesnt-exist",
     "https://musicalform.substack.com/p/what-is-gridifcation",
     "https://mynoise.net/vlog.php?ep=20260803",
     "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
@@ -1943,6 +1944,7 @@
     "https://news.ycombinator.com/item?id=50200957",
     "https://news.ycombinator.com/item?id=50200997",
     "https://news.ycombinator.com/item?id=50204125",
+    "https://news.ycombinator.com/item?id=50207910",
     "https://news.ycombinator.com/item?id=50211474",
     "https://news.ycombinator.com/item?id=50212065",
     "https://news.ycombinator.com/item?id=50214373",
@@ -2273,12 +2275,6 @@
   ],
   "recent": [
     {
-      "date": "2026-11-02",
-      "subcat": "Research Papers",
-      "title": "Space AI Infrastructure: Where the Edge Meets the...",
-      "url": "http://arxiv.org/abs/2610.16395v1"
-    },
-    {
       "date": "2026-11-03",
       "subcat": "AI & Machine Learning",
       "title": "heydamir/unslop",
@@ -2331,6 +2327,12 @@
       "subcat": "Other Cool Projects",
       "title": "liangmianya/dsh-synapse",
       "url": "https://github.com/liangmianya/dsh-synapse"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "Hacker News Picks",
+      "title": "Apple Music 404 Not Found",
+      "url": "https://news.ycombinator.com/item?id=50207910"
     }
   ]
 }

@@ -2063,6 +2063,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50326821
 - **Link:** https://hackerbooks.org
 
+**Added 2026-11-03**
+
+### [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)
+- **Source:** music.apple.com | **Posted:** 2026-10-23 | **By:** frizlab
+- **Community:** 943 points, 278 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50207910
+- **Link:** https://music.apple.com/this-url-doesnt-exist
+
 
 ## DevOps & Cloud
 
