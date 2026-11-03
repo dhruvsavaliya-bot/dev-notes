@@ -118,6 +118,7 @@
     "https://a5geo.org/blog/2026/10/14/a5-v1",
     "https://aaronmallen.me/writing/hanami-why-introductions",
     "https://aaronmallen.me/writing/hanami-why-model-citizens",
+    "https://aatishb.com/myriad/lets-build-a-brain/",
     "https://acceptmarkdown.com/",
     "https://actualbudget.org/",
     "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
@@ -1279,6 +1280,7 @@
     "https://lobste.rs/s/bag41j/hanami_why_introductions",
     "https://lobste.rs/s/bcfzer/hacking_nameof",
     "https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical",
+    "https://lobste.rs/s/bmmj1e/let_s_build_brain",
     "https://lobste.rs/s/brdwr2/redox_ring_buffers_project_summary",
     "https://lobste.rs/s/brrnpm/outside_scope_our_support",
     "https://lobste.rs/s/c0xw18/atomvm_2025_year_review",
@@ -2283,12 +2285,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "Other Cool Projects",
-      "title": "openai/math",
-      "url": "https://github.com/openai/math"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "Rust",
       "title": "Finding panics with Call Graph Analyzer",
       "url": "https://lobste.rs/s/opqtiv/finding_panics_with_call_graph_analyzer"
@@ -2340,6 +2336,12 @@
       "subcat": "Beginner",
       "title": "From Fresher to Cloud Architect: How to Start Your...",
       "url": "https://dev.to/aws-builders/from-fresher-to-cloud-architect-how-to-start-your-aws-cloud-journey-1l3i"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "Lobsters Picks",
+      "title": "Lets Build a Brain",
+      "url": "https://lobste.rs/s/bmmj1e/let_s_build_brain"
     }
   ]
 }

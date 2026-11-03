@@ -2989,6 +2989,16 @@ Please keep in mind it’s more than OK to do nothing at all too!
 - **Discussion:** https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend
 - **Link:** https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend
 
+**Added 2026-11-03**
+
+### [Let’s Build a Brain](https://aatishb.com/myriad/lets-build-a-brain/)
+- **Source:** aatishb.com | **Posted:** 2026-10-31 | **By:** signal-11
+- **Community:** 19 score, 1 comments on Lobsters
+- **Tags:** ai, programming
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/bmmj1e/let_s_build_brain
+- **Link:** https://aatishb.com/myriad/lets-build-a-brain/
+
 
 ## Performance
 
