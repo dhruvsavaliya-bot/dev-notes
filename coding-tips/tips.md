@@ -2308,6 +2308,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50317331
 - **Link:** https://github.com/Koppar-AI/koppar-lte-modem
 
+**Added 2026-11-03**
+
+### [Ask HN: Who is hiring? (November 2026)](https://news.ycombinator.com/item?id=50338728)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-02 | **By:** whoishiring
+- **Community:** 234 points, 197 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50338728
+- **Link:** https://news.ycombinator.com/item?id=50338728
+
 
 ## Git & Workflow
 

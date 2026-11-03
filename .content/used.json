@@ -2008,6 +2008,7 @@
     "https://news.ycombinator.com/item?id=50326821",
     "https://news.ycombinator.com/item?id=50328251",
     "https://news.ycombinator.com/item?id=50328896",
+    "https://news.ycombinator.com/item?id=50338728",
     "https://news.ycombinator.com/item?id=50346153",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
@@ -2307,12 +2308,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "Hacker News Picks",
-      "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
-      "url": "https://news.ycombinator.com/item?id=50346153"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "Swift",
       "title": "ElementaryUI  Swift, in the Browser",
       "url": "https://news.ycombinator.com/item?id=50295821"
@@ -2364,6 +2359,12 @@
       "subcat": "JavaScript",
       "title": "The AI cost of JavaScript frameworks",
       "url": "https://news.ycombinator.com/item?id=50323088"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: Who is hiring? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50338728"
     }
   ]
 }
