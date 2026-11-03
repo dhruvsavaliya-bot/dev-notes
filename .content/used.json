@@ -1901,6 +1901,7 @@
     "https://news.ycombinator.com/item?id=50096110",
     "https://news.ycombinator.com/item?id=50104726",
     "https://news.ycombinator.com/item?id=50112331",
+    "https://news.ycombinator.com/item?id=50112657",
     "https://news.ycombinator.com/item?id=50120224",
     "https://news.ycombinator.com/item?id=50121562",
     "https://news.ycombinator.com/item?id=50122736",
@@ -2243,6 +2244,7 @@
     "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
     "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
     "https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html",
+    "https://www.tesla.com/roadster",
     "https://www.theatlantic.com/magazine/archive/2017/06/lolas-story/524490/?single_page=true",
     "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
     "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
@@ -2277,12 +2279,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-11-03",
-      "subcat": "Models & Datasets",
-      "title": "Qwen/BlenderWorld",
-      "url": "https://huggingface.co/datasets/Qwen/BlenderWorld"
-    },
     {
       "date": "2026-11-03",
       "subcat": "Lobsters Picks",
@@ -2336,6 +2332,12 @@
       "subcat": "Lobsters Picks",
       "title": "Polyend releases the Tracker firmware source code",
       "url": "https://lobste.rs/s/gu6yyl/polyend_releases_tracker_firmware"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "Hacker News Picks",
+      "title": "Tesla Roadster",
+      "url": "https://news.ycombinator.com/item?id=50112657"
     }
   ]
 }

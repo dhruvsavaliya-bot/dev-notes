@@ -2072,6 +2072,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50207910
 - **Link:** https://music.apple.com/this-url-doesnt-exist
 
+**Added 2026-11-03**
+
+### [Tesla Roadster](https://www.tesla.com/roadster)
+- **Source:** www.tesla.com | **Posted:** 2026-10-16 | **By:** shekhar101
+- **Community:** 1645 points, 3162 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50112657
+- **Link:** https://www.tesla.com/roadster
+
 
 ## DevOps & Cloud
 
