@@ -2737,6 +2737,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~616 stars/day since launch.
 - **Link:** https://github.com/openai/math
 
+**Added 2026-11-03**
+
+### [liangmianya/dsh-synapse](https://github.com/liangmianya/dsh-synapse)
+- **Stats:** 647 stars | 64 forks | 34 open issues
+- **Language:** JavaScript | **Created:** 2026-08-16 | **License:** MIT
+- **Topics:** deepseek, deepseek-harness, dsh, dsh-plugin, dsh-plugin-market, dsh-plugins
+- **What it is:** A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.
+- **Growth:** averaging ~8 stars/day since launch.
+- **Link:** https://github.com/liangmianya/dsh-synapse
+
 
 ## Web & Frontend
 
