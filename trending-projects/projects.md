@@ -2940,6 +2940,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~154 stars/day since launch.
 - **Link:** https://github.com/AprilNEA/OpenLogi
 
+**Added 2026-11-03**
+
+### [smithersai/claude-p](https://github.com/smithersai/claude-p)
+- **Stats:** 394 stars | 35 forks | 2 open issues
+- **Language:** Zig | **Created:** 2026-05-13 | **License:** None
+- **Topics:** none listed
+- **What it is:** Drop-in replacement for `claude -p` that drives the interactive Claude Code TUI inside an in-process zmux PTY session.
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/smithersai/claude-p
+
 
 ## Developer Tools
 

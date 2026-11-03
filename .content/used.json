@@ -895,6 +895,7 @@
     "https://github.com/simonlin1212/a-stock-data",
     "https://github.com/sivchari/kumo",
     "https://github.com/slvDev/esp32-ai",
+    "https://github.com/smithersai/claude-p",
     "https://github.com/snuri00/ps2-web-recomp",
     "https://github.com/software-mansion-labs/goldie",
     "https://github.com/srizzon/git-city",
@@ -2290,12 +2291,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "Hacker News Picks",
-      "title": "Apple Music 404 Not Found",
-      "url": "https://news.ycombinator.com/item?id=50207910"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "Models & Datasets",
       "title": "black-forest-labs/flux-3-image-klein-comfy",
       "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy"
@@ -2347,6 +2342,12 @@
       "subcat": "Lobsters Picks",
       "title": "A Decade of Kill Bugs",
       "url": "https://lobste.rs/s/wgoato/decade_kill_bugs"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "Web & Frontend",
+      "title": "smithersai/claude-p",
+      "url": "https://github.com/smithersai/claude-p"
     }
   ]
 }
