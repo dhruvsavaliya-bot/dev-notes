@@ -1292,6 +1292,7 @@
     "https://lobste.rs/s/ansfvi/forging_microsoft_edge_full_chain_with",
     "https://lobste.rs/s/ap9w8i/when_str_lower_is_security_vulnerability",
     "https://lobste.rs/s/b2emi7/guards_guards",
+    "https://lobste.rs/s/b36ixw/context",
     "https://lobste.rs/s/bag41j/hanami_why_introductions",
     "https://lobste.rs/s/bcfzer/hacking_nameof",
     "https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical",
@@ -2302,6 +2303,7 @@
     "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
     "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
     "https://www.youtube.com/watch?v=25x0UuSCKuU",
+    "https://www.youtube.com/watch?v=P5eO7BNyJao",
     "https://www.youtube.com/watch?v=jWCQXBVIyrY",
     "https://xcancel.com/__alpoge__/status/2079028340955197566",
     "https://xoranth.net/gcc-switch/",
@@ -2315,12 +2317,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-11-03",
-      "subcat": "AI & Machine Learning",
-      "title": "onecli/onecli",
-      "url": "https://github.com/onecli/onecli"
-    },
     {
       "date": "2026-11-03",
       "subcat": "JavaScript",
@@ -2374,6 +2370,12 @@
       "subcat": "Developer Tools",
       "title": "storytold/filmcraft",
       "url": "https://github.com/storytold/filmcraft"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Lobsters Picks",
+      "title": "In Context",
+      "url": "https://lobste.rs/s/b36ixw/context"
     }
   ]
 }

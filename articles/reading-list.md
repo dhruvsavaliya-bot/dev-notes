@@ -3040,6 +3040,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/maqsgl/what_are_you_doing_this_week
 - **Link:** https://lobste.rs/s/maqsgl/what_are_you_doing_this_week
 
+**Added 2026-11-04**
+
+### [In Context](https://www.youtube.com/watch?v=P5eO7BNyJao)
+- **Source:** www.youtube.com | **Posted:** 2026-10-19 | **By:** veqq
+- **Community:** 35 score, 11 comments on Lobsters
+- **Tags:** programming, video
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/b36ixw/context
+- **Link:** https://www.youtube.com/watch?v=P5eO7BNyJao
+
 
 ## Performance
 
