@@ -1464,6 +1464,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~3 stars/day since launch.
 - **Link:** https://github.com/pipelab-org/pipelock
 
+**Added 2026-11-04**
+
+### [sandbox-quantum/switch](https://github.com/sandbox-quantum/switch)
+- **Stats:** 3,490 stars | 217 forks | 426 open issues
+- **Language:** Python | **Created:** 2026-07-16 | **License:** NOASSERTION
+- **Topics:** agent-orchestration, ai, ai-agents, chatops, discord, langchain
+- **What it is:** Open-source AI teammates in Slack, Teams, Discord, Telegram and Mattermost. Self-host it, with any agent harness and any model.
+- **Growth:** averaging ~31 stars/day since launch.
+- **Link:** https://github.com/sandbox-quantum/switch
+
 
 ## Other Cool Projects
 

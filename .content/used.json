@@ -890,6 +890,7 @@
     "https://github.com/rushiranpise/morphe-patches",
     "https://github.com/s1dashu/ip-as-logo-skill",
     "https://github.com/safijari/openpuck",
+    "https://github.com/sandbox-quantum/switch",
     "https://github.com/sapientinc/PRAXIST",
     "https://github.com/savvyagents/larasend",
     "https://github.com/screenpipe/screenpipe",
@@ -2320,12 +2321,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: Who is hiring? (November 2026)",
-      "url": "https://news.ycombinator.com/item?id=50338728"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "Models & Datasets",
       "title": "codepawl/simready-glb",
       "url": "https://huggingface.co/datasets/codepawl/simready-glb"
@@ -2377,6 +2372,12 @@
       "subcat": "Research Papers",
       "title": "Metamorphic Testing for Evaluating Robustness of...",
       "url": "http://arxiv.org/abs/2611.02248v1"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "AI & Machine Learning",
+      "title": "sandbox-quantum/switch",
+      "url": "https://github.com/sandbox-quantum/switch"
     }
   ]
 }
