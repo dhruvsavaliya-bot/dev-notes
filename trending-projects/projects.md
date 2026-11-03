@@ -3153,6 +3153,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~474 stars/day since launch.
 - **Link:** https://github.com/storytold/lightcraft
 
+**Added 2026-11-04**
+
+### [storytold/filmcraft](https://github.com/storytold/filmcraft)
+- **Stats:** 17,420 stars | 7,189 forks | 1,991 open issues
+- **Language:** Rust | **Created:** 2026-09-30 | **License:** Apache-2.0
+- **Topics:** art, rust, video, video-editing, video-editor, video-processing
+- **What it is:** FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust
+- **Growth:** averaging ~497 stars/day since launch.
+- **Link:** https://github.com/storytold/filmcraft
+
 
 ## Backend & Infrastructure
 

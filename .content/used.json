@@ -908,6 +908,7 @@
     "https://github.com/software-mansion-labs/goldie",
     "https://github.com/srizzon/git-city",
     "https://github.com/storytold/figcraft",
+    "https://github.com/storytold/filmcraft",
     "https://github.com/storytold/gridcraft",
     "https://github.com/storytold/lightcraft",
     "https://github.com/storytold/photocraft",
@@ -2316,12 +2317,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "AI Engineering",
-      "title": "Marigold /router - A Private Ofrenda for the Memories...",
-      "url": "https://dev.to/kumuda/marigold-router-a-private-ofrenda-for-the-memories-we-refuse-to-lose-2e68"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "AI & Machine Learning",
       "title": "onecli/onecli",
       "url": "https://github.com/onecli/onecli"
@@ -2373,6 +2368,12 @@
       "subcat": "PHP",
       "title": "Backdoor in Claude Code for VS Code extension on the...",
       "url": "https://news.ycombinator.com/item?id=50300683"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Developer Tools",
+      "title": "storytold/filmcraft",
+      "url": "https://github.com/storytold/filmcraft"
     }
   ]
 }
