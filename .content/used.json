@@ -1098,6 +1098,7 @@
     "https://huggingface.co/datasets/markov-ai/cad-1000-hours",
     "https://huggingface.co/datasets/markov-ai/computer-use-large",
     "https://huggingface.co/datasets/meta-math/MetaMathQA",
+    "https://huggingface.co/datasets/mithulaartigala/reasoning-corpus-4K-5M-v1",
     "https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML",
     "https://huggingface.co/datasets/monology/pile-uncopyrighted",
     "https://huggingface.co/datasets/nisten/opus5-5-doctor-patient-conversations-all-human-diseases",
@@ -2281,12 +2282,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "Lobsters Picks",
-      "title": "What are you doing this weekend?",
-      "url": "https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Sumi.css  CSS Framework",
       "url": "https://news.ycombinator.com/item?id=50180039"
@@ -2338,6 +2333,12 @@
       "subcat": "Hacker News Picks",
       "title": "Tesla Roadster",
       "url": "https://news.ycombinator.com/item?id=50112657"
+    },
+    {
+      "date": "2026-11-03",
+      "subcat": "Models & Datasets",
+      "title": "mithulaartigala/reasoning-corpus-4K-5M-v1",
+      "url": "https://huggingface.co/datasets/mithulaartigala/reasoning-corpus-4K-5M-v1"
     }
   ]
 }

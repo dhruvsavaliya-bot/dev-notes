@@ -2148,6 +2148,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy
 
+**Added 2026-11-03**
+
+### [mithulaartigala/reasoning-corpus-4K-5M-v1](https://huggingface.co/datasets/mithulaartigala/reasoning-corpus-4K-5M-v1)
+- **Stats:** 211 likes | 2,307 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-07-08
+- **Tags:** reasoning, CoT, code, agentic, thinking, think
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/mithulaartigala/reasoning-corpus-4K-5M-v1
+
 
 ## Research Papers
 
