@@ -1494,6 +1494,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~47 stars/day since launch.
 - **Link:** https://github.com/sheprd-labs/sheprd
 
+**Added 2026-11-04**
+
+### [BytePioneer-AI/codex-host](https://github.com/BytePioneer-AI/codex-host)
+- **Stats:** 3,114 stars | 279 forks | 141 open issues
+- **Language:** TypeScript | **Created:** 2026-07-24 | **License:** LGPL-3.0
+- **Topics:** claude-code, codex, codex-desktop, codex-host, codexhost, pi-agent
+- **What it is:** Run Pi and Claude Code directly in Codex Desktop. 在 Codex Desktop 中直接运行 Pi 和 Claude Code。
+- **Growth:** averaging ~30 stars/day since launch.
+- **Link:** https://github.com/BytePioneer-AI/codex-host
+
 
 ## Other Cool Projects
 

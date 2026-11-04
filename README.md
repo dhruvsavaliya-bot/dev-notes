@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1674 entries and counting** · Last updated: 2026-11-04
+**1675 entries and counting** · Last updated: 2026-11-04
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 331 |
+| [Trending Projects](trending-projects/projects.md) | 332 |
 | [AI / LLM Notes](ai/notes.md) | 338 |
 | [Reading List](articles/reading-list.md) | 338 |
 | [Coding Tips](coding-tips/tips.md) | 336 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-04** · *AI & Machine Learning* — [BytePioneer-AI/codex-host](https://github.com/BytePioneer-AI/codex-host)
 - **2026-11-04** · *TypeScript* — [runvendo/vendo](https://github.com/runvendo/vendo)
 - **2026-11-04** · *Web Development* — [The Attention Trap: When Good Software Design Works...](https://dev.to/khalisollis/the-attention-trap-when-good-software-design-works-against-the-people-using-it-kbk)
 - **2026-11-04** · *Models & Datasets* — [DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Her...](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF)
 - **2026-11-04** · *AI & Machine Learning* — [sheprd-labs/sheprd](https://github.com/sheprd-labs/sheprd)
-- **2026-11-04** · *TypeScript* — [atlas-vtt/atlas-vtt](https://github.com/atlas-vtt/atlas-vtt)
 
 ## How it works
 

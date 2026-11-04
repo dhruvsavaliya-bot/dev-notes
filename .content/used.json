@@ -517,6 +517,7 @@
     "https://github.com/Blimp-Labs/claude-usage-bar",
     "https://github.com/BlueHeisenberg/SCSKiller",
     "https://github.com/BuilderIO/skills",
+    "https://github.com/BytePioneer-AI/codex-host",
     "https://github.com/Chlience/yt-dlp-tauri",
     "https://github.com/CircuitLord/CircuitLordVRModInstaller",
     "https://github.com/CluvexStudio/Aether",
@@ -2371,12 +2372,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "Models & Datasets",
-      "title": "OpenMOSS-Team/MOSS-Image-SFT",
-      "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Lobsters Picks",
       "title": "Ideas for social networks",
       "url": "https://lobste.rs/s/yes2hc/ideas_for_social_networks"
@@ -2428,6 +2423,12 @@
       "subcat": "TypeScript",
       "title": "runvendo/vendo",
       "url": "https://github.com/runvendo/vendo"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "AI & Machine Learning",
+      "title": "BytePioneer-AI/codex-host",
+      "url": "https://github.com/BytePioneer-AI/codex-host"
     }
   ]
 }
