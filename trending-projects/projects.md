@@ -1474,6 +1474,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~31 stars/day since launch.
 - **Link:** https://github.com/sandbox-quantum/switch
 
+**Added 2026-11-04**
+
+### [kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill)
+- **Stats:** 5,932 stars | 468 forks | 4 open issues
+- **Language:** HTML | **Created:** 2026-09-26 | **License:** MIT
+- **Topics:** agent-skills, branding, claude, claude-skills, codex, gemini-cli
+- **What it is:** A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.
+- **Growth:** averaging ~152 stars/day since launch.
+- **Link:** https://github.com/kaankiziltug/logo-design-skill
+
 
 ## Other Cool Projects
 
