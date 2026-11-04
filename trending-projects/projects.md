@@ -2777,6 +2777,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~8 stars/day since launch.
 - **Link:** https://github.com/liangmianya/dsh-synapse
 
+**Added 2026-11-04**
+
+### [storytold/deckcraft](https://github.com/storytold/deckcraft)
+- **Stats:** 4,586 stars | 2,641 forks | 709 open issues
+- **Language:** Rust | **Created:** 2026-10-07 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.
+- **Growth:** averaging ~163 stars/day since launch.
+- **Link:** https://github.com/storytold/deckcraft
+
 
 ## Web & Frontend
 
