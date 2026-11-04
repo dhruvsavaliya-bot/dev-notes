@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1682 entries and counting** · Last updated: 2026-11-05
+**1683 entries and counting** · Last updated: 2026-11-05
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 334 |
 | [AI / LLM Notes](ai/notes.md) | 340 |
-| [Reading List](articles/reading-list.md) | 340 |
+| [Reading List](articles/reading-list.md) | 341 |
 | [Coding Tips](coding-tips/tips.md) | 337 |
 | [Language Notes](languages/notes.md) | 331 |
 
 ## Latest additions
 
+- **2026-11-05** · *Hacker News Picks* — [The Mythical Man-Month in the Age of AI](https://news.ycombinator.com/item?id=50255298)
 - **2026-11-05** · *Models & Datasets* — [HuggingFaceBio/FineDNA](https://huggingface.co/datasets/HuggingFaceBio/FineDNA)
 - **2026-11-05** · *AI & Machine Learning* — [Socialpranker/deepdive](https://github.com/Socialpranker/deepdive)
 - **2026-11-04** · *Hacker News Picks* — [Gemini 4 Argon](https://news.ycombinator.com/item?id=50073879)
 - **2026-11-04** · *Show & Ask HN* — [Getting hit with "Prove you are a human" at every...](https://news.ycombinator.com/item?id=50355959)
-- **2026-11-04** · *AI & Machine Learning* — [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis)
 
 ## How it works
 

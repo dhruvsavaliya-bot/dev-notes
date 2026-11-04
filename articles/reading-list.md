@@ -2198,6 +2198,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50073879
 - **Link:** https://deepmind.google/models/gemini/
 
+**Added 2026-11-05**
+
+### [The Mythical Man-Month in the Age of AI](https://j11g.com/the-mythical-man-month-in-the-age-of-ai)
+- **Source:** j11g.com | **Posted:** 2026-10-27 | **By:** ilreb
+- **Community:** 497 points, 363 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50255298
+- **Link:** https://j11g.com/the-mythical-man-month-in-the-age-of-ai
+
 
 ## DevOps & Cloud
 

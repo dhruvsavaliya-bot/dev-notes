@@ -1229,6 +1229,7 @@
     "https://imaginationlibrary.com/",
     "https://indigene.app/",
     "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+    "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
     "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
     "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855858",
     "https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/",
@@ -2030,6 +2031,7 @@
     "https://news.ycombinator.com/item?id=50242939",
     "https://news.ycombinator.com/item?id=50243060",
     "https://news.ycombinator.com/item?id=50246238",
+    "https://news.ycombinator.com/item?id=50255298",
     "https://news.ycombinator.com/item?id=50264853",
     "https://news.ycombinator.com/item?id=50264857",
     "https://news.ycombinator.com/item?id=50271521",
@@ -2380,12 +2382,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "Web Development",
-      "title": "The Attention Trap: When Good Software Design Works...",
-      "url": "https://dev.to/khalisollis/the-attention-trap-when-good-software-design-works-against-the-people-using-it-kbk"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "TypeScript",
       "title": "runvendo/vendo",
       "url": "https://github.com/runvendo/vendo"
@@ -2437,6 +2433,12 @@
       "subcat": "Models & Datasets",
       "title": "HuggingFaceBio/FineDNA",
       "url": "https://huggingface.co/datasets/HuggingFaceBio/FineDNA"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "Hacker News Picks",
+      "title": "The Mythical Man-Month in the Age of AI",
+      "url": "https://news.ycombinator.com/item?id=50255298"
     }
   ]
 }
