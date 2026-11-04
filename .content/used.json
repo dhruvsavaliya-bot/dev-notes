@@ -1922,6 +1922,7 @@
     "https://news.ycombinator.com/item?id=50008047",
     "https://news.ycombinator.com/item?id=50009295",
     "https://news.ycombinator.com/item?id=50017301",
+    "https://news.ycombinator.com/item?id=50018350",
     "https://news.ycombinator.com/item?id=50018420",
     "https://news.ycombinator.com/item?id=50024499",
     "https://news.ycombinator.com/item?id=50039291",
@@ -2181,6 +2182,7 @@
     "https://talkweb.eu/openweb/4558/",
     "https://tangled.org/blog/forge/",
     "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+    "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
     "https://technicalwriting.dev/blog/2026/10/polyglot/index.html",
     "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
     "https://tenso.rs/demos/fast-neural-style/",
@@ -2364,12 +2366,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "Research Papers",
-      "title": "Planning-Coding Separation in LLM-Based Code...",
-      "url": "http://arxiv.org/abs/2611.04320v1"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Parsimony  an open-source benchmark for how...",
       "url": "https://news.ycombinator.com/item?id=50077619"
@@ -2421,6 +2417,12 @@
       "subcat": "Models & Datasets",
       "title": "MiniMaxAI/MiniMax-M3",
       "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Hacker News Picks",
+      "title": "OpenAI fires three safety researchers for...",
+      "url": "https://news.ycombinator.com/item?id=50018350"
     }
   ]
 }

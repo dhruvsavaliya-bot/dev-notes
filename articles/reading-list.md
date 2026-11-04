@@ -2162,6 +2162,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50059115
 - **Link:** https://research.meta.ai/blog/muse-wonder
 
+**Added 2026-11-04**
+
+### [OpenAI fires three safety researchers for "mishandling research information"](https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/)
+- **Source:** techcrunch.com | **Posted:** 2026-10-09 | **By:** trakkstar
+- **Community:** 367 points, 231 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50018350
+- **Link:** https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/
+
 
 ## DevOps & Cloud
 
