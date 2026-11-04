@@ -2247,6 +2247,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/MiniMaxAI/MiniMax-M3
 
+**Added 2026-11-04**
+
+### [DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF)
+- **Stats:** 2,448 likes | 1,403,315 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-09-01
+- **Tags:** gguf, unsloth, fine tune, heretic, uncensored, abliterated
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF
+
 
 ## Research Papers
 
