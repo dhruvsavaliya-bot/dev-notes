@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1669 entries and counting** · Last updated: 2026-11-04
+**1670 entries and counting** · Last updated: 2026-11-04
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 337 |
 | [Reading List](articles/reading-list.md) | 337 |
 | [Coding Tips](coding-tips/tips.md) | 336 |
-| [Language Notes](languages/notes.md) | 329 |
+| [Language Notes](languages/notes.md) | 330 |
 
 ## Latest additions
 
+- **2026-11-04** · *TypeScript* — [atlas-vtt/atlas-vtt](https://github.com/atlas-vtt/atlas-vtt)
 - **2026-11-04** · *Hacker News Picks* — [OpenAI fires three safety researchers for...](https://news.ycombinator.com/item?id=50018350)
 - **2026-11-04** · *Models & Datasets* — [MiniMaxAI/MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3)
 - **2026-11-04** · *Hacker News Picks* — [Muse Wonder](https://news.ycombinator.com/item?id=50059115)
 - **2026-11-04** · *Lobsters Picks* — [Ideas for social networks](https://lobste.rs/s/yes2hc/ideas_for_social_networks)
-- **2026-11-04** · *Models & Datasets* — [OpenMOSS-Team/MOSS-Image-SFT](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT)
 
 ## How it works
 

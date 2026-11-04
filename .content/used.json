@@ -683,6 +683,7 @@
     "https://github.com/arvids-unavailable/openGym",
     "https://github.com/ashemag/human-atlas",
     "https://github.com/ashhart/TensorFold",
+    "https://github.com/atlas-vtt/atlas-vtt",
     "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
     "https://github.com/ayghri/i-have-adhd",
     "https://github.com/azerioid/azerioid-stack-manager",
@@ -2366,12 +2367,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Parsimony  an open-source benchmark for how...",
-      "url": "https://news.ycombinator.com/item?id=50077619"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "AI & Machine Learning",
       "title": "kaankiziltug/logo-design-skill",
       "url": "https://github.com/kaankiziltug/logo-design-skill"
@@ -2423,6 +2418,12 @@
       "subcat": "Hacker News Picks",
       "title": "OpenAI fires three safety researchers for...",
       "url": "https://news.ycombinator.com/item?id=50018350"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "TypeScript",
+      "title": "atlas-vtt/atlas-vtt",
+      "url": "https://github.com/atlas-vtt/atlas-vtt"
     }
   ]
 }

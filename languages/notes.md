@@ -703,6 +703,16 @@ Snippets and gotchas across languages.
 - **Summary:** Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer who is scared of horror things 🙀  Happy Halloween!...
 - **Link:** https://dev.to/nyaomaru/trick-or-type-guard-surviving-unknown-with-is-kit-4oc2
 
+**Added 2026-11-04**
+
+### [atlas-vtt/atlas-vtt](https://github.com/atlas-vtt/atlas-vtt)
+- **Stats:** 660 stars | 92 forks | 165 open issues
+- **Language:** TypeScript | **Created:** 2026-09-20 | **License:** AGPL-3.0
+- **Topics:** obsidian, obsidian-plugin, offline, ttrpg, typescript, virtual-tabletop
+- **What it is:** Open Source virtual tabletop for Obsidian: battle maps, tokens, fog of war, dice, initiative and a separate player view.
+- **Growth:** averaging ~14 stars/day since launch.
+- **Link:** https://github.com/atlas-vtt/atlas-vtt
+
 
 ## Python
 
