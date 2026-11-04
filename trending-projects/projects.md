@@ -1524,6 +1524,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/Socialpranker/deepdive
 
+**Added 2026-11-05**
+
+### [Prismer-AI/PrismerCloud](https://github.com/Prismer-AI/PrismerCloud)
+- **Stats:** 1,364 stars | 16 forks | 0 open issues
+- **Language:** TypeScript | **Created:** 2026-03-21 | **License:** MIT
+- **Topics:** agent-communication, agent-memory, ai-agents, claude, cursor, docker
+- **What it is:** Prismer Cloud
+- **Growth:** averaging ~5 stars/day since launch.
+- **Link:** https://github.com/Prismer-AI/PrismerCloud
+
 
 ## Other Cool Projects
 

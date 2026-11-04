@@ -611,6 +611,7 @@
     "https://github.com/PimpinPumpkin/Vela",
     "https://github.com/Player-YN/BrowserKitten",
     "https://github.com/Player-YN/PawWork_ZhuaZhua",
+    "https://github.com/Prismer-AI/PrismerCloud",
     "https://github.com/Ptero-ai/Ptero",
     "https://github.com/QoderAI/better-harness",
     "https://github.com/QuipNetwork/quip-solver",
@@ -2382,12 +2383,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "TypeScript",
-      "title": "runvendo/vendo",
-      "url": "https://github.com/runvendo/vendo"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "AI & Machine Learning",
       "title": "BytePioneer-AI/codex-host",
       "url": "https://github.com/BytePioneer-AI/codex-host"
@@ -2439,6 +2434,12 @@
       "subcat": "Hacker News Picks",
       "title": "The Mythical Man-Month in the Age of AI",
       "url": "https://news.ycombinator.com/item?id=50255298"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "AI & Machine Learning",
+      "title": "Prismer-AI/PrismerCloud",
+      "url": "https://github.com/Prismer-AI/PrismerCloud"
     }
   ]
 }
