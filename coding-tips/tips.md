@@ -2362,6 +2362,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50077619
 - **Link:** https://parsimony.lasu.dev/
 
+**Added 2026-11-04**
+
+### [Getting hit with "Prove you are a human" at every other website](https://news.ycombinator.com/item?id=50355959)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-03 | **By:** shmde
+- **Community:** 83 points, 46 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50355959
+- **Link:** https://news.ycombinator.com/item?id=50355959
+
 
 ## Git & Workflow
 
