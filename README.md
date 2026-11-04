@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1649 entries and counting** · Last updated: 2026-11-04
+**1650 entries and counting** · Last updated: 2026-11-04
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 329 |
-| [AI / LLM Notes](ai/notes.md) | 330 |
+| [AI / LLM Notes](ai/notes.md) | 331 |
 | [Reading List](articles/reading-list.md) | 332 |
 | [Coding Tips](coding-tips/tips.md) | 331 |
 | [Language Notes](languages/notes.md) | 327 |
 
 ## Latest additions
 
+- **2026-11-04** · *Models & Datasets* — [Jackrong/Qwopus3.8-27B-Coder-Flash-GGUF](https://huggingface.co/Jackrong/Qwopus3.8-27B-Coder-Flash-GGUF)
 - **2026-11-04** · *Backend & Infrastructure* — [MerZlin/dsh-pet-indesktop](https://github.com/MerZlin/dsh-pet-indesktop)
 - **2026-11-04** · *Hacker News Picks* — [Could a modern chess engine on a Pentium have...](https://news.ycombinator.com/item?id=50349276)
 - **2026-11-04** · *Show & Ask HN* — [Gitbook Breached](https://news.ycombinator.com/item?id=50354336)
 - **2026-11-04** · *Other Cool Projects* — [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)
-- **2026-11-04** · *Hacker News Picks* — [Qwen 3.8 27B on my laptop can interpret model...](https://news.ycombinator.com/item?id=50355251)
 
 ## How it works
 

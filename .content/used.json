@@ -1036,6 +1036,7 @@
     "https://huggingface.co/FermionResearch/Phonon-2",
     "https://huggingface.co/FrancisRing/Prism",
     "https://huggingface.co/HuggingFaceH4/zephyr-7b-beta",
+    "https://huggingface.co/Jackrong/Qwopus3.8-27B-Coder-Flash-GGUF",
     "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
     "https://huggingface.co/LiquidAI/LFM3-Omni-2B",
     "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
@@ -2335,12 +2336,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "Lobsters Picks",
-      "title": "Avoid Public Functions Calling Other Public Functions",
-      "url": "https://lobste.rs/s/k508we/avoid_public_functions_calling_other"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Java",
       "title": "Java's new AOT cache feature is in a rough state",
       "url": "https://news.ycombinator.com/item?id=50242509"
@@ -2392,6 +2387,12 @@
       "subcat": "Backend & Infrastructure",
       "title": "MerZlin/dsh-pet-indesktop",
       "url": "https://github.com/MerZlin/dsh-pet-indesktop"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Models & Datasets",
+      "title": "Jackrong/Qwopus3.8-27B-Coder-Flash-GGUF",
+      "url": "https://huggingface.co/Jackrong/Qwopus3.8-27B-Coder-Flash-GGUF"
     }
   ]
 }

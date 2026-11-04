@@ -2193,6 +2193,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/venvoo/china-a-share-l2-level2-limit-order-book-tick-data
 
+**Added 2026-11-04**
+
+### [Jackrong/Qwopus3.8-27B-Coder-Flash-GGUF](https://huggingface.co/Jackrong/Qwopus3.8-27B-Coder-Flash-GGUF)
+- **Stats:** 55 likes | 10,554 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-10-28
+- **Tags:** transformers, gguf, llama.cpp, image-text-to-text, vision, multimodal
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/Jackrong/Qwopus3.8-27B-Coder-Flash-GGUF
+
 
 ## Research Papers
 
