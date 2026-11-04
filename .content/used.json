@@ -587,6 +587,7 @@
     "https://github.com/MaximeRivest/riddle",
     "https://github.com/MengTo/threeui",
     "https://github.com/MerZlin/dsh-pet-indesktop",
+    "https://github.com/Merserk/dlss5-visual-enhancer",
     "https://github.com/MetaMask/metamask-mobile",
     "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
     "https://github.com/MiaAI-Lab/sparkDash",
@@ -2387,12 +2388,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "AI & Machine Learning",
-      "title": "mnfst/awesome-free-llm-apis",
-      "url": "https://github.com/mnfst/awesome-free-llm-apis"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Show & Ask HN",
       "title": "Getting hit with \"Prove you are a human\" at every...",
       "url": "https://news.ycombinator.com/item?id=50355959"
@@ -2444,6 +2439,12 @@
       "subcat": "AI & Machine Learning",
       "title": "Zleap-AI/SAG",
       "url": "https://github.com/Zleap-AI/SAG"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "AI & Machine Learning",
+      "title": "Merserk/dlss5-visual-enhancer",
+      "url": "https://github.com/Merserk/dlss5-visual-enhancer"
     }
   ]
 }

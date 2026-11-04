@@ -1544,6 +1544,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~7 stars/day since launch.
 - **Link:** https://github.com/Zleap-AI/SAG
 
+**Added 2026-11-05**
+
+### [Merserk/dlss5-visual-enhancer](https://github.com/Merserk/dlss5-visual-enhancer)
+- **Stats:** 1,739 stars | 139 forks | 61 open issues
+- **Language:** C++ | **Created:** 2026-08-30 | **License:** NOASSERTION
+- **Topics:** ai-upscaling, dlss, dlss-5, dlss5, dlssg, frame-generation
+- **What it is:** DLSS 5 Neural Rendering for Images & Video with Frame Generation, RTX Video Super Resolution, HDR, and Color Grading
+- **Growth:** averaging ~25 stars/day since launch.
+- **Link:** https://github.com/Merserk/dlss5-visual-enhancer
+
 
 ## Other Cool Projects
 
