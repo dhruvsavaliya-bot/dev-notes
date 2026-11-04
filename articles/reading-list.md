@@ -2153,6 +2153,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50233304
 - **Link:** https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html
 
+**Added 2026-11-04**
+
+### [Muse Wonder](https://research.meta.ai/blog/muse-wonder)
+- **Source:** research.meta.ai | **Posted:** 2026-10-12 | **By:** meetpateltech
+- **Community:** 672 points, 385 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50059115
+- **Link:** https://research.meta.ai/blog/muse-wonder
+
 
 ## DevOps & Cloud
 
