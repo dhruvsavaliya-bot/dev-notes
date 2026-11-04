@@ -1102,6 +1102,7 @@
     "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023",
     "https://huggingface.co/datasets/MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x",
     "https://huggingface.co/datasets/OpenGVLab/ShareGPT-4o",
+    "https://huggingface.co/datasets/PentesterFlow/OffsecCyber",
     "https://huggingface.co/datasets/Qwen/BlenderWorld",
     "https://huggingface.co/datasets/ShadenA/MathNet",
     "https://huggingface.co/datasets/Sharpa-Robotics/SharpaDex-v1.0",
@@ -2383,12 +2384,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "AI & Machine Learning",
-      "title": "BytePioneer-AI/codex-host",
-      "url": "https://github.com/BytePioneer-AI/codex-host"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Models & Datasets",
       "title": "antirez/deepseek-v4.1-flash-gguf",
       "url": "https://huggingface.co/antirez/deepseek-v4.1-flash-gguf"
@@ -2440,6 +2435,12 @@
       "subcat": "AI & Machine Learning",
       "title": "Prismer-AI/PrismerCloud",
       "url": "https://github.com/Prismer-AI/PrismerCloud"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "Models & Datasets",
+      "title": "PentesterFlow/OffsecCyber",
+      "url": "https://huggingface.co/datasets/PentesterFlow/OffsecCyber"
     }
   ]
 }

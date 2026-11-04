@@ -2274,6 +2274,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/HuggingFaceBio/FineDNA
 
+**Added 2026-11-05**
+
+### [PentesterFlow/OffsecCyber](https://huggingface.co/datasets/PentesterFlow/OffsecCyber)
+- **Stats:** 54 likes | 2,756 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-11-03
+- **Tags:** cybersecurity, application-security, vulnerabilities, cve, cwe, instruction-tuning
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/PentesterFlow/OffsecCyber
+
 
 ## Research Papers
 
