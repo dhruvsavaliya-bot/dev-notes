@@ -3295,3 +3295,13 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** Bird frame for Raspberry Pi or your homelab - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen.
 - **Growth:** averaging ~33 stars/day since launch.
 - **Link:** https://github.com/arnegiacomo/fugleramme
+
+**Added 2026-11-04**
+
+### [MerZlin/dsh-pet-indesktop](https://github.com/MerZlin/dsh-pet-indesktop)
+- **Stats:** 3,043 stars | 211 forks | 112 open issues
+- **Language:** Python | **Created:** 2026-08-17 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** 基于项目PC2005-cloud/dsh-pet.git，将桌宠移植到Windows、Linux和MacOS上，现在可以随时看到蓝色大肥鱼了：），本项目还额外实现了其他交互功能，欢迎体验
+- **Growth:** averaging ~38 stars/day since launch.
+- **Link:** https://github.com/MerZlin/dsh-pet-indesktop
