@@ -2256,6 +2256,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF
 
+**Added 2026-11-04**
+
+### [antirez/deepseek-v4.1-flash-gguf](https://huggingface.co/antirez/deepseek-v4.1-flash-gguf)
+- **Stats:** 89 likes | 1,224,005 downloads
+- **Kind:** Hugging Face model | **Task:** n/a | **Created:** 2026-09-11
+- **Tags:** gguf, deepseek, metal, imatrix
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/antirez/deepseek-v4.1-flash-gguf
+
 
 ## Research Papers
 

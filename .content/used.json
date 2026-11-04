@@ -1065,6 +1065,7 @@
     "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
     "https://huggingface.co/SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
     "https://huggingface.co/almanach/camembert-base",
+    "https://huggingface.co/antirez/deepseek-v4.1-flash-gguf",
     "https://huggingface.co/audeering/wav2vec2-large-robust-24-ft-age-gender",
     "https://huggingface.co/autotrust/AutoTrust-JEV-27B-v1.1",
     "https://huggingface.co/autotrust/GEV-26B-Decide",
@@ -2372,12 +2373,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "Lobsters Picks",
-      "title": "Ideas for social networks",
-      "url": "https://lobste.rs/s/yes2hc/ideas_for_social_networks"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Hacker News Picks",
       "title": "Muse Wonder",
       "url": "https://news.ycombinator.com/item?id=50059115"
@@ -2429,6 +2424,12 @@
       "subcat": "AI & Machine Learning",
       "title": "BytePioneer-AI/codex-host",
       "url": "https://github.com/BytePioneer-AI/codex-host"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Models & Datasets",
+      "title": "antirez/deepseek-v4.1-flash-gguf",
+      "url": "https://huggingface.co/antirez/deepseek-v4.1-flash-gguf"
     }
   ]
 }
