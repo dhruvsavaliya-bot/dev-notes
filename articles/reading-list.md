@@ -188,6 +188,15 @@ Fresh dev articles and blog posts.
 - **Summary:** This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass 🌿            ...
 - **Link:** https://dev.to/pranjal_manhgaye_d94d7a8f/plot-tabpfn-on-real-frost-data-tells-you-to-touch-grass-54k1
 
+**Added 2026-11-04**
+
+### [The Attention Trap: When Good Software Design Works Against the People Using It](https://dev.to/khalisollis/the-attention-trap-when-good-software-design-works-against-the-people-using-it-kbk)
+- **Author:** Khali Sollis | **Published:** Oct 14 | **Read time:** 12 min
+- **Community:** 76 reactions, 18 comments -- a top post in #webdev
+- **Tags:** webdev, ux, discuss, productivity
+- **Summary:** What behavioral science reveals about engagement loops, digital habits, and the responsibility of...
+- **Link:** https://dev.to/khalisollis/the-attention-trap-when-good-software-design-works-against-the-people-using-it-kbk
+
 
 ## Hacker News Picks
 
