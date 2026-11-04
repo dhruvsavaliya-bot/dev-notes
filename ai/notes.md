@@ -2265,6 +2265,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/antirez/deepseek-v4.1-flash-gguf
 
+**Added 2026-11-05**
+
+### [HuggingFaceBio/FineDNA](https://huggingface.co/datasets/HuggingFaceBio/FineDNA)
+- **Stats:** 51 likes | 8,693 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-10-30
+- **Tags:** biology, genomics, dna, midtraining, sft, rl
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/HuggingFaceBio/FineDNA
+
 
 ## Research Papers
 

@@ -1089,6 +1089,7 @@
     "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
     "https://huggingface.co/datasets/Helsinki-NLP/opus-100",
     "https://huggingface.co/datasets/HoneyDataV2/Honey-Data-V2",
+    "https://huggingface.co/datasets/HuggingFaceBio/FineDNA",
     "https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train",
     "https://huggingface.co/datasets/HuggingFaceFW/finepdfs",
     "https://huggingface.co/datasets/HumynLabs/airline-customersupport-Hinglish-audio",
@@ -2379,12 +2380,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "Models & Datasets",
-      "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Her...",
-      "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Web Development",
       "title": "The Attention Trap: When Good Software Design Works...",
       "url": "https://dev.to/khalisollis/the-attention-trap-when-good-software-design-works-against-the-people-using-it-kbk"
@@ -2436,6 +2431,12 @@
       "subcat": "AI & Machine Learning",
       "title": "Socialpranker/deepdive",
       "url": "https://github.com/Socialpranker/deepdive"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "Models & Datasets",
+      "title": "HuggingFaceBio/FineDNA",
+      "url": "https://huggingface.co/datasets/HuggingFaceBio/FineDNA"
     }
   ]
 }
