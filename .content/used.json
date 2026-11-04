@@ -2032,6 +2032,7 @@
     "https://news.ycombinator.com/item?id=50326821",
     "https://news.ycombinator.com/item?id=50328251",
     "https://news.ycombinator.com/item?id=50328896",
+    "https://news.ycombinator.com/item?id=50333339",
     "https://news.ycombinator.com/item?id=50338728",
     "https://news.ycombinator.com/item?id=50345712",
     "https://news.ycombinator.com/item?id=50346153",
@@ -2201,6 +2202,7 @@
     "https://weirdgloop.org/blog/google-jail",
     "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
     "https://wiki.alpinebsd.org/",
+    "https://wikihack.netlify.app",
     "https://words.filippo.io/seeds-solved/",
     "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
     "https://www.abortretry.fail/p/matrox",
@@ -2347,12 +2349,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "Hacker News Picks",
-      "title": "Could a modern chess engine on a Pentium have...",
-      "url": "https://news.ycombinator.com/item?id=50349276"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Backend & Infrastructure",
       "title": "MerZlin/dsh-pet-indesktop",
       "url": "https://github.com/MerZlin/dsh-pet-indesktop"
@@ -2404,6 +2400,12 @@
       "subcat": "Models & Datasets",
       "title": "TuringEnterprises/Open-MM-RL",
       "url": "https://huggingface.co/datasets/TuringEnterprises/Open-MM-RL"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Wikihack  HackerTube, but for Wikipedia...",
+      "url": "https://news.ycombinator.com/item?id=50333339"
     }
   ]
 }

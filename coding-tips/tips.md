@@ -2344,6 +2344,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50354336
 - **Link:** https://news.ycombinator.com/item?id=50354336
 
+**Added 2026-11-04**
+
+### [Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app)
+- **Source:** wikihack.netlify.app | **Posted:** 2026-11-02 | **By:** aizk
+- **Community:** 339 points, 104 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50333339
+- **Link:** https://wikihack.netlify.app
+
 
 ## Git & Workflow
 
