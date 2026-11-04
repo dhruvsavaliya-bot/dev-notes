@@ -253,6 +253,7 @@
     "https://dbushell.com/2026/10/07/sustainable-web-career/",
     "https://deathplanswitch.com/",
     "https://deepgrove.ai/maple-preview",
+    "https://deepmind.google/models/gemini/",
     "https://deepmind.google/science/weathernext/",
     "https://deepseek.com/harness/en/",
     "https://desktopdocs.com/?v=2025",
@@ -1949,6 +1950,7 @@
     "https://news.ycombinator.com/item?id=50069337",
     "https://news.ycombinator.com/item?id=50070625",
     "https://news.ycombinator.com/item?id=50072286",
+    "https://news.ycombinator.com/item?id=50073879",
     "https://news.ycombinator.com/item?id=50077225",
     "https://news.ycombinator.com/item?id=50077619",
     "https://news.ycombinator.com/item?id=50084757",
@@ -2376,12 +2378,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "TypeScript",
-      "title": "atlas-vtt/atlas-vtt",
-      "url": "https://github.com/atlas-vtt/atlas-vtt"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "AI & Machine Learning",
       "title": "sheprd-labs/sheprd",
       "url": "https://github.com/sheprd-labs/sheprd"
@@ -2433,6 +2429,12 @@
       "subcat": "Show & Ask HN",
       "title": "Getting hit with \"Prove you are a human\" at every...",
       "url": "https://news.ycombinator.com/item?id=50355959"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Hacker News Picks",
+      "title": "Gemini 4 Argon",
+      "url": "https://news.ycombinator.com/item?id=50073879"
     }
   ]
 }

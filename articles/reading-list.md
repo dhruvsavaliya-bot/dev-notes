@@ -2189,6 +2189,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50018350
 - **Link:** https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/
 
+**Added 2026-11-04**
+
+### [Gemini 4 Argon](https://deepmind.google/models/gemini/)
+- **Source:** deepmind.google | **Posted:** 2026-10-13 | **By:** 737max
+- **Community:** 1467 points, 1047 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50073879
+- **Link:** https://deepmind.google/models/gemini/
+
 
 ## DevOps & Cloud
 
