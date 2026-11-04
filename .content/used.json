@@ -1047,6 +1047,7 @@
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
     "https://huggingface.co/Octen/Octen-WebGR-4B",
     "https://huggingface.co/OliviaRossi/Minimax-h3_Singularity-x-10Eros-Max_PRISM",
+    "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
     "https://huggingface.co/Qwen/Qwen-Image-2.1",
     "https://huggingface.co/Qwen/Qwen2.5-32B-Instruct-AWQ",
     "https://huggingface.co/Qwen/Qwen3-0.6B",
@@ -2358,12 +2359,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "Hacker News Picks",
-      "title": "Degraded availability for GitHub Actions, GitHub...",
-      "url": "https://news.ycombinator.com/item?id=50153934"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Models & Datasets",
       "title": "scenario-labs/3d-collection",
       "url": "https://huggingface.co/datasets/scenario-labs/3d-collection"
@@ -2415,6 +2410,12 @@
       "subcat": "Hacker News Picks",
       "title": "AI use leads UC Berkeley math professor to see 'no...",
       "url": "https://news.ycombinator.com/item?id=50233304"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Models & Datasets",
+      "title": "OpenMOSS-Team/MOSS-Image-SFT",
+      "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT"
     }
   ]
 }

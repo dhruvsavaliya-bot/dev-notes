@@ -2229,6 +2229,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/TuringEnterprises/Open-MM-RL
 
+**Added 2026-11-04**
+
+### [OpenMOSS-Team/MOSS-Image-SFT](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT)
+- **Stats:** 896 likes | 18,951 downloads
+- **Kind:** Hugging Face model | **Task:** text-to-image | **Created:** 2026-10-11
+- **Tags:** diffusers, safetensors, moss-image, text-to-image, en, zh
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT
+
 
 ## Research Papers
 
