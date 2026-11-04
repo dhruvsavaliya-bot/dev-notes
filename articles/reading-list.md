@@ -2108,6 +2108,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=49984923
 - **Link:** https://openai.com/index/sharing-ai-progress-in-mathematics/
 
+**Added 2026-11-04**
+
+### [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/)
+- **Source:** simonwillison.net | **Posted:** 2026-11-03 | **By:** theanonymousone
+- **Community:** 482 points, 151 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50355251
+- **Link:** https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/
+
 
 ## DevOps & Cloud
 

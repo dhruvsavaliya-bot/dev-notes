@@ -2026,6 +2026,7 @@
     "https://news.ycombinator.com/item?id=50345712",
     "https://news.ycombinator.com/item?id=50346153",
     "https://news.ycombinator.com/item?id=50353457",
+    "https://news.ycombinator.com/item?id=50355251",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2119,6 +2120,7 @@
     "https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/",
     "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
     "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
     "https://sjer.red/blog/2024-12-21/",
     "https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/",
     "https://smoores.dev/post/no_npm_estee_is_not_a_typo/",
@@ -2327,12 +2329,6 @@
   ],
   "recent": [
     {
-      "date": "2026-11-03",
-      "subcat": "PHP",
-      "title": "Backdoor in Claude Code for VS Code extension on the...",
-      "url": "https://news.ycombinator.com/item?id=50300683"
-    },
-    {
       "date": "2026-11-04",
       "subcat": "Developer Tools",
       "title": "storytold/filmcraft",
@@ -2385,6 +2381,12 @@
       "subcat": "Show & Ask HN",
       "title": "Tell HN: Please Vote",
       "url": "https://news.ycombinator.com/item?id=50353457"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Hacker News Picks",
+      "title": "Qwen 3.8 27B on my laptop can interpret model...",
+      "url": "https://news.ycombinator.com/item?id=50355251"
     }
   ]
 }
