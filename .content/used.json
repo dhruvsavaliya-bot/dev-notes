@@ -383,6 +383,7 @@
     "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
     "https://dev.to/nyaomaru/learn-valid-parentheses-reverse-linked-list-and-tree-max-depth-with-step-by-step-visualization-in-3o09",
     "https://dev.to/nyaomaru/migrating-a-real-typescript-oss-library-from-tsup-to-tsdown-5b80",
+    "https://dev.to/nyaomaru/trick-or-type-guard-surviving-unknown-with-is-kit-4oc2",
     "https://dev.to/nyaomaru/typescript-compiler-api-preserving-child-node-narrowing-in-reusable-type-guards-4pgh",
     "https://dev.to/nyaomaru/which-openapi-codegen-should-you-choose-openapi-typescript-vs-hey-api-vs-orval-vs-kubb-100p",
     "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
@@ -2355,12 +2356,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "Models & Datasets",
-      "title": "LightwheelAI/EgoStandard",
-      "url": "https://huggingface.co/datasets/LightwheelAI/EgoStandard"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Lobsters Picks",
       "title": "Observations from Running stealmybitcoin.com",
       "url": "https://lobste.rs/s/fgucra/observations_from_running"
@@ -2412,6 +2407,12 @@
       "subcat": "Rust",
       "title": "Surviving \"The Graduate\"",
       "url": "https://news.ycombinator.com/item?id=50319563"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "TypeScript",
+      "title": "Trick or Type Guard? Surviving `unknown` with is-kit",
+      "url": "https://dev.to/nyaomaru/trick-or-type-guard-surviving-unknown-with-is-kit-4oc2"
     }
   ]
 }

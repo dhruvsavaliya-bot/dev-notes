@@ -694,6 +694,15 @@ Snippets and gotchas across languages.
 - **Summary:** Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer who is obsessed with gamba. 😸🦐  Recently, I was...
 - **Link:** https://dev.to/nyaomaru/how-do-you-validate-unknown-in-typescript-without-a-schema-library-1a11
 
+**Added 2026-11-04**
+
+### [Trick or Type Guard? Surviving `unknown` with is-kit 🎃](https://dev.to/nyaomaru/trick-or-type-guard-surviving-unknown-with-is-kit-4oc2)
+- **Author:** nyaomaru | **Published:** Oct 31 | **Read time:** 5 min
+- **Community:** 89 reactions, 21 comments -- a top post in #typescript
+- **Tags:** typescript, opensource, beginners, webdev
+- **Summary:** Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer who is scared of horror things 🙀  Happy Halloween!...
+- **Link:** https://dev.to/nyaomaru/trick-or-type-guard-surviving-unknown-with-is-kit-4oc2
+
 
 ## Python
 
