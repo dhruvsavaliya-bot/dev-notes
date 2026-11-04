@@ -2202,6 +2202,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/Jackrong/Qwopus3.8-27B-Coder-Flash-GGUF
 
+**Added 2026-11-04**
+
+### [LightwheelAI/EgoStandard](https://huggingface.co/datasets/LightwheelAI/EgoStandard)
+- **Stats:** 374 likes | 10,884 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-08-07
+- **Tags:** video, egocentric-video, embodied-ai, human-demonstration, human-pose, hand-pose
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/LightwheelAI/EgoStandard
+
 
 ## Research Papers
 

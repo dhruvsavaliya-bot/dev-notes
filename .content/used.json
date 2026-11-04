@@ -1078,6 +1078,7 @@
     "https://huggingface.co/datasets/HumynLabs/airline-customersupport-Hinglish-audio",
     "https://huggingface.co/datasets/LightwheelAI/EgoDemo",
     "https://huggingface.co/datasets/LightwheelAI/EgoPro",
+    "https://huggingface.co/datasets/LightwheelAI/EgoStandard",
     "https://huggingface.co/datasets/LocalLLaMA/typed-decisions",
     "https://huggingface.co/datasets/Maxwell-Jia/AIME_2024",
     "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023",
@@ -2340,12 +2341,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "PHP",
-      "title": "5 lies de segurana que aprendi estudando um host...",
-      "url": "https://dev.to/matheusdsilva01/5-licoes-de-seguranca-que-aprendi-estudando-um-host-temporario-de-arquivos-5fab"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Show & Ask HN",
       "title": "Tell HN: Please Vote",
       "url": "https://news.ycombinator.com/item?id=50353457"
@@ -2397,6 +2392,12 @@
       "subcat": "Hacker News Picks",
       "title": "Postman silently auto-installs AI plugins and...",
       "url": "https://news.ycombinator.com/item?id=50354960"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Models & Datasets",
+      "title": "LightwheelAI/EgoStandard",
+      "url": "https://huggingface.co/datasets/LightwheelAI/EgoStandard"
     }
   ]
 }
