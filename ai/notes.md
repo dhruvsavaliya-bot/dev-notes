@@ -2238,6 +2238,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT
 
+**Added 2026-11-04**
+
+### [MiniMaxAI/MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3)
+- **Stats:** 1,601 likes | 176,425 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-06-02
+- **Tags:** transformers, safetensors, minimax_m3_vl, image-text-to-text, multimodal, moe
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/MiniMaxAI/MiniMax-M3
+
 
 ## Research Papers
 

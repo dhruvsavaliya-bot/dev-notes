@@ -1043,6 +1043,7 @@
     "https://huggingface.co/Jackrong/Qwopus3.8-27B-Coder-Flash-GGUF",
     "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
     "https://huggingface.co/LiquidAI/LFM3-Omni-2B",
+    "https://huggingface.co/MiniMaxAI/MiniMax-M3",
     "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
     "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
     "https://huggingface.co/Octen/Octen-WebGR-4B",
@@ -2363,12 +2364,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Wikihack  HackerTube, but for Wikipedia...",
-      "url": "https://news.ycombinator.com/item?id=50333339"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Research Papers",
       "title": "Planning-Coding Separation in LLM-Based Code...",
       "url": "http://arxiv.org/abs/2611.04320v1"
@@ -2420,6 +2415,12 @@
       "subcat": "Hacker News Picks",
       "title": "Muse Wonder",
       "url": "https://news.ycombinator.com/item?id=50059115"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Models & Datasets",
+      "title": "MiniMaxAI/MiniMax-M3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3"
     }
   ]
 }
