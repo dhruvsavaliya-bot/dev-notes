@@ -3042,6 +3042,16 @@ I am posting the meetup prior to receiving their approval, so that those of you 
 - **Discussion:** https://lobste.rs/s/e201eb/ubuntu_26_04_rust_sudo_is_not_compatible
 - **Link:** https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible
 
+**Added 2026-11-04**
+
+### [Observations from Running stealmybitcoin.com](https://pavursec.com/blog/stealmybitcoin/)
+- **Source:** pavursec.com | **Posted:** 2026-11-03 | **By:** wezm
+- **Community:** 23 score, 0 comments on Lobsters
+- **Tags:** php, security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/fgucra/observations_from_running
+- **Link:** https://pavursec.com/blog/stealmybitcoin/
+
 
 ## Career & Craft
 
