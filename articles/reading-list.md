@@ -2117,6 +2117,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50355251
 - **Link:** https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/
 
+**Added 2026-11-04**
+
+### [Could a modern chess engine on a Pentium have defeated Kasparov in 1996?](https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html)
+- **Source:** nicholas.carlini.com | **Posted:** 2026-11-03 | **By:** markusw
+- **Community:** 446 points, 211 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50349276
+- **Link:** https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html
+
 
 ## DevOps & Cloud
 

@@ -2026,6 +2026,7 @@
     "https://news.ycombinator.com/item?id=50338728",
     "https://news.ycombinator.com/item?id=50345712",
     "https://news.ycombinator.com/item?id=50346153",
+    "https://news.ycombinator.com/item?id=50349276",
     "https://news.ycombinator.com/item?id=50353457",
     "https://news.ycombinator.com/item?id=50354336",
     "https://news.ycombinator.com/item?id=50355251",
@@ -2039,6 +2040,7 @@
     "https://news.ycombinator.com/item?id=8665820",
     "https://news.ycombinator.com/item?id=8870361",
     "https://news.ycombinator.com/item?id=9962185",
+    "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
     "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
     "https://niklasroy.com/gtc/",
     "https://nikolays.github.io/PGSimCity/",
@@ -2332,12 +2334,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "Research Papers",
-      "title": "Metamorphic Testing for Evaluating Robustness of...",
-      "url": "http://arxiv.org/abs/2611.02248v1"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "AI & Machine Learning",
       "title": "sandbox-quantum/switch",
       "url": "https://github.com/sandbox-quantum/switch"
@@ -2389,6 +2385,12 @@
       "subcat": "Show & Ask HN",
       "title": "Gitbook Breached",
       "url": "https://news.ycombinator.com/item?id=50354336"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Hacker News Picks",
+      "title": "Could a modern chess engine on a Pentium have...",
+      "url": "https://news.ycombinator.com/item?id=50349276"
     }
   ]
 }
