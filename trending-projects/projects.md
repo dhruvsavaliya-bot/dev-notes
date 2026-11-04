@@ -1504,6 +1504,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~30 stars/day since launch.
 - **Link:** https://github.com/BytePioneer-AI/codex-host
 
+**Added 2026-11-04**
+
+### [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis)
+- **Stats:** 12,182 stars | 1,406 forks | 4 open issues
+- **Language:** JavaScript | **Created:** 2026-03-21 | **License:** CC0-1.0
+- **Topics:** ai-agents, anthropic, awesome, awesome-list, gemini, llm
+- **What it is:** List of Permanent Free LLM API  (API Keys)
+- **Growth:** averaging ~53 stars/day since launch.
+- **Link:** https://github.com/mnfst/awesome-free-llm-apis
+
 
 ## Other Cool Projects
 
