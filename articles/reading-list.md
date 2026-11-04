@@ -2135,6 +2135,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50354960
 - **Link:** https://github.com/postmanlabs/postman-app-support/issues/14370
 
+**Added 2026-11-04**
+
+### [Degraded availability for GitHub Actions, GitHub Pages and Webhooks](https://www.githubstatus.com/incidents/8tzbpcnl75jp)
+- **Source:** www.githubstatus.com | **Posted:** 2026-10-19 | **By:** gateauxd
+- **Community:** 159 points, 134 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50153934
+- **Link:** https://www.githubstatus.com/incidents/8tzbpcnl75jp
+
 
 ## DevOps & Cloud
 

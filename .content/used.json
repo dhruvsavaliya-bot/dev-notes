@@ -1952,6 +1952,7 @@
     "https://news.ycombinator.com/item?id=50151928",
     "https://news.ycombinator.com/item?id=50152307",
     "https://news.ycombinator.com/item?id=50152541",
+    "https://news.ycombinator.com/item?id=50153934",
     "https://news.ycombinator.com/item?id=50154518",
     "https://news.ycombinator.com/item?id=50154540",
     "https://news.ycombinator.com/item?id=50158942",
@@ -2243,6 +2244,7 @@
     "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
     "https://www.funwithcomputervision.com/weball/",
     "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+    "https://www.githubstatus.com/incidents/8tzbpcnl75jp",
     "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
     "https://www.gnu.org/philosophy/whats-wrong-with-github.html",
     "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
@@ -2343,12 +2345,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "Hacker News Picks",
-      "title": "Qwen 3.8 27B on my laptop can interpret model...",
-      "url": "https://news.ycombinator.com/item?id=50355251"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Other Cool Projects",
       "title": "pollen-robotics/microduck",
       "url": "https://github.com/pollen-robotics/microduck"
@@ -2400,6 +2396,12 @@
       "subcat": "Lobsters Picks",
       "title": "Observations from Running stealmybitcoin.com",
       "url": "https://lobste.rs/s/fgucra/observations_from_running"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Hacker News Picks",
+      "title": "Degraded availability for GitHub Actions, GitHub...",
+      "url": "https://news.ycombinator.com/item?id=50153934"
     }
   ]
 }
