@@ -1089,6 +1089,7 @@
     "https://huggingface.co/datasets/Sharpa-Robotics/SharpaDex-v1.0",
     "https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro",
     "https://huggingface.co/datasets/TheAgenticDataCompany/open-yap-1k",
+    "https://huggingface.co/datasets/TuringEnterprises/Open-MM-RL",
     "https://huggingface.co/datasets/XDOF/ABC-130k",
     "https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss",
     "https://huggingface.co/datasets/ZefanCai/Open-Jev",
@@ -2346,12 +2347,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "Show & Ask HN",
-      "title": "Gitbook Breached",
-      "url": "https://news.ycombinator.com/item?id=50354336"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Hacker News Picks",
       "title": "Could a modern chess engine on a Pentium have...",
       "url": "https://news.ycombinator.com/item?id=50349276"
@@ -2403,6 +2398,12 @@
       "subcat": "Models & Datasets",
       "title": "scenario-labs/3d-collection",
       "url": "https://huggingface.co/datasets/scenario-labs/3d-collection"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Models & Datasets",
+      "title": "TuringEnterprises/Open-MM-RL",
+      "url": "https://huggingface.co/datasets/TuringEnterprises/Open-MM-RL"
     }
   ]
 }

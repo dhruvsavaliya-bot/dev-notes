@@ -2220,6 +2220,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/scenario-labs/3d-collection
 
+**Added 2026-11-04**
+
+### [TuringEnterprises/Open-MM-RL](https://huggingface.co/datasets/TuringEnterprises/Open-MM-RL)
+- **Stats:** 236 likes | 231 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-05-11
+- **Tags:** chemistry, physics, math, biology, science, RL
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/TuringEnterprises/Open-MM-RL
+
 
 ## Research Papers
 
