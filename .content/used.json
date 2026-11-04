@@ -875,6 +875,7 @@
     "https://github.com/pingdotgg/t3code",
     "https://github.com/pingdotgg/ts-rust",
     "https://github.com/pipelab-org/pipelock",
+    "https://github.com/pollen-robotics/microduck",
     "https://github.com/privastead/privastead",
     "https://github.com/qingjian-team/qingjian",
     "https://github.com/rakanki911/DLSS5-Swapper",
@@ -2330,12 +2331,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "Developer Tools",
-      "title": "storytold/filmcraft",
-      "url": "https://github.com/storytold/filmcraft"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Lobsters Picks",
       "title": "In Context",
       "url": "https://lobste.rs/s/b36ixw/context"
@@ -2387,6 +2382,12 @@
       "subcat": "Hacker News Picks",
       "title": "Qwen 3.8 27B on my laptop can interpret model...",
       "url": "https://news.ycombinator.com/item?id=50355251"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Other Cool Projects",
+      "title": "pollen-robotics/microduck",
+      "url": "https://github.com/pollen-robotics/microduck"
     }
   ]
 }

@@ -2787,6 +2787,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~163 stars/day since launch.
 - **Link:** https://github.com/storytold/deckcraft
 
+**Added 2026-11-04**
+
+### [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)
+- **Stats:** 13,396 stars | 1,681 forks | 96 open issues
+- **Language:** Rust | **Created:** 2026-07-29 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** A Tiny biped duck robot 🦆
+- **Growth:** averaging ~136 stars/day since launch.
+- **Link:** https://github.com/pollen-robotics/microduck
+
 
 ## Web & Frontend
 
