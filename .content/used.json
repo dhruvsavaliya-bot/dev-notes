@@ -626,6 +626,7 @@
     "https://github.com/ShenSeanChen/waku-agent",
     "https://github.com/ShishirPatil/gorilla",
     "https://github.com/Shpigford/knockoff",
+    "https://github.com/Socialpranker/deepdive",
     "https://github.com/SonicloudTech/sonicloud_opensdk",
     "https://github.com/Star-Pie/StarPie",
     "https://github.com/Swayingleaves/novanova-studio",
@@ -2378,12 +2379,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "AI & Machine Learning",
-      "title": "sheprd-labs/sheprd",
-      "url": "https://github.com/sheprd-labs/sheprd"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Models & Datasets",
       "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Her...",
       "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF"
@@ -2435,6 +2430,12 @@
       "subcat": "Hacker News Picks",
       "title": "Gemini 4 Argon",
       "url": "https://news.ycombinator.com/item?id=50073879"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "AI & Machine Learning",
+      "title": "Socialpranker/deepdive",
+      "url": "https://github.com/Socialpranker/deepdive"
     }
   ]
 }

@@ -1514,6 +1514,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~53 stars/day since launch.
 - **Link:** https://github.com/mnfst/awesome-free-llm-apis
 
+**Added 2026-11-05**
+
+### [Socialpranker/deepdive](https://github.com/Socialpranker/deepdive)
+- **Stats:** 372 stars | 5 forks | 3 open issues
+- **Language:** Python | **Created:** 2026-05-21 | **License:** MIT
+- **Topics:** agent-skills, agentic-workflow, ai-research-assistant, anthropic, citation-verification, claude
+- **What it is:** Deepdive skill for Claude Code — 12-phase research pipeline: plan-review gate, parallel sub-agent search, claims-ledger triangulation with dissent protection, relevance × authority evidence filter, multi-angle red team, four-layer citation verification. 105 blocks, 29 channels, 460+ stat sources, 47 APIs, 1072 verified endpoints.
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/Socialpranker/deepdive
+
 
 ## Other Cool Projects
 
