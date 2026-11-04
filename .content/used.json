@@ -2031,6 +2031,7 @@
     "https://news.ycombinator.com/item?id=50307723",
     "https://news.ycombinator.com/item?id=50312756",
     "https://news.ycombinator.com/item?id=50317331",
+    "https://news.ycombinator.com/item?id=50319563",
     "https://news.ycombinator.com/item?id=50323088",
     "https://news.ycombinator.com/item?id=50326821",
     "https://news.ycombinator.com/item?id=50328251",
@@ -2273,6 +2274,7 @@
     "https://www.nasa.gov/press-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon",
     "https://www.nature.com/articles/d41586-023-02585-7",
     "https://www.nebulasans.com",
+    "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
     "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
     "https://www.nobelprize.org/prizes/peace/2026/press-release/",
     "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
@@ -2353,12 +2355,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "Hacker News Picks",
-      "title": "Postman silently auto-installs AI plugins and...",
-      "url": "https://news.ycombinator.com/item?id=50354960"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Models & Datasets",
       "title": "LightwheelAI/EgoStandard",
       "url": "https://huggingface.co/datasets/LightwheelAI/EgoStandard"
@@ -2410,6 +2406,12 @@
       "subcat": "AI & Machine Learning",
       "title": "kaankiziltug/logo-design-skill",
       "url": "https://github.com/kaankiziltug/logo-design-skill"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Rust",
+      "title": "Surviving \"The Graduate\"",
+      "url": "https://news.ycombinator.com/item?id=50319563"
     }
   ]
 }

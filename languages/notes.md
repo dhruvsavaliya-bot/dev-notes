@@ -2400,6 +2400,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/opqtiv/finding_panics_with_call_graph_analyzer
 - **Link:** https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/
 
+**Added 2026-11-04**
+
+### [Surviving "The Graduate"](https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate)
+- **Source:** www.newyorker.com | **Posted:** 2026-10-31 | **By:** samizdis
+- **Community:** 178 points, 61 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50319563
+- **Link:** https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate
+
 
 ## Elixir
 
