@@ -2025,6 +2025,7 @@
     "https://news.ycombinator.com/item?id=50338728",
     "https://news.ycombinator.com/item?id=50345712",
     "https://news.ycombinator.com/item?id=50346153",
+    "https://news.ycombinator.com/item?id=50353457",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2327,12 +2328,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "Models & Datasets",
-      "title": "venvoo/china-a-share-l2-level2-limit-order-book-tick-da...",
-      "url": "https://huggingface.co/datasets/venvoo/china-a-share-l2-level2-limit-order-book-tick-data"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "PHP",
       "title": "Backdoor in Claude Code for VS Code extension on the...",
       "url": "https://news.ycombinator.com/item?id=50300683"
@@ -2384,6 +2379,12 @@
       "subcat": "PHP",
       "title": "5 lies de segurana que aprendi estudando um host...",
       "url": "https://dev.to/matheusdsilva01/5-licoes-de-seguranca-que-aprendi-estudando-um-host-temporario-de-arquivos-5fab"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Show & Ask HN",
+      "title": "Tell HN: Please Vote",
+      "url": "https://news.ycombinator.com/item?id=50353457"
     }
   ]
 }
