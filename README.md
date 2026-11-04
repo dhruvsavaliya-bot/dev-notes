@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1642 entries and counting** · Last updated: 2026-11-04
+**1643 entries and counting** · Last updated: 2026-11-04
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 330 |
 | [Reading List](articles/reading-list.md) | 330 |
 | [Coding Tips](coding-tips/tips.md) | 329 |
-| [Language Notes](languages/notes.md) | 326 |
+| [Language Notes](languages/notes.md) | 327 |
 
 ## Latest additions
 
+- **2026-11-04** · *PHP* — [5 lies de segurana que aprendi estudando um host...](https://dev.to/matheusdsilva01/5-licoes-de-seguranca-que-aprendi-estudando-um-host-temporario-de-arquivos-5fab)
 - **2026-11-04** · *Other Cool Projects* — [storytold/deckcraft](https://github.com/storytold/deckcraft)
 - **2026-11-04** · *Java* — [Java's new AOT cache feature is in a rough state](https://news.ycombinator.com/item?id=50242509)
 - **2026-11-04** · *Lobsters Picks* — [Avoid Public Functions Calling Other Public Functions](https://lobste.rs/s/k508we/avoid_public_functions_calling_other)
 - **2026-11-04** · *AI & Machine Learning* — [sandbox-quantum/switch](https://github.com/sandbox-quantum/switch)
-- **2026-11-04** · *Research Papers* — [Metamorphic Testing for Evaluating Robustness of...](http://arxiv.org/abs/2611.02248v1)
 
 ## How it works
 

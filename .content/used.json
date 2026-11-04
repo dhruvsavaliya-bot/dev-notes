@@ -359,6 +359,7 @@
     "https://dev.to/maame-codes/localhost-is-a-lie-everything-uni-missed-about-real-world-tech-66n",
     "https://dev.to/malusev998/why-i-built-an-ssh-config-and-tunnel-manager-for-macos-58n8",
     "https://dev.to/mashraf_aiman/how-to-make-link-to-saas-launch-video-system-5a8k",
+    "https://dev.to/matheusdsilva01/5-licoes-de-seguranca-que-aprendi-estudando-um-host-temporario-de-arquivos-5fab",
     "https://dev.to/metal3d/git-worktree-like-a-boss-2j1b",
     "https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd",
     "https://dev.to/mikachu/i-made-866-commits-in-5-weeks-my-understanding-didnt-keep-up-cmo",
@@ -2326,12 +2327,6 @@
   "recent": [
     {
       "date": "2026-11-03",
-      "subcat": "Show & Ask HN",
-      "title": "WorkOS reports security breach",
-      "url": "https://news.ycombinator.com/item?id=50345712"
-    },
-    {
-      "date": "2026-11-03",
       "subcat": "Models & Datasets",
       "title": "venvoo/china-a-share-l2-level2-limit-order-book-tick-da...",
       "url": "https://huggingface.co/datasets/venvoo/china-a-share-l2-level2-limit-order-book-tick-data"
@@ -2383,6 +2378,12 @@
       "subcat": "Other Cool Projects",
       "title": "storytold/deckcraft",
       "url": "https://github.com/storytold/deckcraft"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "PHP",
+      "title": "5 lies de segurana que aprendi estudando um host...",
+      "url": "https://dev.to/matheusdsilva01/5-licoes-de-seguranca-que-aprendi-estudando-um-host-temporario-de-arquivos-5fab"
     }
   ]
 }

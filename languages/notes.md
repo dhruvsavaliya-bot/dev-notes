@@ -1599,6 +1599,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50300683
 - **Link:** https://phorion.io/blog/offical-claude-code-vsx-compromise/
 
+**Added 2026-11-04**
+
+### [5 lições de segurança que aprendi estudando um host temporário de arquivos](https://dev.to/matheusdsilva01/5-licoes-de-seguranca-que-aprendi-estudando-um-host-temporario-de-arquivos-5fab)
+- **Author:** Matheus Silva | **Published:** Oct 15 | **Read time:** 5 min
+- **Community:** 96 reactions, 2 comments -- a top post in #php
+- **Tags:** braziliandevs, learning, php, laravel
+- **Summary:** Estudei como funciona um projeto open-source de host temporário de arquivos, o Waifuvault, e criei um...
+- **Link:** https://dev.to/matheusdsilva01/5-licoes-de-seguranca-que-aprendi-estudando-um-host-temporario-de-arquivos-5fab
+
 
 ## Ruby
 
