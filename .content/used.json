@@ -2027,6 +2027,7 @@
     "https://news.ycombinator.com/item?id=50345712",
     "https://news.ycombinator.com/item?id=50346153",
     "https://news.ycombinator.com/item?id=50353457",
+    "https://news.ycombinator.com/item?id=50354336",
     "https://news.ycombinator.com/item?id=50355251",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
@@ -2331,12 +2332,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "Lobsters Picks",
-      "title": "In Context",
-      "url": "https://lobste.rs/s/b36ixw/context"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Research Papers",
       "title": "Metamorphic Testing for Evaluating Robustness of...",
       "url": "http://arxiv.org/abs/2611.02248v1"
@@ -2388,6 +2383,12 @@
       "subcat": "Other Cool Projects",
       "title": "pollen-robotics/microduck",
       "url": "https://github.com/pollen-robotics/microduck"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Show & Ask HN",
+      "title": "Gitbook Breached",
+      "url": "https://news.ycombinator.com/item?id=50354336"
     }
   ]
 }
