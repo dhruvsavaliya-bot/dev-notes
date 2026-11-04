@@ -713,6 +713,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~14 stars/day since launch.
 - **Link:** https://github.com/atlas-vtt/atlas-vtt
 
+**Added 2026-11-04**
+
+### [runvendo/vendo](https://github.com/runvendo/vendo)
+- **Stats:** 636 stars | 106 forks | 122 open issues
+- **Language:** TypeScript | **Created:** 2026-06-30 | **License:** Apache-2.0
+- **Topics:** agents, ai, ai-agents, automation, devtools, embedded-ai
+- **What it is:** Embedded agents your customers use to automate work, build views, and connect their tools.
+- **Growth:** averaging ~5 stars/day since launch.
+- **Link:** https://github.com/runvendo/vendo
+
 
 ## Python
 

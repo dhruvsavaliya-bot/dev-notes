@@ -896,6 +896,7 @@
     "https://github.com/robbietilton/Compositor",
     "https://github.com/rsutcliffe/nightwatch",
     "https://github.com/rtk-ai/rtk",
+    "https://github.com/runvendo/vendo",
     "https://github.com/rushiranpise/morphe-patches",
     "https://github.com/s1dashu/ip-as-logo-skill",
     "https://github.com/safijari/openpuck",
@@ -2370,12 +2371,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "Hacker News Picks",
-      "title": "AI use leads UC Berkeley math professor to see 'no...",
-      "url": "https://news.ycombinator.com/item?id=50233304"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Models & Datasets",
       "title": "OpenMOSS-Team/MOSS-Image-SFT",
       "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT"
@@ -2427,6 +2422,12 @@
       "subcat": "Web Development",
       "title": "The Attention Trap: When Good Software Design Works...",
       "url": "https://dev.to/khalisollis/the-attention-trap-when-good-software-design-works-against-the-people-using-it-kbk"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "TypeScript",
+      "title": "runvendo/vendo",
+      "url": "https://github.com/runvendo/vendo"
     }
   ]
 }
