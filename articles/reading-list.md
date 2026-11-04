@@ -2207,6 +2207,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50255298
 - **Link:** https://j11g.com/the-mythical-man-month-in-the-age-of-ai
 
+**Added 2026-11-05**
+
+### [AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs](https://github.com/android/ndk/issues/2260)
+- **Source:** github.com | **Posted:** 2026-10-14 | **By:** tharen
+- **Community:** 510 points, 255 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50083130
+- **Link:** https://github.com/android/ndk/issues/2260
+
 
 ## DevOps & Cloud
 

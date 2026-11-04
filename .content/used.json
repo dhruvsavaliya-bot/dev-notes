@@ -673,6 +673,7 @@
     "https://github.com/amosblomqvist/learn",
     "https://github.com/anderspitman/awesome-tunneling",
     "https://github.com/andrewyng/openworker",
+    "https://github.com/android/ndk/issues/2260",
     "https://github.com/angusdevgo/IDM_Pro_Tool",
     "https://github.com/angusdevgo/Seep-Reverse-Lab",
     "https://github.com/anteloc/ldraw-nova",
@@ -1958,6 +1959,7 @@
     "https://news.ycombinator.com/item?id=50073879",
     "https://news.ycombinator.com/item?id=50077225",
     "https://news.ycombinator.com/item?id=50077619",
+    "https://news.ycombinator.com/item?id=50083130",
     "https://news.ycombinator.com/item?id=50084757",
     "https://news.ycombinator.com/item?id=50087328",
     "https://news.ycombinator.com/item?id=50089577",
@@ -2384,12 +2386,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "Models & Datasets",
-      "title": "antirez/deepseek-v4.1-flash-gguf",
-      "url": "https://huggingface.co/antirez/deepseek-v4.1-flash-gguf"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Web Development",
       "title": "I grepped for @ts-ignore and found zero. Then I...",
       "url": "https://dev.to/chet103cc/i-grepped-for-ts-ignore-and-found-zero-then-i-grepped-for-the-cast-nobody-bans-723"
@@ -2441,6 +2437,12 @@
       "subcat": "Models & Datasets",
       "title": "PentesterFlow/OffsecCyber",
       "url": "https://huggingface.co/datasets/PentesterFlow/OffsecCyber"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "Hacker News Picks",
+      "title": "AOSP Source Releases Are So Late Developers...",
+      "url": "https://news.ycombinator.com/item?id=50083130"
     }
   ]
 }
