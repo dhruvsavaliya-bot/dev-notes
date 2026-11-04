@@ -1534,6 +1534,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~5 stars/day since launch.
 - **Link:** https://github.com/Prismer-AI/PrismerCloud
 
+**Added 2026-11-05**
+
+### [Zleap-AI/SAG](https://github.com/Zleap-AI/SAG)
+- **Stats:** 2,650 stars | 186 forks | 3 open issues
+- **Language:** Python | **Created:** 2025-11-07 | **License:** MIT
+- **Topics:** agent, ai, data-engineering, graphrag, knowledge-base, knowledge-graph
+- **What it is:** A new SOTA for RAG — an original retrieval architecture and an open-source knowledge base for humans and agents.
+- **Growth:** averaging ~7 stars/day since launch.
+- **Link:** https://github.com/Zleap-AI/SAG
+
 
 ## Other Cool Projects
 
