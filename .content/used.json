@@ -908,6 +908,7 @@
     "https://github.com/shadcn-ui/lint",
     "https://github.com/shaobeichen/dsh-pocket",
     "https://github.com/shellhub-io/shellhub",
+    "https://github.com/sheprd-labs/sheprd",
     "https://github.com/shihabal3amri/DiPlay",
     "https://github.com/shilapi/xcertplay",
     "https://github.com/simonlin1212/a-stock-data",
@@ -2367,12 +2368,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "AI & Machine Learning",
-      "title": "kaankiziltug/logo-design-skill",
-      "url": "https://github.com/kaankiziltug/logo-design-skill"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Rust",
       "title": "Surviving \"The Graduate\"",
       "url": "https://news.ycombinator.com/item?id=50319563"
@@ -2424,6 +2419,12 @@
       "subcat": "TypeScript",
       "title": "atlas-vtt/atlas-vtt",
       "url": "https://github.com/atlas-vtt/atlas-vtt"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "AI & Machine Learning",
+      "title": "sheprd-labs/sheprd",
+      "url": "https://github.com/sheprd-labs/sheprd"
     }
   ]
 }

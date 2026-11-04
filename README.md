@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1670 entries and counting** · Last updated: 2026-11-04
+**1671 entries and counting** · Last updated: 2026-11-04
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 330 |
+| [Trending Projects](trending-projects/projects.md) | 331 |
 | [AI / LLM Notes](ai/notes.md) | 337 |
 | [Reading List](articles/reading-list.md) | 337 |
 | [Coding Tips](coding-tips/tips.md) | 336 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-04** · *AI & Machine Learning* — [sheprd-labs/sheprd](https://github.com/sheprd-labs/sheprd)
 - **2026-11-04** · *TypeScript* — [atlas-vtt/atlas-vtt](https://github.com/atlas-vtt/atlas-vtt)
 - **2026-11-04** · *Hacker News Picks* — [OpenAI fires three safety researchers for...](https://news.ycombinator.com/item?id=50018350)
 - **2026-11-04** · *Models & Datasets* — [MiniMaxAI/MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3)
 - **2026-11-04** · *Hacker News Picks* — [Muse Wonder](https://news.ycombinator.com/item?id=50059115)
-- **2026-11-04** · *Lobsters Picks* — [Ideas for social networks](https://lobste.rs/s/yes2hc/ideas_for_social_networks)
 
 ## How it works
 

@@ -1484,6 +1484,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~152 stars/day since launch.
 - **Link:** https://github.com/kaankiziltug/logo-design-skill
 
+**Added 2026-11-04**
+
+### [sheprd-labs/sheprd](https://github.com/sheprd-labs/sheprd)
+- **Stats:** 2,153 stars | 176 forks | 136 open issues
+- **Language:** Rust | **Created:** 2026-09-20 | **License:** Apache-2.0
+- **Topics:** ai-agents, desktop-app, developer-tools, git-worktrees, gpui, herdr
+- **What it is:** Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.
+- **Growth:** averaging ~47 stars/day since launch.
+- **Link:** https://github.com/sheprd-labs/sheprd
+
 
 ## Other Cool Projects
 
