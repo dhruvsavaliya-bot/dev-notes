@@ -2002,6 +2002,7 @@
     "https://news.ycombinator.com/item?id=50222133",
     "https://news.ycombinator.com/item?id=50225695",
     "https://news.ycombinator.com/item?id=50227330",
+    "https://news.ycombinator.com/item?id=50233304",
     "https://news.ycombinator.com/item?id=50233929",
     "https://news.ycombinator.com/item?id=50234474",
     "https://news.ycombinator.com/item?id=50236102",
@@ -2241,6 +2242,7 @@
     "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
     "https://www.cringebot3000.com/",
     "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+    "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
     "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
     "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
     "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
@@ -2356,12 +2358,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "Lobsters Picks",
-      "title": "Observations from Running stealmybitcoin.com",
-      "url": "https://lobste.rs/s/fgucra/observations_from_running"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Hacker News Picks",
       "title": "Degraded availability for GitHub Actions, GitHub...",
       "url": "https://news.ycombinator.com/item?id=50153934"
@@ -2413,6 +2409,12 @@
       "subcat": "TypeScript",
       "title": "Trick or Type Guard? Surviving `unknown` with is-kit",
       "url": "https://dev.to/nyaomaru/trick-or-type-guard-surviving-unknown-with-is-kit-4oc2"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Hacker News Picks",
+      "title": "AI use leads UC Berkeley math professor to see 'no...",
+      "url": "https://news.ycombinator.com/item?id=50233304"
     }
   ]
 }

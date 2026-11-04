@@ -2144,6 +2144,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50153934
 - **Link:** https://www.githubstatus.com/incidents/8tzbpcnl75jp
 
+**Added 2026-11-04**
+
+### [AI use leads UC Berkeley math professor to see 'no point' in grading homework](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html)
+- **Source:** www.dailycal.org | **Posted:** 2026-10-25 | **By:** romanhn
+- **Community:** 240 points, 342 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50233304
+- **Link:** https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html
+
 
 ## DevOps & Cloud
 
