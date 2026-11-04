@@ -275,6 +275,7 @@
     "https://dev.to/aws-builders/from-fresher-to-cloud-architect-how-to-start-your-aws-cloud-journey-1l3i",
     "https://dev.to/aws-builders/per-agent-cost-tracking-for-multi-agent-ai-on-aws-10eg",
     "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
+    "https://dev.to/chet103cc/i-grepped-for-ts-ignore-and-found-zero-then-i-grepped-for-the-cast-nobody-bans-723",
     "https://dev.to/chief_yaml_officer/how-i-stopped-rewriting-my-code-every-time-i-switched-llm-providers-4gjh",
     "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh",
     "https://dev.to/danielhe4rt/youre-not-an-impostor-you-just-started-from-a-different-line-2lph",
@@ -2373,12 +2374,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "Hacker News Picks",
-      "title": "Muse Wonder",
-      "url": "https://news.ycombinator.com/item?id=50059115"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Models & Datasets",
       "title": "MiniMaxAI/MiniMax-M3",
       "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3"
@@ -2430,6 +2425,12 @@
       "subcat": "Models & Datasets",
       "title": "antirez/deepseek-v4.1-flash-gguf",
       "url": "https://huggingface.co/antirez/deepseek-v4.1-flash-gguf"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Web Development",
+      "title": "I grepped for @ts-ignore and found zero. Then I...",
+      "url": "https://dev.to/chet103cc/i-grepped-for-ts-ignore-and-found-zero-then-i-grepped-for-the-cast-nobody-bans-723"
     }
   ]
 }

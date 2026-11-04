@@ -197,6 +197,15 @@ Fresh dev articles and blog posts.
 - **Summary:** What behavioral science reveals about engagement loops, digital habits, and the responsibility of...
 - **Link:** https://dev.to/khalisollis/the-attention-trap-when-good-software-design-works-against-the-people-using-it-kbk
 
+**Added 2026-11-04**
+
+### [I grepped for @ts-ignore and found zero. Then I grepped for the cast nobody bans](https://dev.to/chet103cc/i-grepped-for-ts-ignore-and-found-zero-then-i-grepped-for-the-cast-nobody-bans-723)
+- **Author:** chet100 | **Published:** Nov 1 | **Read time:** 5 min
+- **Community:** 58 reactions, 19 comments -- a top post in #webdev
+- **Tags:** typescript, ai, code, webdev
+- **Summary:** Every TypeScript team has a rule about @ts-ignore. Ours does too, and it works: zero occurrences...
+- **Link:** https://dev.to/chet103cc/i-grepped-for-ts-ignore-and-found-zero-then-i-grepped-for-the-cast-nobody-bans-723
+
 
 ## Hacker News Picks
 
