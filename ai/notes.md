@@ -2211,6 +2211,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/LightwheelAI/EgoStandard
 
+**Added 2026-11-04**
+
+### [scenario-labs/3d-collection](https://huggingface.co/datasets/scenario-labs/3d-collection)
+- **Stats:** 379 likes | 40,228 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-10-19
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/scenario-labs/3d-collection
+
 
 ## Research Papers
 

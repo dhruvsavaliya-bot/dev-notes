@@ -1144,6 +1144,7 @@
     "https://huggingface.co/datasets/openbmb/UltraData-SFT-Agent-2609",
     "https://huggingface.co/datasets/pixparse/idl-wds",
     "https://huggingface.co/datasets/r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation",
+    "https://huggingface.co/datasets/scenario-labs/3d-collection",
     "https://huggingface.co/datasets/secemp9/arxiv-complete",
     "https://huggingface.co/datasets/shibing624/medical",
     "https://huggingface.co/datasets/simple-world-lab/HiFi-UMI-2K",
@@ -2345,12 +2346,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "Other Cool Projects",
-      "title": "pollen-robotics/microduck",
-      "url": "https://github.com/pollen-robotics/microduck"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Show & Ask HN",
       "title": "Gitbook Breached",
       "url": "https://news.ycombinator.com/item?id=50354336"
@@ -2402,6 +2397,12 @@
       "subcat": "Hacker News Picks",
       "title": "Degraded availability for GitHub Actions, GitHub...",
       "url": "https://news.ycombinator.com/item?id=50153934"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Models & Datasets",
+      "title": "scenario-labs/3d-collection",
+      "url": "https://huggingface.co/datasets/scenario-labs/3d-collection"
     }
   ]
 }
