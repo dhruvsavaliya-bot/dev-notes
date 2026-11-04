@@ -2126,6 +2126,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50349276
 - **Link:** https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html
 
+**Added 2026-11-04**
+
+### [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370)
+- **Source:** github.com | **Posted:** 2026-11-03 | **By:** sidgarimella
+- **Community:** 1084 points, 359 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50354960
+- **Link:** https://github.com/postmanlabs/postman-app-support/issues/14370
+
 
 ## DevOps & Cloud
 

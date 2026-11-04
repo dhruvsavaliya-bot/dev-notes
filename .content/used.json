@@ -877,6 +877,7 @@
     "https://github.com/pingdotgg/ts-rust",
     "https://github.com/pipelab-org/pipelock",
     "https://github.com/pollen-robotics/microduck",
+    "https://github.com/postmanlabs/postman-app-support/issues/14370",
     "https://github.com/privastead/privastead",
     "https://github.com/qingjian-team/qingjian",
     "https://github.com/rakanki911/DLSS5-Swapper",
@@ -2032,6 +2033,7 @@
     "https://news.ycombinator.com/item?id=50349276",
     "https://news.ycombinator.com/item?id=50353457",
     "https://news.ycombinator.com/item?id=50354336",
+    "https://news.ycombinator.com/item?id=50354960",
     "https://news.ycombinator.com/item?id=50355251",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
@@ -2338,12 +2340,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "Other Cool Projects",
-      "title": "storytold/deckcraft",
-      "url": "https://github.com/storytold/deckcraft"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "PHP",
       "title": "5 lies de segurana que aprendi estudando um host...",
       "url": "https://dev.to/matheusdsilva01/5-licoes-de-seguranca-que-aprendi-estudando-um-host-temporario-de-arquivos-5fab"
@@ -2395,6 +2391,12 @@
       "subcat": "Lobsters Picks",
       "title": "The Ubuntu 26.04 Rust sudo is not compatible with...",
       "url": "https://lobste.rs/s/e201eb/ubuntu_26_04_rust_sudo_is_not_compatible"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Hacker News Picks",
+      "title": "Postman silently auto-installs AI plugins and...",
+      "url": "https://news.ycombinator.com/item?id=50354960"
     }
   ]
 }
