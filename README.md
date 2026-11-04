@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1658 entries and counting** · Last updated: 2026-11-04
+**1659 entries and counting** · Last updated: 2026-11-04
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 329 |
-| [AI / LLM Notes](ai/notes.md) | 334 |
+| [AI / LLM Notes](ai/notes.md) | 335 |
 | [Reading List](articles/reading-list.md) | 334 |
 | [Coding Tips](coding-tips/tips.md) | 334 |
 | [Language Notes](languages/notes.md) | 327 |
 
 ## Latest additions
 
+- **2026-11-04** · *Research Papers* — [Planning-Coding Separation in LLM-Based Code...](http://arxiv.org/abs/2611.04320v1)
 - **2026-11-04** · *Show & Ask HN* — [Show HN: Wikihack  HackerTube, but for Wikipedia...](https://news.ycombinator.com/item?id=50333339)
 - **2026-11-04** · *Models & Datasets* — [TuringEnterprises/Open-MM-RL](https://huggingface.co/datasets/TuringEnterprises/Open-MM-RL)
 - **2026-11-04** · *Models & Datasets* — [scenario-labs/3d-collection](https://huggingface.co/datasets/scenario-labs/3d-collection)
 - **2026-11-04** · *Hacker News Picks* — [Degraded availability for GitHub Actions, GitHub...](https://news.ycombinator.com/item?id=50153934)
-- **2026-11-04** · *Lobsters Picks* — [Observations from Running stealmybitcoin.com](https://lobste.rs/s/fgucra/observations_from_running)
 
 ## How it works
 

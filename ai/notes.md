@@ -3092,6 +3092,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.02248v1
 
+**Added 2026-11-04**
+
+### [Planning-Coding Separation in LLM-Based Code Generation: An Empirical Study](http://arxiv.org/abs/2611.04320v1)
+- **Authors:** Wentao Wang, Zeyu Sun, Ruwei Pan, Yueyi Xiao et al.
+- **Published:** 2026-11-03 | **Primary category:** cs.SE
+- **Categories:** cs.AI, cs.SE
+- **Abstract:** Planning has been identified as an important factor for improved code generation with Large Language Models (LLMs). However, the interaction between planning capability and coding capability remains largely underexplored, especially when the two capabilities are from different LLMs. In this paper, we conduct the first comprehensive empirical study of planning-coding interaction in LLM-based code generation, where planning and coding are assigned to different LLMs (i.e., planning-coding separatio...
+- **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.04320v1
+
 
 ## Computer Vision
 

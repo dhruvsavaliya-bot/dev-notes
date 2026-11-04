@@ -92,6 +92,7 @@
     "http://arxiv.org/abs/2610.40444v1",
     "http://arxiv.org/abs/2611.02248v1",
     "http://arxiv.org/abs/2611.02936v1",
+    "http://arxiv.org/abs/2611.04320v1",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
     "http://boglin.iwarp.com/",
@@ -2349,12 +2350,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "Backend & Infrastructure",
-      "title": "MerZlin/dsh-pet-indesktop",
-      "url": "https://github.com/MerZlin/dsh-pet-indesktop"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Models & Datasets",
       "title": "Jackrong/Qwopus3.8-27B-Coder-Flash-GGUF",
       "url": "https://huggingface.co/Jackrong/Qwopus3.8-27B-Coder-Flash-GGUF"
@@ -2406,6 +2401,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Wikihack  HackerTube, but for Wikipedia...",
       "url": "https://news.ycombinator.com/item?id=50333339"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Research Papers",
+      "title": "Planning-Coding Separation in LLM-Based Code...",
+      "url": "http://arxiv.org/abs/2611.04320v1"
     }
   ]
 }
