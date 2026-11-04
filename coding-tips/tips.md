@@ -2353,6 +2353,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50333339
 - **Link:** https://wikihack.netlify.app
 
+**Added 2026-11-04**
+
+### [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/)
+- **Source:** parsimony.lasu.dev | **Posted:** 2026-10-13 | **By:** lasu
+- **Community:** 77 points, 19 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50077619
+- **Link:** https://parsimony.lasu.dev/
+
 
 ## Git & Workflow
 

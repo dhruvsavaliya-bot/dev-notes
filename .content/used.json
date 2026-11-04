@@ -1934,6 +1934,7 @@
     "https://news.ycombinator.com/item?id=50070625",
     "https://news.ycombinator.com/item?id=50072286",
     "https://news.ycombinator.com/item?id=50077225",
+    "https://news.ycombinator.com/item?id=50077619",
     "https://news.ycombinator.com/item?id=50084757",
     "https://news.ycombinator.com/item?id=50087328",
     "https://news.ycombinator.com/item?id=50089577",
@@ -2082,6 +2083,7 @@
     "https://ornith.ai/ornith_1_5.html",
     "https://oss.lsantos.dev/proton-drive-linux-fs/",
     "https://parallel-rust-cpp.github.io/introduction.html",
+    "https://parsimony.lasu.dev/",
     "https://pavursec.com/blog/stealmybitcoin/",
     "https://pdftomp3.com/connect-ai/",
     "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
@@ -2350,12 +2352,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "Models & Datasets",
-      "title": "Jackrong/Qwopus3.8-27B-Coder-Flash-GGUF",
-      "url": "https://huggingface.co/Jackrong/Qwopus3.8-27B-Coder-Flash-GGUF"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Lobsters Picks",
       "title": "The Ubuntu 26.04 Rust sudo is not compatible with...",
       "url": "https://lobste.rs/s/e201eb/ubuntu_26_04_rust_sudo_is_not_compatible"
@@ -2407,6 +2403,12 @@
       "subcat": "Research Papers",
       "title": "Planning-Coding Separation in LLM-Based Code...",
       "url": "http://arxiv.org/abs/2611.04320v1"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Parsimony  an open-source benchmark for how...",
+      "url": "https://news.ycombinator.com/item?id=50077619"
     }
   ]
 }
