@@ -1474,6 +1474,7 @@
     "https://lobste.rs/s/xv6z4r/python_iceberg",
     "https://lobste.rs/s/xxdda9/what_are_you_doing_this_week",
     "https://lobste.rs/s/yczems/emacs_finally_folds_my_liking",
+    "https://lobste.rs/s/yes2hc/ideas_for_social_networks",
     "https://lobste.rs/s/ygp18d/hanami_why_model_citizens",
     "https://lobste.rs/s/yihs7m/understanding_org_s_latex_previews",
     "https://lobste.rs/s/ysyqnt/small_web_is_huge",
@@ -2114,6 +2115,7 @@
     "https://pydantic.dev/articles/dynamic-shredding-2026-01-26",
     "https://queue.acm.org/detail.cfm?id=3807963",
     "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html",
+    "https://raphaelkabo.com/blog/social-network-ideas",
     "https://ratfactor.com/cards/git-commit-size",
     "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
     "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
@@ -2360,12 +2362,6 @@
     {
       "date": "2026-11-04",
       "subcat": "Models & Datasets",
-      "title": "scenario-labs/3d-collection",
-      "url": "https://huggingface.co/datasets/scenario-labs/3d-collection"
-    },
-    {
-      "date": "2026-11-04",
-      "subcat": "Models & Datasets",
       "title": "TuringEnterprises/Open-MM-RL",
       "url": "https://huggingface.co/datasets/TuringEnterprises/Open-MM-RL"
     },
@@ -2416,6 +2412,12 @@
       "subcat": "Models & Datasets",
       "title": "OpenMOSS-Team/MOSS-Image-SFT",
       "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT"
+    },
+    {
+      "date": "2026-11-04",
+      "subcat": "Lobsters Picks",
+      "title": "Ideas for social networks",
+      "url": "https://lobste.rs/s/yes2hc/ideas_for_social_networks"
     }
   ]
 }

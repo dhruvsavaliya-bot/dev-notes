@@ -3070,6 +3070,16 @@ I am posting the meetup prior to receiving their approval, so that those of you 
 - **Discussion:** https://lobste.rs/s/fgucra/observations_from_running
 - **Link:** https://pavursec.com/blog/stealmybitcoin/
 
+**Added 2026-11-04**
+
+### [Ideas for social networks](https://raphaelkabo.com/blog/social-network-ideas)
+- **Source:** raphaelkabo.com | **Posted:** 2026-11-03 | **By:** robalex
+- **Community:** 15 score, 10 comments on Lobsters
+- **Tags:** culture
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/yes2hc/ideas_for_social_networks
+- **Link:** https://raphaelkabo.com/blog/social-network-ideas
+
 
 ## Career & Craft
 
