@@ -2283,6 +2283,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/PentesterFlow/OffsecCyber
 
+**Added 2026-11-05**
+
+### [3dcodeverse/3dcodeverse-2m](https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m)
+- **Stats:** 50 likes | 931,682 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-06-28
+- **Tags:** 3d, code-generation, procedural-3d, blender, cadquery, glsl
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m
+
 
 ## Research Papers
 

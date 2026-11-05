@@ -1101,6 +1101,7 @@
     "https://huggingface.co/bytedance-research/Lance",
     "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L12-v2",
     "https://huggingface.co/datalab-to/surya-ocr-2",
+    "https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m",
     "https://huggingface.co/datasets/ACERobotics/ACE-Data-0",
     "https://huggingface.co/datasets/Anthropic/claude-protein-binder-design",
     "https://huggingface.co/datasets/BodyMaps/CancerVerse",
@@ -2424,12 +2425,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "Research Papers",
-      "title": "ATTUNE: Agentic Throughput Tuning for LLM Training",
-      "url": "http://arxiv.org/abs/2610.17528v3"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "SQL & Databases",
       "title": "O que so essas letrinhas: ACID",
       "url": "https://dev.to/luisnadachi/o-que-sao-essas-letrinhas-acid-i4e"
@@ -2481,6 +2476,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: What cryptography book do you recommend for...",
       "url": "https://news.ycombinator.com/item?id=50347425"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "Models & Datasets",
+      "title": "3dcodeverse/3dcodeverse-2m",
+      "url": "https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m"
     }
   ]
 }
