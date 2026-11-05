@@ -738,6 +738,7 @@
     "https://github.com/comet-ml/opik-openclaw",
     "https://github.com/common-voice/common-voice",
     "https://github.com/coollabsio/shoutrrr",
+    "https://github.com/copperheadhq/copperhead",
     "https://github.com/cordiverse/paper",
     "https://github.com/crmne/fastpotify",
     "https://github.com/crmne/spotifast",
@@ -2419,12 +2420,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "Testing",
-      "title": "Four Ways a Test Can Lie to You",
-      "url": "https://dev.to/kenwalger/four-ways-a-test-can-lie-to-you-2ibf"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "Research Papers",
       "title": "Enhancing the Power of Polyhedral-Based Optimizations...",
       "url": "http://arxiv.org/abs/2609.03114v1"
@@ -2476,6 +2471,12 @@
       "subcat": "Go",
       "title": "Gist of Go: Concurrency",
       "url": "https://lobste.rs/s/erkjnx/gist_go_concurrency"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "TypeScript",
+      "title": "copperheadhq/copperhead",
+      "url": "https://github.com/copperheadhq/copperhead"
     }
   ]
 }

@@ -723,6 +723,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~5 stars/day since launch.
 - **Link:** https://github.com/runvendo/vendo
 
+**Added 2026-11-05**
+
+### [copperheadhq/copperhead](https://github.com/copperheadhq/copperhead)
+- **Stats:** 681 stars | 142 forks | 282 open issues
+- **Language:** TypeScript | **Created:** 2026-07-18 | **License:** Apache-2.0
+- **Topics:** agent, agentic-ai, cli, coding-agent, developer-tools, eda
+- **What it is:** Hardware as fast as software.
+- **Growth:** averaging ~6 stars/day since launch.
+- **Link:** https://github.com/copperheadhq/copperhead
+
 
 ## Python
 
