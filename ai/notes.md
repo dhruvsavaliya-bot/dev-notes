@@ -3176,6 +3176,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.04497v1
 
+**Added 2026-11-05**
+
+### [Enhancing the Power of Polyhedral-Based Optimizations with Coordinate-Based Hill Climbing](http://arxiv.org/abs/2609.03114v1)
+- **Authors:** Gaurav Verma, Michael Canesche, Fernando Magno Quintão Pereira
+- **Published:** 2026-09-02 | **Primary category:** cs.PL
+- **Categories:** cs.PL
+- **Abstract:** This paper describes our experience extending the polyhedral compiler Pluto with a lightweight, coordinate-wise hill-climbing tuner that adjusts numeric transformation parameters, such as tile sizes and thread-block dimensions, after Pluto selects the kernel's loop structure. To ensure fast convergence and escape local minima, hill climbing is augmented with two techniques: expanded neighborhood exploration and a shortest-hop refinement phase. On x86 and ARM CPUs, tuned kernels outperform Pluto'...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.03114v1
+
 
 ## Computer Vision
 

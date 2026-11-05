@@ -8,6 +8,7 @@
   "ids": [
     "http://arxiv.org/abs/2607.24854v1",
     "http://arxiv.org/abs/2608.17032v1",
+    "http://arxiv.org/abs/2609.03114v1",
     "http://arxiv.org/abs/2609.05364v1",
     "http://arxiv.org/abs/2609.06743v1",
     "http://arxiv.org/abs/2609.07667v1",
@@ -2407,12 +2408,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "AI & Machine Learning",
-      "title": "aakarim/OpenLore",
-      "url": "https://github.com/aakarim/OpenLore"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "Lobsters Picks",
       "title": "Introducing Adaptive Dark Mode",
       "url": "https://lobste.rs/s/yba0yg/introducing_adaptive_dark_mode"
@@ -2464,6 +2459,12 @@
       "subcat": "Testing",
       "title": "Four Ways a Test Can Lie to You",
       "url": "https://dev.to/kenwalger/four-ways-a-test-can-lie-to-you-2ibf"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "Research Papers",
+      "title": "Enhancing the Power of Polyhedral-Based Optimizations...",
+      "url": "http://arxiv.org/abs/2609.03114v1"
     }
   ]
 }
