@@ -2479,6 +2479,16 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Discussion:** https://news.ycombinator.com/item?id=50319563
 - **Link:** https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate
 
+**Added 2026-11-06**
+
+### [lerdb/HotDownloader](https://github.com/lerdb/HotDownloader)
+- **Stats:** 437 stars | 33 forks | 1 open issues
+- **Language:** Rust | **Created:** 2026-08-08 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** 基于共享 Rust 下载核心和 Vue 3 的音乐下载工具，支持 Tauri 桌面端、Android 端与 Docker/Web 部署。
+- **Growth:** averaging ~4 stars/day since launch.
+- **Link:** https://github.com/lerdb/HotDownloader
+
 
 ## Elixir
 

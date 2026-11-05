@@ -837,6 +837,7 @@
     "https://github.com/laogou717/dogsc",
     "https://github.com/laramint/laravel-brain",
     "https://github.com/lemomo-ai/lemo-opuscar",
+    "https://github.com/lerdb/HotDownloader",
     "https://github.com/lgse/strata",
     "https://github.com/lhlGitHub/threejs-architecture-effects",
     "https://github.com/liangmianya/dsh-synapse",
@@ -2437,12 +2438,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: What cryptography book do you recommend for...",
-      "url": "https://news.ycombinator.com/item?id=50347425"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "Models & Datasets",
       "title": "3dcodeverse/3dcodeverse-2m",
       "url": "https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m"
@@ -2494,6 +2489,12 @@
       "subcat": "Lobsters Picks",
       "title": "One Hash Bloom Filters",
       "url": "https://lobste.rs/s/mpytbn/one_hash_bloom_filters"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Rust",
+      "title": "lerdb/HotDownloader",
+      "url": "https://github.com/lerdb/HotDownloader"
     }
   ]
 }
