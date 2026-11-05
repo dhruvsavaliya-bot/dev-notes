@@ -1574,6 +1574,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~12 stars/day since launch.
 - **Link:** https://github.com/aakarim/OpenLore
 
+**Added 2026-11-05**
+
+### [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar)
+- **Stats:** 12,594 stars | 1,459 forks | 17 open issues
+- **Language:** JavaScript | **Created:** 2026-09-26 | **License:** MIT
+- **Topics:** agent-skills, ai-agents, ai-short-film, ai-video, animation, canvas
+- **What it is:** A toolbox of film styles made in code for Claude Code: 66 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：66 种现成风格，也能做出你自己的
+- **Growth:** averaging ~314 stars/day since launch.
+- **Link:** https://github.com/lemomo-ai/lemo-opuscar
+
 
 ## Other Cool Projects
 

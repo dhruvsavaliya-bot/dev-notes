@@ -834,6 +834,7 @@
     "https://github.com/langchain-ai/openwiki",
     "https://github.com/laogou717/dogsc",
     "https://github.com/laramint/laravel-brain",
+    "https://github.com/lemomo-ai/lemo-opuscar",
     "https://github.com/lgse/strata",
     "https://github.com/liangmianya/dsh-synapse",
     "https://github.com/liangxiegame/QFramework",
@@ -2420,12 +2421,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "Research Papers",
-      "title": "Enhancing the Power of Polyhedral-Based Optimizations...",
-      "url": "http://arxiv.org/abs/2609.03114v1"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: What's your current AI agentic setup?",
       "url": "https://news.ycombinator.com/item?id=50366117"
@@ -2477,6 +2472,12 @@
       "subcat": "TypeScript",
       "title": "copperheadhq/copperhead",
       "url": "https://github.com/copperheadhq/copperhead"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "AI & Machine Learning",
+      "title": "lemomo-ai/lemo-opuscar",
+      "url": "https://github.com/lemomo-ai/lemo-opuscar"
     }
   ]
 }
