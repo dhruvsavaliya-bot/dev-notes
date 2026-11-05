@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1707 entries and counting** · Last updated: 2026-11-05
+**1708 entries and counting** · Last updated: 2026-11-05
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 339 |
-| [AI / LLM Notes](ai/notes.md) | 345 |
+| [AI / LLM Notes](ai/notes.md) | 346 |
 | [Reading List](articles/reading-list.md) | 345 |
 | [Coding Tips](coding-tips/tips.md) | 345 |
 | [Language Notes](languages/notes.md) | 333 |
 
 ## Latest additions
 
+- **2026-11-05** · *Research Papers* — [Episodic Loops: Finitary Event Structures and...](http://arxiv.org/abs/2609.34646v1)
 - **2026-11-05** · *SQL & Databases* — [O que so essas letrinhas: ACID](https://dev.to/luisnadachi/o-que-sao-essas-letrinhas-acid-i4e)
 - **2026-11-05** · *Research Papers* — [ATTUNE: Agentic Throughput Tuning for LLM Training](http://arxiv.org/abs/2610.17528v3)
 - **2026-11-05** · *Show & Ask HN* — [Show HN: Copperhead  Cursor for circuit boards](https://news.ycombinator.com/item?id=49610059)
 - **2026-11-05** · *Show & Ask HN* — [Ask HN: What's your current AI agentic setup?](https://news.ycombinator.com/item?id=50366117)
-- **2026-11-05** · *Research Papers* — [Enhancing the Power of Polyhedral-Based Optimizations...](http://arxiv.org/abs/2609.03114v1)
 
 ## How it works
 

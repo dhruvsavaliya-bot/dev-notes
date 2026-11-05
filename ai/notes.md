@@ -3196,6 +3196,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.17528v3
 
+**Added 2026-11-05**
+
+### [Episodic Loops: Finitary Event Structures and Operational Semantics for C11 Programs with Retries](http://arxiv.org/abs/2609.34646v1)
+- **Authors:** Christian Kissig, Jay Richards, Mark Batty
+- **Published:** 2026-09-28 | **Primary category:** cs.PL
+- **Categories:** cs.PL
+- **Abstract:** Lock-free synchronisation algorithms are often implemented with fallible operations, such as compare-and-swap (CAS), wrapped in unbounded retry loops. Verifying such algorithms requires considering arbitrarily many failing iterations, yielding large state spaces, compounded by the interleavings of concurrent threads. Prior work discarded failing iterations, arguing that they leave no trace in the post-loop state. Compilers and hardware reorder instructions, and load-store reorderings may cross t...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.34646v1
+
 
 ## Computer Vision
 

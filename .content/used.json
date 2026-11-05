@@ -20,6 +20,7 @@
     "http://arxiv.org/abs/2609.31250v1",
     "http://arxiv.org/abs/2609.34262v1",
     "http://arxiv.org/abs/2609.34603v2",
+    "http://arxiv.org/abs/2609.34646v1",
     "http://arxiv.org/abs/2609.35878v1",
     "http://arxiv.org/abs/2609.36201v1",
     "http://arxiv.org/abs/2609.36807v1",
@@ -2413,12 +2414,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "Research Papers",
-      "title": "Sample-Grained Approximate Unlearning with Provable...",
-      "url": "http://arxiv.org/abs/2611.04501v2"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "Hacker News Picks",
       "title": "AI, Lean, and the Future of Formal Verification, with...",
       "url": "https://news.ycombinator.com/item?id=50290652"
@@ -2470,6 +2465,12 @@
       "subcat": "SQL & Databases",
       "title": "O que so essas letrinhas: ACID",
       "url": "https://dev.to/luisnadachi/o-que-sao-essas-letrinhas-acid-i4e"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "Research Papers",
+      "title": "Episodic Loops: Finitary Event Structures and...",
+      "url": "http://arxiv.org/abs/2609.34646v1"
     }
   ]
 }
