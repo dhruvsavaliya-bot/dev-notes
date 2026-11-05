@@ -3180,6 +3180,16 @@ I am posting the meetup prior to receiving their approval, so that those of you 
 - **Discussion:** https://lobste.rs/s/hrsyjf/11_nanoseconds_per_word_ridiculously
 - **Link:** https://wiredream.com/anagram-fun/
 
+**Added 2026-11-06**
+
+### [A Look at Datastar](https://noteflakes.com/articles/2026-11-04-datastar)
+- **Source:** noteflakes.com | **Posted:** 2026-11-05 | **By:** noteflakes
+- **Community:** 15 score, 1 comments on Lobsters
+- **Tags:** ruby, web
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/vbx0g4/look_at_datastar
+- **Link:** https://noteflakes.com/articles/2026-11-04-datastar
+
 
 ## Career & Craft
 
