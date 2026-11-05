@@ -2292,6 +2292,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m
 
+**Added 2026-11-06**
+
+### [baidu/ERNIE-5.5-Flash-Base](https://huggingface.co/baidu/ERNIE-5.5-Flash-Base)
+- **Stats:** 180 likes | 13 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-10-21
+- **Tags:** transformers, safetensors, ernie5_5_moe, text-generation, ERNIE5.5, MoE
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/baidu/ERNIE-5.5-Flash-Base
+
 
 ## Research Papers
 

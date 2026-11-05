@@ -1097,6 +1097,7 @@
     "https://huggingface.co/audeering/wav2vec2-large-robust-24-ft-age-gender",
     "https://huggingface.co/autotrust/AutoTrust-JEV-27B-v1.1",
     "https://huggingface.co/autotrust/GEV-26B-Decide",
+    "https://huggingface.co/baidu/ERNIE-5.5-Flash-Base",
     "https://huggingface.co/black-forest-labs/flux-3-image-klein",
     "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
     "https://huggingface.co/blog/agent-intrusion-technical-timeline",
@@ -2434,12 +2435,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "AI & Machine Learning",
-      "title": "lemomo-ai/lemo-opuscar",
-      "url": "https://github.com/lemomo-ai/lemo-opuscar"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "Hacker News Picks",
       "title": "Lemmings CSS Animation",
       "url": "https://news.ycombinator.com/item?id=50375354"
@@ -2491,6 +2486,12 @@
       "subcat": "Lobsters Picks",
       "title": "11 nanoseconds per word: Ridiculously Over-Optimizing...",
       "url": "https://lobste.rs/s/hrsyjf/11_nanoseconds_per_word_ridiculously"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Models & Datasets",
+      "title": "baidu/ERNIE-5.5-Flash-Base",
+      "url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Base"
     }
   ]
 }
