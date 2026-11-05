@@ -3170,6 +3170,16 @@ I am posting the meetup prior to receiving their approval, so that those of you 
 - **Discussion:** https://lobste.rs/s/yes2hc/ideas_for_social_networks
 - **Link:** https://raphaelkabo.com/blog/social-network-ideas
 
+**Added 2026-11-06**
+
+### [11 nanoseconds per word: Ridiculously Over-Optimizing Anagrams](https://wiredream.com/anagram-fun/)
+- **Source:** wiredream.com | **Posted:** 2026-11-05 | **By:** vi_mi
+- **Community:** 22 score, 2 comments on Lobsters
+- **Tags:** performance, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/hrsyjf/11_nanoseconds_per_word_ridiculously
+- **Link:** https://wiredream.com/anagram-fun/
+
 
 ## Career & Craft
 

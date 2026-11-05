@@ -1404,6 +1404,7 @@
     "https://lobste.rs/s/hccdqa/shipping_jpeg_xl_chrome",
     "https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not",
     "https://lobste.rs/s/hplfis/examining_macos_gcc_binary",
+    "https://lobste.rs/s/hrsyjf/11_nanoseconds_per_word_ridiculously",
     "https://lobste.rs/s/hzrmwz/simple_netbsd_webserver",
     "https://lobste.rs/s/iii8sl/micro_language_implementation_calcium",
     "https://lobste.rs/s/ily7as/programming_isn_t_special",
@@ -2283,6 +2284,7 @@
     "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
     "https://wiki.alpinebsd.org/",
     "https://wikihack.netlify.app",
+    "https://wiredream.com/anagram-fun/",
     "https://words.filippo.io/seeds-solved/",
     "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
     "https://www.abortretry.fail/p/matrox",
@@ -2432,12 +2434,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "TypeScript",
-      "title": "copperheadhq/copperhead",
-      "url": "https://github.com/copperheadhq/copperhead"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "AI & Machine Learning",
       "title": "lemomo-ai/lemo-opuscar",
       "url": "https://github.com/lemomo-ai/lemo-opuscar"
@@ -2489,6 +2485,12 @@
       "subcat": "AI & Machine Learning",
       "title": "kOlapsis/maintenant",
       "url": "https://github.com/kOlapsis/maintenant"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Lobsters Picks",
+      "title": "11 nanoseconds per word: Ridiculously Over-Optimizing...",
+      "url": "https://lobste.rs/s/hrsyjf/11_nanoseconds_per_word_ridiculously"
     }
   ]
 }
