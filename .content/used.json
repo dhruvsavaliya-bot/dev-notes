@@ -1332,6 +1332,7 @@
     "https://lobste.rs/s/bcfzer/hacking_nameof",
     "https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical",
     "https://lobste.rs/s/bmmj1e/let_s_build_brain",
+    "https://lobste.rs/s/bqllfe/your_cryptography_conspiracy_theory_is",
     "https://lobste.rs/s/brdwr2/redox_ring_buffers_project_summary",
     "https://lobste.rs/s/brrnpm/outside_scope_our_support",
     "https://lobste.rs/s/c0xw18/atomvm_2025_year_review",
@@ -2178,6 +2179,7 @@
     "https://sjer.red/blog/2024-12-21/",
     "https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/",
     "https://smoores.dev/post/no_npm_estee_is_not_a_typo/",
+    "https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/",
     "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
     "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
     "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
@@ -2390,12 +2392,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "AI & Machine Learning",
-      "title": "Socialpranker/deepdive",
-      "url": "https://github.com/Socialpranker/deepdive"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "Models & Datasets",
       "title": "HuggingFaceBio/FineDNA",
       "url": "https://huggingface.co/datasets/HuggingFaceBio/FineDNA"
@@ -2447,6 +2443,12 @@
       "subcat": "AI & Machine Learning",
       "title": "collabs-inc/collab-public",
       "url": "https://github.com/collabs-inc/collab-public"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "Lobsters Picks",
+      "title": "Your Cryptography Conspiracy Theory Is Wrong",
+      "url": "https://lobste.rs/s/bqllfe/your_cryptography_conspiracy_theory_is"
     }
   ]
 }

@@ -3168,6 +3168,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/k508we/avoid_public_functions_calling_other
 - **Link:** https://matklad.github.io/2026/10/29/pub-calls-pub.html
 
+**Added 2026-11-05**
+
+### [Your Cryptography Conspiracy Theory Is Wrong](https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/)
+- **Source:** soatok.blog | **Posted:** 2026-11-04 | **By:** fanf
+- **Community:** 48 score, 6 comments on Lobsters
+- **Tags:** cryptography
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/bqllfe/your_cryptography_conspiracy_theory_is
+- **Link:** https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/
+
 
 ## Performance
 

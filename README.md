@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1690 entries and counting** · Last updated: 2026-11-05
+**1691 entries and counting** · Last updated: 2026-11-05
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 338 |
 | [AI / LLM Notes](ai/notes.md) | 341 |
-| [Reading List](articles/reading-list.md) | 342 |
+| [Reading List](articles/reading-list.md) | 343 |
 | [Coding Tips](coding-tips/tips.md) | 338 |
 | [Language Notes](languages/notes.md) | 331 |
 
 ## Latest additions
 
+- **2026-11-05** · *Lobsters Picks* — [Your Cryptography Conspiracy Theory Is Wrong](https://lobste.rs/s/bqllfe/your_cryptography_conspiracy_theory_is)
 - **2026-11-05** · *AI & Machine Learning* — [collabs-inc/collab-public](https://github.com/collabs-inc/collab-public)
 - **2026-11-05** · *Show & Ask HN* — [Ask HN: Does anyone have a contact with...](https://news.ycombinator.com/item?id=50346164)
 - **2026-11-05** · *AI & Machine Learning* — [Merserk/dlss5-visual-enhancer](https://github.com/Merserk/dlss5-visual-enhancer)
 - **2026-11-05** · *AI & Machine Learning* — [Zleap-AI/SAG](https://github.com/Zleap-AI/SAG)
-- **2026-11-05** · *Hacker News Picks* — [AOSP Source Releases Are So Late Developers...](https://news.ycombinator.com/item?id=50083130)
 
 ## How it works
 
