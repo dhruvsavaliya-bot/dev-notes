@@ -2777,6 +2777,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~8 stars/day since launch.
 - **Link:** https://github.com/yappologistic/Spun
 
+**Added 2026-11-05**
+
+### [noctalia-dev/noctalia-greeter](https://github.com/noctalia-dev/noctalia-greeter)
+- **Stats:** 555 stars | 69 forks | 55 open issues
+- **Language:** C++ | **Created:** 2026-05-15 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** A greetd greeter, tightly coupled with Noctalia.
+- **Growth:** averaging ~3 stars/day since launch.
+- **Link:** https://github.com/noctalia-dev/noctalia-greeter
+
 
 ## SQL & Databases
 

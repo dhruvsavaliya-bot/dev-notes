@@ -855,6 +855,7 @@
     "https://github.com/nestrilabs/virtio-nvgpu",
     "https://github.com/newliver666/apk-reverse",
     "https://github.com/noahdunnagan/mcopt",
+    "https://github.com/noctalia-dev/noctalia-greeter",
     "https://github.com/nodes-app/swift-markdown-engine",
     "https://github.com/noonghunna/club-3090",
     "https://github.com/nullmoth/nvidia-macos-driver",
@@ -2397,12 +2398,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "Hacker News Picks",
-      "title": "AOSP Source Releases Are So Late Developers...",
-      "url": "https://news.ycombinator.com/item?id=50083130"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "AI & Machine Learning",
       "title": "Zleap-AI/SAG",
       "url": "https://github.com/Zleap-AI/SAG"
@@ -2454,6 +2449,12 @@
       "subcat": "Show & Ask HN",
       "title": "Tell HN: Gemini trains on chat history, even for...",
       "url": "https://news.ycombinator.com/item?id=50363461"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "C++",
+      "title": "noctalia-dev/noctalia-greeter",
+      "url": "https://github.com/noctalia-dev/noctalia-greeter"
     }
   ]
 }
