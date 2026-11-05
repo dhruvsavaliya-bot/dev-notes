@@ -240,6 +240,7 @@
     "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
     "https://committing-crimes.com/articles/2026-08-04-java-nameof",
     "https://comonad.com/reader/2026/turbo-haskell/",
+    "https://copperhead.sh/",
     "https://corgi.computer/",
     "https://cr.yp.to/2025/fil-c.html",
     "https://cretezy.com/2026/ad-free-android-tv",
@@ -1831,6 +1832,7 @@
     "https://news.ycombinator.com/item?id=49604861",
     "https://news.ycombinator.com/item?id=49604870",
     "https://news.ycombinator.com/item?id=49608665",
+    "https://news.ycombinator.com/item?id=49610059",
     "https://news.ycombinator.com/item?id=49610181",
     "https://news.ycombinator.com/item?id=49610631",
     "https://news.ycombinator.com/item?id=49613262",
@@ -2409,12 +2411,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "Show & Ask HN",
-      "title": "Tell HN: Gemini trains on chat history, even for...",
-      "url": "https://news.ycombinator.com/item?id=50363461"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "C++",
       "title": "noctalia-dev/noctalia-greeter",
       "url": "https://github.com/noctalia-dev/noctalia-greeter"
@@ -2466,6 +2462,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: What's your current AI agentic setup?",
       "url": "https://news.ycombinator.com/item?id=50366117"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Copperhead  Cursor for circuit boards",
+      "url": "https://news.ycombinator.com/item?id=49610059"
     }
   ]
 }

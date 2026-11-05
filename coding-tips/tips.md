@@ -2425,6 +2425,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50366117
 - **Link:** https://news.ycombinator.com/item?id=50366117
 
+**Added 2026-11-05**
+
+### [Show HN: Copperhead – Cursor for circuit boards](https://copperhead.sh/)
+- **Source:** copperhead.sh | **Posted:** 2026-09-08 | **By:** animeshchouhan
+- **Community:** 250 points, 115 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49610059
+- **Link:** https://copperhead.sh/
+
 
 ## Git & Workflow
 
