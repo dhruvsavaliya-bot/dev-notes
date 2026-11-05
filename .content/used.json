@@ -348,6 +348,7 @@
     "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
     "https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762",
     "https://dev.to/kenielzep97/tell-me-about-you-1hi4",
+    "https://dev.to/kenwalger/four-ways-a-test-can-lie-to-you-2ibf",
     "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm",
     "https://dev.to/kenwalger/the-verification-bottleneck-in-ai-generated-software-3p7l",
     "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo",
@@ -2406,12 +2407,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "Show & Ask HN",
-      "title": "Tell HN: Don't use Postman, they proxy your info...",
-      "url": "https://news.ycombinator.com/item?id=50360947"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "AI & Machine Learning",
       "title": "aakarim/OpenLore",
       "url": "https://github.com/aakarim/OpenLore"
@@ -2463,6 +2458,12 @@
       "subcat": "Research Papers",
       "title": "SKILL2STEER: One-Pass Hypernetwork for Mapping...",
       "url": "http://arxiv.org/abs/2611.04497v1"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "Testing",
+      "title": "Four Ways a Test Can Lie to You",
+      "url": "https://dev.to/kenwalger/four-ways-a-test-can-lie-to-you-2ibf"
     }
   ]
 }

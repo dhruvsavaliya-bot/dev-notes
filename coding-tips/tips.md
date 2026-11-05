@@ -3202,3 +3202,12 @@ I am posting the meetup prior to receiving their approval, so that those of you 
 - **Tags:** opensource, ruby, rails, testing
 - **Summary:** I’m not on the DEV team. I don’t have an admin panel, production database access, or internal Slack....
 - **Link:** https://dev.to/dj29/im-not-on-the-dev-team-i-still-debugged-their-missing-badges-from-public-code-and-my-first-test-18oo
+
+**Added 2026-11-05**
+
+### [Four Ways a Test Can Lie to You](https://dev.to/kenwalger/four-ways-a-test-can-lie-to-you-2ibf)
+- **Author:** Ken W Alger | **Published:** Oct 28 | **Read time:** 12 min
+- **Community:** 53 reactions, 70 comments -- a top post in #testing
+- **Tags:** testing, ai, programming, webdev
+- **Summary:** Green and worthless: what verifying one small application taught me, when an AI agent wrote most of...
+- **Link:** https://dev.to/kenwalger/four-ways-a-test-can-lie-to-you-2ibf
