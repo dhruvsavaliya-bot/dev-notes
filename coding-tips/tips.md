@@ -2416,6 +2416,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50049588
 - **Link:** https://github.com/SaarthurR/atticus-mac
 
+**Added 2026-11-05**
+
+### [Ask HN: What's your current AI agentic setup?](https://news.ycombinator.com/item?id=50366117)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-04 | **By:** eggbrain
+- **Community:** 298 points, 305 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50366117
+- **Link:** https://news.ycombinator.com/item?id=50366117
+
 
 ## Git & Workflow
 
