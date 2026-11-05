@@ -3178,6 +3178,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/bqllfe/your_cryptography_conspiracy_theory_is
 - **Link:** https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/
 
+**Added 2026-11-05**
+
+### [Introducing Adaptive Dark Mode](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/)
+- **Source:** webkit.org | **Posted:** 2026-11-04 | **By:** Jackevansevo
+- **Community:** 35 score, 10 comments on Lobsters
+- **Tags:** css, web
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/yba0yg/introducing_adaptive_dark_mode
+- **Link:** https://webkit.org/blog/18541/introducing-adaptive-dark-mode/
+
 
 ## Performance
 

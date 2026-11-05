@@ -1495,6 +1495,7 @@
     "https://lobste.rs/s/xudbqx/no_npm_estee_is_not_typo_testem",
     "https://lobste.rs/s/xv6z4r/python_iceberg",
     "https://lobste.rs/s/xxdda9/what_are_you_doing_this_week",
+    "https://lobste.rs/s/yba0yg/introducing_adaptive_dark_mode",
     "https://lobste.rs/s/yczems/emacs_finally_folds_my_liking",
     "https://lobste.rs/s/yes2hc/ideas_for_social_networks",
     "https://lobste.rs/s/ygp18d/hanami_why_model_citizens",
@@ -2242,6 +2243,7 @@
     "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
     "https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/",
     "https://wasmer.io/posts/running-php-blazingly-fast-at-the-edge-with-wasm",
+    "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
     "https://weirdgloop.org/blog/google-jail",
     "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
     "https://wiki.alpinebsd.org/",
@@ -2394,12 +2396,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "AI & Machine Learning",
-      "title": "Prismer-AI/PrismerCloud",
-      "url": "https://github.com/Prismer-AI/PrismerCloud"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "Models & Datasets",
       "title": "PentesterFlow/OffsecCyber",
       "url": "https://huggingface.co/datasets/PentesterFlow/OffsecCyber"
@@ -2451,6 +2447,12 @@
       "subcat": "AI & Machine Learning",
       "title": "aakarim/OpenLore",
       "url": "https://github.com/aakarim/OpenLore"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "Lobsters Picks",
+      "title": "Introducing Adaptive Dark Mode",
+      "url": "https://lobste.rs/s/yba0yg/introducing_adaptive_dark_mode"
     }
   ]
 }
