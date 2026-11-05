@@ -229,6 +229,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** A screenshot can show what you built. A screen recording can show how it works. But making a short,...
 - **Link:** https://dev.to/mashraf_aiman/how-to-make-link-to-saas-launch-video-system-5a8k
 
+**Added 2026-11-05**
+
+### [AI Made Coding Cheaper. So Why Is Building Software Still So Expensive?](https://dev.to/harsh2644/ai-made-coding-cheaper-so-why-is-building-software-still-so-expensive-59m)
+- **Author:** Harsh  | **Published:** Oct 21 | **Read time:** 4 min
+- **Community:** 69 reactions, 97 comments -- a top post in #productivity
+- **Tags:** ai, productivity, career, programming
+- **Summary:** I can generate a full authentication flow with a database schema, API routes, and unit tests in under...
+- **Link:** https://dev.to/harsh2644/ai-made-coding-cheaper-so-why-is-building-software-still-so-expensive-59m
+
 
 ## Hacker News Picks
 

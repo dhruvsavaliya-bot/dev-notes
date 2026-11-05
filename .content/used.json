@@ -326,6 +326,7 @@
     "https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51",
     "https://dev.to/hadil/the-hard-truth-about-learning-to-code-that-no-one-tells-you-15c1",
     "https://dev.to/hadil/youre-a-real-python-developer-only-if-94e",
+    "https://dev.to/harsh2644/ai-made-coding-cheaper-so-why-is-building-software-still-so-expensive-59m",
     "https://dev.to/harsh2644/you-dont-have-an-ai-problem-you-have-a-thinking-problem-5f07",
     "https://dev.to/harsh2644/youre-not-lazy-youre-time-blind-heres-how-lock-in-fixes-it-57ej",
     "https://dev.to/he4rt/1a-vez-trabalhando-com-git-com-time-tudo-que-voce-precisa-saber-19il",
@@ -2416,12 +2417,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Atticus  Hold-to-talk voice assistant for...",
-      "url": "https://news.ycombinator.com/item?id=50049588"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "Research Papers",
       "title": "SKILL2STEER: One-Pass Hypernetwork for Mapping...",
       "url": "http://arxiv.org/abs/2611.04497v1"
@@ -2473,6 +2468,12 @@
       "subcat": "Swift",
       "title": "Landline phones will switch off across Britland in...",
       "url": "https://news.ycombinator.com/item?id=50326609"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "Productivity",
+      "title": "AI Made Coding Cheaper. So Why Is Building Software...",
+      "url": "https://dev.to/harsh2644/ai-made-coding-cheaper-so-why-is-building-software-still-so-expensive-59m"
     }
   ]
 }
