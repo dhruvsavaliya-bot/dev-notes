@@ -2371,6 +2371,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50355959
 - **Link:** https://news.ycombinator.com/item?id=50355959
 
+**Added 2026-11-05**
+
+### [Ask HN: Does anyone have a contact with Cleveland-area Ham club?](https://news.ycombinator.com/item?id=50346164)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-03 | **By:** stockresearcher
+- **Community:** 166 points, 23 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50346164
+- **Link:** https://news.ycombinator.com/item?id=50346164
+
 
 ## Git & Workflow
 

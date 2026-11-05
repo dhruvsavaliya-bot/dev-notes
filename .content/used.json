@@ -2068,6 +2068,7 @@
     "https://news.ycombinator.com/item?id=50338728",
     "https://news.ycombinator.com/item?id=50345712",
     "https://news.ycombinator.com/item?id=50346153",
+    "https://news.ycombinator.com/item?id=50346164",
     "https://news.ycombinator.com/item?id=50349276",
     "https://news.ycombinator.com/item?id=50353457",
     "https://news.ycombinator.com/item?id=50354336",
@@ -2388,12 +2389,6 @@
   "recent": [
     {
       "date": "2026-11-04",
-      "subcat": "Show & Ask HN",
-      "title": "Getting hit with \"Prove you are a human\" at every...",
-      "url": "https://news.ycombinator.com/item?id=50355959"
-    },
-    {
-      "date": "2026-11-04",
       "subcat": "Hacker News Picks",
       "title": "Gemini 4 Argon",
       "url": "https://news.ycombinator.com/item?id=50073879"
@@ -2445,6 +2440,12 @@
       "subcat": "AI & Machine Learning",
       "title": "Merserk/dlss5-visual-enhancer",
       "url": "https://github.com/Merserk/dlss5-visual-enhancer"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: Does anyone have a contact with...",
+      "url": "https://news.ycombinator.com/item?id=50346164"
     }
   ]
 }
