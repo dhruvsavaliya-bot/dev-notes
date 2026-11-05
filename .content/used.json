@@ -722,6 +722,7 @@
     "https://github.com/chasmlol/SkyCraft",
     "https://github.com/cloudflare/security-audit-skill",
     "https://github.com/cocojojo5213/Dev-Janitor",
+    "https://github.com/collabs-inc/collab-public",
     "https://github.com/comet-ml/opik-openclaw",
     "https://github.com/common-voice/common-voice",
     "https://github.com/coollabsio/shoutrrr",
@@ -2388,12 +2389,6 @@
   ],
   "recent": [
     {
-      "date": "2026-11-04",
-      "subcat": "Hacker News Picks",
-      "title": "Gemini 4 Argon",
-      "url": "https://news.ycombinator.com/item?id=50073879"
-    },
-    {
       "date": "2026-11-05",
       "subcat": "AI & Machine Learning",
       "title": "Socialpranker/deepdive",
@@ -2446,6 +2441,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Does anyone have a contact with...",
       "url": "https://news.ycombinator.com/item?id=50346164"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "AI & Machine Learning",
+      "title": "collabs-inc/collab-public",
+      "url": "https://github.com/collabs-inc/collab-public"
     }
   ]
 }

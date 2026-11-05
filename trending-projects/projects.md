@@ -1554,6 +1554,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~25 stars/day since launch.
 - **Link:** https://github.com/Merserk/dlss5-visual-enhancer
 
+**Added 2026-11-05**
+
+### [collabs-inc/collab-public](https://github.com/collabs-inc/collab-public)
+- **Stats:** 3,072 stars | 305 forks | 80 open issues
+- **Language:** TypeScript | **Created:** 2026-03-15 | **License:** NOASSERTION
+- **Topics:** agents, ai, claude-code, codex-cli, ide, terminal
+- **What it is:** Collaborator is a place to create with agents.
+- **Growth:** averaging ~13 stars/day since launch.
+- **Link:** https://github.com/collabs-inc/collab-public
+
 
 ## Other Cool Projects
 
