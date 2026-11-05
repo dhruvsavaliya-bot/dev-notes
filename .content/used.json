@@ -819,6 +819,7 @@
     "https://github.com/jub0t/Concat",
     "https://github.com/jub0t/concat",
     "https://github.com/jwilk/python-syntax-errors",
+    "https://github.com/kOlapsis/maintenant",
     "https://github.com/kaankiziltug/logo-design-skill",
     "https://github.com/kacperkapusciak/goldie",
     "https://github.com/karatektus/pl_mail",
@@ -2431,12 +2432,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "Go",
-      "title": "Gist of Go: Concurrency",
-      "url": "https://lobste.rs/s/erkjnx/gist_go_concurrency"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "TypeScript",
       "title": "copperheadhq/copperhead",
       "url": "https://github.com/copperheadhq/copperhead"
@@ -2488,6 +2483,12 @@
       "subcat": "SQL & Databases",
       "title": "Launch HN: Momentic (YC W24)  Agents that catch bugs...",
       "url": "https://news.ycombinator.com/item?id=50339913"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "AI & Machine Learning",
+      "title": "kOlapsis/maintenant",
+      "url": "https://github.com/kOlapsis/maintenant"
     }
   ]
 }

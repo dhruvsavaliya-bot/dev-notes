@@ -1584,6 +1584,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~314 stars/day since launch.
 - **Link:** https://github.com/lemomo-ai/lemo-opuscar
 
+**Added 2026-11-06**
+
+### [kOlapsis/maintenant](https://github.com/kOlapsis/maintenant)
+- **Stats:** 533 stars | 25 forks | 2 open issues
+- **Language:** Go | **Created:** 2026-02-28 | **License:** Apache-2.0
+- **Topics:** alerting, container-monitoring, devops, docker, docker-monitoring, golang
+- **What it is:** Self-hosted monitoring for Docker, Kubernetes and uptime. Single Go binary, no agent config, live alerts. Drop a container, your stack is monitored.
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/kOlapsis/maintenant
+
 
 ## Other Cool Projects
 
