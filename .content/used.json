@@ -93,6 +93,7 @@
     "http://arxiv.org/abs/2611.02248v1",
     "http://arxiv.org/abs/2611.02936v1",
     "http://arxiv.org/abs/2611.04320v1",
+    "http://arxiv.org/abs/2611.04497v1",
     "http://arxiv.org/abs/2611.04501v2",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
@@ -2405,12 +2406,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "Lobsters Picks",
-      "title": "Your Cryptography Conspiracy Theory Is Wrong",
-      "url": "https://lobste.rs/s/bqllfe/your_cryptography_conspiracy_theory_is"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "Show & Ask HN",
       "title": "Tell HN: Don't use Postman, they proxy your info...",
       "url": "https://news.ycombinator.com/item?id=50360947"
@@ -2462,6 +2457,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Atticus  Hold-to-talk voice assistant for...",
       "url": "https://news.ycombinator.com/item?id=50049588"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "Research Papers",
+      "title": "SKILL2STEER: One-Pass Hypernetwork for Mapping...",
+      "url": "http://arxiv.org/abs/2611.04497v1"
     }
   ]
 }

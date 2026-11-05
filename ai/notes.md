@@ -3166,6 +3166,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.04501v2
 
+**Added 2026-11-05**
+
+### [SKILL2STEER: One-Pass Hypernetwork for Mapping Natural-Language Skills to Low-Rank Post-Block Activation Shifts](http://arxiv.org/abs/2611.04497v1)
+- **Authors:** Ran Li, Lei Chen
+- **Published:** 2026-11-03 | **Primary category:** cs.LG
+- **Categories:** cs.LG
+- **Abstract:** Compiling a natural-language agent skill into model parameters removes the skill text from the prompt and leaves behind a small artifact that can be distributed and reused. Existing methods differ in where they inject the compiled quantity, and all of them assume that the artifact carries the content of the skill. We test that assumption. Through three controls on a retrieval agent, we find that a compiled skill shift carries a domain-general behavioural prior, not the content of the skill. A wr...
+- **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.04497v1
+
 
 ## Computer Vision
 
