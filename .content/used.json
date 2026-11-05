@@ -2095,6 +2095,7 @@
     "https://news.ycombinator.com/item?id=50346153",
     "https://news.ycombinator.com/item?id=50346164",
     "https://news.ycombinator.com/item?id=50346981",
+    "https://news.ycombinator.com/item?id=50347425",
     "https://news.ycombinator.com/item?id=50349276",
     "https://news.ycombinator.com/item?id=50353457",
     "https://news.ycombinator.com/item?id=50354336",
@@ -2423,12 +2424,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Copperhead  Cursor for circuit boards",
-      "url": "https://news.ycombinator.com/item?id=49610059"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "Research Papers",
       "title": "ATTUNE: Agentic Throughput Tuning for LLM Training",
       "url": "http://arxiv.org/abs/2610.17528v3"
@@ -2480,6 +2475,12 @@
       "subcat": "Hacker News Picks",
       "title": "Lemmings CSS Animation",
       "url": "https://news.ycombinator.com/item?id=50375354"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: What cryptography book do you recommend for...",
+      "url": "https://news.ycombinator.com/item?id=50347425"
     }
   ]
 }

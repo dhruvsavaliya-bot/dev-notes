@@ -2443,6 +2443,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=49610059
 - **Link:** https://copperhead.sh/
 
+**Added 2026-11-05**
+
+### [Ask HN: What cryptography book do you recommend for reading with 10 year olds?](https://news.ycombinator.com/item?id=50347425)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-03 | **By:** mike_richards
+- **Community:** 81 points, 75 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50347425
+- **Link:** https://news.ycombinator.com/item?id=50347425
+
 
 ## Git & Workflow
 
