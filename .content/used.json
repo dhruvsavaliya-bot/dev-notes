@@ -143,6 +143,7 @@
     "https://andrealeopardi.com/posts/beam-metrics-in-clickhouse/",
     "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
     "https://antonz.org/go-concurrency-distilled/",
+    "https://antonz.org/go-concurrency/",
     "https://anycrap.shop/",
     "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
     "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
@@ -1381,6 +1382,7 @@
     "https://lobste.rs/s/eesu8d/bun_1_4",
     "https://lobste.rs/s/ekwolo/building_java_me_apps_with_modern_tooling",
     "https://lobste.rs/s/eoibah/iroh_global_content_discovery",
+    "https://lobste.rs/s/erkjnx/gist_go_concurrency",
     "https://lobste.rs/s/fgucra/observations_from_running",
     "https://lobste.rs/s/fmawla/enlightenment_0_28_0_release",
     "https://lobste.rs/s/g2ktrq/chasing_o2_pessimization_antcc",
@@ -2417,12 +2419,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "Research Papers",
-      "title": "SKILL2STEER: One-Pass Hypernetwork for Mapping...",
-      "url": "http://arxiv.org/abs/2611.04497v1"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "Testing",
       "title": "Four Ways a Test Can Lie to You",
       "url": "https://dev.to/kenwalger/four-ways-a-test-can-lie-to-you-2ibf"
@@ -2474,6 +2470,12 @@
       "subcat": "Productivity",
       "title": "AI Made Coding Cheaper. So Why Is Building Software...",
       "url": "https://dev.to/harsh2644/ai-made-coding-cheaper-so-why-is-building-software-still-so-expensive-59m"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "Go",
+      "title": "Gist of Go: Concurrency",
+      "url": "https://lobste.rs/s/erkjnx/gist_go_concurrency"
     }
   ]
 }

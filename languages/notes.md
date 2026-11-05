@@ -1380,6 +1380,18 @@ Snippets and gotchas across languages.
 - **Discussion:** https://lobste.rs/s/mp8yqt/protecting_against_cve_2026_98432
 - **Link:** https://groups.google.com/g/golang-announce/c/PCoQcdxoScw
 
+**Added 2026-11-05**
+
+### [Gist of Go: Concurrency](https://antonz.org/go-concurrency/)
+- **Source:** antonz.org | **Posted:** 2026-11-03 | **By:** hartzell
+- **Community:** 16 score, 3 comments on Lobsters
+- **Tags:** go
+- **Summary:** This seems like a well executed mini-course on concurrency in Go.
+
+I'd love to hear where it might be out of date or otherwise steering me wrong, as well as pointers to other good resources.
+- **Discussion:** https://lobste.rs/s/erkjnx/gist_go_concurrency
+- **Link:** https://antonz.org/go-concurrency/
+
 
 ## PHP
 
