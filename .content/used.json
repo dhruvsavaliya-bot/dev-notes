@@ -2077,6 +2077,7 @@
     "https://news.ycombinator.com/item?id=50354960",
     "https://news.ycombinator.com/item?id=50355251",
     "https://news.ycombinator.com/item?id=50355959",
+    "https://news.ycombinator.com/item?id=50360947",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2392,12 +2393,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "Models & Datasets",
-      "title": "HuggingFaceBio/FineDNA",
-      "url": "https://huggingface.co/datasets/HuggingFaceBio/FineDNA"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "Hacker News Picks",
       "title": "The Mythical Man-Month in the Age of AI",
       "url": "https://news.ycombinator.com/item?id=50255298"
@@ -2449,6 +2444,12 @@
       "subcat": "Lobsters Picks",
       "title": "Your Cryptography Conspiracy Theory Is Wrong",
       "url": "https://lobste.rs/s/bqllfe/your_cryptography_conspiracy_theory_is"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "Show & Ask HN",
+      "title": "Tell HN: Don't use Postman, they proxy your info...",
+      "url": "https://news.ycombinator.com/item?id=50360947"
     }
   ]
 }

@@ -2380,6 +2380,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50346164
 - **Link:** https://news.ycombinator.com/item?id=50346164
 
+**Added 2026-11-05**
+
+### [Tell HN: Don't use Postman, they proxy your info without your permission](https://news.ycombinator.com/item?id=50360947)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-04 | **By:** neya
+- **Community:** 96 points, 3 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50360947
+- **Link:** https://news.ycombinator.com/item?id=50360947
+
 
 ## Git & Workflow
 
