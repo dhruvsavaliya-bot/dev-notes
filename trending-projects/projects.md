@@ -1604,6 +1604,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~90 stars/day since launch.
 - **Link:** https://github.com/akitaonrails/ai-memory
 
+**Added 2026-11-06**
+
+### [Pal-AI-Lab/Coopanion](https://github.com/Pal-AI-Lab/Coopanion)
+- **Stats:** 2,930 stars | 117 forks | 33 open issues
+- **Language:** TypeScript | **Created:** 2026-09-23 | **License:** NOASSERTION
+- **Topics:** ai-companion, cortico, deepseek, desktop-pet, electron
+- **What it is:** Your tiny AI desktopet companion, built with Cortico 0 0)
+- **Growth:** averaging ~66 stars/day since launch.
+- **Link:** https://github.com/Pal-AI-Lab/Coopanion
+
 
 ## Other Cool Projects
 

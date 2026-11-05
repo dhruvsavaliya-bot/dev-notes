@@ -621,6 +621,7 @@
     "https://github.com/OpenNHP/opennhp",
     "https://github.com/OpenYSM/OpenYSM",
     "https://github.com/Optiscaler-Client/Optiscaler-Client",
+    "https://github.com/Pal-AI-Lab/Coopanion",
     "https://github.com/PimpinPumpkin/Vela",
     "https://github.com/Player-YN/BrowserKitten",
     "https://github.com/Player-YN/PawWork_ZhuaZhua",
@@ -2444,12 +2445,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "SQL & Databases",
-      "title": "Launch HN: Momentic (YC W24)  Agents that catch bugs...",
-      "url": "https://news.ycombinator.com/item?id=50339913"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "AI & Machine Learning",
       "title": "kOlapsis/maintenant",
       "url": "https://github.com/kOlapsis/maintenant"
@@ -2501,6 +2496,12 @@
       "subcat": "Rust",
       "title": "siglake/siglake",
       "url": "https://github.com/siglake/siglake"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "AI & Machine Learning",
+      "title": "Pal-AI-Lab/Coopanion",
+      "url": "https://github.com/Pal-AI-Lab/Coopanion"
     }
   ]
 }
