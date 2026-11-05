@@ -2216,6 +2216,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50083130
 - **Link:** https://github.com/android/ndk/issues/2260
 
+**Added 2026-11-05**
+
+### [AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura](https://thedataexchange.media/leo-de-moura-lean-aws/)
+- **Source:** thedataexchange.media | **Posted:** 2026-10-29 | **By:** datascientist
+- **Community:** 219 points, 59 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50290652
+- **Link:** https://thedataexchange.media/leo-de-moura-lean-aws/
+
 
 ## DevOps & Cloud
 

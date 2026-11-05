@@ -2054,6 +2054,7 @@
     "https://news.ycombinator.com/item?id=50278645",
     "https://news.ycombinator.com/item?id=50286987",
     "https://news.ycombinator.com/item?id=50290177",
+    "https://news.ycombinator.com/item?id=50290652",
     "https://news.ycombinator.com/item?id=50290668",
     "https://news.ycombinator.com/item?id=50294506",
     "https://news.ycombinator.com/item?id=50295450",
@@ -2223,6 +2224,7 @@
     "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
     "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
     "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+    "https://thedataexchange.media/leo-de-moura-lean-aws/",
     "https://thenumb.at/Syl-Intro/",
     "https://theremin.bizibah.com/",
     "https://thill.me/2026/09/11/what-i-did-at-rc.html",
@@ -2401,12 +2403,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: Does anyone have a contact with...",
-      "url": "https://news.ycombinator.com/item?id=50346164"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "AI & Machine Learning",
       "title": "collabs-inc/collab-public",
       "url": "https://github.com/collabs-inc/collab-public"
@@ -2458,6 +2454,12 @@
       "subcat": "Research Papers",
       "title": "Sample-Grained Approximate Unlearning with Provable...",
       "url": "http://arxiv.org/abs/2611.04501v2"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "Hacker News Picks",
+      "title": "AI, Lean, and the Future of Formal Verification, with...",
+      "url": "https://news.ycombinator.com/item?id=50290652"
     }
   ]
 }
