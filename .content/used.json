@@ -2079,6 +2079,7 @@
     "https://news.ycombinator.com/item?id=50317331",
     "https://news.ycombinator.com/item?id=50319563",
     "https://news.ycombinator.com/item?id=50323088",
+    "https://news.ycombinator.com/item?id=50326609",
     "https://news.ycombinator.com/item?id=50326821",
     "https://news.ycombinator.com/item?id=50328251",
     "https://news.ycombinator.com/item?id=50328896",
@@ -2380,6 +2381,7 @@
     "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
     "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
     "https://www.theranos.world/",
+    "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
     "https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos",
     "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
     "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
@@ -2412,12 +2414,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-11-05",
-      "subcat": "Hacker News Picks",
-      "title": "AI, Lean, and the Future of Formal Verification, with...",
-      "url": "https://news.ycombinator.com/item?id=50290652"
-    },
     {
       "date": "2026-11-05",
       "subcat": "Show & Ask HN",
@@ -2471,6 +2467,12 @@
       "subcat": "Research Papers",
       "title": "Episodic Loops: Finitary Event Structures and...",
       "url": "http://arxiv.org/abs/2609.34646v1"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "Swift",
+      "title": "Landline phones will switch off across Britland in...",
+      "url": "https://news.ycombinator.com/item?id=50326609"
     }
   ]
 }

@@ -2149,6 +2149,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50295821
 - **Link:** https://elementary.codes
 
+**Added 2026-11-05**
+
+### [Landline phones will switch off across Britland in 100 days, no extensions](https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673)
+- **Source:** www.theregister.com | **Posted:** 2026-11-01 | **By:** edward
+- **Community:** 179 points, 164 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50326609
+- **Link:** https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673
+
 
 ## Rust
 
