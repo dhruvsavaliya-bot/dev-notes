@@ -2389,6 +2389,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50360947
 - **Link:** https://news.ycombinator.com/item?id=50360947
 
+**Added 2026-11-05**
+
+### [Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](https://news.ycombinator.com/item?id=50363461)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-04 | **By:** jameslk
+- **Community:** 631 points, 164 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50363461
+- **Link:** https://news.ycombinator.com/item?id=50363461
+
 
 ## Git & Workflow
 
