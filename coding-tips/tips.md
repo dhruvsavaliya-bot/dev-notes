@@ -2398,6 +2398,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50363461
 - **Link:** https://news.ycombinator.com/item?id=50363461
 
+**Added 2026-11-05**
+
+### [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/)
+- **Source:** hackertimes.ca | **Posted:** 2026-11-03 | **By:** polpenn
+- **Community:** 471 points, 148 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50346981
+- **Link:** https://hackertimes.ca/
+
 
 ## Git & Workflow
 

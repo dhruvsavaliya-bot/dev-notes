@@ -1031,6 +1031,7 @@
     "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
     "https://groups.google.com/g/golang-announce/c/PCoQcdxoScw",
     "https://hackerbooks.org",
+    "https://hackertimes.ca/",
     "https://handwritten.blog/",
     "https://hauleth.dev/post/guards-guards/",
     "https://hauleth.dev/post/writing-tests/",
@@ -2074,6 +2075,7 @@
     "https://news.ycombinator.com/item?id=50345712",
     "https://news.ycombinator.com/item?id=50346153",
     "https://news.ycombinator.com/item?id=50346164",
+    "https://news.ycombinator.com/item?id=50346981",
     "https://news.ycombinator.com/item?id=50349276",
     "https://news.ycombinator.com/item?id=50353457",
     "https://news.ycombinator.com/item?id=50354336",
@@ -2399,12 +2401,6 @@
     {
       "date": "2026-11-05",
       "subcat": "AI & Machine Learning",
-      "title": "Zleap-AI/SAG",
-      "url": "https://github.com/Zleap-AI/SAG"
-    },
-    {
-      "date": "2026-11-05",
-      "subcat": "AI & Machine Learning",
       "title": "Merserk/dlss5-visual-enhancer",
       "url": "https://github.com/Merserk/dlss5-visual-enhancer"
     },
@@ -2455,6 +2451,12 @@
       "subcat": "C++",
       "title": "noctalia-dev/noctalia-greeter",
       "url": "https://github.com/noctalia-dev/noctalia-greeter"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Hacker Times, a New York Times-inspired...",
+      "url": "https://news.ycombinator.com/item?id=50346981"
     }
   ]
 }
