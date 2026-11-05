@@ -1537,6 +1537,7 @@
     "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
     "https://marc.info/?l=openbsd-ports&m=179236125692175",
     "https://marimo.io/blog/pycharm",
+    "https://markblah.github.io/lemmings/",
     "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
     "https://martinfowler.com/bliki/LLM-Voice.html",
     "https://martypc.net/",
@@ -2103,6 +2104,7 @@
     "https://news.ycombinator.com/item?id=50360947",
     "https://news.ycombinator.com/item?id=50363461",
     "https://news.ycombinator.com/item?id=50366117",
+    "https://news.ycombinator.com/item?id=50375354",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2422,12 +2424,6 @@
     {
       "date": "2026-11-05",
       "subcat": "Show & Ask HN",
-      "title": "Ask HN: What's your current AI agentic setup?",
-      "url": "https://news.ycombinator.com/item?id=50366117"
-    },
-    {
-      "date": "2026-11-05",
-      "subcat": "Show & Ask HN",
       "title": "Show HN: Copperhead  Cursor for circuit boards",
       "url": "https://news.ycombinator.com/item?id=49610059"
     },
@@ -2478,6 +2474,12 @@
       "subcat": "AI & Machine Learning",
       "title": "lemomo-ai/lemo-opuscar",
       "url": "https://github.com/lemomo-ai/lemo-opuscar"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "Hacker News Picks",
+      "title": "Lemmings CSS Animation",
+      "url": "https://news.ycombinator.com/item?id=50375354"
     }
   ]
 }

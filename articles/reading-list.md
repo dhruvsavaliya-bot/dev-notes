@@ -2225,6 +2225,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50290652
 - **Link:** https://thedataexchange.media/leo-de-moura-lean-aws/
 
+**Added 2026-11-05**
+
+### [Lemmings CSS Animation](https://markblah.github.io/lemmings/)
+- **Source:** markblah.github.io | **Posted:** 2026-11-05 | **By:** MarkBlah
+- **Community:** 352 points, 70 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50375354
+- **Link:** https://markblah.github.io/lemmings/
+
 
 ## DevOps & Cloud
 
