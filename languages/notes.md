@@ -2826,6 +2826,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=10225438
 - **Link:** https://github.com/CryptDB/cryptdb
 
+**Added 2026-11-05**
+
+### [O que são essas letrinhas: ACID](https://dev.to/luisnadachi/o-que-sao-essas-letrinhas-acid-i4e)
+- **Author:** Nadachi | **Published:** Jul 17 | **Read time:** 5 min
+- **Community:** 98 reactions, 3 comments -- a top post in #sql
+- **Tags:** database, tutorial, sql, learning
+- **Summary:** Nesses últimos tempos, estou tentando entender muito mais como funciona, quando usar ou o porquê de...
+- **Link:** https://dev.to/luisnadachi/o-que-sao-essas-letrinhas-acid-i4e
+
+
 ## Kotlin
 
 **Added 2026-10-11**

@@ -362,6 +362,7 @@
     "https://dev.to/lovestaco/cheap-rag-in-go-with-gemini-file-search-no-vector-db-two-calls-one-hosted-store-4kb5",
     "https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d",
     "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
+    "https://dev.to/luisnadachi/o-que-sao-essas-letrinhas-acid-i4e",
     "https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk",
     "https://dev.to/m4rri4nne/rewriting-my-first-nunit-api-tests-cleaner-faster-better-24fa",
     "https://dev.to/maame-codes/devops-from-scratch-a-students-diary-entry-00-5b71",
@@ -2412,12 +2413,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Hacker Times, a New York Times-inspired...",
-      "url": "https://news.ycombinator.com/item?id=50346981"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "Research Papers",
       "title": "Sample-Grained Approximate Unlearning with Provable...",
       "url": "http://arxiv.org/abs/2611.04501v2"
@@ -2469,6 +2464,12 @@
       "subcat": "Research Papers",
       "title": "ATTUNE: Agentic Throughput Tuning for LLM Training",
       "url": "http://arxiv.org/abs/2610.17528v3"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "SQL & Databases",
+      "title": "O que so essas letrinhas: ACID",
+      "url": "https://dev.to/luisnadachi/o-que-sao-essas-letrinhas-acid-i4e"
     }
   ]
 }
