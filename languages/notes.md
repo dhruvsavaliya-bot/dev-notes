@@ -2876,6 +2876,15 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Summary:** Nesses últimos tempos, estou tentando entender muito mais como funciona, quando usar ou o porquê de...
 - **Link:** https://dev.to/luisnadachi/o-que-sao-essas-letrinhas-acid-i4e
 
+**Added 2026-11-06**
+
+### [Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](https://momentic.ai/)
+- **Source:** momentic.ai | **Posted:** 2026-11-02 | **By:** wuweiweiwu
+- **Community:** 166 points, 132 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50339913
+- **Link:** https://momentic.ai/
+
 
 ## Kotlin
 

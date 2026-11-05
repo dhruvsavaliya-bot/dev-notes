@@ -1553,6 +1553,7 @@
     "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
     "https://minimaxir.com/2026/10/cheap-llms/",
     "https://mistral.ai/news/voxtral-3/",
+    "https://momentic.ai/",
     "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
     "https://music.apple.com/this-url-doesnt-exist",
     "https://musicalform.substack.com/p/what-is-gridifcation",
@@ -2094,6 +2095,7 @@
     "https://news.ycombinator.com/item?id=50328896",
     "https://news.ycombinator.com/item?id=50333339",
     "https://news.ycombinator.com/item?id=50338728",
+    "https://news.ycombinator.com/item?id=50339913",
     "https://news.ycombinator.com/item?id=50345712",
     "https://news.ycombinator.com/item?id=50346153",
     "https://news.ycombinator.com/item?id=50346164",
@@ -2429,12 +2431,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "Productivity",
-      "title": "AI Made Coding Cheaper. So Why Is Building Software...",
-      "url": "https://dev.to/harsh2644/ai-made-coding-cheaper-so-why-is-building-software-still-so-expensive-59m"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "Go",
       "title": "Gist of Go: Concurrency",
       "url": "https://lobste.rs/s/erkjnx/gist_go_concurrency"
@@ -2486,6 +2482,12 @@
       "subcat": "Hacker News Picks",
       "title": "Obscure audio codec is a perfect fit for the N64",
       "url": "https://news.ycombinator.com/item?id=50378508"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "SQL & Databases",
+      "title": "Launch HN: Momentic (YC W24)  Agents that catch bugs...",
+      "url": "https://news.ycombinator.com/item?id=50339913"
     }
   ]
 }
