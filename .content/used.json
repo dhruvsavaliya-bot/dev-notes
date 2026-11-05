@@ -681,6 +681,7 @@
     "https://github.com/ahmetomerv/photoc",
     "https://github.com/ai-sucks-butt/ai-sucks-butt",
     "https://github.com/air-embodied-brain/Zetta-Embodiment",
+    "https://github.com/akitaonrails/ai-memory",
     "https://github.com/aliyun/ai-agent-handbook",
     "https://github.com/amagine-ai/Amagine3D",
     "https://github.com/amak-tech/port-buddy",
@@ -2438,12 +2439,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "Models & Datasets",
-      "title": "3dcodeverse/3dcodeverse-2m",
-      "url": "https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "TypeScript",
       "title": "lhlGitHub/threejs-architecture-effects",
       "url": "https://github.com/lhlGitHub/threejs-architecture-effects"
@@ -2495,6 +2490,12 @@
       "subcat": "Rust",
       "title": "lerdb/HotDownloader",
       "url": "https://github.com/lerdb/HotDownloader"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "AI & Machine Learning",
+      "title": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory"
     }
   ]
 }

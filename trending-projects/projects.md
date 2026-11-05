@@ -1594,6 +1594,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/kOlapsis/maintenant
 
+**Added 2026-11-06**
+
+### [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
+- **Stats:** 15,224 stars | 1,102 forks | 37 open issues
+- **Language:** Rust | **Created:** 2026-05-21 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+- **Growth:** averaging ~90 stars/day since launch.
+- **Link:** https://github.com/akitaonrails/ai-memory
+
 
 ## Other Cool Projects
 

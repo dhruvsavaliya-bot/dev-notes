@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1725 entries and counting** · Last updated: 2026-11-06
+**1726 entries and counting** · Last updated: 2026-11-06
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 342 |
+| [Trending Projects](trending-projects/projects.md) | 343 |
 | [AI / LLM Notes](ai/notes.md) | 348 |
 | [Reading List](articles/reading-list.md) | 348 |
 | [Coding Tips](coding-tips/tips.md) | 348 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-06** · *AI & Machine Learning* — [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
 - **2026-11-06** · *Rust* — [lerdb/HotDownloader](https://github.com/lerdb/HotDownloader)
 - **2026-11-06** · *Lobsters Picks* — [One Hash Bloom Filters](https://lobste.rs/s/mpytbn/one_hash_bloom_filters)
 - **2026-11-06** · *Models & Datasets* — [baidu/ERNIE-5.5-Flash-Base](https://huggingface.co/baidu/ERNIE-5.5-Flash-Base)
 - **2026-11-06** · *Lobsters Picks* — [11 nanoseconds per word: Ridiculously Over-Optimizing...](https://lobste.rs/s/hrsyjf/11_nanoseconds_per_word_ridiculously)
-- **2026-11-06** · *AI & Machine Learning* — [kOlapsis/maintenant](https://github.com/kOlapsis/maintenant)
 
 ## How it works
 
