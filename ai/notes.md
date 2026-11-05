@@ -3186,6 +3186,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.03114v1
 
+**Added 2026-11-05**
+
+### [ATTUNE: Agentic Throughput Tuning for LLM Training](http://arxiv.org/abs/2610.17528v3)
+- **Authors:** Leo Fan, Hongyang Wang, Wenbo Chen, Jingguo Liu et al.
+- **Published:** 2026-10-13 | **Primary category:** cs.DC
+- **Categories:** cs.DC, cs.LG
+- **Abstract:** Training a large language model can occupy thousands of GPUs for weeks, and its speed depends on its recipe: how the model is split across GPUs, how memory is traded for compute, and which kernels and communication overlaps it uses. Finding a good recipe is still manual work for experts. Automated tuners search fixed lists of knobs and check only that a job runs, so they miss large gains and can ship changes that silently alter what the model learns. ATTUNE tunes any working recipe unattended wi...
+- **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.17528v3
+
 
 ## Computer Vision
 
