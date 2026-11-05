@@ -658,6 +658,7 @@
     "https://github.com/ZigEmbeddedGroup/microzig",
     "https://github.com/Zleap-AI/SAG",
     "https://github.com/ZzzLc0405/photo-abstract-editorial",
+    "https://github.com/aakarim/OpenLore",
     "https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS",
     "https://github.com/aden-hive/hive",
     "https://github.com/adityatandon15/Spring-Framework-Full-Course",
@@ -2393,12 +2394,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "Hacker News Picks",
-      "title": "The Mythical Man-Month in the Age of AI",
-      "url": "https://news.ycombinator.com/item?id=50255298"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "AI & Machine Learning",
       "title": "Prismer-AI/PrismerCloud",
       "url": "https://github.com/Prismer-AI/PrismerCloud"
@@ -2450,6 +2445,12 @@
       "subcat": "Show & Ask HN",
       "title": "Tell HN: Don't use Postman, they proxy your info...",
       "url": "https://news.ycombinator.com/item?id=50360947"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "AI & Machine Learning",
+      "title": "aakarim/OpenLore",
+      "url": "https://github.com/aakarim/OpenLore"
     }
   ]
 }

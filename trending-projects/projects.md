@@ -1564,6 +1564,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~13 stars/day since launch.
 - **Link:** https://github.com/collabs-inc/collab-public
 
+**Added 2026-11-05**
+
+### [aakarim/OpenLore](https://github.com/aakarim/OpenLore)
+- **Stats:** 1,721 stars | 13 forks | 6 open issues
+- **Language:** Go | **Created:** 2026-06-25 | **License:** Apache-2.0
+- **Topics:** agent, agent-memory, agents, knowledge, knowledge-base, knowledge-management
+- **What it is:** A minimal, extensible, agent-native knowledge repository that keeps shared context current and inspectable
+- **Growth:** averaging ~12 stars/day since launch.
+- **Link:** https://github.com/aakarim/OpenLore
+
 
 ## Other Cool Projects
 
