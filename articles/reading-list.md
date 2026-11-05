@@ -2243,6 +2243,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50378508
 - **Link:** https://phoboslab.org/log/2026/11/n64-ulc-codec
 
+**Added 2026-11-06**
+
+### [Cartographers of North Korea (2019)](https://cartographers-nk.wonyoung.so/)
+- **Source:** cartographers-nk.wonyoung.so | **Posted:** 2026-10-11 | **By:** edent
+- **Community:** 317 points, 70 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50047091
+- **Link:** https://cartographers-nk.wonyoung.so/
+
 
 ## DevOps & Cloud
 

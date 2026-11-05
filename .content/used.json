@@ -231,6 +231,7 @@
     "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
     "https://carette.xyz/posts/minimal_swift_kernel_on_qemu/",
     "https://carrierexplode.com/",
+    "https://cartographers-nk.wonyoung.so/",
     "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
     "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
     "https://cheapfoodmap.com/",
@@ -1977,6 +1978,7 @@
     "https://news.ycombinator.com/item?id=50024499",
     "https://news.ycombinator.com/item?id=50039291",
     "https://news.ycombinator.com/item?id=50042333",
+    "https://news.ycombinator.com/item?id=50047091",
     "https://news.ycombinator.com/item?id=50049588",
     "https://news.ycombinator.com/item?id=50052251",
     "https://news.ycombinator.com/item?id=50055304",
@@ -2439,12 +2441,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "TypeScript",
-      "title": "lhlGitHub/threejs-architecture-effects",
-      "url": "https://github.com/lhlGitHub/threejs-architecture-effects"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "Other Cool Projects",
       "title": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv"
@@ -2496,6 +2492,12 @@
       "subcat": "AI & Machine Learning",
       "title": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Hacker News Picks",
+      "title": "Cartographers of North Korea (2019)",
+      "url": "https://news.ycombinator.com/item?id=50047091"
     }
   ]
 }
