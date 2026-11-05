@@ -2489,6 +2489,16 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Growth:** averaging ~4 stars/day since launch.
 - **Link:** https://github.com/lerdb/HotDownloader
 
+**Added 2026-11-06**
+
+### [siglake/siglake](https://github.com/siglake/siglake)
+- **Stats:** 434 stars | 4 forks | 1 open issues
+- **Language:** Rust | **Created:** 2026-10-07 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~14 stars/day since launch.
+- **Link:** https://github.com/siglake/siglake
+
 
 ## Elixir
 

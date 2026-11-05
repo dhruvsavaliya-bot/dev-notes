@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1728 entries and counting** · Last updated: 2026-11-06
+**1729 entries and counting** · Last updated: 2026-11-06
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 348 |
 | [Reading List](articles/reading-list.md) | 349 |
 | [Coding Tips](coding-tips/tips.md) | 349 |
-| [Language Notes](languages/notes.md) | 339 |
+| [Language Notes](languages/notes.md) | 340 |
 
 ## Latest additions
 
+- **2026-11-06** · *Rust* — [siglake/siglake](https://github.com/siglake/siglake)
 - **2026-11-06** · *Lobsters Picks* — [A Look at Datastar](https://lobste.rs/s/vbx0g4/look_at_datastar)
 - **2026-11-06** · *Hacker News Picks* — [Cartographers of North Korea (2019)](https://news.ycombinator.com/item?id=50047091)
 - **2026-11-06** · *AI & Machine Learning* — [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
 - **2026-11-06** · *Rust* — [lerdb/HotDownloader](https://github.com/lerdb/HotDownloader)
-- **2026-11-06** · *Lobsters Picks* — [One Hash Bloom Filters](https://lobste.rs/s/mpytbn/one_hash_bloom_filters)
 
 ## How it works
 

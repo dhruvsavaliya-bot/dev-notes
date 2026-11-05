@@ -944,6 +944,7 @@
     "https://github.com/sheprd-labs/sheprd",
     "https://github.com/shihabal3amri/DiPlay",
     "https://github.com/shilapi/xcertplay",
+    "https://github.com/siglake/siglake",
     "https://github.com/simonlin1212/a-stock-data",
     "https://github.com/sivchari/kumo",
     "https://github.com/slvDev/esp32-ai",
@@ -2442,12 +2443,6 @@
   ],
   "recent": [
     {
-      "date": "2026-11-05",
-      "subcat": "Hacker News Picks",
-      "title": "Obscure audio codec is a perfect fit for the N64",
-      "url": "https://news.ycombinator.com/item?id=50378508"
-    },
-    {
       "date": "2026-11-06",
       "subcat": "SQL & Databases",
       "title": "Launch HN: Momentic (YC W24)  Agents that catch bugs...",
@@ -2500,6 +2495,12 @@
       "subcat": "Lobsters Picks",
       "title": "A Look at Datastar",
       "url": "https://lobste.rs/s/vbx0g4/look_at_datastar"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Rust",
+      "title": "siglake/siglake",
+      "url": "https://github.com/siglake/siglake"
     }
   ]
 }
