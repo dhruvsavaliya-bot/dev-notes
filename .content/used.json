@@ -93,6 +93,7 @@
     "http://arxiv.org/abs/2611.02248v1",
     "http://arxiv.org/abs/2611.02936v1",
     "http://arxiv.org/abs/2611.04320v1",
+    "http://arxiv.org/abs/2611.04501v2",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
     "http://boglin.iwarp.com/",
@@ -2400,12 +2401,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "AI & Machine Learning",
-      "title": "Merserk/dlss5-visual-enhancer",
-      "url": "https://github.com/Merserk/dlss5-visual-enhancer"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Does anyone have a contact with...",
       "url": "https://news.ycombinator.com/item?id=50346164"
@@ -2457,6 +2452,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Hacker Times, a New York Times-inspired...",
       "url": "https://news.ycombinator.com/item?id=50346981"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "Research Papers",
+      "title": "Sample-Grained Approximate Unlearning with Provable...",
+      "url": "http://arxiv.org/abs/2611.04501v2"
     }
   ]
 }

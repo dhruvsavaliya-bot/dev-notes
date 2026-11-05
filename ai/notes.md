@@ -3156,6 +3156,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.04320v1
 
+**Added 2026-11-05**
+
+### [Sample-Grained Approximate Unlearning with Provable Per-Sample Bounds](http://arxiv.org/abs/2611.04501v2)
+- **Authors:** Yaxin Xiao, Yulin Jin, Li Tang, Haoyang LI et al.
+- **Published:** 2026-11-03 | **Primary category:** cs.LG
+- **Categories:** cs.LG
+- **Abstract:** Machine unlearning aims to erase the influence of a designated forget set from a trained model while preserving strong utility on the retain set. Approximate unlearning methods efficiently achieve this goal without full retraining, but their effectiveness is primarily assessed using dataset-level aggregate metrics. These aggregate metrics can mask deviations from retraining at the level of individual samples. In this work, we focus on per-sample unlearning effectiveness. We introduce SALA (Sampl...
+- **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.04501v2
+
 
 ## Computer Vision
 
