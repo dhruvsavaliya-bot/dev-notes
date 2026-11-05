@@ -622,6 +622,7 @@
     "https://github.com/Rizzo-AI-Academy/rizzo-flow",
     "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
     "https://github.com/SWE-agent/SWE-agent",
+    "https://github.com/SaarthurR/atticus-mac",
     "https://github.com/Sahir619/fable-method",
     "https://github.com/ScottPlot/ScottPlot",
     "https://github.com/SenteLabsAI/OpenExecutive",
@@ -1952,6 +1953,7 @@
     "https://news.ycombinator.com/item?id=50024499",
     "https://news.ycombinator.com/item?id=50039291",
     "https://news.ycombinator.com/item?id=50042333",
+    "https://news.ycombinator.com/item?id=50049588",
     "https://news.ycombinator.com/item?id=50052251",
     "https://news.ycombinator.com/item?id=50055304",
     "https://news.ycombinator.com/item?id=50059096",
@@ -2403,12 +2405,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "AI & Machine Learning",
-      "title": "collabs-inc/collab-public",
-      "url": "https://github.com/collabs-inc/collab-public"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "Lobsters Picks",
       "title": "Your Cryptography Conspiracy Theory Is Wrong",
       "url": "https://lobste.rs/s/bqllfe/your_cryptography_conspiracy_theory_is"
@@ -2460,6 +2456,12 @@
       "subcat": "Hacker News Picks",
       "title": "AI, Lean, and the Future of Formal Verification, with...",
       "url": "https://news.ycombinator.com/item?id=50290652"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Atticus  Hold-to-talk voice assistant for...",
+      "url": "https://news.ycombinator.com/item?id=50049588"
     }
   ]
 }

@@ -2407,6 +2407,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50346981
 - **Link:** https://hackertimes.ca/
 
+**Added 2026-11-05**
+
+### [Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p](https://github.com/SaarthurR/atticus-mac)
+- **Source:** github.com | **Posted:** 2026-10-12 | **By:** SaarthRanka
+- **Community:** 117 points, 30 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50049588
+- **Link:** https://github.com/SaarthurR/atticus-mac
+
 
 ## Git & Workflow
 
