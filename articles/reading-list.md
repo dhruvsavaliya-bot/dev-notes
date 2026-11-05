@@ -3215,6 +3215,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/yba0yg/introducing_adaptive_dark_mode
 - **Link:** https://webkit.org/blog/18541/introducing-adaptive-dark-mode/
 
+**Added 2026-11-06**
+
+### [One Hash Bloom Filters](https://www.calabro.io/ohbf)
+- **Source:** www.calabro.io | **Posted:** 2026-10-19 | **By:** pushcx
+- **Community:** 74 score, 10 comments on Lobsters
+- **Tags:** compsci, databases
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/mpytbn/one_hash_bloom_filters
+- **Link:** https://www.calabro.io/ohbf
+
 
 ## Performance
 
