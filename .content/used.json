@@ -556,6 +556,7 @@
     "https://github.com/Flow-Tube/Flow",
     "https://github.com/FrigadeHQ/hob",
     "https://github.com/GMGNAI/gmgn-skills",
+    "https://github.com/Gathin23/cleanyourtv",
     "https://github.com/GordenSun/GordenPPTSkill",
     "https://github.com/Graphicle-AI/graphicle",
     "https://github.com/HD838A/remote-mic-app",
@@ -2426,12 +2427,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "Research Papers",
-      "title": "Episodic Loops: Finitary Event Structures and...",
-      "url": "http://arxiv.org/abs/2609.34646v1"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "Swift",
       "title": "Landline phones will switch off across Britland in...",
       "url": "https://news.ycombinator.com/item?id=50326609"
@@ -2483,6 +2478,12 @@
       "subcat": "TypeScript",
       "title": "lhlGitHub/threejs-architecture-effects",
       "url": "https://github.com/lhlGitHub/threejs-architecture-effects"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "Other Cool Projects",
+      "title": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv"
     }
   ]
 }

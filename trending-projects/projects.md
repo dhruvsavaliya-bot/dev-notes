@@ -2907,6 +2907,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~136 stars/day since launch.
 - **Link:** https://github.com/pollen-robotics/microduck
 
+**Added 2026-11-05**
+
+### [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
+- **Stats:** 52,516 stars | 6,699 forks | 223 open issues
+- **Language:** Python | **Created:** 2026-10-17 | **License:** NOASSERTION
+- **Topics:** adb, adblock, android-tv, android-tv-launcher, apple-tv, bloatware-removal
+- **What it is:** Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
+- **Growth:** averaging ~2,764 stars/day since launch.
+- **Link:** https://github.com/Gathin23/cleanyourtv
+
 
 ## Web & Frontend
 
