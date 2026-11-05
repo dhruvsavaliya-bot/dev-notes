@@ -2109,6 +2109,7 @@
     "https://news.ycombinator.com/item?id=50363461",
     "https://news.ycombinator.com/item?id=50366117",
     "https://news.ycombinator.com/item?id=50375354",
+    "https://news.ycombinator.com/item?id=50378508",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2156,6 +2157,7 @@
     "https://petal.live/",
     "https://peterszentkiralyi.eu/darkplug/",
     "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+    "https://phoboslab.org/log/2026/11/n64-ulc-codec",
     "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
     "https://phptherightway.com/",
     "https://phreak.ing/",
@@ -2427,12 +2429,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "Swift",
-      "title": "Landline phones will switch off across Britland in...",
-      "url": "https://news.ycombinator.com/item?id=50326609"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "Productivity",
       "title": "AI Made Coding Cheaper. So Why Is Building Software...",
       "url": "https://dev.to/harsh2644/ai-made-coding-cheaper-so-why-is-building-software-still-so-expensive-59m"
@@ -2484,6 +2480,12 @@
       "subcat": "Other Cool Projects",
       "title": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "Hacker News Picks",
+      "title": "Obscure audio codec is a perfect fit for the N64",
+      "url": "https://news.ycombinator.com/item?id=50378508"
     }
   ]
 }

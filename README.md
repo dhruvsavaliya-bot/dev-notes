@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1718 entries and counting** · Last updated: 2026-11-05
+**1719 entries and counting** · Last updated: 2026-11-05
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 341 |
 | [AI / LLM Notes](ai/notes.md) | 347 |
-| [Reading List](articles/reading-list.md) | 346 |
+| [Reading List](articles/reading-list.md) | 347 |
 | [Coding Tips](coding-tips/tips.md) | 347 |
 | [Language Notes](languages/notes.md) | 337 |
 
 ## Latest additions
 
+- **2026-11-05** · *Hacker News Picks* — [Obscure audio codec is a perfect fit for the N64](https://news.ycombinator.com/item?id=50378508)
 - **2026-11-05** · *Other Cool Projects* — [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
 - **2026-11-05** · *TypeScript* — [lhlGitHub/threejs-architecture-effects](https://github.com/lhlGitHub/threejs-architecture-effects)
 - **2026-11-05** · *Models & Datasets* — [3dcodeverse/3dcodeverse-2m](https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m)
 - **2026-11-05** · *Show & Ask HN* — [Ask HN: What cryptography book do you recommend for...](https://news.ycombinator.com/item?id=50347425)
-- **2026-11-05** · *Hacker News Picks* — [Lemmings CSS Animation](https://news.ycombinator.com/item?id=50375354)
 
 ## How it works
 

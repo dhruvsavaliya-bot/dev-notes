@@ -2234,6 +2234,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50375354
 - **Link:** https://markblah.github.io/lemmings/
 
+**Added 2026-11-05**
+
+### [Obscure audio codec is a perfect fit for the N64](https://phoboslab.org/log/2026/11/n64-ulc-codec)
+- **Source:** phoboslab.org | **Posted:** 2026-11-05 | **By:** frostbyte7
+- **Community:** 117 points, 7 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50378508
+- **Link:** https://phoboslab.org/log/2026/11/n64-ulc-codec
+
 
 ## DevOps & Cloud
 
