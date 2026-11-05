@@ -836,6 +836,7 @@
     "https://github.com/laramint/laravel-brain",
     "https://github.com/lemomo-ai/lemo-opuscar",
     "https://github.com/lgse/strata",
+    "https://github.com/lhlGitHub/threejs-architecture-effects",
     "https://github.com/liangmianya/dsh-synapse",
     "https://github.com/liangxiegame/QFramework",
     "https://github.com/ling-stack-org/ling-stack",
@@ -2425,12 +2426,6 @@
   "recent": [
     {
       "date": "2026-11-05",
-      "subcat": "SQL & Databases",
-      "title": "O que so essas letrinhas: ACID",
-      "url": "https://dev.to/luisnadachi/o-que-sao-essas-letrinhas-acid-i4e"
-    },
-    {
-      "date": "2026-11-05",
       "subcat": "Research Papers",
       "title": "Episodic Loops: Finitary Event Structures and...",
       "url": "http://arxiv.org/abs/2609.34646v1"
@@ -2482,6 +2477,12 @@
       "subcat": "Models & Datasets",
       "title": "3dcodeverse/3dcodeverse-2m",
       "url": "https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m"
+    },
+    {
+      "date": "2026-11-05",
+      "subcat": "TypeScript",
+      "title": "lhlGitHub/threejs-architecture-effects",
+      "url": "https://github.com/lhlGitHub/threejs-architecture-effects"
     }
   ]
 }

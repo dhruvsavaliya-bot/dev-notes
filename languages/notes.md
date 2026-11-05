@@ -733,6 +733,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~6 stars/day since launch.
 - **Link:** https://github.com/copperheadhq/copperhead
 
+**Added 2026-11-05**
+
+### [lhlGitHub/threejs-architecture-effects](https://github.com/lhlGitHub/threejs-architecture-effects)
+- **Stats:** 703 stars | 73 forks | 0 open issues
+- **Language:** TypeScript | **Created:** 2026-09-22 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** An Agent Skill for building interactive, self-assembling 3D architecture with Three.js.  一个用 Three.js 生成可交互、可动态建造 3D 建筑的 Agent Skill。
+- **Growth:** averaging ~15 stars/day since launch.
+- **Link:** https://github.com/lhlGitHub/threejs-architecture-effects
+
 
 ## Python
 
