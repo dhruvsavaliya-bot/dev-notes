@@ -266,6 +266,7 @@
     "https://deepmind.google/models/gemini/",
     "https://deepmind.google/science/weathernext/",
     "https://deepseek.com/harness/en/",
+    "https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/",
     "https://desktopdocs.com/?v=2025",
     "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
     "https://dev.to/adamthedeveloper/go-vs-java-the-minimalist-vs-the-enterprise-veteran-1gg3",
@@ -1450,6 +1451,7 @@
     "https://lobste.rs/s/lfen2h/living_weimar_era_ruby",
     "https://lobste.rs/s/lfusbg/atom_exhaustion_is_not_footgun_it_s_one",
     "https://lobste.rs/s/lgdxtw/c_for_rust_programmers",
+    "https://lobste.rs/s/lh1j0e/shlemiel_painter_is_back_how_zig_s_libc",
     "https://lobste.rs/s/lxo74i/introducing_microlighter",
     "https://lobste.rs/s/m6fw0x/netbsd_adds_new_emacs_like_text_editor",
     "https://lobste.rs/s/maqsgl/what_are_you_doing_this_week",
@@ -2473,12 +2475,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Models & Datasets",
-      "title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
-      "url": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Hacker News Picks",
       "title": "I wish tech companies knew more about me",
       "url": "https://news.ycombinator.com/item?id=50378942"
@@ -2530,6 +2526,12 @@
       "subcat": "Models & Datasets",
       "title": "XHToken/Spark-X2.6-4B",
       "url": "https://huggingface.co/XHToken/Spark-X2.6-4B"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Lobsters Picks",
+      "title": "Shlemiel the Painter Is Back: How Zigs libc Rewrite...",
+      "url": "https://lobste.rs/s/lh1j0e/shlemiel_painter_is_back_how_zig_s_libc"
     }
   ]
 }

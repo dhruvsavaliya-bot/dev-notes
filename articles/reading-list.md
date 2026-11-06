@@ -3272,6 +3272,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/drwd4j/jepsen_particledb_1_1_4
 - **Link:** https://jepsen.io/analyses/particledb-1.1.4
 
+**Added 2026-11-06**
+
+### [Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite Slower](https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/)
+- **Source:** dennisforbes.ca | **Posted:** 2026-11-04 | **By:** ohrv
+- **Community:** 103 score, 26 comments on Lobsters
+- **Tags:** performance, rust, zig
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/lh1j0e/shlemiel_painter_is_back_how_zig_s_libc
+- **Link:** https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/
+
 
 ## Performance
 
