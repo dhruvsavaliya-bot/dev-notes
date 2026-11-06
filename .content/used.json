@@ -301,6 +301,7 @@
     "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1",
     "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
     "https://dev.to/dev_kiran/shift-left-code-review-how-qodo-turns-your-coding-agent-into-its-own-first-reviewer-58fc",
+    "https://dev.to/devstackcommunity/best-ai-web-scraper-tools-in-2026-i-tested-7-these-are-worth-it-n2e",
     "https://dev.to/devstackhub/i-compared-11-best-ai-design-to-code-tools-for-my-client-projects-4alo",
     "https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9",
     "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
@@ -2499,12 +2500,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "AI & Machine Learning",
-      "title": "wangzan101/Mika",
-      "url": "https://github.com/wangzan101/Mika"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Beginner",
       "title": "From localStorage to Database: Understanding the...",
       "url": "https://dev.to/cristea_theodora/from-localstorage-to-database-understanding-the-mongodb-structure-1a21"
@@ -2556,6 +2551,12 @@
       "subcat": "Hacker News Picks",
       "title": "Furifont, a Japanese font that shows furigana",
       "url": "https://news.ycombinator.com/item?id=50100994"
+    },
+    {
+      "date": "2026-11-07",
+      "subcat": "Python",
+      "title": "Best AI Web Scraper Tools in 2026: I Tested 7, These...",
+      "url": "https://dev.to/devstackcommunity/best-ai-web-scraper-tools-in-2026-i-tested-7-these-are-worth-it-n2e"
     }
   ]
 }
