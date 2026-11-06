@@ -507,6 +507,7 @@
     "https://frankwiles.com/posts/i-got-targeted/",
     "https://frantic.im/mirage/",
     "https://freedns.afraid.org/",
+    "https://furifont.antfu.me/",
     "https://futhark-lang.org/blog/2026-10-14-defining-division.html",
     "https://gabrieloc.com/2026/09/15/perspective.html",
     "https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust",
@@ -2046,6 +2047,7 @@
     "https://news.ycombinator.com/item?id=50092470",
     "https://news.ycombinator.com/item?id=50094694",
     "https://news.ycombinator.com/item?id=50096110",
+    "https://news.ycombinator.com/item?id=50100994",
     "https://news.ycombinator.com/item?id=50104726",
     "https://news.ycombinator.com/item?id=50112331",
     "https://news.ycombinator.com/item?id=50112657",
@@ -2497,12 +2499,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Models & Datasets",
-      "title": "audnai/penclaw-Kimi-K3.1-pro-unrestricted",
-      "url": "https://huggingface.co/audnai/penclaw-Kimi-K3.1-pro-unrestricted"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "AI & Machine Learning",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika"
@@ -2554,6 +2550,12 @@
       "subcat": "AI & Machine Learning",
       "title": "dominikmartn/harp",
       "url": "https://github.com/dominikmartn/harp"
+    },
+    {
+      "date": "2026-11-07",
+      "subcat": "Hacker News Picks",
+      "title": "Furifont, a Japanese font that shows furigana",
+      "url": "https://news.ycombinator.com/item?id=50100994"
     }
   ]
 }

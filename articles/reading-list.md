@@ -2279,6 +2279,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50003796
 - **Link:** https://htmx.org/essays/yes-and/
 
+**Added 2026-11-07**
+
+### [Furifont, a Japanese font that shows furigana](https://furifont.antfu.me/)
+- **Source:** furifont.antfu.me | **Posted:** 2026-10-15 | **By:** plaguna
+- **Community:** 409 points, 83 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50100994
+- **Link:** https://furifont.antfu.me/
+
 
 ## DevOps & Cloud
 
