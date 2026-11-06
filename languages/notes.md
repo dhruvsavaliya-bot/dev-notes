@@ -1864,6 +1864,15 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Discussion:** https://news.ycombinator.com/item?id=50183512
 - **Link:** https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs
 
+**Added 2026-11-06**
+
+### [The Hackintosh Reborn](https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/)
+- **Source:** www.naut.ca | **Posted:** 2026-11-05 | **By:** rubatuga
+- **Community:** 288 points, 146 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50383057
+- **Link:** https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/
+
 
 ## Swift
 

@@ -2139,6 +2139,7 @@
     "https://news.ycombinator.com/item?id=50375354",
     "https://news.ycombinator.com/item?id=50378508",
     "https://news.ycombinator.com/item?id=50378942",
+    "https://news.ycombinator.com/item?id=50383057",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2381,6 +2382,7 @@
     "https://www.mixfont.com/experiments/decoy-font",
     "https://www.nasa.gov/press-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon",
     "https://www.nature.com/articles/d41586-023-02585-7",
+    "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
     "https://www.nebulasans.com",
     "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
     "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
@@ -2464,12 +2466,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Models & Datasets",
-      "title": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
-      "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-GGUF"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Lobsters Picks",
       "title": "September in Servo: progress, rounded rectangles, and...",
       "url": "https://lobste.rs/s/u26wki/september_servo_progress_rounded"
@@ -2521,6 +2517,12 @@
       "subcat": "Models & Datasets",
       "title": "autogluon/chronos-2-small",
       "url": "https://huggingface.co/autogluon/chronos-2-small"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Ruby",
+      "title": "The Hackintosh Reborn",
+      "url": "https://news.ycombinator.com/item?id=50383057"
     }
   ]
 }
