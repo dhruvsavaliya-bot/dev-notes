@@ -802,6 +802,7 @@
     "https://github.com/firecrawl/anydoc",
     "https://github.com/foxhui/WebAI2API",
     "https://github.com/fuxicodex/Fuxi",
+    "https://github.com/fyzugx/DEsk",
     "https://github.com/garnix-io/garnix-ci",
     "https://github.com/geastack/examples",
     "https://github.com/genspark-ai/genoffice",
@@ -2500,12 +2501,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Beginner",
-      "title": "From localStorage to Database: Understanding the...",
-      "url": "https://dev.to/cristea_theodora/from-localstorage-to-database-understanding-the-mongodb-structure-1a21"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Other Cool Projects",
       "title": "useopendesk/opendesk",
       "url": "https://github.com/useopendesk/opendesk"
@@ -2557,6 +2552,12 @@
       "subcat": "Python",
       "title": "Best AI Web Scraper Tools in 2026: I Tested 7, These...",
       "url": "https://dev.to/devstackcommunity/best-ai-web-scraper-tools-in-2026-i-tested-7-these-are-worth-it-n2e"
+    },
+    {
+      "date": "2026-11-07",
+      "subcat": "Other Cool Projects",
+      "title": "fyzugx/DEsk",
+      "url": "https://github.com/fyzugx/DEsk"
     }
   ]
 }

@@ -3027,6 +3027,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~32 stars/day since launch.
 - **Link:** https://github.com/Tencent-Hunyuan/Hy-Nomas
 
+**Added 2026-11-07**
+
+### [fyzugx/DEsk](https://github.com/fyzugx/DEsk)
+- **Stats:** 1,518 stars | 53 forks | 33 open issues
+- **Language:** C | **Created:** 2026-10-10 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~54 stars/day since launch.
+- **Link:** https://github.com/fyzugx/DEsk
+
 
 ## Web & Frontend
 
