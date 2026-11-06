@@ -1350,6 +1350,7 @@
     "https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0",
     "https://lobste.rs/s/aasanp/reverts_will_continue_until_morale",
     "https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability",
+    "https://lobste.rs/s/al3yyf/this_week_s_node2shell_brotli",
     "https://lobste.rs/s/and6ld/freebsd_status_report_2023_q2",
     "https://lobste.rs/s/ansfvi/forging_microsoft_edge_full_chain_with",
     "https://lobste.rs/s/ap9w8i/when_str_lower_is_security_vulnerability",
@@ -2302,6 +2303,7 @@
     "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
     "https://www.admin.ch/en/newnsb/NMn5s24l8NjQ",
     "https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown",
+    "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
     "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
     "https://www.anthropic.com/claude-fable-and-mythos-5-1",
     "https://www.anthropic.com/threat-intelligence-report-september-2026",
@@ -2446,12 +2448,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Lobsters Picks",
-      "title": "11 nanoseconds per word: Ridiculously Over-Optimizing...",
-      "url": "https://lobste.rs/s/hrsyjf/11_nanoseconds_per_word_ridiculously"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Models & Datasets",
       "title": "baidu/ERNIE-5.5-Flash-Base",
       "url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Base"
@@ -2503,6 +2499,12 @@
       "subcat": "Other Cool Projects",
       "title": "finlater/weread.koplugin",
       "url": "https://github.com/finlater/weread.koplugin"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Lobsters Picks",
+      "title": "This week's \"node2shell\" Brotli vulnerability...",
+      "url": "https://lobste.rs/s/al3yyf/this_week_s_node2shell_brotli"
     }
   ]
 }

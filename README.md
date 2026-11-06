@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1731 entries and counting** · Last updated: 2026-11-06
+**1732 entries and counting** · Last updated: 2026-11-06
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 345 |
 | [AI / LLM Notes](ai/notes.md) | 348 |
-| [Reading List](articles/reading-list.md) | 349 |
+| [Reading List](articles/reading-list.md) | 350 |
 | [Coding Tips](coding-tips/tips.md) | 349 |
 | [Language Notes](languages/notes.md) | 340 |
 
 ## Latest additions
 
+- **2026-11-06** · *Lobsters Picks* — [This week's "node2shell" Brotli vulnerability...](https://lobste.rs/s/al3yyf/this_week_s_node2shell_brotli)
 - **2026-11-06** · *Other Cool Projects* — [finlater/weread.koplugin](https://github.com/finlater/weread.koplugin)
 - **2026-11-06** · *AI & Machine Learning* — [Pal-AI-Lab/Coopanion](https://github.com/Pal-AI-Lab/Coopanion)
 - **2026-11-06** · *Rust* — [siglake/siglake](https://github.com/siglake/siglake)
 - **2026-11-06** · *Lobsters Picks* — [A Look at Datastar](https://lobste.rs/s/vbx0g4/look_at_datastar)
-- **2026-11-06** · *Hacker News Picks* — [Cartographers of North Korea (2019)](https://news.ycombinator.com/item?id=50047091)
 
 ## How it works
 

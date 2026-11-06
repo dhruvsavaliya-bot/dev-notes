@@ -3234,6 +3234,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/mpytbn/one_hash_bloom_filters
 - **Link:** https://www.calabro.io/ohbf
 
+**Added 2026-11-06**
+
+### [This week's "node2shell" Brotli vulnerability (CVE-2026-111497) is exploitable in Python, other consumers of Brotli](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
+- **Source:** www.aikido.dev | **Posted:** 2026-10-24 | **By:** hoistbypetard
+- **Community:** 16 score, 13 comments on Lobsters
+- **Tags:** security, web
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/al3yyf/this_week_s_node2shell_brotli
+- **Link:** https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497
+
 
 ## Performance
 
