@@ -2270,6 +2270,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50378942
 - **Link:** https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me
 
+**Added 2026-11-06**
+
+### [Yes, and](https://htmx.org/essays/yes-and/)
+- **Source:** htmx.org | **Posted:** 2026-10-08 | **By:** Michelangelo11
+- **Community:** 799 points, 309 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50003796
+- **Link:** https://htmx.org/essays/yes-and/
+
 
 ## DevOps & Cloud
 

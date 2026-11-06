@@ -1075,6 +1075,7 @@
     "https://hister.org/",
     "https://hn.watch/",
     "https://honk.foo/porffor-alpha/",
+    "https://htmx.org/essays/yes-and/",
     "https://hue.tools",
     "https://huggingface.co/Alibaba-NLP/gte-large-en-v1.5",
     "https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap",
@@ -1992,6 +1993,7 @@
     "https://news.ycombinator.com/item?id=50000488",
     "https://news.ycombinator.com/item?id=50000676",
     "https://news.ycombinator.com/item?id=50003545",
+    "https://news.ycombinator.com/item?id=50003796",
     "https://news.ycombinator.com/item?id=50006366",
     "https://news.ycombinator.com/item?id=50006832",
     "https://news.ycombinator.com/item?id=50008047",
@@ -2478,12 +2480,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Models & Datasets",
-      "title": "autogluon/chronos-2-small",
-      "url": "https://huggingface.co/autogluon/chronos-2-small"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Ruby",
       "title": "The Hackintosh Reborn",
       "url": "https://news.ycombinator.com/item?id=50383057"
@@ -2535,6 +2531,12 @@
       "subcat": "Rust",
       "title": "How to speed up the Rust compiler in November 2026",
       "url": "https://lobste.rs/s/ecrqpy/how_speed_up_rust_compiler_november_2026"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Hacker News Picks",
+      "title": "Yes, and",
+      "url": "https://news.ycombinator.com/item?id=50003796"
     }
   ]
 }

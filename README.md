@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1752 entries and counting** · Last updated: 2026-11-06
+**1753 entries and counting** · Last updated: 2026-11-06
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 347 |
 | [AI / LLM Notes](ai/notes.md) | 355 |
-| [Reading List](articles/reading-list.md) | 354 |
+| [Reading List](articles/reading-list.md) | 355 |
 | [Coding Tips](coding-tips/tips.md) | 354 |
 | [Language Notes](languages/notes.md) | 342 |
 
 ## Latest additions
 
+- **2026-11-06** · *Hacker News Picks* — [Yes, and](https://news.ycombinator.com/item?id=50003796)
 - **2026-11-06** · *Rust* — [How to speed up the Rust compiler in November 2026](https://lobste.rs/s/ecrqpy/how_speed_up_rust_compiler_november_2026)
 - **2026-11-06** · *Research Papers* — [Benchmarking LLM Agents for Behaviorally Adequate...](http://arxiv.org/abs/2610.36584v1)
 - **2026-11-06** · *Lobsters Picks* — [Shlemiel the Painter Is Back: How Zigs libc Rewrite...](https://lobste.rs/s/lh1j0e/shlemiel_painter_is_back_how_zig_s_libc)
 - **2026-11-06** · *Models & Datasets* — [XHToken/Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B)
-- **2026-11-06** · *Developer Tools* — [storytold/designcraft](https://github.com/storytold/designcraft)
 
 ## How it works
 
