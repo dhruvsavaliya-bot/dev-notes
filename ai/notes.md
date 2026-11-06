@@ -2319,6 +2319,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/Comfy-Org/MiniMax-H3
 
+**Added 2026-11-06**
+
+### [ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF)
+- **Stats:** 617 likes | 2,741,241 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-10-23
+- **Tags:** gguf, gsq, rco, quantization, mixed-precision, ist-daslab
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF
+
 
 ## Research Papers
 
