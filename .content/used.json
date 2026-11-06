@@ -777,6 +777,7 @@
     "https://github.com/dtonon/squalk",
     "https://github.com/duty1g/x64dbg-mcp-server",
     "https://github.com/dzhng/jevgrep",
+    "https://github.com/edrisranjbar/lifeos",
     "https://github.com/elder-plinius/T3MP3ST",
     "https://github.com/elie222/rakazo",
     "https://github.com/elstongun/leviathan",
@@ -1984,6 +1985,7 @@
     "https://news.ycombinator.com/item?id=50006832",
     "https://news.ycombinator.com/item?id=50008047",
     "https://news.ycombinator.com/item?id=50009295",
+    "https://news.ycombinator.com/item?id=50014150",
     "https://news.ycombinator.com/item?id=50017301",
     "https://news.ycombinator.com/item?id=50018350",
     "https://news.ycombinator.com/item?id=50018420",
@@ -2461,12 +2463,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Lobsters Picks",
-      "title": "This week's \"node2shell\" Brotli vulnerability...",
-      "url": "https://lobste.rs/s/al3yyf/this_week_s_node2shell_brotli"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Show & Ask HN",
       "title": "OpenAI seems to be silently re-enabling model...",
       "url": "https://news.ycombinator.com/item?id=50352757"
@@ -2518,6 +2514,12 @@
       "subcat": "Hacker News Picks",
       "title": "I wish tech companies knew more about me",
       "url": "https://news.ycombinator.com/item?id=50378942"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Edi Life OS  self-hosted life dashboard with...",
+      "url": "https://news.ycombinator.com/item?id=50014150"
     }
   ]
 }

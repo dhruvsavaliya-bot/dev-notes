@@ -2470,6 +2470,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50305320
 - **Link:** https://catcopter.com
 
+**Added 2026-11-06**
+
+### [Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI](https://github.com/edrisranjbar/lifeos)
+- **Source:** github.com | **Posted:** 2026-10-09 | **By:** edris0077
+- **Community:** 41 points, 17 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50014150
+- **Link:** https://github.com/edrisranjbar/lifeos
+
 
 ## Git & Workflow
 
