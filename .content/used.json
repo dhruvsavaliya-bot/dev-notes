@@ -87,6 +87,7 @@
     "http://arxiv.org/abs/2610.35413v1",
     "http://arxiv.org/abs/2610.35782v1",
     "http://arxiv.org/abs/2610.36269v1",
+    "http://arxiv.org/abs/2610.36584v1",
     "http://arxiv.org/abs/2610.36617v1",
     "http://arxiv.org/abs/2610.36717v1",
     "http://arxiv.org/abs/2610.37126v1",
@@ -2475,12 +2476,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Hacker News Picks",
-      "title": "I wish tech companies knew more about me",
-      "url": "https://news.ycombinator.com/item?id=50378942"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Edi Life OS  self-hosted life dashboard with...",
       "url": "https://news.ycombinator.com/item?id=50014150"
@@ -2532,6 +2527,12 @@
       "subcat": "Lobsters Picks",
       "title": "Shlemiel the Painter Is Back: How Zigs libc Rewrite...",
       "url": "https://lobste.rs/s/lh1j0e/shlemiel_painter_is_back_how_zig_s_libc"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Research Papers",
+      "title": "Benchmarking LLM Agents for Behaviorally Adequate...",
+      "url": "http://arxiv.org/abs/2610.36584v1"
     }
   ]
 }

@@ -3279,6 +3279,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.07367v1
 
+**Added 2026-11-06**
+
+### [Benchmarking LLM Agents for Behaviorally Adequate Test Generation from Software Requirements](http://arxiv.org/abs/2610.36584v1)
+- **Authors:** Binhang Qi, Yiming Liu, Yun Lin, Yangjie Zhou et al.
+- **Published:** 2026-10-27 | **Primary category:** cs.SE
+- **Categories:** cs.SE, cs.AI
+- **Abstract:** As large language model agents increasingly compile natural-language requirements into repository-level code, requirement-to-test generation grows in importance to provide validation constraints (or harness) to guide code generation. Yet it remains unclear whether current agents can generate tests that validate the required behavior when the implementation of that behavior is withheld. Existing test-generation benchmarks mostly focus on white-box testing, whereas the requirement--test-related st...
+- **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.36584v1
+
 
 ## Computer Vision
 
