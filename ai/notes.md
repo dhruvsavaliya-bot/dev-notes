@@ -2310,6 +2310,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-GGUF
 
+**Added 2026-11-06**
+
+### [Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)
+- **Stats:** 2,530 likes | 31,938,730 downloads
+- **Kind:** Hugging Face model | **Task:** n/a | **Created:** 2026-07-30
+- **Tags:** diffusion-single-file, comfyui
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/Comfy-Org/MiniMax-H3
+
 
 ## Research Papers
 

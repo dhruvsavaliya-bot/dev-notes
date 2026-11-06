@@ -1074,6 +1074,7 @@
     "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
     "https://huggingface.co/Cloudflare/clef",
     "https://huggingface.co/Comfy-Org/MOSS-Image",
+    "https://huggingface.co/Comfy-Org/MiniMax-H3",
     "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged",
     "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
     "https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
@@ -2454,12 +2455,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Hacker News Picks",
-      "title": "Cartographers of North Korea (2019)",
-      "url": "https://news.ycombinator.com/item?id=50047091"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Lobsters Picks",
       "title": "A Look at Datastar",
       "url": "https://lobste.rs/s/vbx0g4/look_at_datastar"
@@ -2511,6 +2506,12 @@
       "subcat": "Hacker News Picks",
       "title": "Ghostty 1.4",
       "url": "https://news.ycombinator.com/item?id=50261998"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Models & Datasets",
+      "title": "Comfy-Org/MiniMax-H3",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3"
     }
   ]
 }
