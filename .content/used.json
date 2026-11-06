@@ -1011,6 +1011,7 @@
     "https://github.com/voxivoid/recipe-lab-sony-pmca",
     "https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases",
     "https://github.com/wang2122/sprix-sage-router",
+    "https://github.com/wangzan101/Mika",
     "https://github.com/wangzhishou/OneBox",
     "https://github.com/wasi-master/wmkeyboard",
     "https://github.com/web-platform-tests/wpt",
@@ -2486,12 +2487,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Lobsters Picks",
-      "title": "Shlemiel the Painter Is Back: How Zigs libc Rewrite...",
-      "url": "https://lobste.rs/s/lh1j0e/shlemiel_painter_is_back_how_zig_s_libc"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Research Papers",
       "title": "Benchmarking LLM Agents for Behaviorally Adequate...",
       "url": "http://arxiv.org/abs/2610.36584v1"
@@ -2543,6 +2538,12 @@
       "subcat": "Models & Datasets",
       "title": "audnai/penclaw-Kimi-K3.1-pro-unrestricted",
       "url": "https://huggingface.co/audnai/penclaw-Kimi-K3.1-pro-unrestricted"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "AI & Machine Learning",
+      "title": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika"
     }
   ]
 }

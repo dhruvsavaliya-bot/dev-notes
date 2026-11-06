@@ -1614,6 +1614,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~66 stars/day since launch.
 - **Link:** https://github.com/Pal-AI-Lab/Coopanion
 
+**Added 2026-11-06**
+
+### [wangzan101/Mika](https://github.com/wangzan101/Mika)
+- **Stats:** 7,340 stars | 1,690 forks | 109 open issues
+- **Language:** Kotlin | **Created:** 2026-10-29 | **License:** Apache-2.0
+- **Topics:** accessibility, ai-agent, android, automation, jetpack-compose, kotlin
+- **What it is:** An on-device AI agent for Android that operates apps and the web to get things done for you.
+- **Growth:** averaging ~917 stars/day since launch.
+- **Link:** https://github.com/wangzan101/Mika
+
 
 ## Other Cool Projects
 
