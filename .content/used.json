@@ -1107,6 +1107,7 @@
     "https://huggingface.co/almanach/camembert-base",
     "https://huggingface.co/antirez/deepseek-v4.1-flash-gguf",
     "https://huggingface.co/audeering/wav2vec2-large-robust-24-ft-age-gender",
+    "https://huggingface.co/autogluon/chronos-2-small",
     "https://huggingface.co/autotrust/AutoTrust-JEV-27B-v1.1",
     "https://huggingface.co/autotrust/GEV-26B-Decide",
     "https://huggingface.co/baidu/ERNIE-5.5-Flash-Base",
@@ -2463,12 +2464,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Show & Ask HN",
-      "title": "OpenAI seems to be silently re-enabling model...",
-      "url": "https://news.ycombinator.com/item?id=50352757"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Models & Datasets",
       "title": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
       "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-GGUF"
@@ -2520,6 +2515,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Edi Life OS  self-hosted life dashboard with...",
       "url": "https://news.ycombinator.com/item?id=50014150"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Models & Datasets",
+      "title": "autogluon/chronos-2-small",
+      "url": "https://huggingface.co/autogluon/chronos-2-small"
     }
   ]
 }

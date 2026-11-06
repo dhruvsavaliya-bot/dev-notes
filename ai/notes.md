@@ -2328,6 +2328,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF
 
+**Added 2026-11-06**
+
+### [autogluon/chronos-2-small](https://huggingface.co/autogluon/chronos-2-small)
+- **Stats:** 28 likes | 2,552,598 downloads
+- **Kind:** Hugging Face model | **Task:** time-series-forecasting | **Created:** 2025-12-03
+- **Tags:** chronos-forecasting, safetensors, t5, time series, forecasting, foundation models
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/autogluon/chronos-2-small
+
 
 ## Research Papers
 
