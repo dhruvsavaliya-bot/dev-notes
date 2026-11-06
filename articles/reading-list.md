@@ -2357,6 +2357,15 @@ Fresh dev articles and blog posts.
 - **Summary:** Most of us have the "don't commit secrets" reflex drilled in. Pre-commit hooks, secret scanners in...
 - **Link:** https://dev.to/cyclopt_dimitrisk/your-secrets-dont-need-a-git-commit-to-leak-into-an-ai-tool-be2
 
+**Added 2026-11-06**
+
+### [Ghost in the Shell: Can a Log File Hijack an AI?](https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk)
+- **Author:** Daniel Balcarek | **Published:** Oct 29 | **Read time:** 5 min
+- **Community:** 129 reactions, 118 comments -- a top post in #security
+- **Tags:** ai, security, halloween, promptengineering
+- **Summary:** This week's Hacktoberfest theme is Ghost in the Machine. Unfortunately, I don't have enough time to...
+- **Link:** https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk
+
 
 ## System Design & Architecture
 
