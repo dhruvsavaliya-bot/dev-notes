@@ -3262,6 +3262,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/al3yyf/this_week_s_node2shell_brotli
 - **Link:** https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497
 
+**Added 2026-11-06**
+
+### [Jepsen: ParticleDB 1.1.4](https://jepsen.io/analyses/particledb-1.1.4)
+- **Source:** jepsen.io | **Posted:** 2026-10-31 | **By:** aphyr
+- **Community:** 183 score, 45 comments on Lobsters
+- **Tags:** databases, testing
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/drwd4j/jepsen_particledb_1_1_4
+- **Link:** https://jepsen.io/analyses/particledb-1.1.4
+
 
 ## Performance
 
