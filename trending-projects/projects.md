@@ -2997,6 +2997,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~179 stars/day since launch.
 - **Link:** https://github.com/aschmelyun/print-my-profile-pic
 
+**Added 2026-11-06**
+
+### [useopendesk/opendesk](https://github.com/useopendesk/opendesk)
+- **Stats:** 490 stars | 66 forks | 12 open issues
+- **Language:** Go | **Created:** 2026-10-11 | **License:** Apache-2.0
+- **Topics:** helpdesk
+- **What it is:** The open-source support inbox + live chat and inbox collaboration for teams
+- **Growth:** averaging ~18 stars/day since launch.
+- **Link:** https://github.com/useopendesk/opendesk
+
 
 ## Web & Frontend
 

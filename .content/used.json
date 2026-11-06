@@ -997,6 +997,7 @@
     "https://github.com/trypostit/trypost",
     "https://github.com/ultracontext/ultracontext",
     "https://github.com/unicity-aos/aos-ce",
+    "https://github.com/useopendesk/opendesk",
     "https://github.com/usewhale/Whale",
     "https://github.com/vasu-devs/JustHireMe",
     "https://github.com/vercel-labs/fx",
@@ -2488,12 +2489,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Rust",
-      "title": "How to speed up the Rust compiler in November 2026",
-      "url": "https://lobste.rs/s/ecrqpy/how_speed_up_rust_compiler_november_2026"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Hacker News Picks",
       "title": "Yes, and",
       "url": "https://news.ycombinator.com/item?id=50003796"
@@ -2545,6 +2540,12 @@
       "subcat": "Beginner",
       "title": "From localStorage to Database: Understanding the...",
       "url": "https://dev.to/cristea_theodora/from-localstorage-to-database-understanding-the-mongodb-structure-1a21"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Other Cool Projects",
+      "title": "useopendesk/opendesk",
+      "url": "https://github.com/useopendesk/opendesk"
     }
   ]
 }
