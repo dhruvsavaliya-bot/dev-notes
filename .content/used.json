@@ -233,6 +233,7 @@
     "https://carette.xyz/posts/minimal_swift_kernel_on_qemu/",
     "https://carrierexplode.com/",
     "https://cartographers-nk.wonyoung.so/",
+    "https://catcopter.com",
     "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
     "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
     "https://cheapfoodmap.com/",
@@ -2103,6 +2104,7 @@
     "https://news.ycombinator.com/item?id=50300683",
     "https://news.ycombinator.com/item?id=50301479",
     "https://news.ycombinator.com/item?id=50303172",
+    "https://news.ycombinator.com/item?id=50305320",
     "https://news.ycombinator.com/item?id=50307723",
     "https://news.ycombinator.com/item?id=50312756",
     "https://news.ycombinator.com/item?id=50317331",
@@ -2456,12 +2458,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Rust",
-      "title": "siglake/siglake",
-      "url": "https://github.com/siglake/siglake"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "AI & Machine Learning",
       "title": "Pal-AI-Lab/Coopanion",
       "url": "https://github.com/Pal-AI-Lab/Coopanion"
@@ -2513,6 +2509,12 @@
       "subcat": "Research Papers",
       "title": "Test-Time Self-Play: Scaling without a Verifier",
       "url": "http://arxiv.org/abs/2611.07367v1"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: I built a multiplayer game where you're an...",
+      "url": "https://news.ycombinator.com/item?id=50305320"
     }
   ]
 }
