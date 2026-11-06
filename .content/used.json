@@ -2115,6 +2115,7 @@
     "https://news.ycombinator.com/item?id=50346981",
     "https://news.ycombinator.com/item?id=50347425",
     "https://news.ycombinator.com/item?id=50349276",
+    "https://news.ycombinator.com/item?id=50352757",
     "https://news.ycombinator.com/item?id=50353457",
     "https://news.ycombinator.com/item?id=50354336",
     "https://news.ycombinator.com/item?id=50354960",
@@ -2448,12 +2449,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Models & Datasets",
-      "title": "baidu/ERNIE-5.5-Flash-Base",
-      "url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Base"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Lobsters Picks",
       "title": "One Hash Bloom Filters",
       "url": "https://lobste.rs/s/mpytbn/one_hash_bloom_filters"
@@ -2505,6 +2500,12 @@
       "subcat": "Lobsters Picks",
       "title": "This week's \"node2shell\" Brotli vulnerability...",
       "url": "https://lobste.rs/s/al3yyf/this_week_s_node2shell_brotli"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Show & Ask HN",
+      "title": "OpenAI seems to be silently re-enabling model...",
+      "url": "https://news.ycombinator.com/item?id=50352757"
     }
   ]
 }
