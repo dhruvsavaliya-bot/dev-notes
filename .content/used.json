@@ -519,6 +519,7 @@
     "https://github.com/49-Agents/49-IDE",
     "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
     "https://github.com/AFK-surf/Comma",
+    "https://github.com/ARahim3/DigUp",
     "https://github.com/AhmadHassan-BTed/Noria",
     "https://github.com/Albert-Weasker/niubigeo",
     "https://github.com/AlephAITech/WorkBuddyGuide",
@@ -2480,12 +2481,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Ruby",
-      "title": "The Hackintosh Reborn",
-      "url": "https://news.ycombinator.com/item?id=50383057"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Other Cool Projects",
       "title": "iamlukethedev/Claw3D",
       "url": "https://github.com/iamlukethedev/Claw3D"
@@ -2537,6 +2532,12 @@
       "subcat": "Hacker News Picks",
       "title": "Yes, and",
       "url": "https://news.ycombinator.com/item?id=50003796"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Other Cool Projects",
+      "title": "ARahim3/DigUp",
+      "url": "https://github.com/ARahim3/DigUp"
     }
   ]
 }

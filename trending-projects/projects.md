@@ -2967,6 +2967,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~10 stars/day since launch.
 - **Link:** https://github.com/iamlukethedev/Claw3D
 
+**Added 2026-11-06**
+
+### [ARahim3/DigUp](https://github.com/ARahim3/DigUp)
+- **Stats:** 6,283 stars | 496 forks | 96 open issues
+- **Language:** Swift | **Created:** 2026-10-08 | **License:** MIT
+- **Topics:** embeddinggemma, embeddings, file-search, linux, llama-cpp, local-first
+- **What it is:** Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.
+- **Growth:** averaging ~216 stars/day since launch.
+- **Link:** https://github.com/ARahim3/DigUp
+
 
 ## Web & Frontend
 
