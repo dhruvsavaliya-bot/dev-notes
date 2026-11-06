@@ -2348,6 +2348,15 @@ Fresh dev articles and blog posts.
 - **Summary:** Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...
 - **Link:** https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb
 
+**Added 2026-11-06**
+
+### [Your secrets don't need a git commit to leak into an AI tool](https://dev.to/cyclopt_dimitrisk/your-secrets-dont-need-a-git-commit-to-leak-into-an-ai-tool-be2)
+- **Author:** Dimitris Kyrkos  | **Published:** Oct 26 | **Read time:** 3 min
+- **Community:** 75 reactions, 134 comments -- a top post in #security
+- **Tags:** security, ai, programming, discuss
+- **Summary:** Most of us have the "don't commit secrets" reflex drilled in. Pre-commit hooks, secret scanners in...
+- **Link:** https://dev.to/cyclopt_dimitrisk/your-secrets-dont-need-a-git-commit-to-leak-into-an-ai-tool-be2
+
 
 ## System Design & Architecture
 
