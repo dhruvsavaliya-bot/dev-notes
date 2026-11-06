@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1758 entries and counting** · Last updated: 2026-11-06
+**1759 entries and counting** · Last updated: 2026-11-06
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 349 |
-| [AI / LLM Notes](ai/notes.md) | 356 |
+| [AI / LLM Notes](ai/notes.md) | 357 |
 | [Reading List](articles/reading-list.md) | 355 |
 | [Coding Tips](coding-tips/tips.md) | 356 |
 | [Language Notes](languages/notes.md) | 342 |
 
 ## Latest additions
 
+- **2026-11-06** · *Models & Datasets* — [audnai/penclaw-Kimi-K3.1-pro-unrestricted](https://huggingface.co/audnai/penclaw-Kimi-K3.1-pro-unrestricted)
 - **2026-11-06** · *Beginner* — [The Developer's Safety Net - Introduction to TypeScript](https://dev.to/cristea_theodora/the-developers-safety-net-introduction-to-typescript-2jof)
 - **2026-11-06** · *Other Cool Projects* — [aschmelyun/print-my-profile-pic](https://github.com/aschmelyun/print-my-profile-pic)
 - **2026-11-06** · *Models & Datasets* — [akatz-ai/MiniMax-H3-Character-Swap-LoRA](https://huggingface.co/akatz-ai/MiniMax-H3-Character-Swap-LoRA)
 - **2026-11-06** · *Beginner* — [Lost in the AI Hype, I Started Small](https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72)
-- **2026-11-06** · *Other Cool Projects* — [ARahim3/DigUp](https://github.com/ARahim3/DigUp)
 
 ## How it works
 

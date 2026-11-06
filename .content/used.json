@@ -1118,6 +1118,7 @@
     "https://huggingface.co/almanach/camembert-base",
     "https://huggingface.co/antirez/deepseek-v4.1-flash-gguf",
     "https://huggingface.co/audeering/wav2vec2-large-robust-24-ft-age-gender",
+    "https://huggingface.co/audnai/penclaw-Kimi-K3.1-pro-unrestricted",
     "https://huggingface.co/autogluon/chronos-2-small",
     "https://huggingface.co/autotrust/AutoTrust-JEV-27B-v1.1",
     "https://huggingface.co/autotrust/GEV-26B-Decide",
@@ -2485,12 +2486,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Models & Datasets",
-      "title": "XHToken/Spark-X2.6-4B",
-      "url": "https://huggingface.co/XHToken/Spark-X2.6-4B"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Lobsters Picks",
       "title": "Shlemiel the Painter Is Back: How Zigs libc Rewrite...",
       "url": "https://lobste.rs/s/lh1j0e/shlemiel_painter_is_back_how_zig_s_libc"
@@ -2542,6 +2537,12 @@
       "subcat": "Beginner",
       "title": "The Developer's Safety Net - Introduction to TypeScript",
       "url": "https://dev.to/cristea_theodora/the-developers-safety-net-introduction-to-typescript-2jof"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Models & Datasets",
+      "title": "audnai/penclaw-Kimi-K3.1-pro-unrestricted",
+      "url": "https://huggingface.co/audnai/penclaw-Kimi-K3.1-pro-unrestricted"
     }
   ]
 }

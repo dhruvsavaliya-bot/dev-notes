@@ -2355,6 +2355,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/akatz-ai/MiniMax-H3-Character-Swap-LoRA
 
+**Added 2026-11-06**
+
+### [audnai/penclaw-Kimi-K3.1-pro-unrestricted](https://huggingface.co/audnai/penclaw-Kimi-K3.1-pro-unrestricted)
+- **Stats:** 149 likes | 0 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-10-23
+- **Tags:** safetensors, kimi_k31, abliterated, uncensored, moe, text-generation
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/audnai/penclaw-Kimi-K3.1-pro-unrestricted
+
 
 ## Research Papers
 
