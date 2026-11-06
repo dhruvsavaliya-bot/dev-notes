@@ -2346,6 +2346,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/XHToken/Spark-X2.6-4B
 
+**Added 2026-11-06**
+
+### [akatz-ai/MiniMax-H3-Character-Swap-LoRA](https://huggingface.co/akatz-ai/MiniMax-H3-Character-Swap-LoRA)
+- **Stats:** 726 likes | 142,181 downloads
+- **Kind:** Hugging Face model | **Task:** video-to-video | **Created:** 2026-09-25
+- **Tags:** diffusion-single-file, minimax-h3, lora, character-swap, video-editing, ref2va
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/akatz-ai/MiniMax-H3-Character-Swap-LoRA
+
 
 ## Research Papers
 

@@ -1112,6 +1112,7 @@
     "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
     "https://huggingface.co/SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
     "https://huggingface.co/XHToken/Spark-X2.6-4B",
+    "https://huggingface.co/akatz-ai/MiniMax-H3-Character-Swap-LoRA",
     "https://huggingface.co/almanach/camembert-base",
     "https://huggingface.co/antirez/deepseek-v4.1-flash-gguf",
     "https://huggingface.co/audeering/wav2vec2-large-robust-24-ft-age-gender",
@@ -2483,12 +2484,6 @@
     {
       "date": "2026-11-06",
       "subcat": "Lobsters Picks",
-      "title": "Jepsen: ParticleDB 1.1.4",
-      "url": "https://lobste.rs/s/drwd4j/jepsen_particledb_1_1_4"
-    },
-    {
-      "date": "2026-11-06",
-      "subcat": "Lobsters Picks",
       "title": "X-87 - DOS 256 bytes",
       "url": "https://lobste.rs/s/q0ld7f/x_87_dos_256_bytes"
     },
@@ -2539,6 +2534,12 @@
       "subcat": "Beginner",
       "title": "Lost in the AI Hype, I Started Small",
       "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Models & Datasets",
+      "title": "akatz-ai/MiniMax-H3-Character-Swap-LoRA",
+      "url": "https://huggingface.co/akatz-ai/MiniMax-H3-Character-Swap-LoRA"
     }
   ]
 }
