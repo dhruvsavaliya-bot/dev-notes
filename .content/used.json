@@ -659,6 +659,7 @@
     "https://github.com/Taichu-AI/ZDTaichu5.0-9B",
     "https://github.com/TauricResearch/TradingAgents",
     "https://github.com/Tencent-Hunyuan/HY-Motion-1.0",
+    "https://github.com/Tencent-Hunyuan/Hy-Nomas",
     "https://github.com/TencentCloud/CubeSandbox",
     "https://github.com/TheoLeeCJ/SemIf",
     "https://github.com/TheoLeeCJ/SemIf-OpenJev",
@@ -2492,12 +2493,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Beginner",
-      "title": "Lost in the AI Hype, I Started Small",
-      "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Models & Datasets",
       "title": "akatz-ai/MiniMax-H3-Character-Swap-LoRA",
       "url": "https://huggingface.co/akatz-ai/MiniMax-H3-Character-Swap-LoRA"
@@ -2549,6 +2544,12 @@
       "subcat": "Lobsters Picks",
       "title": "Software Line Specialist",
       "url": "https://lobste.rs/s/yoywed/software_line_specialist"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Other Cool Projects",
+      "title": "Tencent-Hunyuan/Hy-Nomas",
+      "url": "https://github.com/Tencent-Hunyuan/Hy-Nomas"
     }
   ]
 }

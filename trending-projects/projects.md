@@ -3007,6 +3007,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~18 stars/day since launch.
 - **Link:** https://github.com/useopendesk/opendesk
 
+**Added 2026-11-06**
+
+### [Tencent-Hunyuan/Hy-Nomas](https://github.com/Tencent-Hunyuan/Hy-Nomas)
+- **Stats:** 515 stars | 49 forks | 4 open issues
+- **Language:** Python | **Created:** 2026-10-21 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** Hy-Nomas: Towards Free-form Interactive World Generation
+- **Growth:** averaging ~32 stars/day since launch.
+- **Link:** https://github.com/Tencent-Hunyuan/Hy-Nomas
+
 
 ## Web & Frontend
 
