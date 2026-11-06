@@ -1378,6 +1378,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** Hey everyone!👋 When developers hear about TypeScript for the first time, the same doubts, questions...
 - **Link:** https://dev.to/cristea_theodora/the-developers-safety-net-introduction-to-typescript-2jof
 
+**Added 2026-11-06**
+
+### [From localStorage to Database: Understanding the MongoDB Structure❗](https://dev.to/cristea_theodora/from-localstorage-to-database-understanding-the-mongodb-structure-1a21)
+- **Author:**  Theodora Cristea | **Published:** Nov 19 '25 | **Read time:** 7 min
+- **Community:** 97 reactions, 27 comments -- a top post in #beginners
+- **Tags:** mongodb, database, tutorial, beginners
+- **Summary:** Intro   Hey everyone!🤗 If you are a developer who is just starting to work with databases,...
+- **Link:** https://dev.to/cristea_theodora/from-localstorage-to-database-understanding-the-mongodb-structure-1a21
+
 
 ## Show & Ask HN
 
