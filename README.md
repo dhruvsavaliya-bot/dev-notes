@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1744 entries and counting** · Last updated: 2026-11-06
+**1745 entries and counting** · Last updated: 2026-11-06
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 345 |
+| [Trending Projects](trending-projects/projects.md) | 346 |
 | [AI / LLM Notes](ai/notes.md) | 353 |
 | [Reading List](articles/reading-list.md) | 352 |
 | [Coding Tips](coding-tips/tips.md) | 353 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-06** · *Other Cool Projects* — [iamlukethedev/Claw3D](https://github.com/iamlukethedev/Claw3D)
 - **2026-11-06** · *Ruby* — [The Hackintosh Reborn](https://news.ycombinator.com/item?id=50383057)
 - **2026-11-06** · *Models & Datasets* — [autogluon/chronos-2-small](https://huggingface.co/autogluon/chronos-2-small)
 - **2026-11-06** · *Show & Ask HN* — [Show HN: Edi Life OS  self-hosted life dashboard with...](https://news.ycombinator.com/item?id=50014150)
 - **2026-11-06** · *Hacker News Picks* — [I wish tech companies knew more about me](https://news.ycombinator.com/item?id=50378942)
-- **2026-11-06** · *Models & Datasets* — [ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF)
 
 ## How it works
 

@@ -2957,6 +2957,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~6 stars/day since launch.
 - **Link:** https://github.com/finlater/weread.koplugin
 
+**Added 2026-11-06**
+
+### [iamlukethedev/Claw3D](https://github.com/iamlukethedev/Claw3D)
+- **Stats:** 2,429 stars | 667 forks | 49 open issues
+- **Language:** TypeScript | **Created:** 2026-03-15 | **License:** MIT
+- **Topics:** 3d-engine, claw3d, game-engine, gamedev, graphics, javascript
+- **What it is:** Claw3D is an open source 3D engine built on OpenClaw for creating games, simulations, and high-performance 3D applications.
+- **Growth:** averaging ~10 stars/day since launch.
+- **Link:** https://github.com/iamlukethedev/Claw3D
+
 
 ## Web & Frontend
 

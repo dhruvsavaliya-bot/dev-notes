@@ -804,6 +804,7 @@
     "https://github.com/huaotem-bot/gezi-quark-downloader",
     "https://github.com/hugohe3/ppt-master",
     "https://github.com/iBUHub/AIStudioToAPI",
+    "https://github.com/iamlukethedev/Claw3D",
     "https://github.com/igorkulman/SwiftPascalInterpreter",
     "https://github.com/illegalstudio/elephc",
     "https://github.com/img2threejs/img2threejs",
@@ -2466,12 +2467,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Lobsters Picks",
-      "title": "September in Servo: progress, rounded rectangles, and...",
-      "url": "https://lobste.rs/s/u26wki/september_servo_progress_rounded"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Hacker News Picks",
       "title": "Ghostty 1.4",
       "url": "https://news.ycombinator.com/item?id=50261998"
@@ -2523,6 +2518,12 @@
       "subcat": "Ruby",
       "title": "The Hackintosh Reborn",
       "url": "https://news.ycombinator.com/item?id=50383057"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Other Cool Projects",
+      "title": "iamlukethedev/Claw3D",
+      "url": "https://github.com/iamlukethedev/Claw3D"
     }
   ]
 }
