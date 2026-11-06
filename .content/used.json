@@ -780,6 +780,7 @@
     "https://github.com/elyosh/OpenTIE/",
     "https://github.com/eternity4719/HowToLiveBetter",
     "https://github.com/eternityspring/shuohao-skills",
+    "https://github.com/finlater/weread.koplugin",
     "https://github.com/firecrawl/anydoc",
     "https://github.com/foxhui/WebAI2API",
     "https://github.com/fuxicodex/Fuxi",
@@ -2445,12 +2446,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "AI & Machine Learning",
-      "title": "kOlapsis/maintenant",
-      "url": "https://github.com/kOlapsis/maintenant"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Lobsters Picks",
       "title": "11 nanoseconds per word: Ridiculously Over-Optimizing...",
       "url": "https://lobste.rs/s/hrsyjf/11_nanoseconds_per_word_ridiculously"
@@ -2502,6 +2497,12 @@
       "subcat": "AI & Machine Learning",
       "title": "Pal-AI-Lab/Coopanion",
       "url": "https://github.com/Pal-AI-Lab/Coopanion"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Other Cool Projects",
+      "title": "finlater/weread.koplugin",
+      "url": "https://github.com/finlater/weread.koplugin"
     }
   ]
 }

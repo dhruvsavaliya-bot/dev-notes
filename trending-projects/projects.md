@@ -2947,6 +2947,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~2,764 stars/day since launch.
 - **Link:** https://github.com/Gathin23/cleanyourtv
 
+**Added 2026-11-06**
+
+### [finlater/weread.koplugin](https://github.com/finlater/weread.koplugin)
+- **Stats:** 1,043 stars | 119 forks | 38 open issues
+- **Language:** Lua | **Created:** 2026-06-07 | **License:** AGPL-3.0
+- **Topics:** kindle, kobo, koreader, koreader-kindle, koreader-plugin, koreader-plugins
+- **What it is:** 微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等所有能安装 koreader 的设备。
+- **Growth:** averaging ~6 stars/day since launch.
+- **Link:** https://github.com/finlater/weread.koplugin
+
 
 ## Web & Frontend
 
