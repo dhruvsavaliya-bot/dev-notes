@@ -3264,6 +3264,16 @@ I am posting the meetup prior to receiving their approval, so that those of you 
 - **Discussion:** https://lobste.rs/s/q0ld7f/x_87_dos_256_bytes
 - **Link:** https://www.onirom.fr/wiki/codegolf/x-87/
 
+**Added 2026-11-06**
+
+### [Software Line Specialist](https://lovro-bikic.github.io/software-line-specialist/)
+- **Source:** lovro-bikic.github.io | **Posted:** 2026-11-05 | **By:** lovro-bikic
+- **Community:** 92 score, 8 comments on Lobsters
+- **Tags:** satire
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/yoywed/software_line_specialist
+- **Link:** https://lovro-bikic.github.io/software-line-specialist/
+
 
 ## Career & Craft
 
