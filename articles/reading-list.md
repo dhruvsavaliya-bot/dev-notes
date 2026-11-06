@@ -2252,6 +2252,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50047091
 - **Link:** https://cartographers-nk.wonyoung.so/
 
+**Added 2026-11-06**
+
+### [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
+- **Source:** ghostty.org | **Posted:** 2026-10-27 | **By:** deaux
+- **Community:** 1358 points, 447 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50261998
+- **Link:** https://ghostty.org/docs/install/release-notes/1-4-0
+
 
 ## DevOps & Cloud
 

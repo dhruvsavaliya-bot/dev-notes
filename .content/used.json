@@ -503,6 +503,7 @@
     "https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust",
     "https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html",
     "https://gegell.github.io/posts/factorio-rng/",
+    "https://ghostty.org/docs/install/release-notes/1-4-0",
     "https://gist.github.com/FlameyosSnowy/a49a35ba006238be55d8c3e410c31061",
     "https://gist.github.com/simi/349d881d16d3d86947945615a47c60ca",
     "https://git.btxx.org/grubby",
@@ -2080,6 +2081,7 @@
     "https://news.ycombinator.com/item?id=50243060",
     "https://news.ycombinator.com/item?id=50246238",
     "https://news.ycombinator.com/item?id=50255298",
+    "https://news.ycombinator.com/item?id=50261998",
     "https://news.ycombinator.com/item?id=50264853",
     "https://news.ycombinator.com/item?id=50264857",
     "https://news.ycombinator.com/item?id=50271521",
@@ -2452,12 +2454,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "AI & Machine Learning",
-      "title": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Hacker News Picks",
       "title": "Cartographers of North Korea (2019)",
       "url": "https://news.ycombinator.com/item?id=50047091"
@@ -2509,6 +2505,12 @@
       "subcat": "Lobsters Picks",
       "title": "September in Servo: progress, rounded rectangles, and...",
       "url": "https://lobste.rs/s/u26wki/september_servo_progress_rounded"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Hacker News Picks",
+      "title": "Ghostty 1.4",
+      "url": "https://news.ycombinator.com/item?id=50261998"
     }
   ]
 }
