@@ -2261,6 +2261,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50261998
 - **Link:** https://ghostty.org/docs/install/release-notes/1-4-0
 
+**Added 2026-11-06**
+
+### [I wish tech companies knew more about me](https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me)
+- **Source:** rakhim.exotext.com | **Posted:** 2026-11-05 | **By:** freetonik
+- **Community:** 369 points, 318 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50378942
+- **Link:** https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me
+
 
 ## DevOps & Cloud
 

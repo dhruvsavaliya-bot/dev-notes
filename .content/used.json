@@ -2135,6 +2135,7 @@
     "https://news.ycombinator.com/item?id=50366117",
     "https://news.ycombinator.com/item?id=50375354",
     "https://news.ycombinator.com/item?id=50378508",
+    "https://news.ycombinator.com/item?id=50378942",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2203,6 +2204,7 @@
     "https://pydantic.dev/articles/dynamic-shredding-2026-01-26",
     "https://queue.acm.org/detail.cfm?id=3807963",
     "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html",
+    "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
     "https://raphaelkabo.com/blog/social-network-ideas",
     "https://ratfactor.com/cards/git-commit-size",
     "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
@@ -2459,12 +2461,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Other Cool Projects",
-      "title": "finlater/weread.koplugin",
-      "url": "https://github.com/finlater/weread.koplugin"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Lobsters Picks",
       "title": "This week's \"node2shell\" Brotli vulnerability...",
       "url": "https://lobste.rs/s/al3yyf/this_week_s_node2shell_brotli"
@@ -2516,6 +2512,12 @@
       "subcat": "Models & Datasets",
       "title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
       "url": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Hacker News Picks",
+      "title": "I wish tech companies knew more about me",
+      "url": "https://news.ycombinator.com/item?id=50378942"
     }
   ]
 }
