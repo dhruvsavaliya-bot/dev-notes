@@ -1474,6 +1474,7 @@
     "https://lobste.rs/s/paryb7/rails_is_done",
     "https://lobste.rs/s/pioj21/performance_cost_rwlock_our_read_heavy",
     "https://lobste.rs/s/plbei0/openfatigue_open_is_new_closed",
+    "https://lobste.rs/s/q0ld7f/x_87_dos_256_bytes",
     "https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem",
     "https://lobste.rs/s/qcgjpu/kolibri_sovereign_open_weight_model",
     "https://lobste.rs/s/qi1bxu/tinygo_0_42_recover_is_real",
@@ -2396,6 +2397,7 @@
     "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
     "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
     "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
+    "https://www.onirom.fr/wiki/codegolf/x-87/",
     "https://www.openbsd.org/80.html",
     "https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/",
     "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
@@ -2469,12 +2471,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Models & Datasets",
-      "title": "Comfy-Org/MiniMax-H3",
-      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Research Papers",
       "title": "Test-Time Self-Play: Scaling without a Verifier",
       "url": "http://arxiv.org/abs/2611.07367v1"
@@ -2526,6 +2522,12 @@
       "subcat": "Lobsters Picks",
       "title": "Jepsen: ParticleDB 1.1.4",
       "url": "https://lobste.rs/s/drwd4j/jepsen_particledb_1_1_4"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Lobsters Picks",
+      "title": "X-87 - DOS 256 bytes",
+      "url": "https://lobste.rs/s/q0ld7f/x_87_dos_256_bytes"
     }
   ]
 }

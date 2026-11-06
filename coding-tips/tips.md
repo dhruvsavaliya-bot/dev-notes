@@ -3227,6 +3227,16 @@ I am posting the meetup prior to receiving their approval, so that those of you 
 - **Discussion:** https://lobste.rs/s/u26wki/september_servo_progress_rounded
 - **Link:** https://servo.org/blog/2026/11/05/september-in-servo/
 
+**Added 2026-11-06**
+
+### [X-87 - DOS 256 bytes](https://www.onirom.fr/wiki/codegolf/x-87/)
+- **Source:** www.onirom.fr | **Posted:** 2026-11-05 | **By:** dzwdz
+- **Community:** 21 score, 0 comments on Lobsters
+- **Tags:** art, assembly, concatenative
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/q0ld7f/x_87_dos_256_bytes
+- **Link:** https://www.onirom.fr/wiki/codegolf/x-87/
+
 
 ## Career & Craft
 

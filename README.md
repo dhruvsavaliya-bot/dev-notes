@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1746 entries and counting** · Last updated: 2026-11-06
+**1747 entries and counting** · Last updated: 2026-11-06
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 346 |
 | [AI / LLM Notes](ai/notes.md) | 353 |
 | [Reading List](articles/reading-list.md) | 353 |
-| [Coding Tips](coding-tips/tips.md) | 353 |
+| [Coding Tips](coding-tips/tips.md) | 354 |
 | [Language Notes](languages/notes.md) | 341 |
 
 ## Latest additions
 
+- **2026-11-06** · *Lobsters Picks* — [X-87 - DOS 256 bytes](https://lobste.rs/s/q0ld7f/x_87_dos_256_bytes)
 - **2026-11-06** · *Lobsters Picks* — [Jepsen: ParticleDB 1.1.4](https://lobste.rs/s/drwd4j/jepsen_particledb_1_1_4)
 - **2026-11-06** · *Other Cool Projects* — [iamlukethedev/Claw3D](https://github.com/iamlukethedev/Claw3D)
 - **2026-11-06** · *Ruby* — [The Hackintosh Reborn](https://news.ycombinator.com/item?id=50383057)
 - **2026-11-06** · *Models & Datasets* — [autogluon/chronos-2-small](https://huggingface.co/autogluon/chronos-2-small)
-- **2026-11-06** · *Show & Ask HN* — [Show HN: Edi Life OS  self-hosted life dashboard with...](https://news.ycombinator.com/item?id=50014150)
 
 ## How it works
 
