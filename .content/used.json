@@ -98,6 +98,7 @@
     "http://arxiv.org/abs/2611.04320v1",
     "http://arxiv.org/abs/2611.04497v1",
     "http://arxiv.org/abs/2611.04501v2",
+    "http://arxiv.org/abs/2611.07367v1",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
     "http://boglin.iwarp.com/",
@@ -2455,12 +2456,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Lobsters Picks",
-      "title": "A Look at Datastar",
-      "url": "https://lobste.rs/s/vbx0g4/look_at_datastar"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Rust",
       "title": "siglake/siglake",
       "url": "https://github.com/siglake/siglake"
@@ -2512,6 +2507,12 @@
       "subcat": "Models & Datasets",
       "title": "Comfy-Org/MiniMax-H3",
       "url": "https://huggingface.co/Comfy-Org/MiniMax-H3"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Research Papers",
+      "title": "Test-Time Self-Play: Scaling without a Verifier",
+      "url": "http://arxiv.org/abs/2611.07367v1"
     }
   ]
 }

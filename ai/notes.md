@@ -3242,6 +3242,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.34646v1
 
+**Added 2026-11-06**
+
+### [Test-Time Self-Play: Scaling without a Verifier](http://arxiv.org/abs/2611.07367v1)
+- **Authors:** Akira Yoshiyama, Akmal Ashirmatov, Jonas Hübotter, Ido Hakimi et al.
+- **Published:** 2026-11-05 | **Primary category:** cs.AI
+- **Categories:** cs.LG, cs.AI
+- **Abstract:** Test-time scaling methods spend additional compute at deployment to improve a large language model's performance on a hard target problem. Most methods rely on a verifier that scores candidate solutions for correctness, using it to select among or refine the model's outputs. In many deployment regimes, however, a strong verifier on the target problem is unavailable. We introduce Test-Time Self-Play (TTSP), an approach to test-time scaling using asymmetric self-play without reliance on a verifier...
+- **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.07367v1
+
 
 ## Computer Vision
 
