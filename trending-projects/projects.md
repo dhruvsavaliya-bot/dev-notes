@@ -2977,6 +2977,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~216 stars/day since launch.
 - **Link:** https://github.com/ARahim3/DigUp
 
+**Added 2026-11-06**
+
+### [aschmelyun/print-my-profile-pic](https://github.com/aschmelyun/print-my-profile-pic)
+- **Stats:** 1,795 stars | 6 forks | 10 open issues
+- **Language:** N/A | **Created:** 2026-10-27 | **License:** None
+- **Topics:** none listed
+- **What it is:** Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.
+- **Growth:** averaging ~179 stars/day since launch.
+- **Link:** https://github.com/aschmelyun/print-my-profile-pic
+
 
 ## Web & Frontend
 

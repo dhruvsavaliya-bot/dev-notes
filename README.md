@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1756 entries and counting** · Last updated: 2026-11-06
+**1757 entries and counting** · Last updated: 2026-11-06
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 348 |
+| [Trending Projects](trending-projects/projects.md) | 349 |
 | [AI / LLM Notes](ai/notes.md) | 356 |
 | [Reading List](articles/reading-list.md) | 355 |
 | [Coding Tips](coding-tips/tips.md) | 355 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-06** · *Other Cool Projects* — [aschmelyun/print-my-profile-pic](https://github.com/aschmelyun/print-my-profile-pic)
 - **2026-11-06** · *Models & Datasets* — [akatz-ai/MiniMax-H3-Character-Swap-LoRA](https://huggingface.co/akatz-ai/MiniMax-H3-Character-Swap-LoRA)
 - **2026-11-06** · *Beginner* — [Lost in the AI Hype, I Started Small](https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72)
 - **2026-11-06** · *Other Cool Projects* — [ARahim3/DigUp](https://github.com/ARahim3/DigUp)
 - **2026-11-06** · *Hacker News Picks* — [Yes, and](https://news.ycombinator.com/item?id=50003796)
-- **2026-11-06** · *Rust* — [How to speed up the Rust compiler in November 2026](https://lobste.rs/s/ecrqpy/how_speed_up_rust_compiler_november_2026)
 
 ## How it works
 

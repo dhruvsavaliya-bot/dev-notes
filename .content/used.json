@@ -713,6 +713,7 @@
     "https://github.com/arnegiacomo/fugleramme",
     "https://github.com/aru-labs/lossless-memory",
     "https://github.com/arvids-unavailable/openGym",
+    "https://github.com/aschmelyun/print-my-profile-pic",
     "https://github.com/ashemag/human-atlas",
     "https://github.com/ashhart/TensorFold",
     "https://github.com/atlas-vtt/atlas-vtt",
@@ -2483,12 +2484,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Lobsters Picks",
-      "title": "X-87 - DOS 256 bytes",
-      "url": "https://lobste.rs/s/q0ld7f/x_87_dos_256_bytes"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Developer Tools",
       "title": "storytold/designcraft",
       "url": "https://github.com/storytold/designcraft"
@@ -2540,6 +2535,12 @@
       "subcat": "Models & Datasets",
       "title": "akatz-ai/MiniMax-H3-Character-Swap-LoRA",
       "url": "https://huggingface.co/akatz-ai/MiniMax-H3-Character-Swap-LoRA"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Other Cool Projects",
+      "title": "aschmelyun/print-my-profile-pic",
+      "url": "https://github.com/aschmelyun/print-my-profile-pic"
     }
   ]
 }
