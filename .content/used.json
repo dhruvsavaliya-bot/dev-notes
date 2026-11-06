@@ -1407,6 +1407,7 @@
     "https://lobste.rs/s/e5vf6k/don_t_couple_your_go_code_github",
     "https://lobste.rs/s/e7rvsp/we_re_sunsetting_codeberg_pages_v2",
     "https://lobste.rs/s/eccbci/shared_password_manager_for_families",
+    "https://lobste.rs/s/ecrqpy/how_speed_up_rust_compiler_november_2026",
     "https://lobste.rs/s/ecxril/lineageos_24_0_released",
     "https://lobste.rs/s/eesu8d/bun_1_4",
     "https://lobste.rs/s/ekwolo/building_java_me_apps_with_modern_tooling",
@@ -2164,6 +2165,7 @@
     "https://niklasroy.com/gtc/",
     "https://nikolays.github.io/PGSimCity/",
     "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+    "https://nnethercote.github.io/2026/11/04/how-to-speed-up-the-rust-compiler-in-november-2026.html",
     "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
     "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
     "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
@@ -2476,12 +2478,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Edi Life OS  self-hosted life dashboard with...",
-      "url": "https://news.ycombinator.com/item?id=50014150"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Models & Datasets",
       "title": "autogluon/chronos-2-small",
       "url": "https://huggingface.co/autogluon/chronos-2-small"
@@ -2533,6 +2529,12 @@
       "subcat": "Research Papers",
       "title": "Benchmarking LLM Agents for Behaviorally Adequate...",
       "url": "http://arxiv.org/abs/2610.36584v1"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Rust",
+      "title": "How to speed up the Rust compiler in November 2026",
+      "url": "https://lobste.rs/s/ecrqpy/how_speed_up_rust_compiler_november_2026"
     }
   ]
 }

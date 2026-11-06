@@ -2508,6 +2508,16 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Growth:** averaging ~14 stars/day since launch.
 - **Link:** https://github.com/siglake/siglake
 
+**Added 2026-11-06**
+
+### [How to speed up the Rust compiler in November 2026](https://nnethercote.github.io/2026/11/04/how-to-speed-up-the-rust-compiler-in-november-2026.html)
+- **Source:** nnethercote.github.io | **Posted:** 2026-11-04 | **By:** polywolf
+- **Community:** 50 score, 5 comments on Lobsters
+- **Tags:** compilers, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/ecrqpy/how_speed_up_rust_compiler_november_2026
+- **Link:** https://nnethercote.github.io/2026/11/04/how-to-speed-up-the-rust-compiler-in-november-2026.html
+
 
 ## Elixir
 

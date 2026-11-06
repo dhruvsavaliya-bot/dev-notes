@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1751 entries and counting** · Last updated: 2026-11-06
+**1752 entries and counting** · Last updated: 2026-11-06
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 355 |
 | [Reading List](articles/reading-list.md) | 354 |
 | [Coding Tips](coding-tips/tips.md) | 354 |
-| [Language Notes](languages/notes.md) | 341 |
+| [Language Notes](languages/notes.md) | 342 |
 
 ## Latest additions
 
+- **2026-11-06** · *Rust* — [How to speed up the Rust compiler in November 2026](https://lobste.rs/s/ecrqpy/how_speed_up_rust_compiler_november_2026)
 - **2026-11-06** · *Research Papers* — [Benchmarking LLM Agents for Behaviorally Adequate...](http://arxiv.org/abs/2610.36584v1)
 - **2026-11-06** · *Lobsters Picks* — [Shlemiel the Painter Is Back: How Zigs libc Rewrite...](https://lobste.rs/s/lh1j0e/shlemiel_painter_is_back_how_zig_s_libc)
 - **2026-11-06** · *Models & Datasets* — [XHToken/Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B)
 - **2026-11-06** · *Developer Tools* — [storytold/designcraft](https://github.com/storytold/designcraft)
-- **2026-11-06** · *Lobsters Picks* — [X-87 - DOS 256 bytes](https://lobste.rs/s/q0ld7f/x_87_dos_256_bytes)
 
 ## How it works
 
