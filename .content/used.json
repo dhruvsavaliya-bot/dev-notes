@@ -1106,6 +1106,7 @@
     "https://huggingface.co/Qwen/Qwen3.6-27B",
     "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
     "https://huggingface.co/SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
+    "https://huggingface.co/XHToken/Spark-X2.6-4B",
     "https://huggingface.co/almanach/camembert-base",
     "https://huggingface.co/antirez/deepseek-v4.1-flash-gguf",
     "https://huggingface.co/audeering/wav2vec2-large-robust-24-ft-age-gender",
@@ -2472,12 +2473,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: I built a multiplayer game where you're an...",
-      "url": "https://news.ycombinator.com/item?id=50305320"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Models & Datasets",
       "title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
       "url": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF"
@@ -2529,6 +2524,12 @@
       "subcat": "Developer Tools",
       "title": "storytold/designcraft",
       "url": "https://github.com/storytold/designcraft"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Models & Datasets",
+      "title": "XHToken/Spark-X2.6-4B",
+      "url": "https://huggingface.co/XHToken/Spark-X2.6-4B"
     }
   ]
 }

@@ -2337,6 +2337,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/autogluon/chronos-2-small
 
+**Added 2026-11-06**
+
+### [XHToken/Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B)
+- **Stats:** 1,014 likes | 20,270 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-10-19
+- **Tags:** transformers, safetensors, spark2_5, text-generation, llm, sparkx2_5
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/XHToken/Spark-X2.6-4B
+
 
 ## Research Papers
 
