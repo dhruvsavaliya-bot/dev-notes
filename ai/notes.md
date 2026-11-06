@@ -2301,6 +2301,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/baidu/ERNIE-5.5-Flash-Base
 
+**Added 2026-11-06**
+
+### [orcarouter/Qwen3.8-27B-Uncensored-GGUF](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-GGUF)
+- **Stats:** 1,714 likes | 105,002 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-08-16
+- **Tags:** gguf, abliterated, qwen, qwen3, qwen3.8, llama.cpp
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-GGUF
+
 
 ## Research Papers
 

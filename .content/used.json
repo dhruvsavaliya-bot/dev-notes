@@ -1233,6 +1233,7 @@
     "https://huggingface.co/openbmb/MiniCPM-V-2_6",
     "https://huggingface.co/openbmb/MiniCPM5-2B",
     "https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0",
+    "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-GGUF",
     "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
     "https://huggingface.co/orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
     "https://huggingface.co/ornith-ai/Ornith-1.0-35B",
@@ -2449,12 +2450,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Lobsters Picks",
-      "title": "One Hash Bloom Filters",
-      "url": "https://lobste.rs/s/mpytbn/one_hash_bloom_filters"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Rust",
       "title": "lerdb/HotDownloader",
       "url": "https://github.com/lerdb/HotDownloader"
@@ -2506,6 +2501,12 @@
       "subcat": "Show & Ask HN",
       "title": "OpenAI seems to be silently re-enabling model...",
       "url": "https://news.ycombinator.com/item?id=50352757"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Models & Datasets",
+      "title": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
+      "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-GGUF"
     }
   ]
 }
