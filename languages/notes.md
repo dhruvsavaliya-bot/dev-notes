@@ -2199,6 +2199,15 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Discussion:** https://news.ycombinator.com/item?id=50326609
 - **Link:** https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673
 
+**Added 2026-11-07**
+
+### [Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos)
+- **Source:** github.com | **Posted:** 2026-11-03 | **By:** ayanb9440
+- **Community:** 104 points, 36 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50358314
+- **Link:** https://github.com/finic-ai/kairos
+
 
 ## Rust
 

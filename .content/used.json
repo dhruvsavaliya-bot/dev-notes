@@ -794,6 +794,7 @@
     "https://github.com/elyosh/OpenTIE/",
     "https://github.com/eternity4719/HowToLiveBetter",
     "https://github.com/eternityspring/shuohao-skills",
+    "https://github.com/finic-ai/kairos",
     "https://github.com/finlater/weread.koplugin",
     "https://github.com/firecrawl/anydoc",
     "https://github.com/foxhui/WebAI2API",
@@ -2159,6 +2160,7 @@
     "https://news.ycombinator.com/item?id=50354960",
     "https://news.ycombinator.com/item?id=50355251",
     "https://news.ycombinator.com/item?id=50355959",
+    "https://news.ycombinator.com/item?id=50358314",
     "https://news.ycombinator.com/item?id=50360947",
     "https://news.ycombinator.com/item?id=50363461",
     "https://news.ycombinator.com/item?id=50366117",
@@ -2494,12 +2496,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Other Cool Projects",
-      "title": "aschmelyun/print-my-profile-pic",
-      "url": "https://github.com/aschmelyun/print-my-profile-pic"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Beginner",
       "title": "The Developer's Safety Net - Introduction to TypeScript",
       "url": "https://dev.to/cristea_theodora/the-developers-safety-net-introduction-to-typescript-2jof"
@@ -2551,6 +2547,12 @@
       "subcat": "Security",
       "title": "Ghost in the Shell: Can a Log File Hijack an AI?",
       "url": "https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk"
+    },
+    {
+      "date": "2026-11-07",
+      "subcat": "Swift",
+      "title": "Show HN: Kairos  Open-source risk and fraud...",
+      "url": "https://news.ycombinator.com/item?id=50358314"
     }
   ]
 }
