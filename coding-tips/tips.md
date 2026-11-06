@@ -1369,6 +1369,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** And it helped me get back into tech without drowning    TL;DR at the end     Coming back to...
 - **Link:** https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72
 
+**Added 2026-11-06**
+
+### [The Developer's Safety Net - Introduction to TypeScript](https://dev.to/cristea_theodora/the-developers-safety-net-introduction-to-typescript-2jof)
+- **Author:**  Theodora Cristea | **Published:** Dec 1 '25 | **Read time:** 5 min
+- **Community:** 52 reactions, 8 comments -- a top post in #beginners
+- **Tags:** typescript, development, backend, beginners
+- **Summary:** Hey everyone!👋 When developers hear about TypeScript for the first time, the same doubts, questions...
+- **Link:** https://dev.to/cristea_theodora/the-developers-safety-net-introduction-to-typescript-2jof
+
 
 ## Show & Ask HN
 
