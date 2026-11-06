@@ -779,6 +779,7 @@
     "https://github.com/diffusionstudio/editor",
     "https://github.com/digimata/quill",
     "https://github.com/dmmulroy/anti-slop",
+    "https://github.com/dominikmartn/harp",
     "https://github.com/dqev/reicon",
     "https://github.com/drumih/turbo-fieldfare",
     "https://github.com/dsh-market/dsh-market",
@@ -2496,12 +2497,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Beginner",
-      "title": "The Developer's Safety Net - Introduction to TypeScript",
-      "url": "https://dev.to/cristea_theodora/the-developers-safety-net-introduction-to-typescript-2jof"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Models & Datasets",
       "title": "audnai/penclaw-Kimi-K3.1-pro-unrestricted",
       "url": "https://huggingface.co/audnai/penclaw-Kimi-K3.1-pro-unrestricted"
@@ -2553,6 +2548,12 @@
       "subcat": "Swift",
       "title": "Show HN: Kairos  Open-source risk and fraud...",
       "url": "https://news.ycombinator.com/item?id=50358314"
+    },
+    {
+      "date": "2026-11-07",
+      "subcat": "AI & Machine Learning",
+      "title": "dominikmartn/harp",
+      "url": "https://github.com/dominikmartn/harp"
     }
   ]
 }

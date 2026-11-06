@@ -1624,6 +1624,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~917 stars/day since launch.
 - **Link:** https://github.com/wangzan101/Mika
 
+**Added 2026-11-07**
+
+### [dominikmartn/harp](https://github.com/dominikmartn/harp)
+- **Stats:** 708 stars | 46 forks | 10 open issues
+- **Language:** Rust | **Created:** 2026-10-20 | **License:** AGPL-3.0
+- **Topics:** none listed
+- **What it is:** Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.
+- **Growth:** averaging ~39 stars/day since launch.
+- **Link:** https://github.com/dominikmartn/harp
+
 
 ## Other Cool Projects
 
