@@ -1493,6 +1493,7 @@
     "https://lobste.rs/s/tsfs3w/why_function_arguments_are_not_function",
     "https://lobste.rs/s/ttcx5k/announcing_rust_1_99_1",
     "https://lobste.rs/s/ttp7aq/backdoors_claude_code_for_vs_cursor",
+    "https://lobste.rs/s/u26wki/september_servo_progress_rounded",
     "https://lobste.rs/s/u4vlin/french_supermarket_chains_say",
     "https://lobste.rs/s/u7dr96/soft_deprecating_re_match",
     "https://lobste.rs/s/u9ue6c/what_s_wrong_with_github",
@@ -2217,6 +2218,7 @@
     "https://sebsite.pw/w/20260925-errno.html",
     "https://sebsite.pw/w/20261009-strtod.html",
     "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
+    "https://servo.org/blog/2026/11/05/september-in-servo/",
     "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
     "https://sf.thijs.gg/",
     "https://shademap.app",
@@ -2450,12 +2452,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Rust",
-      "title": "lerdb/HotDownloader",
-      "url": "https://github.com/lerdb/HotDownloader"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "AI & Machine Learning",
       "title": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory"
@@ -2507,6 +2503,12 @@
       "subcat": "Models & Datasets",
       "title": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
       "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-GGUF"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Lobsters Picks",
+      "title": "September in Servo: progress, rounded rectangles, and...",
+      "url": "https://lobste.rs/s/u26wki/september_servo_progress_rounded"
     }
   ]
 }

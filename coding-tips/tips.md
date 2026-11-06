@@ -3199,6 +3199,16 @@ I am posting the meetup prior to receiving their approval, so that those of you 
 - **Discussion:** https://lobste.rs/s/vbx0g4/look_at_datastar
 - **Link:** https://noteflakes.com/articles/2026-11-04-datastar
 
+**Added 2026-11-06**
+
+### [September in Servo: progress, rounded rectangles, and more](https://servo.org/blog/2026/11/05/september-in-servo/)
+- **Source:** servo.org | **Posted:** 2026-11-05 | **By:** FedericoSchonborn
+- **Community:** 62 score, 9 comments on Lobsters
+- **Tags:** browsers, release
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/u26wki/september_servo_progress_rounded
+- **Link:** https://servo.org/blog/2026/11/05/september-in-servo/
+
 
 ## Career & Craft
 
