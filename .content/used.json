@@ -960,6 +960,7 @@
     "https://github.com/software-mansion-labs/goldie",
     "https://github.com/srizzon/git-city",
     "https://github.com/storytold/deckcraft",
+    "https://github.com/storytold/designcraft",
     "https://github.com/storytold/figcraft",
     "https://github.com/storytold/filmcraft",
     "https://github.com/storytold/gridcraft",
@@ -2471,12 +2472,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Research Papers",
-      "title": "Test-Time Self-Play: Scaling without a Verifier",
-      "url": "http://arxiv.org/abs/2611.07367v1"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Show & Ask HN",
       "title": "Show HN: I built a multiplayer game where you're an...",
       "url": "https://news.ycombinator.com/item?id=50305320"
@@ -2528,6 +2523,12 @@
       "subcat": "Lobsters Picks",
       "title": "X-87 - DOS 256 bytes",
       "url": "https://lobste.rs/s/q0ld7f/x_87_dos_256_bytes"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Developer Tools",
+      "title": "storytold/designcraft",
+      "url": "https://github.com/storytold/designcraft"
     }
   ]
 }

@@ -3363,6 +3363,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~497 stars/day since launch.
 - **Link:** https://github.com/storytold/filmcraft
 
+**Added 2026-11-06**
+
+### [storytold/designcraft](https://github.com/storytold/designcraft)
+- **Stats:** 5,123 stars | 3,542 forks | 841 open issues
+- **Language:** Rust | **Created:** 2026-10-01 | **License:** Apache-2.0
+- **Topics:** art, layout, print, rust
+- **What it is:** DesignCraft: An open-source page and layout design editor written by scratch in pure Rust
+- **Growth:** averaging ~142 stars/day since launch.
+- **Link:** https://github.com/storytold/designcraft
+
 
 ## Backend & Infrastructure
 
