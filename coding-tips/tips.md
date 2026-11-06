@@ -1360,6 +1360,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** 👋 Hey there, tech enthusiasts!   I'm Sarvar, a Cloud Architect with a passion for transforming...
 - **Link:** https://dev.to/aws-builders/from-fresher-to-cloud-architect-how-to-start-your-aws-cloud-journey-1l3i
 
+**Added 2026-11-06**
+
+### [Lost in the AI Hype, I Started Small](https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72)
+- **Author:** Rohini Gaonkar | **Published:** Apr 15 | **Read time:** 7 min
+- **Community:** 63 reactions, 24 comments -- a top post in #beginners
+- **Tags:** ai, beginners, productivity, aws
+- **Summary:** And it helped me get back into tech without drowning    TL;DR at the end     Coming back to...
+- **Link:** https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72
+
 
 ## Show & Ask HN
 

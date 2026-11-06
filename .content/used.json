@@ -287,6 +287,7 @@
     "https://dev.to/aws-builders/ai-agent-governance-on-aws-block-agents-prove-eu-ai-act-compliance-1829",
     "https://dev.to/aws-builders/from-fresher-to-cloud-architect-how-to-start-your-aws-cloud-journey-1l3i",
     "https://dev.to/aws-builders/per-agent-cost-tracking-for-multi-agent-ai-on-aws-10eg",
+    "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
     "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
     "https://dev.to/chet103cc/i-grepped-for-ts-ignore-and-found-zero-then-i-grepped-for-the-cast-nobody-bans-723",
     "https://dev.to/chief_yaml_officer/how-i-stopped-rewriting-my-code-every-time-i-switched-llm-providers-4gjh",
@@ -2481,12 +2482,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Other Cool Projects",
-      "title": "iamlukethedev/Claw3D",
-      "url": "https://github.com/iamlukethedev/Claw3D"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Lobsters Picks",
       "title": "Jepsen: ParticleDB 1.1.4",
       "url": "https://lobste.rs/s/drwd4j/jepsen_particledb_1_1_4"
@@ -2538,6 +2533,12 @@
       "subcat": "Other Cool Projects",
       "title": "ARahim3/DigUp",
       "url": "https://github.com/ARahim3/DigUp"
+    },
+    {
+      "date": "2026-11-06",
+      "subcat": "Beginner",
+      "title": "Lost in the AI Hype, I Started Small",
+      "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72"
     }
   ]
 }
