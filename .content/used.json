@@ -426,6 +426,7 @@
     "https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n",
     "https://dev.to/sheships/8-posts-by-women-on-dev-that-deserve-more-than-a-once-a-year-spotlight-27dc",
     "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
+    "https://dev.to/sizzlebop/i-built-a-local-ai-music-studio-3fb9",
     "https://dev.to/smtahosin/python-thinks-different-what-actually-happens-inside-your-code-visual-guide-241l",
     "https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81",
     "https://dev.to/startupcafe/best-free-apis-for-developers-the-complete-categorized-list-27oc",
@@ -2511,12 +2512,6 @@
   "recent": [
     {
       "date": "2026-11-07",
-      "subcat": "Python",
-      "title": "Best AI Web Scraper Tools in 2026: I Tested 7, These...",
-      "url": "https://dev.to/devstackcommunity/best-ai-web-scraper-tools-in-2026-i-tested-7-these-are-worth-it-n2e"
-    },
-    {
-      "date": "2026-11-07",
       "subcat": "Other Cool Projects",
       "title": "fyzugx/DEsk",
       "url": "https://github.com/fyzugx/DEsk"
@@ -2568,6 +2563,12 @@
       "subcat": "Models & Datasets",
       "title": "moonshotai/Kimi-K3.1-Pro",
       "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+    },
+    {
+      "date": "2026-11-07",
+      "subcat": "Open Source",
+      "title": "I Built a Local AI Music Studio",
+      "url": "https://dev.to/sizzlebop/i-built-a-local-ai-music-studio-3fb9"
     }
   ]
 }

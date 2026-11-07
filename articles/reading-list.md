@@ -3358,3 +3358,12 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Tags:** ai, api, opensource, programming
 - **Summary:** ROIC.ai is a financial data API covering stock prices, financial statements, earnings call...
 - **Link:** https://dev.to/roic/roicai-complete-guide-financial-data-api-pricing-endpoints-and-the-36-tool-mcp-server-6fl
+
+**Added 2026-11-07**
+
+### [I Built a Local AI Music Studio](https://dev.to/sizzlebop/i-built-a-local-ai-music-studio-3fb9)
+- **Author:** Jessica Doering | **Published:** Sep 20 | **Read time:** 6 min
+- **Community:** 64 reactions, 29 comments -- a top post in #opensource
+- **Tags:** ai, music, opensource, showdev
+- **Summary:** I have a habit of starting projects because I want one very specific thing.  Then somewhere along the...
+- **Link:** https://dev.to/sizzlebop/i-built-a-local-ai-music-studio-3fb9
