@@ -2382,6 +2382,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/espnet/yodas3
 
+**Added 2026-11-08**
+
+### [ServiceNow-AI/Apriel-Voice-27B-preview](https://huggingface.co/ServiceNow-AI/Apriel-Voice-27B-preview)
+- **Stats:** 89 likes | 805 downloads
+- **Kind:** Hugging Face model | **Task:** audio-text-to-text | **Created:** 2026-10-13
+- **Tags:** transformers, safetensors, aprielvoice, feature-extraction, audio-text-to-text, custom_code
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/ServiceNow-AI/Apriel-Voice-27B-preview
+
 
 ## Research Papers
 

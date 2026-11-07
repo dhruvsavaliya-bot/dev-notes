@@ -1141,6 +1141,7 @@
     "https://huggingface.co/Qwen/Qwen3.6-27B",
     "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
     "https://huggingface.co/SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
+    "https://huggingface.co/ServiceNow-AI/Apriel-Voice-27B-preview",
     "https://huggingface.co/XHToken/Spark-X2.6-4B",
     "https://huggingface.co/akatz-ai/MiniMax-H3-Character-Swap-LoRA",
     "https://huggingface.co/almanach/camembert-base",
@@ -2532,12 +2533,6 @@
   "recent": [
     {
       "date": "2026-11-07",
-      "subcat": "AI & Machine Learning",
-      "title": "openfilm/openfilm",
-      "url": "https://github.com/openfilm/openfilm"
-    },
-    {
-      "date": "2026-11-07",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: What in the world is taking Ubuntu so long?",
       "url": "https://news.ycombinator.com/item?id=50393105"
@@ -2589,6 +2584,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: ADRs for AI  Deliberation records for...",
       "url": "https://news.ycombinator.com/item?id=50227041"
+    },
+    {
+      "date": "2026-11-08",
+      "subcat": "Models & Datasets",
+      "title": "ServiceNow-AI/Apriel-Voice-27B-preview",
+      "url": "https://huggingface.co/ServiceNow-AI/Apriel-Voice-27B-preview"
     }
   ]
 }
