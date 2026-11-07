@@ -125,6 +125,7 @@
     "https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/",
     "https://100toolkit.com/blog/deslop-model/",
     "https://386s.org/w/lua-antcc-pessimization/",
+    "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
     "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
     "https://a5geo.org/blog/2026/10/14/a5-v1",
     "https://aaronmallen.me/writing/hanami-why-introductions",
@@ -2197,6 +2198,7 @@
     "https://news.ycombinator.com/item?id=50378942",
     "https://news.ycombinator.com/item?id=50383057",
     "https://news.ycombinator.com/item?id=50393105",
+    "https://news.ycombinator.com/item?id=50403097",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2528,12 +2530,6 @@
   "recent": [
     {
       "date": "2026-11-07",
-      "subcat": "TypeScript",
-      "title": "After 5 years, Wasp 1.0 is coming: a 6-month plan for...",
-      "url": "https://dev.to/wasp/after-5-years-wasp-10-is-coming-a-6-month-plan-for-our-full-stack-js-framework-4hlf"
-    },
-    {
-      "date": "2026-11-07",
       "subcat": "Python",
       "title": "Symbolic Learning in Python and Julia",
       "url": "https://news.ycombinator.com/item?id=50171936"
@@ -2585,6 +2581,12 @@
       "subcat": "Python",
       "title": "OpenWAM-Official/OpenWAM",
       "url": "https://github.com/OpenWAM-Official/OpenWAM"
+    },
+    {
+      "date": "2026-11-08",
+      "subcat": "Hacker News Picks",
+      "title": "Every Mac comes with an (undocumented) family member...",
+      "url": "https://news.ycombinator.com/item?id=50403097"
     }
   ]
 }
