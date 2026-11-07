@@ -1144,6 +1144,15 @@ Snippets and gotchas across languages.
 - **Summary:** I tested seven AI web scrapers, from no-code point-and-click tools to scraping APIs and open-source...
 - **Link:** https://dev.to/devstackcommunity/best-ai-web-scraper-tools-in-2026-i-tested-7-these-are-worth-it-n2e
 
+**Added 2026-11-07**
+
+### [Symbolic Learning in Python and Julia](https://github.com/astroautomata/PySR)
+- **Source:** github.com | **Posted:** 2026-10-20 | **By:** alex_hirner
+- **Community:** 83 points, 23 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50171936
+- **Link:** https://github.com/astroautomata/PySR
+
 
 ## Go
 

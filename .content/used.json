@@ -727,6 +727,7 @@
     "https://github.com/aschmelyun/print-my-profile-pic",
     "https://github.com/ashemag/human-atlas",
     "https://github.com/ashhart/TensorFold",
+    "https://github.com/astroautomata/PySR",
     "https://github.com/atlas-vtt/atlas-vtt",
     "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
     "https://github.com/ayghri/i-have-adhd",
@@ -2091,6 +2092,7 @@
     "https://news.ycombinator.com/item?id=50166257",
     "https://news.ycombinator.com/item?id=50167754",
     "https://news.ycombinator.com/item?id=50168396",
+    "https://news.ycombinator.com/item?id=50171936",
     "https://news.ycombinator.com/item?id=50172041",
     "https://news.ycombinator.com/item?id=50174687",
     "https://news.ycombinator.com/item?id=50175070",
@@ -2516,12 +2518,6 @@
   "recent": [
     {
       "date": "2026-11-07",
-      "subcat": "Rust",
-      "title": "Reflections on Rust in the LLM Age",
-      "url": "https://lobste.rs/s/yomksa/reflections_on_rust_llm_age"
-    },
-    {
-      "date": "2026-11-07",
       "subcat": "AI & Machine Learning",
       "title": "justrach/codegraff",
       "url": "https://github.com/justrach/codegraff"
@@ -2573,6 +2569,12 @@
       "subcat": "TypeScript",
       "title": "After 5 years, Wasp 1.0 is coming: a 6-month plan for...",
       "url": "https://dev.to/wasp/after-5-years-wasp-10-is-coming-a-6-month-plan-for-our-full-stack-js-framework-4hlf"
+    },
+    {
+      "date": "2026-11-07",
+      "subcat": "Python",
+      "title": "Symbolic Learning in Python and Julia",
+      "url": "https://news.ycombinator.com/item?id=50171936"
     }
   ]
 }
