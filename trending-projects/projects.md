@@ -3037,6 +3037,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~54 stars/day since launch.
 - **Link:** https://github.com/fyzugx/DEsk
 
+**Added 2026-11-07**
+
+### [windows-GPU-UNLOCK/Windows-GPU-UNLOCK](https://github.com/windows-GPU-UNLOCK/Windows-GPU-UNLOCK)
+- **Stats:** 1,945 stars | 218 forks | 267 open issues
+- **Language:** C | **Created:** 2026-10-20 | **License:** GPL-2.0
+- **Topics:** none listed
+- **What it is:** Windows GPU UNLOCK: RTX3090 UEFI port, Korean no-reset Windows boot guide, verified source and benchmark evidence
+- **Growth:** averaging ~108 stars/day since launch.
+- **Link:** https://github.com/windows-GPU-UNLOCK/Windows-GPU-UNLOCK
+
 
 ## Web & Frontend
 

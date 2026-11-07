@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1771 entries and counting** · Last updated: 2026-11-07
+**1772 entries and counting** · Last updated: 2026-11-07
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 354 |
+| [Trending Projects](trending-projects/projects.md) | 355 |
 | [AI / LLM Notes](ai/notes.md) | 357 |
 | [Reading List](articles/reading-list.md) | 358 |
 | [Coding Tips](coding-tips/tips.md) | 358 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-07** · *Other Cool Projects* — [windows-GPU-UNLOCK/Windows-GPU-UNLOCK](https://github.com/windows-GPU-UNLOCK/Windows-GPU-UNLOCK)
 - **2026-11-07** · *Other Cool Projects* — [fyzugx/DEsk](https://github.com/fyzugx/DEsk)
 - **2026-11-07** · *Python* — [Best AI Web Scraper Tools in 2026: I Tested 7, These...](https://dev.to/devstackcommunity/best-ai-web-scraper-tools-in-2026-i-tested-7-these-are-worth-it-n2e)
 - **2026-11-07** · *Hacker News Picks* — [Furifont, a Japanese font that shows furigana](https://news.ycombinator.com/item?id=50100994)
 - **2026-11-07** · *AI & Machine Learning* — [dominikmartn/harp](https://github.com/dominikmartn/harp)
-- **2026-11-07** · *Swift* — [Show HN: Kairos  Open-source risk and fraud...](https://news.ycombinator.com/item?id=50358314)
 
 ## How it works
 

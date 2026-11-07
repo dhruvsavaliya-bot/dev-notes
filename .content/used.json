@@ -1030,6 +1030,7 @@
     "https://github.com/wie-project/kakehashi",
     "https://github.com/wild-linker/wild",
     "https://github.com/wild-linker/wild/releases/tag/0.11.0",
+    "https://github.com/windows-GPU-UNLOCK/Windows-GPU-UNLOCK",
     "https://github.com/winstonkoh87/Athena-Public",
     "https://github.com/withmarbleapp/os-taxonomy",
     "https://github.com/wuyi2121/SCAN-Planner",
@@ -2501,12 +2502,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Other Cool Projects",
-      "title": "useopendesk/opendesk",
-      "url": "https://github.com/useopendesk/opendesk"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Security",
       "title": "Your secrets don't need a git commit to leak into an...",
       "url": "https://dev.to/cyclopt_dimitrisk/your-secrets-dont-need-a-git-commit-to-leak-into-an-ai-tool-be2"
@@ -2558,6 +2553,12 @@
       "subcat": "Other Cool Projects",
       "title": "fyzugx/DEsk",
       "url": "https://github.com/fyzugx/DEsk"
+    },
+    {
+      "date": "2026-11-07",
+      "subcat": "Other Cool Projects",
+      "title": "windows-GPU-UNLOCK/Windows-GPU-UNLOCK",
+      "url": "https://github.com/windows-GPU-UNLOCK/Windows-GPU-UNLOCK"
     }
   ]
 }
