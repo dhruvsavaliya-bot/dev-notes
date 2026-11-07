@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1778 entries and counting** · Last updated: 2026-11-07
+**1779 entries and counting** · Last updated: 2026-11-07
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 357 |
-| [AI / LLM Notes](ai/notes.md) | 358 |
+| [AI / LLM Notes](ai/notes.md) | 359 |
 | [Reading List](articles/reading-list.md) | 358 |
 | [Coding Tips](coding-tips/tips.md) | 359 |
 | [Language Notes](languages/notes.md) | 346 |
 
 ## Latest additions
 
+- **2026-11-07** · *Models & Datasets* — [moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)
 - **2026-11-07** · *Lobsters Picks* — [Upgrading NetBSD from 11.0 to 11.1](https://lobste.rs/s/0agusd/upgrading_netbsd_from_11_0_11_1)
 - **2026-11-07** · *Developer Tools* — [storytold/pdfcraft](https://github.com/storytold/pdfcraft)
 - **2026-11-07** · *Java* — [exteraless/exteraless](https://github.com/exteraless/exteraless)
 - **2026-11-07** · *AI & Machine Learning* — [justrach/codegraff](https://github.com/justrach/codegraff)
-- **2026-11-07** · *Rust* — [Reflections on Rust in the LLM Age](https://lobste.rs/s/yomksa/reflections_on_rust_llm_age)
 
 ## How it works
 

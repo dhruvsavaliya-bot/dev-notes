@@ -2364,6 +2364,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/audnai/penclaw-Kimi-K3.1-pro-unrestricted
 
+**Added 2026-11-07**
+
+### [moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)
+- **Stats:** 1,560 likes | 18,432 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-11-02
+- **Tags:** transformers, safetensors, kimi_k31, text-generation, compressed-tensors, conversational
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/moonshotai/Kimi-K3.1-Pro
+
 
 ## Research Papers
 
