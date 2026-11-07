@@ -798,6 +798,7 @@
     "https://github.com/elyosh/OpenTIE/",
     "https://github.com/eternity4719/HowToLiveBetter",
     "https://github.com/eternityspring/shuohao-skills",
+    "https://github.com/exteraless/exteraless",
     "https://github.com/finic-ai/kairos",
     "https://github.com/finlater/weread.koplugin",
     "https://github.com/firecrawl/anydoc",
@@ -2505,12 +2506,6 @@
   ],
   "recent": [
     {
-      "date": "2026-11-06",
-      "subcat": "Security",
-      "title": "Ghost in the Shell: Can a Log File Hijack an AI?",
-      "url": "https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk"
-    },
-    {
       "date": "2026-11-07",
       "subcat": "Swift",
       "title": "Show HN: Kairos  Open-source risk and fraud...",
@@ -2563,6 +2558,12 @@
       "subcat": "AI & Machine Learning",
       "title": "justrach/codegraff",
       "url": "https://github.com/justrach/codegraff"
+    },
+    {
+      "date": "2026-11-07",
+      "subcat": "Java",
+      "title": "exteraless/exteraless",
+      "url": "https://github.com/exteraless/exteraless"
     }
   ]
 }

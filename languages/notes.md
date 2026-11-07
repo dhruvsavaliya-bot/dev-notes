@@ -3363,3 +3363,13 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=50242509
 - **Link:** https://xpipe.io/blog/java-aot-cache
+
+**Added 2026-11-07**
+
+### [exteraless/exteraless](https://github.com/exteraless/exteraless)
+- **Stats:** 529 stars | 49 forks | 27 open issues
+- **Language:** Java | **Created:** 2026-08-16 | **License:** GPL-3.0
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~6 stars/day since launch.
+- **Link:** https://github.com/exteraless/exteraless
