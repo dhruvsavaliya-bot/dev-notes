@@ -3585,3 +3585,13 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** 基于项目PC2005-cloud/dsh-pet.git，将桌宠移植到Windows、Linux和MacOS上，现在可以随时看到蓝色大肥鱼了：），本项目还额外实现了其他交互功能，欢迎体验
 - **Growth:** averaging ~38 stars/day since launch.
 - **Link:** https://github.com/MerZlin/dsh-pet-indesktop
+
+**Added 2026-11-07**
+
+### [punkpeye/awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers)
+- **Stats:** 2,740 stars | 3,312 forks | 2,112 open issues
+- **Language:** N/A | **Created:** 2026-09-08 | **License:** MIT
+- **Topics:** mcp
+- **What it is:** A collection of remote MCP servers.
+- **Growth:** averaging ~45 stars/day since launch.
+- **Link:** https://github.com/punkpeye/awesome-remote-mcp-servers

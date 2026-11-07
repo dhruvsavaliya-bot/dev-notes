@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1780 entries and counting** · Last updated: 2026-11-07
+**1781 entries and counting** · Last updated: 2026-11-07
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 357 |
+| [Trending Projects](trending-projects/projects.md) | 358 |
 | [AI / LLM Notes](ai/notes.md) | 359 |
 | [Reading List](articles/reading-list.md) | 359 |
 | [Coding Tips](coding-tips/tips.md) | 359 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-07** · *Backend & Infrastructure* — [punkpeye/awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers)
 - **2026-11-07** · *Open Source* — [I Built a Local AI Music Studio](https://dev.to/sizzlebop/i-built-a-local-ai-music-studio-3fb9)
 - **2026-11-07** · *Models & Datasets* — [moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)
 - **2026-11-07** · *Lobsters Picks* — [Upgrading NetBSD from 11.0 to 11.1](https://lobste.rs/s/0agusd/upgrading_netbsd_from_11_0_11_1)
 - **2026-11-07** · *Developer Tools* — [storytold/pdfcraft](https://github.com/storytold/pdfcraft)
-- **2026-11-07** · *Java* — [exteraless/exteraless](https://github.com/exteraless/exteraless)
 
 ## How it works
 

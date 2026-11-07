@@ -941,6 +941,7 @@
     "https://github.com/pollen-robotics/microduck",
     "https://github.com/postmanlabs/postman-app-support/issues/14370",
     "https://github.com/privastead/privastead",
+    "https://github.com/punkpeye/awesome-remote-mcp-servers",
     "https://github.com/qingjian-team/qingjian",
     "https://github.com/rakanki911/DLSS5-Swapper",
     "https://github.com/ravindu644/Droidspaces-OSS",
@@ -2513,12 +2514,6 @@
     {
       "date": "2026-11-07",
       "subcat": "Other Cool Projects",
-      "title": "fyzugx/DEsk",
-      "url": "https://github.com/fyzugx/DEsk"
-    },
-    {
-      "date": "2026-11-07",
-      "subcat": "Other Cool Projects",
       "title": "windows-GPU-UNLOCK/Windows-GPU-UNLOCK",
       "url": "https://github.com/windows-GPU-UNLOCK/Windows-GPU-UNLOCK"
     },
@@ -2569,6 +2564,12 @@
       "subcat": "Open Source",
       "title": "I Built a Local AI Music Studio",
       "url": "https://dev.to/sizzlebop/i-built-a-local-ai-music-studio-3fb9"
+    },
+    {
+      "date": "2026-11-07",
+      "subcat": "Backend & Infrastructure",
+      "title": "punkpeye/awesome-remote-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-remote-mcp-servers"
     }
   ]
 }
