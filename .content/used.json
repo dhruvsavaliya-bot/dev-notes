@@ -925,6 +925,7 @@
     "https://github.com/openai/codex/issues/37674",
     "https://github.com/openai/math",
     "https://github.com/openai/symphony",
+    "https://github.com/openfilm/openfilm",
     "https://github.com/openobserve/openobserve",
     "https://github.com/oso95/scroll-world",
     "https://github.com/outsourc-e/hermes-workspace",
@@ -2518,12 +2519,6 @@
   "recent": [
     {
       "date": "2026-11-07",
-      "subcat": "AI & Machine Learning",
-      "title": "justrach/codegraff",
-      "url": "https://github.com/justrach/codegraff"
-    },
-    {
-      "date": "2026-11-07",
       "subcat": "Java",
       "title": "exteraless/exteraless",
       "url": "https://github.com/exteraless/exteraless"
@@ -2575,6 +2570,12 @@
       "subcat": "Python",
       "title": "Symbolic Learning in Python and Julia",
       "url": "https://news.ycombinator.com/item?id=50171936"
+    },
+    {
+      "date": "2026-11-07",
+      "subcat": "AI & Machine Learning",
+      "title": "openfilm/openfilm",
+      "url": "https://github.com/openfilm/openfilm"
     }
   ]
 }

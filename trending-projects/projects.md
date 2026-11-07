@@ -1644,6 +1644,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/justrach/codegraff
 
+**Added 2026-11-07**
+
+### [openfilm/openfilm](https://github.com/openfilm/openfilm)
+- **Stats:** 5,175 stars | 492 forks | 21 open issues
+- **Language:** TypeScript | **Created:** 2026-10-04 | **License:** MIT
+- **Topics:** ai-video, claude-code, codex, coding-agents, html, motion-graphics
+- **What it is:** The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.
+- **Growth:** averaging ~152 stars/day since launch.
+- **Link:** https://github.com/openfilm/openfilm
+
 
 ## Other Cool Projects
 
