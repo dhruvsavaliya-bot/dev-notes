@@ -2373,6 +2373,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/moonshotai/Kimi-K3.1-Pro
 
+**Added 2026-11-07**
+
+### [espnet/yodas3](https://huggingface.co/datasets/espnet/yodas3)
+- **Stats:** 258 likes | 352,675 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-06-19
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/espnet/yodas3
+
 
 ## Research Papers
 

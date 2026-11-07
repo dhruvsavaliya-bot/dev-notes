@@ -1201,6 +1201,7 @@
     "https://huggingface.co/datasets/eidon-ai/tracker-pov",
     "https://huggingface.co/datasets/espnet/yodas",
     "https://huggingface.co/datasets/espnet/yodas2",
+    "https://huggingface.co/datasets/espnet/yodas3",
     "https://huggingface.co/datasets/fka/prompts.chat",
     "https://huggingface.co/datasets/garage-bAInd/Open-Platypus",
     "https://huggingface.co/datasets/genrobot2025/Gen-HumanEgo",
@@ -2523,12 +2524,6 @@
   "recent": [
     {
       "date": "2026-11-07",
-      "subcat": "Models & Datasets",
-      "title": "moonshotai/Kimi-K3.1-Pro",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
-    },
-    {
-      "date": "2026-11-07",
       "subcat": "Open Source",
       "title": "I Built a Local AI Music Studio",
       "url": "https://dev.to/sizzlebop/i-built-a-local-ai-music-studio-3fb9"
@@ -2580,6 +2575,12 @@
       "subcat": "Web & Frontend",
       "title": "phase-rs/phase",
       "url": "https://github.com/phase-rs/phase"
+    },
+    {
+      "date": "2026-11-07",
+      "subcat": "Models & Datasets",
+      "title": "espnet/yodas3",
+      "url": "https://huggingface.co/datasets/espnet/yodas3"
     }
   ]
 }
