@@ -958,6 +958,7 @@
     "https://github.com/rjsf-team/react-jsonschema-form",
     "https://github.com/rlaope/oh-my-hermes",
     "https://github.com/robbietilton/Compositor",
+    "https://github.com/royalbhati/sqltoerdiagram",
     "https://github.com/rsutcliffe/nightwatch",
     "https://github.com/rtk-ai/rtk",
     "https://github.com/runvendo/vendo",
@@ -2526,12 +2527,6 @@
   "recent": [
     {
       "date": "2026-11-07",
-      "subcat": "Backend & Infrastructure",
-      "title": "punkpeye/awesome-remote-mcp-servers",
-      "url": "https://github.com/punkpeye/awesome-remote-mcp-servers"
-    },
-    {
-      "date": "2026-11-07",
       "subcat": "Lobsters Picks",
       "title": "Pushing the Limits with getaddrinfo",
       "url": "https://lobste.rs/s/5cwnpu/pushing_limits_with_getaddrinfo"
@@ -2583,6 +2578,12 @@
       "subcat": "Rust",
       "title": "Google illegally cut down 250K trees in Finland for...",
       "url": "https://news.ycombinator.com/item?id=50221676"
+    },
+    {
+      "date": "2026-11-08",
+      "subcat": "AI & Machine Learning",
+      "title": "royalbhati/sqltoerdiagram",
+      "url": "https://github.com/royalbhati/sqltoerdiagram"
     }
   ]
 }

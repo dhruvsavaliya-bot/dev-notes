@@ -1654,6 +1654,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~152 stars/day since launch.
 - **Link:** https://github.com/openfilm/openfilm
 
+**Added 2026-11-08**
+
+### [royalbhati/sqltoerdiagram](https://github.com/royalbhati/sqltoerdiagram)
+- **Stats:** 715 stars | 70 forks | 1 open issues
+- **Language:** HTML | **Created:** 2026-06-14 | **License:** MIT
+- **Topics:** data-modeling, database, database-schema, dbdiagram, dbml, developer-tools
+- **What it is:** ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded
+- **Growth:** averaging ~4 stars/day since launch.
+- **Link:** https://github.com/royalbhati/sqltoerdiagram
+
 
 ## Other Cool Projects
 
