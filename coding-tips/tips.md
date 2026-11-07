@@ -2506,6 +2506,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50014150
 - **Link:** https://github.com/edrisranjbar/lifeos
 
+**Added 2026-11-07**
+
+### [Ask HN: What in the world is taking Ubuntu so long?](https://news.ycombinator.com/item?id=50393105)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-06 | **By:** linsomniac
+- **Community:** 210 points, 132 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50393105
+- **Link:** https://news.ycombinator.com/item?id=50393105
+
 
 ## Git & Workflow
 
