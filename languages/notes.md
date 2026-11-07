@@ -743,6 +743,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~15 stars/day since launch.
 - **Link:** https://github.com/lhlGitHub/threejs-architecture-effects
 
+**Added 2026-11-07**
+
+### [After 5 years, Wasp 1.0 is coming: a 6-month plan for our full-stack JS framework](https://dev.to/wasp/after-5-years-wasp-10-is-coming-a-6-month-plan-for-our-full-stack-js-framework-4hlf)
+- **Author:** Martin Šošić | **Published:** Nov 4 | **Read time:** 6 min
+- **Community:** 92 reactions, 17 comments -- a top post in #typescript
+- **Tags:** webdev, typescript, react, programming
+- **Summary:** The time has come: Wasp 1.0 is now officially in the works! ETA: ~6 months.  Even though still...
+- **Link:** https://dev.to/wasp/after-5-years-wasp-10-is-coming-a-6-month-plan-for-our-full-stack-js-framework-4hlf
+
 
 ## Python
 
