@@ -2536,6 +2536,16 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Discussion:** https://lobste.rs/s/ecrqpy/how_speed_up_rust_compiler_november_2026
 - **Link:** https://nnethercote.github.io/2026/11/04/how-to-speed-up-the-rust-compiler-in-november-2026.html
 
+**Added 2026-11-07**
+
+### [Reflections on Rust in the LLM Age](https://www.youtube.com/watch?v=5D7QPOIZ7gY)
+- **Source:** www.youtube.com | **Posted:** 2026-11-05 | **By:** rrampage
+- **Community:** 21 score, 5 comments on Lobsters
+- **Tags:** ai, rust, video
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/yomksa/reflections_on_rust_llm_age
+- **Link:** https://www.youtube.com/watch?v=5D7QPOIZ7gY
+
 
 ## Elixir
 

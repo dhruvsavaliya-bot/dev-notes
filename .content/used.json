@@ -1570,6 +1570,7 @@
     "https://lobste.rs/s/yes2hc/ideas_for_social_networks",
     "https://lobste.rs/s/ygp18d/hanami_why_model_citizens",
     "https://lobste.rs/s/yihs7m/understanding_org_s_latex_previews",
+    "https://lobste.rs/s/yomksa/reflections_on_rust_llm_age",
     "https://lobste.rs/s/yoywed/software_line_specialist",
     "https://lobste.rs/s/ysyqnt/small_web_is_huge",
     "https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn",
@@ -2486,6 +2487,7 @@
     "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
     "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
     "https://www.youtube.com/watch?v=25x0UuSCKuU",
+    "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
     "https://www.youtube.com/watch?v=P5eO7BNyJao",
     "https://www.youtube.com/watch?v=jWCQXBVIyrY",
     "https://xcancel.com/__alpoge__/status/2079028340955197566",
@@ -2501,12 +2503,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-11-06",
-      "subcat": "Lobsters Picks",
-      "title": "Software Line Specialist",
-      "url": "https://lobste.rs/s/yoywed/software_line_specialist"
-    },
     {
       "date": "2026-11-06",
       "subcat": "Other Cool Projects",
@@ -2560,6 +2556,12 @@
       "subcat": "Research Papers",
       "title": "Energy-Guided Transport for Projection-Free...",
       "url": "http://arxiv.org/abs/2611.06711v1"
+    },
+    {
+      "date": "2026-11-07",
+      "subcat": "Rust",
+      "title": "Reflections on Rust in the LLM Age",
+      "url": "https://lobste.rs/s/yomksa/reflections_on_rust_llm_age"
     }
   ]
 }
