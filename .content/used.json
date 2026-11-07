@@ -131,6 +131,7 @@
     "https://aaronmallen.me/writing/hanami-why-model-citizens",
     "https://aatishb.com/myriad/lets-build-a-brain/",
     "https://acceptmarkdown.com/",
+    "https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/",
     "https://actualbudget.org/",
     "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
     "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
@@ -1366,6 +1367,7 @@
     "https://lobste.rs/s/4xgljh/how_do_i_write_elixir_tests",
     "https://lobste.rs/s/4zmka2/kiesel_devlog_15_release_0_4_0",
     "https://lobste.rs/s/54xwm8/novellas_with_groff",
+    "https://lobste.rs/s/5cwnpu/pushing_limits_with_getaddrinfo",
     "https://lobste.rs/s/67ygvv/new_go_json_api_twice_as_fast_1_5x_slower",
     "https://lobste.rs/s/6laoto/road_iroh_1_0",
     "https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner",
@@ -2513,12 +2515,6 @@
   "recent": [
     {
       "date": "2026-11-07",
-      "subcat": "Other Cool Projects",
-      "title": "windows-GPU-UNLOCK/Windows-GPU-UNLOCK",
-      "url": "https://github.com/windows-GPU-UNLOCK/Windows-GPU-UNLOCK"
-    },
-    {
-      "date": "2026-11-07",
       "subcat": "Research Papers",
       "title": "Energy-Guided Transport for Projection-Free...",
       "url": "http://arxiv.org/abs/2611.06711v1"
@@ -2570,6 +2566,12 @@
       "subcat": "Backend & Infrastructure",
       "title": "punkpeye/awesome-remote-mcp-servers",
       "url": "https://github.com/punkpeye/awesome-remote-mcp-servers"
+    },
+    {
+      "date": "2026-11-07",
+      "subcat": "Lobsters Picks",
+      "title": "Pushing the Limits with getaddrinfo",
+      "url": "https://lobste.rs/s/5cwnpu/pushing_limits_with_getaddrinfo"
     }
   ]
 }

@@ -3318,6 +3318,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/lh1j0e/shlemiel_painter_is_back_how_zig_s_libc
 - **Link:** https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/
 
+**Added 2026-11-07**
+
+### [Pushing the Limits with getaddrinfo](https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/)
+- **Source:** acid.vegas | **Posted:** 2026-11-06 | **By:** freddyb
+- **Community:** 16 score, 0 comments on Lobsters
+- **Tags:** networking, security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/5cwnpu/pushing_limits_with_getaddrinfo
+- **Link:** https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/
+
 
 ## Performance
 
