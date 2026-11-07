@@ -134,6 +134,7 @@
     "https://acceptmarkdown.com/",
     "https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/",
     "https://actualbudget.org/",
+    "https://adrs.systems",
     "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
     "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
     "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
@@ -2131,6 +2132,7 @@
     "https://news.ycombinator.com/item?id=50221676",
     "https://news.ycombinator.com/item?id=50222133",
     "https://news.ycombinator.com/item?id=50225695",
+    "https://news.ycombinator.com/item?id=50227041",
     "https://news.ycombinator.com/item?id=50227330",
     "https://news.ycombinator.com/item?id=50233304",
     "https://news.ycombinator.com/item?id=50233929",
@@ -2530,12 +2532,6 @@
   "recent": [
     {
       "date": "2026-11-07",
-      "subcat": "Python",
-      "title": "Symbolic Learning in Python and Julia",
-      "url": "https://news.ycombinator.com/item?id=50171936"
-    },
-    {
-      "date": "2026-11-07",
       "subcat": "AI & Machine Learning",
       "title": "openfilm/openfilm",
       "url": "https://github.com/openfilm/openfilm"
@@ -2587,6 +2583,12 @@
       "subcat": "Hacker News Picks",
       "title": "Every Mac comes with an (undocumented) family member...",
       "url": "https://news.ycombinator.com/item?id=50403097"
+    },
+    {
+      "date": "2026-11-08",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: ADRs for AI  Deliberation records for...",
+      "url": "https://news.ycombinator.com/item?id=50227041"
     }
   ]
 }

@@ -2515,6 +2515,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50393105
 - **Link:** https://news.ycombinator.com/item?id=50393105
 
+**Added 2026-11-08**
+
+### [Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git](https://adrs.systems)
+- **Source:** adrs.systems | **Posted:** 2026-10-25 | **By:** lumbroso
+- **Community:** 66 points, 59 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50227041
+- **Link:** https://adrs.systems
+
 
 ## Git & Workflow
 
