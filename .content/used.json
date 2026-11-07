@@ -99,6 +99,7 @@
     "http://arxiv.org/abs/2611.04320v1",
     "http://arxiv.org/abs/2611.04497v1",
     "http://arxiv.org/abs/2611.04501v2",
+    "http://arxiv.org/abs/2611.06711v1",
     "http://arxiv.org/abs/2611.07367v1",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
@@ -2502,12 +2503,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Security",
-      "title": "Your secrets don't need a git commit to leak into an...",
-      "url": "https://dev.to/cyclopt_dimitrisk/your-secrets-dont-need-a-git-commit-to-leak-into-an-ai-tool-be2"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Lobsters Picks",
       "title": "Software Line Specialist",
       "url": "https://lobste.rs/s/yoywed/software_line_specialist"
@@ -2559,6 +2554,12 @@
       "subcat": "Other Cool Projects",
       "title": "windows-GPU-UNLOCK/Windows-GPU-UNLOCK",
       "url": "https://github.com/windows-GPU-UNLOCK/Windows-GPU-UNLOCK"
+    },
+    {
+      "date": "2026-11-07",
+      "subcat": "Research Papers",
+      "title": "Energy-Guided Transport for Projection-Free...",
+      "url": "http://arxiv.org/abs/2611.06711v1"
     }
   ]
 }

@@ -3307,6 +3307,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.36584v1
 
+**Added 2026-11-07**
+
+### [Energy-Guided Transport for Projection-Free Physics-Informed Flow Matching](http://arxiv.org/abs/2611.06711v1)
+- **Authors:** Giuliano Galadini, Aurelio Uncini, Danilo Comminiello
+- **Published:** 2026-11-04 | **Primary category:** cs.LG
+- **Categories:** cs.LG, physics.comp-ph
+- **Abstract:** Deep generative models, particularly Flow Matching frameworks, have emerged as powerful tools for synthesizing complex physical systems. However, standard architectures remain purely statistically driven and agnostic to the underlying governing equations, often violating fundamental physical constraints during inference. Existing zero-shot approaches designed to enforce these constraints typically rely on rigid algebraic projections. While effective for sparse boundary conditions, applying such ...
+- **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.06711v1
+
 
 ## Computer Vision
 
