@@ -939,6 +939,7 @@
     "https://github.com/penecho/penecho",
     "https://github.com/pengchujin/aerial-tv",
     "https://github.com/petergyang/no-ai-slop",
+    "https://github.com/phase-rs/phase",
     "https://github.com/php/php-src/releases/tag/php-8.2.35",
     "https://github.com/pingdotgg/t3code",
     "https://github.com/pingdotgg/ts-rust",
@@ -2522,12 +2523,6 @@
   "recent": [
     {
       "date": "2026-11-07",
-      "subcat": "Lobsters Picks",
-      "title": "Upgrading NetBSD from 11.0 to 11.1",
-      "url": "https://lobste.rs/s/0agusd/upgrading_netbsd_from_11_0_11_1"
-    },
-    {
-      "date": "2026-11-07",
       "subcat": "Models & Datasets",
       "title": "moonshotai/Kimi-K3.1-Pro",
       "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
@@ -2579,6 +2574,12 @@
       "subcat": "Rust",
       "title": "Jailbreaking my car's navigation system just so I can...",
       "url": "https://news.ycombinator.com/item?id=50339288"
+    },
+    {
+      "date": "2026-11-07",
+      "subcat": "Web & Frontend",
+      "title": "phase-rs/phase",
+      "url": "https://github.com/phase-rs/phase"
     }
   ]
 }

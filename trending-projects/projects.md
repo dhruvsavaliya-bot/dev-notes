@@ -3270,6 +3270,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/smithersai/claude-p
 
+**Added 2026-11-07**
+
+### [phase-rs/phase](https://github.com/phase-rs/phase)
+- **Stats:** 322 stars | 230 forks | 1,675 open issues
+- **Language:** Rust | **Created:** 2026-03-10 | **License:** Apache-2.0
+- **Topics:** game-engine, magic-the-gathering, mtg, react, rust, tauri
+- **What it is:** A rules engine and game client — Rust + WASM + React
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/phase-rs/phase
+
 
 ## Developer Tools
 
