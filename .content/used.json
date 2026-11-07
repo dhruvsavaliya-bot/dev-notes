@@ -206,6 +206,7 @@
     "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
     "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
     "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+    "https://blog.nns.ee/2026/11/02/renault-hack/",
     "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
     "https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/",
     "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
@@ -2168,6 +2169,7 @@
     "https://news.ycombinator.com/item?id=50328896",
     "https://news.ycombinator.com/item?id=50333339",
     "https://news.ycombinator.com/item?id=50338728",
+    "https://news.ycombinator.com/item?id=50339288",
     "https://news.ycombinator.com/item?id=50339913",
     "https://news.ycombinator.com/item?id=50345712",
     "https://news.ycombinator.com/item?id=50346153",
@@ -2520,12 +2522,6 @@
   "recent": [
     {
       "date": "2026-11-07",
-      "subcat": "Developer Tools",
-      "title": "storytold/pdfcraft",
-      "url": "https://github.com/storytold/pdfcraft"
-    },
-    {
-      "date": "2026-11-07",
       "subcat": "Lobsters Picks",
       "title": "Upgrading NetBSD from 11.0 to 11.1",
       "url": "https://lobste.rs/s/0agusd/upgrading_netbsd_from_11_0_11_1"
@@ -2577,6 +2573,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: What in the world is taking Ubuntu so long?",
       "url": "https://news.ycombinator.com/item?id=50393105"
+    },
+    {
+      "date": "2026-11-07",
+      "subcat": "Rust",
+      "title": "Jailbreaking my car's navigation system just so I can...",
+      "url": "https://news.ycombinator.com/item?id=50339288"
     }
   ]
 }

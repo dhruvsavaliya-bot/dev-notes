@@ -2564,6 +2564,15 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Discussion:** https://lobste.rs/s/yomksa/reflections_on_rust_llm_age
 - **Link:** https://www.youtube.com/watch?v=5D7QPOIZ7gY
 
+**Added 2026-11-07**
+
+### [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/)
+- **Source:** blog.nns.ee | **Posted:** 2026-11-02 | **By:** xx_ns
+- **Community:** 949 points, 388 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50339288
+- **Link:** https://blog.nns.ee/2026/11/02/renault-hack/
+
 
 ## Elixir
 
