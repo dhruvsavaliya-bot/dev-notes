@@ -637,6 +637,7 @@
     "https://github.com/NomaDamas/k-skill",
     "https://github.com/OpenMili/aimili-vpngate",
     "https://github.com/OpenNHP/opennhp",
+    "https://github.com/OpenWAM-Official/OpenWAM",
     "https://github.com/OpenYSM/OpenYSM",
     "https://github.com/Optiscaler-Client/Optiscaler-Client",
     "https://github.com/Pal-AI-Lab/Coopanion",
@@ -2527,12 +2528,6 @@
   "recent": [
     {
       "date": "2026-11-07",
-      "subcat": "Lobsters Picks",
-      "title": "Pushing the Limits with getaddrinfo",
-      "url": "https://lobste.rs/s/5cwnpu/pushing_limits_with_getaddrinfo"
-    },
-    {
-      "date": "2026-11-07",
       "subcat": "TypeScript",
       "title": "After 5 years, Wasp 1.0 is coming: a 6-month plan for...",
       "url": "https://dev.to/wasp/after-5-years-wasp-10-is-coming-a-6-month-plan-for-our-full-stack-js-framework-4hlf"
@@ -2584,6 +2579,12 @@
       "subcat": "AI & Machine Learning",
       "title": "royalbhati/sqltoerdiagram",
       "url": "https://github.com/royalbhati/sqltoerdiagram"
+    },
+    {
+      "date": "2026-11-08",
+      "subcat": "Python",
+      "title": "OpenWAM-Official/OpenWAM",
+      "url": "https://github.com/OpenWAM-Official/OpenWAM"
     }
   ]
 }

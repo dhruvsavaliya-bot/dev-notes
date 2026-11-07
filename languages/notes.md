@@ -1153,6 +1153,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50171936
 - **Link:** https://github.com/astroautomata/PySR
 
+**Added 2026-11-08**
+
+### [OpenWAM-Official/OpenWAM](https://github.com/OpenWAM-Official/OpenWAM)
+- **Stats:** 1,175 stars | 88 forks | 5 open issues
+- **Language:** Python | **Created:** 2026-09-06 | **License:** Apache-2.0
+- **Topics:** generalist-robot-policies, pretraining, robotics, world-action-model
+- **What it is:** Official repository for "OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining".
+- **Growth:** averaging ~18 stars/day since launch.
+- **Link:** https://github.com/OpenWAM-Official/OpenWAM
+
 
 ## Go
 
