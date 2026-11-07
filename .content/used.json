@@ -983,6 +983,7 @@
     "https://github.com/storytold/filmcraft",
     "https://github.com/storytold/gridcraft",
     "https://github.com/storytold/lightcraft",
+    "https://github.com/storytold/pdfcraft",
     "https://github.com/storytold/photocraft",
     "https://github.com/storytold/vectorcraft",
     "https://github.com/storytold/wordcraft",
@@ -2507,12 +2508,6 @@
   "recent": [
     {
       "date": "2026-11-07",
-      "subcat": "Swift",
-      "title": "Show HN: Kairos  Open-source risk and fraud...",
-      "url": "https://news.ycombinator.com/item?id=50358314"
-    },
-    {
-      "date": "2026-11-07",
       "subcat": "AI & Machine Learning",
       "title": "dominikmartn/harp",
       "url": "https://github.com/dominikmartn/harp"
@@ -2564,6 +2559,12 @@
       "subcat": "Java",
       "title": "exteraless/exteraless",
       "url": "https://github.com/exteraless/exteraless"
+    },
+    {
+      "date": "2026-11-07",
+      "subcat": "Developer Tools",
+      "title": "storytold/pdfcraft",
+      "url": "https://github.com/storytold/pdfcraft"
     }
   ]
 }

@@ -3463,6 +3463,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~142 stars/day since launch.
 - **Link:** https://github.com/storytold/designcraft
 
+**Added 2026-11-07**
+
+### [storytold/pdfcraft](https://github.com/storytold/pdfcraft)
+- **Stats:** 19,851 stars | 7,401 forks | 3,320 open issues
+- **Language:** Rust | **Created:** 2026-09-30 | **License:** Apache-2.0
+- **Topics:** document-processing, documents, pdf, pdf-generation, pdf-processing, pdf-tools
+- **What it is:** PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
+- **Growth:** averaging ~522 stars/day since launch.
+- **Link:** https://github.com/storytold/pdfcraft
+
 
 ## Backend & Infrastructure
 
