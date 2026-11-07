@@ -1340,6 +1340,7 @@
     "https://linus.dev/posts/kiesel-devlog-15/",
     "https://llama.app",
     "https://lobste.rs/s/05xrj8/we_have_traits_at_home",
+    "https://lobste.rs/s/0agusd/upgrading_netbsd_from_11_0_11_1",
     "https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial",
     "https://lobste.rs/s/0gvyif/software_developers_are_not_okay",
     "https://lobste.rs/s/0yxkvs/postgres_19_is_late_it_s_ai_s_fault",
@@ -2394,6 +2395,7 @@
     "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
     "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
     "https://www.docker.com/products/docker-sandboxes/",
+    "https://www.dwarmstrong.org/netbsd-upgrade/",
     "https://www.economist.com/the-economist-explains/2022/02/25/why-the-west-is-reluctant-to-deny-russian-banks-access-to-swift",
     "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
     "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
@@ -2508,12 +2510,6 @@
   "recent": [
     {
       "date": "2026-11-07",
-      "subcat": "AI & Machine Learning",
-      "title": "dominikmartn/harp",
-      "url": "https://github.com/dominikmartn/harp"
-    },
-    {
-      "date": "2026-11-07",
       "subcat": "Hacker News Picks",
       "title": "Furifont, a Japanese font that shows furigana",
       "url": "https://news.ycombinator.com/item?id=50100994"
@@ -2565,6 +2561,12 @@
       "subcat": "Developer Tools",
       "title": "storytold/pdfcraft",
       "url": "https://github.com/storytold/pdfcraft"
+    },
+    {
+      "date": "2026-11-07",
+      "subcat": "Lobsters Picks",
+      "title": "Upgrading NetBSD from 11.0 to 11.1",
+      "url": "https://lobste.rs/s/0agusd/upgrading_netbsd_from_11_0_11_1"
     }
   ]
 }

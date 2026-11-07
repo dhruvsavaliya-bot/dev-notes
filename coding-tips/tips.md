@@ -3274,6 +3274,16 @@ I am posting the meetup prior to receiving their approval, so that those of you 
 - **Discussion:** https://lobste.rs/s/yoywed/software_line_specialist
 - **Link:** https://lovro-bikic.github.io/software-line-specialist/
 
+**Added 2026-11-07**
+
+### [Upgrading NetBSD from 11.0 to 11.1](https://www.dwarmstrong.org/netbsd-upgrade/)
+- **Source:** www.dwarmstrong.org | **Posted:** 2026-11-06 | **By:** jaypatelani
+- **Community:** 18 score, 3 comments on Lobsters
+- **Tags:** netbsd
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/0agusd/upgrading_netbsd_from_11_0_11_1
+- **Link:** https://www.dwarmstrong.org/netbsd-upgrade/
+
 
 ## Career & Craft
 
