@@ -843,6 +843,7 @@
     "https://github.com/jpochyla/psst",
     "https://github.com/jub0t/Concat",
     "https://github.com/jub0t/concat",
+    "https://github.com/justrach/codegraff",
     "https://github.com/jwilk/python-syntax-errors",
     "https://github.com/kOlapsis/maintenant",
     "https://github.com/kaankiziltug/logo-design-skill",
@@ -2505,12 +2506,6 @@
   "recent": [
     {
       "date": "2026-11-06",
-      "subcat": "Other Cool Projects",
-      "title": "Tencent-Hunyuan/Hy-Nomas",
-      "url": "https://github.com/Tencent-Hunyuan/Hy-Nomas"
-    },
-    {
-      "date": "2026-11-06",
       "subcat": "Security",
       "title": "Ghost in the Shell: Can a Log File Hijack an AI?",
       "url": "https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk"
@@ -2562,6 +2557,12 @@
       "subcat": "Rust",
       "title": "Reflections on Rust in the LLM Age",
       "url": "https://lobste.rs/s/yomksa/reflections_on_rust_llm_age"
+    },
+    {
+      "date": "2026-11-07",
+      "subcat": "AI & Machine Learning",
+      "title": "justrach/codegraff",
+      "url": "https://github.com/justrach/codegraff"
     }
   ]
 }

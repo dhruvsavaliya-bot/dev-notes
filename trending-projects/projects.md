@@ -1634,6 +1634,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~39 stars/day since launch.
 - **Link:** https://github.com/dominikmartn/harp
 
+**Added 2026-11-07**
+
+### [justrach/codegraff](https://github.com/justrach/codegraff)
+- **Stats:** 311 stars | 29 forks | 68 open issues
+- **Language:** Zig | **Created:** 2026-06-14 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** graff — a fast agentic coding harness in Zig: multi-provider, MCP, workflows, DGM evolution loop, TS/Python SDKs
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/justrach/codegraff
+
 
 ## Other Cool Projects
 
