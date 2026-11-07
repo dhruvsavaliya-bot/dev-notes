@@ -2573,6 +2573,15 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Discussion:** https://news.ycombinator.com/item?id=50339288
 - **Link:** https://blog.nns.ee/2026/11/02/renault-hack/
 
+**Added 2026-11-07**
+
+### [Google illegally cut down 250K trees in Finland for data center](https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/)
+- **Source:** nypost.com | **Posted:** 2026-10-24 | **By:** rustybolt
+- **Community:** 261 points, 212 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50221676
+- **Link:** https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/
+
 
 ## Elixir
 

@@ -2125,6 +2125,7 @@
     "https://news.ycombinator.com/item?id=50212065",
     "https://news.ycombinator.com/item?id=50214373",
     "https://news.ycombinator.com/item?id=50218975",
+    "https://news.ycombinator.com/item?id=50221676",
     "https://news.ycombinator.com/item?id=50222133",
     "https://news.ycombinator.com/item?id=50225695",
     "https://news.ycombinator.com/item?id=50227330",
@@ -2217,6 +2218,7 @@
     "https://nullpt.rs/fingerprinting-bioweapons",
     "https://nullpt.rs/reverse-engineering-adhd-test",
     "https://numpad.io/",
+    "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/",
     "https://obscura.com/#faq-technical",
     "https://ohhfishal.net/Posts/claude",
     "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
@@ -2524,12 +2526,6 @@
   "recent": [
     {
       "date": "2026-11-07",
-      "subcat": "Open Source",
-      "title": "I Built a Local AI Music Studio",
-      "url": "https://dev.to/sizzlebop/i-built-a-local-ai-music-studio-3fb9"
-    },
-    {
-      "date": "2026-11-07",
       "subcat": "Backend & Infrastructure",
       "title": "punkpeye/awesome-remote-mcp-servers",
       "url": "https://github.com/punkpeye/awesome-remote-mcp-servers"
@@ -2581,6 +2577,12 @@
       "subcat": "Models & Datasets",
       "title": "espnet/yodas3",
       "url": "https://huggingface.co/datasets/espnet/yodas3"
+    },
+    {
+      "date": "2026-11-07",
+      "subcat": "Rust",
+      "title": "Google illegally cut down 250K trees in Finland for...",
+      "url": "https://news.ycombinator.com/item?id=50221676"
     }
   ]
 }
