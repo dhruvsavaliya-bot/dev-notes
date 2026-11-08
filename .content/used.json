@@ -1351,6 +1351,7 @@
     "https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/",
     "https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/",
     "https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/",
+    "https://lemire.me/blog/2026/10/31/beating-the-compiler-at-signed-32-bit-division/",
     "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
     "https://liao.gg/blog/agents-dont-need-memory",
     "https://lightbulbcomputer.com/",
@@ -1456,6 +1457,7 @@
     "https://lobste.rs/s/eesu8d/bun_1_4",
     "https://lobste.rs/s/ekwolo/building_java_me_apps_with_modern_tooling",
     "https://lobste.rs/s/eoibah/iroh_global_content_discovery",
+    "https://lobste.rs/s/ep5vsq/beating_compiler_at_signed_32_bit",
     "https://lobste.rs/s/erkjnx/gist_go_concurrency",
     "https://lobste.rs/s/fgucra/observations_from_running",
     "https://lobste.rs/s/fmawla/enlightenment_0_28_0_release",
@@ -2539,12 +2541,6 @@
   "recent": [
     {
       "date": "2026-11-08",
-      "subcat": "AI & Machine Learning",
-      "title": "royalbhati/sqltoerdiagram",
-      "url": "https://github.com/royalbhati/sqltoerdiagram"
-    },
-    {
-      "date": "2026-11-08",
       "subcat": "Python",
       "title": "OpenWAM-Official/OpenWAM",
       "url": "https://github.com/OpenWAM-Official/OpenWAM"
@@ -2596,6 +2592,12 @@
       "subcat": "PHP",
       "title": "Publishers Killed the Paperback, Then Blamed Readers",
       "url": "https://news.ycombinator.com/item?id=50060674"
+    },
+    {
+      "date": "2026-11-08",
+      "subcat": "Lobsters Picks",
+      "title": "Beating the compiler at signed 32-bit division",
+      "url": "https://lobste.rs/s/ep5vsq/beating_compiler_at_signed_32_bit"
     }
   ]
 }

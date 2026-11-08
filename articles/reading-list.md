@@ -3337,6 +3337,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/5cwnpu/pushing_limits_with_getaddrinfo
 - **Link:** https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/
 
+**Added 2026-11-08**
+
+### [Beating the compiler at signed 32-bit division](https://lemire.me/blog/2026/10/31/beating-the-compiler-at-signed-32-bit-division/)
+- **Source:** lemire.me | **Posted:** 2026-11-01 | **By:** EvanHahn
+- **Community:** 16 score, 5 comments on Lobsters
+- **Tags:** compilers, performance
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/ep5vsq/beating_compiler_at_signed_32_bit
+- **Link:** https://lemire.me/blog/2026/10/31/beating-the-compiler-at-signed-32-bit-division/
+
 
 ## Performance
 
