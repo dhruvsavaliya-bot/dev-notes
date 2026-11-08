@@ -1664,6 +1664,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~4 stars/day since launch.
 - **Link:** https://github.com/royalbhati/sqltoerdiagram
 
+**Added 2026-11-08**
+
+### [nightly-labs/openbot](https://github.com/nightly-labs/openbot)
+- **Stats:** 6,302 stars | 635 forks | 627 open issues
+- **Language:** TypeScript | **Created:** 2026-08-12 | **License:** NOASSERTION
+- **Topics:** ai-agents, bun, codex, electron, local-first, macos
+- **What it is:** A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
+- **Growth:** averaging ~71 stars/day since launch.
+- **Link:** https://github.com/nightly-labs/openbot
+
 
 ## Other Cool Projects
 

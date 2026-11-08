@@ -907,6 +907,7 @@
     "https://github.com/nbedos/termtosvg",
     "https://github.com/nestrilabs/virtio-nvgpu",
     "https://github.com/newliver666/apk-reverse",
+    "https://github.com/nightly-labs/openbot",
     "https://github.com/noahdunnagan/mcopt",
     "https://github.com/noctalia-dev/noctalia-greeter",
     "https://github.com/nodes-app/swift-markdown-engine",
@@ -2541,12 +2542,6 @@
   "recent": [
     {
       "date": "2026-11-08",
-      "subcat": "Python",
-      "title": "OpenWAM-Official/OpenWAM",
-      "url": "https://github.com/OpenWAM-Official/OpenWAM"
-    },
-    {
-      "date": "2026-11-08",
       "subcat": "Hacker News Picks",
       "title": "Every Mac comes with an (undocumented) family member...",
       "url": "https://news.ycombinator.com/item?id=50403097"
@@ -2598,6 +2593,12 @@
       "subcat": "Lobsters Picks",
       "title": "Beating the compiler at signed 32-bit division",
       "url": "https://lobste.rs/s/ep5vsq/beating_compiler_at_signed_32_bit"
+    },
+    {
+      "date": "2026-11-08",
+      "subcat": "AI & Machine Learning",
+      "title": "nightly-labs/openbot",
+      "url": "https://github.com/nightly-labs/openbot"
     }
   ]
 }
