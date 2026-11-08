@@ -1674,6 +1674,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~71 stars/day since launch.
 - **Link:** https://github.com/nightly-labs/openbot
 
+**Added 2026-11-08**
+
+### [HanyuanWang/LiveStream-Agent-Studio](https://github.com/HanyuanWang/LiveStream-Agent-Studio)
+- **Stats:** 2,037 stars | 225 forks | 12 open issues
+- **Language:** Python | **Created:** 2026-08-22 | **License:** MIT
+- **Topics:** ai-agent, douyin, livestream, speech-to-text
+- **What it is:** 面向抖音直播电商的 Windows 本地 AI Agent Studio，贯通主播发现、直播洞察、直播复盘与短视频内容编导的统一智能工作流。
+- **Growth:** averaging ~26 stars/day since launch.
+- **Link:** https://github.com/HanyuanWang/LiveStream-Agent-Studio
+
 
 ## Other Cool Projects
 

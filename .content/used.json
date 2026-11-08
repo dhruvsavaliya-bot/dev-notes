@@ -585,6 +585,7 @@
     "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
     "https://github.com/HKUDS/CLI-Anything",
     "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+    "https://github.com/HanyuanWang/LiveStream-Agent-Studio",
     "https://github.com/Hisn00w/ASu-skills",
     "https://github.com/Human-Agent-Society/reef",
     "https://github.com/IBM/mcp-context-forge",
@@ -2551,12 +2552,6 @@
   "recent": [
     {
       "date": "2026-11-08",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: How did you convince family and friends to...",
-      "url": "https://news.ycombinator.com/item?id=50405250"
-    },
-    {
-      "date": "2026-11-08",
       "subcat": "PHP",
       "title": "Publishers Killed the Paperback, Then Blamed Readers",
       "url": "https://news.ycombinator.com/item?id=50060674"
@@ -2608,6 +2603,12 @@
       "subcat": "Lobsters Picks",
       "title": "*sshole, or when are we finally going to get rid of C?",
       "url": "https://lobste.rs/s/owsnms/sshole_when_are_we_finally_going_get_rid_c"
+    },
+    {
+      "date": "2026-11-08",
+      "subcat": "AI & Machine Learning",
+      "title": "HanyuanWang/LiveStream-Agent-Studio",
+      "url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio"
     }
   ]
 }
