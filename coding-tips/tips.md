@@ -3343,6 +3343,16 @@ Search engines now rank links full of slop at the top, which ironically make LLM
 - **Discussion:** https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side
 - **Link:** https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side
 
+**Added 2026-11-08**
+
+### [Dear Open Source Developers: It's OK not to embargo](https://opensourcesecurity.io/2026/10-embargo/)
+- **Source:** opensourcesecurity.io | **Posted:** 2026-11-07 | **By:** liberty
+- **Community:** 26 score, 2 comments on Lobsters
+- **Tags:** security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/lhovnm/dear_open_source_developers_it_s_ok_not
+- **Link:** https://opensourcesecurity.io/2026/10-embargo/
+
 
 ## Career & Craft
 

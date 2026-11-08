@@ -1510,6 +1510,7 @@
     "https://lobste.rs/s/lfusbg/atom_exhaustion_is_not_footgun_it_s_one",
     "https://lobste.rs/s/lgdxtw/c_for_rust_programmers",
     "https://lobste.rs/s/lh1j0e/shlemiel_painter_is_back_how_zig_s_libc",
+    "https://lobste.rs/s/lhovnm/dear_open_source_developers_it_s_ok_not",
     "https://lobste.rs/s/lxo74i/introducing_microlighter",
     "https://lobste.rs/s/m6fw0x/netbsd_adds_new_emacs_like_text_editor",
     "https://lobste.rs/s/maqsgl/what_are_you_doing_this_week",
@@ -2261,6 +2262,7 @@
     "https://openjdk.org/projects/jdk/27/",
     "https://openjev.com/",
     "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+    "https://opensourcesecurity.io/2026/10-embargo/",
     "https://ordinaryabundance.com/",
     "https://orionbrowser.com/",
     "https://ornith.ai/ornith_1_5.html",
@@ -2556,12 +2558,6 @@
   "recent": [
     {
       "date": "2026-11-08",
-      "subcat": "Lobsters Picks",
-      "title": "OpenBSD top(1) adds flag to show chroot, pledge and...",
-      "url": "https://lobste.rs/s/tfywf1/openbsd_top_1_adds_flag_show_chroot_pledge"
-    },
-    {
-      "date": "2026-11-08",
       "subcat": "Models & Datasets",
       "title": "openbmb/UltraX-Preview",
       "url": "https://huggingface.co/datasets/openbmb/UltraX-Preview"
@@ -2613,6 +2609,12 @@
       "subcat": "Research Papers",
       "title": "Step-Zero Attack: Agent Safety Before Observability",
       "url": "http://arxiv.org/abs/2611.01953v1"
+    },
+    {
+      "date": "2026-11-08",
+      "subcat": "Lobsters Picks",
+      "title": "Dear Open Source Developers: It's OK not to embargo",
+      "url": "https://lobste.rs/s/lhovnm/dear_open_source_developers_it_s_ok_not"
     }
   ]
 }
