@@ -3347,6 +3347,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/ep5vsq/beating_compiler_at_signed_32_bit
 - **Link:** https://lemire.me/blog/2026/10/31/beating-the-compiler-at-signed-32-bit-division/
 
+**Added 2026-11-08**
+
+### [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
+- **Source:** mitchellh.com | **Posted:** 2026-11-06 | **By:** dgv
+- **Community:** 162 score, 7 comments on Lobsters
+- **Tags:** c, release, zig
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/0ouxwf/libghostty_1_0
+- **Link:** https://mitchellh.com/writing/libghostty-1-0
+
 
 ## Performance
 
