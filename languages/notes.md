@@ -455,6 +455,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50323088
 - **Link:** https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/
 
+**Added 2026-11-08**
+
+### [rorygallagher2024/glasshouse](https://github.com/rorygallagher2024/glasshouse)
+- **Stats:** 1,960 stars | 118 forks | 87 open issues
+- **Language:** JavaScript | **Created:** 2026-09-07 | **License:** MIT
+- **Topics:** adblock, adblocker, home-assistant, lgtv, mqtt, smart-tv
+- **What it is:** For rooted LG webOS TVs: a live dashboard, privacy control, debloating, an ad & telemetry blocker, replacement home screen, and custom screensavers. Runs on the TV itself. Includes an optional Home Assistant MQTT bridge for smart home control.
+- **Growth:** averaging ~31 stars/day since launch.
+- **Link:** https://github.com/rorygallagher2024/glasshouse
+
 
 ## TypeScript
 

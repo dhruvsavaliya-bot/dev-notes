@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1797 entries and counting** · Last updated: 2026-11-08
+**1798 entries and counting** · Last updated: 2026-11-08
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 362 |
 | [Reading List](articles/reading-list.md) | 361 |
 | [Coding Tips](coding-tips/tips.md) | 361 |
-| [Language Notes](languages/notes.md) | 352 |
+| [Language Notes](languages/notes.md) | 353 |
 
 ## Latest additions
 
+- **2026-11-08** · *JavaScript* — [rorygallagher2024/glasshouse](https://github.com/rorygallagher2024/glasshouse)
 - **2026-11-08** · *Models & Datasets* — [CohereLabs/10-2026-qwen-investigation-traces](https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces)
 - **2026-11-08** · *C++* — [microsoft/intelligent-terminal](https://github.com/microsoft/intelligent-terminal)
 - **2026-11-08** · *Models & Datasets* — [ServiceNow-AI/Apriel-Voice-27B-preview](https://huggingface.co/ServiceNow-AI/Apriel-Voice-27B-preview)
 - **2026-11-08** · *Show & Ask HN* — [Show HN: ADRs for AI  Deliberation records for...](https://news.ycombinator.com/item?id=50227041)
-- **2026-11-08** · *Hacker News Picks* — [Every Mac comes with an (undocumented) family member...](https://news.ycombinator.com/item?id=50403097)
 
 ## How it works
 

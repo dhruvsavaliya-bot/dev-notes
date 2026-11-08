@@ -962,6 +962,7 @@
     "https://github.com/rjsf-team/react-jsonschema-form",
     "https://github.com/rlaope/oh-my-hermes",
     "https://github.com/robbietilton/Compositor",
+    "https://github.com/rorygallagher2024/glasshouse",
     "https://github.com/royalbhati/sqltoerdiagram",
     "https://github.com/rsutcliffe/nightwatch",
     "https://github.com/rtk-ai/rtk",
@@ -2535,12 +2536,6 @@
   "recent": [
     {
       "date": "2026-11-07",
-      "subcat": "Web & Frontend",
-      "title": "phase-rs/phase",
-      "url": "https://github.com/phase-rs/phase"
-    },
-    {
-      "date": "2026-11-07",
       "subcat": "Models & Datasets",
       "title": "espnet/yodas3",
       "url": "https://huggingface.co/datasets/espnet/yodas3"
@@ -2592,6 +2587,12 @@
       "subcat": "Models & Datasets",
       "title": "CohereLabs/10-2026-qwen-investigation-traces",
       "url": "https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces"
+    },
+    {
+      "date": "2026-11-08",
+      "subcat": "JavaScript",
+      "title": "rorygallagher2024/glasshouse",
+      "url": "https://github.com/rorygallagher2024/glasshouse"
     }
   ]
 }
