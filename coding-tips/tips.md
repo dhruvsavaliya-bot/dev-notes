@@ -2533,6 +2533,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50405250
 - **Link:** https://news.ycombinator.com/item?id=50405250
 
+**Added 2026-11-09**
+
+### [Show HN: Flipflop – Iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop)
+- **Source:** github.com | **Posted:** 2026-10-15 | **By:** andunie
+- **Community:** 148 points, 73 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50099136
+- **Link:** https://github.com/andunieee/flipflop
+
 
 ## Git & Workflow
 

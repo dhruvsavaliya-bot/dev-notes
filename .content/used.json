@@ -722,6 +722,7 @@
     "https://github.com/anderspitman/awesome-tunneling",
     "https://github.com/andrewyng/openworker",
     "https://github.com/android/ndk/issues/2260",
+    "https://github.com/andunieee/flipflop",
     "https://github.com/angusdevgo/IDM_Pro_Tool",
     "https://github.com/angusdevgo/Seep-Reverse-Lab",
     "https://github.com/anteloc/ldraw-nova",
@@ -2101,6 +2102,7 @@
     "https://news.ycombinator.com/item?id=50092470",
     "https://news.ycombinator.com/item?id=50094694",
     "https://news.ycombinator.com/item?id=50096110",
+    "https://news.ycombinator.com/item?id=50099136",
     "https://news.ycombinator.com/item?id=50100994",
     "https://news.ycombinator.com/item?id=50104726",
     "https://news.ycombinator.com/item?id=50112331",
@@ -2569,12 +2571,6 @@
   "recent": [
     {
       "date": "2026-11-08",
-      "subcat": "Research Papers",
-      "title": "Step-Zero Attack: Agent Safety Before Observability",
-      "url": "http://arxiv.org/abs/2611.01953v1"
-    },
-    {
-      "date": "2026-11-08",
       "subcat": "Lobsters Picks",
       "title": "Dear Open Source Developers: It's OK not to embargo",
       "url": "https://lobste.rs/s/lhovnm/dear_open_source_developers_it_s_ok_not"
@@ -2626,6 +2622,12 @@
       "subcat": "Hacker News Picks",
       "title": "Claude Code's \"Don't Ask Again\" exposes passwords in...",
       "url": "https://news.ycombinator.com/item?id=50407882"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Flipflop  Iroh-powered persistent tunnels...",
+      "url": "https://news.ycombinator.com/item?id=50099136"
     }
   ]
 }
