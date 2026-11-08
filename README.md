@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1824 entries and counting** · Last updated: 2026-11-09
+**1825 entries and counting** · Last updated: 2026-11-09
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 368 |
 | [AI / LLM Notes](ai/notes.md) | 366 |
-| [Reading List](articles/reading-list.md) | 367 |
+| [Reading List](articles/reading-list.md) | 368 |
 | [Coding Tips](coding-tips/tips.md) | 367 |
 | [Language Notes](languages/notes.md) | 356 |
 
 ## Latest additions
 
+- **2026-11-09** · *Hacker News Picks* — [Porting Android 16 to my blind mother's keypad phone](https://news.ycombinator.com/item?id=50366821)
 - **2026-11-09** · *AI & Machine Learning* — [huaxialucaicaizi/ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills)
 - **2026-11-09** · *Show & Ask HN* — [Show HN: Flipflop  Iroh-powered persistent tunnels...](https://news.ycombinator.com/item?id=50099136)
 - **2026-11-09** · *Hacker News Picks* — [Claude Code's "Don't Ask Again" exposes passwords in...](https://news.ycombinator.com/item?id=50407882)
 - **2026-11-09** · *Rust* — [Your Private Search Engine Might Run on Bing. This...](https://dev.to/startupcafe/your-private-search-engine-might-run-on-bing-this-one-builds-its-own-index-4all)
-- **2026-11-09** · *AI & Machine Learning* — [hypit-ai/hypit](https://github.com/hypit-ai/hypit)
 
 ## How it works
 

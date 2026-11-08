@@ -2324,6 +2324,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50407882
 - **Link:** https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again
 
+**Added 2026-11-09**
+
+### [Porting Android 16 to my blind mother's keypad phone](https://z1x.us/blog/four-hundred-bucks-of-e-waste)
+- **Source:** z1x.us | **Posted:** 2026-11-04 | **By:** z1xus
+- **Community:** 143 points, 43 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50366821
+- **Link:** https://z1x.us/blog/four-hundred-bucks-of-e-waste
+
 
 ## DevOps & Cloud
 
