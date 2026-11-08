@@ -776,6 +776,7 @@
     "https://github.com/crmne/spotifast",
     "https://github.com/d11wtq/boris",
     "https://github.com/danyuchn/asd-ste100-skill",
+    "https://github.com/darrenprx/lolPing",
     "https://github.com/darshi1337/apogee",
     "https://github.com/databufflabs/databuff",
     "https://github.com/dataelement/dsh-desktop",
@@ -2558,12 +2559,6 @@
   "recent": [
     {
       "date": "2026-11-08",
-      "subcat": "Models & Datasets",
-      "title": "openbmb/UltraX-Preview",
-      "url": "https://huggingface.co/datasets/openbmb/UltraX-Preview"
-    },
-    {
-      "date": "2026-11-08",
       "subcat": "Other Cool Projects",
       "title": "dulaiduwang003/Pavise-Game",
       "url": "https://github.com/dulaiduwang003/Pavise-Game"
@@ -2615,6 +2610,12 @@
       "subcat": "Lobsters Picks",
       "title": "Dear Open Source Developers: It's OK not to embargo",
       "url": "https://lobste.rs/s/lhovnm/dear_open_source_developers_it_s_ok_not"
+    },
+    {
+      "date": "2026-11-08",
+      "subcat": "AI & Machine Learning",
+      "title": "darrenprx/lolPing",
+      "url": "https://github.com/darrenprx/lolPing"
     }
   ]
 }

@@ -1694,6 +1694,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~68 stars/day since launch.
 - **Link:** https://github.com/nateherkai/roast-room
 
+**Added 2026-11-08**
+
+### [darrenprx/lolPing](https://github.com/darrenprx/lolPing)
+- **Stats:** 1,904 stars | 153 forks | 39 open issues
+- **Language:** TypeScript | **Created:** 2026-10-02 | **License:** NOASSERTION
+- **Topics:** cpp, desktop-overlay, electron, fluent-ui, league-of-legends, ping-wheel
+- **What it is:** League of Legends ping wheel for your Windows desktop. Hold Alt, drag, and ping anywhere, with the original animations and sounds.
+- **Growth:** averaging ~51 stars/day since launch.
+- **Link:** https://github.com/darrenprx/lolPing
+
 
 ## Other Cool Projects
 
