@@ -1684,6 +1684,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~26 stars/day since launch.
 - **Link:** https://github.com/HanyuanWang/LiveStream-Agent-Studio
 
+**Added 2026-11-08**
+
+### [nateherkai/roast-room](https://github.com/nateherkai/roast-room)
+- **Stats:** 1,980 stars | 465 forks | 12 open issues
+- **Language:** JavaScript | **Created:** 2026-10-10 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.
+- **Growth:** averaging ~68 stars/day since launch.
+- **Link:** https://github.com/nateherkai/roast-room
+
 
 ## Other Cool Projects
 
