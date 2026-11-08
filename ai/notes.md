@@ -2400,6 +2400,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces
 
+**Added 2026-11-08**
+
+### [openbmb/UltraX-Preview](https://huggingface.co/datasets/openbmb/UltraX-Preview)
+- **Stats:** 300 likes | 13,781 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-06-10
+- **Tags:** llm, pretraining, web-corpus, data-refinement, programmatic-editing, function-calling
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/openbmb/UltraX-Preview
+
 
 ## Research Papers
 

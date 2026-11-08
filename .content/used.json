@@ -1247,6 +1247,7 @@
     "https://huggingface.co/datasets/openbmb/UltraData-Code",
     "https://huggingface.co/datasets/openbmb/UltraData-RL-2609",
     "https://huggingface.co/datasets/openbmb/UltraData-SFT-Agent-2609",
+    "https://huggingface.co/datasets/openbmb/UltraX-Preview",
     "https://huggingface.co/datasets/pixparse/idl-wds",
     "https://huggingface.co/datasets/r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation",
     "https://huggingface.co/datasets/scenario-labs/3d-collection",
@@ -2545,12 +2546,6 @@
   "recent": [
     {
       "date": "2026-11-08",
-      "subcat": "Models & Datasets",
-      "title": "ServiceNow-AI/Apriel-Voice-27B-preview",
-      "url": "https://huggingface.co/ServiceNow-AI/Apriel-Voice-27B-preview"
-    },
-    {
-      "date": "2026-11-08",
       "subcat": "C++",
       "title": "microsoft/intelligent-terminal",
       "url": "https://github.com/microsoft/intelligent-terminal"
@@ -2602,6 +2597,12 @@
       "subcat": "Lobsters Picks",
       "title": "OpenBSD top(1) adds flag to show chroot, pledge and...",
       "url": "https://lobste.rs/s/tfywf1/openbsd_top_1_adds_flag_show_chroot_pledge"
+    },
+    {
+      "date": "2026-11-08",
+      "subcat": "Models & Datasets",
+      "title": "openbmb/UltraX-Preview",
+      "url": "https://huggingface.co/datasets/openbmb/UltraX-Preview"
     }
   ]
 }
