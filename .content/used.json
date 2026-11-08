@@ -94,6 +94,7 @@
     "http://arxiv.org/abs/2610.38243v1",
     "http://arxiv.org/abs/2610.40396v1",
     "http://arxiv.org/abs/2610.40444v1",
+    "http://arxiv.org/abs/2611.02123v1",
     "http://arxiv.org/abs/2611.02248v1",
     "http://arxiv.org/abs/2611.02936v1",
     "http://arxiv.org/abs/2611.04320v1",
@@ -2552,12 +2553,6 @@
   "recent": [
     {
       "date": "2026-11-08",
-      "subcat": "PHP",
-      "title": "Publishers Killed the Paperback, Then Blamed Readers",
-      "url": "https://news.ycombinator.com/item?id=50060674"
-    },
-    {
-      "date": "2026-11-08",
       "subcat": "Lobsters Picks",
       "title": "Beating the compiler at signed 32-bit division",
       "url": "https://lobste.rs/s/ep5vsq/beating_compiler_at_signed_32_bit"
@@ -2609,6 +2604,12 @@
       "subcat": "AI & Machine Learning",
       "title": "HanyuanWang/LiveStream-Agent-Studio",
       "url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio"
+    },
+    {
+      "date": "2026-11-08",
+      "subcat": "Research Papers",
+      "title": "Bounded Retained History in a Proxy Flow Replay: A...",
+      "url": "http://arxiv.org/abs/2611.02123v1"
     }
   ]
 }

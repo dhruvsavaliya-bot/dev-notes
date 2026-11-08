@@ -3362,6 +3362,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.06711v1
 
+**Added 2026-11-08**
+
+### [Bounded Retained History in a Proxy Flow Replay: A Mixed Predictive Pilot and an Allocation Study](http://arxiv.org/abs/2611.02123v1)
+- **Authors:** Juan S. Santillana
+- **Published:** 2026-11-01 | **Primary category:** cs.CR
+- **Categories:** cs.CR, cs.LG, cs.NI
+- **Abstract:** We examine bounded retained history through a frozen predictive pilot and a subsequent allocation study on a curated UNSW-NB15 flow mirror. Both use an artificial release-order replay based on raw ltime ticks, with equal-tick records querying a shared prior-group state. In the pilot, the model with added retained relational features had lower reconnaissance recall than the current-flow-plus-counters baseline (43.66% versus 47.84%) and lower benign false-positive rate (3.63% versus 6.68%) at sepa...
+- **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.02123v1
+
 
 ## Computer Vision
 
