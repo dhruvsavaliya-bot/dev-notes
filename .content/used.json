@@ -1487,6 +1487,7 @@
     "https://lobste.rs/s/ily7as/programming_isn_t_special",
     "https://lobste.rs/s/imdwmj/pandas_should_go_extinct",
     "https://lobste.rs/s/iotaty/state_simd_rust_2026",
+    "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
     "https://lobste.rs/s/iufma5/parsing_json_at_tens_gigabytes_per_second",
     "https://lobste.rs/s/j7kltq/turbo_haskell",
     "https://lobste.rs/s/jbnmj9/chatgpt_now_knows_what_you_do_on_other",
@@ -2553,12 +2554,6 @@
   "recent": [
     {
       "date": "2026-11-08",
-      "subcat": "Lobsters Picks",
-      "title": "Beating the compiler at signed 32-bit division",
-      "url": "https://lobste.rs/s/ep5vsq/beating_compiler_at_signed_32_bit"
-    },
-    {
-      "date": "2026-11-08",
       "subcat": "AI & Machine Learning",
       "title": "nightly-labs/openbot",
       "url": "https://github.com/nightly-labs/openbot"
@@ -2610,6 +2605,12 @@
       "subcat": "Research Papers",
       "title": "Bounded Retained History in a Proxy Flow Replay: A...",
       "url": "http://arxiv.org/abs/2611.02123v1"
+    },
+    {
+      "date": "2026-11-08",
+      "subcat": "Lobsters Picks",
+      "title": "How are you dealing with all the negative side...",
+      "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side"
     }
   ]
 }

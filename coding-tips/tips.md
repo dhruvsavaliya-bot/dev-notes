@@ -3331,6 +3331,18 @@ I am posting the meetup prior to receiving their approval, so that those of you 
 - **Discussion:** https://lobste.rs/s/owsnms/sshole_when_are_we_finally_going_get_rid_c
 - **Link:** https://sunshowers.io/posts/sshole/
 
+**Added 2026-11-08**
+
+### [How are you dealing with all the negative side effects of AI on the web?](https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side)
+- **Source:** lobste.rs | **Posted:** 2026-11-07 | **By:** tmcb
+- **Community:** 81 score, 72 comments on Lobsters
+- **Tags:** ask, web
+- **Summary:** It seems to me that the AI hype killed the web for good, but not for the reasons we immediately associate with it.
+
+Search engines now rank links full of slop at the top, which ironically make LLM summaries acceptable, not because they are better than what we had before (they are not), but because they at least mention the good links which are now buried at the bottom of the page. Also, they've ...
+- **Discussion:** https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side
+- **Link:** https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side
+
 
 ## Career & Craft
 
