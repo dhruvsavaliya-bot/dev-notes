@@ -1528,6 +1528,7 @@
     "https://lobste.rs/s/ogp1wf/inline_rendering_with_document",
     "https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live",
     "https://lobste.rs/s/opqtiv/finding_panics_with_call_graph_analyzer",
+    "https://lobste.rs/s/owsnms/sshole_when_are_we_finally_going_get_rid_c",
     "https://lobste.rs/s/paryb7/rails_is_done",
     "https://lobste.rs/s/pioj21/performance_cost_rwlock_our_read_heavy",
     "https://lobste.rs/s/plbei0/openfatigue_open_is_new_closed",
@@ -2345,6 +2346,7 @@
     "https://substack.com/home/post/p-186191026",
     "https://sujithjay.com/inventing-work",
     "https://sunshowers.io/posts/anthropic-mononoke/",
+    "https://sunshowers.io/posts/sshole/",
     "https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en",
     "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
     "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
@@ -2549,12 +2551,6 @@
   "recent": [
     {
       "date": "2026-11-08",
-      "subcat": "JavaScript",
-      "title": "rorygallagher2024/glasshouse",
-      "url": "https://github.com/rorygallagher2024/glasshouse"
-    },
-    {
-      "date": "2026-11-08",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: How did you convince family and friends to...",
       "url": "https://news.ycombinator.com/item?id=50405250"
@@ -2606,6 +2602,12 @@
       "subcat": "Lobsters Picks",
       "title": "Libghostty 1.0",
       "url": "https://lobste.rs/s/0ouxwf/libghostty_1_0"
+    },
+    {
+      "date": "2026-11-08",
+      "subcat": "Lobsters Picks",
+      "title": "*sshole, or when are we finally going to get rid of C?",
+      "url": "https://lobste.rs/s/owsnms/sshole_when_are_we_finally_going_get_rid_c"
     }
   ]
 }

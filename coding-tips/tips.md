@@ -3321,6 +3321,16 @@ I am posting the meetup prior to receiving their approval, so that those of you 
 - **Discussion:** https://lobste.rs/s/tfywf1/openbsd_top_1_adds_flag_show_chroot_pledge
 - **Link:** https://undeadly.org/cgi?action=article;sid=20261106104957
 
+**Added 2026-11-08**
+
+### [*sshole, or when are we finally going to get rid of C?](https://sunshowers.io/posts/sshole/)
+- **Source:** sunshowers.io | **Posted:** 2026-11-07 | **By:** novedevo
+- **Community:** 40 score, 69 comments on Lobsters
+- **Tags:** rant
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/owsnms/sshole_when_are_we_finally_going_get_rid_c
+- **Link:** https://sunshowers.io/posts/sshole/
+
 
 ## Career & Craft
 
