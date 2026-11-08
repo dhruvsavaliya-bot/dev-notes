@@ -2315,6 +2315,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50296470
 - **Link:** https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8
 
+**Added 2026-11-09**
+
+### [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)
+- **Source:** apiiro.com | **Posted:** 2026-11-07 | **By:** shmulc
+- **Community:** 574 points, 390 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50407882
+- **Link:** https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again
+
 
 ## DevOps & Cloud
 

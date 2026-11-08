@@ -154,6 +154,7 @@
     "https://antonz.org/go-concurrency-distilled/",
     "https://antonz.org/go-concurrency/",
     "https://anycrap.shop/",
+    "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
     "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
     "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
     "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
@@ -2233,6 +2234,7 @@
     "https://news.ycombinator.com/item?id=50403097",
     "https://news.ycombinator.com/item?id=50405250",
     "https://news.ycombinator.com/item?id=50406222",
+    "https://news.ycombinator.com/item?id=50407882",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2567,12 +2569,6 @@
   "recent": [
     {
       "date": "2026-11-08",
-      "subcat": "AI & Machine Learning",
-      "title": "nateherkai/roast-room",
-      "url": "https://github.com/nateherkai/roast-room"
-    },
-    {
-      "date": "2026-11-08",
       "subcat": "Research Papers",
       "title": "Step-Zero Attack: Agent Safety Before Observability",
       "url": "http://arxiv.org/abs/2611.01953v1"
@@ -2624,6 +2620,12 @@
       "subcat": "Rust",
       "title": "Your Private Search Engine Might Run on Bing. This...",
       "url": "https://dev.to/startupcafe/your-private-search-engine-might-run-on-bing-this-one-builds-its-own-index-4all"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "Hacker News Picks",
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in...",
+      "url": "https://news.ycombinator.com/item?id=50407882"
     }
   ]
 }
