@@ -3372,6 +3372,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.02123v1
 
+**Added 2026-11-08**
+
+### [Step-Zero Attack: Agent Safety Before Observability](http://arxiv.org/abs/2611.01953v1)
+- **Authors:** Tian Qin, Yuhang Jiang, Junzhe Chen, Lit Sin Tan et al.
+- **Published:** 2026-11-01 | **Primary category:** cs.CR
+- **Categories:** cs.CR, cs.AI, cs.SE
+- **Abstract:** Existing attacks and defenses for coding agents act once content enters the model context: injected text persuades the model, and guards inspect what the model reads. Yet to judge whether processing an unknown archive, network response, or image is safe, an agent often must process it first, and that step can do harm before any content reaches the model. We call this first processing Step Zero, and harm done by it a Step-Zero attack. Across seven harnesses and six models, each agent received onl...
+- **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.01953v1
+
 
 ## Computer Vision
 

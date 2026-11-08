@@ -94,6 +94,7 @@
     "http://arxiv.org/abs/2610.38243v1",
     "http://arxiv.org/abs/2610.40396v1",
     "http://arxiv.org/abs/2610.40444v1",
+    "http://arxiv.org/abs/2611.01953v1",
     "http://arxiv.org/abs/2611.02123v1",
     "http://arxiv.org/abs/2611.02248v1",
     "http://arxiv.org/abs/2611.02936v1",
@@ -2555,12 +2556,6 @@
   "recent": [
     {
       "date": "2026-11-08",
-      "subcat": "Open Source",
-      "title": "I Built slothd: A Local-First, Offline-Capable AI...",
-      "url": "https://dev.to/dj29/i-built-slothd-a-local-first-offline-capable-ai-daemon-that-patiently-organizes-your-messy-53e7"
-    },
-    {
-      "date": "2026-11-08",
       "subcat": "Lobsters Picks",
       "title": "OpenBSD top(1) adds flag to show chroot, pledge and...",
       "url": "https://lobste.rs/s/tfywf1/openbsd_top_1_adds_flag_show_chroot_pledge"
@@ -2612,6 +2607,12 @@
       "subcat": "AI & Machine Learning",
       "title": "nateherkai/roast-room",
       "url": "https://github.com/nateherkai/roast-room"
+    },
+    {
+      "date": "2026-11-08",
+      "subcat": "Research Papers",
+      "title": "Step-Zero Attack: Agent Safety Before Observability",
+      "url": "http://arxiv.org/abs/2611.01953v1"
     }
   ]
 }
