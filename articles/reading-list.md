@@ -2297,6 +2297,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50403097
 - **Link:** https://8rank.ai/game/apple-intelligence-personal-knowledge-graph
 
+**Added 2026-11-09**
+
+### [MaxxBench – "Nice DeepSWE score. But is it true?"](https://maxxbench.unlap.ai/research/why-maxxbench/)
+- **Source:** maxxbench.unlap.ai | **Posted:** 2026-11-07 | **By:** antiuniverse
+- **Community:** 374 points, 101 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50406222
+- **Link:** https://maxxbench.unlap.ai/research/why-maxxbench/
+
 
 ## DevOps & Cloud
 

@@ -1642,6 +1642,7 @@
     "https://mastodon.sdf.org/@netbsd/117518160563539748",
     "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
     "https://matklad.github.io/2026/10/29/pub-calls-pub.html",
+    "https://maxxbench.unlap.ai/research/why-maxxbench/",
     "https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/",
     "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders",
     "https://memories.gallery/",
@@ -2226,6 +2227,7 @@
     "https://news.ycombinator.com/item?id=50393105",
     "https://news.ycombinator.com/item?id=50403097",
     "https://news.ycombinator.com/item?id=50405250",
+    "https://news.ycombinator.com/item?id=50406222",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2561,12 +2563,6 @@
     {
       "date": "2026-11-08",
       "subcat": "Lobsters Picks",
-      "title": "Libghostty 1.0",
-      "url": "https://lobste.rs/s/0ouxwf/libghostty_1_0"
-    },
-    {
-      "date": "2026-11-08",
-      "subcat": "Lobsters Picks",
       "title": "*sshole, or when are we finally going to get rid of C?",
       "url": "https://lobste.rs/s/owsnms/sshole_when_are_we_finally_going_get_rid_c"
     },
@@ -2617,6 +2613,12 @@
       "subcat": "Swift",
       "title": "v-modal/vmodal_sdk_swift_iphoneduo",
       "url": "https://github.com/v-modal/vmodal_sdk_swift_iphoneduo"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "Hacker News Picks",
+      "title": "MaxxBench  \"Nice DeepSWE score. But is it true?\"",
+      "url": "https://news.ycombinator.com/item?id=50406222"
     }
   ]
 }
