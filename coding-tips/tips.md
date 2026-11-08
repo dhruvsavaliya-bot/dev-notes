@@ -2524,6 +2524,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50227041
 - **Link:** https://adrs.systems
 
+**Added 2026-11-08**
+
+### [Ask HN: How did you convince family and friends to join your XMPP/Matrix server?](https://news.ycombinator.com/item?id=50405250)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-07 | **By:** mtlynch
+- **Community:** 78 points, 71 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50405250
+- **Link:** https://news.ycombinator.com/item?id=50405250
+
 
 ## Git & Workflow
 

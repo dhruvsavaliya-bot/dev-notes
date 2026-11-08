@@ -2205,6 +2205,7 @@
     "https://news.ycombinator.com/item?id=50383057",
     "https://news.ycombinator.com/item?id=50393105",
     "https://news.ycombinator.com/item?id=50403097",
+    "https://news.ycombinator.com/item?id=50405250",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2536,12 +2537,6 @@
   "recent": [
     {
       "date": "2026-11-07",
-      "subcat": "Models & Datasets",
-      "title": "espnet/yodas3",
-      "url": "https://huggingface.co/datasets/espnet/yodas3"
-    },
-    {
-      "date": "2026-11-07",
       "subcat": "Rust",
       "title": "Google illegally cut down 250K trees in Finland for...",
       "url": "https://news.ycombinator.com/item?id=50221676"
@@ -2593,6 +2588,12 @@
       "subcat": "JavaScript",
       "title": "rorygallagher2024/glasshouse",
       "url": "https://github.com/rorygallagher2024/glasshouse"
+    },
+    {
+      "date": "2026-11-08",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: How did you convince family and friends to...",
+      "url": "https://news.ycombinator.com/item?id=50405250"
     }
   ]
 }
