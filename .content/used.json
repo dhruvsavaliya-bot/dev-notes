@@ -1553,6 +1553,7 @@
     "https://lobste.rs/s/sxlf4a/goodbye_google",
     "https://lobste.rs/s/ta2ojd/letter_from_machine_learning_engineer",
     "https://lobste.rs/s/tfjoxv/actual_budget",
+    "https://lobste.rs/s/tfywf1/openbsd_top_1_adds_flag_show_chroot_pledge",
     "https://lobste.rs/s/tmr7jp/extend_lua_with_zig_1_hello_world",
     "https://lobste.rs/s/tp0zlk/stackless_floodfill_automation_2023",
     "https://lobste.rs/s/tsfs3w/why_function_arguments_are_not_function",
@@ -2369,6 +2370,7 @@
     "https://twitter.com/moxie/status/2091218652133732491",
     "https://twitter.com/paulg/status/2091544343589060625",
     "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "https://undeadly.org/cgi?action=article;sid=20261106104957",
     "https://unim.press/#dataisbeautiful",
     "https://unlisted.careers/ghost-jobs/report/2026-09",
     "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
@@ -2543,12 +2545,6 @@
   "recent": [
     {
       "date": "2026-11-08",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: ADRs for AI  Deliberation records for...",
-      "url": "https://news.ycombinator.com/item?id=50227041"
-    },
-    {
-      "date": "2026-11-08",
       "subcat": "Models & Datasets",
       "title": "ServiceNow-AI/Apriel-Voice-27B-preview",
       "url": "https://huggingface.co/ServiceNow-AI/Apriel-Voice-27B-preview"
@@ -2600,6 +2596,12 @@
       "subcat": "Open Source",
       "title": "I Built slothd: A Local-First, Offline-Capable AI...",
       "url": "https://dev.to/dj29/i-built-slothd-a-local-first-offline-capable-ai-daemon-that-patiently-organizes-your-messy-53e7"
+    },
+    {
+      "date": "2026-11-08",
+      "subcat": "Lobsters Picks",
+      "title": "OpenBSD top(1) adds flag to show chroot, pledge and...",
+      "url": "https://lobste.rs/s/tfywf1/openbsd_top_1_adds_flag_show_chroot_pledge"
     }
   ]
 }

@@ -3311,6 +3311,16 @@ I am posting the meetup prior to receiving their approval, so that those of you 
 - **Discussion:** https://lobste.rs/s/0agusd/upgrading_netbsd_from_11_0_11_1
 - **Link:** https://www.dwarmstrong.org/netbsd-upgrade/
 
+**Added 2026-11-08**
+
+### [OpenBSD top(1) adds flag to show chroot, pledge and unveil status](https://undeadly.org/cgi?action=article;sid=20261106104957)
+- **Source:** undeadly.org | **Posted:** 2026-11-07 | **By:** mairo
+- **Community:** 21 score, 1 comments on Lobsters
+- **Tags:** openbsd, security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/tfywf1/openbsd_top_1_adds_flag_show_chroot_pledge
+- **Link:** https://undeadly.org/cgi?action=article;sid=20261106104957
+
 
 ## Career & Craft
 
