@@ -798,6 +798,7 @@
     "https://github.com/dsh-tauri/deepseek-harness-desktop",
     "https://github.com/dsmurrell/onkey",
     "https://github.com/dtonon/squalk",
+    "https://github.com/dulaiduwang003/Pavise-Game",
     "https://github.com/duty1g/x64dbg-mcp-server",
     "https://github.com/dzhng/jevgrep",
     "https://github.com/edrisranjbar/lifeos",
@@ -2546,12 +2547,6 @@
   "recent": [
     {
       "date": "2026-11-08",
-      "subcat": "C++",
-      "title": "microsoft/intelligent-terminal",
-      "url": "https://github.com/microsoft/intelligent-terminal"
-    },
-    {
-      "date": "2026-11-08",
       "subcat": "Models & Datasets",
       "title": "CohereLabs/10-2026-qwen-investigation-traces",
       "url": "https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces"
@@ -2603,6 +2598,12 @@
       "subcat": "Models & Datasets",
       "title": "openbmb/UltraX-Preview",
       "url": "https://huggingface.co/datasets/openbmb/UltraX-Preview"
+    },
+    {
+      "date": "2026-11-08",
+      "subcat": "Other Cool Projects",
+      "title": "dulaiduwang003/Pavise-Game",
+      "url": "https://github.com/dulaiduwang003/Pavise-Game"
     }
   ]
 }

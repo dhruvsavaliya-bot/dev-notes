@@ -3087,6 +3087,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~108 stars/day since launch.
 - **Link:** https://github.com/windows-GPU-UNLOCK/Windows-GPU-UNLOCK
 
+**Added 2026-11-08**
+
+### [dulaiduwang003/Pavise-Game](https://github.com/dulaiduwang003/Pavise-Game)
+- **Stats:** 945 stars | 45 forks | 1 open issues
+- **Language:** C# | **Created:** 2026-08-02 | **License:** GPL-3.0
+- **Topics:** cpu-affinity, csharp, dotnet, frame-time, game-optimizer-2026, gaming
+- **What it is:** Open-source Windows game resource manager. Suppresses background processes, gives games exclusive CPU cores, steers device interrupts off game cores, applies per-game GPU driver, memory and power policies, and restores every change after play. No injection, no telemetry. GPL-3.0.
+- **Growth:** averaging ~9 stars/day since launch.
+- **Link:** https://github.com/dulaiduwang003/Pavise-Game
+
 
 ## Web & Frontend
 
