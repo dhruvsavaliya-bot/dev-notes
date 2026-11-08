@@ -1714,6 +1714,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~277 stars/day since launch.
 - **Link:** https://github.com/hypit-ai/hypit
 
+**Added 2026-11-09**
+
+### [huaxialucaicaizi/ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills)
+- **Stats:** 921 stars | 64 forks | 1 open issues
+- **Language:** Python | **Created:** 2026-10-22 | **License:** NOASSERTION
+- **Topics:** agent-skills, ai, business-plan, claude-code, codex, cursor
+- **What it is:** 创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。
+- **Growth:** averaging ~51 stars/day since launch.
+- **Link:** https://github.com/huaxialucaicaizi/ai-startup-skills
+
 
 ## Other Cool Projects
 

@@ -838,6 +838,7 @@
     "https://github.com/heydamir/unslop",
     "https://github.com/hoainho/img2threejs",
     "https://github.com/huaotem-bot/gezi-quark-downloader",
+    "https://github.com/huaxialucaicaizi/ai-startup-skills",
     "https://github.com/hugohe3/ppt-master",
     "https://github.com/hypit-ai/hypit",
     "https://github.com/iBUHub/AIStudioToAPI",
@@ -2571,12 +2572,6 @@
   "recent": [
     {
       "date": "2026-11-08",
-      "subcat": "Lobsters Picks",
-      "title": "Dear Open Source Developers: It's OK not to embargo",
-      "url": "https://lobste.rs/s/lhovnm/dear_open_source_developers_it_s_ok_not"
-    },
-    {
-      "date": "2026-11-08",
       "subcat": "AI & Machine Learning",
       "title": "darrenprx/lolPing",
       "url": "https://github.com/darrenprx/lolPing"
@@ -2628,6 +2623,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Flipflop  Iroh-powered persistent tunnels...",
       "url": "https://news.ycombinator.com/item?id=50099136"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "AI & Machine Learning",
+      "title": "huaxialucaicaizi/ai-startup-skills",
+      "url": "https://github.com/huaxialucaicaizi/ai-startup-skills"
     }
   ]
 }
