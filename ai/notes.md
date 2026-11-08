@@ -2391,6 +2391,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/ServiceNow-AI/Apriel-Voice-27B-preview
 
+**Added 2026-11-08**
+
+### [CohereLabs/10-2026-qwen-investigation-traces](https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces)
+- **Stats:** 105 likes | 7,827 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-10-26
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces
+
 
 ## Research Papers
 

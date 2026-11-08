@@ -1166,6 +1166,7 @@
     "https://huggingface.co/datasets/BodyMaps/CancerVerse",
     "https://huggingface.co/datasets/CMRobot/MotionDecode",
     "https://huggingface.co/datasets/CodeDevX/Vibe-Coding-Instruct",
+    "https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces",
     "https://huggingface.co/datasets/FlyRank/internship-warehouse",
     "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
     "https://huggingface.co/datasets/Helsinki-NLP/opus-100",
@@ -2534,12 +2535,6 @@
   "recent": [
     {
       "date": "2026-11-07",
-      "subcat": "Rust",
-      "title": "Jailbreaking my car's navigation system just so I can...",
-      "url": "https://news.ycombinator.com/item?id=50339288"
-    },
-    {
-      "date": "2026-11-07",
       "subcat": "Web & Frontend",
       "title": "phase-rs/phase",
       "url": "https://github.com/phase-rs/phase"
@@ -2591,6 +2586,12 @@
       "subcat": "C++",
       "title": "microsoft/intelligent-terminal",
       "url": "https://github.com/microsoft/intelligent-terminal"
+    },
+    {
+      "date": "2026-11-08",
+      "subcat": "Models & Datasets",
+      "title": "CohereLabs/10-2026-qwen-investigation-traces",
+      "url": "https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces"
     }
   ]
 }
