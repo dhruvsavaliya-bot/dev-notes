@@ -890,6 +890,7 @@
     "https://github.com/mcncarl/jianying-headless",
     "https://github.com/mekos2772/ios-location-spoofer",
     "https://github.com/mesamirh/MovieBox-Tui",
+    "https://github.com/microsoft/intelligent-terminal",
     "https://github.com/microsoft/skill-recorder",
     "https://github.com/midesoft/rankGap",
     "https://github.com/mikroverk/esp32sim",
@@ -2533,12 +2534,6 @@
   "recent": [
     {
       "date": "2026-11-07",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: What in the world is taking Ubuntu so long?",
-      "url": "https://news.ycombinator.com/item?id=50393105"
-    },
-    {
-      "date": "2026-11-07",
       "subcat": "Rust",
       "title": "Jailbreaking my car's navigation system just so I can...",
       "url": "https://news.ycombinator.com/item?id=50339288"
@@ -2590,6 +2585,12 @@
       "subcat": "Models & Datasets",
       "title": "ServiceNow-AI/Apriel-Voice-27B-preview",
       "url": "https://huggingface.co/ServiceNow-AI/Apriel-Voice-27B-preview"
+    },
+    {
+      "date": "2026-11-08",
+      "subcat": "C++",
+      "title": "microsoft/intelligent-terminal",
+      "url": "https://github.com/microsoft/intelligent-terminal"
     }
   ]
 }

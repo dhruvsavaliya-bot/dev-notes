@@ -2941,6 +2941,16 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Growth:** averaging ~3 stars/day since launch.
 - **Link:** https://github.com/noctalia-dev/noctalia-greeter
 
+**Added 2026-11-08**
+
+### [microsoft/intelligent-terminal](https://github.com/microsoft/intelligent-terminal)
+- **Stats:** 2,179 stars | 175 forks | 206 open issues
+- **Language:** C++ | **Created:** 2026-05-18 | **License:** MIT
+- **Topics:** acp, agent, agent-client-protocol, agentic-ai, ai, cli
+- **What it is:** A fork of Windows Terminal with native agent integration, right in your command line.
+- **Growth:** averaging ~12 stars/day since launch.
+- **Link:** https://github.com/microsoft/intelligent-terminal
+
 
 ## SQL & Databases
 
