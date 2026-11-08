@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1818 entries and counting** · Last updated: 2026-11-09
+**1819 entries and counting** · Last updated: 2026-11-09
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 366 |
 | [AI / LLM Notes](ai/notes.md) | 366 |
-| [Reading List](articles/reading-list.md) | 365 |
+| [Reading List](articles/reading-list.md) | 366 |
 | [Coding Tips](coding-tips/tips.md) | 366 |
 | [Language Notes](languages/notes.md) | 355 |
 
 ## Latest additions
 
+- **2026-11-09** · *Hacker News Picks* — [Binance-hacker-1029  $5.6B stolen from Binance](https://news.ycombinator.com/item?id=50296470)
 - **2026-11-09** · *Research Papers* — [Prospective Memory for Proactive LLM Agents](http://arxiv.org/abs/2611.05731v1)
 - **2026-11-09** · *Hacker News Picks* — [MaxxBench  "Nice DeepSWE score. But is it true?"](https://news.ycombinator.com/item?id=50406222)
 - **2026-11-08** · *Swift* — [v-modal/vmodal_sdk_swift_iphoneduo](https://github.com/v-modal/vmodal_sdk_swift_iphoneduo)
 - **2026-11-08** · *AI & Machine Learning* — [darrenprx/lolPing](https://github.com/darrenprx/lolPing)
-- **2026-11-08** · *Lobsters Picks* — [Dear Open Source Developers: It's OK not to embargo](https://lobste.rs/s/lhovnm/dear_open_source_developers_it_s_ok_not)
 
 ## How it works
 

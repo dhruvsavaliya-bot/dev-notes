@@ -165,6 +165,7 @@
     "https://arcprize.org/results/deepseek-v4-flash-0731",
     "https://aresluna.org/the-hardest-working-font-in-manhattan/",
     "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+    "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
     "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
     "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
     "https://arxiv.org/abs/2608.00146",
@@ -2186,6 +2187,7 @@
     "https://news.ycombinator.com/item?id=50294506",
     "https://news.ycombinator.com/item?id=50295450",
     "https://news.ycombinator.com/item?id=50295821",
+    "https://news.ycombinator.com/item?id=50296470",
     "https://news.ycombinator.com/item?id=50296486",
     "https://news.ycombinator.com/item?id=50297697",
     "https://news.ycombinator.com/item?id=50300683",
@@ -2563,12 +2565,6 @@
   "recent": [
     {
       "date": "2026-11-08",
-      "subcat": "AI & Machine Learning",
-      "title": "HanyuanWang/LiveStream-Agent-Studio",
-      "url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio"
-    },
-    {
-      "date": "2026-11-08",
       "subcat": "Research Papers",
       "title": "Bounded Retained History in a Proxy Flow Replay: A...",
       "url": "http://arxiv.org/abs/2611.02123v1"
@@ -2620,6 +2616,12 @@
       "subcat": "Research Papers",
       "title": "Prospective Memory for Proactive LLM Agents",
       "url": "http://arxiv.org/abs/2611.05731v1"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "Hacker News Picks",
+      "title": "Binance-hacker-1029  $5.6B stolen from Binance",
+      "url": "https://news.ycombinator.com/item?id=50296470"
     }
   ]
 }

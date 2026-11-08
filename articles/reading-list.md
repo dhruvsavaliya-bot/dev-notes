@@ -2306,6 +2306,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50406222
 - **Link:** https://maxxbench.unlap.ai/research/why-maxxbench/
 
+**Added 2026-11-09**
+
+### [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
+- **Source:** arkm.com | **Posted:** 2026-10-29 | **By:** Tiberium
+- **Community:** 1764 points, 1268 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50296470
+- **Link:** https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8
+
 
 ## DevOps & Cloud
 
