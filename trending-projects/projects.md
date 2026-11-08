@@ -1704,6 +1704,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~51 stars/day since launch.
 - **Link:** https://github.com/darrenprx/lolPing
 
+**Added 2026-11-09**
+
+### [hypit-ai/hypit](https://github.com/hypit-ai/hypit)
+- **Stats:** 28,605 stars | 3,315 forks | 102 open issues
+- **Language:** TypeScript | **Created:** 2026-07-29 | **License:** NOASSERTION
+- **Topics:** agentic-ai, ai, ai-agents, ai-video, compiler, dsl
+- **What it is:** Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
+- **Growth:** averaging ~277 stars/day since launch.
+- **Link:** https://github.com/hypit-ai/hypit
+
 
 ## Other Cool Projects
 

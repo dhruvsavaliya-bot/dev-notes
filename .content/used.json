@@ -836,6 +836,7 @@
     "https://github.com/hoainho/img2threejs",
     "https://github.com/huaotem-bot/gezi-quark-downloader",
     "https://github.com/hugohe3/ppt-master",
+    "https://github.com/hypit-ai/hypit",
     "https://github.com/iBUHub/AIStudioToAPI",
     "https://github.com/iamlukethedev/Claw3D",
     "https://github.com/igorkulman/SwiftPascalInterpreter",
@@ -2565,12 +2566,6 @@
   "recent": [
     {
       "date": "2026-11-08",
-      "subcat": "Research Papers",
-      "title": "Bounded Retained History in a Proxy Flow Replay: A...",
-      "url": "http://arxiv.org/abs/2611.02123v1"
-    },
-    {
-      "date": "2026-11-08",
       "subcat": "Lobsters Picks",
       "title": "How are you dealing with all the negative side...",
       "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side"
@@ -2622,6 +2617,12 @@
       "subcat": "Hacker News Picks",
       "title": "Binance-hacker-1029  $5.6B stolen from Binance",
       "url": "https://news.ycombinator.com/item?id=50296470"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "AI & Machine Learning",
+      "title": "hypit-ai/hypit",
+      "url": "https://github.com/hypit-ai/hypit"
     }
   ]
 }
