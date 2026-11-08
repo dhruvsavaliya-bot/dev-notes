@@ -1716,6 +1716,15 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Summary:** Estudei como funciona um projeto open-source de host temporário de arquivos, o Waifuvault, e criei um...
 - **Link:** https://dev.to/matheusdsilva01/5-licoes-de-seguranca-que-aprendi-estudando-um-host-temporario-de-arquivos-5fab
 
+**Added 2026-11-08**
+
+### [Publishers Killed the Paperback, Then Blamed Readers](https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback)
+- **Source:** jacobin.com | **Posted:** 2026-10-12 | **By:** PaulHoule
+- **Community:** 152 points, 94 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50060674
+- **Link:** https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback
+
 
 ## Ruby
 
