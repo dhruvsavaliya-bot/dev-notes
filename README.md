@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1815 entries and counting** · Last updated: 2026-11-08
+**1816 entries and counting** · Last updated: 2026-11-08
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 365 |
 | [Reading List](articles/reading-list.md) | 364 |
 | [Coding Tips](coding-tips/tips.md) | 366 |
-| [Language Notes](languages/notes.md) | 354 |
+| [Language Notes](languages/notes.md) | 355 |
 
 ## Latest additions
 
+- **2026-11-08** · *Swift* — [v-modal/vmodal_sdk_swift_iphoneduo](https://github.com/v-modal/vmodal_sdk_swift_iphoneduo)
 - **2026-11-08** · *AI & Machine Learning* — [darrenprx/lolPing](https://github.com/darrenprx/lolPing)
 - **2026-11-08** · *Lobsters Picks* — [Dear Open Source Developers: It's OK not to embargo](https://lobste.rs/s/lhovnm/dear_open_source_developers_it_s_ok_not)
 - **2026-11-08** · *Research Papers* — [Step-Zero Attack: Agent Safety Before Observability](http://arxiv.org/abs/2611.01953v1)
 - **2026-11-08** · *AI & Machine Learning* — [nateherkai/roast-room](https://github.com/nateherkai/roast-room)
-- **2026-11-08** · *Lobsters Picks* — [How are you dealing with all the negative side...](https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side)
 
 ## How it works
 

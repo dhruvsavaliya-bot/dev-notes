@@ -1033,6 +1033,7 @@
     "https://github.com/unicity-aos/aos-ce",
     "https://github.com/useopendesk/opendesk",
     "https://github.com/usewhale/Whale",
+    "https://github.com/v-modal/vmodal_sdk_swift_iphoneduo",
     "https://github.com/vasu-devs/JustHireMe",
     "https://github.com/vercel-labs/fx",
     "https://github.com/vercel-labs/json-render",
@@ -2559,12 +2560,6 @@
   "recent": [
     {
       "date": "2026-11-08",
-      "subcat": "Other Cool Projects",
-      "title": "dulaiduwang003/Pavise-Game",
-      "url": "https://github.com/dulaiduwang003/Pavise-Game"
-    },
-    {
-      "date": "2026-11-08",
       "subcat": "Lobsters Picks",
       "title": "Libghostty 1.0",
       "url": "https://lobste.rs/s/0ouxwf/libghostty_1_0"
@@ -2616,6 +2611,12 @@
       "subcat": "AI & Machine Learning",
       "title": "darrenprx/lolPing",
       "url": "https://github.com/darrenprx/lolPing"
+    },
+    {
+      "date": "2026-11-08",
+      "subcat": "Swift",
+      "title": "v-modal/vmodal_sdk_swift_iphoneduo",
+      "url": "https://github.com/v-modal/vmodal_sdk_swift_iphoneduo"
     }
   ]
 }

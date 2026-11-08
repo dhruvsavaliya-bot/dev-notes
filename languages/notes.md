@@ -2264,6 +2264,16 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Discussion:** https://news.ycombinator.com/item?id=50358314
 - **Link:** https://github.com/finic-ai/kairos
 
+**Added 2026-11-08**
+
+### [v-modal/vmodal_sdk_swift_iphoneduo](https://github.com/v-modal/vmodal_sdk_swift_iphoneduo)
+- **Stats:** 558 stars | 2 forks | 0 open issues
+- **Language:** Swift | **Created:** 2026-09-12 | **License:** MIT
+- **Topics:** ios-sdk, ios-swift, ios-ui, ios-video-editor, ios-video-record, ios-video-sdk
+- **What it is:** V-Modal Visual Search SDK optimized for  IOS Swift and Iphone DUO
+- **Growth:** averaging ~9 stars/day since launch.
+- **Link:** https://github.com/v-modal/vmodal_sdk_swift_iphoneduo
+
 
 ## Rust
 
