@@ -3396,3 +3396,12 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Tags:** ai, music, opensource, showdev
 - **Summary:** I have a habit of starting projects because I want one very specific thing.  Then somewhere along the...
 - **Link:** https://dev.to/sizzlebop/i-built-a-local-ai-music-studio-3fb9
+
+**Added 2026-11-08**
+
+### [I Built slothd: A Local-First, Offline-Capable AI Daemon That Patiently Organizes Your Messy Workspace](https://dev.to/dj29/i-built-slothd-a-local-first-offline-capable-ai-daemon-that-patiently-organizes-your-messy-53e7)
+- **Author:** Dhruv Jani | **Published:** Oct 21 | **Read time:** 14 min
+- **Community:** 104 reactions, 44 comments -- a top post in #opensource
+- **Tags:** devchallenge, hf26challenge, opensource, gemma
+- **Summary:** This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady         💡...
+- **Link:** https://dev.to/dj29/i-built-slothd-a-local-first-offline-capable-ai-daemon-that-patiently-organizes-your-messy-53e7

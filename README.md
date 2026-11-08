@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1802 entries and counting** · Last updated: 2026-11-08
+**1803 entries and counting** · Last updated: 2026-11-08
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 362 |
 | [AI / LLM Notes](ai/notes.md) | 362 |
-| [Reading List](articles/reading-list.md) | 362 |
+| [Reading List](articles/reading-list.md) | 363 |
 | [Coding Tips](coding-tips/tips.md) | 362 |
 | [Language Notes](languages/notes.md) | 354 |
 
 ## Latest additions
 
+- **2026-11-08** · *Open Source* — [I Built slothd: A Local-First, Offline-Capable AI...](https://dev.to/dj29/i-built-slothd-a-local-first-offline-capable-ai-daemon-that-patiently-organizes-your-messy-53e7)
 - **2026-11-08** · *AI & Machine Learning* — [nightly-labs/openbot](https://github.com/nightly-labs/openbot)
 - **2026-11-08** · *Lobsters Picks* — [Beating the compiler at signed 32-bit division](https://lobste.rs/s/ep5vsq/beating_compiler_at_signed_32_bit)
 - **2026-11-08** · *PHP* — [Publishers Killed the Paperback, Then Blamed Readers](https://news.ycombinator.com/item?id=50060674)
 - **2026-11-08** · *Show & Ask HN* — [Ask HN: How did you convince family and friends to...](https://news.ycombinator.com/item?id=50405250)
-- **2026-11-08** · *JavaScript* — [rorygallagher2024/glasshouse](https://github.com/rorygallagher2024/glasshouse)
 
 ## How it works
 

@@ -314,6 +314,7 @@
     "https://dev.to/dj29/ai-didnt-remove-the-engineering-work-it-just-made-it-easier-to-pretend-you-did-42m9",
     "https://dev.to/dj29/chain-of-thought-faithfulness-toggling-reasoning-mode-made-one-model-5x-more-likely-to-follow-39b3",
     "https://dev.to/dj29/hacktoberfest-is-coming-to-nadiad-gujarat-official-mlh-meetup-at-ddu-15-oct-1dc4",
+    "https://dev.to/dj29/i-built-slothd-a-local-first-offline-capable-ai-daemon-that-patiently-organizes-your-messy-53e7",
     "https://dev.to/dj29/im-not-on-the-dev-team-i-still-debugged-their-missing-badges-from-public-code-and-my-first-test-18oo",
     "https://dev.to/dj29/the-stack-nobody-picks-might-be-the-one-that-picks-you-473c",
     "https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2",
@@ -2542,12 +2543,6 @@
   "recent": [
     {
       "date": "2026-11-08",
-      "subcat": "Hacker News Picks",
-      "title": "Every Mac comes with an (undocumented) family member...",
-      "url": "https://news.ycombinator.com/item?id=50403097"
-    },
-    {
-      "date": "2026-11-08",
       "subcat": "Show & Ask HN",
       "title": "Show HN: ADRs for AI  Deliberation records for...",
       "url": "https://news.ycombinator.com/item?id=50227041"
@@ -2599,6 +2594,12 @@
       "subcat": "AI & Machine Learning",
       "title": "nightly-labs/openbot",
       "url": "https://github.com/nightly-labs/openbot"
+    },
+    {
+      "date": "2026-11-08",
+      "subcat": "Open Source",
+      "title": "I Built slothd: A Local-First, Offline-Capable AI...",
+      "url": "https://dev.to/dj29/i-built-slothd-a-local-first-offline-capable-ai-daemon-that-patiently-organizes-your-messy-53e7"
     }
   ]
 }
