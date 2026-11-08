@@ -101,6 +101,7 @@
     "http://arxiv.org/abs/2611.04320v1",
     "http://arxiv.org/abs/2611.04497v1",
     "http://arxiv.org/abs/2611.04501v2",
+    "http://arxiv.org/abs/2611.05731v1",
     "http://arxiv.org/abs/2611.06711v1",
     "http://arxiv.org/abs/2611.07367v1",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
@@ -2562,12 +2563,6 @@
   "recent": [
     {
       "date": "2026-11-08",
-      "subcat": "Lobsters Picks",
-      "title": "*sshole, or when are we finally going to get rid of C?",
-      "url": "https://lobste.rs/s/owsnms/sshole_when_are_we_finally_going_get_rid_c"
-    },
-    {
-      "date": "2026-11-08",
       "subcat": "AI & Machine Learning",
       "title": "HanyuanWang/LiveStream-Agent-Studio",
       "url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio"
@@ -2619,6 +2614,12 @@
       "subcat": "Hacker News Picks",
       "title": "MaxxBench  \"Nice DeepSWE score. But is it true?\"",
       "url": "https://news.ycombinator.com/item?id=50406222"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "Research Papers",
+      "title": "Prospective Memory for Proactive LLM Agents",
+      "url": "http://arxiv.org/abs/2611.05731v1"
     }
   ]
 }

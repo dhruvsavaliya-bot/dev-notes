@@ -3382,6 +3382,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.01953v1
 
+**Added 2026-11-09**
+
+### [Prospective Memory for Proactive LLM Agents](http://arxiv.org/abs/2611.05731v1)
+- **Authors:** Yuanchen Bei, Zhining Liu, Tianxin Wei, Weizhi Zhang et al.
+- **Published:** 2026-11-03 | **Primary category:** cs.CL
+- **Categories:** cs.CL
+- **Abstract:** Most memory systems for LLM agents are retrospective, preserving and retrieving past information to inform current decisions. Proactive agents, however, also require prospective memory: retaining future-directed intentions and realizing them when appropriate opportunities arise, even without explicit requests. Crucially, remembering the right intention does not guarantee acting at the right time: a related observation may call for waiting, while a later cue may make the same intention actionable...
+- **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.05731v1
+
 
 ## Computer Vision
 
