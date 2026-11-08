@@ -2621,6 +2621,15 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Discussion:** https://news.ycombinator.com/item?id=50221676
 - **Link:** https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/
 
+**Added 2026-11-09**
+
+### [Your “Private” Search Engine Might Run on Bing. This One Builds Its Own Index](https://dev.to/startupcafe/your-private-search-engine-might-run-on-bing-this-one-builds-its-own-index-4all)
+- **Author:** Hanzla Baig | **Published:** Nov 7 | **Read time:** 12 min
+- **Community:** 59 reactions, 1 comments -- a top post in #rust
+- **Tags:** opensource, privacy, rust, security
+- **Summary:** A careful read of LYNX by Anoneurx: an independent, open-source search engine with explainable ranking, plus who is behind it and what is still unproven.
+- **Link:** https://dev.to/startupcafe/your-private-search-engine-might-run-on-bing-this-one-builds-its-own-index-4all
+
 
 ## Elixir
 

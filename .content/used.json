@@ -440,6 +440,7 @@
     "https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81",
     "https://dev.to/startupcafe/best-free-apis-for-developers-the-complete-categorized-list-27oc",
     "https://dev.to/startupcafe/build-in-public-is-everywhere-does-it-actually-get-you-customers-2hlh",
+    "https://dev.to/startupcafe/your-private-search-engine-might-run-on-bing-this-one-builds-its-own-index-4all",
     "https://dev.to/stherzada/como-eu-aprendi-a-aprender-e-por-que-a-ia-nao-veio-pra-pensar-por-voce-fhg",
     "https://dev.to/sylwia-lask/10-git-commands-youll-wish-you-knew-earlier-4fcp",
     "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii",
@@ -2566,12 +2567,6 @@
   "recent": [
     {
       "date": "2026-11-08",
-      "subcat": "Lobsters Picks",
-      "title": "How are you dealing with all the negative side...",
-      "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side"
-    },
-    {
-      "date": "2026-11-08",
       "subcat": "AI & Machine Learning",
       "title": "nateherkai/roast-room",
       "url": "https://github.com/nateherkai/roast-room"
@@ -2623,6 +2618,12 @@
       "subcat": "AI & Machine Learning",
       "title": "hypit-ai/hypit",
       "url": "https://github.com/hypit-ai/hypit"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "Rust",
+      "title": "Your Private Search Engine Might Run on Bing. This...",
+      "url": "https://dev.to/startupcafe/your-private-search-engine-might-run-on-bing-this-one-builds-its-own-index-4all"
     }
   ]
 }
