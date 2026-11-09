@@ -1724,6 +1724,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~51 stars/day since launch.
 - **Link:** https://github.com/huaxialucaicaizi/ai-startup-skills
 
+**Added 2026-11-09**
+
+### [rpamis/comet](https://github.com/rpamis/comet)
+- **Stats:** 3,284 stars | 313 forks | 25 open issues
+- **Language:** JavaScript | **Created:** 2026-05-14 | **License:** MIT
+- **Topics:** ai, eval, harness-engineering, loop-engineering, phase-guarded, sdd
+- **What it is:** Comet: agent skill harness for turning ideas into evaluated workflows
+- **Growth:** averaging ~18 stars/day since launch.
+- **Link:** https://github.com/rpamis/comet
+
 
 ## Other Cool Projects
 

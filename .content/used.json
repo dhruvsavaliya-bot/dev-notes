@@ -980,6 +980,7 @@
     "https://github.com/robbietilton/Compositor",
     "https://github.com/rorygallagher2024/glasshouse",
     "https://github.com/royalbhati/sqltoerdiagram",
+    "https://github.com/rpamis/comet",
     "https://github.com/rsutcliffe/nightwatch",
     "https://github.com/rtk-ai/rtk",
     "https://github.com/runvendo/vendo",
@@ -2578,12 +2579,6 @@
   "recent": [
     {
       "date": "2026-11-09",
-      "subcat": "Hacker News Picks",
-      "title": "Binance-hacker-1029  $5.6B stolen from Binance",
-      "url": "https://news.ycombinator.com/item?id=50296470"
-    },
-    {
-      "date": "2026-11-09",
       "subcat": "AI & Machine Learning",
       "title": "hypit-ai/hypit",
       "url": "https://github.com/hypit-ai/hypit"
@@ -2635,6 +2630,12 @@
       "subcat": "Security",
       "title": "When Projects Fail: Why Companies Should Treat Open...",
       "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "AI & Machine Learning",
+      "title": "rpamis/comet",
+      "url": "https://github.com/rpamis/comet"
     }
   ]
 }
