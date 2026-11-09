@@ -3439,6 +3439,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/chypzr/death_comes_for_xslt
 - **Link:** https://dbushell.com/2026/11/03/xslt-rip/
 
+**Added 2026-11-09**
+
+### [Passkeys Attestation Trap](https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/)
+- **Source:** mjtsai.com | **Posted:** 2026-10-21 | **By:** kaimac
+- **Community:** 30 score, 82 comments on Lobsters
+- **Tags:** security, web
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/cdnepk/passkeys_attestation_trap
+- **Link:** https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/
+
 
 ## Performance
 
