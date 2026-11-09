@@ -791,6 +791,7 @@
     "https://github.com/danyuchn/asd-ste100-skill",
     "https://github.com/darrenprx/lolPing",
     "https://github.com/darshi1337/apogee",
+    "https://github.com/dashdogy/MFG-Unlocker",
     "https://github.com/databufflabs/databuff",
     "https://github.com/dataelement/dsh-desktop",
     "https://github.com/davidondrej/skills",
@@ -2609,12 +2610,6 @@
   "recent": [
     {
       "date": "2026-11-09",
-      "subcat": "Hacker News Picks",
-      "title": "Tesla to wind down Cybertruck production",
-      "url": "https://news.ycombinator.com/item?id=50391456"
-    },
-    {
-      "date": "2026-11-09",
       "subcat": "Lobsters Picks",
       "title": "Hacking the T-Mobile Sidekick, 20 Years Too Late",
       "url": "https://lobste.rs/s/f1nsnm/hacking_t_mobile_sidekick_20_years_too"
@@ -2666,6 +2661,12 @@
       "subcat": "Lobsters Picks",
       "title": "What can I realistically do with local AI on a Mac...",
       "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "C++",
+      "title": "dashdogy/MFG-Unlocker",
+      "url": "https://github.com/dashdogy/MFG-Unlocker"
     }
   ]
 }

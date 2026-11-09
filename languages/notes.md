@@ -3009,6 +3009,16 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Growth:** averaging ~12 stars/day since launch.
 - **Link:** https://github.com/microsoft/intelligent-terminal
 
+**Added 2026-11-09**
+
+### [dashdogy/MFG-Unlocker](https://github.com/dashdogy/MFG-Unlocker)
+- **Stats:** 2,410 stars | 70 forks | 37 open issues
+- **Language:** C++ | **Created:** 2026-08-29 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** DLSS Multi Frame Generation Unlock and controls for any supported MFG title on RTX series GPUs
+- **Growth:** averaging ~33 stars/day since launch.
+- **Link:** https://github.com/dashdogy/MFG-Unlocker
+
 
 ## SQL & Databases
 
