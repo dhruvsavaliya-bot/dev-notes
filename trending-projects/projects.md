@@ -1744,6 +1744,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~44 stars/day since launch.
 - **Link:** https://github.com/edenfunf/reelmimic
 
+**Added 2026-11-09**
+
+### [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge)
+- **Stats:** 4,821 stars | 331 forks | 58 open issues
+- **Language:** TypeScript | **Created:** 2026-06-03 | **License:** GPL-3.0
+- **Topics:** 2nd-brain, agent-skills, claude, codex, company-brain, docs
+- **What it is:** Beautiful, AI-native markdown IDE and LLM wiki
+- **Growth:** averaging ~30 stars/day since launch.
+- **Link:** https://github.com/inkeep/open-knowledge
+
 
 ## Other Cool Projects
 

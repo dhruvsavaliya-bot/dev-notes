@@ -857,6 +857,7 @@
     "https://github.com/illegalstudio/elephc",
     "https://github.com/img2threejs/img2threejs",
     "https://github.com/imsai-sh/zhuzhiliao",
+    "https://github.com/inkeep/open-knowledge",
     "https://github.com/internet-court/internet-court-skill",
     "https://github.com/isjiamu/gzh-design-skill",
     "https://github.com/jakubkrehel/skills",
@@ -2611,12 +2612,6 @@
     {
       "date": "2026-11-09",
       "subcat": "Lobsters Picks",
-      "title": "Hacking the T-Mobile Sidekick, 20 Years Too Late",
-      "url": "https://lobste.rs/s/f1nsnm/hacking_t_mobile_sidekick_20_years_too"
-    },
-    {
-      "date": "2026-11-09",
-      "subcat": "Lobsters Picks",
       "title": "unlocking any car from X brand in most of the world",
       "url": "https://lobste.rs/s/kbrpx3/unlocking_any_car_from_x_brand_most_world"
     },
@@ -2667,6 +2662,12 @@
       "subcat": "C++",
       "title": "dashdogy/MFG-Unlocker",
       "url": "https://github.com/dashdogy/MFG-Unlocker"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "AI & Machine Learning",
+      "title": "inkeep/open-knowledge",
+      "url": "https://github.com/inkeep/open-knowledge"
     }
   ]
 }
