@@ -3157,6 +3157,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~9 stars/day since launch.
 - **Link:** https://github.com/dulaiduwang003/Pavise-Game
 
+**Added 2026-11-09**
+
+### [storytold/effectcraft](https://github.com/storytold/effectcraft)
+- **Stats:** 8,572 stars | 4,545 forks | 1,134 open issues
+- **Language:** Rust | **Created:** 2026-10-01 | **License:** Apache-2.0
+- **Topics:** art, compositing, compositing-software, motion-graphics, rust
+- **What it is:** EffectCraft: An open-source motion graphics and compositing tool written by scratch in pure Rust
+- **Growth:** averaging ~219 stars/day since launch.
+- **Link:** https://github.com/storytold/effectcraft
+
 
 ## Web & Frontend
 
