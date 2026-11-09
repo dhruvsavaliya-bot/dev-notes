@@ -1512,6 +1512,7 @@
     "https://lobste.rs/s/iotaty/state_simd_rust_2026",
     "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
     "https://lobste.rs/s/iufma5/parsing_json_at_tens_gigabytes_per_second",
+    "https://lobste.rs/s/j63dme/meridian_experimental_web_browser_built",
     "https://lobste.rs/s/j7kltq/turbo_haskell",
     "https://lobste.rs/s/jbnmj9/chatgpt_now_knows_what_you_do_on_other",
     "https://lobste.rs/s/jgull9/hacky_fucked_up_way_portably_access_errno",
@@ -2280,6 +2281,7 @@
     "https://obscura.com/#faq-technical",
     "https://ohhfishal.net/Posts/claude",
     "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+    "https://op.tngl.io/meridian/",
     "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
     "https://openai.com/index/navier-stokes-solution/",
     "https://openai.com/index/openai-models-google-cloud/",
@@ -2588,12 +2590,6 @@
   "recent": [
     {
       "date": "2026-11-09",
-      "subcat": "Security",
-      "title": "When Projects Fail: Why Companies Should Treat Open...",
-      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0"
-    },
-    {
-      "date": "2026-11-09",
       "subcat": "AI & Machine Learning",
       "title": "rpamis/comet",
       "url": "https://github.com/rpamis/comet"
@@ -2645,6 +2641,12 @@
       "subcat": "Web & Frontend",
       "title": "TableProApp/TablePro",
       "url": "https://github.com/TableProApp/TablePro"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "Rust",
+      "title": "Meridian  an experimental web browser built on Servo...",
+      "url": "https://lobste.rs/s/j63dme/meridian_experimental_web_browser_built"
     }
   ]
 }

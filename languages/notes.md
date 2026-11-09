@@ -2640,6 +2640,16 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Summary:** A careful read of LYNX by Anoneurx: an independent, open-source search engine with explainable ranking, plus who is behind it and what is still unproven.
 - **Link:** https://dev.to/startupcafe/your-private-search-engine-might-run-on-bing-this-one-builds-its-own-index-4all
 
+**Added 2026-11-09**
+
+### [Meridian — an experimental web browser built on Servo and GPUI](https://op.tngl.io/meridian/)
+- **Source:** op.tngl.io | **Posted:** 2026-11-07 | **By:** icy
+- **Community:** 62 score, 11 comments on Lobsters
+- **Tags:** browsers, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/j63dme/meridian_experimental_web_browser_built
+- **Link:** https://op.tngl.io/meridian/
+
 
 ## Elixir
 
