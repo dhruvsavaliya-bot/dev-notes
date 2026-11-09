@@ -2333,6 +2333,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50366821
 - **Link:** https://z1x.us/blog/four-hundred-bucks-of-e-waste
 
+**Added 2026-11-09**
+
+### [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817)
+- **Source:** www.nbcnews.com | **Posted:** 2026-11-06 | **By:** PLenz
+- **Community:** 1155 points, 2084 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50391456
+- **Link:** https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817
+
 
 ## DevOps & Cloud
 

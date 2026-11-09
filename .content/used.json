@@ -2252,6 +2252,7 @@
     "https://news.ycombinator.com/item?id=50378508",
     "https://news.ycombinator.com/item?id=50378942",
     "https://news.ycombinator.com/item?id=50383057",
+    "https://news.ycombinator.com/item?id=50391456",
     "https://news.ycombinator.com/item?id=50393105",
     "https://news.ycombinator.com/item?id=50403097",
     "https://news.ycombinator.com/item?id=50405250",
@@ -2507,6 +2508,7 @@
     "https://www.nasa.gov/press-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon",
     "https://www.nature.com/articles/d41586-023-02585-7",
     "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+    "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
     "https://www.nebulasans.com",
     "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
     "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
@@ -2593,12 +2595,6 @@
   "recent": [
     {
       "date": "2026-11-09",
-      "subcat": "Security",
-      "title": "Someone Else Pays for Your AI Access",
-      "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149"
-    },
-    {
-      "date": "2026-11-09",
       "subcat": "Other Cool Projects",
       "title": "storytold/effectcraft",
       "url": "https://github.com/storytold/effectcraft"
@@ -2650,6 +2646,12 @@
       "subcat": "Models & Datasets",
       "title": "nvidia/Granary-v2",
       "url": "https://huggingface.co/datasets/nvidia/Granary-v2"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "Hacker News Picks",
+      "title": "Tesla to wind down Cybertruck production",
+      "url": "https://news.ycombinator.com/item?id=50391456"
     }
   ]
 }
