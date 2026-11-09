@@ -1734,6 +1734,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~18 stars/day since launch.
 - **Link:** https://github.com/rpamis/comet
 
+**Added 2026-11-09**
+
+### [edenfunf/reelmimic](https://github.com/edenfunf/reelmimic)
+- **Stats:** 1,858 stars | 81 forks | 43 open issues
+- **Language:** JavaScript | **Created:** 2026-09-28 | **License:** MIT
+- **Topics:** 2d-animation, ai-agents, ai-video, animation, claude-code, codex
+- **What it is:** Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.
+- **Growth:** averaging ~44 stars/day since launch.
+- **Link:** https://github.com/edenfunf/reelmimic
+
 
 ## Other Cool Projects
 
