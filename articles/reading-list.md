@@ -2438,6 +2438,15 @@ Fresh dev articles and blog posts.
 - **Summary:** you probably didn't think about this when you signed up.  you entered your card details, verified...
 - **Link:** https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149
 
+**Added 2026-11-09**
+
+### [WebMCP Attack Lab: Can an E-Shop Hijack Your AI Agent?](https://dev.to/gramli/webmcp-attack-lab-can-an-e-shop-hijack-your-ai-agent-4oe5)
+- **Author:** Daniel Balcarek | **Published:** Nov 5 | **Read time:** 8 min
+- **Community:** 93 reactions, 81 comments -- a top post in #security
+- **Tags:** ai, webmcp, angular, security
+- **Summary:** WebMCP is a proposed web standard that, at least to me, looks very promising. I already played around...
+- **Link:** https://dev.to/gramli/webmcp-attack-lab-can-an-e-shop-hijack-your-ai-agent-4oe5
+
 
 ## System Design & Architecture
 
