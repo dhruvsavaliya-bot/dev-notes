@@ -3401,6 +3401,16 @@ Search engines now rank links full of slop at the top, which ironically make LLM
 - **Discussion:** https://lobste.rs/s/kbrpx3/unlocking_any_car_from_x_brand_most_world
 - **Link:** https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/
 
+**Added 2026-11-09**
+
+### [Horrible public key tricks](https://maurycyz.com/projects/badcert/)
+- **Source:** maurycyz.com | **Posted:** 2026-11-09 | **By:** rrampage
+- **Community:** 42 score, 4 comments on Lobsters
+- **Tags:** cryptography
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/txkq8s/horrible_public_key_tricks
+- **Link:** https://maurycyz.com/projects/badcert/
+
 
 ## Career & Craft
 

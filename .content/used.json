@@ -1600,6 +1600,7 @@
     "https://lobste.rs/s/tsfs3w/why_function_arguments_are_not_function",
     "https://lobste.rs/s/ttcx5k/announcing_rust_1_99_1",
     "https://lobste.rs/s/ttp7aq/backdoors_claude_code_for_vs_cursor",
+    "https://lobste.rs/s/txkq8s/horrible_public_key_tricks",
     "https://lobste.rs/s/u26wki/september_servo_progress_rounded",
     "https://lobste.rs/s/u4vlin/french_supermarket_chains_say",
     "https://lobste.rs/s/u7dr96/soft_deprecating_re_match",
@@ -1671,6 +1672,7 @@
     "https://mastodon.sdf.org/@netbsd/117518160563539748",
     "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
     "https://matklad.github.io/2026/10/29/pub-calls-pub.html",
+    "https://maurycyz.com/projects/badcert/",
     "https://maxxbench.unlap.ai/research/why-maxxbench/",
     "https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/",
     "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders",
@@ -2603,12 +2605,6 @@
   "recent": [
     {
       "date": "2026-11-09",
-      "subcat": "Web & Frontend",
-      "title": "TableProApp/TablePro",
-      "url": "https://github.com/TableProApp/TablePro"
-    },
-    {
-      "date": "2026-11-09",
       "subcat": "Rust",
       "title": "Meridian  an experimental web browser built on Servo...",
       "url": "https://lobste.rs/s/j63dme/meridian_experimental_web_browser_built"
@@ -2660,6 +2656,12 @@
       "subcat": "Lobsters Picks",
       "title": "Death comes for XSLT",
       "url": "https://lobste.rs/s/chypzr/death_comes_for_xslt"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "Lobsters Picks",
+      "title": "Horrible public key tricks",
+      "url": "https://lobste.rs/s/txkq8s/horrible_public_key_tricks"
     }
   ]
 }
