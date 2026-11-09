@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1849 entries and counting** · Last updated: 2026-11-09
+**1850 entries and counting** · Last updated: 2026-11-09
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 373 |
 | [AI / LLM Notes](ai/notes.md) | 372 |
 | [Reading List](articles/reading-list.md) | 374 |
-| [Coding Tips](coding-tips/tips.md) | 372 |
+| [Coding Tips](coding-tips/tips.md) | 373 |
 | [Language Notes](languages/notes.md) | 358 |
 
 ## Latest additions
 
+- **2026-11-09** · *Lobsters Picks* — [What can I realistically do with local AI on a Mac...](https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai)
 - **2026-11-09** · *Lobsters Picks* — [Passkeys Attestation Trap](https://lobste.rs/s/cdnepk/passkeys_attestation_trap)
 - **2026-11-09** · *AI & Machine Learning* — [edenfunf/reelmimic](https://github.com/edenfunf/reelmimic)
 - **2026-11-09** · *Lobsters Picks* — [Horrible public key tricks](https://lobste.rs/s/txkq8s/horrible_public_key_tricks)
 - **2026-11-09** · *Lobsters Picks* — [Death comes for XSLT](https://lobste.rs/s/chypzr/death_comes_for_xslt)
-- **2026-11-09** · *Models & Datasets* — [Manusagents/GPT-5.5-Gemini-3.1-Pro-Grok-4-Claude-Fable...](https://huggingface.co/datasets/Manusagents/GPT-5.5-Gemini-3.1-Pro-Grok-4-Claude-Fable-5-Mythos-5-Qwen-3.7-Max-and-more-Distillation-Dataset)
 
 ## How it works
 

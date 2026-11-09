@@ -3411,6 +3411,24 @@ Search engines now rank links full of slop at the top, which ironically make LLM
 - **Discussion:** https://lobste.rs/s/txkq8s/horrible_public_key_tricks
 - **Link:** https://maurycyz.com/projects/badcert/
 
+**Added 2026-11-09**
+
+### [What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?](https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai)
+- **Source:** lobste.rs | **Posted:** 2026-11-08 | **By:** napolux
+- **Community:** 22 score, 11 comments on Lobsters
+- **Tags:** ask, mac
+- **Summary:** I just got a Mac mini with an M5 Pro (base CPU config) and 48GB of unified memory. I want to run as much AI locally as makes sense, but it's hard to separate what actually works day to day from benchmark hype.
+
+What I'd like to do:
+
+- Coding: autocomplete and agentic workflows with local models
+- Image generation
+- Anything else genuinely useful: transcription, RAG over my notes, etc.
+
+Que...
+- **Discussion:** https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai
+- **Link:** https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai
+
 
 ## Career & Craft
 
