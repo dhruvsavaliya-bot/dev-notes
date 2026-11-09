@@ -1528,6 +1528,7 @@
     "https://lobste.rs/s/k508we/avoid_public_functions_calling_other",
     "https://lobste.rs/s/k5omum/brain_sandwich",
     "https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision",
+    "https://lobste.rs/s/kbrpx3/unlocking_any_car_from_x_brand_most_world",
     "https://lobste.rs/s/kcyzco/uuidv7_doesn_t_have_properties_you_think",
     "https://lobste.rs/s/kfla2w/demoting_i686_windows_targets_std_only",
     "https://lobste.rs/s/kiivg2/partial_order_precedence",
@@ -2359,6 +2360,7 @@
     "https://sf.thijs.gg/",
     "https://shademap.app",
     "https://shnatsel.github.io/state-of-simd-rust-2026/",
+    "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
     "https://shukla.io/blog/2026-09/pun.html",
     "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
     "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
@@ -2597,12 +2599,6 @@
   "recent": [
     {
       "date": "2026-11-09",
-      "subcat": "Models & Datasets",
-      "title": "OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated",
-      "url": "https://huggingface.co/OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated"
-    },
-    {
-      "date": "2026-11-09",
       "subcat": "Security",
       "title": "WebMCP Attack Lab: Can an E-Shop Hijack Your AI Agent?",
       "url": "https://dev.to/gramli/webmcp-attack-lab-can-an-e-shop-hijack-your-ai-agent-4oe5"
@@ -2654,6 +2650,12 @@
       "subcat": "Lobsters Picks",
       "title": "Hacking the T-Mobile Sidekick, 20 Years Too Late",
       "url": "https://lobste.rs/s/f1nsnm/hacking_t_mobile_sidekick_20_years_too"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "Lobsters Picks",
+      "title": "unlocking any car from X brand in most of the world",
+      "url": "https://lobste.rs/s/kbrpx3/unlocking_any_car_from_x_brand_most_world"
     }
   ]
 }

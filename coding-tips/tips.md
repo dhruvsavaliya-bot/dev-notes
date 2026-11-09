@@ -3391,6 +3391,16 @@ Search engines now rank links full of slop at the top, which ironically make LLM
 - **Discussion:** https://lobste.rs/s/f1nsnm/hacking_t_mobile_sidekick_20_years_too
 - **Link:** https://x86.cx/blog/redanger
 
+**Added 2026-11-09**
+
+### [unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
+- **Source:** shubs.io | **Posted:** 2026-11-08 | **By:** markerz
+- **Community:** 61 score, 18 comments on Lobsters
+- **Tags:** reversing, security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/kbrpx3/unlocking_any_car_from_x_brand_most_world
+- **Link:** https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/
+
 
 ## Career & Craft
 
