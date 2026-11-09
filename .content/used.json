@@ -2272,6 +2272,7 @@
     "https://news.ycombinator.com/item?id=50405250",
     "https://news.ycombinator.com/item?id=50406222",
     "https://news.ycombinator.com/item?id=50407882",
+    "https://news.ycombinator.com/item?id=50417407",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2611,12 +2612,6 @@
   "recent": [
     {
       "date": "2026-11-09",
-      "subcat": "Lobsters Picks",
-      "title": "unlocking any car from X brand in most of the world",
-      "url": "https://lobste.rs/s/kbrpx3/unlocking_any_car_from_x_brand_most_world"
-    },
-    {
-      "date": "2026-11-09",
       "subcat": "Other Cool Projects",
       "title": "CAPCOM-TD-OSS/REDox",
       "url": "https://github.com/CAPCOM-TD-OSS/REDox"
@@ -2668,6 +2663,12 @@
       "subcat": "AI & Machine Learning",
       "title": "inkeep/open-knowledge",
       "url": "https://github.com/inkeep/open-knowledge"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50417407"
     }
   ]
 }
