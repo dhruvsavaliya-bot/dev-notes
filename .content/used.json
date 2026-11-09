@@ -1365,6 +1365,7 @@
     "https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/",
     "https://jordi.inversethought.com/blog/the-kluever-maneuver/",
     "https://josephg.com/blog/electron-is-flash-for-the-desktop/",
+    "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/",
     "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos",
     "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
     "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
@@ -2273,6 +2274,7 @@
     "https://news.ycombinator.com/item?id=50406222",
     "https://news.ycombinator.com/item?id=50407882",
     "https://news.ycombinator.com/item?id=50417407",
+    "https://news.ycombinator.com/item?id=50426582",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2612,12 +2614,6 @@
   "recent": [
     {
       "date": "2026-11-09",
-      "subcat": "Other Cool Projects",
-      "title": "CAPCOM-TD-OSS/REDox",
-      "url": "https://github.com/CAPCOM-TD-OSS/REDox"
-    },
-    {
-      "date": "2026-11-09",
       "subcat": "Models & Datasets",
       "title": "Manusagents/GPT-5.5-Gemini-3.1-Pro-Grok-4-Claude-Fable...",
       "url": "https://huggingface.co/datasets/Manusagents/GPT-5.5-Gemini-3.1-Pro-Grok-4-Claude-Fable-5-Mythos-5-Qwen-3.7-Max-and-more-Distillation-Dataset"
@@ -2669,6 +2665,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: What are you working on? (November 2026)",
       "url": "https://news.ycombinator.com/item?id=50417407"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "Hacker News Picks",
+      "title": "I Saw Your HN Comment",
+      "url": "https://news.ycombinator.com/item?id=50426582"
     }
   ]
 }

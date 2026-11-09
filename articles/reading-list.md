@@ -2342,6 +2342,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50391456
 - **Link:** https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817
 
+**Added 2026-11-09**
+
+### [I Saw Your HN Comment](https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/)
+- **Source:** joshstrange.com | **Posted:** 2026-11-09 | **By:** joshstrange
+- **Community:** 294 points, 215 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50426582
+- **Link:** https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/
+
 
 ## DevOps & Cloud
 
