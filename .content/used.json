@@ -1258,6 +1258,7 @@
     "https://huggingface.co/datasets/monology/pile-uncopyrighted",
     "https://huggingface.co/datasets/nisten/opus5-5-doctor-patient-conversations-all-human-diseases",
     "https://huggingface.co/datasets/noitomrobotics/HiPHI",
+    "https://huggingface.co/datasets/nvidia/Granary-v2",
     "https://huggingface.co/datasets/nvidia/Nemotron-Personas-Germany",
     "https://huggingface.co/datasets/nvidia/Open-H-RF",
     "https://huggingface.co/datasets/nvidia/Open-SWE-Traces",
@@ -2592,12 +2593,6 @@
   "recent": [
     {
       "date": "2026-11-09",
-      "subcat": "Models & Datasets",
-      "title": "RikiyaT/Qwen3.5-0.8B-weight-space-programming",
-      "url": "https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming"
-    },
-    {
-      "date": "2026-11-09",
       "subcat": "Security",
       "title": "Someone Else Pays for Your AI Access",
       "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149"
@@ -2649,6 +2644,12 @@
       "subcat": "Lobsters Picks",
       "title": "systemd loves Rust",
       "url": "https://lobste.rs/s/62loik/systemd_loves_rust"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "Models & Datasets",
+      "title": "nvidia/Granary-v2",
+      "url": "https://huggingface.co/datasets/nvidia/Granary-v2"
     }
   ]
 }

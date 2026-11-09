@@ -2436,6 +2436,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated
 
+**Added 2026-11-09**
+
+### [nvidia/Granary-v2](https://huggingface.co/datasets/nvidia/Granary-v2)
+- **Stats:** 55 likes | 7,611 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-09-16
+- **Tags:** granary, multilingual, nemo, speech
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/nvidia/Granary-v2
+
 
 ## Research Papers
 

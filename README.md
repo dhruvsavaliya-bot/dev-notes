@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1839 entries and counting** · Last updated: 2026-11-09
+**1840 entries and counting** · Last updated: 2026-11-09
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 371 |
-| [AI / LLM Notes](ai/notes.md) | 370 |
+| [AI / LLM Notes](ai/notes.md) | 371 |
 | [Reading List](articles/reading-list.md) | 371 |
 | [Coding Tips](coding-tips/tips.md) | 369 |
 | [Language Notes](languages/notes.md) | 358 |
 
 ## Latest additions
 
+- **2026-11-09** · *Models & Datasets* — [nvidia/Granary-v2](https://huggingface.co/datasets/nvidia/Granary-v2)
 - **2026-11-09** · *Lobsters Picks* — [systemd loves Rust](https://lobste.rs/s/62loik/systemd_loves_rust)
 - **2026-11-09** · *Rust* — [Meridian  an experimental web browser built on Servo...](https://lobste.rs/s/j63dme/meridian_experimental_web_browser_built)
 - **2026-11-09** · *Web & Frontend* — [TableProApp/TablePro](https://github.com/TableProApp/TablePro)
 - **2026-11-09** · *Research Papers* — [Reducing Cold-Start Latency in Serverless...](http://arxiv.org/abs/2609.14040v1)
-- **2026-11-09** · *Show & Ask HN* — [Show HN: HackerHack  HackerBooks but for Posts Posted...](https://news.ycombinator.com/item?id=50333877)
 
 ## How it works
 
