@@ -2429,6 +2429,15 @@ Fresh dev articles and blog posts.
 - **Summary:** Maintaining an open source project is hard. It requires managing a group of people who are largely...
 - **Link:** https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0
 
+**Added 2026-11-09**
+
+### [Someone Else Pays for Your AI Access](https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149)
+- **Author:** Daniel Nwaneri | **Published:** Jun 30 | **Read time:** 4 min
+- **Community:** 68 reactions, 68 comments -- a top post in #security
+- **Tags:** ai, webdev, security, discuss
+- **Summary:** you probably didn't think about this when you signed up.  you entered your card details, verified...
+- **Link:** https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149
+
 
 ## System Design & Architecture
 

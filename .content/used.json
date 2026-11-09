@@ -306,6 +306,7 @@
     "https://dev.to/cristea_theodora/the-developers-safety-net-introduction-to-typescript-2jof",
     "https://dev.to/cyclopt_dimitrisk/your-secrets-dont-need-a-git-commit-to-leak-into-an-ai-tool-be2",
     "https://dev.to/danielhe4rt/youre-not-an-impostor-you-just-started-from-a-different-line-2lph",
+    "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
     "https://dev.to/dannwaneri/super-intelligent-yes-men-are-we-training-ai-to-ignore-the-truth-epp",
     "https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l",
     "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1",
@@ -2580,12 +2581,6 @@
   "recent": [
     {
       "date": "2026-11-09",
-      "subcat": "Rust",
-      "title": "Your Private Search Engine Might Run on Bing. This...",
-      "url": "https://dev.to/startupcafe/your-private-search-engine-might-run-on-bing-this-one-builds-its-own-index-4all"
-    },
-    {
-      "date": "2026-11-09",
       "subcat": "Hacker News Picks",
       "title": "Claude Code's \"Don't Ask Again\" exposes passwords in...",
       "url": "https://news.ycombinator.com/item?id=50407882"
@@ -2637,6 +2632,12 @@
       "subcat": "Models & Datasets",
       "title": "RikiyaT/Qwen3.5-0.8B-weight-space-programming",
       "url": "https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "Security",
+      "title": "Someone Else Pays for Your AI Access",
+      "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149"
     }
   ]
 }
