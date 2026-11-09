@@ -1209,6 +1209,7 @@
     "https://huggingface.co/datasets/LightwheelAI/EgoPro",
     "https://huggingface.co/datasets/LightwheelAI/EgoStandard",
     "https://huggingface.co/datasets/LocalLLaMA/typed-decisions",
+    "https://huggingface.co/datasets/Manusagents/GPT-5.5-Gemini-3.1-Pro-Grok-4-Claude-Fable-5-Mythos-5-Qwen-3.7-Max-and-more-Distillation-Dataset",
     "https://huggingface.co/datasets/Maxwell-Jia/AIME_2024",
     "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023",
     "https://huggingface.co/datasets/MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x",
@@ -2600,12 +2601,6 @@
   "recent": [
     {
       "date": "2026-11-09",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: HackerHack  HackerBooks but for Posts Posted...",
-      "url": "https://news.ycombinator.com/item?id=50333877"
-    },
-    {
-      "date": "2026-11-09",
       "subcat": "Research Papers",
       "title": "Reducing Cold-Start Latency in Serverless...",
       "url": "http://arxiv.org/abs/2609.14040v1"
@@ -2657,6 +2652,12 @@
       "subcat": "Other Cool Projects",
       "title": "CAPCOM-TD-OSS/REDox",
       "url": "https://github.com/CAPCOM-TD-OSS/REDox"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "Models & Datasets",
+      "title": "Manusagents/GPT-5.5-Gemini-3.1-Pro-Grok-4-Claude-Fable...",
+      "url": "https://huggingface.co/datasets/Manusagents/GPT-5.5-Gemini-3.1-Pro-Grok-4-Claude-Fable-5-Mythos-5-Qwen-3.7-Max-and-more-Distillation-Dataset"
     }
   ]
 }
