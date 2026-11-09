@@ -1105,6 +1105,7 @@
     "https://go.dev/blog/goroutine-leak-profiles",
     "https://go.dev/blog/http-connection-reuse",
     "https://go.dev/blog/interactive-refactoring",
+    "https://go.dev/blog/jsonv2",
     "https://go.dev/blog/simd-experiment",
     "https://goliath32.com/blog/z80.html",
     "https://google.github.io/styleguide/rustguide.html",
@@ -1481,6 +1482,7 @@
     "https://lobste.rs/s/fmawla/enlightenment_0_28_0_release",
     "https://lobste.rs/s/g2ktrq/chasing_o2_pessimization_antcc",
     "https://lobste.rs/s/gajtrm/debunking_faster_than_rust_malicious",
+    "https://lobste.rs/s/gfm0xn/new_go_api_for_json",
     "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from",
     "https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow",
     "https://lobste.rs/s/gqyvn5/protecting_firefox_users_following",
@@ -2573,12 +2575,6 @@
   ],
   "recent": [
     {
-      "date": "2026-11-08",
-      "subcat": "Swift",
-      "title": "v-modal/vmodal_sdk_swift_iphoneduo",
-      "url": "https://github.com/v-modal/vmodal_sdk_swift_iphoneduo"
-    },
-    {
       "date": "2026-11-09",
       "subcat": "Hacker News Picks",
       "title": "MaxxBench  \"Nice DeepSWE score. But is it true?\"",
@@ -2631,6 +2627,12 @@
       "subcat": "Hacker News Picks",
       "title": "Porting Android 16 to my blind mother's keypad phone",
       "url": "https://news.ycombinator.com/item?id=50366821"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "Go",
+      "title": "A new Go API for JSON",
+      "url": "https://lobste.rs/s/gfm0xn/new_go_api_for_json"
     }
   ]
 }

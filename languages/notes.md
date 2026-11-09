@@ -1459,6 +1459,16 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Discussion:** https://lobste.rs/s/erkjnx/gist_go_concurrency
 - **Link:** https://antonz.org/go-concurrency/
 
+**Added 2026-11-09**
+
+### [A new Go API for JSON](https://go.dev/blog/jsonv2)
+- **Source:** go.dev | **Posted:** 2026-11-04 | **By:** binjip978
+- **Community:** 40 score, 10 comments on Lobsters
+- **Tags:** go
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/gfm0xn/new_go_api_for_json
+- **Link:** https://go.dev/blog/jsonv2
+
 
 ## PHP
 
