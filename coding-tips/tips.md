@@ -3381,6 +3381,16 @@ Search engines now rank links full of slop at the top, which ironically make LLM
 - **Discussion:** https://lobste.rs/s/62loik/systemd_loves_rust
 - **Link:** https://amutable.com/blog/systemd-loves-rust
 
+**Added 2026-11-09**
+
+### [Hacking the T-Mobile Sidekick, 20 Years Too Late](https://x86.cx/blog/redanger)
+- **Source:** x86.cx | **Posted:** 2026-11-08 | **By:** robey
+- **Community:** 15 score, 2 comments on Lobsters
+- **Tags:** retrocomputing, reversing
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/f1nsnm/hacking_t_mobile_sidekick_20_years_too
+- **Link:** https://x86.cx/blog/redanger
+
 
 ## Career & Craft
 

@@ -1491,6 +1491,7 @@
     "https://lobste.rs/s/eoibah/iroh_global_content_discovery",
     "https://lobste.rs/s/ep5vsq/beating_compiler_at_signed_32_bit",
     "https://lobste.rs/s/erkjnx/gist_go_concurrency",
+    "https://lobste.rs/s/f1nsnm/hacking_t_mobile_sidekick_20_years_too",
     "https://lobste.rs/s/fgucra/observations_from_running",
     "https://lobste.rs/s/fmawla/enlightenment_0_28_0_release",
     "https://lobste.rs/s/g2ktrq/chasing_o2_pessimization_antcc",
@@ -2579,6 +2580,7 @@
     "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
     "https://www.youtube.com/watch?v=P5eO7BNyJao",
     "https://www.youtube.com/watch?v=jWCQXBVIyrY",
+    "https://x86.cx/blog/redanger",
     "https://xcancel.com/__alpoge__/status/2079028340955197566",
     "https://xoranth.net/gcc-switch/",
     "https://xpipe.io/blog/java-aot-cache",
@@ -2593,12 +2595,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-11-09",
-      "subcat": "Other Cool Projects",
-      "title": "storytold/effectcraft",
-      "url": "https://github.com/storytold/effectcraft"
-    },
     {
       "date": "2026-11-09",
       "subcat": "Models & Datasets",
@@ -2652,6 +2648,12 @@
       "subcat": "Hacker News Picks",
       "title": "Tesla to wind down Cybertruck production",
       "url": "https://news.ycombinator.com/item?id=50391456"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "Lobsters Picks",
+      "title": "Hacking the T-Mobile Sidekick, 20 Years Too Late",
+      "url": "https://lobste.rs/s/f1nsnm/hacking_t_mobile_sidekick_20_years_too"
     }
   ]
 }
