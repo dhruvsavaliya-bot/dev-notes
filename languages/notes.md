@@ -3019,6 +3019,16 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Growth:** averaging ~33 stars/day since launch.
 - **Link:** https://github.com/dashdogy/MFG-Unlocker
 
+**Added 2026-11-09**
+
+### [BenMakesEverything/Pocket-Lab-Power-Supply](https://github.com/BenMakesEverything/Pocket-Lab-Power-Supply)
+- **Stats:** 601 stars | 49 forks | 2 open issues
+- **Language:** C++ | **Created:** 2026-07-01 | **License:** CERN-OHL-S-2.0
+- **Topics:** none listed
+- **What it is:** A lab bench power supply, but pocket-sized and battery powered.
+- **Growth:** averaging ~4 stars/day since launch.
+- **Link:** https://github.com/BenMakesEverything/Pocket-Lab-Power-Supply
+
 
 ## SQL & Databases
 
