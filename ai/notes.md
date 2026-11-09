@@ -3419,6 +3419,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.05731v1
 
+**Added 2026-11-09**
+
+### [Reducing Cold-Start Latency in Serverless Applications via Dynamic Slicing](http://arxiv.org/abs/2609.14040v1)
+- **Authors:** Georgios Alexopoulos, Konstantinos Karakatsanis, Nikolaos Alexopoulos, Dimitris Mitropoulos et al.
+- **Published:** 2026-09-12 | **Primary category:** cs.PL
+- **Categories:** cs.DC, cs.PL, cs.SE
+- **Abstract:** We present PyXtrim, a system that reduces the cold-start latency of serverless applications through debloating. We focus on Python, a dominant language for serverless applications whose dynamic features and extensive use of native extensions make traditional static debloating particularly challenging. PyXtrim frames debloating as a dynamic slicing problem, using the application's externally visible behavior as the slicing criterion. Everything outside the resulting slice is removed, both from th...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.14040v1
+
 
 ## Computer Vision
 

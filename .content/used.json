@@ -13,6 +13,7 @@
     "http://arxiv.org/abs/2609.06743v1",
     "http://arxiv.org/abs/2609.07667v1",
     "http://arxiv.org/abs/2609.09270v1",
+    "http://arxiv.org/abs/2609.14040v1",
     "http://arxiv.org/abs/2609.16079v1",
     "http://arxiv.org/abs/2609.16299v1",
     "http://arxiv.org/abs/2609.28608v1",
@@ -2586,12 +2587,6 @@
   "recent": [
     {
       "date": "2026-11-09",
-      "subcat": "Go",
-      "title": "A new Go API for JSON",
-      "url": "https://lobste.rs/s/gfm0xn/new_go_api_for_json"
-    },
-    {
-      "date": "2026-11-09",
       "subcat": "Models & Datasets",
       "title": "Scantist/GLM-5.3-SLIM-GGUF",
       "url": "https://huggingface.co/Scantist/GLM-5.3-SLIM-GGUF"
@@ -2643,6 +2638,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: HackerHack  HackerBooks but for Posts Posted...",
       "url": "https://news.ycombinator.com/item?id=50333877"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "Research Papers",
+      "title": "Reducing Cold-Start Latency in Serverless...",
+      "url": "http://arxiv.org/abs/2609.14040v1"
     }
   ]
 }
