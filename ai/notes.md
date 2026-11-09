@@ -2418,6 +2418,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/Scantist/GLM-5.3-SLIM-GGUF
 
+**Added 2026-11-09**
+
+### [RikiyaT/Qwen3.5-0.8B-weight-space-programming](https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming)
+- **Stats:** 128 likes | 3,140 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-11-02
+- **Tags:** transformers, safetensors, qwen3_5, image-text-to-text, ml-intern, weight-space-programming
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming
+
 
 ## Research Papers
 

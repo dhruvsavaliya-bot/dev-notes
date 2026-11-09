@@ -1161,6 +1161,7 @@
     "https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct",
     "https://huggingface.co/Qwen/Qwen3.6-27B",
     "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+    "https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming",
     "https://huggingface.co/SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
     "https://huggingface.co/Scantist/GLM-5.3-SLIM-GGUF",
     "https://huggingface.co/ServiceNow-AI/Apriel-Voice-27B-preview",
@@ -2579,12 +2580,6 @@
   "recent": [
     {
       "date": "2026-11-09",
-      "subcat": "AI & Machine Learning",
-      "title": "hypit-ai/hypit",
-      "url": "https://github.com/hypit-ai/hypit"
-    },
-    {
-      "date": "2026-11-09",
       "subcat": "Rust",
       "title": "Your Private Search Engine Might Run on Bing. This...",
       "url": "https://dev.to/startupcafe/your-private-search-engine-might-run-on-bing-this-one-builds-its-own-index-4all"
@@ -2636,6 +2631,12 @@
       "subcat": "AI & Machine Learning",
       "title": "rpamis/comet",
       "url": "https://github.com/rpamis/comet"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "Models & Datasets",
+      "title": "RikiyaT/Qwen3.5-0.8B-weight-space-programming",
+      "url": "https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming"
     }
   ]
 }
