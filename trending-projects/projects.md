@@ -3380,6 +3380,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/phase-rs/phase
 
+**Added 2026-11-09**
+
+### [TableProApp/TablePro](https://github.com/TableProApp/TablePro)
+- **Stats:** 6,429 stars | 439 forks | 78 open issues
+- **Language:** Swift | **Created:** 2025-12-17 | **License:** AGPL-3.0
+- **Topics:** clickhouse, database, database-client, database-gui, duckdb, gtk4
+- **What it is:** Free, open-source native database client for macOS, Linux, iPhone and iPad.
+- **Growth:** averaging ~19 stars/day since launch.
+- **Link:** https://github.com/TableProApp/TablePro
+
 
 ## Developer Tools
 

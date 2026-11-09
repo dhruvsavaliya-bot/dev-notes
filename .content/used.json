@@ -679,6 +679,7 @@
     "https://github.com/SonicloudTech/sonicloud_opensdk",
     "https://github.com/Star-Pie/StarPie",
     "https://github.com/Swayingleaves/novanova-studio",
+    "https://github.com/TableProApp/TablePro",
     "https://github.com/Taichu-AI/ZDTaichu5.0-9B",
     "https://github.com/TauricResearch/TradingAgents",
     "https://github.com/Tencent-Hunyuan/HY-Motion-1.0",
@@ -2587,12 +2588,6 @@
   "recent": [
     {
       "date": "2026-11-09",
-      "subcat": "Models & Datasets",
-      "title": "Scantist/GLM-5.3-SLIM-GGUF",
-      "url": "https://huggingface.co/Scantist/GLM-5.3-SLIM-GGUF"
-    },
-    {
-      "date": "2026-11-09",
       "subcat": "Security",
       "title": "When Projects Fail: Why Companies Should Treat Open...",
       "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0"
@@ -2644,6 +2639,12 @@
       "subcat": "Research Papers",
       "title": "Reducing Cold-Start Latency in Serverless...",
       "url": "http://arxiv.org/abs/2609.14040v1"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "Web & Frontend",
+      "title": "TableProApp/TablePro",
+      "url": "https://github.com/TableProApp/TablePro"
     }
   ]
 }
