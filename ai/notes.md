@@ -2409,6 +2409,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/openbmb/UltraX-Preview
 
+**Added 2026-11-09**
+
+### [Scantist/GLM-5.3-SLIM-GGUF](https://huggingface.co/Scantist/GLM-5.3-SLIM-GGUF)
+- **Stats:** 1,292 likes | 4,938 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-11-02
+- **Tags:** gguf, llama.cpp, glm_moe_dsa, moe, neural-architecture-search, nas
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/Scantist/GLM-5.3-SLIM-GGUF
+
 
 ## Research Papers
 

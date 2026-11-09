@@ -1160,6 +1160,7 @@
     "https://huggingface.co/Qwen/Qwen3.6-27B",
     "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
     "https://huggingface.co/SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
+    "https://huggingface.co/Scantist/GLM-5.3-SLIM-GGUF",
     "https://huggingface.co/ServiceNow-AI/Apriel-Voice-27B-preview",
     "https://huggingface.co/XHToken/Spark-X2.6-4B",
     "https://huggingface.co/akatz-ai/MiniMax-H3-Character-Swap-LoRA",
@@ -2576,12 +2577,6 @@
   "recent": [
     {
       "date": "2026-11-09",
-      "subcat": "Hacker News Picks",
-      "title": "MaxxBench  \"Nice DeepSWE score. But is it true?\"",
-      "url": "https://news.ycombinator.com/item?id=50406222"
-    },
-    {
-      "date": "2026-11-09",
       "subcat": "Research Papers",
       "title": "Prospective Memory for Proactive LLM Agents",
       "url": "http://arxiv.org/abs/2611.05731v1"
@@ -2633,6 +2628,12 @@
       "subcat": "Go",
       "title": "A new Go API for JSON",
       "url": "https://lobste.rs/s/gfm0xn/new_go_api_for_json"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "Models & Datasets",
+      "title": "Scantist/GLM-5.3-SLIM-GGUF",
+      "url": "https://huggingface.co/Scantist/GLM-5.3-SLIM-GGUF"
     }
   ]
 }
