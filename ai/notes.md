@@ -2427,6 +2427,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming
 
+**Added 2026-11-09**
+
+### [OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated](https://huggingface.co/OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated)
+- **Stats:** 278 likes | 5,533 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-10-23
+- **Tags:** transformers, safetensors, deepseek_v41_text, text-generation, obliteratus, abliterated
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated
+
 
 ## Research Papers
 
