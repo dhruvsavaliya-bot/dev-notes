@@ -1683,6 +1683,7 @@
     "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
     "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
     "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332",
+    "https://news.ycombinator.com/",
     "https://news.ycombinator.com/item?id=10225438",
     "https://news.ycombinator.com/item?id=10477721",
     "https://news.ycombinator.com/item?id=11068902",
@@ -2220,6 +2221,7 @@
     "https://news.ycombinator.com/item?id=50328251",
     "https://news.ycombinator.com/item?id=50328896",
     "https://news.ycombinator.com/item?id=50333339",
+    "https://news.ycombinator.com/item?id=50333877",
     "https://news.ycombinator.com/item?id=50338728",
     "https://news.ycombinator.com/item?id=50339288",
     "https://news.ycombinator.com/item?id=50339913",
@@ -2584,12 +2586,6 @@
   "recent": [
     {
       "date": "2026-11-09",
-      "subcat": "Hacker News Picks",
-      "title": "Porting Android 16 to my blind mother's keypad phone",
-      "url": "https://news.ycombinator.com/item?id=50366821"
-    },
-    {
-      "date": "2026-11-09",
       "subcat": "Go",
       "title": "A new Go API for JSON",
       "url": "https://lobste.rs/s/gfm0xn/new_go_api_for_json"
@@ -2641,6 +2637,12 @@
       "subcat": "Security",
       "title": "WebMCP Attack Lab: Can an E-Shop Hijack Your AI Agent?",
       "url": "https://dev.to/gramli/webmcp-attack-lab-can-an-e-shop-hijack-your-ai-agent-4oe5"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: HackerHack  HackerBooks but for Posts Posted...",
+      "url": "https://news.ycombinator.com/item?id=50333877"
     }
   ]
 }

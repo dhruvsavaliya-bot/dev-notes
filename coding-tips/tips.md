@@ -2542,6 +2542,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50099136
 - **Link:** https://github.com/andunieee/flipflop
 
+**Added 2026-11-09**
+
+### [Show HN: HackerHack – HackerBooks but for Posts Posted on HN](https://news.ycombinator.com/)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-02 | **By:** mw888
+- **Community:** 185 points, 25 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50333877
+- **Link:** https://news.ycombinator.com/
+
 
 ## Git & Workflow
 
