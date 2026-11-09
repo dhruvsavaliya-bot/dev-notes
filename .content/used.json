@@ -563,6 +563,7 @@
     "https://github.com/BlueHeisenberg/SCSKiller",
     "https://github.com/BuilderIO/skills",
     "https://github.com/BytePioneer-AI/codex-host",
+    "https://github.com/CAPCOM-TD-OSS/REDox",
     "https://github.com/Chlience/yt-dlp-tauri",
     "https://github.com/CircuitLord/CircuitLordVRModInstaller",
     "https://github.com/CluvexStudio/Aether",
@@ -2599,12 +2600,6 @@
   "recent": [
     {
       "date": "2026-11-09",
-      "subcat": "Security",
-      "title": "WebMCP Attack Lab: Can an E-Shop Hijack Your AI Agent?",
-      "url": "https://dev.to/gramli/webmcp-attack-lab-can-an-e-shop-hijack-your-ai-agent-4oe5"
-    },
-    {
-      "date": "2026-11-09",
       "subcat": "Show & Ask HN",
       "title": "Show HN: HackerHack  HackerBooks but for Posts Posted...",
       "url": "https://news.ycombinator.com/item?id=50333877"
@@ -2656,6 +2651,12 @@
       "subcat": "Lobsters Picks",
       "title": "unlocking any car from X brand in most of the world",
       "url": "https://lobste.rs/s/kbrpx3/unlocking_any_car_from_x_brand_most_world"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "Other Cool Projects",
+      "title": "CAPCOM-TD-OSS/REDox",
+      "url": "https://github.com/CAPCOM-TD-OSS/REDox"
     }
   ]
 }

@@ -3167,6 +3167,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~219 stars/day since launch.
 - **Link:** https://github.com/storytold/effectcraft
 
+**Added 2026-11-09**
+
+### [CAPCOM-TD-OSS/REDox](https://github.com/CAPCOM-TD-OSS/REDox)
+- **Stats:** 1,743 stars | 68 forks | 0 open issues
+- **Language:** C# | **Created:** 2026-09-30 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.
+- **Growth:** averaging ~43 stars/day since launch.
+- **Link:** https://github.com/CAPCOM-TD-OSS/REDox
+
 
 ## Web & Frontend
 
