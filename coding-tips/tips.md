@@ -3371,6 +3371,16 @@ Search engines now rank links full of slop at the top, which ironically make LLM
 - **Discussion:** https://lobste.rs/s/lhovnm/dear_open_source_developers_it_s_ok_not
 - **Link:** https://opensourcesecurity.io/2026/10-embargo/
 
+**Added 2026-11-09**
+
+### [systemd loves Rust](https://amutable.com/blog/systemd-loves-rust)
+- **Source:** amutable.com | **Posted:** 2026-11-08 | **By:** lorenzleutgeb
+- **Community:** 43 score, 19 comments on Lobsters
+- **Tags:** rust, systemd
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/62loik/systemd_loves_rust
+- **Link:** https://amutable.com/blog/systemd-loves-rust
+
 
 ## Career & Craft
 
