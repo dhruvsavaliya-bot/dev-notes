@@ -2420,6 +2420,15 @@ Fresh dev articles and blog posts.
 - **Summary:** This week's Hacktoberfest theme is Ghost in the Machine. Unfortunately, I don't have enough time to...
 - **Link:** https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk
 
+**Added 2026-11-09**
+
+### [When Projects Fail: Why Companies Should Treat Open Source as Infrastructure](https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0)
+- **Author:** Kat Cosgrove | **Published:** Mar 18 | **Read time:** 4 min
+- **Community:** 52 reactions, 7 comments -- a top post in #security
+- **Tags:** opensource, security, kubernetes, devops
+- **Summary:** Maintaining an open source project is hard. It requires managing a group of people who are largely...
+- **Link:** https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0
+
 
 ## System Design & Architecture
 

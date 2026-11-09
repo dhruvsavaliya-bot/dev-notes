@@ -375,6 +375,7 @@
     "https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g",
     "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
     "https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762",
+    "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
     "https://dev.to/kenielzep97/tell-me-about-you-1hi4",
     "https://dev.to/kenwalger/four-ways-a-test-can-lie-to-you-2ibf",
     "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm",
@@ -2577,12 +2578,6 @@
   "recent": [
     {
       "date": "2026-11-09",
-      "subcat": "Research Papers",
-      "title": "Prospective Memory for Proactive LLM Agents",
-      "url": "http://arxiv.org/abs/2611.05731v1"
-    },
-    {
-      "date": "2026-11-09",
       "subcat": "Hacker News Picks",
       "title": "Binance-hacker-1029  $5.6B stolen from Binance",
       "url": "https://news.ycombinator.com/item?id=50296470"
@@ -2634,6 +2629,12 @@
       "subcat": "Models & Datasets",
       "title": "Scantist/GLM-5.3-SLIM-GGUF",
       "url": "https://huggingface.co/Scantist/GLM-5.3-SLIM-GGUF"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "Security",
+      "title": "When Projects Fail: Why Companies Should Treat Open...",
+      "url": "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0"
     }
   ]
 }
