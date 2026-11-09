@@ -3429,6 +3429,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/0ouxwf/libghostty_1_0
 - **Link:** https://mitchellh.com/writing/libghostty-1-0
 
+**Added 2026-11-09**
+
+### [Death comes for XSLT](https://dbushell.com/2026/11/03/xslt-rip/)
+- **Source:** dbushell.com | **Posted:** 2026-11-03 | **By:** nytpu
+- **Community:** 115 score, 97 comments on Lobsters
+- **Tags:** browsers, web
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/chypzr/death_comes_for_xslt
+- **Link:** https://dbushell.com/2026/11/03/xslt-rip/
+
 
 ## Performance
 

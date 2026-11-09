@@ -274,6 +274,7 @@
     "https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern",
     "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
     "https://dbushell.com/2026/10/07/sustainable-web-career/",
+    "https://dbushell.com/2026/11/03/xslt-rip/",
     "https://deathplanswitch.com/",
     "https://deepgrove.ai/maple-preview",
     "https://deepmind.google/models/gemini/",
@@ -1464,6 +1465,7 @@
     "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your",
     "https://lobste.rs/s/ceuque/debian_code_search_fast_turbopfor_with_go",
     "https://lobste.rs/s/cf8mdy/openldk_bringing_java_world_into_common",
+    "https://lobste.rs/s/chypzr/death_comes_for_xslt",
     "https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit",
     "https://lobste.rs/s/cquwex/flow_typing_new_lens_on_linearity",
     "https://lobste.rs/s/cqzwwg/london_meetup_nov_2026",
@@ -2601,12 +2603,6 @@
   "recent": [
     {
       "date": "2026-11-09",
-      "subcat": "Research Papers",
-      "title": "Reducing Cold-Start Latency in Serverless...",
-      "url": "http://arxiv.org/abs/2609.14040v1"
-    },
-    {
-      "date": "2026-11-09",
       "subcat": "Web & Frontend",
       "title": "TableProApp/TablePro",
       "url": "https://github.com/TableProApp/TablePro"
@@ -2658,6 +2654,12 @@
       "subcat": "Models & Datasets",
       "title": "Manusagents/GPT-5.5-Gemini-3.1-Pro-Grok-4-Claude-Fable...",
       "url": "https://huggingface.co/datasets/Manusagents/GPT-5.5-Gemini-3.1-Pro-Grok-4-Claude-Fable-5-Mythos-5-Qwen-3.7-Max-and-more-Distillation-Dataset"
+    },
+    {
+      "date": "2026-11-09",
+      "subcat": "Lobsters Picks",
+      "title": "Death comes for XSLT",
+      "url": "https://lobste.rs/s/chypzr/death_comes_for_xslt"
     }
   ]
 }
