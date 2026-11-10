@@ -591,6 +591,7 @@
     "https://github.com/FlashML-org/FreeVideo",
     "https://github.com/Flow-Tube/Flow",
     "https://github.com/FrigadeHQ/hob",
+    "https://github.com/GLinnik21/plx-native",
     "https://github.com/GMGNAI/gmgn-skills",
     "https://github.com/Gathin23/cleanyourtv",
     "https://github.com/GordenSun/GordenPPTSkill",
@@ -2620,12 +2621,6 @@
     {
       "date": "2026-11-09",
       "subcat": "Lobsters Picks",
-      "title": "Passkeys Attestation Trap",
-      "url": "https://lobste.rs/s/cdnepk/passkeys_attestation_trap"
-    },
-    {
-      "date": "2026-11-09",
-      "subcat": "Lobsters Picks",
       "title": "What can I realistically do with local AI on a Mac...",
       "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai"
     },
@@ -2676,6 +2671,12 @@
       "subcat": "Hacker News Picks",
       "title": "A year after the 100% AI mandate nobody understands...",
       "url": "https://news.ycombinator.com/item?id=50433079"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "Developer Tools",
+      "title": "GLinnik21/plx-native",
+      "url": "https://github.com/GLinnik21/plx-native"
     }
   ]
 }

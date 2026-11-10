@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1858 entries and counting** · Last updated: 2026-11-10
+**1859 entries and counting** · Last updated: 2026-11-10
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 375 |
+| [Trending Projects](trending-projects/projects.md) | 376 |
 | [AI / LLM Notes](ai/notes.md) | 372 |
 | [Reading List](articles/reading-list.md) | 376 |
 | [Coding Tips](coding-tips/tips.md) | 375 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-10** · *Developer Tools* — [GLinnik21/plx-native](https://github.com/GLinnik21/plx-native)
 - **2026-11-10** · *Hacker News Picks* — [A year after the 100% AI mandate nobody understands...](https://news.ycombinator.com/item?id=50433079)
 - **2026-11-10** · *Show & Ask HN* — [Ask HN: How do you manage your AI agents' context...](https://news.ycombinator.com/item?id=50403153)
 - **2026-11-10** · *Developer Tools* — [ja7ad/hydra](https://github.com/ja7ad/hydra)
 - **2026-11-09** · *C++* — [BenMakesEverything/Pocket-Lab-Power-Supply](https://github.com/BenMakesEverything/Pocket-Lab-Power-Supply)
-- **2026-11-09** · *Hacker News Picks* — [I Saw Your HN Comment](https://news.ycombinator.com/item?id=50426582)
 
 ## How it works
 

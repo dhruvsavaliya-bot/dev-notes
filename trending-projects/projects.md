@@ -3643,6 +3643,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~15 stars/day since launch.
 - **Link:** https://github.com/ja7ad/hydra
 
+**Added 2026-11-10**
+
+### [GLinnik21/plx-native](https://github.com/GLinnik21/plx-native)
+- **Stats:** 1,223 stars | 142 forks | 39 open issues
+- **Language:** Rust | **Created:** 2026-07-03 | **License:** GPL-3.0
+- **Topics:** ffmpeg, lg-webos, media-player, opengl-es, plex, plex-client
+- **What it is:** Fast, unofficial Plex client for LG webOS TVs — native 60 fps UI, 4K HEVC/Dolby Vision, no Chromium or WebView.
+- **Growth:** averaging ~9 stars/day since launch.
+- **Link:** https://github.com/GLinnik21/plx-native
+
 
 ## Backend & Infrastructure
 
