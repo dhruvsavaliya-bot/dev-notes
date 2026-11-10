@@ -2321,6 +2321,16 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Growth:** averaging ~5 stars/day since launch.
 - **Link:** https://github.com/kaishi00/hermes-conduit
 
+**Added 2026-11-11**
+
+### [ResistanceTo/MiniWatts](https://github.com/ResistanceTo/MiniWatts)
+- **Stats:** 477 stars | 31 forks | 5 open issues
+- **Language:** Swift | **Created:** 2026-09-10 | **License:** Apache-2.0
+- **Topics:** battery, battery-monitor, charging, ios, ios-app, iphone
+- **What it is:** An iPhone battery, charging and thermal instrument built on private iOS APIs — real charger watts, what actually reaches the cell, all 30 temperature sensors, and the USB-PD handshake.
+- **Growth:** averaging ~7 stars/day since launch.
+- **Link:** https://github.com/ResistanceTo/MiniWatts
+
 
 ## Rust
 

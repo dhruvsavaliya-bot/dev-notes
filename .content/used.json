@@ -685,6 +685,7 @@
     "https://github.com/QoderAI/better-harness",
     "https://github.com/QuipNetwork/quip-solver",
     "https://github.com/QwenLM/Qwen-MM-Plugins",
+    "https://github.com/ResistanceTo/MiniWatts",
     "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
     "https://github.com/Rizzo-AI-Academy/rizzo-flow",
     "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
@@ -2676,12 +2677,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: VoidAccess  open-source dark web OSINT, from...",
-      "url": "https://news.ycombinator.com/item?id=50167286"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "Research Papers",
       "title": "Finite-Context Semantics in Finitely Supported...",
       "url": "http://arxiv.org/abs/2609.31917v1"
@@ -2733,6 +2728,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Marelleo, an open-source story box I built...",
       "url": "https://news.ycombinator.com/item?id=50260753"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Swift",
+      "title": "ResistanceTo/MiniWatts",
+      "url": "https://github.com/ResistanceTo/MiniWatts"
     }
   ]
 }
