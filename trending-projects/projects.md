@@ -3197,6 +3197,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~43 stars/day since launch.
 - **Link:** https://github.com/CAPCOM-TD-OSS/REDox
 
+**Added 2026-11-10**
+
+### [Lumid-Off/AirCard-Windows](https://github.com/Lumid-Off/AirCard-Windows)
+- **Stats:** 1,493 stars | 127 forks | 64 open issues
+- **Language:** Rust | **Created:** 2026-09-18 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** No description provided.
+- **Growth:** averaging ~28 stars/day since launch.
+- **Link:** https://github.com/Lumid-Off/AirCard-Windows
+
 
 ## Web & Frontend
 

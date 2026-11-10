@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1861 entries and counting** · Last updated: 2026-11-10
+**1862 entries and counting** · Last updated: 2026-11-10
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 376 |
+| [Trending Projects](trending-projects/projects.md) | 377 |
 | [AI / LLM Notes](ai/notes.md) | 372 |
 | [Reading List](articles/reading-list.md) | 377 |
 | [Coding Tips](coding-tips/tips.md) | 376 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-10** · *Other Cool Projects* — [Lumid-Off/AirCard-Windows](https://github.com/Lumid-Off/AirCard-Windows)
 - **2026-11-10** · *Hacker News Picks* — [Show HN: Every satellite that passed over any place...](https://news.ycombinator.com/item?id=50428907)
 - **2026-11-10** · *Show & Ask HN* — [ChatGPT Desktop forwards your SSH agent to remote...](https://news.ycombinator.com/item?id=50422628)
 - **2026-11-10** · *Developer Tools* — [GLinnik21/plx-native](https://github.com/GLinnik21/plx-native)
 - **2026-11-10** · *Hacker News Picks* — [A year after the 100% AI mandate nobody understands...](https://news.ycombinator.com/item?id=50433079)
-- **2026-11-10** · *Show & Ask HN* — [Ask HN: How do you manage your AI agents' context...](https://news.ycombinator.com/item?id=50403153)
 
 ## How it works
 
