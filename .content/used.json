@@ -19,6 +19,7 @@
     "http://arxiv.org/abs/2609.28608v1",
     "http://arxiv.org/abs/2609.30629v1",
     "http://arxiv.org/abs/2609.31250v1",
+    "http://arxiv.org/abs/2609.31917v1",
     "http://arxiv.org/abs/2609.34262v1",
     "http://arxiv.org/abs/2609.34603v2",
     "http://arxiv.org/abs/2609.34646v1",
@@ -2664,12 +2665,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "AI & Machine Learning",
-      "title": "JetBrains/thinkrail",
-      "url": "https://github.com/JetBrains/thinkrail"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "Lobsters Picks",
       "title": "Unattended reboots with encrypted disks",
       "url": "https://lobste.rs/s/urg4yu/unattended_reboots_with_encrypted_disks"
@@ -2721,6 +2716,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: VoidAccess  open-source dark web OSINT, from...",
       "url": "https://news.ycombinator.com/item?id=50167286"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "Research Papers",
+      "title": "Finite-Context Semantics in Finitely Supported...",
+      "url": "http://arxiv.org/abs/2609.31917v1"
     }
   ]
 }

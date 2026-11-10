@@ -3483,6 +3483,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.14040v1
 
+**Added 2026-11-10**
+
+### [Finite-Context Semantics in Finitely Supported Structures](http://arxiv.org/abs/2609.31917v1)
+- **Authors:** Gabriel Ciobanu
+- **Published:** 2026-09-25 | **Primary category:** cs.PL
+- **Categories:** cs.LO, cs.FL, cs.PL
+- **Abstract:** Semantics for systems with names and data often depends on finitely many distinguished values. The theory of finitely supported structures treats this dependence through invariance under permutations fixing a finite context. We develop this approach to semantics over arbitrary permutation groups and arbitrary infinite sets of atoms. The central difficulty is that finitely supported predicate spaces need not be complete lattices. We prove that, for predicates valued in a complete lattice with tri...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.31917v1
+
 
 ## Computer Vision
 
