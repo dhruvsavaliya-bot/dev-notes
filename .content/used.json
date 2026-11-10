@@ -257,6 +257,7 @@
     "https://coca11272000.wixsite.com/manabukosaka",
     "https://code.intellios.ai/cwbrowser/",
     "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+    "https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/",
     "https://committing-crimes.com/articles/2026-08-04-java-nameof",
     "https://comonad.com/reader/2026/turbo-haskell/",
     "https://copperhead.sh/",
@@ -1540,6 +1541,7 @@
     "https://lobste.rs/s/jmbjlu/future_trait_has_missing_state",
     "https://lobste.rs/s/ju4q1u/i_built_garbage_collector_for_rust_2023",
     "https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this",
+    "https://lobste.rs/s/jz8fmz/systemio_conflicts_are_not_firmware_bugs",
     "https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think",
     "https://lobste.rs/s/k508we/avoid_public_functions_calling_other",
     "https://lobste.rs/s/k5omum/brain_sandwich",
@@ -2630,12 +2632,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: How do you manage your AI agents' context...",
-      "url": "https://news.ycombinator.com/item?id=50403153"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "Hacker News Picks",
       "title": "A year after the 100% AI mandate nobody understands...",
       "url": "https://news.ycombinator.com/item?id=50433079"
@@ -2687,6 +2683,12 @@
       "subcat": "AI & Machine Learning",
       "title": "nirholas/cryptocurrency.cv",
       "url": "https://github.com/nirholas/cryptocurrency.cv"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "Lobsters Picks",
+      "title": "SystemIO conflicts are not firmware bugs",
+      "url": "https://lobste.rs/s/jz8fmz/systemio_conflicts_are_not_firmware_bugs"
     }
   ]
 }

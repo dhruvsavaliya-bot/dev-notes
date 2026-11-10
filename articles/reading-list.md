@@ -3485,6 +3485,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/cdnepk/passkeys_attestation_trap
 - **Link:** https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/
 
+**Added 2026-11-10**
+
+### [SystemIO conflicts are not firmware bugs](https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/)
+- **Source:** codon.org.uk | **Posted:** 2026-09-09 | **By:** calvin
+- **Community:** 15 score, 1 comments on Lobsters
+- **Tags:** hardware, osdev
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/jz8fmz/systemio_conflicts_are_not_firmware_bugs
+- **Link:** https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/
+
 
 ## Performance
 
