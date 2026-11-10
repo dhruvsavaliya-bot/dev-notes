@@ -2360,6 +2360,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50433079
 - **Link:** https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/
 
+**Added 2026-11-10**
+
+### [Show HN: Every satellite that passed over any place this week, and its photos](https://www.watched.earth)
+- **Source:** www.watched.earth | **Posted:** 2026-11-09 | **By:** a585gupt
+- **Community:** 222 points, 42 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50428907
+- **Link:** https://www.watched.earth
+
 
 ## DevOps & Cloud
 

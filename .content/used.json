@@ -2280,6 +2280,7 @@
     "https://news.ycombinator.com/item?id=50417407",
     "https://news.ycombinator.com/item?id=50422628",
     "https://news.ycombinator.com/item?id=50426582",
+    "https://news.ycombinator.com/item?id=50428907",
     "https://news.ycombinator.com/item?id=50433079",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
@@ -2595,6 +2596,7 @@
     "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
     "https://www.vlt.io/blog/competition-keeps-javascript-moving",
     "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
+    "https://www.watched.earth",
     "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
     "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
@@ -2619,12 +2621,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-11-09",
-      "subcat": "C++",
-      "title": "dashdogy/MFG-Unlocker",
-      "url": "https://github.com/dashdogy/MFG-Unlocker"
-    },
     {
       "date": "2026-11-09",
       "subcat": "AI & Machine Learning",
@@ -2678,6 +2674,12 @@
       "subcat": "Show & Ask HN",
       "title": "ChatGPT Desktop forwards your SSH agent to remote...",
       "url": "https://news.ycombinator.com/item?id=50422628"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "Hacker News Picks",
+      "title": "Show HN: Every satellite that passed over any place...",
+      "url": "https://news.ycombinator.com/item?id=50428907"
     }
   ]
 }
