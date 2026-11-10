@@ -2289,6 +2289,7 @@
     "https://news.ycombinator.com/item?id=50406222",
     "https://news.ycombinator.com/item?id=50407882",
     "https://news.ycombinator.com/item?id=50417407",
+    "https://news.ycombinator.com/item?id=50418016",
     "https://news.ycombinator.com/item?id=50422628",
     "https://news.ycombinator.com/item?id=50426582",
     "https://news.ycombinator.com/item?id=50428907",
@@ -2317,6 +2318,7 @@
     "https://nullpt.rs/fingerprinting-bioweapons",
     "https://nullpt.rs/reverse-engineering-adhd-test",
     "https://numpad.io/",
+    "https://nvidianews.nvidia.com/news/a-message-to-our-company",
     "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/",
     "https://obscura.com/#faq-technical",
     "https://ohhfishal.net/Posts/claude",
@@ -2636,12 +2638,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "Hacker News Picks",
-      "title": "Show HN: Every satellite that passed over any place...",
-      "url": "https://news.ycombinator.com/item?id=50428907"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "Other Cool Projects",
       "title": "Lumid-Off/AirCard-Windows",
       "url": "https://github.com/Lumid-Off/AirCard-Windows"
@@ -2693,6 +2689,12 @@
       "subcat": "AI & Machine Learning",
       "title": "3641397194-wq/gpt6-Astra",
       "url": "https://github.com/3641397194-wq/gpt6-Astra"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "Hacker News Picks",
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://news.ycombinator.com/item?id=50418016"
     }
   ]
 }

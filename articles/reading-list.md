@@ -2378,6 +2378,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50430621
 - **Link:** https://yappologistic.github.io/CUI/
 
+**Added 2026-11-10**
+
+### [Nvidia CEO Jensen Huang's letter to staff about affair](https://nvidianews.nvidia.com/news/a-message-to-our-company)
+- **Source:** nvidianews.nvidia.com | **Posted:** 2026-11-08 | **By:** karimf
+- **Community:** 956 points, 1235 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50418016
+- **Link:** https://nvidianews.nvidia.com/news/a-message-to-our-company
+
 
 ## DevOps & Cloud
 

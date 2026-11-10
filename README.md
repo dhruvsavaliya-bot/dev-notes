@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1870 entries and counting** · Last updated: 2026-11-10
+**1871 entries and counting** · Last updated: 2026-11-10
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 379 |
 | [AI / LLM Notes](ai/notes.md) | 373 |
-| [Reading List](articles/reading-list.md) | 379 |
+| [Reading List](articles/reading-list.md) | 380 |
 | [Coding Tips](coding-tips/tips.md) | 378 |
 | [Language Notes](languages/notes.md) | 361 |
 
 ## Latest additions
 
+- **2026-11-10** · *Hacker News Picks* — [Nvidia CEO Jensen Huang's letter to staff about affair](https://news.ycombinator.com/item?id=50418016)
 - **2026-11-10** · *AI & Machine Learning* — [3641397194-wq/gpt6-Astra](https://github.com/3641397194-wq/gpt6-Astra)
 - **2026-11-10** · *Lobsters Picks* — [I was wrong about dark mode](https://lobste.rs/s/iqhxz6/i_was_wrong_about_dark_mode)
 - **2026-11-10** · *Models & Datasets* — [kopper/RelayVSR](https://huggingface.co/kopper/RelayVSR)
 - **2026-11-10** · *Lobsters Picks* — [SystemIO conflicts are not firmware bugs](https://lobste.rs/s/jz8fmz/systemio_conflicts_are_not_firmware_bugs)
-- **2026-11-10** · *AI & Machine Learning* — [nirholas/cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv)
 
 ## How it works
 
