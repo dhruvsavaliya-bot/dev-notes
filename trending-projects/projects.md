@@ -3227,6 +3227,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~28 stars/day since launch.
 - **Link:** https://github.com/Lumid-Off/AirCard-Windows
 
+**Added 2026-11-10**
+
+### [Mak5er/AirCard-iOS](https://github.com/Mak5er/AirCard-iOS)
+- **Stats:** 2,053 stars | 268 forks | 43 open issues
+- **Language:** Swift | **Created:** 2026-09-19 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Apple Wallet card skins and lock screen passcode themes on iOS 27.
+- **Growth:** averaging ~39 stars/day since launch.
+- **Link:** https://github.com/Mak5er/AirCard-iOS
+
 
 ## Web & Frontend
 
