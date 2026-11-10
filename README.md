@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1881 entries and counting** · Last updated: 2026-11-10
+**1882 entries and counting** · Last updated: 2026-11-10
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 381 |
 | [AI / LLM Notes](ai/notes.md) | 375 |
 | [Reading List](articles/reading-list.md) | 382 |
-| [Coding Tips](coding-tips/tips.md) | 380 |
+| [Coding Tips](coding-tips/tips.md) | 381 |
 | [Language Notes](languages/notes.md) | 363 |
 
 ## Latest additions
 
+- **2026-11-10** · *Show & Ask HN* — [Show HN: After a decade of reversing, I got co-op...](https://news.ycombinator.com/item?id=50369895)
 - **2026-11-10** · *Models & Datasets* — [Comfy-Org/Idol](https://huggingface.co/Comfy-Org/Idol)
 - **2026-11-10** · *PHP* — [Show HN: Flide: Make Jev-like decision models up to...](https://news.ycombinator.com/item?id=50421155)
 - **2026-11-10** · *Lobsters Picks* — [Unattended reboots with encrypted disks](https://lobste.rs/s/urg4yu/unattended_reboots_with_encrypted_disks)
 - **2026-11-10** · *AI & Machine Learning* — [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
-- **2026-11-10** · *Show & Ask HN* — [Show HN: High-quality duck audio synthesizer](https://news.ycombinator.com/item?id=50131006)
 
 ## How it works
 

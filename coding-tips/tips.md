@@ -2596,6 +2596,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50131006
 - **Link:** https://celphase.github.io/duck-pond/
 
+**Added 2026-11-10**
+
+### [Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander](https://fireflyk64.github.io/wcmulti/)
+- **Source:** fireflyk64.github.io | **Posted:** 2026-11-04 | **By:** daniel_rh
+- **Community:** 256 points, 41 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50369895
+- **Link:** https://fireflyk64.github.io/wcmulti/
+
 
 ## Git & Workflow
 

@@ -523,6 +523,7 @@
     "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
     "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
     "https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/",
+    "https://fireflyk64.github.io/wcmulti/",
     "https://fireworks.ai/blog/ember-1",
     "https://flattensf.com/",
     "https://flet.dev/",
@@ -2290,6 +2291,7 @@
     "https://news.ycombinator.com/item?id=50363461",
     "https://news.ycombinator.com/item?id=50366117",
     "https://news.ycombinator.com/item?id=50366821",
+    "https://news.ycombinator.com/item?id=50369895",
     "https://news.ycombinator.com/item?id=50375354",
     "https://news.ycombinator.com/item?id=50378508",
     "https://news.ycombinator.com/item?id=50378942",
@@ -2654,12 +2656,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "Models & Datasets",
-      "title": "baidu/Unlimited-OCR",
-      "url": "https://huggingface.co/baidu/Unlimited-OCR"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "Lobsters Picks",
       "title": "Sure mate, buy me a bloody coffee",
       "url": "https://lobste.rs/s/eeclwg/sure_mate_buy_me_bloody_coffee"
@@ -2711,6 +2707,12 @@
       "subcat": "Models & Datasets",
       "title": "Comfy-Org/Idol",
       "url": "https://huggingface.co/Comfy-Org/Idol"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: After a decade of reversing, I got co-op...",
+      "url": "https://news.ycombinator.com/item?id=50369895"
     }
   ]
 }
