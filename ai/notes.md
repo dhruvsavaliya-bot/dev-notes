@@ -3513,6 +3513,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.12575v1
 
+**Added 2026-11-11**
+
+### [TRACE: Adaptive Trust-Region Bayesian Optimization for Open-Ended Molecular Design](http://arxiv.org/abs/2611.12591v1)
+- **Authors:** Madhav R. Muthyala, Mahsa Askari, Farshud Sorourifar, Evan Zhou et al.
+- **Published:** 2026-11-09 | **Primary category:** cs.LG
+- **Categories:** cs.LG
+- **Abstract:** Optimizing molecules under small evaluation budgets requires deciding both where in chemical space to search and which candidate within that region to evaluate. We introduce Trust Region Adaptive Chemical Exploration (TRACE), a framework for open-ended molecular Bayesian optimization (BO), where candidates are generated on demand rather than selected from a fixed library. TRACE combines an objective-free graph-perturbation mechanism with a fixed, chemistry-aware Gaussian process (GP) surrogate u...
+- **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.12591v1
+
 
 ## Computer Vision
 

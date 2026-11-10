@@ -108,6 +108,7 @@
     "http://arxiv.org/abs/2611.06711v1",
     "http://arxiv.org/abs/2611.07367v1",
     "http://arxiv.org/abs/2611.12575v1",
+    "http://arxiv.org/abs/2611.12591v1",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
     "http://boglin.iwarp.com/",
@@ -2677,12 +2678,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "Research Papers",
-      "title": "Finite-Context Semantics in Finitely Supported...",
-      "url": "http://arxiv.org/abs/2609.31917v1"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "AI & Machine Learning",
       "title": "QingYunA/answer-me-with-html",
       "url": "https://github.com/QingYunA/answer-me-with-html"
@@ -2734,6 +2729,12 @@
       "subcat": "Swift",
       "title": "ResistanceTo/MiniWatts",
       "url": "https://github.com/ResistanceTo/MiniWatts"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Research Papers",
+      "title": "TRACE: Adaptive Trust-Region Bayesian Optimization...",
+      "url": "http://arxiv.org/abs/2611.12591v1"
     }
   ]
 }
