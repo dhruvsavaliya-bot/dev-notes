@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1874 entries and counting** · Last updated: 2026-11-10
+**1875 entries and counting** · Last updated: 2026-11-10
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 380 |
 | [AI / LLM Notes](ai/notes.md) | 374 |
-| [Reading List](articles/reading-list.md) | 380 |
+| [Reading List](articles/reading-list.md) | 381 |
 | [Coding Tips](coding-tips/tips.md) | 379 |
 | [Language Notes](languages/notes.md) | 361 |
 
 ## Latest additions
 
+- **2026-11-10** · *Hacker News Picks* — [WTF Ubuntu?](https://news.ycombinator.com/item?id=50337608)
 - **2026-11-10** · *Other Cool Projects* — [Mak5er/AirCard-iOS](https://github.com/Mak5er/AirCard-iOS)
 - **2026-11-10** · *Lobsters Picks* — [Sure mate, buy me a bloody coffee](https://lobste.rs/s/eeclwg/sure_mate_buy_me_bloody_coffee)
 - **2026-11-10** · *Models & Datasets* — [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)
 - **2026-11-10** · *Hacker News Picks* — [Nvidia CEO Jensen Huang's letter to staff about affair](https://news.ycombinator.com/item?id=50418016)
-- **2026-11-10** · *AI & Machine Learning* — [3641397194-wq/gpt6-Astra](https://github.com/3641397194-wq/gpt6-Astra)
 
 ## How it works
 

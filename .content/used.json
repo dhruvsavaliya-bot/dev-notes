@@ -247,6 +247,7 @@
     "https://carrierexplode.com/",
     "https://cartographers-nk.wonyoung.so/",
     "https://catcopter.com",
+    "https://chalmovsky.com/posts/wtf-ubuntu",
     "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
     "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
     "https://cheapfoodmap.com/",
@@ -2260,6 +2261,7 @@
     "https://news.ycombinator.com/item?id=50328896",
     "https://news.ycombinator.com/item?id=50333339",
     "https://news.ycombinator.com/item?id=50333877",
+    "https://news.ycombinator.com/item?id=50337608",
     "https://news.ycombinator.com/item?id=50338728",
     "https://news.ycombinator.com/item?id=50339288",
     "https://news.ycombinator.com/item?id=50339913",
@@ -2642,12 +2644,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: A proof-of-concept formalization of the IRS...",
-      "url": "https://news.ycombinator.com/item?id=50278678"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "AI & Machine Learning",
       "title": "nirholas/cryptocurrency.cv",
       "url": "https://github.com/nirholas/cryptocurrency.cv"
@@ -2699,6 +2695,12 @@
       "subcat": "Other Cool Projects",
       "title": "Mak5er/AirCard-iOS",
       "url": "https://github.com/Mak5er/AirCard-iOS"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "Hacker News Picks",
+      "title": "WTF Ubuntu?",
+      "url": "https://news.ycombinator.com/item?id=50337608"
     }
   ]
 }

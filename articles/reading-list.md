@@ -2387,6 +2387,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50418016
 - **Link:** https://nvidianews.nvidia.com/news/a-message-to-our-company
 
+**Added 2026-11-10**
+
+### [WTF Ubuntu?](https://chalmovsky.com/posts/wtf-ubuntu)
+- **Source:** chalmovsky.com | **Posted:** 2026-11-02 | **By:** chalmovsky
+- **Community:** 1632 points, 688 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50337608
+- **Link:** https://chalmovsky.com/posts/wtf-ubuntu
+
 
 ## DevOps & Cloud
 
