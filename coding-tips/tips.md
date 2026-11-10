@@ -2587,6 +2587,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50278678
 - **Link:** https://github.com/emmilco/us-tax-model
 
+**Added 2026-11-10**
+
+### [Show HN: High-quality duck audio synthesizer](https://celphase.github.io/duck-pond/)
+- **Source:** celphase.github.io | **Posted:** 2026-10-17 | **By:** celphase
+- **Community:** 180 points, 48 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50131006
+- **Link:** https://celphase.github.io/duck-pond/
+
 
 ## Git & Workflow
 

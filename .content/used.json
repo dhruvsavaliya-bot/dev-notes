@@ -247,6 +247,7 @@
     "https://carrierexplode.com/",
     "https://cartographers-nk.wonyoung.so/",
     "https://catcopter.com",
+    "https://celphase.github.io/duck-pond/",
     "https://chalmovsky.com/posts/wtf-ubuntu",
     "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
     "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
@@ -2162,6 +2163,7 @@
     "https://news.ycombinator.com/item?id=50121562",
     "https://news.ycombinator.com/item?id=50122736",
     "https://news.ycombinator.com/item?id=50129045",
+    "https://news.ycombinator.com/item?id=50131006",
     "https://news.ycombinator.com/item?id=50131189",
     "https://news.ycombinator.com/item?id=50140584",
     "https://news.ycombinator.com/item?id=50150163",
@@ -2646,12 +2648,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "Lobsters Picks",
-      "title": "SystemIO conflicts are not firmware bugs",
-      "url": "https://lobste.rs/s/jz8fmz/systemio_conflicts_are_not_firmware_bugs"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "Models & Datasets",
       "title": "kopper/RelayVSR",
       "url": "https://huggingface.co/kopper/RelayVSR"
@@ -2703,6 +2699,12 @@
       "subcat": "Python",
       "title": "Show HN: Coldframe, a honeypot that poses as a...",
       "url": "https://news.ycombinator.com/item?id=50406292"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: High-quality duck audio synthesizer",
+      "url": "https://news.ycombinator.com/item?id=50131006"
     }
   ]
 }
