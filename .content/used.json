@@ -829,6 +829,7 @@
     "https://github.com/elie222/rakazo",
     "https://github.com/elstongun/leviathan",
     "https://github.com/elyosh/OpenTIE/",
+    "https://github.com/emmilco/us-tax-model",
     "https://github.com/eternity4719/HowToLiveBetter",
     "https://github.com/eternityspring/shuohao-skills",
     "https://github.com/exteraless/exteraless",
@@ -2223,6 +2224,7 @@
     "https://news.ycombinator.com/item?id=50272479",
     "https://news.ycombinator.com/item?id=50273396",
     "https://news.ycombinator.com/item?id=50278645",
+    "https://news.ycombinator.com/item?id=50278678",
     "https://news.ycombinator.com/item?id=50286987",
     "https://news.ycombinator.com/item?id=50290177",
     "https://news.ycombinator.com/item?id=50290652",
@@ -2626,12 +2628,6 @@
   ],
   "recent": [
     {
-      "date": "2026-11-09",
-      "subcat": "C++",
-      "title": "BenMakesEverything/Pocket-Lab-Power-Supply",
-      "url": "https://github.com/BenMakesEverything/Pocket-Lab-Power-Supply"
-    },
-    {
       "date": "2026-11-10",
       "subcat": "Developer Tools",
       "title": "ja7ad/hydra",
@@ -2684,6 +2680,12 @@
       "subcat": "Kotlin",
       "title": "NihilDigit/piko",
       "url": "https://github.com/NihilDigit/piko"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: A proof-of-concept formalization of the IRS...",
+      "url": "https://news.ycombinator.com/item?id=50278678"
     }
   ]
 }
