@@ -545,6 +545,7 @@
     "https://github.com/0xnyn/airship",
     "https://github.com/1812z/HyperIsland",
     "https://github.com/1lck/Lithe-IDEA",
+    "https://github.com/3641397194-wq/gpt6-Astra",
     "https://github.com/49-Agents/49-IDE",
     "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
     "https://github.com/AFK-surf/Comma",
@@ -2635,12 +2636,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "Show & Ask HN",
-      "title": "ChatGPT Desktop forwards your SSH agent to remote...",
-      "url": "https://news.ycombinator.com/item?id=50422628"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "Hacker News Picks",
       "title": "Show HN: Every satellite that passed over any place...",
       "url": "https://news.ycombinator.com/item?id=50428907"
@@ -2692,6 +2687,12 @@
       "subcat": "Lobsters Picks",
       "title": "I was wrong about dark mode",
       "url": "https://lobste.rs/s/iqhxz6/i_was_wrong_about_dark_mode"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "AI & Machine Learning",
+      "title": "3641397194-wq/gpt6-Astra",
+      "url": "https://github.com/3641397194-wq/gpt6-Astra"
     }
   ]
 }

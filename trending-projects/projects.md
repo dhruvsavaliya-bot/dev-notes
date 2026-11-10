@@ -1764,6 +1764,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/nirholas/cryptocurrency.cv
 
+**Added 2026-11-10**
+
+### [3641397194-wq/gpt6-Astra](https://github.com/3641397194-wq/gpt6-Astra)
+- **Stats:** 2,095 stars | 448 forks | 16 open issues
+- **Language:** JavaScript | **Created:** 2026-08-17 | **License:** MIT
+- **Topics:** claude, coldbrew, deepseek, gpt-5-6, grok, jailbreak
+- **What it is:** gpt6 Astra-claude-grok4.7-deepseekv4.1flash-glm5.3-gemini破甲越狱 · 冷咖啡 BREAK//OPEN 工作台
+- **Growth:** averaging ~24 stars/day since launch.
+- **Link:** https://github.com/3641397194-wq/gpt6-Astra
+
 
 ## Other Cool Projects
 
