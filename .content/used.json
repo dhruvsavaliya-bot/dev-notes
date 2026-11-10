@@ -939,6 +939,7 @@
     "https://github.com/nestrilabs/virtio-nvgpu",
     "https://github.com/newliver666/apk-reverse",
     "https://github.com/nightly-labs/openbot",
+    "https://github.com/nirholas/cryptocurrency.cv",
     "https://github.com/noahdunnagan/mcopt",
     "https://github.com/noctalia-dev/noctalia-greeter",
     "https://github.com/nodes-app/swift-markdown-engine",
@@ -2629,12 +2630,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "Developer Tools",
-      "title": "ja7ad/hydra",
-      "url": "https://github.com/ja7ad/hydra"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: How do you manage your AI agents' context...",
       "url": "https://news.ycombinator.com/item?id=50403153"
@@ -2686,6 +2681,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: A proof-of-concept formalization of the IRS...",
       "url": "https://news.ycombinator.com/item?id=50278678"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "AI & Machine Learning",
+      "title": "nirholas/cryptocurrency.cv",
+      "url": "https://github.com/nirholas/cryptocurrency.cv"
     }
   ]
 }

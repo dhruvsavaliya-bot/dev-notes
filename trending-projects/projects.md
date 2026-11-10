@@ -1754,6 +1754,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~30 stars/day since launch.
 - **Link:** https://github.com/inkeep/open-knowledge
 
+**Added 2026-11-10**
+
+### [nirholas/cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv)
+- **Stats:** 334 stars | 48 forks | 8 open issues
+- **Language:** TypeScript | **Created:** 2026-01-02 | **License:** NOASSERTION
+- **Topics:** ai-agent, api, bitcoin, chatgpt, claude, crypto
+- **What it is:** Free crypto news API - real-time aggregator for Bitcoin, Ethereum, DeFi, Solana & altcoins. No API key required. RSS/Atom feeds, JSON REST API, historical archive with market context, embeddable widgets, ChatGPT plugin, Claude MCP server, SDKs (Python, TypeScript, Go, React, PHP). AI/LLM ready. Vibe coding friendly. Open source.
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/nirholas/cryptocurrency.cv
+
 
 ## Other Cool Projects
 
