@@ -23,6 +23,7 @@
     "http://arxiv.org/abs/2609.34262v1",
     "http://arxiv.org/abs/2609.34603v2",
     "http://arxiv.org/abs/2609.34646v1",
+    "http://arxiv.org/abs/2609.34886v1",
     "http://arxiv.org/abs/2609.35878v1",
     "http://arxiv.org/abs/2609.36201v1",
     "http://arxiv.org/abs/2609.36807v1",
@@ -2670,12 +2671,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: After a decade of reversing, I got co-op...",
-      "url": "https://news.ycombinator.com/item?id=50369895"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "AI & Machine Learning",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
@@ -2727,6 +2722,12 @@
       "subcat": "Lobsters Picks",
       "title": "Terminal2Shell: Critical flaw grants instant shell...",
       "url": "https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "Research Papers",
+      "title": "Fewer Assumptions by Design: A Reusable Skill for...",
+      "url": "http://arxiv.org/abs/2609.34886v1"
     }
   ]
 }

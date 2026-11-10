@@ -3493,6 +3493,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.31917v1
 
+**Added 2026-11-10**
+
+### [Fewer Assumptions by Design: A Reusable Skill for LLM-Assisted Verus Verification](http://arxiv.org/abs/2609.34886v1)
+- **Authors:** Andrada-Livia Antoneac, Dorel Lucanu, Dragoş Teodor Gavriluţ
+- **Published:** 2026-09-28 | **Primary category:** cs.PL
+- **Categories:** cs.AI, cs.PL, cs.SE
+- **Abstract:** LLM-assisted Verus verification is a less tedious method to verify Rust implementations, but paired with self-referential structures, e.g., Doubly Linked Lists (DLLs)ânotoriously difficult to formalise for verificationâit becomes a substantially more demanding verification task. Moreover, a specification weakness can arise when verification relies on unproven or invalidated assumptions, such as axiomatic lemmas and assume statements. We investigate whether LLM agents can synthesize strong DL...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.34886v1
+
 
 ## Computer Vision
 
