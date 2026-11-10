@@ -2278,6 +2278,7 @@
     "https://news.ycombinator.com/item?id=50406222",
     "https://news.ycombinator.com/item?id=50407882",
     "https://news.ycombinator.com/item?id=50417407",
+    "https://news.ycombinator.com/item?id=50422628",
     "https://news.ycombinator.com/item?id=50426582",
     "https://news.ycombinator.com/item?id=50433079",
     "https://news.ycombinator.com/item?id=5673032",
@@ -2620,12 +2621,6 @@
   "recent": [
     {
       "date": "2026-11-09",
-      "subcat": "Lobsters Picks",
-      "title": "What can I realistically do with local AI on a Mac...",
-      "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai"
-    },
-    {
-      "date": "2026-11-09",
       "subcat": "C++",
       "title": "dashdogy/MFG-Unlocker",
       "url": "https://github.com/dashdogy/MFG-Unlocker"
@@ -2677,6 +2672,12 @@
       "subcat": "Developer Tools",
       "title": "GLinnik21/plx-native",
       "url": "https://github.com/GLinnik21/plx-native"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "Show & Ask HN",
+      "title": "ChatGPT Desktop forwards your SSH agent to remote...",
+      "url": "https://news.ycombinator.com/item?id=50422628"
     }
   ]
 }
