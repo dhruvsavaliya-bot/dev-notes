@@ -2623,6 +2623,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50290533
 - **Link:** https://outcrop.rocks/
 
+**Added 2026-11-11**
+
+### [Show HN: Marelleo, an open-source story box I built for my kids using ESP32](https://zebra.rodeo/en/blog/marelleo/)
+- **Source:** zebra.rodeo | **Posted:** 2026-10-27 | **By:** foOg
+- **Community:** 195 points, 53 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50260753
+- **Link:** https://zebra.rodeo/en/blog/marelleo/
+
 
 ## Git & Workflow
 

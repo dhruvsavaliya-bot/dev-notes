@@ -2250,6 +2250,7 @@
     "https://news.ycombinator.com/item?id=50243060",
     "https://news.ycombinator.com/item?id=50246238",
     "https://news.ycombinator.com/item?id=50255298",
+    "https://news.ycombinator.com/item?id=50260753",
     "https://news.ycombinator.com/item?id=50261998",
     "https://news.ycombinator.com/item?id=50264853",
     "https://news.ycombinator.com/item?id=50264857",
@@ -2666,18 +2667,13 @@
     "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
     "https://z.ai/blog/glm-5.3",
     "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
+    "https://zebra.rodeo/en/blog/marelleo/",
     "https://ziglang.org/devlog/2026/#2026-08-27",
     "https://ziglang.org/devlog/2026/#2026-10-24",
     "https://zoey-on-github.github.io/blog/macgcc.html",
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-11-10",
-      "subcat": "Models & Datasets",
-      "title": "DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-B...",
-      "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF"
-    },
     {
       "date": "2026-11-10",
       "subcat": "Show & Ask HN",
@@ -2731,6 +2727,12 @@
       "subcat": "Web & Frontend",
       "title": "egoist/mygo",
       "url": "https://github.com/egoist/mygo"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Marelleo, an open-source story box I built...",
+      "url": "https://news.ycombinator.com/item?id=50260753"
     }
   ]
 }
