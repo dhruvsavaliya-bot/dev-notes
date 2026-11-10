@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1878 entries and counting** · Last updated: 2026-11-10
+**1879 entries and counting** · Last updated: 2026-11-10
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 381 |
 | [AI / LLM Notes](ai/notes.md) | 374 |
-| [Reading List](articles/reading-list.md) | 381 |
+| [Reading List](articles/reading-list.md) | 382 |
 | [Coding Tips](coding-tips/tips.md) | 380 |
 | [Language Notes](languages/notes.md) | 362 |
 
 ## Latest additions
 
+- **2026-11-10** · *Lobsters Picks* — [Unattended reboots with encrypted disks](https://lobste.rs/s/urg4yu/unattended_reboots_with_encrypted_disks)
 - **2026-11-10** · *AI & Machine Learning* — [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
 - **2026-11-10** · *Show & Ask HN* — [Show HN: High-quality duck audio synthesizer](https://news.ycombinator.com/item?id=50131006)
 - **2026-11-10** · *Python* — [Show HN: Coldframe, a honeypot that poses as a...](https://news.ycombinator.com/item?id=50406292)
 - **2026-11-10** · *Hacker News Picks* — [WTF Ubuntu?](https://news.ycombinator.com/item?id=50337608)
-- **2026-11-10** · *Other Cool Projects* — [Mak5er/AirCard-iOS](https://github.com/Mak5er/AirCard-iOS)
 
 ## How it works
 

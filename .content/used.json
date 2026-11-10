@@ -1379,6 +1379,7 @@
     "https://jepsen.io/analyses/orkes-conductor-5.3.2",
     "https://jepsen.io/analyses/particledb-1.1.4",
     "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
+    "https://jmmv.dev/2026/11/zkeys-intro.html",
     "https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/",
     "https://jordi.inversethought.com/blog/the-kluever-maneuver/",
     "https://josephg.com/blog/electron-is-flash-for-the-desktop/",
@@ -1638,6 +1639,7 @@
     "https://lobste.rs/s/ukj8mm/federated_code_forge",
     "https://lobste.rs/s/ul9krj/hacking_go_compiler_efficiently_map_ipv4",
     "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+    "https://lobste.rs/s/urg4yu/unattended_reboots_with_encrypted_disks",
     "https://lobste.rs/s/vbx0g4/look_at_datastar",
     "https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out",
     "https://lobste.rs/s/vulvk7/wild_version_0_11_0_released",
@@ -2649,12 +2651,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "Lobsters Picks",
-      "title": "I was wrong about dark mode",
-      "url": "https://lobste.rs/s/iqhxz6/i_was_wrong_about_dark_mode"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "AI & Machine Learning",
       "title": "3641397194-wq/gpt6-Astra",
       "url": "https://github.com/3641397194-wq/gpt6-Astra"
@@ -2706,6 +2702,12 @@
       "subcat": "AI & Machine Learning",
       "title": "JetBrains/thinkrail",
       "url": "https://github.com/JetBrains/thinkrail"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "Lobsters Picks",
+      "title": "Unattended reboots with encrypted disks",
+      "url": "https://lobste.rs/s/urg4yu/unattended_reboots_with_encrypted_disks"
     }
   ]
 }

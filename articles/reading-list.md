@@ -3513,6 +3513,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/jz8fmz/systemio_conflicts_are_not_firmware_bugs
 - **Link:** https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/
 
+**Added 2026-11-10**
+
+### [Unattended reboots with encrypted disks](https://jmmv.dev/2026/11/zkeys-intro.html)
+- **Source:** jmmv.dev | **Posted:** 2026-11-08 | **By:** jmmv
+- **Community:** 33 score, 27 comments on Lobsters
+- **Tags:** freebsd, security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/urg4yu/unattended_reboots_with_encrypted_disks
+- **Link:** https://jmmv.dev/2026/11/zkeys-intro.html
+
 
 ## Performance
 
