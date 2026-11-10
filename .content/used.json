@@ -276,6 +276,7 @@
     "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
     "https://dbushell.com/2026/10/07/sustainable-web-career/",
     "https://dbushell.com/2026/11/03/xslt-rip/",
+    "https://dbushell.com/2026/11/09/dark-mode/",
     "https://deathplanswitch.com/",
     "https://deepgrove.ai/maple-preview",
     "https://deepmind.google/models/gemini/",
@@ -1533,6 +1534,7 @@
     "https://lobste.rs/s/imdwmj/pandas_should_go_extinct",
     "https://lobste.rs/s/iotaty/state_simd_rust_2026",
     "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
+    "https://lobste.rs/s/iqhxz6/i_was_wrong_about_dark_mode",
     "https://lobste.rs/s/iufma5/parsing_json_at_tens_gigabytes_per_second",
     "https://lobste.rs/s/j63dme/meridian_experimental_web_browser_built",
     "https://lobste.rs/s/j7kltq/turbo_haskell",
@@ -2633,12 +2635,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "Developer Tools",
-      "title": "GLinnik21/plx-native",
-      "url": "https://github.com/GLinnik21/plx-native"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "Show & Ask HN",
       "title": "ChatGPT Desktop forwards your SSH agent to remote...",
       "url": "https://news.ycombinator.com/item?id=50422628"
@@ -2690,6 +2686,12 @@
       "subcat": "Models & Datasets",
       "title": "kopper/RelayVSR",
       "url": "https://huggingface.co/kopper/RelayVSR"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "Lobsters Picks",
+      "title": "I was wrong about dark mode",
+      "url": "https://lobste.rs/s/iqhxz6/i_was_wrong_about_dark_mode"
     }
   ]
 }

@@ -3465,6 +3465,16 @@ Que...
 - **Discussion:** https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai
 - **Link:** https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai
 
+**Added 2026-11-10**
+
+### [I was wrong about dark mode](https://dbushell.com/2026/11/09/dark-mode/)
+- **Source:** dbushell.com | **Posted:** 2026-11-09 | **By:** loige
+- **Community:** 16 score, 11 comments on Lobsters
+- **Tags:** css, design, web
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/iqhxz6/i_was_wrong_about_dark_mode
+- **Link:** https://dbushell.com/2026/11/09/dark-mode/
+
 
 ## Career & Craft
 

@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1868 entries and counting** · Last updated: 2026-11-10
+**1869 entries and counting** · Last updated: 2026-11-10
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 378 |
 | [AI / LLM Notes](ai/notes.md) | 373 |
 | [Reading List](articles/reading-list.md) | 379 |
-| [Coding Tips](coding-tips/tips.md) | 377 |
+| [Coding Tips](coding-tips/tips.md) | 378 |
 | [Language Notes](languages/notes.md) | 361 |
 
 ## Latest additions
 
+- **2026-11-10** · *Lobsters Picks* — [I was wrong about dark mode](https://lobste.rs/s/iqhxz6/i_was_wrong_about_dark_mode)
 - **2026-11-10** · *Models & Datasets* — [kopper/RelayVSR](https://huggingface.co/kopper/RelayVSR)
 - **2026-11-10** · *Lobsters Picks* — [SystemIO conflicts are not firmware bugs](https://lobste.rs/s/jz8fmz/systemio_conflicts_are_not_firmware_bugs)
 - **2026-11-10** · *AI & Machine Learning* — [nirholas/cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv)
 - **2026-11-10** · *Show & Ask HN* — [Show HN: A proof-of-concept formalization of the IRS...](https://news.ycombinator.com/item?id=50278678)
-- **2026-11-10** · *Kotlin* — [NihilDigit/piko](https://github.com/NihilDigit/piko)
 
 ## How it works
 
