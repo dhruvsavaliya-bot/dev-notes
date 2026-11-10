@@ -653,6 +653,7 @@
     "https://github.com/Nanako0129/sepia",
     "https://github.com/NandhaKishorM/laya",
     "https://github.com/NickTikhonov/snap-ql",
+    "https://github.com/NihilDigit/piko",
     "https://github.com/Niko1221/Strata",
     "https://github.com/NomaDamas/k-skill",
     "https://github.com/OpenMili/aimili-vpngate",
@@ -2626,12 +2627,6 @@
   "recent": [
     {
       "date": "2026-11-09",
-      "subcat": "Hacker News Picks",
-      "title": "I Saw Your HN Comment",
-      "url": "https://news.ycombinator.com/item?id=50426582"
-    },
-    {
-      "date": "2026-11-09",
       "subcat": "C++",
       "title": "BenMakesEverything/Pocket-Lab-Power-Supply",
       "url": "https://github.com/BenMakesEverything/Pocket-Lab-Power-Supply"
@@ -2683,6 +2678,12 @@
       "subcat": "Hacker News Picks",
       "title": "CUI  Native UI components for C",
       "url": "https://news.ycombinator.com/item?id=50430621"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "Kotlin",
+      "title": "NihilDigit/piko",
+      "url": "https://github.com/NihilDigit/piko"
     }
   ]
 }

@@ -3188,6 +3188,16 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Growth:** averaging ~6 stars/day since launch.
 - **Link:** https://github.com/rushiranpise/morphe-patches
 
+**Added 2026-11-10**
+
+### [NihilDigit/piko](https://github.com/NihilDigit/piko)
+- **Stats:** 684 stars | 22 forks | 19 open issues
+- **Language:** Kotlin | **Created:** 2026-09-18 | **License:** AGPL-3.0
+- **Topics:** android, cloud-storage, compose-multiplatform, jetpack-compose, kotlin, kotlin-multiplatform
+- **What it is:** 高性能、多平台的 PikPak 客户端 | A fast, cross-platform PikPak client for Android, Windows and macOS
+- **Growth:** averaging ~12 stars/day since launch.
+- **Link:** https://github.com/NihilDigit/piko
+
 
 ## Java
 
