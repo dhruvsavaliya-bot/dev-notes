@@ -2605,6 +2605,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50369895
 - **Link:** https://fireflyk64.github.io/wcmulti/
 
+**Added 2026-11-10**
+
+### [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess)
+- **Source:** github.com | **Posted:** 2026-10-20 | **By:** coding-maniac
+- **Community:** 188 points, 13 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50167286
+- **Link:** https://github.com/KatrielMoses/voidaccess
+
 
 ## Git & Workflow
 

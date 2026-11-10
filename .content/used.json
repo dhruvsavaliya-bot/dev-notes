@@ -621,6 +621,7 @@
     "https://github.com/JustVugg/colibri",
     "https://github.com/KKKKhazix/AIHOT",
     "https://github.com/KKKKhazix/human-writing",
+    "https://github.com/KatrielMoses/voidaccess",
     "https://github.com/KittenML/KittenTTS",
     "https://github.com/KnifeLemon/Filee",
     "https://github.com/Koppar-AI/koppar-lte-modem",
@@ -2192,6 +2193,7 @@
     "https://news.ycombinator.com/item?id=50165208",
     "https://news.ycombinator.com/item?id=50165953",
     "https://news.ycombinator.com/item?id=50166257",
+    "https://news.ycombinator.com/item?id=50167286",
     "https://news.ycombinator.com/item?id=50167754",
     "https://news.ycombinator.com/item?id=50168096",
     "https://news.ycombinator.com/item?id=50168396",
@@ -2662,12 +2664,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: High-quality duck audio synthesizer",
-      "url": "https://news.ycombinator.com/item?id=50131006"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "AI & Machine Learning",
       "title": "JetBrains/thinkrail",
       "url": "https://github.com/JetBrains/thinkrail"
@@ -2719,6 +2715,12 @@
       "subcat": "Models & Datasets",
       "title": "DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-B...",
       "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: VoidAccess  open-source dark web OSINT, from...",
+      "url": "https://news.ycombinator.com/item?id=50167286"
     }
   ]
 }
