@@ -3475,6 +3475,16 @@ Que...
 - **Discussion:** https://lobste.rs/s/iqhxz6/i_was_wrong_about_dark_mode
 - **Link:** https://dbushell.com/2026/11/09/dark-mode/
 
+**Added 2026-11-10**
+
+### [Sure mate, buy me a bloody coffee](https://peateasea.de/sure-mate-buy-me-a-bloody-coffee/)
+- **Source:** peateasea.de | **Posted:** 2026-11-09 | **By:** classichasclass
+- **Community:** 46 score, 4 comments on Lobsters
+- **Tags:** culture
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/eeclwg/sure_mate_buy_me_bloody_coffee
+- **Link:** https://peateasea.de/sure-mate-buy-me-a-bloody-coffee/
+
 
 ## Career & Craft
 

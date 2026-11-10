@@ -1507,6 +1507,7 @@
     "https://lobste.rs/s/eccbci/shared_password_manager_for_families",
     "https://lobste.rs/s/ecrqpy/how_speed_up_rust_compiler_november_2026",
     "https://lobste.rs/s/ecxril/lineageos_24_0_released",
+    "https://lobste.rs/s/eeclwg/sure_mate_buy_me_bloody_coffee",
     "https://lobste.rs/s/eesu8d/bun_1_4",
     "https://lobste.rs/s/ekwolo/building_java_me_apps_with_modern_tooling",
     "https://lobste.rs/s/eoibah/iroh_global_content_discovery",
@@ -2345,6 +2346,7 @@
     "https://parsimony.lasu.dev/",
     "https://pavursec.com/blog/stealmybitcoin/",
     "https://pdftomp3.com/connect-ai/",
+    "https://peateasea.de/sure-mate-buy-me-a-bloody-coffee/",
     "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
     "https://petal.live/",
     "https://peterszentkiralyi.eu/darkplug/",
@@ -2639,12 +2641,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "Hacker News Picks",
-      "title": "CUI  Native UI components for C",
-      "url": "https://news.ycombinator.com/item?id=50430621"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "Kotlin",
       "title": "NihilDigit/piko",
       "url": "https://github.com/NihilDigit/piko"
@@ -2696,6 +2692,12 @@
       "subcat": "Models & Datasets",
       "title": "baidu/Unlimited-OCR",
       "url": "https://huggingface.co/baidu/Unlimited-OCR"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "Lobsters Picks",
+      "title": "Sure mate, buy me a bloody coffee",
+      "url": "https://lobste.rs/s/eeclwg/sure_mate_buy_me_bloody_coffee"
     }
   ]
 }
