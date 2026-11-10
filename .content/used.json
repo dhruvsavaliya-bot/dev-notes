@@ -613,6 +613,7 @@
     "https://github.com/IntegralPilot/rustc_codegen_jvm",
     "https://github.com/Javis603/token-monitor",
     "https://github.com/JetBrains/kotlin-toolchain",
+    "https://github.com/JetBrains/thinkrail",
     "https://github.com/Jia-Ethan/codex-keysmith",
     "https://github.com/JohnHeibel/ClaudeAnimationBase",
     "https://github.com/JustVugg/colibri",
@@ -2648,12 +2649,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "Models & Datasets",
-      "title": "kopper/RelayVSR",
-      "url": "https://huggingface.co/kopper/RelayVSR"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "Lobsters Picks",
       "title": "I was wrong about dark mode",
       "url": "https://lobste.rs/s/iqhxz6/i_was_wrong_about_dark_mode"
@@ -2705,6 +2700,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: High-quality duck audio synthesizer",
       "url": "https://news.ycombinator.com/item?id=50131006"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "AI & Machine Learning",
+      "title": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail"
     }
   ]
 }

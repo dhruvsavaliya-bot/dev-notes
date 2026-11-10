@@ -1774,6 +1774,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~24 stars/day since launch.
 - **Link:** https://github.com/3641397194-wq/gpt6-Astra
 
+**Added 2026-11-10**
+
+### [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
+- **Stats:** 8,064 stars | 505 forks | 343 open issues
+- **Language:** TypeScript | **Created:** 2026-07-08 | **License:** Apache-2.0
+- **Topics:** agent, agent-skills, agentic-ai, agentic-workflow, ai-coding, ai-tools
+- **What it is:** ThinkRail is the agentic IDE that gets better every time you use it
+- **Growth:** averaging ~64 stars/day since launch.
+- **Link:** https://github.com/JetBrains/thinkrail
+
 
 ## Other Cool Projects
 
