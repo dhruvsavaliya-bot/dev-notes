@@ -2278,6 +2278,7 @@
     "https://news.ycombinator.com/item?id=50407882",
     "https://news.ycombinator.com/item?id=50417407",
     "https://news.ycombinator.com/item?id=50426582",
+    "https://news.ycombinator.com/item?id=50433079",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2551,6 +2552,7 @@
     "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
     "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
     "https://www.raptitude.com/2026/07/how-to-exist/",
+    "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
     "https://www.redox-os.org/news/nlnet-rb-summary/",
     "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
     "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
@@ -2617,12 +2619,6 @@
   "recent": [
     {
       "date": "2026-11-09",
-      "subcat": "AI & Machine Learning",
-      "title": "edenfunf/reelmimic",
-      "url": "https://github.com/edenfunf/reelmimic"
-    },
-    {
-      "date": "2026-11-09",
       "subcat": "Lobsters Picks",
       "title": "Passkeys Attestation Trap",
       "url": "https://lobste.rs/s/cdnepk/passkeys_attestation_trap"
@@ -2674,6 +2670,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: How do you manage your AI agents' context...",
       "url": "https://news.ycombinator.com/item?id=50403153"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "Hacker News Picks",
+      "title": "A year after the 100% AI mandate nobody understands...",
+      "url": "https://news.ycombinator.com/item?id=50433079"
     }
   ]
 }

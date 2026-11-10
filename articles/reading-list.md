@@ -2351,6 +2351,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50426582
 - **Link:** https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/
 
+**Added 2026-11-10**
+
+### [A year after the 100% AI mandate nobody understands our code](https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/)
+- **Source:** www.reddit.com | **Posted:** 2026-11-09 | **By:** thelifeline
+- **Community:** 102 points, 121 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50433079
+- **Link:** https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/
+
 
 ## DevOps & Cloud
 
