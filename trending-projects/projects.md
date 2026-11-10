@@ -3633,6 +3633,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~522 stars/day since launch.
 - **Link:** https://github.com/storytold/pdfcraft
 
+**Added 2026-11-10**
+
+### [ja7ad/hydra](https://github.com/ja7ad/hydra)
+- **Stats:** 1,347 stars | 83 forks | 67 open issues
+- **Language:** Rust | **Created:** 2026-08-15 | **License:** GPL-3.0
+- **Topics:** downloadmanager, iced, rust, rust-cli, rust-community, rust-crate
+- **What it is:** A fast, resilient, multi-source file retriever and download engine
+- **Growth:** averaging ~15 stars/day since launch.
+- **Link:** https://github.com/ja7ad/hydra
+
 
 ## Backend & Infrastructure
 

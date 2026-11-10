@@ -861,6 +861,7 @@
     "https://github.com/inkeep/open-knowledge",
     "https://github.com/internet-court/internet-court-skill",
     "https://github.com/isjiamu/gzh-design-skill",
+    "https://github.com/ja7ad/hydra",
     "https://github.com/jakubkrehel/skills",
     "https://github.com/jamesob/local-llm",
     "https://github.com/jaredpalmer/kev",
@@ -2616,12 +2617,6 @@
     {
       "date": "2026-11-09",
       "subcat": "Lobsters Picks",
-      "title": "Death comes for XSLT",
-      "url": "https://lobste.rs/s/chypzr/death_comes_for_xslt"
-    },
-    {
-      "date": "2026-11-09",
-      "subcat": "Lobsters Picks",
       "title": "Horrible public key tricks",
       "url": "https://lobste.rs/s/txkq8s/horrible_public_key_tricks"
     },
@@ -2672,6 +2667,12 @@
       "subcat": "C++",
       "title": "BenMakesEverything/Pocket-Lab-Power-Supply",
       "url": "https://github.com/BenMakesEverything/Pocket-Lab-Power-Supply"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "Developer Tools",
+      "title": "ja7ad/hydra",
+      "url": "https://github.com/ja7ad/hydra"
     }
   ]
 }
