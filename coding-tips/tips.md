@@ -2632,6 +2632,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50260753
 - **Link:** https://zebra.rodeo/en/blog/marelleo/
 
+**Added 2026-11-11**
+
+### [Show HN: SimCity, but with Permits](https://permit.petercai.com/)
+- **Source:** permit.petercai.com | **Posted:** 2026-10-20 | **By:** pcai
+- **Community:** 941 points, 428 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50170593
+- **Link:** https://permit.petercai.com/
+
 
 ## Git & Workflow
 

@@ -2207,6 +2207,7 @@
     "https://news.ycombinator.com/item?id=50167754",
     "https://news.ycombinator.com/item?id=50168096",
     "https://news.ycombinator.com/item?id=50168396",
+    "https://news.ycombinator.com/item?id=50170593",
     "https://news.ycombinator.com/item?id=50171936",
     "https://news.ycombinator.com/item?id=50172041",
     "https://news.ycombinator.com/item?id=50174687",
@@ -2383,6 +2384,7 @@
     "https://pdftomp3.com/connect-ai/",
     "https://peateasea.de/sure-mate-buy-me-a-bloody-coffee/",
     "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+    "https://permit.petercai.com/",
     "https://petal.live/",
     "https://peterszentkiralyi.eu/darkplug/",
     "https://pharo.org/news/2026-10-26-Pharo14Release.html",
@@ -2679,12 +2681,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Point your camera at a landscape to learn...",
-      "url": "https://news.ycombinator.com/item?id=50290533"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "Lobsters Picks",
       "title": "Terminal2Shell: Critical flaw grants instant shell...",
       "url": "https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants"
@@ -2736,6 +2732,12 @@
       "subcat": "Other Cool Projects",
       "title": "anomalyco/hex",
       "url": "https://github.com/anomalyco/hex"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: SimCity, but with Permits",
+      "url": "https://news.ycombinator.com/item?id=50170593"
     }
   ]
 }
