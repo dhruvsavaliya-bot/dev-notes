@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1856 entries and counting** · Last updated: 2026-11-10
+**1857 entries and counting** · Last updated: 2026-11-10
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 375 |
 | [AI / LLM Notes](ai/notes.md) | 372 |
 | [Reading List](articles/reading-list.md) | 375 |
-| [Coding Tips](coding-tips/tips.md) | 374 |
+| [Coding Tips](coding-tips/tips.md) | 375 |
 | [Language Notes](languages/notes.md) | 360 |
 
 ## Latest additions
 
+- **2026-11-10** · *Show & Ask HN* — [Ask HN: How do you manage your AI agents' context...](https://news.ycombinator.com/item?id=50403153)
 - **2026-11-10** · *Developer Tools* — [ja7ad/hydra](https://github.com/ja7ad/hydra)
 - **2026-11-09** · *C++* — [BenMakesEverything/Pocket-Lab-Power-Supply](https://github.com/BenMakesEverything/Pocket-Lab-Power-Supply)
 - **2026-11-09** · *Hacker News Picks* — [I Saw Your HN Comment](https://news.ycombinator.com/item?id=50426582)
 - **2026-11-09** · *Show & Ask HN* — [Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407)
-- **2026-11-09** · *AI & Machine Learning* — [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge)
 
 ## How it works
 

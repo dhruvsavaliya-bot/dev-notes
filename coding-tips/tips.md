@@ -2560,6 +2560,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50417407
 - **Link:** https://news.ycombinator.com/item?id=50417407
 
+**Added 2026-11-10**
+
+### [Ask HN: How do you manage your AI agents' context across clients and projects?](https://news.ycombinator.com/item?id=50403153)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-07 | **By:** Michel_Aventin
+- **Community:** 90 points, 51 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50403153
+- **Link:** https://news.ycombinator.com/item?id=50403153
+
 
 ## Git & Workflow
 
