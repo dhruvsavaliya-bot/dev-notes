@@ -1312,6 +1312,7 @@
     "https://huggingface.co/inclusionAI/Ming-3.0-audio-flash",
     "https://huggingface.co/jaredpalmer/kev-4b",
     "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-russian",
+    "https://huggingface.co/kopper/RelayVSR",
     "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
     "https://huggingface.co/lightx2v/Minimax-h3-Turbo",
     "https://huggingface.co/meta-llama/Llama-3.1-8B",
@@ -2632,12 +2633,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "Hacker News Picks",
-      "title": "A year after the 100% AI mandate nobody understands...",
-      "url": "https://news.ycombinator.com/item?id=50433079"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "Developer Tools",
       "title": "GLinnik21/plx-native",
       "url": "https://github.com/GLinnik21/plx-native"
@@ -2689,6 +2684,12 @@
       "subcat": "Lobsters Picks",
       "title": "SystemIO conflicts are not firmware bugs",
       "url": "https://lobste.rs/s/jz8fmz/systemio_conflicts_are_not_firmware_bugs"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "Models & Datasets",
+      "title": "kopper/RelayVSR",
+      "url": "https://huggingface.co/kopper/RelayVSR"
     }
   ]
 }

@@ -2454,6 +2454,15 @@ Lessons from building with LLMs.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/Manusagents/GPT-5.5-Gemini-3.1-Pro-Grok-4-Claude-Fable-5-Mythos-5-Qwen-3.7-Max-and-more-Distillation-Dataset
 
+**Added 2026-11-10**
+
+### [kopper/RelayVSR](https://huggingface.co/kopper/RelayVSR)
+- **Stats:** 57 likes | 0 downloads
+- **Kind:** Hugging Face model | **Task:** n/a | **Created:** 2026-10-03
+- **Tags:** none listed
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/kopper/RelayVSR
+
 
 ## Research Papers
 
