@@ -1197,6 +1197,7 @@
     "https://huggingface.co/autotrust/AutoTrust-JEV-27B-v1.1",
     "https://huggingface.co/autotrust/GEV-26B-Decide",
     "https://huggingface.co/baidu/ERNIE-5.5-Flash-Base",
+    "https://huggingface.co/baidu/Unlimited-OCR",
     "https://huggingface.co/black-forest-labs/flux-3-image-klein",
     "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
     "https://huggingface.co/blog/agent-intrusion-technical-timeline",
@@ -2638,12 +2639,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "Other Cool Projects",
-      "title": "Lumid-Off/AirCard-Windows",
-      "url": "https://github.com/Lumid-Off/AirCard-Windows"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "Hacker News Picks",
       "title": "CUI  Native UI components for C",
       "url": "https://news.ycombinator.com/item?id=50430621"
@@ -2695,6 +2690,12 @@
       "subcat": "Hacker News Picks",
       "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
       "url": "https://news.ycombinator.com/item?id=50418016"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "Models & Datasets",
+      "title": "baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR"
     }
   ]
 }

@@ -2463,6 +2463,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/kopper/RelayVSR
 
+**Added 2026-11-10**
+
+### [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)
+- **Stats:** 4,996 likes | 5,404,539 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-06-19
+- **Tags:** transformers, safetensors, unlimited_ocr, feature-extraction, baidu, vision-language
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/baidu/Unlimited-OCR
+
 
 ## Research Papers
 
