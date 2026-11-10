@@ -2472,6 +2472,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/baidu/Unlimited-OCR
 
+**Added 2026-11-10**
+
+### [Comfy-Org/Idol](https://huggingface.co/Comfy-Org/Idol)
+- **Stats:** 155 likes | 45,216 downloads
+- **Kind:** Hugging Face model | **Task:** image-to-3d | **Created:** 2026-11-01
+- **Tags:** diffusion-single-file, comfyui, image-to-3d
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/Comfy-Org/Idol
+
 
 ## Research Papers
 

@@ -1161,6 +1161,7 @@
     "https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap",
     "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
     "https://huggingface.co/Cloudflare/clef",
+    "https://huggingface.co/Comfy-Org/Idol",
     "https://huggingface.co/Comfy-Org/MOSS-Image",
     "https://huggingface.co/Comfy-Org/MiniMax-H3",
     "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged",
@@ -2653,12 +2654,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "Hacker News Picks",
-      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-      "url": "https://news.ycombinator.com/item?id=50418016"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "Models & Datasets",
       "title": "baidu/Unlimited-OCR",
       "url": "https://huggingface.co/baidu/Unlimited-OCR"
@@ -2710,6 +2705,12 @@
       "subcat": "PHP",
       "title": "Show HN: Flide: Make Jev-like decision models up to...",
       "url": "https://news.ycombinator.com/item?id=50421155"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "Models & Datasets",
+      "title": "Comfy-Org/Idol",
+      "url": "https://huggingface.co/Comfy-Org/Idol"
     }
   ]
 }
