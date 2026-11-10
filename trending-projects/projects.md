@@ -1784,6 +1784,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~64 stars/day since launch.
 - **Link:** https://github.com/JetBrains/thinkrail
 
+**Added 2026-11-10**
+
+### [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
+- **Stats:** 22,132 stars | 2,670 forks | 0 open issues
+- **Language:** TypeScript | **Created:** 2026-10-31 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Towards a More Autonomous Agent System
+- **Growth:** averaging ~2,213 stars/day since launch.
+- **Link:** https://github.com/deepseek-ai/dsh-superagent-prototype
+
 
 ## Other Cool Projects
 

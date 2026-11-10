@@ -814,6 +814,7 @@
     "https://github.com/deepseek-ai/DeepInfer",
     "https://github.com/deepseek-ai/DeepSpec",
     "https://github.com/deepseek-ai/deepseek-harness",
+    "https://github.com/deepseek-ai/dsh-superagent-prototype",
     "https://github.com/denoland/celld",
     "https://github.com/dev-null-sh/dev-null.sh",
     "https://github.com/devdotfast/whiteboard",
@@ -2656,12 +2657,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "Lobsters Picks",
-      "title": "Sure mate, buy me a bloody coffee",
-      "url": "https://lobste.rs/s/eeclwg/sure_mate_buy_me_bloody_coffee"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "Other Cool Projects",
       "title": "Mak5er/AirCard-iOS",
       "url": "https://github.com/Mak5er/AirCard-iOS"
@@ -2713,6 +2708,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: After a decade of reversing, I got co-op...",
       "url": "https://news.ycombinator.com/item?id=50369895"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "AI & Machine Learning",
+      "title": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
     }
   ]
 }
