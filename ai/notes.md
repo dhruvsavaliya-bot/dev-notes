@@ -3503,6 +3503,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.34886v1
 
+**Added 2026-11-11**
+
+### [From Likelihood Convergence to Parameter Convergence in POMDPs](http://arxiv.org/abs/2611.12575v1)
+- **Authors:** Jack Zhang, Saurabh Amin, Jiawei Zhang, Patrick Jaillet
+- **Published:** 2026-11-09 | **Primary category:** cs.LG
+- **Categories:** cs.LG
+- **Abstract:** Likelihood-based methods are widely used to learn the parameters of partially observable Markov decision processes (POMDPs). While finite-sample guarantees for policy suboptimality exist for certain POMDP subclasses, analogous guarantees for parameter recovery remain less well understood. For any candidate POMDP parameter, we bound its parameter recovery error in terms of its likelihood gap to the ground truth, the structural conditioning of the observation and transition kernels, and the behavi...
+- **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.12575v1
+
 
 ## Computer Vision
 

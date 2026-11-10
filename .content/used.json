@@ -107,6 +107,7 @@
     "http://arxiv.org/abs/2611.05731v1",
     "http://arxiv.org/abs/2611.06711v1",
     "http://arxiv.org/abs/2611.07367v1",
+    "http://arxiv.org/abs/2611.12575v1",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
     "http://boglin.iwarp.com/",
@@ -2672,12 +2673,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "Hacker News Picks",
-      "title": "IKEA  3D Guide",
-      "url": "https://news.ycombinator.com/item?id=50168096"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "PHP",
       "title": "Ink droplets in motion snag top prize in Nikon Small...",
       "url": "https://news.ycombinator.com/item?id=50234796"
@@ -2729,6 +2724,12 @@
       "subcat": "Swift",
       "title": "kaishi00/hermes-conduit",
       "url": "https://github.com/kaishi00/hermes-conduit"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Research Papers",
+      "title": "From Likelihood Convergence to Parameter Convergence...",
+      "url": "http://arxiv.org/abs/2611.12575v1"
     }
   ]
 }
