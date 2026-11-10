@@ -1171,6 +1171,7 @@
     "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
     "https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
     "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+    "https://huggingface.co/DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF",
     "https://huggingface.co/FermionResearch/Phonon-2",
     "https://huggingface.co/FrancisRing/Prism",
     "https://huggingface.co/HuggingFaceH4/zephyr-7b-beta",
@@ -2661,12 +2662,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "Python",
-      "title": "Show HN: Coldframe, a honeypot that poses as a...",
-      "url": "https://news.ycombinator.com/item?id=50406292"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "Show & Ask HN",
       "title": "Show HN: High-quality duck audio synthesizer",
       "url": "https://news.ycombinator.com/item?id=50131006"
@@ -2718,6 +2713,12 @@
       "subcat": "PHP",
       "title": "Ink droplets in motion snag top prize in Nikon Small...",
       "url": "https://news.ycombinator.com/item?id=50234796"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "Models & Datasets",
+      "title": "DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-B...",
+      "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF"
     }
   ]
 }

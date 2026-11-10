@@ -2481,6 +2481,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/Comfy-Org/Idol
 
+**Added 2026-11-10**
+
+### [DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF)
+- **Stats:** 85 likes | 29,806 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-11-04
+- **Tags:** gguf, heretic, qwen3_8, qwen3_6, uncensored, finetune
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF
+
 
 ## Research Papers
 
