@@ -754,6 +754,7 @@
     "https://github.com/andunieee/flipflop",
     "https://github.com/angusdevgo/IDM_Pro_Tool",
     "https://github.com/angusdevgo/Seep-Reverse-Lab",
+    "https://github.com/anomalyco/hex",
     "https://github.com/anteloc/ldraw-nova",
     "https://github.com/anthropics/commerce-agents",
     "https://github.com/anthropics/jacobian-lens",
@@ -2678,12 +2679,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "AI & Machine Learning",
-      "title": "QingYunA/answer-me-with-html",
-      "url": "https://github.com/QingYunA/answer-me-with-html"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Point your camera at a landscape to learn...",
       "url": "https://news.ycombinator.com/item?id=50290533"
@@ -2735,6 +2730,12 @@
       "subcat": "Research Papers",
       "title": "TRACE: Adaptive Trust-Region Bayesian Optimization...",
       "url": "http://arxiv.org/abs/2611.12591v1"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Other Cool Projects",
+      "title": "anomalyco/hex",
+      "url": "https://github.com/anomalyco/hex"
     }
   ]
 }

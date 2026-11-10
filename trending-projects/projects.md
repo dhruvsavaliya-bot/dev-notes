@@ -3267,6 +3267,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~39 stars/day since launch.
 - **Link:** https://github.com/Mak5er/AirCard-iOS
 
+**Added 2026-11-11**
+
+### [anomalyco/hex](https://github.com/anomalyco/hex)
+- **Stats:** 6,178 stars | 375 forks | 194 open issues
+- **Language:** Rust | **Created:** 2026-07-17 | **License:** MIT
+- **Topics:** dictation, linux, local-first, macos, rust, speech-recognition
+- **What it is:** Local voice dictation for mac, windows and linux
+- **Growth:** averaging ~52 stars/day since launch.
+- **Link:** https://github.com/anomalyco/hex
+
 
 ## Web & Frontend
 
