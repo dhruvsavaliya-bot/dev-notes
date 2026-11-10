@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1862 entries and counting** · Last updated: 2026-11-10
+**1863 entries and counting** · Last updated: 2026-11-10
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 377 |
 | [AI / LLM Notes](ai/notes.md) | 372 |
-| [Reading List](articles/reading-list.md) | 377 |
+| [Reading List](articles/reading-list.md) | 378 |
 | [Coding Tips](coding-tips/tips.md) | 376 |
 | [Language Notes](languages/notes.md) | 360 |
 
 ## Latest additions
 
+- **2026-11-10** · *Hacker News Picks* — [CUI  Native UI components for C](https://news.ycombinator.com/item?id=50430621)
 - **2026-11-10** · *Other Cool Projects* — [Lumid-Off/AirCard-Windows](https://github.com/Lumid-Off/AirCard-Windows)
 - **2026-11-10** · *Hacker News Picks* — [Show HN: Every satellite that passed over any place...](https://news.ycombinator.com/item?id=50428907)
 - **2026-11-10** · *Show & Ask HN* — [ChatGPT Desktop forwards your SSH agent to remote...](https://news.ycombinator.com/item?id=50422628)
 - **2026-11-10** · *Developer Tools* — [GLinnik21/plx-native](https://github.com/GLinnik21/plx-native)
-- **2026-11-10** · *Hacker News Picks* — [A year after the 100% AI mandate nobody understands...](https://news.ycombinator.com/item?id=50433079)
 
 ## How it works
 

@@ -2369,6 +2369,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50428907
 - **Link:** https://www.watched.earth
 
+**Added 2026-11-10**
+
+### [CUI – Native UI components for C](https://yappologistic.github.io/CUI/)
+- **Source:** yappologistic.github.io | **Posted:** 2026-11-09 | **By:** hilti
+- **Community:** 147 points, 78 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50430621
+- **Link:** https://yappologistic.github.io/CUI/
+
 
 ## DevOps & Cloud
 

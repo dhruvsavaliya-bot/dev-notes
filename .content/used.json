@@ -2282,6 +2282,7 @@
     "https://news.ycombinator.com/item?id=50422628",
     "https://news.ycombinator.com/item?id=50426582",
     "https://news.ycombinator.com/item?id=50428907",
+    "https://news.ycombinator.com/item?id=50430621",
     "https://news.ycombinator.com/item?id=50433079",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
@@ -2611,6 +2612,7 @@
     "https://xcancel.com/__alpoge__/status/2079028340955197566",
     "https://xoranth.net/gcc-switch/",
     "https://xpipe.io/blog/java-aot-cache",
+    "https://yappologistic.github.io/CUI/",
     "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
     "https://youtu.be/89yAiqYEwKg",
     "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
@@ -2622,12 +2624,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-11-09",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: What are you working on? (November 2026)",
-      "url": "https://news.ycombinator.com/item?id=50417407"
-    },
     {
       "date": "2026-11-09",
       "subcat": "Hacker News Picks",
@@ -2681,6 +2677,12 @@
       "subcat": "Other Cool Projects",
       "title": "Lumid-Off/AirCard-Windows",
       "url": "https://github.com/Lumid-Off/AirCard-Windows"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "Hacker News Picks",
+      "title": "CUI  Native UI components for C",
+      "url": "https://news.ycombinator.com/item?id=50430621"
     }
   ]
 }
