@@ -2697,6 +2697,15 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Discussion:** https://lobste.rs/s/j63dme/meridian_experimental_web_browser_built
 - **Link:** https://op.tngl.io/meridian/
 
+**Added 2026-11-11**
+
+### [I Built a TUI That Makes Rust Code Inspection Feel Like Magic ✨](https://dev.to/yashksaini/i-built-a-tui-that-makes-rust-code-inspection-feel-like-magic-375k)
+- **Author:** Yash Kumar Saini | **Published:** Feb 15 | **Read time:** 12 min
+- **Community:** 67 reactions, 15 comments -- a top post in #rust
+- **Tags:** githubchallenge, githubcopilot, tui, rust
+- **Summary:** This is a submission for the GitHub Copilot CLI Challenge           The "Why Did I Build This?"...
+- **Link:** https://dev.to/yashksaini/i-built-a-tui-that-makes-rust-code-inspection-feel-like-magic-375k
+
 
 ## Elixir
 
