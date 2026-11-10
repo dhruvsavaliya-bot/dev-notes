@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1888 entries and counting** · Last updated: 2026-11-10
+**1889 entries and counting** · Last updated: 2026-11-10
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 382 |
+| [Trending Projects](trending-projects/projects.md) | 383 |
 | [AI / LLM Notes](ai/notes.md) | 377 |
 | [Reading List](articles/reading-list.md) | 383 |
 | [Coding Tips](coding-tips/tips.md) | 382 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-10** · *AI & Machine Learning* — [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)
 - **2026-11-10** · *Research Papers* — [Finite-Context Semantics in Finitely Supported...](http://arxiv.org/abs/2609.31917v1)
 - **2026-11-10** · *Show & Ask HN* — [Show HN: VoidAccess  open-source dark web OSINT, from...](https://news.ycombinator.com/item?id=50167286)
 - **2026-11-10** · *Models & Datasets* — [DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-B...](https://huggingface.co/DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF)
 - **2026-11-10** · *PHP* — [Ink droplets in motion snag top prize in Nikon Small...](https://news.ycombinator.com/item?id=50234796)
-- **2026-11-10** · *Hacker News Picks* — [IKEA  3D Guide](https://news.ycombinator.com/item?id=50168096)
 
 ## How it works
 

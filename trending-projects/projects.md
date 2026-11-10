@@ -1794,6 +1794,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~2,213 stars/day since launch.
 - **Link:** https://github.com/deepseek-ai/dsh-superagent-prototype
 
+**Added 2026-11-10**
+
+### [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)
+- **Stats:** 6,202 stars | 410 forks | 9 open issues
+- **Language:** JavaScript | **Created:** 2026-10-02 | **License:** MIT
+- **Topics:** agent-skill, ai-agent, claude-code, claude-code-skill, claude-skill, claude-skills
+- **What it is:** Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
+- **Growth:** averaging ~159 stars/day since launch.
+- **Link:** https://github.com/QingYunA/answer-me-with-html
+
 
 ## Other Cool Projects
 

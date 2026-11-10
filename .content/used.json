@@ -679,6 +679,7 @@
     "https://github.com/Player-YN/PawWork_ZhuaZhua",
     "https://github.com/Prismer-AI/PrismerCloud",
     "https://github.com/Ptero-ai/Ptero",
+    "https://github.com/QingYunA/answer-me-with-html",
     "https://github.com/QoderAI/better-harness",
     "https://github.com/QuipNetwork/quip-solver",
     "https://github.com/QwenLM/Qwen-MM-Plugins",
@@ -2665,12 +2666,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "Lobsters Picks",
-      "title": "Unattended reboots with encrypted disks",
-      "url": "https://lobste.rs/s/urg4yu/unattended_reboots_with_encrypted_disks"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "PHP",
       "title": "Show HN: Flide: Make Jev-like decision models up to...",
       "url": "https://news.ycombinator.com/item?id=50421155"
@@ -2722,6 +2717,12 @@
       "subcat": "Research Papers",
       "title": "Finite-Context Semantics in Finitely Supported...",
       "url": "http://arxiv.org/abs/2609.31917v1"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "AI & Machine Learning",
+      "title": "QingYunA/answer-me-with-html",
+      "url": "https://github.com/QingYunA/answer-me-with-html"
     }
   ]
 }
