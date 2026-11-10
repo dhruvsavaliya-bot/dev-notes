@@ -2191,6 +2191,7 @@
     "https://news.ycombinator.com/item?id=50165953",
     "https://news.ycombinator.com/item?id=50166257",
     "https://news.ycombinator.com/item?id=50167754",
+    "https://news.ycombinator.com/item?id=50168096",
     "https://news.ycombinator.com/item?id=50168396",
     "https://news.ycombinator.com/item?id=50171936",
     "https://news.ycombinator.com/item?id=50172041",
@@ -2399,6 +2400,7 @@
     "https://root.cern.ch/cling",
     "https://rtfeldman.com/fp-vs-c",
     "https://runarcn.no/android-to-linux/",
+    "https://sael.net/flatpack/",
     "https://sandstorm.org/news/2023-12-05-osm-on-sandstorm",
     "https://savedotorg.org/",
     "https://science.nasa.gov/mission/roman-space-telescope/",
@@ -2657,12 +2659,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "Other Cool Projects",
-      "title": "Mak5er/AirCard-iOS",
-      "url": "https://github.com/Mak5er/AirCard-iOS"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "Hacker News Picks",
       "title": "WTF Ubuntu?",
       "url": "https://news.ycombinator.com/item?id=50337608"
@@ -2714,6 +2710,12 @@
       "subcat": "AI & Machine Learning",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "Hacker News Picks",
+      "title": "IKEA  3D Guide",
+      "url": "https://news.ycombinator.com/item?id=50168096"
     }
   ]
 }

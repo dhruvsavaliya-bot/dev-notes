@@ -2396,6 +2396,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50337608
 - **Link:** https://chalmovsky.com/posts/wtf-ubuntu
 
+**Added 2026-11-10**
+
+### [IKEA – 3D Guide](https://sael.net/flatpack/)
+- **Source:** sael.net | **Posted:** 2026-10-20 | **By:** punnerud
+- **Community:** 210 points, 68 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50168096
+- **Link:** https://sael.net/flatpack/
+
 
 ## DevOps & Cloud
 
