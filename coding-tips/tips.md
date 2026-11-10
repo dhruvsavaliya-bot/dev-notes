@@ -2614,6 +2614,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50167286
 - **Link:** https://github.com/KatrielMoses/voidaccess
 
+**Added 2026-11-10**
+
+### [Show HN: Point your camera at a landscape to learn about its geology](https://outcrop.rocks/)
+- **Source:** outcrop.rocks | **Posted:** 2026-10-29 | **By:** headsupernova
+- **Community:** 263 points, 55 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50290533
+- **Link:** https://outcrop.rocks/
+
 
 ## Git & Workflow
 
