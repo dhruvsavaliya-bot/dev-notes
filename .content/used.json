@@ -663,6 +663,7 @@
     "https://github.com/NihilDigit/piko",
     "https://github.com/Niko1221/Strata",
     "https://github.com/NomaDamas/k-skill",
+    "https://github.com/OmniJev/Flide",
     "https://github.com/OpenMili/aimili-vpngate",
     "https://github.com/OpenNHP/opennhp",
     "https://github.com/OpenWAM-Official/OpenWAM",
@@ -2302,6 +2303,7 @@
     "https://news.ycombinator.com/item?id=50407882",
     "https://news.ycombinator.com/item?id=50417407",
     "https://news.ycombinator.com/item?id=50418016",
+    "https://news.ycombinator.com/item?id=50421155",
     "https://news.ycombinator.com/item?id=50422628",
     "https://news.ycombinator.com/item?id=50426582",
     "https://news.ycombinator.com/item?id=50428907",
@@ -2651,12 +2653,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "AI & Machine Learning",
-      "title": "3641397194-wq/gpt6-Astra",
-      "url": "https://github.com/3641397194-wq/gpt6-Astra"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "Hacker News Picks",
       "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
       "url": "https://news.ycombinator.com/item?id=50418016"
@@ -2708,6 +2704,12 @@
       "subcat": "Lobsters Picks",
       "title": "Unattended reboots with encrypted disks",
       "url": "https://lobste.rs/s/urg4yu/unattended_reboots_with_encrypted_disks"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "PHP",
+      "title": "Show HN: Flide: Make Jev-like decision models up to...",
+      "url": "https://news.ycombinator.com/item?id=50421155"
     }
   ]
 }

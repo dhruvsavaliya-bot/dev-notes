@@ -1744,6 +1744,15 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Discussion:** https://news.ycombinator.com/item?id=50060674
 - **Link:** https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback
 
+**Added 2026-11-10**
+
+### [Show HN: Flide: Make Jev-like decision models up to 9.5x faster](https://github.com/OmniJev/Flide)
+- **Source:** github.com | **Posted:** 2026-11-09 | **By:** unikcc
+- **Community:** 124 points, 29 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50421155
+- **Link:** https://github.com/OmniJev/Flide
+
 
 ## Ruby
 
