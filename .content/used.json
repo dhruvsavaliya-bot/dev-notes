@@ -841,6 +841,7 @@
     "https://github.com/dzhng/jevgrep",
     "https://github.com/edenfunf/reelmimic",
     "https://github.com/edrisranjbar/lifeos",
+    "https://github.com/egoist/mygo",
     "https://github.com/elder-plinius/T3MP3ST",
     "https://github.com/elie222/rakazo",
     "https://github.com/elstongun/leviathan",
@@ -2673,12 +2674,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "PHP",
-      "title": "Ink droplets in motion snag top prize in Nikon Small...",
-      "url": "https://news.ycombinator.com/item?id=50234796"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "Models & Datasets",
       "title": "DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-B...",
       "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF"
@@ -2730,6 +2725,12 @@
       "subcat": "Research Papers",
       "title": "From Likelihood Convergence to Parameter Convergence...",
       "url": "http://arxiv.org/abs/2611.12575v1"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Web & Frontend",
+      "title": "egoist/mygo",
+      "url": "https://github.com/egoist/mygo"
     }
   ]
 }

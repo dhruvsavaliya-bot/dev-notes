@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1894 entries and counting** · Last updated: 2026-11-11
+**1895 entries and counting** · Last updated: 2026-11-11
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 383 |
+| [Trending Projects](trending-projects/projects.md) | 384 |
 | [AI / LLM Notes](ai/notes.md) | 379 |
 | [Reading List](articles/reading-list.md) | 384 |
 | [Coding Tips](coding-tips/tips.md) | 383 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-11** · *Web & Frontend* — [egoist/mygo](https://github.com/egoist/mygo)
 - **2026-11-11** · *Research Papers* — [From Likelihood Convergence to Parameter Convergence...](http://arxiv.org/abs/2611.12575v1)
 - **2026-11-11** · *Swift* — [kaishi00/hermes-conduit](https://github.com/kaishi00/hermes-conduit)
 - **2026-11-10** · *Research Papers* — [Fewer Assumptions by Design: A Reusable Skill for...](http://arxiv.org/abs/2609.34886v1)
 - **2026-11-10** · *Lobsters Picks* — [Terminal2Shell: Critical flaw grants instant shell...](https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants)
-- **2026-11-10** · *Show & Ask HN* — [Show HN: Point your camera at a landscape to learn...](https://news.ycombinator.com/item?id=50290533)
 
 ## How it works
 

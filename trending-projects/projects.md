@@ -3490,6 +3490,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~19 stars/day since launch.
 - **Link:** https://github.com/TableProApp/TablePro
 
+**Added 2026-11-11**
+
+### [egoist/mygo](https://github.com/egoist/mygo)
+- **Stats:** 5,852 stars | 355 forks | 101 open issues
+- **Language:** Go | **Created:** 2026-09-26 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Develop desktop apps with native UI or web frontend in Go
+- **Growth:** averaging ~127 stars/day since launch.
+- **Link:** https://github.com/egoist/mygo
+
 
 ## Developer Tools
 
