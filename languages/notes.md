@@ -1173,6 +1173,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~18 stars/day since launch.
 - **Link:** https://github.com/OpenWAM-Official/OpenWAM
 
+**Added 2026-11-10**
+
+### [Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)
+- **Source:** github.com | **Posted:** 2026-11-07 | **By:** hedgerow-dev
+- **Community:** 288 points, 69 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50406292
+- **Link:** https://github.com/hedgerow-dev/coldframe
+
 
 ## Go
 

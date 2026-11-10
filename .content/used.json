@@ -854,6 +854,7 @@
     "https://github.com/guillaumemeyer/watermarks-remover",
     "https://github.com/gvzdv/claudish-to-english",
     "https://github.com/harris21/laravel-fuse",
+    "https://github.com/hedgerow-dev/coldframe",
     "https://github.com/herdrdev/herdr",
     "https://github.com/heydamir/unslop",
     "https://github.com/hoainho/img2threejs",
@@ -2292,6 +2293,7 @@
     "https://news.ycombinator.com/item?id=50403153",
     "https://news.ycombinator.com/item?id=50405250",
     "https://news.ycombinator.com/item?id=50406222",
+    "https://news.ycombinator.com/item?id=50406292",
     "https://news.ycombinator.com/item?id=50407882",
     "https://news.ycombinator.com/item?id=50417407",
     "https://news.ycombinator.com/item?id=50418016",
@@ -2644,12 +2646,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "AI & Machine Learning",
-      "title": "nirholas/cryptocurrency.cv",
-      "url": "https://github.com/nirholas/cryptocurrency.cv"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "Lobsters Picks",
       "title": "SystemIO conflicts are not firmware bugs",
       "url": "https://lobste.rs/s/jz8fmz/systemio_conflicts_are_not_firmware_bugs"
@@ -2701,6 +2697,12 @@
       "subcat": "Hacker News Picks",
       "title": "WTF Ubuntu?",
       "url": "https://news.ycombinator.com/item?id=50337608"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "Python",
+      "title": "Show HN: Coldframe, a honeypot that poses as a...",
+      "url": "https://news.ycombinator.com/item?id=50406292"
     }
   ]
 }
