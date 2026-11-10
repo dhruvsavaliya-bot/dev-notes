@@ -169,6 +169,7 @@
     "https://aresluna.org/the-hardest-working-font-in-manhattan/",
     "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
     "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+    "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
     "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
     "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
     "https://arxiv.org/abs/2608.00146",
@@ -2230,6 +2231,7 @@
     "https://news.ycombinator.com/item?id=50233304",
     "https://news.ycombinator.com/item?id=50233929",
     "https://news.ycombinator.com/item?id=50234474",
+    "https://news.ycombinator.com/item?id=50234796",
     "https://news.ycombinator.com/item?id=50236102",
     "https://news.ycombinator.com/item?id=50240922",
     "https://news.ycombinator.com/item?id=50241664",
@@ -2659,12 +2661,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "Hacker News Picks",
-      "title": "WTF Ubuntu?",
-      "url": "https://news.ycombinator.com/item?id=50337608"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "Python",
       "title": "Show HN: Coldframe, a honeypot that poses as a...",
       "url": "https://news.ycombinator.com/item?id=50406292"
@@ -2716,6 +2712,12 @@
       "subcat": "Hacker News Picks",
       "title": "IKEA  3D Guide",
       "url": "https://news.ycombinator.com/item?id=50168096"
+    },
+    {
+      "date": "2026-11-10",
+      "subcat": "PHP",
+      "title": "Ink droplets in motion snag top prize in Nikon Small...",
+      "url": "https://news.ycombinator.com/item?id=50234796"
     }
   ]
 }

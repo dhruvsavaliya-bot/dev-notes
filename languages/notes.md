@@ -1753,6 +1753,15 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Discussion:** https://news.ycombinator.com/item?id=50421155
 - **Link:** https://github.com/OmniJev/Flide
 
+**Added 2026-11-10**
+
+### [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/)
+- **Source:** arstechnica.com | **Posted:** 2026-10-25 | **By:** _Microft
+- **Community:** 417 points, 70 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50234796
+- **Link:** https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/
+
 
 ## Ruby
 
