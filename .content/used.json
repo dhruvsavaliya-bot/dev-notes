@@ -903,6 +903,7 @@
     "https://github.com/kOlapsis/maintenant",
     "https://github.com/kaankiziltug/logo-design-skill",
     "https://github.com/kacperkapusciak/goldie",
+    "https://github.com/kaishi00/hermes-conduit",
     "https://github.com/karatektus/pl_mail",
     "https://github.com/kasothaphie/GenRecon",
     "https://github.com/kelos-dev/kelos",
@@ -2671,12 +2672,6 @@
   "recent": [
     {
       "date": "2026-11-10",
-      "subcat": "AI & Machine Learning",
-      "title": "deepseek-ai/dsh-superagent-prototype",
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
-    },
-    {
-      "date": "2026-11-10",
       "subcat": "Hacker News Picks",
       "title": "IKEA  3D Guide",
       "url": "https://news.ycombinator.com/item?id=50168096"
@@ -2728,6 +2723,12 @@
       "subcat": "Research Papers",
       "title": "Fewer Assumptions by Design: A Reusable Skill for...",
       "url": "http://arxiv.org/abs/2609.34886v1"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Swift",
+      "title": "kaishi00/hermes-conduit",
+      "url": "https://github.com/kaishi00/hermes-conduit"
     }
   ]
 }

@@ -2311,6 +2311,16 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Growth:** averaging ~9 stars/day since launch.
 - **Link:** https://github.com/v-modal/vmodal_sdk_swift_iphoneduo
 
+**Added 2026-11-11**
+
+### [kaishi00/hermes-conduit](https://github.com/kaishi00/hermes-conduit)
+- **Stats:** 573 stars | 82 forks | 70 open issues
+- **Language:** Swift | **Created:** 2026-07-22 | **License:** MIT
+- **Topics:** ai-agent, hermes-agent, ios, self-hosted, swiftui
+- **What it is:** Conduit — native SwiftUI iOS client for Hermes Agent
+- **Growth:** averaging ~5 stars/day since launch.
+- **Link:** https://github.com/kaishi00/hermes-conduit
+
 
 ## Rust
 
