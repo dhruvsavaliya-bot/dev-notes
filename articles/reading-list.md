@@ -3532,6 +3532,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/urg4yu/unattended_reboots_with_encrypted_disks
 - **Link:** https://jmmv.dev/2026/11/zkeys-intro.html
 
+**Added 2026-11-10**
+
+### [Terminal2Shell: Critical flaw grants instant shell access on every major OS](https://terminal2shell.com/)
+- **Source:** terminal2shell.com | **Posted:** 2026-11-09 | **By:** whjms
+- **Community:** 133 score, 33 comments on Lobsters
+- **Tags:** satire, security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants
+- **Link:** https://terminal2shell.com/
+
 
 ## Performance
 
