@@ -2252,6 +2252,7 @@
     "https://news.ycombinator.com/item?id=50211474",
     "https://news.ycombinator.com/item?id=50212065",
     "https://news.ycombinator.com/item?id=50214373",
+    "https://news.ycombinator.com/item?id=50216791",
     "https://news.ycombinator.com/item?id=50218975",
     "https://news.ycombinator.com/item?id=50219177",
     "https://news.ycombinator.com/item?id=50221676",
@@ -2368,6 +2369,7 @@
     "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
     "https://niklasroy.com/gtc/",
     "https://nikolays.github.io/PGSimCity/",
+    "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
     "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
     "https://nnethercote.github.io/2026/11/04/how-to-speed-up-the-rust-compiler-in-november-2026.html",
     "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
@@ -2706,12 +2708,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Swift",
-      "title": "Show HN: Subvocal  Talk to your computer without...",
-      "url": "https://news.ycombinator.com/item?id=50340088"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Research Papers",
       "title": "Trustworthy Distributed Machine Learning in...",
       "url": "http://arxiv.org/abs/2610.38793v1"
@@ -2763,6 +2759,12 @@
       "subcat": "AI & Machine Learning",
       "title": "SFG5453/Orchard",
       "url": "https://github.com/SFG5453/Orchard"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Python",
+      "title": "Evolving Threat: http2shell is an RCE in Node...",
+      "url": "https://news.ycombinator.com/item?id=50216791"
     }
   ]
 }
