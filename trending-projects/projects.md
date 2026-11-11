@@ -3337,6 +3337,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~18 stars/day since launch.
 - **Link:** https://github.com/diudiu-tech/delivery-harness
 
+**Added 2026-11-12**
+
+### [Leviidev/Husk](https://github.com/Leviidev/Husk)
+- **Stats:** 3,234 stars | 240 forks | 34 open issues
+- **Language:** Java | **Created:** 2026-09-12 | **License:** GPL-2.0
+- **Topics:** android, emulator, ios, ios-development
+- **What it is:** Run Android on iOS. Natively or Emulated.
+- **Growth:** averaging ~53 stars/day since launch.
+- **Link:** https://github.com/Leviidev/Husk
+
 
 ## Web & Frontend
 

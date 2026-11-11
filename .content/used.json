@@ -652,6 +652,7 @@
     "https://github.com/LaoFeng-mouse/flyingmouse-format",
     "https://github.com/LegadoTeam/legado",
     "https://github.com/Leonxlnx/unlazy",
+    "https://github.com/Leviidev/Husk",
     "https://github.com/LiamGvchi/gc-minimal-zine-poster",
     "https://github.com/LightningRAG/LightningRAG",
     "https://github.com/LordixDemon/apple_watch_connector",
@@ -2740,12 +2741,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "PHP",
-      "title": "I Added One Key to a PHP Array. It Cost 25 MB of Memory",
-      "url": "https://dev.to/nazar-boyko/i-added-one-key-to-a-php-array-it-cost-25-mb-of-memory-4b80"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Models & Datasets",
       "title": "nvidia/Qwen3.6-35B-A3B-NVFP4",
       "url": "https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4"
@@ -2797,6 +2792,12 @@
       "subcat": "Lobsters Picks",
       "title": "Announcing .NET 11",
       "url": "https://lobste.rs/s/zingk1/announcing_net_11"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Other Cool Projects",
+      "title": "Leviidev/Husk",
+      "url": "https://github.com/Leviidev/Husk"
     }
   ]
 }

@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1939 entries and counting** · Last updated: 2026-11-12
+**1940 entries and counting** · Last updated: 2026-11-12
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 392 |
+| [Trending Projects](trending-projects/projects.md) | 393 |
 | [AI / LLM Notes](ai/notes.md) | 388 |
 | [Reading List](articles/reading-list.md) | 393 |
 | [Coding Tips](coding-tips/tips.md) | 390 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-12** · *Other Cool Projects* — [Leviidev/Husk](https://github.com/Leviidev/Husk)
 - **2026-11-12** · *Lobsters Picks* — [Announcing .NET 11](https://lobste.rs/s/zingk1/announcing_net_11)
 - **2026-11-12** · *Research Papers* — [Compaction, decay and reinforcement in a two-tier...](http://arxiv.org/abs/2611.09807v1)
 - **2026-11-12** · *Other Cool Projects* — [diudiu-tech/delivery-harness](https://github.com/diudiu-tech/delivery-harness)
 - **2026-11-12** · *Lobsters Picks* — [Using voltage glitching to unleash the A100 in my...](https://lobste.rs/s/zy4p7f/using_voltage_glitching_unleash_a100_my)
-- **2026-11-12** · *Research Papers* — [CodeQuant2: Enhanced Outlier Mitigation and Adaptive...](http://arxiv.org/abs/2611.09868v1)
 
 ## How it works
 
