@@ -1423,6 +1423,7 @@
     "https://labs.ycombinator.com/projects/games/index.html",
     "https://lapcatsoftware.com/articles/2026/9/1.html",
     "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
+    "https://layer3intel.com/blog/residential-proxies-white-house-network",
     "https://leanrada.com/notes/inline-rendering-currentscript/",
     "https://ledge.sh",
     "https://lemire.me/blog/2020/01/30/cost-of-a-thread-in-c-under-linux/",
@@ -1448,6 +1449,7 @@
     "https://lobste.rs/s/1s3dve/superoptimizing_fpu_emulator",
     "https://lobste.rs/s/1skdhv/pick_os_is_living_fossil_computer_history",
     "https://lobste.rs/s/1zpy4w/sqlite_db_simple_process_reliable_fast",
+    "https://lobste.rs/s/253two/residential_proxies_detected_on_white",
     "https://lobste.rs/s/27dxjg/petty_reason_we_didn_t_end_up_using_jj",
     "https://lobste.rs/s/2h9opx/who_is_vfmaddrnd231pd",
     "https://lobste.rs/s/2svplr/gleam_doesn_t_compile_erlang_source",
@@ -2697,12 +2699,6 @@
     {
       "date": "2026-11-11",
       "subcat": "Rust",
-      "title": "I Built a TUI That Makes Rust Code Inspection Feel...",
-      "url": "https://dev.to/yashksaini/i-built-a-tui-that-makes-rust-code-inspection-feel-like-magic-375k"
-    },
-    {
-      "date": "2026-11-11",
-      "subcat": "Rust",
       "title": "U.S. workers took home their smallest share of...",
       "url": "https://news.ycombinator.com/item?id=50330939"
     },
@@ -2753,6 +2749,12 @@
       "subcat": "Python",
       "title": "Python on My Wrist",
       "url": "https://news.ycombinator.com/item?id=50255573"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Lobsters Picks",
+      "title": "Residential Proxies Detected on White House Network",
+      "url": "https://lobste.rs/s/253two/residential_proxies_detected_on_white"
     }
   ]
 }

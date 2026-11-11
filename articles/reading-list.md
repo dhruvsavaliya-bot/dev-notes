@@ -3552,6 +3552,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/n8reli/building_networking_switch_asic_chip
 - **Link:** https://essenceia.github.io/projects/expresso/
 
+**Added 2026-11-11**
+
+### [Residential Proxies Detected on White House Network](https://layer3intel.com/blog/residential-proxies-white-house-network)
+- **Source:** layer3intel.com | **Posted:** 2026-11-04 | **By:** drmorr
+- **Community:** 23 score, 8 comments on Lobsters
+- **Tags:** security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/253two/residential_proxies_detected_on_white
+- **Link:** https://layer3intel.com/blog/residential-proxies-white-house-network
+
 
 ## Performance
 
