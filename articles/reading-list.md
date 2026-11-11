@@ -2405,6 +2405,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50168096
 - **Link:** https://sael.net/flatpack/
 
+**Added 2026-11-11**
+
+### [Six Math Essentials](https://teorth.github.io/tao-web/six-math-essentials.html)
+- **Source:** teorth.github.io | **Posted:** 2026-11-10 | **By:** digital55
+- **Community:** 243 points, 44 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50446246
+- **Link:** https://teorth.github.io/tao-web/six-math-essentials.html
+
 
 ## DevOps & Cloud
 

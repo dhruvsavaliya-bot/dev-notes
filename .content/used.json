@@ -2352,6 +2352,7 @@
     "https://news.ycombinator.com/item?id=50428907",
     "https://news.ycombinator.com/item?id=50430621",
     "https://news.ycombinator.com/item?id=50433079",
+    "https://news.ycombinator.com/item?id=50446246",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2502,6 +2503,7 @@
     "https://technicalwriting.dev/blog/2026/10/polyglot/index.html",
     "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
     "https://tenso.rs/demos/fast-neural-style/",
+    "https://teorth.github.io/tao-web/six-math-essentials.html",
     "https://terminal2shell.com/",
     "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
     "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
@@ -2703,12 +2705,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: A language model that lives in a boot sector",
-      "url": "https://news.ycombinator.com/item?id=50315782"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Rust",
       "title": "eBay Restricts Listings of Radio Equipment, but...",
       "url": "https://news.ycombinator.com/item?id=50122034"
@@ -2760,6 +2756,12 @@
       "subcat": "Python",
       "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python...",
       "url": "https://news.ycombinator.com/item?id=50219177"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Hacker News Picks",
+      "title": "Six Math Essentials",
+      "url": "https://news.ycombinator.com/item?id=50446246"
     }
   ]
 }
