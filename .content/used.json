@@ -2187,6 +2187,7 @@
     "https://news.ycombinator.com/item?id=50112657",
     "https://news.ycombinator.com/item?id=50120224",
     "https://news.ycombinator.com/item?id=50121562",
+    "https://news.ycombinator.com/item?id=50122034",
     "https://news.ycombinator.com/item?id=50122736",
     "https://news.ycombinator.com/item?id=50129045",
     "https://news.ycombinator.com/item?id=50131006",
@@ -2541,6 +2542,7 @@
     "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
     "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
     "https://www.apple.com/shop/iphone/iphone-upgrade-program",
+    "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
     "https://www.artima.com/insidejvm/whyCAFEBABE.html",
     "https://www.axelmagn.com/blog/202610-zig-traits/",
     "https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/",
@@ -2689,12 +2691,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Marelleo, an open-source story box I built...",
-      "url": "https://news.ycombinator.com/item?id=50260753"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Swift",
       "title": "ResistanceTo/MiniWatts",
       "url": "https://github.com/ResistanceTo/MiniWatts"
@@ -2746,6 +2742,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: A language model that lives in a boot sector",
       "url": "https://news.ycombinator.com/item?id=50315782"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Rust",
+      "title": "eBay Restricts Listings of Radio Equipment, but...",
+      "url": "https://news.ycombinator.com/item?id=50122034"
     }
   ]
 }
