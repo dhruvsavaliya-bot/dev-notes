@@ -108,6 +108,7 @@
     "http://arxiv.org/abs/2611.05731v1",
     "http://arxiv.org/abs/2611.06711v1",
     "http://arxiv.org/abs/2611.07367v1",
+    "http://arxiv.org/abs/2611.09868v1",
     "http://arxiv.org/abs/2611.12575v1",
     "http://arxiv.org/abs/2611.12591v1",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
@@ -2733,12 +2734,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Hacker News Picks",
-      "title": "Why I wrote the BEAM book (2025)",
-      "url": "https://news.ycombinator.com/item?id=50427107"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "AI & Machine Learning",
       "title": "JuneYaooo/rea-video",
       "url": "https://github.com/JuneYaooo/rea-video"
@@ -2790,6 +2785,12 @@
       "subcat": "Hacker News Picks",
       "title": "Peer-to-peer WebRTC connections with built-in...",
       "url": "https://news.ycombinator.com/item?id=50416640"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Research Papers",
+      "title": "CodeQuant2: Enhanced Outlier Mitigation and Adaptive...",
+      "url": "http://arxiv.org/abs/2611.09868v1"
     }
   ]
 }

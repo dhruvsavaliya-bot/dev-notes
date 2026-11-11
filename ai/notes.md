@@ -3578,6 +3578,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.38793v1
 
+**Added 2026-11-12**
+
+### [CodeQuant2: Enhanced Outlier Mitigation and Adaptive Clustering for Low-Precision LRMs](http://arxiv.org/abs/2611.09868v1)
+- **Authors:** Xingyu Liu, Xiangyang Yin, Tianhua Xia, Haiyu Wang et al.
+- **Published:** 2026-11-06 | **Primary category:** cs.CL
+- **Categories:** cs.CL
+- **Abstract:** Large reasoning models (LRMs) improve task performance by generating longer intermediate reasoning traces, but this substantially increases inference costs and makes low-precision quantization increasingly important. However, aggressively quantized models often perform poorly on reasoning tasks. We observe larger activation fluctuations during the first decoding steps of reasoning. Calibration that omits these early states may miss their activation fluctuations. To address these reasoning-specif...
+- **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.09868v1
+
 
 ## Computer Vision
 
