@@ -108,6 +108,7 @@
     "http://arxiv.org/abs/2611.05731v1",
     "http://arxiv.org/abs/2611.06711v1",
     "http://arxiv.org/abs/2611.07367v1",
+    "http://arxiv.org/abs/2611.09807v1",
     "http://arxiv.org/abs/2611.09868v1",
     "http://arxiv.org/abs/2611.12575v1",
     "http://arxiv.org/abs/2611.12591v1",
@@ -2737,12 +2738,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Lobsters Picks",
-      "title": "How do you actually self-host securely?",
-      "url": "https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Hacker News Picks",
       "title": "Greg Kurtzer's Ginux is now a userspace kernel",
       "url": "https://news.ycombinator.com/item?id=50450007"
@@ -2794,6 +2789,12 @@
       "subcat": "Other Cool Projects",
       "title": "diudiu-tech/delivery-harness",
       "url": "https://github.com/diudiu-tech/delivery-harness"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Research Papers",
+      "title": "Compaction, decay and reinforcement in a two-tier...",
+      "url": "http://arxiv.org/abs/2611.09807v1"
     }
   ]
 }

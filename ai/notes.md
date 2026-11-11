@@ -3588,6 +3588,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.09868v1
 
+**Added 2026-11-12**
+
+### [Compaction, decay and reinforcement in a two-tier conversational memory: a paired evaluation against retrieval-augmented generation](http://arxiv.org/abs/2611.09807v1)
+- **Authors:** Osamudiamen Edogun, Joshua Obigwe, Irfan Mehmood
+- **Published:** 2026-11-06 | **Primary category:** cs.CL
+- **Categories:** cs.CL
+- **Abstract:** A conversational agent that remembers has to decide what to keep. Retrieval-augmented generation keeps the transcript and searches it; the alternative is to compact each turn into atomic facts and search those. We compare the two on LoCoMo, with both arms answering all 1,985 questions in one window, against the same stores, with the same generator and judge, and both predictions on one row, which licenses McNemar's exact test on the 512 questions where they disagree. On the four categories compa...
+- **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.09807v1
+
 
 ## Computer Vision
 
