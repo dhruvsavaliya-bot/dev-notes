@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1917 entries and counting** · Last updated: 2026-11-11
+**1918 entries and counting** · Last updated: 2026-11-11
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 388 |
 | [AI / LLM Notes](ai/notes.md) | 382 |
-| [Reading List](articles/reading-list.md) | 387 |
+| [Reading List](articles/reading-list.md) | 388 |
 | [Coding Tips](coding-tips/tips.md) | 387 |
 | [Language Notes](languages/notes.md) | 373 |
 
 ## Latest additions
 
+- **2026-11-11** · *Hacker News Picks* — [Protecting SSH Keys with macOS Secure Enclave](https://news.ycombinator.com/item?id=50449748)
 - **2026-11-11** · *Python* — [Evolving Threat: http2shell is an RCE in Node...](https://news.ycombinator.com/item?id=50216791)
 - **2026-11-11** · *AI & Machine Learning* — [SFG5453/Orchard](https://github.com/SFG5453/Orchard)
 - **2026-11-11** · *Hacker News Picks* — [Six Math Essentials](https://news.ycombinator.com/item?id=50446246)
 - **2026-11-11** · *Python* — [Broccoli2Shell: Brotli decoder RCE in Node.js, Python...](https://news.ycombinator.com/item?id=50219177)
-- **2026-11-11** · *Lobsters Picks* — [Next-Level Benchmarking Overfitting](https://lobste.rs/s/nuoce5/next_level_benchmarking_overfitting)
 
 ## How it works
 

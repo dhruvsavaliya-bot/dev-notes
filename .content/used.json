@@ -549,6 +549,7 @@
     "https://futhark-lang.org/blog/2026-10-14-defining-division.html",
     "https://gabrieloc.com/2026/09/15/perspective.html",
     "https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust",
+    "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
     "https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html",
     "https://gegell.github.io/posts/factorio-rng/",
     "https://ghostty.org/docs/install/release-notes/1-4-0",
@@ -2355,6 +2356,7 @@
     "https://news.ycombinator.com/item?id=50430621",
     "https://news.ycombinator.com/item?id=50433079",
     "https://news.ycombinator.com/item?id=50446246",
+    "https://news.ycombinator.com/item?id=50449748",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2708,12 +2710,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Research Papers",
-      "title": "Trustworthy Distributed Machine Learning in...",
-      "url": "http://arxiv.org/abs/2610.38793v1"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Machine Learning",
       "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh"
@@ -2765,6 +2761,12 @@
       "subcat": "Python",
       "title": "Evolving Threat: http2shell is an RCE in Node...",
       "url": "https://news.ycombinator.com/item?id=50216791"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Hacker News Picks",
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "url": "https://news.ycombinator.com/item?id=50449748"
     }
   ]
 }

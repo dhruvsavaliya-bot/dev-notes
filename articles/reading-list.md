@@ -2414,6 +2414,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50446246
 - **Link:** https://teorth.github.io/tao-web/six-math-essentials.html
 
+**Added 2026-11-11**
+
+### [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
+- **Source:** gatezh.com | **Posted:** 2026-11-11 | **By:** js2
+- **Community:** 189 points, 67 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50449748
+- **Link:** https://gatezh.com/posts/macos-secure-enclave-ssh-keys/
+
 
 ## DevOps & Cloud
 
