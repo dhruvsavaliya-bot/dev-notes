@@ -1373,6 +1373,7 @@
     "https://huggingface.co/mudler/locate-anything.cpp-gguf",
     "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB",
     "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4",
+    "https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4",
     "https://huggingface.co/openbmb/MiniCPM-V-2_6",
     "https://huggingface.co/openbmb/MiniCPM5-2B",
     "https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0",
@@ -2727,12 +2728,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Models & Datasets",
-      "title": "meituan-longcat/LongCat-2.5",
-      "url": "https://huggingface.co/meituan-longcat/LongCat-2.5"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "TypeScript",
       "title": "Launch HN: Rivet (YC W23)  Scale and Orchestrate...",
       "url": "https://news.ycombinator.com/item?id=50381687"
@@ -2784,6 +2779,12 @@
       "subcat": "PHP",
       "title": "I Added One Key to a PHP Array. It Cost 25 MB of Memory",
       "url": "https://dev.to/nazar-boyko/i-added-one-key-to-a-php-array-it-cost-25-mb-of-memory-4b80"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Models & Datasets",
+      "title": "nvidia/Qwen3.6-35B-A3B-NVFP4",
+      "url": "https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4"
     }
   ]
 }

@@ -2526,6 +2526,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF
 
+**Added 2026-11-11**
+
+### [nvidia/Qwen3.6-35B-A3B-NVFP4](https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4)
+- **Stats:** 678 likes | 4,055,681 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-05-27
+- **Tags:** Model Optimizer, safetensors, qwen3_5_moe, nvidia, ModelOpt, Qwen3.6
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4
+
 
 ## Research Papers
 
