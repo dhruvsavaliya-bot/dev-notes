@@ -1026,6 +1026,7 @@
     "https://github.com/remorses/playwriter",
     "https://github.com/remoteinterview/zero",
     "https://github.com/repoprompt/repoprompt-ce",
+    "https://github.com/rivet-dev/rivet",
     "https://github.com/rjsf-team/react-jsonschema-form",
     "https://github.com/rlaope/oh-my-hermes",
     "https://github.com/robbietilton/Compositor",
@@ -2342,6 +2343,7 @@
     "https://news.ycombinator.com/item?id=50375354",
     "https://news.ycombinator.com/item?id=50378508",
     "https://news.ycombinator.com/item?id=50378942",
+    "https://news.ycombinator.com/item?id=50381687",
     "https://news.ycombinator.com/item?id=50383057",
     "https://news.ycombinator.com/item?id=50391456",
     "https://news.ycombinator.com/item?id=50393105",
@@ -2714,12 +2716,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Other Cool Projects",
-      "title": "852wa/JIZURA",
-      "url": "https://github.com/852wa/JIZURA"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Lobsters Picks",
       "title": "Next-Level Benchmarking Overfitting",
       "url": "https://lobste.rs/s/nuoce5/next_level_benchmarking_overfitting"
@@ -2771,6 +2767,12 @@
       "subcat": "Models & Datasets",
       "title": "meituan-longcat/LongCat-2.5",
       "url": "https://huggingface.co/meituan-longcat/LongCat-2.5"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "TypeScript",
+      "title": "Launch HN: Rivet (YC W23)  Scale and Orchestrate...",
+      "url": "https://news.ycombinator.com/item?id=50381687"
     }
   ]
 }

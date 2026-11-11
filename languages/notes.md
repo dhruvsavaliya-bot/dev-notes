@@ -762,6 +762,15 @@ Snippets and gotchas across languages.
 - **Summary:** The time has come: Wasp 1.0 is now officially in the works! ETA: ~6 months.  Even though still...
 - **Link:** https://dev.to/wasp/after-5-years-wasp-10-is-coming-a-6-month-plan-for-our-full-stack-js-framework-4hlf
 
+**Added 2026-11-11**
+
+### [Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3](https://github.com/rivet-dev/rivet)
+- **Source:** github.com | **Posted:** 2026-11-05 | **By:** NathanFlurry
+- **Community:** 122 points, 59 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50381687
+- **Link:** https://github.com/rivet-dev/rivet
+
 
 ## Python
 
