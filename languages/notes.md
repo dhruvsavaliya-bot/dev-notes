@@ -1191,6 +1191,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50255573
 - **Link:** https://tildeweb.nl/~michiel/python-on-my-wrist.html
 
+**Added 2026-11-11**
+
+### [Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more](https://broccoli2shell.com/)
+- **Source:** broccoli2shell.com | **Posted:** 2026-10-24 | **By:** theanonymousone
+- **Community:** 405 points, 221 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50219177
+- **Link:** https://broccoli2shell.com/
+
 
 ## Go
 

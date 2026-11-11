@@ -240,6 +240,7 @@
     "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
     "https://breezepdf.com",
     "https://brennenputh.me/blog/printable-websites/",
+    "https://broccoli2shell.com/",
     "https://bsandro.tech/posts/simple-netbsd-webserver/",
     "https://buf.build/blog/protobuf-lsp",
     "https://bugs.chromium.org/p/chromium/issues/detail?id=896897&desc=2#c23",
@@ -2251,6 +2252,7 @@
     "https://news.ycombinator.com/item?id=50212065",
     "https://news.ycombinator.com/item?id=50214373",
     "https://news.ycombinator.com/item?id=50218975",
+    "https://news.ycombinator.com/item?id=50219177",
     "https://news.ycombinator.com/item?id=50221676",
     "https://news.ycombinator.com/item?id=50222133",
     "https://news.ycombinator.com/item?id=50225695",
@@ -2701,12 +2703,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Web & Frontend",
-      "title": "N4darae/anti-mage",
-      "url": "https://github.com/N4darae/anti-mage"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Show & Ask HN",
       "title": "Show HN: A language model that lives in a boot sector",
       "url": "https://news.ycombinator.com/item?id=50315782"
@@ -2758,6 +2754,12 @@
       "subcat": "Lobsters Picks",
       "title": "Next-Level Benchmarking Overfitting",
       "url": "https://lobste.rs/s/nuoce5/next_level_benchmarking_overfitting"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Python",
+      "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python...",
+      "url": "https://news.ycombinator.com/item?id=50219177"
     }
   ]
 }
