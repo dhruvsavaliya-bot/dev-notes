@@ -2650,6 +2650,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50315782
 - **Link:** https://github.com/kerlenton/bootgpt
 
+**Added 2026-11-11**
+
+### [Show HN: HackerChurn – which SaaS tools HN wants to cancel](https://hissingkitty.com/hacker-churn)
+- **Source:** hissingkitty.com | **Posted:** 2026-11-03 | **By:** drewlem
+- **Community:** 71 points, 26 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50353386
+- **Link:** https://hissingkitty.com/hacker-churn
+
 
 ## Git & Workflow
 

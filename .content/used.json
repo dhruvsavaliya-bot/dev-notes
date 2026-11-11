@@ -1184,6 +1184,7 @@
     "https://heynote.com/",
     "https://heyopenspot.com/",
     "https://himalayas.app/companies",
+    "https://hissingkitty.com/hacker-churn",
     "https://hister.org/",
     "https://hn.watch/",
     "https://honk.foo/porffor-alpha/",
@@ -2339,6 +2340,7 @@
     "https://news.ycombinator.com/item?id=50347425",
     "https://news.ycombinator.com/item?id=50349276",
     "https://news.ycombinator.com/item?id=50352757",
+    "https://news.ycombinator.com/item?id=50353386",
     "https://news.ycombinator.com/item?id=50353457",
     "https://news.ycombinator.com/item?id=50354336",
     "https://news.ycombinator.com/item?id=50354960",
@@ -2728,12 +2730,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "TypeScript",
-      "title": "Launch HN: Rivet (YC W23)  Scale and Orchestrate...",
-      "url": "https://news.ycombinator.com/item?id=50381687"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Models & Datasets",
       "title": "krea/Krea-2-Turbo",
       "url": "https://huggingface.co/krea/Krea-2-Turbo"
@@ -2785,6 +2781,12 @@
       "subcat": "Models & Datasets",
       "title": "nvidia/Qwen3.6-35B-A3B-NVFP4",
       "url": "https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: HackerChurn  which SaaS tools HN wants to...",
+      "url": "https://news.ycombinator.com/item?id=50353386"
     }
   ]
 }
