@@ -2441,6 +2441,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50450007
 - **Link:** https://github.com/gmkurtzer/ginux
 
+**Added 2026-11-11**
+
+### [Peer-to-peer WebRTC connections with built-in signaling and discovery](https://github.com/lukks/like-webrtc)
+- **Source:** github.com | **Posted:** 2026-11-08 | **By:** LuKks
+- **Community:** 52 points, 16 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50416640
+- **Link:** https://github.com/lukks/like-webrtc
+
 
 ## DevOps & Cloud
 

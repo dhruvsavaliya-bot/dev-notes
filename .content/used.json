@@ -950,6 +950,7 @@
     "https://github.com/lnkiai/m3e-canvas",
     "https://github.com/loopx-project/loopx",
     "https://github.com/lopopolo/harness-engineering",
+    "https://github.com/lukks/like-webrtc",
     "https://github.com/magnitudedev/magnitude",
     "https://github.com/makecindy/cindy",
     "https://github.com/mattprusak/autoresearch-genealogy",
@@ -2366,6 +2367,7 @@
     "https://news.ycombinator.com/item?id=50406222",
     "https://news.ycombinator.com/item?id=50406292",
     "https://news.ycombinator.com/item?id=50407882",
+    "https://news.ycombinator.com/item?id=50416640",
     "https://news.ycombinator.com/item?id=50417407",
     "https://news.ycombinator.com/item?id=50418016",
     "https://news.ycombinator.com/item?id=50421155",
@@ -2731,12 +2733,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Lobsters Picks",
-      "title": "Memory Safety Bugs in Rust Standard Library",
-      "url": "https://lobste.rs/s/plreds/memory_safety_bugs_rust_standard_library"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Hacker News Picks",
       "title": "Why I wrote the BEAM book (2025)",
       "url": "https://news.ycombinator.com/item?id=50427107"
@@ -2788,6 +2784,12 @@
       "subcat": "AI & Machine Learning",
       "title": "stablyai/orca",
       "url": "https://github.com/stablyai/orca"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Hacker News Picks",
+      "title": "Peer-to-peer WebRTC connections with built-in...",
+      "url": "https://news.ycombinator.com/item?id=50416640"
     }
   ]
 }
