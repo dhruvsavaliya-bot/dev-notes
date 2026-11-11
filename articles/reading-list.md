@@ -3542,6 +3542,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants
 - **Link:** https://terminal2shell.com/
 
+**Added 2026-11-11**
+
+### [Building a networking switch ASIC chip](https://essenceia.github.io/projects/expresso/)
+- **Source:** essenceia.github.io | **Posted:** 2026-11-10 | **By:** florianhartung
+- **Community:** 31 score, 1 comments on Lobsters
+- **Tags:** hardware
+- **Summary:** This is part 2, for part 1 see https://essenceia.github.io/projects/ethernet_switch_asic/
+- **Discussion:** https://lobste.rs/s/n8reli/building_networking_switch_asic_chip
+- **Link:** https://essenceia.github.io/projects/expresso/
+
 
 ## Performance
 

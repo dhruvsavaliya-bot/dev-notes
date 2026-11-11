@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1902 entries and counting** · Last updated: 2026-11-11
+**1903 entries and counting** · Last updated: 2026-11-11
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 385 |
 | [AI / LLM Notes](ai/notes.md) | 380 |
-| [Reading List](articles/reading-list.md) | 384 |
+| [Reading List](articles/reading-list.md) | 385 |
 | [Coding Tips](coding-tips/tips.md) | 385 |
 | [Language Notes](languages/notes.md) | 368 |
 
 ## Latest additions
 
+- **2026-11-11** · *Lobsters Picks* — [Building a networking switch ASIC chip](https://lobste.rs/s/n8reli/building_networking_switch_asic_chip)
 - **2026-11-11** · *Rust* — [U.S. workers took home their smallest share of...](https://news.ycombinator.com/item?id=50330939)
 - **2026-11-11** · *Rust* — [I Built a TUI That Makes Rust Code Inspection Feel...](https://dev.to/yashksaini/i-built-a-tui-that-makes-rust-code-inspection-feel-like-magic-375k)
 - **2026-11-11** · *Show & Ask HN* — [Show HN: SimCity, but with Permits](https://news.ycombinator.com/item?id=50170593)
 - **2026-11-11** · *Other Cool Projects* — [anomalyco/hex](https://github.com/anomalyco/hex)
-- **2026-11-11** · *Research Papers* — [TRACE: Adaptive Trust-Region Bayesian Optimization...](http://arxiv.org/abs/2611.12591v1)
 
 ## How it works
 
