@@ -2706,6 +2706,15 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Summary:** This is a submission for the GitHub Copilot CLI Challenge           The "Why Did I Build This?"...
 - **Link:** https://dev.to/yashksaini/i-built-a-tui-that-makes-rust-code-inspection-feel-like-magic-375k
 
+**Added 2026-11-11**
+
+### [U.S. workers took home their smallest share of capital since at least 1947](https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/)
+- **Source:** fortune.com | **Posted:** 2026-11-01 | **By:** qlte
+- **Community:** 356 points, 223 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50330939
+- **Link:** https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/
+
 
 ## Elixir
 

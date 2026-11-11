@@ -535,6 +535,7 @@
     "https://flet.dev/",
     "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
     "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+    "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
     "https://foxscript.org/",
     "https://frankwiles.com/posts/i-got-targeted/",
     "https://frantic.im/mirage/",
@@ -2289,6 +2290,7 @@
     "https://news.ycombinator.com/item?id=50326821",
     "https://news.ycombinator.com/item?id=50328251",
     "https://news.ycombinator.com/item?id=50328896",
+    "https://news.ycombinator.com/item?id=50330939",
     "https://news.ycombinator.com/item?id=50333339",
     "https://news.ycombinator.com/item?id=50333877",
     "https://news.ycombinator.com/item?id=50337608",
@@ -2681,12 +2683,6 @@
   ],
   "recent": [
     {
-      "date": "2026-11-10",
-      "subcat": "Research Papers",
-      "title": "Fewer Assumptions by Design: A Reusable Skill for...",
-      "url": "http://arxiv.org/abs/2609.34886v1"
-    },
-    {
       "date": "2026-11-11",
       "subcat": "Swift",
       "title": "kaishi00/hermes-conduit",
@@ -2739,6 +2735,12 @@
       "subcat": "Rust",
       "title": "I Built a TUI That Makes Rust Code Inspection Feel...",
       "url": "https://dev.to/yashksaini/i-built-a-tui-that-makes-rust-code-inspection-feel-like-magic-375k"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Rust",
+      "title": "U.S. workers took home their smallest share of...",
+      "url": "https://news.ycombinator.com/item?id=50330939"
     }
   ]
 }
