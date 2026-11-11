@@ -1808,6 +1808,15 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Discussion:** https://news.ycombinator.com/item?id=50234796
 - **Link:** https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/
 
+**Added 2026-11-11**
+
+### [I Added One Key to a PHP Array. It Cost 25 MB of Memory](https://dev.to/nazar-boyko/i-added-one-key-to-a-php-array-it-cost-25-mb-of-memory-4b80)
+- **Author:** Nazar Boyko | **Published:** Sep 14 | **Read time:** 16 min
+- **Community:** 47 reactions, 22 comments -- a top post in #php
+- **Tags:** php, performance, webdev, programming
+- **Summary:** I was recently refactoring some legacy PHP code and noticed that the same data array was being used...
+- **Link:** https://dev.to/nazar-boyko/i-added-one-key-to-a-php-array-it-cost-25-mb-of-memory-4b80
+
 
 ## Ruby
 

@@ -425,6 +425,7 @@
     "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
     "https://dev.to/nazar-boyko/has-ai-made-you-a-lazier-developer-be-honest-5ack",
     "https://dev.to/nazar-boyko/how-to-learn-go-fast-a-practical-roadmap-for-senior-backend-developers-18l5",
+    "https://dev.to/nazar-boyko/i-added-one-key-to-a-php-array-it-cost-25-mb-of-memory-4b80",
     "https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2",
     "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
     "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
@@ -2726,12 +2727,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Go",
-      "title": "The MustCreate Pattern for Go Tests",
-      "url": "https://lobste.rs/s/i96uyr/mustcreate_pattern_for_go_tests"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Models & Datasets",
       "title": "meituan-longcat/LongCat-2.5",
       "url": "https://huggingface.co/meituan-longcat/LongCat-2.5"
@@ -2783,6 +2778,12 @@
       "subcat": "Hacker News Picks",
       "title": "Greg Kurtzer's Ginux is now a userspace kernel",
       "url": "https://news.ycombinator.com/item?id=50450007"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "PHP",
+      "title": "I Added One Key to a PHP Array. It Cost 25 MB of Memory",
+      "url": "https://dev.to/nazar-boyko/i-added-one-key-to-a-php-array-it-cost-25-mb-of-memory-4b80"
     }
   ]
 }
