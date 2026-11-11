@@ -2423,6 +2423,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50449748
 - **Link:** https://gatezh.com/posts/macos-secure-enclave-ssh-keys/
 
+**Added 2026-11-11**
+
+### [Why I wrote the BEAM book (2025)](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
+- **Source:** happihacking.com | **Posted:** 2026-11-09 | **By:** zenincognito
+- **Community:** 148 points, 26 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50427107
+- **Link:** https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/
+
 
 ## DevOps & Cloud
 

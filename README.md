@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1924 entries and counting** · Last updated: 2026-11-11
+**1925 entries and counting** · Last updated: 2026-11-11
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 389 |
 | [AI / LLM Notes](ai/notes.md) | 384 |
-| [Reading List](articles/reading-list.md) | 388 |
+| [Reading List](articles/reading-list.md) | 389 |
 | [Coding Tips](coding-tips/tips.md) | 388 |
 | [Language Notes](languages/notes.md) | 375 |
 
 ## Latest additions
 
+- **2026-11-11** · *Hacker News Picks* — [Why I wrote the BEAM book (2025)](https://news.ycombinator.com/item?id=50427107)
 - **2026-11-11** · *Lobsters Picks* — [Memory Safety Bugs in Rust Standard Library](https://lobste.rs/s/plreds/memory_safety_bugs_rust_standard_library)
 - **2026-11-11** · *Models & Datasets* — [krea/Krea-2-Turbo](https://huggingface.co/krea/Krea-2-Turbo)
 - **2026-11-11** · *TypeScript* — [Launch HN: Rivet (YC W23)  Scale and Orchestrate...](https://news.ycombinator.com/item?id=50381687)
 - **2026-11-11** · *Models & Datasets* — [meituan-longcat/LongCat-2.5](https://huggingface.co/meituan-longcat/LongCat-2.5)
-- **2026-11-11** · *Go* — [The MustCreate Pattern for Go Tests](https://lobste.rs/s/i96uyr/mustcreate_pattern_for_go_tests)
 
 ## How it works
 

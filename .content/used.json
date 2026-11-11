@@ -1171,6 +1171,7 @@
     "https://hackerbooks.org",
     "https://hackertimes.ca/",
     "https://handwritten.blog/",
+    "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
     "https://hauleth.dev/post/guards-guards/",
     "https://hauleth.dev/post/writing-tests/",
     "https://help.duckduckgo.com/duckduckgo-help-pages/features/non-javascript/",
@@ -2361,6 +2362,7 @@
     "https://news.ycombinator.com/item?id=50421155",
     "https://news.ycombinator.com/item?id=50422628",
     "https://news.ycombinator.com/item?id=50426582",
+    "https://news.ycombinator.com/item?id=50427107",
     "https://news.ycombinator.com/item?id=50428907",
     "https://news.ycombinator.com/item?id=50430621",
     "https://news.ycombinator.com/item?id=50433079",
@@ -2719,12 +2721,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Hacker News Picks",
-      "title": "Six Math Essentials",
-      "url": "https://news.ycombinator.com/item?id=50446246"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "AI & Machine Learning",
       "title": "SFG5453/Orchard",
       "url": "https://github.com/SFG5453/Orchard"
@@ -2776,6 +2772,12 @@
       "subcat": "Lobsters Picks",
       "title": "Memory Safety Bugs in Rust Standard Library",
       "url": "https://lobste.rs/s/plreds/memory_safety_bugs_rust_standard_library"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Hacker News Picks",
+      "title": "Why I wrote the BEAM book (2025)",
+      "url": "https://news.ycombinator.com/item?id=50427107"
     }
   ]
 }
