@@ -2263,6 +2263,7 @@
     "https://news.ycombinator.com/item?id=50243060",
     "https://news.ycombinator.com/item?id=50246238",
     "https://news.ycombinator.com/item?id=50255298",
+    "https://news.ycombinator.com/item?id=50255573",
     "https://news.ycombinator.com/item?id=50260753",
     "https://news.ycombinator.com/item?id=50261998",
     "https://news.ycombinator.com/item?id=50264853",
@@ -2503,6 +2504,7 @@
     "https://theremin.bizibah.com/",
     "https://thill.me/2026/09/11/what-i-did-at-rc.html",
     "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+    "https://tildeweb.nl/~michiel/python-on-my-wrist.html",
     "https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/",
     "https://tucker.wales/writing/bias-towards-action/",
     "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/",
@@ -2694,12 +2696,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: SimCity, but with Permits",
-      "url": "https://news.ycombinator.com/item?id=50170593"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Rust",
       "title": "I Built a TUI That Makes Rust Code Inspection Feel...",
       "url": "https://dev.to/yashksaini/i-built-a-tui-that-makes-rust-code-inspection-feel-like-magic-375k"
@@ -2751,6 +2747,12 @@
       "subcat": "Machine Learning",
       "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Python",
+      "title": "Python on My Wrist",
+      "url": "https://news.ycombinator.com/item?id=50255573"
     }
   ]
 }

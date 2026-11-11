@@ -1182,6 +1182,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50406292
 - **Link:** https://github.com/hedgerow-dev/coldframe
 
+**Added 2026-11-11**
+
+### [Python on My Wrist](https://tildeweb.nl/~michiel/python-on-my-wrist.html)
+- **Source:** tildeweb.nl | **Posted:** 2026-10-27 | **By:** roywashere
+- **Community:** 95 points, 12 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50255573
+- **Link:** https://tildeweb.nl/~michiel/python-on-my-wrist.html
+
 
 ## Go
 
