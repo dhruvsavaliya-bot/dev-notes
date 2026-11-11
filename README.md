@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1908 entries and counting** · Last updated: 2026-11-11
+**1909 entries and counting** · Last updated: 2026-11-11
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 386 |
-| [AI / LLM Notes](ai/notes.md) | 381 |
+| [AI / LLM Notes](ai/notes.md) | 382 |
 | [Reading List](articles/reading-list.md) | 385 |
 | [Coding Tips](coding-tips/tips.md) | 386 |
 | [Language Notes](languages/notes.md) | 370 |
 
 ## Latest additions
 
+- **2026-11-11** · *Machine Learning* — [Congrats to the Kaggle Benchmarking Challenge Winners!](https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh)
 - **2026-11-11** · *Research Papers* — [Trustworthy Distributed Machine Learning in...](http://arxiv.org/abs/2610.38793v1)
 - **2026-11-11** · *Swift* — [Show HN: Subvocal  Talk to your computer without...](https://news.ycombinator.com/item?id=50340088)
 - **2026-11-11** · *Rust* — [eBay Restricts Listings of Radio Equipment, but...](https://news.ycombinator.com/item?id=50122034)
 - **2026-11-11** · *Show & Ask HN* — [Show HN: A language model that lives in a boot sector](https://news.ycombinator.com/item?id=50315782)
-- **2026-11-11** · *Web & Frontend* — [N4darae/anti-mage](https://github.com/N4darae/anti-mage)
 
 ## How it works
 

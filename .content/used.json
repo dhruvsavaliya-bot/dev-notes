@@ -327,6 +327,7 @@
     "https://dev.to/dev_kiran/shift-left-code-review-how-qodo-turns-your-coding-agent-into-its-own-first-reviewer-58fc",
     "https://dev.to/devstackcommunity/best-ai-web-scraper-tools-in-2026-i-tested-7-these-are-worth-it-n2e",
     "https://dev.to/devstackhub/i-compared-11-best-ai-design-to-code-tools-for-my-client-projects-4alo",
+    "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
     "https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9",
     "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
     "https://dev.to/dj29/5-devto-features-i-wish-existed-3-im-genuinely-relieved-they-dont-3b8n",
@@ -2693,12 +2694,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Other Cool Projects",
-      "title": "anomalyco/hex",
-      "url": "https://github.com/anomalyco/hex"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Show & Ask HN",
       "title": "Show HN: SimCity, but with Permits",
       "url": "https://news.ycombinator.com/item?id=50170593"
@@ -2750,6 +2745,12 @@
       "subcat": "Research Papers",
       "title": "Trustworthy Distributed Machine Learning in...",
       "url": "http://arxiv.org/abs/2610.38793v1"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Machine Learning",
+      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh"
     }
   ]
 }

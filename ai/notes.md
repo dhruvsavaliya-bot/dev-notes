@@ -633,6 +633,15 @@ Lessons from building with LLMs.
 - **Summary:** This is a submission for the Kaggle Benchmarking Challenge           Table of Contents    One Eye,...
 - **Link:** https://dev.to/georgekobaidze/georgian-language-benchmark-two-biggest-ai-labs-clash-in-a-language-that-doesnt-play-by-anyones-5b22
 
+**Added 2026-11-11**
+
+### [Congrats to the Kaggle Benchmarking Challenge Winners!](https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh)
+- **Author:** Jem | **Published:** Nov 5 | **Read time:** 4 min
+- **Community:** 142 reactions, 28 comments -- a top post in #machinelearning
+- **Tags:** devchallenge, kagglechallenge, ai, machinelearning
+- **Summary:** A few weeks ago we teamed up with Kaggle to ask a deceptively simple question: how do you actually...
+- **Link:** https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh
+
 
 ## Models & Datasets
 
