@@ -847,6 +847,7 @@
     "https://github.com/didriksg/Crisp",
     "https://github.com/diffusionstudio/editor",
     "https://github.com/digimata/quill",
+    "https://github.com/diudiu-tech/delivery-harness",
     "https://github.com/dmmulroy/anti-slop",
     "https://github.com/dominikmartn/harp",
     "https://github.com/dqev/reicon",
@@ -2736,12 +2737,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Models & Datasets",
-      "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x...",
-      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Lobsters Picks",
       "title": "How do you actually self-host securely?",
       "url": "https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely"
@@ -2793,6 +2788,12 @@
       "subcat": "Lobsters Picks",
       "title": "Using voltage glitching to unleash the A100 in my...",
       "url": "https://lobste.rs/s/zy4p7f/using_voltage_glitching_unleash_a100_my"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Other Cool Projects",
+      "title": "diudiu-tech/delivery-harness",
+      "url": "https://github.com/diudiu-tech/delivery-harness"
     }
   ]
 }

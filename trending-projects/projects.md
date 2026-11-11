@@ -3327,6 +3327,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/unvoiddd/Dolphy-App
 
+**Added 2026-11-12**
+
+### [diudiu-tech/delivery-harness](https://github.com/diudiu-tech/delivery-harness)
+- **Stats:** 1,684 stars | 57 forks | 12 open issues
+- **Language:** Java | **Created:** 2026-08-13 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** AI harness reference implementation for on-demand delivery workflows
+- **Growth:** averaging ~18 stars/day since launch.
+- **Link:** https://github.com/diudiu-tech/delivery-harness
+
 
 ## Web & Frontend
 
