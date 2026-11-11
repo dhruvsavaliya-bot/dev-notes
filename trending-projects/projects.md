@@ -3297,6 +3297,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~45 stars/day since launch.
 - **Link:** https://github.com/852wa/JIZURA
 
+**Added 2026-11-11**
+
+### [unvoiddd/Dolphy-App](https://github.com/unvoiddd/Dolphy-App)
+- **Stats:** 366 stars | 41 forks | 16 open issues
+- **Language:** Kotlin | **Created:** 2026-06-26 | **License:** GPL-3.0
+- **Topics:** none listed
+- **What it is:** Android multi-tool for wireless protocol research (NFC, BLE, IR) and mobile hardware emulation. No root required.
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/unvoiddd/Dolphy-App
+
 
 ## Web & Frontend
 

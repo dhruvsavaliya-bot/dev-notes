@@ -1092,6 +1092,7 @@
     "https://github.com/trypostit/trypost",
     "https://github.com/ultracontext/ultracontext",
     "https://github.com/unicity-aos/aos-ce",
+    "https://github.com/unvoiddd/Dolphy-App",
     "https://github.com/useopendesk/opendesk",
     "https://github.com/usewhale/Whale",
     "https://github.com/v-modal/vmodal_sdk_swift_iphoneduo",
@@ -2710,12 +2711,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Machine Learning",
-      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Python",
       "title": "Python on My Wrist",
       "url": "https://news.ycombinator.com/item?id=50255573"
@@ -2767,6 +2762,12 @@
       "subcat": "Hacker News Picks",
       "title": "Protecting SSH Keys with macOS Secure Enclave",
       "url": "https://news.ycombinator.com/item?id=50449748"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Other Cool Projects",
+      "title": "unvoiddd/Dolphy-App",
+      "url": "https://github.com/unvoiddd/Dolphy-App"
     }
   ]
 }
