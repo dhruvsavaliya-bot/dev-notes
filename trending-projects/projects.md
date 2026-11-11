@@ -1804,6 +1804,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~159 stars/day since launch.
 - **Link:** https://github.com/QingYunA/answer-me-with-html
 
+**Added 2026-11-11**
+
+### [SFG5453/Orchard](https://github.com/SFG5453/Orchard)
+- **Stats:** 304 stars | 16 forks | 5 open issues
+- **Language:** Kotlin | **Created:** 2026-07-19 | **License:** NOASSERTION
+- **Topics:** android, apple-music, automix, desktop-app, kotlin, kotlin-android
+- **What it is:** The power-user desktop client for YouTube and Apple Music
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/SFG5453/Orchard
+
 
 ## Other Cool Projects
 

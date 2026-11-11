@@ -699,6 +699,7 @@
     "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
     "https://github.com/Rizzo-AI-Academy/rizzo-flow",
     "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+    "https://github.com/SFG5453/Orchard",
     "https://github.com/SWE-agent/SWE-agent",
     "https://github.com/SaarthurR/atticus-mac",
     "https://github.com/Sahir619/fable-method",
@@ -2705,12 +2706,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Rust",
-      "title": "eBay Restricts Listings of Radio Equipment, but...",
-      "url": "https://news.ycombinator.com/item?id=50122034"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Swift",
       "title": "Show HN: Subvocal  Talk to your computer without...",
       "url": "https://news.ycombinator.com/item?id=50340088"
@@ -2762,6 +2757,12 @@
       "subcat": "Hacker News Picks",
       "title": "Six Math Essentials",
       "url": "https://news.ycombinator.com/item?id=50446246"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "AI & Machine Learning",
+      "title": "SFG5453/Orchard",
+      "url": "https://github.com/SFG5453/Orchard"
     }
   ]
 }
