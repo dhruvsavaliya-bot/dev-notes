@@ -3568,6 +3568,16 @@ Que...
 - **Discussion:** https://lobste.rs/s/plreds/memory_safety_bugs_rust_standard_library
 - **Link:** https://forge-blog.github.io/posts/rust-std-memory-safety/
 
+**Added 2026-11-11**
+
+### [How do you actually self-host securely?](https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely)
+- **Source:** lobste.rs | **Posted:** 2026-11-11 | **By:** pralkarz
+- **Community:** 32 score, 17 comments on Lobsters
+- **Tags:** ask, devops
+- **Summary:** I recognize that the title is rather vague, but I'm completely green when it comes to self-hosting, so I figured here would be a good place to ask for some pointers given the discussions I sometimes see happening in the comments. I tried researching first through DDG and Google, but (and I recognize this might be a skill issue) most things I found are either SEO slop or trying to sell/market some ...
+- **Discussion:** https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely
+- **Link:** https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely
+
 
 ## Career & Craft
 

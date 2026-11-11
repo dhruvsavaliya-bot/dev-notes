@@ -1608,6 +1608,7 @@
     "https://lobste.rs/s/lh1j0e/shlemiel_painter_is_back_how_zig_s_libc",
     "https://lobste.rs/s/lhovnm/dear_open_source_developers_it_s_ok_not",
     "https://lobste.rs/s/lxo74i/introducing_microlighter",
+    "https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely",
     "https://lobste.rs/s/m6fw0x/netbsd_adds_new_emacs_like_text_editor",
     "https://lobste.rs/s/maqsgl/what_are_you_doing_this_week",
     "https://lobste.rs/s/me75ey/jailbreaking_switch_2",
@@ -2723,12 +2724,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Hacker News Picks",
-      "title": "Protecting SSH Keys with macOS Secure Enclave",
-      "url": "https://news.ycombinator.com/item?id=50449748"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Other Cool Projects",
       "title": "unvoiddd/Dolphy-App",
       "url": "https://github.com/unvoiddd/Dolphy-App"
@@ -2780,6 +2775,12 @@
       "subcat": "Models & Datasets",
       "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x...",
       "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Lobsters Picks",
+      "title": "How do you actually self-host securely?",
+      "url": "https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely"
     }
   ]
 }
