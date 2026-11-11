@@ -2499,6 +2499,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF
 
+**Added 2026-11-11**
+
+### [meituan-longcat/LongCat-2.5](https://huggingface.co/meituan-longcat/LongCat-2.5)
+- **Stats:** 84 likes | 195 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-11-04
+- **Tags:** safetensors, pro_v, multimodal, image-text-to-text, text-generation, mixture-of-experts
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/meituan-longcat/LongCat-2.5
+
 
 ## Research Papers
 

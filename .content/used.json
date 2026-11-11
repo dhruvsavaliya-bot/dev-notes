@@ -1352,6 +1352,7 @@
     "https://huggingface.co/kopper/RelayVSR",
     "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
     "https://huggingface.co/lightx2v/Minimax-h3-Turbo",
+    "https://huggingface.co/meituan-longcat/LongCat-2.5",
     "https://huggingface.co/meta-llama/Llama-3.1-8B",
     "https://huggingface.co/meta-models/Muse-Glimmer-30B",
     "https://huggingface.co/microsoft/AesCode-8B",
@@ -2713,12 +2714,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Lobsters Picks",
-      "title": "Residential Proxies Detected on White House Network",
-      "url": "https://lobste.rs/s/253two/residential_proxies_detected_on_white"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Other Cool Projects",
       "title": "852wa/JIZURA",
       "url": "https://github.com/852wa/JIZURA"
@@ -2770,6 +2765,12 @@
       "subcat": "Go",
       "title": "The MustCreate Pattern for Go Tests",
       "url": "https://lobste.rs/s/i96uyr/mustcreate_pattern_for_go_tests"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Models & Datasets",
+      "title": "meituan-longcat/LongCat-2.5",
+      "url": "https://huggingface.co/meituan-longcat/LongCat-2.5"
     }
   ]
 }
