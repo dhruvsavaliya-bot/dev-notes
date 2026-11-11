@@ -916,6 +916,7 @@
     "https://github.com/karatektus/pl_mail",
     "https://github.com/kasothaphie/GenRecon",
     "https://github.com/kelos-dev/kelos",
+    "https://github.com/kerlenton/bootgpt",
     "https://github.com/kirodotdev/KiroCrew",
     "https://github.com/kitsumed/ShizuCallRecorder",
     "https://github.com/kividbio/kividb",
@@ -2286,6 +2287,7 @@
     "https://news.ycombinator.com/item?id=50305320",
     "https://news.ycombinator.com/item?id=50307723",
     "https://news.ycombinator.com/item?id=50312756",
+    "https://news.ycombinator.com/item?id=50315782",
     "https://news.ycombinator.com/item?id=50317331",
     "https://news.ycombinator.com/item?id=50319563",
     "https://news.ycombinator.com/item?id=50323088",
@@ -2687,12 +2689,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Web & Frontend",
-      "title": "egoist/mygo",
-      "url": "https://github.com/egoist/mygo"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Marelleo, an open-source story box I built...",
       "url": "https://news.ycombinator.com/item?id=50260753"
@@ -2744,6 +2740,12 @@
       "subcat": "Web & Frontend",
       "title": "N4darae/anti-mage",
       "url": "https://github.com/N4darae/anti-mage"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: A language model that lives in a boot sector",
+      "url": "https://news.ycombinator.com/item?id=50315782"
     }
   ]
 }

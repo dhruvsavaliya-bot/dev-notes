@@ -2641,6 +2641,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50170593
 - **Link:** https://permit.petercai.com/
 
+**Added 2026-11-11**
+
+### [Show HN: A language model that lives in a boot sector](https://github.com/kerlenton/bootgpt)
+- **Source:** github.com | **Posted:** 2026-10-31 | **By:** kerlenton
+- **Community:** 109 points, 6 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50315782
+- **Link:** https://github.com/kerlenton/bootgpt
+
 
 ## Git & Workflow
 
