@@ -2331,6 +2331,15 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Growth:** averaging ~7 stars/day since launch.
 - **Link:** https://github.com/ResistanceTo/MiniWatts
 
+**Added 2026-11-11**
+
+### [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-02 | **By:** aarushyadav
+- **Community:** 847 points, 395 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50340088
+- **Link:** https://news.ycombinator.com/item?id=50340088
+
 
 ## Rust
 
