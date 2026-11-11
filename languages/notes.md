@@ -1505,6 +1505,16 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Discussion:** https://lobste.rs/s/gfm0xn/new_go_api_for_json
 - **Link:** https://go.dev/blog/jsonv2
 
+**Added 2026-11-11**
+
+### [The MustCreate Pattern for Go Tests](https://mtlynch.io/notes/go-must-create-pattern/)
+- **Source:** mtlynch.io | **Posted:** 2026-11-06 | **By:** mtlynch
+- **Community:** 24 score, 23 comments on Lobsters
+- **Tags:** go, testing
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/i96uyr/mustcreate_pattern_for_go_tests
+- **Link:** https://mtlynch.io/notes/go-must-create-pattern/
+
 
 ## PHP
 
