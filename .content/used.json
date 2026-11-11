@@ -108,6 +108,7 @@
     "http://arxiv.org/abs/2611.05731v1",
     "http://arxiv.org/abs/2611.06711v1",
     "http://arxiv.org/abs/2611.07367v1",
+    "http://arxiv.org/abs/2611.09506v1",
     "http://arxiv.org/abs/2611.09807v1",
     "http://arxiv.org/abs/2611.09868v1",
     "http://arxiv.org/abs/2611.12575v1",
@@ -2741,12 +2742,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Models & Datasets",
-      "title": "nvidia/Qwen3.6-35B-A3B-NVFP4",
-      "url": "https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Show & Ask HN",
       "title": "Show HN: HackerChurn  which SaaS tools HN wants to...",
       "url": "https://news.ycombinator.com/item?id=50353386"
@@ -2798,6 +2793,12 @@
       "subcat": "Other Cool Projects",
       "title": "Leviidev/Husk",
       "url": "https://github.com/Leviidev/Husk"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Research Papers",
+      "title": "On the Effectiveness and Limitations of Open-Weight...",
+      "url": "http://arxiv.org/abs/2611.09506v1"
     }
   ]
 }

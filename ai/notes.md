@@ -3598,6 +3598,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.09807v1
 
+**Added 2026-11-12**
+
+### [On the Effectiveness and Limitations of Open-Weight LLMs for Low-Resource Offensive Language Detection in Danish](http://arxiv.org/abs/2611.09506v1)
+- **Authors:** Elnur Adl Zarabi, Amit Kumar, Adi Singh, Sierra Nelson et al.
+- **Published:** 2026-11-06 | **Primary category:** cs.CL
+- **Categories:** cs.CL
+- **Abstract:** We study the effectiveness and robustness of open-weight large language models (LLMs) for Danish offensive language detection, an underexplored low-resource task. We evaluate four model families (Llama, Mistral, Gemma, and Qwen) across eleven prompting strategies spanning five design categories, cross-prompt generalization, Danish orthographic variation, and robustness under balanced and naturally imbalanced class distributions. We compare against three BERT-family baselines with distinct pre-tr...
+- **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.09506v1
+
 
 ## Computer Vision
 
