@@ -539,6 +539,7 @@
     "https://flattensf.com/",
     "https://flet.dev/",
     "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+    "https://forge-blog.github.io/posts/rust-std-memory-safety/",
     "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
     "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
     "https://foxscript.org/",
@@ -1632,6 +1633,7 @@
     "https://lobste.rs/s/paryb7/rails_is_done",
     "https://lobste.rs/s/pioj21/performance_cost_rwlock_our_read_heavy",
     "https://lobste.rs/s/plbei0/openfatigue_open_is_new_closed",
+    "https://lobste.rs/s/plreds/memory_safety_bugs_rust_standard_library",
     "https://lobste.rs/s/q0ld7f/x_87_dos_256_bytes",
     "https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem",
     "https://lobste.rs/s/qcgjpu/kolibri_sovereign_open_weight_model",
@@ -2717,12 +2719,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Python",
-      "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python...",
-      "url": "https://news.ycombinator.com/item?id=50219177"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Hacker News Picks",
       "title": "Six Math Essentials",
       "url": "https://news.ycombinator.com/item?id=50446246"
@@ -2774,6 +2770,12 @@
       "subcat": "Models & Datasets",
       "title": "krea/Krea-2-Turbo",
       "url": "https://huggingface.co/krea/Krea-2-Turbo"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Lobsters Picks",
+      "title": "Memory Safety Bugs in Rust Standard Library",
+      "url": "https://lobste.rs/s/plreds/memory_safety_bugs_rust_standard_library"
     }
   ]
 }

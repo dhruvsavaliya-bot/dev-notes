@@ -3558,6 +3558,16 @@ Que...
 - **Discussion:** https://lobste.rs/s/nuoce5/next_level_benchmarking_overfitting
 - **Link:** http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html
 
+**Added 2026-11-11**
+
+### [Memory Safety Bugs in Rust Standard Library](https://forge-blog.github.io/posts/rust-std-memory-safety/)
+- **Source:** forge-blog.github.io | **Posted:** 2026-11-10 | **By:** expurple
+- **Community:** 23 score, 1 comments on Lobsters
+- **Tags:** rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/plreds/memory_safety_bugs_rust_standard_library
+- **Link:** https://forge-blog.github.io/posts/rust-std-memory-safety/
+
 
 ## Career & Craft
 
