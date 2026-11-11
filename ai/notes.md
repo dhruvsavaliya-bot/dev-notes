@@ -3523,6 +3523,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.12591v1
 
+**Added 2026-11-11**
+
+### [Trustworthy Distributed Machine Learning in Cloud-Edge-IoT Systems: A Heterogeneity-Aware Survey of Security, Privacy, and Robustness](http://arxiv.org/abs/2610.38793v1)
+- **Authors:** Long Dang, Ali Alfatemi, Kaiqi Xiong, Mohammed Aledhari et al.
+- **Published:** 2026-10-28 | **Primary category:** cs.DC
+- **Categories:** cs.CR, cs.DC, cs.LG
+- **Abstract:** Distributed machine learning (DML), including conventional distributed training and federated learning (FL), enables collaborative model development across cloud-edge-IoT systems without fully centralizing raw data. However, distributing data, computation, updates, and orchestration increases the attack surface and introduces coupled challenges across privacy, robustness, reliability, fairness, and governance. This survey presents a security-centered, heterogeneity-aware roadmap for trustworthy ...
+- **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.38793v1
+
 
 ## Computer Vision
 

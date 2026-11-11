@@ -95,6 +95,7 @@
     "http://arxiv.org/abs/2610.36717v1",
     "http://arxiv.org/abs/2610.37126v1",
     "http://arxiv.org/abs/2610.38243v1",
+    "http://arxiv.org/abs/2610.38793v1",
     "http://arxiv.org/abs/2610.40396v1",
     "http://arxiv.org/abs/2610.40444v1",
     "http://arxiv.org/abs/2611.01953v1",
@@ -2692,12 +2693,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Research Papers",
-      "title": "TRACE: Adaptive Trust-Region Bayesian Optimization...",
-      "url": "http://arxiv.org/abs/2611.12591v1"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Other Cool Projects",
       "title": "anomalyco/hex",
       "url": "https://github.com/anomalyco/hex"
@@ -2749,6 +2744,12 @@
       "subcat": "Swift",
       "title": "Show HN: Subvocal  Talk to your computer without...",
       "url": "https://news.ycombinator.com/item?id=50340088"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Research Papers",
+      "title": "Trustworthy Distributed Machine Learning in...",
+      "url": "http://arxiv.org/abs/2610.38793v1"
     }
   ]
 }
