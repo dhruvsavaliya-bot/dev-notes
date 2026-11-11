@@ -1064,6 +1064,7 @@
     "https://github.com/snuri00/ps2-web-recomp",
     "https://github.com/software-mansion-labs/goldie",
     "https://github.com/srizzon/git-city",
+    "https://github.com/stablyai/orca",
     "https://github.com/storytold/deckcraft",
     "https://github.com/storytold/designcraft",
     "https://github.com/storytold/effectcraft",
@@ -2730,12 +2731,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Models & Datasets",
-      "title": "krea/Krea-2-Turbo",
-      "url": "https://huggingface.co/krea/Krea-2-Turbo"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Lobsters Picks",
       "title": "Memory Safety Bugs in Rust Standard Library",
       "url": "https://lobste.rs/s/plreds/memory_safety_bugs_rust_standard_library"
@@ -2787,6 +2782,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: HackerChurn  which SaaS tools HN wants to...",
       "url": "https://news.ycombinator.com/item?id=50353386"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "AI & Machine Learning",
+      "title": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca"
     }
   ]
 }

@@ -1824,6 +1824,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~532 stars/day since launch.
 - **Link:** https://github.com/JuneYaooo/rea-video
 
+**Added 2026-11-11**
+
+### [stablyai/orca](https://github.com/stablyai/orca)
+- **Stats:** 122,195 stars | 7,748 forks | 8,385 open issues
+- **Language:** TypeScript | **Created:** 2026-03-17 | **License:** MIT
+- **Topics:** agent-ide, ai-agents, automation, bot, claude-code, codex
+- **What it is:** Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
+- **Growth:** averaging ~511 stars/day since launch.
+- **Link:** https://github.com/stablyai/orca
+
 
 ## Other Cool Projects
 
