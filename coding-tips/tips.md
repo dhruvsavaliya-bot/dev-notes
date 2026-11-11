@@ -3548,6 +3548,16 @@ Que...
 - **Discussion:** https://lobste.rs/s/eeclwg/sure_mate_buy_me_bloody_coffee
 - **Link:** https://peateasea.de/sure-mate-buy-me-a-bloody-coffee/
 
+**Added 2026-11-11**
+
+### [Next-Level Benchmarking Overfitting](http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html)
+- **Source:** databasearchitects.blogspot.com | **Posted:** 2026-11-10 | **By:** eatonphil
+- **Community:** 18 score, 3 comments on Lobsters
+- **Tags:** databases, performance
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/nuoce5/next_level_benchmarking_overfitting
+- **Link:** http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html
+
 
 ## Career & Craft
 

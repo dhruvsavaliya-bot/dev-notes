@@ -115,6 +115,7 @@
     "http://boglin.iwarp.com/",
     "http://bokeh.pydata.org/en/latest/",
     "http://cssreference.io/#hn",
+    "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
     "http://drumpatterns.onether.com",
     "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
     "http://gpu.rocks/",
@@ -1610,6 +1611,7 @@
     "https://lobste.rs/s/ncclwy/switch_lowering_gcc",
     "https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os",
     "https://lobste.rs/s/nuepys/what_requirements_don_t_you_have",
+    "https://lobste.rs/s/nuoce5/next_level_benchmarking_overfitting",
     "https://lobste.rs/s/nxspz6/no_man_is_island",
     "https://lobste.rs/s/o0ixth/haxy_net_is_live_haxy_git_forge_devlog",
     "https://lobste.rs/s/o5to4p/faster_way_compute_signed_64_bit_floor",
@@ -2699,12 +2701,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Lobsters Picks",
-      "title": "Building a networking switch ASIC chip",
-      "url": "https://lobste.rs/s/n8reli/building_networking_switch_asic_chip"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Web & Frontend",
       "title": "N4darae/anti-mage",
       "url": "https://github.com/N4darae/anti-mage"
@@ -2756,6 +2752,12 @@
       "subcat": "Other Cool Projects",
       "title": "852wa/JIZURA",
       "url": "https://github.com/852wa/JIZURA"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Lobsters Picks",
+      "title": "Next-Level Benchmarking Overfitting",
+      "url": "https://lobste.rs/s/nuoce5/next_level_benchmarking_overfitting"
     }
   ]
 }
