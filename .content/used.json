@@ -1395,6 +1395,7 @@
     "https://huggingface.co/vllm-sr/d3",
     "https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base",
     "https://huggingface.co/yiyanghkust/finbert-tone",
+    "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
     "https://huggingface.co/zai-org/GLM-4.6",
     "https://huggingface.co/zai-org/GLM-5.1",
     "https://huggingface.co/zai-org/GLM-5.3-Flash",
@@ -2722,12 +2723,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Python",
-      "title": "Evolving Threat: http2shell is an RCE in Node...",
-      "url": "https://news.ycombinator.com/item?id=50216791"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Hacker News Picks",
       "title": "Protecting SSH Keys with macOS Secure Enclave",
       "url": "https://news.ycombinator.com/item?id=50449748"
@@ -2779,6 +2774,12 @@
       "subcat": "AI & Machine Learning",
       "title": "JuneYaooo/rea-video",
       "url": "https://github.com/JuneYaooo/rea-video"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Models & Datasets",
+      "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x...",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF"
     }
   ]
 }

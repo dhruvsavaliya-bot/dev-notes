@@ -2517,6 +2517,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/krea/Krea-2-Turbo
 
+**Added 2026-11-11**
+
+### [yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF)
+- **Stats:** 1,772 likes | 92,950 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-06-19
+- **Tags:** gguf, gemma4, coding, agentic, terminal, tool-use
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF
+
 
 ## Research Papers
 
