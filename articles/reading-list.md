@@ -3607,6 +3607,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/253two/residential_proxies_detected_on_white
 - **Link:** https://layer3intel.com/blog/residential-proxies-white-house-network
 
+**Added 2026-11-12**
+
+### [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)
+- **Source:** blog.kate.land | **Posted:** 2026-11-11 | **By:** wgx
+- **Community:** 34 score, 6 comments on Lobsters
+- **Tags:** hardware
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/zy4p7f/using_voltage_glitching_unleash_a100_my
+- **Link:** https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/
+
 
 ## Performance
 

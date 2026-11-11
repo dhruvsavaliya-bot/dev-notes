@@ -217,6 +217,7 @@
     "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
     "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/",
     "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
+    "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
     "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
     "https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15",
     "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
@@ -1729,6 +1730,7 @@
     "https://lobste.rs/s/zknqct/two_kinds_sql_query_builders",
     "https://lobste.rs/s/zlhyss/mathocalypse",
     "https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source",
+    "https://lobste.rs/s/zy4p7f/using_voltage_glitching_unleash_a100_my",
     "https://lobste.rs/s/zziknb/arena_allocators_c",
     "https://loficities.com/",
     "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
@@ -2734,12 +2736,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "AI & Machine Learning",
-      "title": "JuneYaooo/rea-video",
-      "url": "https://github.com/JuneYaooo/rea-video"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Models & Datasets",
       "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x...",
       "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF"
@@ -2791,6 +2787,12 @@
       "subcat": "Research Papers",
       "title": "CodeQuant2: Enhanced Outlier Mitigation and Adaptive...",
       "url": "http://arxiv.org/abs/2611.09868v1"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Lobsters Picks",
+      "title": "Using voltage glitching to unleash the A100 in my...",
+      "url": "https://lobste.rs/s/zy4p7f/using_voltage_glitching_unleash_a100_my"
     }
   ]
 }
