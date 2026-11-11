@@ -632,6 +632,7 @@
     "https://github.com/JetBrains/thinkrail",
     "https://github.com/Jia-Ethan/codex-keysmith",
     "https://github.com/JohnHeibel/ClaudeAnimationBase",
+    "https://github.com/JuneYaooo/rea-video",
     "https://github.com/JustVugg/colibri",
     "https://github.com/KKKKhazix/AIHOT",
     "https://github.com/KKKKhazix/human-writing",
@@ -2721,12 +2722,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "AI & Machine Learning",
-      "title": "SFG5453/Orchard",
-      "url": "https://github.com/SFG5453/Orchard"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Python",
       "title": "Evolving Threat: http2shell is an RCE in Node...",
       "url": "https://news.ycombinator.com/item?id=50216791"
@@ -2778,6 +2773,12 @@
       "subcat": "Hacker News Picks",
       "title": "Why I wrote the BEAM book (2025)",
       "url": "https://news.ycombinator.com/item?id=50427107"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "AI & Machine Learning",
+      "title": "JuneYaooo/rea-video",
+      "url": "https://github.com/JuneYaooo/rea-video"
     }
   ]
 }

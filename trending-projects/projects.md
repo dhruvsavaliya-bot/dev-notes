@@ -1814,6 +1814,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/SFG5453/Orchard
 
+**Added 2026-11-11**
+
+### [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)
+- **Stats:** 6,927 stars | 999 forks | 4 open issues
+- **Language:** Python | **Created:** 2026-10-29 | **License:** Apache-2.0
+- **Topics:** agent-skills, ai-video, aigc-detection, claude-code, codex, ffmpeg
+- **What it is:** Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻。
+- **Growth:** averaging ~532 stars/day since launch.
+- **Link:** https://github.com/JuneYaooo/rea-video
+
 
 ## Other Cool Projects
 
