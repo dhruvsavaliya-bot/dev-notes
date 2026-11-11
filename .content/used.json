@@ -1351,6 +1351,7 @@
     "https://huggingface.co/jaredpalmer/kev-4b",
     "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-russian",
     "https://huggingface.co/kopper/RelayVSR",
+    "https://huggingface.co/krea/Krea-2-Turbo",
     "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
     "https://huggingface.co/lightx2v/Minimax-h3-Turbo",
     "https://huggingface.co/meituan-longcat/LongCat-2.5",
@@ -2716,12 +2717,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Lobsters Picks",
-      "title": "Next-Level Benchmarking Overfitting",
-      "url": "https://lobste.rs/s/nuoce5/next_level_benchmarking_overfitting"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Python",
       "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python...",
       "url": "https://news.ycombinator.com/item?id=50219177"
@@ -2773,6 +2768,12 @@
       "subcat": "TypeScript",
       "title": "Launch HN: Rivet (YC W23)  Scale and Orchestrate...",
       "url": "https://news.ycombinator.com/item?id=50381687"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Models & Datasets",
+      "title": "krea/Krea-2-Turbo",
+      "url": "https://huggingface.co/krea/Krea-2-Turbo"
     }
   ]
 }

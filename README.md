@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1922 entries and counting** · Last updated: 2026-11-11
+**1923 entries and counting** · Last updated: 2026-11-11
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 389 |
-| [AI / LLM Notes](ai/notes.md) | 383 |
+| [AI / LLM Notes](ai/notes.md) | 384 |
 | [Reading List](articles/reading-list.md) | 388 |
 | [Coding Tips](coding-tips/tips.md) | 387 |
 | [Language Notes](languages/notes.md) | 375 |
 
 ## Latest additions
 
+- **2026-11-11** · *Models & Datasets* — [krea/Krea-2-Turbo](https://huggingface.co/krea/Krea-2-Turbo)
 - **2026-11-11** · *TypeScript* — [Launch HN: Rivet (YC W23)  Scale and Orchestrate...](https://news.ycombinator.com/item?id=50381687)
 - **2026-11-11** · *Models & Datasets* — [meituan-longcat/LongCat-2.5](https://huggingface.co/meituan-longcat/LongCat-2.5)
 - **2026-11-11** · *Go* — [The MustCreate Pattern for Go Tests](https://lobste.rs/s/i96uyr/mustcreate_pattern_for_go_tests)
 - **2026-11-11** · *Other Cool Projects* — [unvoiddd/Dolphy-App](https://github.com/unvoiddd/Dolphy-App)
-- **2026-11-11** · *Hacker News Picks* — [Protecting SSH Keys with macOS Secure Enclave](https://news.ycombinator.com/item?id=50449748)
 
 ## How it works
 

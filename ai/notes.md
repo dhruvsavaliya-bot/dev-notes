@@ -2508,6 +2508,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/meituan-longcat/LongCat-2.5
 
+**Added 2026-11-11**
+
+### [krea/Krea-2-Turbo](https://huggingface.co/krea/Krea-2-Turbo)
+- **Stats:** 1,944 likes | 86,618 downloads
+- **Kind:** Hugging Face model | **Task:** text-to-image | **Created:** 2026-06-18
+- **Tags:** diffusers, safetensors, text-to-image, en
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/krea/Krea-2-Turbo
+
 
 ## Research Papers
 
