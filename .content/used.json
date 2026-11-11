@@ -509,6 +509,7 @@
     "https://dev.to/yadav_singh_8b2d910255664/can-ai-help-in-crisis-moments-building-a-real-time-therapy-assistant-3m47",
     "https://dev.to/yashksaini/i-built-a-tui-that-makes-rust-code-inspection-feel-like-magic-375k",
     "https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9",
+    "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
     "https://devblogs.microsoft.com/typescript/typescript-native-port/",
     "https://developer.apple.com/news/?id=1ptvdtcm",
     "https://developer.apple.com/news/?id=p6zjojqw",
@@ -1728,6 +1729,7 @@
     "https://lobste.rs/s/ysyqnt/small_web_is_huge",
     "https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn",
     "https://lobste.rs/s/yxuvie/alpinebsd",
+    "https://lobste.rs/s/zingk1/announcing_net_11",
     "https://lobste.rs/s/zjjvbo/work_on_gefs_good_enough_file_system_for",
     "https://lobste.rs/s/zknqct/two_kinds_sql_query_builders",
     "https://lobste.rs/s/zlhyss/mathocalypse",
@@ -2738,12 +2740,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Hacker News Picks",
-      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
-      "url": "https://news.ycombinator.com/item?id=50450007"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "PHP",
       "title": "I Added One Key to a PHP Array. It Cost 25 MB of Memory",
       "url": "https://dev.to/nazar-boyko/i-added-one-key-to-a-php-array-it-cost-25-mb-of-memory-4b80"
@@ -2795,6 +2791,12 @@
       "subcat": "Research Papers",
       "title": "Compaction, decay and reinforcement in a two-tier...",
       "url": "http://arxiv.org/abs/2611.09807v1"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Lobsters Picks",
+      "title": "Announcing .NET 11",
+      "url": "https://lobste.rs/s/zingk1/announcing_net_11"
     }
   ]
 }

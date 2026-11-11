@@ -3617,6 +3617,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/zy4p7f/using_voltage_glitching_unleash_a100_my
 - **Link:** https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/
 
+**Added 2026-11-12**
+
+### [Announcing .NET 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/)
+- **Source:** devblogs.microsoft.com | **Posted:** 2026-11-10 | **By:** runesoerensen
+- **Community:** 30 score, 6 comments on Lobsters
+- **Tags:** dotnet, release
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/zingk1/announcing_net_11
+- **Link:** https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/
+
 
 ## Performance
 
