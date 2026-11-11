@@ -2432,6 +2432,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50427107
 - **Link:** https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/
 
+**Added 2026-11-11**
+
+### [Greg Kurtzer's Ginux is now a userspace kernel](https://github.com/gmkurtzer/ginux)
+- **Source:** github.com | **Posted:** 2026-11-11 | **By:** d3Xt3r
+- **Community:** 100 points, 61 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50450007
+- **Link:** https://github.com/gmkurtzer/ginux
+
 
 ## DevOps & Cloud
 
