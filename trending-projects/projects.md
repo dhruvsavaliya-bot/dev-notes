@@ -3277,6 +3277,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~52 stars/day since launch.
 - **Link:** https://github.com/anomalyco/hex
 
+**Added 2026-11-11**
+
+### [852wa/JIZURA](https://github.com/852wa/JIZURA)
+- **Stats:** 2,233 stars | 295 forks | 3 open issues
+- **Language:** HTML | **Created:** 2026-09-23 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** 歌詞から文字PVを自動で組み立てるブラウザアプリ
+- **Growth:** averaging ~45 stars/day since launch.
+- **Link:** https://github.com/852wa/JIZURA
+
 
 ## Web & Frontend
 

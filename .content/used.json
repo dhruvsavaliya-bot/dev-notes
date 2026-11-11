@@ -560,6 +560,7 @@
     "https://github.com/1lck/Lithe-IDEA",
     "https://github.com/3641397194-wq/gpt6-Astra",
     "https://github.com/49-Agents/49-IDE",
+    "https://github.com/852wa/JIZURA",
     "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
     "https://github.com/AFK-surf/Comma",
     "https://github.com/ARahim3/DigUp",
@@ -2698,12 +2699,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Rust",
-      "title": "U.S. workers took home their smallest share of...",
-      "url": "https://news.ycombinator.com/item?id=50330939"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Lobsters Picks",
       "title": "Building a networking switch ASIC chip",
       "url": "https://lobste.rs/s/n8reli/building_networking_switch_asic_chip"
@@ -2755,6 +2750,12 @@
       "subcat": "Lobsters Picks",
       "title": "Residential Proxies Detected on White House Network",
       "url": "https://lobste.rs/s/253two/residential_proxies_detected_on_white"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Other Cool Projects",
+      "title": "852wa/JIZURA",
+      "url": "https://github.com/852wa/JIZURA"
     }
   ]
 }
