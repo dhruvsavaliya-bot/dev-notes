@@ -664,6 +664,7 @@
     "https://github.com/MoonshotAI/Kimi-K3",
     "https://github.com/MorpheApp/PotHelper",
     "https://github.com/Muesli-HQ/muesli",
+    "https://github.com/N4darae/anti-mage",
     "https://github.com/N4darae/shrt",
     "https://github.com/NVIDIA/cuml",
     "https://github.com/NVlabs/SoL-Pi",
@@ -2686,12 +2687,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "Research Papers",
-      "title": "From Likelihood Convergence to Parameter Convergence...",
-      "url": "http://arxiv.org/abs/2611.12575v1"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Web & Frontend",
       "title": "egoist/mygo",
       "url": "https://github.com/egoist/mygo"
@@ -2743,6 +2738,12 @@
       "subcat": "Lobsters Picks",
       "title": "Building a networking switch ASIC chip",
       "url": "https://lobste.rs/s/n8reli/building_networking_switch_asic_chip"
+    },
+    {
+      "date": "2026-11-11",
+      "subcat": "Web & Frontend",
+      "title": "N4darae/anti-mage",
+      "url": "https://github.com/N4darae/anti-mage"
     }
   ]
 }

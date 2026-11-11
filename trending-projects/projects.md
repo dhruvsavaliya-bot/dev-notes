@@ -3510,6 +3510,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~127 stars/day since launch.
 - **Link:** https://github.com/egoist/mygo
 
+**Added 2026-11-11**
+
+### [N4darae/anti-mage](https://github.com/N4darae/anti-mage)
+- **Stats:** 2,068 stars | 89 forks | 3 open issues
+- **Language:** Go | **Created:** 2026-08-22 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** For detecting anti-detect browsers and spoofed profiles through runtime coherence analysis.
+- **Growth:** averaging ~25 stars/day since launch.
+- **Link:** https://github.com/N4darae/anti-mage
+
 
 ## Developer Tools
 
