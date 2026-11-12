@@ -3677,6 +3677,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/x4kaac/30_years_internet_transfers_with_curl
 - **Link:** https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/
 
+**Added 2026-11-12**
+
+### [For the first time, a C++ standard failed to pass the national bodies](https://herecomesthemoon.net/2026/11/cpp26-failed-the-national-bodies/)
+- **Source:** herecomesthemoon.net | **Posted:** 2026-11-11 | **By:** mond
+- **Community:** 25 score, 3 comments on Lobsters
+- **Tags:** c++
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/lrpb0m/for_first_time_c_standard_failed_pass
+- **Link:** https://herecomesthemoon.net/2026/11/cpp26-failed-the-national-bodies/
+
 
 ## Performance
 

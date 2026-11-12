@@ -1204,6 +1204,7 @@
     "https://help.duckduckgo.com/duckduckgo-help-pages/features/non-javascript/",
     "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
     "https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/",
+    "https://herecomesthemoon.net/2026/11/cpp26-failed-the-national-bodies/",
     "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
     "https://heynote.com/",
     "https://heyopenspot.com/",
@@ -1643,6 +1644,7 @@
     "https://lobste.rs/s/lgdxtw/c_for_rust_programmers",
     "https://lobste.rs/s/lh1j0e/shlemiel_painter_is_back_how_zig_s_libc",
     "https://lobste.rs/s/lhovnm/dear_open_source_developers_it_s_ok_not",
+    "https://lobste.rs/s/lrpb0m/for_first_time_c_standard_failed_pass",
     "https://lobste.rs/s/lxo74i/introducing_microlighter",
     "https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely",
     "https://lobste.rs/s/m6fw0x/netbsd_adds_new_emacs_like_text_editor",
@@ -2775,12 +2777,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "Models & Datasets",
-      "title": "agentionai/Qwen3.8-Flash-Next-Gyro-abliterated-Huihui-G...",
-      "url": "https://huggingface.co/agentionai/Qwen3.8-Flash-Next-Gyro-abliterated-Huihui-GGUF"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Other Cool Projects",
       "title": "RafliAbdulHaliim/sylenth-1-enhancement-suite",
       "url": "https://github.com/RafliAbdulHaliim/sylenth-1-enhancement-suite"
@@ -2832,6 +2828,12 @@
       "subcat": "Research Papers",
       "title": "Do Coding Agents Follow AGENTS.md? The Effect of...",
       "url": "http://arxiv.org/abs/2611.04367v1"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Lobsters Picks",
+      "title": "For the first time, a C++ standard failed to pass the...",
+      "url": "https://lobste.rs/s/lrpb0m/for_first_time_c_standard_failed_pass"
     }
   ]
 }
