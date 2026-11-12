@@ -2659,6 +2659,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50353386
 - **Link:** https://hissingkitty.com/hacker-churn
 
+**Added 2026-11-12**
+
+### [Show HN: Wonderhop – A daily game: guess what most people say, or what none do](https://wonderhop.io/en/)
+- **Source:** wonderhop.io | **Posted:** 2026-10-13 | **By:** mtlduo
+- **Community:** 124 points, 98 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50080246
+- **Link:** https://wonderhop.io/en/
+
 
 ## Git & Workflow
 
