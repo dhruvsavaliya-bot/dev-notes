@@ -3955,3 +3955,13 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** A collection of remote MCP servers.
 - **Growth:** averaging ~45 stars/day since launch.
 - **Link:** https://github.com/punkpeye/awesome-remote-mcp-servers
+
+**Added 2026-11-12**
+
+### [fossaryhq/catalog](https://github.com/fossaryhq/catalog)
+- **Stats:** 412 stars | 16 forks | 4 open issues
+- **Language:** Shell | **Created:** 2026-09-08 | **License:** NOASSERTION
+- **Topics:** catalog, deployment, devops, docker, docker-compose, homelab
+- **What it is:** Public catalog of self-hosted applications with reviewed Docker Compose recipes
+- **Growth:** averaging ~6 stars/day since launch.
+- **Link:** https://github.com/fossaryhq/catalog
