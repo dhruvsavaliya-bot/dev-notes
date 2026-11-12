@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1979 entries and counting** · Last updated: 2026-11-13
+**1980 entries and counting** · Last updated: 2026-11-13
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 402 |
 | [AI / LLM Notes](ai/notes.md) | 400 |
-| [Reading List](articles/reading-list.md) | 400 |
+| [Reading List](articles/reading-list.md) | 401 |
 | [Coding Tips](coding-tips/tips.md) | 394 |
 | [Language Notes](languages/notes.md) | 383 |
 
 ## Latest additions
 
+- **2026-11-13** · *Hacker News Picks* — [A farewell to Arc browser](https://news.ycombinator.com/item?id=50197601)
 - **2026-11-13** · *Research Papers* — [A Matched Evaluation of QUBO Action Models and...](http://arxiv.org/abs/2611.02179v1)
 - **2026-11-13** · *Lobsters Picks* — [Adapting CPython for yk](https://lobste.rs/s/gejy85/adapting_cpython_for_yk)
 - **2026-11-13** · *Swift* — [Making a 40 USB-C hub work as a Nintendo Switch 2 dock](https://news.ycombinator.com/item?id=50431971)
 - **2026-11-13** · *Java* — [mihirgupta0900/tv-home](https://github.com/mihirgupta0900/tv-home)
-- **2026-11-12** · *Research Papers* — [A Stage-Wise Explainable Pipeline for...](http://arxiv.org/abs/2611.14013v1)
 
 ## How it works
 

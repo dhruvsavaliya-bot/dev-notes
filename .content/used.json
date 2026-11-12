@@ -177,6 +177,7 @@
     "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
     "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
     "https://arachnoid.com/lutusp/sailbook.html",
+    "https://arc.net/",
     "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
     "https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/",
     "https://archive.org/download/small_web/11787-48384.mp4",
@@ -2317,6 +2318,7 @@
     "https://news.ycombinator.com/item?id=50194909",
     "https://news.ycombinator.com/item?id=50195488",
     "https://news.ycombinator.com/item?id=50197404",
+    "https://news.ycombinator.com/item?id=50197601",
     "https://news.ycombinator.com/item?id=50199290",
     "https://news.ycombinator.com/item?id=50200957",
     "https://news.ycombinator.com/item?id=50200997",
@@ -2796,12 +2798,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "Research Papers",
-      "title": "Personalized Affective Perception via Continual...",
-      "url": "http://arxiv.org/abs/2611.14247v1"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Hacker News Picks",
       "title": "Critical RCE Vulnerability in Apache HTTP Server",
       "url": "https://news.ycombinator.com/item?id=50462177"
@@ -2853,6 +2849,12 @@
       "subcat": "Research Papers",
       "title": "A Matched Evaluation of QUBO Action Models and...",
       "url": "http://arxiv.org/abs/2611.02179v1"
+    },
+    {
+      "date": "2026-11-13",
+      "subcat": "Hacker News Picks",
+      "title": "A farewell to Arc browser",
+      "url": "https://news.ycombinator.com/item?id=50197601"
     }
   ]
 }
