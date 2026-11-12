@@ -3596,6 +3596,16 @@ Que...
 - **Discussion:** https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely
 - **Link:** https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely
 
+**Added 2026-11-12**
+
+### [The entirety of "Let Over Lambda" is now freely available online](https://letoverlambda.com/)
+- **Source:** letoverlambda.com | **Posted:** 2026-11-12 | **By:** nemin
+- **Community:** 32 score, 8 comments on Lobsters
+- **Tags:** book, lisp
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/ooshl8/entirety_let_over_lambda_is_now_freely
+- **Link:** https://letoverlambda.com/
+
 
 ## Career & Craft
 

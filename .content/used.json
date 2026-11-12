@@ -1481,6 +1481,7 @@
     "https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/",
     "https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/",
     "https://lemire.me/blog/2026/10/31/beating-the-compiler-at-signed-32-bit-division/",
+    "https://letoverlambda.com/",
     "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
     "https://liao.gg/blog/agents-dont-need-memory",
     "https://lightbulbcomputer.com/",
@@ -1671,6 +1672,7 @@
     "https://lobste.rs/s/odrfgk/how_speed_up_rust_compiler_september_2026",
     "https://lobste.rs/s/ogp1wf/inline_rendering_with_document",
     "https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live",
+    "https://lobste.rs/s/ooshl8/entirety_let_over_lambda_is_now_freely",
     "https://lobste.rs/s/opqtiv/finding_panics_with_call_graph_analyzer",
     "https://lobste.rs/s/owsnms/sshole_when_are_we_finally_going_get_rid_c",
     "https://lobste.rs/s/paryb7/rails_is_done",
@@ -2779,12 +2781,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "Models & Datasets",
-      "title": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GG...",
-      "url": "https://huggingface.co/0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Research Papers",
       "title": "DSL-Bench: Evaluating and Explaining LLM Code...",
       "url": "http://arxiv.org/abs/2611.05168v1"
@@ -2836,6 +2832,12 @@
       "subcat": "C++",
       "title": "Jank  The native Clojure dialect with seamless C++...",
       "url": "https://news.ycombinator.com/item?id=50202762"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Lobsters Picks",
+      "title": "The entirety of \"Let Over Lambda\" is now freely...",
+      "url": "https://lobste.rs/s/ooshl8/entirety_let_over_lambda_is_now_freely"
     }
   ]
 }
