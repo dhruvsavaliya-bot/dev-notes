@@ -631,6 +631,7 @@
     "https://github.com/FlashML-org/FreeVideo",
     "https://github.com/Flow-Tube/Flow",
     "https://github.com/FrigadeHQ/hob",
+    "https://github.com/FrigadeHQ/yogurt",
     "https://github.com/GLinnik21/plx-native",
     "https://github.com/GMGNAI/gmgn-skills",
     "https://github.com/Gathin23/cleanyourtv",
@@ -2440,6 +2441,7 @@
     "https://news.ycombinator.com/item?id=50446246",
     "https://news.ycombinator.com/item?id=50449748",
     "https://news.ycombinator.com/item?id=50450007",
+    "https://news.ycombinator.com/item?id=50454625",
     "https://news.ycombinator.com/item?id=50462177",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
@@ -2799,12 +2801,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "AI & Machine Learning",
-      "title": "cutetailbud/ff-ruyijs",
-      "url": "https://github.com/cutetailbud/ff-ruyijs"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "C++",
       "title": "C++26 Contracts: Introduction to Preconditions and...",
       "url": "https://news.ycombinator.com/item?id=50103164"
@@ -2856,6 +2852,12 @@
       "subcat": "AI & Machine Learning",
       "title": "shy3130/tick-stock-panel",
       "url": "https://github.com/shy3130/tick-stock-panel"
+    },
+    {
+      "date": "2026-11-13",
+      "subcat": "Swift",
+      "title": "Show HN: Yogurt  Free, private, open-source...",
+      "url": "https://news.ycombinator.com/item?id=50454625"
     }
   ]
 }

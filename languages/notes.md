@@ -2414,6 +2414,15 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Discussion:** https://news.ycombinator.com/item?id=50431971
 - **Link:** http://blog.nozomi.space/posts/sw2_dock/
 
+**Added 2026-11-13**
+
+### [Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt)
+- **Source:** github.com | **Posted:** 2026-11-11 | **By:** brownrout
+- **Community:** 285 points, 110 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50454625
+- **Link:** https://github.com/FrigadeHQ/yogurt
+
 
 ## Rust
 
