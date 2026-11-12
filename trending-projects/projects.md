@@ -3377,6 +3377,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~183 stars/day since launch.
 - **Link:** https://github.com/harikumar35626-hash/wondshare-recoverit
 
+**Added 2026-11-12**
+
+### [nthnclrk/CleanFrame](https://github.com/nthnclrk/CleanFrame)
+- **Stats:** 1,061 stars | 269 forks | 15 open issues
+- **Language:** JavaScript | **Created:** 2026-10-20 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** A personal home screen for Samsung The Frame. A starting point to fork and adapt.
+- **Growth:** averaging ~46 stars/day since launch.
+- **Link:** https://github.com/nthnclrk/CleanFrame
+
 
 ## Web & Frontend
 

@@ -994,6 +994,7 @@
     "https://github.com/noctalia-dev/noctalia-greeter",
     "https://github.com/nodes-app/swift-markdown-engine",
     "https://github.com/noonghunna/club-3090",
+    "https://github.com/nthnclrk/CleanFrame",
     "https://github.com/nullmoth/nvidia-macos-driver",
     "https://github.com/nv-tlabs/PiD",
     "https://github.com/nyblnet/bento",
@@ -2762,12 +2763,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "Lobsters Picks",
-      "title": "How Notion handles concurrent editing with CRDTs",
-      "url": "https://lobste.rs/s/ppfyza/how_notion_handles_concurrent_editing"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Backend & Infrastructure",
       "title": "fossaryhq/catalog",
       "url": "https://github.com/fossaryhq/catalog"
@@ -2819,6 +2814,12 @@
       "subcat": "Models & Datasets",
       "title": "DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Inst...",
       "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Other Cool Projects",
+      "title": "nthnclrk/CleanFrame",
+      "url": "https://github.com/nthnclrk/CleanFrame"
     }
   ]
 }

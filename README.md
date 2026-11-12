@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1955 entries and counting** · Last updated: 2026-11-12
+**1956 entries and counting** · Last updated: 2026-11-12
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 397 |
+| [Trending Projects](trending-projects/projects.md) | 398 |
 | [AI / LLM Notes](ai/notes.md) | 392 |
 | [Reading List](articles/reading-list.md) | 396 |
 | [Coding Tips](coding-tips/tips.md) | 391 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-12** · *Other Cool Projects* — [nthnclrk/CleanFrame](https://github.com/nthnclrk/CleanFrame)
 - **2026-11-12** · *Models & Datasets* — [DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Inst...](https://huggingface.co/DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF)
 - **2026-11-12** · *Other Cool Projects* — [harikumar35626-hash/wondshare-recoverit](https://github.com/harikumar35626-hash/wondshare-recoverit)
 - **2026-11-12** · *Lobsters Picks* — [Inside GitHub's new Git storage architecture](https://lobste.rs/s/y3hvme/inside_github_s_new_git_storage)
 - **2026-11-12** · *Models & Datasets* — [thinkingmachines/Inkling-Small](https://huggingface.co/thinkingmachines/Inkling-Small)
-- **2026-11-12** · *AI & Machine Learning* — [shanselman/gputaskman](https://github.com/shanselman/gputaskman)
 
 ## How it works
 
