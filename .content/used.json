@@ -1444,6 +1444,7 @@
     "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback",
     "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
     "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855858",
+    "https://jank-lang.org/",
     "https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/",
     "https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/",
     "https://jelly-ui.com/",
@@ -2307,6 +2308,7 @@
     "https://news.ycombinator.com/item?id=50199290",
     "https://news.ycombinator.com/item?id=50200957",
     "https://news.ycombinator.com/item?id=50200997",
+    "https://news.ycombinator.com/item?id=50202762",
     "https://news.ycombinator.com/item?id=50204125",
     "https://news.ycombinator.com/item?id=50207910",
     "https://news.ycombinator.com/item?id=50211474",
@@ -2777,12 +2779,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "Other Cool Projects",
-      "title": "RafliAbdulHaliim/sylenth-1-enhancement-suite",
-      "url": "https://github.com/RafliAbdulHaliim/sylenth-1-enhancement-suite"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Models & Datasets",
       "title": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GG...",
       "url": "https://huggingface.co/0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF"
@@ -2834,6 +2830,12 @@
       "subcat": "Lobsters Picks",
       "title": "For the first time, a C++ standard failed to pass the...",
       "url": "https://lobste.rs/s/lrpb0m/for_first_time_c_standard_failed_pass"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "C++",
+      "title": "Jank  The native Clojure dialect with seamless C++...",
+      "url": "https://news.ycombinator.com/item?id=50202762"
     }
   ]
 }

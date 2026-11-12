@@ -3177,6 +3177,15 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Growth:** averaging ~4 stars/day since launch.
 - **Link:** https://github.com/BenMakesEverything/Pocket-Lab-Power-Supply
 
+**Added 2026-11-12**
+
+### [Jank – The native Clojure dialect with seamless C++ interop](https://jank-lang.org/)
+- **Source:** jank-lang.org | **Posted:** 2026-10-22 | **By:** giancarlostoro
+- **Community:** 196 points, 50 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50202762
+- **Link:** https://jank-lang.org/
+
 
 ## SQL & Databases
 
