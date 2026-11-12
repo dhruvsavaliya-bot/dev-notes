@@ -3655,3 +3655,12 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **What it is:** No description provided.
 - **Growth:** averaging ~6 stars/day since launch.
 - **Link:** https://github.com/exteraless/exteraless
+
+**Added 2026-11-12**
+
+### [As the Japanese countryside empties out, wildlife is disappearing](https://e360.yale.edu/digest/japan-depopulation-biodiversity)
+- **Source:** e360.yale.edu | **Posted:** 2026-11-06 | **By:** rdmuser
+- **Community:** 92 points, 55 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50397264
+- **Link:** https://e360.yale.edu/digest/japan-depopulation-biodiversity
