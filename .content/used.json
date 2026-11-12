@@ -984,6 +984,7 @@
     "https://github.com/microsoft/intelligent-terminal",
     "https://github.com/microsoft/skill-recorder",
     "https://github.com/midesoft/rankGap",
+    "https://github.com/mihirgupta0900/tv-home",
     "https://github.com/mikroverk/esp32sim",
     "https://github.com/mizorewww/laya-mlx",
     "https://github.com/mizorewww/x_gift_bot",
@@ -2790,12 +2791,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "Research Papers",
-      "title": "Do Coding Agents Follow AGENTS.md? The Effect of...",
-      "url": "http://arxiv.org/abs/2611.04367v1"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Lobsters Picks",
       "title": "For the first time, a C++ standard failed to pass the...",
       "url": "https://lobste.rs/s/lrpb0m/for_first_time_c_standard_failed_pass"
@@ -2847,6 +2842,12 @@
       "subcat": "Research Papers",
       "title": "A Stage-Wise Explainable Pipeline for...",
       "url": "http://arxiv.org/abs/2611.14013v1"
+    },
+    {
+      "date": "2026-11-13",
+      "subcat": "Java",
+      "title": "mihirgupta0900/tv-home",
+      "url": "https://github.com/mihirgupta0900/tv-home"
     }
   ]
 }

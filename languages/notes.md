@@ -3701,3 +3701,13 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=50065805
 - **Link:** https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/
+
+**Added 2026-11-13**
+
+### [mihirgupta0900/tv-home](https://github.com/mihirgupta0900/tv-home)
+- **Stats:** 776 stars | 126 forks | 24 open issues
+- **Language:** Java | **Created:** 2026-10-18 | **License:** NOASSERTION
+- **Topics:** adb, android-tv, claude-code, debloat, google-tv, launcher
+- **What it is:** Debloat a slow, ad-filled Android TV over Wi-Fi and give it a fast Apple TV-style home screen. One prompt for Claude Code, or do it by hand.
+- **Growth:** averaging ~29 stars/day since launch.
+- **Link:** https://github.com/mihirgupta0900/tv-home
