@@ -2571,6 +2571,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/agentionai/Qwen3.8-Flash-Next-Gyro-abliterated-Huihui-GGUF
 
+**Added 2026-11-12**
+
+### [0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF](https://huggingface.co/0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF)
+- **Stats:** 873 likes | 1,132,315 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-08-14
+- **Tags:** transformers, safetensors, gguf, qwen3.8, qwen3.5, heretic
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF
+
 
 ## Research Papers
 

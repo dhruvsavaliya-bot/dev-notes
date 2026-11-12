@@ -1208,6 +1208,7 @@
     "https://honk.foo/porffor-alpha/",
     "https://htmx.org/essays/yes-and/",
     "https://hue.tools",
+    "https://huggingface.co/0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
     "https://huggingface.co/Alibaba-NLP/gte-large-en-v1.5",
     "https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap",
     "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
@@ -2765,12 +2766,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "Models & Datasets",
-      "title": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
-      "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Wonderhop  A daily game: guess what most...",
       "url": "https://news.ycombinator.com/item?id=50080246"
@@ -2822,6 +2817,12 @@
       "subcat": "Other Cool Projects",
       "title": "RafliAbdulHaliim/sylenth-1-enhancement-suite",
       "url": "https://github.com/RafliAbdulHaliim/sylenth-1-enhancement-suite"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Models & Datasets",
+      "title": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GG...",
+      "url": "https://huggingface.co/0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF"
     }
   ]
 }
