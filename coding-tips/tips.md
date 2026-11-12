@@ -3606,6 +3606,16 @@ Que...
 - **Discussion:** https://lobste.rs/s/ooshl8/entirety_let_over_lambda_is_now_freely
 - **Link:** https://letoverlambda.com/
 
+**Added 2026-11-12**
+
+### [Hijacking Samsung TV Smart Hub Ads](https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/)
+- **Source:** dvratil.cz | **Posted:** 2026-11-12 | **By:** FedericoSchonborn
+- **Community:** 30 score, 2 comments on Lobsters
+- **Tags:** networking, reversing
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/2drgwh/hijacking_samsung_tv_smart_hub_ads
+- **Link:** https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/
+
 
 ## Career & Craft
 
