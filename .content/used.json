@@ -564,6 +564,7 @@
     "https://gist.github.com/FlameyosSnowy/a49a35ba006238be55d8c3e410c31061",
     "https://gist.github.com/simi/349d881d16d3d86947945615a47c60ca",
     "https://git.btxx.org/grubby",
+    "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
     "https://github.com/0din-ai/ai-scanner",
     "https://github.com/0xShug0/audio.cpp",
     "https://github.com/0xnyn/airship",
@@ -1731,6 +1732,7 @@
     "https://lobste.rs/s/xudbqx/no_npm_estee_is_not_typo_testem",
     "https://lobste.rs/s/xv6z4r/python_iceberg",
     "https://lobste.rs/s/xxdda9/what_are_you_doing_this_week",
+    "https://lobste.rs/s/y3hvme/inside_github_s_new_git_storage",
     "https://lobste.rs/s/yba0yg/introducing_adaptive_dark_mode",
     "https://lobste.rs/s/yczems/emacs_finally_folds_my_liking",
     "https://lobste.rs/s/yes2hc/ideas_for_social_networks",
@@ -2758,12 +2760,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "Lobsters Picks",
-      "title": "A vision for a next-generation timeline",
-      "url": "https://lobste.rs/s/jdczl6/vision_for_next_generation_timeline"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "AI & Machine Learning",
       "title": "rorkai/app-store-connect-cli-skills",
       "url": "https://github.com/rorkai/app-store-connect-cli-skills"
@@ -2815,6 +2811,12 @@
       "subcat": "Models & Datasets",
       "title": "thinkingmachines/Inkling-Small",
       "url": "https://huggingface.co/thinkingmachines/Inkling-Small"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Lobsters Picks",
+      "title": "Inside GitHub's new Git storage architecture",
+      "url": "https://lobste.rs/s/y3hvme/inside_github_s_new_git_storage"
     }
   ]
 }

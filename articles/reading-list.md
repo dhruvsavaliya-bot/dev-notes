@@ -3647,6 +3647,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/ppfyza/how_notion_handles_concurrent_editing
 - **Link:** https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts
 
+**Added 2026-11-12**
+
+### [Inside GitHub's new Git storage architecture](https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/)
+- **Source:** github.blog | **Posted:** 2026-11-06 | **By:** ndr
+- **Community:** 30 score, 7 comments on Lobsters
+- **Tags:** distributed, vcs
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/y3hvme/inside_github_s_new_git_storage
+- **Link:** https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/
+
 
 ## Performance
 
