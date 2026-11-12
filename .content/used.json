@@ -619,6 +619,7 @@
     "https://github.com/FalkorDB/FalkorDB",
     "https://github.com/FareedKhan-dev/kimi-k3-in-c",
     "https://github.com/Fei-Away/Codex-Dream-Skin",
+    "https://github.com/Fei2411/DS-Bot",
     "https://github.com/Fervent-Tempo/AF-Media-Bar",
     "https://github.com/FlashML-org/FreeVideo",
     "https://github.com/Flow-Tube/Flow",
@@ -2773,12 +2774,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "Models & Datasets",
-      "title": "DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Inst...",
-      "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Other Cool Projects",
       "title": "nthnclrk/CleanFrame",
       "url": "https://github.com/nthnclrk/CleanFrame"
@@ -2830,6 +2825,12 @@
       "subcat": "Lobsters Picks",
       "title": "30 years of Internet transfers with curl",
       "url": "https://lobste.rs/s/x4kaac/30_years_internet_transfers_with_curl"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "AI & Machine Learning",
+      "title": "Fei2411/DS-Bot",
+      "url": "https://github.com/Fei2411/DS-Bot"
     }
   ]
 }
