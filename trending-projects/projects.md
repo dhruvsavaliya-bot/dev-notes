@@ -23,3 +23,13 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** This is a lightweight, headless browser purpose-built for AI agents (such as Codex or Claude Code) to perform browser automation tasks; it is designed to navigate through various web protection systems, login processes, and reverse-engineering scenarios
 - **Growth:** averaging ~81 stars/day since launch.
 - **Link:** https://github.com/cutetailbud/ff-ruyijs
+
+**Added 2026-11-13**
+
+### [shy3130/tick-stock-panel](https://github.com/shy3130/tick-stock-panel)
+- **Stats:** 7,656 stars | 1,871 forks | 63 open issues
+- **Language:** Python | **Created:** 2026-06-18 | **License:** MIT
+- **Topics:** a-stock, ai-agent, aigc, aigc-detection, backtesting, daily
+- **What it is:** TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源
+- **Growth:** averaging ~51 stars/day since launch.
+- **Link:** https://github.com/shy3130/tick-stock-panel

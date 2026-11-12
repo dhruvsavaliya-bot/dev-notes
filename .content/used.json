@@ -1087,6 +1087,7 @@
     "https://github.com/sheprd-labs/sheprd",
     "https://github.com/shihabal3amri/DiPlay",
     "https://github.com/shilapi/xcertplay",
+    "https://github.com/shy3130/tick-stock-panel",
     "https://github.com/siglake/siglake",
     "https://github.com/simonlin1212/a-stock-data",
     "https://github.com/sivchari/kumo",
@@ -2798,12 +2799,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "Hacker News Picks",
-      "title": "Critical RCE Vulnerability in Apache HTTP Server",
-      "url": "https://news.ycombinator.com/item?id=50462177"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "AI & Machine Learning",
       "title": "cutetailbud/ff-ruyijs",
       "url": "https://github.com/cutetailbud/ff-ruyijs"
@@ -2855,6 +2850,12 @@
       "subcat": "Hacker News Picks",
       "title": "A farewell to Arc browser",
       "url": "https://news.ycombinator.com/item?id=50197601"
+    },
+    {
+      "date": "2026-11-13",
+      "subcat": "AI & Machine Learning",
+      "title": "shy3130/tick-stock-panel",
+      "url": "https://github.com/shy3130/tick-stock-panel"
     }
   ]
 }
