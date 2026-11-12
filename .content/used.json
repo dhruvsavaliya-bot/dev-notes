@@ -1424,6 +1424,7 @@
     "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback",
     "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
     "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855858",
+    "https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/",
     "https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/",
     "https://jelly-ui.com/",
     "https://jellyfin.org/posts/jellyfin-release-12.0/",
@@ -2207,6 +2208,7 @@
     "https://news.ycombinator.com/item?id=50063831",
     "https://news.ycombinator.com/item?id=50064470",
     "https://news.ycombinator.com/item?id=50064840",
+    "https://news.ycombinator.com/item?id=50065805",
     "https://news.ycombinator.com/item?id=50067325",
     "https://news.ycombinator.com/item?id=50069337",
     "https://news.ycombinator.com/item?id=50070625",
@@ -2747,12 +2749,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "Research Papers",
-      "title": "CodeQuant2: Enhanced Outlier Mitigation and Adaptive...",
-      "url": "http://arxiv.org/abs/2611.09868v1"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Lobsters Picks",
       "title": "Using voltage glitching to unleash the A100 in my...",
       "url": "https://lobste.rs/s/zy4p7f/using_voltage_glitching_unleash_a100_my"
@@ -2804,6 +2800,12 @@
       "subcat": "AI & Machine Learning",
       "title": "rorkai/app-store-connect-cli-skills",
       "url": "https://github.com/rorkai/app-store-connect-cli-skills"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Java",
+      "title": "China Overtakes U.S. For First Time as Top Spender on...",
+      "url": "https://news.ycombinator.com/item?id=50065805"
     }
   ]
 }

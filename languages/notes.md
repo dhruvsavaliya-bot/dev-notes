@@ -3664,3 +3664,12 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=50397264
 - **Link:** https://e360.yale.edu/digest/japan-depopulation-biodiversity
+
+**Added 2026-11-12**
+
+### [China Overtakes U.S. For First Time as Top Spender on R&D in 2024](https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/)
+- **Source:** japannews.yomiuri.co.jp | **Posted:** 2026-10-13 | **By:** mushstory
+- **Community:** 163 points, 163 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50065805
+- **Link:** https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/
