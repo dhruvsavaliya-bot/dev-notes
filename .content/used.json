@@ -1217,6 +1217,7 @@
     "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
     "https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
     "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+    "https://huggingface.co/DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF",
     "https://huggingface.co/DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF",
     "https://huggingface.co/FermionResearch/Phonon-2",
     "https://huggingface.co/FrancisRing/Prism",
@@ -2761,12 +2762,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "Java",
-      "title": "China Overtakes U.S. For First Time as Top Spender on...",
-      "url": "https://news.ycombinator.com/item?id=50065805"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Lobsters Picks",
       "title": "How Notion handles concurrent editing with CRDTs",
       "url": "https://lobste.rs/s/ppfyza/how_notion_handles_concurrent_editing"
@@ -2818,6 +2813,12 @@
       "subcat": "Other Cool Projects",
       "title": "harikumar35626-hash/wondshare-recoverit",
       "url": "https://github.com/harikumar35626-hash/wondshare-recoverit"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Models & Datasets",
+      "title": "DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Inst...",
+      "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF"
     }
   ]
 }

@@ -2553,6 +2553,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/thinkingmachines/Inkling-Small
 
+**Added 2026-11-12**
+
+### [DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF)
+- **Stats:** 302 likes | 1,058,105 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-09-29
+- **Tags:** gguf, 27 reasoning modes, 27 instruct modes, 15 AI Constructs, 5 Super AI Constructs, Brainstorm AI Construct
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF
+
 
 ## Research Papers
 
