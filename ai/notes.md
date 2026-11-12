@@ -3653,6 +3653,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.09506v1
 
+**Added 2026-11-12**
+
+### [DSL-Bench: Evaluating and Explaining LLM Code Generation Across Domain-Specific Languages](http://arxiv.org/abs/2611.05168v1)
+- **Authors:** Zihan Zhou, Mingxi Ye, Yan Gao, Guipeng Wei et al.
+- **Published:** 2026-11-03 | **Primary category:** cs.SE
+- **Categories:** cs.SE
+- **Abstract:** Large language models (LLMs) are increasingly used in software-engineering workflows, but code-generation benchmarks largely focus on general-purpose languages. Domain-specific languages (DSLs) have distinct syntax, semantics, and validation requirements, making results from individual DSL benchmarks difficult to compare. We present DSL-Bench, an executable benchmark and analysis framework for cross-DSL code generation. Starting from 13,045 DSL-related papers, LLM-assisted open card sorting iden...
+- **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.05168v1
+
 
 ## Computer Vision
 

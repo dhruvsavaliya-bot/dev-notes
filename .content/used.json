@@ -105,6 +105,7 @@
     "http://arxiv.org/abs/2611.04320v1",
     "http://arxiv.org/abs/2611.04497v1",
     "http://arxiv.org/abs/2611.04501v2",
+    "http://arxiv.org/abs/2611.05168v1",
     "http://arxiv.org/abs/2611.05731v1",
     "http://arxiv.org/abs/2611.06711v1",
     "http://arxiv.org/abs/2611.07367v1",
@@ -2766,12 +2767,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Wonderhop  A daily game: guess what most...",
-      "url": "https://news.ycombinator.com/item?id=50080246"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "AI & Machine Learning",
       "title": "shanselman/gputaskman",
       "url": "https://github.com/shanselman/gputaskman"
@@ -2823,6 +2818,12 @@
       "subcat": "Models & Datasets",
       "title": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GG...",
       "url": "https://huggingface.co/0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Research Papers",
+      "title": "DSL-Bench: Evaluating and Explaining LLM Code...",
+      "url": "http://arxiv.org/abs/2611.05168v1"
     }
   ]
 }
