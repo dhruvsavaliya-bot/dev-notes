@@ -2535,6 +2535,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4
 
+**Added 2026-11-12**
+
+### [ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF)
+- **Stats:** 1,221 likes | 7,004,089 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-09-07
+- **Tags:** gguf, gsq, rco, quantization, mixed-precision, ist-daslab
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF
+
 
 ## Research Papers
 
