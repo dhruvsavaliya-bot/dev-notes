@@ -3367,6 +3367,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~53 stars/day since launch.
 - **Link:** https://github.com/Leviidev/Husk
 
+**Added 2026-11-12**
+
+### [harikumar35626-hash/wondshare-recoverit](https://github.com/harikumar35626-hash/wondshare-recoverit)
+- **Stats:** 1,098 stars | 0 forks | 0 open issues
+- **Language:** HTML | **Created:** 2026-11-06 | **License:** MIT
+- **Topics:** android-data-recovery-software-fonelab, automation, data-recovery, data-recovery-software, data-recovery-tool, developer-tools
+- **What it is:** Wondershare Recoverit Desktop Installer with Complete Data Recovery Capabilities
+- **Growth:** averaging ~183 stars/day since launch.
+- **Link:** https://github.com/harikumar35626-hash/wondshare-recoverit
+
 
 ## Web & Frontend
 

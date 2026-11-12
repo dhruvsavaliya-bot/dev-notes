@@ -893,6 +893,7 @@
     "https://github.com/google-research/tabfm",
     "https://github.com/guillaumemeyer/watermarks-remover",
     "https://github.com/gvzdv/claudish-to-english",
+    "https://github.com/harikumar35626-hash/wondshare-recoverit",
     "https://github.com/harris21/laravel-fuse",
     "https://github.com/hedgerow-dev/coldframe",
     "https://github.com/herdrdev/herdr",
@@ -2760,12 +2761,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "AI & Machine Learning",
-      "title": "rorkai/app-store-connect-cli-skills",
-      "url": "https://github.com/rorkai/app-store-connect-cli-skills"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Java",
       "title": "China Overtakes U.S. For First Time as Top Spender on...",
       "url": "https://news.ycombinator.com/item?id=50065805"
@@ -2817,6 +2812,12 @@
       "subcat": "Lobsters Picks",
       "title": "Inside GitHub's new Git storage architecture",
       "url": "https://lobste.rs/s/y3hvme/inside_github_s_new_git_storage"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Other Cool Projects",
+      "title": "harikumar35626-hash/wondshare-recoverit",
+      "url": "https://github.com/harikumar35626-hash/wondshare-recoverit"
     }
   ]
 }
