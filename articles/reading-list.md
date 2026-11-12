@@ -3667,6 +3667,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/v3uidx/lock_your_github_actions
 - **Link:** https://hugovk.dev/blog/2026/lock-github-actions/
 
+**Added 2026-11-12**
+
+### [30 years of Internet transfers with curl](https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/)
+- **Source:** daniel.haxx.se | **Posted:** 2026-11-10 | **By:** hugoarnal
+- **Community:** 36 score, 5 comments on Lobsters
+- **Tags:** historical
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/x4kaac/30_years_internet_transfers_with_curl
+- **Link:** https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/
+
 
 ## Performance
 

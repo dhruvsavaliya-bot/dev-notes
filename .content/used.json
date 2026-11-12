@@ -284,6 +284,7 @@
     "https://css-tricks.com/css-tricks-has-a-new-owner/",
     "https://cursor.com/blog/agent-swarm-model-economics",
     "https://cyberplace.social/@GossiTheDog/117528831681803563",
+    "https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/",
     "https://danluu.com/ambitious/",
     "https://datacolada.org/138",
     "https://datagubbe.se/crt/",
@@ -1737,6 +1738,7 @@
     "https://lobste.rs/s/wtthju/a5_v1_0",
     "https://lobste.rs/s/wuiaba/deterministic_concurrency",
     "https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites",
+    "https://lobste.rs/s/x4kaac/30_years_internet_transfers_with_curl",
     "https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel",
     "https://lobste.rs/s/xpyahx/grubby_static_site_generator_for_git",
     "https://lobste.rs/s/xsz9sc/docker_is_weird",
@@ -2771,12 +2773,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "Other Cool Projects",
-      "title": "harikumar35626-hash/wondshare-recoverit",
-      "url": "https://github.com/harikumar35626-hash/wondshare-recoverit"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Models & Datasets",
       "title": "DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Inst...",
       "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF"
@@ -2828,6 +2824,12 @@
       "subcat": "Research Papers",
       "title": "LLM-based NPCs in Video Games: A Systematic Mapping...",
       "url": "http://arxiv.org/abs/2611.05427v1"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Lobsters Picks",
+      "title": "30 years of Internet transfers with curl",
+      "url": "https://lobste.rs/s/x4kaac/30_years_internet_transfers_with_curl"
     }
   ]
 }
