@@ -106,6 +106,7 @@
     "http://arxiv.org/abs/2611.04497v1",
     "http://arxiv.org/abs/2611.04501v2",
     "http://arxiv.org/abs/2611.05168v1",
+    "http://arxiv.org/abs/2611.05427v1",
     "http://arxiv.org/abs/2611.05731v1",
     "http://arxiv.org/abs/2611.06711v1",
     "http://arxiv.org/abs/2611.07367v1",
@@ -2770,12 +2771,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "Lobsters Picks",
-      "title": "Inside GitHub's new Git storage architecture",
-      "url": "https://lobste.rs/s/y3hvme/inside_github_s_new_git_storage"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Other Cool Projects",
       "title": "harikumar35626-hash/wondshare-recoverit",
       "url": "https://github.com/harikumar35626-hash/wondshare-recoverit"
@@ -2827,6 +2822,12 @@
       "subcat": "AI & Machine Learning",
       "title": "janestreet/agent_skills",
       "url": "https://github.com/janestreet/agent_skills"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Research Papers",
+      "title": "LLM-based NPCs in Video Games: A Systematic Mapping...",
+      "url": "http://arxiv.org/abs/2611.05427v1"
     }
   ]
 }
