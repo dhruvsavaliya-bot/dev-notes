@@ -1043,6 +1043,7 @@
     "https://github.com/rjsf-team/react-jsonschema-form",
     "https://github.com/rlaope/oh-my-hermes",
     "https://github.com/robbietilton/Compositor",
+    "https://github.com/rorkai/app-store-connect-cli-skills",
     "https://github.com/rorygallagher2024/glasshouse",
     "https://github.com/royalbhati/sqltoerdiagram",
     "https://github.com/rpamis/comet",
@@ -2745,12 +2746,6 @@
   ],
   "recent": [
     {
-      "date": "2026-11-11",
-      "subcat": "Hacker News Picks",
-      "title": "Peer-to-peer WebRTC connections with built-in...",
-      "url": "https://news.ycombinator.com/item?id=50416640"
-    },
-    {
       "date": "2026-11-12",
       "subcat": "Research Papers",
       "title": "CodeQuant2: Enhanced Outlier Mitigation and Adaptive...",
@@ -2803,6 +2798,12 @@
       "subcat": "Lobsters Picks",
       "title": "A vision for a next-generation timeline",
       "url": "https://lobste.rs/s/jdczl6/vision_for_next_generation_timeline"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "AI & Machine Learning",
+      "title": "rorkai/app-store-connect-cli-skills",
+      "url": "https://github.com/rorkai/app-store-connect-cli-skills"
     }
   ]
 }

@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1943 entries and counting** · Last updated: 2026-11-12
+**1944 entries and counting** · Last updated: 2026-11-12
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 393 |
+| [Trending Projects](trending-projects/projects.md) | 394 |
 | [AI / LLM Notes](ai/notes.md) | 389 |
 | [Reading List](articles/reading-list.md) | 394 |
 | [Coding Tips](coding-tips/tips.md) | 390 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-12** · *AI & Machine Learning* — [rorkai/app-store-connect-cli-skills](https://github.com/rorkai/app-store-connect-cli-skills)
 - **2026-11-12** · *Lobsters Picks* — [A vision for a next-generation timeline](https://lobste.rs/s/jdczl6/vision_for_next_generation_timeline)
 - **2026-11-12** · *Java* — [As the Japanese countryside empties out, wildlife is...](https://news.ycombinator.com/item?id=50397264)
 - **2026-11-12** · *Research Papers* — [On the Effectiveness and Limitations of Open-Weight...](http://arxiv.org/abs/2611.09506v1)
 - **2026-11-12** · *Other Cool Projects* — [Leviidev/Husk](https://github.com/Leviidev/Husk)
-- **2026-11-12** · *Lobsters Picks* — [Announcing .NET 11](https://lobste.rs/s/zingk1/announcing_net_11)
 
 ## How it works
 

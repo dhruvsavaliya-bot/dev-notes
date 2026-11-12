@@ -1834,6 +1834,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~511 stars/day since launch.
 - **Link:** https://github.com/stablyai/orca
 
+**Added 2026-11-12**
+
+### [rorkai/app-store-connect-cli-skills](https://github.com/rorkai/app-store-connect-cli-skills)
+- **Stats:** 1,132 stars | 68 forks | 0 open issues
+- **Language:** Python | **Created:** 2026-01-27 | **License:** MIT
+- **Topics:** agent-skills, ai-skills, app-store-connect, apple, asc, automation
+- **What it is:** Skills to automate app store deployed and everything related to it using the asc cli
+- **Growth:** averaging ~3 stars/day since launch.
+- **Link:** https://github.com/rorkai/app-store-connect-cli-skills
+
 
 ## Other Cool Projects
 
