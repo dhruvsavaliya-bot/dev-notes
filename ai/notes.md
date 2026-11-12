@@ -3703,6 +3703,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.14013v1
 
+**Added 2026-11-13**
+
+### [A Matched Evaluation of QUBO Action Models and Defensive Remediation in Cyber Attack Graphs](http://arxiv.org/abs/2611.02179v1)
+- **Authors:** Kasymkhan Khubiev, Yaroslav Kholodov, Alexey S. Petrenko
+- **Published:** 2026-11-01 | **Primary category:** cs.CR
+- **Categories:** cs.CR
+- **Abstract:** This study examines how vulnerability-specific actions affect quadratic unconstrained binary optimization (QUBO) models for minimum-cost cyber attack paths and defensive remediation. Edge-flow and variable-length hop formulations are evaluated using simulated annealing, steepest descent, and tabu search against exact classical references. Experiments on six independent synthetic topologies separate the effects of transition eligibility, vulnerability labels, exploit costs, and multiple exploit a...
+- **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.02179v1
+
 
 ## Computer Vision
 

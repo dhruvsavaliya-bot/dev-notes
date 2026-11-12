@@ -100,6 +100,7 @@
     "http://arxiv.org/abs/2610.40444v1",
     "http://arxiv.org/abs/2611.01953v1",
     "http://arxiv.org/abs/2611.02123v1",
+    "http://arxiv.org/abs/2611.02179v1",
     "http://arxiv.org/abs/2611.02248v1",
     "http://arxiv.org/abs/2611.02936v1",
     "http://arxiv.org/abs/2611.04320v1",
@@ -2795,12 +2796,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "Lobsters Picks",
-      "title": "The entirety of \"Let Over Lambda\" is now freely...",
-      "url": "https://lobste.rs/s/ooshl8/entirety_let_over_lambda_is_now_freely"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Research Papers",
       "title": "Personalized Affective Perception via Continual...",
       "url": "http://arxiv.org/abs/2611.14247v1"
@@ -2852,6 +2847,12 @@
       "subcat": "Lobsters Picks",
       "title": "Adapting CPython for yk",
       "url": "https://lobste.rs/s/gejy85/adapting_cpython_for_yk"
+    },
+    {
+      "date": "2026-11-13",
+      "subcat": "Research Papers",
+      "title": "A Matched Evaluation of QUBO Action Models and...",
+      "url": "http://arxiv.org/abs/2611.02179v1"
     }
   ]
 }
