@@ -1063,6 +1063,7 @@
     "https://github.com/seamusc/papermono-shopping-list",
     "https://github.com/seedds/nxnative",
     "https://github.com/shadcn-ui/lint",
+    "https://github.com/shanselman/gputaskman",
     "https://github.com/shaobeichen/dsh-pocket",
     "https://github.com/shellhub-io/shellhub",
     "https://github.com/sheprd-labs/sheprd",
@@ -2756,12 +2757,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "Research Papers",
-      "title": "On the Effectiveness and Limitations of Open-Weight...",
-      "url": "http://arxiv.org/abs/2611.09506v1"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Java",
       "title": "As the Japanese countryside empties out, wildlife is...",
       "url": "https://news.ycombinator.com/item?id=50397264"
@@ -2813,6 +2808,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Wonderhop  A daily game: guess what most...",
       "url": "https://news.ycombinator.com/item?id=50080246"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "AI & Machine Learning",
+      "title": "shanselman/gputaskman",
+      "url": "https://github.com/shanselman/gputaskman"
     }
   ]
 }

@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1950 entries and counting** · Last updated: 2026-11-12
+**1951 entries and counting** · Last updated: 2026-11-12
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 395 |
+| [Trending Projects](trending-projects/projects.md) | 396 |
 | [AI / LLM Notes](ai/notes.md) | 390 |
 | [Reading List](articles/reading-list.md) | 395 |
 | [Coding Tips](coding-tips/tips.md) | 391 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-12** · *AI & Machine Learning* — [shanselman/gputaskman](https://github.com/shanselman/gputaskman)
 - **2026-11-12** · *Show & Ask HN* — [Show HN: Wonderhop  A daily game: guess what most...](https://news.ycombinator.com/item?id=50080246)
 - **2026-11-12** · *Models & Datasets* — [ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF)
 - **2026-11-12** · *TypeScript* — [pablostanley/yoinks](https://github.com/pablostanley/yoinks)
 - **2026-11-12** · *Backend & Infrastructure* — [fossaryhq/catalog](https://github.com/fossaryhq/catalog)
-- **2026-11-12** · *Lobsters Picks* — [How Notion handles concurrent editing with CRDTs](https://lobste.rs/s/ppfyza/how_notion_handles_concurrent_editing)
 
 ## How it works
 

@@ -1844,6 +1844,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~3 stars/day since launch.
 - **Link:** https://github.com/rorkai/app-store-connect-cli-skills
 
+**Added 2026-11-12**
+
+### [shanselman/gputaskman](https://github.com/shanselman/gputaskman)
+- **Stats:** 2,078 stars | 101 forks | 5 open issues
+- **Language:** Python | **Created:** 2026-11-03 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).
+- **Growth:** averaging ~230 stars/day since launch.
+- **Link:** https://github.com/shanselman/gputaskman
+
 
 ## Other Cool Projects
 
