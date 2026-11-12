@@ -103,6 +103,7 @@
     "http://arxiv.org/abs/2611.02248v1",
     "http://arxiv.org/abs/2611.02936v1",
     "http://arxiv.org/abs/2611.04320v1",
+    "http://arxiv.org/abs/2611.04367v1",
     "http://arxiv.org/abs/2611.04497v1",
     "http://arxiv.org/abs/2611.04501v2",
     "http://arxiv.org/abs/2611.05168v1",
@@ -2774,12 +2775,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "Other Cool Projects",
-      "title": "nthnclrk/CleanFrame",
-      "url": "https://github.com/nthnclrk/CleanFrame"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Models & Datasets",
       "title": "agentionai/Qwen3.8-Flash-Next-Gyro-abliterated-Huihui-G...",
       "url": "https://huggingface.co/agentionai/Qwen3.8-Flash-Next-Gyro-abliterated-Huihui-GGUF"
@@ -2831,6 +2826,12 @@
       "subcat": "AI & Machine Learning",
       "title": "Fei2411/DS-Bot",
       "url": "https://github.com/Fei2411/DS-Bot"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Research Papers",
+      "title": "Do Coding Agents Follow AGENTS.md? The Effect of...",
+      "url": "http://arxiv.org/abs/2611.04367v1"
     }
   ]
 }

@@ -3673,6 +3673,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.05427v1
 
+**Added 2026-11-12**
+
+### [Do Coding Agents Follow AGENTS.md? The Effect of Policy Wording on Instruction Compliance](http://arxiv.org/abs/2611.04367v1)
+- **Authors:** Rikuto Tsuchida, Youmei Fan, Kazumasa Shimari, Raula Gaikovina Kula et al.
+- **Published:** 2026-11-03 | **Primary category:** cs.SE
+- **Categories:** cs.SE
+- **Abstract:** Coding agents do not always follow the policies in an Agent Context File (ACF). We inserted one policy, in four styles, into the ACFs of 86 benchmark tasks across four harness-model combinations. Conditional phrasing was followed less often than Prescriptive and Explanatory. The better of those two varied by combination.
+- **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.04367v1
+
 
 ## Computer Vision
 
