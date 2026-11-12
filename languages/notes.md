@@ -771,6 +771,16 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50381687
 - **Link:** https://github.com/rivet-dev/rivet
 
+**Added 2026-11-12**
+
+### [pablostanley/yoinks](https://github.com/pablostanley/yoinks)
+- **Stats:** 7,117 stars | 585 forks | 41 open issues
+- **Language:** TypeScript | **Created:** 2026-07-16 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** yoink any video from your terminal. no shady ads.
+- **Growth:** averaging ~59 stars/day since launch.
+- **Link:** https://github.com/pablostanley/yoinks
+
 
 ## Python
 

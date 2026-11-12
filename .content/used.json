@@ -1016,6 +1016,7 @@
     "https://github.com/oso95/scroll-world",
     "https://github.com/outsourc-e/hermes-workspace",
     "https://github.com/p1neappleXpress/OpenFlux",
+    "https://github.com/pablostanley/yoinks",
     "https://github.com/palemoky/chinese-poetry-api",
     "https://github.com/palkan/layered-rails-skills",
     "https://github.com/panxunying/ai-coding-welfare",
@@ -2752,12 +2753,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "Research Papers",
-      "title": "Compaction, decay and reinforcement in a two-tier...",
-      "url": "http://arxiv.org/abs/2611.09807v1"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Lobsters Picks",
       "title": "Announcing .NET 11",
       "url": "https://lobste.rs/s/zingk1/announcing_net_11"
@@ -2809,6 +2804,12 @@
       "subcat": "Backend & Infrastructure",
       "title": "fossaryhq/catalog",
       "url": "https://github.com/fossaryhq/catalog"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "TypeScript",
+      "title": "pablostanley/yoinks",
+      "url": "https://github.com/pablostanley/yoinks"
     }
   ]
 }
