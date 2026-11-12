@@ -2256,6 +2256,7 @@
     "https://news.ycombinator.com/item?id=50096110",
     "https://news.ycombinator.com/item?id=50099136",
     "https://news.ycombinator.com/item?id=50100994",
+    "https://news.ycombinator.com/item?id=50103164",
     "https://news.ycombinator.com/item?id=50104726",
     "https://news.ycombinator.com/item?id=50112331",
     "https://news.ycombinator.com/item?id=50112657",
@@ -2653,6 +2654,7 @@
     "https://www.claymath.org/news/navier-stokes-announcement/",
     "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
     "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
+    "https://www.cppstories.com/2026/cpp26_contracts/",
     "https://www.cringebot3000.com/",
     "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
     "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
@@ -2785,12 +2787,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "Research Papers",
-      "title": "LLM-based NPCs in Video Games: A Systematic Mapping...",
-      "url": "http://arxiv.org/abs/2611.05427v1"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Lobsters Picks",
       "title": "30 years of Internet transfers with curl",
       "url": "https://lobste.rs/s/x4kaac/30_years_internet_transfers_with_curl"
@@ -2842,6 +2838,12 @@
       "subcat": "AI & Machine Learning",
       "title": "cutetailbud/ff-ruyijs",
       "url": "https://github.com/cutetailbud/ff-ruyijs"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "C++",
+      "title": "C++26 Contracts: Introduction to Preconditions and...",
+      "url": "https://news.ycombinator.com/item?id=50103164"
     }
   ]
 }

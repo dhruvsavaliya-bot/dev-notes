@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1972 entries and counting** · Last updated: 2026-11-12
+**1973 entries and counting** · Last updated: 2026-11-12
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 398 |
 | [Reading List](articles/reading-list.md) | 400 |
 | [Coding Tips](coding-tips/tips.md) | 392 |
-| [Language Notes](languages/notes.md) | 380 |
+| [Language Notes](languages/notes.md) | 381 |
 
 ## Latest additions
 
+- **2026-11-12** · *C++* — [C++26 Contracts: Introduction to Preconditions and...](https://news.ycombinator.com/item?id=50103164)
 - **2026-11-12** · *AI & Machine Learning* — [cutetailbud/ff-ruyijs](https://github.com/cutetailbud/ff-ruyijs)
 - **2026-11-12** · *Hacker News Picks* — [Critical RCE Vulnerability in Apache HTTP Server](https://news.ycombinator.com/item?id=50462177)
 - **2026-11-12** · *Research Papers* — [Personalized Affective Perception via Continual...](http://arxiv.org/abs/2611.14247v1)
 - **2026-11-12** · *Lobsters Picks* — [The entirety of "Let Over Lambda" is now freely...](https://lobste.rs/s/ooshl8/entirety_let_over_lambda_is_now_freely)
-- **2026-11-12** · *C++* — [Jank  The native Clojure dialect with seamless C++...](https://news.ycombinator.com/item?id=50202762)
 
 ## How it works
 

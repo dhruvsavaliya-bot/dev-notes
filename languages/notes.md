@@ -3186,6 +3186,15 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Discussion:** https://news.ycombinator.com/item?id=50202762
 - **Link:** https://jank-lang.org/
 
+**Added 2026-11-12**
+
+### [C++26 Contracts: Introduction to Preconditions and Postconditions](https://www.cppstories.com/2026/cpp26_contracts/)
+- **Source:** www.cppstories.com | **Posted:** 2026-10-15 | **By:** ibobev
+- **Community:** 151 points, 188 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50103164
+- **Link:** https://www.cppstories.com/2026/cpp26_contracts/
+
 
 ## SQL & Databases
 
