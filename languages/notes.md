@@ -2405,6 +2405,15 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Discussion:** https://news.ycombinator.com/item?id=50340088
 - **Link:** https://news.ycombinator.com/item?id=50340088
 
+**Added 2026-11-13**
+
+### [Making a €40 USB-C hub work as a Nintendo Switch 2 dock](http://blog.nozomi.space/posts/sw2_dock/)
+- **Source:** blog.nozomi.space | **Posted:** 2026-11-09 | **By:** mkopec
+- **Community:** 144 points, 53 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50431971
+- **Link:** http://blog.nozomi.space/posts/sw2_dock/
+
 
 ## Rust
 

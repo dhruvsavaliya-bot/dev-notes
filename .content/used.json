@@ -119,6 +119,7 @@
     "http://arxiv.org/abs/2611.14013v1",
     "http://arxiv.org/abs/2611.14247v1",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+    "http://blog.nozomi.space/posts/sw2_dock/",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
     "http://boglin.iwarp.com/",
     "http://bokeh.pydata.org/en/latest/",
@@ -2429,6 +2430,7 @@
     "https://news.ycombinator.com/item?id=50427107",
     "https://news.ycombinator.com/item?id=50428907",
     "https://news.ycombinator.com/item?id=50430621",
+    "https://news.ycombinator.com/item?id=50431971",
     "https://news.ycombinator.com/item?id=50433079",
     "https://news.ycombinator.com/item?id=50446246",
     "https://news.ycombinator.com/item?id=50449748",
@@ -2791,12 +2793,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "Lobsters Picks",
-      "title": "For the first time, a C++ standard failed to pass the...",
-      "url": "https://lobste.rs/s/lrpb0m/for_first_time_c_standard_failed_pass"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "C++",
       "title": "Jank  The native Clojure dialect with seamless C++...",
       "url": "https://news.ycombinator.com/item?id=50202762"
@@ -2848,6 +2844,12 @@
       "subcat": "Java",
       "title": "mihirgupta0900/tv-home",
       "url": "https://github.com/mihirgupta0900/tv-home"
+    },
+    {
+      "date": "2026-11-13",
+      "subcat": "Swift",
+      "title": "Making a 40 USB-C hub work as a Nintendo Switch 2 dock",
+      "url": "https://news.ycombinator.com/item?id=50431971"
     }
   ]
 }
