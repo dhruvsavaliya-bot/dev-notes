@@ -1655,6 +1655,7 @@
     "https://lobste.rs/s/pioj21/performance_cost_rwlock_our_read_heavy",
     "https://lobste.rs/s/plbei0/openfatigue_open_is_new_closed",
     "https://lobste.rs/s/plreds/memory_safety_bugs_rust_standard_library",
+    "https://lobste.rs/s/ppfyza/how_notion_handles_concurrent_editing",
     "https://lobste.rs/s/q0ld7f/x_87_dos_256_bytes",
     "https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem",
     "https://lobste.rs/s/qcgjpu/kolibri_sovereign_open_weight_model",
@@ -2663,6 +2664,7 @@
     "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
     "https://www.nobelprize.org/prizes/peace/2026/press-release/",
     "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+    "https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts",
     "https://www.ntik.me/posts/voice-agent",
     "https://www.nytimes.com/2019/02/20/us/politics/civil-asset-forfeiture-supreme-court.html",
     "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
@@ -2749,12 +2751,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "Lobsters Picks",
-      "title": "Using voltage glitching to unleash the A100 in my...",
-      "url": "https://lobste.rs/s/zy4p7f/using_voltage_glitching_unleash_a100_my"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Other Cool Projects",
       "title": "diudiu-tech/delivery-harness",
       "url": "https://github.com/diudiu-tech/delivery-harness"
@@ -2806,6 +2802,12 @@
       "subcat": "Java",
       "title": "China Overtakes U.S. For First Time as Top Spender on...",
       "url": "https://news.ycombinator.com/item?id=50065805"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Lobsters Picks",
+      "title": "How Notion handles concurrent editing with CRDTs",
+      "url": "https://lobste.rs/s/ppfyza/how_notion_handles_concurrent_editing"
     }
   ]
 }

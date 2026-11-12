@@ -3637,6 +3637,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/jdczl6/vision_for_next_generation_timeline
 - **Link:** https://media.ccc.de/v/matrix-conference-2026-99070-a-vision-for-a-next-generation-timeline
 
+**Added 2026-11-12**
+
+### [How Notion handles concurrent editing with CRDTs](https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts)
+- **Source:** www.notion.com | **Posted:** 2026-09-20 | **By:** typesanitizer
+- **Community:** 24 score, 6 comments on Lobsters
+- **Tags:** distributed
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/ppfyza/how_notion_handles_concurrent_editing
+- **Link:** https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts
+
 
 ## Performance
 
