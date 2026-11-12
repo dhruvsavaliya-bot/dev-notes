@@ -3616,6 +3616,16 @@ Que...
 - **Discussion:** https://lobste.rs/s/2drgwh/hijacking_samsung_tv_smart_hub_ads
 - **Link:** https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/
 
+**Added 2026-11-13**
+
+### [Adapting CPython for yk](https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html)
+- **Source:** tratt.net | **Posted:** 2026-11-12 | **By:** ltratt
+- **Community:** 17 score, 2 comments on Lobsters
+- **Tags:** compilers, python
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/gejy85/adapting_cpython_for_yk
+- **Link:** https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html
+
 
 ## Career & Craft
 
