@@ -707,6 +707,7 @@
     "https://github.com/QoderAI/better-harness",
     "https://github.com/QuipNetwork/quip-solver",
     "https://github.com/QwenLM/Qwen-MM-Plugins",
+    "https://github.com/RafliAbdulHaliim/sylenth-1-enhancement-suite",
     "https://github.com/ResistanceTo/MiniWatts",
     "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
     "https://github.com/Rizzo-AI-Academy/rizzo-flow",
@@ -2764,12 +2765,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "TypeScript",
-      "title": "pablostanley/yoinks",
-      "url": "https://github.com/pablostanley/yoinks"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Models & Datasets",
       "title": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
       "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF"
@@ -2821,6 +2816,12 @@
       "subcat": "Models & Datasets",
       "title": "agentionai/Qwen3.8-Flash-Next-Gyro-abliterated-Huihui-G...",
       "url": "https://huggingface.co/agentionai/Qwen3.8-Flash-Next-Gyro-abliterated-Huihui-GGUF"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Other Cool Projects",
+      "title": "RafliAbdulHaliim/sylenth-1-enhancement-suite",
+      "url": "https://github.com/RafliAbdulHaliim/sylenth-1-enhancement-suite"
     }
   ]
 }

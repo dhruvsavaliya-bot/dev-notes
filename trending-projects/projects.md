@@ -3387,6 +3387,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~46 stars/day since launch.
 - **Link:** https://github.com/nthnclrk/CleanFrame
 
+**Added 2026-11-12**
+
+### [RafliAbdulHaliim/sylenth-1-enhancement-suite](https://github.com/RafliAbdulHaliim/sylenth-1-enhancement-suite)
+- **Stats:** 1,200 stars | 0 forks | 0 open issues
+- **Language:** HTML | **Created:** 2026-11-06 | **License:** None
+- **Topics:** audio-tool, automation, daw-plugins, desktop, developer-tools, fxp
+- **What it is:** Sylenth 1 configuration utility: standalone desktop setup, ready to run
+- **Growth:** averaging ~200 stars/day since launch.
+- **Link:** https://github.com/RafliAbdulHaliim/sylenth-1-enhancement-suite
+
 
 ## Web & Frontend
 
