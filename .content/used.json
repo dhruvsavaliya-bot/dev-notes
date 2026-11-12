@@ -2427,6 +2427,7 @@
     "https://news.ycombinator.com/item?id=50446246",
     "https://news.ycombinator.com/item?id=50449748",
     "https://news.ycombinator.com/item?id=50450007",
+    "https://news.ycombinator.com/item?id=50462177",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2755,6 +2756,7 @@
     "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
     "https://www.watched.earth",
     "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+    "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
     "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
     "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
@@ -2780,12 +2782,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-11-12",
-      "subcat": "Lobsters Picks",
-      "title": "Lock your GitHub Actions",
-      "url": "https://lobste.rs/s/v3uidx/lock_your_github_actions"
-    },
     {
       "date": "2026-11-12",
       "subcat": "AI & Machine Learning",
@@ -2839,6 +2835,12 @@
       "subcat": "Research Papers",
       "title": "Personalized Affective Perception via Continual...",
       "url": "http://arxiv.org/abs/2611.14247v1"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Hacker News Picks",
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "url": "https://news.ycombinator.com/item?id=50462177"
     }
   ]
 }

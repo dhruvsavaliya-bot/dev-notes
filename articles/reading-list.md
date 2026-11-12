@@ -2450,6 +2450,15 @@ Fresh dev articles and blog posts.
 - **Discussion:** https://news.ycombinator.com/item?id=50416640
 - **Link:** https://github.com/lukks/like-webrtc
 
+**Added 2026-11-12**
+
+### [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
+- **Source:** www.wiz.io | **Posted:** 2026-11-12 | **By:** soheilpro
+- **Community:** 330 points, 171 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50462177
+- **Link:** https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability
+
 
 ## DevOps & Cloud
 
