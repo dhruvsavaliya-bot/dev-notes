@@ -116,6 +116,7 @@
     "http://arxiv.org/abs/2611.09868v1",
     "http://arxiv.org/abs/2611.12575v1",
     "http://arxiv.org/abs/2611.12591v1",
+    "http://arxiv.org/abs/2611.14013v1",
     "http://arxiv.org/abs/2611.14247v1",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
@@ -2789,12 +2790,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "AI & Machine Learning",
-      "title": "Fei2411/DS-Bot",
-      "url": "https://github.com/Fei2411/DS-Bot"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Research Papers",
       "title": "Do Coding Agents Follow AGENTS.md? The Effect of...",
       "url": "http://arxiv.org/abs/2611.04367v1"
@@ -2846,6 +2841,12 @@
       "subcat": "Lobsters Picks",
       "title": "Hijacking Samsung TV Smart Hub Ads",
       "url": "https://lobste.rs/s/2drgwh/hijacking_samsung_tv_smart_hub_ads"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Research Papers",
+      "title": "A Stage-Wise Explainable Pipeline for...",
+      "url": "http://arxiv.org/abs/2611.14013v1"
     }
   ]
 }

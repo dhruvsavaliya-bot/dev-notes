@@ -3693,6 +3693,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.14247v1
 
+**Added 2026-11-12**
+
+### [A Stage-Wise Explainable Pipeline for Arteriolar-to-Venular Ratio Estimation and Retinopathy Screening](http://arxiv.org/abs/2611.14013v1)
+- **Authors:** Sharan Sharmeela Karuppannan, Yoga Sri Varshan, Subin Sahayam, Umarani Jayaraman
+- **Published:** 2026-11-10 | **Primary category:** cs.AI
+- **Categories:** cs.CV, cs.AI
+- **Abstract:** The arteriolar-to-venular diameter ratio (AVR) is a clinically motivated marker of retinal vascular health. We present a five-stage pipeline for AVR estimation and exploratory retinopathy screening from fundus images, with inspectable intermediate outputs at each stage. The pipeline combines vessel and artery-vein masks, optic-disc localization, vessel-calibre estimation using a minimal-chord boundary walk, and AVR computation from dominant arterial and venular branches. An explicit threshold-ba...
+- **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.14013v1
+
 
 ## Computer Vision
 
