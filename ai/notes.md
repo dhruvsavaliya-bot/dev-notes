@@ -2544,6 +2544,15 @@ Lessons from building with LLMs.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF
 
+**Added 2026-11-12**
+
+### [thinkingmachines/Inkling-Small](https://huggingface.co/thinkingmachines/Inkling-Small)
+- **Stats:** 456 likes | 1,155,003 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-07-27
+- **Tags:** transformers, safetensors, inkling_mm_model, image-text-to-text, conversational, audio-text-to-text
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/thinkingmachines/Inkling-Small
+
 
 ## Research Papers
 
