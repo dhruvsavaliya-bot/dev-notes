@@ -3683,6 +3683,16 @@ Lessons from building with LLMs.
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.04367v1
 
+**Added 2026-11-12**
+
+### [Personalized Affective Perception via Continual Learning in Human-Agent Negotiation](http://arxiv.org/abs/2611.14247v1)
+- **Authors:** Mehmet Onur Keskin, Berk Buzcu, Nikhil Churamani, Reyhan Aydogan et al.
+- **Published:** 2026-11-10 | **Primary category:** cs.AI
+- **Categories:** cs.AI, cs.HC, cs.LG, cs.MA, cs.RO
+- **Abstract:** Self-interested intelligent agents that negotiate with humans should interpret nonverbal expressions and adapt their behavior accordingly. However, generic facial-affect models degrade across individuals and contexts, creating a generalization gap. We introduce an affect-adaptive negotiation strategy that incorporates Continual Learning with Imagination for Facial Expression Recognition (CLIFER) to personalize valence-arousal perception in real time. Differential feedback converts changes in val...
+- **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.14247v1
+
 
 ## Computer Vision
 

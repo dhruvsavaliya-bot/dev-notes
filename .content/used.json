@@ -116,6 +116,7 @@
     "http://arxiv.org/abs/2611.09868v1",
     "http://arxiv.org/abs/2611.12575v1",
     "http://arxiv.org/abs/2611.12591v1",
+    "http://arxiv.org/abs/2611.14247v1",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
     "http://boglin.iwarp.com/",
@@ -2781,12 +2782,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "Research Papers",
-      "title": "DSL-Bench: Evaluating and Explaining LLM Code...",
-      "url": "http://arxiv.org/abs/2611.05168v1"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Lobsters Picks",
       "title": "Lock your GitHub Actions",
       "url": "https://lobste.rs/s/v3uidx/lock_your_github_actions"
@@ -2838,6 +2833,12 @@
       "subcat": "Lobsters Picks",
       "title": "The entirety of \"Let Over Lambda\" is now freely...",
       "url": "https://lobste.rs/s/ooshl8/entirety_let_over_lambda_is_now_freely"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Research Papers",
+      "title": "Personalized Affective Perception via Continual...",
+      "url": "http://arxiv.org/abs/2611.14247v1"
     }
   ]
 }
