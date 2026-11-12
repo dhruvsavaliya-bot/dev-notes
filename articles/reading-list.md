@@ -3657,6 +3657,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/y3hvme/inside_github_s_new_git_storage
 - **Link:** https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/
 
+**Added 2026-11-12**
+
+### [Lock your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
+- **Source:** hugovk.dev | **Posted:** 2026-11-11 | **By:** hugoarnal
+- **Community:** 22 score, 5 comments on Lobsters
+- **Tags:** devops
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/v3uidx/lock_your_github_actions
+- **Link:** https://hugovk.dev/blog/2026/lock-github-actions/
+
 
 ## Performance
 

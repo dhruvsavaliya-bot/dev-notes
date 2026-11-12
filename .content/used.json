@@ -1428,6 +1428,7 @@
     "https://huggingface.co/zai-org/GLM-5.1",
     "https://huggingface.co/zai-org/GLM-5.3-Flash",
     "https://huggingface.co/zai-org/chatglm3-6b",
+    "https://hugovk.dev/blog/2026/lock-github-actions/",
     "https://hugovk.dev/blog/2026/soft-deprecating-re.match/",
     "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
     "https://imaginationlibrary.com/",
@@ -1714,6 +1715,7 @@
     "https://lobste.rs/s/ul9krj/hacking_go_compiler_efficiently_map_ipv4",
     "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
     "https://lobste.rs/s/urg4yu/unattended_reboots_with_encrypted_disks",
+    "https://lobste.rs/s/v3uidx/lock_your_github_actions",
     "https://lobste.rs/s/vbx0g4/look_at_datastar",
     "https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants",
     "https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out",
@@ -2767,12 +2769,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "AI & Machine Learning",
-      "title": "shanselman/gputaskman",
-      "url": "https://github.com/shanselman/gputaskman"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Models & Datasets",
       "title": "thinkingmachines/Inkling-Small",
       "url": "https://huggingface.co/thinkingmachines/Inkling-Small"
@@ -2824,6 +2820,12 @@
       "subcat": "Research Papers",
       "title": "DSL-Bench: Evaluating and Explaining LLM Code...",
       "url": "http://arxiv.org/abs/2611.05168v1"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Lobsters Picks",
+      "title": "Lock your GitHub Actions",
+      "url": "https://lobste.rs/s/v3uidx/lock_your_github_actions"
     }
   ]
 }

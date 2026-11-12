@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1960 entries and counting** · Last updated: 2026-11-12
+**1961 entries and counting** · Last updated: 2026-11-12
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 399 |
 | [AI / LLM Notes](ai/notes.md) | 395 |
-| [Reading List](articles/reading-list.md) | 396 |
+| [Reading List](articles/reading-list.md) | 397 |
 | [Coding Tips](coding-tips/tips.md) | 391 |
 | [Language Notes](languages/notes.md) | 379 |
 
 ## Latest additions
 
+- **2026-11-12** · *Lobsters Picks* — [Lock your GitHub Actions](https://lobste.rs/s/v3uidx/lock_your_github_actions)
 - **2026-11-12** · *Research Papers* — [DSL-Bench: Evaluating and Explaining LLM Code...](http://arxiv.org/abs/2611.05168v1)
 - **2026-11-12** · *Models & Datasets* — [0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GG...](https://huggingface.co/0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF)
 - **2026-11-12** · *Other Cool Projects* — [RafliAbdulHaliim/sylenth-1-enhancement-suite](https://github.com/RafliAbdulHaliim/sylenth-1-enhancement-suite)
 - **2026-11-12** · *Models & Datasets* — [agentionai/Qwen3.8-Flash-Next-Gyro-abliterated-Huihui-G...](https://huggingface.co/agentionai/Qwen3.8-Flash-Next-Gyro-abliterated-Huihui-GGUF)
-- **2026-11-12** · *Other Cool Projects* — [nthnclrk/CleanFrame](https://github.com/nthnclrk/CleanFrame)
 
 ## How it works
 
