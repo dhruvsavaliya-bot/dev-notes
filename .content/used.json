@@ -1601,6 +1601,7 @@
     "https://lobste.rs/s/j63dme/meridian_experimental_web_browser_built",
     "https://lobste.rs/s/j7kltq/turbo_haskell",
     "https://lobste.rs/s/jbnmj9/chatgpt_now_knows_what_you_do_on_other",
+    "https://lobste.rs/s/jdczl6/vision_for_next_generation_timeline",
     "https://lobste.rs/s/jgull9/hacky_fucked_up_way_portably_access_errno",
     "https://lobste.rs/s/jlja1a/jdk_27_has_been_released",
     "https://lobste.rs/s/jmbjlu/future_trait_has_missing_state",
@@ -1764,6 +1765,7 @@
     "https://maxxbench.unlap.ai/research/why-maxxbench/",
     "https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/",
     "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders",
+    "https://media.ccc.de/v/matrix-conference-2026-99070-a-vision-for-a-next-generation-timeline",
     "https://memories.gallery/",
     "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
     "https://minimaxir.com/2026/10/cheap-llms/",
@@ -2744,12 +2746,6 @@
   "recent": [
     {
       "date": "2026-11-11",
-      "subcat": "AI & Machine Learning",
-      "title": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca"
-    },
-    {
-      "date": "2026-11-11",
       "subcat": "Hacker News Picks",
       "title": "Peer-to-peer WebRTC connections with built-in...",
       "url": "https://news.ycombinator.com/item?id=50416640"
@@ -2801,6 +2797,12 @@
       "subcat": "Java",
       "title": "As the Japanese countryside empties out, wildlife is...",
       "url": "https://news.ycombinator.com/item?id=50397264"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Lobsters Picks",
+      "title": "A vision for a next-generation timeline",
+      "url": "https://lobste.rs/s/jdczl6/vision_for_next_generation_timeline"
     }
   ]
 }

@@ -3627,6 +3627,16 @@ Keep in mind it’s OK to do nothing at all, too.
 - **Discussion:** https://lobste.rs/s/zingk1/announcing_net_11
 - **Link:** https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/
 
+**Added 2026-11-12**
+
+### [A vision for a next-generation timeline](https://media.ccc.de/v/matrix-conference-2026-99070-a-vision-for-a-next-generation-timeline)
+- **Source:** media.ccc.de | **Posted:** 2026-10-25 | **By:** JadedBlueEyes
+- **Community:** 16 score, 1 comments on Lobsters
+- **Tags:** distributed, video
+- **Summary:** Slides: https://cfp.2026.matrix.org/media/matrix-conference-2026/submissions/WRGTRX/resources/sli_ZZVyXQu.pdf
+- **Discussion:** https://lobste.rs/s/jdczl6/vision_for_next_generation_timeline
+- **Link:** https://media.ccc.de/v/matrix-conference-2026-99070-a-vision-for-a-next-generation-timeline
+
 
 ## Performance
 
