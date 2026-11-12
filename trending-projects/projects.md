@@ -1854,6 +1854,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~230 stars/day since launch.
 - **Link:** https://github.com/shanselman/gputaskman
 
+**Added 2026-11-12**
+
+### [janestreet/agent_skills](https://github.com/janestreet/agent_skills)
+- **Stats:** 6,858 stars | 464 forks | 10 open issues
+- **Language:** N/A | **Created:** 2026-11-03 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Agent skills
+- **Growth:** averaging ~762 stars/day since launch.
+- **Link:** https://github.com/janestreet/agent_skills
+
 
 ## Other Cool Projects
 

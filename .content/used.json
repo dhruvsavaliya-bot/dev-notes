@@ -917,6 +917,7 @@
     "https://github.com/ja7ad/hydra",
     "https://github.com/jakubkrehel/skills",
     "https://github.com/jamesob/local-llm",
+    "https://github.com/janestreet/agent_skills",
     "https://github.com/jaredpalmer/kev",
     "https://github.com/jaredpalmer/kev/tree/main",
     "https://github.com/jarrodwatts/jev-trader",
@@ -2769,12 +2770,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "Models & Datasets",
-      "title": "thinkingmachines/Inkling-Small",
-      "url": "https://huggingface.co/thinkingmachines/Inkling-Small"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Lobsters Picks",
       "title": "Inside GitHub's new Git storage architecture",
       "url": "https://lobste.rs/s/y3hvme/inside_github_s_new_git_storage"
@@ -2826,6 +2821,12 @@
       "subcat": "Lobsters Picks",
       "title": "Lock your GitHub Actions",
       "url": "https://lobste.rs/s/v3uidx/lock_your_github_actions"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "AI & Machine Learning",
+      "title": "janestreet/agent_skills",
+      "url": "https://github.com/janestreet/agent_skills"
     }
   ]
 }
