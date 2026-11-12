@@ -838,6 +838,7 @@
     "https://github.com/cordiverse/paper",
     "https://github.com/crmne/fastpotify",
     "https://github.com/crmne/spotifast",
+    "https://github.com/cutetailbud/ff-ruyijs",
     "https://github.com/d11wtq/boris",
     "https://github.com/danyuchn/asd-ste100-skill",
     "https://github.com/darrenprx/lolPing",
@@ -2784,12 +2785,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "AI & Machine Learning",
-      "title": "janestreet/agent_skills",
-      "url": "https://github.com/janestreet/agent_skills"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Research Papers",
       "title": "LLM-based NPCs in Video Games: A Systematic Mapping...",
       "url": "http://arxiv.org/abs/2611.05427v1"
@@ -2841,6 +2836,12 @@
       "subcat": "Hacker News Picks",
       "title": "Critical RCE Vulnerability in Apache HTTP Server",
       "url": "https://news.ycombinator.com/item?id=50462177"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "AI & Machine Learning",
+      "title": "cutetailbud/ff-ruyijs",
+      "url": "https://github.com/cutetailbud/ff-ruyijs"
     }
   ]
 }

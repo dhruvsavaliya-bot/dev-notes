@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1971 entries and counting** · Last updated: 2026-11-12
+**1972 entries and counting** · Last updated: 2026-11-12
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 401 |
+| [Trending Projects](trending-projects/projects.md) | 402 |
 | [AI / LLM Notes](ai/notes.md) | 398 |
 | [Reading List](articles/reading-list.md) | 400 |
 | [Coding Tips](coding-tips/tips.md) | 392 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-12** · *AI & Machine Learning* — [cutetailbud/ff-ruyijs](https://github.com/cutetailbud/ff-ruyijs)
 - **2026-11-12** · *Hacker News Picks* — [Critical RCE Vulnerability in Apache HTTP Server](https://news.ycombinator.com/item?id=50462177)
 - **2026-11-12** · *Research Papers* — [Personalized Affective Perception via Continual...](http://arxiv.org/abs/2611.14247v1)
 - **2026-11-12** · *Lobsters Picks* — [The entirety of "Let Over Lambda" is now freely...](https://lobste.rs/s/ooshl8/entirety_let_over_lambda_is_now_freely)
 - **2026-11-12** · *C++* — [Jank  The native Clojure dialect with seamless C++...](https://news.ycombinator.com/item?id=50202762)
-- **2026-11-12** · *Lobsters Picks* — [For the first time, a C++ standard failed to pass the...](https://lobste.rs/s/lrpb0m/for_first_time_c_standard_failed_pass)
 
 ## How it works
 
