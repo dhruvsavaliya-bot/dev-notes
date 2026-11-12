@@ -1248,6 +1248,7 @@
     "https://huggingface.co/Scantist/GLM-5.3-SLIM-GGUF",
     "https://huggingface.co/ServiceNow-AI/Apriel-Voice-27B-preview",
     "https://huggingface.co/XHToken/Spark-X2.6-4B",
+    "https://huggingface.co/agentionai/Qwen3.8-Flash-Next-Gyro-abliterated-Huihui-GGUF",
     "https://huggingface.co/akatz-ai/MiniMax-H3-Character-Swap-LoRA",
     "https://huggingface.co/almanach/camembert-base",
     "https://huggingface.co/antirez/deepseek-v4.1-flash-gguf",
@@ -2763,12 +2764,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "Backend & Infrastructure",
-      "title": "fossaryhq/catalog",
-      "url": "https://github.com/fossaryhq/catalog"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "TypeScript",
       "title": "pablostanley/yoinks",
       "url": "https://github.com/pablostanley/yoinks"
@@ -2820,6 +2815,12 @@
       "subcat": "Other Cool Projects",
       "title": "nthnclrk/CleanFrame",
       "url": "https://github.com/nthnclrk/CleanFrame"
+    },
+    {
+      "date": "2026-11-12",
+      "subcat": "Models & Datasets",
+      "title": "agentionai/Qwen3.8-Flash-Next-Gyro-abliterated-Huihui-G...",
+      "url": "https://huggingface.co/agentionai/Qwen3.8-Flash-Next-Gyro-abliterated-Huihui-GGUF"
     }
   ]
 }
