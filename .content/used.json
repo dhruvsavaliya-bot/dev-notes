@@ -695,6 +695,7 @@
     "https://github.com/Muesli-HQ/muesli",
     "https://github.com/N4darae/anti-mage",
     "https://github.com/N4darae/shrt",
+    "https://github.com/NVIDIA-Omniverse/usd-brep",
     "https://github.com/NVIDIA/cuml",
     "https://github.com/NVlabs/SoL-Pi",
     "https://github.com/Nanako0129/sepia",
@@ -2806,12 +2807,6 @@
   "recent": [
     {
       "date": "2026-11-13",
-      "subcat": "Java",
-      "title": "mihirgupta0900/tv-home",
-      "url": "https://github.com/mihirgupta0900/tv-home"
-    },
-    {
-      "date": "2026-11-13",
       "subcat": "Swift",
       "title": "Making a 40 USB-C hub work as a Nintendo Switch 2 dock",
       "url": "https://news.ycombinator.com/item?id=50431971"
@@ -2863,6 +2858,12 @@
       "subcat": "Other Cool Projects",
       "title": "thiagoaureliomartins-programador/chief-architect-premie...",
       "url": "https://github.com/thiagoaureliomartins-programador/chief-architect-premier"
+    },
+    {
+      "date": "2026-11-13",
+      "subcat": "C++",
+      "title": "NVIDIA-Omniverse/usd-brep",
+      "url": "https://github.com/NVIDIA-Omniverse/usd-brep"
     }
   ]
 }

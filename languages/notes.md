@@ -3213,6 +3213,16 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Discussion:** https://news.ycombinator.com/item?id=50103164
 - **Link:** https://www.cppstories.com/2026/cpp26_contracts/
 
+**Added 2026-11-13**
+
+### [NVIDIA-Omniverse/usd-brep](https://github.com/NVIDIA-Omniverse/usd-brep)
+- **Stats:** 2,070 stars | 311 forks | 55 open issues
+- **Language:** C++ | **Created:** 2026-10-08 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling
+- **Growth:** averaging ~57 stars/day since launch.
+- **Link:** https://github.com/NVIDIA-Omniverse/usd-brep
+
 
 ## SQL & Databases
 
