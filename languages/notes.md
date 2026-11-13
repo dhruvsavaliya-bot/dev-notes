@@ -2041,6 +2041,15 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Discussion:** https://news.ycombinator.com/item?id=50383057
 - **Link:** https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/
 
+**Added 2026-11-14**
+
+### [Long Live Rails](https://dev.to/ben/long-live-rails-3p21)
+- **Author:** Ben Halpern | **Published:** Nov 12 | **Read time:** 5 min
+- **Community:** 119 reactions, 18 comments -- a top post in #ruby
+- **Tags:** rails, ruby, rust, ai
+- **Summary:** When DHH took the stage at Rails World 2026 and talked openly about going "pencils down" on...
+- **Link:** https://dev.to/ben/long-live-rails-3p21
+
 
 ## Swift
 

@@ -335,6 +335,7 @@
     "https://dev.to/aws-builders/from-fresher-to-cloud-architect-how-to-start-your-aws-cloud-journey-1l3i",
     "https://dev.to/aws-builders/per-agent-cost-tracking-for-multi-agent-ai-on-aws-10eg",
     "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
+    "https://dev.to/ben/long-live-rails-3p21",
     "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
     "https://dev.to/chet103cc/i-grepped-for-ts-ignore-and-found-zero-then-i-grepped-for-the-cast-nobody-bans-723",
     "https://dev.to/chief_yaml_officer/how-i-stopped-rewriting-my-code-every-time-i-switched-llm-providers-4gjh",
@@ -2850,12 +2851,6 @@
   "recent": [
     {
       "date": "2026-11-13",
-      "subcat": "Lobsters Picks",
-      "title": "Unit tests mark territory more than squash bugs",
-      "url": "https://lobste.rs/s/mkv2pl/unit_tests_mark_territory_more_than"
-    },
-    {
-      "date": "2026-11-13",
       "subcat": "Other Cool Projects",
       "title": "marorateb/burning-studio-desktop",
       "url": "https://github.com/marorateb/burning-studio-desktop"
@@ -2907,6 +2902,12 @@
       "subcat": "Lobsters Picks",
       "title": "What's new in Node.js 27",
       "url": "https://lobste.rs/s/vtjjbc/what_s_new_node_js_27"
+    },
+    {
+      "date": "2026-11-14",
+      "subcat": "Ruby",
+      "title": "Long Live Rails",
+      "url": "https://dev.to/ben/long-live-rails-3p21"
     }
   ]
 }
