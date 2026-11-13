@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1984 entries and counting** · Last updated: 2026-11-13
+**1985 entries and counting** · Last updated: 2026-11-13
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 403 |
+| [Trending Projects](trending-projects/projects.md) | 404 |
 | [AI / LLM Notes](ai/notes.md) | 400 |
 | [Reading List](articles/reading-list.md) | 402 |
 | [Coding Tips](coding-tips/tips.md) | 395 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-13** · *Other Cool Projects* — [thiagoaureliomartins-programador/chief-architect-premie...](https://github.com/thiagoaureliomartins-programador/chief-architect-premier)
 - **2026-11-13** · *Lobsters Picks* — [Paths in pieces](https://lobste.rs/s/yrpo2q/paths_pieces)
 - **2026-11-13** · *Show & Ask HN* — [Show HN: OmniDiff  Opensource, super fast, content...](https://news.ycombinator.com/item?id=50325253)
 - **2026-11-13** · *Swift* — [Show HN: Yogurt  Free, private, open-source...](https://news.ycombinator.com/item?id=50454625)
 - **2026-11-13** · *AI & Machine Learning* — [shy3130/tick-stock-panel](https://github.com/shy3130/tick-stock-panel)
-- **2026-11-13** · *Hacker News Picks* — [A farewell to Arc browser](https://news.ycombinator.com/item?id=50197601)
 
 ## How it works
 

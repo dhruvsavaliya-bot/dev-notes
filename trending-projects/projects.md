@@ -33,3 +33,15 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源
 - **Growth:** averaging ~51 stars/day since launch.
 - **Link:** https://github.com/shy3130/tick-stock-panel
+
+## Other Cool Projects
+
+**Added 2026-11-13**
+
+### [thiagoaureliomartins-programador/chief-architect-premier](https://github.com/thiagoaureliomartins-programador/chief-architect-premier)
+- **Stats:** 1,100 stars | 0 forks | 0 open issues
+- **Language:** Rust | **Created:** 2026-11-06 | **License:** MIT
+- **Topics:** automation, chief-architect, chief-architect-setup-failed-fix, chief-architect-x16, chief-architect-x16-not-installing-on-windows-11, desktop
+- **What it is:** Chief Architect Premier 2026: Pre-Configured Desktop Edition with All Features Enabled
+- **Growth:** averaging ~157 stars/day since launch.
+- **Link:** https://github.com/thiagoaureliomartins-programador/chief-architect-premier
