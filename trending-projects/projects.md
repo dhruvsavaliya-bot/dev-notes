@@ -57,6 +57,17 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~157 stars/day since launch.
 - **Link:** https://github.com/thiagoaureliomartins-programador/chief-architect-premier
 
+**Added 2026-11-13**
+
+### [jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth)
+- **Stats:** 2,193 stars | 261 forks | 34 open issues
+- **Language:** Rust | **Created:** 2026-11-05 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** the ultimate vocal synthesizer - sing, speak, beatbox, and more
+- **Growth:** averaging ~274 stars/day since launch.
+- **Link:** https://github.com/jamesondh/chimera-vocal-synth
+
+
 ## Web & Frontend
 
 **Added 2026-11-13**

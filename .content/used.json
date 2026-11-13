@@ -937,6 +937,7 @@
     "https://github.com/ja7ad/hydra",
     "https://github.com/jakubkrehel/skills",
     "https://github.com/jamesob/local-llm",
+    "https://github.com/jamesondh/chimera-vocal-synth",
     "https://github.com/janestreet/agent_skills",
     "https://github.com/jaredpalmer/kev",
     "https://github.com/jaredpalmer/kev/tree/main",
@@ -2826,12 +2827,6 @@
   "recent": [
     {
       "date": "2026-11-13",
-      "subcat": "C++",
-      "title": "zortos293/Lichii",
-      "url": "https://github.com/zortos293/Lichii"
-    },
-    {
-      "date": "2026-11-13",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Impossible Machines: declaratively program...",
       "url": "https://news.ycombinator.com/item?id=50202746"
@@ -2883,6 +2878,12 @@
       "subcat": "Security",
       "title": "The Most Embarrassing Private Key in Web PKI History",
       "url": "https://dev.to/varshithvhegde/the-most-embarrassing-private-key-in-web-pki-history-f9b"
+    },
+    {
+      "date": "2026-11-13",
+      "subcat": "Other Cool Projects",
+      "title": "jamesondh/chimera-vocal-synth",
+      "url": "https://github.com/jamesondh/chimera-vocal-synth"
     }
   ]
 }

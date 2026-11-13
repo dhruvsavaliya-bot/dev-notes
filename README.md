@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1999 entries and counting** · Last updated: 2026-11-13
+**2000 entries and counting** · Last updated: 2026-11-13
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 406 |
+| [Trending Projects](trending-projects/projects.md) | 407 |
 | [AI / LLM Notes](ai/notes.md) | 403 |
 | [Reading List](articles/reading-list.md) | 405 |
 | [Coding Tips](coding-tips/tips.md) | 398 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-13** · *Other Cool Projects* — [jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth)
 - **2026-11-13** · *Security* — [The Most Embarrassing Private Key in Web PKI History](https://dev.to/varshithvhegde/the-most-embarrassing-private-key-in-web-pki-history-f9b)
 - **2026-11-13** · *Rust* — [Announcing Rust 1.100.0](https://lobste.rs/s/81hnjw/announcing_rust_1_100_0)
 - **2026-11-13** · *Lobsters Picks* — [The anti-marketing aspect of the Gemini network](https://lobste.rs/s/pty8pn/anti_marketing_aspect_gemini_network)
 - **2026-11-13** · *AI & Machine Learning* — [Pan-Chera/Multi-Agent-CAD](https://github.com/Pan-Chera/Multi-Agent-CAD)
-- **2026-11-13** · *Lobsters Picks* — [Creepy crawlies](https://lobste.rs/s/nbjo0i/creepy_crawlies)
 
 ## How it works
 
