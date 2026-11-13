@@ -2332,6 +2332,7 @@
     "https://news.ycombinator.com/item?id=50199290",
     "https://news.ycombinator.com/item?id=50200957",
     "https://news.ycombinator.com/item?id=50200997",
+    "https://news.ycombinator.com/item?id=50202746",
     "https://news.ycombinator.com/item?id=50202762",
     "https://news.ycombinator.com/item?id=50204125",
     "https://news.ycombinator.com/item?id=50207910",
@@ -2701,6 +2702,7 @@
     "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
     "https://www.gnu.org/philosophy/whats-wrong-with-github.html",
     "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+    "https://www.impossiblemachines.xyz",
     "https://www.iroh.computer/blog/iroh-global-content-discovery",
     "https://www.iroh.computer/blog/the-road-to-iroh-1-0",
     "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
@@ -2812,12 +2814,6 @@
   "recent": [
     {
       "date": "2026-11-13",
-      "subcat": "AI & Machine Learning",
-      "title": "shy3130/tick-stock-panel",
-      "url": "https://github.com/shy3130/tick-stock-panel"
-    },
-    {
-      "date": "2026-11-13",
       "subcat": "Swift",
       "title": "Show HN: Yogurt  Free, private, open-source...",
       "url": "https://news.ycombinator.com/item?id=50454625"
@@ -2869,6 +2865,12 @@
       "subcat": "C++",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii"
+    },
+    {
+      "date": "2026-11-13",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Impossible Machines: declaratively program...",
+      "url": "https://news.ycombinator.com/item?id=50202746"
     }
   ]
 }

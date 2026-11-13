@@ -2677,6 +2677,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50325253
 - **Link:** https://github.com/ivankovic/omnidiff
 
+**Added 2026-11-13**
+
+### [Show HN: Impossible Machines: declaratively program the physical world](https://www.impossiblemachines.xyz)
+- **Source:** www.impossiblemachines.xyz | **Posted:** 2026-10-22 | **By:** bhaprayan
+- **Community:** 82 points, 22 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50202746
+- **Link:** https://www.impossiblemachines.xyz
+
 
 ## Git & Workflow
 
