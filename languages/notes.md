@@ -2816,6 +2816,16 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Discussion:** https://news.ycombinator.com/item?id=50122034
 - **Link:** https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear
 
+**Added 2026-11-13**
+
+### [Announcing Rust 1.100.0](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
+- **Source:** blog.rust-lang.org | **Posted:** 2026-11-12 | **By:** theelx
+- **Community:** 119 score, 9 comments on Lobsters
+- **Tags:** release, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/81hnjw/announcing_rust_1_100_0
+- **Link:** https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/
+
 
 ## Elixir
 
