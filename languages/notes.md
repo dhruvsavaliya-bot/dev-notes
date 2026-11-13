@@ -3223,6 +3223,16 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Growth:** averaging ~57 stars/day since launch.
 - **Link:** https://github.com/NVIDIA-Omniverse/usd-brep
 
+**Added 2026-11-13**
+
+### [zortos293/Lichii](https://github.com/zortos293/Lichii)
+- **Stats:** 8,807 stars | 1,408 forks | 728 open issues
+- **Language:** C++ | **Created:** 2026-10-31 | **License:** GPL-3.0
+- **Topics:** none listed
+- **What it is:** VERY experimental Nintendo Switch 2 emulator
+- **Growth:** averaging ~677 stars/day since launch.
+- **Link:** https://github.com/zortos293/Lichii
+
 
 ## SQL & Databases
 

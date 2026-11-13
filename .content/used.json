@@ -1198,6 +1198,7 @@
     "https://github.com/zhu1090093659/dsh-web-ui",
     "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
     "https://github.com/zion-sati/NetWasm",
+    "https://github.com/zortos293/Lichii",
     "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
     "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
     "https://go.dev/blog/emudhra-incident",
@@ -2811,12 +2812,6 @@
   "recent": [
     {
       "date": "2026-11-13",
-      "subcat": "Hacker News Picks",
-      "title": "A farewell to Arc browser",
-      "url": "https://news.ycombinator.com/item?id=50197601"
-    },
-    {
-      "date": "2026-11-13",
       "subcat": "AI & Machine Learning",
       "title": "shy3130/tick-stock-panel",
       "url": "https://github.com/shy3130/tick-stock-panel"
@@ -2868,6 +2863,12 @@
       "subcat": "Web & Frontend",
       "title": "enesozturk/dimensional-drawing",
       "url": "https://github.com/enesozturk/dimensional-drawing"
+    },
+    {
+      "date": "2026-11-13",
+      "subcat": "C++",
+      "title": "zortos293/Lichii",
+      "url": "https://github.com/zortos293/Lichii"
     }
   ]
 }
