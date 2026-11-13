@@ -34,3 +34,13 @@ The week's best dev articles, organized by field.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/ubbxhd/secret_monkey_island_all_13_versions_side
 - **Link:** https://monkeyisland.pages.dev/
+
+**Added 2026-11-13**
+
+### [Creepy crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
+- **Source:** people.kernel.org | **Posted:** 2026-08-29 | **By:** gmem
+- **Community:** 141 score, 60 comments on Lobsters
+- **Tags:** devops, linux
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/nbjo0i/creepy_crawlies
+- **Link:** https://people.kernel.org/monsieuricon/creepy-crawlies

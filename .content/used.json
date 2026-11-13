@@ -1681,6 +1681,7 @@
     "https://lobste.rs/s/mpytbn/one_hash_bloom_filters",
     "https://lobste.rs/s/myuake/awesome_tunneling_list_tunneling",
     "https://lobste.rs/s/n8reli/building_networking_switch_asic_chip",
+    "https://lobste.rs/s/nbjo0i/creepy_crawlies",
     "https://lobste.rs/s/nbxnh7/inside_intel_8087_chip_floating_point",
     "https://lobste.rs/s/ncclwy/switch_lowering_gcc",
     "https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os",
@@ -2509,6 +2510,7 @@
     "https://pavursec.com/blog/stealmybitcoin/",
     "https://pdftomp3.com/connect-ai/",
     "https://peateasea.de/sure-mate-buy-me-a-bloody-coffee/",
+    "https://people.kernel.org/monsieuricon/creepy-crawlies",
     "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
     "https://permit.petercai.com/",
     "https://petal.live/",
@@ -2818,12 +2820,6 @@
   "recent": [
     {
       "date": "2026-11-13",
-      "subcat": "Other Cool Projects",
-      "title": "thiagoaureliomartins-programador/chief-architect-premie...",
-      "url": "https://github.com/thiagoaureliomartins-programador/chief-architect-premier"
-    },
-    {
-      "date": "2026-11-13",
       "subcat": "C++",
       "title": "NVIDIA-Omniverse/usd-brep",
       "url": "https://github.com/NVIDIA-Omniverse/usd-brep"
@@ -2875,6 +2871,12 @@
       "subcat": "Research Papers",
       "title": "Food Critic: An Agentic Visualization System for...",
       "url": "http://arxiv.org/abs/2611.15843v1"
+    },
+    {
+      "date": "2026-11-13",
+      "subcat": "Lobsters Picks",
+      "title": "Creepy crawlies",
+      "url": "https://lobste.rs/s/nbjo0i/creepy_crawlies"
     }
   ]
 }

@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1994 entries and counting** · Last updated: 2026-11-13
+**1995 entries and counting** · Last updated: 2026-11-13
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 405 |
 | [AI / LLM Notes](ai/notes.md) | 403 |
-| [Reading List](articles/reading-list.md) | 403 |
+| [Reading List](articles/reading-list.md) | 404 |
 | [Coding Tips](coding-tips/tips.md) | 397 |
 | [Language Notes](languages/notes.md) | 386 |
 
 ## Latest additions
 
+- **2026-11-13** · *Lobsters Picks* — [Creepy crawlies](https://lobste.rs/s/nbjo0i/creepy_crawlies)
 - **2026-11-13** · *Research Papers* — [Food Critic: An Agentic Visualization System for...](http://arxiv.org/abs/2611.15843v1)
 - **2026-11-13** · *Lobsters Picks* — [The Secret of Monkey Island: all 13 versions side by...](https://lobste.rs/s/ubbxhd/secret_monkey_island_all_13_versions_side)
 - **2026-11-13** · *Models & Datasets* — [PrunaAI/P-H3-Image](https://huggingface.co/PrunaAI/P-H3-Image)
 - **2026-11-13** · *Show & Ask HN* — [Show HN: Impossible Machines: declaratively program...](https://news.ycombinator.com/item?id=50202746)
-- **2026-11-13** · *C++* — [zortos293/Lichii](https://github.com/zortos293/Lichii)
 
 ## How it works
 
