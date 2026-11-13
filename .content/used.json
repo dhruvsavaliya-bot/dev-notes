@@ -926,6 +926,7 @@
     "https://github.com/inkeep/open-knowledge",
     "https://github.com/internet-court/internet-court-skill",
     "https://github.com/isjiamu/gzh-design-skill",
+    "https://github.com/ivankovic/omnidiff",
     "https://github.com/ja7ad/hydra",
     "https://github.com/jakubkrehel/skills",
     "https://github.com/jamesob/local-llm",
@@ -2382,6 +2383,7 @@
     "https://news.ycombinator.com/item?id=50317331",
     "https://news.ycombinator.com/item?id=50319563",
     "https://news.ycombinator.com/item?id=50323088",
+    "https://news.ycombinator.com/item?id=50325253",
     "https://news.ycombinator.com/item?id=50326609",
     "https://news.ycombinator.com/item?id=50326821",
     "https://news.ycombinator.com/item?id=50328251",
@@ -2801,12 +2803,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "C++",
-      "title": "C++26 Contracts: Introduction to Preconditions and...",
-      "url": "https://news.ycombinator.com/item?id=50103164"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Lobsters Picks",
       "title": "Hijacking Samsung TV Smart Hub Ads",
       "url": "https://lobste.rs/s/2drgwh/hijacking_samsung_tv_smart_hub_ads"
@@ -2858,6 +2854,12 @@
       "subcat": "Swift",
       "title": "Show HN: Yogurt  Free, private, open-source...",
       "url": "https://news.ycombinator.com/item?id=50454625"
+    },
+    {
+      "date": "2026-11-13",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: OmniDiff  Opensource, super fast, content...",
+      "url": "https://news.ycombinator.com/item?id=50325253"
     }
   ]
 }

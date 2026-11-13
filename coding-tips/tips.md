@@ -2668,6 +2668,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50080246
 - **Link:** https://wonderhop.io/en/
 
+**Added 2026-11-13**
+
+### [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff)
+- **Source:** github.com | **Posted:** 2026-11-01 | **By:** FabCH
+- **Community:** 322 points, 97 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50325253
+- **Link:** https://github.com/ivankovic/omnidiff
+
 
 ## Git & Workflow
 
