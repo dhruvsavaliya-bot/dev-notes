@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**1991 entries and counting** · Last updated: 2026-11-13
+**1992 entries and counting** · Last updated: 2026-11-13
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 405 |
-| [AI / LLM Notes](ai/notes.md) | 401 |
+| [AI / LLM Notes](ai/notes.md) | 402 |
 | [Reading List](articles/reading-list.md) | 402 |
 | [Coding Tips](coding-tips/tips.md) | 397 |
 | [Language Notes](languages/notes.md) | 386 |
 
 ## Latest additions
 
+- **2026-11-13** · *Models & Datasets* — [PrunaAI/P-H3-Image](https://huggingface.co/PrunaAI/P-H3-Image)
 - **2026-11-13** · *Show & Ask HN* — [Show HN: Impossible Machines: declaratively program...](https://news.ycombinator.com/item?id=50202746)
 - **2026-11-13** · *C++* — [zortos293/Lichii](https://github.com/zortos293/Lichii)
 - **2026-11-13** · *Web & Frontend* — [enesozturk/dimensional-drawing](https://github.com/enesozturk/dimensional-drawing)
 - **2026-11-13** · *Research Papers* — [InfraDev: Can Coding Agents Develop AI...](http://arxiv.org/abs/2610.36589v1)
-- **2026-11-13** · *Lobsters Picks* — [Hello Baochip](https://lobste.rs/s/3gw2f4/hello_baochip)
 
 ## How it works
 

@@ -1260,6 +1260,7 @@
     "https://huggingface.co/Octen/Octen-WebGR-4B",
     "https://huggingface.co/OliviaRossi/Minimax-h3_Singularity-x-10Eros-Max_PRISM",
     "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
+    "https://huggingface.co/PrunaAI/P-H3-Image",
     "https://huggingface.co/Qwen/Qwen-Image-2.1",
     "https://huggingface.co/Qwen/Qwen2.5-32B-Instruct-AWQ",
     "https://huggingface.co/Qwen/Qwen3-0.6B",
@@ -2814,12 +2815,6 @@
   "recent": [
     {
       "date": "2026-11-13",
-      "subcat": "Swift",
-      "title": "Show HN: Yogurt  Free, private, open-source...",
-      "url": "https://news.ycombinator.com/item?id=50454625"
-    },
-    {
-      "date": "2026-11-13",
       "subcat": "Show & Ask HN",
       "title": "Show HN: OmniDiff  Opensource, super fast, content...",
       "url": "https://news.ycombinator.com/item?id=50325253"
@@ -2871,6 +2866,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Impossible Machines: declaratively program...",
       "url": "https://news.ycombinator.com/item?id=50202746"
+    },
+    {
+      "date": "2026-11-13",
+      "subcat": "Models & Datasets",
+      "title": "PrunaAI/P-H3-Image",
+      "url": "https://huggingface.co/PrunaAI/P-H3-Image"
     }
   ]
 }
