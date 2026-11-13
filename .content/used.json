@@ -307,6 +307,7 @@
     "https://dbushell.com/2026/11/03/xslt-rip/",
     "https://dbushell.com/2026/11/09/dark-mode/",
     "https://deathplanswitch.com/",
+    "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
     "https://deepgrove.ai/maple-preview",
     "https://deepmind.google/models/gemini/",
     "https://deepmind.google/science/weathernext/",
@@ -1630,6 +1631,7 @@
     "https://lobste.rs/s/eoibah/iroh_global_content_discovery",
     "https://lobste.rs/s/ep5vsq/beating_compiler_at_signed_32_bit",
     "https://lobste.rs/s/erkjnx/gist_go_concurrency",
+    "https://lobste.rs/s/ezl1sa/running_law_firm_on_free_software_2026",
     "https://lobste.rs/s/f1nsnm/hacking_t_mobile_sidekick_20_years_too",
     "https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful",
     "https://lobste.rs/s/fgucra/observations_from_running",
@@ -2843,12 +2845,6 @@
   "recent": [
     {
       "date": "2026-11-13",
-      "subcat": "Rust",
-      "title": "Google Summer of Code 2026 results",
-      "url": "https://lobste.rs/s/uz2j2h/google_summer_code_2026_results"
-    },
-    {
-      "date": "2026-11-13",
       "subcat": "Security",
       "title": "Your Login Works. Now Prove Who Did What",
       "url": "https://dev.to/hadil/your-login-works-now-prove-who-did-what-26p5"
@@ -2900,6 +2896,12 @@
       "subcat": "Lobsters Picks",
       "title": "Contra \"Glue work considered harmful\"",
       "url": "https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful"
+    },
+    {
+      "date": "2026-11-14",
+      "subcat": "Lobsters Picks",
+      "title": "Running a law firm on Free software (2026 edition)",
+      "url": "https://lobste.rs/s/ezl1sa/running_law_firm_on_free_software_2026"
     }
   ]
 }

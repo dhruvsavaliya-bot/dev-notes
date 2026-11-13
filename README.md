@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2010 entries and counting** · Last updated: 2026-11-13
+**2011 entries and counting** · Last updated: 2026-11-14
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 409 |
 | [AI / LLM Notes](ai/notes.md) | 403 |
 | [Reading List](articles/reading-list.md) | 408 |
-| [Coding Tips](coding-tips/tips.md) | 401 |
+| [Coding Tips](coding-tips/tips.md) | 402 |
 | [Language Notes](languages/notes.md) | 389 |
 
 ## Latest additions
 
+- **2026-11-14** · *Lobsters Picks* — [Running a law firm on Free software (2026 edition)](https://lobste.rs/s/ezl1sa/running_law_firm_on_free_software_2026)
 - **2026-11-13** · *Lobsters Picks* — [Contra "Glue work considered harmful"](https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful)
 - **2026-11-13** · *Developer Tools* — [aicodeking/leanrea](https://github.com/aicodeking/leanrea)
 - **2026-11-13** · *Lobsters Picks* — [Bastion of the Turbofish](https://lobste.rs/s/b6oxoj/bastion_turbofish)
 - **2026-11-13** · *Lobsters Picks* — [How Not to Build a Music Player](https://lobste.rs/s/lh9pwf/how_not_build_music_player)
-- **2026-11-13** · *Other Cool Projects* — [marorateb/burning-studio-desktop](https://github.com/marorateb/burning-studio-desktop)
 
 ## How it works
 
