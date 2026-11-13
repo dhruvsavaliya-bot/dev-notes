@@ -3664,6 +3664,16 @@ Que...
 - **Discussion:** https://lobste.rs/s/pty8pn/anti_marketing_aspect_gemini_network
 - **Link:** https://ploum.net/2026-11-12-anti-marketing-gemini.html
 
+**Added 2026-11-13**
+
+### [Let’s Write a PostScript Interpreter](https://beyondloom.com/blog/postscript.html)
+- **Source:** beyondloom.com | **Posted:** 2026-11-12 | **By:** janerik
+- **Community:** 22 score, 2 comments on Lobsters
+- **Tags:** concatenative
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/8kdcdd/let_s_write_postscript_interpreter
+- **Link:** https://beyondloom.com/blog/postscript.html
+
 
 ## Career & Craft
 
