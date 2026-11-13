@@ -23,3 +23,13 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/ezl1sa/running_law_firm_on_free_software_2026
 - **Link:** https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/
+
+**Added 2026-11-14**
+
+### [Beating the frontier on NetHack](https://antithesis.com/blog/2026/nethack/)
+- **Source:** antithesis.com | **Posted:** 2026-11-13 | **By:** hwayne
+- **Community:** 18 score, 2 comments on Lobsters
+- **Tags:** games, testing
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/kb3fs1/beating_frontier_on_nethack
+- **Link:** https://antithesis.com/blog/2026/nethack/

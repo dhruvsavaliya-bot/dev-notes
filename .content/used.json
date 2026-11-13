@@ -172,6 +172,7 @@
     "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
     "https://andrealeopardi.com/posts/beam-metrics-in-clickhouse/",
     "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+    "https://antithesis.com/blog/2026/nethack/",
     "https://antonz.org/go-concurrency-distilled/",
     "https://antonz.org/go-concurrency/",
     "https://anycrap.shop/",
@@ -1675,6 +1676,7 @@
     "https://lobste.rs/s/k508we/avoid_public_functions_calling_other",
     "https://lobste.rs/s/k5omum/brain_sandwich",
     "https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision",
+    "https://lobste.rs/s/kb3fs1/beating_frontier_on_nethack",
     "https://lobste.rs/s/kbrpx3/unlocking_any_car_from_x_brand_most_world",
     "https://lobste.rs/s/kcyzco/uuidv7_doesn_t_have_properties_you_think",
     "https://lobste.rs/s/kfla2w/demoting_i686_windows_targets_std_only",
@@ -2845,12 +2847,6 @@
   "recent": [
     {
       "date": "2026-11-13",
-      "subcat": "Security",
-      "title": "Your Login Works. Now Prove Who Did What",
-      "url": "https://dev.to/hadil/your-login-works-now-prove-who-did-what-26p5"
-    },
-    {
-      "date": "2026-11-13",
       "subcat": "PHP",
       "title": "serveroshq/panel",
       "url": "https://github.com/serveroshq/panel"
@@ -2902,6 +2898,12 @@
       "subcat": "Lobsters Picks",
       "title": "Running a law firm on Free software (2026 edition)",
       "url": "https://lobste.rs/s/ezl1sa/running_law_firm_on_free_software_2026"
+    },
+    {
+      "date": "2026-11-14",
+      "subcat": "Lobsters Picks",
+      "title": "Beating the frontier on NetHack",
+      "url": "https://lobste.rs/s/kb3fs1/beating_frontier_on_nethack"
     }
   ]
 }
