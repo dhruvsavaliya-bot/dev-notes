@@ -55,3 +55,12 @@ The week's best dev articles, organized by field.
 - **Tags:** security, webdev, devops, ai
 - **Summary:** The strange thing about this incident is that the certificates looked normal.  They had familiar CA...
 - **Link:** https://dev.to/varshithvhegde/the-most-embarrassing-private-key-in-web-pki-history-f9b
+
+**Added 2026-11-13**
+
+### [Your Login Works. Now Prove Who Did What](https://dev.to/hadil/your-login-works-now-prove-who-did-what-26p5)
+- **Author:** Hadil Ben Abdallah | **Published:** Nov 4 | **Read time:** 11 min
+- **Community:** 83 reactions, 20 comments -- a top post in #security
+- **Tags:** keycloak, security, saas, webdev
+- **Summary:** Keycloak audit logs help SaaS teams understand who did what, when an action happened, and which...
+- **Link:** https://dev.to/hadil/your-login-works-now-prove-who-did-what-26p5
