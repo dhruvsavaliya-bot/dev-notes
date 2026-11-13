@@ -65,6 +65,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/b6oxoj/bastion_turbofish
 - **Link:** https://github.com/rust-lang/rust/blob/main/tests/ui/parser/bastion-of-the-turbofish.rs
 
+**Added 2026-11-14**
+
+### [What's new in Node.js 27](https://nodejsdesignpatterns.com/blog/whats-new-in-nodejs-27/)
+- **Source:** nodejsdesignpatterns.com | **Posted:** 2026-11-09 | **By:** loige
+- **Community:** 25 score, 15 comments on Lobsters
+- **Tags:** javascript, nodejs
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/vtjjbc/what_s_new_node_js_27
+- **Link:** https://nodejsdesignpatterns.com/blog/whats-new-in-nodejs-27/
+
 
 ## Security
 
