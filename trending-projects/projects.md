@@ -45,3 +45,15 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** Chief Architect Premier 2026: Pre-Configured Desktop Edition with All Features Enabled
 - **Growth:** averaging ~157 stars/day since launch.
 - **Link:** https://github.com/thiagoaureliomartins-programador/chief-architect-premier
+
+## Web & Frontend
+
+**Added 2026-11-13**
+
+### [enesozturk/dimensional-drawing](https://github.com/enesozturk/dimensional-drawing)
+- **Stats:** 2,084 stars | 152 forks | 4 open issues
+- **Language:** HTML | **Created:** 2026-10-23 | **License:** MIT
+- **Topics:** skills, ui
+- **What it is:** Create Apple style dimensional drawings of UI components.
+- **Growth:** averaging ~99 stars/day since launch.
+- **Link:** https://github.com/enesozturk/dimensional-drawing

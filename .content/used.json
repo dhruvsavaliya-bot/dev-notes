@@ -889,6 +889,7 @@
     "https://github.com/elstongun/leviathan",
     "https://github.com/elyosh/OpenTIE/",
     "https://github.com/emmilco/us-tax-model",
+    "https://github.com/enesozturk/dimensional-drawing",
     "https://github.com/eternity4719/HowToLiveBetter",
     "https://github.com/eternityspring/shuohao-skills",
     "https://github.com/exteraless/exteraless",
@@ -2810,12 +2811,6 @@
   "recent": [
     {
       "date": "2026-11-13",
-      "subcat": "Research Papers",
-      "title": "A Matched Evaluation of QUBO Action Models and...",
-      "url": "http://arxiv.org/abs/2611.02179v1"
-    },
-    {
-      "date": "2026-11-13",
       "subcat": "Hacker News Picks",
       "title": "A farewell to Arc browser",
       "url": "https://news.ycombinator.com/item?id=50197601"
@@ -2867,6 +2862,12 @@
       "subcat": "Research Papers",
       "title": "InfraDev: Can Coding Agents Develop AI...",
       "url": "http://arxiv.org/abs/2610.36589v1"
+    },
+    {
+      "date": "2026-11-13",
+      "subcat": "Web & Frontend",
+      "title": "enesozturk/dimensional-drawing",
+      "url": "https://github.com/enesozturk/dimensional-drawing"
     }
   ]
 }
