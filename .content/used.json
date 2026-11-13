@@ -164,6 +164,7 @@
     "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
     "https://alexsci.com/blog/uuidv7-is-weird/",
     "https://aleyan.com/projects/python-iceberg/",
+    "https://alichraghi.github.io/blog/how-not-to-build-a-music-player",
     "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
     "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
     "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
@@ -1677,6 +1678,7 @@
     "https://lobste.rs/s/lfusbg/atom_exhaustion_is_not_footgun_it_s_one",
     "https://lobste.rs/s/lgdxtw/c_for_rust_programmers",
     "https://lobste.rs/s/lh1j0e/shlemiel_painter_is_back_how_zig_s_libc",
+    "https://lobste.rs/s/lh9pwf/how_not_build_music_player",
     "https://lobste.rs/s/lhovnm/dear_open_source_developers_it_s_ok_not",
     "https://lobste.rs/s/lrpb0m/for_first_time_c_standard_failed_pass",
     "https://lobste.rs/s/lxo74i/introducing_microlighter",
@@ -2836,12 +2838,6 @@
   "recent": [
     {
       "date": "2026-11-13",
-      "subcat": "Lobsters Picks",
-      "title": "The anti-marketing aspect of the Gemini network",
-      "url": "https://lobste.rs/s/pty8pn/anti_marketing_aspect_gemini_network"
-    },
-    {
-      "date": "2026-11-13",
       "subcat": "Rust",
       "title": "Announcing Rust 1.100.0",
       "url": "https://lobste.rs/s/81hnjw/announcing_rust_1_100_0"
@@ -2893,6 +2889,12 @@
       "subcat": "Other Cool Projects",
       "title": "marorateb/burning-studio-desktop",
       "url": "https://github.com/marorateb/burning-studio-desktop"
+    },
+    {
+      "date": "2026-11-13",
+      "subcat": "Lobsters Picks",
+      "title": "How Not to Build a Music Player",
+      "url": "https://lobste.rs/s/lh9pwf/how_not_build_music_player"
     }
   ]
 }

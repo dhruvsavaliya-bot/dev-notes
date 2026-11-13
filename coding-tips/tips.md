@@ -3674,6 +3674,16 @@ Que...
 - **Discussion:** https://lobste.rs/s/8kdcdd/let_s_write_postscript_interpreter
 - **Link:** https://beyondloom.com/blog/postscript.html
 
+**Added 2026-11-13**
+
+### [How Not to Build a Music Player](https://alichraghi.github.io/blog/how-not-to-build-a-music-player)
+- **Source:** alichraghi.github.io | **Posted:** 2026-11-13 | **By:** alichraghi
+- **Community:** 55 score, 7 comments on Lobsters
+- **Tags:** person, zig
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/lh9pwf/how_not_build_music_player
+- **Link:** https://alichraghi.github.io/blog/how-not-to-build-a-music-player
+
 
 ## Career & Craft
 
