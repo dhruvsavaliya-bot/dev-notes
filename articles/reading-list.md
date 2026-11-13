@@ -44,3 +44,14 @@ The week's best dev articles, organized by field.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/nbjo0i/creepy_crawlies
 - **Link:** https://people.kernel.org/monsieuricon/creepy-crawlies
+
+## Security
+
+**Added 2026-11-13**
+
+### [The Most Embarrassing Private Key in Web PKI History](https://dev.to/varshithvhegde/the-most-embarrassing-private-key-in-web-pki-history-f9b)
+- **Author:** Varshith V Hegde | **Published:** Oct 27 | **Read time:** 10 min
+- **Community:** 63 reactions, 31 comments -- a top post in #security
+- **Tags:** security, webdev, devops, ai
+- **Summary:** The strange thing about this incident is that the certificates looked normal.  They had familiar CA...
+- **Link:** https://dev.to/varshithvhegde/the-most-embarrassing-private-key-in-web-pki-history-f9b
