@@ -1736,6 +1736,7 @@
     "https://lobste.rs/s/u4vlin/french_supermarket_chains_say",
     "https://lobste.rs/s/u7dr96/soft_deprecating_re_match",
     "https://lobste.rs/s/u9ue6c/what_s_wrong_with_github",
+    "https://lobste.rs/s/ubbxhd/secret_monkey_island_all_13_versions_side",
     "https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases",
     "https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem",
     "https://lobste.rs/s/uhlnqx/zig_from_beginner_slightly_less_beginner",
@@ -1824,6 +1825,7 @@
     "https://mitchellh.com/writing/libghostty-1-0",
     "https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/",
     "https://momentic.ai/",
+    "https://monkeyisland.pages.dev/",
     "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
     "https://mtlynch.io/notes/go-must-create-pattern/",
     "https://music.apple.com/this-url-doesnt-exist",
@@ -2815,12 +2817,6 @@
   "recent": [
     {
       "date": "2026-11-13",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: OmniDiff  Opensource, super fast, content...",
-      "url": "https://news.ycombinator.com/item?id=50325253"
-    },
-    {
-      "date": "2026-11-13",
       "subcat": "Lobsters Picks",
       "title": "Paths in pieces",
       "url": "https://lobste.rs/s/yrpo2q/paths_pieces"
@@ -2872,6 +2868,12 @@
       "subcat": "Models & Datasets",
       "title": "PrunaAI/P-H3-Image",
       "url": "https://huggingface.co/PrunaAI/P-H3-Image"
+    },
+    {
+      "date": "2026-11-13",
+      "subcat": "Lobsters Picks",
+      "title": "The Secret of Monkey Island: all 13 versions side by...",
+      "url": "https://lobste.rs/s/ubbxhd/secret_monkey_island_all_13_versions_side"
     }
   ]
 }

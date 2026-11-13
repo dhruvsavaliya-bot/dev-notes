@@ -24,3 +24,13 @@ The week's best dev articles, organized by field.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/yrpo2q/paths_pieces
 - **Link:** https://stoppels.ch/2026/11/12/paths-in-pieces.html
+
+**Added 2026-11-13**
+
+### [The Secret of Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/)
+- **Source:** monkeyisland.pages.dev | **Posted:** 2026-11-12 | **By:** HugoDaniel
+- **Community:** 27 score, 4 comments on Lobsters
+- **Tags:** games, graphics
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/ubbxhd/secret_monkey_island_all_13_versions_side
+- **Link:** https://monkeyisland.pages.dev/
