@@ -786,6 +786,7 @@
     "https://github.com/agupta07505/SmartIsland",
     "https://github.com/ahmetomerv/photoc",
     "https://github.com/ai-sucks-butt/ai-sucks-butt",
+    "https://github.com/aicodeking/leanrea",
     "https://github.com/air-embodied-brain/Zetta-Embodiment",
     "https://github.com/akitaonrails/ai-memory",
     "https://github.com/aliyun/ai-agent-handbook",
@@ -2840,12 +2841,6 @@
   "recent": [
     {
       "date": "2026-11-13",
-      "subcat": "Security",
-      "title": "The Most Embarrassing Private Key in Web PKI History",
-      "url": "https://dev.to/varshithvhegde/the-most-embarrassing-private-key-in-web-pki-history-f9b"
-    },
-    {
-      "date": "2026-11-13",
       "subcat": "Other Cool Projects",
       "title": "jamesondh/chimera-vocal-synth",
       "url": "https://github.com/jamesondh/chimera-vocal-synth"
@@ -2897,6 +2892,12 @@
       "subcat": "Lobsters Picks",
       "title": "Bastion of the Turbofish",
       "url": "https://lobste.rs/s/b6oxoj/bastion_turbofish"
+    },
+    {
+      "date": "2026-11-13",
+      "subcat": "Developer Tools",
+      "title": "aicodeking/leanrea",
+      "url": "https://github.com/aicodeking/leanrea"
     }
   ]
 }

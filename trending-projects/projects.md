@@ -89,3 +89,15 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** Create Apple style dimensional drawings of UI components.
 - **Growth:** averaging ~99 stars/day since launch.
 - **Link:** https://github.com/enesozturk/dimensional-drawing
+
+## Developer Tools
+
+**Added 2026-11-13**
+
+### [aicodeking/leanrea](https://github.com/aicodeking/leanrea)
+- **Stats:** 4,258 stars | 644 forks | 10 open issues
+- **Language:** Python | **Created:** 2026-10-17 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.
+- **Growth:** averaging ~157 stars/day since launch.
+- **Link:** https://github.com/aicodeking/leanrea
