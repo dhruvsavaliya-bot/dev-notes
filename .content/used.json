@@ -120,6 +120,7 @@
     "http://arxiv.org/abs/2611.12591v1",
     "http://arxiv.org/abs/2611.14013v1",
     "http://arxiv.org/abs/2611.14247v1",
+    "http://arxiv.org/abs/2611.15843v1",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "http://blog.nozomi.space/posts/sw2_dock/",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
@@ -2817,12 +2818,6 @@
   "recent": [
     {
       "date": "2026-11-13",
-      "subcat": "Lobsters Picks",
-      "title": "Paths in pieces",
-      "url": "https://lobste.rs/s/yrpo2q/paths_pieces"
-    },
-    {
-      "date": "2026-11-13",
       "subcat": "Other Cool Projects",
       "title": "thiagoaureliomartins-programador/chief-architect-premie...",
       "url": "https://github.com/thiagoaureliomartins-programador/chief-architect-premier"
@@ -2874,6 +2869,12 @@
       "subcat": "Lobsters Picks",
       "title": "The Secret of Monkey Island: all 13 versions side by...",
       "url": "https://lobste.rs/s/ubbxhd/secret_monkey_island_all_13_versions_side"
+    },
+    {
+      "date": "2026-11-13",
+      "subcat": "Research Papers",
+      "title": "Food Critic: An Agentic Visualization System for...",
+      "url": "http://arxiv.org/abs/2611.15843v1"
     }
   ]
 }

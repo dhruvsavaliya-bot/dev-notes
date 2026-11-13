@@ -14,6 +14,17 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.36589v1
 
+**Added 2026-11-13**
+
+### [Food Critic: An Agentic Visualization System for Auditable Restaurant-Safety Reasoning](http://arxiv.org/abs/2611.15843v1)
+- **Authors:** Arleth Salinas, Ishrat Jahan Eliza, Valerio Pascucci
+- **Published:** 2026-11-11 | **Primary category:** cs.AI
+- **Categories:** cs.AI, cs.MA
+- **Abstract:** Generative AI agents are increasingly being embedded into visualization systems that can search data, invoke tools, summarize evidence, and produce recommendations. However, when agents rely solely on their own knowledge, the visualization problem is not only whether the agent provides a useful answer, but also whether users can inspect how that answer is grounded. We present Food Critic, an agentic visualization system for diners' restaurant decision support that integrates public health inspec...
+- **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.15843v1
+
+
 ## Models & Datasets
 
 **Added 2026-11-13**
