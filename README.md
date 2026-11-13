@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2007 entries and counting** · Last updated: 2026-11-13
+**2008 entries and counting** · Last updated: 2026-11-13
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 408 |
 | [AI / LLM Notes](ai/notes.md) | 403 |
-| [Reading List](articles/reading-list.md) | 407 |
+| [Reading List](articles/reading-list.md) | 408 |
 | [Coding Tips](coding-tips/tips.md) | 400 |
 | [Language Notes](languages/notes.md) | 389 |
 
 ## Latest additions
 
+- **2026-11-13** · *Lobsters Picks* — [Bastion of the Turbofish](https://lobste.rs/s/b6oxoj/bastion_turbofish)
 - **2026-11-13** · *Lobsters Picks* — [How Not to Build a Music Player](https://lobste.rs/s/lh9pwf/how_not_build_music_player)
 - **2026-11-13** · *Other Cool Projects* — [marorateb/burning-studio-desktop](https://github.com/marorateb/burning-studio-desktop)
 - **2026-11-13** · *Lobsters Picks* — [Unit tests mark territory more than squash bugs](https://lobste.rs/s/mkv2pl/unit_tests_mark_territory_more_than)
 - **2026-11-13** · *Lobsters Picks* — [Lets Write a PostScript Interpreter](https://lobste.rs/s/8kdcdd/let_s_write_postscript_interpreter)
-- **2026-11-13** · *PHP* — [serveroshq/panel](https://github.com/serveroshq/panel)
 
 ## How it works
 

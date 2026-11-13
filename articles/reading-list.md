@@ -55,6 +55,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/mkv2pl/unit_tests_mark_territory_more_than
 - **Link:** https://yosefk.com/blog/unit-tests-mark-territory-more-than-squash-bugs.html
 
+**Added 2026-11-13**
+
+### [Bastion of the Turbofish](https://github.com/rust-lang/rust/blob/main/tests/ui/parser/bastion-of-the-turbofish.rs)
+- **Source:** github.com | **Posted:** 2026-09-11 | **By:** nrposner
+- **Community:** 48 score, 7 comments on Lobsters
+- **Tags:** rust, satire, testing
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/b6oxoj/bastion_turbofish
+- **Link:** https://github.com/rust-lang/rust/blob/main/tests/ui/parser/bastion-of-the-turbofish.rs
+
 
 ## Security
 

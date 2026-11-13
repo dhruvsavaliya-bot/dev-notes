@@ -1086,6 +1086,7 @@
     "https://github.com/rtk-ai/rtk",
     "https://github.com/runvendo/vendo",
     "https://github.com/rushiranpise/morphe-patches",
+    "https://github.com/rust-lang/rust/blob/main/tests/ui/parser/bastion-of-the-turbofish.rs",
     "https://github.com/s1dashu/ip-as-logo-skill",
     "https://github.com/safijari/openpuck",
     "https://github.com/sandbox-quantum/switch",
@@ -1580,6 +1581,7 @@
     "https://lobste.rs/s/ap9w8i/when_str_lower_is_security_vulnerability",
     "https://lobste.rs/s/b2emi7/guards_guards",
     "https://lobste.rs/s/b36ixw/context",
+    "https://lobste.rs/s/b6oxoj/bastion_turbofish",
     "https://lobste.rs/s/bag41j/hanami_why_introductions",
     "https://lobste.rs/s/bcfzer/hacking_nameof",
     "https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical",
@@ -2838,12 +2840,6 @@
   "recent": [
     {
       "date": "2026-11-13",
-      "subcat": "Rust",
-      "title": "Announcing Rust 1.100.0",
-      "url": "https://lobste.rs/s/81hnjw/announcing_rust_1_100_0"
-    },
-    {
-      "date": "2026-11-13",
       "subcat": "Security",
       "title": "The Most Embarrassing Private Key in Web PKI History",
       "url": "https://dev.to/varshithvhegde/the-most-embarrassing-private-key-in-web-pki-history-f9b"
@@ -2895,6 +2891,12 @@
       "subcat": "Lobsters Picks",
       "title": "How Not to Build a Music Player",
       "url": "https://lobste.rs/s/lh9pwf/how_not_build_music_player"
+    },
+    {
+      "date": "2026-11-13",
+      "subcat": "Lobsters Picks",
+      "title": "Bastion of the Turbofish",
+      "url": "https://lobste.rs/s/b6oxoj/bastion_turbofish"
     }
   ]
 }
