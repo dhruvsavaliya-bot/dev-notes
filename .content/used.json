@@ -1685,6 +1685,7 @@
     "https://lobste.rs/s/me75ey/jailbreaking_switch_2",
     "https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat",
     "https://lobste.rs/s/mkq3x9/better_http_1_connection_reuse",
+    "https://lobste.rs/s/mkv2pl/unit_tests_mark_territory_more_than",
     "https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution",
     "https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself",
     "https://lobste.rs/s/mp8yqt/protecting_against_cve_2026_98432",
@@ -2819,6 +2820,7 @@
     "https://xoranth.net/gcc-switch/",
     "https://xpipe.io/blog/java-aot-cache",
     "https://yappologistic.github.io/CUI/",
+    "https://yosefk.com/blog/unit-tests-mark-territory-more-than-squash-bugs.html",
     "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
     "https://youtu.be/89yAiqYEwKg",
     "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
@@ -2831,12 +2833,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-11-13",
-      "subcat": "Lobsters Picks",
-      "title": "Creepy crawlies",
-      "url": "https://lobste.rs/s/nbjo0i/creepy_crawlies"
-    },
     {
       "date": "2026-11-13",
       "subcat": "AI & Machine Learning",
@@ -2890,6 +2886,12 @@
       "subcat": "Lobsters Picks",
       "title": "Lets Write a PostScript Interpreter",
       "url": "https://lobste.rs/s/8kdcdd/let_s_write_postscript_interpreter"
+    },
+    {
+      "date": "2026-11-13",
+      "subcat": "Lobsters Picks",
+      "title": "Unit tests mark territory more than squash bugs",
+      "url": "https://lobste.rs/s/mkv2pl/unit_tests_mark_territory_more_than"
     }
   ]
 }

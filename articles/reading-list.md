@@ -45,6 +45,17 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/nbjo0i/creepy_crawlies
 - **Link:** https://people.kernel.org/monsieuricon/creepy-crawlies
 
+**Added 2026-11-13**
+
+### [Unit tests mark territory more than squash bugs](https://yosefk.com/blog/unit-tests-mark-territory-more-than-squash-bugs.html)
+- **Source:** yosefk.com | **Posted:** 2026-09-18 | **By:** fanf
+- **Community:** 15 score, 24 comments on Lobsters
+- **Tags:** rant, testing
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/mkv2pl/unit_tests_mark_territory_more_than
+- **Link:** https://yosefk.com/blog/unit-tests-mark-territory-more-than-squash-bugs.html
+
+
 ## Security
 
 **Added 2026-11-13**
