@@ -1092,6 +1092,7 @@
     "https://github.com/sdli1995/dlssg_for_sm86",
     "https://github.com/seamusc/papermono-shopping-list",
     "https://github.com/seedds/nxnative",
+    "https://github.com/serveroshq/panel",
     "https://github.com/shadcn-ui/lint",
     "https://github.com/shanselman/gputaskman",
     "https://github.com/shaobeichen/dsh-pocket",
@@ -2830,12 +2831,6 @@
   "recent": [
     {
       "date": "2026-11-13",
-      "subcat": "Lobsters Picks",
-      "title": "The Secret of Monkey Island: all 13 versions side by...",
-      "url": "https://lobste.rs/s/ubbxhd/secret_monkey_island_all_13_versions_side"
-    },
-    {
-      "date": "2026-11-13",
       "subcat": "Research Papers",
       "title": "Food Critic: An Agentic Visualization System for...",
       "url": "http://arxiv.org/abs/2611.15843v1"
@@ -2887,6 +2882,12 @@
       "subcat": "Security",
       "title": "Your Login Works. Now Prove Who Did What",
       "url": "https://dev.to/hadil/your-login-works-now-prove-who-did-what-26p5"
+    },
+    {
+      "date": "2026-11-13",
+      "subcat": "PHP",
+      "title": "serveroshq/panel",
+      "url": "https://github.com/serveroshq/panel"
     }
   ]
 }

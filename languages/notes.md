@@ -1827,6 +1827,16 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Summary:** I was recently refactoring some legacy PHP code and noticed that the same data array was being used...
 - **Link:** https://dev.to/nazar-boyko/i-added-one-key-to-a-php-array-it-cost-25-mb-of-memory-4b80
 
+**Added 2026-11-13**
+
+### [serveroshq/panel](https://github.com/serveroshq/panel)
+- **Stats:** 720 stars | 58 forks | 30 open issues
+- **Language:** PHP | **Created:** 2026-11-09 | **License:** AGPL-3.0
+- **Topics:** agpl, control-panel, devops, laravel, open-source, self-hosted
+- **What it is:** The open source ServerOS panel: one place to run the Linux servers you already own.
+- **Growth:** averaging ~180 stars/day since launch.
+- **Link:** https://github.com/serveroshq/panel
+
 
 ## Ruby
 
