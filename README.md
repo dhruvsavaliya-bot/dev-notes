@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2012 entries and counting** · Last updated: 2026-11-14
+**2013 entries and counting** · Last updated: 2026-11-14
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 409 |
-| [AI / LLM Notes](ai/notes.md) | 403 |
+| [AI / LLM Notes](ai/notes.md) | 404 |
 | [Reading List](articles/reading-list.md) | 408 |
 | [Coding Tips](coding-tips/tips.md) | 403 |
 | [Language Notes](languages/notes.md) | 389 |
 
 ## Latest additions
 
+- **2026-11-14** · *Research Papers* — [DRAFT-Bench: Evaluating Frontier Agents Across the...](http://arxiv.org/abs/2611.08933v1)
 - **2026-11-14** · *Lobsters Picks* — [Beating the frontier on NetHack](https://lobste.rs/s/kb3fs1/beating_frontier_on_nethack)
 - **2026-11-14** · *Lobsters Picks* — [Running a law firm on Free software (2026 edition)](https://lobste.rs/s/ezl1sa/running_law_firm_on_free_software_2026)
 - **2026-11-13** · *Lobsters Picks* — [Contra "Glue work considered harmful"](https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful)
 - **2026-11-13** · *Developer Tools* — [aicodeking/leanrea](https://github.com/aicodeking/leanrea)
-- **2026-11-13** · *Lobsters Picks* — [Bastion of the Turbofish](https://lobste.rs/s/b6oxoj/bastion_turbofish)
 
 ## How it works
 

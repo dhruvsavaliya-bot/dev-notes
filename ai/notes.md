@@ -24,6 +24,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.15843v1
 
+**Added 2026-11-14**
+
+### [DRAFT-Bench: Evaluating Frontier Agents Across the Professional Design Lifecycle](http://arxiv.org/abs/2611.08933v1)
+- **Authors:** Rong Pan, Jianqiang Wang
+- **Published:** 2026-11-06 | **Primary category:** cs.SE
+- **Categories:** cs.SE, cs.AI
+- **Abstract:** Can frontier general-purpose agents understand client intent, explore creative directions, execute revisions, and prepare production deliverables? We introduce DRAFT-Bench (Design Reliability Across Feedback and Tasks), a lifecycle-oriented evaluation of requirement elicitation, creative exploration, constrained editing, iterative revision, and production handoff. Its Requirement-to-Artifact framework links evolving requirements, protected properties, artifact versions, and delivery obligations....
+- **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.08933v1
+
 
 ## Models & Datasets
 
