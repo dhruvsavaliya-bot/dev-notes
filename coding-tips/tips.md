@@ -3635,6 +3635,16 @@ Que...
 - **Discussion:** https://lobste.rs/s/gejy85/adapting_cpython_for_yk
 - **Link:** https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html
 
+**Added 2026-11-13**
+
+### [Hello Baochip](https://ratfactor.com/cards/hello-baochip)
+- **Source:** ratfactor.com | **Posted:** 2026-11-12 | **By:** jbauer
+- **Community:** 52 score, 6 comments on Lobsters
+- **Tags:** hardware
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/3gw2f4/hello_baochip
+- **Link:** https://ratfactor.com/cards/hello-baochip
+
 
 ## Career & Craft
 
