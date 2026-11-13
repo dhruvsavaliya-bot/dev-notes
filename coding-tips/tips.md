@@ -3654,6 +3654,16 @@ Que...
 - **Discussion:** https://lobste.rs/s/3gw2f4/hello_baochip
 - **Link:** https://ratfactor.com/cards/hello-baochip
 
+**Added 2026-11-13**
+
+### [The anti-marketing aspect of the Gemini network](https://ploum.net/2026-11-12-anti-marketing-gemini.html)
+- **Source:** ploum.net | **Posted:** 2026-11-12 | **By:** cgrinds
+- **Community:** 35 score, 21 comments on Lobsters
+- **Tags:** web
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/pty8pn/anti_marketing_aspect_gemini_network
+- **Link:** https://ploum.net/2026-11-12-anti-marketing-gemini.html
+
 
 ## Career & Craft
 
