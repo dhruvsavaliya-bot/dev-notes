@@ -67,6 +67,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~274 stars/day since launch.
 - **Link:** https://github.com/jamesondh/chimera-vocal-synth
 
+**Added 2026-11-13**
+
+### [marorateb/burning-studio-desktop](https://github.com/marorateb/burning-studio-desktop)
+- **Stats:** 1,102 stars | 0 forks | 0 open issues
+- **Language:** HTML | **Created:** 2026-11-06 | **License:** MIT
+- **Topics:** ashampoo-burn-install-setup-windows-2026, ashampoo-burning-studio, burning-studio, burning-studio-2026, burning-studio-crack, burning-studio-download
+- **What it is:** Burning Studio 2026: Complete Standalone Desktop Setup with Full Feature Configuration
+- **Growth:** averaging ~157 stars/day since launch.
+- **Link:** https://github.com/marorateb/burning-studio-desktop
+
 
 ## Web & Frontend
 

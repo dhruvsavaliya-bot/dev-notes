@@ -991,6 +991,7 @@
     "https://github.com/lukks/like-webrtc",
     "https://github.com/magnitudedev/magnitude",
     "https://github.com/makecindy/cindy",
+    "https://github.com/marorateb/burning-studio-desktop",
     "https://github.com/mattprusak/autoresearch-genealogy",
     "https://github.com/mayswind/ezbookkeeping",
     "https://github.com/mchughalex/skate3recomp",
@@ -2835,12 +2836,6 @@
   "recent": [
     {
       "date": "2026-11-13",
-      "subcat": "AI & Machine Learning",
-      "title": "Pan-Chera/Multi-Agent-CAD",
-      "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
-    },
-    {
-      "date": "2026-11-13",
       "subcat": "Lobsters Picks",
       "title": "The anti-marketing aspect of the Gemini network",
       "url": "https://lobste.rs/s/pty8pn/anti_marketing_aspect_gemini_network"
@@ -2892,6 +2887,12 @@
       "subcat": "Lobsters Picks",
       "title": "Unit tests mark territory more than squash bugs",
       "url": "https://lobste.rs/s/mkv2pl/unit_tests_mark_territory_more_than"
+    },
+    {
+      "date": "2026-11-13",
+      "subcat": "Other Cool Projects",
+      "title": "marorateb/burning-studio-desktop",
+      "url": "https://github.com/marorateb/burning-studio-desktop"
     }
   ]
 }
