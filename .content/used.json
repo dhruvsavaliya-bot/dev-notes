@@ -1773,6 +1773,7 @@
     "https://lobste.rs/s/yihs7m/understanding_org_s_latex_previews",
     "https://lobste.rs/s/yomksa/reflections_on_rust_llm_age",
     "https://lobste.rs/s/yoywed/software_line_specialist",
+    "https://lobste.rs/s/yrpo2q/paths_pieces",
     "https://lobste.rs/s/ysyqnt/small_web_is_huge",
     "https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn",
     "https://lobste.rs/s/yxuvie/alpinebsd",
@@ -2576,6 +2577,7 @@
     "https://stillwet.art/",
     "https://stitcher.io/blog/new-in-php-85",
     "https://stitcher.io/blog/php-in-2021",
+    "https://stoppels.ch/2026/11/12/paths-in-pieces.html",
     "https://strandsagents.com/blog/introducing-strands-decider/",
     "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
     "https://stripeacross.com/posts/poisson-disk-sampling/",
@@ -2803,12 +2805,6 @@
   "recent": [
     {
       "date": "2026-11-12",
-      "subcat": "Lobsters Picks",
-      "title": "Hijacking Samsung TV Smart Hub Ads",
-      "url": "https://lobste.rs/s/2drgwh/hijacking_samsung_tv_smart_hub_ads"
-    },
-    {
-      "date": "2026-11-12",
       "subcat": "Research Papers",
       "title": "A Stage-Wise Explainable Pipeline for...",
       "url": "http://arxiv.org/abs/2611.14013v1"
@@ -2860,6 +2856,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: OmniDiff  Opensource, super fast, content...",
       "url": "https://news.ycombinator.com/item?id=50325253"
+    },
+    {
+      "date": "2026-11-13",
+      "subcat": "Lobsters Picks",
+      "title": "Paths in pieces",
+      "url": "https://lobste.rs/s/yrpo2q/paths_pieces"
     }
   ]
 }
