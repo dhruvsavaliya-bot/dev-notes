@@ -34,6 +34,17 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~51 stars/day since launch.
 - **Link:** https://github.com/shy3130/tick-stock-panel
 
+**Added 2026-11-13**
+
+### [Pan-Chera/Multi-Agent-CAD](https://github.com/Pan-Chera/Multi-Agent-CAD)
+- **Stats:** 1,081 stars | 101 forks | 1 open issues
+- **Language:** Python | **Created:** 2026-07-30 | **License:** MIT
+- **Topics:** 3d-modeling, 3d-printing, agent-pipeline, aider, assembly, build123d
+- **What it is:** MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute
+- **Growth:** averaging ~10 stars/day since launch.
+- **Link:** https://github.com/Pan-Chera/Multi-Agent-CAD
+
+
 ## Other Cool Projects
 
 **Added 2026-11-13**
