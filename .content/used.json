@@ -91,6 +91,7 @@
     "http://arxiv.org/abs/2610.35782v1",
     "http://arxiv.org/abs/2610.36269v1",
     "http://arxiv.org/abs/2610.36584v1",
+    "http://arxiv.org/abs/2610.36589v1",
     "http://arxiv.org/abs/2610.36617v1",
     "http://arxiv.org/abs/2610.36717v1",
     "http://arxiv.org/abs/2610.37126v1",
@@ -2809,12 +2810,6 @@
   "recent": [
     {
       "date": "2026-11-13",
-      "subcat": "Lobsters Picks",
-      "title": "Adapting CPython for yk",
-      "url": "https://lobste.rs/s/gejy85/adapting_cpython_for_yk"
-    },
-    {
-      "date": "2026-11-13",
       "subcat": "Research Papers",
       "title": "A Matched Evaluation of QUBO Action Models and...",
       "url": "http://arxiv.org/abs/2611.02179v1"
@@ -2866,6 +2861,12 @@
       "subcat": "Lobsters Picks",
       "title": "Hello Baochip",
       "url": "https://lobste.rs/s/3gw2f4/hello_baochip"
+    },
+    {
+      "date": "2026-11-13",
+      "subcat": "Research Papers",
+      "title": "InfraDev: Can Coding Agents Develop AI...",
+      "url": "http://arxiv.org/abs/2610.36589v1"
     }
   ]
 }
