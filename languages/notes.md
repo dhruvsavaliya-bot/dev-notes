@@ -2826,6 +2826,16 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Discussion:** https://lobste.rs/s/81hnjw/announcing_rust_1_100_0
 - **Link:** https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/
 
+**Added 2026-11-13**
+
+### [Google Summer of Code 2026 results](https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/)
+- **Source:** blog.rust-lang.org | **Posted:** 2026-11-11 | **By:** ohrv
+- **Community:** 19 score, 0 comments on Lobsters
+- **Tags:** rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/uz2j2h/google_summer_code_2026_results
+- **Link:** https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/
+
 
 ## Elixir
 

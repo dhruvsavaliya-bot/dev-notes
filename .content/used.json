@@ -243,6 +243,7 @@
     "https://blog.roboflow.com/openai-gpt-5-6/",
     "https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/",
     "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
+    "https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/",
     "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
     "https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5",
     "https://blog.webb.page/WM-105",
@@ -1754,6 +1755,7 @@
     "https://lobste.rs/s/ul9krj/hacking_go_compiler_efficiently_map_ipv4",
     "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
     "https://lobste.rs/s/urg4yu/unattended_reboots_with_encrypted_disks",
+    "https://lobste.rs/s/uz2j2h/google_summer_code_2026_results",
     "https://lobste.rs/s/v3uidx/lock_your_github_actions",
     "https://lobste.rs/s/vbx0g4/look_at_datastar",
     "https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants",
@@ -2827,12 +2829,6 @@
   "recent": [
     {
       "date": "2026-11-13",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Impossible Machines: declaratively program...",
-      "url": "https://news.ycombinator.com/item?id=50202746"
-    },
-    {
-      "date": "2026-11-13",
       "subcat": "Models & Datasets",
       "title": "PrunaAI/P-H3-Image",
       "url": "https://huggingface.co/PrunaAI/P-H3-Image"
@@ -2884,6 +2880,12 @@
       "subcat": "Other Cool Projects",
       "title": "jamesondh/chimera-vocal-synth",
       "url": "https://github.com/jamesondh/chimera-vocal-synth"
+    },
+    {
+      "date": "2026-11-13",
+      "subcat": "Rust",
+      "title": "Google Summer of Code 2026 results",
+      "url": "https://lobste.rs/s/uz2j2h/google_summer_code_2026_results"
     }
   ]
 }
