@@ -1631,6 +1631,7 @@
     "https://lobste.rs/s/ep5vsq/beating_compiler_at_signed_32_bit",
     "https://lobste.rs/s/erkjnx/gist_go_concurrency",
     "https://lobste.rs/s/f1nsnm/hacking_t_mobile_sidekick_20_years_too",
+    "https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful",
     "https://lobste.rs/s/fgucra/observations_from_running",
     "https://lobste.rs/s/fmawla/enlightenment_0_28_0_release",
     "https://lobste.rs/s/g2ktrq/chasing_o2_pessimization_antcc",
@@ -2618,6 +2619,7 @@
     "https://substack.com/home/post/p-186191026",
     "https://sujithjay.com/inventing-work",
     "https://sunshowers.io/posts/anthropic-mononoke/",
+    "https://sunshowers.io/posts/glue-work/",
     "https://sunshowers.io/posts/sshole/",
     "https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en",
     "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
@@ -2841,12 +2843,6 @@
   "recent": [
     {
       "date": "2026-11-13",
-      "subcat": "Other Cool Projects",
-      "title": "jamesondh/chimera-vocal-synth",
-      "url": "https://github.com/jamesondh/chimera-vocal-synth"
-    },
-    {
-      "date": "2026-11-13",
       "subcat": "Rust",
       "title": "Google Summer of Code 2026 results",
       "url": "https://lobste.rs/s/uz2j2h/google_summer_code_2026_results"
@@ -2898,6 +2894,12 @@
       "subcat": "Developer Tools",
       "title": "aicodeking/leanrea",
       "url": "https://github.com/aicodeking/leanrea"
+    },
+    {
+      "date": "2026-11-13",
+      "subcat": "Lobsters Picks",
+      "title": "Contra \"Glue work considered harmful\"",
+      "url": "https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful"
     }
   ]
 }

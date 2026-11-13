@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2009 entries and counting** · Last updated: 2026-11-13
+**2010 entries and counting** · Last updated: 2026-11-13
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 409 |
 | [AI / LLM Notes](ai/notes.md) | 403 |
 | [Reading List](articles/reading-list.md) | 408 |
-| [Coding Tips](coding-tips/tips.md) | 400 |
+| [Coding Tips](coding-tips/tips.md) | 401 |
 | [Language Notes](languages/notes.md) | 389 |
 
 ## Latest additions
 
+- **2026-11-13** · *Lobsters Picks* — [Contra "Glue work considered harmful"](https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful)
 - **2026-11-13** · *Developer Tools* — [aicodeking/leanrea](https://github.com/aicodeking/leanrea)
 - **2026-11-13** · *Lobsters Picks* — [Bastion of the Turbofish](https://lobste.rs/s/b6oxoj/bastion_turbofish)
 - **2026-11-13** · *Lobsters Picks* — [How Not to Build a Music Player](https://lobste.rs/s/lh9pwf/how_not_build_music_player)
 - **2026-11-13** · *Other Cool Projects* — [marorateb/burning-studio-desktop](https://github.com/marorateb/burning-studio-desktop)
-- **2026-11-13** · *Lobsters Picks* — [Unit tests mark territory more than squash bugs](https://lobste.rs/s/mkv2pl/unit_tests_mark_territory_more_than)
 
 ## How it works
 
