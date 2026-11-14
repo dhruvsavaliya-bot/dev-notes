@@ -177,6 +177,7 @@
     "https://antithesis.com/blog/2026/nethack/",
     "https://antonz.org/go-concurrency-distilled/",
     "https://antonz.org/go-concurrency/",
+    "https://antonz.org/probabilistic-data-structures/",
     "https://anycrap.shop/",
     "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
     "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
@@ -1800,6 +1801,7 @@
     "https://lobste.rs/s/wuiaba/deterministic_concurrency",
     "https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites",
     "https://lobste.rs/s/x4kaac/30_years_internet_transfers_with_curl",
+    "https://lobste.rs/s/xca2qj/probabilistic_data_structures_go",
     "https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel",
     "https://lobste.rs/s/xpyahx/grubby_static_site_generator_for_git",
     "https://lobste.rs/s/xsz9sc/docker_is_weird",
@@ -2858,12 +2860,6 @@
   "recent": [
     {
       "date": "2026-11-14",
-      "subcat": "Lobsters Picks",
-      "title": "Beating the frontier on NetHack",
-      "url": "https://lobste.rs/s/kb3fs1/beating_frontier_on_nethack"
-    },
-    {
-      "date": "2026-11-14",
       "subcat": "Research Papers",
       "title": "DRAFT-Bench: Evaluating Frontier Agents Across the...",
       "url": "http://arxiv.org/abs/2611.08933v1"
@@ -2915,6 +2911,12 @@
       "subcat": "Research Papers",
       "title": "MARS: Multi-Specialist LLM Relay System for...",
       "url": "http://arxiv.org/abs/2608.23918v1"
+    },
+    {
+      "date": "2026-11-14",
+      "subcat": "Lobsters Picks",
+      "title": "Probabilistic data structures in Go",
+      "url": "https://lobste.rs/s/xca2qj/probabilistic_data_structures_go"
     }
   ]
 }

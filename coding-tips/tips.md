@@ -34,6 +34,17 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://lobste.rs/s/kb3fs1/beating_frontier_on_nethack
 - **Link:** https://antithesis.com/blog/2026/nethack/
 
+**Added 2026-11-14**
+
+### [Probabilistic data structures in Go](https://antonz.org/probabilistic-data-structures/)
+- **Source:** antonz.org | **Posted:** 2026-11-13 | **By:** cgrinds
+- **Community:** 34 score, 9 comments on Lobsters
+- **Tags:** go
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/xca2qj/probabilistic_data_structures_go
+- **Link:** https://antonz.org/probabilistic-data-structures/
+
+
 ## Show & Ask HN
 
 **Added 2026-11-14**
