@@ -64,6 +64,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.06229v1
 
+**Added 2026-11-15**
+
+### [Relational-Core Graph Analytics Querying graphs at SQL scale, and why the node/edge model is a performance tax, not a truer picture of connected data](http://arxiv.org/abs/2609.01525v1)
+- **Authors:** Gene Zhang
+- **Published:** 2026-09-01 | **Primary category:** cs.PL
+- **Categories:** cs.DB, cs.AI, cs.PL
+- **Abstract:** A durable assumption holds that graph analytics requires a purpose-built graph engine, and that relational systems are ill-suited to connected data. We argue the opposite for the workloads enterprises actually run. A columnar relational engine fronted by a graph query language matches or exceeds native graph engines on analytical graph queries, and - decisively - scales past the point where in-memory graph engines fail. We further argue that the node/edge property graph is not a more faithful mo...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.01525v1
+
 
 ## Models & Datasets
 

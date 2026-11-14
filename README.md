@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2036 entries and counting** · Last updated: 2026-11-15
+**2037 entries and counting** · Last updated: 2026-11-15
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 411 |
-| [AI / LLM Notes](ai/notes.md) | 410 |
+| [AI / LLM Notes](ai/notes.md) | 411 |
 | [Reading List](articles/reading-list.md) | 411 |
 | [Coding Tips](coding-tips/tips.md) | 410 |
 | [Language Notes](languages/notes.md) | 394 |
 
 ## Latest additions
 
+- **2026-11-15** · *Research Papers* — [Relational-Core Graph Analytics Querying graphs at...](http://arxiv.org/abs/2609.01525v1)
 - **2026-11-15** · *Show & Ask HN* — [Ask HN: What are the most useful, concrete AI skills...](https://news.ycombinator.com/item?id=50494696)
 - **2026-11-15** · *Show & Ask HN* — [Show HN: SlideBySide  Present slides without sharing...](https://news.ycombinator.com/item?id=50276883)
 - **2026-11-15** · *Swift* — [Fitting Four 32 GB Resizable Bars Behind a PCIe...](https://news.ycombinator.com/item?id=50468720)
 - **2026-11-15** · *JavaScript* — [Show HN: Get your coding agent off ~2019 JavaScript...](https://news.ycombinator.com/item?id=50443812)
-- **2026-11-14** · *AI & Machine Learning* — [SynkraAI/aiox-core](https://github.com/SynkraAI/aiox-core)
 
 ## How it works
 

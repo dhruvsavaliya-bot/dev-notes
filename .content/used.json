@@ -9,6 +9,7 @@
     "http://arxiv.org/abs/2607.24854v1",
     "http://arxiv.org/abs/2608.17032v1",
     "http://arxiv.org/abs/2608.23918v1",
+    "http://arxiv.org/abs/2609.01525v1",
     "http://arxiv.org/abs/2609.03114v1",
     "http://arxiv.org/abs/2609.05364v1",
     "http://arxiv.org/abs/2609.06743v1",
@@ -2879,12 +2880,6 @@
   "recent": [
     {
       "date": "2026-11-14",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: Microsoft/Azure Outage?",
-      "url": "https://news.ycombinator.com/item?id=50471668"
-    },
-    {
-      "date": "2026-11-14",
       "subcat": "Research Papers",
       "title": "Reassessing Dataset Quality and Fine-Tuning Practices...",
       "url": "http://arxiv.org/abs/2611.06373v1"
@@ -2936,6 +2931,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: What are the most useful, concrete AI skills...",
       "url": "https://news.ycombinator.com/item?id=50494696"
+    },
+    {
+      "date": "2026-11-15",
+      "subcat": "Research Papers",
+      "title": "Relational-Core Graph Analytics Querying graphs at...",
+      "url": "http://arxiv.org/abs/2609.01525v1"
     }
   ]
 }
