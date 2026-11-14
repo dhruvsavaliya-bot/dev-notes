@@ -1472,6 +1472,7 @@
     "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
     "https://huggingface.co/zai-org/GLM-4.6",
     "https://huggingface.co/zai-org/GLM-5.1",
+    "https://huggingface.co/zai-org/GLM-5.3",
     "https://huggingface.co/zai-org/GLM-5.3-Flash",
     "https://huggingface.co/zai-org/chatglm3-6b",
     "https://hugovk.dev/blog/2026/lock-github-actions/",
@@ -2861,12 +2862,6 @@
   "recent": [
     {
       "date": "2026-11-14",
-      "subcat": "Lobsters Picks",
-      "title": "What's new in Node.js 27",
-      "url": "https://lobste.rs/s/vtjjbc/what_s_new_node_js_27"
-    },
-    {
-      "date": "2026-11-14",
       "subcat": "Ruby",
       "title": "Long Live Rails",
       "url": "https://dev.to/ben/long-live-rails-3p21"
@@ -2918,6 +2913,12 @@
       "subcat": "Productivity",
       "title": "What does a 30-second AI video cost in 2026?",
       "url": "https://dev.to/chet103cc/what-does-a-30-second-ai-video-cost-in-2026-3pdd"
+    },
+    {
+      "date": "2026-11-14",
+      "subcat": "Models & Datasets",
+      "title": "zai-org/GLM-5.3",
+      "url": "https://huggingface.co/zai-org/GLM-5.3"
     }
   ]
 }

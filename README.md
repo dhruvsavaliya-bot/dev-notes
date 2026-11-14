@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2023 entries and counting** · Last updated: 2026-11-14
+**2024 entries and counting** · Last updated: 2026-11-14
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 409 |
-| [AI / LLM Notes](ai/notes.md) | 406 |
+| [AI / LLM Notes](ai/notes.md) | 407 |
 | [Reading List](articles/reading-list.md) | 410 |
 | [Coding Tips](coding-tips/tips.md) | 407 |
 | [Language Notes](languages/notes.md) | 391 |
 
 ## Latest additions
 
+- **2026-11-14** · *Models & Datasets* — [zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3)
 - **2026-11-14** · *Productivity* — [What does a 30-second AI video cost in 2026?](https://dev.to/chet103cc/what-does-a-30-second-ai-video-cost-in-2026-3pdd)
 - **2026-11-14** · *Lobsters Picks* — [Probabilistic data structures in Go](https://lobste.rs/s/xca2qj/probabilistic_data_structures_go)
 - **2026-11-14** · *Research Papers* — [MARS: Multi-Specialist LLM Relay System for...](http://arxiv.org/abs/2608.23918v1)
 - **2026-11-14** · *Show & Ask HN* — [U.S. October PPI Rises 6.5% YoY, Highest in Nearly...](https://news.ycombinator.com/item?id=50484421)
-- **2026-11-14** · *Hacker News Picks* — [Ukraine knocks out 36% of Russia's oil refining...](https://news.ycombinator.com/item?id=50492456)
 
 ## How it works
 

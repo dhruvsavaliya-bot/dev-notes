@@ -64,3 +64,12 @@ The best recent AI engineering content, organized by area.
 - **Tags:** safetensors, zdtaichu5_0, multimodal, vision-language-model, spatial-reasoning, agent
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/TaichuAI/ZDTaichu5.0-9B
+
+**Added 2026-11-14**
+
+### [zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3)
+- **Stats:** 2,446 likes | 1,853,368 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-08-25
+- **Tags:** transformers, safetensors, glm_moe_dsa, text-generation, conversational, en
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/zai-org/GLM-5.3
