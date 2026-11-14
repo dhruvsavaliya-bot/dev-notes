@@ -781,6 +781,16 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~59 stars/day since launch.
 - **Link:** https://github.com/pablostanley/yoinks
 
+**Added 2026-11-14**
+
+### [swamimalode07/rare-ui](https://github.com/swamimalode07/rare-ui)
+- **Stats:** 2,070 stars | 101 forks | 14 open issues
+- **Language:** TypeScript | **Created:** 2026-06-10 | **License:** NOASSERTION
+- **Topics:** components, nextjs, reactjs, shadcn-ui
+- **What it is:** A collection of rare, ready-to-use UI components and animations you can actually drop into your next project. Free and open source.
+- **Growth:** averaging ~13 stars/day since launch.
+- **Link:** https://github.com/swamimalode07/rare-ui
+
 
 ## Python
 
