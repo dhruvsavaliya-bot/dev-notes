@@ -1055,6 +1055,7 @@
     "https://github.com/openai/codex/issues/37674",
     "https://github.com/openai/math",
     "https://github.com/openai/symphony",
+    "https://github.com/openclaw/wacli",
     "https://github.com/openfilm/openfilm",
     "https://github.com/openobserve/openobserve",
     "https://github.com/oso95/scroll-world",
@@ -2867,12 +2868,6 @@
   "recent": [
     {
       "date": "2026-11-14",
-      "subcat": "Hacker News Picks",
-      "title": "Ukraine knocks out 36% of Russia's oil refining...",
-      "url": "https://news.ycombinator.com/item?id=50492456"
-    },
-    {
-      "date": "2026-11-14",
       "subcat": "Show & Ask HN",
       "title": "U.S. October PPI Rises 6.5% YoY, Highest in Nearly...",
       "url": "https://news.ycombinator.com/item?id=50484421"
@@ -2924,6 +2919,12 @@
       "subcat": "Research Papers",
       "title": "Reassessing Dataset Quality and Fine-Tuning Practices...",
       "url": "http://arxiv.org/abs/2611.06373v1"
+    },
+    {
+      "date": "2026-11-14",
+      "subcat": "Developer Tools",
+      "title": "openclaw/wacli",
+      "url": "https://github.com/openclaw/wacli"
     }
   ]
 }

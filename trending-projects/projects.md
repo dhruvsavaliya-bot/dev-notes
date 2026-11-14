@@ -101,3 +101,13 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.
 - **Growth:** averaging ~157 stars/day since launch.
 - **Link:** https://github.com/aicodeking/leanrea
+
+**Added 2026-11-14**
+
+### [openclaw/wacli](https://github.com/openclaw/wacli)
+- **Stats:** 2,930 stars | 393 forks | 43 open issues
+- **Language:** Go | **Created:** 2025-12-12 | **License:** MIT
+- **Topics:** cli, go, whatsapp
+- **What it is:** WhatsApp CLI: sync, search, send
+- **Growth:** averaging ~8 stars/day since launch.
+- **Link:** https://github.com/openclaw/wacli
