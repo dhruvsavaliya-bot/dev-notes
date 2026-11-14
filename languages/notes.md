@@ -2865,6 +2865,15 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Discussion:** https://lobste.rs/s/uz2j2h/google_summer_code_2026_results
 - **Link:** https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/
 
+**Added 2026-11-14**
+
+### [What's new in the .NET 11 runtime](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime)
+- **Source:** learn.microsoft.com | **Posted:** 2026-11-10 | **By:** stevefan1999
+- **Community:** 256 points, 1 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50439284
+- **Link:** https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime
+
 
 ## Elixir
 
