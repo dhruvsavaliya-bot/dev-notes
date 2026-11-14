@@ -2461,6 +2461,15 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Discussion:** https://news.ycombinator.com/item?id=50454625
 - **Link:** https://github.com/FrigadeHQ/yogurt
 
+**Added 2026-11-15**
+
+### [Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux](https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/)
+- **Source:** doug.sh | **Posted:** 2026-11-12 | **By:** dougcalobrisi
+- **Community:** 93 points, 37 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50468720
+- **Link:** https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/
+
 
 ## Rust
 

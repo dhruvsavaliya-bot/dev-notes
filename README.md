@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2033 entries and counting** · Last updated: 2026-11-15
+**2034 entries and counting** · Last updated: 2026-11-15
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 410 |
 | [Reading List](articles/reading-list.md) | 411 |
 | [Coding Tips](coding-tips/tips.md) | 408 |
-| [Language Notes](languages/notes.md) | 393 |
+| [Language Notes](languages/notes.md) | 394 |
 
 ## Latest additions
 
+- **2026-11-15** · *Swift* — [Fitting Four 32 GB Resizable Bars Behind a PCIe...](https://news.ycombinator.com/item?id=50468720)
 - **2026-11-15** · *JavaScript* — [Show HN: Get your coding agent off ~2019 JavaScript...](https://news.ycombinator.com/item?id=50443812)
 - **2026-11-14** · *AI & Machine Learning* — [SynkraAI/aiox-core](https://github.com/SynkraAI/aiox-core)
 - **2026-11-14** · *Research Papers* — [Bug2Scenario: Root-Cause-Preserving Test Scenario...](http://arxiv.org/abs/2611.06229v1)
 - **2026-11-14** · *Lobsters Picks* — [Someone's impersonating this blog](https://lobste.rs/s/wqml56/someone_s_impersonating_this_blog)
-- **2026-11-14** · *Developer Tools* — [openclaw/wacli](https://github.com/openclaw/wacli)
 
 ## How it works
 

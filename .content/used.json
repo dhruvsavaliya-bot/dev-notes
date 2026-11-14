@@ -548,6 +548,7 @@
     "https://doeken.org/blog/coroutines-in-php",
     "https://dontwordle.com/",
     "https://dosdays.co.uk/topics/Software/borland_turbo_basic.php",
+    "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
     "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
     "https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/",
     "https://dylancastillo.co/posts/pelicanmaxxing.html",
@@ -2505,6 +2506,7 @@
     "https://news.ycombinator.com/item?id=50450007",
     "https://news.ycombinator.com/item?id=50454625",
     "https://news.ycombinator.com/item?id=50462177",
+    "https://news.ycombinator.com/item?id=50468720",
     "https://news.ycombinator.com/item?id=50471668",
     "https://news.ycombinator.com/item?id=50484421",
     "https://news.ycombinator.com/item?id=50492456",
@@ -2874,12 +2876,6 @@
   "recent": [
     {
       "date": "2026-11-14",
-      "subcat": "Models & Datasets",
-      "title": "zai-org/GLM-5.3",
-      "url": "https://huggingface.co/zai-org/GLM-5.3"
-    },
-    {
-      "date": "2026-11-14",
       "subcat": "Rust",
       "title": "What's new in the .NET 11 runtime",
       "url": "https://news.ycombinator.com/item?id=50439284"
@@ -2931,6 +2927,12 @@
       "subcat": "JavaScript",
       "title": "Show HN: Get your coding agent off ~2019 JavaScript...",
       "url": "https://news.ycombinator.com/item?id=50443812"
+    },
+    {
+      "date": "2026-11-15",
+      "subcat": "Swift",
+      "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe...",
+      "url": "https://news.ycombinator.com/item?id=50468720"
     }
   ]
 }
