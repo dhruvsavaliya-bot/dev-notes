@@ -54,6 +54,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.06373v1
 
+**Added 2026-11-14**
+
+### [Bug2Scenario: Root-Cause-Preserving Test Scenario Amplification for Autonomous Driving Software](http://arxiv.org/abs/2611.06229v1)
+- **Authors:** Yuchen Cao, Zhenyu Mao, Jacky Wai Keung, Yifei Wang et al.
+- **Published:** 2026-11-04 | **Primary category:** cs.SE
+- **Categories:** cs.SE
+- **Abstract:** Simulation-based fuzzing exposes autonomous driving system (ADS) failures by repeatedly mutating and executing scenarios, but converting one failure into reusable regression scenarios remains difficult. Such variants test whether the mechanism persists after software changes, for example by varying weather or actor placement while retaining a collision's actor-route conflict. We present Bug2Scenario, a root-cause-guided post-fuzzing framework. From scenario data, traces, and oracle evidence, it ...
+- **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.06229v1
+
 
 ## Models & Datasets
 

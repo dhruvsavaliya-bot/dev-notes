@@ -112,6 +112,7 @@
     "http://arxiv.org/abs/2611.05168v1",
     "http://arxiv.org/abs/2611.05427v1",
     "http://arxiv.org/abs/2611.05731v1",
+    "http://arxiv.org/abs/2611.06229v1",
     "http://arxiv.org/abs/2611.06373v1",
     "http://arxiv.org/abs/2611.06711v1",
     "http://arxiv.org/abs/2611.07367v1",
@@ -2870,12 +2871,6 @@
   "recent": [
     {
       "date": "2026-11-14",
-      "subcat": "Research Papers",
-      "title": "MARS: Multi-Specialist LLM Relay System for...",
-      "url": "http://arxiv.org/abs/2608.23918v1"
-    },
-    {
-      "date": "2026-11-14",
       "subcat": "Lobsters Picks",
       "title": "Probabilistic data structures in Go",
       "url": "https://lobste.rs/s/xca2qj/probabilistic_data_structures_go"
@@ -2927,6 +2922,12 @@
       "subcat": "Lobsters Picks",
       "title": "Someone's impersonating this blog",
       "url": "https://lobste.rs/s/wqml56/someone_s_impersonating_this_blog"
+    },
+    {
+      "date": "2026-11-14",
+      "subcat": "Research Papers",
+      "title": "Bug2Scenario: Root-Cause-Preserving Test Scenario...",
+      "url": "http://arxiv.org/abs/2611.06229v1"
     }
   ]
 }
