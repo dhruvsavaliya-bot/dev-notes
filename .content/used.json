@@ -1803,6 +1803,7 @@
     "https://lobste.rs/s/wn293o/interactive_refactoring_gopls",
     "https://lobste.rs/s/wno4h3/understanding_nix_flakes",
     "https://lobste.rs/s/wq1csk/elixir_v1_20_released_now_gradually_typed",
+    "https://lobste.rs/s/wqml56/someone_s_impersonating_this_blog",
     "https://lobste.rs/s/wtthju/a5_v1_0",
     "https://lobste.rs/s/wuiaba/deterministic_concurrency",
     "https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites",
@@ -1854,6 +1855,7 @@
     "https://mastodon.sdf.org/@netbsd/117518160563539748",
     "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
     "https://matklad.github.io/2026/10/29/pub-calls-pub.html",
+    "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/",
     "https://maurycyz.com/projects/badcert/",
     "https://maxxbench.unlap.ai/research/why-maxxbench/",
     "https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/",
@@ -2868,12 +2870,6 @@
   "recent": [
     {
       "date": "2026-11-14",
-      "subcat": "Show & Ask HN",
-      "title": "U.S. October PPI Rises 6.5% YoY, Highest in Nearly...",
-      "url": "https://news.ycombinator.com/item?id=50484421"
-    },
-    {
-      "date": "2026-11-14",
       "subcat": "Research Papers",
       "title": "MARS: Multi-Specialist LLM Relay System for...",
       "url": "http://arxiv.org/abs/2608.23918v1"
@@ -2925,6 +2921,12 @@
       "subcat": "Developer Tools",
       "title": "openclaw/wacli",
       "url": "https://github.com/openclaw/wacli"
+    },
+    {
+      "date": "2026-11-14",
+      "subcat": "Lobsters Picks",
+      "title": "Someone's impersonating this blog",
+      "url": "https://lobste.rs/s/wqml56/someone_s_impersonating_this_blog"
     }
   ]
 }

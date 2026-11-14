@@ -85,6 +85,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/vtjjbc/what_s_new_node_js_27
 - **Link:** https://nodejsdesignpatterns.com/blog/whats-new-in-nodejs-27/
 
+**Added 2026-11-14**
+
+### [Someone's impersonating this blog](https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/)
+- **Source:** mattbee.mataroa.blog | **Posted:** 2026-11-13 | **By:** classichasclass
+- **Community:** 36 score, 2 comments on Lobsters
+- **Tags:** security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/wqml56/someone_s_impersonating_this_blog
+- **Link:** https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/
+
 
 ## Security
 
