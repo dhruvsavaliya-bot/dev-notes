@@ -64,3 +64,14 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=50484421
 - **Link:** https://news.ycombinator.com/item?id=50484421
+
+## Productivity
+
+**Added 2026-11-14**
+
+### [What does a 30-second AI video cost in 2026?](https://dev.to/chet103cc/what-does-a-30-second-ai-video-cost-in-2026-3pdd)
+- **Author:** chet100 | **Published:** Nov 11 | **Read time:** 3 min
+- **Community:** 56 reactions, 5 comments -- a top post in #productivity
+- **Tags:** ai, kling, video, productivity
+- **Summary:** Answer: a thirty-second AI video costs between about $0.30 and $6.30 depending on model and...
+- **Link:** https://dev.to/chet103cc/what-does-a-30-second-ai-video-cost-in-2026-3pdd

@@ -340,6 +340,7 @@
     "https://dev.to/ben/long-live-rails-3p21",
     "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
     "https://dev.to/chet103cc/i-grepped-for-ts-ignore-and-found-zero-then-i-grepped-for-the-cast-nobody-bans-723",
+    "https://dev.to/chet103cc/what-does-a-30-second-ai-video-cost-in-2026-3pdd",
     "https://dev.to/chief_yaml_officer/how-i-stopped-rewriting-my-code-every-time-i-switched-llm-providers-4gjh",
     "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh",
     "https://dev.to/cristea_theodora/from-localstorage-to-database-understanding-the-mongodb-structure-1a21",
@@ -2860,12 +2861,6 @@
   "recent": [
     {
       "date": "2026-11-14",
-      "subcat": "Research Papers",
-      "title": "DRAFT-Bench: Evaluating Frontier Agents Across the...",
-      "url": "http://arxiv.org/abs/2611.08933v1"
-    },
-    {
-      "date": "2026-11-14",
       "subcat": "Lobsters Picks",
       "title": "What's new in Node.js 27",
       "url": "https://lobste.rs/s/vtjjbc/what_s_new_node_js_27"
@@ -2917,6 +2912,12 @@
       "subcat": "Lobsters Picks",
       "title": "Probabilistic data structures in Go",
       "url": "https://lobste.rs/s/xca2qj/probabilistic_data_structures_go"
+    },
+    {
+      "date": "2026-11-14",
+      "subcat": "Productivity",
+      "title": "What does a 30-second AI video cost in 2026?",
+      "url": "https://dev.to/chet103cc/what-does-a-30-second-ai-video-cost-in-2026-3pdd"
     }
   ]
 }
