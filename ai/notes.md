@@ -45,3 +45,12 @@ The best recent AI engineering content, organized by area.
 - **Tags:** diffusers, safetensors, text-to-image, image-to-image, image-generation, image-editing
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/PrunaAI/P-H3-Image
+
+**Added 2026-11-14**
+
+### [TaichuAI/ZDTaichu5.0-9B](https://huggingface.co/TaichuAI/ZDTaichu5.0-9B)
+- **Stats:** 3,044 likes | 1,418 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-09-04
+- **Tags:** safetensors, zdtaichu5_0, multimodal, vision-language-model, spatial-reasoning, agent
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/TaichuAI/ZDTaichu5.0-9B

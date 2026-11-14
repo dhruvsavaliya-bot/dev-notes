@@ -1291,6 +1291,7 @@
     "https://huggingface.co/SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
     "https://huggingface.co/Scantist/GLM-5.3-SLIM-GGUF",
     "https://huggingface.co/ServiceNow-AI/Apriel-Voice-27B-preview",
+    "https://huggingface.co/TaichuAI/ZDTaichu5.0-9B",
     "https://huggingface.co/XHToken/Spark-X2.6-4B",
     "https://huggingface.co/agentionai/Qwen3.8-Flash-Next-Gyro-abliterated-Huihui-GGUF",
     "https://huggingface.co/akatz-ai/MiniMax-H3-Character-Swap-LoRA",
@@ -2853,12 +2854,6 @@
   "recent": [
     {
       "date": "2026-11-13",
-      "subcat": "Lobsters Picks",
-      "title": "Bastion of the Turbofish",
-      "url": "https://lobste.rs/s/b6oxoj/bastion_turbofish"
-    },
-    {
-      "date": "2026-11-13",
       "subcat": "Developer Tools",
       "title": "aicodeking/leanrea",
       "url": "https://github.com/aicodeking/leanrea"
@@ -2910,6 +2905,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Do you still enjoy coding in C++?",
       "url": "https://news.ycombinator.com/item?id=50423371"
+    },
+    {
+      "date": "2026-11-14",
+      "subcat": "Models & Datasets",
+      "title": "TaichuAI/ZDTaichu5.0-9B",
+      "url": "https://huggingface.co/TaichuAI/ZDTaichu5.0-9B"
     }
   ]
 }
