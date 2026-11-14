@@ -2489,6 +2489,7 @@
     "https://news.ycombinator.com/item?id=50450007",
     "https://news.ycombinator.com/item?id=50454625",
     "https://news.ycombinator.com/item?id=50462177",
+    "https://news.ycombinator.com/item?id=50484421",
     "https://news.ycombinator.com/item?id=50492456",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
@@ -2855,12 +2856,6 @@
   ],
   "recent": [
     {
-      "date": "2026-11-13",
-      "subcat": "Lobsters Picks",
-      "title": "Contra \"Glue work considered harmful\"",
-      "url": "https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful"
-    },
-    {
       "date": "2026-11-14",
       "subcat": "Lobsters Picks",
       "title": "Running a law firm on Free software (2026 edition)",
@@ -2913,6 +2908,12 @@
       "subcat": "Hacker News Picks",
       "title": "Ukraine knocks out 36% of Russia's oil refining...",
       "url": "https://news.ycombinator.com/item?id=50492456"
+    },
+    {
+      "date": "2026-11-14",
+      "subcat": "Show & Ask HN",
+      "title": "U.S. October PPI Rises 6.5% YoY, Highest in Nearly...",
+      "url": "https://news.ycombinator.com/item?id=50484421"
     }
   ]
 }

@@ -44,3 +44,12 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=50423371
 - **Link:** https://news.ycombinator.com/item?id=50423371
+
+**Added 2026-11-14**
+
+### [U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years](https://news.ycombinator.com/item?id=50484421)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-13 | **By:** moonypto
+- **Community:** 166 points, 211 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50484421
+- **Link:** https://news.ycombinator.com/item?id=50484421
