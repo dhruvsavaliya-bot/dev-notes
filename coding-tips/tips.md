@@ -33,3 +33,14 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/kb3fs1/beating_frontier_on_nethack
 - **Link:** https://antithesis.com/blog/2026/nethack/
+
+## Show & Ask HN
+
+**Added 2026-11-14**
+
+### [Ask HN: Do you still enjoy coding in C++?](https://news.ycombinator.com/item?id=50423371)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-09 | **By:** hasley
+- **Community:** 62 points, 89 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50423371
+- **Link:** https://news.ycombinator.com/item?id=50423371
