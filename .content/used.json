@@ -8,6 +8,7 @@
   "ids": [
     "http://arxiv.org/abs/2607.24854v1",
     "http://arxiv.org/abs/2608.17032v1",
+    "http://arxiv.org/abs/2608.23918v1",
     "http://arxiv.org/abs/2609.03114v1",
     "http://arxiv.org/abs/2609.05364v1",
     "http://arxiv.org/abs/2609.06743v1",
@@ -2858,12 +2859,6 @@
     {
       "date": "2026-11-14",
       "subcat": "Lobsters Picks",
-      "title": "Running a law firm on Free software (2026 edition)",
-      "url": "https://lobste.rs/s/ezl1sa/running_law_firm_on_free_software_2026"
-    },
-    {
-      "date": "2026-11-14",
-      "subcat": "Lobsters Picks",
       "title": "Beating the frontier on NetHack",
       "url": "https://lobste.rs/s/kb3fs1/beating_frontier_on_nethack"
     },
@@ -2914,6 +2909,12 @@
       "subcat": "Show & Ask HN",
       "title": "U.S. October PPI Rises 6.5% YoY, Highest in Nearly...",
       "url": "https://news.ycombinator.com/item?id=50484421"
+    },
+    {
+      "date": "2026-11-14",
+      "subcat": "Research Papers",
+      "title": "MARS: Multi-Specialist LLM Relay System for...",
+      "url": "http://arxiv.org/abs/2608.23918v1"
     }
   ]
 }

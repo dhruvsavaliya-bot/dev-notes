@@ -34,6 +34,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.08933v1
 
+**Added 2026-11-14**
+
+### [MARS: Multi-Specialist LLM Relay System for Competitive Programming](http://arxiv.org/abs/2608.23918v1)
+- **Authors:** Andrei Mikhailov, Mikhail Burtsev, Alsu Sagirova
+- **Published:** 2026-08-24 | **Primary category:** cs.PL
+- **Categories:** cs.AI, cs.MA, cs.PL
+- **Abstract:** Large Language Models excel at code generation, yet competitive programming exposes a persistent failure mode: existing multi-agent pipelines distribute work over generic planner, coder, and debugger roles and delegate the choice of algorithmic technique to the backbone alone. We present MARS (Multi-Agent Relay of Specialized LLMs), a prompt-only framework in which each agent is a topic specialist---dynamic programming, graphs, strings, geometry, and so on---grounded by retrieval-augmented gener...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2608.23918v1
+
 
 ## Models & Datasets
 
