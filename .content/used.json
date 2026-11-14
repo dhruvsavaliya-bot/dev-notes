@@ -2511,6 +2511,7 @@
     "https://news.ycombinator.com/item?id=50471668",
     "https://news.ycombinator.com/item?id=50484421",
     "https://news.ycombinator.com/item?id=50492456",
+    "https://news.ycombinator.com/item?id=50494696",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2878,12 +2879,6 @@
   "recent": [
     {
       "date": "2026-11-14",
-      "subcat": "LLMs",
-      "title": "How much does it cost to run a text game with LLMs",
-      "url": "https://dev.to/hiper2d/how-much-does-it-cost-to-run-a-text-game-with-llms-57o7"
-    },
-    {
-      "date": "2026-11-14",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Microsoft/Azure Outage?",
       "url": "https://news.ycombinator.com/item?id=50471668"
@@ -2935,6 +2930,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: SlideBySide  Present slides without sharing...",
       "url": "https://news.ycombinator.com/item?id=50276883"
+    },
+    {
+      "date": "2026-11-15",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: What are the most useful, concrete AI skills...",
+      "url": "https://news.ycombinator.com/item?id=50494696"
     }
   ]
 }

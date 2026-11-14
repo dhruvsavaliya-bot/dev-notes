@@ -83,6 +83,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50276883
 - **Link:** https://slidebyside.com/
 
+**Added 2026-11-15**
+
+### [Ask HN: What are the most useful, concrete AI skills to independently learn?](https://news.ycombinator.com/item?id=50494696)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-14 | **By:** shnock
+- **Community:** 75 points, 49 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50494696
+- **Link:** https://news.ycombinator.com/item?id=50494696
+
 
 ## Productivity
 
