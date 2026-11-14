@@ -13,6 +13,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50197601
 - **Link:** https://arc.net/
 
+**Added 2026-11-14**
+
+### [Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks](https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html)
+- **Source:** english.nv.ua | **Posted:** 2026-11-14 | **By:** kaycebasques
+- **Community:** 173 points, 64 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50492456
+- **Link:** https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html
+
+
 ## Lobsters Picks
 
 **Added 2026-11-13**
