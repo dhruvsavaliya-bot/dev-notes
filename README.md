@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2031 entries and counting** · Last updated: 2026-11-14
+**2032 entries and counting** · Last updated: 2026-11-14
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 410 |
+| [Trending Projects](trending-projects/projects.md) | 411 |
 | [AI / LLM Notes](ai/notes.md) | 410 |
 | [Reading List](articles/reading-list.md) | 411 |
 | [Coding Tips](coding-tips/tips.md) | 408 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-14** · *AI & Machine Learning* — [SynkraAI/aiox-core](https://github.com/SynkraAI/aiox-core)
 - **2026-11-14** · *Research Papers* — [Bug2Scenario: Root-Cause-Preserving Test Scenario...](http://arxiv.org/abs/2611.06229v1)
 - **2026-11-14** · *Lobsters Picks* — [Someone's impersonating this blog](https://lobste.rs/s/wqml56/someone_s_impersonating_this_blog)
 - **2026-11-14** · *Developer Tools* — [openclaw/wacli](https://github.com/openclaw/wacli)
 - **2026-11-14** · *Research Papers* — [Reassessing Dataset Quality and Fine-Tuning Practices...](http://arxiv.org/abs/2611.06373v1)
-- **2026-11-14** · *Show & Ask HN* — [Ask HN: Microsoft/Azure Outage?](https://news.ycombinator.com/item?id=50471668)
 
 ## How it works
 

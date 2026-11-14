@@ -44,6 +44,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~10 stars/day since launch.
 - **Link:** https://github.com/Pan-Chera/Multi-Agent-CAD
 
+**Added 2026-11-14**
+
+### [SynkraAI/aiox-core](https://github.com/SynkraAI/aiox-core)
+- **Stats:** 3,150 stars | 961 forks | 41 open issues
+- **Language:** JavaScript | **Created:** 2025-12-09 | **License:** NOASSERTION
+- **Topics:** agents, ai, ai-agents, automation, claude, cli
+- **What it is:** Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
+- **Growth:** averaging ~9 stars/day since launch.
+- **Link:** https://github.com/SynkraAI/aiox-core
+
 
 ## Other Cool Projects
 
