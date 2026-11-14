@@ -2497,6 +2497,7 @@
     "https://news.ycombinator.com/item?id=50450007",
     "https://news.ycombinator.com/item?id=50454625",
     "https://news.ycombinator.com/item?id=50462177",
+    "https://news.ycombinator.com/item?id=50471668",
     "https://news.ycombinator.com/item?id=50484421",
     "https://news.ycombinator.com/item?id=50492456",
     "https://news.ycombinator.com/item?id=5673032",
@@ -2865,12 +2866,6 @@
   "recent": [
     {
       "date": "2026-11-14",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: Do you still enjoy coding in C++?",
-      "url": "https://news.ycombinator.com/item?id=50423371"
-    },
-    {
-      "date": "2026-11-14",
       "subcat": "Models & Datasets",
       "title": "TaichuAI/ZDTaichu5.0-9B",
       "url": "https://huggingface.co/TaichuAI/ZDTaichu5.0-9B"
@@ -2922,6 +2917,12 @@
       "subcat": "LLMs",
       "title": "How much does it cost to run a text game with LLMs",
       "url": "https://dev.to/hiper2d/how-much-does-it-cost-to-run-a-text-game-with-llms-57o7"
+    },
+    {
+      "date": "2026-11-14",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: Microsoft/Azure Outage?",
+      "url": "https://news.ycombinator.com/item?id=50471668"
     }
   ]
 }
