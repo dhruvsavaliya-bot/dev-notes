@@ -74,6 +74,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50471668
 - **Link:** https://news.ycombinator.com/item?id=50471668
 
+**Added 2026-11-15**
+
+### [Show HN: SlideBySide – Present slides without sharing your screen](https://slidebyside.com/)
+- **Source:** slidebyside.com | **Posted:** 2026-10-28 | **By:** denismenace
+- **Community:** 84 points, 36 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50276883
+- **Link:** https://slidebyside.com/
+
 
 ## Productivity
 

@@ -2418,6 +2418,7 @@
     "https://news.ycombinator.com/item?id=50271640",
     "https://news.ycombinator.com/item?id=50272479",
     "https://news.ycombinator.com/item?id=50273396",
+    "https://news.ycombinator.com/item?id=50276883",
     "https://news.ycombinator.com/item?id=50278645",
     "https://news.ycombinator.com/item?id=50278678",
     "https://news.ycombinator.com/item?id=50286987",
@@ -2629,6 +2630,7 @@
     "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
     "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
     "https://sjer.red/blog/2024-12-21/",
+    "https://slidebyside.com/",
     "https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/",
     "https://smoores.dev/post/no_npm_estee_is_not_a_typo/",
     "https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/",
@@ -2876,12 +2878,6 @@
   "recent": [
     {
       "date": "2026-11-14",
-      "subcat": "Rust",
-      "title": "What's new in the .NET 11 runtime",
-      "url": "https://news.ycombinator.com/item?id=50439284"
-    },
-    {
-      "date": "2026-11-14",
       "subcat": "LLMs",
       "title": "How much does it cost to run a text game with LLMs",
       "url": "https://dev.to/hiper2d/how-much-does-it-cost-to-run-a-text-game-with-llms-57o7"
@@ -2933,6 +2929,12 @@
       "subcat": "Swift",
       "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe...",
       "url": "https://news.ycombinator.com/item?id=50468720"
+    },
+    {
+      "date": "2026-11-15",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: SlideBySide  Present slides without sharing...",
+      "url": "https://news.ycombinator.com/item?id=50276883"
     }
   ]
 }
