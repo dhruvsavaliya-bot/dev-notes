@@ -465,6 +465,15 @@ Snippets and gotchas across languages.
 - **Growth:** averaging ~31 stars/day since launch.
 - **Link:** https://github.com/rorygallagher2024/glasshouse
 
+**Added 2026-11-15**
+
+### [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance)
+- **Source:** github.com | **Posted:** 2026-11-10 | **By:** paulirish
+- **Community:** 443 points, 146 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50443812
+- **Link:** https://github.com/GoogleChrome/modern-web-guidance
+
 
 ## TypeScript
 

@@ -654,6 +654,7 @@
     "https://github.com/GLinnik21/plx-native",
     "https://github.com/GMGNAI/gmgn-skills",
     "https://github.com/Gathin23/cleanyourtv",
+    "https://github.com/GoogleChrome/modern-web-guidance",
     "https://github.com/GordenSun/GordenPPTSkill",
     "https://github.com/Graphicle-AI/graphicle",
     "https://github.com/HD838A/remote-mic-app",
@@ -2498,6 +2499,7 @@
     "https://news.ycombinator.com/item?id=50431971",
     "https://news.ycombinator.com/item?id=50433079",
     "https://news.ycombinator.com/item?id=50439284",
+    "https://news.ycombinator.com/item?id=50443812",
     "https://news.ycombinator.com/item?id=50446246",
     "https://news.ycombinator.com/item?id=50449748",
     "https://news.ycombinator.com/item?id=50450007",
@@ -2872,12 +2874,6 @@
   "recent": [
     {
       "date": "2026-11-14",
-      "subcat": "Productivity",
-      "title": "What does a 30-second AI video cost in 2026?",
-      "url": "https://dev.to/chet103cc/what-does-a-30-second-ai-video-cost-in-2026-3pdd"
-    },
-    {
-      "date": "2026-11-14",
       "subcat": "Models & Datasets",
       "title": "zai-org/GLM-5.3",
       "url": "https://huggingface.co/zai-org/GLM-5.3"
@@ -2929,6 +2925,12 @@
       "subcat": "AI & Machine Learning",
       "title": "SynkraAI/aiox-core",
       "url": "https://github.com/SynkraAI/aiox-core"
+    },
+    {
+      "date": "2026-11-15",
+      "subcat": "JavaScript",
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript...",
+      "url": "https://news.ycombinator.com/item?id=50443812"
     }
   ]
 }
