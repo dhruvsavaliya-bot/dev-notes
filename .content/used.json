@@ -409,6 +409,7 @@
     "https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh",
     "https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al",
     "https://dev.to/hemapriya_kanagala/what-would-you-tell-someone-early-in-their-career-1k76",
+    "https://dev.to/hiper2d/how-much-does-it-cost-to-run-a-text-game-with-llms-57o7",
     "https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp",
     "https://dev.to/infoinlet1/i-let-ai-write-100-of-my-code-for-30-days-heres-what-broke-1aa0",
     "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da",
@@ -2864,12 +2865,6 @@
   "recent": [
     {
       "date": "2026-11-14",
-      "subcat": "TypeScript",
-      "title": "swamimalode07/rare-ui",
-      "url": "https://github.com/swamimalode07/rare-ui"
-    },
-    {
-      "date": "2026-11-14",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Do you still enjoy coding in C++?",
       "url": "https://news.ycombinator.com/item?id=50423371"
@@ -2921,6 +2916,12 @@
       "subcat": "Rust",
       "title": "What's new in the .NET 11 runtime",
       "url": "https://news.ycombinator.com/item?id=50439284"
+    },
+    {
+      "date": "2026-11-14",
+      "subcat": "LLMs",
+      "title": "How much does it cost to run a text game with LLMs",
+      "url": "https://dev.to/hiper2d/how-much-does-it-cost-to-run-a-text-game-with-llms-57o7"
     }
   ]
 }

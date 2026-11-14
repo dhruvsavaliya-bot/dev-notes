@@ -73,3 +73,14 @@ The best recent AI engineering content, organized by area.
 - **Tags:** transformers, safetensors, glm_moe_dsa, text-generation, conversational, en
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/zai-org/GLM-5.3
+
+## LLMs
+
+**Added 2026-11-14**
+
+### [How much does it cost to run a text game with LLMs](https://dev.to/hiper2d/how-much-does-it-cost-to-run-a-text-game-with-llms-57o7)
+- **Author:** Aliaksei Zelianouski | **Published:** Nov 8 | **Read time:** 18 min
+- **Community:** 85 reactions, 88 comments -- a top post in #llm
+- **Tags:** ai, llm, gamedev, machinelearning
+- **Summary:** AI costs are confusing. Providers give you a lot of numbers and nothing to actually know how much you are going to pay in the long run. There is no point in these input/cached/output token prices if you have no idea how many reasoning tokens you'll spend on your tasks. How much will be cached. We are going to review the real-world usage of 27 frontier models.
+- **Link:** https://dev.to/hiper2d/how-much-does-it-cost-to-run-a-text-game-with-llms-57o7
