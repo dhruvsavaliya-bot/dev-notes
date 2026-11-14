@@ -112,6 +112,7 @@
     "http://arxiv.org/abs/2611.05168v1",
     "http://arxiv.org/abs/2611.05427v1",
     "http://arxiv.org/abs/2611.05731v1",
+    "http://arxiv.org/abs/2611.06373v1",
     "http://arxiv.org/abs/2611.06711v1",
     "http://arxiv.org/abs/2611.07367v1",
     "http://arxiv.org/abs/2611.08933v1",
@@ -2866,12 +2867,6 @@
   "recent": [
     {
       "date": "2026-11-14",
-      "subcat": "Models & Datasets",
-      "title": "TaichuAI/ZDTaichu5.0-9B",
-      "url": "https://huggingface.co/TaichuAI/ZDTaichu5.0-9B"
-    },
-    {
-      "date": "2026-11-14",
       "subcat": "Hacker News Picks",
       "title": "Ukraine knocks out 36% of Russia's oil refining...",
       "url": "https://news.ycombinator.com/item?id=50492456"
@@ -2923,6 +2918,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Microsoft/Azure Outage?",
       "url": "https://news.ycombinator.com/item?id=50471668"
+    },
+    {
+      "date": "2026-11-14",
+      "subcat": "Research Papers",
+      "title": "Reassessing Dataset Quality and Fine-Tuning Practices...",
+      "url": "http://arxiv.org/abs/2611.06373v1"
     }
   ]
 }
