@@ -117,6 +117,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~76 stars/day since launch.
 - **Link:** https://github.com/opengeos/RustGIS
 
+**Added 2026-11-16**
+
+### [horizon-rust/horizon](https://github.com/horizon-rust/horizon)
+- **Stats:** 10,211 stars | 1,718 forks | 1,110 open issues
+- **Language:** Rust | **Created:** 2026-10-03 | **License:** LGPL-3.0
+- **Topics:** differential-testing, game-engine, gamedev, linux, minecraft, minecraft-java
+- **What it is:** Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
+- **Growth:** averaging ~232 stars/day since launch.
+- **Link:** https://github.com/horizon-rust/horizon
+
 
 ## Web & Frontend
 

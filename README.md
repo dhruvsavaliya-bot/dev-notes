@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2057 entries and counting** · Last updated: 2026-11-16
+**2058 entries and counting** · Last updated: 2026-11-16
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 415 |
+| [Trending Projects](trending-projects/projects.md) | 416 |
 | [AI / LLM Notes](ai/notes.md) | 415 |
 | [Reading List](articles/reading-list.md) | 415 |
 | [Coding Tips](coding-tips/tips.md) | 414 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-16** · *Other Cool Projects* — [horizon-rust/horizon](https://github.com/horizon-rust/horizon)
 - **2026-11-16** · *Hacker News Picks* — [Lutnick Pushed to Weaken Chip Rules That Overlap with...](https://news.ycombinator.com/item?id=50506180)
 - **2026-11-16** · *Models & Datasets* — [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1)
 - **2026-11-16** · *Other Cool Projects* — [opengeos/RustGIS](https://github.com/opengeos/RustGIS)
 - **2026-11-16** · *Hacker News Picks* — [SpaceX catches the Starship to end Flight 15](https://news.ycombinator.com/item?id=50500963)
-- **2026-11-15** · *AI & Machine Learning* — [TurkeyDesignate/GitHub-Copilot-app](https://github.com/TurkeyDesignate/GitHub-Copilot-app)
 
 ## How it works
 

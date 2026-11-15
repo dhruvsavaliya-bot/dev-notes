@@ -949,6 +949,7 @@
     "https://github.com/herdrdev/herdr",
     "https://github.com/heydamir/unslop",
     "https://github.com/hoainho/img2threejs",
+    "https://github.com/horizon-rust/horizon",
     "https://github.com/huaotem-bot/gezi-quark-downloader",
     "https://github.com/huaxialucaicaizi/ai-startup-skills",
     "https://github.com/hugohe3/ppt-master",
@@ -2911,12 +2912,6 @@
   "recent": [
     {
       "date": "2026-11-15",
-      "subcat": "Python",
-      "title": "Formalizing CPython",
-      "url": "https://news.ycombinator.com/item?id=50435105"
-    },
-    {
-      "date": "2026-11-15",
       "subcat": "AI & Machine Learning",
       "title": "patch-gg/pixelfx",
       "url": "https://github.com/patch-gg/pixelfx"
@@ -2968,6 +2963,12 @@
       "subcat": "Hacker News Picks",
       "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with...",
       "url": "https://news.ycombinator.com/item?id=50506180"
+    },
+    {
+      "date": "2026-11-16",
+      "subcat": "Other Cool Projects",
+      "title": "horizon-rust/horizon",
+      "url": "https://github.com/horizon-rust/horizon"
     }
   ]
 }
