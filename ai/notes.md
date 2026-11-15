@@ -113,6 +113,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes
 
+**Added 2026-11-15**
+
+### [codepawl/abo-glb](https://huggingface.co/datasets/codepawl/abo-glb)
+- **Stats:** 126 likes | 63,523 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-11-04
+- **Tags:** 3d, gltf, glb, web, three.js, crucible
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/codepawl/abo-glb
+
 
 ## LLMs
 

@@ -1371,6 +1371,7 @@
     "https://huggingface.co/datasets/bakrianoo/jabarti-llm-dataset",
     "https://huggingface.co/datasets/bigcode/the-stack-v2",
     "https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes",
+    "https://huggingface.co/datasets/codepawl/abo-glb",
     "https://huggingface.co/datasets/codepawl/simready-glb",
     "https://huggingface.co/datasets/datacurve/deep-swe",
     "https://huggingface.co/datasets/datasocial/tiktok-5.6B-videos",
@@ -2893,12 +2894,6 @@
     {
       "date": "2026-11-15",
       "subcat": "Show & Ask HN",
-      "title": "Show HN: SlideBySide  Present slides without sharing...",
-      "url": "https://news.ycombinator.com/item?id=50276883"
-    },
-    {
-      "date": "2026-11-15",
-      "subcat": "Show & Ask HN",
       "title": "Ask HN: What are the most useful, concrete AI skills...",
       "url": "https://news.ycombinator.com/item?id=50494696"
     },
@@ -2949,6 +2944,12 @@
       "subcat": "Lobsters Picks",
       "title": "Link Previews and You",
       "url": "https://lobste.rs/s/0rmq2f/link_previews_you"
+    },
+    {
+      "date": "2026-11-15",
+      "subcat": "Models & Datasets",
+      "title": "codepawl/abo-glb",
+      "url": "https://huggingface.co/datasets/codepawl/abo-glb"
     }
   ]
 }
