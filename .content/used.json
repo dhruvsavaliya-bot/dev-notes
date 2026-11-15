@@ -2520,6 +2520,7 @@
     "https://news.ycombinator.com/item?id=50454625",
     "https://news.ycombinator.com/item?id=50462177",
     "https://news.ycombinator.com/item?id=50468720",
+    "https://news.ycombinator.com/item?id=50469994",
     "https://news.ycombinator.com/item?id=50471668",
     "https://news.ycombinator.com/item?id=50484421",
     "https://news.ycombinator.com/item?id=50492456",
@@ -2780,6 +2781,7 @@
     "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
     "https://www.gnu.org/philosophy/whats-wrong-with-github.html",
     "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+    "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
     "https://www.impossiblemachines.xyz",
     "https://www.iroh.computer/blog/iroh-global-content-discovery",
     "https://www.iroh.computer/blog/the-road-to-iroh-1-0",
@@ -2893,12 +2895,6 @@
   "recent": [
     {
       "date": "2026-11-15",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: What are the most useful, concrete AI skills...",
-      "url": "https://news.ycombinator.com/item?id=50494696"
-    },
-    {
-      "date": "2026-11-15",
       "subcat": "Research Papers",
       "title": "Relational-Core Graph Analytics Querying graphs at...",
       "url": "http://arxiv.org/abs/2609.01525v1"
@@ -2950,6 +2946,12 @@
       "subcat": "Models & Datasets",
       "title": "codepawl/abo-glb",
       "url": "https://huggingface.co/datasets/codepawl/abo-glb"
+    },
+    {
+      "date": "2026-11-15",
+      "subcat": "Swift",
+      "title": "Nintendo Takes Down Emulators and Firmware in Massive...",
+      "url": "https://news.ycombinator.com/item?id=50469994"
     }
   ]
 }

@@ -2479,6 +2479,15 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Discussion:** https://news.ycombinator.com/item?id=50468720
 - **Link:** https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/
 
+**Added 2026-11-15**
+
+### [Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep](https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep)
+- **Source:** www.ign.com | **Posted:** 2026-11-12 | **By:** CharlesW
+- **Community:** 324 points, 261 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50469994
+- **Link:** https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep
+
 
 ## Rust
 
