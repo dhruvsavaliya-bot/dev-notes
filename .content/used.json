@@ -1071,6 +1071,7 @@
     "https://github.com/openai/symphony",
     "https://github.com/openclaw/wacli",
     "https://github.com/openfilm/openfilm",
+    "https://github.com/opengeos/RustGIS",
     "https://github.com/openobserve/openobserve",
     "https://github.com/oso95/scroll-world",
     "https://github.com/outsourc-e/hermes-workspace",
@@ -2907,12 +2908,6 @@
   "recent": [
     {
       "date": "2026-11-15",
-      "subcat": "Models & Datasets",
-      "title": "codepawl/abo-glb",
-      "url": "https://huggingface.co/datasets/codepawl/abo-glb"
-    },
-    {
-      "date": "2026-11-15",
       "subcat": "Swift",
       "title": "Nintendo Takes Down Emulators and Firmware in Massive...",
       "url": "https://news.ycombinator.com/item?id=50469994"
@@ -2964,6 +2959,12 @@
       "subcat": "Hacker News Picks",
       "title": "SpaceX catches the Starship to end Flight 15",
       "url": "https://news.ycombinator.com/item?id=50500963"
+    },
+    {
+      "date": "2026-11-16",
+      "subcat": "Other Cool Projects",
+      "title": "opengeos/RustGIS",
+      "url": "https://github.com/opengeos/RustGIS"
     }
   ]
 }

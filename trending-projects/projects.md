@@ -107,6 +107,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~157 stars/day since launch.
 - **Link:** https://github.com/marorateb/burning-studio-desktop
 
+**Added 2026-11-16**
+
+### [opengeos/RustGIS](https://github.com/opengeos/RustGIS)
+- **Stats:** 2,825 stars | 418 forks | 113 open issues
+- **Language:** Rust | **Created:** 2026-10-10 | **License:** Apache-2.0
+- **Topics:** geospatial, gis, remote-sensing, rust, rust-lang
+- **What it is:** A fast, free and open-source GIS in pure Rust.
+- **Growth:** averaging ~76 stars/day since launch.
+- **Link:** https://github.com/opengeos/RustGIS
+
 
 ## Web & Frontend
 
