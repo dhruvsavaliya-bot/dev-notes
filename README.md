@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2048 entries and counting** · Last updated: 2026-11-15
+**2049 entries and counting** · Last updated: 2026-11-15
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 412 |
+| [Trending Projects](trending-projects/projects.md) | 413 |
 | [AI / LLM Notes](ai/notes.md) | 413 |
 | [Reading List](articles/reading-list.md) | 413 |
 | [Coding Tips](coding-tips/tips.md) | 413 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-15** · *AI & Machine Learning* — [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)
 - **2026-11-15** · *Python* — [Formalizing CPython](https://news.ycombinator.com/item?id=50435105)
 - **2026-11-15** · *Web & Frontend* — [Verlintas/NOIR](https://github.com/Verlintas/NOIR)
 - **2026-11-15** · *Swift* — [Nintendo Takes Down Emulators and Firmware in Massive...](https://news.ycombinator.com/item?id=50469994)
 - **2026-11-15** · *Models & Datasets* — [codepawl/abo-glb](https://huggingface.co/datasets/codepawl/abo-glb)
-- **2026-11-15** · *Lobsters Picks* — [Link Previews and You](https://lobste.rs/s/0rmq2f/link_previews_you)
 
 ## How it works
 

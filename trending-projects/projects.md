@@ -54,6 +54,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~9 stars/day since launch.
 - **Link:** https://github.com/SynkraAI/aiox-core
 
+**Added 2026-11-15**
+
+### [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)
+- **Stats:** 7,563 stars | 988 forks | 12 open issues
+- **Language:** JavaScript | **Created:** 2026-10-30 | **License:** MIT
+- **Topics:** agent-skills, animation, canvas, claude-code-plugin, gamedev, pixel-art
+- **What it is:** 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
+- **Growth:** averaging ~472 stars/day since launch.
+- **Link:** https://github.com/patch-gg/pixelfx
+
 
 ## Other Cool Projects
 
