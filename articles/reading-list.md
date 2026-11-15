@@ -31,6 +31,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50377661
 - **Link:** https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/
 
+**Added 2026-11-15**
+
+### [eMudhra intermediate CA compromise](https://emudhra.we-have-a-problem.com/)
+- **Source:** emudhra.we-have-a-problem.com | **Posted:** 2026-10-20 | **By:** galadran
+- **Community:** 1281 points, 504 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50166579
+- **Link:** https://emudhra.we-have-a-problem.com/
+
 
 ## Lobsters Picks
 
