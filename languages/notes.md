@@ -1247,6 +1247,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50216791
 - **Link:** https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8
 
+**Added 2026-11-15**
+
+### [Formalizing CPython](https://broyojo.com/python-formalization/)
+- **Source:** broyojo.com | **Posted:** 2026-11-10 | **By:** carnevalem
+- **Community:** 136 points, 62 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50435105
+- **Link:** https://broyojo.com/python-formalization/
+
 
 ## Go
 

@@ -268,6 +268,7 @@
     "https://breezepdf.com",
     "https://brennenputh.me/blog/printable-websites/",
     "https://broccoli2shell.com/",
+    "https://broyojo.com/python-formalization/",
     "https://bsandro.tech/posts/simple-netbsd-webserver/",
     "https://buf.build/blog/protobuf-lsp",
     "https://bugs.chromium.org/p/chromium/issues/detail?id=896897&desc=2#c23",
@@ -2513,6 +2514,7 @@
     "https://news.ycombinator.com/item?id=50430621",
     "https://news.ycombinator.com/item?id=50431971",
     "https://news.ycombinator.com/item?id=50433079",
+    "https://news.ycombinator.com/item?id=50435105",
     "https://news.ycombinator.com/item?id=50439284",
     "https://news.ycombinator.com/item?id=50443812",
     "https://news.ycombinator.com/item?id=50446246",
@@ -2896,12 +2898,6 @@
   "recent": [
     {
       "date": "2026-11-15",
-      "subcat": "Go",
-      "title": "Turn Your GitHub Contribution Graph Into an ASCII City",
-      "url": "https://dev.to/sizzlebop/turn-your-github-contribution-graph-into-an-ascii-city-ic5"
-    },
-    {
-      "date": "2026-11-15",
       "subcat": "Hacker News Picks",
       "title": "Uranium cubes reveal why the German nuclear project...",
       "url": "https://news.ycombinator.com/item?id=50377661"
@@ -2953,6 +2949,12 @@
       "subcat": "Web & Frontend",
       "title": "Verlintas/NOIR",
       "url": "https://github.com/Verlintas/NOIR"
+    },
+    {
+      "date": "2026-11-15",
+      "subcat": "Python",
+      "title": "Formalizing CPython",
+      "url": "https://news.ycombinator.com/item?id=50435105"
     }
   ]
 }
