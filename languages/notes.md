@@ -1256,6 +1256,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50435105
 - **Link:** https://broyojo.com/python-formalization/
 
+**Added 2026-11-15**
+
+### [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
+- **Source:** discuss.python.org | **Posted:** 2026-11-11 | **By:** ayhanfuat
+- **Community:** 1438 points, 205 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50450488
+- **Link:** https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028
+
 
 ## Go
 

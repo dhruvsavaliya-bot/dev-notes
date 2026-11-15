@@ -550,6 +550,7 @@
     "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
     "https://devlog.creusot.rs/v0-14-0/",
     "https://discourse.imfreedom.org/t/pidgin-3-0-alpha-4-2-98-0-has-been-released/445",
+    "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
     "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
     "https://doeken.org/blog/coroutines-in-php",
     "https://dontwordle.com/",
@@ -2524,6 +2525,7 @@
     "https://news.ycombinator.com/item?id=50446246",
     "https://news.ycombinator.com/item?id=50449748",
     "https://news.ycombinator.com/item?id=50450007",
+    "https://news.ycombinator.com/item?id=50450488",
     "https://news.ycombinator.com/item?id=50454625",
     "https://news.ycombinator.com/item?id=50462177",
     "https://news.ycombinator.com/item?id=50468720",
@@ -2902,12 +2904,6 @@
   "recent": [
     {
       "date": "2026-11-15",
-      "subcat": "Models & Datasets",
-      "title": "ccore/ThreeJS-3D-Scenes",
-      "url": "https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes"
-    },
-    {
-      "date": "2026-11-15",
       "subcat": "Hacker News Picks",
       "title": "eMudhra intermediate CA compromise",
       "url": "https://news.ycombinator.com/item?id=50166579"
@@ -2959,6 +2955,12 @@
       "subcat": "Lobsters Picks",
       "title": "Writing a DSL for high performance parallel...",
       "url": "https://lobste.rs/s/kh9fri/writing_dsl_for_high_performance"
+    },
+    {
+      "date": "2026-11-15",
+      "subcat": "Python",
+      "title": "Tim Peters has died",
+      "url": "https://news.ycombinator.com/item?id=50450488"
     }
   ]
 }
