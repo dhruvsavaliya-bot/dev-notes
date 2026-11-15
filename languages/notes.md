@@ -1553,6 +1553,15 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Discussion:** https://lobste.rs/s/i96uyr/mustcreate_pattern_for_go_tests
 - **Link:** https://mtlynch.io/notes/go-must-create-pattern/
 
+**Added 2026-11-15**
+
+### [Turn Your GitHub Contribution Graph Into an ASCII City](https://dev.to/sizzlebop/turn-your-github-contribution-graph-into-an-ascii-city-ic5)
+- **Author:** Jessica Doering | **Published:** Oct 3 | **Read time:** 4 min
+- **Community:** 67 reactions, 25 comments -- a top post in #go
+- **Tags:** github, opensource, go, showdev
+- **Summary:** I decided that a normal GitHub contribution graph is not enough.  So I turned mine into a city.  And...
+- **Link:** https://dev.to/sizzlebop/turn-your-github-contribution-graph-into-an-ascii-city-ic5
+
 
 ## PHP
 
