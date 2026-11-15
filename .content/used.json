@@ -171,6 +171,7 @@
     "https://aleyan.com/projects/python-iceberg/",
     "https://alichraghi.github.io/blog/how-not-to-build-a-music-player",
     "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+    "https://alistair.sh/thenables",
     "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
     "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
     "https://amutable.com/blog/systemd-loves-rust",
@@ -1834,6 +1835,7 @@
     "https://lobste.rs/s/ysyqnt/small_web_is_huge",
     "https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn",
     "https://lobste.rs/s/yxuvie/alpinebsd",
+    "https://lobste.rs/s/yxvn7j/fixing_webkit_bug_see_if_promises_are_made",
     "https://lobste.rs/s/zingk1/announcing_net_11",
     "https://lobste.rs/s/zjjvbo/work_on_gefs_good_enough_file_system_for",
     "https://lobste.rs/s/zknqct/two_kinds_sql_query_builders",
@@ -2883,12 +2885,6 @@
   "recent": [
     {
       "date": "2026-11-14",
-      "subcat": "Lobsters Picks",
-      "title": "Someone's impersonating this blog",
-      "url": "https://lobste.rs/s/wqml56/someone_s_impersonating_this_blog"
-    },
-    {
-      "date": "2026-11-14",
       "subcat": "Research Papers",
       "title": "Bug2Scenario: Root-Cause-Preserving Test Scenario...",
       "url": "http://arxiv.org/abs/2611.06229v1"
@@ -2940,6 +2936,12 @@
       "subcat": "Hacker News Picks",
       "title": "Uranium cubes reveal why the German nuclear project...",
       "url": "https://news.ycombinator.com/item?id=50377661"
+    },
+    {
+      "date": "2026-11-15",
+      "subcat": "Lobsters Picks",
+      "title": "Fixing a WebKit bug to see if promises are made of...",
+      "url": "https://lobste.rs/s/yxvn7j/fixing_webkit_bug_see_if_promises_are_made"
     }
   ]
 }

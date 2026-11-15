@@ -44,6 +44,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://lobste.rs/s/xca2qj/probabilistic_data_structures_go
 - **Link:** https://antonz.org/probabilistic-data-structures/
 
+**Added 2026-11-15**
+
+### [Fixing a WebKit bug to see if promises are made of train tracks](https://alistair.sh/thenables)
+- **Source:** alistair.sh | **Posted:** 2026-11-13 | **By:** pushcx
+- **Community:** 25 score, 2 comments on Lobsters
+- **Tags:** browsers, javascript
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/yxvn7j/fixing_webkit_bug_see_if_promises_are_made
+- **Link:** https://alistair.sh/thenables
+
 
 ## Show & Ask HN
 
