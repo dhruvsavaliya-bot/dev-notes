@@ -1437,6 +1437,7 @@
     "https://huggingface.co/destined/hurston-1",
     "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
     "https://huggingface.co/drowzeys/keys-DeepSeek-V4.1-Flash-1017-Abliterated",
+    "https://huggingface.co/google/embeddinggemma-2",
     "https://huggingface.co/google/siglip-base-patch16-224",
     "https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
     "https://huggingface.co/inclusionAI/Ming-3.0-audio-flash",
@@ -2900,12 +2901,6 @@
     {
       "date": "2026-11-15",
       "subcat": "Lobsters Picks",
-      "title": "Fixing a WebKit bug to see if promises are made of...",
-      "url": "https://lobste.rs/s/yxvn7j/fixing_webkit_bug_see_if_promises_are_made"
-    },
-    {
-      "date": "2026-11-15",
-      "subcat": "Lobsters Picks",
       "title": "Pointer Provenance in Rust vs C++",
       "url": "https://lobste.rs/s/xmtjzq/pointer_provenance_rust_vs_c"
     },
@@ -2956,6 +2951,12 @@
       "subcat": "AI & Machine Learning",
       "title": "patch-gg/pixelfx",
       "url": "https://github.com/patch-gg/pixelfx"
+    },
+    {
+      "date": "2026-11-15",
+      "subcat": "Models & Datasets",
+      "title": "google/embeddinggemma-2",
+      "url": "https://huggingface.co/google/embeddinggemma-2"
     }
   ]
 }

@@ -122,6 +122,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/codepawl/abo-glb
 
+**Added 2026-11-15**
+
+### [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)
+- **Stats:** 3,438 likes | 547,326 downloads
+- **Kind:** Hugging Face model | **Task:** feature-extraction | **Created:** 2026-09-14
+- **Tags:** transformers, safetensors, embedding_gemma2, feature-extraction, embedding, sentence-transformers
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/google/embeddinggemma-2
+
 
 ## LLMs
 
