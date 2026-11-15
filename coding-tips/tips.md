@@ -64,6 +64,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://lobste.rs/s/xmtjzq/pointer_provenance_rust_vs_c
 - **Link:** https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/
 
+**Added 2026-11-15**
+
+### [Link Previews and You](https://sable.moe/en/blog/link-previews-and-you/)
+- **Source:** sable.moe | **Posted:** 2026-11-13 | **By:** JadedBlueEyes
+- **Community:** 16 score, 6 comments on Lobsters
+- **Tags:** privacy, web
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/0rmq2f/link_previews_you
+- **Link:** https://sable.moe/en/blog/link-previews-and-you/
+
 
 ## Show & Ask HN
 

@@ -1549,6 +1549,7 @@
     "https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial",
     "https://lobste.rs/s/0gvyif/software_developers_are_not_okay",
     "https://lobste.rs/s/0ouxwf/libghostty_1_0",
+    "https://lobste.rs/s/0rmq2f/link_previews_you",
     "https://lobste.rs/s/0yxkvs/postgres_19_is_late_it_s_ai_s_fault",
     "https://lobste.rs/s/1h5kuj/pharo_14_released",
     "https://lobste.rs/s/1pmuy7/how_hard_is_it_check_for_whitespace",
@@ -2615,6 +2616,7 @@
     "https://root.cern.ch/cling",
     "https://rtfeldman.com/fp-vs-c",
     "https://runarcn.no/android-to-linux/",
+    "https://sable.moe/en/blog/link-previews-and-you/",
     "https://sael.net/flatpack/",
     "https://sandstorm.org/news/2023-12-05-osm-on-sandstorm",
     "https://savedotorg.org/",
@@ -2890,12 +2892,6 @@
   "recent": [
     {
       "date": "2026-11-15",
-      "subcat": "Swift",
-      "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe...",
-      "url": "https://news.ycombinator.com/item?id=50468720"
-    },
-    {
-      "date": "2026-11-15",
       "subcat": "Show & Ask HN",
       "title": "Show HN: SlideBySide  Present slides without sharing...",
       "url": "https://news.ycombinator.com/item?id=50276883"
@@ -2947,6 +2943,12 @@
       "subcat": "Hacker News Picks",
       "title": "eMudhra intermediate CA compromise",
       "url": "https://news.ycombinator.com/item?id=50166579"
+    },
+    {
+      "date": "2026-11-15",
+      "subcat": "Lobsters Picks",
+      "title": "Link Previews and You",
+      "url": "https://lobste.rs/s/0rmq2f/link_previews_you"
     }
   ]
 }
