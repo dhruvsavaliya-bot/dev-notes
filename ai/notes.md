@@ -131,6 +131,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/google/embeddinggemma-2
 
+**Added 2026-11-16**
+
+### [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1)
+- **Stats:** 1,080 likes | 488,183 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-07-13
+- **Tags:** transformers, safetensors, laguna, text-generation, laguna-s-2.1, vllm
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/poolside/Laguna-S-2.1
+
 
 ## LLMs
 
