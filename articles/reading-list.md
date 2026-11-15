@@ -49,6 +49,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50500963
 - **Link:** https://www.spacex.com/launches/starship-flight-15
 
+**Added 2026-11-16**
+
+### [Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business](https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html)
+- **Source:** www.nytimes.com | **Posted:** 2026-11-15 | **By:** JumpCrisscross
+- **Community:** 413 points, 185 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50506180
+- **Link:** https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html
+
 
 ## Lobsters Picks
 

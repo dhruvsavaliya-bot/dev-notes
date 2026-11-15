@@ -2538,6 +2538,7 @@
     "https://news.ycombinator.com/item?id=50492456",
     "https://news.ycombinator.com/item?id=50494696",
     "https://news.ycombinator.com/item?id=50500963",
+    "https://news.ycombinator.com/item?id=50506180",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2824,6 +2825,7 @@
     "https://www.nytimes.com/2019/02/20/us/politics/civil-asset-forfeiture-supreme-court.html",
     "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
     "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
+    "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
     "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
     "https://www.onirom.fr/wiki/codegolf/x-87/",
     "https://www.openbsd.org/80.html",
@@ -2909,12 +2911,6 @@
   "recent": [
     {
       "date": "2026-11-15",
-      "subcat": "Web & Frontend",
-      "title": "Verlintas/NOIR",
-      "url": "https://github.com/Verlintas/NOIR"
-    },
-    {
-      "date": "2026-11-15",
       "subcat": "Python",
       "title": "Formalizing CPython",
       "url": "https://news.ycombinator.com/item?id=50435105"
@@ -2966,6 +2962,12 @@
       "subcat": "Models & Datasets",
       "title": "poolside/Laguna-S-2.1",
       "url": "https://huggingface.co/poolside/Laguna-S-2.1"
+    },
+    {
+      "date": "2026-11-16",
+      "subcat": "Hacker News Picks",
+      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with...",
+      "url": "https://news.ycombinator.com/item?id=50506180"
     }
   ]
 }
