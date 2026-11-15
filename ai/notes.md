@@ -140,6 +140,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/poolside/Laguna-S-2.1
 
+**Added 2026-11-16**
+
+### [empero-ai/Qwythos-9B-Claude-Mythos-5-1M](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M)
+- **Stats:** 1,018 likes | 3,603 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-06-19
+- **Tags:** transformers, safetensors, qwen3_5, image-text-to-text, qwen3.5, reasoning
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M
+
 
 ## LLMs
 
