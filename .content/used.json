@@ -1672,6 +1672,7 @@
     "https://lobste.rs/s/f1nsnm/hacking_t_mobile_sidekick_20_years_too",
     "https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful",
     "https://lobste.rs/s/fgucra/observations_from_running",
+    "https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data",
     "https://lobste.rs/s/fmawla/enlightenment_0_28_0_release",
     "https://lobste.rs/s/g2ktrq/chasing_o2_pessimization_antcc",
     "https://lobste.rs/s/gajtrm/debunking_faster_than_rust_malicious",
@@ -2884,6 +2885,7 @@
     "https://www.vlt.io/blog/competition-keeps-javascript-moving",
     "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
     "https://www.watched.earth",
+    "https://www.willett.io/posts/data/",
     "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
     "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
     "https://www.wiz.io/blog/php2shell-php-rce",
@@ -2913,12 +2915,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-11-15",
-      "subcat": "Lobsters Picks",
-      "title": "Writing a DSL for high performance parallel...",
-      "url": "https://lobste.rs/s/kh9fri/writing_dsl_for_high_performance"
-    },
     {
       "date": "2026-11-15",
       "subcat": "Python",
@@ -2972,6 +2968,12 @@
       "subcat": "PHP",
       "title": "PHP2Shell: AI uncovers critical RCE in PHP",
       "url": "https://news.ycombinator.com/item?id=50180836"
+    },
+    {
+      "date": "2026-11-16",
+      "subcat": "Lobsters Picks",
+      "title": "Let Me Let You Own Your Data",
+      "url": "https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data"
     }
   ]
 }

@@ -131,6 +131,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/wqml56/someone_s_impersonating_this_blog
 - **Link:** https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/
 
+**Added 2026-11-16**
+
+### [Let Me Let You Own Your Data](https://www.willett.io/posts/data/)
+- **Source:** www.willett.io | **Posted:** 2026-11-14 | **By:** thomas0
+- **Community:** 45 score, 32 comments on Lobsters
+- **Tags:** databases, privacy
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data
+- **Link:** https://www.willett.io/posts/data/
+
 
 ## Security
 
