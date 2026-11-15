@@ -64,6 +64,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~472 stars/day since launch.
 - **Link:** https://github.com/patch-gg/pixelfx
 
+**Added 2026-11-15**
+
+### [TurkeyDesignate/GitHub-Copilot-app](https://github.com/TurkeyDesignate/GitHub-Copilot-app)
+- **Stats:** 610 stars | 387 forks | 0 open issues
+- **Language:** N/A | **Created:** 2026-11-14 | **License:** Apache-2.0
+- **Topics:** adminlte, agent-skills, ai, awesome, chatgpt, copilot
+- **What it is:** The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.
+- **Growth:** averaging ~610 stars/day since launch.
+- **Link:** https://github.com/TurkeyDesignate/GitHub-Copilot-app
+
 
 ## Other Cool Projects
 

@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2052 entries and counting** · Last updated: 2026-11-15
+**2053 entries and counting** · Last updated: 2026-11-15
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 413 |
+| [Trending Projects](trending-projects/projects.md) | 414 |
 | [AI / LLM Notes](ai/notes.md) | 414 |
 | [Reading List](articles/reading-list.md) | 413 |
 | [Coding Tips](coding-tips/tips.md) | 414 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-15** · *AI & Machine Learning* — [TurkeyDesignate/GitHub-Copilot-app](https://github.com/TurkeyDesignate/GitHub-Copilot-app)
 - **2026-11-15** · *Python* — [Tim Peters has died](https://news.ycombinator.com/item?id=50450488)
 - **2026-11-15** · *Lobsters Picks* — [Writing a DSL for high performance parallel...](https://lobste.rs/s/kh9fri/writing_dsl_for_high_performance)
 - **2026-11-15** · *Models & Datasets* — [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)
 - **2026-11-15** · *AI & Machine Learning* — [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)
-- **2026-11-15** · *Python* — [Formalizing CPython](https://news.ycombinator.com/item?id=50435105)
 
 ## How it works
 
