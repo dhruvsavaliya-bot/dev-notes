@@ -197,6 +197,7 @@
     "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
     "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
     "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+    "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
     "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
     "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
     "https://arxiv.org/abs/2608.00146",
@@ -2477,6 +2478,7 @@
     "https://news.ycombinator.com/item?id=50366821",
     "https://news.ycombinator.com/item?id=50369895",
     "https://news.ycombinator.com/item?id=50375354",
+    "https://news.ycombinator.com/item?id=50377661",
     "https://news.ycombinator.com/item?id=50378508",
     "https://news.ycombinator.com/item?id=50378942",
     "https://news.ycombinator.com/item?id=50381687",
@@ -2881,12 +2883,6 @@
   "recent": [
     {
       "date": "2026-11-14",
-      "subcat": "Developer Tools",
-      "title": "openclaw/wacli",
-      "url": "https://github.com/openclaw/wacli"
-    },
-    {
-      "date": "2026-11-14",
       "subcat": "Lobsters Picks",
       "title": "Someone's impersonating this blog",
       "url": "https://lobste.rs/s/wqml56/someone_s_impersonating_this_blog"
@@ -2938,6 +2934,12 @@
       "subcat": "Go",
       "title": "Turn Your GitHub Contribution Graph Into an ASCII City",
       "url": "https://dev.to/sizzlebop/turn-your-github-contribution-graph-into-an-ascii-city-ic5"
+    },
+    {
+      "date": "2026-11-15",
+      "subcat": "Hacker News Picks",
+      "title": "Uranium cubes reveal why the German nuclear project...",
+      "url": "https://news.ycombinator.com/item?id=50377661"
     }
   ]
 }
