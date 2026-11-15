@@ -1883,6 +1883,15 @@ I'd love to hear where it might be out of date or otherwise steering me wrong, a
 - **Growth:** averaging ~180 stars/day since launch.
 - **Link:** https://github.com/serveroshq/panel
 
+**Added 2026-11-16**
+
+### [PHP2Shell: AI uncovers critical RCE in PHP](https://www.wiz.io/blog/php2shell-php-rce)
+- **Source:** www.wiz.io | **Posted:** 2026-10-21 | **By:** danlark1
+- **Community:** 455 points, 185 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50180836
+- **Link:** https://www.wiz.io/blog/php2shell-php-rce
+
 
 ## Ruby
 

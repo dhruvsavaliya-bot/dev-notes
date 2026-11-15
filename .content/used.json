@@ -2391,6 +2391,7 @@
     "https://news.ycombinator.com/item?id=50177916",
     "https://news.ycombinator.com/item?id=50180039",
     "https://news.ycombinator.com/item?id=50180079",
+    "https://news.ycombinator.com/item?id=50180836",
     "https://news.ycombinator.com/item?id=50180873",
     "https://news.ycombinator.com/item?id=50181175",
     "https://news.ycombinator.com/item?id=50182526",
@@ -2885,6 +2886,7 @@
     "https://www.watched.earth",
     "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
     "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+    "https://www.wiz.io/blog/php2shell-php-rce",
     "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
     "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
@@ -2911,12 +2913,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-11-15",
-      "subcat": "Models & Datasets",
-      "title": "google/embeddinggemma-2",
-      "url": "https://huggingface.co/google/embeddinggemma-2"
-    },
     {
       "date": "2026-11-15",
       "subcat": "Lobsters Picks",
@@ -2970,6 +2966,12 @@
       "subcat": "Models & Datasets",
       "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
       "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M"
+    },
+    {
+      "date": "2026-11-16",
+      "subcat": "PHP",
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "url": "https://news.ycombinator.com/item?id=50180836"
     }
   ]
 }
