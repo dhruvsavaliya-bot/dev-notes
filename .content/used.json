@@ -1369,6 +1369,7 @@
     "https://huggingface.co/datasets/atomscott/soccertrack-v2",
     "https://huggingface.co/datasets/bakrianoo/jabarti-llm-dataset",
     "https://huggingface.co/datasets/bigcode/the-stack-v2",
+    "https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes",
     "https://huggingface.co/datasets/codepawl/simready-glb",
     "https://huggingface.co/datasets/datacurve/deep-swe",
     "https://huggingface.co/datasets/datasocial/tiktok-5.6B-videos",
@@ -2886,12 +2887,6 @@
   ],
   "recent": [
     {
-      "date": "2026-11-14",
-      "subcat": "AI & Machine Learning",
-      "title": "SynkraAI/aiox-core",
-      "url": "https://github.com/SynkraAI/aiox-core"
-    },
-    {
       "date": "2026-11-15",
       "subcat": "JavaScript",
       "title": "Show HN: Get your coding agent off ~2019 JavaScript...",
@@ -2944,6 +2939,12 @@
       "subcat": "Lobsters Picks",
       "title": "Pointer Provenance in Rust vs C++",
       "url": "https://lobste.rs/s/xmtjzq/pointer_provenance_rust_vs_c"
+    },
+    {
+      "date": "2026-11-15",
+      "subcat": "Models & Datasets",
+      "title": "ccore/ThreeJS-3D-Scenes",
+      "url": "https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes"
     }
   ]
 }

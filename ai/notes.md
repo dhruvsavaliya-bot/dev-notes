@@ -104,6 +104,16 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/zai-org/GLM-5.3
 
+**Added 2026-11-15**
+
+### [ccore/ThreeJS-3D-Scenes](https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes)
+- **Stats:** 122 likes | 11,902 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-10-28
+- **Tags:** 3d, threejs, code, reasoning, conversational, html
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes
+
+
 ## LLMs
 
 **Added 2026-11-14**
