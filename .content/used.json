@@ -780,6 +780,7 @@
     "https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6",
     "https://github.com/ToolJet/ToolJet",
     "https://github.com/UNDERdecoded/Gen2Recomped",
+    "https://github.com/Verlintas/NOIR",
     "https://github.com/Vibra-Ingenn/Janus",
     "https://github.com/Vincentwei1021/video-shotcraft",
     "https://github.com/Waishnav/devspace",
@@ -2895,12 +2896,6 @@
   "recent": [
     {
       "date": "2026-11-15",
-      "subcat": "Research Papers",
-      "title": "Relational-Core Graph Analytics Querying graphs at...",
-      "url": "http://arxiv.org/abs/2609.01525v1"
-    },
-    {
-      "date": "2026-11-15",
       "subcat": "Go",
       "title": "Turn Your GitHub Contribution Graph Into an ASCII City",
       "url": "https://dev.to/sizzlebop/turn-your-github-contribution-graph-into-an-ascii-city-ic5"
@@ -2952,6 +2947,12 @@
       "subcat": "Swift",
       "title": "Nintendo Takes Down Emulators and Firmware in Massive...",
       "url": "https://news.ycombinator.com/item?id=50469994"
+    },
+    {
+      "date": "2026-11-15",
+      "subcat": "Web & Frontend",
+      "title": "Verlintas/NOIR",
+      "url": "https://github.com/Verlintas/NOIR"
     }
   ]
 }

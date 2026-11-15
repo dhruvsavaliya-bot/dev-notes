@@ -100,6 +100,17 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~99 stars/day since launch.
 - **Link:** https://github.com/enesozturk/dimensional-drawing
 
+**Added 2026-11-15**
+
+### [Verlintas/NOIR](https://github.com/Verlintas/NOIR)
+- **Stats:** 3,518 stars | 314 forks | 2 open issues
+- **Language:** Kotlin | **Created:** 2026-10-31 | **License:** MIT
+- **Topics:** adb, android, android-privacy, android-security, android-tools, apk-analysis
+- **What it is:** 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.
+- **Growth:** averaging ~234 stars/day since launch.
+- **Link:** https://github.com/Verlintas/NOIR
+
+
 ## Developer Tools
 
 **Added 2026-11-13**
