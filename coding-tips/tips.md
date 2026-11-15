@@ -54,6 +54,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://lobste.rs/s/yxvn7j/fixing_webkit_bug_see_if_promises_are_made
 - **Link:** https://alistair.sh/thenables
 
+**Added 2026-11-15**
+
+### [Pointer Provenance in Rust vs C++](https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/)
+- **Source:** sofiabelen.github.io | **Posted:** 2026-11-13 | **By:** gignico
+- **Community:** 18 score, 0 comments on Lobsters
+- **Tags:** c++, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/xmtjzq/pointer_provenance_rust_vs_c
+- **Link:** https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/
+
 
 ## Show & Ask HN
 

@@ -1818,6 +1818,7 @@
     "https://lobste.rs/s/x4kaac/30_years_internet_transfers_with_curl",
     "https://lobste.rs/s/xca2qj/probabilistic_data_structures_go",
     "https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel",
+    "https://lobste.rs/s/xmtjzq/pointer_provenance_rust_vs_c",
     "https://lobste.rs/s/xpyahx/grubby_static_site_generator_for_git",
     "https://lobste.rs/s/xsz9sc/docker_is_weird",
     "https://lobste.rs/s/xudbqx/no_npm_estee_is_not_typo_testem",
@@ -2643,6 +2644,7 @@
     "https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/",
     "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
     "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+    "https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/",
     "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
     "https://spectrum.ieee.org/are-self-driving-cars-safe",
     "https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html",
@@ -2885,12 +2887,6 @@
   "recent": [
     {
       "date": "2026-11-14",
-      "subcat": "Research Papers",
-      "title": "Bug2Scenario: Root-Cause-Preserving Test Scenario...",
-      "url": "http://arxiv.org/abs/2611.06229v1"
-    },
-    {
-      "date": "2026-11-14",
       "subcat": "AI & Machine Learning",
       "title": "SynkraAI/aiox-core",
       "url": "https://github.com/SynkraAI/aiox-core"
@@ -2942,6 +2938,12 @@
       "subcat": "Lobsters Picks",
       "title": "Fixing a WebKit bug to see if promises are made of...",
       "url": "https://lobste.rs/s/yxvn7j/fixing_webkit_bug_see_if_promises_are_made"
+    },
+    {
+      "date": "2026-11-15",
+      "subcat": "Lobsters Picks",
+      "title": "Pointer Provenance in Rust vs C++",
+      "url": "https://lobste.rs/s/xmtjzq/pointer_provenance_rust_vs_c"
     }
   ]
 }
