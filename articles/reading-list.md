@@ -40,6 +40,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50166579
 - **Link:** https://emudhra.we-have-a-problem.com/
 
+**Added 2026-11-16**
+
+### [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)
+- **Source:** www.spacex.com | **Posted:** 2026-11-14 | **By:** ls612
+- **Community:** 1602 points, 1175 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50500963
+- **Link:** https://www.spacex.com/launches/starship-flight-15
+
 
 ## Lobsters Picks
 
