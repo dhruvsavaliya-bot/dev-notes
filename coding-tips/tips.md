@@ -74,6 +74,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://lobste.rs/s/0rmq2f/link_previews_you
 - **Link:** https://sable.moe/en/blog/link-previews-and-you/
 
+**Added 2026-11-15**
+
+### [Writing a DSL for high performance parallel programming in OxCaml](https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/)
+- **Source:** blog.janestreet.com | **Posted:** 2026-11-13 | **By:** typesanitizer
+- **Community:** 16 score, 0 comments on Lobsters
+- **Tags:** performance, plt
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/kh9fri/writing_dsl_for_high_performance
+- **Link:** https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/
+
 
 ## Show & Ask HN
 

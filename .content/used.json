@@ -238,6 +238,7 @@
     "https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle",
     "https://blog.haskell.org/foldl-and-foldr/",
     "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
+    "https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/",
     "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/",
     "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
     "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
@@ -1709,6 +1710,7 @@
     "https://lobste.rs/s/kbrpx3/unlocking_any_car_from_x_brand_most_world",
     "https://lobste.rs/s/kcyzco/uuidv7_doesn_t_have_properties_you_think",
     "https://lobste.rs/s/kfla2w/demoting_i686_windows_targets_std_only",
+    "https://lobste.rs/s/kh9fri/writing_dsl_for_high_performance",
     "https://lobste.rs/s/kiivg2/partial_order_precedence",
     "https://lobste.rs/s/lcldxn/rustc_codegen_jvm_rust_compiler_backend",
     "https://lobste.rs/s/lfen2h/living_weimar_era_ruby",
@@ -2900,12 +2902,6 @@
   "recent": [
     {
       "date": "2026-11-15",
-      "subcat": "Lobsters Picks",
-      "title": "Pointer Provenance in Rust vs C++",
-      "url": "https://lobste.rs/s/xmtjzq/pointer_provenance_rust_vs_c"
-    },
-    {
-      "date": "2026-11-15",
       "subcat": "Models & Datasets",
       "title": "ccore/ThreeJS-3D-Scenes",
       "url": "https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes"
@@ -2957,6 +2953,12 @@
       "subcat": "Models & Datasets",
       "title": "google/embeddinggemma-2",
       "url": "https://huggingface.co/google/embeddinggemma-2"
+    },
+    {
+      "date": "2026-11-15",
+      "subcat": "Lobsters Picks",
+      "title": "Writing a DSL for high performance parallel...",
+      "url": "https://lobste.rs/s/kh9fri/writing_dsl_for_high_performance"
     }
   ]
 }
