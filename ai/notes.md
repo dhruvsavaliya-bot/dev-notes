@@ -74,6 +74,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.01525v1
 
+**Added 2026-11-16**
+
+### [Done Is Not Correct: Measuring Silent Failures and Self-Verification Calibration When LLM Agents Take CAD Actions](http://arxiv.org/abs/2611.10063v1)
+- **Authors:** Carson Rodrigues, Clive Rodrigues, Aravind Reddy G
+- **Published:** 2026-11-06 | **Primary category:** cs.SE
+- **Categories:** cs.SE, cs.LG
+- **Abstract:** When a large language model (LLM) agent writes parametric CAD code from a natural-language specification, syntactic success decouples from semantic correctness. We release a benchmark and harness that measure this gap directly: 13 specification tasks whose every requirement maps to machine-checkable properties of the produced B-rep, measured by the kernel against published tolerance bands, with reference solutions and the full graded attempt corpus. The exact, self-audited oracle isolates two qu...
+- **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.10063v1
+
 
 ## Models & Datasets
 

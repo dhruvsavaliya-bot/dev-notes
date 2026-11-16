@@ -121,6 +121,7 @@
     "http://arxiv.org/abs/2611.09506v1",
     "http://arxiv.org/abs/2611.09807v1",
     "http://arxiv.org/abs/2611.09868v1",
+    "http://arxiv.org/abs/2611.10063v1",
     "http://arxiv.org/abs/2611.12575v1",
     "http://arxiv.org/abs/2611.12591v1",
     "http://arxiv.org/abs/2611.14013v1",
@@ -2929,12 +2930,6 @@
   "recent": [
     {
       "date": "2026-11-16",
-      "subcat": "Lobsters Picks",
-      "title": "Let Me Let You Own Your Data",
-      "url": "https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data"
-    },
-    {
-      "date": "2026-11-16",
       "subcat": "Career & Craft",
       "title": "Surviving as a Human in the Age of AI",
       "url": "https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b"
@@ -2986,6 +2981,12 @@
       "subcat": "Lobsters Picks",
       "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on...",
       "url": "https://lobste.rs/s/rswyzt/fuzzers_vs_ai_comparing_fuzzilli"
+    },
+    {
+      "date": "2026-11-16",
+      "subcat": "Research Papers",
+      "title": "Done Is Not Correct: Measuring Silent Failures and...",
+      "url": "http://arxiv.org/abs/2611.10063v1"
     }
   ]
 }
