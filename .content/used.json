@@ -2520,6 +2520,7 @@
     "https://news.ycombinator.com/item?id=50363461",
     "https://news.ycombinator.com/item?id=50366117",
     "https://news.ycombinator.com/item?id=50366821",
+    "https://news.ycombinator.com/item?id=50366929",
     "https://news.ycombinator.com/item?id=50369895",
     "https://news.ycombinator.com/item?id=50375354",
     "https://news.ycombinator.com/item?id=50377661",
@@ -2617,6 +2618,7 @@
     "https://parallel-rust-cpp.github.io/introduction.html",
     "https://parsimony.lasu.dev/",
     "https://pavursec.com/blog/stealmybitcoin/",
+    "https://pcdealcheck.com/",
     "https://pdftomp3.com/connect-ai/",
     "https://peateasea.de/sure-mate-buy-me-a-bloody-coffee/",
     "https://people.kernel.org/monsieuricon/creepy-crawlies",
@@ -2943,12 +2945,6 @@
   "recent": [
     {
       "date": "2026-11-16",
-      "subcat": "Research Papers",
-      "title": "Done Is Not Correct: Measuring Silent Failures and...",
-      "url": "http://arxiv.org/abs/2611.10063v1"
-    },
-    {
-      "date": "2026-11-16",
       "subcat": "Show & Ask HN",
       "title": "Show HN: TitleArt  Make text like it's 1997",
       "url": "https://news.ycombinator.com/item?id=50238708"
@@ -3000,6 +2996,12 @@
       "subcat": "Backend & Infrastructure",
       "title": "yetone/alma-relay",
       "url": "https://github.com/yetone/alma-relay"
+    },
+    {
+      "date": "2026-11-16",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: I built a tool that prices a pre-built PC...",
+      "url": "https://news.ycombinator.com/item?id=50366929"
     }
   ]
 }

@@ -159,6 +159,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50415379
 - **Link:** https://www.buildcores.com
 
+**Added 2026-11-16**
+
+### [Show HN: I built a tool that prices a pre-built PC part by part](https://pcdealcheck.com/)
+- **Source:** pcdealcheck.com | **Posted:** 2026-11-04 | **By:** adlep
+- **Community:** 122 points, 86 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50366929
+- **Link:** https://pcdealcheck.com/
+
 
 ## Productivity
 
