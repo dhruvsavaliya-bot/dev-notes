@@ -1528,6 +1528,7 @@
     "https://josephg.com/blog/electron-is-flash-for-the-desktop/",
     "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/",
     "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos",
+    "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
     "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
     "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
     "https://kaba.cx/posts/20261020_Tor/",
@@ -2501,6 +2502,7 @@
     "https://news.ycombinator.com/item?id=50358314",
     "https://news.ycombinator.com/item?id=50360947",
     "https://news.ycombinator.com/item?id=50361268",
+    "https://news.ycombinator.com/item?id=50362963",
     "https://news.ycombinator.com/item?id=50363461",
     "https://news.ycombinator.com/item?id=50366117",
     "https://news.ycombinator.com/item?id=50366821",
@@ -2923,12 +2925,6 @@
   "recent": [
     {
       "date": "2026-11-16",
-      "subcat": "Hacker News Picks",
-      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with...",
-      "url": "https://news.ycombinator.com/item?id=50506180"
-    },
-    {
-      "date": "2026-11-16",
       "subcat": "Other Cool Projects",
       "title": "horizon-rust/horizon",
       "url": "https://github.com/horizon-rust/horizon"
@@ -2980,6 +2976,12 @@
       "subcat": "Developer Tools",
       "title": "palamim/starboard",
       "url": "https://github.com/palamim/starboard"
+    },
+    {
+      "date": "2026-11-16",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Vegetable Gardening for Engineers",
+      "url": "https://news.ycombinator.com/item?id=50362963"
     }
   ]
 }

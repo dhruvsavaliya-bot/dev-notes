@@ -132,6 +132,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50494696
 - **Link:** https://news.ycombinator.com/item?id=50494696
 
+**Added 2026-11-16**
+
+### [Show HN: Vegetable Gardening for Engineers](https://jrcpl.us/contrib/2020/gardening-for-engineers/)
+- **Source:** jrcpl.us | **Posted:** 2026-11-04 | **By:** jrcplus
+- **Community:** 219 points, 43 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50362963
+- **Link:** https://jrcpl.us/contrib/2020/gardening-for-engineers/
+
 
 ## Productivity
 
