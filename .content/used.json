@@ -530,6 +530,7 @@
     "https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0",
     "https://dev.to/xulingfeng/24-cups-36-seats-the-bartenders-ledger-40aj",
     "https://dev.to/xulingfeng/amazon-ai-blocked-my-kindle-book-i-asked-what-went-wrong-then-they-approved-it-48hi",
+    "https://dev.to/xulingfeng/an-ai-testing-presentation-became-the-final-push-for-organizational-change-at-my-company-12ag",
     "https://dev.to/xulingfeng/stratagems-10-lena-watched-a-team-adopt-her-ai-template-leo-didnt-know-the-knife-was-in-the-4khj",
     "https://dev.to/xulingfeng/stratagems-16-mark-left-a-hole-in-his-ai-audit-lena-counted-every-layer-2l7p",
     "https://dev.to/xulingfeng/stratagems-17-alex-set-an-ai-bait-the-catch-wasnt-code-it-was-someone-who-shouldnt-have-been-4893",
@@ -2921,12 +2922,6 @@
   "recent": [
     {
       "date": "2026-11-16",
-      "subcat": "Other Cool Projects",
-      "title": "opengeos/RustGIS",
-      "url": "https://github.com/opengeos/RustGIS"
-    },
-    {
-      "date": "2026-11-16",
       "subcat": "Models & Datasets",
       "title": "poolside/Laguna-S-2.1",
       "url": "https://huggingface.co/poolside/Laguna-S-2.1"
@@ -2978,6 +2973,12 @@
       "subcat": "Hacker News Picks",
       "title": "Jelly Sheet",
       "url": "https://news.ycombinator.com/item?id=50361268"
+    },
+    {
+      "date": "2026-11-16",
+      "subcat": "Career & Craft",
+      "title": "An AI Testing Presentation Became the Final Push for...",
+      "url": "https://dev.to/xulingfeng/an-ai-testing-presentation-became-the-final-push-for-organizational-change-at-my-company-12ag"
     }
   ]
 }

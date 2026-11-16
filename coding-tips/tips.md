@@ -154,3 +154,12 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Tags:** ai, programming, career, wecoded
 - **Summary:** This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  There's a palpable feeling...
 - **Link:** https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b
+
+**Added 2026-11-16**
+
+### [An AI Testing Presentation Became the Final Push for Organizational Change at My Company](https://dev.to/xulingfeng/an-ai-testing-presentation-became-the-final-push-for-organizational-change-at-my-company-12ag)
+- **Author:** xulingfeng | **Published:** Nov 6 | **Read time:** 13 min
+- **Community:** 133 reactions, 76 comments -- a top post in #career
+- **Tags:** discuss, ai, programming, career
+- **Summary:** From a multi-agent testing experiment to a broader discussion about how engineering teams should...
+- **Link:** https://dev.to/xulingfeng/an-ai-testing-presentation-became-the-final-push-for-organizational-change-at-my-company-12ag
