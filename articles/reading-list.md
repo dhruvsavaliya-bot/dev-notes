@@ -170,6 +170,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/zftely/qwenputer_fully_functioning
 - **Link:** https://divagr.com/blog/qwenputer
 
+**Added 2026-11-16**
+
+### [3-2-1 Backup Strategy with restic and Backblaze B2](https://chuck.is/paranoid/)
+- **Source:** chuck.is | **Posted:** 2026-10-11 | **By:** zk
+- **Community:** 25 score, 14 comments on Lobsters
+- **Tags:** devops, linux
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/9zcxev/3_2_1_backup_strategy_with_restic
+- **Link:** https://chuck.is/paranoid/
+
 
 ## Security
 

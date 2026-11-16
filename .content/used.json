@@ -294,6 +294,7 @@
     "https://cheapfoodmap.com/",
     "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
     "https://chsxf.dev/2022/08/28/5-tup-why-i-quit-using-swiftui.html",
+    "https://chuck.is/paranoid/",
     "https://claude.com/blog/auto-mode-default-in-claude-code",
     "https://claytonwramsey.com/blog/dumpster/",
     "https://coca11272000.wixsite.com/manabukosaka",
@@ -1624,6 +1625,7 @@
     "https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th",
     "https://lobste.rs/s/9wcfld/how_big_is_git_commit",
     "https://lobste.rs/s/9yyxpk/let_s_make_worst_htmx_ever",
+    "https://lobste.rs/s/9zcxev/3_2_1_backup_strategy_with_restic",
     "https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0",
     "https://lobste.rs/s/aasanp/reverts_will_continue_until_morale",
     "https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability",
@@ -2940,12 +2942,6 @@
   "recent": [
     {
       "date": "2026-11-16",
-      "subcat": "JavaScript",
-      "title": "How to Build a Research Assistant using Deep Agents",
-      "url": "https://dev.to/copilotkit/how-to-build-a-research-assistant-using-deep-agents-2bpg"
-    },
-    {
-      "date": "2026-11-16",
       "subcat": "Lobsters Picks",
       "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on...",
       "url": "https://lobste.rs/s/rswyzt/fuzzers_vs_ai_comparing_fuzzilli"
@@ -2997,6 +2993,12 @@
       "subcat": "AI & Machine Learning",
       "title": "alchaincyf/huashu-motion",
       "url": "https://github.com/alchaincyf/huashu-motion"
+    },
+    {
+      "date": "2026-11-16",
+      "subcat": "Lobsters Picks",
+      "title": "3-2-1 Backup Strategy with restic and Backblaze B2",
+      "url": "https://lobste.rs/s/9zcxev/3_2_1_backup_strategy_with_restic"
     }
   ]
 }
