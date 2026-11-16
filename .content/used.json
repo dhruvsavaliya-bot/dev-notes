@@ -1790,6 +1790,7 @@
     "https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy",
     "https://lobste.rs/s/qzfohf/how_run_city_builder_on_16_mhz",
     "https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably",
+    "https://lobste.rs/s/rhoopo/migrating_from_github_codeberg",
     "https://lobste.rs/s/rlrfew/balloting_has_completed_for_c_26",
     "https://lobste.rs/s/rpiu3w/kluever_maneuver",
     "https://lobste.rs/s/rpiwtb/python_3_15_0",
@@ -2934,6 +2935,7 @@
     "https://xoranth.net/gcc-switch/",
     "https://xpipe.io/blog/java-aot-cache",
     "https://yappologistic.github.io/CUI/",
+    "https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/",
     "https://yosefk.com/blog/unit-tests-mark-territory-more-than-squash-bugs.html",
     "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
     "https://youtu.be/89yAiqYEwKg",
@@ -2947,12 +2949,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-11-16",
-      "subcat": "Research Papers",
-      "title": "More with Less: Efficient Parallel Scientific Code...",
-      "url": "http://arxiv.org/abs/2611.08947v1"
-    },
     {
       "date": "2026-11-16",
       "subcat": "Show & Ask HN",
@@ -3006,6 +3002,12 @@
       "subcat": "Other Cool Projects",
       "title": "brenpoly/CardboardXR",
       "url": "https://github.com/brenpoly/CardboardXR"
+    },
+    {
+      "date": "2026-11-17",
+      "subcat": "Lobsters Picks",
+      "title": "Migrating from GitHub to Codeberg",
+      "url": "https://lobste.rs/s/rhoopo/migrating_from_github_codeberg"
     }
   ]
 }

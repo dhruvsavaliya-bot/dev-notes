@@ -84,6 +84,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://lobste.rs/s/kh9fri/writing_dsl_for_high_performance
 - **Link:** https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/
 
+**Added 2026-11-17**
+
+### [Migrating from GitHub to Codeberg](https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/)
+- **Source:** yorickpeterse.com | **Posted:** 2026-11-15 | **By:** yorickpeterse
+- **Community:** 55 score, 16 comments on Lobsters
+- **Tags:** programming, vcs
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/rhoopo/migrating_from_github_codeberg
+- **Link:** https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/
+
 
 ## Show & Ask HN
 
