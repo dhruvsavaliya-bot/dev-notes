@@ -1926,6 +1926,7 @@
     "https://musicalform.substack.com/p/what-is-gridifcation",
     "https://mynoise.net/vlog.php?ep=20260803",
     "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+    "https://namedaisy.com/blog/boy-names-that-became-girl-names",
     "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
     "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
     "https://neal.fun/password-game/",
@@ -2503,6 +2504,7 @@
     "https://news.ycombinator.com/item?id=50337608",
     "https://news.ycombinator.com/item?id=50338728",
     "https://news.ycombinator.com/item?id=50339288",
+    "https://news.ycombinator.com/item?id=50339397",
     "https://news.ycombinator.com/item?id=50339913",
     "https://news.ycombinator.com/item?id=50340088",
     "https://news.ycombinator.com/item?id=50345712",
@@ -2953,12 +2955,6 @@
   "recent": [
     {
       "date": "2026-11-16",
-      "subcat": "Research Papers",
-      "title": "Folio: Recoverable Multi-Resolution Context Folding...",
-      "url": "http://arxiv.org/abs/2611.16627v1"
-    },
-    {
-      "date": "2026-11-16",
       "subcat": "AI & Machine Learning",
       "title": "alchaincyf/huashu-motion",
       "url": "https://github.com/alchaincyf/huashu-motion"
@@ -3010,6 +3006,12 @@
       "subcat": "Go",
       "title": "Go Turns 17",
       "url": "https://lobste.rs/s/idktfu/go_turns_17"
+    },
+    {
+      "date": "2026-11-17",
+      "subcat": "Hacker News Picks",
+      "title": "US boy names that became girl names and vice versa",
+      "url": "https://news.ycombinator.com/item?id=50339397"
     }
   ]
 }

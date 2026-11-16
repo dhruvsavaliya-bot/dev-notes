@@ -67,6 +67,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50361268
 - **Link:** https://mrdoob.github.io/codevember-2026/01/
 
+**Added 2026-11-17**
+
+### [US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names)
+- **Source:** namedaisy.com | **Posted:** 2026-11-02 | **By:** xoobdev
+- **Community:** 492 points, 476 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50339397
+- **Link:** https://namedaisy.com/blog/boy-names-that-became-girl-names
+
 
 ## Lobsters Picks
 
