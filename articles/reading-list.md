@@ -58,6 +58,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50506180
 - **Link:** https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html
 
+**Added 2026-11-16**
+
+### [Jelly Sheet](https://mrdoob.github.io/codevember-2026/01/)
+- **Source:** mrdoob.github.io | **Posted:** 2026-11-04 | **By:** memalign
+- **Community:** 468 points, 122 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50361268
+- **Link:** https://mrdoob.github.io/codevember-2026/01/
+
 
 ## Lobsters Picks
 

@@ -1899,6 +1899,7 @@
     "https://momentic.ai/",
     "https://monkeyisland.pages.dev/",
     "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+    "https://mrdoob.github.io/codevember-2026/01/",
     "https://mtlynch.io/notes/go-must-create-pattern/",
     "https://music.apple.com/this-url-doesnt-exist",
     "https://musicalform.substack.com/p/what-is-gridifcation",
@@ -2497,6 +2498,7 @@
     "https://news.ycombinator.com/item?id=50355959",
     "https://news.ycombinator.com/item?id=50358314",
     "https://news.ycombinator.com/item?id=50360947",
+    "https://news.ycombinator.com/item?id=50361268",
     "https://news.ycombinator.com/item?id=50363461",
     "https://news.ycombinator.com/item?id=50366117",
     "https://news.ycombinator.com/item?id=50366821",
@@ -2919,12 +2921,6 @@
   "recent": [
     {
       "date": "2026-11-16",
-      "subcat": "Hacker News Picks",
-      "title": "SpaceX catches the Starship to end Flight 15",
-      "url": "https://news.ycombinator.com/item?id=50500963"
-    },
-    {
-      "date": "2026-11-16",
       "subcat": "Other Cool Projects",
       "title": "opengeos/RustGIS",
       "url": "https://github.com/opengeos/RustGIS"
@@ -2976,6 +2972,12 @@
       "subcat": "Web & Frontend",
       "title": "pauljoda/Crest",
       "url": "https://github.com/pauljoda/Crest"
+    },
+    {
+      "date": "2026-11-16",
+      "subcat": "Hacker News Picks",
+      "title": "Jelly Sheet",
+      "url": "https://news.ycombinator.com/item?id=50361268"
     }
   ]
 }

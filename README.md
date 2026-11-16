@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2063 entries and counting** · Last updated: 2026-11-16
+**2064 entries and counting** · Last updated: 2026-11-16
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 417 |
 | [AI / LLM Notes](ai/notes.md) | 416 |
-| [Reading List](articles/reading-list.md) | 416 |
+| [Reading List](articles/reading-list.md) | 417 |
 | [Coding Tips](coding-tips/tips.md) | 415 |
 | [Language Notes](languages/notes.md) | 399 |
 
 ## Latest additions
 
+- **2026-11-16** · *Hacker News Picks* — [Jelly Sheet](https://news.ycombinator.com/item?id=50361268)
 - **2026-11-16** · *Web & Frontend* — [pauljoda/Crest](https://github.com/pauljoda/Crest)
 - **2026-11-16** · *Career & Craft* — [Surviving as a Human in the Age of AI](https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b)
 - **2026-11-16** · *Lobsters Picks* — [Let Me Let You Own Your Data](https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data)
 - **2026-11-16** · *PHP* — [PHP2Shell: AI uncovers critical RCE in PHP](https://news.ycombinator.com/item?id=50180836)
-- **2026-11-16** · *Models & Datasets* — [empero-ai/Qwythos-9B-Claude-Mythos-5-1M](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M)
 
 ## How it works
 
