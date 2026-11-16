@@ -182,3 +182,13 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** WhatsApp CLI: sync, search, send
 - **Growth:** averaging ~8 stars/day since launch.
 - **Link:** https://github.com/openclaw/wacli
+
+**Added 2026-11-16**
+
+### [palamim/starboard](https://github.com/palamim/starboard)
+- **Stats:** 379 stars | 15 forks | 0 open issues
+- **Language:** Swift | **Created:** 2026-08-04 | **License:** MIT
+- **Topics:** developer-tools, dock, macos, productivity, swift, terminal
+- **What it is:** A terminal that's always beside your Dock — not a Quake-style hotkey overlay, a permanent fixture
+- **Growth:** averaging ~3 stars/day since launch.
+- **Link:** https://github.com/palamim/starboard
