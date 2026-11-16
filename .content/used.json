@@ -822,6 +822,7 @@
     "https://github.com/aicodeking/leanrea",
     "https://github.com/air-embodied-brain/Zetta-Embodiment",
     "https://github.com/akitaonrails/ai-memory",
+    "https://github.com/alchaincyf/huashu-motion",
     "https://github.com/aliyun/ai-agent-handbook",
     "https://github.com/amagine-ai/Amagine3D",
     "https://github.com/amak-tech/port-buddy",
@@ -2939,12 +2940,6 @@
   "recent": [
     {
       "date": "2026-11-16",
-      "subcat": "AI Engineering",
-      "title": "Congrats to the Hacktoberfest Open-Source AI...",
-      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok"
-    },
-    {
-      "date": "2026-11-16",
       "subcat": "JavaScript",
       "title": "How to Build a Research Assistant using Deep Agents",
       "url": "https://dev.to/copilotkit/how-to-build-a-research-assistant-using-deep-agents-2bpg"
@@ -2996,6 +2991,12 @@
       "subcat": "Research Papers",
       "title": "Folio: Recoverable Multi-Resolution Context Folding...",
       "url": "http://arxiv.org/abs/2611.16627v1"
+    },
+    {
+      "date": "2026-11-16",
+      "subcat": "AI & Machine Learning",
+      "title": "alchaincyf/huashu-motion",
+      "url": "https://github.com/alchaincyf/huashu-motion"
     }
   ]
 }

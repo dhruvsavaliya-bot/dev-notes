@@ -74,6 +74,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~610 stars/day since launch.
 - **Link:** https://github.com/TurkeyDesignate/GitHub-Copilot-app
 
+**Added 2026-11-16**
+
+### [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion)
+- **Stats:** 2,756 stars | 276 forks | 1 open issues
+- **Language:** JavaScript | **Created:** 2026-10-18 | **License:** MIT
+- **Topics:** agent-skills, animation, claude-code, claude-code-skills, claude-skills, codex
+- **What it is:** 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.
+- **Growth:** averaging ~95 stars/day since launch.
+- **Link:** https://github.com/alchaincyf/huashu-motion
+
 
 ## Other Cool Projects
 
