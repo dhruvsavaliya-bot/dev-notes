@@ -202,3 +202,15 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** A terminal that's always beside your Dock — not a Quake-style hotkey overlay, a permanent fixture
 - **Growth:** averaging ~3 stars/day since launch.
 - **Link:** https://github.com/palamim/starboard
+
+## Backend & Infrastructure
+
+**Added 2026-11-16**
+
+### [yetone/alma-relay](https://github.com/yetone/alma-relay)
+- **Stats:** 557 stars | 86 forks | 11 open issues
+- **Language:** JavaScript | **Created:** 2026-10-31 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers.
+- **Growth:** averaging ~34 stars/day since launch.
+- **Link:** https://github.com/yetone/alma-relay

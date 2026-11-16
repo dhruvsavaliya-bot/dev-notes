@@ -1236,6 +1236,7 @@
     "https://github.com/yanliudesign/mono-color-skill",
     "https://github.com/yappologistic/Spun",
     "https://github.com/yc-software/qm",
+    "https://github.com/yetone/alma-relay",
     "https://github.com/yetone/cumora",
     "https://github.com/yetone/magpie",
     "https://github.com/yi1108/printfilm",
@@ -2942,12 +2943,6 @@
   "recent": [
     {
       "date": "2026-11-16",
-      "subcat": "Lobsters Picks",
-      "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on...",
-      "url": "https://lobste.rs/s/rswyzt/fuzzers_vs_ai_comparing_fuzzilli"
-    },
-    {
-      "date": "2026-11-16",
       "subcat": "Research Papers",
       "title": "Done Is Not Correct: Measuring Silent Failures and...",
       "url": "http://arxiv.org/abs/2611.10063v1"
@@ -2999,6 +2994,12 @@
       "subcat": "Lobsters Picks",
       "title": "3-2-1 Backup Strategy with restic and Backblaze B2",
       "url": "https://lobste.rs/s/9zcxev/3_2_1_backup_strategy_with_restic"
+    },
+    {
+      "date": "2026-11-16",
+      "subcat": "Backend & Infrastructure",
+      "title": "yetone/alma-relay",
+      "url": "https://github.com/yetone/alma-relay"
     }
   ]
 }
