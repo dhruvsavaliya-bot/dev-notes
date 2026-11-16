@@ -118,6 +118,7 @@
     "http://arxiv.org/abs/2611.06711v1",
     "http://arxiv.org/abs/2611.07367v1",
     "http://arxiv.org/abs/2611.08933v1",
+    "http://arxiv.org/abs/2611.08947v1",
     "http://arxiv.org/abs/2611.09506v1",
     "http://arxiv.org/abs/2611.09807v1",
     "http://arxiv.org/abs/2611.09868v1",
@@ -2935,12 +2936,6 @@
   "recent": [
     {
       "date": "2026-11-16",
-      "subcat": "Career & Craft",
-      "title": "An AI Testing Presentation Became the Final Push for...",
-      "url": "https://dev.to/xulingfeng/an-ai-testing-presentation-became-the-final-push-for-organizational-change-at-my-company-12ag"
-    },
-    {
-      "date": "2026-11-16",
       "subcat": "Developer Tools",
       "title": "palamim/starboard",
       "url": "https://github.com/palamim/starboard"
@@ -2992,6 +2987,12 @@
       "subcat": "Lobsters Picks",
       "title": "Qwenputer: a fully functioning, deterministic RISC-V...",
       "url": "https://lobste.rs/s/zftely/qwenputer_fully_functioning"
+    },
+    {
+      "date": "2026-11-16",
+      "subcat": "Research Papers",
+      "title": "More with Less: Efficient Parallel Scientific Code...",
+      "url": "http://arxiv.org/abs/2611.08947v1"
     }
   ]
 }

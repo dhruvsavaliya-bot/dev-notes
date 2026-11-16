@@ -84,6 +84,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.10063v1
 
+**Added 2026-11-16**
+
+### [More with Less: Efficient Parallel Scientific Code Translation via an Agent-Skill Workflow](http://arxiv.org/abs/2611.08947v1)
+- **Authors:** Jianuo Shen, Pengyi Xu, Bo Zhang
+- **Published:** 2026-11-06 | **Primary category:** cs.SE
+- **Categories:** cs.DC, cs.AI, cs.SE
+- **Abstract:** Translating parallel scientific codes between HPC programming frameworks is a critical but labor-intensive task. Existing LLM-based approaches rely on fixed sequential pipelines with undifferentiated repair strategies and correctness criteria that do not match scientific computing practice. We present an agent-skill framework that separates translation, compilation diagnosis, and execution validation into three autonomous agents coordinated by a verdict-driven orchestrator, routing each failure ...
+- **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.08947v1
+
 
 ## Models & Datasets
 
