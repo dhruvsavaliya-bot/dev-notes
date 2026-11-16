@@ -869,6 +869,7 @@
     "https://github.com/bojieli/ai-infra-book",
     "https://github.com/boykopovar/AnyPS5",
     "https://github.com/bozhouDev/codex-orange-book",
+    "https://github.com/brenpoly/CardboardXR",
     "https://github.com/browser-use/browser-use-pi",
     "https://github.com/browser-use/jev-ultrafast",
     "https://github.com/bryanthaboi/gen1recomp",
@@ -2948,12 +2949,6 @@
   "recent": [
     {
       "date": "2026-11-16",
-      "subcat": "Lobsters Picks",
-      "title": "Qwenputer: a fully functioning, deterministic RISC-V...",
-      "url": "https://lobste.rs/s/zftely/qwenputer_fully_functioning"
-    },
-    {
-      "date": "2026-11-16",
       "subcat": "Research Papers",
       "title": "More with Less: Efficient Parallel Scientific Code...",
       "url": "http://arxiv.org/abs/2611.08947v1"
@@ -3005,6 +3000,12 @@
       "subcat": "Models & Datasets",
       "title": "DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored-Turbo-B...",
       "url": "https://huggingface.co/DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF"
+    },
+    {
+      "date": "2026-11-17",
+      "subcat": "Other Cool Projects",
+      "title": "brenpoly/CardboardXR",
+      "url": "https://github.com/brenpoly/CardboardXR"
     }
   ]
 }

@@ -137,6 +137,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~232 stars/day since launch.
 - **Link:** https://github.com/horizon-rust/horizon
 
+**Added 2026-11-17**
+
+### [brenpoly/CardboardXR](https://github.com/brenpoly/CardboardXR)
+- **Stats:** 330 stars | 73 forks | 4 open issues
+- **Language:** C# | **Created:** 2026-10-29 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** Mobile VR with 6DoF head tracking, passthrough and hand tracking, from ARCore and ARKit, in Unity
+- **Growth:** averaging ~17 stars/day since launch.
+- **Link:** https://github.com/brenpoly/CardboardXR
+
 
 ## Web & Frontend
 
