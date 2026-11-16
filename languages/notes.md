@@ -12,3 +12,14 @@ Top community posts, organized by programming language.
 - **Tags:** javascript, webdev, programming, discuss
 - **Summary:** Everyone defaults to WebSockets for real-time features. Most shouldn't.  The reality: 95% of...
 - **Link:** https://dev.to/polliog/server-sent-events-beat-websockets-for-95-of-real-time-apps-heres-why-a4l
+
+## Rust
+
+**Added 2026-11-17**
+
+### [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)
+- **Source:** www.wsj.com | **Posted:** 2026-11-11 | **By:** jbredeche
+- **Community:** 1226 points, 1646 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50459703
+- **Link:** https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad
