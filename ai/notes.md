@@ -94,6 +94,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.08947v1
 
+**Added 2026-11-16**
+
+### [Folio: Recoverable Multi-Resolution Context Folding for Long-Horizon Language Agents](http://arxiv.org/abs/2611.16627v1)
+- **Authors:** Yubo Ruan, Tao Peng, Jiao Zhang, Chuanguo Ma et al.
+- **Published:** 2026-11-12 | **Primary category:** cs.AI
+- **Categories:** cs.AI
+- **Abstract:** Long-horizon language agents accumulate tool results and replies until the history no longer fits the context window. Current agents shrink this history by having a model summarize it, so each compaction rereads and rewrites the history it replaces, and cache-aware triggers decide when to compact while taking the size of the result as given. We present Folio, a context manager that records, folds, and recovers history through one set of handles. While the agent runs, Folio records three linked l...
+- **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.16627v1
+
 
 ## Models & Datasets
 

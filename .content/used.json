@@ -128,6 +128,7 @@
     "http://arxiv.org/abs/2611.14013v1",
     "http://arxiv.org/abs/2611.14247v1",
     "http://arxiv.org/abs/2611.15843v1",
+    "http://arxiv.org/abs/2611.16627v1",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "http://blog.nozomi.space/posts/sw2_dock/",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
@@ -2938,12 +2939,6 @@
   "recent": [
     {
       "date": "2026-11-16",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Vegetable Gardening for Engineers",
-      "url": "https://news.ycombinator.com/item?id=50362963"
-    },
-    {
-      "date": "2026-11-16",
       "subcat": "AI Engineering",
       "title": "Congrats to the Hacktoberfest Open-Source AI...",
       "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok"
@@ -2995,6 +2990,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Build a PC in 3D in the Browser",
       "url": "https://news.ycombinator.com/item?id=50415379"
+    },
+    {
+      "date": "2026-11-16",
+      "subcat": "Research Papers",
+      "title": "Folio: Recoverable Multi-Resolution Context Folding...",
+      "url": "http://arxiv.org/abs/2611.16627v1"
     }
   ]
 }
