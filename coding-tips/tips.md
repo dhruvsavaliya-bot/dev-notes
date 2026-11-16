@@ -143,3 +143,14 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Tags:** ai, kling, video, productivity
 - **Summary:** Answer: a thirty-second AI video costs between about $0.30 and $6.30 depending on model and...
 - **Link:** https://dev.to/chet103cc/what-does-a-30-second-ai-video-cost-in-2026-3pdd
+
+## Career & Craft
+
+**Added 2026-11-16**
+
+### [Surviving as a Human in the Age of AI](https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b)
+- **Author:** Jen Looper | **Published:** Mar 31 | **Read time:** 7 min
+- **Community:** 66 reactions, 42 comments -- a top post in #career
+- **Tags:** ai, programming, career, wecoded
+- **Summary:** This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  There's a palpable feeling...
+- **Link:** https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b

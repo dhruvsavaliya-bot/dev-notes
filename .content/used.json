@@ -428,6 +428,7 @@
     "https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g",
     "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
     "https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762",
+    "https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b",
     "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
     "https://dev.to/kenielzep97/tell-me-about-you-1hi4",
     "https://dev.to/kenwalger/four-ways-a-test-can-lie-to-you-2ibf",
@@ -2917,12 +2918,6 @@
   "recent": [
     {
       "date": "2026-11-15",
-      "subcat": "Python",
-      "title": "Tim Peters has died",
-      "url": "https://news.ycombinator.com/item?id=50450488"
-    },
-    {
-      "date": "2026-11-15",
       "subcat": "AI & Machine Learning",
       "title": "TurkeyDesignate/GitHub-Copilot-app",
       "url": "https://github.com/TurkeyDesignate/GitHub-Copilot-app"
@@ -2974,6 +2969,12 @@
       "subcat": "Lobsters Picks",
       "title": "Let Me Let You Own Your Data",
       "url": "https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data"
+    },
+    {
+      "date": "2026-11-16",
+      "subcat": "Career & Craft",
+      "title": "Surviving as a Human in the Age of AI",
+      "url": "https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b"
     }
   ]
 }
