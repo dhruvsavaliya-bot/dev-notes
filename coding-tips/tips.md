@@ -150,6 +150,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50238708
 - **Link:** https://titleart.dvy.io/
 
+**Added 2026-11-16**
+
+### [Show HN: Build a PC in 3D in the Browser](https://www.buildcores.com)
+- **Source:** www.buildcores.com | **Posted:** 2026-11-08 | **By:** ozaiworld
+- **Community:** 62 points, 27 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50415379
+- **Link:** https://www.buildcores.com
+
 
 ## Productivity
 

@@ -2531,6 +2531,7 @@
     "https://news.ycombinator.com/item?id=50406222",
     "https://news.ycombinator.com/item?id=50406292",
     "https://news.ycombinator.com/item?id=50407882",
+    "https://news.ycombinator.com/item?id=50415379",
     "https://news.ycombinator.com/item?id=50416640",
     "https://news.ycombinator.com/item?id=50417407",
     "https://news.ycombinator.com/item?id=50418016",
@@ -2789,6 +2790,7 @@
     "https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke",
     "https://www.brangus.io/survival-llm",
     "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+    "https://www.buildcores.com",
     "https://www.calabro.io/ohbf",
     "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
     "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
@@ -2936,12 +2938,6 @@
   "recent": [
     {
       "date": "2026-11-16",
-      "subcat": "Developer Tools",
-      "title": "palamim/starboard",
-      "url": "https://github.com/palamim/starboard"
-    },
-    {
-      "date": "2026-11-16",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Vegetable Gardening for Engineers",
       "url": "https://news.ycombinator.com/item?id=50362963"
@@ -2993,6 +2989,12 @@
       "subcat": "Research Papers",
       "title": "More with Less: Efficient Parallel Scientific Code...",
       "url": "http://arxiv.org/abs/2611.08947v1"
+    },
+    {
+      "date": "2026-11-16",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Build a PC in 3D in the Browser",
+      "url": "https://news.ycombinator.com/item?id=50415379"
     }
   ]
 }
