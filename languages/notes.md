@@ -474,6 +474,15 @@ Snippets and gotchas across languages.
 - **Discussion:** https://news.ycombinator.com/item?id=50443812
 - **Link:** https://github.com/GoogleChrome/modern-web-guidance
 
+**Added 2026-11-16**
+
+### [How to Build a Research Assistant using Deep Agents](https://dev.to/copilotkit/how-to-build-a-research-assistant-using-deep-agents-2bpg)
+- **Author:** Anmol Baranwal | **Published:** Feb 20 | **Read time:** 21 min
+- **Community:** 128 reactions, 17 comments -- a top post in #javascript
+- **Tags:** react, programming, javascript, tutorial
+- **Summary:** LangChain's Deep Agents provide a new way to build structured, multi-agent systems that can plan,...
+- **Link:** https://dev.to/copilotkit/how-to-build-a-research-assistant-using-deep-agents-2bpg
+
 
 ## TypeScript
 

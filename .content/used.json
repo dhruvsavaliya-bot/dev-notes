@@ -350,6 +350,7 @@
     "https://dev.to/chet103cc/what-does-a-30-second-ai-video-cost-in-2026-3pdd",
     "https://dev.to/chief_yaml_officer/how-i-stopped-rewriting-my-code-every-time-i-switched-llm-providers-4gjh",
     "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh",
+    "https://dev.to/copilotkit/how-to-build-a-research-assistant-using-deep-agents-2bpg",
     "https://dev.to/cristea_theodora/from-localstorage-to-database-understanding-the-mongodb-structure-1a21",
     "https://dev.to/cristea_theodora/the-developers-safety-net-introduction-to-typescript-2jof",
     "https://dev.to/cyclopt_dimitrisk/your-secrets-dont-need-a-git-commit-to-leak-into-an-ai-tool-be2",
@@ -2926,12 +2927,6 @@
   "recent": [
     {
       "date": "2026-11-16",
-      "subcat": "Models & Datasets",
-      "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M"
-    },
-    {
-      "date": "2026-11-16",
       "subcat": "PHP",
       "title": "PHP2Shell: AI uncovers critical RCE in PHP",
       "url": "https://news.ycombinator.com/item?id=50180836"
@@ -2983,6 +2978,12 @@
       "subcat": "AI Engineering",
       "title": "Congrats to the Hacktoberfest Open-Source AI...",
       "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok"
+    },
+    {
+      "date": "2026-11-16",
+      "subcat": "JavaScript",
+      "title": "How to Build a Research Assistant using Deep Agents",
+      "url": "https://dev.to/copilotkit/how-to-build-a-research-assistant-using-deep-agents-2bpg"
     }
   ]
 }
