@@ -160,6 +160,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/rswyzt/fuzzers_vs_ai_comparing_fuzzilli
 - **Link:** https://projectzero.google/2026/10/fuzzing-v-AI.html
 
+**Added 2026-11-16**
+
+### [Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
+- **Source:** divagr.com | **Posted:** 2026-10-29 | **By:** ndr
+- **Community:** 44 score, 9 comments on Lobsters
+- **Tags:** ai
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/zftely/qwenputer_fully_functioning
+- **Link:** https://divagr.com/blog/qwenputer
+
 
 ## Security
 

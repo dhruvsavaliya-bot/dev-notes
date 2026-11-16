@@ -557,6 +557,7 @@
     "https://devlog.creusot.rs/v0-14-0/",
     "https://discourse.imfreedom.org/t/pidgin-3-0-alpha-4-2-98-0-has-been-released/445",
     "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+    "https://divagr.com/blog/qwenputer",
     "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
     "https://doeken.org/blog/coroutines-in-php",
     "https://dontwordle.com/",
@@ -1864,6 +1865,7 @@
     "https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn",
     "https://lobste.rs/s/yxuvie/alpinebsd",
     "https://lobste.rs/s/yxvn7j/fixing_webkit_bug_see_if_promises_are_made",
+    "https://lobste.rs/s/zftely/qwenputer_fully_functioning",
     "https://lobste.rs/s/zingk1/announcing_net_11",
     "https://lobste.rs/s/zjjvbo/work_on_gefs_good_enough_file_system_for",
     "https://lobste.rs/s/zknqct/two_kinds_sql_query_builders",
@@ -2933,12 +2935,6 @@
   "recent": [
     {
       "date": "2026-11-16",
-      "subcat": "Hacker News Picks",
-      "title": "Jelly Sheet",
-      "url": "https://news.ycombinator.com/item?id=50361268"
-    },
-    {
-      "date": "2026-11-16",
       "subcat": "Career & Craft",
       "title": "An AI Testing Presentation Became the Final Push for...",
       "url": "https://dev.to/xulingfeng/an-ai-testing-presentation-became-the-final-push-for-organizational-change-at-my-company-12ag"
@@ -2990,6 +2986,12 @@
       "subcat": "JavaScript",
       "title": "Server-Sent Events Beat WebSockets for 95% of...",
       "url": "https://dev.to/polliog/server-sent-events-beat-websockets-for-95-of-real-time-apps-heres-why-a4l"
+    },
+    {
+      "date": "2026-11-16",
+      "subcat": "Lobsters Picks",
+      "title": "Qwenputer: a fully functioning, deterministic RISC-V...",
+      "url": "https://lobste.rs/s/zftely/qwenputer_fully_functioning"
     }
   ]
 }
