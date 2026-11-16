@@ -141,6 +141,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50362963
 - **Link:** https://jrcpl.us/contrib/2020/gardening-for-engineers/
 
+**Added 2026-11-16**
+
+### [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
+- **Source:** titleart.dvy.io | **Posted:** 2026-10-26 | **By:** davidbarker
+- **Community:** 411 points, 82 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50238708
+- **Link:** https://titleart.dvy.io/
+
 
 ## Productivity
 
