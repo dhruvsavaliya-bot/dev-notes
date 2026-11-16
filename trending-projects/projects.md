@@ -147,6 +147,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~17 stars/day since launch.
 - **Link:** https://github.com/brenpoly/CardboardXR
 
+**Added 2026-11-17**
+
+### [1337isnot1337/DOPPLERGEIST](https://github.com/1337isnot1337/DOPPLERGEIST)
+- **Stats:** 611 stars | 76 forks | 15 open issues
+- **Language:** Python | **Created:** 2026-11-02 | **License:** NOASSERTION
+- **Topics:** acoustic-geolocation, ads-b, aircraft-tracking, airplane, audio-forensics, doppler-effect
+- **What it is:** Python tool for aircraft Doppler audio geolocation using historical ADS-B flight data (Source-available)
+- **Growth:** averaging ~40 stars/day since launch.
+- **Link:** https://github.com/1337isnot1337/DOPPLERGEIST
+
 
 ## Web & Frontend
 
