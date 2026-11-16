@@ -160,3 +160,14 @@ The best recent AI engineering content, organized by area.
 - **Tags:** ai, llm, gamedev, machinelearning
 - **Summary:** AI costs are confusing. Providers give you a lot of numbers and nothing to actually know how much you are going to pay in the long run. There is no point in these input/cached/output token prices if you have no idea how many reasoning tokens you'll spend on your tasks. How much will be cached. We are going to review the real-world usage of 27 frontier models.
 - **Link:** https://dev.to/hiper2d/how-much-does-it-cost-to-run-a-text-game-with-llms-57o7
+
+## AI Engineering
+
+**Added 2026-11-16**
+
+### [Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!](https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok)
+- **Author:** Jem | **Published:** Nov 13 | **Read time:** 4 min
+- **Community:** 94 reactions, 39 comments -- a top post in #ai
+- **Tags:** devchallenge, hf26challenge, hacktoberfest, ai
+- **Summary:** The results are in for the final week of our Hacktoberfest DEV Challenges! For Ghost in the Machine,...
+- **Link:** https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok

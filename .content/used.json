@@ -362,6 +362,7 @@
     "https://dev.to/dev_kiran/shift-left-code-review-how-qodo-turns-your-coding-agent-into-its-own-first-reviewer-58fc",
     "https://dev.to/devstackcommunity/best-ai-web-scraper-tools-in-2026-i-tested-7-these-are-worth-it-n2e",
     "https://dev.to/devstackhub/i-compared-11-best-ai-design-to-code-tools-for-my-client-projects-4alo",
+    "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok",
     "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
     "https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9",
     "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
@@ -2925,12 +2926,6 @@
   "recent": [
     {
       "date": "2026-11-16",
-      "subcat": "Other Cool Projects",
-      "title": "horizon-rust/horizon",
-      "url": "https://github.com/horizon-rust/horizon"
-    },
-    {
-      "date": "2026-11-16",
       "subcat": "Models & Datasets",
       "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
       "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M"
@@ -2982,6 +2977,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Vegetable Gardening for Engineers",
       "url": "https://news.ycombinator.com/item?id=50362963"
+    },
+    {
+      "date": "2026-11-16",
+      "subcat": "AI Engineering",
+      "title": "Congrats to the Hacktoberfest Open-Source AI...",
+      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok"
     }
   ]
 }
