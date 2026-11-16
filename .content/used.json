@@ -1258,6 +1258,7 @@
     "https://github.com/zortos293/Lichii",
     "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
     "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+    "https://go.dev/blog/17years",
     "https://go.dev/blog/emudhra-incident",
     "https://go.dev/blog/goroutine-leak-profiles",
     "https://go.dev/blog/http-connection-reuse",
@@ -1710,6 +1711,7 @@
     "https://lobste.rs/s/hrsyjf/11_nanoseconds_per_word_ridiculously",
     "https://lobste.rs/s/hzrmwz/simple_netbsd_webserver",
     "https://lobste.rs/s/i96uyr/mustcreate_pattern_for_go_tests",
+    "https://lobste.rs/s/idktfu/go_turns_17",
     "https://lobste.rs/s/iii8sl/micro_language_implementation_calcium",
     "https://lobste.rs/s/ily7as/programming_isn_t_special",
     "https://lobste.rs/s/imdwmj/pandas_should_go_extinct",
@@ -2951,12 +2953,6 @@
   "recent": [
     {
       "date": "2026-11-16",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Build a PC in 3D in the Browser",
-      "url": "https://news.ycombinator.com/item?id=50415379"
-    },
-    {
-      "date": "2026-11-16",
       "subcat": "Research Papers",
       "title": "Folio: Recoverable Multi-Resolution Context Folding...",
       "url": "http://arxiv.org/abs/2611.16627v1"
@@ -3008,6 +3004,12 @@
       "subcat": "Lobsters Picks",
       "title": "Migrating from GitHub to Codeberg",
       "url": "https://lobste.rs/s/rhoopo/migrating_from_github_codeberg"
+    },
+    {
+      "date": "2026-11-17",
+      "subcat": "Go",
+      "title": "Go Turns 17",
+      "url": "https://lobste.rs/s/idktfu/go_turns_17"
     }
   ]
 }

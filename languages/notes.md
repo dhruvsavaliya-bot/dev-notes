@@ -23,3 +23,15 @@ Top community posts, organized by programming language.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=50459703
 - **Link:** https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad
+
+## Go
+
+**Added 2026-11-17**
+
+### [Go Turns 17](https://go.dev/blog/17years)
+- **Source:** go.dev | **Posted:** 2026-11-10 | **By:** cgrinds
+- **Community:** 46 score, 9 comments on Lobsters
+- **Tags:** go
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/idktfu/go_turns_17
+- **Link:** https://go.dev/blog/17years
