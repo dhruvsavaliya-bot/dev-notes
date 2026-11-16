@@ -1783,6 +1783,7 @@
     "https://lobste.rs/s/rpiu3w/kluever_maneuver",
     "https://lobste.rs/s/rpiwtb/python_3_15_0",
     "https://lobste.rs/s/rs6ce2/filian_fil_c_binaries_on_debian",
+    "https://lobste.rs/s/rswyzt/fuzzers_vs_ai_comparing_fuzzilli",
     "https://lobste.rs/s/rtcnc8/javascript_pun_tagged_template_literal",
     "https://lobste.rs/s/rucvky/go_concurrency_distilled",
     "https://lobste.rs/s/rwdufq/anti_patterns_software_blogging",
@@ -2626,6 +2627,7 @@
     "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
     "https://pranitha.dev/posts/rwlock-vs-lockfree/",
     "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
+    "https://projectzero.google/2026/10/fuzzing-v-AI.html",
     "https://proofcraft.systems/news-2026/#2026-08-21",
     "https://pudding.cool/2026/07/essential-words/",
     "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
@@ -2927,12 +2929,6 @@
   "recent": [
     {
       "date": "2026-11-16",
-      "subcat": "PHP",
-      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-      "url": "https://news.ycombinator.com/item?id=50180836"
-    },
-    {
-      "date": "2026-11-16",
       "subcat": "Lobsters Picks",
       "title": "Let Me Let You Own Your Data",
       "url": "https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data"
@@ -2984,6 +2980,12 @@
       "subcat": "JavaScript",
       "title": "How to Build a Research Assistant using Deep Agents",
       "url": "https://dev.to/copilotkit/how-to-build-a-research-assistant-using-deep-agents-2bpg"
+    },
+    {
+      "date": "2026-11-16",
+      "subcat": "Lobsters Picks",
+      "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on...",
+      "url": "https://lobste.rs/s/rswyzt/fuzzers_vs_ai_comparing_fuzzilli"
     }
   ]
 }

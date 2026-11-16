@@ -150,6 +150,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data
 - **Link:** https://www.willett.io/posts/data/
 
+**Added 2026-11-16**
+
+### [Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines](https://projectzero.google/2026/10/fuzzing-v-AI.html)
+- **Source:** projectzero.google | **Posted:** 2026-10-27 | **By:** ni5arga
+- **Community:** 21 score, 4 comments on Lobsters
+- **Tags:** ai, security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/rswyzt/fuzzers_vs_ai_comparing_fuzzilli
+- **Link:** https://projectzero.google/2026/10/fuzzing-v-AI.html
+
 
 ## Security
 
