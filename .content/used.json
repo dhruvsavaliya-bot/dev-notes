@@ -1084,6 +1084,7 @@
     "https://github.com/panxunying/ai-coding-welfare",
     "https://github.com/patch-gg/pixelfx",
     "https://github.com/pathwaycom/arc-task-gen",
+    "https://github.com/pauljoda/Crest",
     "https://github.com/peach-mitao/peach",
     "https://github.com/penecho/penecho",
     "https://github.com/pengchujin/aerial-tv",
@@ -2917,12 +2918,6 @@
   ],
   "recent": [
     {
-      "date": "2026-11-15",
-      "subcat": "AI & Machine Learning",
-      "title": "TurkeyDesignate/GitHub-Copilot-app",
-      "url": "https://github.com/TurkeyDesignate/GitHub-Copilot-app"
-    },
-    {
       "date": "2026-11-16",
       "subcat": "Hacker News Picks",
       "title": "SpaceX catches the Starship to end Flight 15",
@@ -2975,6 +2970,12 @@
       "subcat": "Career & Craft",
       "title": "Surviving as a Human in the Age of AI",
       "url": "https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b"
+    },
+    {
+      "date": "2026-11-16",
+      "subcat": "Web & Frontend",
+      "title": "pauljoda/Crest",
+      "url": "https://github.com/pauljoda/Crest"
     }
   ]
 }

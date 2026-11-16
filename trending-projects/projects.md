@@ -150,6 +150,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~234 stars/day since launch.
 - **Link:** https://github.com/Verlintas/NOIR
 
+**Added 2026-11-16**
+
+### [pauljoda/Crest](https://github.com/pauljoda/Crest)
+- **Stats:** 1,317 stars | 128 forks | 255 open issues
+- **Language:** Swift | **Created:** 2026-08-15 | **License:** MPL-2.0
+- **Topics:** browser, ios, ipados, macos, open-source, privacy
+- **What it is:** An open source browser for Mac, iPhone, and iPad.
+- **Growth:** averaging ~14 stars/day since launch.
+- **Link:** https://github.com/pauljoda/Crest
+
 
 ## Developer Tools
 
