@@ -188,6 +188,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50366929
 - **Link:** https://pcdealcheck.com/
 
+**Added 2026-11-17**
+
+### [Show HN: Waymark – A workflow engine that compiles jobs instead of replaying](https://github.com/piercefreeman/waymark)
+- **Source:** github.com | **Posted:** 2026-11-05 | **By:** icyfox
+- **Community:** 88 points, 48 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50379221
+- **Link:** https://github.com/piercefreeman/waymark
+
 
 ## Productivity
 

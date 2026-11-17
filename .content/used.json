@@ -1109,6 +1109,7 @@
     "https://github.com/petergyang/no-ai-slop",
     "https://github.com/phase-rs/phase",
     "https://github.com/php/php-src/releases/tag/php-8.2.35",
+    "https://github.com/piercefreeman/waymark",
     "https://github.com/pingdotgg/t3code",
     "https://github.com/pingdotgg/ts-rust",
     "https://github.com/pipelab-org/pipelock",
@@ -2544,6 +2545,7 @@
     "https://news.ycombinator.com/item?id=50377661",
     "https://news.ycombinator.com/item?id=50378508",
     "https://news.ycombinator.com/item?id=50378942",
+    "https://news.ycombinator.com/item?id=50379221",
     "https://news.ycombinator.com/item?id=50381687",
     "https://news.ycombinator.com/item?id=50383057",
     "https://news.ycombinator.com/item?id=50391456",
@@ -2969,12 +2971,6 @@
   "recent": [
     {
       "date": "2026-11-17",
-      "subcat": "Hacker News Picks",
-      "title": "US boy names that became girl names and vice versa",
-      "url": "https://news.ycombinator.com/item?id=50339397"
-    },
-    {
-      "date": "2026-11-17",
       "subcat": "Other Cool Projects",
       "title": "1337isnot1337/DOPPLERGEIST",
       "url": "https://github.com/1337isnot1337/DOPPLERGEIST"
@@ -3026,6 +3022,12 @@
       "subcat": "Research Papers",
       "title": "Distributed Linear Bandits for Freshness-Aware...",
       "url": "http://arxiv.org/abs/2611.05115v1"
+    },
+    {
+      "date": "2026-11-17",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Waymark  A workflow engine that compiles...",
+      "url": "https://news.ycombinator.com/item?id=50379221"
     }
   ]
 }
