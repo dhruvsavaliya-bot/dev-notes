@@ -130,6 +130,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50522980
 - **Link:** https://www.cs.cmu.edu/learn/
 
+**Added 2026-11-18**
+
+### [How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)
+- **Source:** claude.dev | **Posted:** 2026-11-17 | **By:** craigmart
+- **Community:** 237 points, 185 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50529612
+- **Link:** https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/
+
 
 ## Lobsters Picks
 

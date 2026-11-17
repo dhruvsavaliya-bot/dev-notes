@@ -304,6 +304,7 @@
     "https://chsxf.dev/2022/08/28/5-tup-why-i-quit-using-swiftui.html",
     "https://chuck.is/paranoid/",
     "https://claude.com/blog/auto-mode-default-in-claude-code",
+    "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
     "https://claytonwramsey.com/blog/dumpster/",
     "https://coca11272000.wixsite.com/manabukosaka",
     "https://code.intellios.ai/cwbrowser/",
@@ -2611,6 +2612,7 @@
     "https://news.ycombinator.com/item?id=50510042",
     "https://news.ycombinator.com/item?id=50522980",
     "https://news.ycombinator.com/item?id=50524767",
+    "https://news.ycombinator.com/item?id=50529612",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2997,12 +2999,6 @@
   "recent": [
     {
       "date": "2026-11-17",
-      "subcat": "Hacker News Picks",
-      "title": "Optimizely compromised, served malware on Zoom, GitLab",
-      "url": "https://news.ycombinator.com/item?id=50524767"
-    },
-    {
-      "date": "2026-11-17",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Ghostman  A fast, keyboard-driven TUI API...",
       "url": "https://news.ycombinator.com/item?id=50300902"
@@ -3054,6 +3050,12 @@
       "subcat": "AI Engineering",
       "title": "When is a side project worth committing to?",
       "url": "https://dev.to/ben/when-is-a-side-project-worth-committing-to-5ec7"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "Hacker News Picks",
+      "title": "How the Claude Code team thinks about verification",
+      "url": "https://news.ycombinator.com/item?id=50529612"
     }
   ]
 }
