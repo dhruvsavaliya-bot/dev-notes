@@ -223,6 +223,17 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~3 stars/day since launch.
 - **Link:** https://github.com/palamim/starboard
 
+**Added 2026-11-17**
+
+### [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek)
+- **Stats:** 1,850 stars | 83 forks | 55 open issues
+- **Language:** C# | **Created:** 2026-01-24 | **License:** AGPL-3.0
+- **Topics:** cli, home-lab, infrastructure, inventory, networking, self-hosted
+- **What it is:** CLI tool to discover, manage, and document your IT infrastructure and home lab.
+- **Growth:** averaging ~6 stars/day since launch.
+- **Link:** https://github.com/Timmoth/RackPeek
+
+
 ## Backend & Infrastructure
 
 **Added 2026-11-16**

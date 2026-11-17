@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2092 entries and counting** · Last updated: 2026-11-17
+**2093 entries and counting** · Last updated: 2026-11-17
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 422 |
+| [Trending Projects](trending-projects/projects.md) | 423 |
 | [AI / LLM Notes](ai/notes.md) | 422 |
 | [Reading List](articles/reading-list.md) | 422 |
 | [Coding Tips](coding-tips/tips.md) | 422 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-17** · *Developer Tools* — [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek)
 - **2026-11-17** · *Lobsters Picks* — [Quality IMAP, Part 1: Your Mailbox Is A Database](https://lobste.rs/s/gm4vao/quality_imap_part_1_your_mailbox_is)
 - **2026-11-17** · *Research Papers* — [FedCSGA: Evolutionary Client Selection with Joint...](http://arxiv.org/abs/2611.04667v2)
 - **2026-11-17** · *Hacker News Picks* — [Why get an expensive Pi when I have an old phone?](https://news.ycombinator.com/item?id=50440709)
 - **2026-11-17** · *Rust* — [This Month in Redox - October 2026](https://lobste.rs/s/yervw7/this_month_redox_october_2026)
-- **2026-11-17** · *Other Cool Projects* — [1337isnot1337/DOPPLERGEIST](https://github.com/1337isnot1337/DOPPLERGEIST)
 
 ## How it works
 
