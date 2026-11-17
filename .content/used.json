@@ -1617,6 +1617,7 @@
     "https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner",
     "https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up",
     "https://lobste.rs/s/6syfar/what_if_my_git_host_were_static_site",
+    "https://lobste.rs/s/6t3oi4/on_leaving_swift_for_rust",
     "https://lobste.rs/s/6tbd2o/creusot_0_14_0_release_contracts_for_rust",
     "https://lobste.rs/s/6vjx1k/how_shredding_json_is_giving_logfire",
     "https://lobste.rs/s/73ssw1/plea_not_use_uv_build",
@@ -2891,6 +2892,7 @@
     "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
     "https://www.php.net/archive/2026.php#2026-10-21-5",
     "https://www.primeintellect.ai/blog/prime-agent",
+    "https://www.prux.org/posts/goodbye-swift-hello-rust/",
     "https://www.python.org/downloads/release/python-3150/",
     "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
     "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
@@ -2973,12 +2975,6 @@
   "recent": [
     {
       "date": "2026-11-17",
-      "subcat": "Rust",
-      "title": "This Month in Redox - October 2026",
-      "url": "https://lobste.rs/s/yervw7/this_month_redox_october_2026"
-    },
-    {
-      "date": "2026-11-17",
       "subcat": "Hacker News Picks",
       "title": "Why get an expensive Pi when I have an old phone?",
       "url": "https://news.ycombinator.com/item?id=50440709"
@@ -3030,6 +3026,12 @@
       "subcat": "Hacker News Picks",
       "title": "Moving our warehouse off DuckDB",
       "url": "https://news.ycombinator.com/item?id=50338747"
+    },
+    {
+      "date": "2026-11-17",
+      "subcat": "Lobsters Picks",
+      "title": "On Leaving Swift for Rust",
+      "url": "https://lobste.rs/s/6t3oi4/on_leaving_swift_for_rust"
     }
   ]
 }

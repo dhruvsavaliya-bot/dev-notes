@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2098 entries and counting** · Last updated: 2026-11-17
+**2099 entries and counting** · Last updated: 2026-11-17
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 423 |
 | [AI / LLM Notes](ai/notes.md) | 423 |
 | [Reading List](articles/reading-list.md) | 424 |
-| [Coding Tips](coding-tips/tips.md) | 423 |
+| [Coding Tips](coding-tips/tips.md) | 424 |
 | [Language Notes](languages/notes.md) | 405 |
 
 ## Latest additions
 
+- **2026-11-17** · *Lobsters Picks* — [On Leaving Swift for Rust](https://lobste.rs/s/6t3oi4/on_leaving_swift_for_rust)
 - **2026-11-17** · *Hacker News Picks* — [Moving our warehouse off DuckDB](https://news.ycombinator.com/item?id=50338747)
 - **2026-11-17** · *Show & Ask HN* — [Show HN: Waymark  A workflow engine that compiles...](https://news.ycombinator.com/item?id=50379221)
 - **2026-11-17** · *Research Papers* — [Distributed Linear Bandits for Freshness-Aware...](http://arxiv.org/abs/2611.05115v1)
 - **2026-11-17** · *Hacker News Picks* — [Linux 7.3](https://news.ycombinator.com/item?id=50149392)
-- **2026-11-17** · *Rust* — [A datetime library for Rust](https://lobste.rs/s/dxxvek/datetime_library_for_rust)
 
 ## How it works
 

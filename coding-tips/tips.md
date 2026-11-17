@@ -104,6 +104,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://lobste.rs/s/gm4vao/quality_imap_part_1_your_mailbox_is
 - **Link:** https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/
 
+**Added 2026-11-17**
+
+### [On Leaving Swift for Rust](https://www.prux.org/posts/goodbye-swift-hello-rust/)
+- **Source:** www.prux.org | **Posted:** 2026-11-16 | **By:** marcprux
+- **Community:** 10 score, 8 comments on Lobsters
+- **Tags:** mobile, rust, swift
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/6t3oi4/on_leaving_swift_for_rust
+- **Link:** https://www.prux.org/posts/goodbye-swift-hello-rust/
+
 
 ## Show & Ask HN
 
