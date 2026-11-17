@@ -225,6 +225,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50300902
 - **Link:** https://github.com/4yk5/Ghostman
 
+**Added 2026-11-17**
+
+### [Show HN: Klad, a paint app your coding agent can drive (source-available)](https://github.com/klad-app/klad)
+- **Source:** github.com | **Posted:** 2026-11-11 | **By:** ambewas
+- **Community:** 84 points, 34 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50454951
+- **Link:** https://github.com/klad-app/klad
+
 
 ## Productivity
 

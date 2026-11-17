@@ -1020,6 +1020,7 @@
     "https://github.com/kitsumed/ShizuCallRecorder",
     "https://github.com/kividbio/kividb",
     "https://github.com/kkk-bot/HowToGetAlong",
+    "https://github.com/klad-app/klad",
     "https://github.com/komi-store/komi-store",
     "https://github.com/kryvora-network/kryvora-node",
     "https://github.com/kvcache-ai/AgentENV",
@@ -2591,6 +2592,7 @@
     "https://news.ycombinator.com/item?id=50450007",
     "https://news.ycombinator.com/item?id=50450488",
     "https://news.ycombinator.com/item?id=50454625",
+    "https://news.ycombinator.com/item?id=50454951",
     "https://news.ycombinator.com/item?id=50459703",
     "https://news.ycombinator.com/item?id=50462177",
     "https://news.ycombinator.com/item?id=50468720",
@@ -2990,12 +2992,6 @@
   "recent": [
     {
       "date": "2026-11-17",
-      "subcat": "Models & Datasets",
-      "title": "arc4g/arc-art",
-      "url": "https://huggingface.co/datasets/arc4g/arc-art"
-    },
-    {
-      "date": "2026-11-17",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Stripe closed us after one $1,500 invoice and...",
       "url": "https://news.ycombinator.com/item?id=50510042"
@@ -3047,6 +3043,12 @@
       "subcat": "Research Papers",
       "title": "Ninada: Sub-Clause Split-Graph VITS Streaming and...",
       "url": "http://arxiv.org/abs/2611.10035v2"
+    },
+    {
+      "date": "2026-11-17",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Klad, a paint app your coding agent can...",
+      "url": "https://news.ycombinator.com/item?id=50454951"
     }
   ]
 }
