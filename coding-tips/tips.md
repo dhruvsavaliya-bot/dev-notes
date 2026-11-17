@@ -114,6 +114,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://lobste.rs/s/6t3oi4/on_leaving_swift_for_rust
 - **Link:** https://www.prux.org/posts/goodbye-swift-hello-rust/
 
+**Added 2026-11-17**
+
+### [Janet Reno was talking about my friend Coolio (computer criminal)](https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/)
+- **Source:** michael.bacarella.com | **Posted:** 2026-11-16 | **By:** scanner_brightly
+- **Community:** 34 score, 14 comments on Lobsters
+- **Tags:** culture, security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/urcrqe/janet_reno_was_talking_about_my_friend
+- **Link:** https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/
+
 
 ## Show & Ask HN
 

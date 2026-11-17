@@ -1849,6 +1849,7 @@
     "https://lobste.rs/s/ukj8mm/federated_code_forge",
     "https://lobste.rs/s/ul9krj/hacking_go_compiler_efficiently_map_ipv4",
     "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+    "https://lobste.rs/s/urcrqe/janet_reno_was_talking_about_my_friend",
     "https://lobste.rs/s/urg4yu/unattended_reboots_with_encrypted_disks",
     "https://lobste.rs/s/uz2j2h/google_summer_code_2026_results",
     "https://lobste.rs/s/v3uidx/lock_your_github_actions",
@@ -1933,6 +1934,7 @@
     "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders",
     "https://media.ccc.de/v/matrix-conference-2026-99070-a-vision-for-a-next-generation-timeline",
     "https://memories.gallery/",
+    "https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/",
     "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
     "https://minimaxir.com/2026/10/cheap-llms/",
     "https://mistral.ai/news/voxtral-3/",
@@ -2993,12 +2995,6 @@
   "recent": [
     {
       "date": "2026-11-17",
-      "subcat": "PHP",
-      "title": "An examination of lost firefly species of the US and...",
-      "url": "https://news.ycombinator.com/item?id=50224079"
-    },
-    {
-      "date": "2026-11-17",
       "subcat": "Hacker News Picks",
       "title": "World Labs is Joining AMD",
       "url": "https://news.ycombinator.com/item?id=49883760"
@@ -3050,6 +3046,12 @@
       "subcat": "AI & Machine Learning",
       "title": "BagelHole/DevOps-Security-Agent-Skills",
       "url": "https://github.com/BagelHole/DevOps-Security-Agent-Skills"
+    },
+    {
+      "date": "2026-11-17",
+      "subcat": "Lobsters Picks",
+      "title": "Janet Reno was talking about my friend Coolio...",
+      "url": "https://lobste.rs/s/urcrqe/janet_reno_was_talking_about_my_friend"
     }
   ]
 }
