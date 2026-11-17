@@ -1867,6 +1867,7 @@
     "https://lobste.rs/s/y3hvme/inside_github_s_new_git_storage",
     "https://lobste.rs/s/yba0yg/introducing_adaptive_dark_mode",
     "https://lobste.rs/s/yczems/emacs_finally_folds_my_liking",
+    "https://lobste.rs/s/yervw7/this_month_redox_october_2026",
     "https://lobste.rs/s/yes2hc/ideas_for_social_networks",
     "https://lobste.rs/s/ygp18d/hanami_why_model_citizens",
     "https://lobste.rs/s/yihs7m/understanding_org_s_latex_previews",
@@ -2881,6 +2882,7 @@
     "https://www.raptitude.com/2026/07/how-to-exist/",
     "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
     "https://www.redox-os.org/news/nlnet-rb-summary/",
+    "https://www.redox-os.org/news/this-month-261031/",
     "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
     "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
     "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
@@ -2956,12 +2958,6 @@
   "recent": [
     {
       "date": "2026-11-16",
-      "subcat": "Lobsters Picks",
-      "title": "3-2-1 Backup Strategy with restic and Backblaze B2",
-      "url": "https://lobste.rs/s/9zcxev/3_2_1_backup_strategy_with_restic"
-    },
-    {
-      "date": "2026-11-16",
       "subcat": "Backend & Infrastructure",
       "title": "yetone/alma-relay",
       "url": "https://github.com/yetone/alma-relay"
@@ -3013,6 +3009,12 @@
       "subcat": "Other Cool Projects",
       "title": "1337isnot1337/DOPPLERGEIST",
       "url": "https://github.com/1337isnot1337/DOPPLERGEIST"
+    },
+    {
+      "date": "2026-11-17",
+      "subcat": "Rust",
+      "title": "This Month in Redox - October 2026",
+      "url": "https://lobste.rs/s/yervw7/this_month_redox_october_2026"
     }
   ]
 }

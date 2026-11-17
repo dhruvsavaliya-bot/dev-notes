@@ -24,6 +24,17 @@ Top community posts, organized by programming language.
 - **Discussion:** https://news.ycombinator.com/item?id=50459703
 - **Link:** https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad
 
+**Added 2026-11-17**
+
+### [This Month in Redox - October 2026](https://www.redox-os.org/news/this-month-261031/)
+- **Source:** www.redox-os.org | **Posted:** 2026-11-15 | **By:** gnafuthegreat
+- **Community:** 25 score, 1 comments on Lobsters
+- **Tags:** osdev, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/yervw7/this_month_redox_october_2026
+- **Link:** https://www.redox-os.org/news/this-month-261031/
+
+
 ## Go
 
 **Added 2026-11-17**
