@@ -2515,6 +2515,7 @@
     "https://news.ycombinator.com/item?id=50333877",
     "https://news.ycombinator.com/item?id=50337608",
     "https://news.ycombinator.com/item?id=50338728",
+    "https://news.ycombinator.com/item?id=50338747",
     "https://news.ycombinator.com/item?id=50339288",
     "https://news.ycombinator.com/item?id=50339397",
     "https://news.ycombinator.com/item?id=50339913",
@@ -2661,6 +2662,7 @@
     "https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice",
     "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
     "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+    "https://posthog.com/blog/moving-off-duckdb",
     "https://pranitha.dev/posts/rwlock-vs-lockfree/",
     "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
     "https://projectzero.google/2026/10/fuzzing-v-AI.html",
@@ -2971,12 +2973,6 @@
   "recent": [
     {
       "date": "2026-11-17",
-      "subcat": "Other Cool Projects",
-      "title": "1337isnot1337/DOPPLERGEIST",
-      "url": "https://github.com/1337isnot1337/DOPPLERGEIST"
-    },
-    {
-      "date": "2026-11-17",
       "subcat": "Rust",
       "title": "This Month in Redox - October 2026",
       "url": "https://lobste.rs/s/yervw7/this_month_redox_october_2026"
@@ -3028,6 +3024,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Waymark  A workflow engine that compiles...",
       "url": "https://news.ycombinator.com/item?id=50379221"
+    },
+    {
+      "date": "2026-11-17",
+      "subcat": "Hacker News Picks",
+      "title": "Moving our warehouse off DuckDB",
+      "url": "https://news.ycombinator.com/item?id=50338747"
     }
   ]
 }

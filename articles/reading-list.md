@@ -94,6 +94,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50149392
 - **Link:** https://lwn.net/Articles/1101143/
 
+**Added 2026-11-17**
+
+### [Moving our warehouse off DuckDB](https://posthog.com/blog/moving-off-duckdb)
+- **Source:** posthog.com | **Posted:** 2026-11-02 | **By:** emschwartz
+- **Community:** 188 points, 120 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50338747
+- **Link:** https://posthog.com/blog/moving-off-duckdb
+
 
 ## Lobsters Picks
 
