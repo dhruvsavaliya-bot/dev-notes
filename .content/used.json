@@ -2592,6 +2592,7 @@
     "https://news.ycombinator.com/item?id=50494696",
     "https://news.ycombinator.com/item?id=50500963",
     "https://news.ycombinator.com/item?id=50506180",
+    "https://news.ycombinator.com/item?id=50510042",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2976,12 +2977,6 @@
   "recent": [
     {
       "date": "2026-11-17",
-      "subcat": "Research Papers",
-      "title": "FedCSGA: Evolutionary Client Selection with Joint...",
-      "url": "http://arxiv.org/abs/2611.04667v2"
-    },
-    {
-      "date": "2026-11-17",
       "subcat": "Lobsters Picks",
       "title": "Quality IMAP, Part 1: Your Mailbox Is A Database",
       "url": "https://lobste.rs/s/gm4vao/quality_imap_part_1_your_mailbox_is"
@@ -3033,6 +3028,12 @@
       "subcat": "Models & Datasets",
       "title": "arc4g/arc-art",
       "url": "https://huggingface.co/datasets/arc4g/arc-art"
+    },
+    {
+      "date": "2026-11-17",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: Stripe closed us after one $1,500 invoice and...",
+      "url": "https://news.ycombinator.com/item?id=50510042"
     }
   ]
 }

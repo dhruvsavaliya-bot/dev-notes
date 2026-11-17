@@ -207,6 +207,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50379221
 - **Link:** https://github.com/piercefreeman/waymark
 
+**Added 2026-11-17**
+
+### [Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence](https://news.ycombinator.com/item?id=50510042)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-15 | **By:** snirgbs
+- **Community:** 179 points, 91 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50510042
+- **Link:** https://news.ycombinator.com/item?id=50510042
+
 
 ## Productivity
 
