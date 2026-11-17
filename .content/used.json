@@ -548,6 +548,7 @@
     "https://dev.to/xulingfeng/24-cups-36-seats-the-bartenders-ledger-40aj",
     "https://dev.to/xulingfeng/amazon-ai-blocked-my-kindle-book-i-asked-what-went-wrong-then-they-approved-it-48hi",
     "https://dev.to/xulingfeng/an-ai-testing-presentation-became-the-final-push-for-organizational-change-at-my-company-12ag",
+    "https://dev.to/xulingfeng/my-company-packaged-12-years-of-my-experience-into-an-ai-skill-then-laid-me-off-when-it-crashed-4b3e",
     "https://dev.to/xulingfeng/stratagems-10-lena-watched-a-team-adopt-her-ai-template-leo-didnt-know-the-knife-was-in-the-4khj",
     "https://dev.to/xulingfeng/stratagems-16-mark-left-a-hole-in-his-ai-audit-lena-counted-every-layer-2l7p",
     "https://dev.to/xulingfeng/stratagems-17-alex-set-an-ai-bait-the-catch-wasnt-code-it-was-someone-who-shouldnt-have-been-4893",
@@ -3002,12 +3003,6 @@
   "recent": [
     {
       "date": "2026-11-17",
-      "subcat": "Hacker News Picks",
-      "title": "Carnegie Mellon is putting computer science courses...",
-      "url": "https://news.ycombinator.com/item?id=50522980"
-    },
-    {
-      "date": "2026-11-17",
       "subcat": "Research Papers",
       "title": "Ninada: Sub-Clause Split-Graph VITS Streaming and...",
       "url": "http://arxiv.org/abs/2611.10035v2"
@@ -3059,6 +3054,12 @@
       "subcat": "AI & Machine Learning",
       "title": "typesafe-ai/skills",
       "url": "https://github.com/typesafe-ai/skills"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "AI Engineering",
+      "title": "My company packaged 12 years of my experience into an...",
+      "url": "https://dev.to/xulingfeng/my-company-packaged-12-years-of-my-experience-into-an-ai-skill-then-laid-me-off-when-it-crashed-4b3e"
     }
   ]
 }

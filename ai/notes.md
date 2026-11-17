@@ -278,3 +278,12 @@ The best recent AI engineering content, organized by area.
 - **Tags:** ai, gemini, sideprojects, showdev
 - **Summary:** I’m in a different mindset these days.   For years, I—like many developers—fell into the trap of...
 - **Link:** https://dev.to/ben/when-is-a-side-project-worth-committing-to-5ec7
+
+**Added 2026-11-18**
+
+### [My company packaged 12 years of my experience into an AI Skill, then laid me off. When it crashed, the CTO called at 5x my salary.](https://dev.to/xulingfeng/my-company-packaged-12-years-of-my-experience-into-an-ai-skill-then-laid-me-off-when-it-crashed-4b3e)
+- **Author:** xulingfeng | **Published:** Jun 8 | **Read time:** 7 min
+- **Community:** 120 reactions, 79 comments -- a top post in #ai
+- **Tags:** ai, career, discuss, programming
+- **Summary:** A story about knowledge extraction, Kafka consumer rebalance, and what happens when a company...
+- **Link:** https://dev.to/xulingfeng/my-company-packaged-12-years-of-my-experience-into-an-ai-skill-then-laid-me-off-when-it-crashed-4b3e
