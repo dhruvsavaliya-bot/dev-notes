@@ -139,6 +139,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50529612
 - **Link:** https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/
 
+**Added 2026-11-18**
+
+### [What is the best harness for each model?](https://runta.com/blog/introducing-frontierharness-eval-v1-1/)
+- **Source:** runta.com | **Posted:** 2026-11-17 | **By:** Edward40
+- **Community:** 302 points, 106 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50532191
+- **Link:** https://runta.com/blog/introducing-frontierharness-eval-v1-1/
+
 
 ## Lobsters Picks
 

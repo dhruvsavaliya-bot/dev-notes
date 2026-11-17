@@ -2616,6 +2616,7 @@
     "https://news.ycombinator.com/item?id=50522980",
     "https://news.ycombinator.com/item?id=50524767",
     "https://news.ycombinator.com/item?id=50529612",
+    "https://news.ycombinator.com/item?id=50532191",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2712,6 +2713,7 @@
     "https://root.cern.ch/cling",
     "https://rtfeldman.com/fp-vs-c",
     "https://runarcn.no/android-to-linux/",
+    "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
     "https://sable.moe/en/blog/link-previews-and-you/",
     "https://sael.net/flatpack/",
     "https://sandstorm.org/news/2023-12-05-osm-on-sandstorm",
@@ -3003,12 +3005,6 @@
   "recent": [
     {
       "date": "2026-11-17",
-      "subcat": "Research Papers",
-      "title": "Ninada: Sub-Clause Split-Graph VITS Streaming and...",
-      "url": "http://arxiv.org/abs/2611.10035v2"
-    },
-    {
-      "date": "2026-11-17",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Klad, a paint app your coding agent can...",
       "url": "https://news.ycombinator.com/item?id=50454951"
@@ -3060,6 +3056,12 @@
       "subcat": "AI Engineering",
       "title": "My company packaged 12 years of my experience into an...",
       "url": "https://dev.to/xulingfeng/my-company-packaged-12-years-of-my-experience-into-an-ai-skill-then-laid-me-off-when-it-crashed-4b3e"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "Hacker News Picks",
+      "title": "What is the best harness for each model?",
+      "url": "https://news.ycombinator.com/item?id=50532191"
     }
   ]
 }
