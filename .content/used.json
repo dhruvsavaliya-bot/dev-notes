@@ -2299,6 +2299,7 @@
     "https://news.ycombinator.com/item?id=49879883",
     "https://news.ycombinator.com/item?id=49883471",
     "https://news.ycombinator.com/item?id=49883539",
+    "https://news.ycombinator.com/item?id=49883760",
     "https://news.ycombinator.com/item?id=49893157",
     "https://news.ycombinator.com/item?id=49899090",
     "https://news.ycombinator.com/item?id=49902382",
@@ -2951,6 +2952,7 @@
     "https://www.wiz.io/blog/php2shell-php-rce",
     "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+    "https://www.worldlabs.ai/blog/amd-announcement",
     "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
     "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
     "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
@@ -2977,12 +2979,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-11-17",
-      "subcat": "Developer Tools",
-      "title": "Timmoth/RackPeek",
-      "url": "https://github.com/Timmoth/RackPeek"
-    },
     {
       "date": "2026-11-17",
       "subcat": "Rust",
@@ -3036,6 +3032,12 @@
       "subcat": "PHP",
       "title": "An examination of lost firefly species of the US and...",
       "url": "https://news.ycombinator.com/item?id=50224079"
+    },
+    {
+      "date": "2026-11-17",
+      "subcat": "Hacker News Picks",
+      "title": "World Labs is Joining AMD",
+      "url": "https://news.ycombinator.com/item?id=49883760"
     }
   ]
 }

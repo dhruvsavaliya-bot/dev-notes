@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2102 entries and counting** · Last updated: 2026-11-17
+**2103 entries and counting** · Last updated: 2026-11-17
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 423 |
 | [AI / LLM Notes](ai/notes.md) | 424 |
-| [Reading List](articles/reading-list.md) | 424 |
+| [Reading List](articles/reading-list.md) | 425 |
 | [Coding Tips](coding-tips/tips.md) | 425 |
 | [Language Notes](languages/notes.md) | 406 |
 
 ## Latest additions
 
+- **2026-11-17** · *Hacker News Picks* — [World Labs is Joining AMD](https://news.ycombinator.com/item?id=49883760)
 - **2026-11-17** · *PHP* — [An examination of lost firefly species of the US and...](https://news.ycombinator.com/item?id=50224079)
 - **2026-11-17** · *Show & Ask HN* — [Ask HN: Stripe closed us after one $1,500 invoice and...](https://news.ycombinator.com/item?id=50510042)
 - **2026-11-17** · *Models & Datasets* — [arc4g/arc-art](https://huggingface.co/datasets/arc4g/arc-art)
 - **2026-11-17** · *Lobsters Picks* — [On Leaving Swift for Rust](https://lobste.rs/s/6t3oi4/on_leaving_swift_for_rust)
-- **2026-11-17** · *Hacker News Picks* — [Moving our warehouse off DuckDB](https://news.ycombinator.com/item?id=50338747)
 
 ## How it works
 

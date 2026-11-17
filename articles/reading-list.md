@@ -103,6 +103,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50338747
 - **Link:** https://posthog.com/blog/moving-off-duckdb
 
+**Added 2026-11-17**
+
+### [World Labs is Joining AMD](https://www.worldlabs.ai/blog/amd-announcement)
+- **Source:** www.worldlabs.ai | **Posted:** 2026-09-28 | **By:** mfiguiere
+- **Community:** 308 points, 121 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=49883760
+- **Link:** https://www.worldlabs.ai/blog/amd-announcement
+
 
 ## Lobsters Picks
 
