@@ -85,6 +85,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50440709
 - **Link:** https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/
 
+**Added 2026-11-17**
+
+### [Linux 7.3](https://lwn.net/Articles/1101143/)
+- **Source:** lwn.net | **Posted:** 2026-10-19 | **By:** cjd8
+- **Community:** 636 points, 301 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50149392
+- **Link:** https://lwn.net/Articles/1101143/
+
 
 ## Lobsters Picks
 

@@ -1899,6 +1899,7 @@
     "https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/",
     "https://lumi.codeberg.page/blog/software-community.html",
     "https://lwn.net/Articles/1086041/",
+    "https://lwn.net/Articles/1101143/",
     "https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/",
     "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
     "https://maevyn.codes/decoherence",
@@ -2392,6 +2393,7 @@
     "https://news.ycombinator.com/item?id=50131006",
     "https://news.ycombinator.com/item?id=50131189",
     "https://news.ycombinator.com/item?id=50140584",
+    "https://news.ycombinator.com/item?id=50149392",
     "https://news.ycombinator.com/item?id=50150163",
     "https://news.ycombinator.com/item?id=50150750",
     "https://news.ycombinator.com/item?id=50151036",
@@ -2966,12 +2968,6 @@
   "recent": [
     {
       "date": "2026-11-17",
-      "subcat": "Lobsters Picks",
-      "title": "Migrating from GitHub to Codeberg",
-      "url": "https://lobste.rs/s/rhoopo/migrating_from_github_codeberg"
-    },
-    {
-      "date": "2026-11-17",
       "subcat": "Go",
       "title": "Go Turns 17",
       "url": "https://lobste.rs/s/idktfu/go_turns_17"
@@ -3023,6 +3019,12 @@
       "subcat": "Rust",
       "title": "A datetime library for Rust",
       "url": "https://lobste.rs/s/dxxvek/datetime_library_for_rust"
+    },
+    {
+      "date": "2026-11-17",
+      "subcat": "Hacker News Picks",
+      "title": "Linux 7.3",
+      "url": "https://news.ycombinator.com/item?id=50149392"
     }
   ]
 }
