@@ -124,6 +124,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.05115v1
 
+**Added 2026-11-17**
+
+### [SWIFT: Sample-Wise Instance Fine-Tuning of Time-Series Foundation Models for Forecasting](http://arxiv.org/abs/2611.17915v1)
+- **Authors:** Yang Chen, Feifan Tian, Cong Wang, Cheng Feng et al.
+- **Published:** 2026-11-13 | **Primary category:** cs.AI
+- **Categories:** cs.AI
+- **Abstract:** While current few-shot adaptation strategies for time series forecasting foundation models are predominantly dataset-centric, the necessity of obtaining an additional dataset for the finetuning process poses a significant hurdle for adoption. To address this constraint, we propose Sample-Wise Instance Fine-Tuning (SWIFT), a novel forecasting adaptation framework that achieves fine-grained specialization by leveraging structural priors from the target instance's own history. This shift allows the...
+- **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.17915v1
+
 
 ## Models & Datasets
 

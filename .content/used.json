@@ -131,6 +131,7 @@
     "http://arxiv.org/abs/2611.14247v1",
     "http://arxiv.org/abs/2611.15843v1",
     "http://arxiv.org/abs/2611.16627v1",
+    "http://arxiv.org/abs/2611.17915v1",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "http://blog.nozomi.space/posts/sw2_dock/",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
@@ -2981,12 +2982,6 @@
   "recent": [
     {
       "date": "2026-11-17",
-      "subcat": "Rust",
-      "title": "A datetime library for Rust",
-      "url": "https://lobste.rs/s/dxxvek/datetime_library_for_rust"
-    },
-    {
-      "date": "2026-11-17",
       "subcat": "Hacker News Picks",
       "title": "Linux 7.3",
       "url": "https://news.ycombinator.com/item?id=50149392"
@@ -3038,6 +3033,12 @@
       "subcat": "Hacker News Picks",
       "title": "World Labs is Joining AMD",
       "url": "https://news.ycombinator.com/item?id=49883760"
+    },
+    {
+      "date": "2026-11-17",
+      "subcat": "Research Papers",
+      "title": "SWIFT: Sample-Wise Instance Fine-Tuning of...",
+      "url": "http://arxiv.org/abs/2611.17915v1"
     }
   ]
 }
