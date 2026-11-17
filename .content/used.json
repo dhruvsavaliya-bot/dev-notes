@@ -35,6 +35,7 @@
     "http://arxiv.org/abs/2609.38722v1",
     "http://arxiv.org/abs/2610.00687v1",
     "http://arxiv.org/abs/2610.01282v1",
+    "http://arxiv.org/abs/2610.02376v1",
     "http://arxiv.org/abs/2610.03001v1",
     "http://arxiv.org/abs/2610.03109v1",
     "http://arxiv.org/abs/2610.03665v1",
@@ -2986,12 +2987,6 @@
   "recent": [
     {
       "date": "2026-11-17",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Waymark  A workflow engine that compiles...",
-      "url": "https://news.ycombinator.com/item?id=50379221"
-    },
-    {
-      "date": "2026-11-17",
       "subcat": "Hacker News Picks",
       "title": "Moving our warehouse off DuckDB",
       "url": "https://news.ycombinator.com/item?id=50338747"
@@ -3043,6 +3038,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Ghostman  A fast, keyboard-driven TUI API...",
       "url": "https://news.ycombinator.com/item?id=50300902"
+    },
+    {
+      "date": "2026-11-17",
+      "subcat": "Research Papers",
+      "title": "Coco: An Agentic Copilot for the Hardware--Software...",
+      "url": "http://arxiv.org/abs/2610.02376v1"
     }
   ]
 }

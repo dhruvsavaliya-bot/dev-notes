@@ -134,6 +134,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.17915v1
 
+**Added 2026-11-17**
+
+### [Coco: An Agentic Copilot for the Hardware--Software Co-Design Lifecycle](http://arxiv.org/abs/2610.02376v1)
+- **Authors:** Samuel Kushnir, Kavya Sreedhar, Yeshwanth Reddy Pogula, Amir Yazdanbakhsh et al.
+- **Published:** 2026-10-01 | **Primary category:** cs.PL
+- **Categories:** cs.PL, cs.AI
+- **Abstract:** Co-designing ML models and the accelerators that run them is an unusual reasoning task: architects must draw confident, high-stakes conclusions about systems that do not yet exist, and the pace of both model evolution and hardware cadence means the analysis burden grows every quarter. The evidence behind each decision--hundreds of gigabytes of fresh simulation sweeps over novel design points--is by construction absent from any LLM's pretraining corpus, and there is no external literature to retr...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.02376v1
+
 
 ## Models & Datasets
 
