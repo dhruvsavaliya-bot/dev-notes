@@ -627,6 +627,7 @@
     "https://github.com/1lck/Lithe-IDEA",
     "https://github.com/3641397194-wq/gpt6-Astra",
     "https://github.com/49-Agents/49-IDE",
+    "https://github.com/4yk5/Ghostman",
     "https://github.com/852wa/JIZURA",
     "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
     "https://github.com/AFK-surf/Comma",
@@ -2503,6 +2504,7 @@
     "https://news.ycombinator.com/item?id=50296486",
     "https://news.ycombinator.com/item?id=50297697",
     "https://news.ycombinator.com/item?id=50300683",
+    "https://news.ycombinator.com/item?id=50300902",
     "https://news.ycombinator.com/item?id=50301479",
     "https://news.ycombinator.com/item?id=50303172",
     "https://news.ycombinator.com/item?id=50305320",
@@ -2984,12 +2986,6 @@
   "recent": [
     {
       "date": "2026-11-17",
-      "subcat": "Research Papers",
-      "title": "Distributed Linear Bandits for Freshness-Aware...",
-      "url": "http://arxiv.org/abs/2611.05115v1"
-    },
-    {
-      "date": "2026-11-17",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Waymark  A workflow engine that compiles...",
       "url": "https://news.ycombinator.com/item?id=50379221"
@@ -3041,6 +3037,12 @@
       "subcat": "Hacker News Picks",
       "title": "Optimizely compromised, served malware on Zoom, GitLab",
       "url": "https://news.ycombinator.com/item?id=50524767"
+    },
+    {
+      "date": "2026-11-17",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Ghostman  A fast, keyboard-driven TUI API...",
+      "url": "https://news.ycombinator.com/item?id=50300902"
     }
   ]
 }

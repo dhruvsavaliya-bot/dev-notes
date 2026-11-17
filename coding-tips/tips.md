@@ -216,6 +216,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50510042
 - **Link:** https://news.ycombinator.com/item?id=50510042
 
+**Added 2026-11-17**
+
+### [Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector](https://github.com/4yk5/Ghostman)
+- **Source:** github.com | **Posted:** 2026-10-30 | **By:** 4yk5
+- **Community:** 68 points, 46 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50300902
+- **Link:** https://github.com/4yk5/Ghostman
+
 
 ## Productivity
 
