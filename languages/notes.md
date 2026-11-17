@@ -34,6 +34,16 @@ Top community posts, organized by programming language.
 - **Discussion:** https://lobste.rs/s/yervw7/this_month_redox_october_2026
 - **Link:** https://www.redox-os.org/news/this-month-261031/
 
+**Added 2026-11-17**
+
+### [A datetime library for Rust](https://burntsushi.net/jiff/)
+- **Source:** burntsushi.net | **Posted:** 2026-11-15 | **By:** refi64
+- **Community:** 140 score, 34 comments on Lobsters
+- **Tags:** rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/dxxvek/datetime_library_for_rust
+- **Link:** https://burntsushi.net/jiff/
+
 
 ## Go
 

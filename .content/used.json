@@ -279,6 +279,7 @@
     "https://buf.build/blog/protobuf-lsp",
     "https://bugs.chromium.org/p/chromium/issues/detail?id=896897&desc=2#c23",
     "https://bun.com/blog/bun-v1.4",
+    "https://burntsushi.net/jiff/",
     "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
     "https://bw.swerdlow.dev/report",
     "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
@@ -1678,6 +1679,7 @@
     "https://lobste.rs/s/drwd4j/jepsen_particledb_1_1_4",
     "https://lobste.rs/s/dsbt5a/branches_branch_free_code",
     "https://lobste.rs/s/dsrruj/london_meetup",
+    "https://lobste.rs/s/dxxvek/datetime_library_for_rust",
     "https://lobste.rs/s/dzvt0w/type_inference_all_constructs_next_15",
     "https://lobste.rs/s/e201eb/ubuntu_26_04_rust_sudo_is_not_compatible",
     "https://lobste.rs/s/e5vf6k/don_t_couple_your_go_code_github",
@@ -2964,12 +2966,6 @@
   "recent": [
     {
       "date": "2026-11-17",
-      "subcat": "Other Cool Projects",
-      "title": "brenpoly/CardboardXR",
-      "url": "https://github.com/brenpoly/CardboardXR"
-    },
-    {
-      "date": "2026-11-17",
       "subcat": "Lobsters Picks",
       "title": "Migrating from GitHub to Codeberg",
       "url": "https://lobste.rs/s/rhoopo/migrating_from_github_codeberg"
@@ -3021,6 +3017,12 @@
       "subcat": "Developer Tools",
       "title": "Timmoth/RackPeek",
       "url": "https://github.com/Timmoth/RackPeek"
+    },
+    {
+      "date": "2026-11-17",
+      "subcat": "Rust",
+      "title": "A datetime library for Rust",
+      "url": "https://lobste.rs/s/dxxvek/datetime_library_for_rust"
     }
   ]
 }
