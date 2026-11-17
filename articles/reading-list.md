@@ -121,6 +121,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50524767
 - **Link:** https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/
 
+**Added 2026-11-17**
+
+### [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
+- **Source:** www.cs.cmu.edu | **Posted:** 2026-11-16 | **By:** pcompeau
+- **Community:** 1618 points, 220 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50522980
+- **Link:** https://www.cs.cmu.edu/learn/
+
 
 ## Lobsters Picks
 
