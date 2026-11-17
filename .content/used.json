@@ -806,6 +806,7 @@
     "https://github.com/ToolJet/ToolJet",
     "https://github.com/TurkeyDesignate/GitHub-Copilot-app",
     "https://github.com/UNDERdecoded/Gen2Recomped",
+    "https://github.com/UniXNU/UniXNU",
     "https://github.com/Verlintas/NOIR",
     "https://github.com/Vibra-Ingenn/Janus",
     "https://github.com/Vincentwei1021/video-shotcraft",
@@ -2995,12 +2996,6 @@
   "recent": [
     {
       "date": "2026-11-17",
-      "subcat": "Hacker News Picks",
-      "title": "World Labs is Joining AMD",
-      "url": "https://news.ycombinator.com/item?id=49883760"
-    },
-    {
-      "date": "2026-11-17",
       "subcat": "Research Papers",
       "title": "SWIFT: Sample-Wise Instance Fine-Tuning of...",
       "url": "http://arxiv.org/abs/2611.17915v1"
@@ -3052,6 +3047,12 @@
       "subcat": "Lobsters Picks",
       "title": "Janet Reno was talking about my friend Coolio...",
       "url": "https://lobste.rs/s/urcrqe/janet_reno_was_talking_about_my_friend"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "Other Cool Projects",
+      "title": "UniXNU/UniXNU",
+      "url": "https://github.com/UniXNU/UniXNU"
     }
   ]
 }

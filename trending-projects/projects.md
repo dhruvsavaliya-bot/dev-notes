@@ -167,6 +167,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~40 stars/day since launch.
 - **Link:** https://github.com/1337isnot1337/DOPPLERGEIST
 
+**Added 2026-11-18**
+
+### [UniXNU/UniXNU](https://github.com/UniXNU/UniXNU)
+- **Stats:** 2,972 stars | 464 forks | 40 open issues
+- **Language:** Python | **Created:** 2026-10-19 | **License:** NOASSERTION
+- **Topics:** unixnu
+- **What it is:** Run iOS and macOS on non-Apple ARM64 hardware through UEFI.
+- **Growth:** averaging ~99 stars/day since launch.
+- **Link:** https://github.com/UniXNU/UniXNU
+
 
 ## Web & Frontend
 

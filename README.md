@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2112 entries and counting** · Last updated: 2026-11-17
+**2113 entries and counting** · Last updated: 2026-11-18
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 424 |
+| [Trending Projects](trending-projects/projects.md) | 425 |
 | [AI / LLM Notes](ai/notes.md) | 427 |
 | [Reading List](articles/reading-list.md) | 427 |
 | [Coding Tips](coding-tips/tips.md) | 428 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-18** · *Other Cool Projects* — [UniXNU/UniXNU](https://github.com/UniXNU/UniXNU)
 - **2026-11-17** · *Lobsters Picks* — [Janet Reno was talking about my friend Coolio...](https://lobste.rs/s/urcrqe/janet_reno_was_talking_about_my_friend)
 - **2026-11-17** · *AI & Machine Learning* — [BagelHole/DevOps-Security-Agent-Skills](https://github.com/BagelHole/DevOps-Security-Agent-Skills)
 - **2026-11-17** · *Show & Ask HN* — [Show HN: Klad, a paint app your coding agent can...](https://news.ycombinator.com/item?id=50454951)
 - **2026-11-17** · *Research Papers* — [Ninada: Sub-Clause Split-Graph VITS Streaming and...](http://arxiv.org/abs/2611.10035v2)
-- **2026-11-17** · *Hacker News Picks* — [Carnegie Mellon is putting computer science courses...](https://news.ycombinator.com/item?id=50522980)
 
 ## How it works
 
