@@ -269,3 +269,12 @@ The best recent AI engineering content, organized by area.
 - **Tags:** devchallenge, hf26challenge, hacktoberfest, ai
 - **Summary:** The results are in for the final week of our Hacktoberfest DEV Challenges! For Ghost in the Machine,...
 - **Link:** https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok
+
+**Added 2026-11-18**
+
+### [When is a side project worth committing to?](https://dev.to/ben/when-is-a-side-project-worth-committing-to-5ec7)
+- **Author:** Ben Halpern | **Published:** Jan 8 | **Read time:** 3 min
+- **Community:** 58 reactions, 18 comments -- a top post in #ai
+- **Tags:** ai, gemini, sideprojects, showdev
+- **Summary:** I’m in a different mindset these days.   For years, I—like many developers—fell into the trap of...
+- **Link:** https://dev.to/ben/when-is-a-side-project-worth-committing-to-5ec7
