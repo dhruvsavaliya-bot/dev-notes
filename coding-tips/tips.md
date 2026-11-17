@@ -94,6 +94,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://lobste.rs/s/rhoopo/migrating_from_github_codeberg
 - **Link:** https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/
 
+**Added 2026-11-17**
+
+### [Quality IMAP, Part 1: Your Mailbox Is A Database](https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/)
+- **Source:** aerogramme.deuxfleurs.fr | **Posted:** 2026-11-16 | **By:** gasche
+- **Community:** 17 score, 5 comments on Lobsters
+- **Tags:** email, testing
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/gm4vao/quality_imap_part_1_your_mailbox_is
+- **Link:** https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/
+
 
 ## Show & Ask HN
 

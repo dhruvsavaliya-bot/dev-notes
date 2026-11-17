@@ -166,6 +166,7 @@
     "https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/",
     "https://actualbudget.org/",
     "https://adrs.systems",
+    "https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/",
     "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
     "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
     "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
@@ -1700,6 +1701,7 @@
     "https://lobste.rs/s/gejy85/adapting_cpython_for_yk",
     "https://lobste.rs/s/gfm0xn/new_go_api_for_json",
     "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from",
+    "https://lobste.rs/s/gm4vao/quality_imap_part_1_your_mailbox_is",
     "https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow",
     "https://lobste.rs/s/gqyvn5/protecting_firefox_users_following",
     "https://lobste.rs/s/gu6yyl/polyend_releases_tracker_firmware",
@@ -2961,12 +2963,6 @@
   "recent": [
     {
       "date": "2026-11-17",
-      "subcat": "Rust",
-      "title": "Nvidia is preparing to oust Jensen Huang",
-      "url": "https://news.ycombinator.com/item?id=50459703"
-    },
-    {
-      "date": "2026-11-17",
       "subcat": "Models & Datasets",
       "title": "DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored-Turbo-B...",
       "url": "https://huggingface.co/DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF"
@@ -3018,6 +3014,12 @@
       "subcat": "Research Papers",
       "title": "FedCSGA: Evolutionary Client Selection with Joint...",
       "url": "http://arxiv.org/abs/2611.04667v2"
+    },
+    {
+      "date": "2026-11-17",
+      "subcat": "Lobsters Picks",
+      "title": "Quality IMAP, Part 1: Your Mailbox Is A Database",
+      "url": "https://lobste.rs/s/gm4vao/quality_imap_part_1_your_mailbox_is"
     }
   ]
 }
