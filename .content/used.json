@@ -1397,6 +1397,7 @@
     "https://huggingface.co/datasets/agents-last-exam/agents-last-exam",
     "https://huggingface.co/datasets/aidigestorg/ai-village",
     "https://huggingface.co/datasets/allenai/c4",
+    "https://huggingface.co/datasets/arc4g/arc-art",
     "https://huggingface.co/datasets/argilla/magpie-ultra-v0.1",
     "https://huggingface.co/datasets/armand0e/claude-fable-5-claude-code",
     "https://huggingface.co/datasets/atomscott/soccertrack-v2",
@@ -2975,12 +2976,6 @@
   "recent": [
     {
       "date": "2026-11-17",
-      "subcat": "Hacker News Picks",
-      "title": "Why get an expensive Pi when I have an old phone?",
-      "url": "https://news.ycombinator.com/item?id=50440709"
-    },
-    {
-      "date": "2026-11-17",
       "subcat": "Research Papers",
       "title": "FedCSGA: Evolutionary Client Selection with Joint...",
       "url": "http://arxiv.org/abs/2611.04667v2"
@@ -3032,6 +3027,12 @@
       "subcat": "Lobsters Picks",
       "title": "On Leaving Swift for Rust",
       "url": "https://lobste.rs/s/6t3oi4/on_leaving_swift_for_rust"
+    },
+    {
+      "date": "2026-11-17",
+      "subcat": "Models & Datasets",
+      "title": "arc4g/arc-art",
+      "url": "https://huggingface.co/datasets/arc4g/arc-art"
     }
   ]
 }

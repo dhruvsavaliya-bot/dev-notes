@@ -208,6 +208,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF
 
+**Added 2026-11-17**
+
+### [arc4g/arc-art](https://huggingface.co/datasets/arc4g/arc-art)
+- **Stats:** 53 likes | 2,418 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-11-09
+- **Tags:** blender, 3d, 3d-art, animation, cycles, art
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/arc4g/arc-art
+
 
 ## LLMs
 
