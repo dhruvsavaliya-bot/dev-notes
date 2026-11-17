@@ -94,6 +94,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~4 stars/day since launch.
 - **Link:** https://github.com/BagelHole/DevOps-Security-Agent-Skills
 
+**Added 2026-11-18**
+
+### [typesafe-ai/skills](https://github.com/typesafe-ai/skills)
+- **Stats:** 2,906 stars | 187 forks | 19 open issues
+- **Language:** N/A | **Created:** 2026-08-24 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Agent skills for building with TypeSafe's System One API
+- **Growth:** averaging ~33 stars/day since launch.
+- **Link:** https://github.com/typesafe-ai/skills
+
 
 ## Other Cool Projects
 

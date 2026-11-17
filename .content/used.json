@@ -1207,6 +1207,7 @@
     "https://github.com/trinodb/trino",
     "https://github.com/trycompai/crm",
     "https://github.com/trypostit/trypost",
+    "https://github.com/typesafe-ai/skills",
     "https://github.com/ultracontext/ultracontext",
     "https://github.com/unicity-aos/aos-ce",
     "https://github.com/unvoiddd/Dolphy-App",
@@ -3001,12 +3002,6 @@
   "recent": [
     {
       "date": "2026-11-17",
-      "subcat": "Research Papers",
-      "title": "Coco: An Agentic Copilot for the Hardware--Software...",
-      "url": "http://arxiv.org/abs/2610.02376v1"
-    },
-    {
-      "date": "2026-11-17",
       "subcat": "Hacker News Picks",
       "title": "Carnegie Mellon is putting computer science courses...",
       "url": "https://news.ycombinator.com/item?id=50522980"
@@ -3058,6 +3053,12 @@
       "subcat": "Lobsters Picks",
       "title": "My Emacs 31 contributions",
       "url": "https://lobste.rs/s/cezfqe/my_emacs_31_contributions"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "AI & Machine Learning",
+      "title": "typesafe-ai/skills",
+      "url": "https://github.com/typesafe-ai/skills"
     }
   ]
 }
