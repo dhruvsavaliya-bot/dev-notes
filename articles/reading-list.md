@@ -76,6 +76,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50339397
 - **Link:** https://namedaisy.com/blog/boy-names-that-became-girl-names
 
+**Added 2026-11-17**
+
+### [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/)
+- **Source:** so.long.thanks.fish | **Posted:** 2026-11-10 | **By:** casi
+- **Community:** 633 points, 328 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50440709
+- **Link:** https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/
+
 
 ## Lobsters Picks
 

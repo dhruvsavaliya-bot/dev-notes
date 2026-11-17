@@ -2561,6 +2561,7 @@
     "https://news.ycombinator.com/item?id=50433079",
     "https://news.ycombinator.com/item?id=50435105",
     "https://news.ycombinator.com/item?id=50439284",
+    "https://news.ycombinator.com/item?id=50440709",
     "https://news.ycombinator.com/item?id=50443812",
     "https://news.ycombinator.com/item?id=50446246",
     "https://news.ycombinator.com/item?id=50449748",
@@ -2702,6 +2703,7 @@
     "https://slidebyside.com/",
     "https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/",
     "https://smoores.dev/post/no_npm_estee_is_not_a_typo/",
+    "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
     "https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/",
     "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
     "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
@@ -2958,12 +2960,6 @@
   "recent": [
     {
       "date": "2026-11-16",
-      "subcat": "Backend & Infrastructure",
-      "title": "yetone/alma-relay",
-      "url": "https://github.com/yetone/alma-relay"
-    },
-    {
-      "date": "2026-11-16",
       "subcat": "Show & Ask HN",
       "title": "Show HN: I built a tool that prices a pre-built PC...",
       "url": "https://news.ycombinator.com/item?id=50366929"
@@ -3015,6 +3011,12 @@
       "subcat": "Rust",
       "title": "This Month in Redox - October 2026",
       "url": "https://lobste.rs/s/yervw7/this_month_redox_october_2026"
+    },
+    {
+      "date": "2026-11-17",
+      "subcat": "Hacker News Picks",
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "url": "https://news.ycombinator.com/item?id=50440709"
     }
   ]
 }
