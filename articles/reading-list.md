@@ -112,6 +112,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=49883760
 - **Link:** https://www.worldlabs.ai/blog/amd-announcement
 
+**Added 2026-11-17**
+
+### [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
+- **Source:** blog.report-uri.com | **Posted:** 2026-11-16 | **By:** kristjansson
+- **Community:** 385 points, 163 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50524767
+- **Link:** https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/
+
 
 ## Lobsters Picks
 
