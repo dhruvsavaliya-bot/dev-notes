@@ -104,6 +104,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.AI -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.16627v1
 
+**Added 2026-11-17**
+
+### [FedCSGA: Evolutionary Client Selection with Joint Statistical and System Heterogeneity in Federated Learning](http://arxiv.org/abs/2611.04667v2)
+- **Authors:** Ghani Haider, Majid Kundroo, Leo Zhang, Jinchul Choi et al.
+- **Published:** 2026-11-03 | **Primary category:** cs.DC
+- **Categories:** cs.LG, cs.DC
+- **Abstract:** Federated Learning (FL) enables collaborative training of machine learning models across distributed clients while preserving data privacy. In practical deployments, FL relies on selecting a client subset in each communication round to reduce communication cost, mitigate stragglers, and improve training efficiency under heterogeneous data and system conditions. In heterogeneous edge computing environments, both statistical heterogeneity and system heterogeneity significantly affect convergence e...
+- **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.04667v2
+
 
 ## Models & Datasets
 

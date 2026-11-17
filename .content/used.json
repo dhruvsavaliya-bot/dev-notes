@@ -110,6 +110,7 @@
     "http://arxiv.org/abs/2611.04367v1",
     "http://arxiv.org/abs/2611.04497v1",
     "http://arxiv.org/abs/2611.04501v2",
+    "http://arxiv.org/abs/2611.04667v2",
     "http://arxiv.org/abs/2611.05168v1",
     "http://arxiv.org/abs/2611.05427v1",
     "http://arxiv.org/abs/2611.05731v1",
@@ -2959,12 +2960,6 @@
   ],
   "recent": [
     {
-      "date": "2026-11-16",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: I built a tool that prices a pre-built PC...",
-      "url": "https://news.ycombinator.com/item?id=50366929"
-    },
-    {
       "date": "2026-11-17",
       "subcat": "Rust",
       "title": "Nvidia is preparing to oust Jensen Huang",
@@ -3017,6 +3012,12 @@
       "subcat": "Hacker News Picks",
       "title": "Why get an expensive Pi when I have an old phone?",
       "url": "https://news.ycombinator.com/item?id=50440709"
+    },
+    {
+      "date": "2026-11-17",
+      "subcat": "Research Papers",
+      "title": "FedCSGA: Evolutionary Client Selection with Joint...",
+      "url": "http://arxiv.org/abs/2611.04667v2"
     }
   ]
 }
