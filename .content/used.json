@@ -125,6 +125,7 @@
     "http://arxiv.org/abs/2611.09506v1",
     "http://arxiv.org/abs/2611.09807v1",
     "http://arxiv.org/abs/2611.09868v1",
+    "http://arxiv.org/abs/2611.10035v2",
     "http://arxiv.org/abs/2611.10063v1",
     "http://arxiv.org/abs/2611.12575v1",
     "http://arxiv.org/abs/2611.12591v1",
@@ -2989,12 +2990,6 @@
   "recent": [
     {
       "date": "2026-11-17",
-      "subcat": "Lobsters Picks",
-      "title": "On Leaving Swift for Rust",
-      "url": "https://lobste.rs/s/6t3oi4/on_leaving_swift_for_rust"
-    },
-    {
-      "date": "2026-11-17",
       "subcat": "Models & Datasets",
       "title": "arc4g/arc-art",
       "url": "https://huggingface.co/datasets/arc4g/arc-art"
@@ -3046,6 +3041,12 @@
       "subcat": "Hacker News Picks",
       "title": "Carnegie Mellon is putting computer science courses...",
       "url": "https://news.ycombinator.com/item?id=50522980"
+    },
+    {
+      "date": "2026-11-17",
+      "subcat": "Research Papers",
+      "title": "Ninada: Sub-Clause Split-Graph VITS Streaming and...",
+      "url": "http://arxiv.org/abs/2611.10035v2"
     }
   ]
 }

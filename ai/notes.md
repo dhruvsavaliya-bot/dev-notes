@@ -144,6 +144,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.02376v1
 
+**Added 2026-11-17**
+
+### [Ninada: Sub-Clause Split-Graph VITS Streaming and Capability-Routed 24 kHz Speech Synthesis Across Twelve Scripts](http://arxiv.org/abs/2611.10035v2)
+- **Authors:** Hemanth HM
+- **Published:** 2026-11-05 | **Primary category:** cs.SE
+- **Categories:** cs.SE, cs.SD
+- **Abstract:** End-to-end VITS text-to-speech models synthesize natural speech in a single forward pass, yet standard ONNX exports execute monolithically over an entire clause, delaying Time-To-First-Audio (TTFA) to several seconds and spiking activation memory. Client-side deployment across Indic scripts faces four further bottlenecks: 138.8 MB float32 checkpoints per language strain browser caches, mobile WebGPU stalls for 6-14 s compiling convolution shaders while still running slower than real time ($1.44\...
+- **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.10035v2
+
 
 ## Models & Datasets
 
