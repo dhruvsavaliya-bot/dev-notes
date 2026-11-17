@@ -56,3 +56,14 @@ Top community posts, organized by programming language.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/idktfu/go_turns_17
 - **Link:** https://go.dev/blog/17years
+
+## PHP
+
+**Added 2026-11-17**
+
+### [An examination of lost firefly species of the US and Canada](https://journaloflostspecies.org/index.php/jls/article/view/37/33)
+- **Source:** journaloflostspecies.org | **Posted:** 2026-10-24 | **By:** bryanrasmussen
+- **Community:** 151 points, 68 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50224079
+- **Link:** https://journaloflostspecies.org/index.php/jls/article/view/37/33

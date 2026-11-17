@@ -1549,6 +1549,7 @@
     "https://josephg.com/blog/electron-is-flash-for-the-desktop/",
     "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/",
     "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos",
+    "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
     "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
     "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
     "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
@@ -2458,6 +2459,7 @@
     "https://news.ycombinator.com/item?id=50219177",
     "https://news.ycombinator.com/item?id=50221676",
     "https://news.ycombinator.com/item?id=50222133",
+    "https://news.ycombinator.com/item?id=50224079",
     "https://news.ycombinator.com/item?id=50225695",
     "https://news.ycombinator.com/item?id=50227041",
     "https://news.ycombinator.com/item?id=50227330",
@@ -2977,12 +2979,6 @@
   "recent": [
     {
       "date": "2026-11-17",
-      "subcat": "Lobsters Picks",
-      "title": "Quality IMAP, Part 1: Your Mailbox Is A Database",
-      "url": "https://lobste.rs/s/gm4vao/quality_imap_part_1_your_mailbox_is"
-    },
-    {
-      "date": "2026-11-17",
       "subcat": "Developer Tools",
       "title": "Timmoth/RackPeek",
       "url": "https://github.com/Timmoth/RackPeek"
@@ -3034,6 +3030,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Stripe closed us after one $1,500 invoice and...",
       "url": "https://news.ycombinator.com/item?id=50510042"
+    },
+    {
+      "date": "2026-11-17",
+      "subcat": "PHP",
+      "title": "An examination of lost firefly species of the US and...",
+      "url": "https://news.ycombinator.com/item?id=50224079"
     }
   ]
 }
