@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2110 entries and counting** · Last updated: 2026-11-17
+**2111 entries and counting** · Last updated: 2026-11-17
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 423 |
+| [Trending Projects](trending-projects/projects.md) | 424 |
 | [AI / LLM Notes](ai/notes.md) | 427 |
 | [Reading List](articles/reading-list.md) | 427 |
 | [Coding Tips](coding-tips/tips.md) | 427 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-17** · *AI & Machine Learning* — [BagelHole/DevOps-Security-Agent-Skills](https://github.com/BagelHole/DevOps-Security-Agent-Skills)
 - **2026-11-17** · *Show & Ask HN* — [Show HN: Klad, a paint app your coding agent can...](https://news.ycombinator.com/item?id=50454951)
 - **2026-11-17** · *Research Papers* — [Ninada: Sub-Clause Split-Graph VITS Streaming and...](http://arxiv.org/abs/2611.10035v2)
 - **2026-11-17** · *Hacker News Picks* — [Carnegie Mellon is putting computer science courses...](https://news.ycombinator.com/item?id=50522980)
 - **2026-11-17** · *Research Papers* — [Coco: An Agentic Copilot for the Hardware--Software...](http://arxiv.org/abs/2610.02376v1)
-- **2026-11-17** · *Show & Ask HN* — [Show HN: Ghostman  A fast, keyboard-driven TUI API...](https://news.ycombinator.com/item?id=50300902)
 
 ## How it works
 

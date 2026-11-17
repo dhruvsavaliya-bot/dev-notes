@@ -646,6 +646,7 @@
     "https://github.com/AprilNEA/OpenLogi",
     "https://github.com/AstrBotDevs/AstrBot-desktop",
     "https://github.com/Axolotl-Launcher/Axolotl",
+    "https://github.com/BagelHole/DevOps-Security-Agent-Skills",
     "https://github.com/BenMakesEverything/Pocket-Lab-Power-Supply",
     "https://github.com/BlackLabelHQ/SymphonyRecomp",
     "https://github.com/Blimp-Labs/claude-usage-bar",
@@ -2992,12 +2993,6 @@
   "recent": [
     {
       "date": "2026-11-17",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: Stripe closed us after one $1,500 invoice and...",
-      "url": "https://news.ycombinator.com/item?id=50510042"
-    },
-    {
-      "date": "2026-11-17",
       "subcat": "PHP",
       "title": "An examination of lost firefly species of the US and...",
       "url": "https://news.ycombinator.com/item?id=50224079"
@@ -3049,6 +3044,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Klad, a paint app your coding agent can...",
       "url": "https://news.ycombinator.com/item?id=50454951"
+    },
+    {
+      "date": "2026-11-17",
+      "subcat": "AI & Machine Learning",
+      "title": "BagelHole/DevOps-Security-Agent-Skills",
+      "url": "https://github.com/BagelHole/DevOps-Security-Agent-Skills"
     }
   ]
 }

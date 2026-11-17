@@ -84,6 +84,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~95 stars/day since launch.
 - **Link:** https://github.com/alchaincyf/huashu-motion
 
+**Added 2026-11-17**
+
+### [BagelHole/DevOps-Security-Agent-Skills](https://github.com/BagelHole/DevOps-Security-Agent-Skills)
+- **Stats:** 1,204 stars | 177 forks | 5 open issues
+- **Language:** Shell | **Created:** 2026-01-27 | **License:** MIT
+- **Topics:** agent-skills, agentic-ai, ai-agents, aws, cheatsheets, compliance
+- **What it is:** Agent-ready DevOps, security, infrastructure, and compliance knowledge base with 80+ skills across Kubernetes, Terraform, AWS/Azure/GCP, AI platform operations, container hardening, SOC2/ISO27001, and incident response—plus ready-to-run scripts, templates, and playbooks for SRE, platform, and security teams.
+- **Growth:** averaging ~4 stars/day since launch.
+- **Link:** https://github.com/BagelHole/DevOps-Security-Agent-Skills
+
 
 ## Other Cool Projects
 
