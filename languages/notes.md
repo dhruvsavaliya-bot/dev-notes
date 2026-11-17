@@ -44,6 +44,15 @@ Top community posts, organized by programming language.
 - **Discussion:** https://lobste.rs/s/dxxvek/datetime_library_for_rust
 - **Link:** https://burntsushi.net/jiff/
 
+**Added 2026-11-18**
+
+### [We won't "just hang out"](https://borretti.me/article/we-wont-just-hang-out)
+- **Source:** borretti.me | **Posted:** 2026-10-29 | **By:** barry-cotter
+- **Community:** 226 points, 367 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50285154
+- **Link:** https://borretti.me/article/we-wont-just-hang-out
+
 
 ## Go
 
