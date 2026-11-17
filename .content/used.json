@@ -1675,6 +1675,7 @@
     "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your",
     "https://lobste.rs/s/cdnepk/passkeys_attestation_trap",
     "https://lobste.rs/s/ceuque/debian_code_search_fast_turbopfor_with_go",
+    "https://lobste.rs/s/cezfqe/my_emacs_31_contributions",
     "https://lobste.rs/s/cf8mdy/openldk_bringing_java_world_into_common",
     "https://lobste.rs/s/chypzr/death_comes_for_xslt",
     "https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit",
@@ -2980,6 +2981,7 @@
     "https://www.youtube.com/watch?v=jWCQXBVIyrY",
     "https://x86.cx/blog/redanger",
     "https://xcancel.com/__alpoge__/status/2079028340955197566",
+    "https://xenodium.com/my-emacs-31-contributions",
     "https://xoranth.net/gcc-switch/",
     "https://xpipe.io/blog/java-aot-cache",
     "https://yappologistic.github.io/CUI/",
@@ -2997,12 +2999,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-11-17",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Ghostman  A fast, keyboard-driven TUI API...",
-      "url": "https://news.ycombinator.com/item?id=50300902"
-    },
     {
       "date": "2026-11-17",
       "subcat": "Research Papers",
@@ -3056,6 +3052,12 @@
       "subcat": "Hacker News Picks",
       "title": "How the Claude Code team thinks about verification",
       "url": "https://news.ycombinator.com/item?id=50529612"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "Lobsters Picks",
+      "title": "My Emacs 31 contributions",
+      "url": "https://lobste.rs/s/cezfqe/my_emacs_31_contributions"
     }
   ]
 }

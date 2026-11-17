@@ -124,6 +124,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://lobste.rs/s/urcrqe/janet_reno_was_talking_about_my_friend
 - **Link:** https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/
 
+**Added 2026-11-18**
+
+### [My Emacs 31 contributions](https://xenodium.com/my-emacs-31-contributions)
+- **Source:** xenodium.com | **Posted:** 2026-11-17 | **By:** nomnp
+- **Community:** 19 score, 2 comments on Lobsters
+- **Tags:** emacs
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/cezfqe/my_emacs_31_contributions
+- **Link:** https://xenodium.com/my-emacs-31-contributions
+
 
 ## Show & Ask HN
 
