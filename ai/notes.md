@@ -114,6 +114,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.04667v2
 
+**Added 2026-11-17**
+
+### [Distributed Linear Bandits for Freshness-Aware Preprocessing in MEC-Enabled Digital Twin Networks](http://arxiv.org/abs/2611.05115v1)
+- **Authors:** Mariam Yahya, Setareh Maghsudi
+- **Published:** 2026-11-03 | **Primary category:** cs.DC
+- **Categories:** cs.DC, cs.LG
+- **Abstract:** Digital twins (DTs) require timely updates from Internet of Things (IoT) devices to accurately represent the state of the corresponding physical systems, but transmitting large data volumes can compromise freshness. Moreover, different task classes have distinct computational demands and freshness requirements, while stochastic task generation and sizes complicate resource allocation. In this paper, we propose a freshness-aware framework in which multi-access edge computing (MEC) servers preproc...
+- **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.05115v1
+
 
 ## Models & Datasets
 

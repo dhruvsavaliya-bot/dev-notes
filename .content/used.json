@@ -111,6 +111,7 @@
     "http://arxiv.org/abs/2611.04497v1",
     "http://arxiv.org/abs/2611.04501v2",
     "http://arxiv.org/abs/2611.04667v2",
+    "http://arxiv.org/abs/2611.05115v1",
     "http://arxiv.org/abs/2611.05168v1",
     "http://arxiv.org/abs/2611.05427v1",
     "http://arxiv.org/abs/2611.05731v1",
@@ -2968,12 +2969,6 @@
   "recent": [
     {
       "date": "2026-11-17",
-      "subcat": "Go",
-      "title": "Go Turns 17",
-      "url": "https://lobste.rs/s/idktfu/go_turns_17"
-    },
-    {
-      "date": "2026-11-17",
       "subcat": "Hacker News Picks",
       "title": "US boy names that became girl names and vice versa",
       "url": "https://news.ycombinator.com/item?id=50339397"
@@ -3025,6 +3020,12 @@
       "subcat": "Hacker News Picks",
       "title": "Linux 7.3",
       "url": "https://news.ycombinator.com/item?id=50149392"
+    },
+    {
+      "date": "2026-11-17",
+      "subcat": "Research Papers",
+      "title": "Distributed Linear Bandits for Freshness-Aware...",
+      "url": "http://arxiv.org/abs/2611.05115v1"
     }
   ]
 }
