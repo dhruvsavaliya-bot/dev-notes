@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2122 entries and counting** · Last updated: 2026-11-18
+**2123 entries and counting** · Last updated: 2026-11-18
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 427 |
 | [AI / LLM Notes](ai/notes.md) | 429 |
 | [Reading List](articles/reading-list.md) | 430 |
-| [Coding Tips](coding-tips/tips.md) | 429 |
+| [Coding Tips](coding-tips/tips.md) | 430 |
 | [Language Notes](languages/notes.md) | 407 |
 
 ## Latest additions
 
+- **2026-11-18** · *Show & Ask HN* — [Ask HN: If AI tools are so good, why isn't your bug...](https://news.ycombinator.com/item?id=50520076)
 - **2026-11-18** · *Lobsters Picks* — [How CHERIoT Provides Strong and Usable Isolation...](https://lobste.rs/s/gtvx0w/how_cheriot_provides_strong_usable)
 - **2026-11-18** · *Web & Frontend* — [anomalyco/rune](https://github.com/anomalyco/rune)
 - **2026-11-18** · *Rust* — [We won't "just hang out"](https://news.ycombinator.com/item?id=50285154)
 - **2026-11-18** · *Hacker News Picks* — [What is the best harness for each model?](https://news.ycombinator.com/item?id=50532191)
-- **2026-11-18** · *AI Engineering* — [My company packaged 12 years of my experience into an...](https://dev.to/xulingfeng/my-company-packaged-12-years-of-my-experience-into-an-ai-skill-then-laid-me-off-when-it-crashed-4b3e)
 
 ## How it works
 

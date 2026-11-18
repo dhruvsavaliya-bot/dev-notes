@@ -2617,6 +2617,7 @@
     "https://news.ycombinator.com/item?id=50500963",
     "https://news.ycombinator.com/item?id=50506180",
     "https://news.ycombinator.com/item?id=50510042",
+    "https://news.ycombinator.com/item?id=50520076",
     "https://news.ycombinator.com/item?id=50522980",
     "https://news.ycombinator.com/item?id=50524767",
     "https://news.ycombinator.com/item?id=50529612",
@@ -3010,12 +3011,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "Other Cool Projects",
-      "title": "UniXNU/UniXNU",
-      "url": "https://github.com/UniXNU/UniXNU"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "AI Engineering",
       "title": "When is a side project worth committing to?",
       "url": "https://dev.to/ben/when-is-a-side-project-worth-committing-to-5ec7"
@@ -3067,6 +3062,12 @@
       "subcat": "Lobsters Picks",
       "title": "How CHERIoT Provides Strong and Usable Isolation...",
       "url": "https://lobste.rs/s/gtvx0w/how_cheriot_provides_strong_usable"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: If AI tools are so good, why isn't your bug...",
+      "url": "https://news.ycombinator.com/item?id=50520076"
     }
   ]
 }

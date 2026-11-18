@@ -254,6 +254,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50454951
 - **Link:** https://github.com/klad-app/klad
 
+**Added 2026-11-18**
+
+### [Ask HN: If AI tools are so good, why isn't your bug backlog empty?](https://news.ycombinator.com/item?id=50520076)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-16 | **By:** ex-aws-dude
+- **Community:** 91 points, 108 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50520076
+- **Link:** https://news.ycombinator.com/item?id=50520076
+
 
 ## Productivity
 
