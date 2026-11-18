@@ -134,6 +134,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://lobste.rs/s/cezfqe/my_emacs_31_contributions
 - **Link:** https://xenodium.com/my-emacs-31-contributions
 
+**Added 2026-11-18**
+
+### [Phrack 73](https://phrack.org/issues/73/introduction_md.html)
+- **Source:** phrack.org | **Posted:** 2026-11-17 | **By:** lattera
+- **Community:** 45 score, 2 comments on Lobsters
+- **Tags:** release, security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/xu4ajj/phrack_73
+- **Link:** https://phrack.org/issues/73/introduction_md.html
+
 
 ## Show & Ask HN
 
