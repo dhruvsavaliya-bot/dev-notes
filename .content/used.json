@@ -2628,6 +2628,7 @@
     "https://news.ycombinator.com/item?id=50435105",
     "https://news.ycombinator.com/item?id=50439284",
     "https://news.ycombinator.com/item?id=50440709",
+    "https://news.ycombinator.com/item?id=50441518",
     "https://news.ycombinator.com/item?id=50443812",
     "https://news.ycombinator.com/item?id=50446246",
     "https://news.ycombinator.com/item?id=50449748",
@@ -2833,6 +2834,7 @@
     "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
     "https://tildeweb.nl/~michiel/python-on-my-wrist.html",
     "https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/",
+    "https://tinyvalencia.com/",
     "https://titleart.dvy.io/",
     "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
     "https://tucker.wales/writing/bias-towards-action/",
@@ -3045,12 +3047,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "Hacker News Picks",
-      "title": "Three new discoveries in mathematics, computer...",
-      "url": "https://news.ycombinator.com/item?id=50251344"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "Productivity",
       "title": "Top 10 Productivity Hacks Every Developer Should Know",
       "url": "https://dev.to/thebitforge/top-10-productivity-hacks-every-developer-should-know-151h"
@@ -3102,6 +3098,12 @@
       "subcat": "Backend",
       "title": "Microservices Are Killing Your Performance (And...",
       "url": "https://dev.to/polliog/microservices-are-killing-your-performance-and-heres-the-math-21op"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+      "url": "https://news.ycombinator.com/item?id=50441518"
     }
   ]
 }

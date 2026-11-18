@@ -291,6 +291,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50427934
 - **Link:** https://news.ycombinator.com/item?id=50427934
 
+**Added 2026-11-19**
+
+### [Show HN: Valencia, Spain in Sim City/Isometric View](https://tinyvalencia.com/)
+- **Source:** tinyvalencia.com | **Posted:** 2026-11-10 | **By:** leugim
+- **Community:** 262 points, 63 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50441518
+- **Link:** https://tinyvalencia.com/
+
 
 ## Productivity
 
