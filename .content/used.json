@@ -2620,6 +2620,7 @@
     "https://news.ycombinator.com/item?id=50500963",
     "https://news.ycombinator.com/item?id=50506180",
     "https://news.ycombinator.com/item?id=50510042",
+    "https://news.ycombinator.com/item?id=50513451",
     "https://news.ycombinator.com/item?id=50520076",
     "https://news.ycombinator.com/item?id=50522980",
     "https://news.ycombinator.com/item?id=50524767",
@@ -3014,12 +3015,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "Lobsters Picks",
-      "title": "My Emacs 31 contributions",
-      "url": "https://lobste.rs/s/cezfqe/my_emacs_31_contributions"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "AI & Machine Learning",
       "title": "typesafe-ai/skills",
       "url": "https://github.com/typesafe-ai/skills"
@@ -3071,6 +3066,12 @@
       "subcat": "Lobsters Picks",
       "title": "GEM for Linux provides a classic graphical desktop...",
       "url": "https://lobste.rs/s/5yga7r/gem_for_linux_provides_classic_graphical"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "Show & Ask HN",
+      "title": "Tell HN: HN is being scraped for emails to scam",
+      "url": "https://news.ycombinator.com/item?id=50513451"
     }
   ]
 }

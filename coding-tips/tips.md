@@ -263,6 +263,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50520076
 - **Link:** https://news.ycombinator.com/item?id=50520076
 
+**Added 2026-11-18**
+
+### [Tell HN: HN is being scraped for emails to scam](https://news.ycombinator.com/item?id=50513451)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-16 | **By:** eks391
+- **Community:** 122 points, 42 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50513451
+- **Link:** https://news.ycombinator.com/item?id=50513451
+
 
 ## Productivity
 
