@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2148 entries and counting** · Last updated: 2026-11-19
+**2149 entries and counting** · Last updated: 2026-11-19
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 432 |
+| [Trending Projects](trending-projects/projects.md) | 433 |
 | [AI / LLM Notes](ai/notes.md) | 435 |
 | [Reading List](articles/reading-list.md) | 435 |
 | [Coding Tips](coding-tips/tips.md) | 436 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-19** · *AI & Machine Learning* — [Alejandros17487/ai-jailbreaks](https://github.com/Alejandros17487/ai-jailbreaks)
 - **2026-11-19** · *Java* — [piermark/omarchytv](https://github.com/piermark/omarchytv)
 - **2026-11-18** · *AI & Machine Learning* — [wainmann/agent-manager](https://github.com/wainmann/agent-manager)
 - **2026-11-18** · *Show & Ask HN* — [Show HN: DBDelve  Open-Source DB Client Made with...](https://news.ycombinator.com/item?id=50427934)
 - **2026-11-18** · *AI & Machine Learning* — [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)
-- **2026-11-18** · *Models & Datasets* — [tencent/TailorRig](https://huggingface.co/datasets/tencent/TailorRig)
 
 ## How it works
 

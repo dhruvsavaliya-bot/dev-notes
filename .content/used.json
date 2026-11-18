@@ -649,6 +649,7 @@
     "https://github.com/ARahim3/DigUp",
     "https://github.com/AhmadHassan-BTed/Noria",
     "https://github.com/Albert-Weasker/niubigeo",
+    "https://github.com/Alejandros17487/ai-jailbreaks",
     "https://github.com/AlephAITech/WorkBuddyGuide",
     "https://github.com/AlexandrosGounis/pdfx",
     "https://github.com/Alvin9999-newpac/fanqiang",
@@ -3044,12 +3045,6 @@
     {
       "date": "2026-11-18",
       "subcat": "Research Papers",
-      "title": "VulnSAGE: Adjudicating SAST Reports by Connecting LLM...",
-      "url": "http://arxiv.org/abs/2610.23035v1"
-    },
-    {
-      "date": "2026-11-18",
-      "subcat": "Research Papers",
       "title": "Distributed LTL Synthesis under Arbitrary Message...",
       "url": "http://arxiv.org/abs/2611.04561v1"
     },
@@ -3100,6 +3095,12 @@
       "subcat": "Java",
       "title": "piermark/omarchytv",
       "url": "https://github.com/piermark/omarchytv"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "AI & Machine Learning",
+      "title": "Alejandros17487/ai-jailbreaks",
+      "url": "https://github.com/Alejandros17487/ai-jailbreaks"
     }
   ]
 }

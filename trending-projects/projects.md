@@ -144,6 +144,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~5 stars/day since launch.
 - **Link:** https://github.com/wainmann/agent-manager
 
+**Added 2026-11-19**
+
+### [Alejandros17487/ai-jailbreaks](https://github.com/Alejandros17487/ai-jailbreaks)
+- **Stats:** 450 stars | 100 forks | 3 open issues
+- **Language:** N/A | **Created:** 2026-10-21 | **License:** None
+- **Topics:** ai, ai-safety, jailbreak, jailbreaking, privacy, safety
+- **What it is:** AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.
+- **Growth:** averaging ~15 stars/day since launch.
+- **Link:** https://github.com/Alejandros17487/ai-jailbreaks
+
 
 ## Other Cool Projects
 
