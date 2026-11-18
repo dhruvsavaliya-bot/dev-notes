@@ -148,6 +148,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50532191
 - **Link:** https://runta.com/blog/introducing-frontierharness-eval-v1-1/
 
+**Added 2026-11-18**
+
+### [Anthropic takes steps to block Claude from reverse-engineering video games](https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering)
+- **Source:** mashable.com | **Posted:** 2026-10-31 | **By:** firesteelrain
+- **Community:** 196 points, 124 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50320255
+- **Link:** https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering
+
 
 ## Lobsters Picks
 
