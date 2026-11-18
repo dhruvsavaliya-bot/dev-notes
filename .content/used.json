@@ -1333,6 +1333,7 @@
     "https://huggingface.co/DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF",
     "https://huggingface.co/DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF",
     "https://huggingface.co/FermionResearch/Phonon-2",
+    "https://huggingface.co/FluidVoice-Labs/fluid-speech-pro",
     "https://huggingface.co/FrancisRing/Prism",
     "https://huggingface.co/HuggingFaceH4/zephyr-7b-beta",
     "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
@@ -3023,12 +3024,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: If AI tools are so good, why isn't your bug...",
-      "url": "https://news.ycombinator.com/item?id=50520076"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "AI & Machine Learning",
       "title": "TIGER-AI-Lab/WebsiteBench",
       "url": "https://github.com/TIGER-AI-Lab/WebsiteBench"
@@ -3080,6 +3075,12 @@
       "subcat": "Testing",
       "title": "Developers Think AI Makes Them 24% Faster. The Data...",
       "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "Models & Datasets",
+      "title": "FluidVoice-Labs/fluid-speech-pro",
+      "url": "https://huggingface.co/FluidVoice-Labs/fluid-speech-pro"
     }
   ]
 }
