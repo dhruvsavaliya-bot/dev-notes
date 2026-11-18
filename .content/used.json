@@ -1001,6 +1001,7 @@
     "https://github.com/hypit-ai/hypit",
     "https://github.com/iBUHub/AIStudioToAPI",
     "https://github.com/iamlukethedev/Claw3D",
+    "https://github.com/icysymmetra/tiktok-patches-for-morphe",
     "https://github.com/igorkulman/SwiftPascalInterpreter",
     "https://github.com/illegalstudio/elephc",
     "https://github.com/img2threejs/img2threejs",
@@ -3047,12 +3048,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "Productivity",
-      "title": "Top 10 Productivity Hacks Every Developer Should Know",
-      "url": "https://dev.to/thebitforge/top-10-productivity-hacks-every-developer-should-know-151h"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "Web Development",
       "title": "Tips to Work on Your Side Project While Working...",
       "url": "https://dev.to/startupcafe/tips-to-work-on-your-side-project-while-working-full-time-n50"
@@ -3104,6 +3099,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
       "url": "https://news.ycombinator.com/item?id=50441518"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Java",
+      "title": "icysymmetra/tiktok-patches-for-morphe",
+      "url": "https://github.com/icysymmetra/tiktok-patches-for-morphe"
     }
   ]
 }

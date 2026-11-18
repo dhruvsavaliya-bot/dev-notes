@@ -99,6 +99,16 @@ Top community posts, organized by programming language.
 - **Growth:** averaging ~22 stars/day since launch.
 - **Link:** https://github.com/piermark/omarchytv
 
+**Added 2026-11-19**
+
+### [icysymmetra/tiktok-patches-for-morphe](https://github.com/icysymmetra/tiktok-patches-for-morphe)
+- **Stats:** 474 stars | 35 forks | 99 open issues
+- **Language:** Java | **Created:** 2026-05-28 | **License:** GPL-3.0
+- **Topics:** none listed
+- **What it is:** This repository is a Morphe patch source for TikTok.  It continues the work from earlier community TikTok patch sets, including ReVanced, with the patches adapted for Morphe and tested against newer TikTok builds. The current target version is TikTok 46.2.3
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/icysymmetra/tiktok-patches-for-morphe
+
 
 ## Ruby
 
