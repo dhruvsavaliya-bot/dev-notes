@@ -340,3 +340,14 @@ The week's best dev articles, organized by field.
 - **Tags:** productivity, career, webdev, programming
 - **Summary:** Here's a scene you might know.  It's 8:40 PM. Dinner is done. You open your laptop to finally work on...
 - **Link:** https://dev.to/startupcafe/tips-to-work-on-your-side-project-while-working-full-time-n50
+
+## Backend
+
+**Added 2026-11-19**
+
+### [Microservices Are Killing Your Performance (And Here's the Math)](https://dev.to/polliog/microservices-are-killing-your-performance-and-heres-the-math-21op)
+- **Author:** Polliog | **Published:** Jan 14 | **Read time:** 7 min
+- **Community:** 154 reactions, 33 comments -- a top post in #backend
+- **Tags:** microservices, architecture, performance, backend
+- **Summary:** The promise: Microservices make your system scalable, maintainable, and fast.  The reality: For most...
+- **Link:** https://dev.to/polliog/microservices-are-killing-your-performance-and-heres-the-math-21op

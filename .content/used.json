@@ -508,6 +508,7 @@
     "https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o",
     "https://dev.to/playfulprogramming/javascript-frameworks-heading-into-2026-2hel",
     "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk",
+    "https://dev.to/polliog/microservices-are-killing-your-performance-and-heres-the-math-21op",
     "https://dev.to/polliog/server-sent-events-beat-websockets-for-95-of-real-time-apps-heres-why-a4l",
     "https://dev.to/pranjal_manhgaye_d94d7a8f/plot-tabpfn-on-real-frost-data-tells-you-to-touch-grass-54k1",
     "https://dev.to/robertadam987_/your-ai-coding-agent-can-be-attacked-by-the-repository-it-opens-ie4",
@@ -3044,12 +3045,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "Research Papers",
-      "title": "Distributed LTL Synthesis under Arbitrary Message...",
-      "url": "http://arxiv.org/abs/2611.04561v1"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "Hacker News Picks",
       "title": "Three new discoveries in mathematics, computer...",
       "url": "https://news.ycombinator.com/item?id=50251344"
@@ -3101,6 +3096,12 @@
       "subcat": "AI & Machine Learning",
       "title": "Alejandros17487/ai-jailbreaks",
       "url": "https://github.com/Alejandros17487/ai-jailbreaks"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Backend",
+      "title": "Microservices Are Killing Your Performance (And...",
+      "url": "https://dev.to/polliog/microservices-are-killing-your-performance-and-heres-the-math-21op"
     }
   ]
 }
