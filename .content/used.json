@@ -853,6 +853,7 @@
     "https://github.com/angusdevgo/IDM_Pro_Tool",
     "https://github.com/angusdevgo/Seep-Reverse-Lab",
     "https://github.com/anomalyco/hex",
+    "https://github.com/anomalyco/rune",
     "https://github.com/anteloc/ldraw-nova",
     "https://github.com/anthropics/commerce-agents",
     "https://github.com/anthropics/jacobian-lens",
@@ -3007,12 +3008,6 @@
   "recent": [
     {
       "date": "2026-11-17",
-      "subcat": "AI & Machine Learning",
-      "title": "BagelHole/DevOps-Security-Agent-Skills",
-      "url": "https://github.com/BagelHole/DevOps-Security-Agent-Skills"
-    },
-    {
-      "date": "2026-11-17",
       "subcat": "Lobsters Picks",
       "title": "Janet Reno was talking about my friend Coolio...",
       "url": "https://lobste.rs/s/urcrqe/janet_reno_was_talking_about_my_friend"
@@ -3064,6 +3059,12 @@
       "subcat": "Rust",
       "title": "We won't \"just hang out\"",
       "url": "https://news.ycombinator.com/item?id=50285154"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "Web & Frontend",
+      "title": "anomalyco/rune",
+      "url": "https://github.com/anomalyco/rune"
     }
   ]
 }

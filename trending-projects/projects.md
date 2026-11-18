@@ -220,6 +220,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~14 stars/day since launch.
 - **Link:** https://github.com/pauljoda/Crest
 
+**Added 2026-11-18**
+
+### [anomalyco/rune](https://github.com/anomalyco/rune)
+- **Stats:** 7,441 stars | 306 forks | 499 open issues
+- **Language:** Rust | **Created:** 2026-10-22 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Rune: Native UI framework
+- **Growth:** averaging ~275 stars/day since launch.
+- **Link:** https://github.com/anomalyco/rune
+
 
 ## Developer Tools
 
