@@ -240,6 +240,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~275 stars/day since launch.
 - **Link:** https://github.com/anomalyco/rune
 
+**Added 2026-11-18**
+
+### [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)
+- **Stats:** 12,230 stars | 1,032 forks | 66 open issues
+- **Language:** Rust | **Created:** 2026-10-29 | **License:** GPL-3.0
+- **Topics:** bittorrent-client, debrid, download-accelerator, download-manager, downloadmanager, egui
+- **What it is:** misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
+- **Growth:** averaging ~611 stars/day since launch.
+- **Link:** https://github.com/anefzaoui/misterdownloadmanager
+
 
 ## Developer Tools
 

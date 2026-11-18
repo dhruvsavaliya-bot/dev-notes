@@ -851,6 +851,7 @@
     "https://github.com/andrewyng/openworker",
     "https://github.com/android/ndk/issues/2260",
     "https://github.com/andunieee/flipflop",
+    "https://github.com/anefzaoui/misterdownloadmanager",
     "https://github.com/angusdevgo/IDM_Pro_Tool",
     "https://github.com/angusdevgo/Seep-Reverse-Lab",
     "https://github.com/anomalyco/hex",
@@ -3015,12 +3016,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "AI & Machine Learning",
-      "title": "typesafe-ai/skills",
-      "url": "https://github.com/typesafe-ai/skills"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "AI Engineering",
       "title": "My company packaged 12 years of my experience into an...",
       "url": "https://dev.to/xulingfeng/my-company-packaged-12-years-of-my-experience-into-an-ai-skill-then-laid-me-off-when-it-crashed-4b3e"
@@ -3072,6 +3067,12 @@
       "subcat": "Show & Ask HN",
       "title": "Tell HN: HN is being scraped for emails to scam",
       "url": "https://news.ycombinator.com/item?id=50513451"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "Web & Frontend",
+      "title": "anefzaoui/misterdownloadmanager",
+      "url": "https://github.com/anefzaoui/misterdownloadmanager"
     }
   ]
 }
