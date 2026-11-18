@@ -294,6 +294,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** Answer: a thirty-second AI video costs between about $0.30 and $6.30 depending on model and...
 - **Link:** https://dev.to/chet103cc/what-does-a-30-second-ai-video-cost-in-2026-3pdd
 
+**Added 2026-11-18**
+
+### [Top 10 Productivity Hacks Every Developer Should Know 🚀](https://dev.to/thebitforge/top-10-productivity-hacks-every-developer-should-know-151h)
+- **Author:** TheBitForge | **Published:** Dec 10 '25 | **Read time:** 33 min
+- **Community:** 167 reactions, 23 comments -- a top post in #productivity
+- **Tags:** productivity, javascript, programming, git
+- **Summary:** 📅 Mark Your Calendar: The Startup Article Every Developer Needs is Coming                      ...
+- **Link:** https://dev.to/thebitforge/top-10-productivity-hacks-every-developer-should-know-151h
+
+
 ## Career & Craft
 
 **Added 2026-11-16**

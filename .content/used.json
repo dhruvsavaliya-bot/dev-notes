@@ -538,6 +538,7 @@
     "https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi",
     "https://dev.to/thebitforge/best-stock-market-apis-for-python-developers-in-2026-4j15",
     "https://dev.to/thebitforge/the-architecture-nobody-talks-about-how-i-built-systems-that-actually-scale-and-why-most-dont-3fk5",
+    "https://dev.to/thebitforge/top-10-productivity-hacks-every-developer-should-know-151h",
     "https://dev.to/therealmrmumba/7-best-ai-project-management-tools-for-software-development-teams-in-2026-fik",
     "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
     "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
@@ -3036,12 +3037,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "Testing",
-      "title": "Developers Think AI Makes Them 24% Faster. The Data...",
-      "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "Models & Datasets",
       "title": "FluidVoice-Labs/fluid-speech-pro",
       "url": "https://huggingface.co/FluidVoice-Labs/fluid-speech-pro"
@@ -3093,6 +3088,12 @@
       "subcat": "Hacker News Picks",
       "title": "Three new discoveries in mathematics, computer...",
       "url": "https://news.ycombinator.com/item?id=50251344"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "Productivity",
+      "title": "Top 10 Productivity Hacks Every Developer Should Know",
+      "url": "https://dev.to/thebitforge/top-10-productivity-hacks-every-developer-should-know-151h"
     }
   ]
 }
