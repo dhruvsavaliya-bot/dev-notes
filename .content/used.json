@@ -970,6 +970,7 @@
     "https://github.com/enesozturk/dimensional-drawing",
     "https://github.com/eternity4719/HowToLiveBetter",
     "https://github.com/eternityspring/shuohao-skills",
+    "https://github.com/expo/exact",
     "https://github.com/exteraless/exteraless",
     "https://github.com/finic-ai/kairos",
     "https://github.com/finlater/weread.koplugin",
@@ -3048,12 +3049,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "Web Development",
-      "title": "Tips to Work on Your Side Project While Working...",
-      "url": "https://dev.to/startupcafe/tips-to-work-on-your-side-project-while-working-full-time-n50"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "Models & Datasets",
       "title": "tencent/TailorRig",
       "url": "https://huggingface.co/datasets/tencent/TailorRig"
@@ -3105,6 +3100,12 @@
       "subcat": "Java",
       "title": "icysymmetra/tiktok-patches-for-morphe",
       "url": "https://github.com/icysymmetra/tiktok-patches-for-morphe"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "AI & Machine Learning",
+      "title": "expo/exact",
+      "url": "https://github.com/expo/exact"
     }
   ]
 }

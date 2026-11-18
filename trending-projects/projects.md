@@ -154,6 +154,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~15 stars/day since launch.
 - **Link:** https://github.com/Alejandros17487/ai-jailbreaks
 
+**Added 2026-11-19**
+
+### [expo/exact](https://github.com/expo/exact)
+- **Stats:** 4,678 stars | 128 forks | 65 open issues
+- **Language:** Rust | **Created:** 2026-11-02 | **License:** MIT
+- **Topics:** ai-agents, appkit, coding-agents, cross-platform, css, ios
+- **What it is:** Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
+- **Growth:** averaging ~275 stars/day since launch.
+- **Link:** https://github.com/expo/exact
+
 
 ## Other Cool Projects
 
