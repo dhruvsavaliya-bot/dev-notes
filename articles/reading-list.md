@@ -271,6 +271,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/gtvx0w/how_cheriot_provides_strong_usable
 - **Link:** https://queue.acm.org/doi/10.1145/3831361
 
+**Added 2026-11-18**
+
+### [GEM for Linux provides a classic graphical desktop with windows, menus, dialogs & a 68K emulator](https://github.com/triglav-os/gem)
+- **Source:** github.com | **Posted:** 2026-09-07 | **By:** lproven
+- **Community:** 15 score, 0 comments on Lobsters
+- **Tags:** osdev, retrocomputing, vibecoding
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/5yga7r/gem_for_linux_provides_classic_graphical
+- **Link:** https://github.com/triglav-os/gem
+
 
 ## Security
 
