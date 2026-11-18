@@ -154,6 +154,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.10035v2
 
+**Added 2026-11-18**
+
+### [Contravariant Universe Subtyping, Formalized, Mechanized](http://arxiv.org/abs/2610.14925v1)
+- **Authors:** Shengyi Jiang, Jason Z. S. Hu
+- **Published:** 2026-10-10 | **Primary category:** cs.PL
+- **Categories:** cs.PL
+- **Abstract:** In a type theory with a cumulative universe hierarchy, \emph{subtyping} is often incorporated to lift lower universe levels to higher ones. In practice, kernels of proof assistants typically implement universe subtyping conservatively: subtyping only propagates covariantly into the output types of $Π$ types, while input types must be equivalent. A full-blown subtyping relation also compares the input types contravariantly. However, contravariant subtyping is not justified by the existing set-the...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.14925v1
+
 
 ## Models & Datasets
 

@@ -57,6 +57,7 @@
     "http://arxiv.org/abs/2610.13300v1",
     "http://arxiv.org/abs/2610.13407v1",
     "http://arxiv.org/abs/2610.14543v1",
+    "http://arxiv.org/abs/2610.14925v1",
     "http://arxiv.org/abs/2610.15082v1",
     "http://arxiv.org/abs/2610.15995v1",
     "http://arxiv.org/abs/2610.16395v1",
@@ -3027,12 +3028,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "Show & Ask HN",
-      "title": "Tell HN: HN is being scraped for emails to scam",
-      "url": "https://news.ycombinator.com/item?id=50513451"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "Web & Frontend",
       "title": "anefzaoui/misterdownloadmanager",
       "url": "https://github.com/anefzaoui/misterdownloadmanager"
@@ -3084,6 +3079,12 @@
       "subcat": "Ruby",
       "title": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm...",
       "url": "https://news.ycombinator.com/item?id=50536565"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "Research Papers",
+      "title": "Contravariant Universe Subtyping, Formalized...",
+      "url": "http://arxiv.org/abs/2610.14925v1"
     }
   ]
 }
