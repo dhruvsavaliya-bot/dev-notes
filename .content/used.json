@@ -2616,6 +2616,7 @@
     "https://news.ycombinator.com/item?id=50423371",
     "https://news.ycombinator.com/item?id=50426582",
     "https://news.ycombinator.com/item?id=50427107",
+    "https://news.ycombinator.com/item?id=50427934",
     "https://news.ycombinator.com/item?id=50428907",
     "https://news.ycombinator.com/item?id=50430621",
     "https://news.ycombinator.com/item?id=50431971",
@@ -3040,12 +3041,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "Research Papers",
-      "title": "Contravariant Universe Subtyping, Formalized...",
-      "url": "http://arxiv.org/abs/2610.14925v1"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "Hacker News Picks",
       "title": "Anthropic takes steps to block Claude from...",
       "url": "https://news.ycombinator.com/item?id=50320255"
@@ -3097,6 +3092,12 @@
       "subcat": "AI & Machine Learning",
       "title": "QwenAudio/qwen-audio-agent",
       "url": "https://github.com/QwenAudio/qwen-audio-agent"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: DBDelve  Open-Source DB Client Made with...",
+      "url": "https://news.ycombinator.com/item?id=50427934"
     }
   ]
 }

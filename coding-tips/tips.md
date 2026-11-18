@@ -282,6 +282,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50513451
 - **Link:** https://news.ycombinator.com/item?id=50513451
 
+**Added 2026-11-18**
+
+### [Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI](https://news.ycombinator.com/item?id=50427934)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-09 | **By:** shayan_abbas
+- **Community:** 125 points, 50 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50427934
+- **Link:** https://news.ycombinator.com/item?id=50427934
+
 
 ## Productivity
 
