@@ -134,6 +134,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~28 stars/day since launch.
 - **Link:** https://github.com/QwenAudio/qwen-audio-agent
 
+**Added 2026-11-18**
+
+### [wainmann/agent-manager](https://github.com/wainmann/agent-manager)
+- **Stats:** 701 stars | 82 forks | 150 open issues
+- **Language:** Go | **Created:** 2026-07-15 | **License:** Apache-2.0
+- **Topics:** ai-agents, ai-coding-agents, bubbletea, claude-code, code-review, codex
+- **What it is:** Terminal multiplexer for AI coding agents. Run Claude Code, Codex, OpenCode, Gemini CLI and more side by side in one tmux TUI, with live status, worktrees and diff review. Discord: discord.gg/ecS88An7pF
+- **Growth:** averaging ~5 stars/day since launch.
+- **Link:** https://github.com/wainmann/agent-manager
+
 
 ## Other Cool Projects
 

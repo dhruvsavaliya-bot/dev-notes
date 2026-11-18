@@ -1243,6 +1243,7 @@
     "https://github.com/vojtaholik/good-css",
     "https://github.com/vorssaint/vorssaint-utils",
     "https://github.com/voxivoid/recipe-lab-sony-pmca",
+    "https://github.com/wainmann/agent-manager",
     "https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases",
     "https://github.com/wang2122/sprix-sage-router",
     "https://github.com/wangzan101/Mika",
@@ -3041,12 +3042,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "Hacker News Picks",
-      "title": "Anthropic takes steps to block Claude from...",
-      "url": "https://news.ycombinator.com/item?id=50320255"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "Lobsters Picks",
       "title": "Phrack 73",
       "url": "https://lobste.rs/s/xu4ajj/phrack_73"
@@ -3098,6 +3093,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: DBDelve  Open-Source DB Client Made with...",
       "url": "https://news.ycombinator.com/item?id=50427934"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "AI & Machine Learning",
+      "title": "wainmann/agent-manager",
+      "url": "https://github.com/wainmann/agent-manager"
     }
   ]
 }
