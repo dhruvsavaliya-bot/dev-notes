@@ -104,6 +104,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~33 stars/day since launch.
 - **Link:** https://github.com/typesafe-ai/skills
 
+**Added 2026-11-18**
+
+### [TIGER-AI-Lab/WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench)
+- **Stats:** 515 stars | 47 forks | 91 open issues
+- **Language:** Python | **Created:** 2026-11-04 | **License:** Apache-2.0
+- **Topics:** agent-evaluation, ai, ai-agents, benchmark, benchmarking, browser-automation
+- **What it is:** Can AI agents rebuild websites through browser exploration?
+- **Growth:** averaging ~36 stars/day since launch.
+- **Link:** https://github.com/TIGER-AI-Lab/WebsiteBench
+
 
 ## Other Cool Projects
 

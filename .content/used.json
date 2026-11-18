@@ -795,6 +795,7 @@
     "https://github.com/Star-Pie/StarPie",
     "https://github.com/Swayingleaves/novanova-studio",
     "https://github.com/SynkraAI/aiox-core",
+    "https://github.com/TIGER-AI-Lab/WebsiteBench",
     "https://github.com/TableProApp/TablePro",
     "https://github.com/Taichu-AI/ZDTaichu5.0-9B",
     "https://github.com/TauricResearch/TradingAgents",
@@ -3011,12 +3012,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "AI Engineering",
-      "title": "When is a side project worth committing to?",
-      "url": "https://dev.to/ben/when-is-a-side-project-worth-committing-to-5ec7"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "Hacker News Picks",
       "title": "How the Claude Code team thinks about verification",
       "url": "https://news.ycombinator.com/item?id=50529612"
@@ -3068,6 +3063,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: If AI tools are so good, why isn't your bug...",
       "url": "https://news.ycombinator.com/item?id=50520076"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "AI & Machine Learning",
+      "title": "TIGER-AI-Lab/WebsiteBench",
+      "url": "https://github.com/TIGER-AI-Lab/WebsiteBench"
     }
   ]
 }
