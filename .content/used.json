@@ -292,6 +292,7 @@
     "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
     "https://cactuscompute.com/needle",
     "https://cakehonolulu.github.io/linux-on-32x/",
+    "https://calif.io/java4shell/",
     "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
     "https://carette.xyz/posts/minimal_swift_kernel_on_qemu/",
     "https://carrierexplode.com/",
@@ -1726,6 +1727,7 @@
     "https://lobste.rs/s/fgucra/observations_from_running",
     "https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data",
     "https://lobste.rs/s/fmawla/enlightenment_0_28_0_release",
+    "https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere",
     "https://lobste.rs/s/g2ktrq/chasing_o2_pessimization_antcc",
     "https://lobste.rs/s/gajtrm/debunking_faster_than_rust_malicious",
     "https://lobste.rs/s/gejy85/adapting_cpython_for_yk",
@@ -3020,12 +3022,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "Web & Frontend",
-      "title": "anomalyco/rune",
-      "url": "https://github.com/anomalyco/rune"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "Lobsters Picks",
       "title": "How CHERIoT Provides Strong and Usable Isolation...",
       "url": "https://lobste.rs/s/gtvx0w/how_cheriot_provides_strong_usable"
@@ -3077,6 +3073,12 @@
       "subcat": "Models & Datasets",
       "title": "deepseek-ai/DeepSeek-V4.1-Flash",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "Java",
+      "title": "Java4Shell: Write once, RCE everywhere",
+      "url": "https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere"
     }
   ]
 }

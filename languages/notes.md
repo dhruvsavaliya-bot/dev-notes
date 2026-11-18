@@ -76,3 +76,15 @@ Top community posts, organized by programming language.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=50224079
 - **Link:** https://journaloflostspecies.org/index.php/jls/article/view/37/33
+
+## Java
+
+**Added 2026-11-18**
+
+### [Java4Shell: Write once, RCE everywhere](https://calif.io/java4shell/)
+- **Source:** calif.io | **Posted:** 2026-11-17 | **By:** unlobito
+- **Community:** 26 score, 13 comments on Lobsters
+- **Tags:** java, security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere
+- **Link:** https://calif.io/java4shell/
