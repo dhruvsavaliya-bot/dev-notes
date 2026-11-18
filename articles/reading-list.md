@@ -157,6 +157,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50320255
 - **Link:** https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering
 
+**Added 2026-11-18**
+
+### [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
+- **Source:** openai.com | **Posted:** 2026-10-26 | **By:** jonluca
+- **Community:** 1164 points, 715 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50251344
+- **Link:** https://openai.com/index/building-scientific-understanding-with-academic-communities/
+
 
 ## Lobsters Picks
 

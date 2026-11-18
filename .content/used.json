@@ -2512,6 +2512,7 @@
     "https://news.ycombinator.com/item?id=50242939",
     "https://news.ycombinator.com/item?id=50243060",
     "https://news.ycombinator.com/item?id=50246238",
+    "https://news.ycombinator.com/item?id=50251344",
     "https://news.ycombinator.com/item?id=50255298",
     "https://news.ycombinator.com/item?id=50255573",
     "https://news.ycombinator.com/item?id=50260753",
@@ -2674,6 +2675,7 @@
     "https://ohhfishal.net/Posts/claude",
     "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
     "https://op.tngl.io/meridian/",
+    "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
     "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
     "https://openai.com/index/navier-stokes-solution/",
     "https://openai.com/index/openai-models-google-cloud/",
@@ -3034,12 +3036,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "Java",
-      "title": "Java4Shell: Write once, RCE everywhere",
-      "url": "https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "Testing",
       "title": "Developers Think AI Makes Them 24% Faster. The Data...",
       "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84"
@@ -3091,6 +3087,12 @@
       "subcat": "Research Papers",
       "title": "Distributed LTL Synthesis under Arbitrary Message...",
       "url": "http://arxiv.org/abs/2611.04561v1"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "Hacker News Picks",
+      "title": "Three new discoveries in mathematics, computer...",
+      "url": "https://news.ycombinator.com/item?id=50251344"
     }
   ]
 }
