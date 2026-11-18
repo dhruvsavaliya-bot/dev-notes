@@ -124,6 +124,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~300 stars/day since launch.
 - **Link:** https://github.com/amosblomqvist/learnharness
 
+**Added 2026-11-18**
+
+### [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)
+- **Stats:** 3,253 stars | 348 forks | 9 open issues
+- **Language:** JavaScript | **Created:** 2026-07-27 | **License:** Apache-2.0
+- **Topics:** acp, agent, agentic-ai, ai-coding, claude-code, codex
+- **What it is:** A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
+- **Growth:** averaging ~28 stars/day since launch.
+- **Link:** https://github.com/QwenAudio/qwen-audio-agent
+
 
 ## Other Cool Projects
 

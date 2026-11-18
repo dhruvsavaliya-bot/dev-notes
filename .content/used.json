@@ -783,6 +783,7 @@
     "https://github.com/QingYunA/answer-me-with-html",
     "https://github.com/QoderAI/better-harness",
     "https://github.com/QuipNetwork/quip-solver",
+    "https://github.com/QwenAudio/qwen-audio-agent",
     "https://github.com/QwenLM/Qwen-MM-Plugins",
     "https://github.com/RafliAbdulHaliim/sylenth-1-enhancement-suite",
     "https://github.com/ResistanceTo/MiniWatts",
@@ -3039,12 +3040,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "Ruby",
-      "title": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm...",
-      "url": "https://news.ycombinator.com/item?id=50536565"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "Research Papers",
       "title": "Contravariant Universe Subtyping, Formalized...",
       "url": "http://arxiv.org/abs/2610.14925v1"
@@ -3096,6 +3091,12 @@
       "subcat": "Models & Datasets",
       "title": "tencent/TailorRig",
       "url": "https://huggingface.co/datasets/tencent/TailorRig"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "AI & Machine Learning",
+      "title": "QwenAudio/qwen-audio-agent",
+      "url": "https://github.com/QwenAudio/qwen-audio-agent"
     }
   ]
 }
