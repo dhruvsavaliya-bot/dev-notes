@@ -314,3 +314,14 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Tags:** ai, testing, discuss, codequality
 - **Summary:** The METR study found developers were 19% slower with AI coding tools despite feeling 24% faster. Here's what this means for how we use AI coding tools effectively.
 - **Link:** https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84
+
+## Beginner
+
+**Added 2026-11-18**
+
+### [Scared to Publish Your First Technical Article? Don't Be. I'll Be There to Read It](https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2)
+- **Author:** Giorgi Kobaidze | **Published:** Nov 4 | **Read time:** 3 min
+- **Community:** 166 reactions, 190 comments -- a top post in #beginners
+- **Tags:** community, beginners, writing, discuss
+- **Summary:** ⚡ In a hurry? Skip straight to the rules ⚡           Don't Make the Same Mistake I Did   I have...
+- **Link:** https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2

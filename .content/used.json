@@ -402,6 +402,7 @@
     "https://dev.to/francistrdev/networking-is-hard-but-easy-to-think-about-dc1",
     "https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd",
     "https://dev.to/georgekobaidze/georgian-language-benchmark-two-biggest-ai-labs-clash-in-a-language-that-doesnt-play-by-anyones-5b22",
+    "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
     "https://dev.to/georgekobaidze/vibe-coding-isnt-the-problem-calling-it-engineering-is-lm1",
     "https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj",
     "https://dev.to/googleai/where-were-going-we-dont-need-chatbots-introducing-the-antigravity-ide-2c3k",
@@ -3024,12 +3025,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "AI & Machine Learning",
-      "title": "TIGER-AI-Lab/WebsiteBench",
-      "url": "https://github.com/TIGER-AI-Lab/WebsiteBench"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "Lobsters Picks",
       "title": "GEM for Linux provides a classic graphical desktop...",
       "url": "https://lobste.rs/s/5yga7r/gem_for_linux_provides_classic_graphical"
@@ -3081,6 +3076,12 @@
       "subcat": "Models & Datasets",
       "title": "FluidVoice-Labs/fluid-speech-pro",
       "url": "https://huggingface.co/FluidVoice-Labs/fluid-speech-pro"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "Beginner",
+      "title": "Scared to Publish Your First Technical Article? Don't...",
+      "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2"
     }
   ]
 }
