@@ -1136,6 +1136,7 @@
     "https://github.com/phase-rs/phase",
     "https://github.com/php/php-src/releases/tag/php-8.2.35",
     "https://github.com/piercefreeman/waymark",
+    "https://github.com/piermark/omarchytv",
     "https://github.com/pingdotgg/t3code",
     "https://github.com/pingdotgg/ts-rust",
     "https://github.com/pipelab-org/pipelock",
@@ -3042,12 +3043,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "Lobsters Picks",
-      "title": "Phrack 73",
-      "url": "https://lobste.rs/s/xu4ajj/phrack_73"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "Research Papers",
       "title": "VulnSAGE: Adjudicating SAST Reports by Connecting LLM...",
       "url": "http://arxiv.org/abs/2610.23035v1"
@@ -3099,6 +3094,12 @@
       "subcat": "AI & Machine Learning",
       "title": "wainmann/agent-manager",
       "url": "https://github.com/wainmann/agent-manager"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Java",
+      "title": "piermark/omarchytv",
+      "url": "https://github.com/piermark/omarchytv"
     }
   ]
 }

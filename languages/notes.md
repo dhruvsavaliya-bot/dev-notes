@@ -89,6 +89,17 @@ Top community posts, organized by programming language.
 - **Discussion:** https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere
 - **Link:** https://calif.io/java4shell/
 
+**Added 2026-11-19**
+
+### [piermark/omarchytv](https://github.com/piermark/omarchytv)
+- **Stats:** 543 stars | 55 forks | 20 open issues
+- **Language:** Java | **Created:** 2026-10-26 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** Omarchy-styled tiling launcher ecosystem for Android TV, Google TV, LG webOS, Android Mobile & Linux/macOS/Omarchy PCs
+- **Growth:** averaging ~22 stars/day since launch.
+- **Link:** https://github.com/piermark/omarchytv
+
+
 ## Ruby
 
 **Added 2026-11-18**
