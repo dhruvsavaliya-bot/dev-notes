@@ -88,3 +88,14 @@ Top community posts, organized by programming language.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere
 - **Link:** https://calif.io/java4shell/
+
+## Ruby
+
+**Added 2026-11-18**
+
+### [Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC](https://www.zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc)
+- **Source:** www.zerohedge.com | **Posted:** 2026-11-17 | **By:** hauntingseaweed
+- **Community:** 91 points, 15 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50536565
+- **Link:** https://www.zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc

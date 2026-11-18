@@ -2636,6 +2636,7 @@
     "https://news.ycombinator.com/item?id=50524767",
     "https://news.ycombinator.com/item?id=50529612",
     "https://news.ycombinator.com/item?id=50532191",
+    "https://news.ycombinator.com/item?id=50536565",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -3003,6 +3004,7 @@
     "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
     "https://www.youtube.com/watch?v=P5eO7BNyJao",
     "https://www.youtube.com/watch?v=jWCQXBVIyrY",
+    "https://www.zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc",
     "https://x86.cx/blog/redanger",
     "https://xcancel.com/__alpoge__/status/2079028340955197566",
     "https://xenodium.com/my-emacs-31-contributions",
@@ -3023,12 +3025,6 @@
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-11-18",
-      "subcat": "Lobsters Picks",
-      "title": "GEM for Linux provides a classic graphical desktop...",
-      "url": "https://lobste.rs/s/5yga7r/gem_for_linux_provides_classic_graphical"
-    },
     {
       "date": "2026-11-18",
       "subcat": "Show & Ask HN",
@@ -3082,6 +3078,12 @@
       "subcat": "Beginner",
       "title": "Scared to Publish Your First Technical Article? Don't...",
       "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "Ruby",
+      "title": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm...",
+      "url": "https://news.ycombinator.com/item?id=50536565"
     }
   ]
 }
