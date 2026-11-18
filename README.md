@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2129 entries and counting** · Last updated: 2026-11-18
+**2130 entries and counting** · Last updated: 2026-11-18
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 430 |
-| [AI / LLM Notes](ai/notes.md) | 429 |
+| [AI / LLM Notes](ai/notes.md) | 430 |
 | [Reading List](articles/reading-list.md) | 432 |
 | [Coding Tips](coding-tips/tips.md) | 431 |
 | [Language Notes](languages/notes.md) | 407 |
 
 ## Latest additions
 
+- **2026-11-18** · *Models & Datasets* — [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)
 - **2026-11-18** · *AI & Machine Learning* — [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness)
 - **2026-11-18** · *Lobsters Picks* — [Roku launches open-source Roku LT OS for creative...](https://lobste.rs/s/r8xecf/roku_launches_open_source_roku_lt_os_for)
 - **2026-11-18** · *Web & Frontend* — [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)
 - **2026-11-18** · *Show & Ask HN* — [Tell HN: HN is being scraped for emails to scam](https://news.ycombinator.com/item?id=50513451)
-- **2026-11-18** · *Lobsters Picks* — [GEM for Linux provides a classic graphical desktop...](https://lobste.rs/s/5yga7r/gem_for_linux_provides_classic_graphical)
 
 ## How it works
 

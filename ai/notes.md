@@ -247,6 +247,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/arc4g/arc-art
 
+**Added 2026-11-18**
+
+### [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)
+- **Stats:** 4,996 likes | 1,605,518 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-09-10
+- **Tags:** transformers, safetensors, deepseek_v41, text-generation, image-text-to-text, conversational
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash
+
 
 ## LLMs
 

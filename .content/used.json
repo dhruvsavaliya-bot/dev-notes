@@ -1482,6 +1482,7 @@
     "https://huggingface.co/datasets/zgcagi/ZGCM-1-Data",
     "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
     "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+    "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
     "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
     "https://huggingface.co/destined/hurston-1",
     "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
@@ -3019,12 +3020,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "Rust",
-      "title": "We won't \"just hang out\"",
-      "url": "https://news.ycombinator.com/item?id=50285154"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "Web & Frontend",
       "title": "anomalyco/rune",
       "url": "https://github.com/anomalyco/rune"
@@ -3076,6 +3071,12 @@
       "subcat": "AI & Machine Learning",
       "title": "amosblomqvist/learnharness",
       "url": "https://github.com/amosblomqvist/learnharness"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "Models & Datasets",
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash"
     }
   ]
 }
