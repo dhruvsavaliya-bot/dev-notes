@@ -1720,6 +1720,7 @@
     "https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline",
     "https://lobste.rs/s/dodzdb/highlights_from_i_spent_6_years",
     "https://lobste.rs/s/dpfpr3/goroutine_leak_profiles",
+    "https://lobste.rs/s/dpvrbv/solid_2_0",
     "https://lobste.rs/s/drwd4j/jepsen_particledb_1_1_4",
     "https://lobste.rs/s/dsbt5a/branches_branch_free_code",
     "https://lobste.rs/s/dsrruj/london_meetup",
@@ -2986,6 +2987,7 @@
     "https://www.seangoedecke.com/what-requirements-dont-you-have/",
     "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
     "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
+    "https://www.solidjs.com/blog/solid-2-0-the-long-hold",
     "https://www.spacex.com/launches/starship-flight-15",
     "https://www.statichost.eu/",
     "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies",
@@ -3049,12 +3051,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "Models & Datasets",
-      "title": "tencent/TailorRig",
-      "url": "https://huggingface.co/datasets/tencent/TailorRig"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "AI & Machine Learning",
       "title": "QwenAudio/qwen-audio-agent",
       "url": "https://github.com/QwenAudio/qwen-audio-agent"
@@ -3106,6 +3102,12 @@
       "subcat": "AI & Machine Learning",
       "title": "expo/exact",
       "url": "https://github.com/expo/exact"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "JavaScript",
+      "title": "Solid 2.0",
+      "url": "https://lobste.rs/s/dpvrbv/solid_2_0"
     }
   ]
 }

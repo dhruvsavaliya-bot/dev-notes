@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2153 entries and counting** · Last updated: 2026-11-19
+**2154 entries and counting** · Last updated: 2026-11-19
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 435 |
 | [Reading List](articles/reading-list.md) | 436 |
 | [Coding Tips](coding-tips/tips.md) | 437 |
-| [Language Notes](languages/notes.md) | 411 |
+| [Language Notes](languages/notes.md) | 412 |
 
 ## Latest additions
 
+- **2026-11-19** · *JavaScript* — [Solid 2.0](https://lobste.rs/s/dpvrbv/solid_2_0)
 - **2026-11-19** · *AI & Machine Learning* — [expo/exact](https://github.com/expo/exact)
 - **2026-11-19** · *Java* — [icysymmetra/tiktok-patches-for-morphe](https://github.com/icysymmetra/tiktok-patches-for-morphe)
 - **2026-11-19** · *Show & Ask HN* — [Show HN: Valencia, Spain in Sim City/Isometric View](https://news.ycombinator.com/item?id=50441518)
 - **2026-11-19** · *Backend* — [Microservices Are Killing Your Performance (And...](https://dev.to/polliog/microservices-are-killing-your-performance-and-heres-the-math-21op)
-- **2026-11-19** · *AI & Machine Learning* — [Alejandros17487/ai-jailbreaks](https://github.com/Alejandros17487/ai-jailbreaks)
 
 ## How it works
 

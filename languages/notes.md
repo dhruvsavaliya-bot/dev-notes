@@ -13,6 +13,17 @@ Top community posts, organized by programming language.
 - **Summary:** Everyone defaults to WebSockets for real-time features. Most shouldn't.  The reality: 95% of...
 - **Link:** https://dev.to/polliog/server-sent-events-beat-websockets-for-95-of-real-time-apps-heres-why-a4l
 
+**Added 2026-11-19**
+
+### [Solid 2.0](https://www.solidjs.com/blog/solid-2-0-the-long-hold)
+- **Source:** www.solidjs.com | **Posted:** 2026-11-18 | **By:** bio
+- **Community:** 18 score, 12 comments on Lobsters
+- **Tags:** javascript, web
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/dpvrbv/solid_2_0
+- **Link:** https://www.solidjs.com/blog/solid-2-0-the-long-hold
+
+
 ## Rust
 
 **Added 2026-11-17**
