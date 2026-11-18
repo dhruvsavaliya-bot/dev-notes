@@ -114,6 +114,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~36 stars/day since launch.
 - **Link:** https://github.com/TIGER-AI-Lab/WebsiteBench
 
+**Added 2026-11-18**
+
+### [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness)
+- **Stats:** 9,927 stars | 1,324 forks | 554 open issues
+- **Language:** TypeScript | **Created:** 2026-10-16 | **License:** AGPL-3.0
+- **Topics:** none listed
+- **What it is:** Agent harness for learning difficult things.
+- **Growth:** averaging ~300 stars/day since launch.
+- **Link:** https://github.com/amosblomqvist/learnharness
+
 
 ## Other Cool Projects
 

@@ -848,6 +848,7 @@
     "https://github.com/amak-tech/port-buddy",
     "https://github.com/amirh00sain/SpiderPanel",
     "https://github.com/amosblomqvist/learn",
+    "https://github.com/amosblomqvist/learnharness",
     "https://github.com/anderspitman/awesome-tunneling",
     "https://github.com/andrewyng/openworker",
     "https://github.com/android/ndk/issues/2260",
@@ -3018,12 +3019,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "Hacker News Picks",
-      "title": "What is the best harness for each model?",
-      "url": "https://news.ycombinator.com/item?id=50532191"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "Rust",
       "title": "We won't \"just hang out\"",
       "url": "https://news.ycombinator.com/item?id=50285154"
@@ -3075,6 +3070,12 @@
       "subcat": "Lobsters Picks",
       "title": "Roku launches open-source Roku LT OS for creative...",
       "url": "https://lobste.rs/s/r8xecf/roku_launches_open_source_roku_lt_os_for"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "AI & Machine Learning",
+      "title": "amosblomqvist/learnharness",
+      "url": "https://github.com/amosblomqvist/learnharness"
     }
   ]
 }
