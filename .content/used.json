@@ -523,6 +523,7 @@
     "https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81",
     "https://dev.to/startupcafe/best-free-apis-for-developers-the-complete-categorized-list-27oc",
     "https://dev.to/startupcafe/build-in-public-is-everywhere-does-it-actually-get-you-customers-2hlh",
+    "https://dev.to/startupcafe/tips-to-work-on-your-side-project-while-working-full-time-n50",
     "https://dev.to/startupcafe/your-private-search-engine-might-run-on-bing-this-one-builds-its-own-index-4all",
     "https://dev.to/stherzada/como-eu-aprendi-a-aprender-e-por-que-a-ia-nao-veio-pra-pensar-por-voce-fhg",
     "https://dev.to/sylwia-lask/10-git-commands-youll-wish-you-knew-earlier-4fcp",
@@ -3037,12 +3038,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "Models & Datasets",
-      "title": "FluidVoice-Labs/fluid-speech-pro",
-      "url": "https://huggingface.co/FluidVoice-Labs/fluid-speech-pro"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "Beginner",
       "title": "Scared to Publish Your First Technical Article? Don't...",
       "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2"
@@ -3094,6 +3089,12 @@
       "subcat": "Productivity",
       "title": "Top 10 Productivity Hacks Every Developer Should Know",
       "url": "https://dev.to/thebitforge/top-10-productivity-hacks-every-developer-should-know-151h"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "Web Development",
+      "title": "Tips to Work on Your Side Project While Working...",
+      "url": "https://dev.to/startupcafe/tips-to-work-on-your-side-project-while-working-full-time-n50"
     }
   ]
 }

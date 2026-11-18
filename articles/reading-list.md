@@ -329,3 +329,14 @@ The week's best dev articles, organized by field.
 - **Tags:** keycloak, security, saas, webdev
 - **Summary:** Keycloak audit logs help SaaS teams understand who did what, when an action happened, and which...
 - **Link:** https://dev.to/hadil/your-login-works-now-prove-who-did-what-26p5
+
+## Web Development
+
+**Added 2026-11-18**
+
+### [Tips to Work on Your Side Project While Working Full-Time](https://dev.to/startupcafe/tips-to-work-on-your-side-project-while-working-full-time-n50)
+- **Author:** Hanzla Baig | **Published:** Nov 15 | **Read time:** 10 min
+- **Community:** 69 reactions, 5 comments -- a top post in #webdev
+- **Tags:** productivity, career, webdev, programming
+- **Summary:** Here's a scene you might know.  It's 8:40 PM. Dinner is done. You open your laptop to finally work on...
+- **Link:** https://dev.to/startupcafe/tips-to-work-on-your-side-project-while-working-full-time-n50
