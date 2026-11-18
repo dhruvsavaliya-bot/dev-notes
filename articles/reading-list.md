@@ -261,6 +261,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/9zcxev/3_2_1_backup_strategy_with_restic
 - **Link:** https://chuck.is/paranoid/
 
+**Added 2026-11-18**
+
+### [How CHERIoT Provides Strong and Usable Isolation Without an MMU](https://queue.acm.org/doi/10.1145/3831361)
+- **Source:** queue.acm.org | **Posted:** 2026-09-10 | **By:** rrampage
+- **Community:** 45 score, 23 comments on Lobsters
+- **Tags:** hardware, osdev, security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/gtvx0w/how_cheriot_provides_strong_usable
+- **Link:** https://queue.acm.org/doi/10.1145/3831361
+
 
 ## Security
 
