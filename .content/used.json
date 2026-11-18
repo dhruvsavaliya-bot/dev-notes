@@ -1485,6 +1485,7 @@
     "https://huggingface.co/datasets/simple-world-lab/HiFi-UMI-2K",
     "https://huggingface.co/datasets/stanford-vision-lab/gpic",
     "https://huggingface.co/datasets/tau/commonsense_qa",
+    "https://huggingface.co/datasets/tencent/TailorRig",
     "https://huggingface.co/datasets/tiiuae/falcon-refinedweb",
     "https://huggingface.co/datasets/venvoo/china-a-share-l2-level2-limit-order-book-tick-data",
     "https://huggingface.co/datasets/ystemsrx/Erotic_Literature_Collection",
@@ -3038,12 +3039,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "Beginner",
-      "title": "Scared to Publish Your First Technical Article? Don't...",
-      "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "Ruby",
       "title": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm...",
       "url": "https://news.ycombinator.com/item?id=50536565"
@@ -3095,6 +3090,12 @@
       "subcat": "Web Development",
       "title": "Tips to Work on Your Side Project While Working...",
       "url": "https://dev.to/startupcafe/tips-to-work-on-your-side-project-while-working-full-time-n50"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "Models & Datasets",
+      "title": "tencent/TailorRig",
+      "url": "https://huggingface.co/datasets/tencent/TailorRig"
     }
   ]
 }

@@ -295,6 +295,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/FluidVoice-Labs/fluid-speech-pro
 
+**Added 2026-11-18**
+
+### [tencent/TailorRig](https://huggingface.co/datasets/tencent/TailorRig)
+- **Stats:** 118 likes | 6,025 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-11-04
+- **Tags:** 3d, mesh, skeleton, rigging, skinning, auto-rigging
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/tencent/TailorRig
+
 
 ## LLMs
 
