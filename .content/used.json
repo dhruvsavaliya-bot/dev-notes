@@ -113,6 +113,7 @@
     "http://arxiv.org/abs/2611.04367v1",
     "http://arxiv.org/abs/2611.04497v1",
     "http://arxiv.org/abs/2611.04501v2",
+    "http://arxiv.org/abs/2611.04561v1",
     "http://arxiv.org/abs/2611.04667v2",
     "http://arxiv.org/abs/2611.05115v1",
     "http://arxiv.org/abs/2611.05168v1",
@@ -3033,12 +3034,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "Models & Datasets",
-      "title": "deepseek-ai/DeepSeek-V4.1-Flash",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "Java",
       "title": "Java4Shell: Write once, RCE everywhere",
       "url": "https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere"
@@ -3090,6 +3085,12 @@
       "subcat": "Research Papers",
       "title": "VulnSAGE: Adjudicating SAST Reports by Connecting LLM...",
       "url": "http://arxiv.org/abs/2610.23035v1"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "Research Papers",
+      "title": "Distributed LTL Synthesis under Arbitrary Message...",
+      "url": "http://arxiv.org/abs/2611.04561v1"
     }
   ]
 }

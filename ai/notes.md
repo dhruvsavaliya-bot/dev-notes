@@ -174,6 +174,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.23035v1
 
+**Added 2026-11-18**
+
+### [Distributed LTL Synthesis under Arbitrary Message Adversaries](http://arxiv.org/abs/2611.04561v1)
+- **Authors:** Benedikt Bollig, Patricia Bouyer-Decitre, Matthias Függer, Dhrubajyoti Ghosh et al.
+- **Published:** 2026-11-03 | **Primary category:** cs.DC
+- **Categories:** cs.DC, cs.FL, cs.LO, eess.SY
+- **Abstract:** Reactive synthesis is the problem of generating a program that produces outputs satisfying a logical specification for every input stream. We study distributed synthesis for two processes communicating in rounds over unreliable links, with at least one message delivered in every round. Despite this delivery guarantee, we show that synthesis from linear temporal logic specifications is undecidable, even when messages carry the processes' complete causal histories. More generally, we give a comple...
+- **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.04561v1
+
 
 ## Models & Datasets
 
