@@ -263,6 +263,7 @@
     "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
     "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
     "https://blog.roboflow.com/openai-gpt-5-6/",
+    "https://blog.roku.com/developer/roku-lt-os",
     "https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/",
     "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
     "https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/",
@@ -1823,6 +1824,7 @@
     "https://lobste.rs/s/qsvspv/pidgin_3_0_alpha_4_2_98_0_has_been_released",
     "https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy",
     "https://lobste.rs/s/qzfohf/how_run_city_builder_on_16_mhz",
+    "https://lobste.rs/s/r8xecf/roku_launches_open_source_roku_lt_os_for",
     "https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably",
     "https://lobste.rs/s/rhoopo/migrating_from_github_codeberg",
     "https://lobste.rs/s/rlrfew/balloting_has_completed_for_c_26",
@@ -3016,12 +3018,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "AI Engineering",
-      "title": "My company packaged 12 years of my experience into an...",
-      "url": "https://dev.to/xulingfeng/my-company-packaged-12-years-of-my-experience-into-an-ai-skill-then-laid-me-off-when-it-crashed-4b3e"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "Hacker News Picks",
       "title": "What is the best harness for each model?",
       "url": "https://news.ycombinator.com/item?id=50532191"
@@ -3073,6 +3069,12 @@
       "subcat": "Web & Frontend",
       "title": "anefzaoui/misterdownloadmanager",
       "url": "https://github.com/anefzaoui/misterdownloadmanager"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "Lobsters Picks",
+      "title": "Roku launches open-source Roku LT OS for creative...",
+      "url": "https://lobste.rs/s/r8xecf/roku_launches_open_source_roku_lt_os_for"
     }
   ]
 }

@@ -281,6 +281,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/5yga7r/gem_for_linux_provides_classic_graphical
 - **Link:** https://github.com/triglav-os/gem
 
+**Added 2026-11-18**
+
+### [Roku launches open-source Roku LT OS for creative programmers](https://blog.roku.com/developer/roku-lt-os)
+- **Source:** blog.roku.com | **Posted:** 2026-09-20 | **By:** lorddimwit
+- **Community:** 15 score, 4 comments on Lobsters
+- **Tags:** osdev
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/r8xecf/roku_launches_open_source_roku_lt_os_for
+- **Link:** https://blog.roku.com/developer/roku-lt-os
+
 
 ## Security
 
