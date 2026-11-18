@@ -75,6 +75,7 @@
     "http://arxiv.org/abs/2610.21270v1",
     "http://arxiv.org/abs/2610.21597v1",
     "http://arxiv.org/abs/2610.21695v1",
+    "http://arxiv.org/abs/2610.23035v1",
     "http://arxiv.org/abs/2610.24058v1",
     "http://arxiv.org/abs/2610.24128v1",
     "http://arxiv.org/abs/2610.24928v1",
@@ -3032,12 +3033,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "AI & Machine Learning",
-      "title": "amosblomqvist/learnharness",
-      "url": "https://github.com/amosblomqvist/learnharness"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "Models & Datasets",
       "title": "deepseek-ai/DeepSeek-V4.1-Flash",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash"
@@ -3089,6 +3084,12 @@
       "subcat": "Lobsters Picks",
       "title": "Phrack 73",
       "url": "https://lobste.rs/s/xu4ajj/phrack_73"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "Research Papers",
+      "title": "VulnSAGE: Adjudicating SAST Reports by Connecting LLM...",
+      "url": "http://arxiv.org/abs/2610.23035v1"
     }
   ]
 }

@@ -164,6 +164,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.14925v1
 
+**Added 2026-11-18**
+
+### [VulnSAGE: Adjudicating SAST Reports by Connecting LLM Reasoning to Program Structure](http://arxiv.org/abs/2610.23035v1)
+- **Authors:** Jinbao Chen, Zixiang Zhou, Yu Zhang, Yihong Wu
+- **Published:** 2026-10-16 | **Primary category:** cs.PL
+- **Categories:** cs.SE, cs.CR, cs.PL
+- **Abstract:** Static Application Security Testing (SAST) reports flag operations whose safety depends on project-specific context, and maintainers must decide which reports describe real defects. Large language models (LLMs) can interpret this context, but adjudicating a report with them requires the decisive code, which often lies far from the reported line, and a decision basis that program analysis can check. We present VulnSAGE, an adjudication system for SAST reports that connects LLM reasoning to progra...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.23035v1
+
 
 ## Models & Datasets
 

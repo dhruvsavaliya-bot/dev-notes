@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2138 entries and counting** · Last updated: 2026-11-18
+**2139 entries and counting** · Last updated: 2026-11-18
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 430 |
-| [AI / LLM Notes](ai/notes.md) | 432 |
+| [AI / LLM Notes](ai/notes.md) | 433 |
 | [Reading List](articles/reading-list.md) | 433 |
 | [Coding Tips](coding-tips/tips.md) | 434 |
 | [Language Notes](languages/notes.md) | 409 |
 
 ## Latest additions
 
+- **2026-11-18** · *Research Papers* — [VulnSAGE: Adjudicating SAST Reports by Connecting LLM...](http://arxiv.org/abs/2610.23035v1)
 - **2026-11-18** · *Lobsters Picks* — [Phrack 73](https://lobste.rs/s/xu4ajj/phrack_73)
 - **2026-11-18** · *Hacker News Picks* — [Anthropic takes steps to block Claude from...](https://news.ycombinator.com/item?id=50320255)
 - **2026-11-18** · *Research Papers* — [Contravariant Universe Subtyping, Formalized...](http://arxiv.org/abs/2610.14925v1)
 - **2026-11-18** · *Ruby* — [Anthropic Paid Rubio's Ex-Chief of Staff's Firm...](https://news.ycombinator.com/item?id=50536565)
-- **2026-11-18** · *Beginner* — [Scared to Publish Your First Technical Article? Don't...](https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2)
 
 ## How it works
 
