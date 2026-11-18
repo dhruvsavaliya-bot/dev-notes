@@ -303,3 +303,14 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Tags:** discuss, ai, programming, career
 - **Summary:** From a multi-agent testing experiment to a broader discussion about how engineering teams should...
 - **Link:** https://dev.to/xulingfeng/an-ai-testing-presentation-became-the-final-push-for-organizational-change-at-my-company-12ag
+
+## Testing
+
+**Added 2026-11-18**
+
+### [Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.](https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84)
+- **Author:** Matthew Hou | **Published:** Feb 24 | **Read time:** 4 min
+- **Community:** 50 reactions, 63 comments -- a top post in #testing
+- **Tags:** ai, testing, discuss, codequality
+- **Summary:** The METR study found developers were 19% slower with AI coding tools despite feeling 24% faster. Here's what this means for how we use AI coding tools effectively.
+- **Link:** https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84

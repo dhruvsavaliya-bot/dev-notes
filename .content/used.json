@@ -470,6 +470,7 @@
     "https://dev.to/malusev998/why-i-built-an-ssh-config-and-tunnel-manager-for-macos-58n8",
     "https://dev.to/mashraf_aiman/how-to-make-link-to-saas-launch-video-system-5a8k",
     "https://dev.to/matheusdsilva01/5-licoes-de-seguranca-que-aprendi-estudando-um-host-temporario-de-arquivos-5fab",
+    "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
     "https://dev.to/metal3d/git-worktree-like-a-boss-2j1b",
     "https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd",
     "https://dev.to/mikachu/i-made-866-commits-in-5-weeks-my-understanding-didnt-keep-up-cmo",
@@ -3022,12 +3023,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "Lobsters Picks",
-      "title": "How CHERIoT Provides Strong and Usable Isolation...",
-      "url": "https://lobste.rs/s/gtvx0w/how_cheriot_provides_strong_usable"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: If AI tools are so good, why isn't your bug...",
       "url": "https://news.ycombinator.com/item?id=50520076"
@@ -3079,6 +3074,12 @@
       "subcat": "Java",
       "title": "Java4Shell: Write once, RCE everywhere",
       "url": "https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere"
+    },
+    {
+      "date": "2026-11-18",
+      "subcat": "Testing",
+      "title": "Developers Think AI Makes Them 24% Faster. The Data...",
+      "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84"
     }
   ]
 }
