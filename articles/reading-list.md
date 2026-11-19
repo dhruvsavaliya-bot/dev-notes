@@ -329,6 +329,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/bhfexs/freebsd_gus
 - **Link:** https://gregoire.dev/writing/gus/
 
+**Added 2026-11-19**
+
+### [Actual curl rewrites in rust](https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/)
+- **Source:** daniel.haxx.se | **Posted:** 2026-11-17 | **By:** dasm
+- **Community:** 112 score, 61 comments on Lobsters
+- **Tags:** rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust
+- **Link:** https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/
+
 
 ## Security
 

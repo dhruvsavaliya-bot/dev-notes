@@ -328,6 +328,7 @@
     "https://cursor.com/blog/agent-swarm-model-economics",
     "https://cyberplace.social/@GossiTheDog/117528831681803563",
     "https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/",
+    "https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/",
     "https://danluu.com/ambitious/",
     "https://datacolada.org/138",
     "https://datagubbe.se/crt/",
@@ -1635,6 +1636,7 @@
     "https://lobste.rs/s/0ouxwf/libghostty_1_0",
     "https://lobste.rs/s/0rmq2f/link_previews_you",
     "https://lobste.rs/s/0yxkvs/postgres_19_is_late_it_s_ai_s_fault",
+    "https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust",
     "https://lobste.rs/s/1h5kuj/pharo_14_released",
     "https://lobste.rs/s/1pmuy7/how_hard_is_it_check_for_whitespace",
     "https://lobste.rs/s/1s3dve/superoptimizing_fpu_emulator",
@@ -3064,12 +3066,6 @@
     {
       "date": "2026-11-19",
       "subcat": "JavaScript",
-      "title": "Solid 2.0",
-      "url": "https://lobste.rs/s/dpvrbv/solid_2_0"
-    },
-    {
-      "date": "2026-11-19",
-      "subcat": "JavaScript",
       "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work...",
       "url": "https://news.ycombinator.com/item?id=50532385"
     },
@@ -3120,6 +3116,12 @@
       "subcat": "Web & Frontend",
       "title": "bjarneo/ku",
       "url": "https://github.com/bjarneo/ku"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Lobsters Picks",
+      "title": "Actual curl rewrites in rust",
+      "url": "https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust"
     }
   ]
 }
