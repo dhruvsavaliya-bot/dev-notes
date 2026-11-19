@@ -1408,6 +1408,7 @@
     "https://huggingface.co/blog/agent-intrusion-technical-timeline",
     "https://huggingface.co/briaai/Fibo-2.0-dev",
     "https://huggingface.co/bytedance-research/Lance",
+    "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
     "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L12-v2",
     "https://huggingface.co/datalab-to/surya-ocr-2",
     "https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m",
@@ -3089,12 +3090,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Research Papers",
-      "title": "Latent Barrier Steering: Hierarchical Safety for...",
-      "url": "http://arxiv.org/abs/2611.13227v1"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Rust",
       "title": "How Rust Changed Me As A Developer",
       "url": "https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer"
@@ -3146,6 +3141,12 @@
       "subcat": "Other Cool Projects",
       "title": "harry0703/MangoDisk",
       "url": "https://github.com/harry0703/MangoDisk"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Models & Datasets",
+      "title": "ccore/Qwen3.5-4B-3D-Coder",
+      "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
     }
   ]
 }

@@ -370,6 +370,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/google/physical-engineerings-last-exam
 
+**Added 2026-11-19**
+
+### [ccore/Qwen3.5-4B-3D-Coder](https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder)
+- **Stats:** 1,225 likes | 510,916 downloads
+- **Kind:** Hugging Face model | **Task:** n/a | **Created:** 2026-10-25
+- **Tags:** safetensors, gguf, qwen3_5, code, threejs, 3d
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder
+
 
 ## LLMs
 
