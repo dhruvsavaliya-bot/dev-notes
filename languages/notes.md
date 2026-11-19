@@ -23,6 +23,15 @@ Top community posts, organized by programming language.
 - **Discussion:** https://lobste.rs/s/dpvrbv/solid_2_0
 - **Link:** https://www.solidjs.com/blog/solid-2-0-the-long-hold
 
+**Added 2026-11-19**
+
+### [Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off](https://alloyhtml.com/example.html)
+- **Source:** alloyhtml.com | **Posted:** 2026-11-17 | **By:** prafandy
+- **Community:** 207 points, 37 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50532385
+- **Link:** https://alloyhtml.com/example.html
+
 
 ## Rust
 

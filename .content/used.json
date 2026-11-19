@@ -184,6 +184,7 @@
     "https://alichraghi.github.io/blog/how-not-to-build-a-music-player",
     "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
     "https://alistair.sh/thenables",
+    "https://alloyhtml.com/example.html",
     "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
     "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
     "https://amutable.com/blog/systemd-loves-rust",
@@ -2656,6 +2657,7 @@
     "https://news.ycombinator.com/item?id=50524767",
     "https://news.ycombinator.com/item?id=50529612",
     "https://news.ycombinator.com/item?id=50532191",
+    "https://news.ycombinator.com/item?id=50532385",
     "https://news.ycombinator.com/item?id=50536565",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
@@ -3051,12 +3053,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "AI & Machine Learning",
-      "title": "QwenAudio/qwen-audio-agent",
-      "url": "https://github.com/QwenAudio/qwen-audio-agent"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "Show & Ask HN",
       "title": "Show HN: DBDelve  Open-Source DB Client Made with...",
       "url": "https://news.ycombinator.com/item?id=50427934"
@@ -3108,6 +3104,12 @@
       "subcat": "JavaScript",
       "title": "Solid 2.0",
       "url": "https://lobste.rs/s/dpvrbv/solid_2_0"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "JavaScript",
+      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work...",
+      "url": "https://news.ycombinator.com/item?id=50532385"
     }
   ]
 }
