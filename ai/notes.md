@@ -194,6 +194,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.12386v1
 
+**Added 2026-11-19**
+
+### [Data4Cyber: Labeled Cyber-Physical Datasets for Distribution-Grid Management Systems Under Representative OT Attacks](http://arxiv.org/abs/2611.13942v1)
+- **Authors:** Ömer Sen, Lennart Bader, Marawan Emara, Martin Serror et al.
+- **Published:** 2026-11-10 | **Primary category:** cs.CR
+- **Categories:** cs.CR
+- **Abstract:** Cyberattacks against power systems increasingly exploit industrial communication and control dependencies arising from distributed energy resources (DER), remote management, and market-based incentives. Progress on intrusion detection is constrained by a lack of public datasets that align operational technology (OT) network telemetry with physical measurements and control context. Data4Cyber is a labeled cyber-physical dataset recorded in a laboratory distribution management system (DMS) for sel...
+- **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.13942v1
+
 
 ## Models & Datasets
 

@@ -133,6 +133,7 @@
     "http://arxiv.org/abs/2611.12386v1",
     "http://arxiv.org/abs/2611.12575v1",
     "http://arxiv.org/abs/2611.12591v1",
+    "http://arxiv.org/abs/2611.13942v1",
     "http://arxiv.org/abs/2611.14013v1",
     "http://arxiv.org/abs/2611.14247v1",
     "http://arxiv.org/abs/2611.15843v1",
@@ -3070,12 +3071,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Lobsters Picks",
-      "title": "Sarasa Gothic Mono",
-      "url": "https://lobste.rs/s/de02yg/sarasa_gothic_mono"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Clean Code & Best Practices",
       "title": "How to Structure a .NET Solution That Actually...",
       "url": "https://dev.to/mashrulhaque/how-to-design-a-maintainable-net-solution-structure-for-growing-teams-284n"
@@ -3127,6 +3122,12 @@
       "subcat": "Hacker News Picks",
       "title": "Unreal Tournament 2004 in the Browser",
       "url": "https://news.ycombinator.com/item?id=50554935"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Research Papers",
+      "title": "Data4Cyber: Labeled Cyber-Physical Datasets for...",
+      "url": "http://arxiv.org/abs/2611.13942v1"
     }
   ]
 }
