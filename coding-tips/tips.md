@@ -309,6 +309,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50334704
 - **Link:** https://syscall.sh/
 
+**Added 2026-11-19**
+
+### [Show HN: Isometric SF – A pixel-art map of the SF Bay Area](https://isometricsf.com/)
+- **Source:** isometricsf.com | **Posted:** 2026-11-13 | **By:** juscha1
+- **Community:** 256 points, 76 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50487228
+- **Link:** https://isometricsf.com/
+
 
 ## Productivity
 

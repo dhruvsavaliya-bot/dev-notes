@@ -1578,6 +1578,7 @@
     "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
     "https://imaginationlibrary.com/",
     "https://indigene.app/",
+    "https://isometricsf.com/",
     "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
     "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
     "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback",
@@ -2660,6 +2661,7 @@
     "https://news.ycombinator.com/item?id=50469994",
     "https://news.ycombinator.com/item?id=50471668",
     "https://news.ycombinator.com/item?id=50484421",
+    "https://news.ycombinator.com/item?id=50487228",
     "https://news.ycombinator.com/item?id=50492456",
     "https://news.ycombinator.com/item?id=50494696",
     "https://news.ycombinator.com/item?id=50500963",
@@ -3071,12 +3073,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Clean Code & Best Practices",
-      "title": "How to Structure a .NET Solution That Actually...",
-      "url": "https://dev.to/mashrulhaque/how-to-design-a-maintainable-net-solution-structure-for-growing-teams-284n"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "AI & Machine Learning",
       "title": "Intrect-io/OpenSwarm",
       "url": "https://github.com/Intrect-io/OpenSwarm"
@@ -3128,6 +3124,12 @@
       "subcat": "Research Papers",
       "title": "Data4Cyber: Labeled Cyber-Physical Datasets for...",
       "url": "http://arxiv.org/abs/2611.13942v1"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Isometric SF  A pixel-art map of the SF Bay...",
+      "url": "https://news.ycombinator.com/item?id=50487228"
     }
   ]
 }
