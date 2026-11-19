@@ -313,6 +313,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/IFM/PAN2
 
+**Added 2026-11-19**
+
+### [nvidia/Alpamayo2-Edge](https://huggingface.co/nvidia/Alpamayo2-Edge)
+- **Stats:** 110 likes | 2,667 downloads
+- **Kind:** Hugging Face model | **Task:** robotics | **Created:** 2026-08-12
+- **Tags:** safetensors, alpamayo2_edge, alpamayo, autonomous-driving, vision-language-action, pytorch
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/nvidia/Alpamayo2-Edge
+
 
 ## LLMs
 
