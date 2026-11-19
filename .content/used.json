@@ -2672,6 +2672,7 @@
     "https://news.ycombinator.com/item?id=50532191",
     "https://news.ycombinator.com/item?id=50532385",
     "https://news.ycombinator.com/item?id=50536565",
+    "https://news.ycombinator.com/item?id=50554935",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2869,6 +2870,7 @@
     "https://unlisted.careers/ghost-jobs/report/2026-09",
     "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
     "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
+    "https://ut2004.dev/",
     "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible",
     "https://uvbirds.com/",
     "https://verdagon.dev/blog/reverse-borrow-checking",
@@ -3068,12 +3070,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Models & Datasets",
-      "title": "IFM/PAN2",
-      "url": "https://huggingface.co/IFM/PAN2"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Lobsters Picks",
       "title": "Sarasa Gothic Mono",
       "url": "https://lobste.rs/s/de02yg/sarasa_gothic_mono"
@@ -3125,6 +3121,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: I've updated my Linux System Call website...",
       "url": "https://news.ycombinator.com/item?id=50334704"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Hacker News Picks",
+      "title": "Unreal Tournament 2004 in the Browser",
+      "url": "https://news.ycombinator.com/item?id=50554935"
     }
   ]
 }

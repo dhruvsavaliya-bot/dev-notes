@@ -166,6 +166,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50251344
 - **Link:** https://openai.com/index/building-scientific-understanding-with-academic-communities/
 
+**Added 2026-11-19**
+
+### [Unreal Tournament 2004 in the Browser](https://ut2004.dev/)
+- **Source:** ut2004.dev | **Posted:** 2026-11-19 | **By:** TheAceOfHearts
+- **Community:** 141 points, 59 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50554935
+- **Link:** https://ut2004.dev/
+
 
 ## Lobsters Picks
 
