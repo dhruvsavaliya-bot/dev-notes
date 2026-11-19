@@ -1719,6 +1719,7 @@
     "https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday",
     "https://lobste.rs/s/d3ubhd/billion_query_per_second_lookup_tables_c",
     "https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has",
+    "https://lobste.rs/s/de02yg/sarasa_gothic_mono",
     "https://lobste.rs/s/dfieqa/bringing_uv_ty_together",
     "https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline",
     "https://lobste.rs/s/dodzdb/highlights_from_i_spent_6_years",
@@ -2729,6 +2730,7 @@
     "https://phreak.ing/",
     "https://phunky.cafe/my-homelab-got-hacked/",
     "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
+    "https://picaq.github.io/sarasa",
     "https://picomq.com/",
     "https://pkg.go.dev/golang.org/x/tools/go/analysis",
     "https://ploum.net/2026-11-12-anti-marketing-gemini.html",
@@ -3055,12 +3057,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Java",
-      "title": "piermark/omarchytv",
-      "url": "https://github.com/piermark/omarchytv"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "AI & Machine Learning",
       "title": "Alejandros17487/ai-jailbreaks",
       "url": "https://github.com/Alejandros17487/ai-jailbreaks"
@@ -3112,6 +3108,12 @@
       "subcat": "Models & Datasets",
       "title": "IFM/PAN2",
       "url": "https://huggingface.co/IFM/PAN2"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Lobsters Picks",
+      "title": "Sarasa Gothic Mono",
+      "url": "https://lobste.rs/s/de02yg/sarasa_gothic_mono"
     }
   ]
 }

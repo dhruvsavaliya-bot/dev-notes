@@ -309,6 +309,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/r8xecf/roku_launches_open_source_roku_lt_os_for
 - **Link:** https://blog.roku.com/developer/roku-lt-os
 
+**Added 2026-11-19**
+
+### [Sarasa Gothic Mono](https://picaq.github.io/sarasa)
+- **Source:** picaq.github.io | **Posted:** 2026-11-17 | **By:** dgv
+- **Community:** 29 score, 23 comments on Lobsters
+- **Tags:** design
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/de02yg/sarasa_gothic_mono
+- **Link:** https://picaq.github.io/sarasa
+
 
 ## Security
 
