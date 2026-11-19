@@ -1615,6 +1615,7 @@
     "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
     "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
     "https://kaba.cx/posts/20261020_Tor/",
+    "https://kapteko.com/15-million-webservers/",
     "https://karthinks.com/software/understanding-org-latex-preview/",
     "https://kde.org/announcements/plasma/6/6.8.0/",
     "https://keepthescore.co/blog/posts/costs-of-running-webapp/",
@@ -1764,6 +1765,7 @@
     "https://lobste.rs/s/eeclwg/sure_mate_buy_me_bloody_coffee",
     "https://lobste.rs/s/eesu8d/bun_1_4",
     "https://lobste.rs/s/ekwolo/building_java_me_apps_with_modern_tooling",
+    "https://lobste.rs/s/elmy67/15_million_web_servers_on_one_vm_smoltcp",
     "https://lobste.rs/s/eoibah/iroh_global_content_discovery",
     "https://lobste.rs/s/ep5vsq/beating_compiler_at_signed_32_bit",
     "https://lobste.rs/s/erkjnx/gist_go_concurrency",
@@ -3095,12 +3097,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-      "url": "https://news.ycombinator.com/item?id=50497589"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Models & Datasets",
       "title": "google/physical-engineerings-last-exam",
       "url": "https://huggingface.co/datasets/google/physical-engineerings-last-exam"
@@ -3152,6 +3148,12 @@
       "subcat": "Lobsters Picks",
       "title": "What is w2rt6byl5nf1opmc-a[.]com?",
       "url": "https://lobste.rs/s/dgvb5g/what_is_w2rt6byl5nf1opmc_com"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "Lobsters Picks",
+      "title": "15 million web servers on one VM - smoltcp, DPDK...",
+      "url": "https://lobste.rs/s/elmy67/15_million_web_servers_on_one_vm_smoltcp"
     }
   ]
 }

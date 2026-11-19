@@ -144,6 +144,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://lobste.rs/s/xu4ajj/phrack_73
 - **Link:** https://phrack.org/issues/73/introduction_md.html
 
+**Added 2026-11-20**
+
+### [15 million web servers on one VM - smoltcp, DPDK, AF_XDP](https://kapteko.com/15-million-webservers/)
+- **Source:** kapteko.com | **Posted:** 2026-11-19 | **By:** rrampage
+- **Community:** 20 score, 0 comments on Lobsters
+- **Tags:** networking, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/elmy67/15_million_web_servers_on_one_vm_smoltcp
+- **Link:** https://kapteko.com/15-million-webservers/
+
 
 ## Show & Ask HN
 
