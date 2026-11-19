@@ -1592,6 +1592,7 @@
     "https://isometricsf.com/",
     "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
     "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+    "https://jack.cab/blog/siterate.html",
     "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback",
     "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
     "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855858",
@@ -1744,6 +1745,7 @@
     "https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has",
     "https://lobste.rs/s/de02yg/sarasa_gothic_mono",
     "https://lobste.rs/s/dfieqa/bringing_uv_ty_together",
+    "https://lobste.rs/s/dgvb5g/what_is_w2rt6byl5nf1opmc_com",
     "https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline",
     "https://lobste.rs/s/dodzdb/highlights_from_i_spent_6_years",
     "https://lobste.rs/s/dpfpr3/goroutine_leak_profiles",
@@ -3093,12 +3095,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "AI & Machine Learning",
-      "title": "looplj/reveric",
-      "url": "https://github.com/looplj/reveric"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Show & Ask HN",
       "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
       "url": "https://news.ycombinator.com/item?id=50497589"
@@ -3150,6 +3146,12 @@
       "subcat": "Web & Frontend",
       "title": "simoarpe/ziggity",
       "url": "https://github.com/simoarpe/ziggity"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "Lobsters Picks",
+      "title": "What is w2rt6byl5nf1opmc-a[.]com?",
+      "url": "https://lobste.rs/s/dgvb5g/what_is_w2rt6byl5nf1opmc_com"
     }
   ]
 }

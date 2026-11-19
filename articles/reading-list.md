@@ -367,6 +367,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/zozcwa/virtualized_redox_from_virtio_fs_cloud
 - **Link:** https://www.redox-os.org/news/virtualized-redox/
 
+**Added 2026-11-20**
+
+### [What is w2rt6byl5nf1opmc-a[.]com?](https://jack.cab/blog/siterate.html)
+- **Source:** jack.cab | **Posted:** 2026-11-16 | **By:** robalex
+- **Community:** 73 score, 13 comments on Lobsters
+- **Tags:** web
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/dgvb5g/what_is_w2rt6byl5nf1opmc_com
+- **Link:** https://jack.cab/blog/siterate.html
+
 
 ## Security
 
