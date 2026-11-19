@@ -287,6 +287,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~33 stars/day since launch.
 - **Link:** https://github.com/mizorewww/gdirect
 
+**Added 2026-11-19**
+
+### [harry0703/MangoDisk](https://github.com/harry0703/MangoDisk)
+- **Stats:** 5,924 stars | 415 forks | 11 open issues
+- **Language:** Rust | **Created:** 2026-08-01 | **License:** GPL-3.0
+- **Topics:** app-uninstaller, cache-cleaner, cross-platform, desktop-app, disk-cleaner, disk-cleanup
+- **What it is:** Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.
+- **Growth:** averaging ~53 stars/day since launch.
+- **Link:** https://github.com/harry0703/MangoDisk
+
 
 ## Web & Frontend
 

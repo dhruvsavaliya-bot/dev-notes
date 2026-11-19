@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2179 entries and counting** · Last updated: 2026-11-19
+**2180 entries and counting** · Last updated: 2026-11-19
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 439 |
+| [Trending Projects](trending-projects/projects.md) | 440 |
 | [AI / LLM Notes](ai/notes.md) | 442 |
 | [Reading List](articles/reading-list.md) | 442 |
 | [Coding Tips](coding-tips/tips.md) | 442 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-19** · *Other Cool Projects* — [harry0703/MangoDisk](https://github.com/harry0703/MangoDisk)
 - **2026-11-19** · *Show & Ask HN* — [Show HN: Type Fighter 2](https://news.ycombinator.com/item?id=50544821)
 - **2026-11-19** · *Other Cool Projects* — [mizorewww/gdirect](https://github.com/mizorewww/gdirect)
 - **2026-11-19** · *Lobsters Picks* — [Virtualized Redox: from Virtio-FS to Cloud...](https://lobste.rs/s/zozcwa/virtualized_redox_from_virtio_fs_cloud)
 - **2026-11-19** · *Models & Datasets* — [google/physical-engineerings-last-exam](https://huggingface.co/datasets/google/physical-engineerings-last-exam)
-- **2026-11-19** · *Show & Ask HN* — [Show HN: DeepSeek V3 in ~200 lines of pure Jax](https://news.ycombinator.com/item?id=50497589)
 
 ## How it works
 

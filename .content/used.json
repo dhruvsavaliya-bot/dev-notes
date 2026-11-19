@@ -1001,6 +1001,7 @@
     "https://github.com/gvzdv/claudish-to-english",
     "https://github.com/harikumar35626-hash/wondshare-recoverit",
     "https://github.com/harris21/laravel-fuse",
+    "https://github.com/harry0703/MangoDisk",
     "https://github.com/hedgerow-dev/coldframe",
     "https://github.com/herdrdev/herdr",
     "https://github.com/heydamir/unslop",
@@ -3088,12 +3089,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Hacker News Picks",
-      "title": "F-22 Next-Generation microData Transfer Cartridge...",
-      "url": "https://news.ycombinator.com/item?id=50547583"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Research Papers",
       "title": "Latent Barrier Steering: Hierarchical Safety for...",
       "url": "http://arxiv.org/abs/2611.13227v1"
@@ -3145,6 +3140,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Type Fighter 2",
       "url": "https://news.ycombinator.com/item?id=50544821"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Other Cool Projects",
+      "title": "harry0703/MangoDisk",
+      "url": "https://github.com/harry0703/MangoDisk"
     }
   ]
 }
