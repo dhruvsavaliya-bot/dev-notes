@@ -1313,6 +1313,7 @@
     "https://goliath32.com/blog/z80.html",
     "https://google.github.io/styleguide/rustguide.html",
     "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
+    "https://gregoire.dev/writing/gus/",
     "https://groups.google.com/g/golang-announce/c/PCoQcdxoScw",
     "https://hackerbooks.org",
     "https://hackertimes.ca/",
@@ -1696,6 +1697,7 @@
     "https://lobste.rs/s/b6oxoj/bastion_turbofish",
     "https://lobste.rs/s/bag41j/hanami_why_introductions",
     "https://lobste.rs/s/bcfzer/hacking_nameof",
+    "https://lobste.rs/s/bhfexs/freebsd_gus",
     "https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical",
     "https://lobste.rs/s/bmmj1e/let_s_build_brain",
     "https://lobste.rs/s/bqllfe/your_cryptography_conspiracy_theory_is",
@@ -3060,12 +3062,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Java",
-      "title": "icysymmetra/tiktok-patches-for-morphe",
-      "url": "https://github.com/icysymmetra/tiktok-patches-for-morphe"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "AI & Machine Learning",
       "title": "expo/exact",
       "url": "https://github.com/expo/exact"
@@ -3117,6 +3113,12 @@
       "subcat": "Models & Datasets",
       "title": "nvidia/Alpamayo2-Edge",
       "url": "https://huggingface.co/nvidia/Alpamayo2-Edge"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Lobsters Picks",
+      "title": "FreeBSD GUS",
+      "url": "https://lobste.rs/s/bhfexs/freebsd_gus"
     }
   ]
 }

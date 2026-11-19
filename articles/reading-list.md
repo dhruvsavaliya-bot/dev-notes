@@ -319,6 +319,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/de02yg/sarasa_gothic_mono
 - **Link:** https://picaq.github.io/sarasa
 
+**Added 2026-11-19**
+
+### [FreeBSD GUS](https://gregoire.dev/writing/gus/)
+- **Source:** gregoire.dev | **Posted:** 2026-11-17 | **By:** rdmsr
+- **Community:** 28 score, 1 comments on Lobsters
+- **Tags:** freebsd, mac
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/bhfexs/freebsd_gus
+- **Link:** https://gregoire.dev/writing/gus/
+
 
 ## Security
 
