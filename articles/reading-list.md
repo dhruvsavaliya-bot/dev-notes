@@ -408,6 +408,14 @@ The week's best dev articles, organized by field.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=50644980
 - **Link:** https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf
+**Added 2026-11-19**
+
+### [Ruby2ßhell: Pre-authentication RCE on stock Rails](https://verialabs.com/ruby2shell/)
+- **Source:** verialabs.com | **Posted:** 2026-11-19 | **By:** jdns
+- **Community:** 117 points, 40 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50556287
+- **Link:** https://verialabs.com/ruby2shell/
 
 
 ## Lobsters Picks

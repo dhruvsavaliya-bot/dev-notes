@@ -2919,6 +2919,7 @@
     "https://news.ycombinator.com/item?id=50548660",
     "https://news.ycombinator.com/item?id=50554935",
     "https://news.ycombinator.com/item?id=50555002",
+    "https://news.ycombinator.com/item?id=50556287",
     "https://news.ycombinator.com/item?id=50559719",
     "https://news.ycombinator.com/item?id=50563148",
     "https://news.ycombinator.com/item?id=50577613",
@@ -3370,12 +3371,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Research Papers",
-      "title": "Say Shibboleth: Fingerprinting the LLMs and Harnesses...",
-      "url": "http://arxiv.org/abs/2611.12386v1"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Show & Ask HN",
       "title": "Show HN: I've updated my Linux System Call website...",
       "url": "https://news.ycombinator.com/item?id=50334704"
@@ -3427,6 +3422,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: A terminal-native idle factory game, written...",
       "url": "https://news.ycombinator.com/item?id=50497132"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Hacker News Picks",
+      "title": "Ruby2hell: Pre-authentication RCE on stock Rails",
+      "url": "https://news.ycombinator.com/item?id=50556287"
     }
   ]
 }

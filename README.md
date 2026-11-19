@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2381 entries and counting** · Last updated: 2026-11-26
+**2382 entries and counting** · Last updated: 2026-11-26
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 485 |
 | [AI / LLM Notes](ai/notes.md) | 476 |
-| [Reading List](articles/reading-list.md) | 483 |
+| [Reading List](articles/reading-list.md) | 484 |
 | [Coding Tips](coding-tips/tips.md) | 484 |
 | [Language Notes](languages/notes.md) | 453 |
 
 ## Latest additions
 
+- **2026-11-19** · *Hacker News Picks* — [Ruby2hell: Pre-authentication RCE on stock Rails](https://news.ycombinator.com/item?id=50556287)
 - **2026-11-19** · *Show & Ask HN* — [Show HN: A terminal-native idle factory game, written...](https://news.ycombinator.com/item?id=50497132)
 - **2026-11-19** · *Models & Datasets* — [moonshotai/Kimi-K2.7-Code](https://huggingface.co/moonshotai/Kimi-K2.7-Code)
 - **2026-11-19** · *Rust* — [How Rust Changed Me As A Developer](https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer)
 - **2026-11-19** · *Research Papers* — [Latent Barrier Steering: Hierarchical Safety for...](http://arxiv.org/abs/2611.13227v1)
-- **2026-11-19** · *Hacker News Picks* — [F-22 Next-Generation microData Transfer Cartridge...](https://news.ycombinator.com/item?id=50547583)
 
 ## How it works
 
