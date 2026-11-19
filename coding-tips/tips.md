@@ -363,3 +363,14 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Tags:** community, beginners, writing, discuss
 - **Summary:** ⚡ In a hurry? Skip straight to the rules ⚡           Don't Make the Same Mistake I Did   I have...
 - **Link:** https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2
+
+## Clean Code & Best Practices
+
+**Added 2026-11-19**
+
+### [How to Structure a .NET Solution That Actually Scales: Clean Architecture Guide](https://dev.to/mashrulhaque/how-to-design-a-maintainable-net-solution-structure-for-growing-teams-284n)
+- **Author:** Mashrul Haque | **Published:** Dec 1 '25 | **Read time:** 9 min
+- **Community:** 51 reactions, 12 comments -- a top post in #cleancode
+- **Tags:** dotnet, csharp, architecture, cleancode
+- **Summary:** A practical guide to Clean Architecture folder structure, project organization, and dependency...
+- **Link:** https://dev.to/mashrulhaque/how-to-design-a-maintainable-net-solution-structure-for-growing-teams-284n

@@ -474,6 +474,7 @@
     "https://dev.to/maame-codes/localhost-is-a-lie-everything-uni-missed-about-real-world-tech-66n",
     "https://dev.to/malusev998/why-i-built-an-ssh-config-and-tunnel-manager-for-macos-58n8",
     "https://dev.to/mashraf_aiman/how-to-make-link-to-saas-launch-video-system-5a8k",
+    "https://dev.to/mashrulhaque/how-to-design-a-maintainable-net-solution-structure-for-growing-teams-284n",
     "https://dev.to/matheusdsilva01/5-licoes-de-seguranca-que-aprendi-estudando-um-host-temporario-de-arquivos-5fab",
     "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
     "https://dev.to/metal3d/git-worktree-like-a-boss-2j1b",
@@ -3057,12 +3058,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "AI & Machine Learning",
-      "title": "Alejandros17487/ai-jailbreaks",
-      "url": "https://github.com/Alejandros17487/ai-jailbreaks"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Backend",
       "title": "Microservices Are Killing Your Performance (And...",
       "url": "https://dev.to/polliog/microservices-are-killing-your-performance-and-heres-the-math-21op"
@@ -3114,6 +3109,12 @@
       "subcat": "Lobsters Picks",
       "title": "Sarasa Gothic Mono",
       "url": "https://lobste.rs/s/de02yg/sarasa_gothic_mono"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Clean Code & Best Practices",
+      "title": "How to Structure a .NET Solution That Actually...",
+      "url": "https://dev.to/mashrulhaque/how-to-design-a-maintainable-net-solution-structure-for-growing-teams-284n"
     }
   ]
 }
