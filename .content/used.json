@@ -133,6 +133,7 @@
     "http://arxiv.org/abs/2611.12386v1",
     "http://arxiv.org/abs/2611.12575v1",
     "http://arxiv.org/abs/2611.12591v1",
+    "http://arxiv.org/abs/2611.13227v1",
     "http://arxiv.org/abs/2611.13942v1",
     "http://arxiv.org/abs/2611.14013v1",
     "http://arxiv.org/abs/2611.14247v1",
@@ -3075,12 +3076,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Models & Datasets",
-      "title": "nvidia/Alpamayo2-Edge",
-      "url": "https://huggingface.co/nvidia/Alpamayo2-Edge"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Lobsters Picks",
       "title": "FreeBSD GUS",
       "url": "https://lobste.rs/s/bhfexs/freebsd_gus"
@@ -3132,6 +3127,12 @@
       "subcat": "Hacker News Picks",
       "title": "F-22 Next-Generation microData Transfer Cartridge...",
       "url": "https://news.ycombinator.com/item?id=50547583"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Research Papers",
+      "title": "Latent Barrier Steering: Hierarchical Safety for...",
+      "url": "http://arxiv.org/abs/2611.13227v1"
     }
   ]
 }

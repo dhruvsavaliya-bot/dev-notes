@@ -204,6 +204,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.13942v1
 
+**Added 2026-11-19**
+
+### [Latent Barrier Steering: Hierarchical Safety for Generative Planning](http://arxiv.org/abs/2611.13227v1)
+- **Authors:** Renhao Zhang, Mingzhe Li, Bruno Castro da Silva
+- **Published:** 2026-11-09 | **Primary category:** cs.CR
+- **Categories:** cs.RO, cs.CR
+- **Abstract:** We introduce Latent Barrier Steering (LBS), a hierarchical semantic-to-path framework for safe flow-matching-based generative planning. Existing control-barrier-function (CBF) safety filters for diffusion and flow-matching planners act locally on generated samples, either during sampling or after prediction. Such repair is effective for small violations, but can struggle when a new constraint blocks the whole selected behavior mode rather than merely perturbing it locally. LBS decouples behavior...
+- **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.13227v1
+
 
 ## Models & Datasets
 
