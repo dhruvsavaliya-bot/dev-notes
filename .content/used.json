@@ -2582,6 +2582,7 @@
     "https://news.ycombinator.com/item?id=50330939",
     "https://news.ycombinator.com/item?id=50333339",
     "https://news.ycombinator.com/item?id=50333877",
+    "https://news.ycombinator.com/item?id=50334704",
     "https://news.ycombinator.com/item?id=50337608",
     "https://news.ycombinator.com/item?id=50338728",
     "https://news.ycombinator.com/item?id=50338747",
@@ -2830,6 +2831,7 @@
     "https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en",
     "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
     "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+    "https://syscall.sh/",
     "https://t3x.org/files/floodfill.pdf",
     "https://tailscale.com/ssh-investigation-update",
     "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
@@ -3066,12 +3068,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "AI & Machine Learning",
-      "title": "valqore/valqore",
-      "url": "https://github.com/valqore/valqore"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Models & Datasets",
       "title": "IFM/PAN2",
       "url": "https://huggingface.co/IFM/PAN2"
@@ -3123,6 +3119,12 @@
       "subcat": "Research Papers",
       "title": "Say Shibboleth: Fingerprinting the LLMs and Harnesses...",
       "url": "http://arxiv.org/abs/2611.12386v1"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: I've updated my Linux System Call website...",
+      "url": "https://news.ycombinator.com/item?id=50334704"
     }
   ]
 }

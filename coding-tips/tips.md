@@ -300,6 +300,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50441518
 - **Link:** https://tinyvalencia.com/
 
+**Added 2026-11-19**
+
+### [Show HN: I've updated my Linux System Call website and API](https://syscall.sh/)
+- **Source:** syscall.sh | **Posted:** 2026-11-02 | **By:** guitmz
+- **Community:** 238 points, 59 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50334704
+- **Link:** https://syscall.sh/
+
 
 ## Productivity
 
