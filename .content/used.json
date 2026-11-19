@@ -1089,6 +1089,7 @@
     "https://github.com/midesoft/rankGap",
     "https://github.com/mihirgupta0900/tv-home",
     "https://github.com/mikroverk/esp32sim",
+    "https://github.com/mizorewww/gdirect",
     "https://github.com/mizorewww/laya-mlx",
     "https://github.com/mizorewww/x_gift_bot",
     "https://github.com/mlc-ai/web-llm",
@@ -3085,12 +3086,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Research Papers",
-      "title": "Data4Cyber: Labeled Cyber-Physical Datasets for...",
-      "url": "http://arxiv.org/abs/2611.13942v1"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Isometric SF  A pixel-art map of the SF Bay...",
       "url": "https://news.ycombinator.com/item?id=50487228"
@@ -3142,6 +3137,12 @@
       "subcat": "Lobsters Picks",
       "title": "Virtualized Redox: from Virtio-FS to Cloud...",
       "url": "https://lobste.rs/s/zozcwa/virtualized_redox_from_virtio_fs_cloud"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Other Cool Projects",
+      "title": "mizorewww/gdirect",
+      "url": "https://github.com/mizorewww/gdirect"
     }
   ]
 }

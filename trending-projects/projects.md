@@ -277,6 +277,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~99 stars/day since launch.
 - **Link:** https://github.com/UniXNU/UniXNU
 
+**Added 2026-11-19**
+
+### [mizorewww/gdirect](https://github.com/mizorewww/gdirect)
+- **Stats:** 826 stars | 63 forks | 1 open issues
+- **Language:** Rust | **Created:** 2026-10-25 | **License:** GPL-2.0
+- **Topics:** none listed
+- **What it is:** Rust Google Drive direct downloader using pinned libaria2
+- **Growth:** averaging ~33 stars/day since launch.
+- **Link:** https://github.com/mizorewww/gdirect
+
 
 ## Web & Frontend
 
