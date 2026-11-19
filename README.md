@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2187 entries and counting** · Last updated: 2026-11-20
+**2188 entries and counting** · Last updated: 2026-11-20
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 441 |
+| [Trending Projects](trending-projects/projects.md) | 442 |
 | [AI / LLM Notes](ai/notes.md) | 444 |
 | [Reading List](articles/reading-list.md) | 443 |
 | [Coding Tips](coding-tips/tips.md) | 443 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-20** · *AI & Machine Learning* — [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos)
 - **2026-11-20** · *Go* — [Christ9038/Ydisks-Xianyu-Helper](https://github.com/Christ9038/Ydisks-Xianyu-Helper)
 - **2026-11-20** · *Models & Datasets* — [harness-hub/Qwen3.8-27B-opencode-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-opencode-adapted)
 - **2026-11-20** · *Lobsters Picks* — [15 million web servers on one VM - smoltcp, DPDK...](https://lobste.rs/s/elmy67/15_million_web_servers_on_one_vm_smoltcp)
 - **2026-11-20** · *Lobsters Picks* — [What is w2rt6byl5nf1opmc-a[.]com?](https://lobste.rs/s/dgvb5g/what_is_w2rt6byl5nf1opmc_com)
-- **2026-11-20** · *Web & Frontend* — [simoarpe/ziggity](https://github.com/simoarpe/ziggity)
 
 ## How it works
 

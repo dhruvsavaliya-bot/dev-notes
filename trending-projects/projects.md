@@ -194,6 +194,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~32 stars/day since launch.
 - **Link:** https://github.com/looplj/reveric
 
+**Added 2026-11-20**
+
+### [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos)
+- **Stats:** 15,933 stars | 1,697 forks | 14 open issues
+- **Language:** N/A | **Created:** 2026-09-27 | **License:** MIT
+- **Topics:** ai-video, awesome, awesome-list, claude, claude-opus, creative-coding
+- **What it is:** A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.
+- **Growth:** averaging ~295 stars/day since launch.
+- **Link:** https://github.com/yihui-dev/awesome-opus5-5-videos
+
 
 ## Other Cool Projects
 

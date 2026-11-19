@@ -1299,6 +1299,7 @@
     "https://github.com/yetone/cumora",
     "https://github.com/yetone/magpie",
     "https://github.com/yi1108/printfilm",
+    "https://github.com/yihui-dev/awesome-opus5-5-videos",
     "https://github.com/yjh051108/dsh-routing-suite",
     "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
     "https://github.com/yynxxxxx/Codex-X",
@@ -3099,12 +3100,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Other Cool Projects",
-      "title": "mizorewww/gdirect",
-      "url": "https://github.com/mizorewww/gdirect"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Type Fighter 2",
       "url": "https://news.ycombinator.com/item?id=50544821"
@@ -3156,6 +3151,12 @@
       "subcat": "Go",
       "title": "Christ9038/Ydisks-Xianyu-Helper",
       "url": "https://github.com/Christ9038/Ydisks-Xianyu-Helper"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "AI & Machine Learning",
+      "title": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos"
     }
   ]
 }
