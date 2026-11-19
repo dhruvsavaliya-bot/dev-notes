@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2380 entries and counting** · Last updated: 2026-11-26
+**2381 entries and counting** · Last updated: 2026-11-26
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 485 |
 | [AI / LLM Notes](ai/notes.md) | 476 |
 | [Reading List](articles/reading-list.md) | 483 |
-| [Coding Tips](coding-tips/tips.md) | 483 |
+| [Coding Tips](coding-tips/tips.md) | 484 |
 | [Language Notes](languages/notes.md) | 453 |
 
 ## Latest additions
 
-- **2026-11-26** · *AI & Machine Learning* — [achimala/dream-loop](https://github.com/achimala/dream-loop)
-- **2026-11-26** · *Hacker News Picks* — [The polynomial Hirsch conjecture is false [pdf]](https://news.ycombinator.com/item?id=50644980)
-- **2026-11-26** · *Show & Ask HN* — [Ask HN: Are the trades a safe career transition?](https://news.ycombinator.com/item?id=50600771)
-- **2026-11-26** · *Research Papers* — [LimoBench: How Street Smart Are Large Language Models?](http://arxiv.org/abs/2611.31682v1)
-- **2026-11-26** · *Rust* — [Restaurant Delivery Payment-Skimming Campaign](https://news.ycombinator.com/item?id=50397017)
+- **2026-11-19** · *Show & Ask HN* — [Show HN: A terminal-native idle factory game, written...](https://news.ycombinator.com/item?id=50497132)
+- **2026-11-19** · *Models & Datasets* — [moonshotai/Kimi-K2.7-Code](https://huggingface.co/moonshotai/Kimi-K2.7-Code)
+- **2026-11-19** · *Rust* — [How Rust Changed Me As A Developer](https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer)
+- **2026-11-19** · *Research Papers* — [Latent Barrier Steering: Hierarchical Safety for...](http://arxiv.org/abs/2611.13227v1)
+- **2026-11-19** · *Hacker News Picks* — [F-22 Next-Generation microData Transfer Cartridge...](https://news.ycombinator.com/item?id=50547583)
 
 ## How it works
 

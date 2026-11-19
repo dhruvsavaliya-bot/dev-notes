@@ -3369,64 +3369,64 @@
   ],
   "recent": [
     {
-      "date": "2026-11-26",
-      "subcat": "Web & Frontend",
-      "title": "driceroland/Search",
-      "url": "https://github.com/driceroland/Search"
-    },
-    {
-      "date": "2026-11-26",
+      "date": "2026-11-19",
       "subcat": "Research Papers",
-      "title": "Reproducible LoRA Inference Through Deterministic...",
-      "url": "http://arxiv.org/abs/2611.10334v1"
+      "title": "Say Shibboleth: Fingerprinting the LLMs and Harnesses...",
+      "url": "http://arxiv.org/abs/2611.12386v1"
     },
     {
-      "date": "2026-11-26",
-      "subcat": "Hacker News Picks",
-      "title": "Tell HN: Lots of Ask HNs again",
-      "url": "https://news.ycombinator.com/item?id=50649864"
-    },
-    {
-      "date": "2026-11-26",
-      "subcat": "Lobsters Picks",
-      "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
-      "url": "https://lobste.rs/s/srb0dp/marginalia_search_money_c_rust_ai_stuff"
-    },
-    {
-      "date": "2026-11-26",
-      "subcat": "Other Cool Projects",
-      "title": "LoreanXavier/pt-pc",
-      "url": "https://github.com/LoreanXavier/pt-pc"
-    },
-    {
-      "date": "2026-11-26",
-      "subcat": "Rust",
-      "title": "Restaurant Delivery Payment-Skimming Campaign",
-      "url": "https://news.ycombinator.com/item?id=50397017"
-    },
-    {
-      "date": "2026-11-26",
-      "subcat": "Research Papers",
-      "title": "LimoBench: How Street Smart Are Large Language Models?",
-      "url": "http://arxiv.org/abs/2611.31682v1"
-    },
-    {
-      "date": "2026-11-26",
+      "date": "2026-11-19",
       "subcat": "Show & Ask HN",
-      "title": "Ask HN: Are the trades a safe career transition?",
-      "url": "https://news.ycombinator.com/item?id=50600771"
+      "title": "Show HN: I've updated my Linux System Call website...",
+      "url": "https://news.ycombinator.com/item?id=50334704"
     },
     {
-      "date": "2026-11-26",
+      "date": "2026-11-19",
       "subcat": "Hacker News Picks",
-      "title": "The polynomial Hirsch conjecture is false [pdf]",
-      "url": "https://news.ycombinator.com/item?id=50644980"
+      "title": "Unreal Tournament 2004 in the Browser",
+      "url": "https://news.ycombinator.com/item?id=50554935"
     },
     {
-      "date": "2026-11-26",
-      "subcat": "AI & Machine Learning",
-      "title": "achimala/dream-loop",
-      "url": "https://github.com/achimala/dream-loop"
+      "date": "2026-11-19",
+      "subcat": "Research Papers",
+      "title": "Data4Cyber: Labeled Cyber-Physical Datasets for...",
+      "url": "http://arxiv.org/abs/2611.13942v1"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Isometric SF  A pixel-art map of the SF Bay...",
+      "url": "https://news.ycombinator.com/item?id=50487228"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Hacker News Picks",
+      "title": "F-22 Next-Generation microData Transfer Cartridge...",
+      "url": "https://news.ycombinator.com/item?id=50547583"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Research Papers",
+      "title": "Latent Barrier Steering: Hierarchical Safety for...",
+      "url": "http://arxiv.org/abs/2611.13227v1"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Rust",
+      "title": "How Rust Changed Me As A Developer",
+      "url": "https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Models & Datasets",
+      "title": "moonshotai/Kimi-K2.7-Code",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: A terminal-native idle factory game, written...",
+      "url": "https://news.ycombinator.com/item?id=50497132"
     }
   ]
 }

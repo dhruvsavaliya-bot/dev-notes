@@ -559,6 +559,9 @@ High-quality dev tutorials and guides, organized by level and topic.
 ### [Show HN: A terminal-native idle factory game, written in Rust with ratatui](https://gitlab.com/snipedbywifi/terminactory)
 - **Source:** gitlab.com | **Posted:** 2026-11-14 | **By:** snipedbywifi
 - **Community:** 174 points, 44 comments on Hacker News
+### [Show HN: A terminal-native idle factory game, written in Rust with ratatui](https://gitlab.com/snipedbywifi/terminactory)
+- **Source:** gitlab.com | **Posted:** 2026-11-14 | **By:** snipedbywifi
+- **Community:** 173 points, 44 comments on Hacker News
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=50497132
 - **Link:** https://gitlab.com/snipedbywifi/terminactory
