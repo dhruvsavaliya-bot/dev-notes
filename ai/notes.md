@@ -184,6 +184,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.04561v1
 
+**Added 2026-11-19**
+
+### [Say Shibboleth: Fingerprinting the LLMs and Harnesses Behind Agentic Attacks](http://arxiv.org/abs/2611.12386v1)
+- **Authors:** Dario Pasquini,  Reworr, Giuseppe Ateniese, Manish Bhatt et al.
+- **Published:** 2026-11-09 | **Primary category:** cs.CR
+- **Categories:** cs.CR, cs.AI
+- **Abstract:** We study the fingerprinting of agentic cyberattacks. Our objective is to reliably infer information about the attacker's configuration, such as LLM version and harness, from telemetry. To achieve this, we introduce a technique we call shibboleth traps: modular honeypot services designed to elicit discriminative behaviors from agentic attackers. The traps make informative interactions a condition for obtaining resources the agent seeks, eliciting model declarations and characteristic writing with...
+- **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.12386v1
+
 
 ## Models & Datasets
 

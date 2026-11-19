@@ -130,6 +130,7 @@
     "http://arxiv.org/abs/2611.09868v1",
     "http://arxiv.org/abs/2611.10035v2",
     "http://arxiv.org/abs/2611.10063v1",
+    "http://arxiv.org/abs/2611.12386v1",
     "http://arxiv.org/abs/2611.12575v1",
     "http://arxiv.org/abs/2611.12591v1",
     "http://arxiv.org/abs/2611.14013v1",
@@ -3065,12 +3066,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "JavaScript",
-      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work...",
-      "url": "https://news.ycombinator.com/item?id=50532385"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "AI & Machine Learning",
       "title": "valqore/valqore",
       "url": "https://github.com/valqore/valqore"
@@ -3122,6 +3117,12 @@
       "subcat": "Lobsters Picks",
       "title": "Actual curl rewrites in rust",
       "url": "https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Research Papers",
+      "title": "Say Shibboleth: Fingerprinting the LLMs and Harnesses...",
+      "url": "http://arxiv.org/abs/2611.12386v1"
     }
   ]
 }
