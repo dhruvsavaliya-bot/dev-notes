@@ -276,6 +276,7 @@
     "https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/",
     "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
     "https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5",
+    "https://blog.startifact.com/posts/how-rust-changed-me/",
     "https://blog.webb.page/WM-105",
     "https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state",
     "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
@@ -1873,6 +1874,7 @@
     "https://lobste.rs/s/rucvky/go_concurrency_distilled",
     "https://lobste.rs/s/rwdufq/anti_patterns_software_blogging",
     "https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on",
+    "https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer",
     "https://lobste.rs/s/se6wbx/how_fast_is_python_3_15",
     "https://lobste.rs/s/sfdf3h/platform_independent_simd_go",
     "https://lobste.rs/s/siebde/my_favourite_powermac_is_nintendo_wii",
@@ -3076,12 +3078,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Lobsters Picks",
-      "title": "FreeBSD GUS",
-      "url": "https://lobste.rs/s/bhfexs/freebsd_gus"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Web & Frontend",
       "title": "bjarneo/ku",
       "url": "https://github.com/bjarneo/ku"
@@ -3133,6 +3129,12 @@
       "subcat": "Research Papers",
       "title": "Latent Barrier Steering: Hierarchical Safety for...",
       "url": "http://arxiv.org/abs/2611.13227v1"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Rust",
+      "title": "How Rust Changed Me As A Developer",
+      "url": "https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer"
     }
   ]
 }

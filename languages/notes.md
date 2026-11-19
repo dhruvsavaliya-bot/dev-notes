@@ -73,6 +73,16 @@ Top community posts, organized by programming language.
 - **Discussion:** https://news.ycombinator.com/item?id=50285154
 - **Link:** https://borretti.me/article/we-wont-just-hang-out
 
+**Added 2026-11-19**
+
+### [How Rust Changed Me As A Developer](https://blog.startifact.com/posts/how-rust-changed-me/)
+- **Source:** blog.startifact.com | **Posted:** 2026-11-16 | **By:** faassen
+- **Community:** 42 score, 21 comments on Lobsters
+- **Tags:** performance, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer
+- **Link:** https://blog.startifact.com/posts/how-rust-changed-me/
+
 
 ## Go
 
