@@ -678,6 +678,7 @@
     "https://github.com/BytePioneer-AI/codex-host",
     "https://github.com/CAPCOM-TD-OSS/REDox",
     "https://github.com/Chlience/yt-dlp-tauri",
+    "https://github.com/Christ9038/Ydisks-Xianyu-Helper",
     "https://github.com/CircuitLord/CircuitLordVRModInstaller",
     "https://github.com/CluvexStudio/Aether",
     "https://github.com/Contrastive-LM/CLM",
@@ -3098,12 +3099,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Lobsters Picks",
-      "title": "Virtualized Redox: from Virtio-FS to Cloud...",
-      "url": "https://lobste.rs/s/zozcwa/virtualized_redox_from_virtio_fs_cloud"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Other Cool Projects",
       "title": "mizorewww/gdirect",
       "url": "https://github.com/mizorewww/gdirect"
@@ -3155,6 +3150,12 @@
       "subcat": "Models & Datasets",
       "title": "harness-hub/Qwen3.8-27B-opencode-adapted",
       "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-opencode-adapted"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "Go",
+      "title": "Christ9038/Ydisks-Xianyu-Helper",
+      "url": "https://github.com/Christ9038/Ydisks-Xianyu-Helper"
     }
   ]
 }

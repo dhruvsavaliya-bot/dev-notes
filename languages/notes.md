@@ -106,6 +106,17 @@ Top community posts, organized by programming language.
 - **Discussion:** https://lobste.rs/s/idktfu/go_turns_17
 - **Link:** https://go.dev/blog/17years
 
+**Added 2026-11-20**
+
+### [Christ9038/Ydisks-Xianyu-Helper](https://github.com/Christ9038/Ydisks-Xianyu-Helper)
+- **Stats:** 2,477 stars | 659 forks | 22 open issues
+- **Language:** Go | **Created:** 2026-07-10 | **License:** Apache-2.0
+- **Topics:** xianyu, xianyu-assistant, xianyu-auto-reply, xianyu-bot, xianyu-tool
+- **What it is:** 闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建
+- **Growth:** averaging ~18 stars/day since launch.
+- **Link:** https://github.com/Christ9038/Ydisks-Xianyu-Helper
+
+
 ## PHP
 
 **Added 2026-11-17**
