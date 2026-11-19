@@ -275,6 +275,7 @@
     "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
     "https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/",
     "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+    "https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/",
     "https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5",
     "https://blog.startifact.com/posts/how-rust-changed-me/",
     "https://blog.webb.page/WM-105",
@@ -1689,6 +1690,7 @@
     "https://lobste.rs/s/7xg9rm/introducing_firefox_enterprise",
     "https://lobste.rs/s/81hnjw/announcing_rust_1_100_0",
     "https://lobste.rs/s/8csfoa/two_tiny_utils_for_result_pattern",
+    "https://lobste.rs/s/8eivbk/enabling_parallel_frontend_on_nightly",
     "https://lobste.rs/s/8ejwsp/beginning_ende_community_deno_fork",
     "https://lobste.rs/s/8kdcdd/let_s_write_postscript_interpreter",
     "https://lobste.rs/s/8rkyrl/objects_attributes_maps_oh_my",
@@ -3090,12 +3092,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Rust",
-      "title": "How Rust Changed Me As A Developer",
-      "url": "https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Models & Datasets",
       "title": "moonshotai/Kimi-K2.7-Code",
       "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code"
@@ -3147,6 +3143,12 @@
       "subcat": "Models & Datasets",
       "title": "ccore/Qwen3.5-4B-3D-Coder",
       "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "Rust",
+      "title": "Enabling the parallel frontend on nightly",
+      "url": "https://lobste.rs/s/8eivbk/enabling_parallel_frontend_on_nightly"
     }
   ]
 }

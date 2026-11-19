@@ -83,6 +83,16 @@ Top community posts, organized by programming language.
 - **Discussion:** https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer
 - **Link:** https://blog.startifact.com/posts/how-rust-changed-me/
 
+**Added 2026-11-20**
+
+### [Enabling the parallel frontend on nightly](https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/)
+- **Source:** blog.rust-lang.org | **Posted:** 2026-11-16 | **By:** fanf
+- **Community:** 43 score, 0 comments on Lobsters
+- **Tags:** rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/8eivbk/enabling_parallel_frontend_on_nightly
+- **Link:** https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/
+
 
 ## Go
 
