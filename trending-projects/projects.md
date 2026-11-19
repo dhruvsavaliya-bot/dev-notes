@@ -360,6 +360,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~3 stars/day since launch.
 - **Link:** https://github.com/bjarneo/ku
 
+**Added 2026-11-20**
+
+### [simoarpe/ziggity](https://github.com/simoarpe/ziggity)
+- **Stats:** 479 stars | 21 forks | 9 open issues
+- **Language:** Zig | **Created:** 2026-06-05 | **License:** MIT
+- **Topics:** cli, git, terminal, tui, zig
+- **What it is:** ⚡️  Ziggity an ultra fast, keyboard driven terminal UI for Git, written in Zig.
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/simoarpe/ziggity
+
 
 ## Developer Tools
 
