@@ -352,6 +352,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/nvidia/Alpamayo2-Edge
 
+**Added 2026-11-19**
+
+### [moonshotai/Kimi-K2.7-Code](https://huggingface.co/moonshotai/Kimi-K2.7-Code)
+- **Stats:** 1,431 likes | 321,934 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-06-11
+- **Tags:** transformers, safetensors, kimi_k25, feature-extraction, compressed-tensors, image-text-to-text
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/moonshotai/Kimi-K2.7-Code
+
 
 ## LLMs
 
