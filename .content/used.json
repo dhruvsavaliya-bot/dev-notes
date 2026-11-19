@@ -902,6 +902,7 @@
     "https://github.com/bikini/exploitarium",
     "https://github.com/bizspring-open/BizSpring-Java-Mall",
     "https://github.com/bjarneo/flux",
+    "https://github.com/bjarneo/ku",
     "https://github.com/bojieli/ai-infra-book",
     "https://github.com/boykopovar/AnyPS5",
     "https://github.com/bozhouDev/codex-orange-book",
@@ -3062,12 +3063,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "AI & Machine Learning",
-      "title": "expo/exact",
-      "url": "https://github.com/expo/exact"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "JavaScript",
       "title": "Solid 2.0",
       "url": "https://lobste.rs/s/dpvrbv/solid_2_0"
@@ -3119,6 +3114,12 @@
       "subcat": "Lobsters Picks",
       "title": "FreeBSD GUS",
       "url": "https://lobste.rs/s/bhfexs/freebsd_gus"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Web & Frontend",
+      "title": "bjarneo/ku",
+      "url": "https://github.com/bjarneo/ku"
     }
   ]
 }

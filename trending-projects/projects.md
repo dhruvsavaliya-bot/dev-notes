@@ -320,6 +320,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~611 stars/day since launch.
 - **Link:** https://github.com/anefzaoui/misterdownloadmanager
 
+**Added 2026-11-19**
+
+### [bjarneo/ku](https://github.com/bjarneo/ku)
+- **Stats:** 571 stars | 24 forks | 4 open issues
+- **Language:** Go | **Created:** 2026-06-13 | **License:** MIT
+- **Topics:** bubbletea, charmlibs, cli, client-go, devops, go
+- **What it is:** A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.
+- **Growth:** averaging ~3 stars/day since launch.
+- **Link:** https://github.com/bjarneo/ku
+
 
 ## Developer Tools
 
