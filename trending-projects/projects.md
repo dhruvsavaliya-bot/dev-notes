@@ -164,6 +164,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~275 stars/day since launch.
 - **Link:** https://github.com/expo/exact
 
+**Added 2026-11-19**
+
+### [valqore/valqore](https://github.com/valqore/valqore)
+- **Stats:** 1,822 stars | 62 forks | 0 open issues
+- **Language:** Python | **Created:** 2026-03-04 | **License:** NOASSERTION
+- **Topics:** ai-safety, cloud-governance, devops, finops, greenops, kubernetes
+- **What it is:** Safety-first guardrails for AI-driven cloud and Kubernetes operations
+- **Growth:** averaging ~7 stars/day since launch.
+- **Link:** https://github.com/valqore/valqore
+
 
 ## Other Cool Projects
 

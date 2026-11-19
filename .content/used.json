@@ -1237,6 +1237,7 @@
     "https://github.com/useopendesk/opendesk",
     "https://github.com/usewhale/Whale",
     "https://github.com/v-modal/vmodal_sdk_swift_iphoneduo",
+    "https://github.com/valqore/valqore",
     "https://github.com/vasu-devs/JustHireMe",
     "https://github.com/vercel-labs/fx",
     "https://github.com/vercel-labs/json-render",
@@ -3053,12 +3054,6 @@
   "recent": [
     {
       "date": "2026-11-18",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: DBDelve  Open-Source DB Client Made with...",
-      "url": "https://news.ycombinator.com/item?id=50427934"
-    },
-    {
-      "date": "2026-11-18",
       "subcat": "AI & Machine Learning",
       "title": "wainmann/agent-manager",
       "url": "https://github.com/wainmann/agent-manager"
@@ -3110,6 +3105,12 @@
       "subcat": "JavaScript",
       "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work...",
       "url": "https://news.ycombinator.com/item?id=50532385"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "AI & Machine Learning",
+      "title": "valqore/valqore",
+      "url": "https://github.com/valqore/valqore"
     }
   ]
 }
