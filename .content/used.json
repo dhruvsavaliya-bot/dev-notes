@@ -1070,6 +1070,7 @@
     "https://github.com/ling-stack-org/ling-stack",
     "https://github.com/lingyired/status-trio",
     "https://github.com/lnkiai/m3e-canvas",
+    "https://github.com/looplj/reveric",
     "https://github.com/loopx-project/loopx",
     "https://github.com/lopopolo/harness-engineering",
     "https://github.com/lukks/like-webrtc",
@@ -3079,12 +3080,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Lobsters Picks",
-      "title": "Actual curl rewrites in rust",
-      "url": "https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Research Papers",
       "title": "Say Shibboleth: Fingerprinting the LLMs and Harnesses...",
       "url": "http://arxiv.org/abs/2611.12386v1"
@@ -3136,6 +3131,12 @@
       "subcat": "Models & Datasets",
       "title": "moonshotai/Kimi-K2.7-Code",
       "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "AI & Machine Learning",
+      "title": "looplj/reveric",
+      "url": "https://github.com/looplj/reveric"
     }
   ]
 }

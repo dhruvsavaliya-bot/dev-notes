@@ -184,6 +184,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~3 stars/day since launch.
 - **Link:** https://github.com/Intrect-io/OpenSwarm
 
+**Added 2026-11-19**
+
+### [looplj/reveric](https://github.com/looplj/reveric)
+- **Stats:** 904 stars | 221 forks | 5 open issues
+- **Language:** Dart | **Created:** 2026-10-22 | **License:** AGPL-3.0
+- **Topics:** agent, infinite-canvas, minimax-h3, novel, novel-writing, seedance
+- **What it is:** Agent Native 一站式 AI 小说，短剧桌面创作工作台
+- **Growth:** averaging ~32 stars/day since launch.
+- **Link:** https://github.com/looplj/reveric
+
 
 ## Other Cool Projects
 
