@@ -327,6 +327,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50497589
 - **Link:** https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax
 
+**Added 2026-11-19**
+
+### [Show HN: Type Fighter 2](https://typefighter2.com/)
+- **Source:** typefighter2.com | **Posted:** 2026-11-18 | **By:** torumitch
+- **Community:** 135 points, 59 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50544821
+- **Link:** https://typefighter2.com/
+
 
 ## Productivity
 
