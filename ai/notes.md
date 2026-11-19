@@ -361,6 +361,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/moonshotai/Kimi-K2.7-Code
 
+**Added 2026-11-19**
+
+### [google/physical-engineerings-last-exam](https://huggingface.co/datasets/google/physical-engineerings-last-exam)
+- **Stats:** 113 likes | 135,875 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-10-18
+- **Tags:** benchmark, agents, engineering, electrical-engineering, civil-engineering, structural-engineering
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/google/physical-engineerings-last-exam
+
 
 ## LLMs
 

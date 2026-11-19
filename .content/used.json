@@ -1466,6 +1466,7 @@
     "https://huggingface.co/datasets/genrobot2025/Gen-HumanEgo",
     "https://huggingface.co/datasets/glaiveai/glaive-function-calling-v2",
     "https://huggingface.co/datasets/google-research-datasets/mbpp",
+    "https://huggingface.co/datasets/google/physical-engineerings-last-exam",
     "https://huggingface.co/datasets/harborframework/terminal-bench-2.0",
     "https://huggingface.co/datasets/hongzhuyi/VDEBench",
     "https://huggingface.co/datasets/huggingface/badges",
@@ -3082,12 +3083,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: I've updated my Linux System Call website...",
-      "url": "https://news.ycombinator.com/item?id=50334704"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Hacker News Picks",
       "title": "Unreal Tournament 2004 in the Browser",
       "url": "https://news.ycombinator.com/item?id=50554935"
@@ -3139,6 +3134,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
       "url": "https://news.ycombinator.com/item?id=50497589"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Models & Datasets",
+      "title": "google/physical-engineerings-last-exam",
+      "url": "https://huggingface.co/datasets/google/physical-engineerings-last-exam"
     }
   ]
 }
