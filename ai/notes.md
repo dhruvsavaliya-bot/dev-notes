@@ -682,6 +682,12 @@ The best recent AI engineering content, organized by area.
 - **Tags:** none listed
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/espnet/yodas3.1
+### [DavidAU/LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF](https://huggingface.co/DavidAU/LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF)
+- **Stats:** 63 likes | 1,166,539 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-10-13
+- **Tags:** gguf, liquid, lfm2.5, edge, moe, 27 reasoning modes
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/DavidAU/LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF
 
 
 ## LLMs

@@ -1485,6 +1485,7 @@
     "https://huggingface.co/Comfy-Org/MiniMax-H3",
     "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged",
     "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
+    "https://huggingface.co/DavidAU/LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF",
     "https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
     "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
     "https://huggingface.co/DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF",
@@ -3371,12 +3372,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: I've updated my Linux System Call website...",
-      "url": "https://news.ycombinator.com/item?id=50334704"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Hacker News Picks",
       "title": "Unreal Tournament 2004 in the Browser",
       "url": "https://news.ycombinator.com/item?id=50554935"
@@ -3428,6 +3423,12 @@
       "subcat": "Hacker News Picks",
       "title": "Ruby2hell: Pre-authentication RCE on stock Rails",
       "url": "https://news.ycombinator.com/item?id=50556287"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Models & Datasets",
+      "title": "DavidAU/LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Ima...",
+      "url": "https://huggingface.co/DavidAU/LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF"
     }
   ]
 }
