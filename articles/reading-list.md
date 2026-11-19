@@ -357,6 +357,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust
 - **Link:** https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/
 
+**Added 2026-11-19**
+
+### [Virtualized Redox: from Virtio-FS to Cloud Hypervisor, and beyond](https://www.redox-os.org/news/virtualized-redox/)
+- **Source:** www.redox-os.org | **Posted:** 2026-11-08 | **By:** hugoarnal
+- **Community:** 24 score, 1 comments on Lobsters
+- **Tags:** osdev
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/zozcwa/virtualized_redox_from_virtio_fs_cloud
+- **Link:** https://www.redox-os.org/news/virtualized-redox/
+
 
 ## Security
 

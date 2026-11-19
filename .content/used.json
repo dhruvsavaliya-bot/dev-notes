@@ -1961,6 +1961,7 @@
     "https://lobste.rs/s/zjjvbo/work_on_gefs_good_enough_file_system_for",
     "https://lobste.rs/s/zknqct/two_kinds_sql_query_builders",
     "https://lobste.rs/s/zlhyss/mathocalypse",
+    "https://lobste.rs/s/zozcwa/virtualized_redox_from_virtio_fs_cloud",
     "https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source",
     "https://lobste.rs/s/zy4p7f/using_voltage_glitching_unleash_a100_my",
     "https://lobste.rs/s/zziknb/arena_allocators_c",
@@ -3004,6 +3005,7 @@
     "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
     "https://www.redox-os.org/news/nlnet-rb-summary/",
     "https://www.redox-os.org/news/this-month-261031/",
+    "https://www.redox-os.org/news/virtualized-redox/",
     "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
     "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
     "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
@@ -3083,12 +3085,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Hacker News Picks",
-      "title": "Unreal Tournament 2004 in the Browser",
-      "url": "https://news.ycombinator.com/item?id=50554935"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Research Papers",
       "title": "Data4Cyber: Labeled Cyber-Physical Datasets for...",
       "url": "http://arxiv.org/abs/2611.13942v1"
@@ -3140,6 +3136,12 @@
       "subcat": "Models & Datasets",
       "title": "google/physical-engineerings-last-exam",
       "url": "https://huggingface.co/datasets/google/physical-engineerings-last-exam"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Lobsters Picks",
+      "title": "Virtualized Redox: from Virtio-FS to Cloud...",
+      "url": "https://lobste.rs/s/zozcwa/virtualized_redox_from_virtio_fs_cloud"
     }
   ]
 }
