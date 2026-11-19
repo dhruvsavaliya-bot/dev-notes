@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2169 entries and counting** · Last updated: 2026-11-19
+**2170 entries and counting** · Last updated: 2026-11-19
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 437 |
 | [AI / LLM Notes](ai/notes.md) | 439 |
-| [Reading List](articles/reading-list.md) | 440 |
+| [Reading List](articles/reading-list.md) | 441 |
 | [Coding Tips](coding-tips/tips.md) | 440 |
 | [Language Notes](languages/notes.md) | 413 |
 
 ## Latest additions
 
+- **2026-11-19** · *Hacker News Picks* — [F-22 Next-Generation microData Transfer Cartridge...](https://news.ycombinator.com/item?id=50547583)
 - **2026-11-19** · *Show & Ask HN* — [Show HN: Isometric SF  A pixel-art map of the SF Bay...](https://news.ycombinator.com/item?id=50487228)
 - **2026-11-19** · *Research Papers* — [Data4Cyber: Labeled Cyber-Physical Datasets for...](http://arxiv.org/abs/2611.13942v1)
 - **2026-11-19** · *Hacker News Picks* — [Unreal Tournament 2004 in the Browser](https://news.ycombinator.com/item?id=50554935)
 - **2026-11-19** · *Show & Ask HN* — [Show HN: I've updated my Linux System Call website...](https://news.ycombinator.com/item?id=50334704)
-- **2026-11-19** · *Research Papers* — [Say Shibboleth: Fingerprinting the LLMs and Harnesses...](http://arxiv.org/abs/2611.12386v1)
 
 ## How it works
 

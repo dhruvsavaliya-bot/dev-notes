@@ -175,6 +175,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50554935
 - **Link:** https://ut2004.dev/
 
+**Added 2026-11-19**
+
+### [F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)](https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view)
+- **Source:** sam.gov | **Posted:** 2026-11-18 | **By:** birdboat00
+- **Community:** 166 points, 109 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50547583
+- **Link:** https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view
+
 
 ## Lobsters Picks
 
