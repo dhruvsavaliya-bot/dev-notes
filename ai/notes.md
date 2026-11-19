@@ -379,6 +379,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder
 
+**Added 2026-11-20**
+
+### [harness-hub/Qwen3.8-27B-opencode-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-opencode-adapted)
+- **Stats:** 95 likes | 124 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-11-16
+- **Tags:** peft, safetensors, trl, grpo, async-grpo, lora
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/harness-hub/Qwen3.8-27B-opencode-adapted
+
 
 ## LLMs
 

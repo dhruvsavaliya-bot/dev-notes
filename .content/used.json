@@ -1527,6 +1527,7 @@
     "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
     "https://huggingface.co/google/embeddinggemma-2",
     "https://huggingface.co/google/siglip-base-patch16-224",
+    "https://huggingface.co/harness-hub/Qwen3.8-27B-opencode-adapted",
     "https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
     "https://huggingface.co/inclusionAI/Ming-3.0-audio-flash",
     "https://huggingface.co/jaredpalmer/kev-4b",
@@ -3097,12 +3098,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Models & Datasets",
-      "title": "google/physical-engineerings-last-exam",
-      "url": "https://huggingface.co/datasets/google/physical-engineerings-last-exam"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Lobsters Picks",
       "title": "Virtualized Redox: from Virtio-FS to Cloud...",
       "url": "https://lobste.rs/s/zozcwa/virtualized_redox_from_virtio_fs_cloud"
@@ -3154,6 +3149,12 @@
       "subcat": "Lobsters Picks",
       "title": "15 million web servers on one VM - smoltcp, DPDK...",
       "url": "https://lobste.rs/s/elmy67/15_million_web_servers_on_one_vm_smoltcp"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "Models & Datasets",
+      "title": "harness-hub/Qwen3.8-27B-opencode-adapted",
+      "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-opencode-adapted"
     }
   ]
 }
