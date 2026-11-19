@@ -304,6 +304,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/tencent/TailorRig
 
+**Added 2026-11-19**
+
+### [IFM/PAN2](https://huggingface.co/IFM/PAN2)
+- **Stats:** 234 likes | 475 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-video | **Created:** 2026-10-07
+- **Tags:** diffusers, safetensors, world-model, world-simulation, text-to-video, image-to-video
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/IFM/PAN2
+
 
 ## LLMs
 

@@ -1351,6 +1351,7 @@
     "https://huggingface.co/FluidVoice-Labs/fluid-speech-pro",
     "https://huggingface.co/FrancisRing/Prism",
     "https://huggingface.co/HuggingFaceH4/zephyr-7b-beta",
+    "https://huggingface.co/IFM/PAN2",
     "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
     "https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
     "https://huggingface.co/Jackrong/Qwopus3.8-27B-Coder-Flash-GGUF",
@@ -3053,12 +3054,6 @@
   ],
   "recent": [
     {
-      "date": "2026-11-18",
-      "subcat": "AI & Machine Learning",
-      "title": "wainmann/agent-manager",
-      "url": "https://github.com/wainmann/agent-manager"
-    },
-    {
       "date": "2026-11-19",
       "subcat": "Java",
       "title": "piermark/omarchytv",
@@ -3111,6 +3106,12 @@
       "subcat": "AI & Machine Learning",
       "title": "valqore/valqore",
       "url": "https://github.com/valqore/valqore"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Models & Datasets",
+      "title": "IFM/PAN2",
+      "url": "https://huggingface.co/IFM/PAN2"
     }
   ]
 }
