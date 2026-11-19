@@ -318,6 +318,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50487228
 - **Link:** https://isometricsf.com/
 
+**Added 2026-11-19**
+
+### [Show HN: DeepSeek V3 in ~200 lines of pure Jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax)
+- **Source:** github.com | **Posted:** 2026-11-14 | **By:** VaibhaavTiwari
+- **Community:** 276 points, 30 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50497589
+- **Link:** https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax
+
 
 ## Productivity
 

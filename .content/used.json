@@ -832,6 +832,7 @@
     "https://github.com/TurkeyDesignate/GitHub-Copilot-app",
     "https://github.com/UNDERdecoded/Gen2Recomped",
     "https://github.com/UniXNU/UniXNU",
+    "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
     "https://github.com/Verlintas/NOIR",
     "https://github.com/Vibra-Ingenn/Janus",
     "https://github.com/Vincentwei1021/video-shotcraft",
@@ -2669,6 +2670,7 @@
     "https://news.ycombinator.com/item?id=50487228",
     "https://news.ycombinator.com/item?id=50492456",
     "https://news.ycombinator.com/item?id=50494696",
+    "https://news.ycombinator.com/item?id=50497589",
     "https://news.ycombinator.com/item?id=50500963",
     "https://news.ycombinator.com/item?id=50506180",
     "https://news.ycombinator.com/item?id=50510042",
@@ -3080,12 +3082,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Research Papers",
-      "title": "Say Shibboleth: Fingerprinting the LLMs and Harnesses...",
-      "url": "http://arxiv.org/abs/2611.12386v1"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Show & Ask HN",
       "title": "Show HN: I've updated my Linux System Call website...",
       "url": "https://news.ycombinator.com/item?id=50334704"
@@ -3137,6 +3133,12 @@
       "subcat": "AI & Machine Learning",
       "title": "looplj/reveric",
       "url": "https://github.com/looplj/reveric"
+    },
+    {
+      "date": "2026-11-19",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "url": "https://news.ycombinator.com/item?id=50497589"
     }
   ]
 }
