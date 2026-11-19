@@ -174,6 +174,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~7 stars/day since launch.
 - **Link:** https://github.com/valqore/valqore
 
+**Added 2026-11-19**
+
+### [Intrect-io/OpenSwarm](https://github.com/Intrect-io/OpenSwarm)
+- **Stats:** 871 stars | 149 forks | 62 open issues
+- **Language:** TypeScript | **Created:** 2026-02-23 | **License:** MIT
+- **Topics:** ai-agents, ai-coding, autonomous-agents, claude, claude-code, devops
+- **What it is:** OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cognitive memory.
+- **Growth:** averaging ~3 stars/day since launch.
+- **Link:** https://github.com/Intrect-io/OpenSwarm
+
 
 ## Other Cool Projects
 

@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2159 entries and counting** · Last updated: 2026-11-19
+**2160 entries and counting** · Last updated: 2026-11-19
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 435 |
+| [Trending Projects](trending-projects/projects.md) | 436 |
 | [AI / LLM Notes](ai/notes.md) | 436 |
 | [Reading List](articles/reading-list.md) | 437 |
 | [Coding Tips](coding-tips/tips.md) | 438 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-19** · *AI & Machine Learning* — [Intrect-io/OpenSwarm](https://github.com/Intrect-io/OpenSwarm)
 - **2026-11-19** · *Clean Code & Best Practices* — [How to Structure a .NET Solution That Actually...](https://dev.to/mashrulhaque/how-to-design-a-maintainable-net-solution-structure-for-growing-teams-284n)
 - **2026-11-19** · *Lobsters Picks* — [Sarasa Gothic Mono](https://lobste.rs/s/de02yg/sarasa_gothic_mono)
 - **2026-11-19** · *Models & Datasets* — [IFM/PAN2](https://huggingface.co/IFM/PAN2)
 - **2026-11-19** · *AI & Machine Learning* — [valqore/valqore](https://github.com/valqore/valqore)
-- **2026-11-19** · *JavaScript* — [Show HN: Alloy CSS, dialogs, menus and tabs that work...](https://news.ycombinator.com/item?id=50532385)
 
 ## How it works
 
