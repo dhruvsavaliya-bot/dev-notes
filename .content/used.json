@@ -2688,6 +2688,7 @@
     "https://news.ycombinator.com/item?id=50468720",
     "https://news.ycombinator.com/item?id=50469994",
     "https://news.ycombinator.com/item?id=50471668",
+    "https://news.ycombinator.com/item?id=50482279",
     "https://news.ycombinator.com/item?id=50484421",
     "https://news.ycombinator.com/item?id=50487228",
     "https://news.ycombinator.com/item?id=50492456",
@@ -3004,6 +3005,7 @@
     "https://www.nebulasans.com",
     "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
     "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
+    "https://www.niklasroy.com/carton-clock/",
     "https://www.nobelprize.org/prizes/peace/2026/press-release/",
     "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
     "https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts",
@@ -3108,12 +3110,6 @@
   "recent": [
     {
       "date": "2026-11-20",
-      "subcat": "Lobsters Picks",
-      "title": "15 million web servers on one VM - smoltcp, DPDK...",
-      "url": "https://lobste.rs/s/elmy67/15_million_web_servers_on_one_vm_smoltcp"
-    },
-    {
-      "date": "2026-11-20",
       "subcat": "Models & Datasets",
       "title": "harness-hub/Qwen3.8-27B-opencode-adapted",
       "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-opencode-adapted"
@@ -3165,6 +3161,12 @@
       "subcat": "Kotlin",
       "title": "BuSung-dev/Root-My-Galaxy",
       "url": "https://github.com/BuSung-dev/Root-My-Galaxy"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Carton Clock  A working pendulum clock made...",
+      "url": "https://news.ycombinator.com/item?id=50482279"
     }
   ]
 }

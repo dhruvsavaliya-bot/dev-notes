@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2194 entries and counting** · Last updated: 2026-11-20
+**2195 entries and counting** · Last updated: 2026-11-20
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 443 |
 | [AI / LLM Notes](ai/notes.md) | 445 |
 | [Reading List](articles/reading-list.md) | 444 |
-| [Coding Tips](coding-tips/tips.md) | 444 |
+| [Coding Tips](coding-tips/tips.md) | 445 |
 | [Language Notes](languages/notes.md) | 418 |
 
 ## Latest additions
 
+- **2026-11-20** · *Show & Ask HN* — [Show HN: Carton Clock  A working pendulum clock made...](https://news.ycombinator.com/item?id=50482279)
 - **2026-11-20** · *Kotlin* — [BuSung-dev/Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy)
 - **2026-11-20** · *Research Papers* — [General progress substitutes for specific training...](http://arxiv.org/abs/2611.24844v1)
 - **2026-11-20** · *Lobsters Picks* — [Mutex poisoning is not for everyone](https://lobste.rs/s/uzn2t6/mutex_poisoning_is_not_for_everyone)
 - **2026-11-20** · *Show & Ask HN* — [Show HN: Ghanaian street games you can play in the...](https://news.ycombinator.com/item?id=50414117)
-- **2026-11-20** · *Backend & Infrastructure* — [TheBadFella/Pinchflat-NGX](https://github.com/TheBadFella/Pinchflat-NGX)
 
 ## How it works
 

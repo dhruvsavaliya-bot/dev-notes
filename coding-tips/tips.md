@@ -355,6 +355,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50414117
 - **Link:** https://www.ghanastreetgames.com/
 
+**Added 2026-11-20**
+
+### [Show HN: Carton Clock – A working pendulum clock made from empty drink cartons](https://www.niklasroy.com/carton-clock/)
+- **Source:** www.niklasroy.com | **Posted:** 2026-11-13 | **By:** r0r0
+- **Community:** 88 points, 3 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50482279
+- **Link:** https://www.niklasroy.com/carton-clock/
+
 
 ## Productivity
 
