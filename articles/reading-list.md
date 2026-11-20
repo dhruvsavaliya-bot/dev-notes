@@ -184,6 +184,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50547583
 - **Link:** https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view
 
+**Added 2026-11-20**
+
+### [Making 8-page foldable zines from a single A4 sheet in the browser](https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/)
+- **Source:** krthr.co | **Posted:** 2026-11-19 | **By:** krthr
+- **Community:** 255 points, 57 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50559719
+- **Link:** https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/
+
 
 ## Lobsters Picks
 

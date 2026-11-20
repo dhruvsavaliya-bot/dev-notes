@@ -1633,6 +1633,7 @@
     "https://koi.rest",
     "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
     "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+    "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
     "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
     "https://labs.ycombinator.com/projects/games/index.html",
     "https://lapcatsoftware.com/articles/2026/9/1.html",
@@ -2710,6 +2711,7 @@
     "https://news.ycombinator.com/item?id=50544821",
     "https://news.ycombinator.com/item?id=50547583",
     "https://news.ycombinator.com/item?id=50554935",
+    "https://news.ycombinator.com/item?id=50559719",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -3113,12 +3115,6 @@
   "recent": [
     {
       "date": "2026-11-20",
-      "subcat": "AI & Machine Learning",
-      "title": "yihui-dev/awesome-opus5-5-videos",
-      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos"
-    },
-    {
-      "date": "2026-11-20",
       "subcat": "Kotlin",
       "title": "SimonSchubert/omalauncher",
       "url": "https://github.com/SimonSchubert/omalauncher"
@@ -3170,6 +3166,12 @@
       "subcat": "Web & Frontend",
       "title": "crmne/zapfast",
       "url": "https://github.com/crmne/zapfast"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "Hacker News Picks",
+      "title": "Making 8-page foldable zines from a single A4 sheet...",
+      "url": "https://news.ycombinator.com/item?id=50559719"
     }
   ]
 }
