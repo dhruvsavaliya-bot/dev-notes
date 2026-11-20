@@ -204,6 +204,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~295 stars/day since launch.
 - **Link:** https://github.com/yihui-dev/awesome-opus5-5-videos
 
+**Added 2026-11-20**
+
+### [lxe/phoneuse](https://github.com/lxe/phoneuse)
+- **Stats:** 690 stars | 66 forks | 17 open issues
+- **Language:** Python | **Created:** 2026-11-07 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.
+- **Growth:** averaging ~53 stars/day since launch.
+- **Link:** https://github.com/lxe/phoneuse
+
 
 ## Other Cool Projects
 

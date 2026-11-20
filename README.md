@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2203 entries and counting** · Last updated: 2026-11-20
+**2204 entries and counting** · Last updated: 2026-11-20
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 445 |
+| [Trending Projects](trending-projects/projects.md) | 446 |
 | [AI / LLM Notes](ai/notes.md) | 446 |
 | [Reading List](articles/reading-list.md) | 447 |
 | [Coding Tips](coding-tips/tips.md) | 447 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-20** · *AI & Machine Learning* — [lxe/phoneuse](https://github.com/lxe/phoneuse)
 - **2026-11-20** · *Hacker News Picks* — [Claude solves two open problems in the physics of...](https://news.ycombinator.com/item?id=50563148)
 - **2026-11-20** · *Show & Ask HN* — [Show HN: Tmux-restore saves tmux windows and agent...](https://news.ycombinator.com/item?id=50355009)
 - **2026-11-20** · *Models & Datasets* — [m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B)
 - **2026-11-20** · *Other Cool Projects* — [n4ze3m/tiny-voca](https://github.com/n4ze3m/tiny-voca)
-- **2026-11-20** · *Show & Ask HN* — [Show HN: A working Nintendo in ~1GB of Qwen weights](https://news.ycombinator.com/item?id=50306442)
 
 ## How it works
 
