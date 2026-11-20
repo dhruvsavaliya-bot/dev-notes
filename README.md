@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2206 entries and counting** · Last updated: 2026-11-20
+**2207 entries and counting** · Last updated: 2026-11-20
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 446 |
+| [Trending Projects](trending-projects/projects.md) | 447 |
 | [AI / LLM Notes](ai/notes.md) | 446 |
 | [Reading List](articles/reading-list.md) | 448 |
 | [Coding Tips](coding-tips/tips.md) | 448 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-20** · *AI & Machine Learning* — [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang)
 - **2026-11-20** · *Hacker News Picks* — [How to CAD Almost Anything](https://news.ycombinator.com/item?id=50528119)
 - **2026-11-20** · *Show & Ask HN* — [Show HN: Making a smart TV dumb and then smart](https://news.ycombinator.com/item?id=50202865)
 - **2026-11-20** · *AI & Machine Learning* — [lxe/phoneuse](https://github.com/lxe/phoneuse)
 - **2026-11-20** · *Hacker News Picks* — [Claude solves two open problems in the physics of...](https://news.ycombinator.com/item?id=50563148)
-- **2026-11-20** · *Show & Ask HN* — [Show HN: Tmux-restore saves tmux windows and agent...](https://news.ycombinator.com/item?id=50355009)
 
 ## How it works
 

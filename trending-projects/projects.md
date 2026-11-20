@@ -214,6 +214,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~53 stars/day since launch.
 - **Link:** https://github.com/lxe/phoneuse
 
+**Added 2026-11-20**
+
+### [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang)
+- **Stats:** 2,934 stars | 709 forks | 0 open issues
+- **Language:** Go | **Created:** 2026-10-29 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang
+- **Growth:** averaging ~133 stars/day since launch.
+- **Link:** https://github.com/paipiange/nvzhuang
+
 
 ## Other Cool Projects
 

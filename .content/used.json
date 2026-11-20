@@ -1152,6 +1152,7 @@
     "https://github.com/outsourc-e/hermes-workspace",
     "https://github.com/p1neappleXpress/OpenFlux",
     "https://github.com/pablostanley/yoinks",
+    "https://github.com/paipiange/nvzhuang",
     "https://github.com/palamim/starboard",
     "https://github.com/palemoky/chinese-poetry-api",
     "https://github.com/palkan/layered-rails-skills",
@@ -3128,12 +3129,6 @@
   "recent": [
     {
       "date": "2026-11-20",
-      "subcat": "Web & Frontend",
-      "title": "crmne/zapfast",
-      "url": "https://github.com/crmne/zapfast"
-    },
-    {
-      "date": "2026-11-20",
       "subcat": "Hacker News Picks",
       "title": "Making 8-page foldable zines from a single A4 sheet...",
       "url": "https://news.ycombinator.com/item?id=50559719"
@@ -3185,6 +3180,12 @@
       "subcat": "Hacker News Picks",
       "title": "How to CAD Almost Anything",
       "url": "https://news.ycombinator.com/item?id=50528119"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "AI & Machine Learning",
+      "title": "paipiange/nvzhuang",
+      "url": "https://github.com/paipiange/nvzhuang"
     }
   ]
 }
