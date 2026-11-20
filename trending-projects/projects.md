@@ -307,6 +307,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~53 stars/day since launch.
 - **Link:** https://github.com/harry0703/MangoDisk
 
+**Added 2026-11-20**
+
+### [n4ze3m/tiny-voca](https://github.com/n4ze3m/tiny-voca)
+- **Stats:** 780 stars | 98 forks | 4 open issues
+- **Language:** Python | **Created:** 2026-11-14 | **License:** Apache-2.0
+- **Topics:** onnx, text-to-speech, tts
+- **What it is:** A 4.5M-parameter two-voice English text-to-speech model, trained from scratch
+- **Growth:** averaging ~130 stars/day since launch.
+- **Link:** https://github.com/n4ze3m/tiny-voca
+
 
 ## Web & Frontend
 

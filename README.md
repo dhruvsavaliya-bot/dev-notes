@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2199 entries and counting** · Last updated: 2026-11-20
+**2200 entries and counting** · Last updated: 2026-11-20
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 444 |
+| [Trending Projects](trending-projects/projects.md) | 445 |
 | [AI / LLM Notes](ai/notes.md) | 445 |
 | [Reading List](articles/reading-list.md) | 446 |
 | [Coding Tips](coding-tips/tips.md) | 446 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-20** · *Other Cool Projects* — [n4ze3m/tiny-voca](https://github.com/n4ze3m/tiny-voca)
 - **2026-11-20** · *Show & Ask HN* — [Show HN: A working Nintendo in ~1GB of Qwen weights](https://news.ycombinator.com/item?id=50306442)
 - **2026-11-20** · *Hacker News Picks* — [Making 8-page foldable zines from a single A4 sheet...](https://news.ycombinator.com/item?id=50559719)
 - **2026-11-20** · *Web & Frontend* — [crmne/zapfast](https://github.com/crmne/zapfast)
 - **2026-11-20** · *Lobsters Picks* — [Distributed, high-performance blob storage on SQLite](https://lobste.rs/s/bk5nfs/distributed_high_performance_blob)
-- **2026-11-20** · *Show & Ask HN* — [Show HN: Carton Clock  A working pendulum clock made...](https://news.ycombinator.com/item?id=50482279)
 
 ## How it works
 

@@ -1108,6 +1108,7 @@
     "https://github.com/morganlinton/BeautifulRust",
     "https://github.com/mottopanikeiku/doomformer",
     "https://github.com/mshumer/Claude-of-Duty",
+    "https://github.com/n4ze3m/tiny-voca",
     "https://github.com/nano-muse/nanoMuse",
     "https://github.com/nateherkai/roast-room",
     "https://github.com/nateherkai/scroll-craft",
@@ -3117,12 +3118,6 @@
   "recent": [
     {
       "date": "2026-11-20",
-      "subcat": "Backend & Infrastructure",
-      "title": "TheBadFella/Pinchflat-NGX",
-      "url": "https://github.com/TheBadFella/Pinchflat-NGX"
-    },
-    {
-      "date": "2026-11-20",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Ghanaian street games you can play in the...",
       "url": "https://news.ycombinator.com/item?id=50414117"
@@ -3174,6 +3169,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
       "url": "https://news.ycombinator.com/item?id=50306442"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "Other Cool Projects",
+      "title": "n4ze3m/tiny-voca",
+      "url": "https://github.com/n4ze3m/tiny-voca"
     }
   ]
 }
