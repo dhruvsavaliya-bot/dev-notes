@@ -224,6 +224,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~133 stars/day since launch.
 - **Link:** https://github.com/paipiange/nvzhuang
 
+**Added 2026-11-20**
+
+### [reacher-z/Awesome-REA](https://github.com/reacher-z/Awesome-REA)
+- **Stats:** 3,235 stars | 536 forks | 1,862 open issues
+- **Language:** Python | **Created:** 2026-10-16 | **License:** MIT
+- **Topics:** agent-skills, ai-agents, android-reverse-engineering, awesome, awesome-list, awesome-resources
+- **What it is:** Curated tools, case studies and papers for reverse engineering websites, games, apps, binaries, firmware and protocols. Source-reviewed, English and Chinese.
+- **Growth:** averaging ~92 stars/day since launch.
+- **Link:** https://github.com/reacher-z/Awesome-REA
+
 
 ## Other Cool Projects
 

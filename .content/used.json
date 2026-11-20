@@ -1179,6 +1179,7 @@
     "https://github.com/qingjian-team/qingjian",
     "https://github.com/rakanki911/DLSS5-Swapper",
     "https://github.com/ravindu644/Droidspaces-OSS",
+    "https://github.com/reacher-z/Awesome-REA",
     "https://github.com/rehan-remade/universal-modder",
     "https://github.com/remorses/playwriter",
     "https://github.com/remoteinterview/zero",
@@ -3130,12 +3131,6 @@
   "recent": [
     {
       "date": "2026-11-20",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
-      "url": "https://news.ycombinator.com/item?id=50306442"
-    },
-    {
-      "date": "2026-11-20",
       "subcat": "Other Cool Projects",
       "title": "n4ze3m/tiny-voca",
       "url": "https://github.com/n4ze3m/tiny-voca"
@@ -3187,6 +3182,12 @@
       "subcat": "Research Papers",
       "title": "Compositional Information Geometry of Probabilistic...",
       "url": "http://arxiv.org/abs/2610.17886v1"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "AI & Machine Learning",
+      "title": "reacher-z/Awesome-REA",
+      "url": "https://github.com/reacher-z/Awesome-REA"
     }
   ]
 }
