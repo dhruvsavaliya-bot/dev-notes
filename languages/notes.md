@@ -128,6 +128,17 @@ Top community posts, organized by programming language.
 - **Discussion:** https://news.ycombinator.com/item?id=50224079
 - **Link:** https://journaloflostspecies.org/index.php/jls/article/view/37/33
 
+**Added 2026-11-21**
+
+### [25Cloud/TuraIDC](https://github.com/25Cloud/TuraIDC)
+- **Stats:** 559 stars | 20 forks | 1 open issues
+- **Language:** PHP | **Created:** 2026-08-14 | **License:** AGPL-3.0
+- **Topics:** none listed
+- **What it is:** TuraIDC - Next-generation IDC cloud service management & billing system 图拉云业务/财务系统 —— 新一代的IDC云服务经营系统
+- **Growth:** averaging ~5 stars/day since launch.
+- **Link:** https://github.com/25Cloud/TuraIDC
+
+
 ## Java
 
 **Added 2026-11-18**
