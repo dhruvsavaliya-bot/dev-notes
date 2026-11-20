@@ -1727,6 +1727,7 @@
     "https://lobste.rs/s/bcfzer/hacking_nameof",
     "https://lobste.rs/s/bhfexs/freebsd_gus",
     "https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical",
+    "https://lobste.rs/s/bk5nfs/distributed_high_performance_blob",
     "https://lobste.rs/s/bmmj1e/let_s_build_brain",
     "https://lobste.rs/s/bqllfe/your_cryptography_conspiracy_theory_is",
     "https://lobste.rs/s/brdwr2/redox_ring_buffers_project_summary",
@@ -3102,18 +3103,13 @@
     "https://z.ai/blog/glm-5.3",
     "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
     "https://zebra.rodeo/en/blog/marelleo/",
+    "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
     "https://ziglang.org/devlog/2026/#2026-08-27",
     "https://ziglang.org/devlog/2026/#2026-10-24",
     "https://zoey-on-github.github.io/blog/macgcc.html",
     "https://zserge.com/posts/worst-htmx-ever/"
   ],
   "recent": [
-    {
-      "date": "2026-11-20",
-      "subcat": "Models & Datasets",
-      "title": "harness-hub/Qwen3.8-27B-opencode-adapted",
-      "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-opencode-adapted"
-    },
     {
       "date": "2026-11-20",
       "subcat": "Go",
@@ -3167,6 +3163,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Carton Clock  A working pendulum clock made...",
       "url": "https://news.ycombinator.com/item?id=50482279"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "Lobsters Picks",
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "url": "https://lobste.rs/s/bk5nfs/distributed_high_performance_blob"
     }
   ]
 }

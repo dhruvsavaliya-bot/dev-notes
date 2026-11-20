@@ -387,6 +387,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/uzn2t6/mutex_poisoning_is_not_for_everyone
 - **Link:** https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html
 
+**Added 2026-11-20**
+
+### [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/)
+- **Source:** zerodha.tech | **Posted:** 2026-11-19 | **By:** gowthamgts
+- **Community:** 27 score, 2 comments on Lobsters
+- **Tags:** distributed, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/bk5nfs/distributed_high_performance_blob
+- **Link:** https://zerodha.tech/blog/high-performance-distributed-blob-storage/
+
 
 ## Security
 
