@@ -202,6 +202,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50563148
 - **Link:** https://www.anthropic.com/research/claude-black-hole-physics
 
+**Added 2026-11-20**
+
+### [How to CAD Almost Anything](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/)
+- **Source:** ocw.mit.edu | **Posted:** 2026-11-17 | **By:** o4c
+- **Community:** 266 points, 91 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50528119
+- **Link:** https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/
+
 
 ## Lobsters Picks
 

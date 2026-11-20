@@ -2713,6 +2713,7 @@
     "https://news.ycombinator.com/item?id=50520076",
     "https://news.ycombinator.com/item?id=50522980",
     "https://news.ycombinator.com/item?id=50524767",
+    "https://news.ycombinator.com/item?id=50528119",
     "https://news.ycombinator.com/item?id=50529612",
     "https://news.ycombinator.com/item?id=50532191",
     "https://news.ycombinator.com/item?id=50532385",
@@ -2750,6 +2751,7 @@
     "https://nvidianews.nvidia.com/news/a-message-to-our-company",
     "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/",
     "https://obscura.com/#faq-technical",
+    "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
     "https://ohhfishal.net/Posts/claude",
     "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
     "https://op.tngl.io/meridian/",
@@ -3126,12 +3128,6 @@
   "recent": [
     {
       "date": "2026-11-20",
-      "subcat": "Lobsters Picks",
-      "title": "Distributed, high-performance blob storage on SQLite",
-      "url": "https://lobste.rs/s/bk5nfs/distributed_high_performance_blob"
-    },
-    {
-      "date": "2026-11-20",
       "subcat": "Web & Frontend",
       "title": "crmne/zapfast",
       "url": "https://github.com/crmne/zapfast"
@@ -3183,6 +3179,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Making a smart TV dumb and then smart",
       "url": "https://news.ycombinator.com/item?id=50202865"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "Hacker News Picks",
+      "title": "How to CAD Almost Anything",
+      "url": "https://news.ycombinator.com/item?id=50528119"
     }
   ]
 }
