@@ -204,3 +204,15 @@ Top community posts, organized by programming language.
 - **What it is:** KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499
 - **Growth:** averaging ~13 stars/day since launch.
 - **Link:** https://github.com/BuSung-dev/Root-My-Galaxy
+
+## TypeScript
+
+**Added 2026-11-21**
+
+### [Paradigm-Study/claude-share](https://github.com/Paradigm-Study/claude-share)
+- **Stats:** 1,129 stars | 8 forks | 5 open issues
+- **Language:** TypeScript | **Created:** 2026-10-03 | **License:** MIT
+- **Topics:** claude-code, claude-code-plugin, collaboration, developer-tools, multiplayer, pair-programming
+- **What it is:** Multiplayer sessions for Claude Code. Share a link, work together live, and review the same replies, tools and previews.
+- **Growth:** averaging ~23 stars/day since launch.
+- **Link:** https://github.com/Paradigm-Study/claude-share

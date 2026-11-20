@@ -795,6 +795,7 @@
     "https://github.com/Optiscaler-Client/Optiscaler-Client",
     "https://github.com/Pal-AI-Lab/Coopanion",
     "https://github.com/Pan-Chera/Multi-Agent-CAD",
+    "https://github.com/Paradigm-Study/claude-share",
     "https://github.com/PimpinPumpkin/Vela",
     "https://github.com/Player-YN/BrowserKitten",
     "https://github.com/Player-YN/PawWork_ZhuaZhua",
@@ -3140,12 +3141,6 @@
   "recent": [
     {
       "date": "2026-11-20",
-      "subcat": "AI & Machine Learning",
-      "title": "paipiange/nvzhuang",
-      "url": "https://github.com/paipiange/nvzhuang"
-    },
-    {
-      "date": "2026-11-20",
       "subcat": "Research Papers",
       "title": "Compositional Information Geometry of Probabilistic...",
       "url": "http://arxiv.org/abs/2610.17886v1"
@@ -3197,6 +3192,12 @@
       "subcat": "PHP",
       "title": "25Cloud/TuraIDC",
       "url": "https://github.com/25Cloud/TuraIDC"
+    },
+    {
+      "date": "2026-11-21",
+      "subcat": "TypeScript",
+      "title": "Paradigm-Study/claude-share",
+      "url": "https://github.com/Paradigm-Study/claude-share"
     }
   ]
 }
