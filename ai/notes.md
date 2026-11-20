@@ -398,6 +398,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/harness-hub/Qwen3.8-27B-opencode-adapted
 
+**Added 2026-11-20**
+
+### [m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B)
+- **Stats:** 1,267 likes | 20,330 downloads
+- **Kind:** Hugging Face model | **Task:** text-to-audio | **Created:** 2026-09-09
+- **Tags:** safetensors, yue2, music-generation, symbolic-planning, agentic-editing, custom_code
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/m-a-p/YuE2-3B
+
 
 ## LLMs
 
