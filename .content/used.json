@@ -2709,6 +2709,7 @@
     "https://news.ycombinator.com/item?id=50484421",
     "https://news.ycombinator.com/item?id=50487228",
     "https://news.ycombinator.com/item?id=50492456",
+    "https://news.ycombinator.com/item?id=50493251",
     "https://news.ycombinator.com/item?id=50494696",
     "https://news.ycombinator.com/item?id=50497589",
     "https://news.ycombinator.com/item?id=50499038",
@@ -3076,6 +3077,7 @@
     "https://www.taler.net/en/news/2026-13.html",
     "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
     "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+    "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
     "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
     "https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html",
     "https://www.tesla.com/roadster",
@@ -3135,12 +3137,6 @@
   "recent": [
     {
       "date": "2026-11-20",
-      "subcat": "Hacker News Picks",
-      "title": "Claude solves two open problems in the physics of...",
-      "url": "https://news.ycombinator.com/item?id=50563148"
-    },
-    {
-      "date": "2026-11-20",
       "subcat": "AI & Machine Learning",
       "title": "lxe/phoneuse",
       "url": "https://github.com/lxe/phoneuse"
@@ -3192,6 +3188,12 @@
       "subcat": "AI & Machine Learning",
       "title": "redhat-et/ripwire",
       "url": "https://github.com/redhat-et/ripwire"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "Hacker News Picks",
+      "title": "Nvidia allegedly engineered scarcity by funding AI...",
+      "url": "https://news.ycombinator.com/item?id=50493251"
     }
   ]
 }

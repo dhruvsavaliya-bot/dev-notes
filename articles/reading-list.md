@@ -220,6 +220,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50499038
 - **Link:** https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/
 
+**Added 2026-11-20**
+
+### [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
+- **Source:** www.techpowerup.com | **Posted:** 2026-11-14 | **By:** speckx
+- **Community:** 1114 points, 651 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50493251
+- **Link:** https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus
+
 
 ## Lobsters Picks
 
