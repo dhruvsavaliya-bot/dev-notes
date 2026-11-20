@@ -171,3 +171,15 @@ Top community posts, organized by programming language.
 - **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
 - **Discussion:** https://news.ycombinator.com/item?id=50536565
 - **Link:** https://www.zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc
+
+## Kotlin
+
+**Added 2026-11-20**
+
+### [SimonSchubert/omalauncher](https://github.com/SimonSchubert/omalauncher)
+- **Stats:** 666 stars | 144 forks | 139 open issues
+- **Language:** Kotlin | **Created:** 2026-10-02 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** Agentic Android launcher: build your own apps and widgets with AI agents, Omarchy themes, Arch Linux without root
+- **Growth:** averaging ~13 stars/day since launch.
+- **Link:** https://github.com/SimonSchubert/omalauncher

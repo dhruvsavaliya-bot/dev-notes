@@ -812,6 +812,7 @@
     "https://github.com/ShenSeanChen/waku-agent",
     "https://github.com/ShishirPatil/gorilla",
     "https://github.com/Shpigford/knockoff",
+    "https://github.com/SimonSchubert/omalauncher",
     "https://github.com/Socialpranker/deepdive",
     "https://github.com/SonicloudTech/sonicloud_opensdk",
     "https://github.com/Star-Pie/StarPie",
@@ -3100,12 +3101,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Type Fighter 2",
-      "url": "https://news.ycombinator.com/item?id=50544821"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Other Cool Projects",
       "title": "harry0703/MangoDisk",
       "url": "https://github.com/harry0703/MangoDisk"
@@ -3157,6 +3152,12 @@
       "subcat": "AI & Machine Learning",
       "title": "yihui-dev/awesome-opus5-5-videos",
       "url": "https://github.com/yihui-dev/awesome-opus5-5-videos"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "Kotlin",
+      "title": "SimonSchubert/omalauncher",
+      "url": "https://github.com/SimonSchubert/omalauncher"
     }
   ]
 }
