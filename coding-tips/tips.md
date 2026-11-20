@@ -373,6 +373,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50306442
 - **Link:** https://github.com/dbreunig/nesformer
 
+**Added 2026-11-20**
+
+### [Show HN: Tmux-restore saves tmux windows and agent sessions across reboots](https://github.com/andrewboldi/tmux-restore)
+- **Source:** github.com | **Posted:** 2026-11-03 | **By:** boldi
+- **Community:** 63 points, 37 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50355009
+- **Link:** https://github.com/andrewboldi/tmux-restore
+
 
 ## Productivity
 
