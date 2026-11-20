@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2191 entries and counting** · Last updated: 2026-11-20
+**2192 entries and counting** · Last updated: 2026-11-20
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 443 |
 | [AI / LLM Notes](ai/notes.md) | 444 |
-| [Reading List](articles/reading-list.md) | 443 |
+| [Reading List](articles/reading-list.md) | 444 |
 | [Coding Tips](coding-tips/tips.md) | 444 |
 | [Language Notes](languages/notes.md) | 417 |
 
 ## Latest additions
 
+- **2026-11-20** · *Lobsters Picks* — [Mutex poisoning is not for everyone](https://lobste.rs/s/uzn2t6/mutex_poisoning_is_not_for_everyone)
 - **2026-11-20** · *Show & Ask HN* — [Show HN: Ghanaian street games you can play in the...](https://news.ycombinator.com/item?id=50414117)
 - **2026-11-20** · *Backend & Infrastructure* — [TheBadFella/Pinchflat-NGX](https://github.com/TheBadFella/Pinchflat-NGX)
 - **2026-11-20** · *Kotlin* — [SimonSchubert/omalauncher](https://github.com/SimonSchubert/omalauncher)
 - **2026-11-20** · *AI & Machine Learning* — [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos)
-- **2026-11-20** · *Go* — [Christ9038/Ydisks-Xianyu-Helper](https://github.com/Christ9038/Ydisks-Xianyu-Helper)
 
 ## How it works
 

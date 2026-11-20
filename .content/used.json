@@ -234,6 +234,7 @@
     "https://bento.page/slides/",
     "https://benwinding.github.io/encarta_95_web/#/article/Art",
     "https://bernsteinbear.com/blog/object-shapes/",
+    "https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html",
     "https://betterwispr.com/",
     "https://bevy.org/news/bevy-0-20/",
     "https://beyondloom.com/blog/postscript.html",
@@ -1925,6 +1926,7 @@
     "https://lobste.rs/s/urcrqe/janet_reno_was_talking_about_my_friend",
     "https://lobste.rs/s/urg4yu/unattended_reboots_with_encrypted_disks",
     "https://lobste.rs/s/uz2j2h/google_summer_code_2026_results",
+    "https://lobste.rs/s/uzn2t6/mutex_poisoning_is_not_for_everyone",
     "https://lobste.rs/s/v3uidx/lock_your_github_actions",
     "https://lobste.rs/s/vbx0g4/look_at_datastar",
     "https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants",
@@ -3104,12 +3106,6 @@
   "recent": [
     {
       "date": "2026-11-20",
-      "subcat": "Rust",
-      "title": "Enabling the parallel frontend on nightly",
-      "url": "https://lobste.rs/s/8eivbk/enabling_parallel_frontend_on_nightly"
-    },
-    {
-      "date": "2026-11-20",
       "subcat": "Web & Frontend",
       "title": "simoarpe/ziggity",
       "url": "https://github.com/simoarpe/ziggity"
@@ -3161,6 +3157,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Ghanaian street games you can play in the...",
       "url": "https://news.ycombinator.com/item?id=50414117"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "Lobsters Picks",
+      "title": "Mutex poisoning is not for everyone",
+      "url": "https://lobste.rs/s/uzn2t6/mutex_poisoning_is_not_for_everyone"
     }
   ]
 }

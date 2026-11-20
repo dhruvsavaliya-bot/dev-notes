@@ -377,6 +377,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/dgvb5g/what_is_w2rt6byl5nf1opmc_com
 - **Link:** https://jack.cab/blog/siterate.html
 
+**Added 2026-11-20**
+
+### [Mutex poisoning is not for everyone](https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html)
+- **Source:** bertptrs.nl | **Posted:** 2026-11-19 | **By:** polywolf
+- **Community:** 26 score, 6 comments on Lobsters
+- **Tags:** rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/uzn2t6/mutex_poisoning_is_not_for_everyone
+- **Link:** https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html
+
 
 ## Security
 
