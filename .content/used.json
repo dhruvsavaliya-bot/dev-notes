@@ -941,6 +941,7 @@
     "https://github.com/cordiverse/paper",
     "https://github.com/crmne/fastpotify",
     "https://github.com/crmne/spotifast",
+    "https://github.com/crmne/zapfast",
     "https://github.com/cutetailbud/ff-ruyijs",
     "https://github.com/d11wtq/boris",
     "https://github.com/danyuchn/asd-ste100-skill",
@@ -3112,12 +3113,6 @@
   "recent": [
     {
       "date": "2026-11-20",
-      "subcat": "Go",
-      "title": "Christ9038/Ydisks-Xianyu-Helper",
-      "url": "https://github.com/Christ9038/Ydisks-Xianyu-Helper"
-    },
-    {
-      "date": "2026-11-20",
       "subcat": "AI & Machine Learning",
       "title": "yihui-dev/awesome-opus5-5-videos",
       "url": "https://github.com/yihui-dev/awesome-opus5-5-videos"
@@ -3169,6 +3164,12 @@
       "subcat": "Lobsters Picks",
       "title": "Distributed, high-performance blob storage on SQLite",
       "url": "https://lobste.rs/s/bk5nfs/distributed_high_performance_blob"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "Web & Frontend",
+      "title": "crmne/zapfast",
+      "url": "https://github.com/crmne/zapfast"
     }
   ]
 }

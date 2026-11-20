@@ -380,6 +380,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/simoarpe/ziggity
 
+**Added 2026-11-20**
+
+### [crmne/zapfast](https://github.com/crmne/zapfast)
+- **Stats:** 4,783 stars | 484 forks | 291 open issues
+- **Language:** Rust | **Created:** 2026-08-29 | **License:** MIT
+- **Topics:** chat, desktop-app, egui, linux, macos, messaging
+- **What it is:** ZapFast: a fast, native WhatsApp client in Rust and egui
+- **Growth:** averaging ~57 stars/day since launch.
+- **Link:** https://github.com/crmne/zapfast
+
 
 ## Developer Tools
 
