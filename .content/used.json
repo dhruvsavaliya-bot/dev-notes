@@ -2653,6 +2653,7 @@
     "https://news.ycombinator.com/item?id=50406222",
     "https://news.ycombinator.com/item?id=50406292",
     "https://news.ycombinator.com/item?id=50407882",
+    "https://news.ycombinator.com/item?id=50414117",
     "https://news.ycombinator.com/item?id=50415379",
     "https://news.ycombinator.com/item?id=50416640",
     "https://news.ycombinator.com/item?id=50417407",
@@ -2971,6 +2972,7 @@
     "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
     "https://www.funwithcomputervision.com/weball/",
     "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+    "https://www.ghanastreetgames.com/",
     "https://www.githubstatus.com/incidents/8tzbpcnl75jp",
     "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
     "https://www.gnu.org/philosophy/whats-wrong-with-github.html",
@@ -3101,12 +3103,6 @@
   ],
   "recent": [
     {
-      "date": "2026-11-19",
-      "subcat": "Models & Datasets",
-      "title": "ccore/Qwen3.5-4B-3D-Coder",
-      "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
-    },
-    {
       "date": "2026-11-20",
       "subcat": "Rust",
       "title": "Enabling the parallel frontend on nightly",
@@ -3159,6 +3155,12 @@
       "subcat": "Backend & Infrastructure",
       "title": "TheBadFella/Pinchflat-NGX",
       "url": "https://github.com/TheBadFella/Pinchflat-NGX"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Ghanaian street games you can play in the...",
+      "url": "https://news.ycombinator.com/item?id=50414117"
     }
   ]
 }

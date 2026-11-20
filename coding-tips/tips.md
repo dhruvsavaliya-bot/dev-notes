@@ -346,6 +346,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50544821
 - **Link:** https://typefighter2.com/
 
+**Added 2026-11-20**
+
+### [Show HN: Ghanaian street games you can play in the browser](https://www.ghanastreetgames.com/)
+- **Source:** www.ghanastreetgames.com | **Posted:** 2026-11-08 | **By:** samuelaidoo45
+- **Community:** 117 points, 22 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50414117
+- **Link:** https://www.ghanastreetgames.com/
+
 
 ## Productivity
 
