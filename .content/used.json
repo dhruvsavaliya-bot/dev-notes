@@ -67,6 +67,7 @@
     "http://arxiv.org/abs/2610.17528v3",
     "http://arxiv.org/abs/2610.17727v2",
     "http://arxiv.org/abs/2610.17747v1",
+    "http://arxiv.org/abs/2610.17886v1",
     "http://arxiv.org/abs/2610.18359v1",
     "http://arxiv.org/abs/2610.18504v1",
     "http://arxiv.org/abs/2610.18745v1",
@@ -3129,12 +3130,6 @@
   "recent": [
     {
       "date": "2026-11-20",
-      "subcat": "Hacker News Picks",
-      "title": "Making 8-page foldable zines from a single A4 sheet...",
-      "url": "https://news.ycombinator.com/item?id=50559719"
-    },
-    {
-      "date": "2026-11-20",
       "subcat": "Show & Ask HN",
       "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
       "url": "https://news.ycombinator.com/item?id=50306442"
@@ -3186,6 +3181,12 @@
       "subcat": "AI & Machine Learning",
       "title": "paipiange/nvzhuang",
       "url": "https://github.com/paipiange/nvzhuang"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "Research Papers",
+      "title": "Compositional Information Geometry of Probabilistic...",
+      "url": "http://arxiv.org/abs/2610.17886v1"
     }
   ]
 }

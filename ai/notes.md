@@ -224,6 +224,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.24844v1
 
+**Added 2026-11-20**
+
+### [Compositional Information Geometry of Probabilistic Programs](http://arxiv.org/abs/2610.17886v1)
+- **Authors:** Jacek Karwowski, Frank Nielsen, Sam Staton
+- **Published:** 2026-10-13 | **Primary category:** cs.PL
+- **Categories:** cs.PL, cs.CG
+- **Abstract:** We study the compositional, intensional information geometry of probabilistic programs. For a first-order probabilistic programming language with finite random variables, we construct a contravariant lax monoidal functor that, for a program of type $X \to Y$, pulls back a (degenerate) Riemannian metric on $Y$ to $X$. It specialises to the Fisher metric in the case of standard statistical models and to ordinary pullback in the case of deterministic programs. We further justify this construction i...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.17886v1
+
 
 ## Models & Datasets
 
