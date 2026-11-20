@@ -234,6 +234,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~92 stars/day since launch.
 - **Link:** https://github.com/reacher-z/Awesome-REA
 
+**Added 2026-11-20**
+
+### [redhat-et/ripwire](https://github.com/redhat-et/ripwire)
+- **Stats:** 2,556 stars | 179 forks | 100 open issues
+- **Language:** C++ | **Created:** 2026-07-29 | **License:** Apache-2.0
+- **Topics:** agent-tools, call-graph, claude-code, code-analysis, code-intelligence, code-review
+- **What it is:** The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Cut agent token costs by finding code without reading the repo, then keep large codebases off the complexity wall: blast radius, tests to run, quality deltas as you write. Every guess labelled, every loss published. Paddle out with a map.
+- **Growth:** averaging ~22 stars/day since launch.
+- **Link:** https://github.com/redhat-et/ripwire
+
 
 ## Other Cool Projects
 

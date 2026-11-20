@@ -1181,6 +1181,7 @@
     "https://github.com/rakanki911/DLSS5-Swapper",
     "https://github.com/ravindu644/Droidspaces-OSS",
     "https://github.com/reacher-z/Awesome-REA",
+    "https://github.com/redhat-et/ripwire",
     "https://github.com/rehan-remade/universal-modder",
     "https://github.com/remorses/playwriter",
     "https://github.com/remoteinterview/zero",
@@ -3134,12 +3135,6 @@
   "recent": [
     {
       "date": "2026-11-20",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Tmux-restore saves tmux windows and agent...",
-      "url": "https://news.ycombinator.com/item?id=50355009"
-    },
-    {
-      "date": "2026-11-20",
       "subcat": "Hacker News Picks",
       "title": "Claude solves two open problems in the physics of...",
       "url": "https://news.ycombinator.com/item?id=50563148"
@@ -3191,6 +3186,12 @@
       "subcat": "Research Papers",
       "title": "Cost-Efficient Theorem Proving via Agent...",
       "url": "http://arxiv.org/abs/2610.09681v1"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "AI & Machine Learning",
+      "title": "redhat-et/ripwire",
+      "url": "https://github.com/redhat-et/ripwire"
     }
   ]
 }
