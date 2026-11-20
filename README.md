@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2213 entries and counting** · Last updated: 2026-11-20
+**2214 entries and counting** · Last updated: 2026-11-20
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 449 |
-| [AI / LLM Notes](ai/notes.md) | 448 |
+| [AI / LLM Notes](ai/notes.md) | 449 |
 | [Reading List](articles/reading-list.md) | 450 |
 | [Coding Tips](coding-tips/tips.md) | 448 |
 | [Language Notes](languages/notes.md) | 418 |
 
 ## Latest additions
 
+- **2026-11-20** · *Research Papers* — [(Implicitly) Characterizing Probabilistic Polynomial...](http://arxiv.org/abs/2610.14739v1)
 - **2026-11-20** · *Hacker News Picks* — [Nvidia allegedly engineered scarcity by funding AI...](https://news.ycombinator.com/item?id=50493251)
 - **2026-11-20** · *AI & Machine Learning* — [redhat-et/ripwire](https://github.com/redhat-et/ripwire)
 - **2026-11-20** · *Research Papers* — [Cost-Efficient Theorem Proving via Agent...](http://arxiv.org/abs/2610.09681v1)
 - **2026-11-20** · *Hacker News Picks* — [A family tree of software job titles](https://news.ycombinator.com/item?id=50499038)
-- **2026-11-20** · *AI & Machine Learning* — [reacher-z/Awesome-REA](https://github.com/reacher-z/Awesome-REA)
 
 ## How it works
 

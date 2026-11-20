@@ -244,6 +244,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.09681v1
 
+**Added 2026-11-20**
+
+### [(Implicitly) Characterizing Probabilistic Polynomial Time as Used in Cryptography](http://arxiv.org/abs/2610.14739v1)
+- **Authors:** Ugo Dal Lago, Giulia Giusti
+- **Published:** 2026-10-10 | **Primary category:** cs.PL
+- **Categories:** cs.PL, cs.CR
+- **Abstract:** In this paper, we show how a recently introduced $λ$-calculus for randomized computation, called $λ\mathbf{BLL}$, can accurately capture the notions of first- and second-order polytime computations used in cryptographic definitions and proofs. These results, spelled out in the style of so-called \emph{implicit computational complexity}, imply that $λ\mathbf{BLL}$ is sufficiently powerful to express experiments and adversaries as used in cryptography, and that reductions, when formulated within t...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.14739v1
+
 
 ## Models & Datasets
 
