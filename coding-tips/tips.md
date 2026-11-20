@@ -382,6 +382,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50355009
 - **Link:** https://github.com/andrewboldi/tmux-restore
 
+**Added 2026-11-20**
+
+### [Show HN: Making a smart TV dumb and then smart](https://github.com/anubhavmalhotra/r2d2-tv)
+- **Source:** github.com | **Posted:** 2026-10-23 | **By:** animalhot
+- **Community:** 112 points, 81 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50202865
+- **Link:** https://github.com/anubhavmalhotra/r2d2-tv
+
 
 ## Productivity
 

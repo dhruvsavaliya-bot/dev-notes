@@ -890,6 +890,7 @@
     "https://github.com/anthropics/commerce-agents",
     "https://github.com/anthropics/jacobian-lens",
     "https://github.com/antirez/h3.c",
+    "https://github.com/anubhavmalhotra/r2d2-tv",
     "https://github.com/anywhere-labs/deepseek-harness-desktop",
     "https://github.com/anywhere-labs/dsh-desktop",
     "https://github.com/apache/ossie",
@@ -2547,6 +2548,7 @@
     "https://news.ycombinator.com/item?id=50200997",
     "https://news.ycombinator.com/item?id=50202746",
     "https://news.ycombinator.com/item?id=50202762",
+    "https://news.ycombinator.com/item?id=50202865",
     "https://news.ycombinator.com/item?id=50204125",
     "https://news.ycombinator.com/item?id=50207910",
     "https://news.ycombinator.com/item?id=50211474",
@@ -3124,12 +3126,6 @@
   "recent": [
     {
       "date": "2026-11-20",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Carton Clock  A working pendulum clock made...",
-      "url": "https://news.ycombinator.com/item?id=50482279"
-    },
-    {
-      "date": "2026-11-20",
       "subcat": "Lobsters Picks",
       "title": "Distributed, high-performance blob storage on SQLite",
       "url": "https://lobste.rs/s/bk5nfs/distributed_high_performance_blob"
@@ -3181,6 +3177,12 @@
       "subcat": "AI & Machine Learning",
       "title": "lxe/phoneuse",
       "url": "https://github.com/lxe/phoneuse"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Making a smart TV dumb and then smart",
+      "url": "https://news.ycombinator.com/item?id=50202865"
     }
   ]
 }

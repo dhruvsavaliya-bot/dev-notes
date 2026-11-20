@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2204 entries and counting** · Last updated: 2026-11-20
+**2205 entries and counting** · Last updated: 2026-11-20
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 446 |
 | [AI / LLM Notes](ai/notes.md) | 446 |
 | [Reading List](articles/reading-list.md) | 447 |
-| [Coding Tips](coding-tips/tips.md) | 447 |
+| [Coding Tips](coding-tips/tips.md) | 448 |
 | [Language Notes](languages/notes.md) | 418 |
 
 ## Latest additions
 
+- **2026-11-20** · *Show & Ask HN* — [Show HN: Making a smart TV dumb and then smart](https://news.ycombinator.com/item?id=50202865)
 - **2026-11-20** · *AI & Machine Learning* — [lxe/phoneuse](https://github.com/lxe/phoneuse)
 - **2026-11-20** · *Hacker News Picks* — [Claude solves two open problems in the physics of...](https://news.ycombinator.com/item?id=50563148)
 - **2026-11-20** · *Show & Ask HN* — [Show HN: Tmux-restore saves tmux windows and agent...](https://news.ycombinator.com/item?id=50355009)
 - **2026-11-20** · *Models & Datasets* — [m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B)
-- **2026-11-20** · *Other Cool Projects* — [n4ze3m/tiny-voca](https://github.com/n4ze3m/tiny-voca)
 
 ## How it works
 
