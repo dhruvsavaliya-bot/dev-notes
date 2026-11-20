@@ -825,6 +825,7 @@
     "https://github.com/Tencent-Hunyuan/HY-Motion-1.0",
     "https://github.com/Tencent-Hunyuan/Hy-Nomas",
     "https://github.com/TencentCloud/CubeSandbox",
+    "https://github.com/TheBadFella/Pinchflat-NGX",
     "https://github.com/TheoLeeCJ/SemIf",
     "https://github.com/TheoLeeCJ/SemIf-OpenJev",
     "https://github.com/Tianyu199509/DeskBox",
@@ -3101,12 +3102,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Other Cool Projects",
-      "title": "harry0703/MangoDisk",
-      "url": "https://github.com/harry0703/MangoDisk"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Models & Datasets",
       "title": "ccore/Qwen3.5-4B-3D-Coder",
       "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
@@ -3158,6 +3153,12 @@
       "subcat": "Kotlin",
       "title": "SimonSchubert/omalauncher",
       "url": "https://github.com/SimonSchubert/omalauncher"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "Backend & Infrastructure",
+      "title": "TheBadFella/Pinchflat-NGX",
+      "url": "https://github.com/TheBadFella/Pinchflat-NGX"
     }
   ]
 }

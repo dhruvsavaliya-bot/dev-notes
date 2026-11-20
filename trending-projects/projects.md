@@ -435,3 +435,13 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers.
 - **Growth:** averaging ~34 stars/day since launch.
 - **Link:** https://github.com/yetone/alma-relay
+
+**Added 2026-11-20**
+
+### [TheBadFella/Pinchflat-NGX](https://github.com/TheBadFella/Pinchflat-NGX)
+- **Stats:** 303 stars | 12 forks | 6 open issues
+- **Language:** Elixir | **Created:** 2026-06-16 | **License:** AGPL-3.0
+- **Topics:** docker, elixir, media-manager, phoenix-liveview, pinchflat-ngx, self-hosted
+- **What it is:** An enhanced, self-hosted YouTube media manager built on Pinchflat with Material design UI, PostgreSQL support, OIDC SSO, and disk staging.
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/TheBadFella/Pinchflat-NGX
