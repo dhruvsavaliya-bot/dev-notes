@@ -676,6 +676,7 @@
     "https://github.com/BlackLabelHQ/SymphonyRecomp",
     "https://github.com/Blimp-Labs/claude-usage-bar",
     "https://github.com/BlueHeisenberg/SCSKiller",
+    "https://github.com/BuSung-dev/Root-My-Galaxy",
     "https://github.com/BuilderIO/skills",
     "https://github.com/BytePioneer-AI/codex-host",
     "https://github.com/CAPCOM-TD-OSS/REDox",
@@ -3108,12 +3109,6 @@
     {
       "date": "2026-11-20",
       "subcat": "Lobsters Picks",
-      "title": "What is w2rt6byl5nf1opmc-a[.]com?",
-      "url": "https://lobste.rs/s/dgvb5g/what_is_w2rt6byl5nf1opmc_com"
-    },
-    {
-      "date": "2026-11-20",
-      "subcat": "Lobsters Picks",
       "title": "15 million web servers on one VM - smoltcp, DPDK...",
       "url": "https://lobste.rs/s/elmy67/15_million_web_servers_on_one_vm_smoltcp"
     },
@@ -3164,6 +3159,12 @@
       "subcat": "Research Papers",
       "title": "General progress substitutes for specific training...",
       "url": "http://arxiv.org/abs/2611.24844v1"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "Kotlin",
+      "title": "BuSung-dev/Root-My-Galaxy",
+      "url": "https://github.com/BuSung-dev/Root-My-Galaxy"
     }
   ]
 }

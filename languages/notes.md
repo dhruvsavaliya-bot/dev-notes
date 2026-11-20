@@ -183,3 +183,13 @@ Top community posts, organized by programming language.
 - **What it is:** Agentic Android launcher: build your own apps and widgets with AI agents, Omarchy themes, Arch Linux without root
 - **Growth:** averaging ~13 stars/day since launch.
 - **Link:** https://github.com/SimonSchubert/omalauncher
+
+**Added 2026-11-20**
+
+### [BuSung-dev/Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy)
+- **Stats:** 1,656 stars | 330 forks | 667 open issues
+- **Language:** Kotlin | **Created:** 2026-07-17 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499
+- **Growth:** averaging ~13 stars/day since launch.
+- **Link:** https://github.com/BuSung-dev/Root-My-Galaxy
