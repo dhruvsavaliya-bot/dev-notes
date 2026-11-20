@@ -140,6 +140,7 @@
     "http://arxiv.org/abs/2611.15843v1",
     "http://arxiv.org/abs/2611.16627v1",
     "http://arxiv.org/abs/2611.17915v1",
+    "http://arxiv.org/abs/2611.24844v1",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "http://blog.nozomi.space/posts/sw2_dock/",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
@@ -3106,12 +3107,6 @@
   "recent": [
     {
       "date": "2026-11-20",
-      "subcat": "Web & Frontend",
-      "title": "simoarpe/ziggity",
-      "url": "https://github.com/simoarpe/ziggity"
-    },
-    {
-      "date": "2026-11-20",
       "subcat": "Lobsters Picks",
       "title": "What is w2rt6byl5nf1opmc-a[.]com?",
       "url": "https://lobste.rs/s/dgvb5g/what_is_w2rt6byl5nf1opmc_com"
@@ -3163,6 +3158,12 @@
       "subcat": "Lobsters Picks",
       "title": "Mutex poisoning is not for everyone",
       "url": "https://lobste.rs/s/uzn2t6/mutex_poisoning_is_not_for_everyone"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "Research Papers",
+      "title": "General progress substitutes for specific training...",
+      "url": "http://arxiv.org/abs/2611.24844v1"
     }
   ]
 }

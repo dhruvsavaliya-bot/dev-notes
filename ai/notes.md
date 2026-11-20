@@ -214,6 +214,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.13227v1
 
+**Added 2026-11-20**
+
+### [General progress substitutes for specific training data in language models](http://arxiv.org/abs/2611.24844v1)
+- **Authors:** Mark Marosi, Peter Antal
+- **Published:** 2026-11-18 | **Primary category:** cs.CL
+- **Categories:** cs.CL, cs.AI
+- **Abstract:** Language models acquire their capabilities from training data, and developers withhold data during training to keep models from learning capabilities that could be misused. How long this delays a capability, and how much data is needed to acquire it later, is unknown. Here we show that the general progress a model makes on the rest of its training data substitutes for the data that was withheld. We withheld the training signal for individual skills in models of chess, Othello, molecular strings,...
+- **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.24844v1
+
 
 ## Models & Datasets
 
