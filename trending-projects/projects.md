@@ -357,6 +357,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~130 stars/day since launch.
 - **Link:** https://github.com/n4ze3m/tiny-voca
 
+**Added 2026-11-20**
+
+### [Minireel/HGhub](https://github.com/Minireel/HGhub)
+- **Stats:** 10,414 stars | 8,769 forks | 8 open issues
+- **Language:** Rust | **Created:** 2026-11-03 | **License:** NOASSERTION
+- **Topics:** android, drama, free, movie-web-app, reels, windows
+- **What it is:** Plug-in media player
+- **Growth:** averaging ~612 stars/day since launch.
+- **Link:** https://github.com/Minireel/HGhub
+
 
 ## Web & Frontend
 

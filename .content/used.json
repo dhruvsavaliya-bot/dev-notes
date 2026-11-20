@@ -770,6 +770,7 @@
     "https://github.com/MiaAI-Lab/sparkDash",
     "https://github.com/MikuLeaks/MikuSB",
     "https://github.com/MiniMax-AI/MiniMax-H3",
+    "https://github.com/Minireel/HGhub",
     "https://github.com/Miuzarte/ScrcpyForAndroid",
     "https://github.com/MoonshotAI/Kimi-K3",
     "https://github.com/MorpheApp/PotHelper",
@@ -3138,12 +3139,6 @@
   "recent": [
     {
       "date": "2026-11-20",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Making a smart TV dumb and then smart",
-      "url": "https://news.ycombinator.com/item?id=50202865"
-    },
-    {
-      "date": "2026-11-20",
       "subcat": "Hacker News Picks",
       "title": "How to CAD Almost Anything",
       "url": "https://news.ycombinator.com/item?id=50528119"
@@ -3195,6 +3190,12 @@
       "subcat": "Research Papers",
       "title": "(Implicitly) Characterizing Probabilistic Polynomial...",
       "url": "http://arxiv.org/abs/2610.14739v1"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "Other Cool Projects",
+      "title": "Minireel/HGhub",
+      "url": "https://github.com/Minireel/HGhub"
     }
   ]
 }
