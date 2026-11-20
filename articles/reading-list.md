@@ -211,6 +211,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50528119
 - **Link:** https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/
 
+**Added 2026-11-20**
+
+### [A family tree of software job titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)
+- **Source:** zwischenzugs.com | **Posted:** 2026-11-14 | **By:** umerf
+- **Community:** 463 points, 220 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50499038
+- **Link:** https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/
+
 
 ## Lobsters Picks
 

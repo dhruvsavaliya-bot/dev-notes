@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2209 entries and counting** · Last updated: 2026-11-20
+**2210 entries and counting** · Last updated: 2026-11-20
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 448 |
 | [AI / LLM Notes](ai/notes.md) | 447 |
-| [Reading List](articles/reading-list.md) | 448 |
+| [Reading List](articles/reading-list.md) | 449 |
 | [Coding Tips](coding-tips/tips.md) | 448 |
 | [Language Notes](languages/notes.md) | 418 |
 
 ## Latest additions
 
+- **2026-11-20** · *Hacker News Picks* — [A family tree of software job titles](https://news.ycombinator.com/item?id=50499038)
 - **2026-11-20** · *AI & Machine Learning* — [reacher-z/Awesome-REA](https://github.com/reacher-z/Awesome-REA)
 - **2026-11-20** · *Research Papers* — [Compositional Information Geometry of Probabilistic...](http://arxiv.org/abs/2610.17886v1)
 - **2026-11-20** · *AI & Machine Learning* — [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang)
 - **2026-11-20** · *Hacker News Picks* — [How to CAD Almost Anything](https://news.ycombinator.com/item?id=50528119)
-- **2026-11-20** · *Show & Ask HN* — [Show HN: Making a smart TV dumb and then smart](https://news.ycombinator.com/item?id=50202865)
 
 ## How it works
 

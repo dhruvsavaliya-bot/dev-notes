@@ -2709,6 +2709,7 @@
     "https://news.ycombinator.com/item?id=50492456",
     "https://news.ycombinator.com/item?id=50494696",
     "https://news.ycombinator.com/item?id=50497589",
+    "https://news.ycombinator.com/item?id=50499038",
     "https://news.ycombinator.com/item?id=50500963",
     "https://news.ycombinator.com/item?id=50506180",
     "https://news.ycombinator.com/item?id=50510042",
@@ -3126,15 +3127,10 @@
     "https://ziglang.org/devlog/2026/#2026-08-27",
     "https://ziglang.org/devlog/2026/#2026-10-24",
     "https://zoey-on-github.github.io/blog/macgcc.html",
-    "https://zserge.com/posts/worst-htmx-ever/"
+    "https://zserge.com/posts/worst-htmx-ever/",
+    "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/"
   ],
   "recent": [
-    {
-      "date": "2026-11-20",
-      "subcat": "Other Cool Projects",
-      "title": "n4ze3m/tiny-voca",
-      "url": "https://github.com/n4ze3m/tiny-voca"
-    },
     {
       "date": "2026-11-20",
       "subcat": "Models & Datasets",
@@ -3188,6 +3184,12 @@
       "subcat": "AI & Machine Learning",
       "title": "reacher-z/Awesome-REA",
       "url": "https://github.com/reacher-z/Awesome-REA"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "Hacker News Picks",
+      "title": "A family tree of software job titles",
+      "url": "https://news.ycombinator.com/item?id=50499038"
     }
   ]
 }
