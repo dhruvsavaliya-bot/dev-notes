@@ -193,6 +193,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50559719
 - **Link:** https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/
 
+**Added 2026-11-20**
+
+### [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)
+- **Source:** www.anthropic.com | **Posted:** 2026-11-19 | **By:** cybermango
+- **Community:** 501 points, 232 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50563148
+- **Link:** https://www.anthropic.com/research/claude-black-hole-physics
+
 
 ## Lobsters Picks
 

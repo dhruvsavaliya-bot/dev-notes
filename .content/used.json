@@ -2718,6 +2718,7 @@
     "https://news.ycombinator.com/item?id=50547583",
     "https://news.ycombinator.com/item?id=50554935",
     "https://news.ycombinator.com/item?id=50559719",
+    "https://news.ycombinator.com/item?id=50563148",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2943,6 +2944,7 @@
     "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
     "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
     "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "https://www.anthropic.com/research/claude-black-hole-physics",
     "https://www.anthropic.com/threat-intelligence-report-september-2026",
     "https://www.apple.com/iphone-duo/",
     "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
@@ -3121,12 +3123,6 @@
   "recent": [
     {
       "date": "2026-11-20",
-      "subcat": "Research Papers",
-      "title": "General progress substitutes for specific training...",
-      "url": "http://arxiv.org/abs/2611.24844v1"
-    },
-    {
-      "date": "2026-11-20",
       "subcat": "Kotlin",
       "title": "BuSung-dev/Root-My-Galaxy",
       "url": "https://github.com/BuSung-dev/Root-My-Galaxy"
@@ -3178,6 +3174,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Tmux-restore saves tmux windows and agent...",
       "url": "https://news.ycombinator.com/item?id=50355009"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "Hacker News Picks",
+      "title": "Claude solves two open problems in the physics of...",
+      "url": "https://news.ycombinator.com/item?id=50563148"
     }
   ]
 }
