@@ -951,6 +951,7 @@
     "https://github.com/databufflabs/databuff",
     "https://github.com/dataelement/dsh-desktop",
     "https://github.com/davidondrej/skills",
+    "https://github.com/dbreunig/nesformer",
     "https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course",
     "https://github.com/deepfounder-ai/desigma",
     "https://github.com/deeplethe/utopia",
@@ -2599,6 +2600,7 @@
     "https://news.ycombinator.com/item?id=50301479",
     "https://news.ycombinator.com/item?id=50303172",
     "https://news.ycombinator.com/item?id=50305320",
+    "https://news.ycombinator.com/item?id=50306442",
     "https://news.ycombinator.com/item?id=50307723",
     "https://news.ycombinator.com/item?id=50312756",
     "https://news.ycombinator.com/item?id=50315782",
@@ -3115,12 +3117,6 @@
   "recent": [
     {
       "date": "2026-11-20",
-      "subcat": "Kotlin",
-      "title": "SimonSchubert/omalauncher",
-      "url": "https://github.com/SimonSchubert/omalauncher"
-    },
-    {
-      "date": "2026-11-20",
       "subcat": "Backend & Infrastructure",
       "title": "TheBadFella/Pinchflat-NGX",
       "url": "https://github.com/TheBadFella/Pinchflat-NGX"
@@ -3172,6 +3168,12 @@
       "subcat": "Hacker News Picks",
       "title": "Making 8-page foldable zines from a single A4 sheet...",
       "url": "https://news.ycombinator.com/item?id=50559719"
+    },
+    {
+      "date": "2026-11-20",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "url": "https://news.ycombinator.com/item?id=50306442"
     }
   ]
 }

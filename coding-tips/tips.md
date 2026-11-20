@@ -364,6 +364,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50482279
 - **Link:** https://www.niklasroy.com/carton-clock/
 
+**Added 2026-11-20**
+
+### [Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer)
+- **Source:** github.com | **Posted:** 2026-10-30 | **By:** dbreunig
+- **Community:** 298 points, 155 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50306442
+- **Link:** https://github.com/dbreunig/nesformer
+
 
 ## Productivity
 
