@@ -442,6 +442,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/bk5nfs/distributed_high_performance_blob
 - **Link:** https://zerodha.tech/blog/high-performance-distributed-blob-storage/
 
+**Added 2026-11-21**
+
+### [cursor:pointer on buttons](https://blog.kizu.dev/cursors/)
+- **Source:** blog.kizu.dev | **Posted:** 2026-11-15 | **By:** two
+- **Community:** 34 score, 16 comments on Lobsters
+- **Tags:** a11y, css, web
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/h8tghc/cursor_pointer_on_buttons
+- **Link:** https://blog.kizu.dev/cursors/
+
 
 ## Security
 

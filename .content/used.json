@@ -263,6 +263,7 @@
     "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/",
     "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
     "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+    "https://blog.kizu.dev/cursors/",
     "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
     "https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15",
     "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
@@ -1815,6 +1816,7 @@
     "https://lobste.rs/s/gu7bow/node_js_wednesday_october_21_2026",
     "https://lobste.rs/s/gvy5gz/why_is_this_fingerprinting_script",
     "https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait",
+    "https://lobste.rs/s/h8tghc/cursor_pointer_on_buttons",
     "https://lobste.rs/s/haq46t/squalk_old_school_forum_engine_built_on",
     "https://lobste.rs/s/hccdqa/shipping_jpeg_xl_chrome",
     "https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not",
@@ -3142,12 +3144,6 @@
   "recent": [
     {
       "date": "2026-11-20",
-      "subcat": "AI & Machine Learning",
-      "title": "reacher-z/Awesome-REA",
-      "url": "https://github.com/reacher-z/Awesome-REA"
-    },
-    {
-      "date": "2026-11-20",
       "subcat": "Hacker News Picks",
       "title": "A family tree of software job titles",
       "url": "https://news.ycombinator.com/item?id=50499038"
@@ -3199,6 +3195,12 @@
       "subcat": "Show & Ask HN",
       "title": "I'm Peter Roberts, immigration attorney who does work...",
       "url": "https://news.ycombinator.com/item?id=50577613"
+    },
+    {
+      "date": "2026-11-21",
+      "subcat": "Lobsters Picks",
+      "title": "cursor:pointer on buttons",
+      "url": "https://lobste.rs/s/h8tghc/cursor_pointer_on_buttons"
     }
   ]
 }
