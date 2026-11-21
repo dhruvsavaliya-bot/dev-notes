@@ -452,6 +452,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/h8tghc/cursor_pointer_on_buttons
 - **Link:** https://blog.kizu.dev/cursors/
 
+**Added 2026-11-21**
+
+### [Open Graph images with Astro and Typst](https://eaj.no/posts/open-graph-images-with-typst/)
+- **Source:** eaj.no | **Posted:** 2026-11-10 | **By:** eaj
+- **Community:** 53 score, 16 comments on Lobsters
+- **Tags:** web
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/gj5obq/open_graph_images_with_astro_typst
+- **Link:** https://eaj.no/posts/open-graph-images-with-typst/
+
 
 ## Security
 
