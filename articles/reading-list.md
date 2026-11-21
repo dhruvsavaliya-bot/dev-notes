@@ -229,6 +229,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50493251
 - **Link:** https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus
 
+**Added 2026-11-21**
+
+### [LLMs are not superhuman at reading and writing neural network weights](https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/)
+- **Source:** www.seangoedecke.com | **Posted:** 2026-11-02 | **By:** agrm
+- **Community:** 152 points, 23 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50344861
+- **Link:** https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/
+
 
 ## Lobsters Picks
 
