@@ -391,6 +391,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50202865
 - **Link:** https://github.com/anubhavmalhotra/r2d2-tv
 
+**Added 2026-11-21**
+
+### [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=50577613)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-20 | **By:** proberts
+- **Community:** 93 points, 130 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50577613
+- **Link:** https://news.ycombinator.com/item?id=50577613
+
 
 ## Productivity
 

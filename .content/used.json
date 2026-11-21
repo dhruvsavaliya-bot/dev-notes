@@ -2734,6 +2734,7 @@
     "https://news.ycombinator.com/item?id=50554935",
     "https://news.ycombinator.com/item?id=50559719",
     "https://news.ycombinator.com/item?id=50563148",
+    "https://news.ycombinator.com/item?id=50577613",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -3141,12 +3142,6 @@
   "recent": [
     {
       "date": "2026-11-20",
-      "subcat": "Research Papers",
-      "title": "Compositional Information Geometry of Probabilistic...",
-      "url": "http://arxiv.org/abs/2610.17886v1"
-    },
-    {
-      "date": "2026-11-20",
       "subcat": "AI & Machine Learning",
       "title": "reacher-z/Awesome-REA",
       "url": "https://github.com/reacher-z/Awesome-REA"
@@ -3198,6 +3193,12 @@
       "subcat": "TypeScript",
       "title": "Paradigm-Study/claude-share",
       "url": "https://github.com/Paradigm-Study/claude-share"
+    },
+    {
+      "date": "2026-11-21",
+      "subcat": "Show & Ask HN",
+      "title": "I'm Peter Roberts, immigration attorney who does work...",
+      "url": "https://news.ycombinator.com/item?id=50577613"
     }
   ]
 }
