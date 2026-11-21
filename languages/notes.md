@@ -226,3 +226,13 @@ Top community posts, organized by programming language.
 - **What it is:** Meet Foreman, an eve Software Factory.
 - **Growth:** averaging ~11 stars/day since launch.
 - **Link:** https://github.com/vercel-labs/eve-software-factory-template
+
+**Added 2026-11-21**
+
+### [danielravina/stemkit](https://github.com/danielravina/stemkit)
+- **Stats:** 1,295 stars | 164 forks | 21 open issues
+- **Language:** TypeScript | **Created:** 2026-08-24 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Split any YouTube song into stems
+- **Growth:** averaging ~14 stars/day since launch.
+- **Link:** https://github.com/danielravina/stemkit
