@@ -165,6 +165,15 @@ Top community posts, organized by programming language.
 - **Growth:** averaging ~5 stars/day since launch.
 - **Link:** https://github.com/25Cloud/TuraIDC
 
+**Added 2026-11-22**
+
+### [Show HN: I recreated Papers Please but you're deciding which YC startups to fund](https://termsheetplease.com/)
+- **Source:** termsheetplease.com | **Posted:** 2026-11-11 | **By:** bolau
+- **Community:** 249 points, 98 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50457230
+- **Link:** https://termsheetplease.com/
+
 
 ## Java
 

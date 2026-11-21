@@ -2728,6 +2728,7 @@
     "https://news.ycombinator.com/item?id=50450488",
     "https://news.ycombinator.com/item?id=50454625",
     "https://news.ycombinator.com/item?id=50454951",
+    "https://news.ycombinator.com/item?id=50457230",
     "https://news.ycombinator.com/item?id=50459703",
     "https://news.ycombinator.com/item?id=50462177",
     "https://news.ycombinator.com/item?id=50468720",
@@ -2935,6 +2936,7 @@
     "https://tenso.rs/demos/fast-neural-style/",
     "https://teorth.github.io/tao-web/six-math-essentials.html",
     "https://terminal2shell.com/",
+    "https://termsheetplease.com/",
     "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
     "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
     "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
@@ -3170,12 +3172,6 @@
   "recent": [
     {
       "date": "2026-11-21",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Steal My Bitcoin",
-      "url": "https://news.ycombinator.com/item?id=50224916"
-    },
-    {
-      "date": "2026-11-21",
       "subcat": "C++",
       "title": "MusicTribeOpenSource/0700-AAM",
       "url": "https://github.com/MusicTribeOpenSource/0700-AAM"
@@ -3227,6 +3223,12 @@
       "subcat": "Hacker News Picks",
       "title": "Astra can read and write weights to improve Qwen",
       "url": "https://news.ycombinator.com/item?id=50341174"
+    },
+    {
+      "date": "2026-11-22",
+      "subcat": "PHP",
+      "title": "Show HN: I recreated Papers Please but you're...",
+      "url": "https://news.ycombinator.com/item?id=50457230"
     }
   ]
 }
