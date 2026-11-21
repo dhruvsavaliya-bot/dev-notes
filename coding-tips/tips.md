@@ -418,6 +418,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50224916
 - **Link:** https://stealmybitcoin.com/
 
+**Added 2026-11-22**
+
+### [Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain)
+- **Source:** github.com | **Posted:** 2026-11-15 | **By:** MarinhoD
+- **Community:** 67 points, 64 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50504072
+- **Link:** https://github.com/matheuzgomes/gawain
+
 
 ## Productivity
 

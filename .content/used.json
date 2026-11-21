@@ -1112,6 +1112,7 @@
     "https://github.com/magnitudedev/magnitude",
     "https://github.com/makecindy/cindy",
     "https://github.com/marorateb/burning-studio-desktop",
+    "https://github.com/matheuzgomes/gawain",
     "https://github.com/mattprusak/autoresearch-genealogy",
     "https://github.com/mayswind/ezbookkeeping",
     "https://github.com/mchughalex/skate3recomp",
@@ -2744,6 +2745,7 @@
     "https://news.ycombinator.com/item?id=50497589",
     "https://news.ycombinator.com/item?id=50499038",
     "https://news.ycombinator.com/item?id=50500963",
+    "https://news.ycombinator.com/item?id=50504072",
     "https://news.ycombinator.com/item?id=50506180",
     "https://news.ycombinator.com/item?id=50510042",
     "https://news.ycombinator.com/item?id=50513451",
@@ -3173,12 +3175,6 @@
   "recent": [
     {
       "date": "2026-11-21",
-      "subcat": "JavaScript",
-      "title": "Yes, {} + [] = 0. No, JavaScript Isnt Broken",
-      "url": "https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob"
-    },
-    {
-      "date": "2026-11-21",
       "subcat": "Hacker News Picks",
       "title": "A Man from the Future: Why Johnny Can't Stop...",
       "url": "https://news.ycombinator.com/item?id=50247928"
@@ -3230,6 +3226,12 @@
       "subcat": "Research Papers",
       "title": "Reading or Remembering? Measuring Temporal...",
       "url": "http://arxiv.org/abs/2611.21554v1"
+    },
+    {
+      "date": "2026-11-22",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Gawain  Require type hints on all Python...",
+      "url": "https://news.ycombinator.com/item?id=50504072"
     }
   ]
 }
