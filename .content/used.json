@@ -539,6 +539,7 @@
     "https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81",
     "https://dev.to/startupcafe/best-free-apis-for-developers-the-complete-categorized-list-27oc",
     "https://dev.to/startupcafe/build-in-public-is-everywhere-does-it-actually-get-you-customers-2hlh",
+    "https://dev.to/startupcafe/getting-your-first-10-users-is-harder-than-building-the-product-or-is-it-3omh",
     "https://dev.to/startupcafe/tips-to-work-on-your-side-project-while-working-full-time-n50",
     "https://dev.to/startupcafe/your-private-search-engine-might-run-on-bing-this-one-builds-its-own-index-4all",
     "https://dev.to/stherzada/como-eu-aprendi-a-aprender-e-por-que-a-ia-nao-veio-pra-pensar-por-voce-fhg",
@@ -3163,12 +3164,6 @@
   "recent": [
     {
       "date": "2026-11-21",
-      "subcat": "TypeScript",
-      "title": "vercel-labs/eve-software-factory-template",
-      "url": "https://github.com/vercel-labs/eve-software-factory-template"
-    },
-    {
-      "date": "2026-11-21",
       "subcat": "Show & Ask HN",
       "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for...",
       "url": "https://news.ycombinator.com/item?id=50439000"
@@ -3220,6 +3215,12 @@
       "subcat": "Other Cool Projects",
       "title": "justrach/nanolight",
       "url": "https://github.com/justrach/nanolight"
+    },
+    {
+      "date": "2026-11-21",
+      "subcat": "JavaScript",
+      "title": "Getting Your First 10 Users Is Harder Than Building...",
+      "url": "https://dev.to/startupcafe/getting-your-first-10-users-is-harder-than-building-the-product-or-is-it-3omh"
     }
   ]
 }

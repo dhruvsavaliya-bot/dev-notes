@@ -41,6 +41,15 @@ Top community posts, organized by programming language.
 - **Summary:** JavaScript is a legendary programming language. Created in the mid-1990s in just 10 days, it was born...
 - **Link:** https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob
 
+**Added 2026-11-21**
+
+### [Getting Your First 10 Users Is Harder Than Building the Product (Or Is It?)](https://dev.to/startupcafe/getting-your-first-10-users-is-harder-than-building-the-product-or-is-it-3omh)
+- **Author:** Hanzla Baig | **Published:** Oct 26 | **Read time:** 14 min
+- **Community:** 59 reactions, 32 comments -- a top post in #javascript
+- **Tags:** career, webdev, discuss, javascript
+- **Summary:** TL;DR: Building proves you can create a solution. Finding users proves the solution matters to...
+- **Link:** https://dev.to/startupcafe/getting-your-first-10-users-is-harder-than-building-the-product-or-is-it-3omh
+
 
 ## Rust
 
