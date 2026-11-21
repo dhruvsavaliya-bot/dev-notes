@@ -400,6 +400,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50577613
 - **Link:** https://news.ycombinator.com/item?id=50577613
 
+**Added 2026-11-21**
+
+### [Show HN: A 15 MB self-hosted Netflix and Spotify for your media server](https://github.com/HolyArrs/HolyArrs)
+- **Source:** github.com | **Posted:** 2026-11-10 | **By:** CoderLuii
+- **Community:** 171 points, 138 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50439000
+- **Link:** https://github.com/HolyArrs/HolyArrs
+
 
 ## Productivity
 

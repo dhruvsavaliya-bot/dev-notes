@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2224 entries and counting** · Last updated: 2026-11-21
+**2225 entries and counting** · Last updated: 2026-11-21
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 452 |
 | [AI / LLM Notes](ai/notes.md) | 450 |
 | [Reading List](articles/reading-list.md) | 452 |
-| [Coding Tips](coding-tips/tips.md) | 449 |
+| [Coding Tips](coding-tips/tips.md) | 450 |
 | [Language Notes](languages/notes.md) | 421 |
 
 ## Latest additions
 
+- **2026-11-21** · *Show & Ask HN* — [Show HN: A 15 MB self-hosted Netflix and Spotify for...](https://news.ycombinator.com/item?id=50439000)
 - **2026-11-21** · *TypeScript* — [vercel-labs/eve-software-factory-template](https://github.com/vercel-labs/eve-software-factory-template)
 - **2026-11-21** · *Models & Datasets* — [XYZAILab/XYZ-Aquila-SFT](https://huggingface.co/datasets/XYZAILab/XYZ-Aquila-SFT)
 - **2026-11-21** · *Backend & Infrastructure* — [lllucccian/Deekseep](https://github.com/lllucccian/Deekseep)
 - **2026-11-21** · *Lobsters Picks* — [Open Graph images with Astro and Typst](https://lobste.rs/s/gj5obq/open_graph_images_with_astro_typst)
-- **2026-11-21** · *Other Cool Projects* — [ToomRamcharan/tv-vibehack](https://github.com/ToomRamcharan/tv-vibehack)
 
 ## How it works
 
