@@ -377,6 +377,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~10 stars/day since launch.
 - **Link:** https://github.com/ToomRamcharan/tv-vibehack
 
+**Added 2026-11-21**
+
+### [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5)
+- **Stats:** 12,378 stars | 1,545 forks | 1,007 open issues
+- **Language:** C++ | **Created:** 2026-06-09 | **License:** GPL-2.0
+- **Topics:** cpp, gpu, linux, macos, playstation5, ps5
+- **What it is:** PlayStation 5 translation layer for Windows, Linux and macOS
+- **Growth:** averaging ~75 stars/day since launch.
+- **Link:** https://github.com/KytyPS5/KytyPS5
+
 
 ## Web & Frontend
 

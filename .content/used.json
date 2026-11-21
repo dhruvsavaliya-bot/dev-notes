@@ -748,6 +748,7 @@
     "https://github.com/Krishnagangwal/CS-Fundamentals",
     "https://github.com/Kuberwastaken/claurst",
     "https://github.com/Kuddev/pebrel",
+    "https://github.com/KytyPS5/KytyPS5",
     "https://github.com/LAMDA-NeSy/Research-Starter-Kit",
     "https://github.com/LaoFeng-mouse/flyingmouse-format",
     "https://github.com/LegadoTeam/legado",
@@ -3154,12 +3155,6 @@
   "recent": [
     {
       "date": "2026-11-21",
-      "subcat": "TypeScript",
-      "title": "Paradigm-Study/claude-share",
-      "url": "https://github.com/Paradigm-Study/claude-share"
-    },
-    {
-      "date": "2026-11-21",
       "subcat": "Show & Ask HN",
       "title": "I'm Peter Roberts, immigration attorney who does work...",
       "url": "https://news.ycombinator.com/item?id=50577613"
@@ -3211,6 +3206,12 @@
       "subcat": "Hacker News Picks",
       "title": "LLMs are not superhuman at reading and writing neural...",
       "url": "https://news.ycombinator.com/item?id=50344861"
+    },
+    {
+      "date": "2026-11-21",
+      "subcat": "Other Cool Projects",
+      "title": "KytyPS5/KytyPS5",
+      "url": "https://github.com/KytyPS5/KytyPS5"
     }
   ]
 }
