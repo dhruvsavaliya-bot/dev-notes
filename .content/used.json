@@ -1091,6 +1091,7 @@
     "https://github.com/liangxiegame/QFramework",
     "https://github.com/ling-stack-org/ling-stack",
     "https://github.com/lingyired/status-trio",
+    "https://github.com/lllucccian/Deekseep",
     "https://github.com/lnkiai/m3e-canvas",
     "https://github.com/looplj/reveric",
     "https://github.com/loopx-project/loopx",
@@ -3147,12 +3148,6 @@
   "recent": [
     {
       "date": "2026-11-20",
-      "subcat": "AI & Machine Learning",
-      "title": "redhat-et/ripwire",
-      "url": "https://github.com/redhat-et/ripwire"
-    },
-    {
-      "date": "2026-11-20",
       "subcat": "Hacker News Picks",
       "title": "Nvidia allegedly engineered scarcity by funding AI...",
       "url": "https://news.ycombinator.com/item?id=50493251"
@@ -3204,6 +3199,12 @@
       "subcat": "Lobsters Picks",
       "title": "Open Graph images with Astro and Typst",
       "url": "https://lobste.rs/s/gj5obq/open_graph_images_with_astro_typst"
+    },
+    {
+      "date": "2026-11-21",
+      "subcat": "Backend & Infrastructure",
+      "title": "lllucccian/Deekseep",
+      "url": "https://github.com/lllucccian/Deekseep"
     }
   ]
 }

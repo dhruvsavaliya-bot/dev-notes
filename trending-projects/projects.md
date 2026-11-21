@@ -525,3 +525,13 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** An enhanced, self-hosted YouTube media manager built on Pinchflat with Material design UI, PostgreSQL support, OIDC SSO, and disk staging.
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/TheBadFella/Pinchflat-NGX
+
+**Added 2026-11-21**
+
+### [lllucccian/Deekseep](https://github.com/lllucccian/Deekseep)
+- **Stats:** 479 stars | 47 forks | 7 open issues
+- **Language:** Java | **Created:** 2026-07-15 | **License:** GPL-3.0
+- **Topics:** android, deepseek, libxposed, lsposed, termux, xposed
+- **What it is:** Deekseep LSPosed: multi-API Xposed module for DeepSeek Android; Mainland 2.2.2/2.3.0 and Google Play 2.2.2.
+- **Growth:** averaging ~3 stars/day since launch.
+- **Link:** https://github.com/lllucccian/Deekseep
