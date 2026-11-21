@@ -1569,6 +1569,7 @@
     "https://huggingface.co/google/embeddinggemma-2",
     "https://huggingface.co/google/siglip-base-patch16-224",
     "https://huggingface.co/harness-hub/Qwen3.8-27B-opencode-adapted",
+    "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted-GGUF",
     "https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
     "https://huggingface.co/inclusionAI/Ming-3.0-audio-flash",
     "https://huggingface.co/jaredpalmer/kev-4b",
@@ -3176,12 +3177,6 @@
   "recent": [
     {
       "date": "2026-11-21",
-      "subcat": "Other Cool Projects",
-      "title": "justrach/nanolight",
-      "url": "https://github.com/justrach/nanolight"
-    },
-    {
-      "date": "2026-11-21",
       "subcat": "JavaScript",
       "title": "Getting Your First 10 Users Is Harder Than Building...",
       "url": "https://dev.to/startupcafe/getting-your-first-10-users-is-harder-than-building-the-product-or-is-it-3omh"
@@ -3233,6 +3228,12 @@
       "subcat": "AI & Machine Learning",
       "title": "modelflare-ai/AnyModelBot",
       "url": "https://github.com/modelflare-ai/AnyModelBot"
+    },
+    {
+      "date": "2026-11-22",
+      "subcat": "Models & Datasets",
+      "title": "harness-hub/Qwen3.8-27B-pi-adapted-GGUF",
+      "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted-GGUF"
     }
   ]
 }

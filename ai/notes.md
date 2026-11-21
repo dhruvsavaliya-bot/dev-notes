@@ -456,6 +456,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/XYZAILab/XYZ-Aquila-SFT
 
+**Added 2026-11-22**
+
+### [harness-hub/Qwen3.8-27B-pi-adapted-GGUF](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted-GGUF)
+- **Stats:** 90 likes | 5,483 downloads
+- **Kind:** Hugging Face model | **Task:** n/a | **Created:** 2026-11-16
+- **Tags:** gguf, llama.cpp, lora, agents, harbor, pi
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted-GGUF
+
 
 ## LLMs
 
