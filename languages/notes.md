@@ -236,3 +236,15 @@ Top community posts, organized by programming language.
 - **What it is:** Split any YouTube song into stems
 - **Growth:** averaging ~14 stars/day since launch.
 - **Link:** https://github.com/danielravina/stemkit
+
+## C++
+
+**Added 2026-11-21**
+
+### [MusicTribeOpenSource/0700-AAM](https://github.com/MusicTribeOpenSource/0700-AAM)
+- **Stats:** 618 stars | 96 forks | 42 open issues
+- **Language:** C++ | **Created:** 2026-10-14 | **License:** AGPL-3.0
+- **Topics:** be-0700-aam, behringer, kick, music-tribe, open-source-hardware
+- **What it is:** Professional Standalone Music Production Center with 7" Touch Screen, Sampler, Touch Strip and Music Tribe JAM DAW
+- **Growth:** averaging ~16 stars/day since launch.
+- **Link:** https://github.com/MusicTribeOpenSource/0700-AAM
