@@ -427,6 +427,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50504072
 - **Link:** https://github.com/matheuzgomes/gawain
 
+**Added 2026-11-22**
+
+### [Show HN: Mastra Factory, the open-source software factory we use to build Mastra](https://news.ycombinator.com/item?id=50548660)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-18 | **By:** codekarate
+- **Community:** 156 points, 44 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50548660
+- **Link:** https://news.ycombinator.com/item?id=50548660
+
 
 ## Productivity
 
