@@ -50,6 +50,15 @@ Top community posts, organized by programming language.
 - **Summary:** TL;DR: Building proves you can create a solution. Finding users proves the solution matters to...
 - **Link:** https://dev.to/startupcafe/getting-your-first-10-users-is-harder-than-building-the-product-or-is-it-3omh
 
+**Added 2026-11-21**
+
+### [One Month After the Hackathon: Why My 4-Service App Stopped Working (and What @mansio Caught in the Verifiers)](https://dev.to/earlgreyhot1701d/one-month-after-the-hackathon-why-my-4-service-app-stopped-working-and-what-mansio-caught-in-the-3i8h)
+- **Author:** Earl Grey | **Published:** Nov 13 | **Read time:** 6 min
+- **Community:** 54 reactions, 34 comments -- a top post in #javascript
+- **Tags:** ai, javascript, buildinpublic, opensource
+- **Summary:** What breaks a month after a hackathon, and what a fellow DEV writer caught in the verifiers.   TL;DR:...
+- **Link:** https://dev.to/earlgreyhot1701d/one-month-after-the-hackathon-why-my-4-service-app-stopped-working-and-what-mansio-caught-in-the-3i8h
+
 
 ## Rust
 
