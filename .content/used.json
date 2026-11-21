@@ -1130,6 +1130,7 @@
     "https://github.com/mlc-ai/web-llm",
     "https://github.com/mmparko/dsh-purge",
     "https://github.com/mnfst/awesome-free-llm-apis",
+    "https://github.com/modelflare-ai/AnyModelBot",
     "https://github.com/morganlinton/BeautifulRust",
     "https://github.com/mottopanikeiku/doomformer",
     "https://github.com/mshumer/Claude-of-Duty",
@@ -3175,12 +3176,6 @@
   "recent": [
     {
       "date": "2026-11-21",
-      "subcat": "Hacker News Picks",
-      "title": "A Man from the Future: Why Johnny Can't Stop...",
-      "url": "https://news.ycombinator.com/item?id=50247928"
-    },
-    {
-      "date": "2026-11-21",
       "subcat": "Other Cool Projects",
       "title": "justrach/nanolight",
       "url": "https://github.com/justrach/nanolight"
@@ -3232,6 +3227,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Gawain  Require type hints on all Python...",
       "url": "https://news.ycombinator.com/item?id=50504072"
+    },
+    {
+      "date": "2026-11-22",
+      "subcat": "AI & Machine Learning",
+      "title": "modelflare-ai/AnyModelBot",
+      "url": "https://github.com/modelflare-ai/AnyModelBot"
     }
   ]
 }

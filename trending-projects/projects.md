@@ -244,6 +244,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~22 stars/day since launch.
 - **Link:** https://github.com/redhat-et/ripwire
 
+**Added 2026-11-22**
+
+### [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot)
+- **Stats:** 4,963 stars | 113 forks | 0 open issues
+- **Language:** Python | **Created:** 2026-10-27 | **License:** MIT
+- **Topics:** ai-agent, ai-assistant, chatbot, claude, computer-use, deepseek
+- **What it is:** 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.
+- **Growth:** averaging ~190 stars/day since launch.
+- **Link:** https://github.com/modelflare-ai/AnyModelBot
+
 
 ## Other Cool Projects
 
