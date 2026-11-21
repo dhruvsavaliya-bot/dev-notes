@@ -437,6 +437,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/m-a-p/YuE2-3B
 
+**Added 2026-11-21**
+
+### [XYZAILab/XYZ-Aquila-SFT](https://huggingface.co/datasets/XYZAILab/XYZ-Aquila-SFT)
+- **Stats:** 379 likes | 725 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-07-22
+- **Tags:** agent, tool-use, multi-turn, supervised-fine-tuning, web-search, xyz-aquila
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/XYZAILab/XYZ-Aquila-SFT
+
 
 ## LLMs
 

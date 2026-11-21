@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2222 entries and counting** · Last updated: 2026-11-21
+**2223 entries and counting** · Last updated: 2026-11-21
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 452 |
-| [AI / LLM Notes](ai/notes.md) | 449 |
+| [AI / LLM Notes](ai/notes.md) | 450 |
 | [Reading List](articles/reading-list.md) | 452 |
 | [Coding Tips](coding-tips/tips.md) | 449 |
 | [Language Notes](languages/notes.md) | 420 |
 
 ## Latest additions
 
+- **2026-11-21** · *Models & Datasets* — [XYZAILab/XYZ-Aquila-SFT](https://huggingface.co/datasets/XYZAILab/XYZ-Aquila-SFT)
 - **2026-11-21** · *Backend & Infrastructure* — [lllucccian/Deekseep](https://github.com/lllucccian/Deekseep)
 - **2026-11-21** · *Lobsters Picks* — [Open Graph images with Astro and Typst](https://lobste.rs/s/gj5obq/open_graph_images_with_astro_typst)
 - **2026-11-21** · *Other Cool Projects* — [ToomRamcharan/tv-vibehack](https://github.com/ToomRamcharan/tv-vibehack)
 - **2026-11-21** · *Lobsters Picks* — [cursor:pointer on buttons](https://lobste.rs/s/h8tghc/cursor_pointer_on_buttons)
-- **2026-11-21** · *Show & Ask HN* — [I'm Peter Roberts, immigration attorney who does work...](https://news.ycombinator.com/item?id=50577613)
 
 ## How it works
 
