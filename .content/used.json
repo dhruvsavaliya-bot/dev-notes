@@ -843,6 +843,7 @@
     "https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6",
     "https://github.com/Timmoth/RackPeek",
     "https://github.com/ToolJet/ToolJet",
+    "https://github.com/ToomRamcharan/tv-vibehack",
     "https://github.com/TurkeyDesignate/GitHub-Copilot-app",
     "https://github.com/UNDERdecoded/Gen2Recomped",
     "https://github.com/UniXNU/UniXNU",
@@ -3144,12 +3145,6 @@
   "recent": [
     {
       "date": "2026-11-20",
-      "subcat": "Hacker News Picks",
-      "title": "A family tree of software job titles",
-      "url": "https://news.ycombinator.com/item?id=50499038"
-    },
-    {
-      "date": "2026-11-20",
       "subcat": "Research Papers",
       "title": "Cost-Efficient Theorem Proving via Agent...",
       "url": "http://arxiv.org/abs/2610.09681v1"
@@ -3201,6 +3196,12 @@
       "subcat": "Lobsters Picks",
       "title": "cursor:pointer on buttons",
       "url": "https://lobste.rs/s/h8tghc/cursor_pointer_on_buttons"
+    },
+    {
+      "date": "2026-11-21",
+      "subcat": "Other Cool Projects",
+      "title": "ToomRamcharan/tv-vibehack",
+      "url": "https://github.com/ToomRamcharan/tv-vibehack"
     }
   ]
 }

@@ -367,6 +367,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~612 stars/day since launch.
 - **Link:** https://github.com/Minireel/HGhub
 
+**Added 2026-11-21**
+
+### [ToomRamcharan/tv-vibehack](https://github.com/ToomRamcharan/tv-vibehack)
+- **Stats:** 336 stars | 32 forks | 10 open issues
+- **Language:** Java | **Created:** 2026-10-19 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** Reverse-engineer any Android TV / Google TV: 100% fail-safe direct boot launcher, remote hotkey remapping, Realtek hardware passthrough & offline media player.
+- **Growth:** averaging ~10 stars/day since launch.
+- **Link:** https://github.com/ToomRamcharan/tv-vibehack
+
 
 ## Web & Frontend
 
