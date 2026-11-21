@@ -143,6 +143,7 @@
     "http://arxiv.org/abs/2611.15843v1",
     "http://arxiv.org/abs/2611.16627v1",
     "http://arxiv.org/abs/2611.17915v1",
+    "http://arxiv.org/abs/2611.21554v1",
     "http://arxiv.org/abs/2611.24844v1",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "http://blog.nozomi.space/posts/sw2_dock/",
@@ -3172,12 +3173,6 @@
   "recent": [
     {
       "date": "2026-11-21",
-      "subcat": "C++",
-      "title": "MusicTribeOpenSource/0700-AAM",
-      "url": "https://github.com/MusicTribeOpenSource/0700-AAM"
-    },
-    {
-      "date": "2026-11-21",
       "subcat": "JavaScript",
       "title": "Yes, {} + [] = 0. No, JavaScript Isnt Broken",
       "url": "https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob"
@@ -3229,6 +3224,12 @@
       "subcat": "PHP",
       "title": "Show HN: I recreated Papers Please but you're...",
       "url": "https://news.ycombinator.com/item?id=50457230"
+    },
+    {
+      "date": "2026-11-22",
+      "subcat": "Research Papers",
+      "title": "Reading or Remembering? Measuring Temporal...",
+      "url": "http://arxiv.org/abs/2611.21554v1"
     }
   ]
 }

@@ -254,6 +254,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.14739v1
 
+**Added 2026-11-22**
+
+### [Reading or Remembering? Measuring Temporal Contamination in Language Models](http://arxiv.org/abs/2611.21554v1)
+- **Authors:** Arunkumar V, Gangadharan G. R., S. Senthilkumar
+- **Published:** 2026-11-16 | **Primary category:** cs.CL
+- **Categories:** cs.LG, cs.CL
+- **Abstract:** Language models are now used to read central-bank text for economic forecasting, but most were trained on text written after the documents they read. A model reading a 2021 FOMC statement may already know that inflation rose in 2022, so part of its apparent skill can be memory of the outcome, a temporal form of test-set contamination. We measure this memory on FOMC statements and minutes from 2000 to 2026 by comparing modern open models with chronologically consistent models, which are trained o...
+- **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.21554v1
+
 
 ## Models & Datasets
 
