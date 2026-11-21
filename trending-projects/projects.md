@@ -397,6 +397,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~21 stars/day since launch.
 - **Link:** https://github.com/justrach/nanolight
 
+**Added 2026-11-21**
+
+### [beamivalice/sushi](https://github.com/beamivalice/sushi)
+- **Stats:** 502 stars | 41 forks | 16 open issues
+- **Language:** Zig | **Created:** 2026-09-20 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** Sushi engine runs very high quality quant model in Apple Silicon, using both STQ and EXL3 format with special tuning technology to achieve frontier sub 4 bits compression.
+- **Growth:** averaging ~8 stars/day since launch.
+- **Link:** https://github.com/beamivalice/sushi
+
 
 ## Web & Frontend
 

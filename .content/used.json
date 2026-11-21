@@ -927,6 +927,7 @@
     "https://github.com/baidu/Unlimited-OCR",
     "https://github.com/bashalarmistalt/decimen-optical-transfer",
     "https://github.com/basketikun/infinite-canvas",
+    "https://github.com/beamivalice/sushi",
     "https://github.com/benfred/py-spy",
     "https://github.com/bherbruck/solidcraft",
     "https://github.com/bikini/exploitarium",
@@ -3166,12 +3167,6 @@
   "recent": [
     {
       "date": "2026-11-21",
-      "subcat": "Hacker News Picks",
-      "title": "LLMs are not superhuman at reading and writing neural...",
-      "url": "https://news.ycombinator.com/item?id=50344861"
-    },
-    {
-      "date": "2026-11-21",
       "subcat": "Other Cool Projects",
       "title": "KytyPS5/KytyPS5",
       "url": "https://github.com/KytyPS5/KytyPS5"
@@ -3223,6 +3218,12 @@
       "subcat": "Hacker News Picks",
       "title": "SpeedCrunch 1.1",
       "url": "https://news.ycombinator.com/item?id=50224210"
+    },
+    {
+      "date": "2026-11-21",
+      "subcat": "Other Cool Projects",
+      "title": "beamivalice/sushi",
+      "url": "https://github.com/beamivalice/sushi"
     }
   ]
 }
