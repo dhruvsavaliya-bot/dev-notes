@@ -387,6 +387,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~75 stars/day since launch.
 - **Link:** https://github.com/KytyPS5/KytyPS5
 
+**Added 2026-11-21**
+
+### [justrach/nanolight](https://github.com/justrach/nanolight)
+- **Stats:** 409 stars | 34 forks | 2 open issues
+- **Language:** Zig | **Created:** 2026-11-02 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** A ⌘Space launcher for the Mac, drawn by nanoui: apps, math, Google suggestions with results in the panel, Grok and X
+- **Growth:** averaging ~21 stars/day since launch.
+- **Link:** https://github.com/justrach/nanolight
+
 
 ## Web & Frontend
 

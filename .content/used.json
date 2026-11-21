@@ -1068,6 +1068,7 @@
     "https://github.com/jub0t/Concat",
     "https://github.com/jub0t/concat",
     "https://github.com/justrach/codegraff",
+    "https://github.com/justrach/nanolight",
     "https://github.com/jwilk/python-syntax-errors",
     "https://github.com/kOlapsis/maintenant",
     "https://github.com/kaankiziltug/logo-design-skill",
@@ -3162,12 +3163,6 @@
   "recent": [
     {
       "date": "2026-11-21",
-      "subcat": "Models & Datasets",
-      "title": "XYZAILab/XYZ-Aquila-SFT",
-      "url": "https://huggingface.co/datasets/XYZAILab/XYZ-Aquila-SFT"
-    },
-    {
-      "date": "2026-11-21",
       "subcat": "TypeScript",
       "title": "vercel-labs/eve-software-factory-template",
       "url": "https://github.com/vercel-labs/eve-software-factory-template"
@@ -3219,6 +3214,12 @@
       "subcat": "Hacker News Picks",
       "title": "A Man from the Future: Why Johnny Can't Stop...",
       "url": "https://news.ycombinator.com/item?id=50247928"
+    },
+    {
+      "date": "2026-11-21",
+      "subcat": "Other Cool Projects",
+      "title": "justrach/nanolight",
+      "url": "https://github.com/justrach/nanolight"
     }
   ]
 }
