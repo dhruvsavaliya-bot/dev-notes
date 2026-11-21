@@ -256,6 +256,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50224210
 - **Link:** https://www.speedcrunch.org/
 
+**Added 2026-11-21**
+
+### [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)
+- **Source:** rikiyat.github.io | **Posted:** 2026-11-02 | **By:** dbreunig
+- **Community:** 2971 points, 902 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50341174
+- **Link:** https://rikiyat.github.io/blog/weight-space-programming/
+
 
 ## Lobsters Picks
 

@@ -2660,6 +2660,7 @@
     "https://news.ycombinator.com/item?id=50339397",
     "https://news.ycombinator.com/item?id=50339913",
     "https://news.ycombinator.com/item?id=50340088",
+    "https://news.ycombinator.com/item?id=50341174",
     "https://news.ycombinator.com/item?id=50344861",
     "https://news.ycombinator.com/item?id=50345712",
     "https://news.ycombinator.com/item?id=50346153",
@@ -2855,6 +2856,7 @@
     "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
     "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
     "https://research.meta.ai/blog/muse-wonder",
+    "https://rikiyat.github.io/blog/weight-space-programming/",
     "https://robert.ocallahan.org/2026/09/goodbye-google.html",
     "https://root.cern.ch/cling",
     "https://rtfeldman.com/fp-vs-c",
@@ -3168,12 +3170,6 @@
   "recent": [
     {
       "date": "2026-11-21",
-      "subcat": "TypeScript",
-      "title": "danielravina/stemkit",
-      "url": "https://github.com/danielravina/stemkit"
-    },
-    {
-      "date": "2026-11-21",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Steal My Bitcoin",
       "url": "https://news.ycombinator.com/item?id=50224916"
@@ -3225,6 +3221,12 @@
       "subcat": "JavaScript",
       "title": "One Month After the Hackathon: Why My 4-Service App...",
       "url": "https://dev.to/earlgreyhot1701d/one-month-after-the-hackathon-why-my-4-service-app-stopped-working-and-what-mansio-caught-in-the-3i8h"
+    },
+    {
+      "date": "2026-11-21",
+      "subcat": "Hacker News Picks",
+      "title": "Astra can read and write weights to improve Qwen",
+      "url": "https://news.ycombinator.com/item?id=50341174"
     }
   ]
 }
