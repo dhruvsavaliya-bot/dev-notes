@@ -550,6 +550,7 @@
     "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
     "https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2",
     "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g",
+    "https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob",
     "https://dev.to/the_nortern_dev/my-2026-tech-stack-is-boring-as-hell-and-that-is-the-point-20c1",
     "https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi",
     "https://dev.to/thebitforge/best-stock-market-apis-for-python-developers-in-2026-4j15",
@@ -3159,12 +3160,6 @@
   "recent": [
     {
       "date": "2026-11-21",
-      "subcat": "Lobsters Picks",
-      "title": "Open Graph images with Astro and Typst",
-      "url": "https://lobste.rs/s/gj5obq/open_graph_images_with_astro_typst"
-    },
-    {
-      "date": "2026-11-21",
       "subcat": "Backend & Infrastructure",
       "title": "lllucccian/Deekseep",
       "url": "https://github.com/lllucccian/Deekseep"
@@ -3216,6 +3211,12 @@
       "subcat": "C++",
       "title": "MusicTribeOpenSource/0700-AAM",
       "url": "https://github.com/MusicTribeOpenSource/0700-AAM"
+    },
+    {
+      "date": "2026-11-21",
+      "subcat": "JavaScript",
+      "title": "Yes, {} + [] = 0. No, JavaScript Isnt Broken",
+      "url": "https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob"
     }
   ]
 }

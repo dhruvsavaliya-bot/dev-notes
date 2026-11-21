@@ -32,6 +32,15 @@ Top community posts, organized by programming language.
 - **Discussion:** https://news.ycombinator.com/item?id=50532385
 - **Link:** https://alloyhtml.com/example.html
 
+**Added 2026-11-21**
+
+### [Yes, {} + [] = 0. No, JavaScript Isn’t Broken](https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob)
+- **Author:** Sylwia Laskowska | **Published:** Oct 29 | **Read time:** 5 min
+- **Community:** 171 reactions, 126 comments -- a top post in #javascript
+- **Tags:** javascript, webdev, node, programming
+- **Summary:** JavaScript is a legendary programming language. Created in the mid-1990s in just 10 days, it was born...
+- **Link:** https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob
+
 
 ## Rust
 
