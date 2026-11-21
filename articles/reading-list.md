@@ -247,6 +247,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50247928
 - **Link:** http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html
 
+**Added 2026-11-21**
+
+### [SpeedCrunch 1.1](https://www.speedcrunch.org/)
+- **Source:** www.speedcrunch.org | **Posted:** 2026-10-24 | **By:** LordNibbler
+- **Community:** 236 points, 54 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50224210
+- **Link:** https://www.speedcrunch.org/
+
 
 ## Lobsters Picks
 

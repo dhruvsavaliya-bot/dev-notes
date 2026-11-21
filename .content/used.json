@@ -2585,6 +2585,7 @@
     "https://news.ycombinator.com/item?id=50221676",
     "https://news.ycombinator.com/item?id=50222133",
     "https://news.ycombinator.com/item?id=50224079",
+    "https://news.ycombinator.com/item?id=50224210",
     "https://news.ycombinator.com/item?id=50224916",
     "https://news.ycombinator.com/item?id=50225695",
     "https://news.ycombinator.com/item?id=50227041",
@@ -3099,6 +3100,7 @@
     "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
     "https://www.solidjs.com/blog/solid-2-0-the-long-hold",
     "https://www.spacex.com/launches/starship-flight-15",
+    "https://www.speedcrunch.org/",
     "https://www.statichost.eu/",
     "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies",
     "https://www.taler.net/en/news/2026-13.html",
@@ -3164,12 +3166,6 @@
   "recent": [
     {
       "date": "2026-11-21",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for...",
-      "url": "https://news.ycombinator.com/item?id=50439000"
-    },
-    {
-      "date": "2026-11-21",
       "subcat": "Hacker News Picks",
       "title": "LLMs are not superhuman at reading and writing neural...",
       "url": "https://news.ycombinator.com/item?id=50344861"
@@ -3221,6 +3217,12 @@
       "subcat": "JavaScript",
       "title": "Getting Your First 10 Users Is Harder Than Building...",
       "url": "https://dev.to/startupcafe/getting-your-first-10-users-is-harder-than-building-the-product-or-is-it-3omh"
+    },
+    {
+      "date": "2026-11-21",
+      "subcat": "Hacker News Picks",
+      "title": "SpeedCrunch 1.1",
+      "url": "https://news.ycombinator.com/item?id=50224210"
     }
   ]
 }
