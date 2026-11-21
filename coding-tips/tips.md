@@ -409,6 +409,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50439000
 - **Link:** https://github.com/HolyArrs/HolyArrs
 
+**Added 2026-11-21**
+
+### [Show HN: Steal My Bitcoin](https://stealmybitcoin.com/)
+- **Source:** stealmybitcoin.com | **Posted:** 2026-10-24 | **By:** cloudlandsdev
+- **Community:** 627 points, 451 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50224916
+- **Link:** https://stealmybitcoin.com/
+
 
 ## Productivity
 
