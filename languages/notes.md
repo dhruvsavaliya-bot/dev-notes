@@ -216,3 +216,13 @@ Top community posts, organized by programming language.
 - **What it is:** Multiplayer sessions for Claude Code. Share a link, work together live, and review the same replies, tools and previews.
 - **Growth:** averaging ~23 stars/day since launch.
 - **Link:** https://github.com/Paradigm-Study/claude-share
+
+**Added 2026-11-21**
+
+### [vercel-labs/eve-software-factory-template](https://github.com/vercel-labs/eve-software-factory-template)
+- **Stats:** 1,178 stars | 83 forks | 1 open issues
+- **Language:** TypeScript | **Created:** 2026-08-12 | **License:** MIT
+- **Topics:** agent, ai, eve, vercel
+- **What it is:** Meet Foreman, an eve Software Factory.
+- **Growth:** averaging ~11 stars/day since launch.
+- **Link:** https://github.com/vercel-labs/eve-software-factory-template

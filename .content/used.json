@@ -1278,6 +1278,7 @@
     "https://github.com/v-modal/vmodal_sdk_swift_iphoneduo",
     "https://github.com/valqore/valqore",
     "https://github.com/vasu-devs/JustHireMe",
+    "https://github.com/vercel-labs/eve-software-factory-template",
     "https://github.com/vercel-labs/fx",
     "https://github.com/vercel-labs/json-render",
     "https://github.com/vercel-labs/native",
@@ -3149,12 +3150,6 @@
   "recent": [
     {
       "date": "2026-11-20",
-      "subcat": "Research Papers",
-      "title": "(Implicitly) Characterizing Probabilistic Polynomial...",
-      "url": "http://arxiv.org/abs/2610.14739v1"
-    },
-    {
-      "date": "2026-11-20",
       "subcat": "Other Cool Projects",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub"
@@ -3206,6 +3201,12 @@
       "subcat": "Models & Datasets",
       "title": "XYZAILab/XYZ-Aquila-SFT",
       "url": "https://huggingface.co/datasets/XYZAILab/XYZ-Aquila-SFT"
+    },
+    {
+      "date": "2026-11-21",
+      "subcat": "TypeScript",
+      "title": "vercel-labs/eve-software-factory-template",
+      "url": "https://github.com/vercel-labs/eve-software-factory-template"
     }
   ]
 }
