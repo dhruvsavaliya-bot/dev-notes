@@ -156,6 +156,7 @@
     "http://gpu.rocks/",
     "http://learn-rails.com/download-offer.html",
     "http://longbets.org/601/",
+    "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
     "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
     "http://php.net/releases/7_2_0.php",
     "http://prooffreaderplus.blogspot.com/2014/11/top-10-python-idioms-i-wished-id.html",
@@ -2598,6 +2599,7 @@
     "https://news.ycombinator.com/item?id=50242939",
     "https://news.ycombinator.com/item?id=50243060",
     "https://news.ycombinator.com/item?id=50246238",
+    "https://news.ycombinator.com/item?id=50247928",
     "https://news.ycombinator.com/item?id=50251344",
     "https://news.ycombinator.com/item?id=50255298",
     "https://news.ycombinator.com/item?id=50255573",
@@ -3160,12 +3162,6 @@
   "recent": [
     {
       "date": "2026-11-21",
-      "subcat": "Backend & Infrastructure",
-      "title": "lllucccian/Deekseep",
-      "url": "https://github.com/lllucccian/Deekseep"
-    },
-    {
-      "date": "2026-11-21",
       "subcat": "Models & Datasets",
       "title": "XYZAILab/XYZ-Aquila-SFT",
       "url": "https://huggingface.co/datasets/XYZAILab/XYZ-Aquila-SFT"
@@ -3217,6 +3213,12 @@
       "subcat": "JavaScript",
       "title": "Yes, {} + [] = 0. No, JavaScript Isnt Broken",
       "url": "https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob"
+    },
+    {
+      "date": "2026-11-21",
+      "subcat": "Hacker News Picks",
+      "title": "A Man from the Future: Why Johnny Can't Stop...",
+      "url": "https://news.ycombinator.com/item?id=50247928"
     }
   ]
 }

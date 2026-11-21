@@ -238,6 +238,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50344861
 - **Link:** https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/
 
+**Added 2026-11-21**
+
+### [A Man from the Future: Why Johnny Can't Stop Abstracting](http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html)
+- **Source:** muratbuffalo.blogspot.com | **Posted:** 2026-10-26 | **By:** aray07
+- **Community:** 237 points, 103 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50247928
+- **Link:** http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html
+
 
 ## Lobsters Picks
 

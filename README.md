@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2231 entries and counting** · Last updated: 2026-11-21
+**2232 entries and counting** · Last updated: 2026-11-21
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 453 |
 | [AI / LLM Notes](ai/notes.md) | 450 |
-| [Reading List](articles/reading-list.md) | 453 |
+| [Reading List](articles/reading-list.md) | 454 |
 | [Coding Tips](coding-tips/tips.md) | 451 |
 | [Language Notes](languages/notes.md) | 424 |
 
 ## Latest additions
 
+- **2026-11-21** · *Hacker News Picks* — [A Man from the Future: Why Johnny Can't Stop...](https://news.ycombinator.com/item?id=50247928)
 - **2026-11-21** · *JavaScript* — [Yes, {} + [] = 0. No, JavaScript Isnt Broken](https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob)
 - **2026-11-21** · *C++* — [MusicTribeOpenSource/0700-AAM](https://github.com/MusicTribeOpenSource/0700-AAM)
 - **2026-11-21** · *Show & Ask HN* — [Show HN: Steal My Bitcoin](https://news.ycombinator.com/item?id=50224916)
 - **2026-11-21** · *TypeScript* — [danielravina/stemkit](https://github.com/danielravina/stemkit)
-- **2026-11-21** · *Other Cool Projects* — [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5)
 
 ## How it works
 
