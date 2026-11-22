@@ -2785,6 +2785,7 @@
     "https://news.ycombinator.com/item?id=50563148",
     "https://news.ycombinator.com/item?id=50577613",
     "https://news.ycombinator.com/item?id=50583761",
+    "https://news.ycombinator.com/item?id=50585962",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -3198,12 +3199,6 @@
   "recent": [
     {
       "date": "2026-11-22",
-      "subcat": "Models & Datasets",
-      "title": "thejagstudio/tessera-small",
-      "url": "https://huggingface.co/thejagstudio/tessera-small"
-    },
-    {
-      "date": "2026-11-22",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Micron  Oberon with the Power of C",
       "url": "https://news.ycombinator.com/item?id=50413266"
@@ -3255,6 +3250,12 @@
       "subcat": "Models & Datasets",
       "title": "zouhar/last-translation-benchmark",
       "url": "https://huggingface.co/datasets/zouhar/last-translation-benchmark"
+    },
+    {
+      "date": "2026-11-22",
+      "subcat": "Show & Ask HN",
+      "title": "Tell HN: OpenRouter prompts to Minimax may have been...",
+      "url": "https://news.ycombinator.com/item?id=50585962"
     }
   ]
 }
