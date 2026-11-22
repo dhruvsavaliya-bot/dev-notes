@@ -506,6 +506,7 @@
     "https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2",
     "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
     "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
+    "https://dev.to/necoz/meet-type-tune-give-your-typescript-types-a-better-home-1p6l",
     "https://dev.to/necoz/why-i-rewrote-type-tune-from-typescript-to-rust-1egg",
     "https://dev.to/nikolas_dimitroulakis_d23/we-described-our-api-twice-once-for-humans-once-for-agents-4e4g",
     "https://dev.to/nyaomaru/how-do-we-extract-the-why-from-a-pr-into-a-changelog-with-jev-52pk",
@@ -3190,12 +3191,6 @@
   "recent": [
     {
       "date": "2026-11-22",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Mastra Factory, the open-source software...",
-      "url": "https://news.ycombinator.com/item?id=50548660"
-    },
-    {
-      "date": "2026-11-22",
       "subcat": "Rust",
       "title": "SimoHypers/limusic",
       "url": "https://github.com/SimoHypers/limusic"
@@ -3247,6 +3242,12 @@
       "subcat": "AI & Machine Learning",
       "title": "croffasia/itsaplan",
       "url": "https://github.com/croffasia/itsaplan"
+    },
+    {
+      "date": "2026-11-22",
+      "subcat": "Rust",
+      "title": "Meet type-tune!  Give Your TypeScript Types a Better...",
+      "url": "https://dev.to/necoz/meet-type-tune-give-your-typescript-types-a-better-home-1p6l"
     }
   ]
 }

@@ -139,6 +139,15 @@ Top community posts, organized by programming language.
 - **Summary:** Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer who loves TypeScript and gambas, not crabs! 🦐  And...
 - **Link:** https://dev.to/necoz/why-i-rewrote-type-tune-from-typescript-to-rust-1egg
 
+**Added 2026-11-22**
+
+### [Meet type-tune! 🦀 Give Your TypeScript Types a Better Home! 😸](https://dev.to/necoz/meet-type-tune-give-your-typescript-types-a-better-home-1p6l)
+- **Author:** nyaomaru | **Published:** Nov 11 | **Read time:** 6 min
+- **Community:** 120 reactions, 45 comments -- a top post in #rust
+- **Tags:** rust, typescript, showdev, opensource
+- **Summary:** Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer who is actually allergic to crabs! 🙀🦀  Today, I have...
+- **Link:** https://dev.to/necoz/meet-type-tune-give-your-typescript-types-a-better-home-1p6l
+
 
 ## Go
 
