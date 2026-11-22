@@ -1434,6 +1434,7 @@
     "https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct",
     "https://huggingface.co/Qwen/Qwen3.6-27B",
     "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+    "https://huggingface.co/Reson8/Rumble-2-Flash",
     "https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming",
     "https://huggingface.co/SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
     "https://huggingface.co/Scantist/GLM-5.3-SLIM-GGUF",
@@ -3191,12 +3192,6 @@
   "recent": [
     {
       "date": "2026-11-22",
-      "subcat": "Rust",
-      "title": "SimoHypers/limusic",
-      "url": "https://github.com/SimoHypers/limusic"
-    },
-    {
-      "date": "2026-11-22",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: I have been unemployed for 2y. 15 years of...",
       "url": "https://news.ycombinator.com/item?id=50583761"
@@ -3248,6 +3243,12 @@
       "subcat": "Rust",
       "title": "Meet type-tune!  Give Your TypeScript Types a Better...",
       "url": "https://dev.to/necoz/meet-type-tune-give-your-typescript-types-a-better-home-1p6l"
+    },
+    {
+      "date": "2026-11-22",
+      "subcat": "Models & Datasets",
+      "title": "Reson8/Rumble-2-Flash",
+      "url": "https://huggingface.co/Reson8/Rumble-2-Flash"
     }
   ]
 }
