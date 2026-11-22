@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2261 entries and counting** · Last updated: 2026-11-22
+**2262 entries and counting** · Last updated: 2026-11-22
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 458 |
+| [Trending Projects](trending-projects/projects.md) | 459 |
 | [AI / LLM Notes](ai/notes.md) | 456 |
 | [Reading List](articles/reading-list.md) | 459 |
 | [Coding Tips](coding-tips/tips.md) | 457 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-22** · *AI & Machine Learning* — [coder/boo](https://github.com/coder/boo)
 - **2026-11-22** · *Hacker News Picks* — [Detonating a pile of lead azide](https://news.ycombinator.com/item?id=50588982)
 - **2026-11-22** · *Show & Ask HN* — [Tell HN: OpenRouter prompts to Minimax may have been...](https://news.ycombinator.com/item?id=50585962)
 - **2026-11-22** · *Models & Datasets* — [zouhar/last-translation-benchmark](https://huggingface.co/datasets/zouhar/last-translation-benchmark)
 - **2026-11-22** · *Models & Datasets* — [thinkingmachines/Inkling-2-Small](https://huggingface.co/thinkingmachines/Inkling-2-Small)
-- **2026-11-22** · *Go* — [Probabilistic data structures in Go, part 2](https://lobste.rs/s/hcofqi/probabilistic_data_structures_go_part_2)
 
 ## How it works
 

@@ -957,6 +957,7 @@
     "https://github.com/chasmlol/SkyCraft",
     "https://github.com/cloudflare/security-audit-skill",
     "https://github.com/cocojojo5213/Dev-Janitor",
+    "https://github.com/coder/boo",
     "https://github.com/collabs-inc/collab-public",
     "https://github.com/comet-ml/opik-openclaw",
     "https://github.com/common-voice/common-voice",
@@ -3201,12 +3202,6 @@
   "recent": [
     {
       "date": "2026-11-22",
-      "subcat": "Lobsters Picks",
-      "title": "Problems and solutions to the modern desktop (Make...",
-      "url": "https://lobste.rs/s/gjlxiz/problems_solutions_modern_desktop_make"
-    },
-    {
-      "date": "2026-11-22",
       "subcat": "AI & Machine Learning",
       "title": "croffasia/itsaplan",
       "url": "https://github.com/croffasia/itsaplan"
@@ -3258,6 +3253,12 @@
       "subcat": "Hacker News Picks",
       "title": "Detonating a pile of lead azide",
       "url": "https://news.ycombinator.com/item?id=50588982"
+    },
+    {
+      "date": "2026-11-22",
+      "subcat": "AI & Machine Learning",
+      "title": "coder/boo",
+      "url": "https://github.com/coder/boo"
     }
   ]
 }

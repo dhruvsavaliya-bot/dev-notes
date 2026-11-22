@@ -274,6 +274,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~18 stars/day since launch.
 - **Link:** https://github.com/croffasia/itsaplan
 
+**Added 2026-11-22**
+
+### [coder/boo](https://github.com/coder/boo)
+- **Stats:** 789 stars | 27 forks | 7 open issues
+- **Language:** Zig | **Created:** 2026-06-10 | **License:** MIT
+- **Topics:** ai, coding, ghostty, multiplexer, screen, terminal
+- **What it is:** A GNU screen style terminal multiplexer built on libghostty.
+- **Growth:** averaging ~4 stars/day since launch.
+- **Link:** https://github.com/coder/boo
+
 
 ## Other Cool Projects
 
