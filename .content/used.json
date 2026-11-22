@@ -1622,6 +1622,7 @@
     "https://huggingface.co/tencent/Hy-Nomas",
     "https://huggingface.co/tencent/Hy3",
     "https://huggingface.co/thejagstudio/tessera-small",
+    "https://huggingface.co/thinkingmachines/Inkling-2-Small",
     "https://huggingface.co/thinkingmachines/Inkling-Small",
     "https://huggingface.co/unsloth/LFM2.5-24B-A2B-GGUF",
     "https://huggingface.co/unsloth/Qwen-Image-2.1-GGUF",
@@ -3196,12 +3197,6 @@
   "recent": [
     {
       "date": "2026-11-22",
-      "subcat": "AI & Machine Learning",
-      "title": "simplexai-labs/linger",
-      "url": "https://github.com/simplexai-labs/linger"
-    },
-    {
-      "date": "2026-11-22",
       "subcat": "Rust",
       "title": "Why I Rewrote type-tune from TypeScript to Rust",
       "url": "https://dev.to/necoz/why-i-rewrote-type-tune-from-typescript-to-rust-1egg"
@@ -3253,6 +3248,12 @@
       "subcat": "Go",
       "title": "Probabilistic data structures in Go, part 2",
       "url": "https://lobste.rs/s/hcofqi/probabilistic_data_structures_go_part_2"
+    },
+    {
+      "date": "2026-11-22",
+      "subcat": "Models & Datasets",
+      "title": "thinkingmachines/Inkling-2-Small",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
     }
   ]
 }

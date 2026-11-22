@@ -483,6 +483,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/Reson8/Rumble-2-Flash
 
+**Added 2026-11-22**
+
+### [thinkingmachines/Inkling-2-Small](https://huggingface.co/thinkingmachines/Inkling-2-Small)
+- **Stats:** 645 likes | 48,974 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-11-04
+- **Tags:** transformers, safetensors, inkling2, image-text-to-text, conversational, moe
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/thinkingmachines/Inkling-2-Small
+
 
 ## LLMs
 
