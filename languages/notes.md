@@ -120,6 +120,16 @@ Top community posts, organized by programming language.
 - **Discussion:** https://lobste.rs/s/8eivbk/enabling_parallel_frontend_on_nightly
 - **Link:** https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/
 
+**Added 2026-11-22**
+
+### [SimoHypers/limusic](https://github.com/SimoHypers/limusic)
+- **Stats:** 2,177 stars | 151 forks | 124 open issues
+- **Language:** Rust | **Created:** 2026-07-03 | **License:** GPL-3.0
+- **Topics:** desktop-app, discord-rich-presence, lastfm, music, music-application, music-player
+- **What it is:** Feature rich, native desktop, YouTube Music client.
+- **Growth:** averaging ~15 stars/day since launch.
+- **Link:** https://github.com/SimoHypers/limusic
+
 
 ## Go
 
