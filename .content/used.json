@@ -1359,6 +1359,7 @@
     "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
     "https://github.com/zion-sati/NetWasm",
     "https://github.com/zortos293/Lichii",
+    "https://gitlab.com/snipedbywifi/terminactory",
     "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
     "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
     "https://go.dev/blog/17years",
@@ -2756,6 +2757,7 @@
     "https://news.ycombinator.com/item?id=50492456",
     "https://news.ycombinator.com/item?id=50493251",
     "https://news.ycombinator.com/item?id=50494696",
+    "https://news.ycombinator.com/item?id=50497132",
     "https://news.ycombinator.com/item?id=50497589",
     "https://news.ycombinator.com/item?id=50499038",
     "https://news.ycombinator.com/item?id=50500963",
@@ -3192,12 +3194,6 @@
   "recent": [
     {
       "date": "2026-11-22",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: I have been unemployed for 2y. 15 years of...",
-      "url": "https://news.ycombinator.com/item?id=50583761"
-    },
-    {
-      "date": "2026-11-22",
       "subcat": "Hacker News Picks",
       "title": "US Government is hiding a secret court ruling about...",
       "url": "https://news.ycombinator.com/item?id=50259604"
@@ -3249,6 +3245,12 @@
       "subcat": "Models & Datasets",
       "title": "Reson8/Rumble-2-Flash",
       "url": "https://huggingface.co/Reson8/Rumble-2-Flash"
+    },
+    {
+      "date": "2026-11-22",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: A terminal-native idle factory game, written...",
+      "url": "https://news.ycombinator.com/item?id=50497132"
     }
   ]
 }
