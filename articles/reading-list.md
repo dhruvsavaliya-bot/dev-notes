@@ -265,6 +265,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50341174
 - **Link:** https://rikiyat.github.io/blog/weight-space-programming/
 
+**Added 2026-11-22**
+
+### [US Government is hiding a secret court ruling about how it spies on Americans](https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/)
+- **Source:** www.wired.com | **Posted:** 2026-10-27 | **By:** helterskelter2
+- **Community:** 1099 points, 465 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50259604
+- **Link:** https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/
+
 
 ## Lobsters Picks
 

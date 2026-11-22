@@ -2613,6 +2613,7 @@
     "https://news.ycombinator.com/item?id=50251344",
     "https://news.ycombinator.com/item?id=50255298",
     "https://news.ycombinator.com/item?id=50255573",
+    "https://news.ycombinator.com/item?id=50259604",
     "https://news.ycombinator.com/item?id=50260753",
     "https://news.ycombinator.com/item?id=50261998",
     "https://news.ycombinator.com/item?id=50264853",
@@ -3143,6 +3144,7 @@
     "https://www.watched.earth",
     "https://www.willett.io/posts/data/",
     "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+    "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
     "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
     "https://www.wiz.io/blog/php2shell-php-rce",
     "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
@@ -3178,12 +3180,6 @@
     "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/"
   ],
   "recent": [
-    {
-      "date": "2026-11-21",
-      "subcat": "JavaScript",
-      "title": "One Month After the Hackathon: Why My 4-Service App...",
-      "url": "https://dev.to/earlgreyhot1701d/one-month-after-the-hackathon-why-my-4-service-app-stopped-working-and-what-mansio-caught-in-the-3i8h"
-    },
     {
       "date": "2026-11-21",
       "subcat": "Hacker News Picks",
@@ -3237,6 +3233,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: I have been unemployed for 2y. 15 years of...",
       "url": "https://news.ycombinator.com/item?id=50583761"
+    },
+    {
+      "date": "2026-11-22",
+      "subcat": "Hacker News Picks",
+      "title": "US Government is hiding a secret court ruling about...",
+      "url": "https://news.ycombinator.com/item?id=50259604"
     }
   ]
 }
