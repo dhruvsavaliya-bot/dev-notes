@@ -535,6 +535,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/gjlxiz/problems_solutions_modern_desktop_make
 - **Link:** https://matduggan.com/what-does-my-dream-os-ui-look-like/
 
+**Added 2026-11-23**
+
+### [GitHub Actions accepts invalid YAML](https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/)
+- **Source:** yossarian.net | **Posted:** 2026-11-22 | **By:** yossarian
+- **Community:** 27 score, 1 comments on Lobsters
+- **Tags:** programming
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/leqwqu/github_actions_accepts_invalid_yaml
+- **Link:** https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/
+
 
 ## Security
 

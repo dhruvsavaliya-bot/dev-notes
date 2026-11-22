@@ -1895,6 +1895,7 @@
     "https://lobste.rs/s/kh9fri/writing_dsl_for_high_performance",
     "https://lobste.rs/s/kiivg2/partial_order_precedence",
     "https://lobste.rs/s/lcldxn/rustc_codegen_jvm_rust_compiler_backend",
+    "https://lobste.rs/s/leqwqu/github_actions_accepts_invalid_yaml",
     "https://lobste.rs/s/lfen2h/living_weimar_era_ruby",
     "https://lobste.rs/s/lfusbg/atom_exhaustion_is_not_footgun_it_s_one",
     "https://lobste.rs/s/lgdxtw/c_for_rust_programmers",
@@ -3197,6 +3198,7 @@
     "https://yappologistic.github.io/CUI/",
     "https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/",
     "https://yosefk.com/blog/unit-tests-mark-territory-more-than-squash-bugs.html",
+    "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/",
     "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
     "https://youtu.be/89yAiqYEwKg",
     "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
@@ -3211,12 +3213,6 @@
     "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/"
   ],
   "recent": [
-    {
-      "date": "2026-11-22",
-      "subcat": "Hacker News Picks",
-      "title": "Detonating a pile of lead azide",
-      "url": "https://news.ycombinator.com/item?id=50588982"
-    },
     {
       "date": "2026-11-22",
       "subcat": "AI & Machine Learning",
@@ -3270,6 +3266,12 @@
       "subcat": "Research Papers",
       "title": "The Formalization of two Computational Models in Dafny",
       "url": "http://arxiv.org/abs/2609.34883v1"
+    },
+    {
+      "date": "2026-11-23",
+      "subcat": "Lobsters Picks",
+      "title": "GitHub Actions accepts invalid YAML",
+      "url": "https://lobste.rs/s/leqwqu/github_actions_accepts_invalid_yaml"
     }
   ]
 }
