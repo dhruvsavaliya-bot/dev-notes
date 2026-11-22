@@ -878,6 +878,7 @@
     "https://github.com/Zleap-AI/SAG",
     "https://github.com/ZzzLc0405/photo-abstract-editorial",
     "https://github.com/aakarim/OpenLore",
+    "https://github.com/abcwyc/pi-agent-desktop",
     "https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS",
     "https://github.com/aden-hive/hive",
     "https://github.com/adityatandon15/Spring-Framework-Full-Course",
@@ -3206,12 +3207,6 @@
   "recent": [
     {
       "date": "2026-11-22",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: A terminal-native idle factory game, written...",
-      "url": "https://news.ycombinator.com/item?id=50497132"
-    },
-    {
-      "date": "2026-11-22",
       "subcat": "Go",
       "title": "Probabilistic data structures in Go, part 2",
       "url": "https://lobste.rs/s/hcofqi/probabilistic_data_structures_go_part_2"
@@ -3263,6 +3258,12 @@
       "subcat": "Web & Frontend",
       "title": "alexrlocke/neorex",
       "url": "https://github.com/alexrlocke/neorex"
+    },
+    {
+      "date": "2026-11-23",
+      "subcat": "TypeScript",
+      "title": "abcwyc/pi-agent-desktop",
+      "url": "https://github.com/abcwyc/pi-agent-desktop"
     }
   ]
 }

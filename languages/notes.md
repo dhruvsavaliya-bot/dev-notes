@@ -311,6 +311,17 @@ Top community posts, organized by programming language.
 - **Growth:** averaging ~14 stars/day since launch.
 - **Link:** https://github.com/danielravina/stemkit
 
+**Added 2026-11-23**
+
+### [abcwyc/pi-agent-desktop](https://github.com/abcwyc/pi-agent-desktop)
+- **Stats:** 942 stars | 114 forks | 1 open issues
+- **Language:** TypeScript | **Created:** 2026-07-22 | **License:** MIT
+- **Topics:** ai, ai-agent, desktop-app, pi
+- **What it is:** Pi — A cross-platform AI coding agent, bringing the Claude Code experience to your desktop. No environment setup, no terminal commands. Download and start coding right away.
+- **Growth:** averaging ~7 stars/day since launch.
+- **Link:** https://github.com/abcwyc/pi-agent-desktop
+
+
 ## C++
 
 **Added 2026-11-21**
