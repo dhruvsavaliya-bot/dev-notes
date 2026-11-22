@@ -891,6 +891,7 @@
     "https://github.com/air-embodied-brain/Zetta-Embodiment",
     "https://github.com/akitaonrails/ai-memory",
     "https://github.com/alchaincyf/huashu-motion",
+    "https://github.com/alexrlocke/neorex",
     "https://github.com/aliyun/ai-agent-handbook",
     "https://github.com/amagine-ai/Amagine3D",
     "https://github.com/amak-tech/port-buddy",
@@ -3205,12 +3206,6 @@
   "recent": [
     {
       "date": "2026-11-22",
-      "subcat": "Models & Datasets",
-      "title": "Reson8/Rumble-2-Flash",
-      "url": "https://huggingface.co/Reson8/Rumble-2-Flash"
-    },
-    {
-      "date": "2026-11-22",
       "subcat": "Show & Ask HN",
       "title": "Show HN: A terminal-native idle factory game, written...",
       "url": "https://news.ycombinator.com/item?id=50497132"
@@ -3262,6 +3257,12 @@
       "subcat": "Hacker News Picks",
       "title": "All AI-generated code should be Open Source",
       "url": "https://news.ycombinator.com/item?id=50507303"
+    },
+    {
+      "date": "2026-11-22",
+      "subcat": "Web & Frontend",
+      "title": "alexrlocke/neorex",
+      "url": "https://github.com/alexrlocke/neorex"
     }
   ]
 }

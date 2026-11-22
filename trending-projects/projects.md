@@ -530,6 +530,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~57 stars/day since launch.
 - **Link:** https://github.com/crmne/zapfast
 
+**Added 2026-11-22**
+
+### [alexrlocke/neorex](https://github.com/alexrlocke/neorex)
+- **Stats:** 338 stars | 18 forks | 5 open issues
+- **Language:** Zig | **Created:** 2026-10-27 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** A Rex-Native frontend for Neovim.
+- **Growth:** averaging ~13 stars/day since launch.
+- **Link:** https://github.com/alexrlocke/neorex
+
 
 ## Developer Tools
 
