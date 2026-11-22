@@ -274,6 +274,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50259604
 - **Link:** https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/
 
+**Added 2026-11-22**
+
+### [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
+- **Source:** www.science.org | **Posted:** 2026-11-21 | **By:** beginning_end
+- **Community:** 677 points, 411 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50588982
+- **Link:** https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really
+
 
 ## Lobsters Picks
 

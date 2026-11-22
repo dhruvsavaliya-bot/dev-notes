@@ -2786,6 +2786,7 @@
     "https://news.ycombinator.com/item?id=50577613",
     "https://news.ycombinator.com/item?id=50583761",
     "https://news.ycombinator.com/item?id=50585962",
+    "https://news.ycombinator.com/item?id=50588982",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -3125,6 +3126,7 @@
     "https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return",
     "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
     "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
+    "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
     "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
     "https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/",
     "https://www.seangoedecke.com/what-requirements-dont-you-have/",
@@ -3199,12 +3201,6 @@
   "recent": [
     {
       "date": "2026-11-22",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Micron  Oberon with the Power of C",
-      "url": "https://news.ycombinator.com/item?id=50413266"
-    },
-    {
-      "date": "2026-11-22",
       "subcat": "Lobsters Picks",
       "title": "Problems and solutions to the modern desktop (Make...",
       "url": "https://lobste.rs/s/gjlxiz/problems_solutions_modern_desktop_make"
@@ -3256,6 +3252,12 @@
       "subcat": "Show & Ask HN",
       "title": "Tell HN: OpenRouter prompts to Minimax may have been...",
       "url": "https://news.ycombinator.com/item?id=50585962"
+    },
+    {
+      "date": "2026-11-22",
+      "subcat": "Hacker News Picks",
+      "title": "Detonating a pile of lead azide",
+      "url": "https://news.ycombinator.com/item?id=50588982"
     }
   ]
 }
