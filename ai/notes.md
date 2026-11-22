@@ -284,6 +284,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.34883v1
 
+**Added 2026-11-23**
+
+### [Iris in Lean](http://arxiv.org/abs/2609.24252v1)
+- **Authors:** Markus de Medeiros, Sergei Stepanenko, Zongyuan Liu, Oliver Soeser et al.
+- **Published:** 2026-09-21 | **Primary category:** cs.PL
+- **Categories:** cs.LO, cs.PL
+- **Abstract:** The Iris framework for concurrent separation logic has been widely used for program verification research. An important factor contributing to the framework's adoption is its high-quality mechanization in Rocq. This mechanization uses a number of Rocq features in sophisticated ways, including a carefully constructed algebraic hierarchy for modeling separation logic resources, and a proof mode for embedded separation logic proofs, which combines custom Ltac with extensible typeclasses. The librar...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.24252v1
+
 
 ## Models & Datasets
 

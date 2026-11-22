@@ -18,6 +18,7 @@
     "http://arxiv.org/abs/2609.14040v1",
     "http://arxiv.org/abs/2609.16079v1",
     "http://arxiv.org/abs/2609.16299v1",
+    "http://arxiv.org/abs/2609.24252v1",
     "http://arxiv.org/abs/2609.28608v1",
     "http://arxiv.org/abs/2609.30629v1",
     "http://arxiv.org/abs/2609.31250v1",
@@ -3218,12 +3219,6 @@
   "recent": [
     {
       "date": "2026-11-22",
-      "subcat": "Hacker News Picks",
-      "title": "All AI-generated code should be Open Source",
-      "url": "https://news.ycombinator.com/item?id=50507303"
-    },
-    {
-      "date": "2026-11-22",
       "subcat": "Web & Frontend",
       "title": "alexrlocke/neorex",
       "url": "https://github.com/alexrlocke/neorex"
@@ -3275,6 +3270,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Stroq  a local audit of what your coding...",
       "url": "https://news.ycombinator.com/item?id=50380704"
+    },
+    {
+      "date": "2026-11-23",
+      "subcat": "Research Papers",
+      "title": "Iris in Lean",
+      "url": "http://arxiv.org/abs/2609.24252v1"
     }
   ]
 }
