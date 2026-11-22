@@ -1833,6 +1833,7 @@
     "https://lobste.rs/s/gfm0xn/new_go_api_for_json",
     "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from",
     "https://lobste.rs/s/gj5obq/open_graph_images_with_astro_typst",
+    "https://lobste.rs/s/gjlxiz/problems_solutions_modern_desktop_make",
     "https://lobste.rs/s/gm4vao/quality_imap_part_1_your_mailbox_is",
     "https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow",
     "https://lobste.rs/s/gqyvn5/protecting_firefox_users_following",
@@ -2051,6 +2052,7 @@
     "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
     "https://mastodon.sdf.org/@netbsd/117518160563539748",
     "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+    "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
     "https://matklad.github.io/2026/10/29/pub-calls-pub.html",
     "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/",
     "https://maurycyz.com/projects/badcert/",
@@ -3187,12 +3189,6 @@
   "recent": [
     {
       "date": "2026-11-22",
-      "subcat": "AI & Machine Learning",
-      "title": "modelflare-ai/AnyModelBot",
-      "url": "https://github.com/modelflare-ai/AnyModelBot"
-    },
-    {
-      "date": "2026-11-22",
       "subcat": "Models & Datasets",
       "title": "harness-hub/Qwen3.8-27B-pi-adapted-GGUF",
       "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted-GGUF"
@@ -3244,6 +3240,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Micron  Oberon with the Power of C",
       "url": "https://news.ycombinator.com/item?id=50413266"
+    },
+    {
+      "date": "2026-11-22",
+      "subcat": "Lobsters Picks",
+      "title": "Problems and solutions to the modern desktop (Make...",
+      "url": "https://lobste.rs/s/gjlxiz/problems_solutions_modern_desktop_make"
     }
   ]
 }

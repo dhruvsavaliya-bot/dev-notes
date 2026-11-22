@@ -507,6 +507,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/gj5obq/open_graph_images_with_astro_typst
 - **Link:** https://eaj.no/posts/open-graph-images-with-typst/
 
+**Added 2026-11-22**
+
+### [Problems and solutions to the modern desktop (Make tmux the OS)](https://matduggan.com/what-does-my-dream-os-ui-look-like/)
+- **Source:** matduggan.com | **Posted:** 2026-10-03 | **By:** raoulmillais
+- **Community:** 20 score, 7 comments on Lobsters
+- **Tags:** ios, osdev, vibecoding, windows
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/gjlxiz/problems_solutions_modern_desktop_make
+- **Link:** https://matduggan.com/what-does-my-dream-os-ui-look-like/
+
 
 ## Security
 
