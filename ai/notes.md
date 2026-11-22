@@ -501,6 +501,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/zouhar/last-translation-benchmark
 
+**Added 2026-11-22**
+
+### [xlangai/osworld_v2_tasks](https://huggingface.co/datasets/xlangai/osworld_v2_tasks)
+- **Stats:** 56 likes | 51,305 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-06-01
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/xlangai/osworld_v2_tasks
+
 
 ## LLMs
 

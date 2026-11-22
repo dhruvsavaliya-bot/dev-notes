@@ -1566,6 +1566,7 @@
     "https://huggingface.co/datasets/tencent/TailorRig",
     "https://huggingface.co/datasets/tiiuae/falcon-refinedweb",
     "https://huggingface.co/datasets/venvoo/china-a-share-l2-level2-limit-order-book-tick-data",
+    "https://huggingface.co/datasets/xlangai/osworld_v2_tasks",
     "https://huggingface.co/datasets/ystemsrx/Erotic_Literature_Collection",
     "https://huggingface.co/datasets/zgcagi/ZGCM-1-Data",
     "https://huggingface.co/datasets/zouhar/last-translation-benchmark",
@@ -3202,12 +3203,6 @@
   "recent": [
     {
       "date": "2026-11-22",
-      "subcat": "AI & Machine Learning",
-      "title": "croffasia/itsaplan",
-      "url": "https://github.com/croffasia/itsaplan"
-    },
-    {
-      "date": "2026-11-22",
       "subcat": "Rust",
       "title": "Meet type-tune!  Give Your TypeScript Types a Better...",
       "url": "https://dev.to/necoz/meet-type-tune-give-your-typescript-types-a-better-home-1p6l"
@@ -3259,6 +3254,12 @@
       "subcat": "AI & Machine Learning",
       "title": "coder/boo",
       "url": "https://github.com/coder/boo"
+    },
+    {
+      "date": "2026-11-22",
+      "subcat": "Models & Datasets",
+      "title": "xlangai/osworld_v2_tasks",
+      "url": "https://huggingface.co/datasets/xlangai/osworld_v2_tasks"
     }
   ]
 }
