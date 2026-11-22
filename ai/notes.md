@@ -274,6 +274,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.26349v1
 
+**Added 2026-11-23**
+
+### [The Formalization of two Computational Models in Dafny](http://arxiv.org/abs/2609.34883v1)
+- **Authors:** Ştefan Ciobâc\b{a}, Diana-Elena Gratie, Dragoş-Irinel Rotariu
+- **Published:** 2026-09-28 | **Primary category:** cs.PL
+- **Categories:** cs.LO, cs.FL, cs.PL
+- **Abstract:** We describe the formalization in Dafny of two computational models, Turing Machines and the Lambda Calculus. We present several application of the formalizations: machine proofs of termination for Turing machines, Dafny proofs for Church encodings, and a mechanized proof of the Church-Rosser theorem.
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.34883v1
+
 
 ## Models & Datasets
 

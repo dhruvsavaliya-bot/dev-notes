@@ -25,6 +25,7 @@
     "http://arxiv.org/abs/2609.34262v1",
     "http://arxiv.org/abs/2609.34603v2",
     "http://arxiv.org/abs/2609.34646v1",
+    "http://arxiv.org/abs/2609.34883v1",
     "http://arxiv.org/abs/2609.34886v1",
     "http://arxiv.org/abs/2609.35878v1",
     "http://arxiv.org/abs/2609.36201v1",
@@ -3212,12 +3213,6 @@
   "recent": [
     {
       "date": "2026-11-22",
-      "subcat": "Show & Ask HN",
-      "title": "Tell HN: OpenRouter prompts to Minimax may have been...",
-      "url": "https://news.ycombinator.com/item?id=50585962"
-    },
-    {
-      "date": "2026-11-22",
       "subcat": "Hacker News Picks",
       "title": "Detonating a pile of lead azide",
       "url": "https://news.ycombinator.com/item?id=50588982"
@@ -3269,6 +3264,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in...",
       "url": "https://news.ycombinator.com/item?id=50429636"
+    },
+    {
+      "date": "2026-11-23",
+      "subcat": "Research Papers",
+      "title": "The Formalization of two Computational Models in Dafny",
+      "url": "http://arxiv.org/abs/2609.34883v1"
     }
   ]
 }
