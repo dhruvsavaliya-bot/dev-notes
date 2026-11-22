@@ -624,6 +624,7 @@
     "https://eliasebner.com/blog/guides/arena-allocators-in-c/",
     "https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/",
     "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+    "https://elixir-lang.org/blog/2026/11/10/inference-narrowing-reverse-arrows/",
     "https://emudhra.we-have-a-problem.com/",
     "https://emudhra.we-have-a-problem.com/apple.html",
     "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
@@ -2035,6 +2036,7 @@
     "https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn",
     "https://lobste.rs/s/yxuvie/alpinebsd",
     "https://lobste.rs/s/yxvn7j/fixing_webkit_bug_see_if_promises_are_made",
+    "https://lobste.rs/s/z8f3vz/type_inference_narrowing_with_reverse",
     "https://lobste.rs/s/zftely/qwenputer_fully_functioning",
     "https://lobste.rs/s/zingk1/announcing_net_11",
     "https://lobste.rs/s/zjjvbo/work_on_gefs_good_enough_file_system_for",
@@ -3209,12 +3211,6 @@
     {
       "date": "2026-11-22",
       "subcat": "Models & Datasets",
-      "title": "thinkingmachines/Inkling-2-Small",
-      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
-    },
-    {
-      "date": "2026-11-22",
-      "subcat": "Models & Datasets",
       "title": "zouhar/last-translation-benchmark",
       "url": "https://huggingface.co/datasets/zouhar/last-translation-benchmark"
     },
@@ -3265,6 +3261,12 @@
       "subcat": "Research Papers",
       "title": "Perfumer: A Large Language Model-based Agentic...",
       "url": "http://arxiv.org/abs/2611.26349v1"
+    },
+    {
+      "date": "2026-11-23",
+      "subcat": "Elixir",
+      "title": "Type inference and narrowing with reverse arrows",
+      "url": "https://lobste.rs/s/z8f3vz/type_inference_narrowing_with_reverse"
     }
   ]
 }

@@ -333,3 +333,15 @@ Top community posts, organized by programming language.
 - **What it is:** Professional Standalone Music Production Center with 7" Touch Screen, Sampler, Touch Strip and Music Tribe JAM DAW
 - **Growth:** averaging ~16 stars/day since launch.
 - **Link:** https://github.com/MusicTribeOpenSource/0700-AAM
+
+## Elixir
+
+**Added 2026-11-23**
+
+### [Type inference and narrowing with reverse arrows](https://elixir-lang.org/blog/2026/11/10/inference-narrowing-reverse-arrows/)
+- **Source:** elixir-lang.org | **Posted:** 2026-11-19 | **By:** eaj
+- **Community:** 18 score, 0 comments on Lobsters
+- **Tags:** elixir, plt
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/z8f3vz/type_inference_narrowing_with_reverse
+- **Link:** https://elixir-lang.org/blog/2026/11/10/inference-narrowing-reverse-arrows/
