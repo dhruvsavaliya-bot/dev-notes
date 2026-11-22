@@ -171,6 +171,16 @@ Top community posts, organized by programming language.
 - **Growth:** averaging ~18 stars/day since launch.
 - **Link:** https://github.com/Christ9038/Ydisks-Xianyu-Helper
 
+**Added 2026-11-22**
+
+### [Probabilistic data structures in Go, part 2](https://antonz.org/probabilistic-data-structures-2/)
+- **Source:** antonz.org | **Posted:** 2026-11-21 | **By:** cgrinds
+- **Community:** 26 score, 1 comments on Lobsters
+- **Tags:** go
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/hcofqi/probabilistic_data_structures_go_part_2
+- **Link:** https://antonz.org/probabilistic-data-structures-2/
+
 
 ## PHP
 

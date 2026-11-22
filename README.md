@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2256 entries and counting** · Last updated: 2026-11-22
+**2257 entries and counting** · Last updated: 2026-11-22
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 454 |
 | [Reading List](articles/reading-list.md) | 458 |
 | [Coding Tips](coding-tips/tips.md) | 456 |
-| [Language Notes](languages/notes.md) | 430 |
+| [Language Notes](languages/notes.md) | 431 |
 
 ## Latest additions
 
+- **2026-11-22** · *Go* — [Probabilistic data structures in Go, part 2](https://lobste.rs/s/hcofqi/probabilistic_data_structures_go_part_2)
 - **2026-11-22** · *Show & Ask HN* — [Show HN: A terminal-native idle factory game, written...](https://news.ycombinator.com/item?id=50497132)
 - **2026-11-22** · *Models & Datasets* — [Reson8/Rumble-2-Flash](https://huggingface.co/Reson8/Rumble-2-Flash)
 - **2026-11-22** · *Rust* — [Meet type-tune!  Give Your TypeScript Types a Better...](https://dev.to/necoz/meet-type-tune-give-your-typescript-types-a-better-home-1p6l)
 - **2026-11-22** · *AI & Machine Learning* — [croffasia/itsaplan](https://github.com/croffasia/itsaplan)
-- **2026-11-22** · *Lobsters Picks* — [Problems and solutions to the modern desktop (Make...](https://lobste.rs/s/gjlxiz/problems_solutions_modern_desktop_make)
 
 ## How it works
 

@@ -203,6 +203,7 @@
     "https://antithesis.com/blog/2026/nethack/",
     "https://antonz.org/go-concurrency-distilled/",
     "https://antonz.org/go-concurrency/",
+    "https://antonz.org/probabilistic-data-structures-2/",
     "https://antonz.org/probabilistic-data-structures/",
     "https://anycrap.shop/",
     "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
@@ -1849,6 +1850,7 @@
     "https://lobste.rs/s/h8tghc/cursor_pointer_on_buttons",
     "https://lobste.rs/s/haq46t/squalk_old_school_forum_engine_built_on",
     "https://lobste.rs/s/hccdqa/shipping_jpeg_xl_chrome",
+    "https://lobste.rs/s/hcofqi/probabilistic_data_structures_go_part_2",
     "https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not",
     "https://lobste.rs/s/hplfis/examining_macos_gcc_binary",
     "https://lobste.rs/s/hrsyjf/11_nanoseconds_per_word_ridiculously",
@@ -3194,12 +3196,6 @@
   "recent": [
     {
       "date": "2026-11-22",
-      "subcat": "Hacker News Picks",
-      "title": "US Government is hiding a secret court ruling about...",
-      "url": "https://news.ycombinator.com/item?id=50259604"
-    },
-    {
-      "date": "2026-11-22",
       "subcat": "AI & Machine Learning",
       "title": "simplexai-labs/linger",
       "url": "https://github.com/simplexai-labs/linger"
@@ -3251,6 +3247,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: A terminal-native idle factory game, written...",
       "url": "https://news.ycombinator.com/item?id=50497132"
+    },
+    {
+      "date": "2026-11-22",
+      "subcat": "Go",
+      "title": "Probabilistic data structures in Go, part 2",
+      "url": "https://lobste.rs/s/hcofqi/probabilistic_data_structures_go_part_2"
     }
   ]
 }
