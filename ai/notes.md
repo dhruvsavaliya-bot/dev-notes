@@ -465,6 +465,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted-GGUF
 
+**Added 2026-11-22**
+
+### [thejagstudio/tessera-small](https://huggingface.co/thejagstudio/tessera-small)
+- **Stats:** 170 likes | 0 downloads
+- **Kind:** Hugging Face model | **Task:** text-to-image | **Created:** 2026-11-09
+- **Tags:** pytorch, pixel-art, text-to-image, masked-diffusion, discrete-diffusion, diffusion-llm
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/thejagstudio/tessera-small
+
 
 ## LLMs
 

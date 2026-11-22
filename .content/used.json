@@ -1615,6 +1615,7 @@
     "https://huggingface.co/tencent/Hunyuan3D-2.1",
     "https://huggingface.co/tencent/Hy-Nomas",
     "https://huggingface.co/tencent/Hy3",
+    "https://huggingface.co/thejagstudio/tessera-small",
     "https://huggingface.co/thinkingmachines/Inkling-Small",
     "https://huggingface.co/unsloth/LFM2.5-24B-A2B-GGUF",
     "https://huggingface.co/unsloth/Qwen-Image-2.1-GGUF",
@@ -3184,12 +3185,6 @@
   "recent": [
     {
       "date": "2026-11-22",
-      "subcat": "Research Papers",
-      "title": "Reading or Remembering? Measuring Temporal...",
-      "url": "http://arxiv.org/abs/2611.21554v1"
-    },
-    {
-      "date": "2026-11-22",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Gawain  Require type hints on all Python...",
       "url": "https://news.ycombinator.com/item?id=50504072"
@@ -3241,6 +3236,12 @@
       "subcat": "Rust",
       "title": "Why I Rewrote type-tune from TypeScript to Rust",
       "url": "https://dev.to/necoz/why-i-rewrote-type-tune-from-typescript-to-rust-1egg"
+    },
+    {
+      "date": "2026-11-22",
+      "subcat": "Models & Datasets",
+      "title": "thejagstudio/tessera-small",
+      "url": "https://huggingface.co/thejagstudio/tessera-small"
     }
   ]
 }
