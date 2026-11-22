@@ -1653,6 +1653,7 @@
     "https://jack.cab/blog/siterate.html",
     "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback",
     "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+    "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
     "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855858",
     "https://jank-lang.org/",
     "https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/",
@@ -2769,6 +2770,7 @@
     "https://news.ycombinator.com/item?id=50500963",
     "https://news.ycombinator.com/item?id=50504072",
     "https://news.ycombinator.com/item?id=50506180",
+    "https://news.ycombinator.com/item?id=50507303",
     "https://news.ycombinator.com/item?id=50510042",
     "https://news.ycombinator.com/item?id=50513451",
     "https://news.ycombinator.com/item?id=50520076",
@@ -3203,12 +3205,6 @@
   "recent": [
     {
       "date": "2026-11-22",
-      "subcat": "Rust",
-      "title": "Meet type-tune!  Give Your TypeScript Types a Better...",
-      "url": "https://dev.to/necoz/meet-type-tune-give-your-typescript-types-a-better-home-1p6l"
-    },
-    {
-      "date": "2026-11-22",
       "subcat": "Models & Datasets",
       "title": "Reson8/Rumble-2-Flash",
       "url": "https://huggingface.co/Reson8/Rumble-2-Flash"
@@ -3260,6 +3256,12 @@
       "subcat": "Models & Datasets",
       "title": "xlangai/osworld_v2_tasks",
       "url": "https://huggingface.co/datasets/xlangai/osworld_v2_tasks"
+    },
+    {
+      "date": "2026-11-22",
+      "subcat": "Hacker News Picks",
+      "title": "All AI-generated code should be Open Source",
+      "url": "https://news.ycombinator.com/item?id=50507303"
     }
   ]
 }

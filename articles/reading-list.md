@@ -283,6 +283,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50588982
 - **Link:** https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really
 
+**Added 2026-11-22**
+
+### [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
+- **Source:** jakub.jankiewicz.org | **Posted:** 2026-11-15 | **By:** jcubic
+- **Community:** 1288 points, 673 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50507303
+- **Link:** https://jakub.jankiewicz.org/blog/ai-code-open-source/
+
 
 ## Lobsters Picks
 
