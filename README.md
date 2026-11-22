@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2248 entries and counting** · Last updated: 2026-11-22
+**2249 entries and counting** · Last updated: 2026-11-22
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 452 |
 | [Reading List](articles/reading-list.md) | 457 |
 | [Coding Tips](coding-tips/tips.md) | 454 |
-| [Language Notes](languages/notes.md) | 428 |
+| [Language Notes](languages/notes.md) | 429 |
 
 ## Latest additions
 
+- **2026-11-22** · *Rust* — [Why I Rewrote type-tune from TypeScript to Rust](https://dev.to/necoz/why-i-rewrote-type-tune-from-typescript-to-rust-1egg)
 - **2026-11-22** · *AI & Machine Learning* — [simplexai-labs/linger](https://github.com/simplexai-labs/linger)
 - **2026-11-22** · *Hacker News Picks* — [US Government is hiding a secret court ruling about...](https://news.ycombinator.com/item?id=50259604)
 - **2026-11-22** · *Show & Ask HN* — [Ask HN: I have been unemployed for 2y. 15 years of...](https://news.ycombinator.com/item?id=50583761)
 - **2026-11-22** · *Rust* — [SimoHypers/limusic](https://github.com/SimoHypers/limusic)
-- **2026-11-22** · *Show & Ask HN* — [Show HN: Mastra Factory, the open-source software...](https://news.ycombinator.com/item?id=50548660)
 
 ## How it works
 

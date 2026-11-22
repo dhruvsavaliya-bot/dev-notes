@@ -506,6 +506,7 @@
     "https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2",
     "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
     "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
+    "https://dev.to/necoz/why-i-rewrote-type-tune-from-typescript-to-rust-1egg",
     "https://dev.to/nikolas_dimitroulakis_d23/we-described-our-api-twice-once-for-humans-once-for-agents-4e4g",
     "https://dev.to/nyaomaru/how-do-we-extract-the-why-from-a-pr-into-a-changelog-with-jev-52pk",
     "https://dev.to/nyaomaru/how-do-you-validate-unknown-in-typescript-without-a-schema-library-1a11",
@@ -3183,12 +3184,6 @@
   "recent": [
     {
       "date": "2026-11-22",
-      "subcat": "PHP",
-      "title": "Show HN: I recreated Papers Please but you're...",
-      "url": "https://news.ycombinator.com/item?id=50457230"
-    },
-    {
-      "date": "2026-11-22",
       "subcat": "Research Papers",
       "title": "Reading or Remembering? Measuring Temporal...",
       "url": "http://arxiv.org/abs/2611.21554v1"
@@ -3240,6 +3235,12 @@
       "subcat": "AI & Machine Learning",
       "title": "simplexai-labs/linger",
       "url": "https://github.com/simplexai-labs/linger"
+    },
+    {
+      "date": "2026-11-22",
+      "subcat": "Rust",
+      "title": "Why I Rewrote type-tune from TypeScript to Rust",
+      "url": "https://dev.to/necoz/why-i-rewrote-type-tune-from-typescript-to-rust-1egg"
     }
   ]
 }

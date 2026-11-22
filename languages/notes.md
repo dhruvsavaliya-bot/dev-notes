@@ -130,6 +130,15 @@ Top community posts, organized by programming language.
 - **Growth:** averaging ~15 stars/day since launch.
 - **Link:** https://github.com/SimoHypers/limusic
 
+**Added 2026-11-22**
+
+### [Why I Rewrote type-tune from TypeScript to Rust 🦀](https://dev.to/necoz/why-i-rewrote-type-tune-from-typescript-to-rust-1egg)
+- **Author:** nyaomaru | **Published:** Nov 18 | **Read time:** 6 min
+- **Community:** 119 reactions, 30 comments -- a top post in #rust
+- **Tags:** typescript, rust, opensource, programming
+- **Summary:** Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer who loves TypeScript and gambas, not crabs! 🦐  And...
+- **Link:** https://dev.to/necoz/why-i-rewrote-type-tune-from-typescript-to-rust-1egg
+
 
 ## Go
 
