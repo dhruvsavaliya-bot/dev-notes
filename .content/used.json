@@ -1567,6 +1567,7 @@
     "https://huggingface.co/datasets/venvoo/china-a-share-l2-level2-limit-order-book-tick-data",
     "https://huggingface.co/datasets/ystemsrx/Erotic_Literature_Collection",
     "https://huggingface.co/datasets/zgcagi/ZGCM-1-Data",
+    "https://huggingface.co/datasets/zouhar/last-translation-benchmark",
     "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
     "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
     "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
@@ -3197,12 +3198,6 @@
   "recent": [
     {
       "date": "2026-11-22",
-      "subcat": "Rust",
-      "title": "Why I Rewrote type-tune from TypeScript to Rust",
-      "url": "https://dev.to/necoz/why-i-rewrote-type-tune-from-typescript-to-rust-1egg"
-    },
-    {
-      "date": "2026-11-22",
       "subcat": "Models & Datasets",
       "title": "thejagstudio/tessera-small",
       "url": "https://huggingface.co/thejagstudio/tessera-small"
@@ -3254,6 +3249,12 @@
       "subcat": "Models & Datasets",
       "title": "thinkingmachines/Inkling-2-Small",
       "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
+    },
+    {
+      "date": "2026-11-22",
+      "subcat": "Models & Datasets",
+      "title": "zouhar/last-translation-benchmark",
+      "url": "https://huggingface.co/datasets/zouhar/last-translation-benchmark"
     }
   ]
 }

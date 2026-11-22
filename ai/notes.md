@@ -492,6 +492,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/thinkingmachines/Inkling-2-Small
 
+**Added 2026-11-22**
+
+### [zouhar/last-translation-benchmark](https://huggingface.co/datasets/zouhar/last-translation-benchmark)
+- **Stats:** 70 likes | 449 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-08-31
+- **Tags:** multilingual, linguistics, difficult, benchmark
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/zouhar/last-translation-benchmark
+
 
 ## LLMs
 
