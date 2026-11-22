@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2271 entries and counting** · Last updated: 2026-11-23
+**2272 entries and counting** · Last updated: 2026-11-23
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 460 |
+| [Trending Projects](trending-projects/projects.md) | 461 |
 | [AI / LLM Notes](ai/notes.md) | 459 |
 | [Reading List](articles/reading-list.md) | 461 |
 | [Coding Tips](coding-tips/tips.md) | 458 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-23** · *Other Cool Projects* — [miumiupy98-art/miuread-koreader](https://github.com/miumiupy98-art/miuread-koreader)
 - **2026-11-23** · *Lobsters Picks* — [GitHub Actions accepts invalid YAML](https://lobste.rs/s/leqwqu/github_actions_accepts_invalid_yaml)
 - **2026-11-23** · *Research Papers* — [The Formalization of two Computational Models in Dafny](http://arxiv.org/abs/2609.34883v1)
 - **2026-11-23** · *Show & Ask HN* — [Show HN: MeowDisplay Is iPhone Mirroring, but in...](https://news.ycombinator.com/item?id=50429636)
 - **2026-11-23** · *Elixir* — [Type inference and narrowing with reverse arrows](https://lobste.rs/s/z8f3vz/type_inference_narrowing_with_reverse)
-- **2026-11-23** · *Research Papers* — [Perfumer: A Large Language Model-based Agentic...](http://arxiv.org/abs/2611.26349v1)
 
 ## How it works
 

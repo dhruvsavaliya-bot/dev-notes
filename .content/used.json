@@ -1135,6 +1135,7 @@
     "https://github.com/midesoft/rankGap",
     "https://github.com/mihirgupta0900/tv-home",
     "https://github.com/mikroverk/esp32sim",
+    "https://github.com/miumiupy98-art/miuread-koreader",
     "https://github.com/mizorewww/gdirect",
     "https://github.com/mizorewww/laya-mlx",
     "https://github.com/mizorewww/x_gift_bot",
@@ -3215,12 +3216,6 @@
   "recent": [
     {
       "date": "2026-11-22",
-      "subcat": "AI & Machine Learning",
-      "title": "coder/boo",
-      "url": "https://github.com/coder/boo"
-    },
-    {
-      "date": "2026-11-22",
       "subcat": "Models & Datasets",
       "title": "xlangai/osworld_v2_tasks",
       "url": "https://huggingface.co/datasets/xlangai/osworld_v2_tasks"
@@ -3272,6 +3267,12 @@
       "subcat": "Lobsters Picks",
       "title": "GitHub Actions accepts invalid YAML",
       "url": "https://lobste.rs/s/leqwqu/github_actions_accepts_invalid_yaml"
+    },
+    {
+      "date": "2026-11-23",
+      "subcat": "Other Cool Projects",
+      "title": "miumiupy98-art/miuread-koreader",
+      "url": "https://github.com/miumiupy98-art/miuread-koreader"
     }
   ]
 }

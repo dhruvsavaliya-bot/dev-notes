@@ -447,6 +447,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~8 stars/day since launch.
 - **Link:** https://github.com/beamivalice/sushi
 
+**Added 2026-11-23**
+
+### [miumiupy98-art/miuread-koreader](https://github.com/miumiupy98-art/miuread-koreader)
+- **Stats:** 777 stars | 55 forks | 11 open issues
+- **Language:** Lua | **Created:** 2026-07-18 | **License:** AGPL-3.0
+- **Topics:** ebook-reader, kindle, kindle-plugin, koreader, koreader-plugin, lua
+- **What it is:** 觅阅 MiuRead：适用于 Kindle 的非官方 KOReader 微信读书（WeRead）插件，支持书架、下载、划线与想法、阅读时长和进度同步
+- **Growth:** averaging ~6 stars/day since launch.
+- **Link:** https://github.com/miumiupy98-art/miuread-koreader
+
 
 ## Web & Frontend
 
