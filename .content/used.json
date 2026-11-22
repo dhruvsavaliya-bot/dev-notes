@@ -1242,6 +1242,7 @@
     "https://github.com/siglake/siglake",
     "https://github.com/simoarpe/ziggity",
     "https://github.com/simonlin1212/a-stock-data",
+    "https://github.com/simplexai-labs/linger",
     "https://github.com/sivchari/kumo",
     "https://github.com/slvDev/esp32-ai",
     "https://github.com/smithersai/claude-p",
@@ -3181,12 +3182,6 @@
   ],
   "recent": [
     {
-      "date": "2026-11-21",
-      "subcat": "Hacker News Picks",
-      "title": "Astra can read and write weights to improve Qwen",
-      "url": "https://news.ycombinator.com/item?id=50341174"
-    },
-    {
       "date": "2026-11-22",
       "subcat": "PHP",
       "title": "Show HN: I recreated Papers Please but you're...",
@@ -3239,6 +3234,12 @@
       "subcat": "Hacker News Picks",
       "title": "US Government is hiding a secret court ruling about...",
       "url": "https://news.ycombinator.com/item?id=50259604"
+    },
+    {
+      "date": "2026-11-22",
+      "subcat": "AI & Machine Learning",
+      "title": "simplexai-labs/linger",
+      "url": "https://github.com/simplexai-labs/linger"
     }
   ]
 }

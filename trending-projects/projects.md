@@ -254,6 +254,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~190 stars/day since launch.
 - **Link:** https://github.com/modelflare-ai/AnyModelBot
 
+**Added 2026-11-22**
+
+### [simplexai-labs/linger](https://github.com/simplexai-labs/linger)
+- **Stats:** 3,439 stars | 322 forks | 106 open issues
+- **Language:** TypeScript | **Created:** 2026-11-10 | **License:** NOASSERTION
+- **Topics:** agent-teams, local-llm, memory, personal-agent, proactive-agent, proactive-ai
+- **What it is:** Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing powerful local AI to everyday computers through efficient model–harness co-design, so everyone can run their own.
+- **Growth:** averaging ~286 stars/day since launch.
+- **Link:** https://github.com/simplexai-labs/linger
+
 
 ## Other Cool Projects
 
