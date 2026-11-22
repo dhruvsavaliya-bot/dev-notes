@@ -481,6 +481,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50429636
 - **Link:** https://meowdisplay.app/
 
+**Added 2026-11-23**
+
+### [Show HN: Stroq – a local audit of what your coding agent did and why](https://github.com/AGGIB/Stroq)
+- **Source:** github.com | **Posted:** 2026-11-05 | **By:** agybay_07
+- **Community:** 96 points, 34 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50380704
+- **Link:** https://github.com/AGGIB/Stroq
+
 
 ## Productivity
 

@@ -674,6 +674,7 @@
     "https://github.com/852wa/JIZURA",
     "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
     "https://github.com/AFK-surf/Comma",
+    "https://github.com/AGGIB/Stroq",
     "https://github.com/ARahim3/DigUp",
     "https://github.com/AhmadHassan-BTed/Noria",
     "https://github.com/Albert-Weasker/niubigeo",
@@ -2722,6 +2723,7 @@
     "https://news.ycombinator.com/item?id=50378508",
     "https://news.ycombinator.com/item?id=50378942",
     "https://news.ycombinator.com/item?id=50379221",
+    "https://news.ycombinator.com/item?id=50380704",
     "https://news.ycombinator.com/item?id=50381687",
     "https://news.ycombinator.com/item?id=50383057",
     "https://news.ycombinator.com/item?id=50391456",
@@ -3216,12 +3218,6 @@
   "recent": [
     {
       "date": "2026-11-22",
-      "subcat": "Models & Datasets",
-      "title": "xlangai/osworld_v2_tasks",
-      "url": "https://huggingface.co/datasets/xlangai/osworld_v2_tasks"
-    },
-    {
-      "date": "2026-11-22",
       "subcat": "Hacker News Picks",
       "title": "All AI-generated code should be Open Source",
       "url": "https://news.ycombinator.com/item?id=50507303"
@@ -3273,6 +3269,12 @@
       "subcat": "Other Cool Projects",
       "title": "miumiupy98-art/miuread-koreader",
       "url": "https://github.com/miumiupy98-art/miuread-koreader"
+    },
+    {
+      "date": "2026-11-23",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Stroq  a local audit of what your coding...",
+      "url": "https://news.ycombinator.com/item?id=50380704"
     }
   ]
 }
