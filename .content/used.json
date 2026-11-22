@@ -2077,6 +2077,7 @@
     "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders",
     "https://media.ccc.de/v/matrix-conference-2026-99070-a-vision-for-a-next-generation-timeline",
     "https://memories.gallery/",
+    "https://meowdisplay.app/",
     "https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/",
     "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
     "https://minimaxir.com/2026/10/cheap-llms/",
@@ -2742,6 +2743,7 @@
     "https://news.ycombinator.com/item?id=50427107",
     "https://news.ycombinator.com/item?id=50427934",
     "https://news.ycombinator.com/item?id=50428907",
+    "https://news.ycombinator.com/item?id=50429636",
     "https://news.ycombinator.com/item?id=50430621",
     "https://news.ycombinator.com/item?id=50431971",
     "https://news.ycombinator.com/item?id=50433079",
@@ -3210,12 +3212,6 @@
   "recent": [
     {
       "date": "2026-11-22",
-      "subcat": "Models & Datasets",
-      "title": "zouhar/last-translation-benchmark",
-      "url": "https://huggingface.co/datasets/zouhar/last-translation-benchmark"
-    },
-    {
-      "date": "2026-11-22",
       "subcat": "Show & Ask HN",
       "title": "Tell HN: OpenRouter prompts to Minimax may have been...",
       "url": "https://news.ycombinator.com/item?id=50585962"
@@ -3267,6 +3263,12 @@
       "subcat": "Elixir",
       "title": "Type inference and narrowing with reverse arrows",
       "url": "https://lobste.rs/s/z8f3vz/type_inference_narrowing_with_reverse"
+    },
+    {
+      "date": "2026-11-23",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in...",
+      "url": "https://news.ycombinator.com/item?id=50429636"
     }
   ]
 }

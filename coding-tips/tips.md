@@ -472,6 +472,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50585962
 - **Link:** https://news.ycombinator.com/item?id=50585962
 
+**Added 2026-11-23**
+
+### [Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse](https://meowdisplay.app/)
+- **Source:** meowdisplay.app | **Posted:** 2026-11-09 | **By:** raiseCatError
+- **Community:** 121 points, 45 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50429636
+- **Link:** https://meowdisplay.app/
+
 
 ## Productivity
 
