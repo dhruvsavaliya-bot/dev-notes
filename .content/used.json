@@ -145,6 +145,7 @@
     "http://arxiv.org/abs/2611.17915v1",
     "http://arxiv.org/abs/2611.21554v1",
     "http://arxiv.org/abs/2611.24844v1",
+    "http://arxiv.org/abs/2611.26349v1",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "http://blog.nozomi.space/posts/sw2_dock/",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
@@ -3207,12 +3208,6 @@
   "recent": [
     {
       "date": "2026-11-22",
-      "subcat": "Go",
-      "title": "Probabilistic data structures in Go, part 2",
-      "url": "https://lobste.rs/s/hcofqi/probabilistic_data_structures_go_part_2"
-    },
-    {
-      "date": "2026-11-22",
       "subcat": "Models & Datasets",
       "title": "thinkingmachines/Inkling-2-Small",
       "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
@@ -3264,6 +3259,12 @@
       "subcat": "TypeScript",
       "title": "abcwyc/pi-agent-desktop",
       "url": "https://github.com/abcwyc/pi-agent-desktop"
+    },
+    {
+      "date": "2026-11-23",
+      "subcat": "Research Papers",
+      "title": "Perfumer: A Large Language Model-based Agentic...",
+      "url": "http://arxiv.org/abs/2611.26349v1"
     }
   ]
 }

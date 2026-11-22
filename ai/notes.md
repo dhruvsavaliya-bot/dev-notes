@@ -264,6 +264,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.21554v1
 
+**Added 2026-11-23**
+
+### [Perfumer: A Large Language Model-based Agentic Framework Accelerating Structural Relaxation and Electronic Band Prediction for First-Principle Calculation](http://arxiv.org/abs/2611.26349v1)
+- **Authors:** Zhiwei Li, Yuhao Zhou, Yikai Yang, Haonan Wang et al.
+- **Published:** 2026-11-19 | **Primary category:** cs.LG
+- **Categories:** cond-mat.mtrl-sci, cs.LG
+- **Abstract:** First-principles structural relaxation and band calculations require substantial computation and expertise. Here we present Perfumer, a large language model-based agentic framework that couples Quantum ESPRESSO with two predictive models. Across tested structures, pre-relaxation with Perfumer-relax model followed by QE refinement yielded a 2.75-fold overall speedup over QE alone. Perfumer-band model combines a periodic graph neural network with a latent Hermitian spectral head returns 12 band en...
+- **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.26349v1
+
 
 ## Models & Datasets
 
