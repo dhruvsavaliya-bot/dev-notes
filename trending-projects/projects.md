@@ -264,6 +264,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~286 stars/day since launch.
 - **Link:** https://github.com/simplexai-labs/linger
 
+**Added 2026-11-22**
+
+### [croffasia/itsaplan](https://github.com/croffasia/itsaplan)
+- **Stats:** 2,481 stars | 333 forks | 84 open issues
+- **Language:** TypeScript | **Created:** 2026-07-14 | **License:** AGPL-3.0
+- **Topics:** agentic, agile, ai-agents, bug-reporting, bug-tracker, gantt
+- **What it is:** ⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.
+- **Growth:** averaging ~18 stars/day since launch.
+- **Link:** https://github.com/croffasia/itsaplan
+
 
 ## Other Cool Projects
 

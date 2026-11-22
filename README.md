@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2252 entries and counting** · Last updated: 2026-11-22
+**2253 entries and counting** · Last updated: 2026-11-22
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 457 |
+| [Trending Projects](trending-projects/projects.md) | 458 |
 | [AI / LLM Notes](ai/notes.md) | 453 |
 | [Reading List](articles/reading-list.md) | 458 |
 | [Coding Tips](coding-tips/tips.md) | 455 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-22** · *AI & Machine Learning* — [croffasia/itsaplan](https://github.com/croffasia/itsaplan)
 - **2026-11-22** · *Lobsters Picks* — [Problems and solutions to the modern desktop (Make...](https://lobste.rs/s/gjlxiz/problems_solutions_modern_desktop_make)
 - **2026-11-22** · *Show & Ask HN* — [Show HN: Micron  Oberon with the Power of C](https://news.ycombinator.com/item?id=50413266)
 - **2026-11-22** · *Models & Datasets* — [thejagstudio/tessera-small](https://huggingface.co/thejagstudio/tessera-small)
 - **2026-11-22** · *Rust* — [Why I Rewrote type-tune from TypeScript to Rust](https://dev.to/necoz/why-i-rewrote-type-tune-from-typescript-to-rust-1egg)
-- **2026-11-22** · *AI & Machine Learning* — [simplexai-labs/linger](https://github.com/simplexai-labs/linger)
 
 ## How it works
 
