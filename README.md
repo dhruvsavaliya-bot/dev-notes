@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2250 entries and counting** · Last updated: 2026-11-22
+**2251 entries and counting** · Last updated: 2026-11-22
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 457 |
 | [AI / LLM Notes](ai/notes.md) | 453 |
 | [Reading List](articles/reading-list.md) | 457 |
-| [Coding Tips](coding-tips/tips.md) | 454 |
+| [Coding Tips](coding-tips/tips.md) | 455 |
 | [Language Notes](languages/notes.md) | 429 |
 
 ## Latest additions
 
+- **2026-11-22** · *Show & Ask HN* — [Show HN: Micron  Oberon with the Power of C](https://news.ycombinator.com/item?id=50413266)
 - **2026-11-22** · *Models & Datasets* — [thejagstudio/tessera-small](https://huggingface.co/thejagstudio/tessera-small)
 - **2026-11-22** · *Rust* — [Why I Rewrote type-tune from TypeScript to Rust](https://dev.to/necoz/why-i-rewrote-type-tune-from-typescript-to-rust-1egg)
 - **2026-11-22** · *AI & Machine Learning* — [simplexai-labs/linger](https://github.com/simplexai-labs/linger)
 - **2026-11-22** · *Hacker News Picks* — [US Government is hiding a secret court ruling about...](https://news.ycombinator.com/item?id=50259604)
-- **2026-11-22** · *Show & Ask HN* — [Ask HN: I have been unemployed for 2y. 15 years of...](https://news.ycombinator.com/item?id=50583761)
 
 ## How it works
 

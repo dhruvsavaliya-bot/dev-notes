@@ -445,6 +445,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50583761
 - **Link:** https://news.ycombinator.com/item?id=50583761
 
+**Added 2026-11-22**
+
+### [Show HN: Micron – Oberon with the Power of C](https://github.com/rochus-keller/Micron)
+- **Source:** github.com | **Posted:** 2026-11-08 | **By:** Rochus
+- **Community:** 70 points, 31 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50413266
+- **Link:** https://github.com/rochus-keller/Micron
+
 
 ## Productivity
 

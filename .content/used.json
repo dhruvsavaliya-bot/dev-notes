@@ -1213,6 +1213,7 @@
     "https://github.com/rjsf-team/react-jsonschema-form",
     "https://github.com/rlaope/oh-my-hermes",
     "https://github.com/robbietilton/Compositor",
+    "https://github.com/rochus-keller/Micron",
     "https://github.com/rorkai/app-store-connect-cli-skills",
     "https://github.com/rorygallagher2024/glasshouse",
     "https://github.com/royalbhati/sqltoerdiagram",
@@ -2710,6 +2711,7 @@
     "https://news.ycombinator.com/item?id=50406222",
     "https://news.ycombinator.com/item?id=50406292",
     "https://news.ycombinator.com/item?id=50407882",
+    "https://news.ycombinator.com/item?id=50413266",
     "https://news.ycombinator.com/item?id=50414117",
     "https://news.ycombinator.com/item?id=50415379",
     "https://news.ycombinator.com/item?id=50416640",
@@ -3185,12 +3187,6 @@
   "recent": [
     {
       "date": "2026-11-22",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Gawain  Require type hints on all Python...",
-      "url": "https://news.ycombinator.com/item?id=50504072"
-    },
-    {
-      "date": "2026-11-22",
       "subcat": "AI & Machine Learning",
       "title": "modelflare-ai/AnyModelBot",
       "url": "https://github.com/modelflare-ai/AnyModelBot"
@@ -3242,6 +3238,12 @@
       "subcat": "Models & Datasets",
       "title": "thejagstudio/tessera-small",
       "url": "https://huggingface.co/thejagstudio/tessera-small"
+    },
+    {
+      "date": "2026-11-22",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Micron  Oberon with the Power of C",
+      "url": "https://news.ycombinator.com/item?id=50413266"
     }
   ]
 }
