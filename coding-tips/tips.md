@@ -436,6 +436,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50548660
 - **Link:** https://news.ycombinator.com/item?id=50548660
 
+**Added 2026-11-22**
+
+### [Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?](https://news.ycombinator.com/item?id=50583761)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-20 | **By:** LetThingsBeDiff
+- **Community:** 623 points, 703 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50583761
+- **Link:** https://news.ycombinator.com/item?id=50583761
+
 
 ## Productivity
 

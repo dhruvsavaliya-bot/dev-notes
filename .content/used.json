@@ -2767,6 +2767,7 @@
     "https://news.ycombinator.com/item?id=50559719",
     "https://news.ycombinator.com/item?id=50563148",
     "https://news.ycombinator.com/item?id=50577613",
+    "https://news.ycombinator.com/item?id=50583761",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -3179,12 +3180,6 @@
   "recent": [
     {
       "date": "2026-11-21",
-      "subcat": "Other Cool Projects",
-      "title": "beamivalice/sushi",
-      "url": "https://github.com/beamivalice/sushi"
-    },
-    {
-      "date": "2026-11-21",
       "subcat": "JavaScript",
       "title": "One Month After the Hackathon: Why My 4-Service App...",
       "url": "https://dev.to/earlgreyhot1701d/one-month-after-the-hackathon-why-my-4-service-app-stopped-working-and-what-mansio-caught-in-the-3i8h"
@@ -3236,6 +3231,12 @@
       "subcat": "Rust",
       "title": "SimoHypers/limusic",
       "url": "https://github.com/SimoHypers/limusic"
+    },
+    {
+      "date": "2026-11-22",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of...",
+      "url": "https://news.ycombinator.com/item?id=50583761"
     }
   ]
 }
