@@ -292,6 +292,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50507303
 - **Link:** https://jakub.jankiewicz.org/blog/ai-code-open-source/
 
+**Added 2026-11-23**
+
+### [Masullo on the Riemann Hypothesis](https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/)
+- **Source:** johncarlosbaez.wordpress.com | **Posted:** 2026-11-22 | **By:** xiaoyu2006
+- **Community:** 194 points, 126 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50598441
+- **Link:** https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/
+
 
 ## Lobsters Picks
 
