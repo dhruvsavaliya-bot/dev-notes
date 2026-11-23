@@ -148,6 +148,7 @@
     "http://arxiv.org/abs/2611.21554v1",
     "http://arxiv.org/abs/2611.24844v1",
     "http://arxiv.org/abs/2611.26349v1",
+    "http://arxiv.org/abs/2611.27077v1",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "http://blog.nozomi.space/posts/sw2_dock/",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
@@ -3224,12 +3225,6 @@
   "recent": [
     {
       "date": "2026-11-23",
-      "subcat": "Elixir",
-      "title": "Type inference and narrowing with reverse arrows",
-      "url": "https://lobste.rs/s/z8f3vz/type_inference_narrowing_with_reverse"
-    },
-    {
-      "date": "2026-11-23",
       "subcat": "Show & Ask HN",
       "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in...",
       "url": "https://news.ycombinator.com/item?id=50429636"
@@ -3281,6 +3276,12 @@
       "subcat": "C++",
       "title": "gufo-org/gufo",
       "url": "https://github.com/gufo-org/gufo"
+    },
+    {
+      "date": "2026-11-23",
+      "subcat": "Research Papers",
+      "title": "Accelerating Muon with Spectral Residual Correction",
+      "url": "http://arxiv.org/abs/2611.27077v1"
     }
   ]
 }

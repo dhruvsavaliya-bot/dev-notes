@@ -294,6 +294,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.24252v1
 
+**Added 2026-11-23**
+
+### [Accelerating Muon with Spectral Residual Correction](http://arxiv.org/abs/2611.27077v1)
+- **Authors:** Zhixin Ren, Yao Lyu, Shengbo Eben Li, Liping Zhang
+- **Published:** 2026-11-20 | **Primary category:** cs.LG
+- **Categories:** cs.LG
+- **Abstract:** Muon constructs matrix updates by applying a matrix-sign transformation to momentum. A common route to accelerating Muon is to modify the gradient or momentum before this transformation. We explore a complementary direction: refining the parameter step while retaining Muon's momentum recursion. Derived from the parameter subproblem of the ADMM-Inspired Momentum framework, AIMuon uses the gradient--momentum residual to correct the tentative spectral step. The residual undergoes a separate matrix-...
+- **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.27077v1
+
 
 ## Models & Datasets
 
