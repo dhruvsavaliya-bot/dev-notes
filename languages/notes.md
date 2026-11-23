@@ -375,3 +375,15 @@ Top community posts, organized by programming language.
 - **Summary:** No summary provided.
 - **Discussion:** https://lobste.rs/s/z8f3vz/type_inference_narrowing_with_reverse
 - **Link:** https://elixir-lang.org/blog/2026/11/10/inference-narrowing-reverse-arrows/
+
+## C#
+
+**Added 2026-11-23**
+
+### [patchzyy/Wiicompiled](https://github.com/patchzyy/Wiicompiled)
+- **Stats:** 1,480 stars | 140 forks | 57 open issues
+- **Language:** C# | **Created:** 2026-08-10 | **License:** GPL-3.0
+- **Topics:** none listed
+- **What it is:** Wiicompiled
+- **Growth:** averaging ~14 stars/day since launch.
+- **Link:** https://github.com/patchzyy/Wiicompiled

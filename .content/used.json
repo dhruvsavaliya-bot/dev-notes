@@ -1200,6 +1200,7 @@
     "https://github.com/palkan/layered-rails-skills",
     "https://github.com/panxunying/ai-coding-welfare",
     "https://github.com/patch-gg/pixelfx",
+    "https://github.com/patchzyy/Wiicompiled",
     "https://github.com/pathwaycom/arc-task-gen",
     "https://github.com/pauljoda/Crest",
     "https://github.com/peach-mitao/peach",
@@ -3234,12 +3235,6 @@
   "recent": [
     {
       "date": "2026-11-23",
-      "subcat": "Rust",
-      "title": "Lonewolf 0.3  A standalone XMPP server written in Rust",
-      "url": "https://news.ycombinator.com/item?id=50484007"
-    },
-    {
-      "date": "2026-11-23",
       "subcat": "Show & Ask HN",
       "title": "Show HN: The Riemann Proof Handbook",
       "url": "https://news.ycombinator.com/item?id=50596664"
@@ -3291,6 +3286,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: I built a little browser game to practice...",
       "url": "https://news.ycombinator.com/item?id=50347552"
+    },
+    {
+      "date": "2026-11-23",
+      "subcat": "C#",
+      "title": "patchzyy/Wiicompiled",
+      "url": "https://github.com/patchzyy/Wiicompiled"
     }
   ]
 }
