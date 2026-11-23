@@ -1178,6 +1178,7 @@
     "https://github.com/omdsh-dev/DSH-better-sidebar",
     "https://github.com/omlahore/RemoveMacAI",
     "https://github.com/omnara-ai/omnara",
+    "https://github.com/omonkeyz/xbox-emulator",
     "https://github.com/onecli/onecli",
     "https://github.com/onehumanbeing/esp32-iphone-agent",
     "https://github.com/onyx-dot-app/onyx",
@@ -3237,12 +3238,6 @@
   "recent": [
     {
       "date": "2026-11-23",
-      "subcat": "C++",
-      "title": "gufo-org/gufo",
-      "url": "https://github.com/gufo-org/gufo"
-    },
-    {
-      "date": "2026-11-23",
       "subcat": "Research Papers",
       "title": "Accelerating Muon with Spectral Residual Correction",
       "url": "http://arxiv.org/abs/2611.27077v1"
@@ -3294,6 +3289,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: I built a game where you are an LLM's subagent",
       "url": "https://news.ycombinator.com/item?id=50599762"
+    },
+    {
+      "date": "2026-11-23",
+      "subcat": "AI & Machine Learning",
+      "title": "omonkeyz/xbox-emulator",
+      "url": "https://github.com/omonkeyz/xbox-emulator"
     }
   ]
 }

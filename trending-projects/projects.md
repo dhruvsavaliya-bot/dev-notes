@@ -294,6 +294,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~10 stars/day since launch.
 - **Link:** https://github.com/qingchencloud/clawpanel
 
+**Added 2026-11-23**
+
+### [omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator)
+- **Stats:** 1,425 stars | 88 forks | 66 open issues
+- **Language:** Rust | **Created:** 2026-11-21 | **License:** GPL-3.0
+- **Topics:** none listed
+- **What it is:** Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)
+- **Growth:** averaging ~712 stars/day since launch.
+- **Link:** https://github.com/omonkeyz/xbox-emulator
+
 
 ## Other Cool Projects
 
