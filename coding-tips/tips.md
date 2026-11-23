@@ -490,6 +490,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50380704
 - **Link:** https://github.com/AGGIB/Stroq
 
+**Added 2026-11-23**
+
+### [Show HN: The Riemann Proof Handbook](https://github.com/tamnd/riemann-handbook)
+- **Source:** github.com | **Posted:** 2026-11-22 | **By:** tamnd
+- **Community:** 83 points, 58 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50596664
+- **Link:** https://github.com/tamnd/riemann-handbook
+
 
 ## Productivity
 

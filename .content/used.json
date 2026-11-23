@@ -1285,6 +1285,7 @@
     "https://github.com/talivia-group/talivia",
     "https://github.com/tamaratran/fast-jev-compaction",
     "https://github.com/tamnd/kage",
+    "https://github.com/tamnd/riemann-handbook",
     "https://github.com/tangency-labs/solidcraft",
     "https://github.com/tester-army/e2e",
     "https://github.com/tfrce/thedaywefightback.js",
@@ -2806,6 +2807,7 @@
     "https://news.ycombinator.com/item?id=50583761",
     "https://news.ycombinator.com/item?id=50585962",
     "https://news.ycombinator.com/item?id=50588982",
+    "https://news.ycombinator.com/item?id=50596664",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -3221,12 +3223,6 @@
   "recent": [
     {
       "date": "2026-11-23",
-      "subcat": "TypeScript",
-      "title": "abcwyc/pi-agent-desktop",
-      "url": "https://github.com/abcwyc/pi-agent-desktop"
-    },
-    {
-      "date": "2026-11-23",
       "subcat": "Research Papers",
       "title": "Perfumer: A Large Language Model-based Agentic...",
       "url": "http://arxiv.org/abs/2611.26349v1"
@@ -3278,6 +3274,12 @@
       "subcat": "Rust",
       "title": "Lonewolf 0.3  A standalone XMPP server written in Rust",
       "url": "https://news.ycombinator.com/item?id=50484007"
+    },
+    {
+      "date": "2026-11-23",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: The Riemann Proof Handbook",
+      "url": "https://news.ycombinator.com/item?id=50596664"
     }
   ]
 }
