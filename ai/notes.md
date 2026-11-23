@@ -560,6 +560,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/xlangai/osworld_v2_tasks
 
+**Added 2026-11-24**
+
+### [ccore/ThreeJS-3D-GLB-Assets](https://huggingface.co/datasets/ccore/ThreeJS-3D-GLB-Assets)
+- **Stats:** 93 likes | 5,630 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-11-06
+- **Tags:** 3d, threejs, glb, game-assets, code, reasoning
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/ccore/ThreeJS-3D-GLB-Assets
+
 
 ## LLMs
 

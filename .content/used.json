@@ -1532,6 +1532,7 @@
     "https://huggingface.co/datasets/atomscott/soccertrack-v2",
     "https://huggingface.co/datasets/bakrianoo/jabarti-llm-dataset",
     "https://huggingface.co/datasets/bigcode/the-stack-v2",
+    "https://huggingface.co/datasets/ccore/ThreeJS-3D-GLB-Assets",
     "https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes",
     "https://huggingface.co/datasets/codepawl/abo-glb",
     "https://huggingface.co/datasets/codepawl/simready-glb",
@@ -3244,12 +3245,6 @@
   "recent": [
     {
       "date": "2026-11-23",
-      "subcat": "C++",
-      "title": "sebbbi/NoGraphicsAPI",
-      "url": "https://github.com/sebbbi/NoGraphicsAPI"
-    },
-    {
-      "date": "2026-11-23",
       "subcat": "Research Papers",
       "title": "A Continuous Relaxation of Quantization-Aware Training",
       "url": "http://arxiv.org/abs/2611.27056v1"
@@ -3301,6 +3296,12 @@
       "subcat": "Lobsters Picks",
       "title": "Quality IMAP, Part 2: Mailbox Concurrency",
       "url": "https://lobste.rs/s/lnpwpu/quality_imap_part_2_mailbox_concurrency"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "Models & Datasets",
+      "title": "ccore/ThreeJS-3D-GLB-Assets",
+      "url": "https://huggingface.co/datasets/ccore/ThreeJS-3D-GLB-Assets"
     }
   ]
 }
