@@ -554,6 +554,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/leqwqu/github_actions_accepts_invalid_yaml
 - **Link:** https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/
 
+**Added 2026-11-24**
+
+### [Quality IMAP, Part 2: Mailbox Concurrency](https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/)
+- **Source:** aerogramme.deuxfleurs.fr | **Posted:** 2026-11-23 | **By:** armael
+- **Community:** 21 score, 0 comments on Lobsters
+- **Tags:** distributed, email, testing
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/lnpwpu/quality_imap_part_2_mailbox_concurrency
+- **Link:** https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/
+
 
 ## Security
 
