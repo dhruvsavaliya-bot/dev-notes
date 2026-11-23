@@ -304,6 +304,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.27077v1
 
+**Added 2026-11-23**
+
+### [A Continuous Relaxation of Quantization-Aware Training](http://arxiv.org/abs/2611.27056v1)
+- **Authors:** Kartikeya Bhardwaj, Mohammed Almousa, Chaitanya Mullapudi, Ananth Balasubramanian et al.
+- **Published:** 2026-11-20 | **Primary category:** cs.LG
+- **Categories:** cs.AI, cs.CV, cs.LG
+- **Abstract:** Quantization is a critical piece of the deployment pipeline in the era of large generative models. Low-bit quantization, particularly 2-bits or sub-2-bits, is a notoriously difficult problem, particularly when using a channelwise quantization scheme which has been shown as a leading candidate for hardware-efficiency. The key challenges with low-bit quantization range from limited quantization levels to saddle points or flat regions in the loss surface. In this paper, we look at the problem of fl...
+- **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.27056v1
+
 
 ## Models & Datasets
 

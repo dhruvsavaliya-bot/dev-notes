@@ -148,6 +148,7 @@
     "http://arxiv.org/abs/2611.21554v1",
     "http://arxiv.org/abs/2611.24844v1",
     "http://arxiv.org/abs/2611.26349v1",
+    "http://arxiv.org/abs/2611.27056v1",
     "http://arxiv.org/abs/2611.27077v1",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "http://blog.nozomi.space/posts/sw2_dock/",
@@ -3231,12 +3232,6 @@
   "recent": [
     {
       "date": "2026-11-23",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Stroq  a local audit of what your coding...",
-      "url": "https://news.ycombinator.com/item?id=50380704"
-    },
-    {
-      "date": "2026-11-23",
       "subcat": "Research Papers",
       "title": "Iris in Lean",
       "url": "http://arxiv.org/abs/2609.24252v1"
@@ -3288,6 +3283,12 @@
       "subcat": "C++",
       "title": "sebbbi/NoGraphicsAPI",
       "url": "https://github.com/sebbbi/NoGraphicsAPI"
+    },
+    {
+      "date": "2026-11-23",
+      "subcat": "Research Papers",
+      "title": "A Continuous Relaxation of Quantization-Aware Training",
+      "url": "http://arxiv.org/abs/2611.27056v1"
     }
   ]
 }
