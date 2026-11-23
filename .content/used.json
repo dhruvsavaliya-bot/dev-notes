@@ -1408,6 +1408,7 @@
     "https://himalayas.app/companies",
     "https://hissingkitty.com/hacker-churn",
     "https://hister.org/",
+    "https://hjkl.duy.run",
     "https://hn.watch/",
     "https://honk.foo/porffor-alpha/",
     "https://htmx.org/essays/yes-and/",
@@ -2710,6 +2711,7 @@
     "https://news.ycombinator.com/item?id=50346164",
     "https://news.ycombinator.com/item?id=50346981",
     "https://news.ycombinator.com/item?id=50347425",
+    "https://news.ycombinator.com/item?id=50347552",
     "https://news.ycombinator.com/item?id=50349276",
     "https://news.ycombinator.com/item?id=50352757",
     "https://news.ycombinator.com/item?id=50353386",
@@ -3232,12 +3234,6 @@
   "recent": [
     {
       "date": "2026-11-23",
-      "subcat": "Research Papers",
-      "title": "Iris in Lean",
-      "url": "http://arxiv.org/abs/2609.24252v1"
-    },
-    {
-      "date": "2026-11-23",
       "subcat": "Rust",
       "title": "Lonewolf 0.3  A standalone XMPP server written in Rust",
       "url": "https://news.ycombinator.com/item?id=50484007"
@@ -3289,6 +3285,12 @@
       "subcat": "Research Papers",
       "title": "A Continuous Relaxation of Quantization-Aware Training",
       "url": "http://arxiv.org/abs/2611.27056v1"
+    },
+    {
+      "date": "2026-11-23",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: I built a little browser game to practice...",
+      "url": "https://news.ycombinator.com/item?id=50347552"
     }
   ]
 }
