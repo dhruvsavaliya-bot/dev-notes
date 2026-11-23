@@ -304,6 +304,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~712 stars/day since launch.
 - **Link:** https://github.com/omonkeyz/xbox-emulator
 
+**Added 2026-11-24**
+
+### [WindGatorRise37/Gemini-Config-Checker-](https://github.com/WindGatorRise37/Gemini-Config-Checker-)
+- **Stats:** 464 stars | 0 forks | 0 open issues
+- **Language:** Makefile | **Created:** 2026-11-15 | **License:** Apache-2.0
+- **Topics:** ai, ai-search, aichecker, chatgpt, cli, config-checker
+- **What it is:** Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)
+- **Growth:** averaging ~51 stars/day since launch.
+- **Link:** https://github.com/WindGatorRise37/Gemini-Config-Checker-
+
 
 ## Other Cool Projects
 

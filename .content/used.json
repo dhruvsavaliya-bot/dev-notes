@@ -875,6 +875,7 @@
     "https://github.com/Vincentwei1021/video-shotcraft",
     "https://github.com/Waishnav/devspace",
     "https://github.com/WeblateOrg/weblate",
+    "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
     "https://github.com/XiaoDuoYa/codex-with-chatgpt",
     "https://github.com/XxxXTeam/business2api",
     "https://github.com/YanamiNeko/NekoSportsWorldTool",
@@ -3245,12 +3246,6 @@
   "recent": [
     {
       "date": "2026-11-23",
-      "subcat": "Research Papers",
-      "title": "A Continuous Relaxation of Quantization-Aware Training",
-      "url": "http://arxiv.org/abs/2611.27056v1"
-    },
-    {
-      "date": "2026-11-23",
       "subcat": "Show & Ask HN",
       "title": "Show HN: I built a little browser game to practice...",
       "url": "https://news.ycombinator.com/item?id=50347552"
@@ -3302,6 +3297,12 @@
       "subcat": "Models & Datasets",
       "title": "ccore/ThreeJS-3D-GLB-Assets",
       "url": "https://huggingface.co/datasets/ccore/ThreeJS-3D-GLB-Assets"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "AI & Machine Learning",
+      "title": "WindGatorRise37/Gemini-Config-Checker-",
+      "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-"
     }
   ]
 }
