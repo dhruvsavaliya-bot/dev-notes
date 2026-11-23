@@ -2831,6 +2831,7 @@
     "https://news.ycombinator.com/item?id=50596664",
     "https://news.ycombinator.com/item?id=50598441",
     "https://news.ycombinator.com/item?id=50599762",
+    "https://news.ycombinator.com/item?id=50600511",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2880,6 +2881,7 @@
     "https://orionbrowser.com/",
     "https://ornith.ai/ornith_1_5.html",
     "https://oss.lsantos.dev/proton-drive-linux-fs/",
+    "https://osw-alliance.net/en/",
     "https://outcrop.rocks/",
     "https://parallel-rust-cpp.github.io/introduction.html",
     "https://parsimony.lasu.dev/",
@@ -3246,12 +3248,6 @@
   "recent": [
     {
       "date": "2026-11-23",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: I built a little browser game to practice...",
-      "url": "https://news.ycombinator.com/item?id=50347552"
-    },
-    {
-      "date": "2026-11-23",
       "subcat": "C#",
       "title": "patchzyy/Wiicompiled",
       "url": "https://github.com/patchzyy/Wiicompiled"
@@ -3303,6 +3299,12 @@
       "subcat": "AI & Machine Learning",
       "title": "WindGatorRise37/Gemini-Config-Checker-",
       "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "Hacker News Picks",
+      "title": "Open Social Web Alliance",
+      "url": "https://news.ycombinator.com/item?id=50600511"
     }
   ]
 }

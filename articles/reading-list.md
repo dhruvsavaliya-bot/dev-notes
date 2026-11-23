@@ -301,6 +301,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50598441
 - **Link:** https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/
 
+**Added 2026-11-24**
+
+### [Open Social Web Alliance](https://osw-alliance.net/en/)
+- **Source:** osw-alliance.net | **Posted:** 2026-11-22 | **By:** doener
+- **Community:** 252 points, 240 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50600511
+- **Link:** https://osw-alliance.net/en/
+
 
 ## Lobsters Picks
 

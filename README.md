@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2293 entries and counting** · Last updated: 2026-11-24
+**2294 entries and counting** · Last updated: 2026-11-24
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 464 |
 | [AI / LLM Notes](ai/notes.md) | 463 |
-| [Reading List](articles/reading-list.md) | 463 |
+| [Reading List](articles/reading-list.md) | 464 |
 | [Coding Tips](coding-tips/tips.md) | 464 |
 | [Language Notes](languages/notes.md) | 439 |
 
 ## Latest additions
 
+- **2026-11-24** · *Hacker News Picks* — [Open Social Web Alliance](https://news.ycombinator.com/item?id=50600511)
 - **2026-11-24** · *AI & Machine Learning* — [WindGatorRise37/Gemini-Config-Checker-](https://github.com/WindGatorRise37/Gemini-Config-Checker-)
 - **2026-11-24** · *Models & Datasets* — [ccore/ThreeJS-3D-GLB-Assets](https://huggingface.co/datasets/ccore/ThreeJS-3D-GLB-Assets)
 - **2026-11-24** · *Lobsters Picks* — [Quality IMAP, Part 2: Mailbox Concurrency](https://lobste.rs/s/lnpwpu/quality_imap_part_2_mailbox_concurrency)
 - **2026-11-24** · *Swift* — [humanitas-labs/quill](https://github.com/humanitas-labs/quill)
-- **2026-11-23** · *Show & Ask HN* — [Show HN: AgentRun  open-source, Self-improving...](https://news.ycombinator.com/item?id=50471650)
 
 ## How it works
 
