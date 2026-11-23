@@ -1040,6 +1040,7 @@
     "https://github.com/golang/go/issues/45624",
     "https://github.com/golang/go/issues/82345",
     "https://github.com/google-research/tabfm",
+    "https://github.com/gufo-org/gufo",
     "https://github.com/guillaumemeyer/watermarks-remover",
     "https://github.com/gvzdv/claudish-to-english",
     "https://github.com/harikumar35626-hash/wondshare-recoverit",
@@ -3223,12 +3224,6 @@
   "recent": [
     {
       "date": "2026-11-23",
-      "subcat": "Research Papers",
-      "title": "Perfumer: A Large Language Model-based Agentic...",
-      "url": "http://arxiv.org/abs/2611.26349v1"
-    },
-    {
-      "date": "2026-11-23",
       "subcat": "Elixir",
       "title": "Type inference and narrowing with reverse arrows",
       "url": "https://lobste.rs/s/z8f3vz/type_inference_narrowing_with_reverse"
@@ -3280,6 +3275,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: The Riemann Proof Handbook",
       "url": "https://news.ycombinator.com/item?id=50596664"
+    },
+    {
+      "date": "2026-11-23",
+      "subcat": "C++",
+      "title": "gufo-org/gufo",
+      "url": "https://github.com/gufo-org/gufo"
     }
   ]
 }

@@ -343,6 +343,17 @@ Top community posts, organized by programming language.
 - **Growth:** averaging ~16 stars/day since launch.
 - **Link:** https://github.com/MusicTribeOpenSource/0700-AAM
 
+**Added 2026-11-23**
+
+### [gufo-org/gufo](https://github.com/gufo-org/gufo)
+- **Stats:** 1,254 stars | 220 forks | 50 open issues
+- **Language:** C++ | **Created:** 2026-08-11 | **License:** MIT
+- **Topics:** amd, asr, gfx1151, image-generation, llm, ryzen-ai
+- **What it is:** The open-source AI engine for AMD Strix Halo. Text, embeddings, speech, image and video models in one binary, with OpenAI-compatible APIs, caching for coding agents and model extensions. Linux and Windows.
+- **Growth:** averaging ~12 stars/day since launch.
+- **Link:** https://github.com/gufo-org/gufo
+
+
 ## Elixir
 
 **Added 2026-11-23**
