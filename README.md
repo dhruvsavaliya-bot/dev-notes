@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2287 entries and counting** · Last updated: 2026-11-23
+**2288 entries and counting** · Last updated: 2026-11-23
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 462 |
 | [Reading List](articles/reading-list.md) | 462 |
 | [Coding Tips](coding-tips/tips.md) | 463 |
-| [Language Notes](languages/notes.md) | 437 |
+| [Language Notes](languages/notes.md) | 438 |
 
 ## Latest additions
 
+- **2026-11-23** · *C#* — [samuelit0davila/fifa-street-pc-port](https://github.com/samuelit0davila/fifa-street-pc-port)
 - **2026-11-23** · *AI & Machine Learning* — [omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator)
 - **2026-11-23** · *Show & Ask HN* — [Show HN: I built a game where you are an LLM's subagent](https://news.ycombinator.com/item?id=50599762)
 - **2026-11-23** · *C#* — [patchzyy/Wiicompiled](https://github.com/patchzyy/Wiicompiled)
 - **2026-11-23** · *Show & Ask HN* — [Show HN: I built a little browser game to practice...](https://news.ycombinator.com/item?id=50347552)
-- **2026-11-23** · *Research Papers* — [A Continuous Relaxation of Quantization-Aware Training](http://arxiv.org/abs/2611.27056v1)
 
 ## How it works
 

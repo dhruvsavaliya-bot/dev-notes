@@ -387,3 +387,13 @@ Top community posts, organized by programming language.
 - **What it is:** Wiicompiled
 - **Growth:** averaging ~14 stars/day since launch.
 - **Link:** https://github.com/patchzyy/Wiicompiled
+
+**Added 2026-11-23**
+
+### [samuelit0davila/fifa-street-pc-port](https://github.com/samuelit0davila/fifa-street-pc-port)
+- **Stats:** 534 stars | 29 forks | 38 open issues
+- **Language:** C# | **Created:** 2026-10-07 | **License:** MIT
+- **Topics:** fifa, fifa-street, game-preservation, launcher, online-multiplayer, recomp
+- **What it is:** ReStreet: FIFA Street (2012) recompiled for Windows PC, with online play, a launcher with friends, chat and rooms. Bring your own game.
+- **Growth:** averaging ~11 stars/day since launch.
+- **Link:** https://github.com/samuelit0davila/fifa-street-pc-port
