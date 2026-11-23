@@ -1058,6 +1058,7 @@
     "https://github.com/huaotem-bot/gezi-quark-downloader",
     "https://github.com/huaxialucaicaizi/ai-startup-skills",
     "https://github.com/hugohe3/ppt-master",
+    "https://github.com/humanitas-labs/quill",
     "https://github.com/hyphatech/spindle",
     "https://github.com/hypit-ai/hypit",
     "https://github.com/iBUHub/AIStudioToAPI",
@@ -3241,12 +3242,6 @@
   "recent": [
     {
       "date": "2026-11-23",
-      "subcat": "AI & Machine Learning",
-      "title": "qingchencloud/clawpanel",
-      "url": "https://github.com/qingchencloud/clawpanel"
-    },
-    {
-      "date": "2026-11-23",
       "subcat": "Hacker News Picks",
       "title": "Masullo on the Riemann Hypothesis",
       "url": "https://news.ycombinator.com/item?id=50598441"
@@ -3298,6 +3293,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: AgentRun  open-source, Self-improving...",
       "url": "https://news.ycombinator.com/item?id=50471650"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "Swift",
+      "title": "humanitas-labs/quill",
+      "url": "https://github.com/humanitas-labs/quill"
     }
   ]
 }

@@ -397,3 +397,15 @@ Top community posts, organized by programming language.
 - **What it is:** ReStreet: FIFA Street (2012) recompiled for Windows PC, with online play, a launcher with friends, chat and rooms. Bring your own game.
 - **Growth:** averaging ~11 stars/day since launch.
 - **Link:** https://github.com/samuelit0davila/fifa-street-pc-port
+
+## Swift
+
+**Added 2026-11-24**
+
+### [humanitas-labs/quill](https://github.com/humanitas-labs/quill)
+- **Stats:** 3,968 stars | 297 forks | 27 open issues
+- **Language:** Swift | **Created:** 2026-07-24 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Ultra-minimalist macOS recording + transcription.
+- **Growth:** averaging ~32 stars/day since launch.
+- **Link:** https://github.com/humanitas-labs/quill
