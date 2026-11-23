@@ -816,6 +816,7 @@
     "https://github.com/Pal-AI-Lab/Coopanion",
     "https://github.com/Pan-Chera/Multi-Agent-CAD",
     "https://github.com/Paradigm-Study/claude-share",
+    "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
     "https://github.com/PimpinPumpkin/Vela",
     "https://github.com/Player-YN/BrowserKitten",
     "https://github.com/Player-YN/PawWork_ZhuaZhua",
@@ -2786,6 +2787,7 @@
     "https://news.ycombinator.com/item?id=50462177",
     "https://news.ycombinator.com/item?id=50468720",
     "https://news.ycombinator.com/item?id=50469994",
+    "https://news.ycombinator.com/item?id=50471650",
     "https://news.ycombinator.com/item?id=50471668",
     "https://news.ycombinator.com/item?id=50482279",
     "https://news.ycombinator.com/item?id=50484007",
@@ -3239,12 +3241,6 @@
   "recent": [
     {
       "date": "2026-11-23",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Spindle  a full-featured, type-safe web...",
-      "url": "https://news.ycombinator.com/item?id=50377613"
-    },
-    {
-      "date": "2026-11-23",
       "subcat": "AI & Machine Learning",
       "title": "qingchencloud/clawpanel",
       "url": "https://github.com/qingchencloud/clawpanel"
@@ -3296,6 +3292,12 @@
       "subcat": "C#",
       "title": "samuelit0davila/fifa-street-pc-port",
       "url": "https://github.com/samuelit0davila/fifa-street-pc-port"
+    },
+    {
+      "date": "2026-11-23",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: AgentRun  open-source, Self-improving...",
+      "url": "https://news.ycombinator.com/item?id=50471650"
     }
   ]
 }

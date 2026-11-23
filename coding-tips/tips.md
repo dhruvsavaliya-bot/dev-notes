@@ -526,6 +526,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50599762
 - **Link:** https://github.com/gulivan/worker755
 
+**Added 2026-11-23**
+
+### [Show HN: AgentRun – open-source, Self-improving Managed Agents](https://github.com/Parcha-ai/agentrun/blob/main/README.md)
+- **Source:** github.com | **Posted:** 2026-11-12 | **By:** miguelrios
+- **Community:** 138 points, 41 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50471650
+- **Link:** https://github.com/Parcha-ai/agentrun/blob/main/README.md
+
 
 ## Productivity
 
