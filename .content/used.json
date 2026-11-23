@@ -1117,6 +1117,7 @@
     "https://github.com/lingyired/status-trio",
     "https://github.com/lllucccian/Deekseep",
     "https://github.com/lnkiai/m3e-canvas",
+    "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
     "https://github.com/looplj/reveric",
     "https://github.com/loopx-project/loopx",
     "https://github.com/lopopolo/harness-engineering",
@@ -2772,6 +2773,7 @@
     "https://news.ycombinator.com/item?id=50469994",
     "https://news.ycombinator.com/item?id=50471668",
     "https://news.ycombinator.com/item?id=50482279",
+    "https://news.ycombinator.com/item?id=50484007",
     "https://news.ycombinator.com/item?id=50484421",
     "https://news.ycombinator.com/item?id=50487228",
     "https://news.ycombinator.com/item?id=50492456",
@@ -3218,12 +3220,6 @@
   ],
   "recent": [
     {
-      "date": "2026-11-22",
-      "subcat": "Web & Frontend",
-      "title": "alexrlocke/neorex",
-      "url": "https://github.com/alexrlocke/neorex"
-    },
-    {
       "date": "2026-11-23",
       "subcat": "TypeScript",
       "title": "abcwyc/pi-agent-desktop",
@@ -3276,6 +3272,12 @@
       "subcat": "Research Papers",
       "title": "Iris in Lean",
       "url": "http://arxiv.org/abs/2609.24252v1"
+    },
+    {
+      "date": "2026-11-23",
+      "subcat": "Rust",
+      "title": "Lonewolf 0.3  A standalone XMPP server written in Rust",
+      "url": "https://news.ycombinator.com/item?id=50484007"
     }
   ]
 }

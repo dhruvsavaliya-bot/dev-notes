@@ -148,6 +148,15 @@ Top community posts, organized by programming language.
 - **Summary:** Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer who is actually allergic to crabs! 🙀🦀  Today, I have...
 - **Link:** https://dev.to/necoz/meet-type-tune-give-your-typescript-types-a-better-home-1p6l
 
+**Added 2026-11-23**
+
+### [Lonewolf 0.3 – A standalone XMPP server written in Rust](https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0)
+- **Source:** github.com | **Posted:** 2026-11-13 | **By:** ortuman
+- **Community:** 162 points, 58 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50484007
+- **Link:** https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0
+
 
 ## Go
 
