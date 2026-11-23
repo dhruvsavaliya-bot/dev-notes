@@ -499,6 +499,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50596664
 - **Link:** https://github.com/tamnd/riemann-handbook
 
+**Added 2026-11-23**
+
+### [Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5](https://github.com/hyphatech/spindle)
+- **Source:** github.com | **Posted:** 2026-11-05 | **By:** zaiev
+- **Community:** 64 points, 11 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50377613
+- **Link:** https://github.com/hyphatech/spindle
+
 
 ## Productivity
 

@@ -1055,6 +1055,7 @@
     "https://github.com/huaotem-bot/gezi-quark-downloader",
     "https://github.com/huaxialucaicaizi/ai-startup-skills",
     "https://github.com/hugohe3/ppt-master",
+    "https://github.com/hyphatech/spindle",
     "https://github.com/hypit-ai/hypit",
     "https://github.com/iBUHub/AIStudioToAPI",
     "https://github.com/iamlukethedev/Claw3D",
@@ -2724,6 +2725,7 @@
     "https://news.ycombinator.com/item?id=50366929",
     "https://news.ycombinator.com/item?id=50369895",
     "https://news.ycombinator.com/item?id=50375354",
+    "https://news.ycombinator.com/item?id=50377613",
     "https://news.ycombinator.com/item?id=50377661",
     "https://news.ycombinator.com/item?id=50378508",
     "https://news.ycombinator.com/item?id=50378942",
@@ -3225,12 +3227,6 @@
   "recent": [
     {
       "date": "2026-11-23",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in...",
-      "url": "https://news.ycombinator.com/item?id=50429636"
-    },
-    {
-      "date": "2026-11-23",
       "subcat": "Research Papers",
       "title": "The Formalization of two Computational Models in Dafny",
       "url": "http://arxiv.org/abs/2609.34883v1"
@@ -3282,6 +3278,12 @@
       "subcat": "Research Papers",
       "title": "Accelerating Muon with Spectral Residual Correction",
       "url": "http://arxiv.org/abs/2611.27077v1"
+    },
+    {
+      "date": "2026-11-23",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Spindle  a full-featured, type-safe web...",
+      "url": "https://news.ycombinator.com/item?id=50377613"
     }
   ]
 }
