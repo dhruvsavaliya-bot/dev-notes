@@ -353,6 +353,16 @@ Top community posts, organized by programming language.
 - **Growth:** averaging ~12 stars/day since launch.
 - **Link:** https://github.com/gufo-org/gufo
 
+**Added 2026-11-23**
+
+### [sebbbi/NoGraphicsAPI](https://github.com/sebbbi/NoGraphicsAPI)
+- **Stats:** 1,746 stars | 64 forks | 6 open issues
+- **Language:** C++ | **Created:** 2026-08-31 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my "No Graphics API" blog post and the SIGGRAPH talk.
+- **Growth:** averaging ~20 stars/day since launch.
+- **Link:** https://github.com/sebbbi/NoGraphicsAPI
+
 
 ## Elixir
 
