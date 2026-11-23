@@ -832,6 +832,7 @@
     "https://github.com/ResistanceTo/MiniWatts",
     "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
     "https://github.com/Rizzo-AI-Academy/rizzo-flow",
+    "https://github.com/RoutineMiku/apkstart",
     "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
     "https://github.com/SFG5453/Orchard",
     "https://github.com/SWE-agent/SWE-agent",
@@ -3248,12 +3249,6 @@
   "recent": [
     {
       "date": "2026-11-23",
-      "subcat": "C#",
-      "title": "patchzyy/Wiicompiled",
-      "url": "https://github.com/patchzyy/Wiicompiled"
-    },
-    {
-      "date": "2026-11-23",
       "subcat": "Show & Ask HN",
       "title": "Show HN: I built a game where you are an LLM's subagent",
       "url": "https://news.ycombinator.com/item?id=50599762"
@@ -3305,6 +3300,12 @@
       "subcat": "Hacker News Picks",
       "title": "Open Social Web Alliance",
       "url": "https://news.ycombinator.com/item?id=50600511"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "Other Cool Projects",
+      "title": "RoutineMiku/apkstart",
+      "url": "https://github.com/RoutineMiku/apkstart"
     }
   ]
 }

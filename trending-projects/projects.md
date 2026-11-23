@@ -487,6 +487,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~6 stars/day since launch.
 - **Link:** https://github.com/miumiupy98-art/miuread-koreader
 
+**Added 2026-11-24**
+
+### [RoutineMiku/apkstart](https://github.com/RoutineMiku/apkstart)
+- **Stats:** 9,459 stars | 897 forks | 121 open issues
+- **Language:** JavaScript | **Created:** 2026-10-29 | **License:** MIT
+- **Topics:** android, android-x86, apk, electron, emulator, freeform
+- **What it is:** Windows 上的安卓应用运行器：双击 APK 即装，应用以独立窗口与桌面图标运行，自持 QEMU 运行时
+- **Growth:** averaging ~363 stars/day since launch.
+- **Link:** https://github.com/RoutineMiku/apkstart
+
 
 ## Web & Frontend
 
