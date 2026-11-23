@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2279 entries and counting** · Last updated: 2026-11-23
+**2280 entries and counting** · Last updated: 2026-11-23
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 461 |
+| [Trending Projects](trending-projects/projects.md) | 462 |
 | [AI / LLM Notes](ai/notes.md) | 461 |
 | [Reading List](articles/reading-list.md) | 461 |
 | [Coding Tips](coding-tips/tips.md) | 461 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-23** · *AI & Machine Learning* — [qingchencloud/clawpanel](https://github.com/qingchencloud/clawpanel)
 - **2026-11-23** · *Show & Ask HN* — [Show HN: Spindle  a full-featured, type-safe web...](https://news.ycombinator.com/item?id=50377613)
 - **2026-11-23** · *Research Papers* — [Accelerating Muon with Spectral Residual Correction](http://arxiv.org/abs/2611.27077v1)
 - **2026-11-23** · *C++* — [gufo-org/gufo](https://github.com/gufo-org/gufo)
 - **2026-11-23** · *Show & Ask HN* — [Show HN: The Riemann Proof Handbook](https://news.ycombinator.com/item?id=50596664)
-- **2026-11-23** · *Rust* — [Lonewolf 0.3  A standalone XMPP server written in Rust](https://news.ycombinator.com/item?id=50484007)
 
 ## How it works
 

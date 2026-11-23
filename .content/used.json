@@ -1216,6 +1216,7 @@
     "https://github.com/postmanlabs/postman-app-support/issues/14370",
     "https://github.com/privastead/privastead",
     "https://github.com/punkpeye/awesome-remote-mcp-servers",
+    "https://github.com/qingchencloud/clawpanel",
     "https://github.com/qingjian-team/qingjian",
     "https://github.com/rakanki911/DLSS5-Swapper",
     "https://github.com/ravindu644/Droidspaces-OSS",
@@ -3227,12 +3228,6 @@
   "recent": [
     {
       "date": "2026-11-23",
-      "subcat": "Research Papers",
-      "title": "The Formalization of two Computational Models in Dafny",
-      "url": "http://arxiv.org/abs/2609.34883v1"
-    },
-    {
-      "date": "2026-11-23",
       "subcat": "Lobsters Picks",
       "title": "GitHub Actions accepts invalid YAML",
       "url": "https://lobste.rs/s/leqwqu/github_actions_accepts_invalid_yaml"
@@ -3284,6 +3279,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Spindle  a full-featured, type-safe web...",
       "url": "https://news.ycombinator.com/item?id=50377613"
+    },
+    {
+      "date": "2026-11-23",
+      "subcat": "AI & Machine Learning",
+      "title": "qingchencloud/clawpanel",
+      "url": "https://github.com/qingchencloud/clawpanel"
     }
   ]
 }

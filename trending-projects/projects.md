@@ -284,6 +284,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~4 stars/day since launch.
 - **Link:** https://github.com/coder/boo
 
+**Added 2026-11-23**
+
+### [qingchencloud/clawpanel](https://github.com/qingchencloud/clawpanel)
+- **Stats:** 2,937 stars | 367 forks | 129 open issues
+- **Language:** JavaScript | **Created:** 2026-02-26 | **License:** NOASSERTION
+- **Topics:** admin-panel, ai-agent, ai-assistant, ai-chat, ai-tools, chatgpt
+- **What it is:** 🦞 OpenClaw & Hermes Agent 多引擎 AI 管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装 | Tauri v2 跨平台桌面应用 | 11 种语言
+- **Growth:** averaging ~10 stars/day since launch.
+- **Link:** https://github.com/qingchencloud/clawpanel
+
 
 ## Other Cool Projects
 
