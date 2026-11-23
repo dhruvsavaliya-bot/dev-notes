@@ -1044,6 +1044,7 @@
     "https://github.com/google-research/tabfm",
     "https://github.com/gufo-org/gufo",
     "https://github.com/guillaumemeyer/watermarks-remover",
+    "https://github.com/gulivan/worker755",
     "https://github.com/gvzdv/claudish-to-english",
     "https://github.com/harikumar35626-hash/wondshare-recoverit",
     "https://github.com/harris21/laravel-fuse",
@@ -2820,6 +2821,7 @@
     "https://news.ycombinator.com/item?id=50588982",
     "https://news.ycombinator.com/item?id=50596664",
     "https://news.ycombinator.com/item?id=50598441",
+    "https://news.ycombinator.com/item?id=50599762",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -3235,12 +3237,6 @@
   "recent": [
     {
       "date": "2026-11-23",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: The Riemann Proof Handbook",
-      "url": "https://news.ycombinator.com/item?id=50596664"
-    },
-    {
-      "date": "2026-11-23",
       "subcat": "C++",
       "title": "gufo-org/gufo",
       "url": "https://github.com/gufo-org/gufo"
@@ -3292,6 +3288,12 @@
       "subcat": "C#",
       "title": "patchzyy/Wiicompiled",
       "url": "https://github.com/patchzyy/Wiicompiled"
+    },
+    {
+      "date": "2026-11-23",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://news.ycombinator.com/item?id=50599762"
     }
   ]
 }

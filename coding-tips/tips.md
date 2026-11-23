@@ -517,6 +517,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50347552
 - **Link:** https://hjkl.duy.run
 
+**Added 2026-11-23**
+
+### [Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)
+- **Source:** github.com | **Posted:** 2026-11-22 | **By:** ivantgam
+- **Community:** 313 points, 76 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50599762
+- **Link:** https://github.com/gulivan/worker755
+
 
 ## Productivity
 
