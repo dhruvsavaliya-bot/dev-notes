@@ -154,6 +154,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://lobste.rs/s/elmy67/15_million_web_servers_on_one_vm_smoltcp
 - **Link:** https://kapteko.com/15-million-webservers/
 
+**Added 2026-11-24**
+
+### [Release: Roto v0.14.0](https://community.nlnetlabs.nl/t/release-roto-v0-14-0/3511)
+- **Source:** community.nlnetlabs.nl | **Posted:** 2026-11-23 | **By:** fanf
+- **Community:** 15 score, 5 comments on Lobsters
+- **Tags:** release, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/fygpme/release_roto_v0_14_0
+- **Link:** https://community.nlnetlabs.nl/t/release-roto-v0-14-0/3511
+
 
 ## Show & Ask HN
 

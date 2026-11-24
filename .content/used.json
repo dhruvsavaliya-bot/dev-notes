@@ -338,6 +338,7 @@
     "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
     "https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/",
     "https://committing-crimes.com/articles/2026-08-04-java-nameof",
+    "https://community.nlnetlabs.nl/t/release-roto-v0-14-0/3511",
     "https://comonad.com/reader/2026/turbo-haskell/",
     "https://copperhead.sh/",
     "https://corgi.computer/",
@@ -1875,6 +1876,7 @@
     "https://lobste.rs/s/fgucra/observations_from_running",
     "https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data",
     "https://lobste.rs/s/fmawla/enlightenment_0_28_0_release",
+    "https://lobste.rs/s/fygpme/release_roto_v0_14_0",
     "https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere",
     "https://lobste.rs/s/g2ktrq/chasing_o2_pessimization_antcc",
     "https://lobste.rs/s/gajtrm/debunking_faster_than_rust_malicious",
@@ -3271,12 +3273,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "Other Cool Projects",
-      "title": "Marvisak/VIctory",
-      "url": "https://github.com/Marvisak/VIctory"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "Python",
       "title": "Where Do Your LLM API Keys Actually Live?",
       "url": "https://dev.to/hadil/where-do-your-llm-api-keys-actually-live-2cjm"
@@ -3328,6 +3324,12 @@
       "subcat": "Lobsters Picks",
       "title": "Held together by spare time: Reviving...",
       "url": "https://lobste.rs/s/gtc9rg/held_together_by_spare_time_reviving_wiki"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "Lobsters Picks",
+      "title": "Release: Roto v0.14.0",
+      "url": "https://lobste.rs/s/fygpme/release_roto_v0_14_0"
     }
   ]
 }
