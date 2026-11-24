@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2300 entries and counting** · Last updated: 2026-11-24
+**2301 entries and counting** · Last updated: 2026-11-24
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 466 |
 | [AI / LLM Notes](ai/notes.md) | 463 |
-| [Reading List](articles/reading-list.md) | 465 |
+| [Reading List](articles/reading-list.md) | 466 |
 | [Coding Tips](coding-tips/tips.md) | 465 |
 | [Language Notes](languages/notes.md) | 441 |
 
 ## Latest additions
 
+- **2026-11-24** · *Hacker News Picks* — [Elephants found to be increasingly isolated leading...](https://news.ycombinator.com/item?id=50492860)
 - **2026-11-24** · *Python* — [Windows won't let you own Win+Shift+S. So I hooked...](https://dev.to/akhourianmolkumar/windows-wont-let-you-own-winshifts-so-i-hooked-the-keyboard-in-python-248c)
 - **2026-11-24** · *Backend & Infrastructure* — [libracoder/kiri](https://github.com/libracoder/kiri)
 - **2026-11-24** · *Show & Ask HN* — [Ask HN: Tips for transitioning from web development...](https://news.ycombinator.com/item?id=50555002)
 - **2026-11-24** · *Hacker News Picks* — [Data centers need power  lower income, rural...](https://news.ycombinator.com/item?id=50473231)
-- **2026-11-24** · *Python* — [Stop Asking AI to Write Your Code. Ask It to Explain...](https://dev.to/maame-codes/stop-asking-ai-to-write-your-code-ask-it-to-explain-like-youre-5-1ej)
 
 ## How it works
 

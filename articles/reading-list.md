@@ -319,6 +319,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50473231
 - **Link:** https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price
 
+**Added 2026-11-24**
+
+### [Elephants found to be increasingly isolated leading to fractured social networks](https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks)
+- **Source:** today.ucsd.edu | **Posted:** 2026-11-14 | **By:** gmays
+- **Community:** 198 points, 58 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50492860
+- **Link:** https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks
+
 
 ## Lobsters Picks
 

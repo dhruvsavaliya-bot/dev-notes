@@ -2805,6 +2805,7 @@
     "https://news.ycombinator.com/item?id=50484421",
     "https://news.ycombinator.com/item?id=50487228",
     "https://news.ycombinator.com/item?id=50492456",
+    "https://news.ycombinator.com/item?id=50492860",
     "https://news.ycombinator.com/item?id=50493251",
     "https://news.ycombinator.com/item?id=50494696",
     "https://news.ycombinator.com/item?id=50497132",
@@ -3029,6 +3030,7 @@
     "https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/",
     "https://tinyvalencia.com/",
     "https://titleart.dvy.io/",
+    "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
     "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
     "https://tucker.wales/writing/bias-towards-action/",
     "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/",
@@ -3255,12 +3257,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "Lobsters Picks",
-      "title": "Quality IMAP, Part 2: Mailbox Concurrency",
-      "url": "https://lobste.rs/s/lnpwpu/quality_imap_part_2_mailbox_concurrency"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "Models & Datasets",
       "title": "ccore/ThreeJS-3D-GLB-Assets",
       "url": "https://huggingface.co/datasets/ccore/ThreeJS-3D-GLB-Assets"
@@ -3312,6 +3308,12 @@
       "subcat": "Python",
       "title": "Windows won't let you own Win+Shift+S. So I hooked...",
       "url": "https://dev.to/akhourianmolkumar/windows-wont-let-you-own-winshifts-so-i-hooked-the-keyboard-in-python-248c"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "Hacker News Picks",
+      "title": "Elephants found to be increasingly isolated leading...",
+      "url": "https://news.ycombinator.com/item?id=50492860"
     }
   ]
 }
