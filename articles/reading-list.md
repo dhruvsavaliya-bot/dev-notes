@@ -631,6 +631,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your
 - **Link:** https://signal.org/blog/protecting-your-privacy/
 
+**Added 2026-11-24**
+
+### [Illiterate Programming](https://deadsimpletech.com/blog/illiterate-programming)
+- **Source:** deadsimpletech.com | **Posted:** 2026-11-23 | **By:** AviKav
+- **Community:** 47 score, 1 comments on Lobsters
+- **Tags:** culture
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/xxgezw/illiterate_programming
+- **Link:** https://deadsimpletech.com/blog/illiterate-programming
+
 
 ## Security
 
