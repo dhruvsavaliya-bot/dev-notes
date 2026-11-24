@@ -1104,6 +1104,7 @@
     "https://github.com/jev-chat/jev-chat-jarvis",
     "https://github.com/jhaizhou-ops/d2r-mobile",
     "https://github.com/jiayx/d2r-mobile-build",
+    "https://github.com/jiwoochris/artex-global",
     "https://github.com/johncassil/dontallow",
     "https://github.com/jonwiggins/optio",
     "https://github.com/jpochyla/psst",
@@ -3288,12 +3289,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "Other Cool Projects",
-      "title": "aardappel/goose",
-      "url": "https://github.com/aardappel/goose"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "Lobsters Picks",
       "title": "Gliver completes the Guix desktop",
       "url": "https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop"
@@ -3345,6 +3340,12 @@
       "subcat": "Lobsters Picks",
       "title": "Illiterate Programming",
       "url": "https://lobste.rs/s/xxgezw/illiterate_programming"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "AI & Machine Learning",
+      "title": "jiwoochris/artex-global",
+      "url": "https://github.com/jiwoochris/artex-global"
     }
   ]
 }

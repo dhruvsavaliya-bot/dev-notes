@@ -334,6 +334,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~80 stars/day since launch.
 - **Link:** https://github.com/elysia395/dsh-wallpaper-engine
 
+**Added 2026-11-24**
+
+### [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global)
+- **Stats:** 4,794 stars | 3,828 forks | 11 open issues
+- **Language:** Go | **Created:** 2026-10-03 | **License:** AGPL-3.0
+- **Topics:** ai-agent, autonomous-agents, blue-team, cybersecurity, detection-engineering, i18n
+- **What it is:** Global edition of ARTEX — an LLM multi-agent autonomous penetration-testing framework. English default, switchable to Korean/Chinese/Spanish/Japanese. For authorized, defensive and detection use only. (upstream: Autumn-27/ARTEX, AGPL-3.0)
+- **Growth:** averaging ~92 stars/day since launch.
+- **Link:** https://github.com/jiwoochris/artex-global
+
 
 ## Other Cool Projects
 
