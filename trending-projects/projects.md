@@ -527,6 +527,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~44 stars/day since launch.
 - **Link:** https://github.com/aardappel/goose
 
+**Added 2026-11-24**
+
+### [HazyResearch/ncm](https://github.com/HazyResearch/ncm)
+- **Stats:** 2,055 stars | 283 forks | 18 open issues
+- **Language:** Python | **Created:** 2026-10-11 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** NCM: Next Concept Modeling
+- **Growth:** averaging ~46 stars/day since launch.
+- **Link:** https://github.com/HazyResearch/ncm
+
 
 ## Web & Frontend
 

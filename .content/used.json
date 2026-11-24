@@ -748,6 +748,7 @@
     "https://github.com/HKUDS/CLI-Anything",
     "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
     "https://github.com/HanyuanWang/LiveStream-Agent-Studio",
+    "https://github.com/HazyResearch/ncm",
     "https://github.com/Hisn00w/ASu-skills",
     "https://github.com/HolyArrs/HolyArrs",
     "https://github.com/Human-Agent-Society/reef",
@@ -3278,12 +3279,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "Productivity",
-      "title": "8 formas de fazer networking em Tecnologia",
-      "url": "https://dev.to/limonada/8-formas-de-fazer-networking-em-tecnologia-2ane"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "Lobsters Picks",
       "title": "Ladybird is now in alpha",
       "url": "https://lobste.rs/s/h6webg/ladybird_is_now_alpha"
@@ -3335,6 +3330,12 @@
       "subcat": "Lobsters Picks",
       "title": "What VP != VNP Means (In 3 Minutes)",
       "url": "https://lobste.rs/s/2k95fs/what_vp_vnp_means_3_minutes"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "Other Cool Projects",
+      "title": "HazyResearch/ncm",
+      "url": "https://github.com/HazyResearch/ncm"
     }
   ]
 }
