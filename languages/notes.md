@@ -79,6 +79,16 @@ Top community posts, organized by programming language.
 - **Growth:** averaging ~26 stars/day since launch.
 - **Link:** https://github.com/Nyxera0x/cutaway
 
+**Added 2026-11-24**
+
+### [laoma528/awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free)
+- **Stats:** 16,461 stars | 1,206 forks | 23 open issues
+- **Language:** JavaScript | **Created:** 2026-06-05 | **License:** CC-BY-4.0
+- **Topics:** awesome-list, bt-search, chinese, cloud-drive-search, free, free-streaming
+- **What it is:** 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。
+- **Growth:** averaging ~95 stars/day since launch.
+- **Link:** https://github.com/laoma528/awesome-zhuiju-free
+
 
 ## Rust
 

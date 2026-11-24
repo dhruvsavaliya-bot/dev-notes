@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2326 entries and counting** · Last updated: 2026-11-24
+**2327 entries and counting** · Last updated: 2026-11-24
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 465 |
 | [Reading List](articles/reading-list.md) | 472 |
 | [Coding Tips](coding-tips/tips.md) | 470 |
-| [Language Notes](languages/notes.md) | 446 |
+| [Language Notes](languages/notes.md) | 447 |
 
 ## Latest additions
 
+- **2026-11-24** · *JavaScript* — [laoma528/awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free)
 - **2026-11-24** · *Other Cool Projects* — [Vincentwei1021/mg-styles-15](https://github.com/Vincentwei1021/mg-styles-15)
 - **2026-11-24** · *Lobsters Picks* — [Sneakernet](https://lobste.rs/s/pdecff/sneakernet)
 - **2026-11-24** · *JavaScript* — [Nyxera0x/cutaway](https://github.com/Nyxera0x/cutaway)
 - **2026-11-24** · *AI & Machine Learning* — [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global)
-- **2026-11-24** · *Lobsters Picks* — [Illiterate Programming](https://lobste.rs/s/xxgezw/illiterate_programming)
 
 ## How it works
 
