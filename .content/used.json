@@ -371,6 +371,7 @@
     "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
     "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
     "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag",
+    "https://dev.to/akhourianmolkumar/windows-wont-let-you-own-winshifts-so-i-hooked-the-keyboard-in-python-248c",
     "https://dev.to/ale3oula/what-do-you-build-when-you-can-build-anything-4eg0",
     "https://dev.to/anchildress1/i-asked-for-a-portfolio-but-got-a-filing-cabinet-4ef8",
     "https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g",
@@ -3254,12 +3255,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "Swift",
-      "title": "humanitas-labs/quill",
-      "url": "https://github.com/humanitas-labs/quill"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "Lobsters Picks",
       "title": "Quality IMAP, Part 2: Mailbox Concurrency",
       "url": "https://lobste.rs/s/lnpwpu/quality_imap_part_2_mailbox_concurrency"
@@ -3311,6 +3306,12 @@
       "subcat": "Backend & Infrastructure",
       "title": "libracoder/kiri",
       "url": "https://github.com/libracoder/kiri"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "Python",
+      "title": "Windows won't let you own Win+Shift+S. So I hooked...",
+      "url": "https://dev.to/akhourianmolkumar/windows-wont-let-you-own-winshifts-so-i-hooked-the-keyboard-in-python-248c"
     }
   ]
 }

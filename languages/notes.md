@@ -420,3 +420,12 @@ Top community posts, organized by programming language.
 - **Tags:** ai, productivity, python, programming
 - **Summary:** Let’s be honest.  I use AI tools daily. Most of us do 🤷‍♀️.   But there is a massive...
 - **Link:** https://dev.to/maame-codes/stop-asking-ai-to-write-your-code-ask-it-to-explain-like-youre-5-1ej
+
+**Added 2026-11-24**
+
+### [Windows won't let you own Win+Shift+S. So I hooked the keyboard in Python.](https://dev.to/akhourianmolkumar/windows-wont-let-you-own-winshifts-so-i-hooked-the-keyboard-in-python-248c)
+- **Author:** Akhouri Anmol Kumar | **Published:** Nov 7 | **Read time:** 4 min
+- **Community:** 50 reactions, 71 comments -- a top post in #python
+- **Tags:** python, pyqt, opensource, windows
+- **Summary:** I wanted one small thing: press Win+Shift+S and get my own screenshot tool instead of Snipping...
+- **Link:** https://dev.to/akhourianmolkumar/windows-wont-let-you-own-winshifts-so-i-hooked-the-keyboard-in-python-248c
