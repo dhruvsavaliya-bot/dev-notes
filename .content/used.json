@@ -2041,6 +2041,7 @@
     "https://lobste.rs/s/vbx0g4/look_at_datastar",
     "https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants",
     "https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out",
+    "https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your",
     "https://lobste.rs/s/vtjjbc/what_s_new_node_js_27",
     "https://lobste.rs/s/vulvk7/wild_version_0_11_0_released",
     "https://lobste.rs/s/vwgrix/new_way_think_about_borrow_checking",
@@ -2984,6 +2985,7 @@
     "https://shnatsel.github.io/state-of-simd-rust-2026/",
     "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
     "https://shukla.io/blog/2026-09/pun.html",
+    "https://signal.org/blog/protecting-your-privacy/",
     "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
     "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
     "https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/",
@@ -3279,12 +3281,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "Lobsters Picks",
-      "title": "Ladybird is now in alpha",
-      "url": "https://lobste.rs/s/h6webg/ladybird_is_now_alpha"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "AI & Machine Learning",
       "title": "lennney/stop-that-shit",
       "url": "https://github.com/lennney/stop-that-shit"
@@ -3336,6 +3332,12 @@
       "subcat": "Other Cool Projects",
       "title": "HazyResearch/ncm",
       "url": "https://github.com/HazyResearch/ncm"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "Lobsters Picks",
+      "title": "Signal is Serious About Protecting Your Privacy",
+      "url": "https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your"
     }
   ]
 }

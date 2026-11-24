@@ -621,6 +621,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop
 - **Link:** https://dustycloud.org/blog/gliver-completes-the-guix-desktop/
 
+**Added 2026-11-24**
+
+### [Signal is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/)
+- **Source:** signal.org | **Posted:** 2026-11-23 | **By:** sjamaan
+- **Community:** 115 score, 65 comments on Lobsters
+- **Tags:** mobile, privacy
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your
+- **Link:** https://signal.org/blog/protecting-your-privacy/
+
 
 ## Security
 
