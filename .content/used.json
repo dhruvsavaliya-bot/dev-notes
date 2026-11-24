@@ -2826,6 +2826,7 @@
     "https://news.ycombinator.com/item?id=50547583",
     "https://news.ycombinator.com/item?id=50548660",
     "https://news.ycombinator.com/item?id=50554935",
+    "https://news.ycombinator.com/item?id=50555002",
     "https://news.ycombinator.com/item?id=50559719",
     "https://news.ycombinator.com/item?id=50563148",
     "https://news.ycombinator.com/item?id=50577613",
@@ -3252,12 +3253,6 @@
   "recent": [
     {
       "date": "2026-11-23",
-      "subcat": "C#",
-      "title": "samuelit0davila/fifa-street-pc-port",
-      "url": "https://github.com/samuelit0davila/fifa-street-pc-port"
-    },
-    {
-      "date": "2026-11-23",
       "subcat": "Show & Ask HN",
       "title": "Show HN: AgentRun  open-source, Self-improving...",
       "url": "https://news.ycombinator.com/item?id=50471650"
@@ -3309,6 +3304,12 @@
       "subcat": "Hacker News Picks",
       "title": "Data centers need power  lower income, rural...",
       "url": "https://news.ycombinator.com/item?id=50473231"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: Tips for transitioning from web development...",
+      "url": "https://news.ycombinator.com/item?id=50555002"
     }
   ]
 }
