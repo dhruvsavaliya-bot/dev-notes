@@ -591,6 +591,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/lnpwpu/quality_imap_part_2_mailbox_concurrency
 - **Link:** https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/
 
+**Added 2026-11-24**
+
+### [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
+- **Source:** ladybird.org | **Posted:** 2026-11-23 | **By:** j11g
+- **Community:** 87 score, 28 comments on Lobsters
+- **Tags:** browsers
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/h6webg/ladybird_is_now_alpha
+- **Link:** https://ladybird.org/posts/alpha/
+
 
 ## Security
 

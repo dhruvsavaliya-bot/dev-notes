@@ -1721,6 +1721,7 @@
     "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
     "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
     "https://labs.ycombinator.com/projects/games/index.html",
+    "https://ladybird.org/posts/alpha/",
     "https://lapcatsoftware.com/articles/2026/9/1.html",
     "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
     "https://layer3intel.com/blog/residential-proxies-white-house-network",
@@ -1887,6 +1888,7 @@
     "https://lobste.rs/s/gu7bow/node_js_wednesday_october_21_2026",
     "https://lobste.rs/s/gvy5gz/why_is_this_fingerprinting_script",
     "https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait",
+    "https://lobste.rs/s/h6webg/ladybird_is_now_alpha",
     "https://lobste.rs/s/h8tghc/cursor_pointer_on_buttons",
     "https://lobste.rs/s/haq46t/squalk_old_school_forum_engine_built_on",
     "https://lobste.rs/s/hccdqa/shipping_jpeg_xl_chrome",
@@ -3263,12 +3265,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "Hacker News Picks",
-      "title": "Data centers need power  lower income, rural...",
-      "url": "https://news.ycombinator.com/item?id=50473231"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Tips for transitioning from web development...",
       "url": "https://news.ycombinator.com/item?id=50555002"
@@ -3320,6 +3316,12 @@
       "subcat": "Productivity",
       "title": "8 formas de fazer networking em Tecnologia",
       "url": "https://dev.to/limonada/8-formas-de-fazer-networking-em-tecnologia-2ane"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "Lobsters Picks",
+      "title": "Ladybird is now in alpha",
+      "url": "https://lobste.rs/s/h6webg/ladybird_is_now_alpha"
     }
   ]
 }
