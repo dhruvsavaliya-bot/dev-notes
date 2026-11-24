@@ -497,6 +497,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~363 stars/day since launch.
 - **Link:** https://github.com/RoutineMiku/apkstart
 
+**Added 2026-11-24**
+
+### [Marvisak/VIctory](https://github.com/Marvisak/VIctory)
+- **Stats:** 4,603 stars | 595 forks | 479 open issues
+- **Language:** Rust | **Created:** 2026-11-23 | **License:** GPL-3.0
+- **Topics:** none listed
+- **What it is:** An attempt at running GTA VI on PC
+- **Growth:** averaging ~4,603 stars/day since launch.
+- **Link:** https://github.com/Marvisak/VIctory
+
 
 ## Web & Frontend
 
