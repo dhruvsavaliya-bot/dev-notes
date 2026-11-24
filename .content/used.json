@@ -667,6 +667,7 @@
     "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
     "https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html",
     "https://gegell.github.io/posts/factorio-rng/",
+    "https://george.mand.is/2026/11/lets-meet-in-the-middle/",
     "https://ghostty.org/docs/install/release-notes/1-4-0",
     "https://gist.github.com/FlameyosSnowy/a49a35ba006238be55d8c3e410c31061",
     "https://gist.github.com/simi/349d881d16d3d86947945615a47c60ca",
@@ -1792,6 +1793,7 @@
     "https://lobste.rs/s/6vjx1k/how_shredding_json_is_giving_logfire",
     "https://lobste.rs/s/73ssw1/plea_not_use_uv_build",
     "https://lobste.rs/s/7faqgg/claude_says",
+    "https://lobste.rs/s/7fscqs/let_s_meet_middle",
     "https://lobste.rs/s/7me8wm/how_close_can_pure_fp_get_c",
     "https://lobste.rs/s/7qaac6/what_fox_say",
     "https://lobste.rs/s/7xg9rm/introducing_firefox_enterprise",
@@ -3281,12 +3283,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "AI & Machine Learning",
-      "title": "lennney/stop-that-shit",
-      "url": "https://github.com/lennney/stop-that-shit"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "Ruby",
       "title": "Security advisories: multiple vulnerabilities in...",
       "url": "https://lobste.rs/s/hsmtyg/security_advisories_multiple"
@@ -3338,6 +3334,12 @@
       "subcat": "Lobsters Picks",
       "title": "Signal is Serious About Protecting Your Privacy",
       "url": "https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "Lobsters Picks",
+      "title": "Let's Meet in the Middle",
+      "url": "https://lobste.rs/s/7fscqs/let_s_meet_middle"
     }
   ]
 }

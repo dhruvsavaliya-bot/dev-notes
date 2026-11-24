@@ -174,6 +174,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://lobste.rs/s/2k95fs/what_vp_vnp_means_3_minutes
 - **Link:** https://www.friedgil.com/vpvnp/
 
+**Added 2026-11-24**
+
+### [Let's Meet in the Middle](https://george.mand.is/2026/11/lets-meet-in-the-middle/)
+- **Source:** george.mand.is | **Posted:** 2026-11-23 | **By:** Jackevansevo
+- **Community:** 15 score, 1 comments on Lobsters
+- **Tags:** api, culture
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/7fscqs/let_s_meet_middle
+- **Link:** https://george.mand.is/2026/11/lets-meet-in-the-middle/
+
 
 ## Show & Ask HN
 
