@@ -164,6 +164,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://lobste.rs/s/fygpme/release_roto_v0_14_0
 - **Link:** https://community.nlnetlabs.nl/t/release-roto-v0-14-0/3511
 
+**Added 2026-11-24**
+
+### [What VP != VNP Means (In 3 Minutes)](https://www.friedgil.com/vpvnp/)
+- **Source:** www.friedgil.com | **Posted:** 2026-11-23 | **By:** nicosalm
+- **Community:** 34 score, 7 comments on Lobsters
+- **Tags:** math
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/2k95fs/what_vp_vnp_means_3_minutes
+- **Link:** https://www.friedgil.com/vpvnp/
+
 
 ## Show & Ask HN
 

@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2314 entries and counting** · Last updated: 2026-11-24
+**2315 entries and counting** · Last updated: 2026-11-24
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 469 |
 | [AI / LLM Notes](ai/notes.md) | 464 |
 | [Reading List](articles/reading-list.md) | 469 |
-| [Coding Tips](coding-tips/tips.md) | 468 |
+| [Coding Tips](coding-tips/tips.md) | 469 |
 | [Language Notes](languages/notes.md) | 444 |
 
 ## Latest additions
 
+- **2026-11-24** · *Lobsters Picks* — [What VP != VNP Means (In 3 Minutes)](https://lobste.rs/s/2k95fs/what_vp_vnp_means_3_minutes)
 - **2026-11-24** · *Lobsters Picks* — [Gliver completes the Guix desktop](https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop)
 - **2026-11-24** · *Other Cool Projects* — [aardappel/goose](https://github.com/aardappel/goose)
 - **2026-11-24** · *Lobsters Picks* — [Release: Roto v0.14.0](https://lobste.rs/s/fygpme/release_roto_v0_14_0)
 - **2026-11-24** · *Lobsters Picks* — [Held together by spare time: Reviving...](https://lobste.rs/s/gtc9rg/held_together_by_spare_time_reviving_wiki)
-- **2026-11-24** · *Productivity* — [Quando o Pomodoro no funciona: organizao realista...](https://dev.to/limonada/quando-o-pomodoro-nao-funciona-organizacao-realista-para-tdah-em-burnout-2a4c)
 
 ## How it works
 
