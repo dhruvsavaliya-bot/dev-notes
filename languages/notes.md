@@ -59,6 +59,16 @@ Top community posts, organized by programming language.
 - **Summary:** What breaks a month after a hackathon, and what a fellow DEV writer caught in the verifiers.   TL;DR:...
 - **Link:** https://dev.to/earlgreyhot1701d/one-month-after-the-hackathon-why-my-4-service-app-stopped-working-and-what-mansio-caught-in-the-3i8h
 
+**Added 2026-11-24**
+
+### [Jestions-dev/BlueFatFish](https://github.com/Jestions-dev/BlueFatFish)
+- **Stats:** 506 stars | 32 forks | 0 open issues
+- **Language:** JavaScript | **Created:** 2026-10-24 | **License:** MIT
+- **Topics:** browser-extension, chrome-extension, edge-addons, edge-extension, javascript, new-tab-page
+- **What it is:** 蓝色大肥鱼的新标签页：蓝底玩具箱 + 自定义壁纸/标签，纯本地，断网也能用。已上架 Microsoft Edge 加载项商店。
+- **Growth:** averaging ~16 stars/day since launch.
+- **Link:** https://github.com/Jestions-dev/BlueFatFish
+
 
 ## Rust
 

@@ -758,6 +758,7 @@
     "https://github.com/IntegralPilot/rustc_codegen_jvm",
     "https://github.com/Intrect-io/OpenSwarm",
     "https://github.com/Javis603/token-monitor",
+    "https://github.com/Jestions-dev/BlueFatFish",
     "https://github.com/JetBrains/kotlin-toolchain",
     "https://github.com/JetBrains/thinkrail",
     "https://github.com/Jia-Ethan/codex-keysmith",
@@ -3284,12 +3285,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "Productivity",
-      "title": "Quando o Pomodoro no funciona: organizao realista...",
-      "url": "https://dev.to/limonada/quando-o-pomodoro-nao-funciona-organizacao-realista-para-tdah-em-burnout-2a4c"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "Lobsters Picks",
       "title": "Held together by spare time: Reviving...",
       "url": "https://lobste.rs/s/gtc9rg/held_together_by_spare_time_reviving_wiki"
@@ -3341,6 +3336,12 @@
       "subcat": "AI & Machine Learning",
       "title": "elysia395/dsh-wallpaper-engine",
       "url": "https://github.com/elysia395/dsh-wallpaper-engine"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "JavaScript",
+      "title": "Jestions-dev/BlueFatFish",
+      "url": "https://github.com/Jestions-dev/BlueFatFish"
     }
   ]
 }

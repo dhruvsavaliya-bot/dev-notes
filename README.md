@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2319 entries and counting** · Last updated: 2026-11-24
+**2320 entries and counting** · Last updated: 2026-11-24
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 464 |
 | [Reading List](articles/reading-list.md) | 470 |
 | [Coding Tips](coding-tips/tips.md) | 470 |
-| [Language Notes](languages/notes.md) | 444 |
+| [Language Notes](languages/notes.md) | 445 |
 
 ## Latest additions
 
+- **2026-11-24** · *JavaScript* — [Jestions-dev/BlueFatFish](https://github.com/Jestions-dev/BlueFatFish)
 - **2026-11-24** · *AI & Machine Learning* — [elysia395/dsh-wallpaper-engine](https://github.com/elysia395/dsh-wallpaper-engine)
 - **2026-11-24** · *Lobsters Picks* — [Let's Meet in the Middle](https://lobste.rs/s/7fscqs/let_s_meet_middle)
 - **2026-11-24** · *Lobsters Picks* — [Signal is Serious About Protecting Your Privacy](https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your)
 - **2026-11-24** · *Other Cool Projects* — [HazyResearch/ncm](https://github.com/HazyResearch/ncm)
-- **2026-11-24** · *Lobsters Picks* — [What VP != VNP Means (In 3 Minutes)](https://lobste.rs/s/2k95fs/what_vp_vnp_means_3_minutes)
 
 ## How it works
 
