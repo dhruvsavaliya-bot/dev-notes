@@ -494,6 +494,7 @@
     "https://dev.to/maame-codes/devops-from-scratch-a-students-diary-entry-00-5b71",
     "https://dev.to/maame-codes/i-fixed-the-bug-then-my-pipeline-refused-to-run-4c7i",
     "https://dev.to/maame-codes/localhost-is-a-lie-everything-uni-missed-about-real-world-tech-66n",
+    "https://dev.to/maame-codes/stop-asking-ai-to-write-your-code-ask-it-to-explain-like-youre-5-1ej",
     "https://dev.to/malusev998/why-i-built-an-ssh-config-and-tunnel-manager-for-macos-58n8",
     "https://dev.to/mashraf_aiman/how-to-make-link-to-saas-launch-video-system-5a8k",
     "https://dev.to/mashrulhaque/how-to-design-a-maintainable-net-solution-structure-for-growing-teams-284n",
@@ -3249,12 +3250,6 @@
   "recent": [
     {
       "date": "2026-11-23",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: I built a game where you are an LLM's subagent",
-      "url": "https://news.ycombinator.com/item?id=50599762"
-    },
-    {
-      "date": "2026-11-23",
       "subcat": "AI & Machine Learning",
       "title": "omonkeyz/xbox-emulator",
       "url": "https://github.com/omonkeyz/xbox-emulator"
@@ -3306,6 +3301,12 @@
       "subcat": "Other Cool Projects",
       "title": "RoutineMiku/apkstart",
       "url": "https://github.com/RoutineMiku/apkstart"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "Python",
+      "title": "Stop Asking AI to Write Your Code. Ask It to Explain...",
+      "url": "https://dev.to/maame-codes/stop-asking-ai-to-write-your-code-ask-it-to-explain-like-youre-5-1ej"
     }
   ]
 }

@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2295 entries and counting** · Last updated: 2026-11-24
+**2296 entries and counting** · Last updated: 2026-11-24
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 463 |
 | [Reading List](articles/reading-list.md) | 464 |
 | [Coding Tips](coding-tips/tips.md) | 464 |
-| [Language Notes](languages/notes.md) | 439 |
+| [Language Notes](languages/notes.md) | 440 |
 
 ## Latest additions
 
+- **2026-11-24** · *Python* — [Stop Asking AI to Write Your Code. Ask It to Explain...](https://dev.to/maame-codes/stop-asking-ai-to-write-your-code-ask-it-to-explain-like-youre-5-1ej)
 - **2026-11-24** · *Other Cool Projects* — [RoutineMiku/apkstart](https://github.com/RoutineMiku/apkstart)
 - **2026-11-24** · *Hacker News Picks* — [Open Social Web Alliance](https://news.ycombinator.com/item?id=50600511)
 - **2026-11-24** · *AI & Machine Learning* — [WindGatorRise37/Gemini-Config-Checker-](https://github.com/WindGatorRise37/Gemini-Config-Checker-)
 - **2026-11-24** · *Models & Datasets* — [ccore/ThreeJS-3D-GLB-Assets](https://huggingface.co/datasets/ccore/ThreeJS-3D-GLB-Assets)
-- **2026-11-24** · *Lobsters Picks* — [Quality IMAP, Part 2: Mailbox Concurrency](https://lobste.rs/s/lnpwpu/quality_imap_part_2_mailbox_concurrency)
 
 ## How it works
 

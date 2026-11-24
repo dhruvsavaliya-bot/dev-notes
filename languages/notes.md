@@ -409,3 +409,14 @@ Top community posts, organized by programming language.
 - **What it is:** Ultra-minimalist macOS recording + transcription.
 - **Growth:** averaging ~32 stars/day since launch.
 - **Link:** https://github.com/humanitas-labs/quill
+
+## Python
+
+**Added 2026-11-24**
+
+### [Stop Asking AI to Write Your Code. Ask It to Explain Like You’re 5.](https://dev.to/maame-codes/stop-asking-ai-to-write-your-code-ask-it-to-explain-like-youre-5-1ej)
+- **Author:** Maame Afua A. P. Fordjour  | **Published:** Dec 7 '25 | **Read time:** 3 min
+- **Community:** 70 reactions, 10 comments -- a top post in #python
+- **Tags:** ai, productivity, python, programming
+- **Summary:** Let’s be honest.  I use AI tools daily. Most of us do 🤷‍♀️.   But there is a massive...
+- **Link:** https://dev.to/maame-codes/stop-asking-ai-to-write-your-code-ask-it-to-explain-like-youre-5-1ej
