@@ -641,6 +641,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/xxgezw/illiterate_programming
 - **Link:** https://deadsimpletech.com/blog/illiterate-programming
 
+**Added 2026-11-24**
+
+### [Sneakernet](https://sneakernet.eu/)
+- **Source:** sneakernet.eu | **Posted:** 2026-11-23 | **By:** FedericoSchonborn
+- **Community:** 40 score, 25 comments on Lobsters
+- **Tags:** distributed, networking
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/pdecff/sneakernet
+- **Link:** https://sneakernet.eu/
+
 
 ## Security
 
