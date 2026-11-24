@@ -601,6 +601,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/h6webg/ladybird_is_now_alpha
 - **Link:** https://ladybird.org/posts/alpha/
 
+**Added 2026-11-24**
+
+### [Held together by spare time: Reviving wiki.alpinelinux.org during PHP2Shell](https://lambdacreate.com/posts/held-together-by-spare-time)
+- **Source:** lambdacreate.com | **Posted:** 2026-11-23 | **By:** durrendal
+- **Community:** 17 score, 10 comments on Lobsters
+- **Tags:** devops
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/gtc9rg/held_together_by_spare_time_reviving_wiki
+- **Link:** https://lambdacreate.com/posts/held-together-by-spare-time
+
 
 ## Security
 

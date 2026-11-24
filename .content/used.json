@@ -1724,6 +1724,7 @@
     "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
     "https://labs.ycombinator.com/projects/games/index.html",
     "https://ladybird.org/posts/alpha/",
+    "https://lambdacreate.com/posts/held-together-by-spare-time",
     "https://lapcatsoftware.com/articles/2026/9/1.html",
     "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
     "https://layer3intel.com/blog/residential-proxies-white-house-network",
@@ -1885,6 +1886,7 @@
     "https://lobste.rs/s/gm4vao/quality_imap_part_1_your_mailbox_is",
     "https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow",
     "https://lobste.rs/s/gqyvn5/protecting_firefox_users_following",
+    "https://lobste.rs/s/gtc9rg/held_together_by_spare_time_reviving_wiki",
     "https://lobste.rs/s/gtvx0w/how_cheriot_provides_strong_usable",
     "https://lobste.rs/s/gu6yyl/polyend_releases_tracker_firmware",
     "https://lobste.rs/s/gu7bow/node_js_wednesday_october_21_2026",
@@ -3269,12 +3271,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "Hacker News Picks",
-      "title": "Elephants found to be increasingly isolated leading...",
-      "url": "https://news.ycombinator.com/item?id=50492860"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "Other Cool Projects",
       "title": "Marvisak/VIctory",
       "url": "https://github.com/Marvisak/VIctory"
@@ -3326,6 +3322,12 @@
       "subcat": "Productivity",
       "title": "Quando o Pomodoro no funciona: organizao realista...",
       "url": "https://dev.to/limonada/quando-o-pomodoro-nao-funciona-organizacao-realista-para-tdah-em-burnout-2a4c"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "Lobsters Picks",
+      "title": "Held together by spare time: Reviving...",
+      "url": "https://lobste.rs/s/gtc9rg/held_together_by_spare_time_reviving_wiki"
     }
   ]
 }
