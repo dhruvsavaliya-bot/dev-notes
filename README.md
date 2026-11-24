@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2296 entries and counting** · Last updated: 2026-11-24
+**2297 entries and counting** · Last updated: 2026-11-24
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 465 |
 | [AI / LLM Notes](ai/notes.md) | 463 |
-| [Reading List](articles/reading-list.md) | 464 |
+| [Reading List](articles/reading-list.md) | 465 |
 | [Coding Tips](coding-tips/tips.md) | 464 |
 | [Language Notes](languages/notes.md) | 440 |
 
 ## Latest additions
 
+- **2026-11-24** · *Hacker News Picks* — [Data centers need power  lower income, rural...](https://news.ycombinator.com/item?id=50473231)
 - **2026-11-24** · *Python* — [Stop Asking AI to Write Your Code. Ask It to Explain...](https://dev.to/maame-codes/stop-asking-ai-to-write-your-code-ask-it-to-explain-like-youre-5-1ej)
 - **2026-11-24** · *Other Cool Projects* — [RoutineMiku/apkstart](https://github.com/RoutineMiku/apkstart)
 - **2026-11-24** · *Hacker News Picks* — [Open Social Web Alliance](https://news.ycombinator.com/item?id=50600511)
 - **2026-11-24** · *AI & Machine Learning* — [WindGatorRise37/Gemini-Config-Checker-](https://github.com/WindGatorRise37/Gemini-Config-Checker-)
-- **2026-11-24** · *Models & Datasets* — [ccore/ThreeJS-3D-GLB-Assets](https://huggingface.co/datasets/ccore/ThreeJS-3D-GLB-Assets)
 
 ## How it works
 

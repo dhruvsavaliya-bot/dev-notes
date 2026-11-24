@@ -2128,6 +2128,7 @@
     "https://nedbatchelder.com/blog/202608/micro_language_implementation_calcium",
     "https://neil.fraser.name/news/2026/09/03/",
     "https://nemin.hu/llm-letter/index.html",
+    "https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price",
     "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
     "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
     "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332",
@@ -2796,6 +2797,7 @@
     "https://news.ycombinator.com/item?id=50469994",
     "https://news.ycombinator.com/item?id=50471650",
     "https://news.ycombinator.com/item?id=50471668",
+    "https://news.ycombinator.com/item?id=50473231",
     "https://news.ycombinator.com/item?id=50482279",
     "https://news.ycombinator.com/item?id=50484007",
     "https://news.ycombinator.com/item?id=50484421",
@@ -3250,12 +3252,6 @@
   "recent": [
     {
       "date": "2026-11-23",
-      "subcat": "AI & Machine Learning",
-      "title": "omonkeyz/xbox-emulator",
-      "url": "https://github.com/omonkeyz/xbox-emulator"
-    },
-    {
-      "date": "2026-11-23",
       "subcat": "C#",
       "title": "samuelit0davila/fifa-street-pc-port",
       "url": "https://github.com/samuelit0davila/fifa-street-pc-port"
@@ -3307,6 +3303,12 @@
       "subcat": "Python",
       "title": "Stop Asking AI to Write Your Code. Ask It to Explain...",
       "url": "https://dev.to/maame-codes/stop-asking-ai-to-write-your-code-ask-it-to-explain-like-youre-5-1ej"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "Hacker News Picks",
+      "title": "Data centers need power  lower income, rural...",
+      "url": "https://news.ycombinator.com/item?id=50473231"
     }
   ]
 }
