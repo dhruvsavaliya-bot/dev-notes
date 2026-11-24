@@ -565,6 +565,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** 📅 Mark Your Calendar: The Startup Article Every Developer Needs is Coming                      ...
 - **Link:** https://dev.to/thebitforge/top-10-productivity-hacks-every-developer-should-know-151h
 
+**Added 2026-11-24**
+
+### [8 formas de fazer networking em Tecnologia](https://dev.to/limonada/8-formas-de-fazer-networking-em-tecnologia-2ane)
+- **Author:** vitoriazzp | **Published:** Jan 30 | **Read time:** 3 min
+- **Community:** 72 reactions, 4 comments -- a top post in #productivity
+- **Tags:** productivity, networking, tutorial, braziliandevs
+- **Summary:** Sempre fui bem tímida, do tipo que ensaia mentalmente antes de puxar qualquer conversa. Também tenho...
+- **Link:** https://dev.to/limonada/8-formas-de-fazer-networking-em-tecnologia-2ane
+
 
 ## Career & Craft
 

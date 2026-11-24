@@ -487,6 +487,7 @@
     "https://dev.to/khalisollis/the-attention-trap-when-good-software-design-works-against-the-people-using-it-kbk",
     "https://dev.to/konark_13/vibe-coding-endgame-3bbn",
     "https://dev.to/kumuda/marigold-router-a-private-ofrenda-for-the-memories-we-refuse-to-lose-2e68",
+    "https://dev.to/limonada/8-formas-de-fazer-networking-em-tecnologia-2ane",
     "https://dev.to/lovestaco/cheap-rag-in-go-with-gemini-file-search-no-vector-db-two-calls-one-hosted-store-4kb5",
     "https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d",
     "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
@@ -3262,12 +3263,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "Python",
-      "title": "Stop Asking AI to Write Your Code. Ask It to Explain...",
-      "url": "https://dev.to/maame-codes/stop-asking-ai-to-write-your-code-ask-it-to-explain-like-youre-5-1ej"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "Hacker News Picks",
       "title": "Data centers need power  lower income, rural...",
       "url": "https://news.ycombinator.com/item?id=50473231"
@@ -3319,6 +3314,12 @@
       "subcat": "Models & Datasets",
       "title": "FineEnvs/SmolDataEnvs",
       "url": "https://huggingface.co/datasets/FineEnvs/SmolDataEnvs"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "Productivity",
+      "title": "8 formas de fazer networking em Tecnologia",
+      "url": "https://dev.to/limonada/8-formas-de-fazer-networking-em-tecnologia-2ane"
     }
   ]
 }
