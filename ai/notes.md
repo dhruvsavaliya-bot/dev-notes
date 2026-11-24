@@ -618,3 +618,14 @@ The best recent AI engineering content, organized by area.
 - **Tags:** ai, career, discuss, programming
 - **Summary:** A story about knowledge extraction, Kafka consumer rebalance, and what happens when a company...
 - **Link:** https://dev.to/xulingfeng/my-company-packaged-12-years-of-my-experience-into-an-ai-skill-then-laid-me-off-when-it-crashed-4b3e
+
+## Machine Learning
+
+**Added 2026-11-24**
+
+### [A Two-Line Function Caught AI Collusion Better Than the AI Did](https://dev.to/ayush_singh_9b0d83152be5b/a-two-line-function-caught-ai-collusion-better-than-the-ai-did-3nmd)
+- **Author:** Ayush Singh | **Published:** Oct 31 | **Read time:** 8 min
+- **Community:** 57 reactions, 79 comments -- a top post in #machinelearning
+- **Tags:** ai, agents, airesearch, machinelearning
+- **Summary:** A few days back, I took part in the Apart Research sprint where our team worked on the AI collusion...
+- **Link:** https://dev.to/ayush_singh_9b0d83152be5b/a-two-line-function-caught-ai-collusion-better-than-the-ai-did-3nmd

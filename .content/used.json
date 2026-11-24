@@ -387,6 +387,7 @@
     "https://dev.to/aws-builders/from-fresher-to-cloud-architect-how-to-start-your-aws-cloud-journey-1l3i",
     "https://dev.to/aws-builders/per-agent-cost-tracking-for-multi-agent-ai-on-aws-10eg",
     "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
+    "https://dev.to/ayush_singh_9b0d83152be5b/a-two-line-function-caught-ai-collusion-better-than-the-ai-did-3nmd",
     "https://dev.to/ben/long-live-rails-3p21",
     "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
     "https://dev.to/ben/when-is-a-side-project-worth-committing-to-5ec7",
@@ -3286,12 +3287,6 @@
     {
       "date": "2026-11-24",
       "subcat": "Lobsters Picks",
-      "title": "Held together by spare time: Reviving...",
-      "url": "https://lobste.rs/s/gtc9rg/held_together_by_spare_time_reviving_wiki"
-    },
-    {
-      "date": "2026-11-24",
-      "subcat": "Lobsters Picks",
       "title": "Release: Roto v0.14.0",
       "url": "https://lobste.rs/s/fygpme/release_roto_v0_14_0"
     },
@@ -3342,6 +3337,12 @@
       "subcat": "JavaScript",
       "title": "Jestions-dev/BlueFatFish",
       "url": "https://github.com/Jestions-dev/BlueFatFish"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "Machine Learning",
+      "title": "A Two-Line Function Caught AI Collusion Better Than...",
+      "url": "https://dev.to/ayush_singh_9b0d83152be5b/a-two-line-function-caught-ai-collusion-better-than-the-ai-did-3nmd"
     }
   ]
 }
