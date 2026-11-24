@@ -557,6 +557,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~46 stars/day since launch.
 - **Link:** https://github.com/HazyResearch/ncm
 
+**Added 2026-11-24**
+
+### [Vincentwei1021/mg-styles-15](https://github.com/Vincentwei1021/mg-styles-15)
+- **Stats:** 3,914 stars | 486 forks | 2 open issues
+- **Language:** Python | **Created:** 2026-10-02 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** 15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source.
+- **Growth:** averaging ~73 stars/day since launch.
+- **Link:** https://github.com/Vincentwei1021/mg-styles-15
+
 
 ## Web & Frontend
 

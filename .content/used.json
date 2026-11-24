@@ -887,6 +887,7 @@
     "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
     "https://github.com/Verlintas/NOIR",
     "https://github.com/Vibra-Ingenn/Janus",
+    "https://github.com/Vincentwei1021/mg-styles-15",
     "https://github.com/Vincentwei1021/video-shotcraft",
     "https://github.com/Waishnav/devspace",
     "https://github.com/WeblateOrg/weblate",
@@ -3292,12 +3293,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "Other Cool Projects",
-      "title": "HazyResearch/ncm",
-      "url": "https://github.com/HazyResearch/ncm"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "Lobsters Picks",
       "title": "Signal is Serious About Protecting Your Privacy",
       "url": "https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your"
@@ -3349,6 +3344,12 @@
       "subcat": "Lobsters Picks",
       "title": "Sneakernet",
       "url": "https://lobste.rs/s/pdecff/sneakernet"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "Other Cool Projects",
+      "title": "Vincentwei1021/mg-styles-15",
+      "url": "https://github.com/Vincentwei1021/mg-styles-15"
     }
   ]
 }

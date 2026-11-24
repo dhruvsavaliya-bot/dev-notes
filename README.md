@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2325 entries and counting** · Last updated: 2026-11-24
+**2326 entries and counting** · Last updated: 2026-11-24
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 472 |
+| [Trending Projects](trending-projects/projects.md) | 473 |
 | [AI / LLM Notes](ai/notes.md) | 465 |
 | [Reading List](articles/reading-list.md) | 472 |
 | [Coding Tips](coding-tips/tips.md) | 470 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-24** · *Other Cool Projects* — [Vincentwei1021/mg-styles-15](https://github.com/Vincentwei1021/mg-styles-15)
 - **2026-11-24** · *Lobsters Picks* — [Sneakernet](https://lobste.rs/s/pdecff/sneakernet)
 - **2026-11-24** · *JavaScript* — [Nyxera0x/cutaway](https://github.com/Nyxera0x/cutaway)
 - **2026-11-24** · *AI & Machine Learning* — [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global)
 - **2026-11-24** · *Lobsters Picks* — [Illiterate Programming](https://lobste.rs/s/xxgezw/illiterate_programming)
-- **2026-11-24** · *Machine Learning* — [A Two-Line Function Caught AI Collusion Better Than...](https://dev.to/ayush_singh_9b0d83152be5b/a-two-line-function-caught-ai-collusion-better-than-the-ai-did-3nmd)
 
 ## How it works
 
