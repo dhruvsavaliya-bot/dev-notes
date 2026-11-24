@@ -488,6 +488,7 @@
     "https://dev.to/konark_13/vibe-coding-endgame-3bbn",
     "https://dev.to/kumuda/marigold-router-a-private-ofrenda-for-the-memories-we-refuse-to-lose-2e68",
     "https://dev.to/limonada/8-formas-de-fazer-networking-em-tecnologia-2ane",
+    "https://dev.to/limonada/quando-o-pomodoro-nao-funciona-organizacao-realista-para-tdah-em-burnout-2a4c",
     "https://dev.to/lovestaco/cheap-rag-in-go-with-gemini-file-search-no-vector-db-two-calls-one-hosted-store-4kb5",
     "https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d",
     "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
@@ -3268,12 +3269,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "Python",
-      "title": "Windows won't let you own Win+Shift+S. So I hooked...",
-      "url": "https://dev.to/akhourianmolkumar/windows-wont-let-you-own-winshifts-so-i-hooked-the-keyboard-in-python-248c"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "Hacker News Picks",
       "title": "Elephants found to be increasingly isolated leading...",
       "url": "https://news.ycombinator.com/item?id=50492860"
@@ -3325,6 +3320,12 @@
       "subcat": "Ruby",
       "title": "Security advisories: multiple vulnerabilities in...",
       "url": "https://lobste.rs/s/hsmtyg/security_advisories_multiple"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "Productivity",
+      "title": "Quando o Pomodoro no funciona: organizao realista...",
+      "url": "https://dev.to/limonada/quando-o-pomodoro-nao-funciona-organizacao-realista-para-tdah-em-burnout-2a4c"
     }
   ]
 }

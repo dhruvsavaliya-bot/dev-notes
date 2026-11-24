@@ -574,6 +574,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Summary:** Sempre fui bem tímida, do tipo que ensaia mentalmente antes de puxar qualquer conversa. Também tenho...
 - **Link:** https://dev.to/limonada/8-formas-de-fazer-networking-em-tecnologia-2ane
 
+**Added 2026-11-24**
+
+### [Quando o Pomodoro não funciona: organização realista para TDAH em burnout](https://dev.to/limonada/quando-o-pomodoro-nao-funciona-organizacao-realista-para-tdah-em-burnout-2a4c)
+- **Author:** vitoriazzp | **Published:** Jun 15 | **Read time:** 8 min
+- **Community:** 151 reactions, 5 comments -- a top post in #productivity
+- **Tags:** braziliandevs, productivity, mentalhealth, career
+- **Summary:** ⚠️aviso: este artigo não pretende promover o trabalho durante exaustão mental (burnout), se você...
+- **Link:** https://dev.to/limonada/quando-o-pomodoro-nao-funciona-organizacao-realista-para-tdah-em-burnout-2a4c
+
 
 ## Career & Craft
 
