@@ -1501,6 +1501,7 @@
     "https://huggingface.co/datasets/CMRobot/MotionDecode",
     "https://huggingface.co/datasets/CodeDevX/Vibe-Coding-Instruct",
     "https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces",
+    "https://huggingface.co/datasets/FineEnvs/SmolDataEnvs",
     "https://huggingface.co/datasets/FlyRank/internship-warehouse",
     "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
     "https://huggingface.co/datasets/Helsinki-NLP/opus-100",
@@ -3261,12 +3262,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "Other Cool Projects",
-      "title": "RoutineMiku/apkstart",
-      "url": "https://github.com/RoutineMiku/apkstart"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "Python",
       "title": "Stop Asking AI to Write Your Code. Ask It to Explain...",
       "url": "https://dev.to/maame-codes/stop-asking-ai-to-write-your-code-ask-it-to-explain-like-youre-5-1ej"
@@ -3318,6 +3313,12 @@
       "subcat": "Ruby",
       "title": "Ruby2Shell (GHSA-34m4-m9fh-gqp5)",
       "url": "https://lobste.rs/s/usdf7t/ruby2shell_ghsa_34m4_m9fh_gqp5"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "Models & Datasets",
+      "title": "FineEnvs/SmolDataEnvs",
+      "url": "https://huggingface.co/datasets/FineEnvs/SmolDataEnvs"
     }
   ]
 }

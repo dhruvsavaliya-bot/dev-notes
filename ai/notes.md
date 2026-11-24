@@ -569,6 +569,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/ccore/ThreeJS-3D-GLB-Assets
 
+**Added 2026-11-24**
+
+### [FineEnvs/SmolDataEnvs](https://huggingface.co/datasets/FineEnvs/SmolDataEnvs)
+- **Stats:** 108 likes | 89,598 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-09-24
+- **Tags:** smoldataenvs, data-analysis, agent, rl-environment, reinforcement-learning, code-agent
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/FineEnvs/SmolDataEnvs
+
 
 ## LLMs
 
