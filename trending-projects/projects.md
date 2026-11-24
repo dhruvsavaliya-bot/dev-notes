@@ -665,3 +665,13 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** Deekseep LSPosed: multi-API Xposed module for DeepSeek Android; Mainland 2.2.2/2.3.0 and Google Play 2.2.2.
 - **Growth:** averaging ~3 stars/day since launch.
 - **Link:** https://github.com/lllucccian/Deekseep
+
+**Added 2026-11-24**
+
+### [libracoder/kiri](https://github.com/libracoder/kiri)
+- **Stats:** 12,712 stars | 619 forks | 126 open issues
+- **Language:** Rust | **Created:** 2026-11-02 | **License:** Apache-2.0
+- **Topics:** containers, docker, kubernetes, linux, macos, oci
+- **What it is:** A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
+- **Growth:** averaging ~577 stars/day since launch.
+- **Link:** https://github.com/libracoder/kiri

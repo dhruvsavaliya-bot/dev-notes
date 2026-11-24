@@ -1124,6 +1124,7 @@
     "https://github.com/lhlGitHub/threejs-architecture-effects",
     "https://github.com/liangmianya/dsh-synapse",
     "https://github.com/liangxiegame/QFramework",
+    "https://github.com/libracoder/kiri",
     "https://github.com/ling-stack-org/ling-stack",
     "https://github.com/lingyired/status-trio",
     "https://github.com/lllucccian/Deekseep",
@@ -3252,12 +3253,6 @@
   ],
   "recent": [
     {
-      "date": "2026-11-23",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: AgentRun  open-source, Self-improving...",
-      "url": "https://news.ycombinator.com/item?id=50471650"
-    },
-    {
       "date": "2026-11-24",
       "subcat": "Swift",
       "title": "humanitas-labs/quill",
@@ -3310,6 +3305,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Tips for transitioning from web development...",
       "url": "https://news.ycombinator.com/item?id=50555002"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "Backend & Infrastructure",
+      "title": "libracoder/kiri",
+      "url": "https://github.com/libracoder/kiri"
     }
   ]
 }
