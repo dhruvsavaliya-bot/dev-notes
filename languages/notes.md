@@ -69,6 +69,16 @@ Top community posts, organized by programming language.
 - **Growth:** averaging ~16 stars/day since launch.
 - **Link:** https://github.com/Jestions-dev/BlueFatFish
 
+**Added 2026-11-24**
+
+### [Nyxera0x/cutaway](https://github.com/Nyxera0x/cutaway)
+- **Stats:** 468 stars | 76 forks | 3 open issues
+- **Language:** JavaScript | **Created:** 2026-11-06 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** A Claude Code skill that turns one picture into a 3D object that takes itself apart: built in three.js from code, checked against the picture, filmed at 60 fps with a synced score.
+- **Growth:** averaging ~26 stars/day since launch.
+- **Link:** https://github.com/Nyxera0x/cutaway
+
 
 ## Rust
 

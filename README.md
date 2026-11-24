@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2323 entries and counting** · Last updated: 2026-11-24
+**2324 entries and counting** · Last updated: 2026-11-24
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 465 |
 | [Reading List](articles/reading-list.md) | 471 |
 | [Coding Tips](coding-tips/tips.md) | 470 |
-| [Language Notes](languages/notes.md) | 445 |
+| [Language Notes](languages/notes.md) | 446 |
 
 ## Latest additions
 
+- **2026-11-24** · *JavaScript* — [Nyxera0x/cutaway](https://github.com/Nyxera0x/cutaway)
 - **2026-11-24** · *AI & Machine Learning* — [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global)
 - **2026-11-24** · *Lobsters Picks* — [Illiterate Programming](https://lobste.rs/s/xxgezw/illiterate_programming)
 - **2026-11-24** · *Machine Learning* — [A Two-Line Function Caught AI Collusion Better Than...](https://dev.to/ayush_singh_9b0d83152be5b/a-two-line-function-caught-ai-collusion-better-than-the-ai-did-3nmd)
 - **2026-11-24** · *JavaScript* — [Jestions-dev/BlueFatFish](https://github.com/Jestions-dev/BlueFatFish)
-- **2026-11-24** · *AI & Machine Learning* — [elysia395/dsh-wallpaper-engine](https://github.com/elysia395/dsh-wallpaper-engine)
 
 ## How it works
 

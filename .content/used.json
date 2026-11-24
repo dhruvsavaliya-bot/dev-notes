@@ -821,6 +821,7 @@
     "https://github.com/NihilDigit/piko",
     "https://github.com/Niko1221/Strata",
     "https://github.com/NomaDamas/k-skill",
+    "https://github.com/Nyxera0x/cutaway",
     "https://github.com/OmniJev/Flide",
     "https://github.com/OpenMili/aimili-vpngate",
     "https://github.com/OpenNHP/opennhp",
@@ -3290,12 +3291,6 @@
     {
       "date": "2026-11-24",
       "subcat": "Lobsters Picks",
-      "title": "Gliver completes the Guix desktop",
-      "url": "https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop"
-    },
-    {
-      "date": "2026-11-24",
-      "subcat": "Lobsters Picks",
       "title": "What VP != VNP Means (In 3 Minutes)",
       "url": "https://lobste.rs/s/2k95fs/what_vp_vnp_means_3_minutes"
     },
@@ -3346,6 +3341,12 @@
       "subcat": "AI & Machine Learning",
       "title": "jiwoochris/artex-global",
       "url": "https://github.com/jiwoochris/artex-global"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "JavaScript",
+      "title": "Nyxera0x/cutaway",
+      "url": "https://github.com/Nyxera0x/cutaway"
     }
   ]
 }
