@@ -429,3 +429,12 @@ Top community posts, organized by programming language.
 - **Tags:** python, pyqt, opensource, windows
 - **Summary:** I wanted one small thing: press Win+Shift+S and get my own screenshot tool instead of Snipping...
 - **Link:** https://dev.to/akhourianmolkumar/windows-wont-let-you-own-winshifts-so-i-hooked-the-keyboard-in-python-248c
+
+**Added 2026-11-24**
+
+### [Where Do Your LLM API Keys Actually Live?](https://dev.to/hadil/where-do-your-llm-api-keys-actually-live-2cjm)
+- **Author:** Hadil Ben Abdallah | **Published:** Jul 6 | **Read time:** 13 min
+- **Community:** 80 reactions, 38 comments -- a top post in #python
+- **Tags:** ai, llm, api, python
+- **Summary:** If someone compromised one of your project's dependencies today, would they be able to steal your...
+- **Link:** https://dev.to/hadil/where-do-your-llm-api-keys-actually-live-2cjm

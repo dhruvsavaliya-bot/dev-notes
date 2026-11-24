@@ -446,6 +446,7 @@
     "https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b",
     "https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51",
     "https://dev.to/hadil/the-hard-truth-about-learning-to-code-that-no-one-tells-you-15c1",
+    "https://dev.to/hadil/where-do-your-llm-api-keys-actually-live-2cjm",
     "https://dev.to/hadil/your-login-works-now-prove-who-did-what-26p5",
     "https://dev.to/hadil/youre-a-real-python-developer-only-if-94e",
     "https://dev.to/harsh2644/ai-made-coding-cheaper-so-why-is-building-software-still-so-expensive-59m",
@@ -3258,12 +3259,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "AI & Machine Learning",
-      "title": "WindGatorRise37/Gemini-Config-Checker-",
-      "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "Hacker News Picks",
       "title": "Open Social Web Alliance",
       "url": "https://news.ycombinator.com/item?id=50600511"
@@ -3315,6 +3310,12 @@
       "subcat": "Other Cool Projects",
       "title": "Marvisak/VIctory",
       "url": "https://github.com/Marvisak/VIctory"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "Python",
+      "title": "Where Do Your LLM API Keys Actually Live?",
+      "url": "https://dev.to/hadil/where-do-your-llm-api-keys-actually-live-2cjm"
     }
   ]
 }
