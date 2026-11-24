@@ -611,6 +611,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/gtc9rg/held_together_by_spare_time_reviving_wiki
 - **Link:** https://lambdacreate.com/posts/held-together-by-spare-time
 
+**Added 2026-11-24**
+
+### [Gliver completes the Guix desktop](https://dustycloud.org/blog/gliver-completes-the-guix-desktop/)
+- **Source:** dustycloud.org | **Posted:** 2026-11-22 | **By:** eBPF
+- **Community:** 69 score, 5 comments on Lobsters
+- **Tags:** linux, lisp
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop
+- **Link:** https://dustycloud.org/blog/gliver-completes-the-guix-desktop/
+
 
 ## Security
 

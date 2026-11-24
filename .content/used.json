@@ -623,6 +623,7 @@
     "https://dosdays.co.uk/topics/Software/borland_turbo_basic.php",
     "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
     "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+    "https://dustycloud.org/blog/gliver-completes-the-guix-desktop/",
     "https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/",
     "https://dylancastillo.co/posts/pelicanmaxxing.html",
     "https://e360.yale.edu/digest/japan-depopulation-biodiversity",
@@ -2045,6 +2046,7 @@
     "https://lobste.rs/s/w0qpxu/real_time_garbage_collector",
     "https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice",
     "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed",
+    "https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop",
     "https://lobste.rs/s/wd4ye5/clojure_conj_2026",
     "https://lobste.rs/s/wgoato/decade_kill_bugs",
     "https://lobste.rs/s/whzj8z/jep_544_ahead_time_code_compilation",
@@ -3274,12 +3276,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "Ruby",
-      "title": "Ruby2Shell (GHSA-34m4-m9fh-gqp5)",
-      "url": "https://lobste.rs/s/usdf7t/ruby2shell_ghsa_34m4_m9fh_gqp5"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "Models & Datasets",
       "title": "FineEnvs/SmolDataEnvs",
       "url": "https://huggingface.co/datasets/FineEnvs/SmolDataEnvs"
@@ -3331,6 +3327,12 @@
       "subcat": "Other Cool Projects",
       "title": "aardappel/goose",
       "url": "https://github.com/aardappel/goose"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "Lobsters Picks",
+      "title": "Gliver completes the Guix desktop",
+      "url": "https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop"
     }
   ]
 }
