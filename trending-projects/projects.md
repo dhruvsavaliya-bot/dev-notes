@@ -324,6 +324,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~38 stars/day since launch.
 - **Link:** https://github.com/lennney/stop-that-shit
 
+**Added 2026-11-24**
+
+### [elysia395/dsh-wallpaper-engine](https://github.com/elysia395/dsh-wallpaper-engine)
+- **Stats:** 8,060 stars | 124 forks | 18 open issues
+- **Language:** JavaScript | **Created:** 2026-08-16 | **License:** MIT
+- **Topics:** deepseek-harness, dsh-plugin, dsh-plugin-market, dsh-plugins, liquid-glass, theme
+- **What it is:** 把本机 Wallpaper Engine 的壁纸搬进 DSH 网页界面：场景壁纸由内置 MIT 开源引擎 WebWallGL 实时 WebGL 渲染（粒子 / puppet 骨骼 / SceneScript / 音频反应 / 鼠标交互），失败自动降级内嵌 MP4 与场景静态帧；Web 壁纸严格沙箱 + WE API；iOS 风格液态玻璃 UI 高度自定义，遮挡暂停省电、ffmpeg 帧率上限转码、系统音频频谱与 Now Playing、自定义上传与自动轮播；设置存宿主端，对 agent 零 token 开销。Windows / macOS / Linux 三平台原生（同一个包、同一条命令）。
+- **Growth:** averaging ~80 stars/day since launch.
+- **Link:** https://github.com/elysia395/dsh-wallpaper-engine
+
 
 ## Other Cool Projects
 
