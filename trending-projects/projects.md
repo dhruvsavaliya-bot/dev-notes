@@ -517,6 +517,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~4,603 stars/day since launch.
 - **Link:** https://github.com/Marvisak/VIctory
 
+**Added 2026-11-24**
+
+### [aardappel/goose](https://github.com/aardappel/goose)
+- **Stats:** 3,851 stars | 192 forks | 52 open issues
+- **Language:** C++ | **Created:** 2026-08-30 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** The Goose Programming Language
+- **Growth:** averaging ~44 stars/day since launch.
+- **Link:** https://github.com/aardappel/goose
+
 
 ## Web & Frontend
 

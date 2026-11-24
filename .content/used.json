@@ -896,6 +896,7 @@
     "https://github.com/Zleap-AI/SAG",
     "https://github.com/ZzzLc0405/photo-abstract-editorial",
     "https://github.com/aakarim/OpenLore",
+    "https://github.com/aardappel/goose",
     "https://github.com/abcwyc/pi-agent-desktop",
     "https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS",
     "https://github.com/aden-hive/hive",
@@ -3273,12 +3274,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "Python",
-      "title": "Where Do Your LLM API Keys Actually Live?",
-      "url": "https://dev.to/hadil/where-do-your-llm-api-keys-actually-live-2cjm"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "Ruby",
       "title": "Ruby2Shell (GHSA-34m4-m9fh-gqp5)",
       "url": "https://lobste.rs/s/usdf7t/ruby2shell_ghsa_34m4_m9fh_gqp5"
@@ -3330,6 +3325,12 @@
       "subcat": "Lobsters Picks",
       "title": "Release: Roto v0.14.0",
       "url": "https://lobste.rs/s/fygpme/release_roto_v0_14_0"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "Other Cool Projects",
+      "title": "aardappel/goose",
+      "url": "https://github.com/aardappel/goose"
     }
   ]
 }
