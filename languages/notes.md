@@ -276,6 +276,16 @@ Top community posts, organized by programming language.
 - **Discussion:** https://lobste.rs/s/usdf7t/ruby2shell_ghsa_34m4_m9fh_gqp5
 - **Link:** https://verialabs.com/ruby2shell/
 
+**Added 2026-11-24**
+
+### [Security advisories: multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/)
+- **Source:** www.ruby-lang.org | **Posted:** 2026-11-18 | **By:** thombles
+- **Community:** 24 score, 0 comments on Lobsters
+- **Tags:** ruby, security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/hsmtyg/security_advisories_multiple
+- **Link:** https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/
+
 
 ## Kotlin
 

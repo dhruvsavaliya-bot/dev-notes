@@ -1897,6 +1897,7 @@
     "https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not",
     "https://lobste.rs/s/hplfis/examining_macos_gcc_binary",
     "https://lobste.rs/s/hrsyjf/11_nanoseconds_per_word_ridiculously",
+    "https://lobste.rs/s/hsmtyg/security_advisories_multiple",
     "https://lobste.rs/s/hzrmwz/simple_netbsd_webserver",
     "https://lobste.rs/s/i96uyr/mustcreate_pattern_for_go_tests",
     "https://lobste.rs/s/idktfu/go_turns_17",
@@ -3185,6 +3186,7 @@
     "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
     "https://www.robbielyman.com/blog/extend-lua-with-zig-1/",
     "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
+    "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
     "https://www.rubyhack.ai/",
     "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
     "https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return",
@@ -3266,12 +3268,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "Backend & Infrastructure",
-      "title": "libracoder/kiri",
-      "url": "https://github.com/libracoder/kiri"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "Python",
       "title": "Windows won't let you own Win+Shift+S. So I hooked...",
       "url": "https://dev.to/akhourianmolkumar/windows-wont-let-you-own-winshifts-so-i-hooked-the-keyboard-in-python-248c"
@@ -3323,6 +3319,12 @@
       "subcat": "AI & Machine Learning",
       "title": "lennney/stop-that-shit",
       "url": "https://github.com/lennney/stop-that-shit"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "Ruby",
+      "title": "Security advisories: multiple vulnerabilities in...",
+      "url": "https://lobste.rs/s/hsmtyg/security_advisories_multiple"
     }
   ]
 }
