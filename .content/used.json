@@ -2019,6 +2019,7 @@
     "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
     "https://lobste.rs/s/urcrqe/janet_reno_was_talking_about_my_friend",
     "https://lobste.rs/s/urg4yu/unattended_reboots_with_encrypted_disks",
+    "https://lobste.rs/s/usdf7t/ruby2shell_ghsa_34m4_m9fh_gqp5",
     "https://lobste.rs/s/uz2j2h/google_summer_code_2026_results",
     "https://lobste.rs/s/uzn2t6/mutex_poisoning_is_not_for_everyone",
     "https://lobste.rs/s/v3uidx/lock_your_github_actions",
@@ -3052,6 +3053,7 @@
     "https://uvbirds.com/",
     "https://verdagon.dev/blog/reverse-borrow-checking",
     "https://verdagon.dev/blog/valen-group-borrowing",
+    "https://verialabs.com/ruby2shell/",
     "https://vester.si/bodily-oddities/",
     "https://vincent.bernat.ch/en/blog/2026-go-netip-addrto6",
     "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
@@ -3259,12 +3261,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "Hacker News Picks",
-      "title": "Open Social Web Alliance",
-      "url": "https://news.ycombinator.com/item?id=50600511"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "Other Cool Projects",
       "title": "RoutineMiku/apkstart",
       "url": "https://github.com/RoutineMiku/apkstart"
@@ -3316,6 +3312,12 @@
       "subcat": "Python",
       "title": "Where Do Your LLM API Keys Actually Live?",
       "url": "https://dev.to/hadil/where-do-your-llm-api-keys-actually-live-2cjm"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "Ruby",
+      "title": "Ruby2Shell (GHSA-34m4-m9fh-gqp5)",
+      "url": "https://lobste.rs/s/usdf7t/ruby2shell_ghsa_34m4_m9fh_gqp5"
     }
   ]
 }

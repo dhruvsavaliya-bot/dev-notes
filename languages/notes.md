@@ -266,6 +266,17 @@ Top community posts, organized by programming language.
 - **Discussion:** https://news.ycombinator.com/item?id=50536565
 - **Link:** https://www.zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc
 
+**Added 2026-11-24**
+
+### [Ruby2Shell (GHSA-34m4-m9fh-gqp5)](https://verialabs.com/ruby2shell/)
+- **Source:** verialabs.com | **Posted:** 2026-11-19 | **By:** bezdomni
+- **Community:** 31 score, 6 comments on Lobsters
+- **Tags:** ruby, security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/usdf7t/ruby2shell_ghsa_34m4_m9fh_gqp5
+- **Link:** https://verialabs.com/ruby2shell/
+
+
 ## Kotlin
 
 **Added 2026-11-20**
