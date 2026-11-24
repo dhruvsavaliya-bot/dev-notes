@@ -1123,6 +1123,7 @@
     "https://github.com/laogou717/dogsc",
     "https://github.com/laramint/laravel-brain",
     "https://github.com/lemomo-ai/lemo-opuscar",
+    "https://github.com/lennney/stop-that-shit",
     "https://github.com/lerdb/HotDownloader",
     "https://github.com/lgse/strata",
     "https://github.com/lhlGitHub/threejs-architecture-effects",
@@ -3265,12 +3266,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: Tips for transitioning from web development...",
-      "url": "https://news.ycombinator.com/item?id=50555002"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "Backend & Infrastructure",
       "title": "libracoder/kiri",
       "url": "https://github.com/libracoder/kiri"
@@ -3322,6 +3317,12 @@
       "subcat": "Lobsters Picks",
       "title": "Ladybird is now in alpha",
       "url": "https://lobste.rs/s/h6webg/ladybird_is_now_alpha"
+    },
+    {
+      "date": "2026-11-24",
+      "subcat": "AI & Machine Learning",
+      "title": "lennney/stop-that-shit",
+      "url": "https://github.com/lennney/stop-that-shit"
     }
   ]
 }

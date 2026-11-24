@@ -314,6 +314,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~51 stars/day since launch.
 - **Link:** https://github.com/WindGatorRise37/Gemini-Config-Checker-
 
+**Added 2026-11-24**
+
+### [lennney/stop-that-shit](https://github.com/lennney/stop-that-shit)
+- **Stats:** 4,085 stars | 87 forks | 11 open issues
+- **Language:** JavaScript | **Created:** 2026-08-11 | **License:** MIT
+- **Topics:** agent-skills, ai-agents, ai-coding, claude-code, codex, codex-cli
+- **What it is:** Stop That Shit（别再造史了）｜面向 Codex/GPT 场景的多平台 Hook + Skill Guard：拦截 AI coding agent 无需求的哈希、校验和与任务范围膨胀。 A multi-platform Hook + Skill Guard for AI coding agents in Codex/GPT workflows: stop unrequested hashes, checksums, and task-scope creep.
+- **Growth:** averaging ~38 stars/day since launch.
+- **Link:** https://github.com/lennney/stop-that-shit
+
 
 ## Other Cool Projects
 

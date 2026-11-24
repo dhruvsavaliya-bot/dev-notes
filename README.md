@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2307 entries and counting** · Last updated: 2026-11-24
+**2308 entries and counting** · Last updated: 2026-11-24
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 467 |
+| [Trending Projects](trending-projects/projects.md) | 468 |
 | [AI / LLM Notes](ai/notes.md) | 464 |
 | [Reading List](articles/reading-list.md) | 467 |
 | [Coding Tips](coding-tips/tips.md) | 466 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-24** · *AI & Machine Learning* — [lennney/stop-that-shit](https://github.com/lennney/stop-that-shit)
 - **2026-11-24** · *Lobsters Picks* — [Ladybird is now in alpha](https://lobste.rs/s/h6webg/ladybird_is_now_alpha)
 - **2026-11-24** · *Productivity* — [8 formas de fazer networking em Tecnologia](https://dev.to/limonada/8-formas-de-fazer-networking-em-tecnologia-2ane)
 - **2026-11-24** · *Models & Datasets* — [FineEnvs/SmolDataEnvs](https://huggingface.co/datasets/FineEnvs/SmolDataEnvs)
 - **2026-11-24** · *Ruby* — [Ruby2Shell (GHSA-34m4-m9fh-gqp5)](https://lobste.rs/s/usdf7t/ruby2shell_ghsa_34m4_m9fh_gqp5)
-- **2026-11-24** · *Python* — [Where Do Your LLM API Keys Actually Live?](https://dev.to/hadil/where-do-your-llm-api-keys-actually-live-2cjm)
 
 ## How it works
 
