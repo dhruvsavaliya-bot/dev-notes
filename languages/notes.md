@@ -98,6 +98,15 @@ Top community posts, organized by programming language.
 - **Summary:** For at least 8 years now, I’ve been hearing about the imminent death of frontend - or at least...
 - **Link:** https://dev.to/sylwia-lask/will-webassembly-kill-javascript-lets-find-out-live-demo-43ln
 
+**Added 2026-11-25**
+
+### [10 JavaScript Console Methods You Didn't Know Existed (And How They'll Save You Hours of Debugging)](https://dev.to/thebitforge/10-javascript-console-methods-you-didnt-know-existed-and-how-theyll-save-you-hours-of-debugging-4a7c)
+- **Author:** TheBitForge | **Published:** Dec 1 '25 | **Read time:** 37 min
+- **Community:** 111 reactions, 18 comments -- a top post in #javascript
+- **Tags:** javascript, programming, webdev, discuss
+- **Summary:** ...
+- **Link:** https://dev.to/thebitforge/10-javascript-console-methods-you-didnt-know-existed-and-how-theyll-save-you-hours-of-debugging-4a7c
+
 
 ## Rust
 
