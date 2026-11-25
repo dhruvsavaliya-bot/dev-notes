@@ -234,6 +234,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://lobste.rs/s/xv13en/vitruvianos
 - **Link:** https://v-os.dev/
 
+**Added 2026-11-25**
+
+### [Beyond Linux: A Journey Through the Open Source Ecosystem](https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/)
+- **Source:** it-notes.dragas.net | **Posted:** 2026-11-24 | **By:** abnercoimbre
+- **Community:** 25 score, 2 comments on Lobsters
+- **Tags:** freebsd, netbsd, openbsd
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/y56k2b/beyond_linux_journey_through_open_source
+- **Link:** https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/
+
 
 ## Show & Ask HN
 
