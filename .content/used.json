@@ -1253,6 +1253,7 @@
     "https://github.com/qingjian-team/qingjian",
     "https://github.com/rakanki911/DLSS5-Swapper",
     "https://github.com/ravindu644/Droidspaces-OSS",
+    "https://github.com/rdborg/Mediarium",
     "https://github.com/reacher-z/Awesome-REA",
     "https://github.com/redhat-et/ripwire",
     "https://github.com/rehan-remade/universal-modder",
@@ -3313,12 +3314,6 @@
   "recent": [
     {
       "date": "2026-11-25",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: The Last Complication, a Zachtronics-style...",
-      "url": "https://news.ycombinator.com/item?id=50511718"
-    },
-    {
-      "date": "2026-11-25",
       "subcat": "Hacker News Picks",
       "title": "GPT-6 models demonstrate intrinsic protein-design...",
       "url": "https://news.ycombinator.com/item?id=50634658"
@@ -3370,6 +3365,12 @@
       "subcat": "Hacker News Picks",
       "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2...",
       "url": "https://news.ycombinator.com/item?id=50633159"
+    },
+    {
+      "date": "2026-11-25",
+      "subcat": "Web & Frontend",
+      "title": "rdborg/Mediarium",
+      "url": "https://github.com/rdborg/Mediarium"
     }
   ]
 }

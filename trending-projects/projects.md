@@ -670,6 +670,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~13 stars/day since launch.
 - **Link:** https://github.com/alexrlocke/neorex
 
+**Added 2026-11-25**
+
+### [rdborg/Mediarium](https://github.com/rdborg/Mediarium)
+- **Stats:** 339 stars | 34 forks | 18 open issues
+- **Language:** Go | **Created:** 2026-09-28 | **License:** AGPL-3.0
+- **Topics:** audiobooks, docker, ebooks, golang, homelab, jellyfin
+- **What it is:** Self-hosted media manager for movies, TV, music, ebooks and audiobooks: search, download and organise, all in one Docker container.
+- **Growth:** averaging ~5 stars/day since launch.
+- **Link:** https://github.com/rdborg/Mediarium
+
 
 ## Developer Tools
 
