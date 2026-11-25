@@ -1649,6 +1649,7 @@
     "https://huggingface.co/jaredpalmer/kev-4b",
     "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-russian",
     "https://huggingface.co/kopper/RelayVSR",
+    "https://huggingface.co/krea/Krea-2-Raw",
     "https://huggingface.co/krea/Krea-2-Turbo",
     "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
     "https://huggingface.co/lightx2v/Minimax-h3-Turbo",
@@ -3324,12 +3325,6 @@
   "recent": [
     {
       "date": "2026-11-25",
-      "subcat": "Lobsters Picks",
-      "title": "Security incident on Hex.pm",
-      "url": "https://lobste.rs/s/rfcgkx/security_incident_on_hex_pm"
-    },
-    {
-      "date": "2026-11-25",
       "subcat": "Hacker News Picks",
       "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2...",
       "url": "https://news.ycombinator.com/item?id=50633159"
@@ -3381,6 +3376,12 @@
       "subcat": "AI & Machine Learning",
       "title": "Sentient-OS-Labs/sentient-os",
       "url": "https://github.com/Sentient-OS-Labs/sentient-os"
+    },
+    {
+      "date": "2026-11-25",
+      "subcat": "Models & Datasets",
+      "title": "krea/Krea-2-Raw",
+      "url": "https://huggingface.co/krea/Krea-2-Raw"
     }
   ]
 }
