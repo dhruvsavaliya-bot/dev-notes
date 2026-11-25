@@ -700,6 +700,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~5 stars/day since launch.
 - **Link:** https://github.com/rdborg/Mediarium
 
+**Added 2026-11-25**
+
+### [Zesty0wl/mac-performance-monitor](https://github.com/Zesty0wl/mac-performance-monitor)
+- **Stats:** 1,031 stars | 42 forks | 4 open issues
+- **Language:** Swift | **Created:** 2026-07-05 | **License:** MIT
+- **Topics:** apple-silicon, macos, memory-pressure, menubar, open-source, performance-monitor
+- **What it is:** A diagnostic performance logging utility for macOS: logs CPU, memory, GPU, network, and battery from the menu bar to help detect and diagnose performance issues. Free, open source, no telemetry.
+- **Growth:** averaging ~7 stars/day since launch.
+- **Link:** https://github.com/Zesty0wl/mac-performance-monitor
+
 
 ## Developer Tools
 

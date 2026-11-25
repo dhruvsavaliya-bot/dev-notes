@@ -907,6 +907,7 @@
     "https://github.com/Younesfdj/gitfut",
     "https://github.com/Yu9191/wloc",
     "https://github.com/Zeejay0/gathered-scenes-zine-skill",
+    "https://github.com/Zesty0wl/mac-performance-monitor",
     "https://github.com/ZigEmbeddedGroup/microzig",
     "https://github.com/Zleap-AI/SAG",
     "https://github.com/ZzzLc0405/photo-abstract-editorial",
@@ -3327,12 +3328,6 @@
   "recent": [
     {
       "date": "2026-11-25",
-      "subcat": "Web & Frontend",
-      "title": "rdborg/Mediarium",
-      "url": "https://github.com/rdborg/Mediarium"
-    },
-    {
-      "date": "2026-11-25",
       "subcat": "Models & Datasets",
       "title": "KORMo-VL/EVIDENT",
       "url": "https://huggingface.co/datasets/KORMo-VL/EVIDENT"
@@ -3384,6 +3379,12 @@
       "subcat": "Lobsters Picks",
       "title": "\"Disregard that!\" attacks",
       "url": "https://lobste.rs/s/ocrjck/disregard_attacks"
+    },
+    {
+      "date": "2026-11-25",
+      "subcat": "Web & Frontend",
+      "title": "Zesty0wl/mac-performance-monitor",
+      "url": "https://github.com/Zesty0wl/mac-performance-monitor"
     }
   ]
 }
