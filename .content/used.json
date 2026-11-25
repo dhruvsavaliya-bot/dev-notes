@@ -890,6 +890,7 @@
     "https://github.com/Timmoth/RackPeek",
     "https://github.com/ToolJet/ToolJet",
     "https://github.com/ToomRamcharan/tv-vibehack",
+    "https://github.com/Tracer-Cloud/opensre",
     "https://github.com/TurkeyDesignate/GitHub-Copilot-app",
     "https://github.com/UNDERdecoded/Gen2Recomped",
     "https://github.com/UniXNU/UniXNU",
@@ -3337,12 +3338,6 @@
   "recent": [
     {
       "date": "2026-11-25",
-      "subcat": "AI & Machine Learning",
-      "title": "Sentient-OS-Labs/sentient-os",
-      "url": "https://github.com/Sentient-OS-Labs/sentient-os"
-    },
-    {
-      "date": "2026-11-25",
       "subcat": "Models & Datasets",
       "title": "krea/Krea-2-Raw",
       "url": "https://huggingface.co/krea/Krea-2-Raw"
@@ -3394,6 +3389,12 @@
       "subcat": "Lobsters Picks",
       "title": "Beyond Linux: A Journey Through the Open Source...",
       "url": "https://lobste.rs/s/y56k2b/beyond_linux_journey_through_open_source"
+    },
+    {
+      "date": "2026-11-25",
+      "subcat": "AI & Machine Learning",
+      "title": "Tracer-Cloud/opensre",
+      "url": "https://github.com/Tracer-Cloud/opensre"
     }
   ]
 }

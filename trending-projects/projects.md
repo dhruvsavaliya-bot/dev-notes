@@ -374,6 +374,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~4 stars/day since launch.
 - **Link:** https://github.com/Sentient-OS-Labs/sentient-os
 
+**Added 2026-11-25**
+
+### [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)
+- **Stats:** 15,360 stars | 2,023 forks | 38 open issues
+- **Language:** Python | **Created:** 2026-01-13 | **License:** Apache-2.0
+- **Topics:** alerting, ci-cd, cli, datadog, devops, gitlab-ci
+- **What it is:** The open-source agent for CI/CD reliability.
+- **Growth:** averaging ~48 stars/day since launch.
+- **Link:** https://github.com/Tracer-Cloud/opensre
+
 
 ## Other Cool Projects
 
