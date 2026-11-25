@@ -373,6 +373,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50378228
 - **Link:** https://sshhole.com
 
+**Added 2026-11-25**
+
+### [Foldable Flight: The Best Paper Airplanes](https://www.foldableflight.com)
+- **Source:** www.foldableflight.com | **Posted:** 2026-11-09 | **By:** vismit2000
+- **Community:** 1301 points, 169 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50424581
+- **Link:** https://www.foldableflight.com
+
 
 ## Lobsters Picks
 

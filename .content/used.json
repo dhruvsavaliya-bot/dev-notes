@@ -2837,6 +2837,7 @@
     "https://news.ycombinator.com/item?id=50421155",
     "https://news.ycombinator.com/item?id=50422628",
     "https://news.ycombinator.com/item?id=50423371",
+    "https://news.ycombinator.com/item?id=50424581",
     "https://news.ycombinator.com/item?id=50426582",
     "https://news.ycombinator.com/item?id=50427107",
     "https://news.ycombinator.com/item?id=50427934",
@@ -3193,6 +3194,7 @@
     "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
     "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
     "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+    "https://www.foldableflight.com",
     "https://www.freebsd.org/status/report-2023-04-2023-06/",
     "https://www.friedgil.com/vpvnp/",
     "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
@@ -3340,12 +3342,6 @@
   "recent": [
     {
       "date": "2026-11-25",
-      "subcat": "Web & Frontend",
-      "title": "Zesty0wl/mac-performance-monitor",
-      "url": "https://github.com/Zesty0wl/mac-performance-monitor"
-    },
-    {
-      "date": "2026-11-25",
       "subcat": "Models & Datasets",
       "title": "espnet/yodas3.1",
       "url": "https://huggingface.co/datasets/espnet/yodas3.1"
@@ -3397,6 +3393,12 @@
       "subcat": "Research Papers",
       "title": "A Unified Framework for Intelligent Cyber Attack...",
       "url": "http://arxiv.org/abs/2611.26824v1"
+    },
+    {
+      "date": "2026-11-25",
+      "subcat": "Hacker News Picks",
+      "title": "Foldable Flight: The Best Paper Airplanes",
+      "url": "https://news.ycombinator.com/item?id=50424581"
     }
   ]
 }
