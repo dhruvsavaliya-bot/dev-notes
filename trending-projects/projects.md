@@ -384,6 +384,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~48 stars/day since launch.
 - **Link:** https://github.com/Tracer-Cloud/opensre
 
+**Added 2026-11-26**
+
+### [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)
+- **Stats:** 1,120 stars | 138 forks | 27 open issues
+- **Language:** HTML | **Created:** 2026-11-07 | **License:** MIT
+- **Topics:** agent-skills, ai-agents, collaboration, human-in-the-loop, workflow
+- **What it is:** Human-led MAS toolkit: 16 roles, 6 group templates, four platform bundles, evidence-based review and handoff. 一人成队：一个人统筹多智能体协作。
+- **Growth:** averaging ~58 stars/day since launch.
+- **Link:** https://github.com/dabingfy-dot/solo-to-team-skills
+
 
 ## Other Cool Projects
 

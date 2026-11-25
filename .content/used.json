@@ -1017,6 +1017,7 @@
     "https://github.com/croffasia/itsaplan",
     "https://github.com/cutetailbud/ff-ruyijs",
     "https://github.com/d11wtq/boris",
+    "https://github.com/dabingfy-dot/solo-to-team-skills",
     "https://github.com/danielravina/stemkit",
     "https://github.com/danyuchn/asd-ste100-skill",
     "https://github.com/darrenprx/lolPing",
@@ -3350,12 +3351,6 @@
   "recent": [
     {
       "date": "2026-11-25",
-      "subcat": "AI & Machine Learning",
-      "title": "Tracer-Cloud/opensre",
-      "url": "https://github.com/Tracer-Cloud/opensre"
-    },
-    {
-      "date": "2026-11-25",
       "subcat": "JavaScript",
       "title": "10 JavaScript Console Methods You Didn't Know Existed...",
       "url": "https://dev.to/thebitforge/10-javascript-console-methods-you-didnt-know-existed-and-how-theyll-save-you-hours-of-debugging-4a7c"
@@ -3407,6 +3402,12 @@
       "subcat": "DevOps & Cloud",
       "title": "Why Your AI Release Notes Hallucinate: The \"Why vs...",
       "url": "https://dev.to/necoz/why-your-ai-release-notes-hallucinate-the-why-vs-what-problem-in-git-history-5ch0"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "AI & Machine Learning",
+      "title": "dabingfy-dot/solo-to-team-skills",
+      "url": "https://github.com/dabingfy-dot/solo-to-team-skills"
     }
   ]
 }
