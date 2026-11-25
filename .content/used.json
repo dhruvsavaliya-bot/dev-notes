@@ -791,6 +791,7 @@
     "https://github.com/LosaLosSantos/aurelio-finance",
     "https://github.com/Louis-CFM/coucou",
     "https://github.com/Lumid-Off/AirCard-Windows",
+    "https://github.com/LumosLab-Innovation/OpenHunterAI",
     "https://github.com/MDX-Tom/gpt-5.6-instruct",
     "https://github.com/MIgHTy-alIeN/MEV-Ethereum-Trading-Bot",
     "https://github.com/MIgHTy-alIeN/ai-trader-bot",
@@ -3319,12 +3320,6 @@
   "recent": [
     {
       "date": "2026-11-25",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: STE80 Humanizer  de-AI text by writing 80%...",
-      "url": "https://news.ycombinator.com/item?id=50429144"
-    },
-    {
-      "date": "2026-11-25",
       "subcat": "Hacker News Picks",
       "title": "Cento fine foods has been sued for tomato fraud",
       "url": "https://news.ycombinator.com/item?id=50604355"
@@ -3376,6 +3371,12 @@
       "subcat": "Hacker News Picks",
       "title": "Worshipping at the altar of Brendan Gregg",
       "url": "https://news.ycombinator.com/item?id=50626413"
+    },
+    {
+      "date": "2026-11-25",
+      "subcat": "AI & Machine Learning",
+      "title": "LumosLab-Innovation/OpenHunterAI",
+      "url": "https://github.com/LumosLab-Innovation/OpenHunterAI"
     }
   ]
 }

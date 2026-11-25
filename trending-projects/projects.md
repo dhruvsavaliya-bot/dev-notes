@@ -354,6 +354,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/waynesutton/builder-skills
 
+**Added 2026-11-25**
+
+### [LumosLab-Innovation/OpenHunterAI](https://github.com/LumosLab-Innovation/OpenHunterAI)
+- **Stats:** 347 stars | 64 forks | 1 open issues
+- **Language:** TypeScript | **Created:** 2026-05-25 | **License:** NOASSERTION
+- **Topics:** ai-security, application-security, appsec, golang, owasp, pentesting
+- **What it is:** Local-first AI red team for web, API, and LLM application security. Attacker-style reasoning, evidence-backed findings, and skills for AI coding agents.
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/LumosLab-Innovation/OpenHunterAI
+
 
 ## Other Cool Projects
 
