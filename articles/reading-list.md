@@ -337,6 +337,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50634658
 - **Link:** https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/
 
+**Added 2026-11-25**
+
+### [Cento fine foods has been sued for “tomato fraud”](https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html)
+- **Source:** slate.com | **Posted:** 2026-11-22 | **By:** ncr100
+- **Community:** 111 points, 151 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50604355
+- **Link:** https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html
+
 
 ## Lobsters Picks
 

@@ -2880,6 +2880,7 @@
     "https://news.ycombinator.com/item?id=50598441",
     "https://news.ycombinator.com/item?id=50599762",
     "https://news.ycombinator.com/item?id=50600511",
+    "https://news.ycombinator.com/item?id=50604355",
     "https://news.ycombinator.com/item?id=50634658",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
@@ -3015,6 +3016,7 @@
     "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
     "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
     "https://sjer.red/blog/2024-12-21/",
+    "https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html",
     "https://slidebyside.com/",
     "https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/",
     "https://smoores.dev/post/no_npm_estee_is_not_a_typo/",
@@ -3305,12 +3307,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "JavaScript",
-      "title": "Nyxera0x/cutaway",
-      "url": "https://github.com/Nyxera0x/cutaway"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "Lobsters Picks",
       "title": "Sneakernet",
       "url": "https://lobste.rs/s/pdecff/sneakernet"
@@ -3362,6 +3358,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: STE80 Humanizer  de-AI text by writing 80%...",
       "url": "https://news.ycombinator.com/item?id=50429144"
+    },
+    {
+      "date": "2026-11-25",
+      "subcat": "Hacker News Picks",
+      "title": "Cento fine foods has been sued for tomato fraud",
+      "url": "https://news.ycombinator.com/item?id=50604355"
     }
   ]
 }
