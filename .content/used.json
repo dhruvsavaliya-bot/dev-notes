@@ -646,6 +646,7 @@
     "https://entropicthoughts.com/what-the-fox-say",
     "https://erlef.org/blog/security/atom-exhaustion",
     "https://essenceia.github.io/projects/expresso/",
+    "https://etodd.io/2026/03/22/magic-link-pitfalls/",
     "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
     "https://fabiensanglard.net/quake_shareware_cd/index.html",
     "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
@@ -1971,6 +1972,7 @@
     "https://lobste.rs/s/lnpwpu/quality_imap_part_2_mailbox_concurrency",
     "https://lobste.rs/s/lrpb0m/for_first_time_c_standard_failed_pass",
     "https://lobste.rs/s/lxo74i/introducing_microlighter",
+    "https://lobste.rs/s/lzxb0m/magic_link_pitfalls",
     "https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely",
     "https://lobste.rs/s/m6fw0x/netbsd_adds_new_emacs_like_text_editor",
     "https://lobste.rs/s/m7gqr6/per_vognsen_on_effect_avx_512_on_lexing",
@@ -3321,12 +3323,6 @@
   "recent": [
     {
       "date": "2026-11-25",
-      "subcat": "AI & Machine Learning",
-      "title": "waynesutton/builder-skills",
-      "url": "https://github.com/waynesutton/builder-skills"
-    },
-    {
-      "date": "2026-11-25",
       "subcat": "Models & Datasets",
       "title": "KORMo-VL/Ko-Online-Mind2Web",
       "url": "https://huggingface.co/datasets/KORMo-VL/Ko-Online-Mind2Web"
@@ -3378,6 +3374,12 @@
       "subcat": "Models & Datasets",
       "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
       "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB"
+    },
+    {
+      "date": "2026-11-25",
+      "subcat": "Lobsters Picks",
+      "title": "Magic Link Pitfalls",
+      "url": "https://lobste.rs/s/lzxb0m/magic_link_pitfalls"
     }
   ]
 }

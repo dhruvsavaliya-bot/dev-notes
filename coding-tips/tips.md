@@ -204,6 +204,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://lobste.rs/s/m7gqr6/per_vognsen_on_effect_avx_512_on_lexing
 - **Link:** https://mastodon.social/@pervognsen/117668394962974183
 
+**Added 2026-11-25**
+
+### [Magic Link Pitfalls](https://etodd.io/2026/03/22/magic-link-pitfalls/)
+- **Source:** etodd.io | **Posted:** 2026-03-25 | **By:** Hales
+- **Community:** 70 score, 80 comments on Lobsters
+- **Tags:** browsers, email, security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/lzxb0m/magic_link_pitfalls
+- **Link:** https://etodd.io/2026/03/22/magic-link-pitfalls/
+
 
 ## Show & Ask HN
 
