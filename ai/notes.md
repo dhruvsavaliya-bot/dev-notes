@@ -314,6 +314,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.LG -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.27056v1
 
+**Added 2026-11-25**
+
+### [Mjolnir: Finding and Reproducing Vulnerabilities in Root-of-Trust Firmware and RTL with Project-Grounded Agents](http://arxiv.org/abs/2611.27567v1)
+- **Authors:** Collin MacDonald, Carl Lundin, Stephen Herwig, Miguel Osorio et al.
+- **Published:** 2026-11-20 | **Primary category:** cs.CR
+- **Categories:** cs.CR
+- **Abstract:** A root of trust (RoT) anchors secure boot and attestation for the system above it, so a bug in RoT firmware or hardware undermines every layer that trusts it. LLM agents now find real vulnerabilities in general-purpose software, but RoT code presents two challenges. First, many security-relevant bugs depend on project-specific trust boundaries and fault-injection countermeasures rather than generic vulnerability patterns, and may cause no crash. Second, without RoT hardware, agents must exercise...
+- **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.27567v1
+
 
 ## Models & Datasets
 
