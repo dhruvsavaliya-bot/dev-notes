@@ -184,6 +184,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://lobste.rs/s/7fscqs/let_s_meet_middle
 - **Link:** https://george.mand.is/2026/11/lets-meet-in-the-middle/
 
+**Added 2026-11-25**
+
+### [Security incident on Hex.pm](https://hex.pm/blog/security-incident-on-hexpm)
+- **Source:** hex.pm | **Posted:** 2026-11-24 | **By:** munksgaard
+- **Community:** 47 score, 5 comments on Lobsters
+- **Tags:** elixir, erlang, gleam
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/rfcgkx/security_incident_on_hex_pm
+- **Link:** https://hex.pm/blog/security-incident-on-hexpm
+
 
 ## Show & Ask HN
 

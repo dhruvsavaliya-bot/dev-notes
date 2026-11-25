@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2336 entries and counting** · Last updated: 2026-11-25
+**2337 entries and counting** · Last updated: 2026-11-25
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 475 |
 | [AI / LLM Notes](ai/notes.md) | 466 |
 | [Reading List](articles/reading-list.md) | 474 |
-| [Coding Tips](coding-tips/tips.md) | 472 |
+| [Coding Tips](coding-tips/tips.md) | 473 |
 | [Language Notes](languages/notes.md) | 449 |
 
 ## Latest additions
 
+- **2026-11-25** · *Lobsters Picks* — [Security incident on Hex.pm](https://lobste.rs/s/rfcgkx/security_incident_on_hex_pm)
 - **2026-11-25** · *Models & Datasets* — [KORMo-VL/Ko-Online-Mind2Web](https://huggingface.co/datasets/KORMo-VL/Ko-Online-Mind2Web)
 - **2026-11-25** · *AI & Machine Learning* — [waynesutton/builder-skills](https://github.com/waynesutton/builder-skills)
 - **2026-11-25** · *Hacker News Picks* — [Cento fine foods has been sued for tomato fraud](https://news.ycombinator.com/item?id=50604355)
 - **2026-11-25** · *Show & Ask HN* — [Show HN: STE80 Humanizer  de-AI text by writing 80%...](https://news.ycombinator.com/item?id=50429144)
-- **2026-11-25** · *Java* — [The G1 Garbage Collector](https://news.ycombinator.com/item?id=50527444)
 
 ## How it works
 

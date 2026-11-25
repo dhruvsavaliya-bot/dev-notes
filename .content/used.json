@@ -1436,6 +1436,7 @@
     "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
     "https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/",
     "https://herecomesthemoon.net/2026/11/cpp26-failed-the-national-bodies/",
+    "https://hex.pm/blog/security-incident-on-hexpm",
     "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
     "https://heynote.com/",
     "https://heyopenspot.com/",
@@ -2010,6 +2011,7 @@
     "https://lobste.rs/s/qzfohf/how_run_city_builder_on_16_mhz",
     "https://lobste.rs/s/r8xecf/roku_launches_open_source_roku_lt_os_for",
     "https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably",
+    "https://lobste.rs/s/rfcgkx/security_incident_on_hex_pm",
     "https://lobste.rs/s/rhoopo/migrating_from_github_codeberg",
     "https://lobste.rs/s/rlrfew/balloting_has_completed_for_c_26",
     "https://lobste.rs/s/rpiu3w/kluever_maneuver",
@@ -3308,12 +3310,6 @@
   ],
   "recent": [
     {
-      "date": "2026-11-24",
-      "subcat": "JavaScript",
-      "title": "laoma528/awesome-zhuiju-free",
-      "url": "https://github.com/laoma528/awesome-zhuiju-free"
-    },
-    {
       "date": "2026-11-25",
       "subcat": "Java",
       "title": "Java4Shell: pre-auth RCE flaw in Java 17 puts servers...",
@@ -3366,6 +3362,12 @@
       "subcat": "Models & Datasets",
       "title": "KORMo-VL/Ko-Online-Mind2Web",
       "url": "https://huggingface.co/datasets/KORMo-VL/Ko-Online-Mind2Web"
+    },
+    {
+      "date": "2026-11-25",
+      "subcat": "Lobsters Picks",
+      "title": "Security incident on Hex.pm",
+      "url": "https://lobste.rs/s/rfcgkx/security_incident_on_hex_pm"
     }
   ]
 }
