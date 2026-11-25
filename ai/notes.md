@@ -614,6 +614,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/krea/Krea-2-Raw
 
+**Added 2026-11-25**
+
+### [espnet/yodas3.1](https://huggingface.co/datasets/espnet/yodas3.1)
+- **Stats:** 277 likes | 233,850 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-06-19
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/espnet/yodas3.1
+
 
 ## LLMs
 

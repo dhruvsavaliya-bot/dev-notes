@@ -1581,6 +1581,7 @@
     "https://huggingface.co/datasets/espnet/yodas",
     "https://huggingface.co/datasets/espnet/yodas2",
     "https://huggingface.co/datasets/espnet/yodas3",
+    "https://huggingface.co/datasets/espnet/yodas3.1",
     "https://huggingface.co/datasets/fka/prompts.chat",
     "https://huggingface.co/datasets/garage-bAInd/Open-Platypus",
     "https://huggingface.co/datasets/genrobot2025/Gen-HumanEgo",
@@ -3328,12 +3329,6 @@
   "recent": [
     {
       "date": "2026-11-25",
-      "subcat": "Models & Datasets",
-      "title": "KORMo-VL/EVIDENT",
-      "url": "https://huggingface.co/datasets/KORMo-VL/EVIDENT"
-    },
-    {
-      "date": "2026-11-25",
       "subcat": "Lobsters Picks",
       "title": "Per Vognsen on the effect of AVX-512 on lexing and...",
       "url": "https://lobste.rs/s/m7gqr6/per_vognsen_on_effect_avx_512_on_lexing"
@@ -3385,6 +3380,12 @@
       "subcat": "Web & Frontend",
       "title": "Zesty0wl/mac-performance-monitor",
       "url": "https://github.com/Zesty0wl/mac-performance-monitor"
+    },
+    {
+      "date": "2026-11-25",
+      "subcat": "Models & Datasets",
+      "title": "espnet/yodas3.1",
+      "url": "https://huggingface.co/datasets/espnet/yodas3.1"
     }
   ]
 }
