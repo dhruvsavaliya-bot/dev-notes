@@ -148,6 +148,7 @@
     "http://arxiv.org/abs/2611.21554v1",
     "http://arxiv.org/abs/2611.24844v1",
     "http://arxiv.org/abs/2611.26349v1",
+    "http://arxiv.org/abs/2611.26824v1",
     "http://arxiv.org/abs/2611.27056v1",
     "http://arxiv.org/abs/2611.27077v1",
     "http://arxiv.org/abs/2611.27567v1",
@@ -3339,12 +3340,6 @@
   "recent": [
     {
       "date": "2026-11-25",
-      "subcat": "Lobsters Picks",
-      "title": "\"Disregard that!\" attacks",
-      "url": "https://lobste.rs/s/ocrjck/disregard_attacks"
-    },
-    {
-      "date": "2026-11-25",
       "subcat": "Web & Frontend",
       "title": "Zesty0wl/mac-performance-monitor",
       "url": "https://github.com/Zesty0wl/mac-performance-monitor"
@@ -3396,6 +3391,12 @@
       "subcat": "JavaScript",
       "title": "10 JavaScript Console Methods You Didn't Know Existed...",
       "url": "https://dev.to/thebitforge/10-javascript-console-methods-you-didnt-know-existed-and-how-theyll-save-you-hours-of-debugging-4a7c"
+    },
+    {
+      "date": "2026-11-25",
+      "subcat": "Research Papers",
+      "title": "A Unified Framework for Intelligent Cyber Attack...",
+      "url": "http://arxiv.org/abs/2611.26824v1"
     }
   ]
 }

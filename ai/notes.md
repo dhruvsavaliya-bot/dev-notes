@@ -324,6 +324,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.27567v1
 
+**Added 2026-11-25**
+
+### [A Unified Framework for Intelligent Cyber Attack Detection and Alert Correlation](http://arxiv.org/abs/2611.26824v1)
+- **Authors:** Miguel Silva, João Vitorino, Daniela Pinto, Eva Maia et al.
+- **Published:** 2026-11-19 | **Primary category:** cs.CR
+- **Categories:** cs.CR, cs.LG
+- **Abstract:** A Security Operations Center (SOC) plays a critical role in detecting, correlating, and responding to modern cyber threats. However, SOCs continue to face challenges related to alert overload, fragmented detection capabilities, and limited collaboration between analysts and automated systems. These issues often result in delayed incident response, analyst fatigue, and an increased risk of overlooking sophisticated, multi-stage attacks that unfold gradually across different layers of the network....
+- **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.26824v1
+
 
 ## Models & Datasets
 
