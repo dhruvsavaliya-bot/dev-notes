@@ -328,6 +328,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50492860
 - **Link:** https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks
 
+**Added 2026-11-25**
+
+### [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/)
+- **Source:** openai.com | **Posted:** 2026-11-24 | **By:** acossta
+- **Community:** 150 points, 35 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50634658
+- **Link:** https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/
+
 
 ## Lobsters Picks
 

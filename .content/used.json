@@ -2875,6 +2875,7 @@
     "https://news.ycombinator.com/item?id=50598441",
     "https://news.ycombinator.com/item?id=50599762",
     "https://news.ycombinator.com/item?id=50600511",
+    "https://news.ycombinator.com/item?id=50634658",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -2909,6 +2910,7 @@
     "https://op.tngl.io/meridian/",
     "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
     "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+    "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
     "https://openai.com/index/navier-stokes-solution/",
     "https://openai.com/index/openai-models-google-cloud/",
     "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
@@ -3298,12 +3300,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "JavaScript",
-      "title": "Jestions-dev/BlueFatFish",
-      "url": "https://github.com/Jestions-dev/BlueFatFish"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "Machine Learning",
       "title": "A Two-Line Function Caught AI Collusion Better Than...",
       "url": "https://dev.to/ayush_singh_9b0d83152be5b/a-two-line-function-caught-ai-collusion-better-than-the-ai-did-3nmd"
@@ -3355,6 +3351,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: The Last Complication, a Zachtronics-style...",
       "url": "https://news.ycombinator.com/item?id=50511718"
+    },
+    {
+      "date": "2026-11-25",
+      "subcat": "Hacker News Picks",
+      "title": "GPT-6 models demonstrate intrinsic protein-design...",
+      "url": "https://news.ycombinator.com/item?id=50634658"
     }
   ]
 }
