@@ -368,6 +368,7 @@
     "https://deepseek.com/harness/en/",
     "https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/",
     "https://desktopdocs.com/?v=2025",
+    "https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/",
     "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
     "https://dev.to/adamthedeveloper/go-vs-java-the-minimalist-vs-the-enterprise-veteran-1gg3",
     "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
@@ -2855,6 +2856,7 @@
     "https://news.ycombinator.com/item?id=50520076",
     "https://news.ycombinator.com/item?id=50522980",
     "https://news.ycombinator.com/item?id=50524767",
+    "https://news.ycombinator.com/item?id=50527444",
     "https://news.ycombinator.com/item?id=50528119",
     "https://news.ycombinator.com/item?id=50529612",
     "https://news.ycombinator.com/item?id=50532118",
@@ -3301,12 +3303,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "Lobsters Picks",
-      "title": "Illiterate Programming",
-      "url": "https://lobste.rs/s/xxgezw/illiterate_programming"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "AI & Machine Learning",
       "title": "jiwoochris/artex-global",
       "url": "https://github.com/jiwoochris/artex-global"
@@ -3358,6 +3354,12 @@
       "subcat": "Developer Tools",
       "title": "columnar-tech/databow",
       "url": "https://github.com/columnar-tech/databow"
+    },
+    {
+      "date": "2026-11-25",
+      "subcat": "Java",
+      "title": "The G1 Garbage Collector",
+      "url": "https://news.ycombinator.com/item?id=50527444"
     }
   ]
 }

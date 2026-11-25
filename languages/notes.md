@@ -293,6 +293,15 @@ Top community posts, organized by programming language.
 - **Discussion:** https://news.ycombinator.com/item?id=50532118
 - **Link:** https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938
 
+**Added 2026-11-25**
+
+### [The G1 Garbage Collector](https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/)
+- **Source:** dev.java | **Posted:** 2026-11-17 | **By:** ejboy
+- **Community:** 119 points, 81 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50527444
+- **Link:** https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/
+
 
 ## Ruby
 

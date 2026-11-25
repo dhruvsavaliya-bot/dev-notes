@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2331 entries and counting** · Last updated: 2026-11-25
+**2332 entries and counting** · Last updated: 2026-11-25
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 465 |
 | [Reading List](articles/reading-list.md) | 473 |
 | [Coding Tips](coding-tips/tips.md) | 471 |
-| [Language Notes](languages/notes.md) | 448 |
+| [Language Notes](languages/notes.md) | 449 |
 
 ## Latest additions
 
+- **2026-11-25** · *Java* — [The G1 Garbage Collector](https://news.ycombinator.com/item?id=50527444)
 - **2026-11-25** · *Developer Tools* — [columnar-tech/databow](https://github.com/columnar-tech/databow)
 - **2026-11-25** · *Hacker News Picks* — [GPT-6 models demonstrate intrinsic protein-design...](https://news.ycombinator.com/item?id=50634658)
 - **2026-11-25** · *Show & Ask HN* — [Show HN: The Last Complication, a Zachtronics-style...](https://news.ycombinator.com/item?id=50511718)
 - **2026-11-25** · *Java* — [Java4Shell: pre-auth RCE flaw in Java 17 puts servers...](https://news.ycombinator.com/item?id=50532118)
-- **2026-11-24** · *JavaScript* — [laoma528/awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free)
 
 ## How it works
 
