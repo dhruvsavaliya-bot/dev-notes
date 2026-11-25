@@ -1533,6 +1533,7 @@
     "https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train",
     "https://huggingface.co/datasets/HuggingFaceFW/finepdfs",
     "https://huggingface.co/datasets/HumynLabs/airline-customersupport-Hinglish-audio",
+    "https://huggingface.co/datasets/KORMo-VL/EVIDENT",
     "https://huggingface.co/datasets/KORMo-VL/Ko-Online-Mind2Web",
     "https://huggingface.co/datasets/LightwheelAI/EgoDemo",
     "https://huggingface.co/datasets/LightwheelAI/EgoPro",
@@ -3314,12 +3315,6 @@
   "recent": [
     {
       "date": "2026-11-25",
-      "subcat": "Hacker News Picks",
-      "title": "GPT-6 models demonstrate intrinsic protein-design...",
-      "url": "https://news.ycombinator.com/item?id=50634658"
-    },
-    {
-      "date": "2026-11-25",
       "subcat": "Developer Tools",
       "title": "columnar-tech/databow",
       "url": "https://github.com/columnar-tech/databow"
@@ -3371,6 +3366,12 @@
       "subcat": "Web & Frontend",
       "title": "rdborg/Mediarium",
       "url": "https://github.com/rdborg/Mediarium"
+    },
+    {
+      "date": "2026-11-25",
+      "subcat": "Models & Datasets",
+      "title": "KORMo-VL/EVIDENT",
+      "url": "https://huggingface.co/datasets/KORMo-VL/EVIDENT"
     }
   ]
 }
