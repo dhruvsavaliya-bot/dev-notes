@@ -2854,6 +2854,7 @@
     "https://news.ycombinator.com/item?id=50524767",
     "https://news.ycombinator.com/item?id=50528119",
     "https://news.ycombinator.com/item?id=50529612",
+    "https://news.ycombinator.com/item?id=50532118",
     "https://news.ycombinator.com/item?id=50532191",
     "https://news.ycombinator.com/item?id=50532385",
     "https://news.ycombinator.com/item?id=50536565",
@@ -3103,6 +3104,7 @@
     "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
     "https://www.admin.ch/en/newnsb/NMn5s24l8NjQ",
     "https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown",
+    "https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938",
     "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
     "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
     "https://www.anthropic.com/claude-fable-and-mythos-5-1",
@@ -3294,12 +3296,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "Lobsters Picks",
-      "title": "Let's Meet in the Middle",
-      "url": "https://lobste.rs/s/7fscqs/let_s_meet_middle"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "AI & Machine Learning",
       "title": "elysia395/dsh-wallpaper-engine",
       "url": "https://github.com/elysia395/dsh-wallpaper-engine"
@@ -3351,6 +3347,12 @@
       "subcat": "JavaScript",
       "title": "laoma528/awesome-zhuiju-free",
       "url": "https://github.com/laoma528/awesome-zhuiju-free"
+    },
+    {
+      "date": "2026-11-25",
+      "subcat": "Java",
+      "title": "Java4Shell: pre-auth RCE flaw in Java 17 puts servers...",
+      "url": "https://news.ycombinator.com/item?id=50532118"
     }
   ]
 }

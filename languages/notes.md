@@ -284,6 +284,15 @@ Top community posts, organized by programming language.
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/icysymmetra/tiktok-patches-for-morphe
 
+**Added 2026-11-25**
+
+### [Java4Shell: pre-auth RCE flaw in Java 17 puts servers at risk (CVE-2026-114938)](https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938)
+- **Source:** www.aikido.dev | **Posted:** 2026-11-17 | **By:** b33f
+- **Community:** 150 points, 29 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50532118
+- **Link:** https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938
+
 
 ## Ruby
 
