@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2362 entries and counting** · Last updated: 2026-11-26
+**2363 entries and counting** · Last updated: 2026-11-26
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 480 |
+| [Trending Projects](trending-projects/projects.md) | 481 |
 | [AI / LLM Notes](ai/notes.md) | 473 |
 | [Reading List](articles/reading-list.md) | 479 |
 | [Coding Tips](coding-tips/tips.md) | 478 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-26** · *Other Cool Projects* — [WhiteDNS/WhiteVPN-Desktop](https://github.com/WhiteDNS/WhiteVPN-Desktop)
 - **2026-11-26** · *Lobsters Picks* — [Please Implement A Quorum Database](https://lobste.rs/s/hgicaq/please_implement_quorum_database)
 - **2026-11-26** · *Research Papers* — [Endpoint-Conditioned Process Value: What an...](http://arxiv.org/abs/2611.29354v1)
 - **2026-11-26** · *C++* — [6 Lessons Every Developer Should Learn](https://dev.to/hadil/6-lessons-every-developer-should-learn-3d5l)
 - **2026-11-25** · *Hacker News Picks* — [Foldable Flight: The Best Paper Airplanes](https://news.ycombinator.com/item?id=50424581)
-- **2026-11-25** · *Research Papers* — [A Unified Framework for Intelligent Cyber Attack...](http://arxiv.org/abs/2611.26824v1)
 
 ## How it works
 

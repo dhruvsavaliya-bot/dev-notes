@@ -607,6 +607,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~73 stars/day since launch.
 - **Link:** https://github.com/Vincentwei1021/mg-styles-15
 
+**Added 2026-11-26**
+
+### [WhiteDNS/WhiteVPN-Desktop](https://github.com/WhiteDNS/WhiteVPN-Desktop)
+- **Stats:** 363 stars | 15 forks | 22 open issues
+- **Language:** Go | **Created:** 2026-08-05 | **License:** GPL-3.0
+- **Topics:** none listed
+- **What it is:** WhiteVPN Desktop — Wails app running the same mihomo engine as WhiteVPN for Android
+- **Growth:** averaging ~3 stars/day since launch.
+- **Link:** https://github.com/WhiteDNS/WhiteVPN-Desktop
+
 
 ## Web & Frontend
 

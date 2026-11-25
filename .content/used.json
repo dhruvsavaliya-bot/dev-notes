@@ -905,6 +905,7 @@
     "https://github.com/Vincentwei1021/video-shotcraft",
     "https://github.com/Waishnav/devspace",
     "https://github.com/WeblateOrg/weblate",
+    "https://github.com/WhiteDNS/WhiteVPN-Desktop",
     "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
     "https://github.com/XiaoDuoYa/codex-with-chatgpt",
     "https://github.com/XxxXTeam/business2api",
@@ -3346,12 +3347,6 @@
   "recent": [
     {
       "date": "2026-11-25",
-      "subcat": "Research Papers",
-      "title": "Mjolnir: Finding and Reproducing Vulnerabilities in...",
-      "url": "http://arxiv.org/abs/2611.27567v1"
-    },
-    {
-      "date": "2026-11-25",
       "subcat": "Hacker News Picks",
       "title": "sshole",
       "url": "https://news.ycombinator.com/item?id=50378228"
@@ -3403,6 +3398,12 @@
       "subcat": "Lobsters Picks",
       "title": "Please Implement A Quorum Database",
       "url": "https://lobste.rs/s/hgicaq/please_implement_quorum_database"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Other Cool Projects",
+      "title": "WhiteDNS/WhiteVPN-Desktop",
+      "url": "https://github.com/WhiteDNS/WhiteVPN-Desktop"
     }
   ]
 }
