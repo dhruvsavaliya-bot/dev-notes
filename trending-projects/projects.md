@@ -703,6 +703,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~6 stars/day since launch.
 - **Link:** https://github.com/Timmoth/RackPeek
 
+**Added 2026-11-25**
+
+### [columnar-tech/databow](https://github.com/columnar-tech/databow)
+- **Stats:** 301 stars | 21 forks | 10 open issues
+- **Language:** Rust | **Created:** 2026-01-30 | **License:** Apache-2.0
+- **Topics:** adbc, apache-arrow, cli, database, sql
+- **What it is:** A command-line tool for querying databases
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/columnar-tech/databow
+
 
 ## Backend & Infrastructure
 

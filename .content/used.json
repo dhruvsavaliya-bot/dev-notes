@@ -988,6 +988,7 @@
     "https://github.com/cocojojo5213/Dev-Janitor",
     "https://github.com/coder/boo",
     "https://github.com/collabs-inc/collab-public",
+    "https://github.com/columnar-tech/databow",
     "https://github.com/comet-ml/opik-openclaw",
     "https://github.com/common-voice/common-voice",
     "https://github.com/coollabsio/shoutrrr",
@@ -3300,12 +3301,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "Machine Learning",
-      "title": "A Two-Line Function Caught AI Collusion Better Than...",
-      "url": "https://dev.to/ayush_singh_9b0d83152be5b/a-two-line-function-caught-ai-collusion-better-than-the-ai-did-3nmd"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "Lobsters Picks",
       "title": "Illiterate Programming",
       "url": "https://lobste.rs/s/xxgezw/illiterate_programming"
@@ -3357,6 +3352,12 @@
       "subcat": "Hacker News Picks",
       "title": "GPT-6 models demonstrate intrinsic protein-design...",
       "url": "https://news.ycombinator.com/item?id=50634658"
+    },
+    {
+      "date": "2026-11-25",
+      "subcat": "Developer Tools",
+      "title": "columnar-tech/databow",
+      "url": "https://github.com/columnar-tech/databow"
     }
   ]
 }
