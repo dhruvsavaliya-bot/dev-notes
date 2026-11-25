@@ -652,6 +652,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50429144
 - **Link:** https://github.com/Dodaios/ste80-humanizer
 
+**Added 2026-11-26**
+
+### [Show HN: Warsaw in voxels – An interactive 3D map of the city centre](https://p.migdal.pl/warsaw-vibe-voxel/)
+- **Source:** p.migdal.pl | **Posted:** 2026-11-02 | **By:** stared
+- **Community:** 328 points, 55 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50339221
+- **Link:** https://p.migdal.pl/warsaw-vibe-voxel/
+
 
 ## Productivity
 

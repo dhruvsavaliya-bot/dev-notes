@@ -2783,6 +2783,7 @@
     "https://news.ycombinator.com/item?id=50337608",
     "https://news.ycombinator.com/item?id=50338728",
     "https://news.ycombinator.com/item?id=50338747",
+    "https://news.ycombinator.com/item?id=50339221",
     "https://news.ycombinator.com/item?id=50339288",
     "https://news.ycombinator.com/item?id=50339397",
     "https://news.ycombinator.com/item?id=50339913",
@@ -2970,6 +2971,7 @@
     "https://oss.lsantos.dev/proton-drive-linux-fs/",
     "https://osw-alliance.net/en/",
     "https://outcrop.rocks/",
+    "https://p.migdal.pl/warsaw-vibe-voxel/",
     "https://parallel-rust-cpp.github.io/introduction.html",
     "https://parsimony.lasu.dev/",
     "https://pavursec.com/blog/stealmybitcoin/",
@@ -3347,12 +3349,6 @@
   "recent": [
     {
       "date": "2026-11-25",
-      "subcat": "Hacker News Picks",
-      "title": "sshole",
-      "url": "https://news.ycombinator.com/item?id=50378228"
-    },
-    {
-      "date": "2026-11-25",
       "subcat": "Lobsters Picks",
       "title": "Beyond Linux: A Journey Through the Open Source...",
       "url": "https://lobste.rs/s/y56k2b/beyond_linux_journey_through_open_source"
@@ -3404,6 +3400,12 @@
       "subcat": "Other Cool Projects",
       "title": "WhiteDNS/WhiteVPN-Desktop",
       "url": "https://github.com/WhiteDNS/WhiteVPN-Desktop"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Warsaw in voxels  An interactive 3D map of...",
+      "url": "https://news.ycombinator.com/item?id=50339221"
     }
   ]
 }
