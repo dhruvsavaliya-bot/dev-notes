@@ -655,6 +655,7 @@
     "https://erlef.org/blog/security/atom-exhaustion",
     "https://essenceia.github.io/projects/expresso/",
     "https://etodd.io/2026/03/22/magic-link-pitfalls/",
+    "https://exitpath-ruddy.vercel.app/",
     "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
     "https://fabiensanglard.net/quake_shareware_cd/index.html",
     "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
@@ -2904,6 +2905,7 @@
     "https://news.ycombinator.com/item?id=50536565",
     "https://news.ycombinator.com/item?id=50544821",
     "https://news.ycombinator.com/item?id=50547583",
+    "https://news.ycombinator.com/item?id=50547980",
     "https://news.ycombinator.com/item?id=50548660",
     "https://news.ycombinator.com/item?id=50554935",
     "https://news.ycombinator.com/item?id=50555002",
@@ -3351,12 +3353,6 @@
   "recent": [
     {
       "date": "2026-11-25",
-      "subcat": "JavaScript",
-      "title": "10 JavaScript Console Methods You Didn't Know Existed...",
-      "url": "https://dev.to/thebitforge/10-javascript-console-methods-you-didnt-know-existed-and-how-theyll-save-you-hours-of-debugging-4a7c"
-    },
-    {
-      "date": "2026-11-25",
       "subcat": "Research Papers",
       "title": "A Unified Framework for Intelligent Cyber Attack...",
       "url": "http://arxiv.org/abs/2611.26824v1"
@@ -3408,6 +3404,12 @@
       "subcat": "AI & Machine Learning",
       "title": "dabingfy-dot/solo-to-team-skills",
       "url": "https://github.com/dabingfy-dot/solo-to-team-skills"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: ExitPath  Open-source ways out of Slack...",
+      "url": "https://news.ycombinator.com/item?id=50547980"
     }
   ]
 }
