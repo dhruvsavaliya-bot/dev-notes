@@ -1970,6 +1970,7 @@
     "https://lobste.rs/s/lxo74i/introducing_microlighter",
     "https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely",
     "https://lobste.rs/s/m6fw0x/netbsd_adds_new_emacs_like_text_editor",
+    "https://lobste.rs/s/m7gqr6/per_vognsen_on_effect_avx_512_on_lexing",
     "https://lobste.rs/s/maqsgl/what_are_you_doing_this_week",
     "https://lobste.rs/s/me75ey/jailbreaking_switch_2",
     "https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat",
@@ -2139,6 +2140,7 @@
     "https://martypc.net/",
     "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
     "https://mastodon.sdf.org/@netbsd/117518160563539748",
+    "https://mastodon.social/@pervognsen/117668394962974183",
     "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
     "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
     "https://matklad.github.io/2026/10/29/pub-calls-pub.html",
@@ -3315,12 +3317,6 @@
   "recent": [
     {
       "date": "2026-11-25",
-      "subcat": "Developer Tools",
-      "title": "columnar-tech/databow",
-      "url": "https://github.com/columnar-tech/databow"
-    },
-    {
-      "date": "2026-11-25",
       "subcat": "Java",
       "title": "The G1 Garbage Collector",
       "url": "https://news.ycombinator.com/item?id=50527444"
@@ -3372,6 +3368,12 @@
       "subcat": "Models & Datasets",
       "title": "KORMo-VL/EVIDENT",
       "url": "https://huggingface.co/datasets/KORMo-VL/EVIDENT"
+    },
+    {
+      "date": "2026-11-25",
+      "subcat": "Lobsters Picks",
+      "title": "Per Vognsen on the effect of AVX-512 on lexing and...",
+      "url": "https://lobste.rs/s/m7gqr6/per_vognsen_on_effect_avx_512_on_lexing"
     }
   ]
 }

@@ -194,6 +194,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://lobste.rs/s/rfcgkx/security_incident_on_hex_pm
 - **Link:** https://hex.pm/blog/security-incident-on-hexpm
 
+**Added 2026-11-25**
+
+### [Per Vognsen on the effect of AVX-512 on lexing and parsing](https://mastodon.social/@pervognsen/117668394962974183)
+- **Source:** mastodon.social | **Posted:** 2026-11-24 | **By:** dvogel
+- **Community:** 25 score, 5 comments on Lobsters
+- **Tags:** compilers, performance
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/m7gqr6/per_vognsen_on_effect_avx_512_on_lexing
+- **Link:** https://mastodon.social/@pervognsen/117668394962974183
+
 
 ## Show & Ask HN
 
