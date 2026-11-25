@@ -859,6 +859,7 @@
     "https://github.com/Sahir619/fable-method",
     "https://github.com/ScottPlot/ScottPlot",
     "https://github.com/SenteLabsAI/OpenExecutive",
+    "https://github.com/Sentient-OS-Labs/sentient-os",
     "https://github.com/SheepSeb/tinyworldformer",
     "https://github.com/ShenSeanChen/waku-agent",
     "https://github.com/ShishirPatil/gorilla",
@@ -3323,12 +3324,6 @@
   "recent": [
     {
       "date": "2026-11-25",
-      "subcat": "Models & Datasets",
-      "title": "KORMo-VL/Ko-Online-Mind2Web",
-      "url": "https://huggingface.co/datasets/KORMo-VL/Ko-Online-Mind2Web"
-    },
-    {
-      "date": "2026-11-25",
       "subcat": "Lobsters Picks",
       "title": "Security incident on Hex.pm",
       "url": "https://lobste.rs/s/rfcgkx/security_incident_on_hex_pm"
@@ -3380,6 +3375,12 @@
       "subcat": "Lobsters Picks",
       "title": "Magic Link Pitfalls",
       "url": "https://lobste.rs/s/lzxb0m/magic_link_pitfalls"
+    },
+    {
+      "date": "2026-11-25",
+      "subcat": "AI & Machine Learning",
+      "title": "Sentient-OS-Labs/sentient-os",
+      "url": "https://github.com/Sentient-OS-Labs/sentient-os"
     }
   ]
 }

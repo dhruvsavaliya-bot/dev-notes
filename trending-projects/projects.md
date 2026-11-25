@@ -364,6 +364,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1 stars/day since launch.
 - **Link:** https://github.com/LumosLab-Innovation/OpenHunterAI
 
+**Added 2026-11-25**
+
+### [Sentient-OS-Labs/sentient-os](https://github.com/Sentient-OS-Labs/sentient-os)
+- **Stats:** 791 stars | 82 forks | 92 open issues
+- **Language:** Swift | **Created:** 2026-06-10 | **License:** AGPL-3.0
+- **Topics:** ai-agents, intelligence-layer, knowledge-base, llm, local-first, macos
+- **What it is:** An on-device LLM understands your entire life, then proactively offers to get your work done through computer use.
+- **Growth:** averaging ~4 stars/day since launch.
+- **Link:** https://github.com/Sentient-OS-Labs/sentient-os
+
 
 ## Other Cool Projects
 

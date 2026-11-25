@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2345 entries and counting** · Last updated: 2026-11-25
+**2346 entries and counting** · Last updated: 2026-11-25
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 477 |
+| [Trending Projects](trending-projects/projects.md) | 478 |
 | [AI / LLM Notes](ai/notes.md) | 468 |
 | [Reading List](articles/reading-list.md) | 476 |
 | [Coding Tips](coding-tips/tips.md) | 475 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-25** · *AI & Machine Learning* — [Sentient-OS-Labs/sentient-os](https://github.com/Sentient-OS-Labs/sentient-os)
 - **2026-11-25** · *Lobsters Picks* — [Magic Link Pitfalls](https://lobste.rs/s/lzxb0m/magic_link_pitfalls)
 - **2026-11-25** · *Models & Datasets* — [nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB)
 - **2026-11-25** · *AI & Machine Learning* — [LumosLab-Innovation/OpenHunterAI](https://github.com/LumosLab-Innovation/OpenHunterAI)
 - **2026-11-25** · *Hacker News Picks* — [Worshipping at the altar of Brendan Gregg](https://news.ycombinator.com/item?id=50626413)
-- **2026-11-25** · *Lobsters Picks* — [Per Vognsen on the effect of AVX-512 on lexing and...](https://lobste.rs/s/m7gqr6/per_vognsen_on_effect_avx_512_on_lexing)
 
 ## How it works
 
