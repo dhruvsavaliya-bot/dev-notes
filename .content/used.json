@@ -2807,6 +2807,7 @@
     "https://news.ycombinator.com/item?id=50375354",
     "https://news.ycombinator.com/item?id=50377613",
     "https://news.ycombinator.com/item?id=50377661",
+    "https://news.ycombinator.com/item?id=50378228",
     "https://news.ycombinator.com/item?id=50378508",
     "https://news.ycombinator.com/item?id=50378942",
     "https://news.ycombinator.com/item?id=50379221",
@@ -3056,6 +3057,7 @@
     "https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html",
     "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
     "https://squeak.org/release_notes/6.1/",
+    "https://sshhole.com",
     "https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/",
     "https://stackoverflow.com/questions/50966676/why-do-arm-chips-have-an-instruction-with-javascript-in-the-name-fjcvtzs",
     "https://stalw.art/blog/stalwart-1-0/",
@@ -3333,12 +3335,6 @@
   "recent": [
     {
       "date": "2026-11-25",
-      "subcat": "Models & Datasets",
-      "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB"
-    },
-    {
-      "date": "2026-11-25",
       "subcat": "Lobsters Picks",
       "title": "Magic Link Pitfalls",
       "url": "https://lobste.rs/s/lzxb0m/magic_link_pitfalls"
@@ -3390,6 +3386,12 @@
       "subcat": "Research Papers",
       "title": "Mjolnir: Finding and Reproducing Vulnerabilities in...",
       "url": "http://arxiv.org/abs/2611.27567v1"
+    },
+    {
+      "date": "2026-11-25",
+      "subcat": "Hacker News Picks",
+      "title": "sshole",
+      "url": "https://news.ycombinator.com/item?id=50378228"
     }
   ]
 }

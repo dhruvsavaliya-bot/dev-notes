@@ -364,6 +364,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50626413
 - **Link:** https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg
 
+**Added 2026-11-25**
+
+### [sshole](https://sshhole.com)
+- **Source:** sshhole.com | **Posted:** 2026-11-05 | **By:** josemrb
+- **Community:** 3007 points, 751 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50378228
+- **Link:** https://sshhole.com
+
 
 ## Lobsters Picks
 
