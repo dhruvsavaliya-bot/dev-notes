@@ -725,6 +725,7 @@
     "https://github.com/DavidHDev/canvas-ui",
     "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
     "https://github.com/Dingo-Shenanigans/ReSkate",
+    "https://github.com/Dodaios/ste80-humanizer",
     "https://github.com/Draculabo/AntigravityManager",
     "https://github.com/Droid-Deck/DroidDeck",
     "https://github.com/EpicGames/lore",
@@ -2811,6 +2812,7 @@
     "https://news.ycombinator.com/item?id=50427107",
     "https://news.ycombinator.com/item?id=50427934",
     "https://news.ycombinator.com/item?id=50428907",
+    "https://news.ycombinator.com/item?id=50429144",
     "https://news.ycombinator.com/item?id=50429636",
     "https://news.ycombinator.com/item?id=50430621",
     "https://news.ycombinator.com/item?id=50431971",
@@ -3303,12 +3305,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "AI & Machine Learning",
-      "title": "jiwoochris/artex-global",
-      "url": "https://github.com/jiwoochris/artex-global"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "JavaScript",
       "title": "Nyxera0x/cutaway",
       "url": "https://github.com/Nyxera0x/cutaway"
@@ -3360,6 +3356,12 @@
       "subcat": "Java",
       "title": "The G1 Garbage Collector",
       "url": "https://news.ycombinator.com/item?id=50527444"
+    },
+    {
+      "date": "2026-11-25",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: STE80 Humanizer  de-AI text by writing 80%...",
+      "url": "https://news.ycombinator.com/item?id=50429144"
     }
   ]
 }

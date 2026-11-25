@@ -583,6 +583,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50511718
 - **Link:** https://lastcomplication.com/
 
+**Added 2026-11-25**
+
+### [Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100](https://github.com/Dodaios/ste80-humanizer)
+- **Source:** github.com | **Posted:** 2026-11-09 | **By:** Dodaios
+- **Community:** 118 points, 45 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50429144
+- **Link:** https://github.com/Dodaios/ste80-humanizer
+
 
 ## Productivity
 
