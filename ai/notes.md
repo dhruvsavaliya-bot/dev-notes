@@ -578,6 +578,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/FineEnvs/SmolDataEnvs
 
+**Added 2026-11-25**
+
+### [KORMo-VL/Ko-Online-Mind2Web](https://huggingface.co/datasets/KORMo-VL/Ko-Online-Mind2Web)
+- **Stats:** 98 likes | 190 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-11-16
+- **Tags:** korean, gui-agent, web-agent, human-annotated, evaluation
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/KORMo-VL/Ko-Online-Mind2Web
+
 
 ## LLMs
 
