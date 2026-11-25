@@ -89,6 +89,15 @@ Top community posts, organized by programming language.
 - **Growth:** averaging ~95 stars/day since launch.
 - **Link:** https://github.com/laoma528/awesome-zhuiju-free
 
+**Added 2026-11-25**
+
+### [Will WebAssembly Kill JavaScript? Let’s Find Out (+ Live Demo) 🚀](https://dev.to/sylwia-lask/will-webassembly-kill-javascript-lets-find-out-live-demo-43ln)
+- **Author:** Sylwia Laskowska | **Published:** Dec 9 '25 | **Read time:** 5 min
+- **Community:** 83 reactions, 56 comments -- a top post in #javascript
+- **Tags:** webdev, rust, javascript, programming
+- **Summary:** For at least 8 years now, I’ve been hearing about the imminent death of frontend - or at least...
+- **Link:** https://dev.to/sylwia-lask/will-webassembly-kill-javascript-lets-find-out-live-demo-43ln
+
 
 ## Rust
 

@@ -573,6 +573,7 @@
     "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
     "https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2",
     "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g",
+    "https://dev.to/sylwia-lask/will-webassembly-kill-javascript-lets-find-out-live-demo-43ln",
     "https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob",
     "https://dev.to/the_nortern_dev/my-2026-tech-stack-is-boring-as-hell-and-that-is-the-point-20c1",
     "https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi",
@@ -3331,12 +3332,6 @@
   "recent": [
     {
       "date": "2026-11-25",
-      "subcat": "Hacker News Picks",
-      "title": "Worshipping at the altar of Brendan Gregg",
-      "url": "https://news.ycombinator.com/item?id=50626413"
-    },
-    {
-      "date": "2026-11-25",
       "subcat": "AI & Machine Learning",
       "title": "LumosLab-Innovation/OpenHunterAI",
       "url": "https://github.com/LumosLab-Innovation/OpenHunterAI"
@@ -3388,6 +3383,12 @@
       "subcat": "Lobsters Picks",
       "title": "VitruvianOS",
       "url": "https://lobste.rs/s/xv13en/vitruvianos"
+    },
+    {
+      "date": "2026-11-25",
+      "subcat": "JavaScript",
+      "title": "Will WebAssembly Kill JavaScript? Lets Find Out (+...",
+      "url": "https://dev.to/sylwia-lask/will-webassembly-kill-javascript-lets-find-out-live-demo-43ln"
     }
   ]
 }

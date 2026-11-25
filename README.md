@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2351 entries and counting** · Last updated: 2026-11-25
+**2352 entries and counting** · Last updated: 2026-11-25
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 470 |
 | [Reading List](articles/reading-list.md) | 476 |
 | [Coding Tips](coding-tips/tips.md) | 477 |
-| [Language Notes](languages/notes.md) | 449 |
+| [Language Notes](languages/notes.md) | 450 |
 
 ## Latest additions
 
+- **2026-11-25** · *JavaScript* — [Will WebAssembly Kill JavaScript? Lets Find Out (+...](https://dev.to/sylwia-lask/will-webassembly-kill-javascript-lets-find-out-live-demo-43ln)
 - **2026-11-25** · *Lobsters Picks* — [VitruvianOS](https://lobste.rs/s/xv13en/vitruvianos)
 - **2026-11-25** · *Models & Datasets* — [espnet/yodas3.1](https://huggingface.co/datasets/espnet/yodas3.1)
 - **2026-11-25** · *Web & Frontend* — [Zesty0wl/mac-performance-monitor](https://github.com/Zesty0wl/mac-performance-monitor)
 - **2026-11-25** · *Lobsters Picks* — ["Disregard that!" attacks](https://lobste.rs/s/ocrjck/disregard_attacks)
-- **2026-11-25** · *Models & Datasets* — [krea/Krea-2-Raw](https://huggingface.co/krea/Krea-2-Raw)
 
 ## How it works
 
