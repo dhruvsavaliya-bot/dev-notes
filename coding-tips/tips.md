@@ -224,6 +224,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://lobste.rs/s/ocrjck/disregard_attacks
 - **Link:** https://calpaterson.com/disregard.html
 
+**Added 2026-11-25**
+
+### [VitruvianOS](https://v-os.dev/)
+- **Source:** v-os.dev | **Posted:** 2026-03-25 | **By:** blainsmith
+- **Community:** 52 score, 28 comments on Lobsters
+- **Tags:** linux
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/xv13en/vitruvianos
+- **Link:** https://v-os.dev/
+
 
 ## Show & Ask HN
 
