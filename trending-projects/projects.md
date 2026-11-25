@@ -344,6 +344,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~92 stars/day since launch.
 - **Link:** https://github.com/jiwoochris/artex-global
 
+**Added 2026-11-25**
+
+### [waynesutton/builder-skills](https://github.com/waynesutton/builder-skills)
+- **Stats:** 406 stars | 32 forks | 0 open issues
+- **Language:** JavaScript | **Created:** 2026-01-14 | **License:** Apache-2.0
+- **Topics:** agent-skills, ai, backend, builder-skills, claude, claude-code
+- **What it is:** Workflow, security, and writing skills for builders shipping Convex apps. npx builder-skills
+- **Growth:** averaging ~1 stars/day since launch.
+- **Link:** https://github.com/waynesutton/builder-skills
+
 
 ## Other Cool Projects
 

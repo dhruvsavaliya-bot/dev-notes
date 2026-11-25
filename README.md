@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2334 entries and counting** · Last updated: 2026-11-25
+**2335 entries and counting** · Last updated: 2026-11-25
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 474 |
+| [Trending Projects](trending-projects/projects.md) | 475 |
 | [AI / LLM Notes](ai/notes.md) | 465 |
 | [Reading List](articles/reading-list.md) | 474 |
 | [Coding Tips](coding-tips/tips.md) | 472 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-25** · *AI & Machine Learning* — [waynesutton/builder-skills](https://github.com/waynesutton/builder-skills)
 - **2026-11-25** · *Hacker News Picks* — [Cento fine foods has been sued for tomato fraud](https://news.ycombinator.com/item?id=50604355)
 - **2026-11-25** · *Show & Ask HN* — [Show HN: STE80 Humanizer  de-AI text by writing 80%...](https://news.ycombinator.com/item?id=50429144)
 - **2026-11-25** · *Java* — [The G1 Garbage Collector](https://news.ycombinator.com/item?id=50527444)
 - **2026-11-25** · *Developer Tools* — [columnar-tech/databow](https://github.com/columnar-tech/databow)
-- **2026-11-25** · *Hacker News Picks* — [GPT-6 models demonstrate intrinsic protein-design...](https://news.ycombinator.com/item?id=50634658)
 
 ## How it works
 

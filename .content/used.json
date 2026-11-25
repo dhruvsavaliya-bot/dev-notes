@@ -1366,6 +1366,7 @@
     "https://github.com/wangzan101/Mika",
     "https://github.com/wangzhishou/OneBox",
     "https://github.com/wasi-master/wmkeyboard",
+    "https://github.com/waynesutton/builder-skills",
     "https://github.com/web-platform-tests/wpt",
     "https://github.com/wheresryan22/anatomy",
     "https://github.com/wide-trace/open-higgsfield",
@@ -3307,12 +3308,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "Lobsters Picks",
-      "title": "Sneakernet",
-      "url": "https://lobste.rs/s/pdecff/sneakernet"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "Other Cool Projects",
       "title": "Vincentwei1021/mg-styles-15",
       "url": "https://github.com/Vincentwei1021/mg-styles-15"
@@ -3364,6 +3359,12 @@
       "subcat": "Hacker News Picks",
       "title": "Cento fine foods has been sued for tomato fraud",
       "url": "https://news.ycombinator.com/item?id=50604355"
+    },
+    {
+      "date": "2026-11-25",
+      "subcat": "AI & Machine Learning",
+      "title": "waynesutton/builder-skills",
+      "url": "https://github.com/waynesutton/builder-skills"
     }
   ]
 }
