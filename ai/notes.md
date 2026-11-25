@@ -596,6 +596,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/KORMo-VL/EVIDENT
 
+**Added 2026-11-25**
+
+### [nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB)
+- **Stats:** 1,517 likes | 196,409 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-10-05
+- **Tags:** transformers, gguf, nvidia, pytorch, nemotron-3.5, text-generation
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB
+
 
 ## LLMs
 
