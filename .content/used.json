@@ -529,6 +529,7 @@
     "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
     "https://dev.to/necoz/meet-type-tune-give-your-typescript-types-a-better-home-1p6l",
     "https://dev.to/necoz/why-i-rewrote-type-tune-from-typescript-to-rust-1egg",
+    "https://dev.to/necoz/why-your-ai-release-notes-hallucinate-the-why-vs-what-problem-in-git-history-5ch0",
     "https://dev.to/nikolas_dimitroulakis_d23/we-described-our-api-twice-once-for-humans-once-for-agents-4e4g",
     "https://dev.to/nyaomaru/how-do-we-extract-the-why-from-a-pr-into-a-changelog-with-jev-52pk",
     "https://dev.to/nyaomaru/how-do-you-validate-unknown-in-typescript-without-a-schema-library-1a11",
@@ -3349,12 +3350,6 @@
   "recent": [
     {
       "date": "2026-11-25",
-      "subcat": "Lobsters Picks",
-      "title": "Beyond Linux: A Journey Through the Open Source...",
-      "url": "https://lobste.rs/s/y56k2b/beyond_linux_journey_through_open_source"
-    },
-    {
-      "date": "2026-11-25",
       "subcat": "AI & Machine Learning",
       "title": "Tracer-Cloud/opensre",
       "url": "https://github.com/Tracer-Cloud/opensre"
@@ -3406,6 +3401,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Warsaw in voxels  An interactive 3D map of...",
       "url": "https://news.ycombinator.com/item?id=50339221"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "DevOps & Cloud",
+      "title": "Why Your AI Release Notes Hallucinate: The \"Why vs...",
+      "url": "https://dev.to/necoz/why-your-ai-release-notes-hallucinate-the-why-vs-what-problem-in-git-history-5ch0"
     }
   ]
 }

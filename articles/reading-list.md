@@ -757,3 +757,14 @@ The week's best dev articles, organized by field.
 - **Tags:** microservices, architecture, performance, backend
 - **Summary:** The promise: Microservices make your system scalable, maintainable, and fast.  The reality: For most...
 - **Link:** https://dev.to/polliog/microservices-are-killing-your-performance-and-heres-the-math-21op
+
+## DevOps & Cloud
+
+**Added 2026-11-26**
+
+### [Why Your AI Release Notes Hallucinate: The "Why vs What" Problem in Git History](https://dev.to/necoz/why-your-ai-release-notes-hallucinate-the-why-vs-what-problem-in-git-history-5ch0)
+- **Author:** 𝗝𝗼𝗵𝗻 | **Published:** Nov 24 | **Read time:** 5 min
+- **Community:** 56 reactions, 28 comments -- a top post in #devops
+- **Tags:** ai, devops, github, programming
+- **Summary:** Passing raw git diffs to LLMs produces plausible but hallucinated changelogs. Here is why extracting the real "why" requires linked issues and counterfactual evals.
+- **Link:** https://dev.to/necoz/why-your-ai-release-notes-hallucinate-the-why-vs-what-problem-in-git-history-5ch0
