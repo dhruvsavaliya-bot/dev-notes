@@ -152,6 +152,7 @@
     "http://arxiv.org/abs/2611.27056v1",
     "http://arxiv.org/abs/2611.27077v1",
     "http://arxiv.org/abs/2611.27567v1",
+    "http://arxiv.org/abs/2611.29354v1",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "http://blog.nozomi.space/posts/sw2_dock/",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
@@ -3343,12 +3344,6 @@
   "recent": [
     {
       "date": "2026-11-25",
-      "subcat": "Lobsters Picks",
-      "title": "VitruvianOS",
-      "url": "https://lobste.rs/s/xv13en/vitruvianos"
-    },
-    {
-      "date": "2026-11-25",
       "subcat": "JavaScript",
       "title": "Will WebAssembly Kill JavaScript? Lets Find Out (+...",
       "url": "https://dev.to/sylwia-lask/will-webassembly-kill-javascript-lets-find-out-live-demo-43ln"
@@ -3400,6 +3395,12 @@
       "subcat": "C++",
       "title": "6 Lessons Every Developer Should Learn",
       "url": "https://dev.to/hadil/6-lessons-every-developer-should-learn-3d5l"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Research Papers",
+      "title": "Endpoint-Conditioned Process Value: What an...",
+      "url": "http://arxiv.org/abs/2611.29354v1"
     }
   ]
 }

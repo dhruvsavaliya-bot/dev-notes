@@ -334,6 +334,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.CR -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.26824v1
 
+**Added 2026-11-26**
+
+### [Endpoint-Conditioned Process Value: What an Endpoint-Blind Process Score Adds Once Terminal Status and Cost Are Known](http://arxiv.org/abs/2611.29354v1)
+- **Authors:** Chris D Yan, Ken Wang, MarkX Qian, Jin Jiang et al.
+- **Published:** 2026-11-22 | **Primary category:** cs.CL
+- **Categories:** cs.CL, cs.SE
+- **Abstract:** Trajectory metrics promise information beyond final-answer accuracy, but no one has measured what a process score adds once an evaluation knows the outcome and the cost. We build that comparison: a sealed consequence needing an artifact neither agent nor judge ever sees, an operational baseline of terminal status and cost, and judge scale and evidence access as experimental factors. On 1,255 trajectories over 158 test-generation tasks in 7 Python repositories, the answer is gated on the judge. F...
+- **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.29354v1
+
 
 ## Models & Datasets
 
