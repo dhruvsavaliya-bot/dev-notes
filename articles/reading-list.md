@@ -705,6 +705,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/pdecff/sneakernet
 - **Link:** https://sneakernet.eu/
 
+**Added 2026-11-26**
+
+### [Please Implement A Quorum Database](https://transactional.blog/talk/please-implement-a-quorum-database)
+- **Source:** transactional.blog | **Posted:** 2026-11-15 | **By:** eatonphil
+- **Community:** 26 score, 0 comments on Lobsters
+- **Tags:** databases, distributed
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/hgicaq/please_implement_quorum_database
+- **Link:** https://transactional.blog/talk/please-implement-a-quorum-database
+
 
 ## Security
 
