@@ -318,6 +318,7 @@
     "https://cakehonolulu.github.io/linux-on-32x/",
     "https://calif.io/java4shell/",
     "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+    "https://calpaterson.com/disregard.html",
     "https://carette.xyz/posts/minimal_swift_kernel_on_qemu/",
     "https://carrierexplode.com/",
     "https://cartographers-nk.wonyoung.so/",
@@ -1999,6 +2000,7 @@
     "https://lobste.rs/s/o0ixth/haxy_net_is_live_haxy_git_forge_devlog",
     "https://lobste.rs/s/o5to4p/faster_way_compute_signed_64_bit_floor",
     "https://lobste.rs/s/o8xo9z/importance_communities_around_software",
+    "https://lobste.rs/s/ocrjck/disregard_attacks",
     "https://lobste.rs/s/odrfgk/how_speed_up_rust_compiler_september_2026",
     "https://lobste.rs/s/ogp1wf/inline_rendering_with_document",
     "https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live",
@@ -3325,12 +3327,6 @@
   "recent": [
     {
       "date": "2026-11-25",
-      "subcat": "Hacker News Picks",
-      "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2...",
-      "url": "https://news.ycombinator.com/item?id=50633159"
-    },
-    {
-      "date": "2026-11-25",
       "subcat": "Web & Frontend",
       "title": "rdborg/Mediarium",
       "url": "https://github.com/rdborg/Mediarium"
@@ -3382,6 +3378,12 @@
       "subcat": "Models & Datasets",
       "title": "krea/Krea-2-Raw",
       "url": "https://huggingface.co/krea/Krea-2-Raw"
+    },
+    {
+      "date": "2026-11-25",
+      "subcat": "Lobsters Picks",
+      "title": "\"Disregard that!\" attacks",
+      "url": "https://lobste.rs/s/ocrjck/disregard_attacks"
     }
   ]
 }

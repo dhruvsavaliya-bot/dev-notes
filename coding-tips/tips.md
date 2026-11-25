@@ -214,6 +214,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://lobste.rs/s/lzxb0m/magic_link_pitfalls
 - **Link:** https://etodd.io/2026/03/22/magic-link-pitfalls/
 
+**Added 2026-11-25**
+
+### ["Disregard that!" attacks](https://calpaterson.com/disregard.html)
+- **Source:** calpaterson.com | **Posted:** 2026-03-25 | **By:** calpaterson
+- **Community:** 33 score, 16 comments on Lobsters
+- **Tags:** security, vibecoding
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/ocrjck/disregard_attacks
+- **Link:** https://calpaterson.com/disregard.html
+
 
 ## Show & Ask HN
 
