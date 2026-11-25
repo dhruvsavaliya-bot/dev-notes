@@ -355,6 +355,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50633159
 - **Link:** https://grafana.com/grafana/download
 
+**Added 2026-11-25**
+
+### [Worshipping at the altar of Brendan Gregg](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)
+- **Source:** fzakaria.com | **Posted:** 2026-11-24 | **By:** kqr
+- **Community:** 228 points, 43 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50626413
+- **Link:** https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg
+
 
 ## Lobsters Picks
 

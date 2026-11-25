@@ -665,6 +665,7 @@
     "https://freedns.afraid.org/",
     "https://furifont.antfu.me/",
     "https://futhark-lang.org/blog/2026-10-14-defining-division.html",
+    "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
     "https://gabrieloc.com/2026/09/15/perspective.html",
     "https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust",
     "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
@@ -2890,6 +2891,7 @@
     "https://news.ycombinator.com/item?id=50599762",
     "https://news.ycombinator.com/item?id=50600511",
     "https://news.ycombinator.com/item?id=50604355",
+    "https://news.ycombinator.com/item?id=50626413",
     "https://news.ycombinator.com/item?id=50633159",
     "https://news.ycombinator.com/item?id=50634658",
     "https://news.ycombinator.com/item?id=5673032",
@@ -3317,12 +3319,6 @@
   "recent": [
     {
       "date": "2026-11-25",
-      "subcat": "Java",
-      "title": "The G1 Garbage Collector",
-      "url": "https://news.ycombinator.com/item?id=50527444"
-    },
-    {
-      "date": "2026-11-25",
       "subcat": "Show & Ask HN",
       "title": "Show HN: STE80 Humanizer  de-AI text by writing 80%...",
       "url": "https://news.ycombinator.com/item?id=50429144"
@@ -3374,6 +3370,12 @@
       "subcat": "Lobsters Picks",
       "title": "Per Vognsen on the effect of AVX-512 on lexing and...",
       "url": "https://lobste.rs/s/m7gqr6/per_vognsen_on_effect_avx_512_on_lexing"
+    },
+    {
+      "date": "2026-11-25",
+      "subcat": "Hacker News Picks",
+      "title": "Worshipping at the altar of Brendan Gregg",
+      "url": "https://news.ycombinator.com/item?id=50626413"
     }
   ]
 }
