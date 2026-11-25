@@ -1740,6 +1740,7 @@
     "https://lambdacreate.com/posts/held-together-by-spare-time",
     "https://lapcatsoftware.com/articles/2026/9/1.html",
     "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
+    "https://lastcomplication.com/",
     "https://layer3intel.com/blog/residential-proxies-white-house-network",
     "https://leanrada.com/notes/inline-rendering-currentscript/",
     "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
@@ -2848,6 +2849,7 @@
     "https://news.ycombinator.com/item?id=50506180",
     "https://news.ycombinator.com/item?id=50507303",
     "https://news.ycombinator.com/item?id=50510042",
+    "https://news.ycombinator.com/item?id=50511718",
     "https://news.ycombinator.com/item?id=50513451",
     "https://news.ycombinator.com/item?id=50520076",
     "https://news.ycombinator.com/item?id=50522980",
@@ -3296,12 +3298,6 @@
   "recent": [
     {
       "date": "2026-11-24",
-      "subcat": "AI & Machine Learning",
-      "title": "elysia395/dsh-wallpaper-engine",
-      "url": "https://github.com/elysia395/dsh-wallpaper-engine"
-    },
-    {
-      "date": "2026-11-24",
       "subcat": "JavaScript",
       "title": "Jestions-dev/BlueFatFish",
       "url": "https://github.com/Jestions-dev/BlueFatFish"
@@ -3353,6 +3349,12 @@
       "subcat": "Java",
       "title": "Java4Shell: pre-auth RCE flaw in Java 17 puts servers...",
       "url": "https://news.ycombinator.com/item?id=50532118"
+    },
+    {
+      "date": "2026-11-25",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: The Last Complication, a Zachtronics-style...",
+      "url": "https://news.ycombinator.com/item?id=50511718"
     }
   ]
 }

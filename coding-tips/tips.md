@@ -574,6 +574,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50555002
 - **Link:** https://news.ycombinator.com/item?id=50555002
 
+**Added 2026-11-25**
+
+### [Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game](https://lastcomplication.com/)
+- **Source:** lastcomplication.com | **Posted:** 2026-11-15 | **By:** tdeangelis
+- **Community:** 90 points, 21 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50511718
+- **Link:** https://lastcomplication.com/
+
 
 ## Productivity
 
