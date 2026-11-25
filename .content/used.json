@@ -448,6 +448,7 @@
     "https://dev.to/gramli/how-i-smashed-a-bug-in-a-shared-authentication-library-33fm",
     "https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l",
     "https://dev.to/gramli/webmcp-attack-lab-can-an-e-shop-hijack-your-ai-agent-4oe5",
+    "https://dev.to/hadil/6-lessons-every-developer-should-learn-3d5l",
     "https://dev.to/hadil/angular-datagrid-a-free-open-source-ag-grid-alternative-built-for-scale-5gkm",
     "https://dev.to/hadil/bifrost-the-fastest-llm-gateway-for-production-ready-ai-systems-40x-faster-than-litellm-2i51",
     "https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b",
@@ -3342,12 +3343,6 @@
   "recent": [
     {
       "date": "2026-11-25",
-      "subcat": "Models & Datasets",
-      "title": "espnet/yodas3.1",
-      "url": "https://huggingface.co/datasets/espnet/yodas3.1"
-    },
-    {
-      "date": "2026-11-25",
       "subcat": "Lobsters Picks",
       "title": "VitruvianOS",
       "url": "https://lobste.rs/s/xv13en/vitruvianos"
@@ -3399,6 +3394,12 @@
       "subcat": "Hacker News Picks",
       "title": "Foldable Flight: The Best Paper Airplanes",
       "url": "https://news.ycombinator.com/item?id=50424581"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "C++",
+      "title": "6 Lessons Every Developer Should Learn",
+      "url": "https://dev.to/hadil/6-lessons-every-developer-should-learn-3d5l"
     }
   ]
 }

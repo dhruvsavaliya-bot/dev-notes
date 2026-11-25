@@ -450,6 +450,15 @@ Top community posts, organized by programming language.
 - **Growth:** averaging ~20 stars/day since launch.
 - **Link:** https://github.com/sebbbi/NoGraphicsAPI
 
+**Added 2026-11-26**
+
+### [6 Lessons Every Developer Should Learn](https://dev.to/hadil/6-lessons-every-developer-should-learn-3d5l)
+- **Author:** Hadil Ben Abdallah | **Published:** Nov 23 | **Read time:** 11 min
+- **Community:** 59 reactions, 10 comments -- a top post in #cpp
+- **Tags:** programming, c, cpp, php
+- **Summary:** Lessons every developer should learn rarely come from tutorials, coding bootcamps, or the first few...
+- **Link:** https://dev.to/hadil/6-lessons-every-developer-should-learn-3d5l
+
 
 ## Elixir
 
