@@ -346,6 +346,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50604355
 - **Link:** https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html
 
+**Added 2026-11-25**
+
+### [Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)](https://grafana.com/grafana/download)
+- **Source:** grafana.com | **Posted:** 2026-11-24 | **By:** petecooper
+- **Community:** 139 points, 22 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50633159
+- **Link:** https://grafana.com/grafana/download
+
 
 ## Lobsters Picks
 

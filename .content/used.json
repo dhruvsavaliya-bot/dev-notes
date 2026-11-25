@@ -1424,6 +1424,7 @@
     "https://goliath32.com/blog/z80.html",
     "https://google.github.io/styleguide/rustguide.html",
     "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
+    "https://grafana.com/grafana/download",
     "https://gregoire.dev/writing/gus/",
     "https://groups.google.com/g/golang-announce/c/PCoQcdxoScw",
     "https://hackerbooks.org",
@@ -2885,6 +2886,7 @@
     "https://news.ycombinator.com/item?id=50599762",
     "https://news.ycombinator.com/item?id=50600511",
     "https://news.ycombinator.com/item?id=50604355",
+    "https://news.ycombinator.com/item?id=50633159",
     "https://news.ycombinator.com/item?id=50634658",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
@@ -3311,12 +3313,6 @@
   "recent": [
     {
       "date": "2026-11-25",
-      "subcat": "Java",
-      "title": "Java4Shell: pre-auth RCE flaw in Java 17 puts servers...",
-      "url": "https://news.ycombinator.com/item?id=50532118"
-    },
-    {
-      "date": "2026-11-25",
       "subcat": "Show & Ask HN",
       "title": "Show HN: The Last Complication, a Zachtronics-style...",
       "url": "https://news.ycombinator.com/item?id=50511718"
@@ -3368,6 +3364,12 @@
       "subcat": "Lobsters Picks",
       "title": "Security incident on Hex.pm",
       "url": "https://lobste.rs/s/rfcgkx/security_incident_on_hex_pm"
+    },
+    {
+      "date": "2026-11-25",
+      "subcat": "Hacker News Picks",
+      "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2...",
+      "url": "https://news.ycombinator.com/item?id=50633159"
     }
   ]
 }
