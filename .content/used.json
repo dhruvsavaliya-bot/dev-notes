@@ -1013,6 +1013,7 @@
     "https://github.com/cdyforever/how-to-live-better",
     "https://github.com/celldock/celldock-for-mac",
     "https://github.com/chasmlol/SkyCraft",
+    "https://github.com/cloudflare/kitesurf",
     "https://github.com/cloudflare/security-audit-skill",
     "https://github.com/cocojojo5213/Dev-Janitor",
     "https://github.com/coder/boo",
@@ -3390,12 +3391,6 @@
   "recent": [
     {
       "date": "2026-11-26",
-      "subcat": "Hacker News Picks",
-      "title": "Slow Ubuntu security response times",
-      "url": "https://news.ycombinator.com/item?id=50647181"
-    },
-    {
-      "date": "2026-11-26",
       "subcat": "Security",
       "title": "shirudo-dev/shirudo",
       "url": "https://github.com/shirudo-dev/shirudo"
@@ -3447,6 +3442,12 @@
       "subcat": "Lobsters Picks",
       "title": "Generalized Riemann Hypothesis proof in Lean 4, in...",
       "url": "https://lobste.rs/s/tlwot6/generalized_riemann_hypothesis_proof"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "AI & Machine Learning",
+      "title": "cloudflare/kitesurf",
+      "url": "https://github.com/cloudflare/kitesurf"
     }
   ]
 }

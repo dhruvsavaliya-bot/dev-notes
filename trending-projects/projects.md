@@ -404,6 +404,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~32 stars/day since launch.
 - **Link:** https://github.com/achimala/dream-loop
 
+**Added 2026-11-26**
+
+### [cloudflare/kitesurf](https://github.com/cloudflare/kitesurf)
+- **Stats:** 2,640 stars | 151 forks | 31 open issues
+- **Language:** TypeScript | **Created:** 2026-09-30 | **License:** Apache-2.0
+- **Topics:** agents, browser-automation
+- **What it is:** Kitesurf is an experimental browser engine that runs on Cloudflare Workers.
+- **Growth:** averaging ~46 stars/day since launch.
+- **Link:** https://github.com/cloudflare/kitesurf
+
 
 ## Other Cool Projects
 
