@@ -2940,6 +2940,7 @@
     "https://news.ycombinator.com/item?id=50634658",
     "https://news.ycombinator.com/item?id=50643129",
     "https://news.ycombinator.com/item?id=50644980",
+    "https://news.ycombinator.com/item?id=50647181",
     "https://news.ycombinator.com/item?id=50649864",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
@@ -3272,6 +3273,7 @@
     "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
     "https://www.onirom.fr/wiki/codegolf/x-87/",
     "https://www.openbsd.org/80.html",
+    "https://www.openwall.com/lists/oss-security/2026/11/25/9",
     "https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/",
     "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
     "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
@@ -3375,12 +3377,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Isometric SF  A pixel-art map of the SF Bay...",
-      "url": "https://news.ycombinator.com/item?id=50487228"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Hacker News Picks",
       "title": "F-22 Next-Generation microData Transfer Cartridge...",
       "url": "https://news.ycombinator.com/item?id=50547583"
@@ -3432,6 +3428,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: An API for word timestamps from speech, 75%...",
       "url": "https://news.ycombinator.com/item?id=50532515"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Hacker News Picks",
+      "title": "Slow Ubuntu security response times",
+      "url": "https://news.ycombinator.com/item?id=50647181"
     }
   ]
 }
