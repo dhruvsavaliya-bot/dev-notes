@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2407 entries and counting** · Last updated: 2026-11-27
+**2408 entries and counting** · Last updated: 2026-11-27
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 489 |
-| [AI / LLM Notes](ai/notes.md) | 482 |
+| [AI / LLM Notes](ai/notes.md) | 483 |
 | [Reading List](articles/reading-list.md) | 489 |
 | [Coding Tips](coding-tips/tips.md) | 490 |
 | [Language Notes](languages/notes.md) | 457 |
 
 ## Latest additions
 
+- **2026-11-27** · *Models & Datasets* — [nokeepai/Inkling-2-Mini-Unbound-GGUF](https://huggingface.co/nokeepai/Inkling-2-Mini-Unbound-GGUF)
 - **2026-11-27** · *Show & Ask HN* — [Ask HN: Anthropic is accusing my company of...](https://news.ycombinator.com/item?id=50630809)
 - **2026-11-27** · *Research Papers* — [Proving LLM-Generated GPU Kernels Correct and Safe...](http://arxiv.org/abs/2610.24548v1)
 - **2026-11-27** · *Swift* — [Harvard researchers find AI coding agents shifted the...](https://news.ycombinator.com/item?id=50538303)
 - **2026-11-27** · *Hacker News Picks* — [Kamil Khan Mumtaz: Pakistani architect, admired at...](https://news.ycombinator.com/item?id=50659841)
-- **2026-11-27** · *AI & Machine Learning* — [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill)
 
 ## How it works
 

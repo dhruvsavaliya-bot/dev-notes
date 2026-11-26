@@ -1708,6 +1708,7 @@
     "https://huggingface.co/moonshotai/Kimi-K3",
     "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
     "https://huggingface.co/mudler/locate-anything.cpp-gguf",
+    "https://huggingface.co/nokeepai/Inkling-2-Mini-Unbound-GGUF",
     "https://huggingface.co/nvidia/Alpamayo2-Edge",
     "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB",
     "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
@@ -3408,12 +3409,6 @@
     {
       "date": "2026-11-26",
       "subcat": "Lobsters Picks",
-      "title": "Optimizing Rustc's next trait solver",
-      "url": "https://lobste.rs/s/lyyksp/optimizing_rustc_s_next_trait_solver"
-    },
-    {
-      "date": "2026-11-26",
-      "subcat": "Lobsters Picks",
       "title": "Browser tabs as a container runtime",
       "url": "https://lobste.rs/s/hge0sd/browser_tabs_as_container_runtime"
     },
@@ -3464,6 +3459,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Anthropic is accusing my company of...",
       "url": "https://news.ycombinator.com/item?id=50630809"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Models & Datasets",
+      "title": "nokeepai/Inkling-2-Mini-Unbound-GGUF",
+      "url": "https://huggingface.co/nokeepai/Inkling-2-Mini-Unbound-GGUF"
     }
   ]
 }

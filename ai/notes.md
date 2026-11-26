@@ -738,6 +738,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/nvidia/Nemotron-Personas-Vietnam
 
+**Added 2026-11-27**
+
+### [nokeepai/Inkling-2-Mini-Unbound-GGUF](https://huggingface.co/nokeepai/Inkling-2-Mini-Unbound-GGUF)
+- **Stats:** 103 likes | 122,028 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-11-21
+- **Tags:** gguf, llama.cpp, abliterated, uncensored, inkling2, image-text-to-text
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/nokeepai/Inkling-2-Mini-Unbound-GGUF
+
 
 ## LLMs
 
