@@ -2966,6 +2966,7 @@
     "https://news.ycombinator.com/item?id=50649864",
     "https://news.ycombinator.com/item?id=50652184",
     "https://news.ycombinator.com/item?id=50656763",
+    "https://news.ycombinator.com/item?id=50659841",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -3199,6 +3200,7 @@
     "https://wiredream.com/anagram-fun/",
     "https://wonderhop.io/en/",
     "https://words.filippo.io/seeds-solved/",
+    "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
     "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
     "https://www.abortretry.fail/p/matrox",
     "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
@@ -3402,12 +3404,6 @@
     {
       "date": "2026-11-26",
       "subcat": "Lobsters Picks",
-      "title": "A Quick Guide to Go's Assembler",
-      "url": "https://lobste.rs/s/o0e2wj/quick_guide_go_s_assembler"
-    },
-    {
-      "date": "2026-11-26",
-      "subcat": "Lobsters Picks",
       "title": "Generalized Riemann Hypothesis proof in Lean 4, in...",
       "url": "https://lobste.rs/s/tlwot6/generalized_riemann_hypothesis_proof"
     },
@@ -3458,6 +3454,12 @@
       "subcat": "AI & Machine Learning",
       "title": "mikehasa/golive-skill",
       "url": "https://github.com/mikehasa/golive-skill"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Hacker News Picks",
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at...",
+      "url": "https://news.ycombinator.com/item?id=50659841"
     }
   ]
 }

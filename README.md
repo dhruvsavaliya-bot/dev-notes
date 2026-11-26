@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2403 entries and counting** · Last updated: 2026-11-27
+**2404 entries and counting** · Last updated: 2026-11-27
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 489 |
 | [AI / LLM Notes](ai/notes.md) | 481 |
-| [Reading List](articles/reading-list.md) | 488 |
+| [Reading List](articles/reading-list.md) | 489 |
 | [Coding Tips](coding-tips/tips.md) | 489 |
 | [Language Notes](languages/notes.md) | 456 |
 
 ## Latest additions
 
+- **2026-11-27** · *Hacker News Picks* — [Kamil Khan Mumtaz: Pakistani architect, admired at...](https://news.ycombinator.com/item?id=50659841)
 - **2026-11-27** · *AI & Machine Learning* — [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill)
 - **2026-11-27** · *Show & Ask HN* — [Ask HN: Any courses/products by indie makers worth...](https://news.ycombinator.com/item?id=50656763)
 - **2026-11-27** · *Research Papers* — [Record Types Everywhere](http://arxiv.org/abs/2610.27519v1)
 - **2026-11-27** · *Swift* — [Show HN: Zigzag, a native Mac browser for people...](https://news.ycombinator.com/item?id=50496787)
-- **2026-11-26** · *Lobsters Picks* — [Browser tabs as a container runtime](https://lobste.rs/s/hge0sd/browser_tabs_as_container_runtime)
 
 ## How it works
 

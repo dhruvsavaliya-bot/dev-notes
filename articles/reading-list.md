@@ -435,6 +435,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50652184
 - **Link:** https://commandcode.ai/moat
 
+**Added 2026-11-27**
+
+### [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
+- **Source:** worksinprogress.co | **Posted:** 2026-11-26 | **By:** dverlaeckt80
+- **Community:** 106 points, 17 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50659841
+- **Link:** https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/
+
 
 ## Lobsters Picks
 
