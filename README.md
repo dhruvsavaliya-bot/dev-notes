@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2383 entries and counting** · Last updated: 2026-11-26
+**2384 entries and counting** · Last updated: 2026-11-26
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 485 |
-| [AI / LLM Notes](ai/notes.md) | 477 |
+| [AI / LLM Notes](ai/notes.md) | 478 |
 | [Reading List](articles/reading-list.md) | 484 |
 | [Coding Tips](coding-tips/tips.md) | 484 |
 | [Language Notes](languages/notes.md) | 453 |
 
 ## Latest additions
 
+- **2026-11-26** · *Research Papers* — [Think Before You Code: A Benchmark for Testing LLMs...](http://arxiv.org/abs/2611.22905v1)
 - **2026-11-19** · *Models & Datasets* — [DavidAU/LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Ima...](https://huggingface.co/DavidAU/LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF)
 - **2026-11-19** · *Hacker News Picks* — [Ruby2hell: Pre-authentication RCE on stock Rails](https://news.ycombinator.com/item?id=50556287)
 - **2026-11-19** · *Show & Ask HN* — [Show HN: A terminal-native idle factory game, written...](https://news.ycombinator.com/item?id=50497132)
 - **2026-11-19** · *Models & Datasets* — [moonshotai/Kimi-K2.7-Code](https://huggingface.co/moonshotai/Kimi-K2.7-Code)
-- **2026-11-19** · *Rust* — [How Rust Changed Me As A Developer](https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer)
 
 ## How it works
 

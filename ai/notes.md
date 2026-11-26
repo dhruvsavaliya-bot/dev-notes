@@ -374,6 +374,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.31682v1
 
+**Added 2026-11-26**
+
+### [Think Before You Code: A Benchmark for Testing LLMs on Software Engineering Deliberation](http://arxiv.org/abs/2611.22905v1)
+- **Authors:** Ashman Mehra
+- **Published:** 2026-11-17 | **Primary category:** cs.SE
+- **Categories:** cs.SE
+- **Abstract:** Think Before You Code (TBYC) is a benchmark pipeline for studying whether code-focused language models can reason about software issues in ways that resemble human engineering deliberation. The benchmark curates GitHub issue discussions into structured records, extracts human discussion artifacts such as problems, solutions, constraints, rationales, and trade-offs, and then prompts models to generate issue-level "thoughts" using retrieved code context and few-shot examples. It converts model res...
+- **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.22905v1
+
 
 ## Models & Datasets
 

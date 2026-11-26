@@ -148,6 +148,7 @@
     "http://arxiv.org/abs/2611.16627v1",
     "http://arxiv.org/abs/2611.17915v1",
     "http://arxiv.org/abs/2611.21554v1",
+    "http://arxiv.org/abs/2611.22905v1",
     "http://arxiv.org/abs/2611.24844v1",
     "http://arxiv.org/abs/2611.26349v1",
     "http://arxiv.org/abs/2611.26824v1",
@@ -3372,12 +3373,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Hacker News Picks",
-      "title": "Unreal Tournament 2004 in the Browser",
-      "url": "https://news.ycombinator.com/item?id=50554935"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Research Papers",
       "title": "Data4Cyber: Labeled Cyber-Physical Datasets for...",
       "url": "http://arxiv.org/abs/2611.13942v1"
@@ -3429,6 +3424,12 @@
       "subcat": "Models & Datasets",
       "title": "DavidAU/LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Ima...",
       "url": "https://huggingface.co/DavidAU/LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Research Papers",
+      "title": "Think Before You Code: A Benchmark for Testing LLMs...",
+      "url": "http://arxiv.org/abs/2611.22905v1"
     }
   ]
 }
