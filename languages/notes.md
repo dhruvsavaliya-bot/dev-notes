@@ -205,6 +205,15 @@ Top community posts, organized by programming language.
 - **Discussion:** https://news.ycombinator.com/item?id=50484007
 - **Link:** https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0
 
+**Added 2026-11-26**
+
+### [Restaurant Delivery Payment-Skimming Campaign](https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming)
+- **Source:** www.infohawk.com | **Posted:** 2026-11-06 | **By:** fiej
+- **Community:** 172 points, 101 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50397017
+- **Link:** https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming
+
 
 ## Go
 

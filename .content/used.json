@@ -2835,6 +2835,7 @@
     "https://news.ycombinator.com/item?id=50383057",
     "https://news.ycombinator.com/item?id=50391456",
     "https://news.ycombinator.com/item?id=50393105",
+    "https://news.ycombinator.com/item?id=50397017",
     "https://news.ycombinator.com/item?id=50397264",
     "https://news.ycombinator.com/item?id=50403097",
     "https://news.ycombinator.com/item?id=50403153",
@@ -3226,6 +3227,7 @@
     "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
     "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
     "https://www.impossiblemachines.xyz",
+    "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
     "https://www.iroh.computer/blog/iroh-global-content-discovery",
     "https://www.iroh.computer/blog/the-road-to-iroh-1-0",
     "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
@@ -3363,12 +3365,6 @@
   "recent": [
     {
       "date": "2026-11-26",
-      "subcat": "AI & Machine Learning",
-      "title": "dabingfy-dot/solo-to-team-skills",
-      "url": "https://github.com/dabingfy-dot/solo-to-team-skills"
-    },
-    {
-      "date": "2026-11-26",
       "subcat": "Show & Ask HN",
       "title": "Show HN: ExitPath  Open-source ways out of Slack...",
       "url": "https://news.ycombinator.com/item?id=50547980"
@@ -3420,6 +3416,12 @@
       "subcat": "Other Cool Projects",
       "title": "LoreanXavier/pt-pc",
       "url": "https://github.com/LoreanXavier/pt-pc"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Rust",
+      "title": "Restaurant Delivery Payment-Skimming Campaign",
+      "url": "https://news.ycombinator.com/item?id=50397017"
     }
   ]
 }
