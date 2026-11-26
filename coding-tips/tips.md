@@ -254,6 +254,20 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://lobste.rs/s/srb0dp/marginalia_search_money_c_rust_ai_stuff
 - **Link:** https://www.marginalia.nu/log/a_141_marginalia_update/
 
+**Added 2026-11-26**
+
+### [Generalized Riemann Hypothesis proof in Lean 4, in 76k lines (down from 17M)](https://leanprover.zulipchat.com/#narrow/channel/658556-Riemann-Hypothesis/topic/Cleaning.20up.20the.20proof/near/643702366)
+- **Source:** leanprover.zulipchat.com | **Posted:** 2026-11-25 | **By:** mikedanese
+- **Community:** 34 score, 15 comments on Lobsters
+- **Tags:** math
+- **Summary:** This is a shortened version of Alpöge's Lean proof of RH and GRH for Dirichlet L-functions (https://alpo.ge/remark.pdf), which was about 17 million lines.
+
+There are two editions proving the same five theorems: a readable one at about 300,000 lines (start at grh/GUIDE.md) and a compact one at about 76,000.
+
+Github repo: https://github.com/lsernau/grh-lean
+- **Discussion:** https://lobste.rs/s/tlwot6/generalized_riemann_hypothesis_proof
+- **Link:** https://leanprover.zulipchat.com/#narrow/channel/658556-Riemann-Hypothesis/topic/Cleaning.20up.20the.20proof/near/643702366
+
 
 ## Show & Ask HN
 

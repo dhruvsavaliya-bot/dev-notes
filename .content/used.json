@@ -1790,6 +1790,7 @@
     "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
     "https://lastcomplication.com/",
     "https://layer3intel.com/blog/residential-proxies-white-house-network",
+    "https://leanprover.zulipchat.com/#narrow/channel/658556-Riemann-Hypothesis/topic/Cleaning.20up.20the.20proof/near/643702366",
     "https://leanrada.com/notes/inline-rendering-currentscript/",
     "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
     "https://ledge.sh",
@@ -2080,6 +2081,7 @@
     "https://lobste.rs/s/ta2ojd/letter_from_machine_learning_engineer",
     "https://lobste.rs/s/tfjoxv/actual_budget",
     "https://lobste.rs/s/tfywf1/openbsd_top_1_adds_flag_show_chroot_pledge",
+    "https://lobste.rs/s/tlwot6/generalized_riemann_hypothesis_proof",
     "https://lobste.rs/s/tmr7jp/extend_lua_with_zig_1_hello_world",
     "https://lobste.rs/s/tp0zlk/stackless_floodfill_automation_2023",
     "https://lobste.rs/s/tsfs3w/why_function_arguments_are_not_function",
@@ -3388,12 +3390,6 @@
   "recent": [
     {
       "date": "2026-11-26",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: An API for word timestamps from speech, 75%...",
-      "url": "https://news.ycombinator.com/item?id=50532515"
-    },
-    {
-      "date": "2026-11-26",
       "subcat": "Hacker News Picks",
       "title": "Slow Ubuntu security response times",
       "url": "https://news.ycombinator.com/item?id=50647181"
@@ -3445,6 +3441,12 @@
       "subcat": "Lobsters Picks",
       "title": "A Quick Guide to Go's Assembler",
       "url": "https://lobste.rs/s/o0e2wj/quick_guide_go_s_assembler"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Lobsters Picks",
+      "title": "Generalized Riemann Hypothesis proof in Lean 4, in...",
+      "url": "https://lobste.rs/s/tlwot6/generalized_riemann_hypothesis_proof"
     }
   ]
 }

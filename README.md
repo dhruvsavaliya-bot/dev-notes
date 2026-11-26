@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2394 entries and counting** · Last updated: 2026-11-26
+**2395 entries and counting** · Last updated: 2026-11-26
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 487 |
 | [AI / LLM Notes](ai/notes.md) | 480 |
 | [Reading List](articles/reading-list.md) | 487 |
-| [Coding Tips](coding-tips/tips.md) | 486 |
+| [Coding Tips](coding-tips/tips.md) | 487 |
 | [Language Notes](languages/notes.md) | 454 |
 
 ## Latest additions
 
+- **2026-11-26** · *Lobsters Picks* — [Generalized Riemann Hypothesis proof in Lean 4, in...](https://lobste.rs/s/tlwot6/generalized_riemann_hypothesis_proof)
 - **2026-11-26** · *Lobsters Picks* — [A Quick Guide to Go's Assembler](https://lobste.rs/s/o0e2wj/quick_guide_go_s_assembler)
 - **2026-11-26** · *Models & Datasets* — [nvidia/Nemotron-Personas-Vietnam](https://huggingface.co/datasets/nvidia/Nemotron-Personas-Vietnam)
 - **2026-11-26** · *Java* — [OtterMind/Nubase](https://github.com/OtterMind/Nubase)
 - **2026-11-26** · *Web & Frontend* — [TNTcraftHIM/Piik](https://github.com/TNTcraftHIM/Piik)
-- **2026-11-26** · *Hacker News Picks* — [Moat: Your OpenRouter Replacement](https://news.ycombinator.com/item?id=50652184)
 
 ## How it works
 
