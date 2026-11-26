@@ -680,6 +680,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50547980
 - **Link:** https://exitpath-ruddy.vercel.app/
 
+**Added 2026-11-26**
+
+### [Ask HN: Are the trades a safe career transition?](https://news.ycombinator.com/item?id=50600771)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-22 | **By:** Rd6n6
+- **Community:** 83 points, 123 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50600771
+- **Link:** https://news.ycombinator.com/item?id=50600771
+
 
 ## Productivity
 

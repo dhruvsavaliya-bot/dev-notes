@@ -2927,6 +2927,7 @@
     "https://news.ycombinator.com/item?id=50598441",
     "https://news.ycombinator.com/item?id=50599762",
     "https://news.ycombinator.com/item?id=50600511",
+    "https://news.ycombinator.com/item?id=50600771",
     "https://news.ycombinator.com/item?id=50604355",
     "https://news.ycombinator.com/item?id=50626413",
     "https://news.ycombinator.com/item?id=50633159",
@@ -3366,12 +3367,6 @@
   "recent": [
     {
       "date": "2026-11-26",
-      "subcat": "Research Papers",
-      "title": "The GPU Needs an Operating System",
-      "url": "http://arxiv.org/abs/2611.08720v1"
-    },
-    {
-      "date": "2026-11-26",
       "subcat": "Hacker News Picks",
       "title": "A few questions for the guy who went snorkeling in a...",
       "url": "https://news.ycombinator.com/item?id=50643129"
@@ -3423,6 +3418,12 @@
       "subcat": "Research Papers",
       "title": "LimoBench: How Street Smart Are Large Language Models?",
       "url": "http://arxiv.org/abs/2611.31682v1"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: Are the trades a safe career transition?",
+      "url": "https://news.ycombinator.com/item?id=50600771"
     }
   ]
 }
