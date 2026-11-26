@@ -544,6 +544,15 @@ Top community posts, organized by programming language.
 - **Discussion:** https://news.ycombinator.com/item?id=50496787
 - **Link:** https://github.com/ZigaoWang/zigzag
 
+**Added 2026-11-27**
+
+### [Harvard researchers find AI coding agents shifted the bottleneck to code review](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/)
+- **Source:** complexdiscovery.com | **Posted:** 2026-11-17 | **By:** judahmeek
+- **Community:** 334 points, 472 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50538303
+- **Link:** https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/
+
 
 ## Python
 

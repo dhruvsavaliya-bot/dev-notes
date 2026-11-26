@@ -351,6 +351,7 @@
     "https://committing-crimes.com/articles/2026-08-04-java-nameof",
     "https://community.nlnetlabs.nl/t/release-roto-v0-14-0/3511",
     "https://comonad.com/reader/2026/turbo-haskell/",
+    "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
     "https://copperhead.sh/",
     "https://corgi.computer/",
     "https://cr.yp.to/2025/fil-c.html",
@@ -2938,6 +2939,7 @@
     "https://news.ycombinator.com/item?id=50532385",
     "https://news.ycombinator.com/item?id=50532515",
     "https://news.ycombinator.com/item?id=50536565",
+    "https://news.ycombinator.com/item?id=50538303",
     "https://news.ycombinator.com/item?id=50544821",
     "https://news.ycombinator.com/item?id=50547583",
     "https://news.ycombinator.com/item?id=50547980",
@@ -3403,12 +3405,6 @@
   "recent": [
     {
       "date": "2026-11-26",
-      "subcat": "Lobsters Picks",
-      "title": "Generalized Riemann Hypothesis proof in Lean 4, in...",
-      "url": "https://lobste.rs/s/tlwot6/generalized_riemann_hypothesis_proof"
-    },
-    {
-      "date": "2026-11-26",
       "subcat": "AI & Machine Learning",
       "title": "cloudflare/kitesurf",
       "url": "https://github.com/cloudflare/kitesurf"
@@ -3460,6 +3456,12 @@
       "subcat": "Hacker News Picks",
       "title": "Kamil Khan Mumtaz: Pakistani architect, admired at...",
       "url": "https://news.ycombinator.com/item?id=50659841"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Swift",
+      "title": "Harvard researchers find AI coding agents shifted the...",
+      "url": "https://news.ycombinator.com/item?id=50538303"
     }
   ]
 }
