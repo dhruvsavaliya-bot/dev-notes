@@ -956,7 +956,13 @@ def resolve_bookkeeping():
             low = out.lower()
             if "no changes" in low or "nothing to commit" in low:
                 code, out = run_ok("git", "rebase", "--skip")
-            if code != 0:
+            # A non-zero exit here often just means --continue finished the
+            # current commit and then immediately walked into the *next*
+            # commit's conflict (expected when several replayed commits all
+            # touch used.json/README). That's still a live, in-progress
+            # rebase -- loop back around and resolve it like any other
+            # conflict, rather than giving up on the whole run.
+            if code != 0 and not rebase_in_progress():
                 print(f"  !! rebase --continue refused: {out[:200]}")
                 return False
         if not rebase_in_progress():
