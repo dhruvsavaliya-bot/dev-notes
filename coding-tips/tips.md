@@ -734,6 +734,15 @@ Github repo: https://github.com/lsernau/grh-lean
 - **Discussion:** https://news.ycombinator.com/item?id=50470488
 - **Link:** https://github.com/simpsoka/zigzag
 
+**Added 2026-11-27**
+
+### [Ask HN: Any courses/products by indie makers worth getting today?](https://news.ycombinator.com/item?id=50656763)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-26 | **By:** akudha
+- **Community:** 64 points, 28 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50656763
+- **Link:** https://news.ycombinator.com/item?id=50656763
+
 
 ## Productivity
 
