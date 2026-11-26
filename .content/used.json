@@ -2928,6 +2928,7 @@
     "https://news.ycombinator.com/item?id=50633159",
     "https://news.ycombinator.com/item?id=50634658",
     "https://news.ycombinator.com/item?id=50643129",
+    "https://news.ycombinator.com/item?id=50649864",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -3359,12 +3360,6 @@
   "recent": [
     {
       "date": "2026-11-26",
-      "subcat": "Other Cool Projects",
-      "title": "WhiteDNS/WhiteVPN-Desktop",
-      "url": "https://github.com/WhiteDNS/WhiteVPN-Desktop"
-    },
-    {
-      "date": "2026-11-26",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Warsaw in voxels  An interactive 3D map of...",
       "url": "https://news.ycombinator.com/item?id=50339221"
@@ -3416,6 +3411,12 @@
       "subcat": "Research Papers",
       "title": "Reproducible LoRA Inference Through Deterministic...",
       "url": "http://arxiv.org/abs/2611.10334v1"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Hacker News Picks",
+      "title": "Tell HN: Lots of Ask HNs again",
+      "url": "https://news.ycombinator.com/item?id=50649864"
     }
   ]
 }

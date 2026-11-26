@@ -391,6 +391,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50643129
 - **Link:** https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts
 
+**Added 2026-11-26**
+
+### [Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-26 | **By:** dang
+- **Community:** 113 points, 48 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50649864
+- **Link:** https://news.ycombinator.com/item?id=50649864
+
 
 ## Lobsters Picks
 
