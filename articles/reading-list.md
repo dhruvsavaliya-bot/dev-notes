@@ -426,6 +426,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50647181
 - **Link:** https://www.openwall.com/lists/oss-security/2026/11/25/9
 
+**Added 2026-11-26**
+
+### [Moat: Your OpenRouter Replacement](https://commandcode.ai/moat)
+- **Source:** commandcode.ai | **Posted:** 2026-11-26 | **By:** amanverasia
+- **Community:** 117 points, 83 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50652184
+- **Link:** https://commandcode.ai/moat
+
 
 ## Lobsters Picks
 

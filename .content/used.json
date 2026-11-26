@@ -346,6 +346,7 @@
     "https://code.intellios.ai/cwbrowser/",
     "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
     "https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/",
+    "https://commandcode.ai/moat",
     "https://committing-crimes.com/articles/2026-08-04-java-nameof",
     "https://community.nlnetlabs.nl/t/release-roto-v0-14-0/3511",
     "https://comonad.com/reader/2026/turbo-haskell/",
@@ -2946,6 +2947,7 @@
     "https://news.ycombinator.com/item?id=50644980",
     "https://news.ycombinator.com/item?id=50647181",
     "https://news.ycombinator.com/item?id=50649864",
+    "https://news.ycombinator.com/item?id=50652184",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -3381,12 +3383,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Models & Datasets",
-      "title": "moonshotai/Kimi-K2.7-Code",
-      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Show & Ask HN",
       "title": "Show HN: A terminal-native idle factory game, written...",
       "url": "https://news.ycombinator.com/item?id=50497132"
@@ -3438,6 +3434,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: My $300 embroidery machine needed a...",
       "url": "https://news.ycombinator.com/item?id=50470488"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Hacker News Picks",
+      "title": "Moat: Your OpenRouter Replacement",
+      "url": "https://news.ycombinator.com/item?id=50652184"
     }
   ]
 }
