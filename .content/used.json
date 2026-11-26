@@ -2924,6 +2924,7 @@
     "https://news.ycombinator.com/item?id=50626413",
     "https://news.ycombinator.com/item?id=50633159",
     "https://news.ycombinator.com/item?id=50634658",
+    "https://news.ycombinator.com/item?id=50643129",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -3311,6 +3312,7 @@
     "https://www.unitree.com/As2-W/",
     "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
     "https://www.vlt.io/blog/competition-keeps-javascript-moving",
+    "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
     "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
     "https://www.watched.earth",
     "https://www.willett.io/posts/data/",
@@ -3352,12 +3354,6 @@
     "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/"
   ],
   "recent": [
-    {
-      "date": "2026-11-25",
-      "subcat": "Hacker News Picks",
-      "title": "Foldable Flight: The Best Paper Airplanes",
-      "url": "https://news.ycombinator.com/item?id=50424581"
-    },
     {
       "date": "2026-11-26",
       "subcat": "C++",
@@ -3411,6 +3407,12 @@
       "subcat": "Research Papers",
       "title": "The GPU Needs an Operating System",
       "url": "http://arxiv.org/abs/2611.08720v1"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Hacker News Picks",
+      "title": "A few questions for the guy who went snorkeling in a...",
+      "url": "https://news.ycombinator.com/item?id=50643129"
     }
   ]
 }

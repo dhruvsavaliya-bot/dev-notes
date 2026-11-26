@@ -382,6 +382,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50424581
 - **Link:** https://www.foldableflight.com
 
+**Added 2026-11-26**
+
+### [A few questions for the guy who went snorkeling in a Home Depot retention pond](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts)
+- **Source:** www.vox.com | **Posted:** 2026-11-25 | **By:** gumby
+- **Community:** 446 points, 110 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50643129
+- **Link:** https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts
+
 
 ## Lobsters Picks
 
