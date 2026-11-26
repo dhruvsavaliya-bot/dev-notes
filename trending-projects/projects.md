@@ -627,6 +627,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~3 stars/day since launch.
 - **Link:** https://github.com/WhiteDNS/WhiteVPN-Desktop
 
+**Added 2026-11-26**
+
+### [LoreanXavier/pt-pc](https://github.com/LoreanXavier/pt-pc)
+- **Stats:** 2,565 stars | 157 forks | 0 open issues
+- **Language:** C++ | **Created:** 2026-10-07 | **License:** GPL-3.0
+- **Topics:** none listed
+- **What it is:** Native PC port of P.T. (runs from your own PS4 game files)
+- **Growth:** averaging ~51 stars/day since launch.
+- **Link:** https://github.com/LoreanXavier/pt-pc
+
 
 ## Web & Frontend
 

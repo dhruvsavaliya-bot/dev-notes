@@ -801,6 +801,7 @@
     "https://github.com/LiamGvchi/gc-minimal-zine-poster",
     "https://github.com/LightningRAG/LightningRAG",
     "https://github.com/LordixDemon/apple_watch_connector",
+    "https://github.com/LoreanXavier/pt-pc",
     "https://github.com/LosaLosSantos/aurelio-finance",
     "https://github.com/Louis-CFM/coucou",
     "https://github.com/Lumid-Off/AirCard-Windows",
@@ -3362,12 +3363,6 @@
   "recent": [
     {
       "date": "2026-11-26",
-      "subcat": "DevOps & Cloud",
-      "title": "Why Your AI Release Notes Hallucinate: The \"Why vs...",
-      "url": "https://dev.to/necoz/why-your-ai-release-notes-hallucinate-the-why-vs-what-problem-in-git-history-5ch0"
-    },
-    {
-      "date": "2026-11-26",
       "subcat": "AI & Machine Learning",
       "title": "dabingfy-dot/solo-to-team-skills",
       "url": "https://github.com/dabingfy-dot/solo-to-team-skills"
@@ -3419,6 +3414,12 @@
       "subcat": "Lobsters Picks",
       "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
       "url": "https://lobste.rs/s/srb0dp/marginalia_search_money_c_rust_ai_stuff"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Other Cool Projects",
+      "title": "LoreanXavier/pt-pc",
+      "url": "https://github.com/LoreanXavier/pt-pc"
     }
   ]
 }
