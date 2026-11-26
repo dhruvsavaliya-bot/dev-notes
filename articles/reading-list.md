@@ -778,6 +778,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/o0e2wj/quick_guide_go_s_assembler
 - **Link:** https://go.dev/doc/asm
 
+**Added 2026-11-26**
+
+### [Optimizing Rustc's next trait solver](https://donsz.nl/blog/optimizing-rustcs-next-trait-solver)
+- **Source:** donsz.nl | **Posted:** 2026-11-25 | **By:** jana
+- **Community:** 56 score, 11 comments on Lobsters
+- **Tags:** compilers, performance, rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/lyyksp/optimizing_rustc_s_next_trait_solver
+- **Link:** https://donsz.nl/blog/optimizing-rustcs-next-trait-solver
+
 
 ## Security
 

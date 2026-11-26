@@ -637,6 +637,7 @@
     "https://divagr.com/blog/qwenputer",
     "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
     "https://doeken.org/blog/coroutines-in-php",
+    "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver",
     "https://dontwordle.com/",
     "https://dosdays.co.uk/topics/Software/borland_turbo_basic.php",
     "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
@@ -2011,6 +2012,7 @@
     "https://lobste.rs/s/lnpwpu/quality_imap_part_2_mailbox_concurrency",
     "https://lobste.rs/s/lrpb0m/for_first_time_c_standard_failed_pass",
     "https://lobste.rs/s/lxo74i/introducing_microlighter",
+    "https://lobste.rs/s/lyyksp/optimizing_rustc_s_next_trait_solver",
     "https://lobste.rs/s/lzxb0m/magic_link_pitfalls",
     "https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely",
     "https://lobste.rs/s/m6fw0x/netbsd_adds_new_emacs_like_text_editor",
@@ -3392,12 +3394,6 @@
   "recent": [
     {
       "date": "2026-11-26",
-      "subcat": "Research Papers",
-      "title": "Characterizing GitHub Security Actions Alerts For Web...",
-      "url": "http://arxiv.org/abs/2611.23967v1"
-    },
-    {
-      "date": "2026-11-26",
       "subcat": "Show & Ask HN",
       "title": "Show HN: My $300 embroidery machine needed a...",
       "url": "https://news.ycombinator.com/item?id=50470488"
@@ -3449,6 +3445,12 @@
       "subcat": "Java",
       "title": "aleixrodriala/newtube",
       "url": "https://github.com/aleixrodriala/newtube"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Lobsters Picks",
+      "title": "Optimizing Rustc's next trait solver",
+      "url": "https://lobste.rs/s/lyyksp/optimizing_rustc_s_next_trait_solver"
     }
   ]
 }
