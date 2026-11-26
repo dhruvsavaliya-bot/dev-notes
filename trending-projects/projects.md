@@ -414,6 +414,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~46 stars/day since launch.
 - **Link:** https://github.com/cloudflare/kitesurf
 
+**Added 2026-11-27**
+
+### [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill)
+- **Stats:** 1,626 stars | 98 forks | 5 open issues
+- **Language:** TypeScript | **Created:** 2026-09-23 | **License:** MIT
+- **Topics:** agent-skill, agent-skills, ai-agents, claude-code, cloudflare, codex
+- **What it is:** Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.
+- **Growth:** averaging ~25 stars/day since launch.
+- **Link:** https://github.com/mikehasa/golive-skill
+
 
 ## Other Cool Projects
 

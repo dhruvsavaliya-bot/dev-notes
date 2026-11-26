@@ -1206,6 +1206,7 @@
     "https://github.com/microsoft/skill-recorder",
     "https://github.com/midesoft/rankGap",
     "https://github.com/mihirgupta0900/tv-home",
+    "https://github.com/mikehasa/golive-skill",
     "https://github.com/mikroverk/esp32sim",
     "https://github.com/miumiupy98-art/miuread-koreader",
     "https://github.com/mizorewww/gdirect",
@@ -3400,12 +3401,6 @@
   "recent": [
     {
       "date": "2026-11-26",
-      "subcat": "Models & Datasets",
-      "title": "nvidia/Nemotron-Personas-Vietnam",
-      "url": "https://huggingface.co/datasets/nvidia/Nemotron-Personas-Vietnam"
-    },
-    {
-      "date": "2026-11-26",
       "subcat": "Lobsters Picks",
       "title": "A Quick Guide to Go's Assembler",
       "url": "https://lobste.rs/s/o0e2wj/quick_guide_go_s_assembler"
@@ -3457,6 +3452,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Any courses/products by indie makers worth...",
       "url": "https://news.ycombinator.com/item?id=50656763"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "AI & Machine Learning",
+      "title": "mikehasa/golive-skill",
+      "url": "https://github.com/mikehasa/golive-skill"
     }
   ]
 }
