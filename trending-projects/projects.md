@@ -770,6 +770,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~61 stars/day since launch.
 - **Link:** https://github.com/driceroland/Search
 
+**Added 2026-11-26**
+
+### [TNTcraftHIM/Piik](https://github.com/TNTcraftHIM/Piik)
+- **Stats:** 4,880 stars | 305 forks | 15 open issues
+- **Language:** TypeScript | **Created:** 2026-08-18 | **License:** MIT
+- **Topics:** live-streaming, p2p, private-streaming, screen-sharing, self-hosted, watch-together
+- **What it is:** Free, open-source screen sharing for private live streams with friends. Watch together in a browser or self-host Piik. 免费开源的私密屏幕共享，支持游戏直播、一起看电影与自部署。
+- **Growth:** averaging ~48 stars/day since launch.
+- **Link:** https://github.com/TNTcraftHIM/Piik
+
 
 ## Developer Tools
 

@@ -889,6 +889,7 @@
     "https://github.com/Swayingleaves/novanova-studio",
     "https://github.com/SynkraAI/aiox-core",
     "https://github.com/TIGER-AI-Lab/WebsiteBench",
+    "https://github.com/TNTcraftHIM/Piik",
     "https://github.com/TableProApp/TablePro",
     "https://github.com/Taichu-AI/ZDTaichu5.0-9B",
     "https://github.com/TauricResearch/TradingAgents",
@@ -3383,12 +3384,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: A terminal-native idle factory game, written...",
-      "url": "https://news.ycombinator.com/item?id=50497132"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Hacker News Picks",
       "title": "Ruby2hell: Pre-authentication RCE on stock Rails",
       "url": "https://news.ycombinator.com/item?id=50556287"
@@ -3440,6 +3435,12 @@
       "subcat": "Hacker News Picks",
       "title": "Moat: Your OpenRouter Replacement",
       "url": "https://news.ycombinator.com/item?id=50652184"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Web & Frontend",
+      "title": "TNTcraftHIM/Piik",
+      "url": "https://github.com/TNTcraftHIM/Piik"
     }
   ]
 }
