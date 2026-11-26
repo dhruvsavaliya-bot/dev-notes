@@ -740,6 +740,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~7 stars/day since launch.
 - **Link:** https://github.com/Zesty0wl/mac-performance-monitor
 
+**Added 2026-11-26**
+
+### [driceroland/Search](https://github.com/driceroland/Search)
+- **Stats:** 4,119 stars | 440 forks | 15 open issues
+- **Language:** Swift | **Created:** 2026-09-20 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** A small, fast WebKit browser for macOS, by Office Commun.
+- **Growth:** averaging ~61 stars/day since launch.
+- **Link:** https://github.com/driceroland/Search
+
 
 ## Developer Tools
 

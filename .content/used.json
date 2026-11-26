@@ -1048,6 +1048,7 @@
     "https://github.com/dmmulroy/anti-slop",
     "https://github.com/dominikmartn/harp",
     "https://github.com/dqev/reicon",
+    "https://github.com/driceroland/Search",
     "https://github.com/drumih/turbo-fieldfare",
     "https://github.com/dsh-market/dsh-market",
     "https://github.com/dsh-tauri/deepseek-harness-desktop",
@@ -3357,12 +3358,6 @@
   "recent": [
     {
       "date": "2026-11-26",
-      "subcat": "Research Papers",
-      "title": "Endpoint-Conditioned Process Value: What an...",
-      "url": "http://arxiv.org/abs/2611.29354v1"
-    },
-    {
-      "date": "2026-11-26",
       "subcat": "Lobsters Picks",
       "title": "Please Implement A Quorum Database",
       "url": "https://lobste.rs/s/hgicaq/please_implement_quorum_database"
@@ -3414,6 +3409,12 @@
       "subcat": "Career & Craft",
       "title": "The Third Cup: You Don't Have to Fly That High",
       "url": "https://dev.to/thethirdcup/the-third-cup-you-dont-have-to-fly-that-high-3ehd"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Web & Frontend",
+      "title": "driceroland/Search",
+      "url": "https://github.com/driceroland/Search"
     }
   ]
 }
