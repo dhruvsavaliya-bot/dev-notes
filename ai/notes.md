@@ -404,6 +404,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.27519v1
 
+**Added 2026-11-27**
+
+### [Proving LLM-Generated GPU Kernels Correct and Safe: Floating-Point Verification in Lean and VerCors](http://arxiv.org/abs/2610.24548v1)
+- **Authors:** Archibald Browne, Eugene Lee, Cristopher Salvi
+- **Published:** 2026-10-17 | **Primary category:** cs.PL
+- **Categories:** cs.PL
+- **Abstract:** Modern statistical model development begins with a high-level specification in an automatic differentiation framework such as PyTorch, JAX, or TensorFlow, which is then lowered to a target backend by a compiler or implemented manually by a research engineer. In this paper, we study whether frontier language models can correctly perform the latter task by generating GPU kernels from high-level benchmark specifications. We introduce a framework in which a language-model agent uses Velvet, a progra...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.24548v1
+
 
 ## Models & Datasets
 

@@ -83,6 +83,7 @@
     "http://arxiv.org/abs/2610.23035v1",
     "http://arxiv.org/abs/2610.24058v1",
     "http://arxiv.org/abs/2610.24128v1",
+    "http://arxiv.org/abs/2610.24548v1",
     "http://arxiv.org/abs/2610.24928v1",
     "http://arxiv.org/abs/2610.25638v1",
     "http://arxiv.org/abs/2610.26730v1",
@@ -3405,12 +3406,6 @@
   "recent": [
     {
       "date": "2026-11-26",
-      "subcat": "AI & Machine Learning",
-      "title": "cloudflare/kitesurf",
-      "url": "https://github.com/cloudflare/kitesurf"
-    },
-    {
-      "date": "2026-11-26",
       "subcat": "Java",
       "title": "aleixrodriala/newtube",
       "url": "https://github.com/aleixrodriala/newtube"
@@ -3462,6 +3457,12 @@
       "subcat": "Swift",
       "title": "Harvard researchers find AI coding agents shifted the...",
       "url": "https://news.ycombinator.com/item?id=50538303"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Research Papers",
+      "title": "Proving LLM-Generated GPU Kernels Correct and Safe...",
+      "url": "http://arxiv.org/abs/2610.24548v1"
     }
   ]
 }
