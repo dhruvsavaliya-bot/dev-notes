@@ -149,6 +149,7 @@
     "http://arxiv.org/abs/2611.17915v1",
     "http://arxiv.org/abs/2611.21554v1",
     "http://arxiv.org/abs/2611.22905v1",
+    "http://arxiv.org/abs/2611.23967v1",
     "http://arxiv.org/abs/2611.24844v1",
     "http://arxiv.org/abs/2611.26349v1",
     "http://arxiv.org/abs/2611.26824v1",
@@ -3378,12 +3379,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Research Papers",
-      "title": "Latent Barrier Steering: Hierarchical Safety for...",
-      "url": "http://arxiv.org/abs/2611.13227v1"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Rust",
       "title": "How Rust Changed Me As A Developer",
       "url": "https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer"
@@ -3435,6 +3430,12 @@
       "subcat": "Security",
       "title": "shirudo-dev/shirudo",
       "url": "https://github.com/shirudo-dev/shirudo"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Research Papers",
+      "title": "Characterizing GitHub Security Actions Alerts For Web...",
+      "url": "http://arxiv.org/abs/2611.23967v1"
     }
   ]
 }

@@ -384,6 +384,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.22905v1
 
+**Added 2026-11-26**
+
+### [Characterizing GitHub Security Actions Alerts For Web Application Tutorials](http://arxiv.org/abs/2611.23967v1)
+- **Authors:** Bhagya Chembakottu, Martin P. Robillard
+- **Published:** 2026-11-18 | **Primary category:** cs.SE
+- **Categories:** cs.SE
+- **Abstract:** The high frequency of cybersecurity incidents involving web applications highlights the importance of secure software development practices. Static Application Security Testing (SAST) tools help identify potential vulnerabilities in source code without executing the code. Integrating SAST tools into GitHub Security Actions enables security alerts to be reported during development. However, the characteristics of these alerts can make them difficult for developers with limited security expertise ...
+- **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.23967v1
+
 
 ## Models & Datasets
 
