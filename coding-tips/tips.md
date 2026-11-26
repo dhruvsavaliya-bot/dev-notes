@@ -268,6 +268,16 @@ Github repo: https://github.com/lsernau/grh-lean
 - **Discussion:** https://lobste.rs/s/tlwot6/generalized_riemann_hypothesis_proof
 - **Link:** https://leanprover.zulipchat.com/#narrow/channel/658556-Riemann-Hypothesis/topic/Cleaning.20up.20the.20proof/near/643702366
 
+**Added 2026-11-26**
+
+### [Browser tabs as a container runtime](https://fzakaria.com/2026/11/25/browser-tabs-as-a-container-runtime)
+- **Source:** fzakaria.com | **Posted:** 2026-11-25 | **By:** mrw
+- **Community:** 15 score, 1 comments on Lobsters
+- **Tags:** ai, browsers, linux
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/hge0sd/browser_tabs_as_container_runtime
+- **Link:** https://fzakaria.com/2026/11/25/browser-tabs-as-a-container-runtime
+
 
 ## Show & Ask HN
 

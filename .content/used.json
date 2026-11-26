@@ -684,6 +684,7 @@
     "https://furifont.antfu.me/",
     "https://futhark-lang.org/blog/2026-10-14-defining-division.html",
     "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+    "https://fzakaria.com/2026/11/25/browser-tabs-as-a-container-runtime",
     "https://gabrieloc.com/2026/09/15/perspective.html",
     "https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust",
     "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
@@ -1967,6 +1968,7 @@
     "https://lobste.rs/s/hccdqa/shipping_jpeg_xl_chrome",
     "https://lobste.rs/s/hcofqi/probabilistic_data_structures_go_part_2",
     "https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not",
+    "https://lobste.rs/s/hge0sd/browser_tabs_as_container_runtime",
     "https://lobste.rs/s/hgicaq/please_implement_quorum_database",
     "https://lobste.rs/s/hplfis/examining_macos_gcc_binary",
     "https://lobste.rs/s/hrsyjf/11_nanoseconds_per_word_ridiculously",
@@ -3394,12 +3396,6 @@
   "recent": [
     {
       "date": "2026-11-26",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: My $300 embroidery machine needed a...",
-      "url": "https://news.ycombinator.com/item?id=50470488"
-    },
-    {
-      "date": "2026-11-26",
       "subcat": "Hacker News Picks",
       "title": "Moat: Your OpenRouter Replacement",
       "url": "https://news.ycombinator.com/item?id=50652184"
@@ -3451,6 +3447,12 @@
       "subcat": "Lobsters Picks",
       "title": "Optimizing Rustc's next trait solver",
       "url": "https://lobste.rs/s/lyyksp/optimizing_rustc_s_next_trait_solver"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Lobsters Picks",
+      "title": "Browser tabs as a container runtime",
+      "url": "https://lobste.rs/s/hge0sd/browser_tabs_as_container_runtime"
     }
   ]
 }
