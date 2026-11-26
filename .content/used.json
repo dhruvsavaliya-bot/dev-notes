@@ -761,6 +761,7 @@
     "https://github.com/Fei-Away/Codex-Dream-Skin",
     "https://github.com/Fei2411/DS-Bot",
     "https://github.com/Fervent-Tempo/AF-Media-Bar",
+    "https://github.com/Flaminis/Dalaran",
     "https://github.com/FlashML-org/FreeVideo",
     "https://github.com/Flow-Tube/Flow",
     "https://github.com/FrigadeHQ/hob",
@@ -3410,12 +3411,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Swift",
-      "title": "Show HN: Zigzag, a native Mac browser for people...",
-      "url": "https://news.ycombinator.com/item?id=50496787"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Research Papers",
       "title": "Record Types Everywhere",
       "url": "http://arxiv.org/abs/2610.27519v1"
@@ -3467,6 +3462,12 @@
       "subcat": "Lobsters Picks",
       "title": "Typed indexes in Zig",
       "url": "https://lobste.rs/s/l6g7j1/typed_indexes_zig"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Backend & Infrastructure",
+      "title": "Flaminis/Dalaran",
+      "url": "https://github.com/Flaminis/Dalaran"
     }
   ]
 }

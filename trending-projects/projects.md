@@ -896,6 +896,17 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~577 stars/day since launch.
 - **Link:** https://github.com/libracoder/kiri
 
+**Added 2026-11-27**
+
+### [Flaminis/Dalaran](https://github.com/Flaminis/Dalaran)
+- **Stats:** 636 stars | 25 forks | 8 open issues
+- **Language:** Rust | **Created:** 2026-08-07 | **License:** Apache-2.0
+- **Topics:** apache2, computer-vision, lidar, pointcloud, python, robotics
+- **What it is:** Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.
+- **Growth:** averaging ~5 stars/day since launch.
+- **Link:** https://github.com/Flaminis/Dalaran
+
+
 ## Security
 
 **Added 2026-11-26**
