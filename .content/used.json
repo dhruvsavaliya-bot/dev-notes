@@ -1454,6 +1454,7 @@
     "https://go.dev/blog/interactive-refactoring",
     "https://go.dev/blog/jsonv2",
     "https://go.dev/blog/simd-experiment",
+    "https://go.dev/doc/asm",
     "https://goliath32.com/blog/z80.html",
     "https://google.github.io/styleguide/rustguide.html",
     "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
@@ -2029,6 +2030,7 @@
     "https://lobste.rs/s/nuepys/what_requirements_don_t_you_have",
     "https://lobste.rs/s/nuoce5/next_level_benchmarking_overfitting",
     "https://lobste.rs/s/nxspz6/no_man_is_island",
+    "https://lobste.rs/s/o0e2wj/quick_guide_go_s_assembler",
     "https://lobste.rs/s/o0ixth/haxy_net_is_live_haxy_git_forge_devlog",
     "https://lobste.rs/s/o5to4p/faster_way_compute_signed_64_bit_floor",
     "https://lobste.rs/s/o8xo9z/importance_communities_around_software",
@@ -3386,12 +3388,6 @@
   "recent": [
     {
       "date": "2026-11-26",
-      "subcat": "Research Papers",
-      "title": "Think Before You Code: A Benchmark for Testing LLMs...",
-      "url": "http://arxiv.org/abs/2611.22905v1"
-    },
-    {
-      "date": "2026-11-26",
       "subcat": "Show & Ask HN",
       "title": "Show HN: An API for word timestamps from speech, 75%...",
       "url": "https://news.ycombinator.com/item?id=50532515"
@@ -3443,6 +3439,12 @@
       "subcat": "Models & Datasets",
       "title": "nvidia/Nemotron-Personas-Vietnam",
       "url": "https://huggingface.co/datasets/nvidia/Nemotron-Personas-Vietnam"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Lobsters Picks",
+      "title": "A Quick Guide to Go's Assembler",
+      "url": "https://lobste.rs/s/o0e2wj/quick_guide_go_s_assembler"
     }
   ]
 }

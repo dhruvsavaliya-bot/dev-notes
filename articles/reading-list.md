@@ -768,6 +768,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/hgicaq/please_implement_quorum_database
 - **Link:** https://transactional.blog/talk/please-implement-a-quorum-database
 
+**Added 2026-11-26**
+
+### [A Quick Guide to Go's Assembler](https://go.dev/doc/asm)
+- **Source:** go.dev | **Posted:** 2026-11-05 | **By:** juliethefoxcoon
+- **Community:** 16 score, 0 comments on Lobsters
+- **Tags:** assembly, compilers, go
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/o0e2wj/quick_guide_go_s_assembler
+- **Link:** https://go.dev/doc/asm
+
 
 ## Security
 
