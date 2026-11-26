@@ -948,6 +948,7 @@
     "https://github.com/air-embodied-brain/Zetta-Embodiment",
     "https://github.com/akitaonrails/ai-memory",
     "https://github.com/alchaincyf/huashu-motion",
+    "https://github.com/aleixrodriala/newtube",
     "https://github.com/alexrlocke/neorex",
     "https://github.com/aliyun/ai-agent-handbook",
     "https://github.com/amagine-ai/Amagine3D",
@@ -3391,12 +3392,6 @@
   "recent": [
     {
       "date": "2026-11-26",
-      "subcat": "Security",
-      "title": "shirudo-dev/shirudo",
-      "url": "https://github.com/shirudo-dev/shirudo"
-    },
-    {
-      "date": "2026-11-26",
       "subcat": "Research Papers",
       "title": "Characterizing GitHub Security Actions Alerts For Web...",
       "url": "http://arxiv.org/abs/2611.23967v1"
@@ -3448,6 +3443,12 @@
       "subcat": "AI & Machine Learning",
       "title": "cloudflare/kitesurf",
       "url": "https://github.com/cloudflare/kitesurf"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Java",
+      "title": "aleixrodriala/newtube",
+      "url": "https://github.com/aleixrodriala/newtube"
     }
   ]
 }

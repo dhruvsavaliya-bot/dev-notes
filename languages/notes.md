@@ -339,6 +339,16 @@ Top community posts, organized by programming language.
 - **Growth:** averaging ~3 stars/day since launch.
 - **Link:** https://github.com/OtterMind/Nubase
 
+**Added 2026-11-26**
+
+### [aleixrodriala/newtube](https://github.com/aleixrodriala/newtube)
+- **Stats:** 970 stars | 55 forks | 97 open issues
+- **Language:** Java | **Created:** 2026-07-09 | **License:** MIT
+- **Topics:** android, android-app, background-playback, dearrow, innertube, material-design
+- **What it is:** SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in.
+- **Growth:** averaging ~6 stars/day since launch.
+- **Link:** https://github.com/aleixrodriala/newtube
+
 
 ## Ruby
 

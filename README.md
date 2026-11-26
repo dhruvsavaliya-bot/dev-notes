@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2396 entries and counting** · Last updated: 2026-11-26
+**2397 entries and counting** · Last updated: 2026-11-26
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 480 |
 | [Reading List](articles/reading-list.md) | 487 |
 | [Coding Tips](coding-tips/tips.md) | 487 |
-| [Language Notes](languages/notes.md) | 454 |
+| [Language Notes](languages/notes.md) | 455 |
 
 ## Latest additions
 
+- **2026-11-26** · *Java* — [aleixrodriala/newtube](https://github.com/aleixrodriala/newtube)
 - **2026-11-26** · *AI & Machine Learning* — [cloudflare/kitesurf](https://github.com/cloudflare/kitesurf)
 - **2026-11-26** · *Lobsters Picks* — [Generalized Riemann Hypothesis proof in Lean 4, in...](https://lobste.rs/s/tlwot6/generalized_riemann_hypothesis_proof)
 - **2026-11-26** · *Lobsters Picks* — [A Quick Guide to Go's Assembler](https://lobste.rs/s/o0e2wj/quick_guide_go_s_assembler)
 - **2026-11-26** · *Models & Datasets* — [nvidia/Nemotron-Personas-Vietnam](https://huggingface.co/datasets/nvidia/Nemotron-Personas-Vietnam)
-- **2026-11-26** · *Java* — [OtterMind/Nubase](https://github.com/OtterMind/Nubase)
 
 ## How it works
 
