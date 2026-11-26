@@ -535,6 +535,16 @@ Top community posts, organized by programming language.
 - **Growth:** averaging ~32 stars/day since launch.
 - **Link:** https://github.com/humanitas-labs/quill
 
+**Added 2026-11-27**
+
+### [Show HN: Zigzag, a native Mac browser for people leaving Arc](https://github.com/ZigaoWang/zigzag)
+- **Source:** github.com | **Posted:** 2026-11-14 | **By:** ZigaoWang
+- **Community:** 123 points, 78 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50496787
+- **Link:** https://github.com/ZigaoWang/zigzag
+
+
 ## Python
 
 **Added 2026-11-24**

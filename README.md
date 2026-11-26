@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2399 entries and counting** · Last updated: 2026-11-26
+**2400 entries and counting** · Last updated: 2026-11-27
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 480 |
 | [Reading List](articles/reading-list.md) | 488 |
 | [Coding Tips](coding-tips/tips.md) | 488 |
-| [Language Notes](languages/notes.md) | 455 |
+| [Language Notes](languages/notes.md) | 456 |
 
 ## Latest additions
 
+- **2026-11-27** · *Swift* — [Show HN: Zigzag, a native Mac browser for people...](https://news.ycombinator.com/item?id=50496787)
 - **2026-11-26** · *Lobsters Picks* — [Browser tabs as a container runtime](https://lobste.rs/s/hge0sd/browser_tabs_as_container_runtime)
 - **2026-11-26** · *Lobsters Picks* — [Optimizing Rustc's next trait solver](https://lobste.rs/s/lyyksp/optimizing_rustc_s_next_trait_solver)
 - **2026-11-26** · *Java* — [aleixrodriala/newtube](https://github.com/aleixrodriala/newtube)
 - **2026-11-26** · *AI & Machine Learning* — [cloudflare/kitesurf](https://github.com/cloudflare/kitesurf)
-- **2026-11-26** · *Lobsters Picks* — [Generalized Riemann Hypothesis proof in Lean 4, in...](https://lobste.rs/s/tlwot6/generalized_riemann_hypothesis_proof)
 
 ## How it works
 

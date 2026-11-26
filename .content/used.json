@@ -931,6 +931,7 @@
     "https://github.com/Zeejay0/gathered-scenes-zine-skill",
     "https://github.com/Zesty0wl/mac-performance-monitor",
     "https://github.com/ZigEmbeddedGroup/microzig",
+    "https://github.com/ZigaoWang/zigzag",
     "https://github.com/Zleap-AI/SAG",
     "https://github.com/ZzzLc0405/photo-abstract-editorial",
     "https://github.com/aakarim/OpenLore",
@@ -2913,6 +2914,7 @@
     "https://news.ycombinator.com/item?id=50492860",
     "https://news.ycombinator.com/item?id=50493251",
     "https://news.ycombinator.com/item?id=50494696",
+    "https://news.ycombinator.com/item?id=50496787",
     "https://news.ycombinator.com/item?id=50497132",
     "https://news.ycombinator.com/item?id=50497589",
     "https://news.ycombinator.com/item?id=50499038",
@@ -3396,12 +3398,6 @@
   "recent": [
     {
       "date": "2026-11-26",
-      "subcat": "Hacker News Picks",
-      "title": "Moat: Your OpenRouter Replacement",
-      "url": "https://news.ycombinator.com/item?id=50652184"
-    },
-    {
-      "date": "2026-11-26",
       "subcat": "Web & Frontend",
       "title": "TNTcraftHIM/Piik",
       "url": "https://github.com/TNTcraftHIM/Piik"
@@ -3453,6 +3449,12 @@
       "subcat": "Lobsters Picks",
       "title": "Browser tabs as a container runtime",
       "url": "https://lobste.rs/s/hge0sd/browser_tabs_as_container_runtime"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Swift",
+      "title": "Show HN: Zigzag, a native Mac browser for people...",
+      "url": "https://news.ycombinator.com/item?id=50496787"
     }
   ]
 }
