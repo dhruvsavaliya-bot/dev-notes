@@ -364,6 +364,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.10334v1
 
+**Added 2026-11-26**
+
+### [LimoBench: How Street Smart Are Large Language Models?](http://arxiv.org/abs/2611.31682v1)
+- **Authors:** Gautam Choudhary, Jack Peng, Udesh Kumarasinghe, Rachel Rafik et al.
+- **Published:** 2026-11-23 | **Primary category:** cs.CL
+- **Categories:** cs.AI, cs.CL, cs.DB
+- **Abstract:** Large language models (LLMs) have transformed how humans interact with information, enabling natural-language interfaces across various domains. They are increasingly deployed for geospatial applications including map-based question answering, location-based services, and natural-language interfaces to spatial databases. But are LLMs truly location-aware, able to reliably interpret and precisely answer location queries involving real-world coordinates, points of interest (POIs), and geospatial d...
+- **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.31682v1
+
 
 ## Models & Datasets
 

@@ -155,6 +155,7 @@
     "http://arxiv.org/abs/2611.27077v1",
     "http://arxiv.org/abs/2611.27567v1",
     "http://arxiv.org/abs/2611.29354v1",
+    "http://arxiv.org/abs/2611.31682v1",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "http://blog.nozomi.space/posts/sw2_dock/",
     "http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx",
@@ -3365,12 +3366,6 @@
   "recent": [
     {
       "date": "2026-11-26",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: ExitPath  Open-source ways out of Slack...",
-      "url": "https://news.ycombinator.com/item?id=50547980"
-    },
-    {
-      "date": "2026-11-26",
       "subcat": "Research Papers",
       "title": "The GPU Needs an Operating System",
       "url": "http://arxiv.org/abs/2611.08720v1"
@@ -3422,6 +3417,12 @@
       "subcat": "Rust",
       "title": "Restaurant Delivery Payment-Skimming Campaign",
       "url": "https://news.ycombinator.com/item?id=50397017"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Research Papers",
+      "title": "LimoBench: How Street Smart Are Large Language Models?",
+      "url": "http://arxiv.org/abs/2611.31682v1"
     }
   ]
 }
