@@ -2060,6 +2060,7 @@
     "https://lobste.rs/s/siebde/my_favourite_powermac_is_nintendo_wii",
     "https://lobste.rs/s/spv7tb/rationale_for_filtering_llm_usage_links",
     "https://lobste.rs/s/sqftld/next_gen_borrow_checker_drop_replacement",
+    "https://lobste.rs/s/srb0dp/marginalia_search_money_c_rust_ai_stuff",
     "https://lobste.rs/s/sxlf4a/goodbye_google",
     "https://lobste.rs/s/ta2ojd/letter_from_machine_learning_engineer",
     "https://lobste.rs/s/tfjoxv/actual_budget",
@@ -3234,6 +3235,7 @@
     "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
     "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
     "https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL",
+    "https://www.marginalia.nu/log/a_141_marginalia_update/",
     "https://www.meta.com/vr-glasses/",
     "https://www.minimax.io/blog/minimax-m31f",
     "https://www.mixedbread.com/blog/toast-1",
@@ -3360,12 +3362,6 @@
   "recent": [
     {
       "date": "2026-11-26",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Warsaw in voxels  An interactive 3D map of...",
-      "url": "https://news.ycombinator.com/item?id=50339221"
-    },
-    {
-      "date": "2026-11-26",
       "subcat": "DevOps & Cloud",
       "title": "Why Your AI Release Notes Hallucinate: The \"Why vs...",
       "url": "https://dev.to/necoz/why-your-ai-release-notes-hallucinate-the-why-vs-what-problem-in-git-history-5ch0"
@@ -3417,6 +3413,12 @@
       "subcat": "Hacker News Picks",
       "title": "Tell HN: Lots of Ask HNs again",
       "url": "https://news.ycombinator.com/item?id=50649864"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Lobsters Picks",
+      "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
+      "url": "https://lobste.rs/s/srb0dp/marginalia_search_money_c_rust_ai_stuff"
     }
   ]
 }

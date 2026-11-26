@@ -244,6 +244,16 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://lobste.rs/s/y56k2b/beyond_linux_journey_through_open_source
 - **Link:** https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/
 
+**Added 2026-11-26**
+
+### [Marginalia Search, Money, C++, Rust, AI, stuff](https://www.marginalia.nu/log/a_141_marginalia_update/)
+- **Source:** www.marginalia.nu | **Posted:** 2026-11-25 | **By:** brn
+- **Community:** 102 score, 20 comments on Lobsters
+- **Tags:** c++, java, performance
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/srb0dp/marginalia_search_money_c_rust_ai_stuff
+- **Link:** https://www.marginalia.nu/log/a_141_marginalia_update/
+
 
 ## Show & Ask HN
 
