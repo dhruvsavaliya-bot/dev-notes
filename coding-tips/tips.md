@@ -692,6 +692,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50600771
 - **Link:** https://news.ycombinator.com/item?id=50600771
 
+**Added 2026-11-26**
+
+### [Show HN: An API for word timestamps from speech, 75% within 20ms](https://quebec.yarn.so)
+- **Source:** quebec.yarn.so | **Posted:** 2026-11-17 | **By:** jasperstory
+- **Community:** 82 points, 11 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50532515
+- **Link:** https://quebec.yarn.so
+
 
 ## Productivity
 
