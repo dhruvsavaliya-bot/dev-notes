@@ -329,6 +329,16 @@ Top community posts, organized by programming language.
 - **Discussion:** https://news.ycombinator.com/item?id=50527444
 - **Link:** https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/
 
+**Added 2026-11-26**
+
+### [OtterMind/Nubase](https://github.com/OtterMind/Nubase)
+- **Stats:** 623 stars | 73 forks | 5 open issues
+- **Language:** Java | **Created:** 2026-06-08 | **License:** Apache-2.0
+- **Topics:** agent, ai, ai-agents, claude-code, cli, deno
+- **What it is:** 🔥🔥🔥 Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, agentic applications, and modern product teams: Memory, Database, Storage, and Auth in one self-hostable service.
+- **Growth:** averaging ~3 stars/day since launch.
+- **Link:** https://github.com/OtterMind/Nubase
+
 
 ## Ruby
 

@@ -850,6 +850,7 @@
     "https://github.com/OpenWAM-Official/OpenWAM",
     "https://github.com/OpenYSM/OpenYSM",
     "https://github.com/Optiscaler-Client/Optiscaler-Client",
+    "https://github.com/OtterMind/Nubase",
     "https://github.com/Pal-AI-Lab/Coopanion",
     "https://github.com/Pan-Chera/Multi-Agent-CAD",
     "https://github.com/Paradigm-Study/claude-share",
@@ -3384,12 +3385,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Hacker News Picks",
-      "title": "Ruby2hell: Pre-authentication RCE on stock Rails",
-      "url": "https://news.ycombinator.com/item?id=50556287"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Models & Datasets",
       "title": "DavidAU/LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Ima...",
       "url": "https://huggingface.co/DavidAU/LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF"
@@ -3441,6 +3436,12 @@
       "subcat": "Web & Frontend",
       "title": "TNTcraftHIM/Piik",
       "url": "https://github.com/TNTcraftHIM/Piik"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Java",
+      "title": "OtterMind/Nubase",
+      "url": "https://github.com/OtterMind/Nubase"
     }
   ]
 }
