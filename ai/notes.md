@@ -394,6 +394,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.SE -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.23967v1
 
+**Added 2026-11-27**
+
+### [Record Types Everywhere](http://arxiv.org/abs/2610.27519v1)
+- **Authors:** Matthew Toohey, Ara Jamalzadeh, Ningning Xie
+- **Published:** 2026-10-20 | **Primary category:** cs.PL
+- **Categories:** cs.PL
+- **Abstract:** This paper introduces a novel calculus that models first-class environments and function application paradigms using standard record types. By proposing new extensions to general record types, we achieve a design that is remarkably simple and principled. We formalise this design in a core calculus and prove several desirable properties, including type soundness, normalization, and a simulation of the simply typed lambda calculus. Additionally, we extend the design with mutable references. The ca...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.27519v1
+
 
 ## Models & Datasets
 

@@ -87,6 +87,7 @@
     "http://arxiv.org/abs/2610.25638v1",
     "http://arxiv.org/abs/2610.26730v1",
     "http://arxiv.org/abs/2610.27012v1",
+    "http://arxiv.org/abs/2610.27519v1",
     "http://arxiv.org/abs/2610.28212v1",
     "http://arxiv.org/abs/2610.29276v1",
     "http://arxiv.org/abs/2610.29409v1",
@@ -3398,12 +3399,6 @@
   "recent": [
     {
       "date": "2026-11-26",
-      "subcat": "Web & Frontend",
-      "title": "TNTcraftHIM/Piik",
-      "url": "https://github.com/TNTcraftHIM/Piik"
-    },
-    {
-      "date": "2026-11-26",
       "subcat": "Java",
       "title": "OtterMind/Nubase",
       "url": "https://github.com/OtterMind/Nubase"
@@ -3455,6 +3450,12 @@
       "subcat": "Swift",
       "title": "Show HN: Zigzag, a native Mac browser for people...",
       "url": "https://news.ycombinator.com/item?id=50496787"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Research Papers",
+      "title": "Record Types Everywhere",
+      "url": "http://arxiv.org/abs/2610.27519v1"
     }
   ]
 }
