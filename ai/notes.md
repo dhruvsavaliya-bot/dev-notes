@@ -354,6 +354,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.08720v1
 
+**Added 2026-11-26**
+
+### [Reproducible LoRA Inference Through Deterministic Split-K Reduction](http://arxiv.org/abs/2611.10334v1)
+- **Authors:** Dhayaneshwar Balusamy, Ankur Mohan
+- **Published:** 2026-11-07 | **Primary category:** cs.DC
+- **Categories:** cs.LG, cs.AI, cs.DC, cs.PF
+- **Abstract:** Reproducibility is important for LoRA-adapted language models used in repeated evaluation, auditing, and decision-making. However, Split-K kernels used to introduce parallelism in low-rank LoRA multiplications can have the unintended consequence of numerical nondeterminism when partial results are combined using floating-point atomic additions. We investigate this non-determinism in vLLM across GSM8K mathematical reasoning, MBPP code generation, and Jev-style structured toxicity decisions on Civ...
+- **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.10334v1
+
 
 ## Models & Datasets
 

@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2371 entries and counting** · Last updated: 2026-11-26
+**2372 entries and counting** · Last updated: 2026-11-26
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 483 |
-| [AI / LLM Notes](ai/notes.md) | 474 |
+| [AI / LLM Notes](ai/notes.md) | 475 |
 | [Reading List](articles/reading-list.md) | 481 |
 | [Coding Tips](coding-tips/tips.md) | 481 |
 | [Language Notes](languages/notes.md) | 452 |
 
 ## Latest additions
 
+- **2026-11-26** · *Research Papers* — [Reproducible LoRA Inference Through Deterministic...](http://arxiv.org/abs/2611.10334v1)
 - **2026-11-26** · *Web & Frontend* — [driceroland/Search](https://github.com/driceroland/Search)
 - **2026-11-26** · *Career & Craft* — [The Third Cup: You Don't Have to Fly That High](https://dev.to/thethirdcup/the-third-cup-you-dont-have-to-fly-that-high-3ehd)
 - **2026-11-26** · *Hacker News Picks* — [A few questions for the guy who went snorkeling in a...](https://news.ycombinator.com/item?id=50643129)
 - **2026-11-26** · *Research Papers* — [The GPU Needs an Operating System](http://arxiv.org/abs/2611.08720v1)
-- **2026-11-26** · *Show & Ask HN* — [Show HN: ExitPath  Open-source ways out of Slack...](https://news.ycombinator.com/item?id=50547980)
 
 ## How it works
 
