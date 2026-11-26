@@ -128,6 +128,7 @@
     "http://arxiv.org/abs/2611.06373v1",
     "http://arxiv.org/abs/2611.06711v1",
     "http://arxiv.org/abs/2611.07367v1",
+    "http://arxiv.org/abs/2611.08720v1",
     "http://arxiv.org/abs/2611.08933v1",
     "http://arxiv.org/abs/2611.08947v1",
     "http://arxiv.org/abs/2611.09506v1",
@@ -3353,12 +3354,6 @@
   "recent": [
     {
       "date": "2026-11-25",
-      "subcat": "Research Papers",
-      "title": "A Unified Framework for Intelligent Cyber Attack...",
-      "url": "http://arxiv.org/abs/2611.26824v1"
-    },
-    {
-      "date": "2026-11-25",
       "subcat": "Hacker News Picks",
       "title": "Foldable Flight: The Best Paper Airplanes",
       "url": "https://news.ycombinator.com/item?id=50424581"
@@ -3410,6 +3405,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: ExitPath  Open-source ways out of Slack...",
       "url": "https://news.ycombinator.com/item?id=50547980"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Research Papers",
+      "title": "The GPU Needs an Operating System",
+      "url": "http://arxiv.org/abs/2611.08720v1"
     }
   ]
 }

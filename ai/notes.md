@@ -344,6 +344,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.29354v1
 
+**Added 2026-11-26**
+
+### [The GPU Needs an Operating System](http://arxiv.org/abs/2611.08720v1)
+- **Authors:** Reza Nourai, Behnam Bastani
+- **Published:** 2026-11-05 | **Primary category:** cs.DC
+- **Categories:** cs.DC
+- **Abstract:** AI chips sit mostly idle while serving models, because replies must be fast and each step waits on memory. On two large open models, the math units were busy only about 6-11% of the time. We argue the GPU needs an operating system that keeps urgent work on schedule and fills idle capacity with other useful work. A feature that ships today recovers a quarter of a GPU with work designed to share, and a tenth with real jobs, at 5% slower decode. Our research system does better: one resident kernel ...
+- **Why it's here:** fresh off arXiv cs.DC -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.08720v1
+
 
 ## Models & Datasets
 

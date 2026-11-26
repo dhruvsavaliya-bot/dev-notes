@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2367 entries and counting** · Last updated: 2026-11-26
+**2368 entries and counting** · Last updated: 2026-11-26
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 482 |
-| [AI / LLM Notes](ai/notes.md) | 473 |
+| [AI / LLM Notes](ai/notes.md) | 474 |
 | [Reading List](articles/reading-list.md) | 480 |
 | [Coding Tips](coding-tips/tips.md) | 480 |
 | [Language Notes](languages/notes.md) | 452 |
 
 ## Latest additions
 
+- **2026-11-26** · *Research Papers* — [The GPU Needs an Operating System](http://arxiv.org/abs/2611.08720v1)
 - **2026-11-26** · *Show & Ask HN* — [Show HN: ExitPath  Open-source ways out of Slack...](https://news.ycombinator.com/item?id=50547980)
 - **2026-11-26** · *AI & Machine Learning* — [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)
 - **2026-11-26** · *DevOps & Cloud* — [Why Your AI Release Notes Hallucinate: The "Why vs...](https://dev.to/necoz/why-your-ai-release-notes-hallucinate-the-why-vs-what-problem-in-git-history-5ch0)
 - **2026-11-26** · *Show & Ask HN* — [Show HN: Warsaw in voxels  An interactive 3D map of...](https://news.ycombinator.com/item?id=50339221)
-- **2026-11-26** · *Other Cool Projects* — [WhiteDNS/WhiteVPN-Desktop](https://github.com/WhiteDNS/WhiteVPN-Desktop)
 
 ## How it works
 
