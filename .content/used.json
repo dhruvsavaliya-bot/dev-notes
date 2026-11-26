@@ -2009,6 +2009,7 @@
     "https://lobste.rs/s/kfla2w/demoting_i686_windows_targets_std_only",
     "https://lobste.rs/s/kh9fri/writing_dsl_for_high_performance",
     "https://lobste.rs/s/kiivg2/partial_order_precedence",
+    "https://lobste.rs/s/l6g7j1/typed_indexes_zig",
     "https://lobste.rs/s/lcldxn/rustc_codegen_jvm_rust_compiler_backend",
     "https://lobste.rs/s/leqwqu/github_actions_accepts_invalid_yaml",
     "https://lobste.rs/s/lfen2h/living_weimar_era_ruby",
@@ -2185,6 +2186,7 @@
     "https://lovro-bikic.github.io/software-line-specialist/",
     "https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/",
     "https://lumi.codeberg.page/blog/software-community.html",
+    "https://lvignoli.eu/posts/2026-11-16-typed-indexes-in-zig/",
     "https://lwn.net/Articles/1086041/",
     "https://lwn.net/Articles/1101143/",
     "https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/",
@@ -3407,12 +3409,6 @@
   ],
   "recent": [
     {
-      "date": "2026-11-26",
-      "subcat": "Lobsters Picks",
-      "title": "Browser tabs as a container runtime",
-      "url": "https://lobste.rs/s/hge0sd/browser_tabs_as_container_runtime"
-    },
-    {
       "date": "2026-11-27",
       "subcat": "Swift",
       "title": "Show HN: Zigzag, a native Mac browser for people...",
@@ -3465,6 +3461,12 @@
       "subcat": "Models & Datasets",
       "title": "nokeepai/Inkling-2-Mini-Unbound-GGUF",
       "url": "https://huggingface.co/nokeepai/Inkling-2-Mini-Unbound-GGUF"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Lobsters Picks",
+      "title": "Typed indexes in Zig",
+      "url": "https://lobste.rs/s/l6g7j1/typed_indexes_zig"
     }
   ]
 }

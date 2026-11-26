@@ -797,6 +797,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/lyyksp/optimizing_rustc_s_next_trait_solver
 - **Link:** https://donsz.nl/blog/optimizing-rustcs-next-trait-solver
 
+**Added 2026-11-27**
+
+### [Typed indexes in Zig](https://lvignoli.eu/posts/2026-11-16-typed-indexes-in-zig/)
+- **Source:** lvignoli.eu | **Posted:** 2026-11-25 | **By:** lvig
+- **Community:** 31 score, 8 comments on Lobsters
+- **Tags:** programming, zig
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/l6g7j1/typed_indexes_zig
+- **Link:** https://lvignoli.eu/posts/2026-11-16-typed-indexes-in-zig/
+
 
 ## Security
 
