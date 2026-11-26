@@ -701,6 +701,15 @@ High-quality dev tutorials and guides, organized by level and topic.
 - **Discussion:** https://news.ycombinator.com/item?id=50532515
 - **Link:** https://quebec.yarn.so
 
+**Added 2026-11-26**
+
+### [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag)
+- **Source:** github.com | **Posted:** 2026-11-12 | **By:** simpsoka
+- **Community:** 743 points, 260 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50470488
+- **Link:** https://github.com/simpsoka/zigzag
+
 
 ## Productivity
 

@@ -1326,6 +1326,7 @@
     "https://github.com/simoarpe/ziggity",
     "https://github.com/simonlin1212/a-stock-data",
     "https://github.com/simplexai-labs/linger",
+    "https://github.com/simpsoka/zigzag",
     "https://github.com/sivchari/kumo",
     "https://github.com/slvDev/esp32-ai",
     "https://github.com/smithersai/claude-p",
@@ -2886,6 +2887,7 @@
     "https://news.ycombinator.com/item?id=50462177",
     "https://news.ycombinator.com/item?id=50468720",
     "https://news.ycombinator.com/item?id=50469994",
+    "https://news.ycombinator.com/item?id=50470488",
     "https://news.ycombinator.com/item?id=50471650",
     "https://news.ycombinator.com/item?id=50471668",
     "https://news.ycombinator.com/item?id=50473231",
@@ -3379,12 +3381,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Rust",
-      "title": "How Rust Changed Me As A Developer",
-      "url": "https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Models & Datasets",
       "title": "moonshotai/Kimi-K2.7-Code",
       "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code"
@@ -3436,6 +3432,12 @@
       "subcat": "Research Papers",
       "title": "Characterizing GitHub Security Actions Alerts For Web...",
       "url": "http://arxiv.org/abs/2611.23967v1"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: My $300 embroidery machine needed a...",
+      "url": "https://news.ycombinator.com/item?id=50470488"
     }
   ]
 }
