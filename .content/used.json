@@ -1319,6 +1319,7 @@
     "https://github.com/sheprd-labs/sheprd",
     "https://github.com/shihabal3amri/DiPlay",
     "https://github.com/shilapi/xcertplay",
+    "https://github.com/shirudo-dev/shirudo",
     "https://github.com/shy3130/tick-stock-panel",
     "https://github.com/siglake/siglake",
     "https://github.com/simoarpe/ziggity",
@@ -3377,12 +3378,6 @@
   "recent": [
     {
       "date": "2026-11-19",
-      "subcat": "Hacker News Picks",
-      "title": "F-22 Next-Generation microData Transfer Cartridge...",
-      "url": "https://news.ycombinator.com/item?id=50547583"
-    },
-    {
-      "date": "2026-11-19",
       "subcat": "Research Papers",
       "title": "Latent Barrier Steering: Hierarchical Safety for...",
       "url": "http://arxiv.org/abs/2611.13227v1"
@@ -3434,6 +3429,12 @@
       "subcat": "Hacker News Picks",
       "title": "Slow Ubuntu security response times",
       "url": "https://news.ycombinator.com/item?id=50647181"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Security",
+      "title": "shirudo-dev/shirudo",
+      "url": "https://github.com/shirudo-dev/shirudo"
     }
   ]
 }

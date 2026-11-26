@@ -865,3 +865,15 @@ Fast-growing open-source repos, organized by domain.
 - **What it is:** A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 - **Growth:** averaging ~577 stars/day since launch.
 - **Link:** https://github.com/libracoder/kiri
+
+## Security
+
+**Added 2026-11-26**
+
+### [shirudo-dev/shirudo](https://github.com/shirudo-dev/shirudo)
+- **Stats:** 2,264 stars | 223 forks | 104 open issues
+- **Language:** C | **Created:** 2026-10-13 | **License:** BSD-2-Clause
+- **Topics:** bpf, kernel, live-patching, lsm, observability, security
+- **What it is:** eBPF-based security platform
+- **Growth:** averaging ~51 stars/day since launch.
+- **Link:** https://github.com/shirudo-dev/shirudo
