@@ -394,6 +394,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~58 stars/day since launch.
 - **Link:** https://github.com/dabingfy-dot/solo-to-team-skills
 
+**Added 2026-11-26**
+
+### [achimala/dream-loop](https://github.com/achimala/dream-loop)
+- **Stats:** 2,561 stars | 242 forks | 5 open issues
+- **Language:** JavaScript | **Created:** 2026-09-07 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Agent skill for impressive 3D visuals using Blender + image gen + subagent critic
+- **Growth:** averaging ~32 stars/day since launch.
+- **Link:** https://github.com/achimala/dream-loop
+
 
 ## Other Cool Projects
 

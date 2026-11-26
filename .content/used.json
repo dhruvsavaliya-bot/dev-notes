@@ -929,6 +929,7 @@
     "https://github.com/aakarim/OpenLore",
     "https://github.com/aardappel/goose",
     "https://github.com/abcwyc/pi-agent-desktop",
+    "https://github.com/achimala/dream-loop",
     "https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS",
     "https://github.com/aden-hive/hive",
     "https://github.com/adityatandon15/Spring-Framework-Full-Course",
@@ -3369,12 +3370,6 @@
   "recent": [
     {
       "date": "2026-11-26",
-      "subcat": "Career & Craft",
-      "title": "The Third Cup: You Don't Have to Fly That High",
-      "url": "https://dev.to/thethirdcup/the-third-cup-you-dont-have-to-fly-that-high-3ehd"
-    },
-    {
-      "date": "2026-11-26",
       "subcat": "Web & Frontend",
       "title": "driceroland/Search",
       "url": "https://github.com/driceroland/Search"
@@ -3426,6 +3421,12 @@
       "subcat": "Hacker News Picks",
       "title": "The polynomial Hirsch conjecture is false [pdf]",
       "url": "https://news.ycombinator.com/item?id=50644980"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "AI & Machine Learning",
+      "title": "achimala/dream-loop",
+      "url": "https://github.com/achimala/dream-loop"
     }
   ]
 }
