@@ -400,6 +400,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50649864
 - **Link:** https://news.ycombinator.com/item?id=50649864
 
+**Added 2026-11-26**
+
+### [The polynomial Hirsch conjecture is false [pdf]](https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf)
+- **Source:** github.com | **Posted:** 2026-11-25 | **By:** acossta
+- **Community:** 141 points, 37 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50644980
+- **Link:** https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf
+
 
 ## Lobsters Picks
 
