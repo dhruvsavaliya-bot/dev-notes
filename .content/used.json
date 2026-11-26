@@ -588,6 +588,7 @@
     "https://dev.to/thebitforge/the-architecture-nobody-talks-about-how-i-built-systems-that-actually-scale-and-why-most-dont-3fk5",
     "https://dev.to/thebitforge/top-10-productivity-hacks-every-developer-should-know-151h",
     "https://dev.to/therealmrmumba/7-best-ai-project-management-tools-for-software-development-teams-in-2026-fik",
+    "https://dev.to/thethirdcup/the-third-cup-you-dont-have-to-fly-that-high-3ehd",
     "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
     "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
     "https://dev.to/tlorent/junior-devs-arent-disappearing-theyre-just-getting-started-5fob",
@@ -3356,12 +3357,6 @@
   "recent": [
     {
       "date": "2026-11-26",
-      "subcat": "C++",
-      "title": "6 Lessons Every Developer Should Learn",
-      "url": "https://dev.to/hadil/6-lessons-every-developer-should-learn-3d5l"
-    },
-    {
-      "date": "2026-11-26",
       "subcat": "Research Papers",
       "title": "Endpoint-Conditioned Process Value: What an...",
       "url": "http://arxiv.org/abs/2611.29354v1"
@@ -3413,6 +3408,12 @@
       "subcat": "Hacker News Picks",
       "title": "A few questions for the guy who went snorkeling in a...",
       "url": "https://news.ycombinator.com/item?id=50643129"
+    },
+    {
+      "date": "2026-11-26",
+      "subcat": "Career & Craft",
+      "title": "The Third Cup: You Don't Have to Fly That High",
+      "url": "https://dev.to/thethirdcup/the-third-cup-you-dont-have-to-fly-that-high-3ehd"
     }
   ]
 }
