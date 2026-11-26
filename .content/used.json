@@ -2961,6 +2961,7 @@
     "https://news.ycombinator.com/item?id=50600771",
     "https://news.ycombinator.com/item?id=50604355",
     "https://news.ycombinator.com/item?id=50626413",
+    "https://news.ycombinator.com/item?id=50630809",
     "https://news.ycombinator.com/item?id=50633159",
     "https://news.ycombinator.com/item?id=50634658",
     "https://news.ycombinator.com/item?id=50643129",
@@ -3406,12 +3407,6 @@
   "recent": [
     {
       "date": "2026-11-26",
-      "subcat": "Java",
-      "title": "aleixrodriala/newtube",
-      "url": "https://github.com/aleixrodriala/newtube"
-    },
-    {
-      "date": "2026-11-26",
       "subcat": "Lobsters Picks",
       "title": "Optimizing Rustc's next trait solver",
       "url": "https://lobste.rs/s/lyyksp/optimizing_rustc_s_next_trait_solver"
@@ -3463,6 +3458,12 @@
       "subcat": "Research Papers",
       "title": "Proving LLM-Generated GPU Kernels Correct and Safe...",
       "url": "http://arxiv.org/abs/2610.24548v1"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: Anthropic is accusing my company of...",
+      "url": "https://news.ycombinator.com/item?id=50630809"
     }
   ]
 }

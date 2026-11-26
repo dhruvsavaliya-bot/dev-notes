@@ -743,6 +743,15 @@ Github repo: https://github.com/lsernau/grh-lean
 - **Discussion:** https://news.ycombinator.com/item?id=50656763
 - **Link:** https://news.ycombinator.com/item?id=50656763
 
+**Added 2026-11-27**
+
+### [Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?](https://news.ycombinator.com/item?id=50630809)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-24 | **By:** weli
+- **Community:** 463 points, 356 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50630809
+- **Link:** https://news.ycombinator.com/item?id=50630809
+
 
 ## Productivity
 
