@@ -709,6 +709,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/DavidAU/LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF
 
+**Added 2026-11-26**
+
+### [nvidia/Nemotron-Personas-Vietnam](https://huggingface.co/datasets/nvidia/Nemotron-Personas-Vietnam)
+- **Stats:** 248 likes | 7,308 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-06-04
+- **Tags:** synthetic, personas, NVIDIA, Vietnamese, datadesigner
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/nvidia/Nemotron-Personas-Vietnam
+
 
 ## LLMs
 

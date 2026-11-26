@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2392 entries and counting** · Last updated: 2026-11-26
+**2393 entries and counting** · Last updated: 2026-11-26
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 487 |
-| [AI / LLM Notes](ai/notes.md) | 479 |
+| [AI / LLM Notes](ai/notes.md) | 480 |
 | [Reading List](articles/reading-list.md) | 486 |
 | [Coding Tips](coding-tips/tips.md) | 486 |
 | [Language Notes](languages/notes.md) | 454 |
 
 ## Latest additions
 
+- **2026-11-26** · *Models & Datasets* — [nvidia/Nemotron-Personas-Vietnam](https://huggingface.co/datasets/nvidia/Nemotron-Personas-Vietnam)
 - **2026-11-26** · *Java* — [OtterMind/Nubase](https://github.com/OtterMind/Nubase)
 - **2026-11-26** · *Web & Frontend* — [TNTcraftHIM/Piik](https://github.com/TNTcraftHIM/Piik)
 - **2026-11-26** · *Hacker News Picks* — [Moat: Your OpenRouter Replacement](https://news.ycombinator.com/item?id=50652184)
 - **2026-11-26** · *Show & Ask HN* — [Show HN: My $300 embroidery machine needed a...](https://news.ycombinator.com/item?id=50470488)
-- **2026-11-26** · *Research Papers* — [Characterizing GitHub Security Actions Alerts For Web...](http://arxiv.org/abs/2611.23967v1)
 
 ## How it works
 
