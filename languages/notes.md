@@ -499,6 +499,15 @@ Top community posts, organized by programming language.
 - **Summary:** Lessons every developer should learn rarely come from tutorials, coding bootcamps, or the first few...
 - **Link:** https://dev.to/hadil/6-lessons-every-developer-should-learn-3d5l
 
+**Added 2026-11-27**
+
+### [In C++, = default and {} are not the same constructor](https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/)
+- **Source:** lemire.me | **Posted:** 2026-11-25 | **By:** surprisetalk
+- **Community:** 127 points, 197 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50643199
+- **Link:** https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/
+
 
 ## Elixir
 

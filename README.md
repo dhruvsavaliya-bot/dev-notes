@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2427 entries and counting** · Last updated: 2026-11-27
+**2428 entries and counting** · Last updated: 2026-11-27
 
 ## Categories
 
@@ -14,15 +14,15 @@ the Hugging Face Hub.
 | [AI / LLM Notes](ai/notes.md) | 489 |
 | [Reading List](articles/reading-list.md) | 493 |
 | [Coding Tips](coding-tips/tips.md) | 495 |
-| [Language Notes](languages/notes.md) | 458 |
+| [Language Notes](languages/notes.md) | 459 |
 
 ## Latest additions
 
+- **2026-11-27** · *C++* — [In C++, = default and {} are not the same constructor](https://news.ycombinator.com/item?id=50643199)
+- **2026-11-27** · *Testing* — [API vs Event Streaming: O Que Muda Para Quem Testa?](https://dev.to/he4rt/api-vs-event-streaming-o-que-muda-para-quem-testa-1f1h)
 - **2026-11-27** · *Models & Datasets* — [peasantsmith/GLM-5.3-Flash-Maya-GGUF](https://huggingface.co/peasantsmith/GLM-5.3-Flash-Maya-GGUF)
 - **2026-11-27** · *Kotlin* — [Akshayykadam/PixelBoard](https://github.com/Akshayykadam/PixelBoard)
 - **2026-11-27** · *Productivity* — [A VS Code extension to turn any free chatbot in your...](https://dev.to/effessdev/a-vs-code-extension-to-turn-any-free-chatbot-website-into-an-ai-agent-kind-of-1n21)
-- **2026-11-27** · *Models & Datasets* — [harness-hub/automation-adapter-envs](https://huggingface.co/datasets/harness-hub/automation-adapter-envs)
-- **2026-11-27** · *Productivity* — [I Made My RAG Safer. It Got Worse Under Load](https://dev.to/ayush_singh321/i-made-my-rag-safer-it-got-worse-under-load-3olm)
 
 ## How it works
 
