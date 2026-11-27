@@ -842,6 +842,15 @@ Github repo: https://github.com/lsernau/grh-lean
 - **Summary:** It still feels a little strange to have AI writing practically all the code — but I decided to give...
 - **Link:** https://dev.to/m4rri4nne/building-a-database-performance-testing-tool-with-ai-the-honest-breakdown-3c0c
 
+**Added 2026-11-27**
+
+### [API vs Event Streaming: O Que Muda Para Quem Testa?](https://dev.to/he4rt/api-vs-event-streaming-o-que-muda-para-quem-testa-1f1h)
+- **Author:** Alicia Marianne Gonçalves | **Published:** Feb 12 | **Read time:** 4 min
+- **Community:** 81 reactions, 5 comments -- a top post in #testing
+- **Tags:** testing, braziliandevs, beginners, eventdriven
+- **Summary:** ✨ Oi, gente!  Recentemente, tenho pensado bastante em como contribuir para a comunidade de QA e...
+- **Link:** https://dev.to/he4rt/api-vs-event-streaming-o-que-muda-para-quem-testa-1f1h
+
 
 ## Beginner
 

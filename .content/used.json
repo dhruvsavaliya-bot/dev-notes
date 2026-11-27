@@ -474,6 +474,7 @@
     "https://dev.to/harsh2644/you-dont-have-an-ai-problem-you-have-a-thinking-problem-5f07",
     "https://dev.to/harsh2644/youre-not-lazy-youre-time-blind-heres-how-lock-in-fixes-it-57ej",
     "https://dev.to/he4rt/1a-vez-trabalhando-com-git-com-time-tudo-que-voce-precisa-saber-19il",
+    "https://dev.to/he4rt/api-vs-event-streaming-o-que-muda-para-quem-testa-1f1h",
     "https://dev.to/he4rt/claude-e-obsidian-como-uma-qa-utiliza-essas-ferramentas-no-dia-a-dia-51jc",
     "https://dev.to/he4rt/como-escolher-eventos-de-tecnologia-para-participar-55kf",
     "https://dev.to/he4rt/contribuir-para-a-comunidade-como-destacar-isso-no-seu-linkedin-e-curriculo-4cgl",
@@ -3418,12 +3419,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: Anthropic is accusing my company of...",
-      "url": "https://news.ycombinator.com/item?id=50630809"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Models & Datasets",
       "title": "nokeepai/Inkling-2-Mini-Unbound-GGUF",
       "url": "https://huggingface.co/nokeepai/Inkling-2-Mini-Unbound-GGUF"
@@ -3475,6 +3470,12 @@
       "subcat": "Web & Frontend",
       "title": "Renhuai123/ziwei-doushu",
       "url": "https://github.com/Renhuai123/ziwei-doushu"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Testing",
+      "title": "API vs Event Streaming: O Que Muda Para Quem Testa?",
+      "url": "https://dev.to/he4rt/api-vs-event-streaming-o-que-muda-para-quem-testa-1f1h"
     }
   ]
 }
