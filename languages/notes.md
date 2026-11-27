@@ -349,6 +349,16 @@ Top community posts, organized by programming language.
 - **Growth:** averaging ~6 stars/day since launch.
 - **Link:** https://github.com/aleixrodriala/newtube
 
+**Added 2026-11-27**
+
+### [Java4Shell is a reason to use Java](https://mccue.dev/pages/11-18-26-java4shell)
+- **Source:** mccue.dev | **Posted:** 2026-11-18 | **By:** emccue
+- **Community:** 43 score, 15 comments on Lobsters
+- **Tags:** java, security
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/a1uff5/java4shell_is_reason_use_java
+- **Link:** https://mccue.dev/pages/11-18-26-java4shell
+
 
 ## Ruby
 
