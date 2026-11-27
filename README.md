@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2417 entries and counting** · Last updated: 2026-11-27
+**2418 entries and counting** · Last updated: 2026-11-27
 
 ## Categories
 
@@ -12,17 +12,17 @@ the Hugging Face Hub.
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 492 |
 | [AI / LLM Notes](ai/notes.md) | 485 |
-| [Reading List](articles/reading-list.md) | 491 |
+| [Reading List](articles/reading-list.md) | 492 |
 | [Coding Tips](coding-tips/tips.md) | 492 |
 | [Language Notes](languages/notes.md) | 457 |
 
 ## Latest additions
 
+- **2026-11-27** · *Hacker News Picks* — [We're training a Figma-fluent editing model](https://news.ycombinator.com/item?id=50322603)
 - **2026-11-27** · *Testing* — [API vs Event Streaming: O Que Muda Para Quem Testa?](https://dev.to/he4rt/api-vs-event-streaming-o-que-muda-para-quem-testa-1f1h)
 - **2026-11-27** · *Web & Frontend* — [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
 - **2026-11-27** · *Research Papers* — [Blame-aware Recomposition for Secure Compilation...](http://arxiv.org/abs/2610.26054v1)
 - **2026-11-27** · *Hacker News Picks* — [Jules Verne's Lost Novel](https://news.ycombinator.com/item?id=50309314)
-- **2026-11-27** · *Testing* — [Building a Database Performance Testing Tool With AI...](https://dev.to/m4rri4nne/building-a-database-performance-testing-tool-with-ai-the-honest-breakdown-3c0c)
 
 ## How it works
 

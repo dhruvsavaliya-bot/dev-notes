@@ -2818,6 +2818,7 @@
     "https://news.ycombinator.com/item?id=50317331",
     "https://news.ycombinator.com/item?id=50319563",
     "https://news.ycombinator.com/item?id=50320255",
+    "https://news.ycombinator.com/item?id=50322603",
     "https://news.ycombinator.com/item?id=50323088",
     "https://news.ycombinator.com/item?id=50325253",
     "https://news.ycombinator.com/item?id=50326609",
@@ -3267,6 +3268,7 @@
     "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
     "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
     "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+    "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
     "https://www.foldableflight.com",
     "https://www.freebsd.org/status/report-2023-04-2023-06/",
     "https://www.friedgil.com/vpvnp/",
@@ -3419,12 +3421,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Models & Datasets",
-      "title": "nokeepai/Inkling-2-Mini-Unbound-GGUF",
-      "url": "https://huggingface.co/nokeepai/Inkling-2-Mini-Unbound-GGUF"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Lobsters Picks",
       "title": "Typed indexes in Zig",
       "url": "https://lobste.rs/s/l6g7j1/typed_indexes_zig"
@@ -3476,6 +3472,12 @@
       "subcat": "Testing",
       "title": "API vs Event Streaming: O Que Muda Para Quem Testa?",
       "url": "https://dev.to/he4rt/api-vs-event-streaming-o-que-muda-para-quem-testa-1f1h"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Hacker News Picks",
+      "title": "We're training a Figma-fluent editing model",
+      "url": "https://news.ycombinator.com/item?id=50322603"
     }
   ]
 }

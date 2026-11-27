@@ -453,6 +453,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50309314
 - **Link:** https://blue-continuum.com/verne-paris
 
+**Added 2026-11-27**
+
+### [We're training a Figma-fluent editing model](https://www.figma.com/blog/training-a-figma-fluent-editing-model/)
+- **Source:** www.figma.com | **Posted:** 2026-11-01 | **By:** gmays
+- **Community:** 150 points, 71 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50322603
+- **Link:** https://www.figma.com/blog/training-a-figma-fluent-editing-model/
+
 
 ## Lobsters Picks
 
