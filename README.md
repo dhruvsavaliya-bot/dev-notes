@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2411 entries and counting** · Last updated: 2026-11-27
+**2412 entries and counting** · Last updated: 2026-11-27
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 490 |
+| [Trending Projects](trending-projects/projects.md) | 491 |
 | [AI / LLM Notes](ai/notes.md) | 484 |
 | [Reading List](articles/reading-list.md) | 490 |
 | [Coding Tips](coding-tips/tips.md) | 490 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-27** · *AI & Machine Learning* — [clawwork-ai/ClawWork](https://github.com/clawwork-ai/ClawWork)
 - **2026-11-27** · *Research Papers* — [Univalent Non-Associative Categorical Structures](http://arxiv.org/abs/2611.00068v1)
 - **2026-11-27** · *Backend & Infrastructure* — [Flaminis/Dalaran](https://github.com/Flaminis/Dalaran)
 - **2026-11-27** · *Lobsters Picks* — [Typed indexes in Zig](https://lobste.rs/s/l6g7j1/typed_indexes_zig)
 - **2026-11-27** · *Models & Datasets* — [nokeepai/Inkling-2-Mini-Unbound-GGUF](https://huggingface.co/nokeepai/Inkling-2-Mini-Unbound-GGUF)
-- **2026-11-27** · *Show & Ask HN* — [Ask HN: Anthropic is accusing my company of...](https://news.ycombinator.com/item?id=50630809)
 
 ## How it works
 

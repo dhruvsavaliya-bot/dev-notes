@@ -1022,6 +1022,7 @@
     "https://github.com/cdyforever/how-to-live-better",
     "https://github.com/celldock/celldock-for-mac",
     "https://github.com/chasmlol/SkyCraft",
+    "https://github.com/clawwork-ai/ClawWork",
     "https://github.com/cloudflare/kitesurf",
     "https://github.com/cloudflare/security-audit-skill",
     "https://github.com/cocojojo5213/Dev-Janitor",
@@ -3412,12 +3413,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: Any courses/products by indie makers worth...",
-      "url": "https://news.ycombinator.com/item?id=50656763"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "AI & Machine Learning",
       "title": "mikehasa/golive-skill",
       "url": "https://github.com/mikehasa/golive-skill"
@@ -3469,6 +3464,12 @@
       "subcat": "Research Papers",
       "title": "Univalent Non-Associative Categorical Structures",
       "url": "http://arxiv.org/abs/2611.00068v1"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "AI & Machine Learning",
+      "title": "clawwork-ai/ClawWork",
+      "url": "https://github.com/clawwork-ai/ClawWork"
     }
   ]
 }

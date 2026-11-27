@@ -424,6 +424,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~25 stars/day since launch.
 - **Link:** https://github.com/mikehasa/golive-skill
 
+**Added 2026-11-27**
+
+### [clawwork-ai/ClawWork](https://github.com/clawwork-ai/ClawWork)
+- **Stats:** 536 stars | 72 forks | 36 open issues
+- **Language:** TypeScript | **Created:** 2026-03-12 | **License:** Apache-2.0
+- **Topics:** ai-agent, ai-tools, desktop-app, developer-tools, electron, git
+- **What it is:** Client for OpenClaw — Connect ClawWork to your own OpenClaw and unlock 10x multi-session productivity.
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/clawwork-ai/ClawWork
+
 
 ## Other Cool Projects
 
