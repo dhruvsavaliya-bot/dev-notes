@@ -404,6 +404,17 @@ Top community posts, organized by programming language.
 - **Growth:** averaging ~13 stars/day since launch.
 - **Link:** https://github.com/BuSung-dev/Root-My-Galaxy
 
+**Added 2026-11-27**
+
+### [Akshayykadam/PixelBoard](https://github.com/Akshayykadam/PixelBoard)
+- **Stats:** 1,765 stars | 90 forks | 59 open issues
+- **Language:** Kotlin | **Created:** 2026-09-17 | **License:** GPL-3.0
+- **Topics:** ai-writing-tools, android, apk, gboard, gboard-ai, gboard-mod
+- **What it is:** Unlock Google 11's Gemini "Rambler" Natural Voice Dictation & AI Writing Tools on ANY Android phone. No root required.
+- **Growth:** averaging ~24 stars/day since launch.
+- **Link:** https://github.com/Akshayykadam/PixelBoard
+
+
 ## TypeScript
 
 **Added 2026-11-21**

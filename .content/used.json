@@ -724,6 +724,7 @@
     "https://github.com/AGGIB/Stroq",
     "https://github.com/ARahim3/DigUp",
     "https://github.com/AhmadHassan-BTed/Noria",
+    "https://github.com/Akshayykadam/PixelBoard",
     "https://github.com/Albert-Weasker/niubigeo",
     "https://github.com/Alejandros17487/ai-jailbreaks",
     "https://github.com/AlephAITech/WorkBuddyGuide",
@@ -3428,12 +3429,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Web & Frontend",
-      "title": "Renhuai123/ziwei-doushu",
-      "url": "https://github.com/Renhuai123/ziwei-doushu"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Testing",
       "title": "API vs Event Streaming: O Que Muda Para Quem Testa?",
       "url": "https://dev.to/he4rt/api-vs-event-streaming-o-que-muda-para-quem-testa-1f1h"
@@ -3485,6 +3480,12 @@
       "subcat": "Productivity",
       "title": "A VS Code extension to turn any free chatbot in your...",
       "url": "https://dev.to/effessdev/a-vs-code-extension-to-turn-any-free-chatbot-website-into-an-ai-agent-kind-of-1n21"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Kotlin",
+      "title": "Akshayykadam/PixelBoard",
+      "url": "https://github.com/Akshayykadam/PixelBoard"
     }
   ]
 }
