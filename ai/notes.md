@@ -414,6 +414,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.24548v1
 
+**Added 2026-11-27**
+
+### [Univalent Non-Associative Categorical Structures](http://arxiv.org/abs/2611.00068v1)
+- **Authors:** Beatrice Szilvasy
+- **Published:** 2026-10-15 | **Primary category:** cs.PL
+- **Categories:** cs.LO, cs.PL, math.CT
+- **Abstract:** We study category-like structures in which composition is not associative, especially Munch-Maccagnoni's duploids, in univalent foundations. Included is a definition of what a univalent duploid is: one where isomorphisms of a suitable kind render the objects indistinguishable to the type theory. We show that the existing construction of a duploid from an adjunction is not univalent as a "single-sorted" duploid, and provide a novel construction which is. This work is formalized in the UniMath lib...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.00068v1
+
 
 ## Models & Datasets
 
