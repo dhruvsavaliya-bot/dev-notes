@@ -1169,6 +1169,7 @@
     "https://github.com/jub0t/concat",
     "https://github.com/justrach/codegraff",
     "https://github.com/justrach/nanolight",
+    "https://github.com/justrach/nanoui",
     "https://github.com/jwilk/python-syntax-errors",
     "https://github.com/kOlapsis/maintenant",
     "https://github.com/kaankiziltug/logo-design-skill",
@@ -3439,12 +3440,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Models & Datasets",
-      "title": "peasantsmith/GLM-5.3-Flash-Maya-GGUF",
-      "url": "https://huggingface.co/peasantsmith/GLM-5.3-Flash-Maya-GGUF"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Testing",
       "title": "API vs Event Streaming: O Que Muda Para Quem Testa?",
       "url": "https://dev.to/he4rt/api-vs-event-streaming-o-que-muda-para-quem-testa-1f1h"
@@ -3496,6 +3491,12 @@
       "subcat": "Models & Datasets",
       "title": "meituan-longcat/LongCat-Video-Avatar-1.6",
       "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Web & Frontend",
+      "title": "justrach/nanoui",
+      "url": "https://github.com/justrach/nanoui"
     }
   ]
 }

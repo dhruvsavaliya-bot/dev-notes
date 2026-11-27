@@ -820,6 +820,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~94 stars/day since launch.
 - **Link:** https://github.com/Renhuai123/ziwei-doushu
 
+**Added 2026-11-27**
+
+### [justrach/nanoui](https://github.com/justrach/nanoui)
+- **Stats:** 1,010 stars | 55 forks | 25 open issues
+- **Language:** Zig | **Created:** 2026-10-18 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Desktop apps in Zig, with native UI drawn on the GPU or a web frontend
+- **Growth:** averaging ~25 stars/day since launch.
+- **Link:** https://github.com/justrach/nanoui
+
 
 ## Developer Tools
 
