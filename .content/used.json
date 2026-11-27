@@ -405,6 +405,7 @@
     "https://dev.to/aws-builders/from-fresher-to-cloud-architect-how-to-start-your-aws-cloud-journey-1l3i",
     "https://dev.to/aws-builders/per-agent-cost-tracking-for-multi-agent-ai-on-aws-10eg",
     "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
+    "https://dev.to/ayush_singh321/i-made-my-rag-safer-it-got-worse-under-load-3olm",
     "https://dev.to/ayush_singh_9b0d83152be5b/a-two-line-function-caught-ai-collusion-better-than-the-ai-did-3nmd",
     "https://dev.to/ben/long-live-rails-3p21",
     "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
@@ -3425,12 +3426,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Testing",
-      "title": "Building a Database Performance Testing Tool With AI...",
-      "url": "https://dev.to/m4rri4nne/building-a-database-performance-testing-tool-with-ai-the-honest-breakdown-3c0c"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Hacker News Picks",
       "title": "Jules Verne's Lost Novel",
       "url": "https://news.ycombinator.com/item?id=50309314"
@@ -3482,6 +3477,12 @@
       "subcat": "Models & Datasets",
       "title": "Einsia/RoboUniverse-10K",
       "url": "https://huggingface.co/datasets/Einsia/RoboUniverse-10K"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Productivity",
+      "title": "I Made My RAG Safer. It Got Worse Under Load",
+      "url": "https://dev.to/ayush_singh321/i-made-my-rag-safer-it-got-worse-under-load-3olm"
     }
   ]
 }

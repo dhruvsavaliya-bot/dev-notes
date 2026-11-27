@@ -800,6 +800,15 @@ Github repo: https://github.com/lsernau/grh-lean
 - **Summary:** AI is getting better every day.  As a software engineer, this is a topic that is often top of mind,...
 - **Link:** https://dev.to/javz/ai-is-getting-better-here-is-my-plan-to-stay-ahead-2822
 
+**Added 2026-11-27**
+
+### [I Made My RAG Safer. It Got Worse Under Load](https://dev.to/ayush_singh321/i-made-my-rag-safer-it-got-worse-under-load-3olm)
+- **Author:** Ayush Singh | **Published:** Nov 22 | **Read time:** 7 min
+- **Community:** 76 reactions, 99 comments -- a top post in #productivity
+- **Tags:** ai, rag, discuss, productivity
+- **Summary:** RAG isn't dead, but unverified RAG should be. Here's what checking every sentence actually cost me on...
+- **Link:** https://dev.to/ayush_singh321/i-made-my-rag-safer-it-got-worse-under-load-3olm
+
 
 ## Career & Craft
 
