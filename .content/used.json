@@ -442,6 +442,7 @@
     "https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2",
     "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib",
     "https://dev.to/earlgreyhot1701d/one-month-after-the-hackathon-why-my-4-service-app-stopped-working-and-what-mansio-caught-in-the-3i8h",
+    "https://dev.to/effessdev/a-vs-code-extension-to-turn-any-free-chatbot-website-into-an-ai-agent-kind-of-1n21",
     "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
     "https://dev.to/entelligenceai/how-ai-documentation-tools-cut-onboarding-time-by-80-15k5",
     "https://dev.to/erikch/are-frontend-developers-cooked-is-frontend-design-safe-nn8",
@@ -3427,12 +3428,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Research Papers",
-      "title": "Blame-aware Recomposition for Secure Compilation...",
-      "url": "http://arxiv.org/abs/2610.26054v1"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Web & Frontend",
       "title": "Renhuai123/ziwei-doushu",
       "url": "https://github.com/Renhuai123/ziwei-doushu"
@@ -3484,6 +3479,12 @@
       "subcat": "Models & Datasets",
       "title": "harness-hub/automation-adapter-envs",
       "url": "https://huggingface.co/datasets/harness-hub/automation-adapter-envs"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Productivity",
+      "title": "A VS Code extension to turn any free chatbot in your...",
+      "url": "https://dev.to/effessdev/a-vs-code-extension-to-turn-any-free-chatbot-website-into-an-ai-agent-kind-of-1n21"
     }
   ]
 }

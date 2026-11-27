@@ -809,6 +809,15 @@ Github repo: https://github.com/lsernau/grh-lean
 - **Summary:** RAG isn't dead, but unverified RAG should be. Here's what checking every sentence actually cost me on...
 - **Link:** https://dev.to/ayush_singh321/i-made-my-rag-safer-it-got-worse-under-load-3olm
 
+**Added 2026-11-27**
+
+### [A VS Code extension to turn any free chatbot in your browser into an AI agent](https://dev.to/effessdev/a-vs-code-extension-to-turn-any-free-chatbot-website-into-an-ai-agent-kind-of-1n21)
+- **Author:** EffessDev | **Published:** Nov 21 | **Read time:** 7 min
+- **Community:** 53 reactions, 57 comments -- a top post in #productivity
+- **Tags:** ai, programming, opensource, productivity
+- **Summary:** If you've ever pasted ten files into ChatGPT, asked for a fix, then manually copied the result back...
+- **Link:** https://dev.to/effessdev/a-vs-code-extension-to-turn-any-free-chatbot-website-into-an-ai-agent-kind-of-1n21
+
 
 ## Career & Craft
 
