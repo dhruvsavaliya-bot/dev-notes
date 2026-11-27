@@ -767,6 +767,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/nokeepai/Inkling-2-Mini-Unbound-GGUF
 
+**Added 2026-11-27**
+
+### [greghavens/kimi-k3-coding-and-debugging-traces](https://huggingface.co/datasets/greghavens/kimi-k3-coding-and-debugging-traces)
+- **Stats:** 145 likes | 2,943 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-07-18
+- **Tags:** traces, code, agentic, tool-use, coding-agent, coding-agents
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/greghavens/kimi-k3-coding-and-debugging-traces
+
 
 ## LLMs
 

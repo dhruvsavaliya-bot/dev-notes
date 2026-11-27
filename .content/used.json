@@ -1633,6 +1633,7 @@
     "https://huggingface.co/datasets/glaiveai/glaive-function-calling-v2",
     "https://huggingface.co/datasets/google-research-datasets/mbpp",
     "https://huggingface.co/datasets/google/physical-engineerings-last-exam",
+    "https://huggingface.co/datasets/greghavens/kimi-k3-coding-and-debugging-traces",
     "https://huggingface.co/datasets/harborframework/terminal-bench-2.0",
     "https://huggingface.co/datasets/hongzhuyi/VDEBench",
     "https://huggingface.co/datasets/huggingface/badges",
@@ -3421,12 +3422,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Lobsters Picks",
-      "title": "Typed indexes in Zig",
-      "url": "https://lobste.rs/s/l6g7j1/typed_indexes_zig"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Backend & Infrastructure",
       "title": "Flaminis/Dalaran",
       "url": "https://github.com/Flaminis/Dalaran"
@@ -3478,6 +3473,12 @@
       "subcat": "Hacker News Picks",
       "title": "We're training a Figma-fluent editing model",
       "url": "https://news.ycombinator.com/item?id=50322603"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Models & Datasets",
+      "title": "greghavens/kimi-k3-coding-and-debugging-traces",
+      "url": "https://huggingface.co/datasets/greghavens/kimi-k3-coding-and-debugging-traces"
     }
   ]
 }
