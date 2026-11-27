@@ -852,6 +852,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/l6g7j1/typed_indexes_zig
 - **Link:** https://lvignoli.eu/posts/2026-11-16-typed-indexes-in-zig/
 
+**Added 2026-11-28**
+
+### [How WinHelp files work](https://quin.fyi/posts/how-winhelp-files-work.html)
+- **Source:** quin.fyi | **Posted:** 2026-11-26 | **By:** Quin
+- **Community:** 22 score, 8 comments on Lobsters
+- **Tags:** programming, reversing, rust, show
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/w4kxiz/how_winhelp_files_work
+- **Link:** https://quin.fyi/posts/how-winhelp-files-work.html
+
 
 ## Security
 

@@ -2158,6 +2158,7 @@
     "https://lobste.rs/s/vyfegx/what_are_you_doing_this_week",
     "https://lobste.rs/s/w0qpxu/real_time_garbage_collector",
     "https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice",
+    "https://lobste.rs/s/w4kxiz/how_winhelp_files_work",
     "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed",
     "https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop",
     "https://lobste.rs/s/wd4ye5/clojure_conj_2026",
@@ -3101,6 +3102,7 @@
     "https://quebec.yarn.so",
     "https://queue.acm.org/detail.cfm?id=3807963",
     "https://queue.acm.org/doi/10.1145/3831361",
+    "https://quin.fyi/posts/how-winhelp-files-work.html",
     "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html",
     "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
     "https://raphaelkabo.com/blog/social-network-ideas",
@@ -3448,12 +3450,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Hacker News Picks",
-      "title": "Largest 2D Chart library in the world using BUI...",
-      "url": "https://news.ycombinator.com/item?id=50658193"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Java",
       "title": "Java4Shell is a reason to use Java",
       "url": "https://lobste.rs/s/a1uff5/java4shell_is_reason_use_java"
@@ -3505,6 +3501,12 @@
       "subcat": "Other Cool Projects",
       "title": "Lee-xeo/Claude-Cage",
       "url": "https://github.com/Lee-xeo/Claude-Cage"
+    },
+    {
+      "date": "2026-11-28",
+      "subcat": "Lobsters Picks",
+      "title": "How WinHelp files work",
+      "url": "https://lobste.rs/s/w4kxiz/how_winhelp_files_work"
     }
   ]
 }
