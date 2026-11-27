@@ -497,6 +497,7 @@
     "https://dev.to/james_anderson_h/the-7-walls-javascript-hits-and-how-webassembly-gets-past-them-3khk",
     "https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g",
     "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
+    "https://dev.to/javz/ai-is-getting-better-here-is-my-plan-to-stay-ahead-2822",
     "https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762",
     "https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b",
     "https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0",
@@ -3422,12 +3423,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Backend & Infrastructure",
-      "title": "Flaminis/Dalaran",
-      "url": "https://github.com/Flaminis/Dalaran"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Research Papers",
       "title": "Univalent Non-Associative Categorical Structures",
       "url": "http://arxiv.org/abs/2611.00068v1"
@@ -3479,6 +3474,12 @@
       "subcat": "Models & Datasets",
       "title": "greghavens/kimi-k3-coding-and-debugging-traces",
       "url": "https://huggingface.co/datasets/greghavens/kimi-k3-coding-and-debugging-traces"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Productivity",
+      "title": "AI is getting better. Here is my plan to stay ahead.",
+      "url": "https://dev.to/javz/ai-is-getting-better-here-is-my-plan-to-stay-ahead-2822"
     }
   ]
 }

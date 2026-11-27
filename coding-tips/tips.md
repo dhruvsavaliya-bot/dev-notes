@@ -791,6 +791,15 @@ Github repo: https://github.com/lsernau/grh-lean
 - **Summary:** ⚠️aviso: este artigo não pretende promover o trabalho durante exaustão mental (burnout), se você...
 - **Link:** https://dev.to/limonada/quando-o-pomodoro-nao-funciona-organizacao-realista-para-tdah-em-burnout-2a4c
 
+**Added 2026-11-27**
+
+### [AI is getting better. Here is my plan to stay ahead.](https://dev.to/javz/ai-is-getting-better-here-is-my-plan-to-stay-ahead-2822)
+- **Author:** Julien Avezou | **Published:** Nov 12 | **Read time:** 8 min
+- **Community:** 65 reactions, 44 comments -- a top post in #productivity
+- **Tags:** ai, productivity, programming, discuss
+- **Summary:** AI is getting better every day.  As a software engineer, this is a topic that is often top of mind,...
+- **Link:** https://dev.to/javz/ai-is-getting-better-here-is-my-plan-to-stay-ahead-2822
+
 
 ## Career & Craft
 
