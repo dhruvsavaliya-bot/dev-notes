@@ -308,6 +308,7 @@
     "https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state",
     "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
     "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+    "https://blue-continuum.com/verne-paris",
     "https://blueberrywren.dev/blog/primes/",
     "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
     "https://borretti.me/article/no-man-is-an-island",
@@ -2808,6 +2809,7 @@
     "https://news.ycombinator.com/item?id=50305320",
     "https://news.ycombinator.com/item?id=50306442",
     "https://news.ycombinator.com/item?id=50307723",
+    "https://news.ycombinator.com/item?id=50309314",
     "https://news.ycombinator.com/item?id=50312756",
     "https://news.ycombinator.com/item?id=50315782",
     "https://news.ycombinator.com/item?id=50317331",
@@ -3414,12 +3416,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Hacker News Picks",
-      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at...",
-      "url": "https://news.ycombinator.com/item?id=50659841"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Swift",
       "title": "Harvard researchers find AI coding agents shifted the...",
       "url": "https://news.ycombinator.com/item?id=50538303"
@@ -3471,6 +3467,12 @@
       "subcat": "Testing",
       "title": "Building a Database Performance Testing Tool With AI...",
       "url": "https://dev.to/m4rri4nne/building-a-database-performance-testing-tool-with-ai-the-honest-breakdown-3c0c"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Hacker News Picks",
+      "title": "Jules Verne's Lost Novel",
+      "url": "https://news.ycombinator.com/item?id=50309314"
     }
   ]
 }

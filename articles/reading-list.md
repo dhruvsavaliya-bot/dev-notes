@@ -444,6 +444,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50659841
 - **Link:** https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/
 
+**Added 2026-11-27**
+
+### [Jules Verne's Lost Novel](https://blue-continuum.com/verne-paris)
+- **Source:** blue-continuum.com | **Posted:** 2026-10-30 | **By:** dnetesn
+- **Community:** 152 points, 34 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50309314
+- **Link:** https://blue-continuum.com/verne-paris
+
 
 ## Lobsters Picks
 
