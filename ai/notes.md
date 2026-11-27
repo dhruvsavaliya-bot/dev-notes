@@ -802,6 +802,12 @@ The best recent AI engineering content, organized by area.
 - **Tags:** gguf, imatrix, mixture-of-experts, glm, project-maya, vision
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/peasantsmith/GLM-5.3-Flash-Maya-GGUF
+### [TenStrip/10Eros-Max](https://huggingface.co/TenStrip/10Eros-Max)
+- **Stats:** 1,211 likes | 0 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-video | **Created:** 2026-08-04
+- **Tags:** text-to-video, image-text-to-video, image-to-video
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/TenStrip/10Eros-Max
 
 
 ## LLMs

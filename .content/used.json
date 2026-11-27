@@ -1553,6 +1553,7 @@
     "https://huggingface.co/Scantist/GLM-5.3-SLIM-GGUF",
     "https://huggingface.co/ServiceNow-AI/Apriel-Voice-27B-preview",
     "https://huggingface.co/TaichuAI/ZDTaichu5.0-9B",
+    "https://huggingface.co/TenStrip/10Eros-Max",
     "https://huggingface.co/XHToken/Spark-X2.6-4B",
     "https://huggingface.co/agentionai/Qwen3.8-Flash-Next-Gyro-abliterated-Huihui-GGUF",
     "https://huggingface.co/akatz-ai/MiniMax-H3-Character-Swap-LoRA",
@@ -3433,24 +3434,6 @@
     {
       "date": "2026-11-27",
       "subcat": "Productivity",
-      "title": "AI is getting better. Here is my plan to stay ahead.",
-      "url": "https://dev.to/javz/ai-is-getting-better-here-is-my-plan-to-stay-ahead-2822"
-    },
-    {
-      "date": "2026-11-27",
-      "subcat": "Open Source",
-      "title": "Local AI Code Review Before a PR: Tools That Catch...",
-      "url": "https://dev.to/dev_kiran/local-ai-code-review-before-a-pr-tools-that-catch-bugs-before-you-push-b8e"
-    },
-    {
-      "date": "2026-11-27",
-      "subcat": "Models & Datasets",
-      "title": "Einsia/RoboUniverse-10K",
-      "url": "https://huggingface.co/datasets/Einsia/RoboUniverse-10K"
-    },
-    {
-      "date": "2026-11-27",
-      "subcat": "Productivity",
       "title": "I Made My RAG Safer. It Got Worse Under Load",
       "url": "https://dev.to/ayush_singh321/i-made-my-rag-safer-it-got-worse-under-load-3olm"
     },
@@ -3489,6 +3472,24 @@
       "subcat": "C++",
       "title": "In C++, = default and {} are not the same constructor",
       "url": "https://news.ycombinator.com/item?id=50643199"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Hacker News Picks",
+      "title": "We're training a Figma-fluent editing model",
+      "url": "https://news.ycombinator.com/item?id=50322603"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Models & Datasets",
+      "title": "greghavens/kimi-k3-coding-and-debugging-traces",
+      "url": "https://huggingface.co/datasets/greghavens/kimi-k3-coding-and-debugging-traces"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Models & Datasets",
+      "title": "TenStrip/10Eros-Max",
+      "url": "https://huggingface.co/TenStrip/10Eros-Max"
     }
   ]
 }
