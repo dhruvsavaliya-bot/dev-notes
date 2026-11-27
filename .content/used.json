@@ -358,6 +358,7 @@
     "https://community.nlnetlabs.nl/t/release-roto-v0-14-0/3511",
     "https://comonad.com/reader/2026/turbo-haskell/",
     "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+    "https://construct22.com/",
     "https://copperhead.sh/",
     "https://corgi.computer/",
     "https://cr.yp.to/2025/fil-c.html",
@@ -3006,6 +3007,7 @@
     "https://news.ycombinator.com/item?id=50658193",
     "https://news.ycombinator.com/item?id=50659841",
     "https://news.ycombinator.com/item?id=50663261",
+    "https://news.ycombinator.com/item?id=50663595",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -3445,12 +3447,6 @@
     {
       "date": "2026-11-27",
       "subcat": "Models & Datasets",
-      "title": "greghavens/kimi-k3-coding-and-debugging-traces",
-      "url": "https://huggingface.co/datasets/greghavens/kimi-k3-coding-and-debugging-traces"
-    },
-    {
-      "date": "2026-11-27",
-      "subcat": "Models & Datasets",
       "title": "TenStrip/10Eros-Max",
       "url": "https://huggingface.co/TenStrip/10Eros-Max"
     },
@@ -3501,6 +3497,12 @@
       "subcat": "Models & Datasets",
       "title": "Cloudflare/clairic",
       "url": "https://huggingface.co/Cloudflare/clairic"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Hacker News Picks",
+      "title": "The group chat where your AI talks behind your back",
+      "url": "https://news.ycombinator.com/item?id=50663595"
     }
   ]
 }

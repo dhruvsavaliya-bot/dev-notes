@@ -480,6 +480,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50663261
 - **Link:** https://www.buynothingday.co.uk/
 
+**Added 2026-11-27**
+
+### [The group chat where your AI talks behind your back](https://construct22.com/)
+- **Source:** construct22.com | **Posted:** 2026-11-27 | **By:** utiiiD
+- **Community:** 442 points, 190 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50663595
+- **Link:** https://construct22.com/
+
 
 ## Lobsters Picks
 
