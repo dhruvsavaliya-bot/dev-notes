@@ -776,6 +776,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/greghavens/kimi-k3-coding-and-debugging-traces
 
+**Added 2026-11-27**
+
+### [Einsia/RoboUniverse-10K](https://huggingface.co/datasets/Einsia/RoboUniverse-10K)
+- **Stats:** 52 likes | 3,635 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-11-22
+- **Tags:** robotics, simulation, embodied-ai, benchmark
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/Einsia/RoboUniverse-10K
+
 
 ## LLMs
 

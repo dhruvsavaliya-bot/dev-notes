@@ -1577,6 +1577,7 @@
     "https://huggingface.co/datasets/CMRobot/MotionDecode",
     "https://huggingface.co/datasets/CodeDevX/Vibe-Coding-Instruct",
     "https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces",
+    "https://huggingface.co/datasets/Einsia/RoboUniverse-10K",
     "https://huggingface.co/datasets/FineEnvs/SmolDataEnvs",
     "https://huggingface.co/datasets/FlyRank/internship-warehouse",
     "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
@@ -3424,12 +3425,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "AI & Machine Learning",
-      "title": "clawwork-ai/ClawWork",
-      "url": "https://github.com/clawwork-ai/ClawWork"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Testing",
       "title": "Building a Database Performance Testing Tool With AI...",
       "url": "https://dev.to/m4rri4nne/building-a-database-performance-testing-tool-with-ai-the-honest-breakdown-3c0c"
@@ -3481,6 +3476,12 @@
       "subcat": "Open Source",
       "title": "Local AI Code Review Before a PR: Tools That Catch...",
       "url": "https://dev.to/dev_kiran/local-ai-code-review-before-a-pr-tools-that-catch-bugs-before-you-push-b8e"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Models & Datasets",
+      "title": "Einsia/RoboUniverse-10K",
+      "url": "https://huggingface.co/datasets/Einsia/RoboUniverse-10K"
     }
   ]
 }
