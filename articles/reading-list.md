@@ -462,6 +462,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50322603
 - **Link:** https://www.figma.com/blog/training-a-figma-fluent-editing-model/
 
+**Added 2026-11-27**
+
+### [Largest 2D Chart library in the world using BUI: BlenderUI](https://bui.preetham.top/charts/)
+- **Source:** bui.preetham.top | **Posted:** 2026-11-26 | **By:** ppmpreetham
+- **Community:** 110 points, 33 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50658193
+- **Link:** https://bui.preetham.top/charts/
+
 
 ## Lobsters Picks
 

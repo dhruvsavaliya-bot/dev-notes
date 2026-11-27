@@ -323,6 +323,7 @@
     "https://bsandro.tech/posts/simple-netbsd-webserver/",
     "https://buf.build/blog/protobuf-lsp",
     "https://bugs.chromium.org/p/chromium/issues/detail?id=896897&desc=2#c23",
+    "https://bui.preetham.top/charts/",
     "https://bun.com/blog/bun-v1.4",
     "https://burntsushi.net/jiff/",
     "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
@@ -2996,6 +2997,7 @@
     "https://news.ycombinator.com/item?id=50649864",
     "https://news.ycombinator.com/item?id=50652184",
     "https://news.ycombinator.com/item?id=50656763",
+    "https://news.ycombinator.com/item?id=50658193",
     "https://news.ycombinator.com/item?id=50659841",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
@@ -3434,12 +3436,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Models & Datasets",
-      "title": "harness-hub/automation-adapter-envs",
-      "url": "https://huggingface.co/datasets/harness-hub/automation-adapter-envs"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Productivity",
       "title": "A VS Code extension to turn any free chatbot in your...",
       "url": "https://dev.to/effessdev/a-vs-code-extension-to-turn-any-free-chatbot-website-into-an-ai-agent-kind-of-1n21"
@@ -3491,6 +3487,12 @@
       "subcat": "Research Papers",
       "title": "Freely Generated Categorical Structures and Automatic...",
       "url": "http://arxiv.org/abs/2609.40046v1"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Hacker News Picks",
+      "title": "Largest 2D Chart library in the world using BUI...",
+      "url": "https://news.ycombinator.com/item?id=50658193"
     }
   ]
 }
