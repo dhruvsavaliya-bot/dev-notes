@@ -3001,6 +3001,7 @@
     "https://news.ycombinator.com/item?id=50649864",
     "https://news.ycombinator.com/item?id=50652184",
     "https://news.ycombinator.com/item?id=50656763",
+    "https://news.ycombinator.com/item?id=50657957",
     "https://news.ycombinator.com/item?id=50658193",
     "https://news.ycombinator.com/item?id=50659841",
     "https://news.ycombinator.com/item?id=50663261",
@@ -3442,12 +3443,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "C++",
-      "title": "In C++, = default and {} are not the same constructor",
-      "url": "https://news.ycombinator.com/item?id=50643199"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Hacker News Picks",
       "title": "We're training a Figma-fluent editing model",
       "url": "https://news.ycombinator.com/item?id=50322603"
@@ -3499,6 +3494,12 @@
       "subcat": "Hacker News Picks",
       "title": "Buy Nothing Day  Friday November 27th 2026",
       "url": "https://news.ycombinator.com/item?id=50663261"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Show & Ask HN",
+      "title": "Ask HN: How do you find meaning of life at 41?",
+      "url": "https://news.ycombinator.com/item?id=50657957"
     }
   ]
 }

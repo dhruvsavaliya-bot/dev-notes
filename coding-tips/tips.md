@@ -752,6 +752,15 @@ Github repo: https://github.com/lsernau/grh-lean
 - **Discussion:** https://news.ycombinator.com/item?id=50630809
 - **Link:** https://news.ycombinator.com/item?id=50630809
 
+**Added 2026-11-27**
+
+### [Ask HN: How do you find meaning of life at 41?](https://news.ycombinator.com/item?id=50657957)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-26 | **By:** BTA_DoIt
+- **Community:** 64 points, 108 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50657957
+- **Link:** https://news.ycombinator.com/item?id=50657957
+
 
 ## Productivity
 
