@@ -424,6 +424,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2611.00068v1
 
+**Added 2026-11-27**
+
+### [Blame-aware Recomposition for Secure Compilation Proofs of Low-Level Compartment Isolation](http://arxiv.org/abs/2610.26054v1)
+- **Authors:** Basile Schlosser, Jérémy Thibault, Catalin Hritcu
+- **Published:** 2026-10-19 | **Primary category:** cs.PL
+- **Categories:** cs.PL, cs.CR
+- **Abstract:** The security guarantees of existing formally verified compilers for compartmentalized programs in unsafe languages like C stop at a rather high level, assuming a built-in protection mechanism and a block-based memory model. Verifying a concrete, low-level enforcement mechanism for compartment isolation is still a major challenge for current proof techniques. In particular, Abate et al.'s proof technique fails because one of their proof steps, recomposition, essentially requires hiding all inform...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2610.26054v1
+
 
 ## Models & Datasets
 

@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2414 entries and counting** · Last updated: 2026-11-27
+**2415 entries and counting** · Last updated: 2026-11-27
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 491 |
-| [AI / LLM Notes](ai/notes.md) | 484 |
+| [AI / LLM Notes](ai/notes.md) | 485 |
 | [Reading List](articles/reading-list.md) | 491 |
 | [Coding Tips](coding-tips/tips.md) | 491 |
 | [Language Notes](languages/notes.md) | 457 |
 
 ## Latest additions
 
+- **2026-11-27** · *Research Papers* — [Blame-aware Recomposition for Secure Compilation...](http://arxiv.org/abs/2610.26054v1)
 - **2026-11-27** · *Hacker News Picks* — [Jules Verne's Lost Novel](https://news.ycombinator.com/item?id=50309314)
 - **2026-11-27** · *Testing* — [Building a Database Performance Testing Tool With AI...](https://dev.to/m4rri4nne/building-a-database-performance-testing-tool-with-ai-the-honest-breakdown-3c0c)
 - **2026-11-27** · *AI & Machine Learning* — [clawwork-ai/ClawWork](https://github.com/clawwork-ai/ClawWork)
 - **2026-11-27** · *Research Papers* — [Univalent Non-Associative Categorical Structures](http://arxiv.org/abs/2611.00068v1)
-- **2026-11-27** · *Backend & Infrastructure* — [Flaminis/Dalaran](https://github.com/Flaminis/Dalaran)
 
 ## How it works
 

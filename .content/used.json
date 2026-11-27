@@ -86,6 +86,7 @@
     "http://arxiv.org/abs/2610.24548v1",
     "http://arxiv.org/abs/2610.24928v1",
     "http://arxiv.org/abs/2610.25638v1",
+    "http://arxiv.org/abs/2610.26054v1",
     "http://arxiv.org/abs/2610.26730v1",
     "http://arxiv.org/abs/2610.27012v1",
     "http://arxiv.org/abs/2610.27519v1",
@@ -3416,12 +3417,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Swift",
-      "title": "Harvard researchers find AI coding agents shifted the...",
-      "url": "https://news.ycombinator.com/item?id=50538303"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Research Papers",
       "title": "Proving LLM-Generated GPU Kernels Correct and Safe...",
       "url": "http://arxiv.org/abs/2610.24548v1"
@@ -3473,6 +3468,12 @@
       "subcat": "Hacker News Picks",
       "title": "Jules Verne's Lost Novel",
       "url": "https://news.ycombinator.com/item?id=50309314"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Research Papers",
+      "title": "Blame-aware Recomposition for Secure Compilation...",
+      "url": "http://arxiv.org/abs/2610.26054v1"
     }
   ]
 }
