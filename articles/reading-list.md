@@ -878,3 +878,14 @@ The week's best dev articles, organized by field.
 - **Tags:** ai, devops, github, programming
 - **Summary:** Passing raw git diffs to LLMs produces plausible but hallucinated changelogs. Here is why extracting the real "why" requires linked issues and counterfactual evals.
 - **Link:** https://dev.to/necoz/why-your-ai-release-notes-hallucinate-the-why-vs-what-problem-in-git-history-5ch0
+
+## Open Source
+
+**Added 2026-11-27**
+
+### [Local AI Code Review Before a PR: Tools That Catch Bugs Before You Push](https://dev.to/dev_kiran/local-ai-code-review-before-a-pr-tools-that-catch-bugs-before-you-push-b8e)
+- **Author:** Kiran Naragund | **Published:** Nov 22 | **Read time:** 10 min
+- **Community:** 52 reactions, 3 comments -- a top post in #opensource
+- **Tags:** ai, github, programming, opensource
+- **Summary:** Hello Devs 👋  Here's a situation many developers will recognize.  You've finished implementing a...
+- **Link:** https://dev.to/dev_kiran/local-ai-code-review-before-a-pr-tools-that-catch-bugs-before-you-push-b8e
