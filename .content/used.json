@@ -512,6 +512,7 @@
     "https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d",
     "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
     "https://dev.to/luisnadachi/o-que-sao-essas-letrinhas-acid-i4e",
+    "https://dev.to/m4rri4nne/building-a-database-performance-testing-tool-with-ai-the-honest-breakdown-3c0c",
     "https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk",
     "https://dev.to/m4rri4nne/rewriting-my-first-nunit-api-tests-cleaner-faster-better-24fa",
     "https://dev.to/maame-codes/devops-from-scratch-a-students-diary-entry-00-5b71",
@@ -3413,12 +3414,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "AI & Machine Learning",
-      "title": "mikehasa/golive-skill",
-      "url": "https://github.com/mikehasa/golive-skill"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Hacker News Picks",
       "title": "Kamil Khan Mumtaz: Pakistani architect, admired at...",
       "url": "https://news.ycombinator.com/item?id=50659841"
@@ -3470,6 +3465,12 @@
       "subcat": "AI & Machine Learning",
       "title": "clawwork-ai/ClawWork",
       "url": "https://github.com/clawwork-ai/ClawWork"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Testing",
+      "title": "Building a Database Performance Testing Tool With AI...",
+      "url": "https://dev.to/m4rri4nne/building-a-database-performance-testing-tool-with-ai-the-honest-breakdown-3c0c"
     }
   ]
 }
