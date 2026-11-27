@@ -35,6 +35,7 @@
     "http://arxiv.org/abs/2609.37626v1",
     "http://arxiv.org/abs/2609.38281v1",
     "http://arxiv.org/abs/2609.38722v1",
+    "http://arxiv.org/abs/2609.40046v1",
     "http://arxiv.org/abs/2610.00687v1",
     "http://arxiv.org/abs/2610.01282v1",
     "http://arxiv.org/abs/2610.02376v1",
@@ -3433,12 +3434,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Productivity",
-      "title": "I Made My RAG Safer. It Got Worse Under Load",
-      "url": "https://dev.to/ayush_singh321/i-made-my-rag-safer-it-got-worse-under-load-3olm"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Models & Datasets",
       "title": "harness-hub/automation-adapter-envs",
       "url": "https://huggingface.co/datasets/harness-hub/automation-adapter-envs"
@@ -3490,6 +3485,12 @@
       "subcat": "Models & Datasets",
       "title": "TenStrip/10Eros-Max",
       "url": "https://huggingface.co/TenStrip/10Eros-Max"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Research Papers",
+      "title": "Freely Generated Categorical Structures and Automatic...",
+      "url": "http://arxiv.org/abs/2609.40046v1"
     }
   ]
 }

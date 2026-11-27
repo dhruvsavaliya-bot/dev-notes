@@ -434,6 +434,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2610.26054v1
 
+**Added 2026-11-27**
+
+### [Freely Generated Categorical Structures and Automatic Differentiation, PhD Thesis (Introduction and Conclusion)](http://arxiv.org/abs/2609.40046v1)
+- **Authors:** Fernando Lucatelli Nunes
+- **Published:** 2026-09-30 | **Primary category:** cs.PL
+- **Categories:** cs.PL, cs.LO, math.CT
+- **Abstract:** This version contains the introduction and conclusion of my PhD thesis, "Freely Generated Categorical Structures and Automatic Differentiation", together with its English and Dutch summaries. The full thesis consists of an introductory chapter, six joint research papers, and a concluding chapter, developed during my PhD studies at Utrecht University under the supervision of Gabriele Keller and Matthijs Vákár. The research papers are available separately and are not reproduced here. The introduct...
+- **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2609.40046v1
+
 
 ## Models & Datasets
 
