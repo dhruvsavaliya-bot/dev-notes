@@ -1363,6 +1363,7 @@
     "https://github.com/software-mansion-labs/goldie",
     "https://github.com/srizzon/git-city",
     "https://github.com/stablyai/orca",
+    "https://github.com/storytold/craft-anything",
     "https://github.com/storytold/deckcraft",
     "https://github.com/storytold/designcraft",
     "https://github.com/storytold/effectcraft",
@@ -3446,12 +3447,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Models & Datasets",
-      "title": "TenStrip/10Eros-Max",
-      "url": "https://huggingface.co/TenStrip/10Eros-Max"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Research Papers",
       "title": "Freely Generated Categorical Structures and Automatic...",
       "url": "http://arxiv.org/abs/2609.40046v1"
@@ -3503,6 +3498,12 @@
       "subcat": "Hacker News Picks",
       "title": "The group chat where your AI talks behind your back",
       "url": "https://news.ycombinator.com/item?id=50663595"
+    },
+    {
+      "date": "2026-11-28",
+      "subcat": "Other Cool Projects",
+      "title": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything"
     }
   ]
 }

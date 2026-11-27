@@ -677,6 +677,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~51 stars/day since launch.
 - **Link:** https://github.com/LoreanXavier/pt-pc
 
+**Added 2026-11-28**
+
+### [storytold/craft-anything](https://github.com/storytold/craft-anything)
+- **Stats:** 44,594 stars | 8,816 forks | 478 open issues
+- **Language:** Rust | **Created:** 2026-10-31 | **License:** Apache-2.0
+- **Topics:** none listed
+- **What it is:** Craft Anything: understand how any software works, and craft your own.
+- **Growth:** averaging ~1,592 stars/day since launch.
+- **Link:** https://github.com/storytold/craft-anything
+
 
 ## Web & Frontend
 
