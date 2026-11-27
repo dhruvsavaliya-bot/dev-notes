@@ -471,6 +471,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50658193
 - **Link:** https://bui.preetham.top/charts/
 
+**Added 2026-11-27**
+
+### [Buy Nothing Day – Friday November 27th 2026](https://www.buynothingday.co.uk/)
+- **Source:** www.buynothingday.co.uk | **Posted:** 2026-11-27 | **By:** f_allwein
+- **Community:** 207 points, 49 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50663261
+- **Link:** https://www.buynothingday.co.uk/
+
 
 ## Lobsters Picks
 

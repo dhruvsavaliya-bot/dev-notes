@@ -3003,6 +3003,7 @@
     "https://news.ycombinator.com/item?id=50656763",
     "https://news.ycombinator.com/item?id=50658193",
     "https://news.ycombinator.com/item?id=50659841",
+    "https://news.ycombinator.com/item?id=50663261",
     "https://news.ycombinator.com/item?id=5673032",
     "https://news.ycombinator.com/item?id=6214553",
     "https://news.ycombinator.com/item?id=6821576",
@@ -3265,6 +3266,7 @@
     "https://www.brangus.io/survival-llm",
     "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
     "https://www.buildcores.com",
+    "https://www.buynothingday.co.uk/",
     "https://www.calabro.io/ohbf",
     "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
     "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
@@ -3440,12 +3442,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Testing",
-      "title": "API vs Event Streaming: O Que Muda Para Quem Testa?",
-      "url": "https://dev.to/he4rt/api-vs-event-streaming-o-que-muda-para-quem-testa-1f1h"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "C++",
       "title": "In C++, = default and {} are not the same constructor",
       "url": "https://news.ycombinator.com/item?id=50643199"
@@ -3497,6 +3493,12 @@
       "subcat": "Web & Frontend",
       "title": "justrach/nanoui",
       "url": "https://github.com/justrach/nanoui"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Hacker News Picks",
+      "title": "Buy Nothing Day  Friday November 27th 2026",
+      "url": "https://news.ycombinator.com/item?id=50663261"
     }
   ]
 }
