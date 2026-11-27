@@ -761,6 +761,15 @@ Github repo: https://github.com/lsernau/grh-lean
 - **Discussion:** https://news.ycombinator.com/item?id=50657957
 - **Link:** https://news.ycombinator.com/item?id=50657957
 
+**Added 2026-11-28**
+
+### [Show HN: Tinnitus frequency finder and audio notch tool](https://trynotched.com/find)
+- **Source:** trynotched.com | **Posted:** 2026-11-18 | **By:** brianrhea
+- **Community:** 236 points, 144 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50541568
+- **Link:** https://trynotched.com/find
+
 
 ## Productivity
 

@@ -2976,6 +2976,7 @@
     "https://news.ycombinator.com/item?id=50532515",
     "https://news.ycombinator.com/item?id=50536565",
     "https://news.ycombinator.com/item?id=50538303",
+    "https://news.ycombinator.com/item?id=50541568",
     "https://news.ycombinator.com/item?id=50544821",
     "https://news.ycombinator.com/item?id=50547583",
     "https://news.ycombinator.com/item?id=50547980",
@@ -3212,6 +3213,7 @@
     "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
     "https://transactional.blog/talk/please-implement-a-quorum-database",
     "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
+    "https://trynotched.com/find",
     "https://tucker.wales/writing/bias-towards-action/",
     "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/",
     "https://twitchinstalls.com",
@@ -3450,12 +3452,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Java",
-      "title": "Java4Shell is a reason to use Java",
-      "url": "https://lobste.rs/s/a1uff5/java4shell_is_reason_use_java"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Models & Datasets",
       "title": "meituan-longcat/LongCat-Video-Avatar-1.6",
       "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6"
@@ -3507,6 +3503,12 @@
       "subcat": "Lobsters Picks",
       "title": "How WinHelp files work",
       "url": "https://lobste.rs/s/w4kxiz/how_winhelp_files_work"
+    },
+    {
+      "date": "2026-11-28",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+      "url": "https://news.ycombinator.com/item?id=50541568"
     }
   ]
 }
