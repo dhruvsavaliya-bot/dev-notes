@@ -794,6 +794,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/harness-hub/automation-adapter-envs
 
+**Added 2026-11-27**
+
+### [peasantsmith/GLM-5.3-Flash-Maya-GGUF](https://huggingface.co/peasantsmith/GLM-5.3-Flash-Maya-GGUF)
+- **Stats:** 135 likes | 1,979,344 downloads
+- **Kind:** Hugging Face model | **Task:** text-generation | **Created:** 2026-10-07
+- **Tags:** gguf, imatrix, mixture-of-experts, glm, project-maya, vision
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/peasantsmith/GLM-5.3-Flash-Maya-GGUF
+
 
 ## LLMs
 

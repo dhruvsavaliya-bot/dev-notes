@@ -1739,6 +1739,7 @@
     "https://huggingface.co/ornith-ai/Ornith-1.0-35B",
     "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-NVFP4",
     "https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF",
+    "https://huggingface.co/peasantsmith/GLM-5.3-Flash-Maya-GGUF",
     "https://huggingface.co/poolside/Laguna-S-2.1",
     "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit",
     "https://huggingface.co/prompthero/openjourney",
@@ -3429,12 +3430,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Testing",
-      "title": "API vs Event Streaming: O Que Muda Para Quem Testa?",
-      "url": "https://dev.to/he4rt/api-vs-event-streaming-o-que-muda-para-quem-testa-1f1h"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Hacker News Picks",
       "title": "We're training a Figma-fluent editing model",
       "url": "https://news.ycombinator.com/item?id=50322603"
@@ -3486,6 +3481,12 @@
       "subcat": "Kotlin",
       "title": "Akshayykadam/PixelBoard",
       "url": "https://github.com/Akshayykadam/PixelBoard"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Models & Datasets",
+      "title": "peasantsmith/GLM-5.3-Flash-Maya-GGUF",
+      "url": "https://huggingface.co/peasantsmith/GLM-5.3-Flash-Maya-GGUF"
     }
   ]
 }
