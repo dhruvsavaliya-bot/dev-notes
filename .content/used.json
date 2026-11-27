@@ -1639,6 +1639,7 @@
     "https://huggingface.co/datasets/google/physical-engineerings-last-exam",
     "https://huggingface.co/datasets/greghavens/kimi-k3-coding-and-debugging-traces",
     "https://huggingface.co/datasets/harborframework/terminal-bench-2.0",
+    "https://huggingface.co/datasets/harness-hub/automation-adapter-envs",
     "https://huggingface.co/datasets/hongzhuyi/VDEBench",
     "https://huggingface.co/datasets/huggingface/badges",
     "https://huggingface.co/datasets/inclusionAI/ConceptEdit-12M",
@@ -3426,12 +3427,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Hacker News Picks",
-      "title": "Jules Verne's Lost Novel",
-      "url": "https://news.ycombinator.com/item?id=50309314"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Research Papers",
       "title": "Blame-aware Recomposition for Secure Compilation...",
       "url": "http://arxiv.org/abs/2610.26054v1"
@@ -3483,6 +3478,12 @@
       "subcat": "Productivity",
       "title": "I Made My RAG Safer. It Got Worse Under Load",
       "url": "https://dev.to/ayush_singh321/i-made-my-rag-safer-it-got-worse-under-load-3olm"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Models & Datasets",
+      "title": "harness-hub/automation-adapter-envs",
+      "url": "https://huggingface.co/datasets/harness-hub/automation-adapter-envs"
     }
   ]
 }

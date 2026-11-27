@@ -785,6 +785,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/Einsia/RoboUniverse-10K
 
+**Added 2026-11-27**
+
+### [harness-hub/automation-adapter-envs](https://huggingface.co/datasets/harness-hub/automation-adapter-envs)
+- **Stats:** 57 likes | 676 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-11-24
+- **Tags:** harbor, rl-environment, openenv, agents, knowledge-work, finance
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/harness-hub/automation-adapter-envs
+
 
 ## LLMs
 
