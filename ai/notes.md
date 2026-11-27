@@ -819,6 +819,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/TenStrip/10Eros-Max
 
+**Added 2026-11-27**
+
+### [meituan-longcat/LongCat-Video-Avatar-1.6](https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6)
+- **Stats:** 547 likes | 6,119 downloads
+- **Kind:** Hugging Face model | **Task:** n/a | **Created:** 2026-11-13
+- **Tags:** longcat-video-avatar-1.6, onnx, diffusers, safetensors, audio-text-to-video, audio-image-text-to-video
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6
+
 
 ## LLMs
 

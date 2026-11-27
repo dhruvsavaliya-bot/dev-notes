@@ -1715,6 +1715,7 @@
     "https://huggingface.co/lightx2v/Minimax-h3-Turbo",
     "https://huggingface.co/m-a-p/YuE2-3B",
     "https://huggingface.co/meituan-longcat/LongCat-2.5",
+    "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
     "https://huggingface.co/meta-llama/Llama-3.1-8B",
     "https://huggingface.co/meta-models/Muse-Glimmer-30B",
     "https://huggingface.co/microsoft/AesCode-8B",
@@ -3438,12 +3439,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Kotlin",
-      "title": "Akshayykadam/PixelBoard",
-      "url": "https://github.com/Akshayykadam/PixelBoard"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Models & Datasets",
       "title": "peasantsmith/GLM-5.3-Flash-Maya-GGUF",
       "url": "https://huggingface.co/peasantsmith/GLM-5.3-Flash-Maya-GGUF"
@@ -3495,6 +3490,12 @@
       "subcat": "Java",
       "title": "Java4Shell is a reason to use Java",
       "url": "https://lobste.rs/s/a1uff5/java4shell_is_reason_use_java"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Models & Datasets",
+      "title": "meituan-longcat/LongCat-Video-Avatar-1.6",
+      "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6"
     }
   ]
 }
