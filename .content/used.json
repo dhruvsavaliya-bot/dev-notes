@@ -1512,6 +1512,7 @@
     "https://huggingface.co/Alibaba-NLP/gte-large-en-v1.5",
     "https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap",
     "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
+    "https://huggingface.co/Cloudflare/clairic",
     "https://huggingface.co/Cloudflare/clef",
     "https://huggingface.co/Comfy-Org/Idol",
     "https://huggingface.co/Comfy-Org/MOSS-Image",
@@ -3443,12 +3444,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Hacker News Picks",
-      "title": "We're training a Figma-fluent editing model",
-      "url": "https://news.ycombinator.com/item?id=50322603"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Models & Datasets",
       "title": "greghavens/kimi-k3-coding-and-debugging-traces",
       "url": "https://huggingface.co/datasets/greghavens/kimi-k3-coding-and-debugging-traces"
@@ -3500,6 +3495,12 @@
       "subcat": "Show & Ask HN",
       "title": "Ask HN: How do you find meaning of life at 41?",
       "url": "https://news.ycombinator.com/item?id=50657957"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Models & Datasets",
+      "title": "Cloudflare/clairic",
+      "url": "https://huggingface.co/Cloudflare/clairic"
     }
   ]
 }

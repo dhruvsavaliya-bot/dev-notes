@@ -828,6 +828,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6
 
+**Added 2026-11-27**
+
+### [Cloudflare/clairic](https://huggingface.co/Cloudflare/clairic)
+- **Stats:** 374 likes | 1,354 downloads
+- **Kind:** Hugging Face model | **Task:** image-text-to-text | **Created:** 2026-10-16
+- **Tags:** transformers, safetensors, qwen3_5, image-text-to-text, clairic, cloudflare
+- **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/Cloudflare/clairic
+
 
 ## LLMs
 
