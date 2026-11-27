@@ -4,13 +4,13 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2439 entries and counting** · Last updated: 2026-11-28
+**2440 entries and counting** · Last updated: 2026-11-28
 
 ## Categories
 
 | Section | Entries |
 |---|---|
-| [Trending Projects](trending-projects/projects.md) | 494 |
+| [Trending Projects](trending-projects/projects.md) | 495 |
 | [AI / LLM Notes](ai/notes.md) | 493 |
 | [Reading List](articles/reading-list.md) | 496 |
 | [Coding Tips](coding-tips/tips.md) | 496 |
@@ -18,11 +18,11 @@ the Hugging Face Hub.
 
 ## Latest additions
 
+- **2026-11-28** · *Other Cool Projects* — [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage)
 - **2026-11-28** · *Other Cool Projects* — [storytold/craft-anything](https://github.com/storytold/craft-anything)
 - **2026-11-27** · *Hacker News Picks* — [The group chat where your AI talks behind your back](https://news.ycombinator.com/item?id=50663595)
 - **2026-11-27** · *Models & Datasets* — [Cloudflare/clairic](https://huggingface.co/Cloudflare/clairic)
 - **2026-11-27** · *Show & Ask HN* — [Ask HN: How do you find meaning of life at 41?](https://news.ycombinator.com/item?id=50657957)
-- **2026-11-27** · *Hacker News Picks* — [Buy Nothing Day  Friday November 27th 2026](https://news.ycombinator.com/item?id=50663261)
 
 ## How it works
 

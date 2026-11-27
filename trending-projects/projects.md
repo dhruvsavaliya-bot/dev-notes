@@ -687,6 +687,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~1,592 stars/day since launch.
 - **Link:** https://github.com/storytold/craft-anything
 
+**Added 2026-11-28**
+
+### [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage)
+- **Stats:** 9,035 stars | 1,038 forks | 158 open issues
+- **Language:** Go | **Created:** 2026-10-31 | **License:** MIT
+- **Topics:** none listed
+- **What it is:** Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。
+- **Growth:** averaging ~322 stars/day since launch.
+- **Link:** https://github.com/Lee-xeo/Claude-Cage
+
 
 ## Web & Frontend
 
