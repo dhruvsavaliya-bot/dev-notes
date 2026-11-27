@@ -876,6 +876,7 @@
     "https://github.com/QwenAudio/qwen-audio-agent",
     "https://github.com/QwenLM/Qwen-MM-Plugins",
     "https://github.com/RafliAbdulHaliim/sylenth-1-enhancement-suite",
+    "https://github.com/Renhuai123/ziwei-doushu",
     "https://github.com/ResistanceTo/MiniWatts",
     "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
     "https://github.com/Rizzo-AI-Academy/rizzo-flow",
@@ -3417,12 +3418,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Research Papers",
-      "title": "Proving LLM-Generated GPU Kernels Correct and Safe...",
-      "url": "http://arxiv.org/abs/2610.24548v1"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: Anthropic is accusing my company of...",
       "url": "https://news.ycombinator.com/item?id=50630809"
@@ -3474,6 +3469,12 @@
       "subcat": "Research Papers",
       "title": "Blame-aware Recomposition for Secure Compilation...",
       "url": "http://arxiv.org/abs/2610.26054v1"
+    },
+    {
+      "date": "2026-11-27",
+      "subcat": "Web & Frontend",
+      "title": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu"
     }
   ]
 }
