@@ -1308,6 +1308,7 @@
     "https://github.com/punkpeye/awesome-remote-mcp-servers",
     "https://github.com/qingchencloud/clawpanel",
     "https://github.com/qingjian-team/qingjian",
+    "https://github.com/qybaihe/bla",
     "https://github.com/rakanki911/DLSS5-Swapper",
     "https://github.com/ravindu644/Droidspaces-OSS",
     "https://github.com/rdborg/Mediarium",
@@ -3452,12 +3453,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Models & Datasets",
-      "title": "meituan-longcat/LongCat-Video-Avatar-1.6",
-      "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Web & Frontend",
       "title": "justrach/nanoui",
       "url": "https://github.com/justrach/nanoui"
@@ -3509,6 +3504,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Tinnitus frequency finder and audio notch tool",
       "url": "https://news.ycombinator.com/item?id=50541568"
+    },
+    {
+      "date": "2026-11-28",
+      "subcat": "AI & Machine Learning",
+      "title": "qybaihe/bla",
+      "url": "https://github.com/qybaihe/bla"
     }
   ]
 }

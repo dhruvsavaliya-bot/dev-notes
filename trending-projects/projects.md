@@ -434,6 +434,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~2 stars/day since launch.
 - **Link:** https://github.com/clawwork-ai/ClawWork
 
+**Added 2026-11-28**
+
+### [qybaihe/bla](https://github.com/qybaihe/bla)
+- **Stats:** 7,081 stars | 883 forks | 11 open issues
+- **Language:** TypeScript | **Created:** 2026-10-25 | **License:** MIT
+- **Topics:** adversarial-ai, ai-security, android-security, binary-protection, claude-code, codex
+- **What it is:** 🛡️ BLA (bla-agents / Blind LLM Agents) — Open-source Blue Defense MCP server & CLI protecting JS/TS, Electron ASAR, WASM, Python, Native Binaries, SQLite, GGUF/Safetensors & Android DEX against AI reverse-engineering agents (REA).
+- **Growth:** averaging ~208 stars/day since launch.
+- **Link:** https://github.com/qybaihe/bla
+
 
 ## Other Cool Projects
 
