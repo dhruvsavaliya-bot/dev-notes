@@ -717,6 +717,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~198 stars/day since launch.
 - **Link:** https://github.com/jhaizhou-ops/S2Arm
 
+**Added 2026-11-28**
+
+### [akitaonrails/ai-book-2026](https://github.com/akitaonrails/ai-book-2026)
+- **Stats:** 404 stars | 50 forks | 1 open issues
+- **Language:** Ruby | **Created:** 2026-10-13 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** e-book version of the akitaonrails.com blog.
+- **Growth:** averaging ~8 stars/day since launch.
+- **Link:** https://github.com/akitaonrails/ai-book-2026
+
 
 ## Web & Frontend
 

@@ -971,6 +971,7 @@
     "https://github.com/ai-sucks-butt/ai-sucks-butt",
     "https://github.com/aicodeking/leanrea",
     "https://github.com/air-embodied-brain/Zetta-Embodiment",
+    "https://github.com/akitaonrails/ai-book-2026",
     "https://github.com/akitaonrails/ai-memory",
     "https://github.com/alchaincyf/huashu-motion",
     "https://github.com/aleixrodriala/newtube",
@@ -3462,12 +3463,6 @@
   "recent": [
     {
       "date": "2026-11-28",
-      "subcat": "Lobsters Picks",
-      "title": "How WinHelp files work",
-      "url": "https://lobste.rs/s/w4kxiz/how_winhelp_files_work"
-    },
-    {
-      "date": "2026-11-28",
       "subcat": "Show & Ask HN",
       "title": "Show HN: Tinnitus frequency finder and audio notch tool",
       "url": "https://news.ycombinator.com/item?id=50541568"
@@ -3519,6 +3514,12 @@
       "subcat": "Models & Datasets",
       "title": "google/multimodal-knowledge-agent",
       "url": "https://huggingface.co/datasets/google/multimodal-knowledge-agent"
+    },
+    {
+      "date": "2026-11-28",
+      "subcat": "Other Cool Projects",
+      "title": "akitaonrails/ai-book-2026",
+      "url": "https://github.com/akitaonrails/ai-book-2026"
     }
   ]
 }
