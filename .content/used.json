@@ -1161,6 +1161,7 @@
     "https://github.com/jbranchaud/til",
     "https://github.com/jeffhajewski/latticedb",
     "https://github.com/jev-chat/jev-chat-jarvis",
+    "https://github.com/jhaizhou-ops/S2Arm",
     "https://github.com/jhaizhou-ops/d2r-mobile",
     "https://github.com/jiayx/d2r-mobile-build",
     "https://github.com/jiwoochris/artex-global",
@@ -3454,12 +3455,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Hacker News Picks",
-      "title": "Buy Nothing Day  Friday November 27th 2026",
-      "url": "https://news.ycombinator.com/item?id=50663261"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Show & Ask HN",
       "title": "Ask HN: How do you find meaning of life at 41?",
       "url": "https://news.ycombinator.com/item?id=50657957"
@@ -3511,6 +3506,12 @@
       "subcat": "Models & Datasets",
       "title": "daimonrobotics/Daimon-Infinity",
       "url": "https://huggingface.co/datasets/daimonrobotics/Daimon-Infinity"
+    },
+    {
+      "date": "2026-11-28",
+      "subcat": "Other Cool Projects",
+      "title": "jhaizhou-ops/S2Arm",
+      "url": "https://github.com/jhaizhou-ops/S2Arm"
     }
   ]
 }

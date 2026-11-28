@@ -707,6 +707,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~322 stars/day since launch.
 - **Link:** https://github.com/Lee-xeo/Claude-Cage
 
+**Added 2026-11-28**
+
+### [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm)
+- **Stats:** 3,979 stars | 669 forks | 802 open issues
+- **Language:** C# | **Created:** 2026-11-08 | **License:** Apache-2.0
+- **Topics:** apple-silicon, arm64, game-porting, ios, ipados, macos
+- **What it is:** Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。
+- **Growth:** averaging ~198 stars/day since launch.
+- **Link:** https://github.com/jhaizhou-ops/S2Arm
+
 
 ## Web & Frontend
 
