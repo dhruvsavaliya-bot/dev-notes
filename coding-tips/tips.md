@@ -770,6 +770,15 @@ Github repo: https://github.com/lsernau/grh-lean
 - **Discussion:** https://news.ycombinator.com/item?id=50541568
 - **Link:** https://trynotched.com/find
 
+**Added 2026-11-28**
+
+### [Show HN: Black Ops II statically recompiled to native ARM64 macOS](https://github.com/adrbn/bo2-mac)
+- **Source:** github.com | **Posted:** 2026-11-11 | **By:** adrbn
+- **Community:** 154 points, 68 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50449891
+- **Link:** https://github.com/adrbn/bo2-mac
+
 
 ## Productivity
 

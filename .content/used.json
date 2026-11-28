@@ -961,6 +961,7 @@
     "https://github.com/aden-hive/hive",
     "https://github.com/adityatandon15/Spring-Framework-Full-Course",
     "https://github.com/adonis-singh/re4",
+    "https://github.com/adrbn/bo2-mac",
     "https://github.com/agent-substrate/substrate",
     "https://github.com/agno-agi/agno",
     "https://github.com/agupta07505/SmartIsland",
@@ -2935,6 +2936,7 @@
     "https://news.ycombinator.com/item?id=50443812",
     "https://news.ycombinator.com/item?id=50446246",
     "https://news.ycombinator.com/item?id=50449748",
+    "https://news.ycombinator.com/item?id=50449891",
     "https://news.ycombinator.com/item?id=50450007",
     "https://news.ycombinator.com/item?id=50450488",
     "https://news.ycombinator.com/item?id=50454625",
@@ -3455,12 +3457,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Show & Ask HN",
-      "title": "Ask HN: How do you find meaning of life at 41?",
-      "url": "https://news.ycombinator.com/item?id=50657957"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Models & Datasets",
       "title": "Cloudflare/clairic",
       "url": "https://huggingface.co/Cloudflare/clairic"
@@ -3512,6 +3508,12 @@
       "subcat": "Other Cool Projects",
       "title": "jhaizhou-ops/S2Arm",
       "url": "https://github.com/jhaizhou-ops/S2Arm"
+    },
+    {
+      "date": "2026-11-28",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: Black Ops II statically recompiled to native...",
+      "url": "https://news.ycombinator.com/item?id=50449891"
     }
   ]
 }
