@@ -444,6 +444,16 @@ The best recent AI engineering content, organized by area.
 - **Why it's here:** fresh off arXiv cs.PL -- where the research behind next year's tooling shows up first.
 - **Link:** http://arxiv.org/abs/2609.40046v1
 
+**Added 2026-11-28**
+
+### [Training-Free Interventions for Hallucination in Large Language Models](http://arxiv.org/abs/2611.29909v1)
+- **Authors:** Can Huang
+- **Published:** 2026-11-23 | **Primary category:** cs.CL
+- **Categories:** cs.CL
+- **Abstract:** A frozen language model can give a wrong answer because a fact is unavailable, a reliable passage is ignored, or an unsupported claim survives generation. We review 116 works on inference-time hallucination intervention and its foundations. We trace the development from retrieval and controllable generation to methods that act on input evidence, token scores, internal representations, completed claims, or the decision to answer. For each family we compare its source of evidence, model access, pr...
+- **Why it's here:** fresh off arXiv cs.CL -- where the research behind next year's tooling shows up first.
+- **Link:** http://arxiv.org/abs/2611.29909v1
+
 
 ## Models & Datasets
 

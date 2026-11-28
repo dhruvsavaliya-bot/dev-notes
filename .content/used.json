@@ -162,6 +162,7 @@
     "http://arxiv.org/abs/2611.27077v1",
     "http://arxiv.org/abs/2611.27567v1",
     "http://arxiv.org/abs/2611.29354v1",
+    "http://arxiv.org/abs/2611.29909v1",
     "http://arxiv.org/abs/2611.31682v1",
     "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "http://blog.nozomi.space/posts/sw2_dock/",
@@ -3457,12 +3458,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Models & Datasets",
-      "title": "Cloudflare/clairic",
-      "url": "https://huggingface.co/Cloudflare/clairic"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Hacker News Picks",
       "title": "The group chat where your AI talks behind your back",
       "url": "https://news.ycombinator.com/item?id=50663595"
@@ -3514,6 +3509,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: Black Ops II statically recompiled to native...",
       "url": "https://news.ycombinator.com/item?id=50449891"
+    },
+    {
+      "date": "2026-11-28",
+      "subcat": "Research Papers",
+      "title": "Training-Free Interventions for Hallucination in...",
+      "url": "http://arxiv.org/abs/2611.29909v1"
     }
   ]
 }
