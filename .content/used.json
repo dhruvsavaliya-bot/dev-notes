@@ -347,6 +347,7 @@
     "https://cheapfoodmap.com/",
     "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
     "https://chsxf.dev/2022/08/28/5-tup-why-i-quit-using-swiftui.html",
+    "https://chszlab.github.io/AgenticAlgorithmEngineering/",
     "https://chuck.is/paranoid/",
     "https://claude.com/blog/auto-mode-default-in-claude-code",
     "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
@@ -3007,6 +3008,7 @@
     "https://news.ycombinator.com/item?id=50600511",
     "https://news.ycombinator.com/item?id=50600771",
     "https://news.ycombinator.com/item?id=50604355",
+    "https://news.ycombinator.com/item?id=50611593",
     "https://news.ycombinator.com/item?id=50626413",
     "https://news.ycombinator.com/item?id=50630809",
     "https://news.ycombinator.com/item?id=50633159",
@@ -3465,12 +3467,6 @@
   "recent": [
     {
       "date": "2026-11-28",
-      "subcat": "AI & Machine Learning",
-      "title": "qybaihe/bla",
-      "url": "https://github.com/qybaihe/bla"
-    },
-    {
-      "date": "2026-11-28",
       "subcat": "Models & Datasets",
       "title": "daimonrobotics/Daimon-Infinity",
       "url": "https://huggingface.co/datasets/daimonrobotics/Daimon-Infinity"
@@ -3522,6 +3518,12 @@
       "subcat": "Lobsters Picks",
       "title": "The State of Allocators in 2026 - Finally Stabilised",
       "url": "https://lobste.rs/s/u746hs/state_allocators_2026_finally"
+    },
+    {
+      "date": "2026-11-28",
+      "subcat": "Show & Ask HN",
+      "title": "Show HN: An agent skill that optimizes code with...",
+      "url": "https://news.ycombinator.com/item?id=50611593"
     }
   ]
 }

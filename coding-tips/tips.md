@@ -788,6 +788,15 @@ Github repo: https://github.com/lsernau/grh-lean
 - **Discussion:** https://news.ycombinator.com/item?id=50655664
 - **Link:** https://news.ycombinator.com/item?id=50655664
 
+**Added 2026-11-28**
+
+### [Show HN: An agent skill that optimizes code with falsifiable hypotheses](https://chszlab.github.io/AgenticAlgorithmEngineering/)
+- **Source:** chszlab.github.io | **Posted:** 2026-11-23 | **By:** 0x23
+- **Community:** 136 points, 13 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50611593
+- **Link:** https://chszlab.github.io/AgenticAlgorithmEngineering/
+
 
 ## Productivity
 
