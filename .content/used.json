@@ -706,6 +706,7 @@
     "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
     "https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html",
     "https://gegell.github.io/posts/factorio-rng/",
+    "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
     "https://george.mand.is/2026/11/lets-meet-in-the-middle/",
     "https://ghostty.org/docs/install/release-notes/1-4-0",
     "https://gist.github.com/FlameyosSnowy/a49a35ba006238be55d8c3e410c31061",
@@ -3007,6 +3008,7 @@
     "https://news.ycombinator.com/item?id=50633159",
     "https://news.ycombinator.com/item?id=50634658",
     "https://news.ycombinator.com/item?id=50643129",
+    "https://news.ycombinator.com/item?id=50643158",
     "https://news.ycombinator.com/item?id=50643199",
     "https://news.ycombinator.com/item?id=50644980",
     "https://news.ycombinator.com/item?id=50647181",
@@ -3457,12 +3459,6 @@
   ],
   "recent": [
     {
-      "date": "2026-11-27",
-      "subcat": "Hacker News Picks",
-      "title": "The group chat where your AI talks behind your back",
-      "url": "https://news.ycombinator.com/item?id=50663595"
-    },
-    {
       "date": "2026-11-28",
       "subcat": "Other Cool Projects",
       "title": "storytold/craft-anything",
@@ -3515,6 +3511,12 @@
       "subcat": "Research Papers",
       "title": "Training-Free Interventions for Hallucination in...",
       "url": "http://arxiv.org/abs/2611.29909v1"
+    },
+    {
+      "date": "2026-11-28",
+      "subcat": "Hacker News Picks",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://news.ycombinator.com/item?id=50643158"
     }
   ]
 }

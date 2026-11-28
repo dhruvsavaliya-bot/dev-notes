@@ -489,6 +489,15 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://news.ycombinator.com/item?id=50663595
 - **Link:** https://construct22.com/
 
+**Added 2026-11-28**
+
+### [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)
+- **Source:** generativehistory.substack.com | **Posted:** 2026-11-25 | **By:** dr_red_dog
+- **Community:** 372 points, 234 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50643158
+- **Link:** https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical
+
 
 ## Lobsters Picks
 
