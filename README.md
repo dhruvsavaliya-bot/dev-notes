@@ -4,7 +4,7 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2448 entries and counting** · Last updated: 2026-11-28
+**2449 entries and counting** · Last updated: 2026-11-28
 
 ## Categories
 
@@ -13,16 +13,16 @@ the Hugging Face Hub.
 | [Trending Projects](trending-projects/projects.md) | 497 |
 | [AI / LLM Notes](ai/notes.md) | 495 |
 | [Reading List](articles/reading-list.md) | 498 |
-| [Coding Tips](coding-tips/tips.md) | 498 |
+| [Coding Tips](coding-tips/tips.md) | 499 |
 | [Language Notes](languages/notes.md) | 460 |
 
 ## Latest additions
 
+- **2026-11-28** · *Show & Ask HN* — [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664)
 - **2026-11-28** · *Hacker News Picks* — [GPT 6.2 Astra Solves a Historical Mystery](https://news.ycombinator.com/item?id=50643158)
 - **2026-11-28** · *Research Papers* — [Training-Free Interventions for Hallucination in...](http://arxiv.org/abs/2611.29909v1)
 - **2026-11-28** · *Show & Ask HN* — [Show HN: Black Ops II statically recompiled to native...](https://news.ycombinator.com/item?id=50449891)
 - **2026-11-28** · *Other Cool Projects* — [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm)
-- **2026-11-28** · *Models & Datasets* — [daimonrobotics/Daimon-Infinity](https://huggingface.co/datasets/daimonrobotics/Daimon-Infinity)
 
 ## How it works
 

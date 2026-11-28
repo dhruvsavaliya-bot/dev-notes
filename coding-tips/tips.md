@@ -779,6 +779,15 @@ Github repo: https://github.com/lsernau/grh-lean
 - **Discussion:** https://news.ycombinator.com/item?id=50449891
 - **Link:** https://github.com/adrbn/bo2-mac
 
+**Added 2026-11-28**
+
+### [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664)
+- **Source:** news.ycombinator.com | **Posted:** 2026-11-26 | **By:** ericmay
+- **Community:** 720 points, 157 comments on Hacker News
+- **Why it's here:** it cleared the Hacker News points bar, the most competitive dev content filter on the internet.
+- **Discussion:** https://news.ycombinator.com/item?id=50655664
+- **Link:** https://news.ycombinator.com/item?id=50655664
+
 
 ## Productivity
 
