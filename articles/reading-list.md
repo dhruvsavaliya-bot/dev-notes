@@ -871,6 +871,16 @@ The week's best dev articles, organized by field.
 - **Discussion:** https://lobste.rs/s/w4kxiz/how_winhelp_files_work
 - **Link:** https://quin.fyi/posts/how-winhelp-files-work.html
 
+**Added 2026-11-28**
+
+### [The State of Allocators in 2026 - Finally Stabilised](https://cetra3.github.io/blog/state-of-allocators-2026-finally-stabilised/)
+- **Source:** cetra3.github.io | **Posted:** 2026-11-27 | **By:** fanf
+- **Community:** 49 score, 0 comments on Lobsters
+- **Tags:** rust
+- **Summary:** No summary provided.
+- **Discussion:** https://lobste.rs/s/u746hs/state_allocators_2026_finally
+- **Link:** https://cetra3.github.io/blog/state-of-allocators-2026-finally-stabilised/
+
 
 ## Security
 

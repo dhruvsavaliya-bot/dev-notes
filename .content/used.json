@@ -340,6 +340,7 @@
     "https://cartographers-nk.wonyoung.so/",
     "https://catcopter.com",
     "https://celphase.github.io/duck-pond/",
+    "https://cetra3.github.io/blog/state-of-allocators-2026-finally-stabilised/",
     "https://chalmovsky.com/posts/wtf-ubuntu",
     "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
     "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
@@ -2139,6 +2140,7 @@
     "https://lobste.rs/s/txkq8s/horrible_public_key_tricks",
     "https://lobste.rs/s/u26wki/september_servo_progress_rounded",
     "https://lobste.rs/s/u4vlin/french_supermarket_chains_say",
+    "https://lobste.rs/s/u746hs/state_allocators_2026_finally",
     "https://lobste.rs/s/u7dr96/soft_deprecating_re_match",
     "https://lobste.rs/s/u9ue6c/what_s_wrong_with_github",
     "https://lobste.rs/s/ubbxhd/secret_monkey_island_all_13_versions_side",
@@ -3463,12 +3465,6 @@
   "recent": [
     {
       "date": "2026-11-28",
-      "subcat": "Show & Ask HN",
-      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
-      "url": "https://news.ycombinator.com/item?id=50541568"
-    },
-    {
-      "date": "2026-11-28",
       "subcat": "AI & Machine Learning",
       "title": "qybaihe/bla",
       "url": "https://github.com/qybaihe/bla"
@@ -3520,6 +3516,12 @@
       "subcat": "Other Cool Projects",
       "title": "akitaonrails/ai-book-2026",
       "url": "https://github.com/akitaonrails/ai-book-2026"
+    },
+    {
+      "date": "2026-11-28",
+      "subcat": "Lobsters Picks",
+      "title": "The State of Allocators in 2026 - Finally Stabilised",
+      "url": "https://lobste.rs/s/u746hs/state_allocators_2026_finally"
     }
   ]
 }
