@@ -727,6 +727,16 @@ Fast-growing open-source repos, organized by domain.
 - **Growth:** averaging ~8 stars/day since launch.
 - **Link:** https://github.com/akitaonrails/ai-book-2026
 
+**Added 2026-11-28**
+
+### [Gambekears/tableauERP](https://github.com/Gambekears/tableauERP)
+- **Stats:** 331 stars | 68 forks | 0 open issues
+- **Language:** Ruby | **Created:** 2026-06-24 | **License:** NOASSERTION
+- **Topics:** none listed
+- **What it is:** These belong to Dataself.com but are shown as my portfolio work. Please contact Dataself.com for more reports. These belong with a corresponding data warehouse. It will show suggested KPIs and form…
+- **Growth:** averaging ~2 stars/day since launch.
+- **Link:** https://github.com/Gambekears/tableauERP
+
 
 ## Web & Frontend
 

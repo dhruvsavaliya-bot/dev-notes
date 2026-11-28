@@ -785,6 +785,7 @@
     "https://github.com/FrigadeHQ/yogurt",
     "https://github.com/GLinnik21/plx-native",
     "https://github.com/GMGNAI/gmgn-skills",
+    "https://github.com/Gambekears/tableauERP",
     "https://github.com/Gathin23/cleanyourtv",
     "https://github.com/GoogleChrome/modern-web-guidance",
     "https://github.com/GordenSun/GordenPPTSkill",
@@ -3467,12 +3468,6 @@
   "recent": [
     {
       "date": "2026-11-28",
-      "subcat": "Models & Datasets",
-      "title": "daimonrobotics/Daimon-Infinity",
-      "url": "https://huggingface.co/datasets/daimonrobotics/Daimon-Infinity"
-    },
-    {
-      "date": "2026-11-28",
       "subcat": "Other Cool Projects",
       "title": "jhaizhou-ops/S2Arm",
       "url": "https://github.com/jhaizhou-ops/S2Arm"
@@ -3524,6 +3519,12 @@
       "subcat": "Show & Ask HN",
       "title": "Show HN: An agent skill that optimizes code with...",
       "url": "https://news.ycombinator.com/item?id=50611593"
+    },
+    {
+      "date": "2026-11-28",
+      "subcat": "Other Cool Projects",
+      "title": "Gambekears/tableauERP",
+      "url": "https://github.com/Gambekears/tableauERP"
     }
   ]
 }
