@@ -856,6 +856,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/datasets/daimonrobotics/Daimon-Infinity
 
+**Added 2026-11-28**
+
+### [google/multimodal-knowledge-agent](https://huggingface.co/datasets/google/multimodal-knowledge-agent)
+- **Stats:** 200 likes | 10,489 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-11-09
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/google/multimodal-knowledge-agent
+
 
 ## LLMs
 

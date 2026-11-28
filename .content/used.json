@@ -1652,6 +1652,7 @@
     "https://huggingface.co/datasets/genrobot2025/Gen-HumanEgo",
     "https://huggingface.co/datasets/glaiveai/glaive-function-calling-v2",
     "https://huggingface.co/datasets/google-research-datasets/mbpp",
+    "https://huggingface.co/datasets/google/multimodal-knowledge-agent",
     "https://huggingface.co/datasets/google/physical-engineerings-last-exam",
     "https://huggingface.co/datasets/greghavens/kimi-k3-coding-and-debugging-traces",
     "https://huggingface.co/datasets/harborframework/terminal-bench-2.0",
@@ -3461,12 +3462,6 @@
   "recent": [
     {
       "date": "2026-11-28",
-      "subcat": "Other Cool Projects",
-      "title": "Lee-xeo/Claude-Cage",
-      "url": "https://github.com/Lee-xeo/Claude-Cage"
-    },
-    {
-      "date": "2026-11-28",
       "subcat": "Lobsters Picks",
       "title": "How WinHelp files work",
       "url": "https://lobste.rs/s/w4kxiz/how_winhelp_files_work"
@@ -3518,6 +3513,12 @@
       "subcat": "Show & Ask HN",
       "title": "Tell HN: Happy Thanksgiving",
       "url": "https://news.ycombinator.com/item?id=50655664"
+    },
+    {
+      "date": "2026-11-28",
+      "subcat": "Models & Datasets",
+      "title": "google/multimodal-knowledge-agent",
+      "url": "https://huggingface.co/datasets/google/multimodal-knowledge-agent"
     }
   ]
 }
