@@ -1635,6 +1635,7 @@
     "https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes",
     "https://huggingface.co/datasets/codepawl/abo-glb",
     "https://huggingface.co/datasets/codepawl/simready-glb",
+    "https://huggingface.co/datasets/daimonrobotics/Daimon-Infinity",
     "https://huggingface.co/datasets/datacurve/deep-swe",
     "https://huggingface.co/datasets/datasocial/tiktok-5.6B-videos",
     "https://huggingface.co/datasets/eidon-ai/tracker-pov",
@@ -3453,12 +3454,6 @@
   "recent": [
     {
       "date": "2026-11-27",
-      "subcat": "Web & Frontend",
-      "title": "justrach/nanoui",
-      "url": "https://github.com/justrach/nanoui"
-    },
-    {
-      "date": "2026-11-27",
       "subcat": "Hacker News Picks",
       "title": "Buy Nothing Day  Friday November 27th 2026",
       "url": "https://news.ycombinator.com/item?id=50663261"
@@ -3510,6 +3505,12 @@
       "subcat": "AI & Machine Learning",
       "title": "qybaihe/bla",
       "url": "https://github.com/qybaihe/bla"
+    },
+    {
+      "date": "2026-11-28",
+      "subcat": "Models & Datasets",
+      "title": "daimonrobotics/Daimon-Infinity",
+      "url": "https://huggingface.co/datasets/daimonrobotics/Daimon-Infinity"
     }
   ]
 }

@@ -837,6 +837,15 @@ The best recent AI engineering content, organized by area.
 - **What it is:** a model on the Hugging Face Hub with real community pull -- useful when you need something that already works.
 - **Link:** https://huggingface.co/Cloudflare/clairic
 
+**Added 2026-11-28**
+
+### [daimonrobotics/Daimon-Infinity](https://huggingface.co/datasets/daimonrobotics/Daimon-Infinity)
+- **Stats:** 116 likes | 115,720 downloads
+- **Kind:** Hugging Face dataset | **Task:** n/a | **Created:** 2026-10-09
+- **Tags:** none listed
+- **What it is:** a dataset on the Hugging Face Hub with real community pull -- useful when you need something that already works.
+- **Link:** https://huggingface.co/datasets/daimonrobotics/Daimon-Infinity
+
 
 ## LLMs
 

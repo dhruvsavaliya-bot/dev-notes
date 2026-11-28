@@ -4,25 +4,25 @@ Auto-curated developer knowledge base — fresh content lands **every hour,
 around the clock**, from GitHub, Hacker News, Lobsters, dev.to, arXiv and
 the Hugging Face Hub.
 
-**2443 entries and counting** · Last updated: 2026-11-28
+**2444 entries and counting** · Last updated: 2026-11-28
 
 ## Categories
 
 | Section | Entries |
 |---|---|
 | [Trending Projects](trending-projects/projects.md) | 496 |
-| [AI / LLM Notes](ai/notes.md) | 493 |
+| [AI / LLM Notes](ai/notes.md) | 494 |
 | [Reading List](articles/reading-list.md) | 497 |
 | [Coding Tips](coding-tips/tips.md) | 497 |
 | [Language Notes](languages/notes.md) | 460 |
 
 ## Latest additions
 
+- **2026-11-28** · *Models & Datasets* — [daimonrobotics/Daimon-Infinity](https://huggingface.co/datasets/daimonrobotics/Daimon-Infinity)
 - **2026-11-28** · *AI & Machine Learning* — [qybaihe/bla](https://github.com/qybaihe/bla)
 - **2026-11-28** · *Show & Ask HN* — [Show HN: Tinnitus frequency finder and audio notch tool](https://news.ycombinator.com/item?id=50541568)
 - **2026-11-28** · *Lobsters Picks* — [How WinHelp files work](https://lobste.rs/s/w4kxiz/how_winhelp_files_work)
 - **2026-11-28** · *Other Cool Projects* — [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage)
-- **2026-11-28** · *Other Cool Projects* — [storytold/craft-anything](https://github.com/storytold/craft-anything)
 
 ## How it works
 
